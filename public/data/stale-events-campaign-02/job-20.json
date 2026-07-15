@@ -1,0 +1,491 @@
+[
+  {
+    "id": "chalon-sur-saone",
+    "events": [
+      {
+        "title": {
+          "de": "Geführte Saône-Bootsfahrten 2026",
+          "hu": "Vezetett saône-i hajókirándulások 2026",
+          "ro": "Croaziere ghidate pe Saône 2026",
+          "en": "Guided Saône River Cruises 2026",
+          "fr": "Croisières guidées sur la Saône 2026"
+        },
+        "summary": {
+          "de": "Vom Port Villiers starten geführte Bootsfahrten, die Chalon-sur-Saône und seine Geschichte direkt vom Wasser aus vorstellen.",
+          "hu": "A Port Villiers kikötőből induló vezetett hajóutak a vízről mutatják be Chalon-sur-Saône történetét és városképét.",
+          "ro": "Croazierele cu ghid pleacă din Port Villiers și prezintă orașul Chalon-sur-Saône și istoria sa de pe apă.",
+          "en": "These guided cruises leave from Port Villiers and introduce Chalon-sur-Saône and its history from the river.",
+          "fr": "Ces croisières guidées au départ du port Villiers permettent de découvrir Chalon-sur-Saône et son histoire depuis la Saône."
+        },
+        "date": "2026-07-18",
+        "end_date": "2026-09-12",
+        "source_url": "https://www.achalon.com/homepage-tourisme/agenda/billetterie/",
+        "period": {
+          "recurrent": true
+        }
+      },
+      {
+        "title": {
+          "de": "C'est chouette ! [6-8 Jahre]",
+          "hu": "Milyen klassz! [6-8 évesek]",
+          "ro": "Ce bufniță grozavă! [6-8 ani]",
+          "en": "It's a Hoot! [Ages 6-8]",
+          "fr": "C'est chouette ! [6-8 ans]"
+        },
+        "summary": {
+          "de": "Im Musée Vivant Denon entdecken Kinder die Ausstellung „L'oiseau aux yeux d'or“ und basteln anschließend ihre eigene Eulenmaske.",
+          "hu": "A Musée Vivant Denon múzeumban a gyerekek megismerik a „L'oiseau aux yeux d'or” kiállítást, majd saját bagolymaszkot készítenek.",
+          "ro": "La Musée Vivant Denon, copiii descoperă expoziția „L'oiseau aux yeux d'or” și își creează apoi propria mască de pasăre nocturnă.",
+          "en": "At the Musée Vivant Denon, children explore the exhibition \"L'oiseau aux yeux d'or\" and then make their own nocturnal bird mask.",
+          "fr": "Au Musée Vivant Denon, les enfants découvrent l'exposition « L'oiseau aux yeux d'or » avant de créer leur propre masque de rapace nocturne."
+        },
+        "date": "2026-07-27",
+        "end_date": "2026-08-24",
+        "source_url": "https://www.achalon.com/offres/cest-chouette-6-8-ans-chalon-sur-saone-fr-6666406/",
+        "period": {
+          "recurrent": true
+        }
+      },
+      {
+        "title": {
+          "de": "Sommersaison im Kreuzgang Saint-Vincent 2026",
+          "hu": "Saint-Vincent kerengő zenei évada 2026",
+          "ro": "Sezonul muzical al Cloître Saint-Vincent 2026",
+          "en": "Cloître Saint-Vincent Music Season 2026",
+          "fr": "Saison musicale du Cloître Saint Vincent 2026"
+        },
+        "summary": {
+          "de": "Die Stadt Chalon organisiert sommerliche Konzerte im Kreuzgang Saint-Vincent; nach dem Juli-Termin folgen bestätigte August-Abende.",
+          "hu": "Chalon városa nyári koncertsorozatot rendez a Saint-Vincent kerengőben, a júliusi est után további megerősített augusztusi koncertekkel.",
+          "ro": "Orașul Chalon programează concerte estivale în Cloître Saint-Vincent, cu noi seri confirmate în august după reprezentația din iulie.",
+          "en": "The city stages a summer concert series in the Cloître Saint-Vincent, with confirmed August performances following the July date.",
+          "fr": "La Ville de Chalon propose une série de concerts d'été au cloître Saint-Vincent, avec plusieurs soirées confirmées en août."
+        },
+        "date": "2026-08-07",
+        "end_date": "2026-08-28",
+        "source_url": "https://www.achalon.com/offres/saison-musicale-du-cloitre-saint-vincent-2026-chalon-sur-saone-fr-6562237/",
+        "period": {
+          "recurrent": true
+        }
+      },
+      {
+        "title": {
+          "de": "L'Été des Oiseaux",
+          "hu": "A madarak nyara",
+          "ro": "Vara păsărilor",
+          "en": "Summer of Birds",
+          "fr": "L'Été des Oiseaux"
+        },
+        "summary": {
+          "de": "Der Jachthafen von Chalon-sur-Saône lädt zu einem kostenlosen Tag rund um die lokale Vogelwelt mit familienfreundlichen Entdeckungsangeboten ein.",
+          "hu": "A chalon-sur-saône-i kikötő ingyenes napot rendez a helyi madárvilág felfedezésére, családbarát programokkal.",
+          "ro": "Portul de agrement din Chalon-sur-Saône găzduiește o zi gratuită dedicată descoperirii avifaunei locale, cu activități pentru familii.",
+          "en": "Chalon-sur-Saône's marina hosts a free day dedicated to local birdlife, with visitor-friendly discovery activities.",
+          "fr": "Le port de plaisance de Chalon-sur-Saône accueille une journée gratuite consacrée à la découverte de l'avifaune locale."
+        },
+        "date": "2026-08-19",
+        "source_url": "https://www.achalon.com/homepage-plaisance/"
+      }
+    ]
+  },
+  {
+    "id": "denmark-valby-garden-cities-v2",
+    "events": [
+      {
+        "title": {
+          "de": "Marina Abramović: Seven Deaths",
+          "hu": "Marina Abramović: Seven Deaths",
+          "ro": "Marina Abramović: Seven Deaths",
+          "en": "Marina Abramović: Seven Deaths"
+        },
+        "summary": {
+          "de": "In Cisternerne in Søndermarken läuft Marina Abramovićs filmische Operninstallation mit sieben ikonischen Frauenrollen der Operngeschichte.",
+          "hu": "A Søndermarken parkban található Cisternerne helyszínén Marina Abramović filmoperája hét ikonikus operai nőalak történetét dolgozza fel.",
+          "ro": "La Cisternerne, în Søndermarken, instalația cinematografică a Marinei Abramović explorează șapte roluri feminine emblematice din istoria operei.",
+          "en": "At Cisternerne in Søndermarken, Marina Abramović's cinematic opera installation stages seven iconic female roles from opera history."
+        },
+        "date": "2026-03-14",
+        "end_date": "2026-11-30",
+        "source_url": "https://frederiksbergmuseerne.dk/en/udstillinger/marina-abramovic/",
+        "period": {
+          "recurrent": true
+        }
+      },
+      {
+        "title": {
+          "de": "Offene Einführung zu „Seven Deaths“",
+          "hu": "Nyílt bevezető a „Seven Deaths” kiállításhoz",
+          "ro": "Introducere deschisă la „Seven Deaths”",
+          "en": "Open Introduction to \"Seven Deaths\""
+        },
+        "summary": {
+          "de": "Diese kurze Einführung im Cisternerne hilft Besuchern beim Einstieg in die aktuelle Ausstellung von Marina Abramović.",
+          "hu": "Ez a rövid ismertető a Cisternerne-ben segít eligazodni Marina Abramović aktuális kiállításában.",
+          "ro": "Această prezentare scurtă de la Cisternerne îi ajută pe vizitatori să înțeleagă mai bine expoziția curentă a Marinei Abramović.",
+          "en": "This short introduction at Cisternerne helps visitors understand Marina Abramović's current exhibition."
+        },
+        "date": "2026-08-12",
+        "end_date": "2026-11-11",
+        "source_url": "https://frederiksbergmuseerne.dk/en/arrangementer/open-introduction-to-seven-deaths-in-cisternerne/",
+        "period": {
+          "recurrent": true
+        }
+      },
+      {
+        "title": {
+          "de": "Marcela Lucatelli: The Inhuman Human Voice",
+          "hu": "Marcela Lucatelli: The Inhuman Human Voice",
+          "ro": "Marcela Lucatelli: The Inhuman Human Voice",
+          "en": "Marcela Lucatelli: The Inhuman Human Voice"
+        },
+        "summary": {
+          "de": "Die Vokalperformerin Marcela Lucatelli verbindet in einer unterirdischen Opernperformance im Cisternerne Stimme und Technologie.",
+          "hu": "Marcela Lucatelli vokálművész föld alatti operaperformanszban kapcsolja össze az emberi hangot és a technológiát a Cisternerne-ben.",
+          "ro": "Vocalista și compozitoarea Marcela Lucatelli leagă vocea umană de tehnologie într-o performanță operatică în spațiul subteran Cisternerne.",
+          "en": "Vocal artist Marcela Lucatelli connects the human voice with technology in an underground operatic performance at Cisternerne."
+        },
+        "date": "2026-08-17",
+        "end_date": "2026-08-22",
+        "source_url": "https://frederiksbergmuseerne.dk/en/arrangementer/marcela-lucatelli-the-inhuman-human-voice/",
+        "period": {
+          "recurrent": true
+        }
+      },
+      {
+        "title": {
+          "de": "Golden Days / Unterirdische Monsteroper",
+          "hu": "Golden Days / Föld alatti szörnyopera",
+          "ro": "Golden Days / Opera subterană a monștrilor",
+          "en": "Golden Days / Subterranean Monster Opera"
+        },
+        "summary": {
+          "de": "Sänger der Royal Danish Academy of Music und der Opera Academy bringen die großen Opernbösewichte in die dunklen Cisternerne.",
+          "hu": "A Királyi Dán Zeneakadémia és az Operaakadémia énekesei az operatörténet emlékezetes gonoszait idézik meg a Cisternerne sötét terében.",
+          "ro": "Cântăreți de la Academia Regală Daneză de Muzică și Opera Academy aduc la viață marii răufăcători ai operei în Cisternerne.",
+          "en": "Singers from the Royal Danish Academy of Music and the Opera Academy bring opera's great villains to life inside Cisternerne."
+        },
+        "date": "2026-09-07",
+        "end_date": "2026-09-08",
+        "source_url": "https://frederiksbergmuseerne.dk/en/arrangementer/golden-days-subterranean-monster-opera/",
+        "period": {
+          "recurrent": true
+        }
+      }
+    ]
+  },
+  {
+    "id": "ales",
+    "events": [
+      {
+        "title": {
+          "de": "JEP 2026: Stadtarchiv von Alès",
+          "hu": "Európai Örökségnapok 2026: Alès városi levéltára",
+          "ro": "JEP 2026: Arhivele municipale din Alès",
+          "en": "JEP 2026: Alès Municipal Archives",
+          "fr": "JEP 2026 : Visite guidée des Archives municipales d'Alès"
+        },
+        "summary": {
+          "de": "Die geführte Besichtigung stellt das schriftliche Erbe von Alès vom 13. bis zum 21. Jahrhundert sowie die Arbeit der Archivarinnen und Archivare vor.",
+          "hu": "A vezetett látogatás Alès írott örökségét mutatja be a 13. századtól napjainkig, valamint a levéltári munka kulisszáit.",
+          "ro": "Vizita ghidată prezintă patrimoniul scris al orașului Alès din secolul al XIII-lea până în secolul XXI și munca arhiviștilor.",
+          "en": "This guided visit introduces Alès' written heritage from the 13th to the 21st century and the work of municipal archivists.",
+          "fr": "Cette visite guidée fait découvrir le patrimoine écrit d'Alès du XIIIe au XXIe siècle ainsi que le métier d'archiviste."
+        },
+        "date": "2026-09-19",
+        "end_date": "2026-09-20",
+        "source_url": "https://www.cevennes-tourisme.fr/organiser-son-sejour/agenda/agenda-complet/jep-2026-visite-guidee-des-archives-municipales-dales-ales-fr-5737385/",
+        "period": {
+          "recurrent": true
+        }
+      },
+      {
+        "title": {
+          "de": "JEP 2026: Kathedrale Saint-Jean-Baptiste",
+          "hu": "Európai Örökségnapok 2026: Saint-Jean-Baptiste-székesegyház",
+          "ro": "JEP 2026: Catedrala Saint-Jean-Baptiste",
+          "en": "JEP 2026: Saint-Jean-Baptiste Cathedral",
+          "fr": "JEP 2026 : La Cathédrale Saint Jean Baptiste"
+        },
+        "summary": {
+          "de": "Die frisch renovierte Kathedrale öffnet zum Kulturerbe-Wochenende mit Besichtigungen, am Sonntag zusätzlich mit Führung und Orgelkonzert.",
+          "hu": "A frissen felújított székesegyház az örökségnapokon látogatható, vasárnap vezetett túrával és orgonakoncerttel is.",
+          "ro": "Catedrala recent renovată se deschide pentru weekendul patrimoniului, iar duminică include vizită ghidată și concert de orgă.",
+          "en": "The recently restored cathedral opens for the heritage weekend, with Sunday adding a guided visit and organ concert.",
+          "fr": "La cathédrale récemment rénovée ouvre ses portes pour les Journées du patrimoine, avec visite guidée et concert d'orgue le dimanche."
+        },
+        "date": "2026-09-19",
+        "end_date": "2026-09-20",
+        "source_url": "https://www.cevennes-tourisme.fr/organiser-son-sejour/agenda/agenda-complet/jep-2026-la-cathedrale-saint-jean-baptiste-ales-fr-5000991/",
+        "period": {
+          "recurrent": true
+        }
+      },
+      {
+        "title": {
+          "de": "JEP 2026: Sternwarte von Alès",
+          "hu": "Európai Örökségnapok 2026: Alès csillagvizsgálója",
+          "ro": "JEP 2026: Vizită la observatorul din Alès",
+          "en": "JEP 2026: Visit to the Alès Observatory",
+          "fr": "JEP 2026 : Visite de l'Observatoire"
+        },
+        "summary": {
+          "de": "Die kommunale Astronomieschule bietet am Erbe-Wochenende eine geführte Besichtigung ihrer Sternwarte an.",
+          "hu": "Az önkormányzati csillagászati iskola vezetett látogatást kínál az obszervatóriumban az örökségnap keretében.",
+          "ro": "Școala municipală de astronomie propune o vizită ghidată a observatorului în cadrul weekendului patrimoniului.",
+          "en": "The municipal astronomy school offers a guided visit to its observatory during the heritage weekend.",
+          "fr": "L'école municipale d'astronomie propose une visite guidée de l'observatoire dans le cadre des Journées du patrimoine."
+        },
+        "date": "2026-09-20",
+        "source_url": "https://www.cevennes-tourisme.fr/organiser-son-sejour/agenda/agenda-complet/jep-2026-visite-de-lobservatoire-ales-fr-6564321/"
+      },
+      {
+        "title": {
+          "de": "JEP 2026: Die Zechenanlage Mine Témoin",
+          "hu": "Európai Örökségnapok 2026: Mine Témoin bányamúzeum",
+          "ro": "JEP 2026: Mina-martor din Alès",
+          "en": "JEP 2026: Alès Mine Témoin",
+          "fr": "JEP 2026 : La Mine Témoin"
+        },
+        "summary": {
+          "de": "Die historische Besucherzeche empfängt Gäste zu einem Wochenende rund um das Bergbauerbe von Alès.",
+          "hu": "A történelmi bányalátogató helyszín egész hétvégén az alès-i bányászati örökséget mutatja be a látogatóknak.",
+          "ro": "Mina istorică pentru vizitatori primește publicul pentru un weekend dedicat patrimoniului minier din Alès.",
+          "en": "The historic mine museum welcomes visitors for a weekend focused on Alès' mining heritage.",
+          "fr": "La Mine Témoin accueille le public pour un week-end consacré au patrimoine minier alésien."
+        },
+        "date": "2026-09-19",
+        "end_date": "2026-09-20",
+        "source_url": "https://www.cevennes-tourisme.fr/organiser-son-sejour/agenda/agenda-complet/jep-2026-la-mine-temoin-ales-fr-6256428/",
+        "period": {
+          "recurrent": true
+        }
+      },
+      {
+        "title": {
+          "de": "Wohn- und Baumesse von Alès",
+          "hu": "Alès otthon- és lakáskiállítása",
+          "ro": "Salonul locuinței din Alès",
+          "en": "Alès Home Fair",
+          "fr": "Salon de l'habitat d'Alès"
+        },
+        "summary": {
+          "de": "Im Parc des Expositions von Alès präsentiert die Messe vier Tage lang Anbieter rund um Bauen, Renovieren und Wohnen.",
+          "hu": "Az alès-i vásárközpont négynapos rendezvényén építéshez, felújításhoz és otthoni megoldásokhoz kapcsolódó kiállítók vesznek részt.",
+          "ro": "La Parc des Expositions d'Alès, salonul reunește timp de patru zile expozanți din domeniul construcțiilor, renovării și locuirii.",
+          "en": "Held at the Parc des Expositions, this four-day fair brings together exhibitors focused on building, renovation and home living.",
+          "fr": "Au Parc des Expositions d'Alès, ce salon réunit pendant quatre jours des exposants dédiés à l'habitat, à la rénovation et à l'aménagement."
+        },
+        "date": "2026-09-25",
+        "end_date": "2026-09-28",
+        "source_url": "https://www.cevennes-tourisme.fr/organiser-son-sejour/agenda/agenda-complet/salon-de-lhabitat-dales-mejannes-les-ales-fr-6317915/",
+        "period": {
+          "recurrent": true
+        }
+      }
+    ]
+  },
+  {
+    "id": "sete",
+    "events": [
+      {
+        "title": {
+          "de": "Demi-Festival 2026",
+          "hu": "Demi-Festival 2026",
+          "ro": "Demi-Festival 2026",
+          "en": "Demi-Festival 2026",
+          "fr": "DEMI-FESTIVAL 2026 – 10ÈME ÉDITION"
+        },
+        "summary": {
+          "de": "Das Hip-Hop-Festival von Demi Portion kehrt für seine zehnte Ausgabe mit mehreren Tagen Konzerten und Stadtprogramm nach Sète zurück.",
+          "hu": "Demi Portion hiphopfesztiválja tizedik alkalommal tér vissza Sète-be többnapos koncertekkel és városi programokkal.",
+          "ro": "Festivalul hip-hop creat de Demi Portion revine la Sète pentru a zecea ediție, cu mai multe zile de concerte și program urban.",
+          "en": "Demi Portion's hip-hop festival returns to Sète for its tenth edition with several days of concerts and city-center programming.",
+          "fr": "Le festival hip-hop de Demi Portion revient à Sète pour sa dixième édition avec plusieurs jours de concerts et d'animations."
+        },
+        "date": "2026-08-05",
+        "end_date": "2026-08-09",
+        "source_url": "https://www.archipel-thau.com/mon-sejour/agenda/complet-demi-festival-2026-10eme-edition-a-sete-sete-fr-6278145/",
+        "period": {
+          "recurrent": true
+        }
+      },
+      {
+        "title": {
+          "de": "Festival La Route du Large 2026",
+          "hu": "La Route du Large fesztivál 2026",
+          "ro": "Festivalul La Route du Large 2026",
+          "en": "La Route du Large Festival 2026",
+          "fr": "FESTIVAL : LA ROUTE DU LARGE 2026"
+        },
+        "summary": {
+          "de": "Im Théâtre de la Mer verbindet diese Jubiläumsnacht von Cap au Large Konzerte mit maritimer Sommeratmosphäre.",
+          "hu": "A Théâtre de la Mer színpadán a Cap au Large jubileumi estje koncerteket és tengerparti nyári hangulatot kínál.",
+          "ro": "La Théâtre de la Mer, această seară aniversară Cap au Large combină concerte cu o atmosferă estivală marină.",
+          "en": "At the Théâtre de la Mer, this Cap au Large anniversary evening mixes live music with a seafront summer atmosphere.",
+          "fr": "Au Théâtre de la Mer, cette soirée anniversaire de Cap au Large mêle concerts et ambiance estivale en bord de mer."
+        },
+        "date": "2026-08-11",
+        "source_url": "https://www.archipel-thau.com/mon-sejour/agenda/festival-la-route-du-large-2026-sete-fr-6485089/"
+      },
+      {
+        "title": {
+          "de": "Das Kino des Meeres 2026",
+          "hu": "A tenger mozija 2026",
+          "ro": "Cinema de la Mer 2026",
+          "en": "Cinema by the Sea 2026",
+          "fr": "LE CINÉMA DE LA MER 2026"
+        },
+        "summary": {
+          "de": "Fünf Sommerabende im Théâtre de la Mer kombinieren Konzert, Kurzfilme und Hauptfilm mit Blick auf das Mittelmeer.",
+          "hu": "A Théâtre de la Mer öt nyári estéjén koncert, rövidfilmek és esti fővetítés várja a közönséget a Földközi-tenger fölött.",
+          "ro": "Cinci seri la Théâtre de la Mer combină concert, scurtmetraje și film principal cu vedere spre Mediterană.",
+          "en": "Five evenings at the Théâtre de la Mer combine a concert, short films and a feature screening overlooking the Mediterranean.",
+          "fr": "Cinq soirées au Théâtre de la Mer réunissent concert, courts métrages et grand film face à la Méditerranée."
+        },
+        "date": "2026-08-15",
+        "end_date": "2026-08-19",
+        "source_url": "https://www.archipel-thau.com/mon-sejour/agenda/le-cinema-de-la-mer-2026-sete-fr-6550510/",
+        "period": {
+          "recurrent": true
+        }
+      },
+      {
+        "title": {
+          "de": "Fêtes de la Saint-Louis 2026",
+          "hu": "Saint-Louis ünnepségek 2026",
+          "ro": "Fêtes de la Saint-Louis 2026",
+          "en": "Saint-Louis Festival 2026",
+          "fr": "FÊTES DE LA SAINT-LOUIS 2026"
+        },
+        "summary": {
+          "de": "Sètes wichtigstes Traditionsfest bringt Ende August Joutes nautiques, Festumzüge und ein umfangreiches Stadtprogramm zusammen.",
+          "hu": "Sète legnagyobb hagyományos ünnepe augusztus végén vízi lovagi tornákat, felvonulásokat és gazdag városi programot kínál.",
+          "ro": "Marea sărbătoare tradițională a orașului Sète aduce la final de august turnee de joute nautique, parade și un amplu program urban.",
+          "en": "Sète's flagship traditional festival fills late August with water jousting, parades and a wide-ranging city program.",
+          "fr": "La grande fête traditionnelle de Sète rythme la fin août avec joutes nautiques, défilés et nombreuses animations."
+        },
+        "date": "2026-08-19",
+        "end_date": "2026-08-25",
+        "source_url": "https://www.archipel-thau.com/mon-sejour/agenda/fetes-de-la-saint-louis-2026-sete-fr-6279418/",
+        "period": {
+          "recurrent": true
+        }
+      },
+      {
+        "title": {
+          "de": "Festival Rock #2: Là! Sétois!",
+          "hu": "Festival Rock #2: Là! Sétois!",
+          "ro": "Festival Rock #2: Là! Sétois!",
+          "en": "Rock Festival #2: Là! Sétois!",
+          "fr": "FESTIVAL ROCK #2 : LÀ ! SÉTOIS !"
+        },
+        "summary": {
+          "de": "Ein Rockabend in Sète mit Festivalformat und Abendprogramm im städtischen Kulturkalender.",
+          "hu": "Egy egész estés rockfesztivál Sète-ben, esti programmal a városi kulturális naptár részeként.",
+          "ro": "O seară de festival rock la Sète, inclusă în agenda culturală a orașului.",
+          "en": "A one-night rock festival event in Sète, listed as part of the city's cultural calendar.",
+          "fr": "Une soirée festival rock à Sète inscrite dans l'agenda culturel de la ville."
+        },
+        "date": "2026-09-11",
+        "source_url": "https://www.archipel-thau.com/mon-sejour/agenda/festival-rock-2-la-setois-sete-fr-6279344/"
+      }
+    ]
+  },
+  {
+    "id": "city-pascani-extra",
+    "events": [
+      {
+        "title": {
+          "de": "Ausstellungen in der Sala Arcadia",
+          "hu": "Kiállítások az Arcadia teremben",
+          "ro": "Expoziții găzduite în sala Arcadia",
+          "en": "Exhibitions at Sala Arcadia"
+        },
+        "summary": {
+          "de": "Das Kulturhaus plant für das gesamte Jahr 2026 Ausstellungen in der Sala Arcadia als öffentliches Kulturprogramm in Pașcani.",
+          "hu": "A művelődési ház 2026 egészére kiállítási programot tervezett az Arcadia teremben Pașcani közönsége számára.",
+          "ro": "Casa Municipală de Cultură programează pe tot parcursul anului 2026 expoziții în sala Arcadia, ca parte a ofertei culturale publice din Pașcani.",
+          "en": "The municipal culture house schedules exhibitions throughout 2026 in Sala Arcadia as part of Pașcani's public cultural program."
+        },
+        "date": "2026-01-01",
+        "end_date": "2026-12-31",
+        "source_url": "https://www.primariapascani.ro/dm_pascani/portal.nsf/42121A8EAD978894C2258DFF00388AB5/%24FILE/Pr.%20HCL%20nr.%207.pdf",
+        "period": {
+          "recurrent": true
+        }
+      },
+      {
+        "title": {
+          "de": "Festivalteilnahmen der Theater-, Tanz- und Blasorchestergruppen",
+          "hu": "A színházi, táncos és fúvós csoportok fesztiválszereplései",
+          "ro": "Participări la festivaluri ale trupelor de teatru, dans și fanfară",
+          "en": "Festival Appearances by Theater, Dance and Band Ensembles"
+        },
+        "summary": {
+          "de": "Das offizielle Kulturprogramm 2026 sieht ganzjährig Festivalteilnahmen der städtischen Theater-, Tanz- und Fanfarenformationen vor.",
+          "hu": "A hivatalos 2026-os kulturális program egész éves fesztiválszerepléseket ír elő a városi színházi, táncos és fúvós együttesek számára.",
+          "ro": "Programul cultural oficial pe 2026 include participări pe tot parcursul anului la festivaluri pentru trupele locale de teatru, dans și fanfară.",
+          "en": "The official 2026 cultural program includes year-round festival appearances for the local theater, dance and brass ensembles."
+        },
+        "date": "2026-01-01",
+        "end_date": "2026-12-31",
+        "source_url": "https://www.primariapascani.ro/dm_pascani/portal.nsf/42121A8EAD978894C2258DFF00388AB5/%24FILE/Pr.%20HCL%20nr.%207.pdf",
+        "period": {
+          "recurrent": true
+        }
+      },
+      {
+        "title": {
+          "de": "Kreativworkshops für Kinder in den Sommerferien",
+          "hu": "Nyári kreatív foglalkozások gyerekeknek",
+          "ro": "Ateliere recreative pentru copii în vacanța de vară",
+          "en": "Summer Creative Workshops for Children"
+        },
+        "summary": {
+          "de": "Für Juli und August plant das Kulturhaus Ferienworkshops rund um Zeichnen, Tanz, Musik und Theater für Kinder in Pașcani.",
+          "hu": "A művelődési ház júliusra és augusztusra rajz-, tánc-, zene- és színházi nyári foglalkozásokat tervez gyermekeknek Pașcani-ban.",
+          "ro": "Pentru lunile iulie și august, Casa de Cultură programează ateliere de desen, dans, muzică și teatru dedicate copiilor din Pașcani.",
+          "en": "For July and August, the culture house schedules school-holiday workshops in drawing, dance, music and theatre for children in Pașcani."
+        },
+        "date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "source_url": "https://www.primariapascani.ro/dm_pascani/portal.nsf/42121A8EAD978894C2258DFF00388AB5/%24FILE/Pr.%20HCL%20nr.%207.pdf",
+        "period": {
+          "recurrent": true
+        }
+      },
+      {
+        "title": {
+          "de": "Domnilor Profesori, cu dragoste",
+          "hu": "Domnilor Profesori, cu dragoste",
+          "ro": "Domnilor Profesori, cu dragoste",
+          "en": "To the Teachers, with Love"
+        },
+        "summary": {
+          "de": "Die für den Welttag der Bildung geplante Kulturveranstaltung ehrt pensionierte Lehrkräfte aus Pașcani mit Würdigung und Konzert.",
+          "hu": "A nevelés világnapjára tervezett kulturális esemény Pașcani nyugdíjas pedagógusait köszönti ünnepséggel és koncerttel.",
+          "ro": "Manifestarea culturală dedicată Zilei Mondiale a Educației îi omagiază pe profesorii pensionari din municipiul Pașcani și include un concert.",
+          "en": "This cultural event for World Teachers' Day honors retired teachers from Pașcani and includes a concert."
+        },
+        "date": "2026-10-05",
+        "source_url": "https://www.primariapascani.ro/dm_pascani/portal.nsf/42121A8EAD978894C2258DFF00388AB5/%24FILE/Pr.%20HCL%20nr.%207.pdf"
+      },
+      {
+        "title": {
+          "de": "Folkloreprogramm zum Nationalfeiertag Rumäniens",
+          "hu": "Román nemzeti ünnepi folklórműsor",
+          "ro": "Spectacol Ziua Națională a României",
+          "en": "Romania National Day Folklore Show"
+        },
+        "summary": {
+          "de": "Für den 1. Dezember sieht das städtische Kulturprogramm in Pașcani eine Folkloreaufführung zum rumänischen Nationalfeiertag vor.",
+          "hu": "A városi kulturális program december 1-jére folklórműsort irányoz elő a román nemzeti ünnep alkalmából Pașcani-ban.",
+          "ro": "Programul cultural al municipiului Pașcani prevede pentru 1 decembrie un spectacol folcloric dedicat Zilei Naționale a României.",
+          "en": "Pașcani's municipal cultural program schedules a folklore performance for Romania's National Day on 1 December."
+        },
+        "date": "2026-12-01",
+        "source_url": "https://www.primariapascani.ro/dm_pascani/portal.nsf/42121A8EAD978894C2258DFF00388AB5/%24FILE/Pr.%20HCL%20nr.%207.pdf"
+      }
+    ]
+  }
+]

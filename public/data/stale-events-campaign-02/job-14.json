@@ -1,0 +1,146 @@
+﻿[
+  {
+    "id": "san-remo",
+    "events": [
+      {
+        "date": "2026-08-03",
+        "title": {"de": "Lucilla im Teatro Ariston","hu": "Lucilla az Ariston Színházban","ro": "Lucilla la Teatro Ariston","en": "Lucilla at Teatro Ariston"},
+        "summary": {"de": "Die Kindershow der Fatina del Sole gastiert am 3. August um 21:00 Uhr im Teatro Ariston in Sanremo.","hu": "A Fatina del Sole gyerekelőadása augusztus 3-án 21:00-kor érkezik a sanremói Teatro Aristonba.","ro": "Spectacolul pentru copii al Fatinei del Sole are loc pe 3 august, de la ora 21:00, la Teatro Ariston din Sanremo.","en": "The Fatina del Sole family show comes to Teatro Ariston in Sanremo on August 3 at 21:00."},
+        "source_url": "https://aristonsanremo.com/news-ariston-sanremo/arriva-lucilla"
+      },
+      {
+        "date": "2026-08-07",
+        "title": {"de": "Francesco von Aldo Cazzullo und Angelo Branduardi","hu": "Francesco Aldo Cazzullo és Angelo Branduardi előadásában","ro": "Francesco cu Aldo Cazzullo și Angelo Branduardi","en": "Francesco with Aldo Cazzullo and Angelo Branduardi"},
+        "summary": {"de": "Das Musik- und Wortprogramm über Franz von Assisi wird am 7. August um 21:30 Uhr im Teatro Ariston gezeigt.","hu": "A Assisi Szent Ferencről szóló zenés-irodalmi előadás augusztus 7-én 21:30-kor lesz a Teatro Aristonban.","ro": "Spectacolul de muzică și povestire despre Sfântul Francisc de Assisi are loc pe 7 august, la ora 21:30, la Teatro Ariston.","en": "This music-and-story production about Saint Francis of Assisi is scheduled at Teatro Ariston on August 7 at 21:30."},
+        "source_url": "https://aristonsanremo.com/news-ariston-sanremo/francesco-aldo-cazzullo-angelo-branduardi"
+      },
+      {
+        "date": "2026-08-10",
+        "title": {"de": "L'Illusionista mit Luca Bono","hu": "L'Illusionista Luca Bonóval","ro": "L'Illusionista cu Luca Bono","en": "L'Illusionista with Luca Bono"},
+        "summary": {"de": "Luca Bono bringt seine Illusionsshow am 10. August um 21:30 Uhr ins Teatro Ariston.","hu": "Luca Bono illúzióműsora augusztus 10-én 21:30-kor látható a Teatro Aristonban.","ro": "Luca Bono aduce spectacolul său de iluzionism la Teatro Ariston pe 10 august, la ora 21:30.","en": "Luca Bono brings his illusion show to Teatro Ariston on August 10 at 21:30."},
+        "source_url": "https://aristonsanremo.com/news-ariston-sanremo/luca-bono-illusionista"
+      },
+      {
+        "date": "2026-08-12",
+        "title": {"de": "The World of Disney in Orchestra","hu": "The World of Disney in Orchestra","ro": "The World of Disney in Orchestra","en": "The World of Disney in Orchestra"},
+        "summary": {"de": "Mehr als 100 Künstlerinnen und Künstler feiern Disney-Musik am 12. August um 21:30 Uhr im Teatro Ariston.","hu": "Több mint 100 előadó ünnepli a Disney zenéit augusztus 12-én 21:30-kor a Teatro Aristonban.","ro": "Peste 100 de artiști interpretează muzică Disney pe 12 august, la ora 21:30, la Teatro Ariston.","en": "More than 100 performers celebrate Disney music at Teatro Ariston on August 12 at 21:30."},
+        "source_url": "https://aristonsanremo.com/news-ariston-sanremo/the-world-of-disney-in-orchestra"
+      },
+      {
+        "date": "2026-08-18",
+        "title": {"de": "Enrico Nigiotti Summer Tour 2026","hu": "Enrico Nigiotti Summer Tour 2026","ro": "Enrico Nigiotti Summer Tour 2026","en": "Enrico Nigiotti Summer Tour 2026"},
+        "summary": {"de": "Enrico Nigiotti kehrt am 18. August um 21:30 Uhr mit seiner Sommertour nach Sanremo zurück.","hu": "Enrico Nigiotti augusztus 18-án 21:30-kor tér vissza Sanremóba nyári turnéjával.","ro": "Enrico Nigiotti revine la Sanremo pe 18 august, la ora 21:30, cu turneul său de vară.","en": "Enrico Nigiotti returns to Sanremo on August 18 at 21:30 with his summer tour."},
+        "source_url": "https://aristonsanremo.com/news-ariston-sanremo/enrico-nigiotti-innamorati-summer-tour-2026"
+      }
+    ]
+  },
+  {
+    "id": "cuenca",
+    "events": [
+      {
+        "date": "2026-10-01",
+        "period": {"recurrent": true},
+        "title": {"de": "Festival de Otoño de Cuenca","hu": "Cuencai Őszi Fesztivál","ro": "Festivalul de Toamnă din Cuenca","en": "Cuenca Autumn Festival"},
+        "summary": {"de": "Im Oktober belebt das Herbstfestival Cuenca mit über 100 Kulturaktivitäten im Freien, darunter Musik, darstellende Künste und städtische Aktionen.","hu": "Októberben az őszi fesztivál több mint 100 szabadtéri kulturális programmal, zenével és előadóművészeti eseménnyel tölti meg Cuencát.","ro": "În octombrie, festivalul de toamnă animă Cuenca cu peste 100 de activități culturale în aer liber, muzică și arte scenice.","en": "In October, the autumn festival animates Cuenca with more than 100 open-air cultural activities, music, and performing arts."},
+        "source_url": "https://www.turismocastillalamancha.es/es/ocio/ferias/festival-de-otono-de-cuenca"
+      }
+    ]
+  },
+  {
+    "id": "chateauroux",
+    "events": [
+      {
+        "date": "2026-08-11",
+        "end_date": "2026-08-21",
+        "title": {"de": "51e Stage – Festival International de Châteauroux – DARC","hu": "51. DARC Nemzetközi Fesztivál és Tánctábor","ro": "A 51-a ediție a Festivalului Internațional Châteauroux – DARC","en": "51st Châteauroux International Festival – DARC","fr": "51e Stage – Festival International de Châteauroux – DARC"},
+        "summary": {"de": "Das große Sommerfestival in Châteauroux verbindet Tanzkurse, Konzerte und mobile Veranstaltungen in der Stadt.","hu": "A châteauroux-i nyári fesztivál tánctáborokat, koncerteket és városi programokat kapcsol össze.","ro": "Marele festival de vară din Châteauroux reunește cursuri de dans, concerte și animații itinerante în oraș.","en": "This major summer festival in Châteauroux combines dance workshops, concerts, and roaming events across the city.","fr": "Le grand festival d'été de Châteauroux réunit stages de danse, concerts et animations itinérantes dans la ville."},
+        "source_url": "https://www.berryprovince.com/agenda/51e-stage-festival-international-de-chateauroux-darc/"
+      },
+      {
+        "date": "2026-07-06",
+        "end_date": "2026-08-31",
+        "title": {"de": "Exposition : Pastels","hu": "Pastels kiállítás","ro": "Expoziția: Pastels","en": "Exhibition: Pastels","fr": "Exposition : Pastels"},
+        "summary": {"de": "Die Ausstellung zeigt Pastellwerke von Gilles Caranton und bleibt den ganzen Sommer in Châteauroux geöffnet.","hu": "A kiállítás Gilles Caranton pasztellműveit mutatja be, és egész nyáron látogatható Châteauroux-ban.","ro": "Expoziția prezintă lucrări în pastel semnate de Gilles Caranton și rămâne deschisă toată vara la Châteauroux.","en": "This exhibition of pastel works by Gilles Caranton remains open throughout the summer in Châteauroux.","fr": "Cette exposition de pastels de Gilles Caranton reste ouverte tout l'été à Châteauroux."},
+        "source_url": "https://www.chateauroux-tourisme.com/agenda/exposition-pastels/"
+      },
+      {
+        "date": "2026-07-07",
+        "end_date": "2026-08-25",
+        "period": {"recurrent": true},
+        "title": {"de": "Besichtigung des Flughafens Châteauroux-Centre","hu": "A Châteauroux-Centre repülőtér látogatása","ro": "Vizită la aeroportul Châteauroux-Centre","en": "Châteauroux-Centre Airport tour","fr": "Visite de l’aéroport de Châteauroux-Centre"},
+        "summary": {"de": "Die geführte Flughafenbesichtigung findet dienstags um 10:30 und 16:00 Uhr statt und führt hinter die Kulissen des Luftfahrtstandorts.","hu": "A vezetett repülőtéri látogatás keddenként 10:30-kor és 16:00-kor indul, és betekintést ad a légi központ kulisszái mögé.","ro": "Turul ghidat al aeroportului are loc marțea la 10:30 și 16:00 și oferă acces în culisele platformei aeronautice.","en": "This guided airport tour runs on Tuesdays at 10:30 and 16:00, taking visitors behind the scenes of the aviation site.","fr": "Cette visite guidée de l’aéroport a lieu les mardis à 10h30 et 16h00 et fait découvrir les coulisses du site."},
+        "source_url": "https://www.chateauroux-tourisme.com/agenda/laeroport-de-chateauroux-centre/"
+      },
+      {
+        "date": "2026-07-07",
+        "end_date": "2026-08-25",
+        "period": {"recurrent": true},
+        "title": {"de": "Geführter Glockenturm-Aufstieg bei Sonnenuntergang","hu": "Naplementés harangtorony-látogatás","ro": "Urcare ghidată în clopotniță la apus","en": "Guided bell-tower climb at sunset","fr": "Visite guidée : montée au clocher au coucher de soleil"},
+        "summary": {"de": "Jeden Dienstag können Besucher die 90 Stufen des Glockenturms steigen und Déols im Abendlicht sehen.","hu": "A látogatók minden kedden megmászhatják a harangtorony 90 lépcsőfokát, és esti fényben láthatják Déols-t.","ro": "În fiecare marți, vizitatorii pot urca cele 90 de trepte ale clopotniței pentru a vedea Déols în lumina serii.","en": "Every Tuesday, visitors can climb the 90 stone steps of the bell tower and see Déols in evening light.","fr": "Chaque mardi, les visiteurs peuvent gravir les 90 marches du clocher et découvrir Déols à la lumière du soir."},
+        "source_url": "https://www.chateauroux-tourisme.com/agenda/visite-guidee-montee-au-clocher-au-coucher-de-soleil/"
+      },
+      {
+        "date": "2026-07-08",
+        "end_date": "2026-08-30",
+        "period": {"recurrent": true},
+        "title": {"de": "Geführte Abteibesichtigung in Déols","hu": "Vezetett apátsági látogatás Déols-ban","ro": "Vizită ghidată a abației din Déols","en": "Guided abbey tour in Déols","fr": "Visite guidée de l’abbaye"},
+        "summary": {"de": "Die Führung erklärt die Geschichte der mächtigen mittelalterlichen Abtei von Déols, unterstützt durch Augmented-Reality-Tablets.","hu": "A vezetés bemutatja Déols jelentős középkori apátságának történetét, kiterjesztett valóságot használó táblagépekkel.","ro": "Turul prezintă istoria importantei abații medievale din Déols, cu ajutorul tabletelor cu realitate augmentată.","en": "This tour presents the history of the major medieval abbey of Déols with the help of augmented-reality tablets.","fr": "La visite retrace l’histoire de l’importante abbaye médiévale de Déols grâce à des tablettes en réalité augmentée."},
+        "source_url": "https://www.chateauroux-tourisme.com/agenda/visite-guidee-de-labbaye/"
+      }
+    ]
+  },
+  {
+    "id": "cagnes-sur-mer",
+    "events": [
+      {
+        "date": "2026-07-10",
+        "end_date": "2026-08-28",
+        "period": {"recurrent": true},
+        "title": {"de": "Fußgängerabende in der Avenue des Oliviers","hu": "Gyalogos esték az Avenue des Oliviers-n","ro": "Seri pietonale pe Avenue des Oliviers","en": "Pedestrian evenings on Avenue des Oliviers","fr": "Les soirées piétonnes de l’avenue des Oliviers"},
+        "summary": {"de": "Die sommerliche Abendreihe macht die Avenue des Oliviers autofrei und setzt auf Flanieren und Unterhaltung am Meer.","hu": "A nyári esti sorozat autómentessé teszi az Avenue des Oliviers-t, és tengerparti sétára, valamint szórakozásra hív.","ro": "Seria de vară transformă Avenue des Oliviers într-o zonă pietonală, cu promenadă și atmosferă de seară la malul mării.","en": "This summer series turns Avenue des Oliviers into a pedestrian-friendly seafront evening zone for strolling and entertainment.","fr": "Cette série estivale rend l’avenue des Oliviers piétonne pour des soirées de promenade et d’animations en bord de mer."},
+        "source_url": "https://www.explorenicecotedazur.com/explorer/villes-villages/littoral/cagnes-sur-mer/agenda/page/2"
+      },
+      {
+        "date": "2026-07-10",
+        "end_date": "2026-08-28",
+        "period": {"recurrent": true},
+        "title": {"de": "Feuerwerke im Hippodrome de la Côte d’Azur","hu": "Tűzijátékok a Hippodrome de la Côte d’Azurban","ro": "Focuri de artificii la Hippodrome de la Côte d’Azur","en": "Fireworks at the Hippodrome de la Côte d’Azur","fr": "Feux d’artifice à l’Hippodrome de la Côte d’Azur"},
+        "summary": {"de": "Im Sommer laufen im Hippodrom wieder Feuerwerksabende rund um die Rennveranstaltungen bis Ende August.","hu": "Nyáron újra visszatérnek a hippodrom tűzijátékos estéi a versenyprogramhoz kapcsolódva, egészen augusztus végéig.","ro": "Pe timpul verii revin serile cu focuri de artificii la hipodrom, în jurul reuniunilor de curse, până la sfârșitul lui august.","en": "Summer fireworks nights return to the hippodrome alongside race meetings through late August.","fr": "Les soirées estivales avec feux d’artifice reviennent à l’hippodrome en accompagnement des réunions de courses jusqu’à fin août."},
+        "source_url": "https://www.explorenicecotedazur.com/explorer/villes-villages/littoral/cagnes-sur-mer/agenda/page/2"
+      },
+      {
+        "date": "2026-08-08",
+        "title": {"de": "Promenade en Fête","hu": "Promenade en Fête","ro": "Promenade en Fête","en": "Promenade en Fête","fr": "Promenade en Fête"},
+        "summary": {"de": "Am 8. August wird die Promenade de la Plage zur autofreien Festmeile mit Animationen und sommerlicher Abendstimmung.","hu": "Augusztus 8-án a Promenade de la Plage autómentes ünnepi sétánnyá alakul programokkal és nyári esti hangulattal.","ro": "Pe 8 august, Promenade de la Plage devine o zonă festivă pietonală, cu animații și atmosferă de seară de vară.","en": "On August 8, Promenade de la Plage becomes a pedestrian celebration area with entertainment and a summer evening atmosphere.","fr": "Le 8 août, la Promenade de la Plage devient un grand rendez-vous piéton avec animations et ambiance estivale."},
+        "source_url": "https://ville.cagnes.fr/les-evenements/"
+      },
+      {
+        "date": "2026-06-28",
+        "end_date": "2027-01-04",
+        "title": {"de": "80 Jahre Château-musée Grimaldi","hu": "A Château-musée Grimaldi 80 éve","ro": "80 de ani ai Château-musée Grimaldi","en": "80 Years of the Château-musée Grimaldi","fr": "Les 80 ans du Château-musée Grimaldi"},
+        "summary": {"de": "Die Jubiläumsausstellung zeichnet die Geschichte und Sammlungen des Château-musée Grimaldi nach und bleibt bis Anfang Januar geöffnet.","hu": "A jubileumi kiállítás a Château-musée Grimaldi történetét és gyűjteményeit mutatja be, és január elejéig látogatható.","ro": "Expoziția aniversară prezintă istoria și colecțiile Château-musée Grimaldi și rămâne deschisă până la începutul lui ianuarie.","en": "This anniversary exhibition traces the history and collections of the Château-musée Grimaldi and remains open into early January.","fr": "Cette exposition anniversaire retrace l’histoire et les collections du Château-musée Grimaldi et reste ouverte jusqu’au début janvier."},
+        "source_url": "https://cotedazurfrance.fr/offres/exposition-les-80-ans-du-chateau-musee-grimaldi-cagnes-sur-mer-fr-6435104/"
+      }
+    ]
+  },
+  {
+    "id": "romania-deva-cities-v2",
+    "events": [
+      {
+        "date": "2026-07-26",
+        "end_date": "2026-09-27",
+        "period": {"recurrent": true},
+        "title": {"de": "Old Band im Parcul Cetate","hu": "Old Band a Parcul Cetate-ben","ro": "Old Band în Parcul Cetate","en": "Old Band in Parcul Cetate"},
+        "summary": {"de": "Die traditionellen Sonntagskonzerte der Old Band laufen in Deva den ganzen Sommer bis zum 27. September, jeweils von 18:00 bis 21:00 Uhr.","hu": "Az Old Band hagyományos vasárnapi koncertjei egész nyáron, szeptember 27-ig tartanak Déván 18:00 és 21:00 között.","ro": "Concertele tradiționale de duminică ale formației Old Band continuă toată vara la Deva, până pe 27 septembrie, între orele 18:00 și 21:00.","en": "Old Band’s traditional Sunday concerts run through the summer in Deva until September 27, from 18:00 to 21:00."},
+        "source_url": "https://www.primariadeva.ro/index.php/informatii_publice/anunt/8643"
+      },
+      {
+        "date": "2026-08-21",
+        "end_date": "2026-08-23",
+        "title": {"de": "Deva Jazz Fest 2026","hu": "Deva Jazz Fest 2026","ro": "Deva Jazz Fest 2026","en": "Deva Jazz Fest 2026"},
+        "summary": {"de": "Das Jazzfestival im Parcul Cetății ist für den 21. bis 23. August angekündigt und bringt mehrere Tage Live-Jazz nach Deva.","hu": "A Parcul Cetății-ben rendezett jazzfesztivált augusztus 21. és 23. között tartják, több napos élő jazzprogrammal Déván.","ro": "Festivalul de jazz din Parcul Cetății este anunțat pentru 21-23 august și aduce mai multe zile de concerte live la Deva.","en": "The jazz festival in Parcul Cetății is listed for August 21 to 23, bringing several days of live jazz to Deva."},
+        "source_url": "https://www.romaniatourism.com/festivals-events-celebrations-romania-2026.html"
+      }
+    ]
+  }
+]

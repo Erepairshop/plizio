@@ -1,0 +1,459 @@
+[
+  {
+    "id": "bourges",
+    "events": [
+      {
+        "title": {
+          "de": "Les Nuits Lumiere",
+          "hu": "Les Nuits Lumiere",
+          "ro": "Les Nuits Lumiere",
+          "en": "Les Nuits Lumiere",
+          "fr": "Les Nuits Lumiere"
+        },
+        "summary": {
+          "de": "Der abendliche Lichtparcours verwandelt Fassaden, Gassen und Denkmaeler in der Altstadt von Bourges in eine frei zugaengliche Open-Air-Inszenierung.",
+          "hu": "Az esti fenysorozat Bourges belvarosanak homlokzatait, utcait es muemlekeit szabadon latogathato fenyes elmenyutvonalta alakitja.",
+          "ro": "Parcursul nocturn de lumini transforma fatadele, strazile si monumentele din centrul vechi al orasului Bourges intr-o experienta urbana gratuita.",
+          "en": "This night-time light trail turns Bourges' facades, lanes, and monuments into a free open-air visual experience.",
+          "fr": "Ce parcours nocturne met en lumiere les facades, ruelles et monuments de Bourges dans une promenade scenographique gratuite."
+        },
+        "date": "2026-07-26",
+        "end_date": "2026-09-19",
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.bourges.fr/site/patrimoine-tourisme_photos-nuits-lumiere?taillepolice=120"
+      },
+      {
+        "title": {
+          "de": "PMO in Bourges",
+          "hu": "PMO in Bourges",
+          "ro": "PMO in Bourges",
+          "en": "PMO in Bourges",
+          "fr": "PMO in Bourges"
+        },
+        "summary": {
+          "de": "Das engagierte Kollektiv PMO bringt ein Programm mit klassischer und zeitgenoessischer Musik in den Jardin du cardinal Lefebvre.",
+          "hu": "A PMO muveszeti kollektiv klasszikus es kortars zenei programot hoz a Jardin du cardinal Lefebvre szabadtari helyszinere.",
+          "ro": "Colectivul artistic PMO propune un program de muzica clasica si contemporana in Jardin du cardinal Lefebvre.",
+          "en": "The PMO collective presents an outdoor program of classical and contemporary music in the Jardin du cardinal Lefebvre.",
+          "fr": "Le collectif PMO propose un programme de musique classique et contemporaine en plein air au jardin du cardinal Lefebvre."
+        },
+        "date": "2026-08-06",
+        "source_url": "https://www.sortirabourges.com/index/pmo_in_bourges--33169"
+      },
+      {
+        "title": {
+          "de": "Gallowstreet",
+          "hu": "Gallowstreet",
+          "ro": "Gallowstreet",
+          "en": "Gallowstreet",
+          "fr": "Gallowstreet"
+        },
+        "summary": {
+          "de": "Die niederlaendische Acht-Mann-Band mischt Blechblaeser, Schlagzeug und Synthesizer fuer ein energiegeladenes Konzert im Jardin du cardinal Lefebvre.",
+          "hu": "A holland nyolctagu zenekar rezeseket, dobokat es szintetizatorokat egyesit egy energikus kerti koncerten.",
+          "ro": "Formatia olandeza de opt muzicieni combina alama, tobe si sintetizatoare intr-un concert energic in Jardin du cardinal Lefebvre.",
+          "en": "The Dutch eight-piece band blends brass, drums, and synthesizers for a high-energy concert in the Jardin du cardinal Lefebvre.",
+          "fr": "La fanfare neerlandaise de huit musiciens melange cuivres, batterie et syntheseurs pour un concert tres energique au jardin du cardinal Lefebvre."
+        },
+        "date": "2026-08-22",
+        "source_url": "https://www.sortirabourges.com/index/gallowstreet--33186"
+      },
+      {
+        "title": {
+          "de": "Berry Sunday #17",
+          "hu": "Berry Sunday #17",
+          "ro": "Berry Sunday #17",
+          "en": "Berry Sunday #17",
+          "fr": "Berry Sunday #17"
+        },
+        "summary": {
+          "de": "Diese Sonntagsveranstaltung bringt ein langes Konzertprogramm im Gruenkorridor Trouee verte mit Musik bis Mitternacht.",
+          "hu": "Ez a vasarnapi zenei rendezveny hosszu koncertprogramot kinal a Trouee verte zold folyosojan, keso estig.",
+          "ro": "Evenimentul de duminica aduce un program amplu de concerte in zona verde Trouee verte, pana la miezul noptii.",
+          "en": "This Sunday event brings an extended live music program to the Trouee verte green corridor, running until midnight.",
+          "fr": "Ce rendez-vous dominical propose une longue programmation de concerts dans la Trouee verte jusqu'a minuit."
+        },
+        "date": "2026-08-30",
+        "source_url": "https://www.sortirabourges.com/index/berry_sunday__17--33165"
+      }
+    ]
+  },
+  {
+    "id": "poland-siedlce-cities-v2",
+    "events": [
+      {
+        "title": {
+          "de": "MOK Summer Music Festival 2026: LeBurn Maddox",
+          "hu": "MOK Summer Music Festival 2026: LeBurn Maddox",
+          "ro": "MOK Summer Music Festival 2026: LeBurn Maddox",
+          "en": "MOK Summer Music Festival 2026: LeBurn Maddox"
+        },
+        "summary": {
+          "de": "Das kostenlose Open-Air-Festival auf dem Skwer im. Konstantego Domagaly startet mit dem Gitarristen LeBurn Maddox und einer polnischen Rhythmusgruppe.",
+          "hu": "Az ingyenes szabadtari fesztival a Skwer im. Konstantego Domagaly teren LeBurn Maddox gitarossal es lengyel ritmusszekcioval indul.",
+          "ro": "Festivalul gratuit in aer liber din Skwer im. Konstantego Domagaly incepe cu chitaristul LeBurn Maddox si o sectie ritmica poloneza.",
+          "en": "The free open-air festival on Skwer im. Konstantego Domagaly opens with guitarist LeBurn Maddox and a Polish rhythm section."
+        },
+        "date": "2026-08-14",
+        "source_url": "https://mok.siedlce.pl/pl/imprezy-cykliczne/mok-summer-music-festival-2026"
+      },
+      {
+        "title": {
+          "de": "MOK Summer Music Festival 2026: Czeremszyna",
+          "hu": "MOK Summer Music Festival 2026: Czeremszyna",
+          "ro": "MOK Summer Music Festival 2026: Czeremszyna",
+          "en": "MOK Summer Music Festival 2026: Czeremszyna"
+        },
+        "summary": {
+          "de": "Die Folk- und World-Music-Band Czeremszyna bringt traditionelle Lieder aus Podlasie und dem polnisch-belarussisch-ukrainischen Grenzraum auf die Sommerbuehne.",
+          "hu": "A Czeremszyna folk- es world music egyuttes Podlasie es a lengyel-feherorosz-ukran hatarvidek hagyomanyos dalait hozza a nyari szinpadra.",
+          "ro": "Formatia folk si world music Czeremszyna aduce pe scena de vara cantece traditionale din Podlasie si din zona de frontiera polono-bieloruso-ucraineana.",
+          "en": "Folk and world music band Czeremszyna brings traditional songs from Podlasie and the Polish-Belarusian-Ukrainian borderlands to the summer stage."
+        },
+        "date": "2026-08-21",
+        "source_url": "https://mok.siedlce.pl/pl/imprezy-cykliczne/mok-summer-music-festival-2026"
+      },
+      {
+        "title": {
+          "de": "MOK Summer Music Festival 2026: Rock Menu",
+          "hu": "MOK Summer Music Festival 2026: Rock Menu",
+          "ro": "MOK Summer Music Festival 2026: Rock Menu",
+          "en": "MOK Summer Music Festival 2026: Rock Menu"
+        },
+        "summary": {
+          "de": "Zum Festivalabschluss uebernimmt Rock Menu die Buehne mit einem geradlinigen Rockprogramm im Freien.",
+          "hu": "A fesztival zarasakent a Rock Menu lep fel egyenes, energikus rockmusorral a szabadtari szinpadon.",
+          "ro": "La finalul festivalului, Rock Menu urca pe scena cu un program direct de rock in aer liber.",
+          "en": "Rock Menu closes the festival with a straight-ahead open-air rock set."
+        },
+        "date": "2026-08-28",
+        "source_url": "https://mok.siedlce.pl/pl/imprezy-cykliczne/mok-summer-music-festival-2026"
+      },
+      {
+        "title": {
+          "de": "Kostenlose Stadtfuehrung: Ulica Pilsudskiego",
+          "hu": "Ingyenes idegenvezetes: Pilsudski utca",
+          "ro": "Tur ghidat gratuit: strada Pilsudskiego",
+          "en": "Free guided walk: Pilsudskiego Street"
+        },
+        "summary": {
+          "de": "Die stadtweite Reihe kostenloser Spaziergaenge fuehrt diesmal ueber die Ulica Pilsudskiego und startet vor dem Gebaeude der Polnischen Post.",
+          "hu": "Az ingyenes setasorozat ezuttal a Pilsudski utcara fokuszal, a lengyel posta epulete elol indulva.",
+          "ro": "Seria de plimbari ghidate gratuite a orasului se concentreaza de aceasta data pe strada Pilsudskiego, cu startul in fata cladirii Postei Polone.",
+          "en": "This free city walking tour focuses on Pilsudskiego Street and starts in front of the Polish Post building."
+        },
+        "date": "2026-08-23",
+        "source_url": "https://siedlce.pl/wydarzenia/2026/06-2026/cudze-chwalicie-swego-nie-znacie-bezplatne-spacery-z-przewodnikiem-po-siedlcach"
+      },
+      {
+        "title": {
+          "de": "Grosse Tauschboerse fuer Buecher, Puzzles und Brettspiele",
+          "hu": "Nagy konyv-, puzzle- es tarsasjatekcsere",
+          "ro": "Marea schimbare de carti, puzzle-uri si jocuri de societate",
+          "en": "Big exchange for books, puzzles, and board games"
+        },
+        "summary": {
+          "de": "Im Park Aleksandria koennen Besucher am Nachmittag Buecher, Puzzles und Brettspiele tauschen und andere Sammler treffen.",
+          "hu": "Az Aleksandria parkban a latogatok delutan konyveket, puzzle-ket es tarsasjatekokat cserelhetnek, es mas gyujtokkel talalkozhatnak.",
+          "ro": "In parcul Aleksandria, vizitatorii pot schimba dupa-amiaza carti, puzzle-uri si jocuri de societate si se pot intalni cu alti pasionati.",
+          "en": "In Aleksandria Park, visitors can spend the afternoon exchanging books, puzzles, and board games with fellow enthusiasts."
+        },
+        "date": "2026-08-26",
+        "source_url": "https://siedlce.pl/wydarzenia/2026/06-2026/wielka-wymiana-ksiazek-puzzli-i-gier-planszowych"
+      }
+    ]
+  },
+  {
+    "id": "calais",
+    "events": [
+      {
+        "title": {
+          "de": "Calais LA Plage",
+          "hu": "Calais LA Plage",
+          "ro": "Calais LA Plage",
+          "en": "Calais LA Plage",
+          "fr": "Calais LA Plage"
+        },
+        "summary": {
+          "de": "Die Sommeraktivitaeten am Strand und an der Uferpromenade reichen von Animationen bis zu Besuchsprogrammen und praegen die Saison an der Kueste von Calais.",
+          "hu": "A strandon es a tengerparti setanyon zajlo nyari programok animaciokat es latogatoi elmenyeket kinalnak, es egesz szezonban eletet visznek Calais partjara.",
+          "ro": "Programul estival de pe plaja si promenada aduce animatii si activitati pentru vizitatori pe tot parcursul sezonului la tarmul din Calais.",
+          "en": "This summer beachfront program brings visitor activities and entertainment to Calais' seafront throughout the season.",
+          "fr": "Cette programmation estivale anime la plage et le front de mer de Calais avec des activites et rendez-vous pour les visiteurs tout au long de la saison."
+        },
+        "date": "2026-07-26",
+        "end_date": "2026-09-13",
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.calais.fr/calais-la-plage"
+      },
+      {
+        "title": {
+          "de": "Festival de Street Art 2026",
+          "hu": "Festival de Street Art 2026",
+          "ro": "Festival de Street Art 2026",
+          "en": "Street Art Festival 2026",
+          "fr": "Festival de Street Art 2026"
+        },
+        "summary": {
+          "de": "Das Sommerfestival verteilt Street-Art-Interventionen und eine frei zugaengliche Ausstellung an mehreren Orten in Calais.",
+          "hu": "A nyari street art fesztival tobb calais-i helyszinen hoz letre kozossegi utcamuveszeti beavatkozasokat es szabadon latogathato kiallitast.",
+          "ro": "Festivalul estival de street art aduce interventii artistice si o expozitie accesibila in mai multe puncte din Calais.",
+          "en": "This summer street art festival spreads public art interventions and an accessible exhibition across multiple sites in Calais.",
+          "fr": "Ce festival estival de street art deploie des interventions artistiques et une exposition accessible dans plusieurs lieux de Calais."
+        },
+        "date": "2026-07-26",
+        "end_date": "2026-08-17",
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.calais.fr/annuaires/agendas/detail/festival-de-street-art-2026"
+      },
+      {
+        "title": {
+          "de": "Rock au Minck 2026",
+          "hu": "Rock au Minck 2026",
+          "ro": "Rock au Minck 2026",
+          "en": "Rock au Minck 2026",
+          "fr": "Rock au Minck 2026"
+        },
+        "summary": {
+          "de": "Das kostenlose Konzert am Quai de la Colonne bringt Rockabilly- und Vintage-Klaenge in das typische Hafenviertel von Calais.",
+          "hu": "Az ingyenes koncert a Quai de la Colonne rakparton rockabilly es vintage hangulattal tolti meg Calais jellegzetes kikotoi negyedeit.",
+          "ro": "Concertul gratuit de pe Quai de la Colonne aduce rockabilly si sonoritati vintage in cartierul portuar tipic din Calais.",
+          "en": "This free concert on Quai de la Colonne brings rockabilly and vintage sounds to one of Calais' characteristic harbor districts.",
+          "fr": "Ce concert gratuit au quai de la Colonne apporte une ambiance rockabilly et vintage dans un quartier portuaire typique de Calais."
+        },
+        "date": "2026-08-01",
+        "source_url": "https://www.calais.fr/annuaires/agendas/detail/rock-au-minck-2026"
+      },
+      {
+        "title": {
+          "de": "Calais For Night - Soiree DJ",
+          "hu": "Calais For Night - DJ-est",
+          "ro": "Calais For Night - seara DJ",
+          "en": "Calais For Night - DJ night",
+          "fr": "Calais For Night - soiree DJ"
+        },
+        "summary": {
+          "de": "Die zweite Ausgabe dieses kostenlosen Abends in La Halle setzt auf Tanz, Abendstimmung und ein DJ-Programm fuer ein breites Publikum.",
+          "hu": "A La Halle ingyenes esti rendezvenyen a masodik kiadas tancra, esti hangulatra es kozensegbarat DJ-programra epul.",
+          "ro": "A doua editie a acestei seri gratuite la La Halle mizeaza pe dans, atmosfera de seara si un program DJ accesibil unui public larg.",
+          "en": "The second edition of this free evening at La Halle centers on dancing, night-time atmosphere, and a crowd-friendly DJ set.",
+          "fr": "La deuxieme edition de cette soiree gratuite a la Halle mise sur la danse, l'ambiance nocturne et une programmation DJ accessible a tous."
+        },
+        "date": "2026-08-08",
+        "source_url": "https://www.calais.fr/annuaires/agendas/detail/calais-for-night"
+      },
+      {
+        "title": {
+          "de": "Don't Stop Queen Now",
+          "hu": "Don't Stop Queen Now",
+          "ro": "Don't Stop Queen Now",
+          "en": "Don't Stop Queen Now",
+          "fr": "Don't Stop Queen Now"
+        },
+        "summary": {
+          "de": "Das Gratiskonzert auf der Place d'Armes widmet sich mit einer Queen-Tribute-Show den bekanntesten Hymnen der Band.",
+          "hu": "Az ingyenes Place d'Armes-i koncert a Queen legismertebb himnuszait idezi meg tribute musor formjaban.",
+          "ro": "Concertul gratuit din Place d'Armes reia cele mai cunoscute imnuri Queen printr-un show tribut.",
+          "en": "This free Place d'Armes concert revisits Queen's best-known anthems in a tribute show.",
+          "fr": "Ce concert gratuit place d'Armes fait revivre les grands hymnes de Queen dans un spectacle tribute."
+        },
+        "date": "2026-08-22",
+        "source_url": "https://www.calais.fr/annuaires/agendas/detail/concert-dont-stop-queen-now"
+      }
+    ]
+  },
+  {
+    "id": "netherlands-spijkenisse-cities-v2",
+    "events": [
+      {
+        "title": {
+          "de": "Kinder Vakantie Spelen Spijkenisse",
+          "hu": "Kinder Vakantie Spelen Spijkenisse",
+          "ro": "Kinder Vakantie Spelen Spijkenisse",
+          "en": "Kinder Vakantie Spelen Spijkenisse"
+        },
+        "summary": {
+          "de": "Das Kinderferienprogramm in Spijkenisse laeuft waehrend der Sommerferien mit betreuten Spiel- und Freizeitaktivitaeten fuer junge Teilnehmer.",
+          "hu": "A spijkenissei gyerek nyari jatekprogram a nyari szunetben szervezett foglalkozasokat es jatekos szabadidos lehetosegeket kinal a fiataloknak.",
+          "ro": "Programul de vacanta pentru copii din Spijkenisse ofera activitati supravegheate de joaca si timp liber pe durata vacantei de vara.",
+          "en": "This children's holiday program in Spijkenisse runs during the summer break with supervised play and leisure activities for young participants."
+        },
+        "date": "2026-07-27",
+        "end_date": "2026-08-07",
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.nissewaard.nl/belastingen-vergunningen-en-subsidies/vergunningen/evenementen-en-kleine-kansspelen/evenementenkalender"
+      },
+      {
+        "title": {
+          "de": "Spijkenisse Festival",
+          "hu": "Spijkenisse Festival",
+          "ro": "Spijkenisse Festival",
+          "en": "Spijkenisse Festival"
+        },
+        "summary": {
+          "de": "Das mehrtaegige Stadtfestival zaehlt zu den grossen Sommerveranstaltungen in Spijkenisse und verteilt sein Programm ueber ein langes Augustwochenende.",
+          "hu": "A tobbnapos varosi fesztival Spijkenisse nagy nyari rendezvenyei koze tartozik, es egy hosszu augusztusi hetvegen zajlik.",
+          "ro": "Festivalul orasului, desfasurat pe mai multe zile, este unul dintre marile evenimente ale verii in Spijkenisse si ocupa un weekend lung de august.",
+          "en": "This multi-day town festival is one of Spijkenisse's larger summer events, spread across a long August weekend."
+        },
+        "date": "2026-08-28",
+        "end_date": "2026-08-30",
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.nissewaard.nl/belastingen-vergunningen-en-subsidies/vergunningen/evenementen-en-kleine-kansspelen/evenementenkalender"
+      },
+      {
+        "title": {
+          "de": "Bernisse Pop",
+          "hu": "Bernisse Pop",
+          "ro": "Bernisse Pop",
+          "en": "Bernisse Pop"
+        },
+        "summary": {
+          "de": "Das lokale Popfestival bringt zwei Tage lang Livemusik in die Gemeinde Nissewaard und ist auch fuer Besucher aus Spijkenisse gut erreichbar.",
+          "hu": "A helyi popfesztival ket napon at kinal elozenet Nissewaardban, es Spijkenisse felol is konnyen elerheto.",
+          "ro": "Festivalul local de muzica pop ofera doua zile de concerte live in Nissewaard si este usor accesibil si din Spijkenisse.",
+          "en": "This local pop festival delivers two days of live music in Nissewaard and is easy to reach from Spijkenisse."
+        },
+        "date": "2026-09-04",
+        "end_date": "2026-09-05",
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.nissewaard.nl/belastingen-vergunningen-en-subsidies/vergunningen/evenementen-en-kleine-kansspelen/evenementenkalender"
+      },
+      {
+        "title": {
+          "de": "Open Monumentendag",
+          "hu": "Open Monumentendag",
+          "ro": "Open Monumentendag",
+          "en": "Open Monumentendag"
+        },
+        "summary": {
+          "de": "Am landesweiten Denkmaltag oeffnen historische Orte und Kulturorte in Nissewaard ihre Tueren fuer Besucher.",
+          "hu": "Az orszagos muemleknapon Nissewaard tortenelmi es kulturhelyszinei megnyitjak kapuikat a latogatok elott.",
+          "ro": "Cu ocazia zilei nationale a monumentelor, siturile istorice si culturale din Nissewaard isi deschid portile pentru vizitatori.",
+          "en": "For the national heritage day, historic and cultural sites across Nissewaard open to visitors."
+        },
+        "date": "2026-09-12",
+        "source_url": "https://www.nissewaard.nl/belastingen-vergunningen-en-subsidies/vergunningen/evenementen-en-kleine-kansspelen/evenementenkalender"
+      }
+    ]
+  },
+  {
+    "id": "troyes",
+    "events": [
+      {
+        "title": {
+          "de": "Troyes en scenes",
+          "hu": "Troyes en scenes",
+          "ro": "Troyes en scenes",
+          "en": "Troyes en scenes",
+          "fr": "Troyes en scenes"
+        },
+        "summary": {
+          "de": "Das grosse Sommerfestival der Stadt bringt bis Anfang August mehr als 60 kostenlose Auffuehrungen mit Musik, Tanz, Theater und Zirkus an verschiedene Orte in Troyes.",
+          "hu": "A varos nagy nyari fesztivalja augusztus elejeig tobb mint 60 ingyenes zenei, tancos, szinhazi es cirkuszi eloadast visz Troyes kulonbozo helyszineire.",
+          "ro": "Marele festival de vara al orasului aduce pana la inceputul lunii august peste 60 de spectacole gratuite de muzica, dans, teatru si circ in mai multe locuri din Troyes.",
+          "en": "The city's major summer festival brings more than 60 free performances in music, dance, theatre, and circus to venues across Troyes through early August.",
+          "fr": "Le grand rendez-vous estival de la ville propose plus de 60 spectacles gratuits de musique, danse, theatre et cirque dans plusieurs lieux de Troyes jusqu'au debut aout."
+        },
+        "date": "2026-07-26",
+        "end_date": "2026-08-02",
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.ville-troyes.fr/l-ete-a-troyes/"
+      },
+      {
+        "title": {
+          "de": "Passeport loisirs",
+          "hu": "Passeport loisirs",
+          "ro": "Passeport loisirs",
+          "en": "Passeport loisirs",
+          "fr": "Passeport loisirs"
+        },
+        "summary": {
+          "de": "Das Ferienprogramm fuer 4- bis 16-Jaehrige bietet waehrend des Sommers mehr als 50 Sport- und Kreativaktivitaeten in Troyes.",
+          "hu": "A 4-16 eveseknek szolo nyari program tobb mint 50 sport- es kreativ foglalkozast kinal a szunet idejen Troyes-ban.",
+          "ro": "Programul de vacanta pentru copii intre 4 si 16 ani ofera pe timpul verii peste 50 de activitati sportive si artistice in Troyes.",
+          "en": "This school-holiday program for ages 4 to 16 offers more than 50 sports and creative activities across Troyes during the summer.",
+          "fr": "Ce programme de vacances pour les 4 a 16 ans propose tout l'ete plus de 50 activites sportives et artistiques a Troyes."
+        },
+        "date": "2026-07-26",
+        "end_date": "2026-08-29",
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.ville-troyes.fr/l-ete-a-troyes/"
+      },
+      {
+        "title": {
+          "de": "Traces & Signes",
+          "hu": "Traces & Signes",
+          "ro": "Traces & Signes",
+          "en": "Traces & Signes",
+          "fr": "Traces & Signes"
+        },
+        "summary": {
+          "de": "Die kostenlose Ausstellung der Ecole Municipale des Beaux-Arts zeigt im Medienzentrum Jacques-Chirac fantasievolle Arbeiten rund um Spuren, Abdruecke und Formen.",
+          "hu": "A Jacques-Chirac mediatarban lathato ingyenes kepzomuveszeti kiallitas a nyomok, lenyomatok es formak temajara epulo alkotasokat mutat be.",
+          "ro": "Expozitia gratuita a Ecole Municipale des Beaux-Arts de la mediateca Jacques-Chirac prezinta lucrari inspirate de urme, amprente si forme.",
+          "en": "This free exhibition by the municipal art school at the Jacques-Chirac media library presents imaginative works built around traces, prints, and forms.",
+          "fr": "Cette exposition gratuite de l'Ecole Municipale des Beaux-Arts a la mediatheque Jacques-Chirac presente des creations autour des traces, empreintes et formes."
+        },
+        "date": "2026-07-26",
+        "end_date": "2026-08-29",
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.ville-troyes.fr/l-ete-a-troyes/"
+      },
+      {
+        "title": {
+          "de": "Marche nocturne",
+          "hu": "Marche nocturne",
+          "ro": "Marche nocturne",
+          "en": "Night market",
+          "fr": "Marche nocturne"
+        },
+        "summary": {
+          "de": "Rund um den Marche des Halles verbindet der Abendmarkt lokale Produzenten, Kunsthandwerk, Foodtrucks und Live-Musik in sommerlicher Innenstadtatmosphaere.",
+          "hu": "A Marche des Halles kornyeken az esti piac helyi termeloket, kezmuveseket, food truckokat es elozenet kapcsol ossze nyari belvarosi hangulattal.",
+          "ro": "In jurul Marche des Halles, piata de seara reuneste producatori locali, artizani, food truck-uri si muzica live intr-o atmosfera estivala de centru oras.",
+          "en": "Around the Marche des Halles, this night market combines local producers, crafts, food trucks, and live music in a summer city-center setting.",
+          "fr": "Autour du marche des Halles, ce marche nocturne rassemble producteurs locaux, artisans, food-trucks et musique live dans une ambiance estivale."
+        },
+        "date": "2026-08-29",
+        "source_url": "https://www.ville-troyes.fr/marche-nocturne/"
+      },
+      {
+        "title": {
+          "de": "82. Jahrestag der Befreiung von Troyes",
+          "hu": "Troyes felszabaditasanak 82. evforduloja",
+          "ro": "A 82-a aniversare a eliberarii orasului Troyes",
+          "en": "82nd anniversary of the liberation of Troyes",
+          "fr": "82e anniversaire de la Liberation de Troyes"
+        },
+        "summary": {
+          "de": "Die staedtische Gedenkfeier umfasst Zeremonien am Kreisverkehr Major General Wood und West sowie im Rathaus zum Gedenken an gefallene kommunale Mitarbeiter.",
+          "hu": "A varosi megemlekezes szertartasokat foglal magaban a Major General Wood es West korforgalomnal, valamint a varoshazan az elesett onkormanyzati dolgozok emlekere.",
+          "ro": "Ceremonia oficiala a orasului include omagii la sensul giratoriu Major General Wood si West si la primaria orasului pentru agentii comunali cazuti.",
+          "en": "The city's commemoration includes ceremonies at the Major General Wood and West roundabout and at City Hall in memory of municipal workers who died for France.",
+          "fr": "La commemoration officielle de la ville comprend des ceremonies au rond-point Major General Wood et West puis a l'hotel de ville en memoire des agents communaux morts pour la France."
+        },
+        "date": "2026-08-25",
+        "source_url": "https://www.ville-troyes.fr/vie-municipale/ceremonies-commemoratives/"
+      }
+    ]
+  }
+]

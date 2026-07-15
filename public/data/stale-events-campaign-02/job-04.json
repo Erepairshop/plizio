@@ -1,0 +1,338 @@
+[
+  {
+    "id": "italy-asti-cities-v2",
+    "events": [
+      {
+        "title": {
+          "de": "Palio di Asti",
+          "hu": "Asti Palio",
+          "ro": "Palio di Asti",
+          "en": "Palio di Asti"
+        },
+        "summary": {
+          "de": "Das historische Pferderennen in der Piazza Alfieri wird von einem mittelalterlichen Umzug, Fahnenwerfern und Segnungen in der Altstadt begleitet.",
+          "hu": "A történelmi lóversenyt a Piazza Alfierin középkori felvonulás, zászlóforgatók és városi ünnepi programok kísérik.",
+          "ro": "Cursa istorică de cai din Piazza Alfieri este însoțită de o procesiune medievală, stegari și ceremonii în centrul vechi.",
+          "en": "The historic bareback horse race in Piazza Alfieri is accompanied by a medieval procession, flag-wavers, and citywide ceremonial events."
+        },
+        "date": "2026-09-06",
+        "source_url": "https://visit.asti.it/en/september-in-asti/the-palio-of-asti/"
+      },
+      {
+        "title": {
+          "de": "Douja d'Or 2026",
+          "hu": "Douja d'Or 2026",
+          "ro": "Douja d'Or 2026",
+          "en": "Douja d'Or 2026"
+        },
+        "summary": {
+          "de": "Das zehntägige Weinfestival belebt Plätze, Höfe und historische Gebäude in Asti mit Verkostungen, Kulturprogrammen und kulinarischen Stationen.",
+          "hu": "A tíznapos borfesztivál Asti tereit és történelmi helyszíneit kóstolókkal, kulturális programokkal és gasztronómiával tölti meg.",
+          "ro": "Festivalul de zece zile dedicat vinului animă piețele și palatele istorice din Asti cu degustări, cultură și gastronomie.",
+          "en": "This ten-day wine festival fills Asti’s squares, courtyards, and historic venues with tastings, cultural programming, and food experiences."
+        },
+        "date": "2026-09-11",
+        "end_date": "2026-09-20",
+        "source_url": "https://www.doujador.it/"
+      },
+      {
+        "title": {
+          "de": "Festival delle Sagre",
+          "hu": "Festival delle Sagre",
+          "ro": "Festival delle Sagre",
+          "en": "Festival delle Sagre"
+        },
+        "summary": {
+          "de": "Asti richtet sein großes Freiluft-Gastronomiefest mit Dorfküchen, regionalen Weinen und einem historischen Umzug durch das Zentrum aus.",
+          "hu": "Asti nagyszabású szabadtéri gasztronómiai ünnepe falusi konyhákkal, helyi borokkal és történelmi felvonulással várja a látogatókat.",
+          "ro": "Marele festival gastronomic în aer liber aduce în Asti bucătării sătești, vinuri locale și o paradă istorică prin centru.",
+          "en": "Asti’s major open-air food festival brings village kitchens, local wines, and a historic parade into the city center."
+        },
+        "date": "2026-09-12",
+        "end_date": "2026-09-13",
+        "source_url": "https://visit.asti.it/en/september-in-asti/festival-of-festivals/"
+      }
+    ]
+  },
+  {
+    "id": "italy-pistoia-cities-v2",
+    "events": [
+      {
+        "title": {
+          "de": "Il barattolo di stelle",
+          "hu": "Il barattolo di stelle",
+          "ro": "Il barattolo di stelle",
+          "en": "Il barattolo di stelle"
+        },
+        "summary": {
+          "de": "Eine Vorlese- und Kreativstunde im Park für Familien mit kleinen Kindern im Rahmen der sommerlichen Reihe „Incontri nel verde“.",
+          "hu": "Felolvasással és kreatív foglalkozással egybekötött szabadtéri családi program kisgyermekes családoknak az „Incontri nel verde” sorozatban.",
+          "ro": "Lectură animată și atelier creativ în parc pentru familii cu copii mici, în cadrul seriei estivale „Incontri nel verde”.",
+          "en": "A park reading and creative workshop for families with young children, part of the summer series “Incontri nel verde”."
+        },
+        "date": "2026-07-29",
+        "source_url": "https://pistoiacapitaledellibro2026.it/event/il-barattolo-di-stelle/"
+      },
+      {
+        "title": {
+          "de": "Osservazione del cielo notturno dal Faggione delle Valli",
+          "hu": "Osservazione del cielo notturno dal Faggione delle Valli",
+          "ro": "Osservazione del cielo notturno dal Faggione delle Valli",
+          "en": "Night-sky observation at Faggione delle Valli"
+        },
+        "summary": {
+          "de": "Geführte Himmelsbeobachtung mit bloßem Auge und Teleskopen, bei der Besucher Sternbilder, den Polarstern und Objekte des tiefen Himmels kennenlernen.",
+          "hu": "Vezetett esti égboltmegfigyelés szabad szemmel és távcsövekkel, csillagképekkel, Sarkcsillaggal és mélyég-objektumokkal.",
+          "ro": "Observație ghidată a cerului nocturn cu ochiul liber și prin telescoape, cu accent pe constelații, Steaua Polară și obiecte cosmice.",
+          "en": "A guided night-sky session using both naked-eye viewing and telescopes to explore constellations, Polaris, and deep-sky objects."
+        },
+        "date": "2026-08-15",
+        "source_url": "https://pistoiacapitaledellibro2026.it/event/osservazione-del-cielo-notturno-dal-faggione-delle-valli-8/"
+      },
+      {
+        "title": {
+          "de": "Per le strade di Pinocchio. Itinerari letterari nel mondo di Collodi",
+          "hu": "Per le strade di Pinocchio. Itinerari letterari nel mondo di Collodi",
+          "ro": "Per le strade di Pinocchio. Itinerari letterari nel mondo di Collodi",
+          "en": "Per le strade di Pinocchio. Literary itineraries in Collodi’s world"
+        },
+        "summary": {
+          "de": "Vorstellung des 2026 erschienenen Buchs von Giovanni Capecchi mit dem Autor im Rahmen des sommerlichen Literaturprogramms.",
+          "hu": "Giovanni Capecchi 2026-os könyvének bemutatója a szerző részvételével a nyári irodalmi programsorozat részeként.",
+          "ro": "Prezentarea volumului publicat în 2026 de Giovanni Capecchi, cu participarea autorului, în cadrul programului literar de vară.",
+          "en": "A presentation of Giovanni Capecchi’s 2026 book with the author, part of the city’s summer literary program."
+        },
+        "date": "2026-08-18",
+        "source_url": "https://pistoiacapitaledellibro2026.it/event/per-le-strade-di-pinocchio-itinerari-letterari-nel-mondo-di-collodi-2/"
+      },
+      {
+        "title": {
+          "de": "Pagine all’aperto, libri nel bosco",
+          "hu": "Pagine all’aperto, libri nel bosco",
+          "ro": "Pagine all’aperto, libri nel bosco",
+          "en": "Pages outdoors, books in the woods"
+        },
+        "summary": {
+          "de": "Offenes Lesetreffen im Wald, bei dem Teilnehmer Bücher, Geschichten oder Gedichte mitbringen und im Freien vortragen können.",
+          "hu": "Kötetlen erdei felolvasóprogram, ahol a résztvevők könyveket, történeteket vagy verseket hozhatnak és oszthatnak meg.",
+          "ro": "Întâlnire de lectură în aer liber, în pădure, unde participanții pot aduce și citi cărți, povești sau poezii.",
+          "en": "An open-air reading gathering in the woods where participants can bring and share books, stories, or poems."
+        },
+        "date": "2026-08-22",
+        "source_url": "https://pistoiacapitaledellibro2026.it/event/pagine-allaperto-libri-nel-bosco-9/"
+      }
+    ]
+  },
+  {
+    "id": "city-targu-jiu-extra",
+    "events": [
+      {
+        "title": {
+          "de": "Poarta Sărutului – Folk- und Balladenwettbewerb",
+          "hu": "Poarta Sărutului folk- és balladaverseny",
+          "ro": "Poarta Sărutului – concurs de muzică folk și baladă",
+          "en": "Poarta Sărutului folk and ballad contest"
+        },
+        "summary": {
+          "de": "Der Kulturkalender des Landkreises nennt für Târgu Jiu einen mehrtägigen Wettbewerb für Folk- und Balladeninterpretation sowie Eigenkomposition.",
+          "hu": "A megyei kulturális naptár Târgu Jiuban többnapos folk- és balladaelőadói, valamint dalszerző versenyt jelöl.",
+          "ro": "Agenda culturală județeană programează la Târgu Jiu un concurs multizilnic de interpretare și creație de muzică folk și baladă.",
+          "en": "The county cultural agenda schedules a multi-day folk and ballad performance and songwriting contest in Târgu Jiu."
+        },
+        "date": "2026-08-07",
+        "end_date": "2026-08-09",
+        "source_url": "https://www.cjgorj.ro/Date%20site/Info%20Cultural/Agenda%20culturala%202026/Agenda%20Culturala%202026.pdf"
+      },
+      {
+        "title": {
+          "de": "Flight to Infinity – Anul Constantin Brâncuși",
+          "hu": "Flight to Infinity – Anul Constantin Brâncuși",
+          "ro": "Flight to Infinity – Anul Constantin Brâncuși",
+          "en": "Flight to Infinity – The Constantin Brâncuși Year"
+        },
+        "summary": {
+          "de": "Das Augustprogramm zum Brâncuși-Jahr bringt ein zweitägiges Themenereignis mit regionalen Kulturpartnern nach Târgu Jiu.",
+          "hu": "A Brâncuși-emlékév augusztusi programja kétnapos tematikus rendezvényt hoz Târgu Jiuba regionális kulturális partnerekkel.",
+          "ro": "Programul dedicat Anului Constantin Brâncuși include la Târgu Jiu un eveniment tematic de două zile, realizat cu parteneri culturali regionali.",
+          "en": "The Brâncuși commemorative year includes a two-day themed event in Târgu Jiu organized with regional cultural partners."
+        },
+        "date": "2026-08-22",
+        "end_date": "2026-08-23",
+        "source_url": "https://www.cjgorj.ro/Date%20site/Info%20Cultural/Agenda%20culturala%202026/Agenda%20Culturala%202026.pdf"
+      },
+      {
+        "title": {
+          "de": "Festivalul Național al Cântecului Popular Românesc „Maria Lătărețu”",
+          "hu": "„Maria Lătărețu” román népdal országos fesztivál",
+          "ro": "Festivalul Național al Cântecului Popular Românesc „Maria Lătărețu”",
+          "en": "National Romanian Folk Song Festival “Maria Lătărețu”"
+        },
+        "summary": {
+          "de": "Das mehrtägige Folkfestival in Târgu Jiu wird von Doina Gorjului, Kulturinstitutionen des Kreises und der Stadtverwaltung getragen.",
+          "hu": "A többnapos népzenei fesztivált Târgu Jiuban a Doina Gorjului, megyei kulturális intézmények és a város önkormányzata szervezi.",
+          "ro": "Festivalul de mai multe zile din Târgu Jiu este organizat de Ansamblul Doina Gorjului, instituții culturale județene și autoritățile locale.",
+          "en": "This multi-day folk music festival in Târgu Jiu is organized by Doina Gorjului, county cultural institutions, and the local authorities."
+        },
+        "date": "2026-11-09",
+        "end_date": "2026-11-12",
+        "source_url": "https://www.cjgorj.ro/Date%20site/Info%20Cultural/Agenda%20culturala%202026/Agenda%20Culturala%202026.pdf"
+      },
+      {
+        "title": {
+          "de": "Gala Brâncuși",
+          "hu": "Brâncuși-gála",
+          "ro": "Gala Brâncuși",
+          "en": "Brâncuși Gala"
+        },
+        "summary": {
+          "de": "Die Veranstaltungsreihe verbindet kulturelle Programme in Partnerschaft mit dem Nationalmuseum „Constantin Brâncuși“ über mehrere Novembertage.",
+          "hu": "A többnapos programsorozat kulturális eseményeket kapcsol össze a „Constantin Brâncuși” Nemzeti Múzeummal partnerségben.",
+          "ro": "Seria de manifestări culturale se desfășoară pe parcursul mai multor zile, în parteneriat cu Muzeul Național „Constantin Brâncuși”.",
+          "en": "This multi-day cultural program is held in partnership with the National Museum “Constantin Brâncuși”."
+        },
+        "date": "2026-11-24",
+        "end_date": "2026-11-30",
+        "source_url": "https://www.cjgorj.ro/Date%20site/Info%20Cultural/Agenda%20culturala%202026/Agenda%20Culturala%202026.pdf"
+      }
+    ]
+  },
+  {
+    "id": "szolnok",
+    "events": [
+      {
+        "title": {
+          "de": "Szolnok Napja",
+          "hu": "Szolnok Napja",
+          "ro": "Ziua orașului Szolnok",
+          "en": "Szolnok Day"
+        },
+        "summary": {
+          "de": "Das mehrtägige Stadtfest umfasst Hild- und Kossuth-Platz-Programme, Konzerte, RepTár-Picknick, Nostalgiezug und weitere Familienangebote.",
+          "hu": "A többnapos városünnep Hild téri és Kossuth téri forgatagot, koncerteket, RepTár-pikniket, nosztalgiavonatot és családi programokat kínál.",
+          "ro": "Sărbătoarea orașului include mai multe zile de programe în piețele Hild și Kossuth, concerte, picnic la RepTár și tren nostalgic.",
+          "en": "This multi-day city celebration includes programs in Hild and Kossuth squares, concerts, a RepTár picnic, a nostalgia train, and family activities."
+        },
+        "date": "2026-08-27",
+        "end_date": "2026-09-02",
+        "source_url": "https://agoraszolnok.hu/event/szolnok-napja-4/"
+      },
+      {
+        "title": {
+          "de": "Koncz Zsuzsa koncert",
+          "hu": "Koncz Zsuzsa koncert",
+          "ro": "Concert Koncz Zsuzsa",
+          "en": "Koncz Zsuzsa concert"
+        },
+        "summary": {
+          "de": "Die bekannte ungarische Sängerin gastiert im offiziellen Programm des Aba-Novák Agóra Kulturzentrums in Szolnok.",
+          "hu": "A népszerű magyar énekesnő a szolnoki Aba-Novák Agóra hivatalos programjában lép fel.",
+          "ro": "Cunoscuta cântăreață maghiară apare în programul oficial al centrului cultural Aba-Novák Agóra din Szolnok.",
+          "en": "The well-known Hungarian singer appears in the official program of the Aba-Novák Agóra cultural center in Szolnok."
+        },
+        "date": "2026-08-31",
+        "source_url": "https://agoraszolnok.hu/event/koncz-zsuzsa-koncert-2/"
+      },
+      {
+        "title": {
+          "de": "Cotton Club Singers – Hofi 90 – Jubiläumskonzert",
+          "hu": "Cotton Club Singers – Hofi 90 – jubileumi koncert",
+          "ro": "Cotton Club Singers – Hofi 90 – concert jubiliar",
+          "en": "Cotton Club Singers – Hofi 90 – anniversary concert"
+        },
+        "summary": {
+          "de": "Das Konzertprogramm der Cotton Club Singers erinnert in Szolnok an Hofi mit einer Bühnenproduktion im Agóra.",
+          "hu": "A Cotton Club Singers jubileumi estje Hofi előtt tiszteleg egy színpadi koncertprogrammal Szolnokon.",
+          "ro": "Programul aniversar al trupei Cotton Club Singers omagiază figura lui Hofi printr-un spectacol-concert la Agóra din Szolnok.",
+          "en": "The Cotton Club Singers bring an anniversary stage concert in Szolnok dedicated to the legacy of Hofi."
+        },
+        "date": "2026-11-03",
+        "source_url": "https://agoraszolnok.hu/event/cotton-club-singers-hofi-90-jubileumi-koncert/"
+      },
+      {
+        "title": {
+          "de": "Koncert és mesterkurzus",
+          "hu": "Koncert és mesterkurzus",
+          "ro": "Concert și masterclass",
+          "en": "Concert and masterclass"
+        },
+        "summary": {
+          "de": "Das Kulturzentrum kündigt einen kombinierten Konzert- und Meisterkursabend als Teil seines Spätherbstprogramms an.",
+          "hu": "Az Agóra őszi programjában egy koncerttel egybekötött mesterkurzus szerepel Szolnokon.",
+          "ro": "Centrul cultural programează la Szolnok o seară care combină un concert cu un masterclass.",
+          "en": "The cultural center schedules a combined concert and masterclass event in Szolnok as part of its late-autumn program."
+        },
+        "date": "2026-11-27",
+        "source_url": "https://agoraszolnok.hu/event/koncert-es-mesterkurzus/"
+      }
+    ]
+  },
+  {
+    "id": "erd",
+    "events": [
+      {
+        "title": {
+          "de": "Galéria Kreatív Műhely – Halloween-Diorama-Workshop",
+          "hu": "Galéria Kreatív Műhely – Halloween dioráma workshop",
+          "ro": "Atelier creativ – workshop de dioramă Halloween",
+          "en": "Creative Gallery Workshop – Halloween diorama workshop"
+        },
+        "summary": {
+          "de": "Teilnehmer gestalten eine kleine Halloween-Szene mit bemalten Gipsfiguren sowie dekorativen Moos-, Pilz- und Pflanzenelementen.",
+          "hu": "A résztvevők festett gipszfigurákkal, mohával, gombákkal és díszítőelemekkel készítenek saját mini halloween-jelenetet.",
+          "ro": "Participanții creează o mică scenă de Halloween folosind figurine din ipsos pictate și elemente decorative precum mușchi, ciuperci și plante.",
+          "en": "Participants build a miniature Halloween scene using painted plaster figures and decorative moss, mushrooms, plants, and other elements."
+        },
+        "date": "2026-10-03",
+        "source_url": "https://erdkultura.hu/event/galeria-kreativ-muhely-halloween-diorama-workshop/"
+      },
+      {
+        "title": {
+          "de": "Galéria Kreatív Műhely – Seifenherstellungs-Workshop",
+          "hu": "Galéria Kreatív Műhely – szappankészítő workshop",
+          "ro": "Atelier creativ – workshop de făcut săpun",
+          "en": "Creative Gallery Workshop – soap-making workshop"
+        },
+        "summary": {
+          "de": "Der Workshop zeigt, wie aus pflanzlicher Glycerinseifenbasis farbige und duftende Seifen zum Mitnehmen hergestellt werden.",
+          "hu": "A foglalkozáson növényi glicerin szappanalapból készülnek színes, illatos, hazavihető szappanok.",
+          "ro": "Atelierul arată cum se pot crea săpunuri colorate și parfumate din bază vegetală de glicerină, de luat acasă.",
+          "en": "This hands-on workshop teaches visitors to make colorful, scented soaps from a plant-based glycerin base."
+        },
+        "date": "2026-11-14",
+        "source_url": "https://erdkultura.hu/event/galeria-kreativ-muhely-szappankeszito-workshop/"
+      },
+      {
+        "title": {
+          "de": "Kepes András: Der Mythos des Körpers",
+          "hu": "Kepes András: A test mítosza",
+          "ro": "Kepes András: Mitul corpului",
+          "en": "Kepes András: The myth of the body"
+        },
+        "summary": {
+          "de": "Der Vortrag verfolgt mit Bildern und Videos, wie sich die Vorstellungen vom Körper von der Urzeit bis zur Gegenwart verändert haben.",
+          "hu": "Az előadás képekkel és videóval mutatja be, hogyan változott a testhez való viszony az őskortól napjainkig.",
+          "ro": "Prelegerea urmărește, cu imagini și video, felul în care relația cu propriul corp s-a schimbat din preistorie până astăzi.",
+          "en": "This illustrated talk follows how attitudes toward the body changed from prehistory to the present day."
+        },
+        "date": "2026-11-20",
+        "source_url": "https://erdkultura.hu/event/kepes-andras-a-test-mitosza/"
+      },
+      {
+        "title": {
+          "de": "APOSTOL Großkonzert",
+          "hu": "APOSTOL Nagykoncert",
+          "ro": "Marele concert APOSTOL",
+          "en": "APOSTOL grand concert"
+        },
+        "summary": {
+          "de": "Die legendäre ungarische Popband bringt ihr Repertoire mit bekannten Klassikern nach Érd in den Szepes-Veranstaltungsort.",
+          "hu": "A legendás magyar együttes ismert slágerekkel érkezik Érdre, a Szepes helyszínére.",
+          "ro": "Trupa legendară de muzică ușoară maghiară vine la Érd cu hiturile sale consacrate, la sala Szepes.",
+          "en": "The long-running Hungarian pop group comes to Érd with its best-known classic songs at the Szepes venue."
+        },
+        "date": "2026-11-21",
+        "source_url": "https://erdkultura.hu/event/apostol-nagykoncert/"
+      }
+    ]
+  }
+]

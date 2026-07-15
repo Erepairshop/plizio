@@ -1,0 +1,449 @@
+[
+  {
+    "id": "zadar",
+    "events": [
+      {
+        "date": "2026-07-31",
+        "end_date": "2026-08-02",
+        "title": {
+          "de": "Selected Festival 2026",
+          "hu": "Selected Festival 2026",
+          "ro": "Selected Festival 2026",
+          "en": "Selected Festival 2026"
+        },
+        "summary": {
+          "de": "Das mehrtägige Boutique-Festival für elektronische Musik findet in Jazine (Đil) in Zadar statt und verbindet Abend- und Nachtprogramm am Wasser.",
+          "hu": "A többnapos boutique elektronikus zenei fesztivált Zadarban, a Jazine (Đil) helyszínen rendezik meg, esti és éjszakai programokkal a vízparton.",
+          "ro": "Festivalul boutique de muzică electronică se desfășoară pe parcursul mai multor zile la Jazine (Đil), în Zadar, cu program de seară și noapte pe malul apei.",
+          "en": "This multi-day boutique electronic music festival takes place at Jazine (Đil) in Zadar, with evening and night programming by the waterfront."
+        },
+        "source_url": "https://www.selected-croatia.com/"
+      },
+      {
+        "date": "2026-08-04",
+        "end_date": "2026-08-06",
+        "title": {
+          "de": "Selected Festival 2026",
+          "hu": "Selected Festival 2026",
+          "ro": "Selected Festival 2026",
+          "en": "Selected Festival 2026"
+        },
+        "summary": {
+          "de": "Der Zadar-Tourismuskalender listet das Selected Festival als großes Sommerfestival in Zadar mit mehreren Veranstaltungstagen Anfang August.",
+          "hu": "A zadari turisztikai eseménynaptár a Selected Fesztivált jelentős nyári zenei eseményként sorolja fel, több augusztus eleji nappal Zadarban.",
+          "ro": "Calendarul turistic din Zadar include Selected Festival ca un mare eveniment de vară în oraș, desfășurat pe parcursul mai multor zile la început de august.",
+          "en": "Zadar’s official event calendar lists Selected Festival as a major summer event in the city running over several days in early August."
+        },
+        "source_url": "https://zadar.travel/events/full-moon-festival-2026",
+        "period": {
+          "recurrent": false
+        }
+      },
+      {
+        "date": "2026-08-06",
+        "end_date": "2026-08-09",
+        "title": {
+          "de": "Full Moon Festival 2026",
+          "hu": "Full Moon Festival 2026",
+          "ro": "Festivalul Lunii Pline 2026",
+          "en": "Full Moon Festival 2026"
+        },
+        "summary": {
+          "de": "Das beliebte Sommerfestival an der Riva von Zadar läuft mehrere Tage und verbindet Abendstimmung am Meer mit einem offenen Stadtfestcharakter.",
+          "hu": "A zadari Riva partszakaszon rendezett népszerű nyári fesztivál több napon át tart, tengerparti esti hangulattal és nyitott városi ünnepi programmal.",
+          "ro": "Popularul festival de vară de pe faleza Riva din Zadar durează mai multe zile și combină atmosfera serilor de pe litoral cu un program urban deschis publicului.",
+          "en": "This popular summer festival on Zadar’s Riva runs for several days, combining a seafront evening atmosphere with an open city-festival feel."
+        },
+        "source_url": "https://zadar.travel/events/full-moon-festival-2026"
+      },
+      {
+        "date": "2026-08-06",
+        "title": {
+          "de": "Abschluss der 66. Musikalischen Abende von St. Donatus",
+          "hu": "A 66. Szent Donát Zenei Estek zárókoncertje",
+          "ro": "Închiderea ediției a 66-a a Serilor Muzicale de la Sfântul Donat",
+          "en": "Closing of the 66th Musical Evenings at St Donatus"
+        },
+        "summary": {
+          "de": "Das Abschlusskonzert des traditionsreichen Festivals bringt das Zadar Chamber Orchestra und Pavle Zajcev in den Park des Instituts für Geschichtswissenschaften.",
+          "hu": "A nagy múltú fesztivál záróestjén a Zadar Chamber Orchestra és Pavle Zajcev lép fel az Institute of Historical Sciences parkjában.",
+          "ro": "Concertul de închidere al festivalului de tradiție îi aduce pe Zadar Chamber Orchestra și pe Pavle Zajcev în parcul Institutului de Științe Istorice.",
+          "en": "The closing concert of the long-running festival brings the Zadar Chamber Orchestra and Pavle Zajcev to the Institute of Historical Sciences park."
+        },
+        "source_url": "https://zadar.travel/events/?url=https://zadar.travel/events&url=https://zadar.travel/events"
+      },
+      {
+        "date": "2026-08-12",
+        "title": {
+          "de": "Muraj Art & Sound: One Night in Havana",
+          "hu": "Muraj Art & Sound: One Night in Havana",
+          "ro": "Muraj Art & Sound: One Night in Havana",
+          "en": "Muraj Art & Sound: One Night in Havana"
+        },
+        "summary": {
+          "de": "Die Konzertreihe an den Stadtmauern von Zadar bringt Mitte August ein thematisches Open-Air-Konzertprogramm an die historischen Walls.",
+          "hu": "A zadari városfalaknál zajló koncertsorozat augusztus közepén tematikus szabadtéri zenei programot visz a történelmi falakhoz.",
+          "ro": "Seria de concerte de la zidurile orașului Zadar aduce la mijloc de august un program tematic în aer liber în spațiul fortificațiilor istorice.",
+          "en": "This concert series at Zadar’s city walls brings a themed open-air music program to the historic fortifications in mid-August."
+        },
+        "source_url": "https://zadar.travel/events/?url=https://zadar.travel/events&url=https://zadar.travel/events"
+      }
+    ]
+  },
+  {
+    "id": "city-hunedoara-extra",
+    "events": [
+      {
+        "date": "2026-07-24",
+        "end_date": "2026-07-26",
+        "title": {
+          "de": "Zilele Iancu de Hunedoara",
+          "hu": "Hunyadi János Napok",
+          "ro": "Zilele Iancu de Hunedoara",
+          "en": "Iancu de Hunedoara Days"
+        },
+        "summary": {
+          "de": "Der Veranstaltungskalender der Stadt führt Ende Juli die Zilele Iancu de Hunedoara als mehrtägiges öffentliches Stadtprogramm.",
+          "hu": "A városi eseménynaptár július végére többnapos nyilvános városi programként sorolja a Hunyadi János Napokat.",
+          "ro": "Calendarul oficial al municipiului include la final de iulie evenimentul Zilele Iancu de Hunedoara ca program public desfășurat pe parcursul mai multor zile.",
+          "en": "The city’s official event calendar lists Iancu de Hunedoara Days as a multi-day public program at the end of July."
+        },
+        "source_url": "https://www.primariahunedoara.ro/files/news_files/Anexa_3_-_Calendar_evenimente_2026.pdf"
+      },
+      {
+        "date": "2026-07-31",
+        "end_date": "2026-08-02",
+        "title": {
+          "de": "Stradivarius Music Nights by the Castle",
+          "hu": "Stradivarius Music Nights by the Castle",
+          "ro": "Stradivarius Music Nights by the Castle",
+          "en": "Stradivarius Music Nights by the Castle"
+        },
+        "summary": {
+          "de": "Das Festival findet am Corvin-Schloss statt und kombiniert klassische Konzerte mit der besonderen Kulisse des gotisch-renaissancezeitlichen Wahrzeichens von Hunedoara.",
+          "hu": "A fesztivált a Vajdahunyadi várban rendezik meg, ahol klasszikus zenei estek társulnak a gótikus-reneszánsz műemlék különleges környezetéhez.",
+          "ro": "Festivalul are loc la Castelul Corvinilor și combină seri de muzică clasică cu decorul emblematic al castelului gotic-renascentist din Hunedoara.",
+          "en": "The festival takes place at Corvin Castle, pairing classical music evenings with the landmark Gothic-Renaissance setting in Hunedoara."
+        },
+        "source_url": "https://romania-atractiva.ro/en/profiles/corvin-castle"
+      },
+      {
+        "date": "2026-08-29",
+        "end_date": "2026-08-30",
+        "title": {
+          "de": "Mittelalterfestival „Ioan de Hunedoara“",
+          "hu": "„Ioan de Hunedoara” középkori fesztivál",
+          "ro": "Festivalul Medieval „Ioan de Hunedoara”",
+          "en": "Ioan de Hunedoara Medieval Festival"
+        },
+        "summary": {
+          "de": "Der offizielle Stadtkalender kündigt das Mittelalterfestival am Ende des Augusts als Besucherereignis rund um das Corvin-Schloss an.",
+          "hu": "A hivatalos városi naptár augusztus végére hirdeti meg a középkori fesztivált, amely látogatói programként kapcsolódik a Vajdahunyadi várhoz.",
+          "ro": "Calendarul oficial al municipiului anunță festivalul medieval de la finalul lunii august ca eveniment pentru vizitatori legat de Castelul Corvinilor.",
+          "en": "The city’s official calendar announces this medieval festival at the end of August as a visitor event connected to Corvin Castle."
+        },
+        "source_url": "https://www.castelulcorvinilor.ro/festivalul-medieval/"
+      },
+      {
+        "date": "2026-09-23",
+        "end_date": "2026-09-30",
+        "title": {
+          "de": "Europäische Woche des Sports",
+          "hu": "Sport Európai Hete",
+          "ro": "Săptămâna Europeană a Sportului",
+          "en": "European Week of Sport"
+        },
+        "summary": {
+          "de": "Der Veranstaltungskalender von Hunedoara plant Ende September eine Woche mit öffentlichen Sportaktivitäten und Beteiligungsformaten in der Stadt.",
+          "hu": "Hunedoara eseménynaptára szeptember végére egyhetes nyilvános sportprogramot és közösségi részvételi eseménysort jelöl.",
+          "ro": "Calendarul de evenimente al Hunedoarei programează la final de septembrie o săptămână de activități sportive publice și participative în oraș.",
+          "en": "Hunedoara’s event calendar schedules a week of public sports activities and participation-focused programming at the end of September."
+        },
+        "source_url": "https://www.primariahunedoara.ro/files/news_files/Calendarul_De_Evenimente_%C3%8En_Municipiul_Hunedoara.pdf"
+      }
+    ]
+  },
+  {
+    "id": "netherlands-assen-cities-v2",
+    "events": [
+      {
+        "date": "2026-08-09",
+        "title": {
+          "de": "TT Experience Day",
+          "hu": "TT Experience Day",
+          "ro": "TT Experience Day",
+          "en": "TT Experience Day"
+        },
+        "summary": {
+          "de": "Am TT Circuit Assen können Motorradfans an einem Besuchertag selbst auf die Strecke; das Event ist als öffentlich buchbarer Circuit-Tag ausgeschrieben.",
+          "hu": "A TT Circuit Assen pályán a motoros rajongók egy nyilvános pályanapon maguk is pályára hajthatnak; az esemény foglalható látogatói napként szerepel.",
+          "ro": "La TT Circuit Assen, pasionații de motociclism pot intra pe circuit într-o zi publică dedicată vizitatorilor, anunțată ca eveniment rezervabil.",
+          "en": "At TT Circuit Assen, motorcycle fans can ride on the circuit during a public visitor day that is offered as a bookable event."
+        },
+        "source_url": "https://www.ttcircuit.com/en/events/tt-experience-day"
+      },
+      {
+        "date": "2026-09-18",
+        "end_date": "2026-09-20",
+        "title": {
+          "de": "British Superbikes",
+          "hu": "British Superbikes",
+          "ro": "British Superbikes",
+          "en": "British Superbikes"
+        },
+        "summary": {
+          "de": "Die British-Superbike-Rennen kehren für ein ganzes Wochenende an das TT Circuit Assen zurück und bringen internationalen Motorradsport nach Assen.",
+          "hu": "A British Superbikes teljes hétvégére tér vissza a TT Circuit Assen pályára, nemzetközi gyorsasági motorsporttal Assenben.",
+          "ro": "British Superbikes revine la TT Circuit Assen pentru un weekend întreg de curse și aduce motorsport internațional în Assen.",
+          "en": "British Superbikes returns to TT Circuit Assen for a full weekend of racing, bringing international motorcycle sport to Assen."
+        },
+        "source_url": "https://www.ttcircuit.com/en/events/british-superbikes"
+      },
+      {
+        "date": "2026-07-26",
+        "end_date": "2026-09-20",
+        "title": {
+          "de": "Amrita Sher-Gil: „Europa ist von Picasso, Indien ist von mir“",
+          "hu": "Amrita Sher-Gil: „Európa Picassóé, India az enyém”",
+          "ro": "Amrita Sher-Gil: „Europa este a lui Picasso, India este a mea”",
+          "en": "Amrita Sher-Gil: 'Europe belongs to Picasso, India belongs to me'"
+        },
+        "summary": {
+          "de": "Im Drents Museum läuft eine große Ausstellung zur modernen indischen Künstlerin Amrita Sher-Gil mit Gemälden und Zeichnungen aus Neu-Delhi.",
+          "hu": "A Drents Museum nagyszabású kiállítást rendez Amrita Sher-Gil modern indiai művész munkáiból, újdelhi kölcsönzött festményekkel és rajzokkal.",
+          "ro": "La Drents Museum este deschisă o amplă expoziție dedicată artistei moderne indiene Amrita Sher-Gil, cu picturi și desene împrumutate din New Delhi.",
+          "en": "Drents Museum is presenting a major exhibition on modern Indian artist Amrita Sher-Gil, with paintings and drawings on loan from New Delhi."
+        },
+        "source_url": "https://drentsmuseum.nl/tentoonstellingen/amrita-sher-gil-europa-is-van-picasso-india-is-van-mij"
+      },
+      {
+        "date": "2026-07-26",
+        "end_date": "2026-09-20",
+        "title": {
+          "de": "Beauty of the Beast: Tiere im Jugendstil",
+          "hu": "Beauty of the Beast: Állatok a szecesszióban",
+          "ro": "Beauty of the Beast: Animalele în art nouveau",
+          "en": "Beauty of the Beast: Animals in Art Nouveau"
+        },
+        "summary": {
+          "de": "Die aktuelle Ausstellungsagenda des Drents Museum nennt diese Ausstellung als laufende Schau bis Mitte September mit Tiermotiven aus der Art-Nouveau-Zeit.",
+          "hu": "A Drents Museum aktuális kiállítási programja szerint ez a tárlat szeptember közepéig látogatható, állatmotívumokkal a szecesszió korszakából.",
+          "ro": "Agenda actuală a expozițiilor de la Drents Museum indică această expoziție ca fiind deschisă până la mijlocul lui septembrie, cu motive animale din perioada art nouveau.",
+          "en": "Drents Museum’s current exhibitions agenda lists this show through mid-September, featuring animal motifs from the Art Nouveau period."
+        },
+        "source_url": "https://drentsmuseum.nl/tentoonstellingen"
+      },
+      {
+        "date": "2026-10-17",
+        "end_date": "2027-05-09",
+        "title": {
+          "de": "Angkor: Das Geheimnis Kambodschas",
+          "hu": "Angkor: Kambodzsa rejtélye",
+          "ro": "Angkor: misterul Cambodgiei",
+          "en": "Angkor: The Mystery of Cambodia"
+        },
+        "summary": {
+          "de": "Im Herbst eröffnet im Drents Museum eine große Ausstellung mit 120 Originalobjekten aus Angkor, die erstmals in Europa gezeigt werden sollen.",
+          "hu": "Ősszel a Drents Museum nagyszabású kiállítást nyit 120 eredeti angkori tárggyal, amelyeket először mutatnak be Európában.",
+          "ro": "În toamnă, Drents Museum deschide o mare expoziție cu 120 de obiecte originale din Angkor, prezentate pentru prima dată în Europa.",
+          "en": "In autumn, Drents Museum opens a major exhibition with 120 original objects from Angkor that are set to be shown in Europe for the first time."
+        },
+        "source_url": "https://drentsmuseum.nl/tentoonstellingen/angkor-het-mysterie-van-cambodja"
+      }
+    ]
+  },
+  {
+    "id": "sanlucar",
+    "events": [
+      {
+        "date": "2026-02-26",
+        "end_date": "2026-03-01",
+        "title": {
+          "de": "Karneval von Sanlúcar",
+          "hu": "Sanlúcari karnevál",
+          "ro": "Carnavalul din Sanlúcar",
+          "en": "Sanlúcar Carnival"
+        },
+        "summary": {
+          "de": "Das offizielle Tourismusprogramm beschreibt den Karneval als ein populäres Stadtfest mit musikalischen Darbietungen und starkem lokaler Beteiligung.",
+          "hu": "A hivatalos turisztikai naptár a karnevált népszerű városi ünnepként mutatja be, zenei fellépésekkel és erős helyi részvétellel.",
+          "ro": "Calendarul oficial de turism prezintă carnavalul ca o mare sărbătoare populară a orașului, cu reprezentații muzicale și participare locală amplă.",
+          "en": "The official tourism calendar presents Carnival as a popular city celebration with musical performances and broad local participation."
+        },
+        "source_url": "https://www.sanlucarturismo.com/en/calendario-fiestas-eventos/",
+        "period": {
+          "recurrent": true
+        }
+      },
+      {
+        "date": "2026-06-02",
+        "end_date": "2026-06-07",
+        "title": {
+          "de": "Feria de la Manzanilla 2026",
+          "hu": "Feria de la Manzanilla 2026",
+          "ro": "Feria de la Manzanilla 2026",
+          "en": "Manzanilla Fair 2026"
+        },
+        "summary": {
+          "de": "Die bekannte Wein- und Volksfestwoche von Sanlúcar feiert den lokalen Manzanilla-Sherry mit Festzelten, Musik und einer zentralen Lage an der Calzada.",
+          "hu": "Sanlúcar ismert bor- és városi ünnepe a helyi Manzanilla sherryt ünnepli sátrakkal, zenével és a Calzada központi helyszínével.",
+          "ro": "Cunoscutul târg al orașului celebrează vinul local Manzanilla prin casete, muzică și amplasarea centrală pe Calzada.",
+          "en": "Sanlúcar’s well-known fair celebrates local Manzanilla sherry with fair tents, music, and its central setting along the Calzada."
+        },
+        "source_url": "https://www.sanlucarturismo.com/en/calendario-fiestas-eventos/",
+        "period": {
+          "recurrent": true
+        }
+      },
+      {
+        "date": "2026-06-22",
+        "end_date": "2026-06-28",
+        "title": {
+          "de": "IV. Woche der Manzanilla",
+          "hu": "IV. Manzanilla Hét",
+          "ro": "A IV-a Săptămână a Manzanillei",
+          "en": "4th Week of Manzanilla"
+        },
+        "summary": {
+          "de": "Die Tourismusdelegation bewirbt Ende Juni eine Themenwoche rund um Manzanilla mit touristischen und gastronomischen Aktivitäten in Sanlúcar.",
+          "hu": "A turisztikai hivatal június végére Manzanilla-tematikájú hetet hirdet Sanlúcarban turisztikai és gasztronómiai programokkal.",
+          "ro": "Delegația de turism promovează la final de iunie o săptămână tematică dedicată Manzanillei, cu activități turistice și gastronomice în Sanlúcar.",
+          "en": "The tourism office promotes a late-June themed week around Manzanilla with tourist and gastronomic activities across Sanlúcar."
+        },
+        "source_url": "https://www.sanlucarturismo.com/en/semanadelamanzanilla2026/",
+        "period": {
+          "recurrent": true
+        }
+      },
+      {
+        "date": "2026-08-08",
+        "end_date": "2026-08-23",
+        "title": {
+          "de": "Pferderennen am Strand",
+          "hu": "Lóversenyek a tengerparton",
+          "ro": "Curse de cai pe plajă",
+          "en": "Horse Races on the Beach"
+        },
+        "summary": {
+          "de": "Die international bekannte Rennserie von Sanlúcar wird an sechs Augusttagen am Strand an der Guadalquivir-Mündung ausgetragen.",
+          "hu": "Sanlúcar nemzetközileg ismert lóversenyeit augusztusban hat napon rendezik meg a Guadalquivir torkolatánál fekvő strandon.",
+          "ro": "Seria de curse celebră internațional din Sanlúcar se desfășoară în șase zile din august, pe plaja de la gura fluviului Guadalquivir.",
+          "en": "Sanlúcar’s internationally known racing series is held on six August days on the beach at the mouth of the Guadalquivir."
+        },
+        "source_url": "https://www.sanlucarturismo.com/en/carrerasdecaballosenlaplaya/"
+      },
+      {
+        "date": "2026-08-15",
+        "title": {
+          "de": "Patronatsfeste der Virgen de la Caridad",
+          "hu": "A Virgen de la Caridad patrónusünnepe",
+          "ro": "Sărbătoarea patroanei Virgen de la Caridad",
+          "en": "Patron's Holidays of the Virgin of Charity"
+        },
+        "summary": {
+          "de": "Die offiziellen Patronatsfeste von Sanlúcar heben die Prozession der Virgen de la Caridad hervor, die durch geschmückte zentrale Straßen zieht.",
+          "hu": "Sanlúcar hivatalos patrónusünnepe a Virgen de la Caridad körmenetét emeli ki, amely feldíszített központi utcákon halad végig.",
+          "ro": "Sărbătoarea oficială a patroanei din Sanlúcar evidențiază procesiunea Fecioarei de la Caridad prin străzile centrale decorate ale orașului.",
+          "en": "Sanlúcar’s official patron festivities highlight the procession of the Virgin of Charity through the city’s decorated central streets."
+        },
+        "source_url": "https://www.sanlucarturismo.com/en/calendario-fiestas-eventos/"
+      }
+    ]
+  },
+  {
+    "id": "city-roman-extra",
+    "events": [
+      {
+        "date": "2026-05-14",
+        "end_date": "2026-05-21",
+        "title": {
+          "de": "Tage der Stadt Roman",
+          "hu": "Roman város napjai",
+          "ro": "Zilele Municipiului Roman",
+          "en": "Days of the Municipality of Roman"
+        },
+        "summary": {
+          "de": "Die Stadt Roman veranstaltet ihre mehrtägigen Stadttage mit Gemeinschafts- und Kulturprogramm; die Ausgabe 2026 ist offiziell vom Rathaus angekündigt.",
+          "hu": "Roman városa többnapos városnapi rendezvénysorozatot tart közösségi és kulturális programokkal; a 2026-os kiadást a városháza hivatalosan meghirdette.",
+          "ro": "Municipiul Roman organizează Zilele Municipiului ca eveniment comunitar și cultural pe mai multe zile; ediția 2026 este anunțată oficial de primărie.",
+          "en": "Roman holds its city days as a multi-day community and culture event, and the 2026 edition is officially announced by the municipality."
+        },
+        "source_url": "https://primariaroman.ro/agenda-evenimentelor/",
+        "period": {
+          "recurrent": true
+        }
+      },
+      {
+        "date": "2026-08-01",
+        "end_date": "2026-08-06",
+        "title": {
+          "de": "Bâlciul Romașcan",
+          "hu": "Bâlciul Romașcan",
+          "ro": "Bâlciul Romașcan",
+          "en": "Bâlciul Romașcan Fair"
+        },
+        "summary": {
+          "de": "Das offizielle Protokoll der Stadt listet den traditionellen Jahrmarkt von Roman Anfang August als mehrtägige öffentliche Veranstaltung.",
+          "hu": "A város hivatalos protokollja az augusztus eleji hagyományos roman-i vásárt többnapos nyilvános eseményként sorolja fel.",
+          "ro": "Protocolul oficial al municipiului include Bâlciul Romașcan, la început de august, ca eveniment public desfășurat pe parcursul mai multor zile.",
+          "en": "The municipality’s official protocol lists the traditional Roman fair in early August as a multi-day public event."
+        },
+        "source_url": "https://primariaroman.ro/wp-content/uploads/2026/05/009-protocol-Ambulanta.pdf"
+      },
+      {
+        "date": "2026-12-01",
+        "title": {
+          "de": "Nationalfeiertag Rumäniens in Roman",
+          "hu": "Románia nemzeti ünnepe Romanban",
+          "ro": "Ziua Națională a României la Roman",
+          "en": "Romania's National Day in Roman"
+        },
+        "summary": {
+          "de": "Die Stadt führt den 1. Dezember im offiziellen Veranstaltungsprotokoll als öffentlichen Feiertag mit organisiertem Programm in Roman.",
+          "hu": "A város a december 1-jei nemzeti ünnepet hivatalos rendezvényprotokolljában nyilvános, szervezett programként szerepelteti Romanban.",
+          "ro": "Municipiul include 1 Decembrie în protocolul oficial al evenimentelor publice organizate la Roman.",
+          "en": "The municipality includes 1 December in its official protocol of public events organized in Roman."
+        },
+        "source_url": "https://primariaroman.ro/wp-content/uploads/2026/05/009-protocol-Ambulanta.pdf"
+      },
+      {
+        "date": "2026-12-29",
+        "title": {
+          "de": "Festival der Traditionen und Bräuche „Roman Metropolitan“",
+          "hu": "„Roman Metropolitan” hagyományőrző fesztivál",
+          "ro": "Festivalul de datini și obiceiuri „Roman Metropolitan”",
+          "en": "Roman Metropolitan Customs and Traditions Festival"
+        },
+        "summary": {
+          "de": "Das Rathaus listet das Festival der Winterbräuche als wiederkehrendes Jahresend-Ereignis im städtischen Veranstaltungskatalog.",
+          "hu": "A városháza a téli szokásokat bemutató fesztivált visszatérő évzáró eseményként sorolja fel a városi rendezvényjegyzékben.",
+          "ro": "Primăria listează festivalul de datini și obiceiuri ca eveniment recurent de sfârșit de an în catalogul său de evenimente.",
+          "en": "The city hall lists this winter customs festival as a recurring year-end event in its municipal events catalogue."
+        },
+        "source_url": "https://primariaroman.ro/category/evenimente-din-roman/",
+        "period": {
+          "recurrent": true
+        }
+      },
+      {
+        "date": "2026-12-31",
+        "title": {
+          "de": "Silvester in Roman",
+          "hu": "Szilveszter Romanban",
+          "ro": "Revelion la Roman",
+          "en": "New Year's Eve in Roman"
+        },
+        "summary": {
+          "de": "Die Stadt Roman führt ihre öffentliche Silvesterfeier als wiederkehrendes Jahresabschlussereignis auf ihren offiziellen Veranstaltungsseiten.",
+          "hu": "Roman városa a hivatalos eseményoldalain visszatérő évzáró nyilvános programként tünteti fel a szilveszteri ünnepséget.",
+          "ro": "Municipiul Roman prezintă Revelionul ca eveniment public recurent de încheiere a anului pe paginile sale oficiale de evenimente.",
+          "en": "The city of Roman presents its New Year's Eve celebration as a recurring public year-end event on official event pages."
+        },
+        "source_url": "https://primariaroman.ro/category/evenimente-din-roman/",
+        "period": {
+          "recurrent": true
+        }
+      }
+    ]
+  }
+]

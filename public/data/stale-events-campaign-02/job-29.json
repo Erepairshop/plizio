@@ -1,0 +1,410 @@
+[
+  {
+    "id": "villefranche-sur-saone",
+    "events": [
+      {
+        "date": "2026-06-01",
+        "end_date": "2026-09-26",
+        "period": {
+          "recurrent": true
+        },
+        "title": {
+          "de": "Ein Sommer in Villefranche",
+          "hu": "Nyár Villefranche-ban",
+          "ro": "O vară la Villefranche",
+          "en": "A Summer in Villefranche",
+          "fr": "Un été à Villefranche"
+        },
+        "summary": {
+          "de": "Das städtische Sommerprogramm bündelt bis Ende September zahlreiche Aktivitäten am Plan d'eau du Bordelan und in der Stadt, darunter Sport, Kultur und Familienangebote.",
+          "hu": "A városi nyári programsorozat szeptember végéig sokféle sportos, kulturális és családi eseményt kínál a Bordelan tónál és a belvárosban.",
+          "ro": "Programul estival al orașului reunește până la sfârșitul lui septembrie numeroase activități sportive, culturale și pentru familii la Plan d'eau du Bordelan și în oraș.",
+          "en": "The city's summer program runs through late September with a broad mix of sports, cultural activities, and family events at the Bordelan lake area and around town.",
+          "fr": "Le programme estival de la ville se poursuit jusqu'à fin septembre avec de nombreuses animations sportives, culturelles et familiales au plan d'eau du Bordelan et en centre-ville."
+        },
+        "source_url": "https://www.villefranche.net/au-coeur-de-levenement/grands-evenements/un-ete-a-villefranche/"
+      },
+      {
+        "date": "2026-08-04",
+        "period": {
+          "recurrent": true
+        },
+        "title": {
+          "de": "Geführte Tour \"Verborgene Schätze von Villefranche\"",
+          "hu": "\"Villefranche rejtett kincsei\" vezetett séta",
+          "ro": "Tur ghidat „Comorile ascunse din Villefranche”",
+          "en": "Guided tour \"Hidden Treasures of Villefranche\"",
+          "fr": "Visite guidée « Trésors cachés Villefranche »"
+        },
+        "summary": {
+          "de": "Diese Sommerführung startet am Tourismusbüro und zeigt an mehreren Augustterminen weniger bekannte Orte und Details der Altstadt.",
+          "hu": "A turisztikai irodától induló nyári séta augusztus több időpontjában mutatja be az óváros kevésbé ismert helyeit és részleteit.",
+          "ro": "Turul de vară pornește de la oficiul de turism și prezintă în mai multe date din august locuri și detalii mai puțin cunoscute din centrul vechi.",
+          "en": "Starting from the tourist office, this summer guided walk highlights lesser-known places and architectural details in the old town on multiple August dates.",
+          "fr": "Au départ de l'office de tourisme, cette visite estivale met en valeur des lieux et détails méconnus du centre ancien à plusieurs dates en août."
+        },
+        "source_url": "https://www.villefranche.net/agenda/visite-guidee-tresors-caches-villefranche-pays-dart-et-dhistoire/"
+      },
+      {
+        "date": "2026-08-05",
+        "period": {
+          "recurrent": true
+        },
+        "title": {
+          "de": "Spiel-Tour \"Das Geheimnis der Herren von Beaujeu\"",
+          "hu": "\"A beaujeu-i urak titka\" játékos séta",
+          "ro": "Vizită-joc „Misterul seniorilor de Beaujeu”",
+          "en": "Game tour \"The Mystery of the Lords of Beaujeu\"",
+          "fr": "Visite-jeu « Le mystère des Sires de Beaujeu »"
+        },
+        "summary": {
+          "de": "Die familienfreundliche Tour für Kinder von etwa 6 bis 12 Jahren findet im August mittwochs statt und startet am Tourismusbüro.",
+          "hu": "A körülbelül 6 és 12 év közötti gyerekeknek szóló családi program augusztusban szerdánként indul a turisztikai irodától.",
+          "ro": "Activitatea pentru familii, recomandată copiilor de aproximativ 6-12 ani, are loc în fiecare miercuri din august și pornește de la oficiul de turism.",
+          "en": "This family-friendly activity for children around ages 6 to 12 runs on Wednesdays in August and starts from the tourist office.",
+          "fr": "Cette visite-jeu familiale, conseillée aux enfants de 6 à 12 ans, est proposée les mercredis d'août au départ de l'office de tourisme."
+        },
+        "source_url": "https://www.villefranche.net/agenda/visite-jeu-le-mystere-des-sires-de-beaujeu/"
+      },
+      {
+        "date": "2026-08-01",
+        "title": {
+          "de": "Rosé Sommernacht",
+          "hu": "Rosé nyári est",
+          "ro": "Noapte de vară Rosé",
+          "en": "Rosé Summer Night",
+          "fr": "Rosé nuit d'été"
+        },
+        "summary": {
+          "de": "Die Beaujolais-Sommerreihe macht Anfang August in Villefranche Station und verbindet Wein, Musik und gesellige Abendstimmung.",
+          "hu": "A Beaujolais nyári sorozata augusztus elején Villefranche-ban is megáll, ahol a bor, a zene és a laza esti hangulat kerül középpontba.",
+          "ro": "Seria estivală din Beaujolais ajunge la început de august și la Villefranche, combinând vinul, muzica și atmosfera relaxată de seară.",
+          "en": "This Beaujolais summer series stops in Villefranche in early August, pairing rosé wine, music, and an easy-going evening atmosphere.",
+          "fr": "Cette étape estivale en Beaujolais fait halte à Villefranche début août et mêle vins rosés, musique et ambiance conviviale."
+        },
+        "source_url": "https://www.beaujolais-tourisme.com/fetes-et-manifestations-en-beaujolais/rose-nuit-d-ete-7814254.html"
+      }
+    ]
+  },
+  {
+    "id": "baja",
+    "events": [
+      {
+        "date": "2026-07-24",
+        "end_date": "2026-07-26",
+        "title": {
+          "de": "BeerBQ Handwerksbier- und Streetfood-Festival",
+          "hu": "BeerBQ Bajai Kisüzemi Sör- és Streetfood Fesztivál",
+          "ro": "Festivalul BeerBQ de bere artizanală și street food",
+          "en": "BeerBQ Craft Beer and Street Food Festival"
+        },
+        "summary": {
+          "de": "Das mehrtägige Festival am Tóth Kálmán tér bringt Ende Juli Craft-Bier, Streetfood und Live-Musik nach Baja.",
+          "hu": "A többnapos fesztivál a Tóth Kálmán téren kézműves sörökkel, street fooddal és zenei programokkal várja a látogatókat július végén.",
+          "ro": "Festivalul de câteva zile din Tóth Kálmán tér aduce la sfârșitul lui iulie bere artizanală, street food și atmosferă muzicală în Baja.",
+          "en": "Held in Tóth Kálmán Square, this multi-day late-July festival combines craft beer, street food, and live music in Baja."
+        },
+        "source_url": "https://www.programturizmus.hu/ajanlat-kezmuves-sorfesztival-streetfood-fesztival.html"
+      },
+      {
+        "date": "2026-08-22",
+        "title": {
+          "de": "Bajaer Kuttelgulasch-Kochwettbewerb",
+          "hu": "III. Bajai Pacalpörkölt-főző verseny",
+          "ro": "Concursul de gătit tocăniță de burtă din Baja",
+          "en": "Baja Tripe Stew Cooking Competition"
+        },
+        "summary": {
+          "de": "Der dritte Wettbewerb lädt Teams zum Kochen von Pacalpörkölt ein; dazu kommen Jurybewertung, Konzert von Bad Times und DJ-Programm.",
+          "hu": "A harmadik főzőversenyen a csapatok pacalpörköltet készítenek, a programot szakmai zsűri, Bad Times koncert és DJ Szasza egészíti ki.",
+          "ro": "A treia ediție a concursului adună echipe care gătesc pacalpörkölt, cu jurizare profesională, concert Bad Times și program DJ.",
+          "en": "The third edition invites teams to cook tripe stew, with judging by a professional jury plus a Bad Times concert and DJ entertainment."
+        },
+        "source_url": "https://www.programturizmus.hu/partner-vol-1-club.html"
+      },
+      {
+        "date": "2026-08-28",
+        "title": {
+          "de": "Oncsa Gastronomiefestival",
+          "hu": "V. Oncsa Gasztrofesztivál",
+          "ro": "Festivalul gastronomic Oncsa",
+          "en": "Oncsa Gastronomy Festival"
+        },
+        "summary": {
+          "de": "Das fünfte Oncsa-Festival in der Dömötör utca setzt auf lokale Gastronomie und ein Bühnenprogramm mit Dupla KáVé als Hauptact.",
+          "hu": "Az ötödik Oncsa Gasztrofesztivál a Dömötör utcában helyi gasztronómiát és színpadi programot kínál, sztárfellépőként a Dupla KáVéval.",
+          "ro": "A cincea ediție a festivalului din strada Dömötör pune accent pe gastronomie și pe un program scenic al cărui invitat principal este Dupla KáVé.",
+          "en": "The fifth edition in Dömötör Street focuses on local food and stage entertainment, headlined by Dupla KáVé."
+        },
+        "source_url": "https://www.programturizmus.hu/ajanlat-oncsa-gasztrofesztival.html"
+      },
+      {
+        "date": "2026-11-28",
+        "end_date": "2026-12-24",
+        "period": {
+          "recurrent": true
+        },
+        "title": {
+          "de": "Advent in Baja",
+          "hu": "Advent Baja 2026",
+          "ro": "Advent Baja 2026",
+          "en": "Advent Baja 2026"
+        },
+        "summary": {
+          "de": "Die Adventsreihe auf dem Szentháromság tér und an weiteren Orten bietet Weihnachtsmarktstimmung und saisonale Programme bis Heiligabend.",
+          "hu": "A Szentháromság téren és más helyszíneken zajló adventi sorozat vásári hangulatot és ünnepi programokat kínál karácsonyig.",
+          "ro": "Seria de Advent din Piața Szentháromság și din alte locuri din oraș aduce atmosferă de târg și programe sezoniere până la Ajun.",
+          "en": "Running at Szentháromság Square and other venues, Baja's Advent series offers a holiday market atmosphere and seasonal programming through Christmas Eve."
+        },
+        "source_url": "https://www.programturizmus.hu/ajanlat-advent-baja.html"
+      }
+    ]
+  },
+  {
+    "id": "france-tours-south-cities-v2",
+    "events": [
+      {
+        "date": "2026-05-01",
+        "end_date": "2026-09-30",
+        "period": {
+          "recurrent": true
+        },
+        "title": {
+          "de": "Die Guinguette von Tours",
+          "hu": "A tours-i Guinguette nyári programjai",
+          "ro": "Guinguette de Tours",
+          "en": "The Guinguette of Tours",
+          "fr": "La Guinguette de Tours"
+        },
+        "summary": {
+          "de": "Das Freiluftprogramm an der Loire bietet von Frühling bis Ende September über 150 kostenlose Veranstaltungen mit Musik, Begegnungen und Sommeratmosphäre.",
+          "hu": "A Loire partján működő szabadtéri helyszín tavasztól szeptember végéig több mint 150 ingyenes eseményt kínál zenével és nyári hangulattal.",
+          "ro": "Programul în aer liber de pe malul Loarei oferă din primăvară până la sfârșitul lui septembrie peste 150 de evenimente gratuite, cu muzică și atmosferă de vară.",
+          "en": "Set on the Loire riverbank, this open-air venue hosts more than 150 free events from spring to late September with music and a relaxed summer atmosphere.",
+          "fr": "Installée sur les bords de Loire, la Guinguette propose du printemps à fin septembre plus de 150 rendez-vous gratuits dans une ambiance estivale."
+        },
+        "source_url": "https://laguinguette.tours.fr/"
+      },
+      {
+        "date": "2026-08-06",
+        "period": {
+          "recurrent": true
+        },
+        "title": {
+          "de": "Besuch des Karlsturm bei Sonnenuntergang",
+          "hu": "Naplementés látogatás a Károly-toronyban",
+          "ro": "Vizită la Turnul Charlemagne la apus",
+          "en": "Tour Charlemagne at sunset",
+          "fr": "Visite de la tour Charlemagne au coucher du soleil"
+        },
+        "summary": {
+          "de": "Die sommerliche Führung öffnet den Turm an mehreren Augustabenden und verbindet Aussicht über Tours mit historischem Kontext.",
+          "hu": "A nyári vezetett program augusztus több estéjén teszi látogathatóvá a tornyot, kilátással Tours városára és történeti magyarázatokkal.",
+          "ro": "Vizita de vară deschide turnul în mai multe seri de august și combină panorama asupra orașului Tours cu explicații istorice.",
+          "en": "This summer visit opens the tower on several August evenings, combining panoramic views over Tours with historical interpretation.",
+          "fr": "Cette visite estivale ouvre la tour à plusieurs reprises en août et associe panorama sur Tours et découverte patrimoniale."
+        },
+        "source_url": "https://www.tours-tourisme.fr/agenda/visite-guidee-la-tour-charlemagne-au-coucher-du-soleil/"
+      },
+      {
+        "date": "2026-08-22",
+        "end_date": "2026-08-23",
+        "title": {
+          "de": "Caesarodunum: Tours in gallorömischer Zeit",
+          "hu": "Caesarodunum: Tours a gall-római korban",
+          "ro": "Caesarodunum: Tours în epoca galo-romană",
+          "en": "Caesarodunum: Tours in the Gallo-Roman era",
+          "fr": "Caesarodunum - Tours à l'époque gallo-romaine"
+        },
+        "summary": {
+          "de": "Das zweitägige Geschichtswochenende lässt die gallorömische Vergangenheit von Tours mit Vorführungen und Vermittlungsangeboten lebendig werden.",
+          "hu": "A kétnapos történelmi hétvége bemutatókkal és közvetítő programokkal idézi meg Tours gall-római múltját.",
+          "ro": "Weekendul de două zile dedicat istoriei readuce la viață trecutul galo-roman al orașului Tours prin demonstrații și activități de interpretare.",
+          "en": "This two-day history event brings the Gallo-Roman past of Tours to life with demonstrations and interpretive activities.",
+          "fr": "Ce rendez-vous de deux jours fait revivre le passé gallo-romain de Tours à travers animations et médiation historique."
+        },
+        "source_url": "https://www.tours-tourisme.fr/agenda/caesarodunum-tours-a-lepoque-gallo-romaine/"
+      },
+      {
+        "date": "2026-09-19",
+        "title": {
+          "de": "Nino Arial",
+          "hu": "Nino Arial",
+          "ro": "Nino Arial",
+          "en": "Nino Arial",
+          "fr": "Nino Arial"
+        },
+        "summary": {
+          "de": "Der Komiker präsentiert sein erstes Bühnenprogramm im Palais des Congrès de Tours mit Stand-up und Improvisation.",
+          "hu": "A humorista első önálló estjét mutatja be a tours-i Palais des Congrès színpadán stand-up és improvizációs elemekkel.",
+          "ro": "Comediantul își prezintă primul spectacol solo la Palais des Congrès din Tours, cu stand-up și improvizație.",
+          "en": "The comedian brings his first full stage show to the Palais des Congrès in Tours, mixing stand-up and improvisation.",
+          "fr": "L'humoriste présente son premier spectacle au Palais des Congrès de Tours, entre stand-up et improvisation."
+        },
+        "source_url": "https://www.tours-evenements.com/agenda/nino-arial2"
+      }
+    ]
+  },
+  {
+    "id": "saint-dizier",
+    "events": [
+      {
+        "date": "2026-08-01",
+        "title": {
+          "de": "Brag'art de rue 2026: \"Liechtenstein, die Plenarsitzung\"",
+          "hu": "Brag'art de rue 2026: \"Liechtenstein, a plenáris ülés\"",
+          "ro": "Brag'art de rue 2026: „Liechtenstein, plenara”",
+          "en": "Brag'art de rue 2026: \"Liechtenstein, the plenary session\"",
+          "fr": "Brag'art de rue 2026 : « Liechtenstein, la plénière »"
+        },
+        "summary": {
+          "de": "Das kostenlose Straßentheaterstück am Place des Petites Halles ist eine satirische Performance über Reichtum, Einfluss und Steuerflucht.",
+          "hu": "Az ingyenes utcai előadás a Place des Petites Halles téren szatirikus műsor a gazdagságról, a befolyásról és az adóelkerülésről.",
+          "ro": "Spectacolul gratuit de teatru de stradă din Place des Petites Halles propune o satiră despre bogăție, influență și evaziune fiscală.",
+          "en": "This free street-theatre performance at Place des Petites Halles offers a sharp satire about wealth, influence, and tax evasion.",
+          "fr": "Ce spectacle gratuit de rue, place des Petites Halles, propose une satire mordante autour de la richesse, de l'influence et de l'évasion fiscale."
+        },
+        "source_url": "https://www.saint-dizier.fr/agenda/bragart-de-rue-2026-liechtenstein-la-pleniere/"
+      },
+      {
+        "date": "2026-08-07",
+        "title": {
+          "de": "Ciné Jard: Grease",
+          "hu": "Ciné Jard: Grease",
+          "ro": "Ciné Jard: Grease",
+          "en": "Ciné Jard: Grease",
+          "fr": "Ciné Jard : Grease"
+        },
+        "summary": {
+          "de": "Die Stadt organisiert im Parc du Jard eine kostenlose Open-Air-Kinovorführung von \"Grease\" mit Snacks vor Ort über Ciné Quai.",
+          "hu": "A város ingyenes szabadtéri vetítést rendez a Parc du Jard parkban a Grease filmmel, helyszíni édesség- és pattogatott kukorica kínálattal.",
+          "ro": "Orașul organizează în Parc du Jard o proiecție gratuită în aer liber a filmului „Grease”, cu gustări și popcorn prin partenerul Ciné Quai.",
+          "en": "The city hosts a free open-air screening of \"Grease\" in Parc du Jard, with sweets and popcorn available on site through Ciné Quai.",
+          "fr": "La ville propose au parc du Jard une séance de cinéma en plein air gratuite autour de « Grease », avec sucreries et pop-corn sur place."
+        },
+        "source_url": "https://www.saint-dizier.fr/agenda/cine-jard-grease/"
+      },
+      {
+        "date": "2026-07-12",
+        "end_date": "2026-08-23",
+        "period": {
+          "recurrent": true
+        },
+        "title": {
+          "de": "Die Sonntage der Abtei",
+          "hu": "Az apátság vasárnapjai",
+          "ro": "Duminicile abației",
+          "en": "The Abbey Sundays",
+          "fr": "Les Dimanches de l'Abbaye"
+        },
+        "summary": {
+          "de": "An der Abtei von Trois-Fontaines laufen im Sommer wiederkehrende Nachmittage mit Kunsthandwerk, Besichtigungen, Fahrradmuseum und Familienangeboten.",
+          "hu": "A Trois-Fontaines-i apátságban a nyári vasárnapokon kézműves programok, látogatások, kerékpármúzeum és családi elfoglaltságok várják a közönséget.",
+          "ro": "La abația din Trois-Fontaines, după-amiezile recurente de vară combină artizanat, vizite, muzeul bicicletei și activități pentru familii.",
+          "en": "At Trois-Fontaines Abbey, recurring summer afternoons combine crafts, abbey visits, a bicycle museum, and family-friendly activities.",
+          "fr": "À l'abbaye de Trois-Fontaines, ces rendez-vous estivaux récurrents mêlent artisanat, visites, musée du vélo et animations familiales."
+        },
+        "source_url": "https://www.saint-dizier.fr/agenda/les-dimanches-de-labbaye-8478166/"
+      },
+      {
+        "date": "2026-08-19",
+        "title": {
+          "de": "Visit' Apéro in Saint-Dizier",
+          "hu": "Visit' Apéro Saint-Dizier-ben",
+          "ro": "Visit' Apéro la Saint-Dizier",
+          "en": "Visit' Apéro in Saint-Dizier",
+          "fr": "Visit' Apéro à Saint-Dizier"
+        },
+        "summary": {
+          "de": "Die geführte Abendtour durch die Bragarder Straßen verbindet Stadtgeschichte und Kunstguss-Erbe mit einer Verkostung lokaler Produkte.",
+          "hu": "Az esti vezetett séta a bragard utcákon a város történetét és az öntöttvas művészeti örökséget helyi termékek kóstolójával kapcsolja össze.",
+          "ro": "Turul ghidat de seară prin străzile orașului combină istoria locală și patrimoniul fontei decorative cu o degustare de produse regionale.",
+          "en": "This guided evening walk through the historic streets combines local history and cast-iron heritage with a tasting of regional products.",
+          "fr": "Cette balade commentée dans les rues bragardes associe découverte historique, patrimoine métallurgique et dégustation de produits du terroir."
+        },
+        "source_url": "https://www.saint-dizier.fr/agenda/escapades-le-coeur-historique-de-saint-dizier/"
+      }
+    ]
+  },
+  {
+    "id": "vitrolles",
+    "events": [
+      {
+        "date": "2026-07-08",
+        "end_date": "2026-08-28",
+        "period": {
+          "recurrent": true
+        },
+        "title": {
+          "de": "Olympiaden an der Plage des Marettes",
+          "hu": "Olimpiák a Marettes strandon",
+          "ro": "Olimpiade la Plage des Marettes",
+          "en": "Olympiads at Plage des Marettes",
+          "fr": "Olympiades à la plage des Marettes"
+        },
+        "summary": {
+          "de": "Die städtische Sommerserie bietet bis Ende August spielerische Strandaktivitäten an der Plage des Marettes.",
+          "hu": "A városi nyári sorozat augusztus végéig játékos strandprogramokat kínál a Plage des Marettes helyszínen.",
+          "ro": "Seria estivală a orașului propune până la sfârșitul lui august activități ludice pe plaja des Marettes.",
+          "en": "This city-run summer series offers playful beach activities at Plage des Marettes through the end of August.",
+          "fr": "Cette animation estivale municipale propose jusqu'à fin août des activités ludiques à la plage des Marettes."
+        },
+        "source_url": "https://www.vitrolles13.fr/evenements/"
+      },
+      {
+        "date": "2026-08-04",
+        "title": {
+          "de": "\"Wer ist die Berrelue?\"",
+          "hu": "\"Ki a Berrelue?\"",
+          "ro": "„Cine este Berrelue?”",
+          "en": "\"Who is the Berrelue?\"",
+          "fr": "« Qui est la Berrelue ? »"
+        },
+        "summary": {
+          "de": "Die touristische Entdeckungstour ab dem Point Info lädt Besucher dazu ein, auf spielerische Weise eine lokale Figur und den Ort kennenzulernen.",
+          "hu": "A turisztikai információs ponttól induló program játékos formában mutat be egy helyi figurát és a város örökségét.",
+          "ro": "Plecată de la punctul de informare turistică, această ieșire propune o descoperire ludică a unei figuri locale și a patrimoniului orașului.",
+          "en": "Starting from the tourist information point, this outing offers a playful way to discover a local character and part of the town's heritage.",
+          "fr": "Au départ du point info tourisme, cette sortie propose une découverte ludique d'un personnage local et d'une part du patrimoine vitrollais."
+        },
+        "source_url": "https://www.vitrolles13.fr/evenements/"
+      },
+      {
+        "date": "2026-08-14",
+        "title": {
+          "de": "Prozession von Notre-Dame-de-Vie",
+          "hu": "A Notre-Dame-de-Vie körmenete",
+          "ro": "Procesiunea Notre-Dame-de-Vie",
+          "en": "Procession of Notre-Dame-de-Vie",
+          "fr": "Procession de Notre-Dame-de-Vie"
+        },
+        "summary": {
+          "de": "Die traditionelle Augustprozession führt von der Kapelle Notre-Dame-de-Vie hinunter zum Théâtre de Verdure und wird von einer Messe begleitet.",
+          "hu": "A hagyományos augusztusi körmenet a Notre-Dame-de-Vie kápolnától indul a Théâtre de Verdure felé, majd misével folytatódik.",
+          "ro": "Procesiunea tradițională de august coboară de la capela Notre-Dame-de-Vie spre Théâtre de Verdure și este urmată de slujbă.",
+          "en": "This traditional August procession descends from the Notre-Dame-de-Vie chapel to the Théâtre de Verdure and is followed by a religious service.",
+          "fr": "Cette procession traditionnelle d'août descend de la chapelle Notre-Dame-de-Vie jusqu'au théâtre de verdure avant la célébration religieuse."
+        },
+        "source_url": "https://www.vitrolles13.fr/evenements/procession-de-notre-dame-de-vie/"
+      },
+      {
+        "date": "2026-08-21",
+        "title": {
+          "de": "Die Nächte am Felsen",
+          "hu": "Sziklai éjszakák",
+          "ro": "Nopțile de pe stâncă",
+          "en": "Nights on the Rock",
+          "fr": "Les nuits du rocher"
+        },
+        "summary": {
+          "de": "Das kostenlose Konzert im Théâtre de Verdure präsentiert \"Autour de France\", eine Hommage an France Gall in sommerlicher Open-Air-Kulisse.",
+          "hu": "Az ingyenes koncert a Théâtre de Verdure helyszínen az Autour de France műsorával tiszteleg France Gall előtt szabadtéri nyári hangulatban.",
+          "ro": "Concertul gratuit de la Théâtre de Verdure aduce „Autour de France”, un omagiu dedicat lui France Gall, într-un cadru estival în aer liber.",
+          "en": "This free open-air concert at the Théâtre de Verdure features \"Autour de France\", a tribute show dedicated to France Gall.",
+          "fr": "Ce concert gratuit au théâtre de verdure accueille « Autour de France », un hommage à France Gall dans un cadre estival en plein air."
+        },
+        "source_url": "https://www.vitrolles13.fr/evenements/les-nuits-du-rocher-4/"
+      }
+    ]
+  }
+]

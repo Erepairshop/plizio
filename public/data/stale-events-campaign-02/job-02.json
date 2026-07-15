@@ -1,0 +1,361 @@
+[
+  {
+    "id": "cherbourg-en-cotentin",
+    "events": [
+      {
+        "title": {
+          "de": "Ausstellung „Le voyage des arts modestes“",
+          "hu": "„Le voyage des arts modestes” kiállítás",
+          "ro": "Expoziția „Le voyage des arts modestes”",
+          "en": "Exhibition \"Le voyage des arts modestes\"",
+          "fr": "Exposition « Le voyage des arts modestes »"
+        },
+        "summary": {
+          "de": "Im Château des Ravalet zeigt Cherbourg-en-Cotentin eine große Schau mit Hunderten Werken und Objekten aus dem Musée International des Arts Modestes.",
+          "hu": "A Château des Ravalet kastélyban Cherbourg-en-Cotentin a Musée International des Arts Modestes több száz művét és tárgyát bemutató nagy kiállítást rendez.",
+          "ro": "La Château des Ravalet, Cherbourg-en-Cotentin prezintă o amplă expoziție cu sute de lucrări și obiecte de la Musée International des Arts Modestes.",
+          "en": "At Château des Ravalet, Cherbourg-en-Cotentin is presenting a large exhibition with hundreds of works and objects from the Musée International des Arts Modestes.",
+          "fr": "Au château des Ravalet, Cherbourg-en-Cotentin présente une grande exposition réunissant des centaines d'œuvres et d'objets du Musée International des Arts Modestes."
+        },
+        "source_url": "https://www.cherbourg.fr/agendas-et-actus/agenda/evenement/exposition-le-voyage-des-arts-modestes/",
+        "date": "2026-06-06",
+        "end_date": "2026-09-20"
+      },
+      {
+        "title": {
+          "de": "Führung durch „Le voyage des arts modestes“",
+          "hu": "Tárlatvezetés a „Le voyage des arts modestes” kiállításon",
+          "ro": "Tur ghidat al expoziției „Le voyage des arts modestes”",
+          "en": "Guided tour of \"Le voyage des arts modestes\"",
+          "fr": "Visite commentée de « Le voyage des arts modestes »"
+        },
+        "summary": {
+          "de": "Kommentierte Besuche im Château des Ravalet erläutern die Sammlungen der Ausstellung und bieten ausgewählte Sommertermine für Besucher.",
+          "hu": "A Château des Ravalet kommentált látogatásai bemutatják a kiállítás gyűjteményeit, több nyári időponttal a látogatók számára.",
+          "ro": "Vizitele comentate de la Château des Ravalet explică colecțiile expoziției și oferă mai multe date de vară pentru vizitatori.",
+          "en": "Commented visits at Château des Ravalet explain the exhibition collections and provide several summer dates for visitors.",
+          "fr": "Des visites commentées au château des Ravalet présentent les collections de l'exposition avec plusieurs dates proposées pendant l'été."
+        },
+        "source_url": "https://www.cherbourg.fr/agendas-et-actus/agenda/evenement/exposition-le-voyage-des-arts-modestes-visite-commentee/",
+        "date": "2026-08-23",
+        "period": {
+          "recurrent": true
+        },
+        "end_date": "2026-09-13"
+      },
+      {
+        "title": {
+          "de": "Ausstellung „L’Ange de la Révolte. Satan dans les arts au XIXe siècle“",
+          "hu": "„L’Ange de la Révolte. Satan dans les arts au XIXe siècle” kiállítás",
+          "ro": "Expoziția „L’Ange de la Révolte. Satan dans les arts au XIXe siècle”",
+          "en": "Exhibition \"L’Ange de la Révolte. Satan dans les arts au XIXe siècle\"",
+          "fr": "Exposition « L’Ange de la Révolte. Satan dans les arts au XIXe siècle »"
+        },
+        "summary": {
+          "de": "Das Musée Thomas Henry im Quasar widmet sich 2026 der Darstellung Satans in Kunst, Literatur und Ideengeschichte des 19. Jahrhunderts.",
+          "hu": "A Quasarban működő Musée Thomas Henry 2026-ban a Sátán 19. századi művészeti, irodalmi és eszmetörténeti ábrázolásait mutatja be.",
+          "ro": "Musée Thomas Henry din Quasar dedică anul 2026 reprezentărilor lui Satan în artă, literatură și istoria ideilor din secolul al XIX-lea.",
+          "en": "The Musée Thomas Henry at Le Quasar devotes 2026 to representations of Satan in 19th-century art, literature, and intellectual history.",
+          "fr": "Le musée Thomas Henry au Quasar consacre 2026 aux représentations de Satan dans les arts, la littérature et l'histoire des idées du XIXe siècle."
+        },
+        "source_url": "https://www.cherbourg.fr/agendas-et-actus/actualites/actualite/les-metamorphoses-de-satan-lange-de-la-revolte-au-musee-thomas-henry/",
+        "date": "2026-06-26",
+        "end_date": "2026-11-08"
+      },
+      {
+        "title": {
+          "de": "BBQ Party am Dienstag",
+          "hu": "Keddi BBQ Party",
+          "ro": "BBQ Party de marți",
+          "en": "Tuesday BBQ Party",
+          "fr": "BBQ party du mardi"
+        },
+        "summary": {
+          "de": "Die Maison Pour Tous Léo Lagrange veranstaltet im Sommer dienstagabends gesellige Open-Air-Abende mit Musik auf ihrem Vorplatz.",
+          "hu": "A Maison Pour Tous Léo Lagrange nyári keddi estéken zenés, közösségi szabadtéri programokat rendez az előterén.",
+          "ro": "Maison Pour Tous Léo Lagrange organizează în serile de marți din vară întâlniri festive în aer liber, cu muzică, pe esplanada sa.",
+          "en": "Maison Pour Tous Léo Lagrange runs friendly summer Tuesday evenings with music on its forecourt.",
+          "fr": "La Maison Pour Tous Léo Lagrange propose pendant l'été des soirées conviviales du mardi en plein air avec musique sur son parvis."
+        },
+        "source_url": "https://www.cherbourg.fr/agendas-et-actus/agenda/evenement/le-mardi-cest-bbq-party/",
+        "date": "2026-07-28",
+        "period": {
+          "recurrent": true
+        },
+        "end_date": "2026-08-04"
+      }
+    ]
+  },
+  {
+    "id": "piatra-neamt",
+    "events": [
+      {
+        "title": {
+          "de": "Internationales Folklorefestival „Ceahlăul“",
+          "hu": "„Ceahlăul” Nemzetközi Folklórfesztivál",
+          "ro": "Festivalul Internațional de Folclor „Ceahlăul”",
+          "en": "Ceahlăul International Folklore Festival"
+        },
+        "summary": {
+          "de": "Mehrere internationale Folkloregruppen treten in Piatra Neamț auf, mit Parade, Abendshows, Tanzworkshops und dem Abschlusskonzert in der Curtea Domnească.",
+          "hu": "Több nemzetközi folklórcsoport lép fel Piatra Neamțban felvonulással, esti műsorokkal, táncműhelyekkel és zárókoncerttel a Curtea Domnească helyszínen.",
+          "ro": "Mai multe grupuri folclorice internaționale vin la Piatra Neamț cu paradă, spectacole de seară, ateliere de dans și concertul de închidere de la Curtea Domnească.",
+          "en": "Multiple international folklore groups come to Piatra Neamț for a parade, evening performances, dance workshops, and the closing concert at Curtea Domnească."
+        },
+        "source_url": "https://piatraneamtcity.ro/ro/events/festivalul-international-de-folclor-ceahlaul",
+        "date": "2026-08-03",
+        "end_date": "2026-08-06"
+      },
+      {
+        "title": {
+          "de": "Urbea Food Fest",
+          "hu": "Urbea Food Fest",
+          "ro": "Urbea Food Fest",
+          "en": "Urbea Food Fest"
+        },
+        "summary": {
+          "de": "Im Zentralpark verbindet das Festival Street-Food, Live-Cooking, Bewegungsangebote, Workshops und entspannte Familienzonen zum Sommerausklang.",
+          "hu": "A Központi Parkban a fesztivál street foodot, élő főzőbemutatókat, mozgásos programokat, workshopokat és családi pihenőzónákat kínál a nyár végén.",
+          "ro": "În Parcul Central, festivalul combină street food, live cooking, activități de mișcare, ateliere și zone relaxate pentru familii la final de vară.",
+          "en": "In the Central Park, the festival combines street food, live cooking, movement activities, workshops, and relaxed family areas at the end of summer."
+        },
+        "source_url": "https://www.piatraneamtcity.ro/ro/events/urbea-food-fest-1",
+        "date": "2026-08-22",
+        "end_date": "2026-08-24"
+      },
+      {
+        "title": {
+          "de": "Festival „Oameni pe Hogaș“",
+          "hu": "„Oameni pe Hogaș” fesztivál",
+          "ro": "Festivalul „Oameni pe Hogaș”",
+          "en": "Oameni pe Hogaș Festival"
+        },
+        "summary": {
+          "de": "Die Calistrat-Hogaș-Straße wird für zwei Tage zu einem gemütlichen Stadtfestival mit Werkstätten, lokalen Produzenten, Familienprogrammen und Begegnungen.",
+          "hu": "A Calistrat Hogaș utca két napra barátságos városi fesztivállá alakul műhelyekkel, helyi termelőkkel, családi programokkal és találkozásokkal.",
+          "ro": "Strada Calistrat Hogaș devine pentru două zile un festival urban tihnit, cu ateliere, producători locali, programe pentru familii și întâlniri.",
+          "en": "Calistrat Hogaș Street turns into a relaxed urban festival for two days, with workshops, local producers, family activities, and community encounters."
+        },
+        "source_url": "https://piatraneamtcity.ro/ro/events/festivalul-oameni-pe-hogas",
+        "date": "2026-09-06",
+        "end_date": "2026-09-07"
+      }
+    ]
+  },
+  {
+    "id": "ro-poi-bistrita",
+    "events": [
+      {
+        "title": {
+          "de": "Robin and the Backstabbers im Soho Music Hall",
+          "hu": "Robin and the Backstabbers a Soho Music Hallban",
+          "ro": "Robin and the Backstabbers la Soho Music Hall",
+          "en": "Robin and the Backstabbers at Soho Music Hall"
+        },
+        "summary": {
+          "de": "Die Indie-Rock-Band kehrt für ein Herbstkonzert nach Bistrița zurück, mit Abendshow im Soho Music Hall.",
+          "hu": "Az indie-rock zenekar őszi koncertre tér vissza Bistrițára esti show-val a Soho Music Hallban.",
+          "ro": "Trupa de indie rock revine la Bistrița pentru un concert de toamnă, cu show de seară la Soho Music Hall.",
+          "en": "The indie rock band returns to Bistrița for an autumn evening show at Soho Music Hall."
+        },
+        "source_url": "https://www.iabilet.ro/bilete-bistrita-robin-and-the-backstabbers-o-soho-music-hall-o-16-octombrie-126588/?ica_campaign=bistrita&ica_medium=site&ica_source=TownPage&ica_term=",
+        "date": "2026-10-16"
+      },
+      {
+        "title": {
+          "de": "TEDxBistrița",
+          "hu": "TEDxBistrița",
+          "ro": "TEDxBistrița",
+          "en": "TEDxBistrița"
+        },
+        "summary": {
+          "de": "TEDxBistrița bringt ein ganztägiges Ideenforum mit zwölf Sprechern und Diskussionen über neue Perspektiven nach Hotel Metropolis.",
+          "hu": "A TEDxBistrița egész napos ötletfórumot hoz tizenkét előadóval és új nézőpontokról szóló beszélgetésekkel a Hotel Metropolisba.",
+          "ro": "TEDxBistrița aduce la Hotel Metropolis un forum de idei cu doisprezece vorbitori și discuții despre perspective noi.",
+          "en": "TEDxBistrița brings a day-long ideas forum with twelve speakers and discussions about new perspectives to Hotel Metropolis."
+        },
+        "source_url": "https://m.iabilet.ro/bilete-tedxbistrita-128946/?ica_campaign=Hotel+Metropolis&ica_medium=mobile&ica_source=VenuePage&ica_term=",
+        "date": "2026-11-14"
+      },
+      {
+        "title": {
+          "de": "Trooper Konzert",
+          "hu": "Trooper koncert",
+          "ro": "Concert Trooper",
+          "en": "Trooper Concert"
+        },
+        "summary": {
+          "de": "Trooper feiert 30 Jahre Bandgeschichte mit einer Jubiläumstour und einem Auftritt im Soho Music Hall in Bistrița.",
+          "hu": "A Trooper a 30 éves jubileumi turné részeként Bistrițán, a Soho Music Hallban lép fel.",
+          "ro": "Trooper marchează 30 de ani de activitate prin turneul aniversar care ajunge și la Soho Music Hall din Bistrița.",
+          "en": "Trooper marks 30 years of activity with an anniversary tour that includes Soho Music Hall in Bistrița."
+        },
+        "source_url": "https://www.iabilet.ro/tag/bistrita/?nomobile=1&slugbistrita=",
+        "date": "2026-11-20"
+      }
+    ]
+  },
+  {
+    "id": "szombathely",
+    "events": [
+      {
+        "title": {
+          "de": "Savaria Historischer Karneval",
+          "hu": "Savaria Történelmi Karnevál",
+          "ro": "Carnavalul Istoric Savaria",
+          "en": "Savaria Historical Carnival"
+        },
+        "summary": {
+          "de": "Das größte historisch geprägte Kunst- und Stadtfestival der Region belebt die Innenstadt mit Umzügen, Musik, Marktständen, Wein- und Familienprogrammen.",
+          "hu": "A régió legnagyobb történelmi hangulatú összművészeti városi fesztiválja felvonulásokkal, zenével, vásárral, boros és családi programokkal tölti meg a belvárost.",
+          "ro": "Cel mai mare festival urban cu tematică istorică din regiune animă centrul orașului cu parade, muzică, târg, vinuri și programe pentru familii.",
+          "en": "The region's biggest history-themed urban arts festival fills the city center with parades, music, market stalls, wine, and family programming."
+        },
+        "source_url": "https://szombathely.hu/onkormanyzat/hirek/sajtotajekoztato-a-xxv-savaria-tortenelmi-karnevalrol.5580/",
+        "date": "2026-08-13",
+        "end_date": "2026-08-16"
+      },
+      {
+        "title": {
+          "de": "MOVE – Szombathely Sunset Run",
+          "hu": "MOVE – Szombathely Sunset Run",
+          "ro": "MOVE – Szombathely Sunset Run",
+          "en": "MOVE – Szombathely Sunset Run"
+        },
+        "summary": {
+          "de": "Das späte Sommerlaufevent auf dem Fő tér bietet Kinder- und Hauptläufe sowie ein familienfreundliches Rahmenprogramm mit Superhelden-Warm-up.",
+          "hu": "A nyárvégi futóesemény a Fő téren gyermek- és főfutamokat, valamint családbarát kísérőprogramot kínál szuperhősös bemelegítéssel.",
+          "ro": "Evenimentul de alergare de la sfârșitul verii din Piața Principală include curse pentru copii și adulți, plus un program prietenos pentru familii cu încălzire tematică.",
+          "en": "The late-summer running event on the main square includes children's and main races plus family-friendly activities with a superhero warm-up."
+        },
+        "source_url": "https://szombathelypont.hu/programok/gyerekeknek/move-szombathely-sunset-run.29577/",
+        "date": "2026-08-29",
+        "category": "Sport"
+      },
+      {
+        "title": {
+          "de": "Musik-Gartenkino: Star Wars IV",
+          "hu": "Zenés kertmozi: Star Wars IV",
+          "ro": "Cinema de grădină muzical: Star Wars IV",
+          "en": "Music Garden Cinema: Star Wars IV"
+        },
+        "summary": {
+          "de": "Das beliebte Sommer-Open-Air-Kino von AGORA zeigt am Emlékmű-domb Filme nach Einbruch der Dunkelheit, hier mit „Eine neue Hoffnung“ bei freiem Eintritt.",
+          "hu": "Az AGORA népszerű nyári szabadtéri mozija az Emlékmű-dombon sötétedés után vetít, itt az „Egy új remény” című filmmel és ingyenes belépéssel.",
+          "ro": "Popularul cinema în aer liber de vară al AGORA proiectează filme după lăsarea serii pe Emlékmű-domb, aici cu „O nouă speranță” și intrare liberă.",
+          "en": "AGORA's popular summer open-air cinema screens films after dark on Emlékmű-domb, here featuring \"A New Hope\" with free admission."
+        },
+        "source_url": "https://szombathelypont.hu/programok/mozi/zenes-kertmozi-star-wars-iv-resz-egy-uj-remeny.29673/",
+        "date": "2026-08-01",
+        "category": "Film"
+      },
+      {
+        "title": {
+          "de": "Turmerlebnis-Tag im Wasserturm und KRESZ-Park",
+          "hu": "Toronyba zárt élménynap a Víztoronynál és a KRESZ-parkban",
+          "ro": "Zi de experiențe la turn și în parcul rutier",
+          "en": "Tower Experience Day at the Water Tower and Traffic Park"
+        },
+        "summary": {
+          "de": "Das Ferienprogramm für Kinder verbindet Turmbesuch und KRESZ-Park und läuft an ausgewählten Tagen bis Ende August.",
+          "hu": "A gyerekeknek szóló szünidei program toronylátogatást és KRESZ-parkos élményt kínál, kiválasztott napokon augusztus végéig.",
+          "ro": "Programul de vacanță pentru copii combină vizita la turn cu parcul rutier și continuă în zile selectate până la sfârșitul lui august.",
+          "en": "This school-holiday program for children combines a tower visit with the traffic park and continues on selected days through late August."
+        },
+        "source_url": "https://szombathelypont.hu/programok/gyerekeknek/nyit-a-kresz-park.29267/",
+        "date": "2026-07-26",
+        "period": {
+          "recurrent": true
+        },
+        "end_date": "2026-08-29"
+      }
+    ]
+  },
+  {
+    "id": "france-antibes-cities-v2",
+    "events": [
+      {
+        "title": {
+          "de": "Pyromelodisches Feuerwerksfestival",
+          "hu": "Pyromelodikus tűzijátékfesztivál",
+          "ro": "Festival pyromelodic de artificii",
+          "en": "Pyromelodic Fireworks Festival",
+          "fr": "Festival pyromélodique"
+        },
+        "summary": {
+          "de": "Mehrere kostenlose Sommer-Feuerwerke beleuchten Juan-les-Pins und Antibes an Abenden im August entlang der Küste.",
+          "hu": "Több ingyenes nyári tűzijáték világítja be Juan-les-Pins és Antibes partvidékét az augusztusi estéken.",
+          "ro": "Mai multe focuri de artificii gratuite de vară luminează serile de august din Juan-les-Pins și Antibes, pe malul mării.",
+          "en": "Several free summer fireworks nights light up Juan-les-Pins and Antibes along the coast in August.",
+          "fr": "Plusieurs soirées gratuites de feux d'artifice animent le littoral de Juan-les-Pins et d'Antibes pendant le mois d'août."
+        },
+        "source_url": "https://www.antibesjuanlespins.com/a-voir-a-faire/sortir/agenda-tous-les-evenements/feux-d-artifice-festival-pyromelodique-2032772",
+        "date": "2026-08-06",
+        "period": {
+          "recurrent": true
+        },
+        "end_date": "2026-08-24"
+      },
+      {
+        "title": {
+          "de": "Pop & Saveurs",
+          "hu": "Pop & Saveurs",
+          "ro": "Pop & Saveurs",
+          "en": "Pop & Saveurs",
+          "fr": "Pop & Saveurs"
+        },
+        "summary": {
+          "de": "Die Donnerstagabende im Hôtel Thalazur verbinden Live-Pop-Rock und sommerliche Gastronomie mit Meerblick in Antibes.",
+          "hu": "A csütörtök esti program a Hôtel Thalazurban élő pop-rock zenét és nyári gasztronómiát kínál tengeri panorámával Antibes-ben.",
+          "ro": "Serile de joi de la Hôtel Thalazur combină muzica live pop-rock cu gastronomia de vară și vederea spre mare în Antibes.",
+          "en": "Thursday evenings at Hôtel Thalazur combine live pop-rock music with summer dining and sea views in Antibes.",
+          "fr": "Les jeudis soirs à l'Hôtel Thalazur mêlent musique live pop-rock, gastronomie estivale et vue sur mer à Antibes."
+        },
+        "source_url": "https://www.antibesjuanlespins.com/a-voir-a-faire/sortir/agenda-tous-les-evenements/soiree-pop-saveurs-5817854",
+        "date": "2026-07-30",
+        "period": {
+          "recurrent": true
+        },
+        "end_date": "2026-09-10"
+      },
+      {
+        "title": {
+          "de": "Hartung-Bergman-Ausstellung „Les voix de leurs œuvres“",
+          "hu": "Hartung-Bergman „Les voix de leurs œuvres” kiállítás",
+          "ro": "Expoziția Hartung-Bergman „Les voix de leurs œuvres”",
+          "en": "Hartung-Bergman exhibition \"Les voix de leurs œuvres\"",
+          "fr": "Exposition Hartung-Bergman « Les voix de leurs œuvres »"
+        },
+        "summary": {
+          "de": "Die Fondation Hans Hartung et Anna-Eva Bergman zeigt bis Ende September eine zeitgenössisch ausgerichtete Kunstausstellung in Antibes.",
+          "hu": "A Fondation Hans Hartung et Anna-Eva Bergman szeptember végéig kortárs szemléletű művészeti kiállítást mutat be Antibes-ben.",
+          "ro": "Fondation Hans Hartung et Anna-Eva Bergman prezintă la Antibes o expoziție de artă cu orientare contemporană până la sfârșitul lui septembrie.",
+          "en": "The Fondation Hans Hartung et Anna-Eva Bergman is presenting a contemporary-oriented art exhibition in Antibes through late September.",
+          "fr": "La Fondation Hans Hartung et Anna-Eva Bergman propose à Antibes une exposition d'art à l'approche contemporaine jusqu'à la fin septembre."
+        },
+        "source_url": "https://www.antibesjuanlespins.com/a-voir-a-faire/sortir/agenda-tous-les-evenements/les-voix-de-leurs-oeuvres-exposition-hartung-bergman-6415028",
+        "date": "2026-05-04",
+        "end_date": "2026-09-26"
+      },
+      {
+        "title": {
+          "de": "Architektur vivante",
+          "hu": "Architecture vivante",
+          "ro": "Architecture vivante",
+          "en": "Architecture vivante",
+          "fr": "Architecture vivante"
+        },
+        "summary": {
+          "de": "Diese Sommerveranstaltung lädt Besucher ein, zeitgenössische Architektur und gestalterische Einblicke in Antibes zu entdecken.",
+          "hu": "Ez a nyári program kortárs építészet és tervezői szemlélet felfedezésére hívja a látogatókat Antibes-ben.",
+          "ro": "Acest program de vară invită vizitatorii să descopere arhitectura contemporană și perspectivele de design din Antibes.",
+          "en": "This summer event invites visitors to discover contemporary architecture and design perspectives in Antibes.",
+          "fr": "Cet événement estival invite les visiteurs à découvrir l'architecture contemporaine et des regards sur le design à Antibes."
+        },
+        "source_url": "https://www.antibesjuanlespins.com/a-voir-a-faire/sortir/agenda-tous-les-evenements/architecture-vivante-6352556",
+        "date": "2026-07-30",
+        "end_date": "2026-08-30"
+      }
+    ]
+  }
+]

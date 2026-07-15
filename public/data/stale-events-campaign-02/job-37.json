@@ -1,0 +1,407 @@
+[
+  {
+    "id": "hajduboszormeny",
+    "events": [
+      {
+        "date": "2026-08-21",
+        "end_date": "2026-08-23",
+        "title": {
+          "de": "Hajdú7",
+          "hu": "Hajdú7",
+          "ro": "Hajdú7",
+          "en": "Hajdú7"
+        },
+        "summary": {
+          "de": "Das städtische Sommerhauptfest im Fürdőkerti Szabadidőközpont läuft drei Tage lang mit öffentlichen Programmen und Festivalatmosphäre.",
+          "hu": "A város kiemelt nyári rendezvénye a Fürdőkerti Szabadidőközpontban három napon át várja a közönséget közösségi programokkal és fesztiválhangulattal.",
+          "ro": "Principalul eveniment estival al orașului are loc la Fürdőkerti Szabadidőközpont și propune timp de trei zile programe publice și atmosferă de festival.",
+          "en": "The city's main summer event takes place at the Fürdőkerti Leisure Centre over three days with public programming and a festival atmosphere."
+        },
+        "source_url": "https://hajduboszormeny.hu/programok/171/hajdu7"
+      },
+      {
+        "date": "2026-05-28",
+        "end_date": "2026-08-29",
+        "title": {
+          "de": "Ausstellung „Észlelések“",
+          "hu": "„Észlelések” című kiállítás",
+          "ro": "Expoziția „Észlelések”",
+          "en": "\"Észlelések\" exhibition"
+        },
+        "summary": {
+          "de": "Die Jubiläumsausstellung des Hajdúsági Múzeum zu Pálnagy Zsigmond und Káplár Miklós ist bis Ende August im Museum und im Káplár-Miklós-Gedenkhaus zu sehen.",
+          "hu": "A Hajdúsági Múzeum Pálnagy Zsigmond és Káplár Miklós évfordulóihoz kapcsolódó kiállítása augusztus végéig látogatható a múzeumban és a Káplár Miklós Emlékházban.",
+          "ro": "Expoziția aniversară a Muzeului Hajdúsági dedicată lui Pálnagy Zsigmond și Káplár Miklós poate fi vizitată până la sfârșitul lui august în muzeu și în Casa Memorială Káplár Miklós.",
+          "en": "The Hajdúsági Museum's anniversary exhibition on Pálnagy Zsigmond and Káplár Miklós remains open through late August at the museum and the Káplár Miklós Memorial House."
+        },
+        "source_url": "https://hajduboszormeny.hu/programok/161/eszlelesek-cimu-kiallitas"
+      },
+      {
+        "date": "2026-08-28",
+        "title": {
+          "de": "Pléd-Mozi",
+          "hu": "Pléd-mozi",
+          "ro": "Cinema în aer liber „Pléd-mozi”",
+          "en": "Plaid Cinema"
+        },
+        "summary": {
+          "de": "Die Stadt kündigt Ende August eine weitere Ausgabe ihres sommerlichen Freiluftkinos als Teil des Jahresprogramms 2026 an.",
+          "hu": "A város 2026-os éves programjában augusztus végére újabb szabadtéri Pléd-mozi alkalmat hirdetett meg.",
+          "ro": "Programul anual al orașului anunță pentru sfârșitul lunii august o nouă ediție a cinematografului estival în aer liber.",
+          "en": "The city's 2026 annual program schedules another edition of its summer open-air cinema for late August."
+        },
+        "source_url": "https://hajduboszormeny.hu/programok/148/egesz-evben-boszormeny-2026-ban-is"
+      },
+      {
+        "date": "2026-09-13",
+        "title": {
+          "de": "Tag der Stadt",
+          "hu": "Város Napja",
+          "ro": "Ziua Orașului",
+          "en": "City Day"
+        },
+        "summary": {
+          "de": "Der offizielle Jahreskalender der Stadt setzt den Stadtfeiertag auf den 13. September und führt ihn als eines der Hauptgemeinschaftsereignisse 2026.",
+          "hu": "A város hivatalos éves programnaptára szeptember 13-ára tűzi ki a Város Napját, amely 2026 egyik kiemelt közösségi eseménye.",
+          "ro": "Calendarul anual oficial al orașului programează Ziua Orașului pentru 13 septembrie și o prezintă drept unul dintre evenimentele comunitare majore din 2026.",
+          "en": "The city's official annual calendar places City Day on September 13 as one of its main community events for 2026."
+        },
+        "source_url": "https://hajduboszormeny.hu/programok/148/egesz-evben-boszormeny-2026-ban-is"
+      },
+      {
+        "date": "2026-11-28",
+        "end_date": "2026-12-20",
+        "title": {
+          "de": "Böszörményi Advent",
+          "hu": "Böszörményi Advent",
+          "ro": "Advent la Hajdúböszörmény",
+          "en": "Böszörmény Advent"
+        },
+        "summary": {
+          "de": "Das Adventsprogramm der Stadt läuft laut Jahreskalender vom 28. November bis 20. Dezember mit saisonalen Gemeinschaftsveranstaltungen.",
+          "hu": "A hivatalos éves program szerint a Böszörményi Advent november 28. és december 20. között zajlik ünnepi közösségi eseményekkel.",
+          "ro": "Conform calendarului anual oficial, programul de Advent al orașului se desfășoară între 28 noiembrie și 20 decembrie, cu evenimente sezoniere pentru comunitate.",
+          "en": "According to the official annual calendar, the town's Advent program runs from November 28 to December 20 with seasonal community events."
+        },
+        "source_url": "https://hajduboszormeny.hu/programok/148/egesz-evben-boszormeny-2026-ban-is"
+      }
+    ]
+  },
+  {
+    "id": "montbeliard",
+    "events": [
+      {
+        "date": "2026-07-07",
+        "end_date": "2026-08-23",
+        "title": {
+          "de": "Château en scène",
+          "hu": "Château en scène",
+          "ro": "Château en scène",
+          "en": "Château en scène",
+          "fr": "Château en scène"
+        },
+        "summary": {
+          "de": "Die Stadt Montbéliard veranstaltet auf der Esplanade des Schlosses Montbéliard-Wurtemberg ihre sommerliche Reihe mit Konzerten und Aufführungen bis 23. August.",
+          "hu": "Montbéliard városa augusztus 23-ig koncertekkel és előadásokkal rendezi meg nyári programsorozatát a Montbéliard-Wurtemberg kastély előterében.",
+          "ro": "Orașul Montbéliard organizează până pe 23 august seria sa estivală de concerte și spectacole pe esplanada Castelului Montbéliard-Wurtemberg.",
+          "en": "The city of Montbéliard runs its summer series of concerts and performances on the esplanade of Montbéliard-Wurtemberg Castle through August 23.",
+          "fr": "La Ville de Montbéliard propose jusqu'au 23 août sa série estivale de concerts et spectacles sur l'esplanade du château Montbéliard-Wurtemberg."
+        },
+        "source_url": "https://www.montbeliard.fr/mes-sorties-mes-activites/agenda/chateau-en-scene/"
+      },
+      {
+        "date": "2026-07-18",
+        "end_date": "2026-08-15",
+        "title": {
+          "de": "Les Estivales du Près-la-Rose",
+          "hu": "Les Estivales du Près-la-Rose",
+          "ro": "Les Estivales du Près-la-Rose",
+          "en": "Les Estivales du Près-la-Rose",
+          "fr": "Les Estivales du Près-la-Rose"
+        },
+        "summary": {
+          "de": "Die 28. Ausgabe der kostenlosen Sommerveranstaltungen im Park Près-la-Rose läuft bis Mitte August.",
+          "hu": "A Près-la-Rose park ingyenes nyári programsorozatának 28. kiadása augusztus közepéig tart.",
+          "ro": "A 28-a ediție a programului estival gratuit din parcul Près-la-Rose continuă până la mijlocul lui august.",
+          "en": "The 28th edition of the free summer event series in Près-la-Rose park continues through mid-August.",
+          "fr": "La 28e édition des animations estivales gratuites du Près-la-Rose se poursuit jusqu'à la mi-août."
+        },
+        "source_url": "https://www.montbeliard.fr/mes-sorties-mes-activites/agenda/les-estivales-du-pres-la-rose/"
+      },
+      {
+        "date": "2026-08-20",
+        "end_date": "2026-08-23",
+        "title": {
+          "de": "Festival des mômes",
+          "hu": "Festival des mômes",
+          "ro": "Festival des mômes",
+          "en": "Festival des mômes",
+          "fr": "Festival des mômes"
+        },
+        "summary": {
+          "de": "Das farbenfrohe Kinder- und Familienfestival bietet vier Tage lang kreative und spielerische Aktivitäten vor dem Schulstart.",
+          "hu": "A színes gyermek- és családi fesztivál négy napon át kreatív és játékos programokat kínál az iskolakezdés előtt.",
+          "ro": "Festivalul dedicat copiilor și familiilor propune timp de patru zile activități creative și recreative înainte de începerea școlii.",
+          "en": "This colorful children's and family festival offers four days of creative and playful activities before the school term starts.",
+          "fr": "Ce festival familial et jeune public propose quatre jours d'activités créatives et ludiques avant la rentrée."
+        },
+        "source_url": "https://www.montbeliard.fr/mes-sorties-mes-activites/agenda/festival-des-momes/"
+      },
+      {
+        "date": "2026-09-19",
+        "end_date": "2026-09-20",
+        "title": {
+          "de": "Journées Européennes du Patrimoine 2026",
+          "hu": "Európai Örökség Napok 2026",
+          "ro": "Zilele Europene ale Patrimoniului 2026",
+          "en": "European Heritage Days 2026",
+          "fr": "Journées Européennes du Patrimoine 2026"
+        },
+        "summary": {
+          "de": "Montbéliard beteiligt sich am landesweiten Kulturerbewochenende mit Sonderführungen und Besichtigungen, darunter Hôtel de Ville und Théâtre.",
+          "hu": "Montbéliard különleges vezetések és látogatások sorával csatlakozik az országos örökségi hétvégéhez, köztük a városháza és a színház megnyitásával.",
+          "ro": "Montbéliard participă la weekendul național al patrimoniului cu vizite speciale și tururi, inclusiv la primărie și teatru.",
+          "en": "Montbéliard joins the nationwide heritage weekend with special tours and visits, including the town hall and theatre.",
+          "fr": "Montbéliard participe au week-end du patrimoine avec des visites spéciales, notamment de l'hôtel de ville et du théâtre."
+        },
+        "source_url": "https://www.montbeliard.fr/mes-sorties-mes-activites/agenda/journees-europeennes-du-patrimoine-2026/"
+      }
+    ]
+  },
+  {
+    "id": "herblay-sur-seine",
+    "events": [
+      {
+        "date": "2026-09-05",
+        "title": {
+          "de": "Salon des associations 2026",
+          "hu": "Salon des associations 2026",
+          "ro": "Salon des associations 2026",
+          "en": "Associations Fair 2026",
+          "fr": "Salon des associations 2026"
+        },
+        "summary": {
+          "de": "Der jährliche Vereinsmarkt bringt Sport-, Kultur-, Solidaritäts- und Freizeitvereine mit Vorführungen und Informationsständen zusammen.",
+          "hu": "Az éves egyesületi börze sport-, kulturális, szolidaritási és szabadidős szervezeteket vonultat fel bemutatókkal és információs standokkal.",
+          "ro": "Târgul anual al asociațiilor reunește organizații sportive, culturale, sociale și de loisir, cu demonstrații și standuri de informare.",
+          "en": "The town's annual associations fair brings together sports, culture, solidarity, and leisure groups with demonstrations and information stands.",
+          "fr": "Le rendez-vous annuel de la vie associative réunit les associations sportives, culturelles, solidaires et de loisirs avec démonstrations et stands."
+        },
+        "source_url": "https://www.herblaysurseine.fr/evenements/salon-des-associations-2025-copie/"
+      },
+      {
+        "date": "2026-09-18",
+        "title": {
+          "de": "Imagine-toi",
+          "hu": "Imagine-toi",
+          "ro": "Imagine-toi",
+          "en": "Imagine-toi",
+          "fr": "Imagine-toi"
+        },
+        "summary": {
+          "de": "Die Saisoneröffnung im Théâtre Roger Barat präsentiert Julien Cottereaus poetisches, wortloses Solo zwischen Clownerie, Pantomime und Geräuschkunst.",
+          "hu": "A Théâtre Roger Barat évadnyitó előadása Julien Cottereau költői, szavak nélküli szólója, amely a bohócművészetet, a pantomimet és a hangutánzást ötvözi.",
+          "ro": "Deschiderea de sezon la Théâtre Roger Barat îl aduce pe Julien Cottereau cu un solo poetic fără cuvinte, între clovnerie, pantomimă și artă sonoră.",
+          "en": "The season opener at Théâtre Roger Barat features Julien Cottereau's poetic wordless solo blending clowning, mime, and sound performance.",
+          "fr": "L'ouverture de saison du Théâtre Roger Barat accueille le solo sans paroles, poétique et visuel, de Julien Cottereau."
+        },
+        "source_url": "https://www.herblaysurseine.fr/evenements/imagine-toi/"
+      },
+      {
+        "date": "2026-09-19",
+        "title": {
+          "de": "Village d’antan",
+          "hu": "Village d’antan",
+          "ro": "Village d’antan",
+          "en": "Village d'antan",
+          "fr": "Village d'antan"
+        },
+        "summary": {
+          "de": "Zum Kulturerbewochenende organisiert die Stadt auf der Place de la Halle ein historisch inspiriertes Dorf mit Kunsthandwerk, lokalen Produzenten und Vorführungen.",
+          "hu": "Az örökségi hétvégén a város a Place de la Halle téren régi mesterségeket és helyi termelőket bemutató, történeti hangulatú falut rendez.",
+          "ro": "Cu ocazia weekendului patrimoniului, orașul organizează în Place de la Halle un sat tematic dedicat meșteșugurilor vechi, producătorilor locali și demonstrațiilor.",
+          "en": "For the heritage weekend, the town stages a historical village on Place de la Halle featuring craftspeople, local producers, and demonstrations.",
+          "fr": "À l'occasion des Journées du patrimoine, la ville installe place de la Halle un village d'antan avec artisans, producteurs locaux et démonstrations."
+        },
+        "source_url": "https://www.herblaysurseine.fr/actualite/artisans-dart-faites-vous-connaitre/"
+      },
+      {
+        "date": "2026-09-23",
+        "title": {
+          "de": "Marius",
+          "hu": "Marius",
+          "ro": "Marius",
+          "en": "Marius",
+          "fr": "Marius"
+        },
+        "summary": {
+          "de": "Im Théâtre Roger Barat gastiert Marcel Pagnols \"Marius\" in der Inszenierung von Jean-Philippe Daguerre, mit Begegnung mit den Künstlern nach der Vorstellung.",
+          "hu": "A Théâtre Roger Barat színpadán Jean-Philippe Daguerre rendezésében látható Marcel Pagnol Marius című darabja, az előadás után művésztalálkozóval.",
+          "ro": "La Théâtre Roger Barat este programată piesa „Marius” de Marcel Pagnol, în regia lui Jean-Philippe Daguerre, urmată de o întâlnire cu artiștii.",
+          "en": "Théâtre Roger Barat hosts Marcel Pagnol's \"Marius\" directed by Jean-Philippe Daguerre, followed by a post-show artist meeting.",
+          "fr": "Le Théâtre Roger Barat programme \"Marius\" de Marcel Pagnol dans la mise en scène de Jean-Philippe Daguerre, avec rencontre des artistes après le spectacle."
+        },
+        "source_url": "https://www.herblaysurseine.fr/evenements/mar/"
+      }
+    ]
+  },
+  {
+    "id": "vienne",
+    "events": [
+      {
+        "date": "2026-06-19",
+        "end_date": "2026-09-04",
+        "title": {
+          "de": "Ciné été",
+          "hu": "Ciné été",
+          "ro": "Ciné été",
+          "en": "Summer Cinema",
+          "fr": "Ciné été"
+        },
+        "summary": {
+          "de": "Das Sommerkinoprogramm im Gebiet von Vienne läuft vom 19. Juni bis 4. September 2026; die Stadt veröffentlichte das Gesamtprogramm samt wetterbedingten Verlegungen im Juli.",
+          "hu": "A Vienne térségében zajló szabadtéri nyári mozisorozat 2026. június 19. és szeptember 4. között tart; a város júliusban a teljes programot és az időjárás miatti módosításokat is közzétette.",
+          "ro": "Programul de cinema estival din zona Vienne se desfășoară între 19 iunie și 4 septembrie 2026, iar orașul a publicat programul complet și modificările cauzate de vreme.",
+          "en": "The summer cinema program across the Vienne area runs from June 19 to September 4, 2026, and the city has published the full schedule together with weather-related changes.",
+          "fr": "Le programme Ciné été sur le territoire de Vienne se déroule du 19 juin au 4 septembre 2026, avec un calendrier complet publié par la ville."
+        },
+        "source_url": "https://vienne.fr/cine-ete/"
+      },
+      {
+        "date": "2026-08-29",
+        "end_date": "2026-08-30",
+        "title": {
+          "de": "Fête Historique de Vienne",
+          "hu": "Fête Historique de Vienne",
+          "ro": "Fête Historique de Vienne",
+          "en": "Vienne Historical Festival",
+          "fr": "Fête Historique de Vienne"
+        },
+        "summary": {
+          "de": "Die historische Altstadt verwandelt sich für ein kostenloses Mittelalterwochenende mit Kostümen, Lagern, Aufführungen und Familienanimationen.",
+          "hu": "A történelmi belváros egy ingyenes középkori hétvégére alakul át jelmezekkel, táborokkal, előadásokkal és családi programokkal.",
+          "ro": "Centrul istoric se transformă pentru un weekend medieval gratuit, cu costume, tabere tematice, spectacole și animații pentru familii.",
+          "en": "The historic center turns into a free medieval weekend with costumes, encampments, shows, and family entertainment.",
+          "fr": "Le centre-ville se transforme le temps d'un week-end médiéval gratuit avec costumes, campements, spectacles et animations familiales."
+        },
+        "source_url": "https://www.vienne-condrieu.com/fete-et-manifestation/fete-historique-de-vienne-vienne/"
+      },
+      {
+        "date": "2026-09-19",
+        "end_date": "2026-09-20",
+        "title": {
+          "de": "Ausstellung „Saint-Pierre, eine Pforte zur Geschichte von Vienne“",
+          "hu": "\"Saint-Pierre, une porte sur l'histoire de Vienne\" kiállítás",
+          "ro": "Expoziția „Saint-Pierre, une porte sur l'histoire de Vienne”",
+          "en": "\"Saint-Pierre, a gateway to Vienne's history\" exhibition",
+          "fr": "Exposition « Saint-Pierre, une porte sur l'histoire de Vienne »"
+        },
+        "summary": {
+          "de": "Während des Kulturerbewochenendes beleuchtet diese Ausstellung die Geschichte von Saint-Pierre und die Entwicklung des künftigen Museumsprojekts.",
+          "hu": "Az örökségi hétvégén ez a kiállítás a Saint-Pierre helyszín történetét és a készülő múzeumi projektet mutatja be.",
+          "ro": "În weekendul patrimoniului, expoziția prezintă istoria sitului Saint-Pierre și evoluția viitorului proiect muzeal.",
+          "en": "During the heritage weekend, this exhibition presents the history of the Saint-Pierre site and the future museum project.",
+          "fr": "Pendant le week-end du patrimoine, cette exposition présente l'histoire du site Saint-Pierre et l'évolution du futur projet muséal."
+        },
+        "source_url": "https://www.vienne-condrieu.com/fete-et-manifestation/exposition-saint-pierre-une-porte-sur-lhistoire-de-vienne-vienne-2/"
+      },
+      {
+        "date": "2026-09-24",
+        "title": {
+          "de": "Le temple des chefs",
+          "hu": "Le temple des chefs",
+          "ro": "Le temple des chefs",
+          "en": "Le temple des chefs",
+          "fr": "Le temple des chefs"
+        },
+        "summary": {
+          "de": "Vienne widmet Paul Bocuse im Jubiläumsjahr eine gastronomische Veranstaltung am 24. September, angekündigt als einer der großen Herbsttermine der Stadt.",
+          "hu": "Vienne Paul Bocuse születésének centenáriumi évében szeptember 24-re gasztronómiai eseményt hirdetett meg a város nagy őszi programjai között.",
+          "ro": "În anul centenarului Paul Bocuse, Vienne anunță pentru 24 septembrie un eveniment gastronomic inclus printre marile momente de toamnă ale orașului.",
+          "en": "In the Paul Bocuse centenary year, Vienne announces a gastronomic event for September 24 as one of the city's major autumn highlights.",
+          "fr": "Dans l'année du centenaire de Paul Bocuse, Vienne annonce pour le 24 septembre un rendez-vous gastronomique parmi les temps forts de l'automne."
+        },
+        "source_url": "https://vienne.fr/le-temple-des-chefs-jeudi-24-septembre/"
+      }
+    ]
+  },
+  {
+    "id": "mont-de-marsan",
+    "events": [
+      {
+        "date": "2026-07-01",
+        "end_date": "2026-09-02",
+        "title": {
+          "de": "Führung „Hinter den Kulissen der Arènes du Plumaçon“",
+          "hu": "„A Plumaçon aréna kulisszái mögött” vezetés",
+          "ro": "Turul „Culisele arenelor du Plumaçon”",
+          "en": "Behind-the-scenes tour of the Arènes du Plumaçon",
+          "fr": "Visite « Les coulisses des arènes du Plumaçon »"
+        },
+        "summary": {
+          "de": "Die geführte Sommertour erklärt die Stierkampftradition von Mont-de-Marsan und führt Besucher hinter die Kulissen der Arènes du Plumaçon.",
+          "hu": "A nyári vezetett túra bemutatja Mont-de-Marsan bikaviadalos hagyományát, és betekintést ad a Plumaçon aréna kulisszái mögé.",
+          "ro": "Turul ghidat de vară explică tradiția taurină din Mont-de-Marsan și oferă acces în culisele Arenelor du Plumaçon.",
+          "en": "This summer guided visit explains Mont-de-Marsan's bullfighting heritage and takes visitors behind the scenes of the Arènes du Plumaçon.",
+          "fr": "Cette visite guidée estivale fait découvrir la tradition taurine de Mont-de-Marsan et les coulisses des arènes du Plumaçon."
+        },
+        "source_url": "https://www.montdemarsan.fr/agenda/visite-les-coulisses-des-arenes-du-plumacon-2/"
+      },
+      {
+        "date": "2026-08-14",
+        "title": {
+          "de": "Nächtliche Führung durch die Arènes du Plumaçon",
+          "hu": "Éjszakai vezetés a Plumaçon arénában",
+          "ro": "Vizită nocturnă la Arènes du Plumaçon",
+          "en": "Night tour of the Arènes du Plumaçon",
+          "fr": "Visite nocturne des arènes du Plumaçon"
+        },
+        "summary": {
+          "de": "Die nächtliche Sonderführung zeigt die Arena nach Einbruch der Dunkelheit und erläutert Geschichte und Codes der Tauromachie.",
+          "hu": "Az esti különvezetés sötétedés után mutatja meg az arénát, és bemutatja a tauromachia történetét és szabályait.",
+          "ro": "Vizita specială de seară prezintă arena după lăsarea întunericului și explică istoria și codurile tauromahiei.",
+          "en": "This special evening visit presents the arena after dark and introduces the history and codes of bullfighting.",
+          "fr": "Cette visite spéciale en soirée permet de découvrir les arènes de nuit et les codes de la tauromachie."
+        },
+        "source_url": "https://www.montdemarsan.fr/agenda/visite-nocturne-des-arenes-du-plumacon/"
+      },
+      {
+        "date": "2026-08-21",
+        "title": {
+          "de": "Konzert mit Éloïz, Yanns und Keen’V",
+          "hu": "Koncert Éloïz, Yanns és Keen'V fellépésével",
+          "ro": "Concert cu Éloïz, Yanns și Keen’V",
+          "en": "Concert with Éloïz, Yanns and Keen'V",
+          "fr": "Concert avec Éloïz, Yanns et Keen’V"
+        },
+        "summary": {
+          "de": "Der Höhepunkt von „Mont de Marsan Bouge l’Été“ bringt eine populäre Konzertnacht in die Arènes, mit Gourmetmarkt ab 18 Uhr.",
+          "hu": "A „Mont de Marsan Bouge l’Été” csúcspontja népszerű koncertestet hoz az arénába, amelyet 18 órától gourmet piac kísér.",
+          "ro": "Momentul culminant al programului „Mont de Marsan Bouge l’Été” aduce o seară de concerte populare în arene, precedată de o piață gastronomică de la ora 18:00.",
+          "en": "The highlight of \"Mont de Marsan Bouge l’Été\" brings a popular concert night to the arena, preceded by a gourmet market from 6 p.m.",
+          "fr": "Point d'orgue de « Mont de Marsan Bouge l'Été », cette soirée populaire aux arènes est précédée d'un marché gourmand dès 18 h."
+        },
+        "source_url": "https://www.montdemarsan.fr/agenda/concert-avec-eloiz-yanns-et-keenv/"
+      },
+      {
+        "date": "2026-09-12",
+        "end_date": "2026-09-13",
+        "title": {
+          "de": "Forum der Vereine",
+          "hu": "Egyesületi fórum",
+          "ro": "Forumul asociațiilor",
+          "en": "Associations Forum",
+          "fr": "Forum des associations"
+        },
+        "summary": {
+          "de": "Mehr als 200 lokale Vereine präsentieren sich mit Vorführungen, Mitmachaktionen und Informationen für das neue Saisonprogramm.",
+          "hu": "Több mint 200 helyi egyesület mutatkozik be bemutatókkal, kipróbálható programokkal és információkkal az új szezonra.",
+          "ro": "Peste 200 de asociații locale se prezintă publicului cu demonstrații, inițieri și informații pentru noul sezon.",
+          "en": "More than 200 local associations present themselves with demonstrations, taster activities, and information for the new season.",
+          "fr": "Plus de 200 associations montoises se présentent au public avec démonstrations, initiations et informations pour la rentrée."
+        },
+        "source_url": "https://www.montdemarsan.fr/agenda/forum-des-associations/"
+      }
+    ]
+  }
+]

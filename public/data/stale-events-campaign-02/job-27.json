@@ -1,0 +1,292 @@
+[
+  {
+    "id": "kastela",
+    "events": [
+      {
+        "date": "2026-08-04",
+        "title": {
+          "de": "Beach Wine Fest",
+          "hu": "Beach Wine Fest",
+          "ro": "Beach Wine Fest",
+          "en": "Beach Wine Fest"
+        },
+        "summary": {
+          "de": "Das offizielle Stadtprogramm weist das Beach Wine Fest in Kaštel Stari nach einer Verschiebung für den 4. August aus. Besucher erwartet ein sommerlicher Abend an Đardin und Strand mit Wein- und Freizeitprogramm.",
+          "hu": "A városi eseménynaptár szerint a Beach Wine Festet az elhalasztás után augusztus 4-én rendezik meg Kaštel Stariban. A látogatókat nyári boros és szabadidős program várja a Đardin parkban és a strandon.",
+          "ro": "Calendarul oficial al orașului anunță Beach Wine Fest la Kaštel Stari pentru 4 august, după amânare. Vizitatorii pot conta pe o seară de vară la Đardin și pe plajă, cu vinuri și atmosferă relaxată.",
+          "en": "The city calendar lists Beach Wine Fest in Kaštel Stari for 4 August after a postponement. Visitors can expect a summer evening at Đardin and the beach with wine-focused leisure programming."
+        },
+        "source_url": "https://kastela.hr/kalendar/beach-wine-fest-dardin-i-plaza-kastel-stari/"
+      },
+      {
+        "date": "2026-08-18",
+        "title": {
+          "de": "Kaštela Fest 2026",
+          "hu": "Kaštela Fest 2026",
+          "ro": "Kaštela Fest 2026",
+          "en": "Kaštela Fest 2026"
+        },
+        "summary": {
+          "de": "Im offiziellen Programm des Kaštela-Kultursommers ist Kaštela Fest 2026 als Festival junger Amateur-Sänger am Brce in Kaštel Stari angekündigt. Es gehört zu den größeren Sommerabenden des städtischen Kulturprogramms.",
+          "hu": "A Kaštela kulturális nyár hivatalos programja szerint a Kaštela Fest 2026 a fiatal amatőr énekesek fesztiválja lesz a kaštel star-i brcén. Az esemény a városi nyári kulturális kínálat egyik kiemelt estéje.",
+          "ro": "Programul oficial al verii culturale din Kaštela anunță Kaštela Fest 2026 ca festival al tinerilor interpreți amatori pe promenada Brce din Kaštel Stari. Evenimentul face parte din seria principală a serilor estivale ale orașului.",
+          "en": "The official Kaštela summer program announces Kaštela Fest 2026 as a festival for young amateur singers at Brce in Kaštel Stari. It is one of the city’s larger summer culture evenings."
+        },
+        "source_url": "https://kastela.hr/wp-content/uploads/objave/2026/06/kklj-kolovoz-rujan.pdf"
+      },
+      {
+        "date": "2026-08-20",
+        "title": {
+          "de": "Konzert des Gitarrenduos Stojaković-Čižmek",
+          "hu": "A Stojaković-Čižmek gitárduó koncertje",
+          "ro": "Concertul duo-ului de chitară Stojaković-Čižmek",
+          "en": "Stojaković-Čižmek Guitar Duo Concert"
+        },
+        "summary": {
+          "de": "Das offizielle August-September-Programm von Kaštela führt für den 20. August ein Konzert des Gitarrenduos Stojaković-Čižmek auf. Das Konzert ist Teil des städtischen Kultur- und Unterhaltungsprogramms im Sommer.",
+          "hu": "Kaštela hivatalos augusztusi-szeptemberi programjában augusztus 20-ra szerepel a Stojaković-Čižmek gitárduó koncertje. Az est a város nyári kulturális és szórakoztató programsorozatához tartozik.",
+          "ro": "Programul oficial al lunilor august-septembrie din Kaštela include pe 20 august un concert al duo-ului de chitară Stojaković-Čižmek. Spectacolul face parte din programul cultural și de divertisment al verii.",
+          "en": "Kaštela’s official August-September program lists a concert by the Stojaković-Čižmek guitar duo on 20 August. The performance is part of the city’s summer culture and entertainment season."
+        },
+        "source_url": "https://kastela.hr/wp-content/uploads/objave/2026/06/kklj-kolovoz-rujan.pdf"
+      }
+    ]
+  },
+  {
+    "id": "maspalomas",
+    "events": [
+      {
+        "date": "2026-07-27",
+        "end_date": "2026-08-18",
+        "title": {
+          "de": "Verano Joven SBT 2026",
+          "hu": "Verano Joven SBT 2026",
+          "ro": "Verano Joven SBT 2026",
+          "en": "Verano Joven SBT 2026"
+        },
+        "summary": {
+          "de": "Das Jugend-Sommerprogramm der Gemeinde läuft laut Rathaus bis zum 18. August mit kostenlosen Aktivitäten wie Abenteuerangeboten, Wasserprogrammen, Urban Culture, Sport, Wellness und Astronomie. Für Besucher und junge Teilnehmende sind Voranmeldungen erforderlich.",
+          "hu": "Az önkormányzat nyári ifjúsági programja augusztus 18-ig tart, és ingyenes kaland-, vízi, urbánus kulturális, sport-, wellnesz- és csillagászati programokat kínál. A részvételhez előzetes regisztráció szükséges.",
+          "ro": "Programul de vară pentru tineret al primăriei continuă până la 18 august și include gratuit activități de aventură, programe acvatice, cultură urbană, sport, wellness și observații astronomice. Participarea se face cu înscriere prealabilă.",
+          "en": "The municipality’s youth summer program runs until 18 August with free activities including adventure outings, water-based activities, urban culture, sports, wellness, and astronomy. Advance registration is required."
+        },
+        "source_url": "https://www.maspalomas.com/mnunotjuventud/2955-2026-ju-sbt-activa-su-verano-joven-2026",
+        "period": {
+          "recurrent": true
+        }
+      },
+      {
+        "date": "2026-08-10",
+        "end_date": "2026-08-16",
+        "title": {
+          "de": "Summer Event 2026",
+          "hu": "Summer Event 2026",
+          "ro": "Summer Event 2026",
+          "en": "Summer Event 2026"
+        },
+        "summary": {
+          "de": "Ein offizielles Gemeindedokument bestätigt das Summer Event 2026 für den Zeitraum 10. bis 16. August in Maspalomas. Die Mitteilung bezieht sich auf Verkehrs- und Betriebsregelungen für das mehrtägige Musikfestival.",
+          "hu": "Egy hivatalos önkormányzati közlemény szerint a Summer Event 2026 augusztus 10. és 16. között zajlik Maspalomasban. A tájékoztató a többnapos zenei eseményhez kapcsolódó forgalmi és működési szabályokat részletezi.",
+          "ro": "Un document oficial al municipalității confirmă Summer Event 2026 în Maspalomas între 10 și 16 august. Anunțul stabilește măsuri de circulație și funcționare pentru festivalul muzical desfășurat pe mai multe zile.",
+          "en": "An official municipal notice confirms Summer Event 2026 in Maspalomas from 10 to 16 August. The notice sets out traffic and operating measures for the multi-day music festival."
+        },
+        "source_url": "https://www.maspalomas.com/images/stories/documents/TablonAnuncios/Bandos/2026/202607096_BANDO_CIERRE_SUMMER_EVENT_2026.PDF"
+      },
+      {
+        "date": "2026-08-15",
+        "title": {
+          "de": "SANSA XL 2026",
+          "hu": "SANSA XL 2026",
+          "ro": "SANSA XL 2026",
+          "en": "SANSA XL 2026"
+        },
+        "summary": {
+          "de": "Auf der offiziellen Bekanntmachungsseite der Gemeinde ist SANSA XL 2026 für den 15. August als musikalische Veranstaltung verzeichnet. Die Veröffentlichung dient der Regelung von Betriebs- und Umfeldmaßnahmen rund um das Event.",
+          "hu": "Az önkormányzat hivatalos hirdetőtábláján a SANSA XL 2026 augusztus 15-i zenei rendezvényként szerepel. A közlemény az eseményhez kapcsolódó működési és környezeti szabályokat rögzíti.",
+          "ro": "Pe panoul oficial de anunțuri al municipalității, SANSA XL 2026 este programat ca eveniment muzical pe 15 august. Publicarea stabilește măsurile administrative și de funcționare pentru desfășurarea acestuia.",
+          "en": "The municipality’s official notices list SANSA XL 2026 as a musical event on 15 August. The publication records the operating and surrounding-area arrangements for the event."
+        },
+        "source_url": "https://www.maspalomas.com/mnutablonbandos"
+      }
+    ]
+  },
+  {
+    "id": "city-ramnicu-sarat-extra",
+    "events": [
+      {
+        "date": "2026-07-29",
+        "end_date": "2026-07-30",
+        "title": {
+          "de": "Internationales Festival für traditionellen Tanz und Musik",
+          "hu": "Nemzetközi hagyományőrző tánc- és zenei fesztivál",
+          "ro": "Festivalul Internațional de Dans și Muzică Tradițională",
+          "en": "International Festival of Traditional Dance and Music"
+        },
+        "summary": {
+          "de": "Das Kulturzentrum Florica Cristoforeanu kündigt für den 29. und 30. Juli eine neue Ausgabe des internationalen Festivals in Râmnicu Sărat an. Das Programm umfasst unter anderem eine Parade durch Stadtzentrum, Stadtpark und Piațeta Primăriei.",
+          "hu": "A Florica Cristoforeanu Kulturális Központ július 29-30-ra hirdeti meg a nemzetközi hagyományőrző tánc- és zenei fesztivál új kiadását Râmnicu Săratban. A programban felvonulás is szerepel a belvároson, a városi parkon és a városháza előtti téren át.",
+          "ro": "Centrul Cultural Florica Cristoforeanu anunță pentru 29 și 30 iulie o nouă ediție a festivalului internațional la Râmnicu Sărat. Programul include și o paradă prin centru, parcul municipal și Piațeta Primăriei.",
+          "en": "The Florica Cristoforeanu Cultural Centre announces a new edition of the international festival in Râmnicu Sărat on 29 and 30 July. The program includes a parade through the town center, municipal park, and Town Hall square."
+        },
+        "source_url": "https://floricacristoforeanu.ro/platforma/spectacole-si-evenimente/%F0%9D%99%81%F0%9D%99%80%F0%9D%99%8E%F0%9D%99%8F%F0%9D%99%84%F0%9D%99%91%F0%9D%98%BC%F0%9D%99%87%F0%9D%99%90%F0%9D%99%87-%F0%9D%99%84%F0%9D%99%89%F0%9D%99%8F%F0%9D%99%80%F0%9D%99%8D%F0%9D%99%89/"
+      },
+      {
+        "date": "2026-10-17",
+        "title": {
+          "de": "Außergewöhnliches Konzert mit dem Tenor Paul Celmare",
+          "hu": "Rendkívüli koncert Paul Celmare tenorral",
+          "ro": "Concert Extraordinar cu tenorul Paul Celmare",
+          "en": "Extraordinary Concert with Tenor Paul Celmare"
+        },
+        "summary": {
+          "de": "Ticketstore führt für den 17. Oktober ein Konzert von Paul Celmare im Haus der Kultur Florica Cristoforeanu in Râmnicu Sărat. Angekündigt ist ein Programm mit Opernarien, italienischen Canzonetten, rumänischen Liedern und internationalen Schlagern.",
+          "hu": "A Ticketstore október 17-re hirdeti meg Paul Celmare koncertjét a Florica Cristoforeanu Művelődési Házban Râmnicu Săratban. A műsor operáriákat, olasz canzonékat, román dalokat és nemzetközi slágereket ígér.",
+          "ro": "Ticketstore anunță pentru 17 octombrie concertul lui Paul Celmare la Casa de Cultură Florica Cristoforeanu din Râmnicu Sărat. Programul promite arii de operă, canțonete italiene, melodii românești și șlagăre internaționale.",
+          "en": "Ticketstore lists a Paul Celmare concert at Casa de Cultură Florica Cristoforeanu in Râmnicu Sărat on 17 October. The program is billed with opera arias, Italian songs, Romanian favorites, and international standards."
+        },
+        "source_url": "https://ticketstore.ro/ro/bilete/12364/concert-extraordinar-cu-tenorul-paul-celmare-ramnicu-sarat"
+      },
+      {
+        "date": "2026-10-25",
+        "title": {
+          "de": "Direcția 5: 100% Direcția 5",
+          "hu": "Direcția 5: 100% Direcția 5",
+          "ro": "Direcția 5: 100% Direcția 5",
+          "en": "Direcția 5: 100% Direcția 5"
+        },
+        "summary": {
+          "de": "Die Veranstaltungsseite von iaBilet kündigt für den 25. Oktober einen Tourstopp von Direcția 5 im Kulturzentrum Florica Cristoforeanu an. Besucher erwartet ein Konzert mit bekannten Liedern der Band im Rahmen der Jubiläumstour.",
+          "hu": "Az iaBilet eseményoldala szerint október 25-én a Direcția 5 turnéja megáll a Florica Cristoforeanu Kulturális Központban. A közönséget a zenekar ismert dalaiból összeállított koncert várja.",
+          "ro": "Pagina de eveniment iaBilet anunță pentru 25 octombrie un concert Direcția 5 la Centrul Cultural Florica Cristoforeanu. Publicul este invitat la un recital cu piesele consacrate ale trupei din cadrul turneului aniversar.",
+          "en": "iaBilet lists a Direcția 5 tour stop at the Florica Cristoforeanu Cultural Centre on 25 October. Visitors can expect a concert built around the band’s best-known songs."
+        },
+        "source_url": "https://www.iabilet.ro/bilete-centrul-cultural-florica-cristoforeanu-venue-3905/?nomobile=1"
+      }
+    ]
+  },
+  {
+    "id": "blanes",
+    "events": [
+      {
+        "date": "2026-07-22",
+        "end_date": "2026-07-28",
+        "title": {
+          "de": "Festa Major 2026",
+          "hu": "Festa Major 2026",
+          "ro": "Festa Major 2026",
+          "en": "Festa Major 2026"
+        },
+        "summary": {
+          "de": "Das Hauptfest von Blanes läuft vom 22. bis 28. Juli und bleibt damit auch nach dem 26. Juli für Besucher relevant. Das Programm umfasst Konzerte, traditionelle Akte, Straßenumzüge und Aktivitäten rund um die Patronin Santa Anna.",
+          "hu": "Blanes városi főünnepe július 22. és 28. között zajlik, így július 26. után is releváns a látogatóknak. A program koncerteket, hagyományos eseményeket, felvonulásokat és Santa Anna ünnepéhez kapcsolódó rendezvényeket kínál.",
+          "ro": "Sărbătoarea principală a orașului Blanes are loc între 22 și 28 iulie, deci rămâne relevantă pentru vizitatori și după 26 iulie. Programul include concerte, acte tradiționale, parade și activități dedicate patroanei Santa Anna.",
+          "en": "Blanes’ main town festival runs from 22 to 28 July, so it remains visitor-relevant after 26 July. The program includes concerts, traditional observances, parades, and activities tied to Saint Anne."
+        },
+        "source_url": "https://www.blanes.cat/docweb/agenda-2026-07-festa-major"
+      },
+      {
+        "date": "2026-07-23",
+        "end_date": "2026-07-27",
+        "title": {
+          "de": "54. Internationaler Feuerwerkswettbewerb der Costa Brava",
+          "hu": "54. Costa Brava Nemzetközi Tűzijátékverseny",
+          "ro": "Al 54-lea Concurs Internațional de Focuri de Artificii de pe Costa Brava",
+          "en": "54th Costa Brava International Fireworks Competition"
+        },
+        "summary": {
+          "de": "Der internationale Feuerwerkswettbewerb von Blanes findet an fünf Abenden vom 23. bis 27. Juli an der Roca de Sa Palomera statt. Er ist einer der meistbesuchten Höhepunkte der Stadt und Teil des Festa-Major-Zyklus.",
+          "hu": "Blanes nemzetközi tűzijátékversenye öt estén át, július 23. és 27. között zajlik a Roca de Sa Palomeránál. Ez a város egyik leglátogatottabb csúcspontja és a Festa Major program része.",
+          "ro": "Concursul internațional de focuri de artificii din Blanes se desfășoară timp de cinci seri, între 23 și 27 iulie, la Roca de Sa Palomera. Este unul dintre momentele cu cea mai mare audiență din oraș și face parte din ciclul Festa Major.",
+          "en": "Blanes’ international fireworks competition takes place over five evenings from 23 to 27 July at Roca de Sa Palomera. It is one of the town’s biggest draws and part of the Festa Major cycle."
+        },
+        "source_url": "https://www.blanes.cat/docweb/agenda-2026-focs"
+      },
+      {
+        "date": "2026-07-30",
+        "end_date": "2026-08-18",
+        "title": {
+          "de": "Cinema als Barris 2026",
+          "hu": "Cinema als Barris 2026",
+          "ro": "Cinema als Barris 2026",
+          "en": "Cinema als Barris 2026"
+        },
+        "summary": {
+          "de": "Die Stadt Blanes organisiert das Open-Air-Filmprogramm Cinema als Barris bis zum 18. August in verschiedenen Stadtvierteln. Für Besucher bietet es sommerliche Abendvorführungen an wechselnden Orten.",
+          "hu": "Blanes városa augusztus 18-ig több városrészben rendezi meg a Cinema als Barris szabadtéri filmes sorozatot. A látogatók különböző helyszíneken élvezhetnek nyári esti vetítéseket.",
+          "ro": "Primăria Blanes organizează până pe 18 august programul de cinema în aer liber Cinema als Barris, în mai multe cartiere ale orașului. Vizitatorii au parte de proiecții estivale de seară în locații diferite.",
+          "en": "The city of Blanes is running its open-air Cinema als Barris program through 18 August across different neighborhoods. Visitors can enjoy summer evening screenings in rotating local venues."
+        },
+        "source_url": "https://www.blanes.cat/docweb/agenda-2026-07-cinema-barris",
+        "period": {
+          "recurrent": true
+        }
+      }
+    ]
+  },
+  {
+    "id": "la-ciotat",
+    "events": [
+      {
+        "date": "2026-08-01",
+        "title": {
+          "de": "Festival Orgues & Cinéma",
+          "hu": "Orgues & Cinéma Fesztivál",
+          "ro": "Festivalul Orgues & Cinéma",
+          "en": "Orgues & Cinéma Festival",
+          "fr": "Festival Orgues & Cinéma"
+        },
+        "summary": {
+          "de": "Das Tourismusbüro kündigt das Festival Orgues & Cinéma mit Abendterminen am 1., 8. und 15. August an. Das Programm verbindet Orgelmusik und Filmkultur in La Ciotat.",
+          "hu": "A turisztikai iroda szerint az Orgues & Cinéma fesztivál augusztus 1-jén, 8-án és 15-én kínál esti programokat. Az esemény az orgonazenét és a filmművészetet kapcsolja össze La Ciotat-ban.",
+          "ro": "Oficiul de turism anunță Festivalul Orgues & Cinéma cu seri programate pe 1, 8 și 15 august. Evenimentul leagă muzica de orgă de cultura cinematografică în La Ciotat.",
+          "en": "The tourist office lists the Orgues & Cinéma festival with evening programs on 1, 8, and 15 August. It connects organ music and cinema culture in La Ciotat.",
+          "fr": "L'office de tourisme annonce le festival Orgues & Cinéma avec des soirées les 1er, 8 et 15 août. L'événement relie musique d'orgue et culture du cinéma à La Ciotat."
+        },
+        "source_url": "https://www.destinationlaciotat.com/offres/festival-orgues-cinema-la-ciotat-fr-4399934/",
+        "period": {
+          "recurrent": true
+        }
+      },
+      {
+        "date": "2026-08-16",
+        "title": {
+          "de": "Feuerwerk vom 16. August",
+          "hu": "Augusztus 16-i tűzijáték",
+          "ro": "Focul de artificii din 16 august",
+          "en": "16 August Fireworks",
+          "fr": "Feu d'artifice du 16 août"
+        },
+        "summary": {
+          "de": "Das offizielle Tourismusbüro kündigt für den 16. August um 22:00 Uhr ein öffentliches Feuerwerk an der Promenade François Mulet an. Es ist ein gut sichtbarer Sommerabend-Höhepunkt am Wasser.",
+          "hu": "A hivatalos turisztikai iroda augusztus 16-án 22:00 órára nyilvános tűzijátékot hirdet a Promenade François Mulet sétányon. Ez a nyári estének látványos vízparti csúcspontja.",
+          "ro": "Oficiul oficial de turism anunță pentru 16 august, la ora 22:00, un foc de artificii public pe Promenade François Mulet. Este unul dintre momentele spectaculoase ale serilor de vară la malul apei.",
+          "en": "The official tourist office lists a public fireworks display on 16 August at 22:00 on Promenade François Mulet. It is a high-visibility summer evening attraction by the waterfront.",
+          "fr": "L'office de tourisme officiel annonce un feu d'artifice public le 16 août à 22h sur la promenade François Mulet. C'est l'un des temps forts des soirées d'été en bord de mer."
+        },
+        "source_url": "https://www.destinationlaciotat.com/offres/feu-dartifice-du-16-aout-a-la-ciotat-la-ciotat-fr-4293096/"
+      },
+      {
+        "date": "2026-06-17",
+        "end_date": "2026-08-29",
+        "title": {
+          "de": "Partir en livre: Nos petits et grands héros",
+          "hu": "Partir en livre: Nos petits et grands héros",
+          "ro": "Partir en livre: Nos petits et grands héros",
+          "en": "Partir en livre: Nos petits et grands héros",
+          "fr": "Partir en livre : Nos petits et grands héros"
+        },
+        "summary": {
+          "de": "Die Stadtagenda führt diese familienfreundliche Sommeraktion vom 17. Juni bis 29. August 2026 auf. Das offene Programm richtet sich an Kinder und Familien und bleibt über den gesamten Hochsommer in La Ciotat relevant.",
+          "hu": "A városi programajánló szerint ez a családbarát nyári eseménysorozat 2026. június 17. és augusztus 29. között tart. A nyitott program gyerekeket és családokat szólít meg, és egész nyáron látogatható La Ciotat-ban.",
+          "ro": "Agenda orașului include această acțiune estivală pentru familii între 17 iunie și 29 august 2026. Programul deschis se adresează copiilor și familiilor și rămâne relevant pe tot parcursul verii în La Ciotat.",
+          "en": "The city agenda lists this family-friendly summer program from 17 June to 29 August 2026. It is aimed at children and families and remains relevant throughout the high-summer period in La Ciotat.",
+          "fr": "L'agenda de la ville présente cette animation estivale familiale du 17 juin au 29 août 2026. Le programme en accès libre s'adresse aux enfants et aux familles pendant toute la haute saison à La Ciotat."
+        },
+        "source_url": "https://www.laciotat.com/actualite/lagenda?filter_month=8",
+        "period": {
+          "recurrent": true
+        }
+      }
+    ]
+  }
+]

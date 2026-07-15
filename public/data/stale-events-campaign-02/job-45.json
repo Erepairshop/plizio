@@ -1,0 +1,417 @@
+[
+  {
+    "id": "szentendre",
+    "events": [
+      {
+        "date": "2026-07-26",
+        "title": {
+          "de": "VINTAGE DOLLS im Barlang",
+          "hu": "VINTAGE DOLLS a Barlang kertben",
+          "ro": "VINTAGE DOLLS la Barlang",
+          "en": "VINTAGE DOLLS at Barlang"
+        },
+        "summary": {
+          "de": "Das Open-Air-Konzert am Donauufer bringt ein Vokaltrio im Stil der 1930er und 1940er Jahre mit Jazz-Begleitung nach Szentendre.",
+          "hu": "A Duna-parti szabadtéri koncerten a VINTAGE DOLLS vokáltrió a harmincas-negyvenes évek hangulatát idézi meg jazzkísérettel.",
+          "ro": "Concertul în aer liber de pe malul Dunării aduce la Szentendre trio-ul vocal VINTAGE DOLLS, inspirat de atmosfera anilor 1930-1940.",
+          "en": "This open-air Danube-side concert brings the VINTAGE DOLLS vocal trio and its 1930s-1940s inspired jazz sound to Szentendre."
+        },
+        "source_url": "https://programok.szentendre.hu/"
+      },
+      {
+        "date": "2026-08-01",
+        "title": {
+          "de": "KFT koncert a Barlangban",
+          "hu": "KFT koncert a Barlangban",
+          "ro": "Concert KFT la Barlang",
+          "en": "KFT Concert at Barlang"
+        },
+        "summary": {
+          "de": "Die ungarische Band KFT spielt ein Sommerkonzert an der Barlang-Bühne direkt an der Donau in Szentendre.",
+          "hu": "A KFT nyári koncertet ad a szentendrei Barlang vízparti színpadán.",
+          "ro": "Formația maghiară KFT susține un concert de vară pe scena Barlang, lângă Dunăre, în Szentendre.",
+          "en": "Hungarian band KFT performs a summer show at Szentendre's riverside Barlang venue."
+        },
+        "source_url": "https://programok.szentendre.hu/esemenyek/kategoria/koncertek/"
+      },
+      {
+        "date": "2026-08-20",
+        "title": {
+          "de": "Kenyérlelke Fesztivál im Skanzen",
+          "hu": "Kenyérlelke Fesztivál a Skanzenben",
+          "ro": "Festivalul Kenyérlelke la Skanzen",
+          "en": "Kenyérlelke Festival at the Skanzen"
+        },
+        "summary": {
+          "de": "Das Brot- und Handwerksfestival im Freilichtmuseum bietet Ofenbacken, Workshops, Kinderprogramme sowie Musik- und Fachveranstaltungen.",
+          "hu": "A Skanzenben rendezett fesztivál kemencés sütéssel, workshopokkal, gyerekprogramokkal és zenei programokkal várja a látogatókat.",
+          "ro": "Festivalul de la muzeul în aer liber oferă coacere în cuptor, ateliere, programe pentru copii și activități muzicale și tematice.",
+          "en": "Held at the open-air museum, this festival combines oven baking, workshops, children's activities, and music and expert programming."
+        },
+        "source_url": "https://programok.szentendre.hu/esemeny/kenyerlelke-fesztival-a-skanzenben-2026-augusztus-20/"
+      },
+      {
+        "date": "2026-08-30",
+        "title": {
+          "de": "NESTArt Szentendrei Nyári Művészbázis",
+          "hu": "NESTArt Szentendrei Nyári Művészbázis",
+          "ro": "NESTArt Baza artistică de vară din Szentendre",
+          "en": "NESTArt Szentendre Summer Art Base"
+        },
+        "summary": {
+          "de": "Die Sommerausstellung der jungen Künstlergeneration läuft bis Ende August und zeigt Arbeiten, die aus dem zweiwöchigen Kunstcamp hervorgehen.",
+          "hu": "A fiatal művészgeneráció nyári kiállítása augusztus végéig látogatható, és a kéthetes alkotótábor eredményeit mutatja be.",
+          "ro": "Expoziția de vară a tinerei generații de artiști poate fi vizitată până la sfârșitul lui august și prezintă lucrări realizate în tabăra de creație.",
+          "en": "This summer exhibition of emerging artists runs through the end of August and presents work created during the two-week art camp."
+        },
+        "end_date": "2026-08-30",
+        "source_url": "https://programok.szentendre.hu/esemeny/nestart-szentendrei-nyari-muveszbazis-2/"
+      },
+      {
+        "date": "2026-09-13",
+        "title": {
+          "de": "Művésztelep 100",
+          "hu": "Művésztelep 100",
+          "ro": "Művésztelep 100",
+          "en": "Artists' Colony 100"
+        },
+        "summary": {
+          "de": "Die große Jubiläumsausstellung zum hundertjährigen Bestehen der Szentendrei Künstlerkolonie ist noch bis in den Herbst in der MűvészetMalom zu sehen.",
+          "hu": "A szentendrei művésztelep százéves jubileumi kiállítása őszig látogatható a MűvészetMalomban.",
+          "ro": "Marea expoziție jubiliară dedicată centenarului coloniei de artiști din Szentendre rămâne deschisă până în toamnă la MűvészetMalom.",
+          "en": "The major centenary exhibition for Szentendre's artists' colony remains on view at MűvészetMalom into the autumn."
+        },
+        "end_date": "2026-10-25",
+        "source_url": "https://programok.szentendre.hu/esemeny/16458/"
+      }
+    ]
+  },
+  {
+    "id": "city-szentes-extra",
+    "events": [
+      {
+        "date": "2026-07-26",
+        "title": {
+          "de": "Nyári Szabadtéri Színház – Operett-Gala (Ersatztermin)",
+          "hu": "Nyári Szabadtéri Színház – Operett Gála (esőnap)",
+          "ro": "Teatru de vară în aer liber – Gală de operetă (zi de rezervă)",
+          "en": "Summer Open-Air Theatre – Operetta Gala (Rain Date)"
+        },
+        "summary": {
+          "de": "Im Konferenz- und Kulturzentrum der Komitatsverwaltung steht ein Sommerabend mit Operettenmelodien als Ausweichtermin im offiziellen Stadtprogramm.",
+          "hu": "A Megyeháza Konferencia és Kulturális Központ hivatalos nyári programjában az operettgála esőnapi előadása szerepel.",
+          "ro": "În programul oficial al orașului figurează data de rezervă pentru gala de operetă de la centrul cultural și de conferințe Megyeháza.",
+          "en": "The city's official program lists this rain-date operetta gala at the Megyeháza conference and cultural center."
+        },
+        "source_url": "https://visitszentes.hu/programok/"
+      },
+      {
+        "date": "2026-07-27",
+        "title": {
+          "de": "Englischcamp im Gólyás Ház",
+          "hu": "Angol tábor",
+          "ro": "Tabără de limba engleză",
+          "en": "English Camp"
+        },
+        "summary": {
+          "de": "Das mehrtägige Feriencamp im Gólyás Ház richtet sich an Kinder und Jugendliche und gehört zum offiziellen Sommerprogramm von Szentes.",
+          "hu": "A Gólyás Házban zajló többnapos tábor a szentesi nyári program részeként várja a gyerekeket és fiatalokat.",
+          "ro": "Tabăra desfășurată la Gólyás Ház face parte din programul oficial de vară al orașului și este destinată copiilor și tinerilor.",
+          "en": "Held at Gólyás Ház, this multi-day camp for children and young people is part of Szentes's official summer program."
+        },
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://visitszentes.hu/programok/"
+      },
+      {
+        "date": "2026-07-30",
+        "title": {
+          "de": "Nyári Szabadtéri Színház – Nicsak, ki lakik itt?",
+          "hu": "Nyári Szabadtéri Színház – Nicsak, ki lakik itt?",
+          "ro": "Teatru de vară în aer liber – Nicsak, ki lakik itt?",
+          "en": "Summer Open-Air Theatre – Nicsak, ki lakik itt?"
+        },
+        "summary": {
+          "de": "Das Sommerprogramm von Szentes bringt die Bühnenproduktion am Abend auf die Freiluftbühne beim Megyeháza-Zentrum.",
+          "hu": "A szentesi nyári programsorozat egyik esti előadása a Megyeháza szabadtéri helyszínén látható.",
+          "ro": "Programul estival al orașului include această reprezentație de seară pe scena în aer liber de la Megyeháza.",
+          "en": "This evening stage production is part of Szentes's summer open-air theatre series at the Megyeháza venue."
+        },
+        "source_url": "https://visitszentes.hu/programok/"
+      },
+      {
+        "date": "2026-08-03",
+        "title": {
+          "de": "Englischcamp im Gólyás Ház",
+          "hu": "Angol tábor",
+          "ro": "Tabără de limba engleză",
+          "en": "English Camp"
+        },
+        "summary": {
+          "de": "Eine weitere Camp-Woche im Gólyás Ház setzt das familienfreundliche Ferienangebot der Stadt im August fort.",
+          "hu": "A Gólyás Ház augusztusi táborhete továbbviszi a város családbarát nyári kínálatát.",
+          "ro": "O nouă săptămână de tabără la Gólyás Ház continuă în august oferta de vacanță pentru familii a orașului.",
+          "en": "Another week of camp at Gólyás Ház continues the city's family-oriented holiday program in August."
+        },
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://visitszentes.hu/programok/"
+      },
+      {
+        "date": "2026-08-05",
+        "title": {
+          "de": "Nyári Szabadtéri Színház – Bödőcs Tibor estje",
+          "hu": "Nyári Szabadtéri Színház – Bödőcs Tibor estje",
+          "ro": "Teatru de vară în aer liber – seara Bödőcs Tibor",
+          "en": "Summer Open-Air Theatre – An Evening with Tibor Bödőcs"
+        },
+        "summary": {
+          "de": "Im offiziellen Veranstaltungskalender steht Anfang August ein Abendprogramm mit Tibor Bödőcs im Megyeháza Konferencia és Kulturális Központ.",
+          "hu": "Az augusztus eleji hivatalos programban Bödőcs Tibor estje szerepel a Megyeháza Konferencia és Kulturális Központban.",
+          "ro": "Calendarul oficial al orașului anunță pentru începutul lui august un spectacol cu Tibor Bödőcs la centrul Megyeháza.",
+          "en": "The city's official calendar lists an early-August evening with Tibor Bödőcs at the Megyeháza cultural center."
+        },
+        "source_url": "https://visitszentes.hu/programok/"
+      }
+    ]
+  },
+  {
+    "id": "city-aiud-extra",
+    "events": [
+      {
+        "date": "2026-07-30",
+        "title": {
+          "de": "Festivalul Internațional de Folclor 2026",
+          "hu": "Nemzetközi Folklórfesztivál 2026",
+          "ro": "Festivalul Internațional de Folclor 2026",
+          "en": "International Folklore Festival 2026"
+        },
+        "summary": {
+          "de": "Das offizielle Festivalprogramm von Aiud bringt mehrere Tage internationale Volksmusik- und Tanzgruppen in die Innenstadt.",
+          "hu": "Aiud hivatalos fesztiválja több napon át nemzetközi népzenei és néptáncegyütteseket hoz a városközpontba.",
+          "ro": "Festivalul oficial al municipiului aduce timp de mai multe zile ansambluri internaționale de muzică și dans popular în centrul Aiudului.",
+          "en": "Aiud's official festival brings international folk music and dance ensembles to the town center over several days."
+        },
+        "end_date": "2026-08-03",
+        "source_url": "https://www.aiud.ro/pdfs/anunturi/PH_regulament_Festival_de_folclor_Anexa-_Corect.pdf"
+      },
+      {
+        "date": "2026-07-31",
+        "title": {
+          "de": "Festivalul Internațional de Folclor – Festivalabend",
+          "hu": "Nemzetközi Folklórfesztivál – fesztiválest",
+          "ro": "Festivalul Internațional de Folclor – seară de festival",
+          "en": "International Folklore Festival – Festival Evening"
+        },
+        "summary": {
+          "de": "Während des laufenden Festivals sind die Veranstaltungsflächen in der Innenstadt für die offiziellen Folkloreaktivitäten des Festivals eingerichtet.",
+          "hu": "A fesztivál idején a belváros a hivatalos folklórprogramok és kapcsolódó rendezvények helyszíne.",
+          "ro": "În timpul festivalului, zona centrală a orașului este amenajată pentru activitățile oficiale și programele de folclor.",
+          "en": "During the festival, Aiud's central area is set up for the event's official folklore activities and public programming."
+        },
+        "end_date": "2026-08-03",
+        "source_url": "https://www.aiud.ro/pdfs/anunturi/PH_regulament_Festival_de_folclor_Anexa-_Corect.pdf"
+      },
+      {
+        "date": "2026-08-01",
+        "title": {
+          "de": "Festivalul Internațional de Folclor – Wochenendprogramm",
+          "hu": "Nemzetközi Folklórfesztivál – hétvégi program",
+          "ro": "Festivalul Internațional de Folclor – program de weekend",
+          "en": "International Folklore Festival – Weekend Program"
+        },
+        "summary": {
+          "de": "Das Wochenende des Festivals fällt in die Hauptbesuchszeit und bündelt die öffentlichen Programme im Veranstaltungsbereich von Aiud.",
+          "hu": "A fesztivál hétvégi szakasza a látogatók számára a legforgalmasabb időszak, a központi helyszíneken zajló nyilvános programokkal.",
+          "ro": "Segmentul de weekend al festivalului concentrează programele publice în zona de desfășurare din Aiud.",
+          "en": "The festival's weekend segment concentrates the public program in Aiud's main event area."
+        },
+        "end_date": "2026-08-03",
+        "source_url": "https://www.aiud.ro/pdfs/anunturi/PH_regulament_Festival_de_folclor_Anexa-_Corect.pdf"
+      }
+    ]
+  },
+  {
+    "id": "kazincbarcika",
+    "events": [
+      {
+        "date": "2026-08-17",
+        "title": {
+          "de": "Kolorfesztivál 2026",
+          "hu": "Kolorfesztivál 2026",
+          "ro": "Kolorfesztivál 2026",
+          "en": "Kolorfesztivál 2026"
+        },
+        "summary": {
+          "de": "Das große Stadtfestival am Csónakázó-tó startet Mitte August und verbindet mehrere Tage Konzerte und Sommerprogramm in Kazincbarcika.",
+          "hu": "A Csónakázó-tónál megrendezett nagy városi fesztivál augusztus közepén indul, többnapos koncert- és nyári programkínálattal.",
+          "ro": "Marele festival al orașului de la lacul Csónakázó începe la mijlocul lui august și aduce mai multe zile de concerte și program estival.",
+          "en": "The city's flagship festival at Csónakázó Lake starts in mid-August with several days of concerts and summer programming."
+        },
+        "end_date": "2026-08-22",
+        "source_url": "https://kolorcity.hu/oldal/fesztival-hazirend"
+      },
+      {
+        "date": "2026-08-18",
+        "title": {
+          "de": "Kolorfesztivál – Konzerttag",
+          "hu": "Kolorfesztivál – koncertnap",
+          "ro": "Kolorfesztivál – zi de concerte",
+          "en": "Kolorfesztivál – Concert Day"
+        },
+        "summary": {
+          "de": "Der Festivalpass gilt auch für den 18. August, wenn die Programme am Seeufer in den Abendstunden in den Konzertbetrieb übergehen.",
+          "hu": "A fesztiválbérlet augusztus 18-án is érvényes, amikor a tóparti programok estére koncertnappá alakulnak.",
+          "ro": "Abonamentul festivalului este valabil și pe 18 august, când programul de pe malul lacului continuă cu segmentul de concerte de seară.",
+          "en": "The festival pass is valid on August 18 as the lakeside program shifts into an evening concert schedule."
+        },
+        "source_url": "https://kolorcity.hu/fesztival-jegyinformaciok"
+      },
+      {
+        "date": "2026-08-19",
+        "title": {
+          "de": "Kolorfesztivál – Konzerttag",
+          "hu": "Kolorfesztivál – koncertnap",
+          "ro": "Kolorfesztivál – zi de concerte",
+          "en": "Kolorfesztivál – Concert Day"
+        },
+        "summary": {
+          "de": "Auch der 19. August gehört zu den offiziellen Festivaltagen mit Zugang zu den Programmen am Csónakázó-tó.",
+          "hu": "Augusztus 19. szintén hivatalos fesztiválnap a Csónakázó-tó programjaival.",
+          "ro": "Și 19 august figurează între zilele oficiale ale festivalului, cu acces la programele de la Csónakázó-tó.",
+          "en": "August 19 is also an official festival day with access to the Csónakázó Lake program area."
+        },
+        "source_url": "https://kolorcity.hu/fesztival-jegyinformaciok"
+      },
+      {
+        "date": "2026-08-21",
+        "title": {
+          "de": "Kolorfesztivál – Konzerttag",
+          "hu": "Kolorfesztivál – koncertnap",
+          "ro": "Kolorfesztivál – zi de concerte",
+          "en": "Kolorfesztivál – Concert Day"
+        },
+        "summary": {
+          "de": "Nach dem Pausentag läuft das Festival am 21. August mit weiteren kostenpflichtigen Konzertprogrammen weiter.",
+          "hu": "A szünetnap után augusztus 21-én újabb belépőjegyes koncertprogramokkal folytatódik a fesztivál.",
+          "ro": "După ziua de pauză, festivalul continuă pe 21 august cu alte programe de concerte cu bilet.",
+          "en": "After the break day, the festival resumes on August 21 with additional ticketed concert programming."
+        },
+        "source_url": "https://kolorcity.hu/fesztival-jegyinformaciok"
+      },
+      {
+        "date": "2026-09-19",
+        "title": {
+          "de": "BorsodChem Kolorfutás Night Kazincbarcika 2026",
+          "hu": "BorsodChem Kolorfutás Night Kazincbarcika 2026",
+          "ro": "BorsodChem Kolorfutás Night Kazincbarcika 2026",
+          "en": "BorsodChem Kolorfutás Night Kazincbarcika 2026"
+        },
+        "summary": {
+          "de": "Der farbenfrohe Nachtlauf bringt verschiedene Distanzen, Juniorrennen und stimmungsvolle Streckenelemente in die Stadt.",
+          "hu": "A látványos éjszakai futóesemény több távval, juniorfutammal és hangulatos útvonalelemmel várja a résztvevőket.",
+          "ro": "Cursa nocturnă colorată propune mai multe distanțe, o cursă pentru juniori și elemente spectaculoase pe traseu.",
+          "en": "This colorful night run offers multiple distances, a junior race, and eye-catching route elements across the city."
+        },
+        "source_url": "https://kolorcity.hu/kolorfutas"
+      }
+    ]
+  },
+  {
+    "id": "bergerac",
+    "events": [
+      {
+        "date": "2026-07-31",
+        "title": {
+          "de": "Les Jeudis ça danse !",
+          "hu": "Les Jeudis ça danse !",
+          "ro": "Les Jeudis ça danse !",
+          "en": "Les Jeudis ça danse !",
+          "fr": "Les Jeudis ça danse !"
+        },
+        "summary": {
+          "de": "Der sommerliche Tanzabend bringt öffentliches Tanzen und gesellige Stimmung auf die Place Maréchal de Lattre de Tassigny.",
+          "hu": "A nyári táncos est közösségi hangulatot és nyilvános táncprogramot visz a Place Maréchal de Lattre de Tassigny térre.",
+          "ro": "Seara de dans de vară aduce dans și atmosferă convivială în Place Maréchal de Lattre de Tassigny.",
+          "en": "This summer dance evening brings social dancing and a lively public atmosphere to Place Maréchal de Lattre de Tassigny.",
+          "fr": "Cette soirée estivale fait danser le public sur la place Maréchal de Lattre de Tassigny dans une ambiance conviviale."
+        },
+        "source_url": "https://www.bergerac.fr/agenda/"
+      },
+      {
+        "date": "2026-08-01",
+        "title": {
+          "de": "Braderie des commerçants",
+          "hu": "Braderie des commerçants",
+          "ro": "Braderie des commerçants",
+          "en": "Traders' Sidewalk Sale",
+          "fr": "Braderie des commerçants"
+        },
+        "summary": {
+          "de": "Die Innenstadtgeschäfte veranstalten einen großen Sommerschlussverkauf mit Marktstimmung im Zentrum von Bergerac.",
+          "hu": "A belvárosi üzletek nyári kirakodóvásárt és kedvezményes vásárlási napot rendeznek Bergerac központjában.",
+          "ro": "Magazinele din centru organizează o mare vânzare de vară în aer liber, cu atmosferă de târg în Bergerac.",
+          "en": "Downtown shops stage a major summer sidewalk sale with market-style atmosphere across central Bergerac.",
+          "fr": "Les commerçants du centre organisent une grande braderie estivale dans les rues de Bergerac."
+        },
+        "source_url": "https://www.bergerac.fr/agenda/"
+      },
+      {
+        "date": "2026-08-03",
+        "title": {
+          "de": "Les Tablées du Terroir",
+          "hu": "Les Tablées du Terroir",
+          "ro": "Les Tablées du Terroir",
+          "en": "Tables of the Terroir",
+          "fr": "Les Tablées du Terroir"
+        },
+        "summary": {
+          "de": "Am Hafen von Bergerac treffen sich Besucher zu einem Abend mit regionalen Produzenten, Speisen und Konzertprogramm.",
+          "hu": "A bergerac-i kikötőben a helyi termelők, ételek és esti koncertprogramok köré szerveződik ez a nyári gasztróesemény.",
+          "ro": "În portul Bergerac, evenimentul reunește producători locali, gastronomie și program muzical de seară.",
+          "en": "At Bergerac's port, this summer food event combines local producers, regional dishes, and an evening concert.",
+          "fr": "Au port de Bergerac, cette soirée gourmande réunit producteurs locaux, spécialités du terroir et concert."
+        },
+        "source_url": "https://www.bergerac.fr/agenda/les-tablees-du-terroir/"
+      },
+      {
+        "date": "2026-08-04",
+        "title": {
+          "de": "Sortie nature : Faune et flore des bords de Dordogne",
+          "hu": "Természetjárás: a Dordogne partjának állat- és növényvilága",
+          "ro": "Ieșire în natură: fauna și flora malurilor Dordognei",
+          "en": "Nature Outing: Fauna and Flora of the Dordogne Banks",
+          "fr": "Sortie nature : Faune et flore des bords de Dordogne"
+        },
+        "summary": {
+          "de": "Die geführte Naturtour erkundet die Tier- und Pflanzenwelt entlang der Dordogne direkt bei Bergerac.",
+          "hu": "A vezetett természetjárás a Dordogne folyó bergerac-i partjának élővilágát mutatja be.",
+          "ro": "Turul ghidat în natură descoperă fauna și flora de pe malurile Dordognei la Bergerac.",
+          "en": "This guided nature walk explores wildlife and plant life along the Dordogne in Bergerac.",
+          "fr": "Cette sortie guidée invite à découvrir la faune et la flore des berges de la Dordogne à Bergerac."
+        },
+        "source_url": "https://www.bergerac.fr/agenda/"
+      },
+      {
+        "date": "2026-08-07",
+        "title": {
+          "de": "Dordonha en musique : Séva",
+          "hu": "Dordonha en musique : Séva",
+          "ro": "Dordonha en musique : Séva",
+          "en": "Dordonha en musique: Séva",
+          "fr": "Dordonha en musique : Séva"
+        },
+        "summary": {
+          "de": "Die Sommerserie am Kulturort Dordonha lädt zu einem Abendkonzert mit Séva in Bergerac ein.",
+          "hu": "A Dordonha kulturális helyszín nyári sorozata Séva esti koncertjével folytatódik Bergeracban.",
+          "ro": "Seria de vară de la Dordonha continuă la Bergerac cu un concert de seară susținut de Séva.",
+          "en": "The summer series at Dordonha continues in Bergerac with an evening concert by Séva.",
+          "fr": "La programmation estivale de Dordonha se poursuit à Bergerac avec un concert de Séva."
+        },
+        "source_url": "https://www.bergerac.fr/agenda/"
+      }
+    ]
+  }
+]

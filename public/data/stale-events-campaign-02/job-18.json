@@ -1,0 +1,490 @@
+[
+  {
+    "id": "monopoli",
+    "events": [
+      {
+        "title": {
+          "de": "De Chirico und Marini. Zwei Meister der italienischen Kunstgeschichte",
+          "hu": "De Chirico és Marini. Az olasz művészettörténet két mestere",
+          "ro": "De Chirico și Marini. Doi maeștri ai istoriei artei italiene",
+          "en": "De Chirico and Marini. Two masters of Italian art history"
+        },
+        "summary": {
+          "de": "Im Castello Carlo V läuft eine Ausstellung mit Werken von Giorgio De Chirico und Marino Marini aus privaten Sammlungen.",
+          "hu": "A Castello Carlo V kiállítása Giorgio De Chirico és Marino Marini műveit mutatja be magángyűjteményekből.",
+          "ro": "La Castello Carlo V este deschisă o expoziție cu lucrări de Giorgio De Chirico și Marino Marini provenite din colecții private.",
+          "en": "Castello Carlo V is hosting an exhibition of works by Giorgio De Chirico and Marino Marini drawn from private collections."
+        },
+        "date": "2026-03-13",
+        "end_date": "2026-08-02",
+        "source_url": "https://www.comune.monopoli.ba.it/Novita/Comunicati/De-Chirico-e-Marini.-Due-maestri-della-storia-dell-arte-italiana"
+      },
+      {
+        "title": {
+          "de": "Offene Kirchen zur Aufwertung des Kulturerbes",
+          "hu": "Nyitott templomok a kulturális örökség bemutatására",
+          "ro": "Biserici deschise pentru valorificarea patrimoniului cultural",
+          "en": "Open churches highlighting Monopoli's cultural heritage"
+        },
+        "summary": {
+          "de": "Sieben Kirchen der Altstadt sind im Sommer regelmäßig bei freiem Eintritt geöffnet, darunter die Basilika-Kathedrale Maria SS. della Madia.",
+          "hu": "A történelmi központ hét temploma a nyári időszakban rendszeresen és ingyenesen látogatható, köztük a Maria SS. della Madia bazilika-székesegyház.",
+          "ro": "Șapte biserici din centrul vechi sunt deschise regulat pe timpul verii cu intrare liberă, inclusiv bazilica-catedrală Maria SS. della Madia.",
+          "en": "Seven churches in the historic center open regularly through summer with free admission, including the Basilica Cathedral of Maria SS. della Madia."
+        },
+        "date": "2026-06-01",
+        "end_date": "2026-09-30",
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.comune.monopoli.ba.it/Vivere-il-comune/Eventi/Chiese-aperte-per-valorizzare-il-patrimonio-culturale"
+      },
+      {
+        "title": {
+          "de": "Kalender der Contrada-Feste",
+          "hu": "A külterületi ünnepek naptára",
+          "ro": "Calendarul sărbătorilor din contrade",
+          "en": "Calendar of contrada celebrations"
+        },
+        "summary": {
+          "de": "Von Juli bis Oktober verteilen sich religiöse und gemeinschaftliche Feste über die ländlichen Stadtteile von Monopoli.",
+          "hu": "Júliustól októberig vallási és közösségi ünnepek követik egymást Monopoli külterületi negyedeiben.",
+          "ro": "Din iulie până în octombrie, cartierele rurale ale orașului găzduiesc sărbători religioase și comunitare.",
+          "en": "From July into October, Monopoli's rural districts host a sequence of religious and community celebrations."
+        },
+        "date": "2026-07-11",
+        "end_date": "2026-10-05",
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.comune.monopoli.ba.it/Vivere-il-comune/Eventi/Il-calendario-delle-feste-di-Contrada"
+      },
+      {
+        "title": {
+          "de": "Patronatsfest der Madonna della Madia im August",
+          "hu": "A Madonna della Madia augusztusi búcsúja",
+          "ro": "Sărbătoarea patronală de august a Madonnei della Madia",
+          "en": "August patronal feast of Madonna della Madia"
+        },
+        "summary": {
+          "de": "Die Haupttage vom 13. bis 16. August bringen feierliche Zeremonien, Beleuchtungen, Feuerwerk, Musikkapellen und die nächtliche Nachstellung der wundersamen Landung der Ikone am 14. August.",
+          "hu": "Az augusztus 13. és 16. közötti fő ünnepnapokon vallási szertartások, díszkivilágítás, tűzijáték, fúvószene és az ikon érkezésének késő esti újrajátszása várja a látogatókat.",
+          "ro": "Zilele principale dintre 13 și 16 august aduc ceremonii solemne, lumini festive, focuri de artificii, fanfare și reconstituirea nocturnă a sosirii icoanei pe 14 august.",
+          "en": "The main days from 13 to 16 August bring solemn ceremonies, decorative lighting, fireworks, marching bands, and a late-evening reenactment of the icon's landing on 14 August."
+        },
+        "date": "2026-08-13",
+        "end_date": "2026-08-16",
+        "source_url": "https://monopolitourism.com/wp-content/uploads/2026/05/MONOPOLI-EN.pdf"
+      },
+      {
+        "title": {
+          "de": "Alba di Note und das Bad im Morgengrauen",
+          "hu": "Alba di Note és a hajnali fürdőzés",
+          "ro": "Alba di Note și baia în zori",
+          "en": "Alba di Note and the dawn swim"
+        },
+        "summary": {
+          "de": "Am 1. September treffen sich Hunderte am frühen Morgen zum traditionellen Meeresbad, das von Musik begleitet als großes populäres Sommerabschlussfest inszeniert wird.",
+          "hu": "Szeptember 1-jén hajnalban több száz résztvevő gyűlik össze a hagyományos tengeri fürdőzésre, amelyet zenei program nagy nyárbúcsúztató eseménnyé emel.",
+          "ro": "La 1 septembrie, sute de participanți se adună în zori pentru tradiționala baie în mare, transformată prin muzică într-un mare eveniment popular de rămas-bun de la vară.",
+          "en": "On 1 September, hundreds gather at dawn for the traditional sea bath, framed by music as a major popular farewell-to-summer event."
+        },
+        "date": "2026-09-01",
+        "source_url": "https://monopolitourism.com/wp-content/uploads/2026/05/MONOPOLI-EN.pdf"
+      }
+    ]
+  },
+  {
+    "id": "angouleme",
+    "events": [
+      {
+        "title": {
+          "de": "Les Beaux Jours 2026",
+          "hu": "Les Beaux Jours 2026",
+          "ro": "Les Beaux Jours 2026",
+          "en": "Les Beaux Jours 2026",
+          "fr": "Les Beaux Jours 2026"
+        },
+        "summary": {
+          "de": "Das sommerliche Stadtfestival verteilt Kultur-, Freizeit- und Familienangebote über mehrere Quartiere von Angoulême bis Ende August.",
+          "hu": "A városi nyári fesztivál kulturális, szabadidős és családi programokat visz Angoulême több negyedébe augusztus végéig.",
+          "ro": "Festivalul estival al orașului aduce programe culturale, recreative și de familie în mai multe cartiere din Angoulême până la sfârșitul lui august.",
+          "en": "The city's summer festival spreads cultural, leisure, and family programming across several Angoulême neighborhoods through late August.",
+          "fr": "Le festival estival de la ville déploie des animations culturelles, de loisirs et familiales dans plusieurs quartiers d'Angoulême jusqu'à la fin août."
+        },
+        "date": "2026-06-13",
+        "end_date": "2026-08-23",
+        "source_url": "https://www.angouleme.fr/agenda/les-beaux-jours-2026-programme-complet/"
+      },
+      {
+        "title": {
+          "de": "Afrik'Arts et Outremer Festival",
+          "hu": "Afrik'Arts et Outremer fesztivál",
+          "ro": "Festivalul Afrik'Arts et Outremer",
+          "en": "Afrik'Arts et Outremer Festival",
+          "fr": "Festival Afrik'Arts et Outremer"
+        },
+        "summary": {
+          "de": "Das familienfreundliche Festival auf dem Place du Champ de Mars verbindet Musik, Tanz, Kino, Literatur, Kunsthandwerk und Kulinarik rund um afrikanische und überseeische Kulturen.",
+          "hu": "A Place du Champ de Mars téren megrendezett családbarát fesztivál zenét, táncot, filmet, irodalmat, kézművességet és gasztronómiát kínál afrikai és tengerentúli kultúrák jegyében.",
+          "ro": "Festivalul pentru toată familia din Place du Champ de Mars reunește muzică, dans, cinema, literatură, artizanat și gastronomie dedicate culturilor africane și de peste mări.",
+          "en": "This family-friendly festival on Place du Champ de Mars combines music, dance, cinema, literature, crafts, and food focused on African and overseas cultures.",
+          "fr": "Ce festival familial place du Champ de Mars réunit musique, danse, cinéma, littérature, artisanat et cuisine autour des cultures africaines et ultramarines."
+        },
+        "date": "2026-08-07",
+        "end_date": "2026-08-08",
+        "source_url": "https://www.angouleme.fr/agenda/festival-afrikarts-et-outremer/"
+      },
+      {
+        "title": {
+          "de": "Festival du Film Francophone d'Angoulême",
+          "hu": "Angoulême frankofón filmfesztiválja",
+          "ro": "Festivalul Filmului Francofon de la Angoulême",
+          "en": "Angoulême Francophone Film Festival",
+          "fr": "Festival du Film Francophone d'Angoulême"
+        },
+        "summary": {
+          "de": "Die 19. Ausgabe des Filmfestivals läuft Ende August mit Vorführungen in der Stadt; 2026 ist Kambodscha Gastland.",
+          "hu": "A frankofón filmfesztivál 19. kiadása augusztus végén zajlik a város különböző helyszínein; 2026-ban Kambodzsa a díszvendég.",
+          "ro": "A 19-a ediție a festivalului se desfășoară la sfârșit de august în mai multe locuri din oraș; Cambodgia este țara invitată în 2026.",
+          "en": "The 19th edition of the festival runs in late August with screenings across the city; Cambodia is the guest country in 2026.",
+          "fr": "La 19e édition du festival se déroule fin août avec des projections dans la ville ; le Cambodge est le pays invité en 2026."
+        },
+        "date": "2026-08-24",
+        "end_date": "2026-08-29",
+        "source_url": "https://www.angouleme.fr/agenda/festival-du-film-francophone/"
+      },
+      {
+        "title": {
+          "de": "Führung: Der Schatz der Kathedrale",
+          "hu": "Vezetett látogatás: A székesegyház kincse",
+          "ro": "Vizită ghidată: Comoara catedralei",
+          "en": "Guided tour: The Cathedral Treasury",
+          "fr": "Visite guidée : Le Trésor de la Cathédrale"
+        },
+        "summary": {
+          "de": "Geführte Besichtigungen starten am Musée d'Angoulême und erschließen den Kathedralschatz mit Sommerterminen an mehreren Wochentagen.",
+          "hu": "A Musée d'Angoulême bejáratától induló vezetett látogatások a katedrális kincstárát mutatják be, nyári időpontokkal több napon is.",
+          "ro": "Vizitele ghidate pornesc din holul Muzeului Angoulême și descoperă tezaurul catedralei, cu program extins în perioada verii.",
+          "en": "Guided visits start from the entrance hall of the Angoulême Museum and explore the cathedral treasury, with expanded summer scheduling.",
+          "fr": "Les visites guidées partent du hall d'entrée du musée d'Angoulême et permettent de découvrir le trésor de la cathédrale, avec un rythme renforcé en été."
+        },
+        "date": "2026-03-07",
+        "end_date": "2026-12-13",
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.angouleme.fr/agenda/visite-guidee-le-tresor-de-la-cathedrale/"
+      },
+      {
+        "title": {
+          "de": "Le Rallye Rabier",
+          "hu": "Le Rallye Rabier",
+          "ro": "Le Rallye Rabier",
+          "en": "Le Rallye Rabier",
+          "fr": "Le Rallye Rabier"
+        },
+        "summary": {
+          "de": "Diese spielerische Stadtrallye rund um Benjamin Rabiers Tierwelt lädt Familien ein, Sammelkarten bei Partnerorten in Angoulême zu finden und ein Bonusrätsel im Vaisseau Moebius zu lösen.",
+          "hu": "A Benjamin Rabier állatvilágára épülő játékos városi rally során a családok gyűjtőkártyákat keresnek Angoulême partnerhelyszínein, valamint bónuszfeladványt oldanak meg a Vaisseau Moebius-ban.",
+          "ro": "Acest rally urban ludic inspirat de bestiarul lui Benjamin Rabier invită familiile să colecționeze cărți în mai multe locuri partenere din Angoulême și să rezolve o enigmă bonus la Vaisseau Moebius.",
+          "en": "This playful city rally based on Benjamin Rabier's animal world invites families to collect cards at partner locations across Angoulême and solve a bonus puzzle at the Vaisseau Moebius.",
+          "fr": "Ce rallye ludique autour du bestiaire de Benjamin Rabier invite les familles à collectionner des cartes dans plusieurs lieux partenaires d'Angoulême et à résoudre une énigme bonus au Vaisseau Moebius."
+        },
+        "date": "2026-04-17",
+        "end_date": "2026-08-30",
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.angouleme.fr/agenda/le-rallye-rabier-un-jeu-de-cartes-a-collectionner-a-angouleme/"
+      }
+    ]
+  },
+  {
+    "id": "martigues",
+    "events": [
+      {
+        "title": {
+          "de": "L'île en fête",
+          "hu": "L'île en fête",
+          "ro": "L'île en fête",
+          "en": "L'île en fête",
+          "fr": "L'île en fête"
+        },
+        "summary": {
+          "de": "Auf der Place de la Libération wechseln sich den ganzen Sommer hindurch Latino-Abende, Themennächte und Live-Auftritte im Freien ab.",
+          "hu": "A Place de la Libération egész nyáron latin esteknek, tematikus buliknak és élő szabadtéri fellépéseknek ad otthont.",
+          "ro": "Place de la Libération găzduiește toată vara seri latino, seri tematice și spectacole live în aer liber.",
+          "en": "Place de la Libération hosts a summer-long mix of Latin nights, themed evenings, and live open-air performances.",
+          "fr": "La place de la Libération accueille tout l'été des soirées latino, des soirées à thème et des prestations live en plein air."
+        },
+        "date": "2026-07-07",
+        "end_date": "2026-08-29",
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.martigues-tourisme.com/evenements/distractions-et-loisirs/l-ile-en-fete.html"
+      },
+      {
+        "title": {
+          "de": "Nachtmärkte in Martigues",
+          "hu": "Esti piacok Martigues-ben",
+          "ro": "Piețe de noapte la Martigues",
+          "en": "Night markets in Martigues",
+          "fr": "Marchés nocturnes à Martigues"
+        },
+        "summary": {
+          "de": "Mittwochabends beleben Kunsthandwerker und Händler das Zentrum von Jonquières mit Marktständen und sommerlicher Flanieratmosphäre.",
+          "hu": "Szerdánként kézművesek és kereskedők töltik meg Jonquières központját esti piaccal és nyári sétahangulattal.",
+          "ro": "În fiecare miercuri, artizanii și comercianții animă centrul Jonquières cu tarabe și atmosferă de promenadă de vară.",
+          "en": "Every Wednesday, artisans and traders animate central Jonquières with stalls and a summer evening promenade atmosphere.",
+          "fr": "Chaque mercredi, artisans et commerçants animent le centre de Jonquières avec leurs stands et une ambiance de promenade estivale."
+        },
+        "date": "2026-07-08",
+        "end_date": "2026-08-19",
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.martigues-tourisme.com/evenements/manifestations-commerciales/marches-nocturnes-a-martigues.html"
+      },
+      {
+        "title": {
+          "de": "Argentinische Tangoabende",
+          "hu": "Argentin tangóestek",
+          "ro": "Seri de tango argentinian",
+          "en": "Argentine tango evenings",
+          "fr": "Soirées Tango argentin"
+        },
+        "summary": {
+          "de": "Freitagabends tanzt Martigues am Miroir aux Oiseaux unter freiem Himmel Tango zwischen Terrassen, Bars und Restaurants.",
+          "hu": "Péntek esténként a Miroir aux Oiseaux környékén, a teraszok és éttermek között szabadtéri argentin tangó tölti meg Martigues-t.",
+          "ro": "În serile de vineri, Martigues dansează tango în aer liber lângă Miroir aux Oiseaux, printre terase, baruri și restaurante.",
+          "en": "On Friday evenings, Martigues turns to open-air tango near the Miroir aux Oiseaux among terraces, bars, and restaurants.",
+          "fr": "Le vendredi soir, Martigues vibre au tango en plein air près du Miroir aux Oiseaux, entre terrasses, bars et restaurants."
+        },
+        "date": "2026-07-10",
+        "end_date": "2026-08-28",
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.martigues-tourisme.com/evenements/distractions-et-loisirs/soirees-tango-argentin.html"
+      },
+      {
+        "title": {
+          "de": "Sardinades et Compagnie",
+          "hu": "Sardinades et Compagnie",
+          "ro": "Sardinades et Compagnie",
+          "en": "Sardinades et Compagnie",
+          "fr": "Sardinades et Compagnie"
+        },
+        "summary": {
+          "de": "An den Samstagen in Jonquières steht ein geselliger Fisch- und Meeresfrüchteabend mit Produkten aus dem Fang der Region im Mittelpunkt.",
+          "hu": "Szombat esténként Jonquières-ben közösségi szardíniás és halas est várja a látogatókat a helyi halászat termékeivel.",
+          "ro": "În fiecare sâmbătă, la Jonquières are loc o seară convivială dedicată sardinelor și produselor pescărești locale.",
+          "en": "On Saturdays in Jonquières, visitors can join a convivial evening centered on sardines and local seafood products.",
+          "fr": "Le samedi à Jonquières, les visiteurs profitent d'une soirée conviviale autour des sardines et des produits de la pêche locale."
+        },
+        "date": "2026-07-11",
+        "end_date": "2026-08-22",
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.martigues-tourisme.com/evenements/manifestations-commerciales/sardinades-et-compagnie.html"
+      },
+      {
+        "title": {
+          "de": "Fadas de musique",
+          "hu": "Fadas de musique",
+          "ro": "Fadas de musique",
+          "en": "Fadas de musique",
+          "fr": "Fadas de musique"
+        },
+        "summary": {
+          "de": "In der Cour de l'Île findet montagabends eine kostenlose Konzertreihe des Bel été martégal statt.",
+          "hu": "A Cour de l'Île udvarán hétfő esténként a Bel été martégal ingyenes koncertsorozata zajlik.",
+          "ro": "În Cour de l'Île, seria gratuită de concerte a Bel été martégal are loc în fiecare luni seara.",
+          "en": "In the Cour de l'Île, the Bel été martégal presents a free Monday-night concert series.",
+          "fr": "Dans la Cour de l'Île, le Bel été martégal propose une série de concerts gratuits chaque lundi soir."
+        },
+        "date": "2026-07-06",
+        "end_date": "2026-08-31",
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.martigues-tourisme.com/evenements/distractions-et-loisirs/fadas-de-musique.html"
+      }
+    ]
+  },
+  {
+    "id": "nagykanizsa",
+    "events": [
+      {
+        "title": {
+          "de": "Festtag zu Ehren von König Stephan dem Staatsgründer",
+          "hu": "Az államalapító Szent István király ünnepi programjai",
+          "ro": "Programul festiv de Ziua Sfântului Ștefan, întemeietorul statului",
+          "en": "State-founder King Stephen Day celebrations"
+        },
+        "summary": {
+          "de": "Die Stadt lädt am Nationalfeiertag zu Festmusik, Tanzhaus, Freiluftfilm, Kinderprogrammen und Feuerwerk auf dem Erzsébet tér ein.",
+          "hu": "A város az állami ünnepen térzenével, táncházzal, szabadtéri filmvetítéssel, gyermekprogramokkal és tűzijátékkal várja a közönséget az Erzsébet téren.",
+          "ro": "Orașul marchează sărbătoarea națională cu fanfară, dansuri populare, proiecție în aer liber, activități pentru copii și focuri de artificii în Erzsébet tér.",
+          "en": "The city marks the national holiday with festive brass music, folk dancing, an outdoor film screening, children's activities, and fireworks on Erzsébet tér."
+        },
+        "date": "2026-08-20",
+        "source_url": "https://nagykanizsa.hu/megtekintes/lap/7634"
+      },
+      {
+        "title": {
+          "de": "HUNGÁRIA NYOMÁBAN - Rock-and-Roll-Konzert der Filtol Band",
+          "hu": "HUNGÁRIA NYOMÁBAN - a Filtol zenekar rock and roll koncertje",
+          "ro": "HUNGÁRIA NYOMÁBAN - concert rock and roll al formației Filtol",
+          "en": "HUNGÁRIA NYOMÁBAN - Filtol Band rock and roll concert"
+        },
+        "summary": {
+          "de": "Das Konzert unter den Kastanienbäumen ist für den Abend des 26. August vor dem Medgyaszay Ház angekündigt.",
+          "hu": "A koncert a gesztenyefák árnyékában 2026. augusztus 26-án este lesz a Medgyaszay Ház előtt.",
+          "ro": "Concertul sub castani este anunțat pentru seara de 26 august 2026 în fața clădirii Medgyaszay Ház.",
+          "en": "This concert under the chestnut trees is scheduled for the evening of 26 August 2026 in front of Medgyaszay Ház."
+        },
+        "date": "2026-08-26",
+        "source_url": "https://kanizsaikultura.hu/"
+      },
+      {
+        "title": {
+          "de": "Kanizsai Sommerbühne: Ray Cooney - Gegen die Familie gibt es kein Heilmittel",
+          "hu": "Kanizsai Nyári Színház: Ray Cooney - Család ellen nincs orvosság",
+          "ro": "Teatrul de vară Kanizsai: Ray Cooney - Nu există leac împotriva familiei",
+          "en": "Kanizsai Summer Theatre: Ray Cooney - No Cure Against Family"
+        },
+        "summary": {
+          "de": "Die Mozaik Társulat aus Nagykanizsa bringt am 27. August die Farce im Hevesi Sándor Művelődési Központ auf die Bühne.",
+          "hu": "A nagykanizsai Mozaik Társulat 2026. augusztus 27-én mutatja be a bohózatot a Hevesi Sándor Művelődési Központban.",
+          "ro": "Trupa Mozaik din Nagykanizsa prezintă pe 27 august 2026 această farsă la Hevesi Sándor Művelődési Központ.",
+          "en": "The Mozaik Társulat of Nagykanizsa stages this farce on 27 August 2026 at Hevesi Sándor Művelődési Központ."
+        },
+        "date": "2026-08-27",
+        "source_url": "https://kanizsaikultura.hu/"
+      },
+      {
+        "title": {
+          "de": "Apostol - Zusatzkonzert: Wir können nicht ohne euch leben",
+          "hu": "Apostol - Ráadás koncert: Nem tudunk élni nélkületek",
+          "ro": "Apostol - concert suplimentar: Nu putem trăi fără voi",
+          "en": "Apostol - encore concert: We can't live without you"
+        },
+        "summary": {
+          "de": "Die Kulturzentrumsseite führt für den 26. September ein weiteres Apostol-Konzert in Nagykanizsa im Herbstprogramm.",
+          "hu": "A kulturális központ oldala a szeptember 26-i őszi programban egy ráadás Apostol-koncertet is feltüntet Nagykanizsán.",
+          "ro": "Site-ul centrului cultural include în programul de toamnă un concert suplimentar Apostol programat pentru 26 septembrie la Nagykanizsa.",
+          "en": "The cultural center lists an additional Apostol concert for 26 September as part of its autumn program in Nagykanizsa."
+        },
+        "date": "2026-09-26",
+        "source_url": "https://kanizsaikultura.hu/"
+      },
+      {
+        "title": {
+          "de": "Orosz Gyuri: Traumfalle",
+          "hu": "Orosz Gyuri: Álomcsapda",
+          "ro": "Orosz Gyuri: Capcană de vis",
+          "en": "Orosz Gyuri: Dream Trap"
+        },
+        "summary": {
+          "de": "Das Programm des Kulturzentrums kündigt die neue Solo-Tour des Comedians Orosz Gyuri für den 7. Oktober in Nagykanizsa an.",
+          "hu": "A kulturális központ programja szerint Orosz Gyuri új önálló estje 2026. október 7-én érkezik Nagykanizsára.",
+          "ro": "Programul centrului cultural anunță noul turneu solo al comediantului Orosz Gyuri pentru 7 octombrie la Nagykanizsa.",
+          "en": "The cultural center's program announces comedian Orosz Gyuri's new solo tour stop in Nagykanizsa for 7 October 2026."
+        },
+        "date": "2026-10-07",
+        "source_url": "https://kanizsaikultura.hu/programok/"
+      }
+    ]
+  },
+  {
+    "id": "mantova",
+    "events": [
+      {
+        "title": {
+          "de": "Giorgio Milani. Babele",
+          "hu": "Giorgio Milani. Babele",
+          "ro": "Giorgio Milani. Babele",
+          "en": "Giorgio Milani. Babele"
+        },
+        "summary": {
+          "de": "Die Sale Monumentali der Biblioteca Teresiana zeigen eine große Ausstellung zu Giorgio Milanis Arbeiten über Sprache, Schrift und Erinnerung.",
+          "hu": "A Biblioteca Teresiana monumentális termeiben Giorgio Milani nyelvről, írásról és emlékezetről szóló munkáiból látható nagyszabású kiállítás.",
+          "ro": "Sălile monumentale ale Bibliotecii Teresiana găzduiesc o amplă expoziție dedicată lucrărilor lui Giorgio Milani despre limbaj, scriere și memorie.",
+          "en": "The monumental halls of the Biblioteca Teresiana are hosting a major exhibition of Giorgio Milani's works on language, writing, and memory."
+        },
+        "date": "2026-06-26",
+        "end_date": "2026-09-19",
+        "source_url": "https://www.comune.mantova.it/it/eventi/giogio-milani-babele-26-giugno"
+      },
+      {
+        "title": {
+          "de": "Dal tramonto a... Lunaria",
+          "hu": "Dal tramonto a... Lunaria",
+          "ro": "Dal tramonto a... Lunaria",
+          "en": "Dal tramonto a... Lunaria"
+        },
+        "summary": {
+          "de": "Die städtische Veranstaltungsseite kündigt für den 28. Juli eine abendliche Exkursion auf den Seen von Mantua an.",
+          "hu": "A városi rendezvénynaptár július 28-ra esti kirándulást hirdet a mantovai tavakon.",
+          "ro": "Calendarul oficial al orașului anunță pentru 28 iulie o excursie de seară pe lacurile din Mantova.",
+          "en": "The city's official events calendar lists an evening excursion on Mantua's lakes for 28 July."
+        },
+        "date": "2026-07-28",
+        "source_url": "https://www.comune.mantova.it/it/eventi"
+      },
+      {
+        "title": {
+          "de": "Dal tramonto a... Lunaria",
+          "hu": "Dal tramonto a... Lunaria",
+          "ro": "Dal tramonto a... Lunaria",
+          "en": "Dal tramonto a... Lunaria"
+        },
+        "summary": {
+          "de": "Eine zweite Abendfahrt der Reihe ist auf den 30. Juli im offiziellen Veranstaltungskalender der Stadt gesetzt.",
+          "hu": "A sorozat második esti hajós kirándulását július 30-ra tünteti fel a város hivatalos eseménynaptára.",
+          "ro": "O a doua ieșire de seară din această serie este programată pentru 30 iulie în calendarul oficial al orașului.",
+          "en": "A second evening outing in the same series is scheduled for 30 July in the city's official calendar."
+        },
+        "date": "2026-07-30",
+        "source_url": "https://www.comune.mantova.it/it/eventi"
+      },
+      {
+        "title": {
+          "de": "Ein See voller Sterne",
+          "hu": "Csillagok tava",
+          "ro": "Un lac de stele",
+          "en": "A lake of stars"
+        },
+        "summary": {
+          "de": "Am 6. August ist laut Stadtportal eine weitere abendliche Exkursion auf den Seen von Mantua geplant.",
+          "hu": "A városi portál szerint augusztus 6-án újabb esti kirándulás indul a mantovai tavakon.",
+          "ro": "Portalul orașului anunță pentru 6 august o nouă excursie de seară pe lacurile din Mantova.",
+          "en": "The city portal lists another evening excursion on Mantua's lakes for 6 August."
+        },
+        "date": "2026-08-06",
+        "source_url": "https://www.comune.mantova.it/it/eventi"
+      },
+      {
+        "title": {
+          "de": "Generare Storie",
+          "hu": "Generare Storie",
+          "ro": "Generare Storie",
+          "en": "Generare Storie"
+        },
+        "summary": {
+          "de": "Der Literatur- und Fotowettbewerb Dove Sei Tu läuft im offiziellen Mantua-Programm bis Ende August weiter.",
+          "hu": "A Dove Sei Tu irodalmi és fotópályázat augusztus végéig szerepel Mantova hivatalos programjában.",
+          "ro": "Concursul literar și fotografic Dove Sei Tu rămâne deschis până la sfârșitul lui august în programul oficial al orașului.",
+          "en": "The Dove Sei Tu literary and photography competition remains active through the end of August in Mantua's official program."
+        },
+        "date": "2026-05-01",
+        "end_date": "2026-08-31",
+        "source_url": "https://www.comune.mantova.it/it/eventi/generare-storie-dal-1-maggio-al-31-agosto-713573"
+      }
+    ]
+  }
+]

@@ -1,0 +1,437 @@
+[
+  {
+    "id": "merano",
+    "events": [
+      {
+        "title": {
+          "de": "DienstagAbende 2026",
+          "hu": "Keddi esték 2026",
+          "ro": "Serile de marți 2026",
+          "en": "TuesdayNight 2026"
+        },
+        "summary": {
+          "de": "Die Kurverwaltung Meran veranstaltet im Stadtzentrum eine kostenlose Reihe mit Konzerten, Shows und Sommerunterhaltung an Dienstagabenden.",
+          "hu": "A meranói turisztikai hivatal a belvárosban ingyenes keddi nyáresti programsorozatot rendez koncertekkel és előadásokkal.",
+          "ro": "Oficiul de turism din Merano organizează în centrul orașului o serie gratuită de seri de vară cu concerte, spectacole și divertisment.",
+          "en": "Merano Tourist Office runs a free summer evening series in the town centre with concerts, shows and entertainment."
+        },
+        "date": "2026-07-26",
+        "end_date": "2026-08-25",
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.merano-suedtirol.it/en/merano/city-culture/the-5-seasons-in-merano/summer-in-merano/rid-03CCB0F35E6F4ED695C4CCB99C8EC72E-e-tuesdaynight-2026.html"
+      },
+      {
+        "title": {
+          "de": "Midsummer Night 2026: Paolo Belli & Big Band",
+          "hu": "Midsummer Night 2026: Paolo Belli & Big Band",
+          "ro": "Midsummer Night 2026: Paolo Belli & Big Band",
+          "en": "Midsummer Night 2026: Paolo Belli & Big Band"
+        },
+        "summary": {
+          "de": "Auf der Piazza Terme spielt Paolo Belli mit seiner Big Band ein kostenloses Sommerkonzert mit Live-Musik, Improvisation und Showelementen.",
+          "hu": "A Piazza Termén Paolo Belli és Big Bandje ingyenes nyári koncertet ad élő zenével és színpadi show-elemekkel.",
+          "ro": "În Piazza Terme, Paolo Belli și Big Band susțin un concert estival gratuit cu muzică live, improvizație și momente de spectacol.",
+          "en": "Paolo Belli and his Big Band give a free summer concert in Piazza Terme with live music, improvisation and stage entertainment."
+        },
+        "date": "2026-08-06",
+        "source_url": "https://www.merano-suedtirol.it/en/merano/city-culture/the-5-seasons-in-merano/summer-in-merano/rid-0C4FA8B68AD94426A2653602114AFCFE-e-midsummer-night-2026-paolo-belli-big-band.html"
+      },
+      {
+        "title": {
+          "de": "MM - Der Meraner Markt",
+          "hu": "Meranói piac",
+          "ro": "Piața din Merano",
+          "en": "MM - The Merano Market"
+        },
+        "summary": {
+          "de": "Jeden Samstag präsentieren regionale Produzenten in der oberen Freiheitsstraße Südtiroler Natur- und Handwerkserzeugnisse.",
+          "hu": "Minden szombaton dél-tiroli termelők kínálnak helyi élelmiszereket és kézműves termékeket a felső Freiheitsstraßén.",
+          "ro": "În fiecare sâmbătă, producători regionali vând produse naturale și artizanale din Tirolul de Sud pe Freiheitsstraße de sus.",
+          "en": "Every Saturday, regional producers sell South Tyrolean food and craft products along the upper Freiheitsstraße."
+        },
+        "date": "2026-07-26",
+        "end_date": "2026-10-31",
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.merano-suedtirol.it/de/meran/info-service/veranstaltungen/mm-der-meraner-markt.html"
+      },
+      {
+        "title": {
+          "de": "Traubenfest Meran",
+          "hu": "Meranói szőlőünnep",
+          "ro": "Festivalul Strugurilor din Merano",
+          "en": "Merano Grape Festival"
+        },
+        "summary": {
+          "de": "Das traditionsreiche Herbstfest bringt vom 16. bis 18. Oktober Musik, Südtiroler Küche, lokale Weine und am Sonntag den großen Festumzug ins Zentrum von Meran.",
+          "hu": "A hagyományos őszi ünnep október 16. és 18. között zenével, dél-tiroli ízekkel, helyi borokkal és vasárnapi felvonulással tölti meg Meranót.",
+          "ro": "Festivalul tradițional de toamnă aduce între 16 și 18 octombrie muzică, gastronomie sud-tiroleză, vinuri locale și marea paradă de duminică în centrul orașului.",
+          "en": "This long-running autumn festival fills central Merano from 16 to 18 October with music, South Tyrolean food, local wines and a Sunday parade."
+        },
+        "date": "2026-10-16",
+        "end_date": "2026-10-18",
+        "source_url": "https://www.merano-suedtirol.it/de/meran/info-service/veranstaltungen/traubenfest-meran.html"
+      },
+      {
+        "title": {
+          "de": "Merano WineFestival 2026",
+          "hu": "Merano WineFestival 2026",
+          "ro": "Merano WineFestival 2026",
+          "en": "Merano WineFestival 2026"
+        },
+        "summary": {
+          "de": "Das internationale Genussfestival im Kurhaus bietet von Anfang bis Mitte November Weinverkostungen, Food-Events, Masterclasses und Spezialformate.",
+          "hu": "A Kurhausban rendezett nemzetközi gasztronómiai fesztivál november elején borokat, ínyencprogramokat, mesterkurzusokat és tematikus eseményeket kínál.",
+          "ro": "Festivalul internațional de la Kurhaus propune la începutul lui noiembrie degustări de vin, evenimente gastronomice, masterclassuri și programe speciale.",
+          "en": "The international food-and-wine festival at the Kurhaus offers tastings, food events, masterclasses and themed programmes in early November."
+        },
+        "date": "2026-11-06",
+        "end_date": "2026-11-10",
+        "source_url": "https://meranowinefestival.com/en/"
+      }
+    ]
+  },
+  {
+    "id": "antequera",
+    "events": [
+      {
+        "title": {
+          "de": "Topografía del gesto. Noelia García Bandera",
+          "hu": "Topografía del gesto. Noelia García Bandera",
+          "ro": "Topografía del gesto. Noelia García Bandera",
+          "en": "Topografía del gesto. Noelia García Bandera"
+        },
+        "summary": {
+          "de": "Die Ausstellung im Kulturprogramm von Antequera läuft von Juli bis Ende Januar und gehört zu den länger besuchbaren Kulturangeboten der Stadt.",
+          "hu": "Az antequerai kulturális program kiállítása júliustól január végéig látogatható, így hosszan elérhető városi kulturális program.",
+          "ro": "Expoziția din agenda culturală a orașului este deschisă din iulie până la sfârșitul lui ianuarie și oferă un program cultural de durată pentru vizitatori.",
+          "en": "This exhibition in Antequera’s official cultural programme runs from July through late January, giving visitors a longer-running cultural option."
+        },
+        "date": "2026-07-26",
+        "end_date": "2027-01-31",
+        "source_url": "https://cultura.antequera.es/agenda/"
+      },
+      {
+        "title": {
+          "de": "INDIANT – Muestra de música Indie",
+          "hu": "INDIANT – indie zenei bemutató",
+          "ro": "INDIANT – mostră de muzică indie",
+          "en": "INDIANT – Indie Music Showcase"
+        },
+        "summary": {
+          "de": "Das Kulturamt kündigt für Ende Juli einen Indie-Musikabend im offiziellen Sommerprogramm von Antequera an.",
+          "hu": "A kulturális hivatal július végére indie zenei estet hirdet Antequera hivatalos nyári programjában.",
+          "ro": "Departamentul de cultură anunță pentru sfârșitul lui iulie o seară dedicată muzicii indie în programul oficial de vară al orașului.",
+          "en": "Antequera’s culture department lists an indie music night in the city’s official summer programme at the end of July."
+        },
+        "date": "2026-07-30",
+        "source_url": "https://cultura.antequera.es/agenda/"
+      },
+      {
+        "title": {
+          "de": "Antequera Blues Festival 2026",
+          "hu": "Antequera Blues Festival 2026",
+          "ro": "Antequera Blues Festival 2026",
+          "en": "Antequera Blues Festival 2026"
+        },
+        "summary": {
+          "de": "Das offizielle Kulturprogramm führt das Bluesfestival als zweitägige Musikveranstaltung Ende Juli und Anfang August.",
+          "hu": "A hivatalos kulturális program szerint a bluesfesztivál kétnapos zenei esemény július végén és augusztus elején.",
+          "ro": "Agenda culturală oficială include festivalul de blues ca eveniment muzical desfășurat pe parcursul a două seri, la sfârșit de iulie și început de august.",
+          "en": "The official cultural agenda lists the blues festival as a two-night music event spanning late July and early August."
+        },
+        "date": "2026-07-31",
+        "end_date": "2026-08-01",
+        "source_url": "https://cultura.antequera.es/agenda/"
+      },
+      {
+        "title": {
+          "de": "Festejos taurinos Real Feria de Agosto 2026",
+          "hu": "Real Feria de Agosto 2026 bikaviadal",
+          "ro": "Festejos taurinos Real Feria de Agosto 2026",
+          "en": "Real Feria de Agosto 2026 Bullfighting Event"
+        },
+        "summary": {
+          "de": "Im Rahmen der August-Messe ist in der offiziellen Agenda ein abendlicher Stierkampf angekündigt.",
+          "hu": "Az augusztusi vásár hivatalos programjában esti bikaviadal szerepel.",
+          "ro": "În programul oficial al târgului de august este anunțat un spectacol tauric de seară.",
+          "en": "The city’s official agenda lists an evening bullfighting event as part of the August fair."
+        },
+        "date": "2026-08-22",
+        "source_url": "https://cultura.antequera.es/agenda/"
+      }
+    ]
+  },
+  {
+    "id": "colomiers",
+    "events": [
+      {
+        "title": {
+          "de": "Voilà l'été",
+          "hu": "Itt a nyár",
+          "ro": "Vara la Colomiers",
+          "en": "Voilà l'été",
+          "fr": "Voilà l'été"
+        },
+        "summary": {
+          "de": "Die Stadt Colomiers bündelt im Sommer Open-Air-Kino, Vorstellungen, Ausflüge und Sportangebote in einem städtischen Ferienprogramm.",
+          "hu": "Colomiers városa szabadtéri mozit, előadásokat, kirándulásokat és sportprogramokat fog össze a nyári városi kínálatban.",
+          "ro": "Orașul Colomiers reunește cinematograf în aer liber, spectacole, ieșiri și activități sportive într-un program estival municipal.",
+          "en": "Colomiers groups open-air cinema, performances, outings and sports activities into a municipal summer programme.",
+          "fr": "La Ville de Colomiers réunit cinéma en plein air, spectacles, sorties et activités sportives dans son programme estival."
+        },
+        "date": "2026-07-26",
+        "end_date": "2026-08-30",
+        "source_url": "https://www.ville-colomiers.fr/a-la-une/une/voila-lete-a-colomiers-2026"
+      },
+      {
+        "title": {
+          "de": "Escape Game \"Le Défi des Bifrons\"",
+          "hu": "Le Défi des Bifrons szabadulójáték",
+          "ro": "Escape game „Le Défi des Bifrons”",
+          "en": "Escape Game \"Le Défi des Bifrons\"",
+          "fr": "Escape game \"Le Défi des Bifrons\""
+        },
+        "summary": {
+          "de": "In der Maison des Transitions écologiques läuft ein sommerliches Escape Game rund um sechs Herausforderungen einer außerirdischen Geschichte.",
+          "hu": "A Maison des Transitions écologiques helyszínen egy nyári szabadulójáték várja a látogatókat hat kihívással és űrbéli történettel.",
+          "ro": "La Maison des Transitions écologiques găzduiește vara un escape game construit în jurul a șase provocări și al unei povești extraterestre.",
+          "en": "The Maison des Transitions écologiques hosts a summer escape game built around six challenges in an alien-themed story.",
+          "fr": "La Maison des Transitions écologiques propose pendant l'été un escape game autour de six défis et d'un scénario extraterrestre."
+        },
+        "date": "2026-07-26",
+        "end_date": "2026-08-28",
+        "source_url": "https://www.ville-colomiers.fr/a-la-une/une/escape-game-le-defi-des-bifrons-1"
+      },
+      {
+        "title": {
+          "de": "Festival du jeu",
+          "hu": "Játékfesztivál",
+          "ro": "Festivalul jocului",
+          "en": "Game Festival",
+          "fr": "Festival du jeu"
+        },
+        "summary": {
+          "de": "Das Colomiers-Spielestival bietet im Hall Comminges zwei Tage lang Brettspiele und Mitmachangebote für unterschiedliche Altersgruppen.",
+          "hu": "A colomiers-i játékfesztivál két napon át társasjátékokat és kipróbálható programokat kínál a Hall Comminges-ben.",
+          "ro": "Festivalul jocului din Colomiers oferă două zile de jocuri de societate și activități participative la Hall Comminges.",
+          "en": "Colomiers’ game festival brings two days of board games and hands-on activities to Hall Comminges.",
+          "fr": "Le festival du jeu de Colomiers propose deux jours de jeux et d'animations participatives au Hall Comminges."
+        },
+        "date": "2026-10-21",
+        "end_date": "2026-10-22",
+        "source_url": "https://www.ville-colomiers.fr/a-la-une/une/festival-du-jeu"
+      },
+      {
+        "title": {
+          "de": "Festival BD Colomiers",
+          "hu": "Colomiers képregényfesztivál",
+          "ro": "Festivalul BD Colomiers",
+          "en": "Colomiers Comics Festival",
+          "fr": "Festival BD Colomiers"
+        },
+        "summary": {
+          "de": "Das stadtweite Comicfestival feiert seine 40. Ausgabe mit Ausstellungen, Begegnungen und kreativen Veranstaltungen im ganzen Ort.",
+          "hu": "A városszerte megrendezett képregényfesztivál a 40. kiadást ünnepli kiállításokkal, találkozókkal és kreatív programokkal.",
+          "ro": "Festivalul de bandă desenată, desfășurat în tot orașul, marchează a 40-a ediție cu expoziții, întâlniri și animații creative.",
+          "en": "The town-wide comics festival marks its 40th edition with exhibitions, meet-ups and creative events across Colomiers.",
+          "fr": "Le festival BD, déployé dans toute la ville, fête sa 40e édition avec des expositions, des rencontres et de nombreuses animations."
+        },
+        "date": "2026-11-21",
+        "end_date": "2026-11-23",
+        "source_url": "https://www.ville-colomiers.fr/a-la-une/une/festival-bd-colomiers"
+      },
+      {
+        "title": {
+          "de": "Destination Noël à Colomiers",
+          "hu": "Karácsony Colomiers-ben",
+          "ro": "Crăciun la Colomiers",
+          "en": "Destination Christmas in Colomiers",
+          "fr": "Destination Noël à Colomiers"
+        },
+        "summary": {
+          "de": "Das offizielle Weihnachtsprogramm der Stadt umfasst Gourmetmärkte, Geschichten, Shows, Workshops und weitere Festaktivitäten im Dezember.",
+          "hu": "A város hivatalos karácsonyi programja decemberben ínyencpiacokat, meséket, előadásokat, workshopokat és ünnepi eseményeket kínál.",
+          "ro": "Programul oficial de Crăciun al orașului include în decembrie piețe gourmet, povești, spectacole, ateliere și alte activități festive.",
+          "en": "The city’s official Christmas programme includes gourmet markets, stories, shows, workshops and other festive activities during December.",
+          "fr": "Le programme officiel de Noël de la ville comprend en décembre des marchés gourmands, des contes, des spectacles, des ateliers et d'autres animations festives."
+        },
+        "date": "2026-12-02",
+        "end_date": "2026-12-31",
+        "source_url": "https://www.ville-colomiers.fr/a-la-une/une/destination-noel-a-colomiers"
+      }
+    ]
+  },
+  {
+    "id": "lloret-de-mar",
+    "events": [
+      {
+        "title": {
+          "de": "Stadtfest-Feuerwerk 2026",
+          "hu": "Városi ünnepi tűzijáték 2026",
+          "ro": "Focuri de artificii ale sărbătorii orașului 2026",
+          "en": "Town Festival Fireworks Display 2026"
+        },
+        "summary": {
+          "de": "Das Santa-Cristina-Stadtfest kulminiert mit einem großen Feuerwerk am Strand von Lloret de Mar.",
+          "hu": "A Santa Cristina-városünnep látványos tűzijátékkal zárul Lloret de Mar strandján.",
+          "ro": "Sărbătoarea Santa Cristina culminează cu un mare foc de artificii pe plaja din Lloret de Mar.",
+          "en": "The Santa Cristina town festival culminates with a major fireworks display on Lloret de Mar beach."
+        },
+        "date": "2026-07-26",
+        "source_url": "https://lloretdemar.org/en/Agenda/town-festival-fireworks-display-2026/"
+      },
+      {
+        "title": {
+          "de": "Lloret Outdoor Summer Festival 2026",
+          "hu": "Lloret Outdoor Summer Festival 2026",
+          "ro": "Lloret Outdoor Summer Festival 2026",
+          "en": "Lloret Outdoor Summer Festival 2026"
+        },
+        "summary": {
+          "de": "Das Sommerfestival vereint Open-Air-Konzerte, Führungen, Kulturprogramme und Abendveranstaltungen an verschiedenen Orten im Badeort.",
+          "hu": "A nyári fesztivál szabadtéri koncerteket, vezetett programokat és kulturális esti eseményeket kínál Lloret több helyszínén.",
+          "ro": "Festivalul de vară reunește concerte în aer liber, vizite ghidate, activități culturale și seri speciale în mai multe locuri din stațiune.",
+          "en": "The summer festival combines open-air concerts, guided visits, cultural activities and evening events across town."
+        },
+        "date": "2026-07-26",
+        "end_date": "2026-09-27",
+        "source_url": "https://lloretdemar.org/en/Agenda/lloret-outdoor-summer-festival-2026/"
+      },
+      {
+        "title": {
+          "de": "Geführter Familien-Schnorchelausflug 2026",
+          "hu": "Családi vezetett snorkeltúra 2026",
+          "ro": "Excursie ghidată de snorkeling pentru familii 2026",
+          "en": "Guided Family Snorkelling Trip 2026"
+        },
+        "summary": {
+          "de": "An Wochenenden führt ein Meeresbiologe Familien an der Küste von Lloret de Mar in die Unterwasserwelt ein.",
+          "hu": "Hétvégente tengeri biológus vezetésével ismerhetik meg a családok Lloret partvidékének tengeri élővilágát.",
+          "ro": "În fiecare weekend, un ghid specializat în biologie marină introduce familiile în viața subacvatică de pe coasta Lloretului.",
+          "en": "Every weekend, a marine-biology guide introduces families to the sea life along the Lloret coastline."
+        },
+        "date": "2026-07-26",
+        "end_date": "2026-08-30",
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://lloretdemar.org/en/Agenda/guided-family-snorkelling-trip-2026/"
+      },
+      {
+        "title": {
+          "de": "Mediterranean Guitar Festival 2026: ABBA Tribute",
+          "hu": "Mediterranean Guitar Festival 2026: ABBA Tribute",
+          "ro": "Mediterranean Guitar Festival 2026: ABBA Tribute",
+          "en": "Mediterranean Guitar Festival 2026: ABBA Tribute"
+        },
+        "summary": {
+          "de": "Das Mittelmeer-Gitarrenfestival bringt ein ABBA-Tribute-Konzert in die Kirche Sant Romà.",
+          "hu": "A mediterrán gitárfesztivál ABBA-feldolgozó estet hoz a Sant Romà templomba.",
+          "ro": "Festivalul de chitară mediteraneană programează un concert tribut ABBA la biserica Sant Romà.",
+          "en": "The Mediterranean Guitar Festival schedules an ABBA tribute concert at the Church of Sant Romà."
+        },
+        "date": "2026-08-13",
+        "source_url": "https://lloretdemar.org/en/Agenda/mediterranean-guitar-festival-2026-abba-tribute/"
+      },
+      {
+        "title": {
+          "de": "Nachtschnorcheln August 2026",
+          "hu": "Éjszakai snorkeling 2026 augusztus",
+          "ro": "Snorkeling de noapte august 2026",
+          "en": "Night Snorkelling August 2026"
+        },
+        "summary": {
+          "de": "Im August wird in Punta Garbí ein Abend-Schnorchelprogramm angeboten, das die Meereswelt nach Sonnenuntergang erlebbar macht.",
+          "hu": "Augusztusban Punta Garbín esti snorkelprogram mutatja be a tengeri élővilágot naplemente után.",
+          "ro": "În august, la Punta Garbí este oferită o experiență de snorkeling de seară pentru a descoperi marea după apus.",
+          "en": "An August evening snorkelling programme at Punta Garbí lets visitors explore the sea after sunset."
+        },
+        "date": "2026-08-07",
+        "end_date": "2026-08-28",
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://lloretdemar.org/en/Agenda/night-snorkelling-august-2026/"
+      }
+    ]
+  },
+  {
+    "id": "city-swords-extra",
+    "events": [
+      {
+        "title": {
+          "de": "Summer Poetry Classes for Teens",
+          "hu": "Nyári versíró foglalkozások tinédzsereknek",
+          "ro": "Cursuri de poezie de vară pentru adolescenți",
+          "en": "Summer Poetry Classes for Teens"
+        },
+        "summary": {
+          "de": "Die Swords Library bietet im Sommer eine mehrwöchige Poesiereihe für Jugendliche an.",
+          "hu": "A Swords Library nyáron többhetes költészeti foglalkozást szervez tinédzsereknek.",
+          "ro": "Biblioteca din Swords organizează vara o serie de ateliere de poezie pentru adolescenți.",
+          "en": "Swords Library runs a multi-week summer poetry series for teenagers."
+        },
+        "date": "2026-07-26",
+        "end_date": "2026-08-04",
+        "source_url": "https://www.eventsinfingal.ie/events/summer-poetry-classes-for-teens"
+      },
+      {
+        "title": {
+          "de": "Summer Stars at Swords Library",
+          "hu": "Summer Stars a Swords könyvtárban",
+          "ro": "Summer Stars la biblioteca din Swords",
+          "en": "Summer Stars at Swords Library"
+        },
+        "summary": {
+          "de": "Das nationale Sommer-Leseprogramm bringt Basteltermine, Quizformate sowie Storytime- und Quiznachmittage in die Swords Library.",
+          "hu": "Az országos nyári olvasóprogram kézműves foglalkozásokat, kvízeket és mesés programokat visz a Swords Library-be.",
+          "ro": "Programul național de lectură de vară aduce la biblioteca din Swords ateliere creative, quiz-uri și sesiuni de poveste.",
+          "en": "The national summer reading programme brings crafts, quizzes and storytime sessions to Swords Library."
+        },
+        "date": "2026-07-26",
+        "end_date": "2026-08-25",
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.eventsinfingal.ie/events/summer-stars-at-swords-library"
+      },
+      {
+        "title": {
+          "de": "Fingal Festival of Fire",
+          "hu": "Fingal Tűzfesztivál",
+          "ro": "Festivalul focului Fingal",
+          "en": "Fingal Festival of Fire"
+        },
+        "summary": {
+          "de": "Das Halloween-Event bringt Musik, Lichteffekte und Samhain-Stimmung an mehrere Orte, darunter Swords Castle.",
+          "hu": "A halloweeni esemény zenével, látványelemekkel és samhain-hangulattal várja a közönséget több helyszínen, köztük a Swords Castle-nél.",
+          "ro": "Evenimentul de Halloween aduce muzică, efecte vizuale și atmosferă de Samhain în mai multe locații, inclusiv la Swords Castle.",
+          "en": "This Halloween event brings music, visual spectacle and Samhain atmosphere to several locations including Swords Castle."
+        },
+        "date": "2026-10-31",
+        "source_url": "https://www.eventsinfingal.ie/events/fingal-festival-of-fire"
+      },
+      {
+        "title": {
+          "de": "Swords Castle Christmas Fair",
+          "hu": "Swords Castle karácsonyi vásár",
+          "ro": "Târgul de Crăciun de la Swords Castle",
+          "en": "Swords Castle Christmas Fair"
+        },
+        "summary": {
+          "de": "Die Burg von Swords wird Ende November und Anfang Dezember zur festlichen Weihnachtsmesse mit Marktständen und verlängerten Öffnungszeiten.",
+          "hu": "Swords vára november végén és december elején ünnepi karácsonyi vásárrá alakul piaci standokkal és hosszabb nyitvatartással.",
+          "ro": "Castelul din Swords găzduiește la final de noiembrie și început de decembrie un târg de Crăciun cu standuri și program prelungit.",
+          "en": "Swords Castle turns into a festive Christmas fair in late November and early December, with market trading over multiple days."
+        },
+        "date": "2026-11-27",
+        "end_date": "2026-12-06",
+        "source_url": "https://www.eventsinfingal.ie/events/swords-castle-christmas-fair"
+      }
+    ]
+  }
+]

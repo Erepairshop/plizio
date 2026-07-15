@@ -1,0 +1,434 @@
+[
+  {
+    "id": "puerto-de-la-cruz",
+    "events": [
+      {
+        "date": "2026-09-04",
+        "end_date": "2026-09-05",
+        "title": {
+          "de": "Phe Festival 2026",
+          "hu": "Phe Festival 2026",
+          "ro": "Phe Festival 2026",
+          "en": "Phe Festival 2026"
+        },
+        "summary": {
+          "de": "Das städtische Kulturprogramm kündigt das Phe Festival Anfang September als Treffpunkt für aktuelle Musik, urbane Kreativität und neue Kulturtrends in Puerto de la Cruz an.",
+          "hu": "A városi kulturális naptár szeptember elejére hirdeti meg a Phe Fesztivált, amely a kortárs zene, a városi kreativitás és az új kulturális trendek találkozója Puerto de la Cruzban.",
+          "ro": "Calendarul cultural al orașului anunță Phe Festival la început de septembrie, ca întâlnire pentru muzica actuală, creativitatea urbană și noile tendințe culturale din Puerto de la Cruz.",
+          "en": "The city's cultural calendar announces Phe Festival for early September as a meeting point for current music, urban creativity, and new cultural trends in Puerto de la Cruz."
+        },
+        "source_url": "https://www.puertodelacruz.es/noticias/2026/04/23/puerto-de-la-cruz-presenta-su-calendario-de-festivales-culturales-2026-un-recorrido-anual-que-articula-creacion-ciudadania-y-territorio/"
+      },
+      {
+        "date": "2026-10-02",
+        "end_date": "2026-10-03",
+        "title": {
+          "de": "Internationaler Tag der Musik",
+          "hu": "A zene nemzetközi napja",
+          "ro": "Ziua Internațională a Muzicii",
+          "en": "International Day of Music"
+        },
+        "summary": {
+          "de": "Puerto de la Cruz beteiligt sich Anfang Oktober mit Veranstaltungen zum Internationalen Tag der Musik und knüpft damit an seine überregionale Kulturagenda an.",
+          "hu": "Puerto de la Cruz október elején a zene nemzetközi napjához kapcsolódó programokkal csatlakozik a szélesebb kulturális menetrendhez.",
+          "ro": "Puerto de la Cruz marchează începutul lui octombrie prin evenimente dedicate Zilei Internaționale a Muzicii, în legătură cu agenda sa culturală extinsă.",
+          "en": "Puerto de la Cruz marks early October with events for the International Day of Music as part of its broader cultural agenda."
+        },
+        "source_url": "https://www.puertodelacruz.es/noticias/2026/04/23/puerto-de-la-cruz-presenta-su-calendario-de-festivales-culturales-2026-un-recorrido-anual-que-articula-creacion-ciudadania-y-territorio/"
+      },
+      {
+        "date": "2026-10-19",
+        "end_date": "2026-10-25",
+        "title": {
+          "de": "Periplo 2026",
+          "hu": "Periplo 2026",
+          "ro": "Periplo 2026",
+          "en": "Periplo 2026"
+        },
+        "summary": {
+          "de": "Das internationale Festival für Reiseliteratur und Abenteuer verwandelt Puerto de la Cruz im Oktober in einen Ort für Literatur, Gespräche und kulturbezogene Aktivitäten.",
+          "hu": "Az utazási irodalom és kalandok nemzetközi fesztiválja októberben irodalmi, beszélgetős és kulturális programokkal tölti meg Puerto de la Cruzt.",
+          "ro": "Festivalul internațional de literatură de călătorie și aventură transformă Puerto de la Cruz în octombrie într-un spațiu pentru literatură, dialog și activități culturale.",
+          "en": "The international travel literature and adventure festival turns Puerto de la Cruz into a venue for literature, talks, and cultural activities in October."
+        },
+        "source_url": "https://www.puertodelacruz.es/noticias/2026/04/23/puerto-de-la-cruz-presenta-su-calendario-de-festivales-culturales-2026-un-recorrido-anual-que-articula-creacion-ciudadania-y-territorio/"
+      },
+      {
+        "date": "2026-11-12",
+        "end_date": "2026-11-15",
+        "title": {
+          "de": "Ritmos Handmade 2026",
+          "hu": "Ritmos Handmade 2026",
+          "ro": "Ritmos Handmade 2026",
+          "en": "Ritmos Handmade 2026"
+        },
+        "summary": {
+          "de": "Das Herbstfestival setzt Schlagwerk, Konzerte, Masterclasses und Workshops in den Mittelpunkt und richtet sich an Musikinteressierte und Besucher gleichermaßen.",
+          "hu": "Az őszi fesztivál az ütőhangszerekre, koncertekre, mesterkurzusokra és workshopokra épül, így zenekedvelőknek és látogatóknak egyaránt szól.",
+          "ro": "Festivalul de toamnă pune accent pe percuție, concerte, masterclass-uri și ateliere, fiind atractiv atât pentru iubitorii de muzică, cât și pentru vizitatori.",
+          "en": "This autumn festival centers on percussion, concerts, masterclasses, and workshops, making it relevant for both music fans and visitors."
+        },
+        "source_url": "https://www.puertodelacruz.es/noticias/2026/04/23/puerto-de-la-cruz-presenta-su-calendario-de-festivales-culturales-2026-un-recorrido-anual-que-articula-creacion-ciudadania-y-territorio/"
+      }
+    ]
+  },
+  {
+    "id": "agde",
+    "events": [
+      {
+        "date": "2026-07-26",
+        "title": {
+          "de": "Fête de la Mer du Cap d’Agde",
+          "hu": "A Cap d’Agde tengeri ünnepe",
+          "ro": "Fête de la Mer du Cap d’Agde",
+          "en": "Cap d’Agde Sea Festival",
+          "fr": "Fête de la Mer du Cap d’Agde"
+        },
+        "summary": {
+          "de": "Die traditionelle Feier im Cap d’Agde ehrt die Seefahrer und verbindet maritimes Brauchtum mit öffentlichen Festmomenten am Hafen.",
+          "hu": "A Cap d’Agde-ben tartott hagyományos ünnep a tengerészek előtt tiszteleg, és kikötői közösségi programokkal kapcsolja össze a tengeri hagyományokat.",
+          "ro": "Sărbătoarea tradițională din Cap d’Agde îi omagiază pe marinari și combină obiceiurile maritime cu momente festive deschise publicului în port.",
+          "en": "This traditional celebration in Cap d’Agde honors seafarers and combines maritime customs with public festivities around the harbor.",
+          "fr": "Cette fête traditionnelle du Cap d’Agde rend hommage aux marins et mêle coutumes maritimes et animations publiques autour du port."
+        },
+        "source_url": "https://www.ville-agde.fr/recherche?s=cap+d%27agde&type=agenda"
+      },
+      {
+        "date": "2026-08-06",
+        "title": {
+          "de": "Toro Piscine DJ",
+          "hu": "Toro Piscine DJ",
+          "ro": "Toro Piscine DJ",
+          "en": "Toro Piscine DJ",
+          "fr": "Toro Piscine DJ"
+        },
+        "summary": {
+          "de": "In den Arènes du Cap d’Agde verbindet dieser Sommerabend Stierkampf-Arena-Atmosphäre mit DJ-Unterhaltung und publikumsnaher Feststimmung.",
+          "hu": "Az Arènes du Cap d’Agde nyári estje arénahangulatot, DJ-programot és könnyed közönségszórakozást kínál.",
+          "ro": "La Arènes du Cap d’Agde, această seară de vară combină atmosfera arenei cu divertisment DJ și o ambianță festivă accesibilă publicului.",
+          "en": "At the Arènes du Cap d’Agde, this summer evening mixes arena atmosphere with DJ entertainment and a festive public ambiance.",
+          "fr": "Aux arènes du Cap d’Agde, cette soirée d’été mêle ambiance d’arène, animation DJ et atmosphère festive ouverte au public."
+        },
+        "source_url": "https://www.ville-agde.fr/agenda?page=6"
+      },
+      {
+        "date": "2026-08-07",
+        "title": {
+          "de": "Paëlla des Corsaires",
+          "hu": "Paëlla des Corsaires",
+          "ro": "Paëlla des Corsaires",
+          "en": "Corsairs’ Paella Evening",
+          "fr": "Paëlla des Corsaires"
+        },
+        "summary": {
+          "de": "Auf der Esplanade Pierre Racine verbindet diese öffentliche Sommerveranstaltung ein Gemeinschaftsessen mit Showprogramm im Badeortsteil Cap d’Agde.",
+          "hu": "Az Esplanade Pierre Racine helyszínén ez a nyári közösségi esemény közös paellavacsorát és látványos műsort kínál Cap d’Agde-ben.",
+          "ro": "Pe esplanada Pierre Racine, acest eveniment estival deschis publicului combină o cină comună cu un program de spectacol în Cap d’Agde.",
+          "en": "On the Esplanade Pierre Racine, this public summer event combines a communal meal with live entertainment in Cap d’Agde.",
+          "fr": "Sur l’esplanade Pierre Racine, cet événement estival ouvert au public associe repas convivial et spectacle au Cap d’Agde."
+        },
+        "source_url": "https://www.ville-agde.fr/agenda?page=6"
+      },
+      {
+        "date": "2026-08-08",
+        "title": {
+          "de": "Grand Show de Catch",
+          "hu": "Grand Show de Catch",
+          "ro": "Grand Show de Catch",
+          "en": "Grand Wrestling Show",
+          "fr": "Grand Show de Catch"
+        },
+        "summary": {
+          "de": "Die Arènes du Cap d’Agde laden Anfang August zu einer publikumswirksamen Wrestling-Show mit Arena-Inszenierung und Sommerabend-Atmosphäre ein.",
+          "hu": "Az Arènes du Cap d’Agde augusztus elején látványos pankrációs show-val és nyári esti arénahangulattal várja a közönséget.",
+          "ro": "Arènes du Cap d’Agde găzduiește la început de august un spectacol amplu de wrestling, într-o atmosferă de arenă și seară de vară.",
+          "en": "The Arènes du Cap d’Agde hosts a large-scale wrestling show in early August with arena staging and summer-evening atmosphere.",
+          "fr": "Les arènes du Cap d’Agde accueillent début août un grand spectacle de catch dans une ambiance d’arène estivale."
+        },
+        "source_url": "https://www.ville-agde.fr/agenda?page=6"
+      },
+      {
+        "date": "2026-07-07",
+        "end_date": "2026-08-27",
+        "title": {
+          "de": "Ateliers vacances",
+          "hu": "Nyári múzeumi foglalkozások",
+          "ro": "Ateliere de vacanță",
+          "en": "Holiday Workshops",
+          "fr": "Ateliers vacances"
+        },
+        "summary": {
+          "de": "Das Museum bietet den Sommer über Ferienworkshops für junge Besucher an und hält damit bis Ende August ein familienfreundliches Kulturprogramm bereit.",
+          "hu": "A múzeum egész nyáron vakációs foglalkozásokat szervez a fiatal látogatóknak, így augusztus végéig családbarát kulturális programot kínál.",
+          "ro": "Muzeul propune pe durata verii ateliere de vacanță pentru publicul tânăr, oferind până la sfârșitul lui august un program cultural potrivit familiilor.",
+          "en": "The museum runs holiday workshops for young visitors throughout the summer, providing a family-friendly cultural option through late August.",
+          "fr": "Le musée propose tout l’été des ateliers de vacances pour les jeunes visiteurs, offrant jusqu’à fin août une activité culturelle adaptée aux familles."
+        },
+        "source_url": "https://www.ville-agde.fr/agenda"
+      }
+    ]
+  },
+  {
+    "id": "city-sacele-extra",
+    "events": [
+      {
+        "date": "2026-07-20",
+        "title": {
+          "de": "Sântilia",
+          "hu": "Sântilia",
+          "ro": "Sântilia",
+          "en": "Sântilia"
+        },
+        "summary": {
+          "de": "Sântilia ist das traditionelle Stadtfest der Mocani von Săcele und gilt als zentrale Feier der lokalen Identität und Volkskultur.",
+          "hu": "A Sântilia a sacelei mocánok hagyományos ünnepe, amely a helyi identitás és népi kultúra egyik legfontosabb eseménye.",
+          "ro": "Sântilia este sărbătoarea tradițională a mocanilor din Săcele și reprezintă una dintre principalele manifestări ale identității și culturii locale.",
+          "en": "Sântilia is the traditional celebration of the Mocani community of Săcele and one of the town's main expressions of local identity and folk culture."
+        },
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.municipiulsacele.ro/evenimente-santilia-sarbatoarea-tuturor-sacelenilor/"
+      },
+      {
+        "date": "2026-09-15",
+        "end_date": "2026-09-20",
+        "title": {
+          "de": "Zilele Sf. Mihail",
+          "hu": "Szent Mihály-napok",
+          "ro": "Zilele Sf. Mihail",
+          "en": "St. Michael Days"
+        },
+        "summary": {
+          "de": "Die 2026 geplanten Zilele Sf. Mihail stehen für die Kultur der ungarisch-tschangóischen Gemeinschaft von Săcele mit Traditionen, Handwerk und öffentlicher Begegnung.",
+          "hu": "A 2026-ra tervezett Szent Mihály-napok a sacelei magyar csángó közösség hagyományait, kézművességét és közösségi életét mutatják be.",
+          "ro": "Zilele Sf. Mihail planificate pentru 2026 pun în valoare cultura comunității maghiare ceangăiești din Săcele, cu tradiții, meșteșuguri și întâlniri publice.",
+          "en": "The 2026 St. Michael Days highlight the culture of Săcele's Hungarian Csángó community through traditions, crafts, and public gatherings."
+        },
+        "source_url": "https://www.municipiulsacele.ro/wp-content/uploads/2026/01/PROGRAMUL-ANUAL-al-ACHIZITIILOR-PUBLICE-Municipiul-Sacele-2026-Editia-1-Revizia-0.pdf"
+      },
+      {
+        "date": "2026-09-29",
+        "title": {
+          "de": "Sf. Mihail, Fest der ungarischen Gemeinschaft",
+          "hu": "Szent Mihály, a magyar közösség ünnepe",
+          "ro": "Sf. Mihail, sărbătoarea comunității maghiare",
+          "en": "St. Michael, Celebration of the Hungarian Community"
+        },
+        "summary": {
+          "de": "Rund um den 29. September lädt die Feier Besucher dazu ein, Trachten, Handwerk und Bräuche der lokalen ungarischen Gemeinschaft kennenzulernen.",
+          "hu": "Szeptember 29. környékén az ünnep a helyi magyar közösség viseletét, kézműves hagyományait és szokásait mutatja be a látogatóknak.",
+          "ro": "În jurul datei de 29 septembrie, sărbătoarea oferă publicului ocazia de a descoperi portul, meșteșugurile și tradițiile comunității maghiare locale.",
+          "en": "Around September 29, the celebration gives visitors a chance to discover the dress, crafts, and traditions of the local Hungarian community."
+        },
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.municipiulsacele.ro/evenimente-sf-mihail-sarbatoarea-comunitatii-maghiare/"
+      },
+      {
+        "date": "2026-12-15",
+        "end_date": "2026-12-16",
+        "title": {
+          "de": "Târg de Crăciun - HMIK",
+          "hu": "HMIK karácsonyi vásár",
+          "ro": "Târg de Crăciun - HMIK",
+          "en": "HMIK Christmas Fair"
+        },
+        "summary": {
+          "de": "Der HMIK-Weihnachtsmarkt bringt traditionell Kunsthandwerk, winterliche Süßwaren und Bühnenprogramm für die Adventszeit nach Săcele.",
+          "hu": "A HMIK karácsonyi vásár hagyományosan kézműves portékákkal, téli finomságokkal és színpadi programokkal várja a közönséget Săcelében.",
+          "ro": "Târgul de Crăciun HMIK aduce în mod tradițional la Săcele produse meșteșugărești, dulciuri de iarnă și momente de spectacol pentru perioada de Advent.",
+          "en": "The HMIK Christmas Fair traditionally brings crafts, winter sweets, and stage entertainment to Săcele during Advent."
+        },
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.municipiulsacele.ro/evenimente/luna/2018-12/"
+      }
+    ]
+  },
+  {
+    "id": "decines-charpieu",
+    "events": [
+      {
+        "date": "2026-07-09",
+        "end_date": "2026-07-31",
+        "title": {
+          "de": "Opération \"J'apprends à nager\"",
+          "hu": "„J'apprends à nager” úszóprogram",
+          "ro": "Operațiunea „J'apprends à nager”",
+          "en": "Learn to Swim Program",
+          "fr": "Opération « J'apprends à nager »"
+        },
+        "summary": {
+          "de": "Das städtisch beworbene Sommerangebot läuft bis Ende Juli und bietet Kindern in Décines-Charpieu zusätzliche Schwimmkurse während der Ferien.",
+          "hu": "A város által meghirdetett nyári program július végéig tart, és a vakáció alatt extra úszófoglalkozásokat kínál a gyerekeknek Décines-Charpieu-ben.",
+          "ro": "Programul de vară promovat de oraș continuă până la sfârșitul lui iulie și oferă cursuri suplimentare de înot pentru copii în vacanță la Décines-Charpieu.",
+          "en": "This city-promoted summer program runs through the end of July and offers extra swimming sessions for children during the holidays in Décines-Charpieu.",
+          "fr": "Ce programme estival mis en avant par la Ville se poursuit jusqu'à la fin juillet et propose des séances de natation supplémentaires pour les enfants."
+        },
+        "source_url": "https://www.decines-charpieu.fr/"
+      },
+      {
+        "date": "2026-09-22",
+        "title": {
+          "de": "Conseil municipal de septembre",
+          "hu": "Szeptemberi önkormányzati ülés",
+          "ro": "Consiliul municipal din septembrie",
+          "en": "September City Council Meeting",
+          "fr": "Conseil municipal de septembre"
+        },
+        "summary": {
+          "de": "Die nächste öffentliche Ratssitzung der Stadt ist für den 22. September in der Salle Gabriel Bruyas angekündigt.",
+          "hu": "A város következő nyilvános képviselő-testületi ülése szeptember 22-én lesz a Salle Gabriel Bruyas helyszínen.",
+          "ro": "Următoarea ședință publică a consiliului local al orașului este anunțată pentru 22 septembrie, la Salle Gabriel Bruyas.",
+          "en": "The city's next public council meeting is announced for September 22 at Salle Gabriel Bruyas.",
+          "fr": "La prochaine séance publique du conseil municipal est annoncée pour le 22 septembre à la salle Gabriel Bruyas."
+        },
+        "source_url": "https://www.decines-charpieu.fr/"
+      },
+      {
+        "date": "2026-11-01",
+        "title": {
+          "de": "Accueil des nouveaux arrivants",
+          "hu": "Új lakosok fogadása",
+          "ro": "Primirea noilor locuitori",
+          "en": "Welcome for New Residents",
+          "fr": "Accueil des nouveaux arrivants"
+        },
+        "summary": {
+          "de": "Die Stadt organisiert jeden November eine offizielle Willkommensveranstaltung, bei der neue Einwohner Angebote, Dienste und Akteure von Décines-Charpieu kennenlernen können.",
+          "hu": "A város minden novemberben hivatalos köszöntő rendezvényt szervez, ahol az új lakosok megismerhetik Décines-Charpieu szolgáltatásait és helyi szereplőit.",
+          "ro": "Orașul organizează în fiecare noiembrie o întâlnire oficială de bun venit, unde noii locuitori pot descoperi serviciile și actorii locali din Décines-Charpieu.",
+          "en": "Each November, the city organizes an official welcome event where new residents can discover local services and community actors in Décines-Charpieu.",
+          "fr": "Chaque mois de novembre, la Ville organise une rencontre d'accueil permettant aux nouveaux habitants de découvrir services et acteurs locaux."
+        },
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.decines-charpieu.fr/886-nouveaux-arrivants.htm"
+      },
+      {
+        "date": "2026-12-08",
+        "end_date": "2026-12-13",
+        "title": {
+          "de": "Décillumine 2026",
+          "hu": "Décillumine 2026",
+          "ro": "Décillumine 2026",
+          "en": "Décillumine 2026",
+          "fr": "Décillumine 2026"
+        },
+        "summary": {
+          "de": "Décillumine bringt den Weihnachtsmarkt und mehrere Familienanimationen an sechs Tagen zurück nach Décines-Charpieu.",
+          "hu": "A Décillumine hat napon át hozza vissza Décines-Charpieu-be a karácsonyi vásárt és a családi programokat.",
+          "ro": "Décillumine readuce la Décines-Charpieu târgul de Crăciun și mai multe animații pentru familii pe durata a șase zile.",
+          "en": "Décillumine brings the Christmas market and several family-oriented activities back to Décines-Charpieu for six days.",
+          "fr": "Décillumine fait revenir à Décines-Charpieu son marché de Noël et de nombreuses animations familiales pendant six jours."
+        },
+        "source_url": "https://www.decines-charpieu.fr/757-decillumine.htm"
+      }
+    ]
+  },
+  {
+    "id": "orange",
+    "events": [
+      {
+        "date": "2026-07-26",
+        "title": {
+          "de": "Véronique Sanson",
+          "hu": "Véronique Sanson",
+          "ro": "Véronique Sanson",
+          "en": "Véronique Sanson",
+          "fr": "Véronique Sanson"
+        },
+        "summary": {
+          "de": "Die Sängerin tritt am 26. Juli im Théâtre antique auf und gehört zum offiziellen Sommerprogramm der Stadt Orange.",
+          "hu": "Az énekesnő július 26-án lép fel a Théâtre antique színpadán, az Orange város hivatalos nyári programsorozatának részeként.",
+          "ro": "Cântăreața urcă pe scena Théâtre antique pe 26 iulie, în cadrul programului oficial de vară al orașului Orange.",
+          "en": "The singer performs at the Théâtre antique on July 26 as part of the city's official summer program.",
+          "fr": "La chanteuse se produit au Théâtre antique le 26 juillet dans le cadre du programme estival officiel de la Ville d'Orange."
+        },
+        "source_url": "https://www.ville-orange.fr/rubrique136.html"
+      },
+      {
+        "date": "2026-08-01",
+        "title": {
+          "de": "Kool and the Gang",
+          "hu": "Kool and the Gang",
+          "ro": "Kool and the Gang",
+          "en": "Kool and the Gang",
+          "fr": "Kool and the Gang"
+        },
+        "summary": {
+          "de": "Am 1. August empfängt das Théâtre antique die Band Kool and the Gang im Rahmen der offiziellen Sommeragenda von Orange.",
+          "hu": "Augusztus 1-jén a Théâtre antique fogadja a Kool and the Gang együttest Orange hivatalos nyári programjában.",
+          "ro": "La 1 august, Théâtre antique găzduiește trupa Kool and the Gang în cadrul agendei oficiale de vară a orașului Orange.",
+          "en": "On August 1, the Théâtre antique hosts Kool and the Gang as part of Orange's official summer agenda.",
+          "fr": "Le 1er août, le Théâtre antique accueille Kool and the Gang dans le cadre de l'agenda estival officiel d'Orange."
+        },
+        "source_url": "https://www.ville-orange.fr/rubrique136.html"
+      },
+      {
+        "date": "2026-08-06",
+        "end_date": "2026-08-27",
+        "title": {
+          "de": "Jeudis d’Orange",
+          "hu": "Jeudis d’Orange",
+          "ro": "Jeudis d’Orange",
+          "en": "Jeudis d’Orange",
+          "fr": "Jeudis d’Orange"
+        },
+        "summary": {
+          "de": "An vier Donnerstagen im August beleben Aussteller und Sommeranimationen das Zentrum von Orange bei frei zugänglichen Abendveranstaltungen.",
+          "hu": "Augusztus négy csütörtökén kiállítók és nyári programok töltik meg Orange belvárosát szabadon látogatható esti eseményeken.",
+          "ro": "În cele patru joi din august, expozanți și animații estivale animă centrul orașului Orange în seri cu acces liber.",
+          "en": "On four Thursdays in August, exhibitors and summer activities animate downtown Orange during free evening events.",
+          "fr": "Les quatre jeudis d'août, exposants et animations estivales animent le centre-ville d'Orange lors de soirées en accès libre."
+        },
+        "source_url": "https://www.ville-orange.fr/rubrique136.html"
+      },
+      {
+        "date": "2026-08-08",
+        "end_date": "2026-08-09",
+        "title": {
+          "de": "Whitestone Rock Fest’",
+          "hu": "Whitestone Rock Fest’",
+          "ro": "Whitestone Rock Fest’",
+          "en": "Whitestone Rock Fest’",
+          "fr": "Whitestone Rock Fest’"
+        },
+        "summary": {
+          "de": "Das kostenlose Rockfestival im Parc Gasparin bringt an zwei Abenden Live-Musik und Sommerfestivalstimmung nach Orange.",
+          "hu": "A Parc Gasparinban rendezett ingyenes rockfesztivál két estén át élő zenével és nyári fesztiválhangulattal várja a közönséget Orange-ban.",
+          "ro": "Festivalul rock gratuit din Parc Gasparin aduce la Orange două seri de muzică live și atmosferă estivală de festival.",
+          "en": "This free rock festival in Parc Gasparin brings two evenings of live music and summer festival atmosphere to Orange.",
+          "fr": "Ce festival rock gratuit au parc Gasparin propose deux soirées de musique live et d'ambiance estivale à Orange."
+        },
+        "source_url": "https://www.ville-orange.fr/rubrique136.html"
+      },
+      {
+        "date": "2026-08-04",
+        "end_date": "2026-08-25",
+        "title": {
+          "de": "Marché des Producteurs",
+          "hu": "Termelői piac",
+          "ro": "Piața producătorilor",
+          "en": "Producers' Market",
+          "fr": "Marché des Producteurs"
+        },
+        "summary": {
+          "de": "Der Produzentenmarkt läuft den Sommer über dienstags auf der Place Bruey und bietet regionale Lebensmittel und lokalen Austausch im Zentrum von Orange.",
+          "hu": "A Place Bruey termelői piaca egész nyáron keddenként helyi élelmiszereket és közösségi hangulatot kínál Orange központjában.",
+          "ro": "Piața producătorilor are loc pe timpul verii în fiecare marți în Place Bruey și oferă produse locale și o atmosferă prietenoasă în centrul orașului Orange.",
+          "en": "The producers' market runs on Tuesdays through the summer at Place Bruey, offering local food and a lively town-center atmosphere in Orange.",
+          "fr": "Le marché des producteurs se tient les mardis de l'été place Bruey et propose produits locaux et ambiance conviviale au centre d'Orange."
+        },
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.ville-orange.fr/rubrique136.html"
+      }
+    ]
+  }
+]

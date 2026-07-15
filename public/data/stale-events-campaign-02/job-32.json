@@ -1,0 +1,464 @@
+[
+  {
+    "id": "neu-isenburg-extra",
+    "events": [
+      {
+        "date": "2026-08-02",
+        "title": {
+          "de": "Weinklang im Bansa-Park",
+          "hu": "Borklang a Bansa parkban",
+          "ro": "Weinklang în parcul Bansa",
+          "en": "Wine Sounds in Bansa Park"
+        },
+        "summary": {
+          "de": "Kostenlose Sommerabendveranstaltung auf der Wiese an der Bansamühle mit Live-Musik der Band 4 to the Bar, Getränken und Blick in den Bansa-Park.",
+          "hu": "Ingyenes nyári esti program a Bansamühle melletti gyepen, élő zenével a 4 to the Bar együttestől, italokkal és parkhangulattal.",
+          "ro": "Eveniment gratuit de vară pe peluza de lângă Bansamühle, cu muzică live de la trupa 4 to the Bar, băuturi și atmosferă de parc.",
+          "en": "A free summer evening event on the lawn by the Bansamühle with live music by 4 to the Bar, drinks, and views over Bansa Park."
+        },
+        "source_url": "https://www.hugenottenhalle.de/veranstaltungskalender/veranstaltungen/hauptkalender/weinklang-bansapark"
+      },
+      {
+        "date": "2026-08-07",
+        "end_date": "2026-08-16",
+        "title": {
+          "de": "33. Weinfest",
+          "hu": "33. Borfesztivál",
+          "ro": "A 33-a sărbătoare a vinului",
+          "en": "33rd Wine Festival"
+        },
+        "summary": {
+          "de": "Das Neu-Isenburger Weinfest bringt zehn Tage lang Weinstände, regionale Winzerinnen und Winzer sowie abendliche Live-Musik in die Stadt.",
+          "hu": "A neu-isenburgi borfesztivál tíz napon át kínál borászstandokat, termelőket és esti élőzenét a városban.",
+          "ro": "Festivalul vinului din Neu-Isenburg aduce timp de zece zile standuri de vin, producători regionali și muzică live de seară.",
+          "en": "Neu-Isenburg's wine festival brings ten days of wine stalls, regional winemakers, and evening live music to the city."
+        },
+        "source_url": "https://www.hugenottenhalle.de/veranstaltungskalender/veranstaltungen/hauptkalender/weinfest-2026"
+      },
+      {
+        "date": "2026-06-19",
+        "end_date": "2026-09-06",
+        "title": {
+          "de": "global.tribal",
+          "hu": "global.tribal",
+          "ro": "global.tribal",
+          "en": "global.tribal"
+        },
+        "summary": {
+          "de": "Die Ausstellung im Stadtmuseum Haus zum Löwen beleuchtet hugenottische Textil- und Lederhandwerke sowie ihre Verbindung zwischen Neu-Isenburg, Offenbach und globalen Produktionsprozessen.",
+          "hu": "A Haus zum Löwen városi múzeum kiállítása a hugenotta textil- és bőrművességet, valamint Neu-Isenburg és Offenbach kapcsolatait mutatja be.",
+          "ro": "Expoziția de la muzeul municipal Haus zum Löwen explorează meșteșugurile hughenote ale textilelor și pielăriei și legăturile lor cu Neu-Isenburg și Offenbach.",
+          "en": "This exhibition at the Haus zum Löwen city museum explores Huguenot textile and leather crafts and their links between Neu-Isenburg, Offenbach, and global production."
+        },
+        "source_url": "https://www.hugenottenhalle.de/veranstaltungskalender/veranstaltungen/hauptkalender/ausstellung-global.tribal"
+      },
+      {
+        "date": "2026-08-21",
+        "end_date": "2026-08-23",
+        "title": {
+          "de": "36. Stadtteilfest Gravenbruch",
+          "hu": "36. Gravenbruch városrészünnep",
+          "ro": "A 36-a sărbătoare a cartierului Gravenbruch",
+          "en": "36th Gravenbruch District Festival"
+        },
+        "summary": {
+          "de": "Das Stadtteilfest in Gravenbruch läuft drei Tage lang und gehört zu den größeren Spätsommerfesten im Neu-Isenburger Stadtgebiet.",
+          "hu": "A gravenbruchi városrészünnep háromnapos késő nyári közösségi fesztivál Neu-Isenburgban.",
+          "ro": "Sărbătoarea cartierului Gravenbruch se desfășoară pe parcursul a trei zile și este unul dintre evenimentele comunitare de la sfârșitul verii din Neu-Isenburg.",
+          "en": "The Gravenbruch district festival runs for three days and is one of Neu-Isenburg's larger late-summer community events."
+        },
+        "source_url": "https://www.hugenottenhalle.de/veranstaltungskalender/veranstaltungen/hauptkalender/stadtteilfest-gravebruch"
+      },
+      {
+        "date": "2026-09-05",
+        "title": {
+          "de": "Floh- und Trödelmarkt September",
+          "hu": "Szeptemberi bolha- és régiségpiac",
+          "ro": "Târg de vechituri și talcioc în septembrie",
+          "en": "September Flea and Second-Hand Market"
+        },
+        "summary": {
+          "de": "Der Neu-Isenburger Flohmarkt bietet am Vormittag Bücher, Kleidung, Kindersachen und weitere Second-Hand-Funde an.",
+          "hu": "A neu-isenburgi bolhapiacon könyvek, ruhák, gyerekholmik és más használt tárgyak várják a látogatókat.",
+          "ro": "Piața de vechituri din Neu-Isenburg propune cărți, haine, articole pentru copii și alte descoperiri second-hand.",
+          "en": "Neu-Isenburg's flea market offers books, clothing, children's items, and other second-hand finds during a morning market session."
+        },
+        "source_url": "https://www.hugenottenhalle.de/veranstaltungskalender/veranstaltungen/hauptkalender/flohmarkt-september"
+      }
+    ]
+  },
+  {
+    "id": "dreux",
+    "events": [
+      {
+        "date": "2026-09-05",
+        "title": {
+          "de": "Saisoneröffnung: Cie La Tarbasse - Fugue",
+          "hu": "Évadnyitó: Cie La Tarbasse - Fugue",
+          "ro": "Deschiderea stagiunii: Cie La Tarbasse - Fugue",
+          "en": "Season Opening: Cie La Tarbasse - Fugue",
+          "fr": "Ouverture de saison : Cie La Tarbasse - Fugue"
+        },
+        "summary": {
+          "de": "Die neue Spielzeit des Atelier à spectacle startet mit einer Programmpraesentation und dem Tanzquartett Fugue, das Bachsche Struktur mit repetitiver Electro-Ästhetik verbindet.",
+          "hu": "Az Atelier à spectacle új évada programbemutatóval és a Fugue táncnégyes előadásával indul, amely Bach szerkezetét repetitív elektronikus hangzással kapcsolja össze.",
+          "ro": "Noua stagiune de la Atelier à spectacle începe cu prezentarea programului și cu cvartetul coregrafic Fugue, care leagă structura lui Bach de o estetică electro repetitivă.",
+          "en": "The new Atelier à spectacle season opens with a season presentation and the dance quartet Fugue, blending Bach-inspired structure with repetitive electronic energy.",
+          "fr": "La nouvelle saison de l'Atelier à spectacle s'ouvre avec une présentation de saison et le quatuor chorégraphique Fugue, entre Bach et électro répétitive."
+        },
+        "source_url": "https://www.latelier-a-spectacle.com/spectacle/ouverture-de-saison-cie-la-tarbasse-fugue/"
+      },
+      {
+        "date": "2026-09-19",
+        "end_date": "2026-10-17",
+        "title": {
+          "de": "Europäische Tage des Kultur- und Matri-Erbes",
+          "hu": "Európai örökségi napok és matriörökség",
+          "ro": "Zilele Europene ale Patrimoniului și Matrimoine",
+          "en": "European Heritage and Matrimoine Days",
+          "fr": "Journées européennes du patrimoine et du matrimoine"
+        },
+        "summary": {
+          "de": "Das Atelier à spectacle öffnet für Führungen, eine Ausstellung über Technikerinnen hinter der Bühne und partizipative Formate rund um den anstehenden Umbau des Hauses.",
+          "hu": "Az Atelier à spectacle vezetett bejárásokkal, technikusi portrékiállítással és részvételi programokkal mutatja be a helyszín átalakulását.",
+          "ro": "Atelier à spectacle se deschide pentru vizite ghidate, o expoziție despre tehnicienele din culisele spectacolului și programe participative legate de transformarea clădirii.",
+          "en": "Atelier à spectacle opens for guided visits, a backstage-technicians exhibition, and participatory events tied to the venue's upcoming transformation.",
+          "fr": "L'Atelier à spectacle propose des visites guidées, une exposition consacrée aux techniciennes du spectacle et des animations autour de la métamorphose du lieu."
+        },
+        "source_url": "https://www.latelier-a-spectacle.com/spectacle/journees-europeennes-du-patrimoine-et-du-matrimoine/"
+      },
+      {
+        "date": "2026-10-03",
+        "title": {
+          "de": "Anne Paceo: Atlantis",
+          "hu": "Anne Paceo: Atlantis",
+          "ro": "Anne Paceo: Atlantis",
+          "en": "Anne Paceo: Atlantis",
+          "fr": "Anne Paceo : Atlantis"
+        },
+        "summary": {
+          "de": "Die preisgekrönte Schlagzeugerin Anne Paceo bringt ihr Jazzprojekt Atlantis im Herbstprogramm des Atelier à spectacle in die Agglomeration Dreux.",
+          "hu": "A díjnyertes dobos Anne Paceo Atlantis című jazzprojektje az Atelier à spectacle őszi programjában érkezik a dreux-i agglomerációba.",
+          "ro": "Toboșara premiată Anne Paceo aduce proiectul său de jazz Atlantis în programul de toamnă al Atelier à spectacle din aglomerația Dreux.",
+          "en": "Award-winning drummer Anne Paceo brings her jazz project Atlantis to the autumn season at Atelier à spectacle in the Dreux area.",
+          "fr": "La batteuse Anne Paceo présente son projet jazz Atlantis dans la programmation d'automne de l'Atelier à spectacle."
+        },
+        "source_url": "https://www.latelier-a-spectacle.com/spectacle/anne-paceo-atlantis/"
+      },
+      {
+        "date": "2026-10-09",
+        "end_date": "2026-10-10",
+        "title": {
+          "de": "Cie La Part du Pauvre: Autophagies",
+          "hu": "Cie La Part du Pauvre: Autophagies",
+          "ro": "Cie La Part du Pauvre: Autophagies",
+          "en": "Cie La Part du Pauvre: Autophagies",
+          "fr": "Cie La Part du Pauvre : Autophagies"
+        },
+        "summary": {
+          "de": "Das zweitägige Theater-culinaire-Projekt verbindet Bühne und gemeinsames Essen in einer ungewöhnlichen Besuchserfahrung im Atelier à spectacle.",
+          "hu": "A kétnapos színházi-kulinaris előadás a színpadi élményt és a közös étkezést kapcsolja össze az Atelier à spectacle-ben.",
+          "ro": "Acest proiect de teatru culinar desfășurat pe două zile combină scena și masa comună într-o experiență aparte la Atelier à spectacle.",
+          "en": "This two-day culinary-theatre production combines performance and shared dining in an unusual visitor experience at Atelier à spectacle.",
+          "fr": "Ce projet de théâtre culinaire sur deux soirées mêle spectacle et repas partagé dans une expérience originale à l'Atelier à spectacle."
+        },
+        "source_url": "https://www.latelier-a-spectacle.com/spectacle/cie-la-part-du-pauvre-autophagies/"
+      },
+      {
+        "date": "2026-10-17",
+        "title": {
+          "de": "Nora Hamzawi",
+          "hu": "Nora Hamzawi",
+          "ro": "Nora Hamzawi",
+          "en": "Nora Hamzawi",
+          "fr": "Nora Hamzawi"
+        },
+        "summary": {
+          "de": "Die französische Komikerin Nora Hamzawi gastiert im Oktober mit einem Humorabend im Atelier à spectacle von Vernouillet bei Dreux.",
+          "hu": "A francia humorista Nora Hamzawi októberben önálló esttel lép fel a Dreux melletti Vernouillet Atelier à spectacle helyszínén.",
+          "ro": "Umorista franceză Nora Hamzawi susține în octombrie un spectacol la Atelier à spectacle din Vernouillet, lângă Dreux.",
+          "en": "French comedian Nora Hamzawi appears in October for a stand-up evening at Atelier à spectacle in Vernouillet near Dreux.",
+          "fr": "L'humoriste Nora Hamzawi se produit en octobre à l'Atelier à spectacle de Vernouillet, près de Dreux."
+        },
+        "source_url": "https://www.latelier-a-spectacle.com/spectacle/nora-hamzawi/"
+      }
+    ]
+  },
+  {
+    "id": "macon",
+    "events": [
+      {
+        "date": "2026-06-24",
+        "end_date": "2026-08-30",
+        "title": {
+          "de": "Été Frappé 2026",
+          "hu": "Été Frappé 2026",
+          "ro": "Été Frappé 2026",
+          "en": "Été Frappé 2026",
+          "fr": "Été Frappé 2026"
+        },
+        "summary": {
+          "de": "Mâcons großes Sommerprogramm läuft über zwei Monate mit Kultur, Musik und Stadtveranstaltungen an verschiedenen Orten.",
+          "hu": "Mâcon nagy nyári programsorozata két hónapon át kínál kulturális, zenei és városi eseményeket több helyszínen.",
+          "ro": "Marele program estival al orașului Mâcon se desfășoară timp de două luni cu muzică, cultură și animații urbane în mai multe locuri.",
+          "en": "Mâcon's main summer programme runs for two months with music, culture, and city events across multiple venues.",
+          "fr": "Le grand programme estival de Mâcon se déroule pendant deux mois avec concerts, culture et animations dans toute la ville."
+        },
+        "source_url": "https://www.macon.fr/information-transversale/agenda/ete-frappe-2026-12281"
+      },
+      {
+        "date": "2026-07-06",
+        "end_date": "2026-08-29",
+        "title": {
+          "de": "Mâcon en famille",
+          "hu": "Mâcon en famille",
+          "ro": "Mâcon en famille",
+          "en": "Mâcon for Families",
+          "fr": "Mâcon en famille"
+        },
+        "summary": {
+          "de": "Das Familienprogramm der Stadt bündelt Aktivitäten und Ausflüge für Kinder, Eltern und Sommergäste bis Ende August.",
+          "hu": "A városi családi programsorozat augusztus végéig kínál foglalkozásokat és kirándulásokat gyerekeknek, szülőknek és nyári látogatóknak.",
+          "ro": "Programul de familie al orașului reunește activități și ieșiri pentru copii, părinți și vizitatori de vară până la sfârșitul lui august.",
+          "en": "The city's family programme bundles activities and outings for children, parents, and summer visitors through late August.",
+          "fr": "Le programme familial de la ville rassemble activités et sorties pour enfants, parents et visiteurs d'été jusqu'à la fin août."
+        },
+        "source_url": "https://www.macon.fr/information-transversale/agenda/macon-en-famille-du-6-juillet-au-29-aout-11653"
+      },
+      {
+        "date": "2026-08-04",
+        "title": {
+          "de": "Vor dem Tour-de-France-Femmes-Start",
+          "hu": "A Tour de France Femmes rajtja előtt",
+          "ro": "Înaintea etapei Tour de France Femmes",
+          "en": "Ahead of the Tour de France Femmes Stage",
+          "fr": "En attendant le Tour de France Femmes"
+        },
+        "summary": {
+          "de": "Am Vorabend des Etappenstarts organisiert Mâcon unter anderem eine kostümierte Fahrradparade und begleitende Stadtanimationen.",
+          "hu": "Az etapszakasz rajtja előtti napon Mâcon jelmezes bringás felvonulást és kapcsolódó városi programokat szervez.",
+          "ro": "În ajunul startului de etapă, Mâcon organizează o paradă costumată pe biciclete și animații urbane conexe.",
+          "en": "On the eve of the stage start, Mâcon organizes a costume bicycle parade and related city activities.",
+          "fr": "La veille du départ d'étape, Mâcon propose notamment une parade déguisée à vélo et des animations en ville."
+        },
+        "source_url": "https://www.macon.fr/information-transversale/agenda/en-attendant-le-tour-de-france-femmes-avec-zwift-et-letape-macon-belleville-12470"
+      },
+      {
+        "date": "2026-08-05",
+        "title": {
+          "de": "Tour de France Femmes avec Zwift - Mâcon Stadtstart",
+          "hu": "Tour de France Femmes avec Zwift - mâconi rajtváros",
+          "ro": "Tour de France Femmes avec Zwift - start din Mâcon",
+          "en": "Tour de France Femmes avec Zwift - Mâcon Start City",
+          "fr": "Tour de France Femmes avec Zwift - Mâcon ville départ"
+        },
+        "summary": {
+          "de": "Mâcon ist offizieller Startort der 5. Etappe des Tour de France Femmes 2026 und empfängt Radsportpublikum in der Stadt.",
+          "hu": "Mâcon a 2026-os Tour de France Femmes 5. szakaszának hivatalos rajtvárosa, így a belváros kerékpáros szurkolókat fogad.",
+          "ro": "Mâcon este orașul de start oficial al etapei a 5-a din Tour de France Femmes 2026 și primește publicul ciclismului în tot orașul.",
+          "en": "Mâcon is the official start city for stage 5 of the 2026 Tour de France Femmes, bringing cycling crowds into town.",
+          "fr": "Mâcon est la ville de départ officielle de la 5e étape du Tour de France Femmes 2026 et accueille le public cycliste en centre-ville."
+        },
+        "source_url": "https://www.macon.fr/information-transversale/agenda"
+      },
+      {
+        "date": "2026-08-16",
+        "title": {
+          "de": "Dimanche de la collection",
+          "hu": "Gyűjtői vasárnap",
+          "ro": "Duminica colecționarilor",
+          "en": "Collectors' Sunday",
+          "fr": "Dimanche de la collection"
+        },
+        "summary": {
+          "de": "Der monatliche Treffpunkt für Sammlerinnen und Sammler findet im August wieder im Espace Carnot-Montrevel statt.",
+          "hu": "Az augusztusi gyűjtői találkozót ismét az Espace Carnot-Montrevel helyszínén rendezik meg.",
+          "ro": "Întâlnirea lunară a colecționarilor revine în august la Espace Carnot-Montrevel.",
+          "en": "The monthly collectors' gathering returns in August at Espace Carnot-Montrevel.",
+          "fr": "Le rendez-vous mensuel des collectionneurs revient en août à l'espace Carnot-Montrevel."
+        },
+        "source_url": "https://www.macon.fr/information-transversale/agenda/dimanche-de-la-collection-le-16-aout-2026-11240"
+      }
+    ]
+  },
+  {
+    "id": "poland-sopot-cities-v2",
+    "events": [
+      {
+        "date": "2026-08-03",
+        "title": {
+          "de": "Songwriter Festival Sopot: innerinnerlife",
+          "hu": "Songwriter Festival Sopot: innerinnerlife",
+          "ro": "Songwriter Festival Sopot: innerinnerlife",
+          "en": "Songwriter Festival Sopot: innerinnerlife"
+        },
+        "summary": {
+          "de": "Die August-Reihe des Songwriter Festival Sopot startet mit innerinnerlife im Park des Goyki 3 Art Inkubators.",
+          "hu": "Az augusztusi Songwriter Festival Sopot-sorozat innerinnerlife koncertjével indul a Goyki 3 Art Inkubator parkjában.",
+          "ro": "Seria de august a Songwriter Festival Sopot începe cu innerinnerlife în parcul Goyki 3 Art Inkubator.",
+          "en": "The August run of Songwriter Festival Sopot opens with innerinnerlife in the park at Goyki 3 Art Inkubator."
+        },
+        "source_url": "https://visit.sopot.pl/en/news/songwriter-festival-sopot-2026-32140501"
+      },
+      {
+        "date": "2026-08-10",
+        "title": {
+          "de": "Songwriter Festival Sopot: Irek Wojtczak / Piotr Pawlak",
+          "hu": "Songwriter Festival Sopot: Irek Wojtczak / Piotr Pawlak",
+          "ro": "Songwriter Festival Sopot: Irek Wojtczak / Piotr Pawlak",
+          "en": "Songwriter Festival Sopot: Irek Wojtczak / Piotr Pawlak"
+        },
+        "summary": {
+          "de": "Ein weiterer Montagabend der offenen Sommerreihe bringt Irek Wojtczak und Piotr Pawlak an die Bühne im Goyki-3-Park.",
+          "hu": "A nyitott nyári hétfő esti sorozat újabb állomásán Irek Wojtczak és Piotr Pawlak lép fel a Goyki 3 parkjában.",
+          "ro": "O altă seară de luni din seria estivală îl aduce pe scenă pe Irek Wojtczak alături de Piotr Pawlak în parcul Goyki 3.",
+          "en": "Another Monday evening in the summer series brings Irek Wojtczak and Piotr Pawlak to the stage in the Goyki 3 park."
+        },
+        "source_url": "https://visit.sopot.pl/en/news/songwriter-festival-sopot-2026-32140501"
+      },
+      {
+        "date": "2026-08-17",
+        "title": {
+          "de": "Songwriter Festival Sopot: Sviniarski",
+          "hu": "Songwriter Festival Sopot: Sviniarski",
+          "ro": "Songwriter Festival Sopot: Sviniarski",
+          "en": "Songwriter Festival Sopot: Sviniarski"
+        },
+        "summary": {
+          "de": "Die achtsame Konzertreihe im Goyki 3 setzt ihr Augustprogramm mit Sviniarski fort.",
+          "hu": "A Goyki 3-ban zajló figyelmes koncertsorozat augusztusi programját Sviniarski folytatja.",
+          "ro": "Seria de concerte de la Goyki 3 își continuă programul de august cu Sviniarski.",
+          "en": "The mindful listening series at Goyki 3 continues its August programme with Sviniarski."
+        },
+        "source_url": "https://visit.sopot.pl/en/news/songwriter-festival-sopot-2026-32140501"
+      },
+      {
+        "date": "2026-08-24",
+        "title": {
+          "de": "Songwriter Festival Sopot: Sheldon Kafka",
+          "hu": "Songwriter Festival Sopot: Sheldon Kafka",
+          "ro": "Songwriter Festival Sopot: Sheldon Kafka",
+          "en": "Songwriter Festival Sopot: Sheldon Kafka"
+        },
+        "summary": {
+          "de": "Die vorletzte Augustausgabe des Festivals lädt mit Sheldon Kafka erneut zu einem offenen Montagabendkonzert im Park ein.",
+          "hu": "A fesztivál utolsó előtti augusztusi kiadása Sheldon Kafka koncertjével várja a hétfő esti közönséget a parkban.",
+          "ro": "Penultima ediție din august a festivalului îl aduce pe Sheldon Kafka la concertul de luni seara din parc.",
+          "en": "The penultimate August edition of the festival brings Sheldon Kafka to the Monday evening open-air concert in the park."
+        },
+        "source_url": "https://visit.sopot.pl/en/news/songwriter-festival-sopot-2026-32140501"
+      },
+      {
+        "date": "2026-08-31",
+        "title": {
+          "de": "Songwriter Festival Sopot: Natalia Marczuk",
+          "hu": "Songwriter Festival Sopot: Natalia Marczuk",
+          "ro": "Songwriter Festival Sopot: Natalia Marczuk",
+          "en": "Songwriter Festival Sopot: Natalia Marczuk"
+        },
+        "summary": {
+          "de": "Natalia Marczuk beschließt die Sommermontage des Songwriter Festival Sopot im Park des Goyki 3 Art Inkubators.",
+          "hu": "Natalia Marczuk zárja a Songwriter Festival Sopot nyári hétfői koncertsorozatát a Goyki 3 Art Inkubator parkjában.",
+          "ro": "Natalia Marczuk încheie seria de luni a Songwriter Festival Sopot în parcul Goyki 3 Art Inkubator.",
+          "en": "Natalia Marczuk closes the summer Monday series of Songwriter Festival Sopot in the park at Goyki 3 Art Inkubator."
+        },
+        "source_url": "https://visit.sopot.pl/en/news/songwriter-festival-sopot-2026-32140501"
+      }
+    ]
+  },
+  {
+    "id": "aguilas",
+    "events": [
+      {
+        "date": "2026-07-15",
+        "end_date": "2026-09-02",
+        "title": {
+          "de": "Kostenlose theatralisierte Besuche im historischen Zentrum",
+          "hu": "Ingyenes színházi vezetett séta a történelmi központban",
+          "ro": "Vizite teatralizate gratuite în centrul istoric",
+          "en": "Free Dramatized Tours of the Historic Centre"
+        },
+        "summary": {
+          "de": "Die sommerliche Besuchsreihe führt Gäste mit inszenierten Rundgängen durch das historische Zentrum von Águilas.",
+          "hu": "A nyári programsorozat színházi elemekkel kísért sétákkal vezeti végig a látogatókat Águilas történelmi központján.",
+          "ro": "Seria estivală le propune vizitatorilor tururi ghidate teatralizate prin centrul istoric al orașului Águilas.",
+          "en": "This summer series offers staged guided walks through the historic centre of Águilas."
+        },
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.turismoregiondemurcia.es/en/event/visitas-teatralizadas-gratuitas-al-centro-historico-de-aguilas--M447358/"
+      },
+      {
+        "date": "2026-07-17",
+        "end_date": "2026-09-04",
+        "title": {
+          "de": "Kostenlose theatralisierte Besuche im Esparto-Museum",
+          "hu": "Ingyenes színházi látogatások az Esparto Múzeumban",
+          "ro": "Vizite teatralizate gratuite la Muzeul Esparto",
+          "en": "Free Dramatized Visits to the Esparto Museum"
+        },
+        "summary": {
+          "de": "Die Tourismusreihe verbindet Museumsbesuch und Aufführung rund um die lokale Esparto-Tradition von Águilas.",
+          "hu": "A turisztikai programsorozat a múzeumlátogatást és az előadást kapcsolja össze Águilas helyi esparto-hagyományával.",
+          "ro": "Seria turistică îmbină vizita la muzeu cu interpretarea scenică dedicată tradiției locale a espartoului din Águilas.",
+          "en": "This tourism series combines a museum visit with performance elements around Águilas' local esparto tradition."
+        },
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.turismoregiondemurcia.es/en/event/visitas-teatralizadas-gratuitas-al-museo-del-esparto-M447363/"
+      },
+      {
+        "date": "2026-07-30",
+        "end_date": "2026-08-09",
+        "title": {
+          "de": "Acho Burger Gastronomiefestival",
+          "hu": "Acho Burger gasztronómiai fesztivál",
+          "ro": "Festivalul gastronomic Acho Burger",
+          "en": "Acho Burger Gastronomy Festival"
+        },
+        "summary": {
+          "de": "Auf der Explanada del Auditorio an der Playa de las Delicias läuft ein mehrtägiges Sommer-Foodfestival mit Burger-Angeboten und Festivalatmosphäre.",
+          "hu": "A Playa de las Delicias melletti Auditorio sétányán többnapos nyári foodfesztivál vár burgerkínálattal és fesztiválhangulattal.",
+          "ro": "Pe esplanada auditoriului de la Playa de las Delicias are loc un festival gastronomic de vară cu burgeri și atmosferă de promenadă.",
+          "en": "A multi-day summer food festival takes over the auditorium esplanade by Playa de las Delicias with burgers and festival atmosphere."
+        },
+        "source_url": "https://www.turismoregiondemurcia.es/en/event/festival-gastronomico-acho-burger--M447210/"
+      },
+      {
+        "date": "2026-08-01",
+        "title": {
+          "de": "Sommerkarnevalsparade 2026",
+          "hu": "Nyári karneváli felvonulás 2026",
+          "ro": "Parada Carnavalului de Vară 2026",
+          "en": "Summer Carnival Parade 2026"
+        },
+        "summary": {
+          "de": "Die Sommerausgabe des berühmten Águilas-Karnevals zieht mit Festwagen und Gruppen an der Bahía de Levante entlang.",
+          "hu": "Az Águilas-i karnevál nyári változata felvonuló csoportokkal és díszkocsikkal érkezik a Bahía de Levante partjára.",
+          "ro": "Ediția de vară a celebrului carnaval din Águilas aduce grupuri și care alegorice pe malul Bahía de Levante.",
+          "en": "The summer edition of Águilas' famous carnival brings parade groups and floats to Bahía de Levante."
+        },
+        "source_url": "https://www.turismoregiondemurcia.es/en/event/desfile-de-carnaval-de-verano-2026-M447209/"
+      },
+      {
+        "date": "2026-07-01",
+        "end_date": "2026-09-05",
+        "title": {
+          "de": "Sommerprogramm 2026 in Águilas",
+          "hu": "2026-os nyári program Águilasban",
+          "ro": "Programul de vară 2026 în Águilas",
+          "en": "Summer Programme 2026 in Águilas"
+        },
+        "summary": {
+          "de": "Das offizielle Sommerprogramm bündelt Konzerte, Shows, Kino und weitere Veranstaltungen für die Hauptsaison in Águilas.",
+          "hu": "A hivatalos nyári program koncerteket, előadásokat, mozit és további eseményeket fog össze Águilas főszezonjában.",
+          "ro": "Programul oficial de vară reunește concerte, spectacole, cinema și alte evenimente pentru sezonul principal din Águilas.",
+          "en": "The official summer programme bundles concerts, shows, cinema, and other events for Águilas' main holiday season."
+        },
+        "source_url": "https://www.turismoregiondemurcia.es/en/event/programacion-de-verano-2026-M447203/"
+      }
+    ]
+  }
+]

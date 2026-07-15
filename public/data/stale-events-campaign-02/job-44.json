@@ -1,0 +1,416 @@
+[
+  {
+    "id": "romania-campina-cities-v2",
+    "events": [
+      {
+        "date": "2026-08-08",
+        "end_date": "2026-08-09",
+        "title": {
+          "de": "Câmpina Jazz Festival",
+          "hu": "Câmpina Jazz Fesztivál",
+          "ro": "Câmpina Jazz Festival",
+          "en": "Câmpina Jazz Festival"
+        },
+        "summary": {
+          "de": "Das zweitägige Jazzfestival im Tenis Seva Parc bietet am 8. und 9. August ein offenes Sommerprogramm mit Konzerten in Câmpina.",
+          "hu": "A Tenis Seva Parcban rendezett kétnapos jazzfesztivál augusztus 8-9-én nyári koncertprogrammal várja a közönséget Câmpinában.",
+          "ro": "Festivalul de jazz organizat la Tenis Seva Parc propune două zile de concerte de vară, pe 8 și 9 august, în Câmpina.",
+          "en": "This two-day jazz festival at Tenis Seva Parc brings a summer concert program to Câmpina on August 8 and 9."
+        },
+        "source_url": "https://www.iabilet.ro/bilete-campina-jazz-festival-128616/?ica_campaign=campina&ica_medium=site&ica_source=TownPage&ica_term=&nomobile=1"
+      },
+      {
+        "date": "2026-09-18",
+        "title": {
+          "de": "Vizionarii",
+          "hu": "Vizionarii",
+          "ro": "Vizionarii",
+          "en": "Vizionarii"
+        },
+        "summary": {
+          "de": "Die öffentliche Veranstaltung im Casa Tineretului ist als Inspirations- und Vortragsformat rund um geistige Klarheit, Lebensgestaltung und persönliche Entwicklung angekündigt.",
+          "hu": "A Casa Tineretului nyilvános rendezvénye inspirációs és előadásjellegű programként hirdeti a mentális frissességet, az életvezetést és a személyes fejlődést.",
+          "ro": "Evenimentul public găzduit la Casa Tineretului este prezentat ca o conferință inspirațională despre minte clară, viață conștientă și dezvoltare personală.",
+          "en": "Hosted at Casa Tineretului, this public event is presented as an inspirational conference about mental clarity, life choices, and personal development."
+        },
+        "source_url": "https://m.iabilet.ro/bilete-campina-vizionarii-122437/?utm_campaign=campina&utm_medium=mobile&utm_source=TownPage&utm_term="
+      },
+      {
+        "date": "2026-10-30",
+        "title": {
+          "de": "Un gigolo de 2 lei",
+          "hu": "Un gigolo de 2 lei",
+          "ro": "Un gigolo de 2 lei",
+          "en": "Un gigolo de 2 lei"
+        },
+        "summary": {
+          "de": "Die Komödie wird Ende Oktober im Casa de Cultură Geo Bogza gespielt und ergänzt das herbstliche Theaterprogramm der Stadt.",
+          "hu": "A vígjáték október végén érkezik a Geo Bogza művelődési házba, és az őszi színházi kínálat része Câmpinában.",
+          "ro": "Comedia este programată la final de octombrie la Casa de Cultură Geo Bogza și completează agenda teatrală de toamnă a orașului.",
+          "en": "This comedy is scheduled for late October at Casa de Cultură Geo Bogza as part of Câmpina's autumn theater lineup."
+        },
+        "source_url": "https://m.iabilet.ro/bilete-campina-un-gigolo-de-2-lei-127964/"
+      },
+      {
+        "date": "2026-11-20",
+        "title": {
+          "de": "Vecina de la 3",
+          "hu": "Vecina de la 3",
+          "ro": "Vecina de la 3",
+          "en": "Vecina de la 3"
+        },
+        "summary": {
+          "de": "Die Aufführung im Casa de Cultură Geo Bogza ist als öffentliches Theaterereignis für den November in Câmpina gelistet.",
+          "hu": "A Geo Bogza művelődési házban megrendezett előadás nyilvános novemberi színházi programként szerepel Câmpinában.",
+          "ro": "Spectacolul de la Casa de Cultură Geo Bogza apare în programarea publică a lunii noiembrie pentru Câmpina.",
+          "en": "This performance at Casa de Cultură Geo Bogza is listed as a public November theater event in Câmpina."
+        },
+        "source_url": "https://m.iabilet.ro/bilete-in-campina/"
+      },
+      {
+        "date": "2026-12-20",
+        "title": {
+          "de": "Direcția 5 - 100% Direcția 5",
+          "hu": "Direcția 5 - 100% Direcția 5",
+          "ro": "Direcția 5 - 100% Direcția 5",
+          "en": "Direcția 5 - 100% Direcția 5"
+        },
+        "summary": {
+          "de": "Die bekannte rumänische Pop-Rock-Band bringt ihre Tour im Dezember ins Casa Tineretului nach Câmpina.",
+          "hu": "A népszerű román pop-rock együttes decemberben a Casa Tineretului színpadán lép fel Câmpinában.",
+          "ro": "Trupa pop-rock Direcția 5 include Câmpina în turneul său de decembrie cu un concert la Casa Tineretului.",
+          "en": "The Romanian pop-rock band Direcția 5 brings its December tour stop to Casa Tineretului in Câmpina."
+        },
+        "source_url": "https://m.iabilet.ro/bilete-campina-concert-directia-5-100-directia-5-124280/?ica_campaign=&ica_medium=mobile&ica_source=HPMobile&ica_term="
+      }
+    ]
+  },
+  {
+    "id": "mao",
+    "events": [
+      {
+        "date": "2026-07-30",
+        "title": {
+          "de": "Maria del Mar Bonet",
+          "hu": "Maria del Mar Bonet",
+          "ro": "Maria del Mar Bonet",
+          "en": "Maria del Mar Bonet"
+        },
+        "summary": {
+          "de": "Die katalanische Sängerin tritt Ende Juli im Teatre Principal de Maó auf, einem der wichtigsten Kulturorte der Stadt.",
+          "hu": "A katalán énekesnő július végén lép fel a Teatre Principal de Maó színpadán, a város egyik kiemelt kulturális helyszínén.",
+          "ro": "Cântăreața catalană susține un concert la final de iulie la Teatre Principal de Maó, unul dintre reperele culturale ale orașului.",
+          "en": "The Catalan singer performs at the end of July at Teatre Principal de Maó, one of the city's main cultural venues."
+        },
+        "source_url": "https://teatremao.com/events/"
+      },
+      {
+        "date": "2026-08-06",
+        "title": {
+          "de": "78i… Gala d'Estrelles de la Dansa",
+          "hu": "78i… Gala d'Estrelles de la Dansa",
+          "ro": "78i… Gala d'Estrelles de la Dansa",
+          "en": "78i… Gala d'Estrelles de la Dansa"
+        },
+        "summary": {
+          "de": "Diese Sommergala der Fundació Rubió ist für Anfang August im Teatre Principal de Maó angekündigt und setzt den Schwerpunkt auf Tanz.",
+          "hu": "A Fundació Rubió nyári gálája augusztus elején érkezik a Teatre Principal de Maó programjába, táncközpontú estként.",
+          "ro": "Gala de vară a Fundació Rubió este anunțată pentru începutul lunii august la Teatre Principal de Maó și pune accent pe dans.",
+          "en": "This summer gala by Fundació Rubió is scheduled for early August at Teatre Principal de Maó and focuses on dance."
+        },
+        "source_url": "https://teatremao.com/events/"
+      },
+      {
+        "date": "2026-08-12",
+        "title": {
+          "de": "Visita guiada",
+          "hu": "Visita guiada",
+          "ro": "Visita guiada",
+          "en": "Guided visit"
+        },
+        "summary": {
+          "de": "Das Teatre Principal de Maó bietet im August erneut eine öffentliche Führung in katalanischer oder spanischer Sprache durch das historische Theater an.",
+          "hu": "A Teatre Principal de Maó augusztusban ismét nyilvános, katalán vagy spanyol nyelvű vezetett bejárást kínál a történelmi színházban.",
+          "ro": "Teatre Principal de Maó programează în august o nouă vizită ghidată publică, în catalană sau spaniolă, prin teatrul istoric.",
+          "en": "Teatre Principal de Maó schedules another public guided visit in August, offered in Catalan or Spanish through the historic theater."
+        },
+        "source_url": "https://teatremao.com/events/"
+      },
+      {
+        "date": "2026-08-13",
+        "title": {
+          "de": "40. Jahrestag des Institut Menorquí d'Estudis",
+          "hu": "Az Institut Menorquí d'Estudis 40. évfordulós megemlékezése",
+          "ro": "Act comemorativ al 40-lea aniversar al Institut Menorquí d'Estudis",
+          "en": "40th anniversary commemorative act of the Institut Menorquí d'Estudis"
+        },
+        "summary": {
+          "de": "Die Gedenkveranstaltung zum 40-jährigen Bestehen des Institut Menorquí d'Estudis findet Mitte August im Teatre Principal de Maó statt.",
+          "hu": "Az Institut Menorquí d'Estudis 40 éves jubileumi megemlékezését augusztus közepén a Teatre Principal de Maóban rendezik meg.",
+          "ro": "Evenimentul dedicat aniversării a 40 de ani ai Institut Menorquí d'Estudis are loc la mijloc de august la Teatre Principal de Maó.",
+          "en": "The commemorative event for the 40th anniversary of the Institut Menorquí d'Estudis takes place in mid-August at Teatre Principal de Maó."
+        },
+        "source_url": "https://teatremao.com/events/"
+      },
+      {
+        "date": "2026-08-22",
+        "end_date": "2026-08-23",
+        "title": {
+          "de": "Festes de Sant Climent",
+          "hu": "Sant Climent ünnepe",
+          "ro": "Festes de Sant Climent",
+          "en": "Sant Climent festivities"
+        },
+        "summary": {
+          "de": "Die Sommerfeste im Ortsteil Sant Climent bei Maó laufen am 22. und 23. August mit dem traditionellen lokalen Festprogramm.",
+          "hu": "Maó Sant Climent városrészének nyári ünnepe augusztus 22-23-án hagyományos helyi programokkal zajlik.",
+          "ro": "Sărbătoarea de vară din Sant Climent, localitate aparținând de Maó, se desfășoară pe 22 și 23 august cu program festiv tradițional.",
+          "en": "The summer festivities in Sant Climent, part of Maó, run on August 22 and 23 with the traditional local festival program."
+        },
+        "source_url": "https://fiestasmenorca.com/sant-climent/"
+      }
+    ]
+  },
+  {
+    "id": "city-turnu-magurele-extra",
+    "events": [
+      {
+        "date": "2026-10-18",
+        "title": {
+          "de": "Grenzüberschreitendes antikes und mittelalterliches Festival",
+          "hu": "Határon átnyúló antik és középkori fesztivál",
+          "ro": "Festival antic și medieval",
+          "en": "Ancient and medieval festival"
+        },
+        "summary": {
+          "de": "Die Stadtverwaltung führt das Festival an der archäologischen Stätte der Cetatea Turnu als grenzüberschreitendes Kulturformat mit historischem Schwerpunkt.",
+          "hu": "A városháza a Cetatea Turnu régészeti helyszínén szervezi a fesztivált, határon átnyúló történelmi-kulturális programként.",
+          "ro": "Primăria prezintă festivalul de la situl arheologic Cetatea Turnu ca eveniment cultural transfrontalier cu tematică istorică.",
+          "en": "The municipality presents this festival at the Cetatea Turnu archaeological site as a cross-border cultural event centered on history."
+        },
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://municipiulturnumagurele.ro/festival-antic-si-medieval-turnu-magurele/"
+      },
+      {
+        "date": "2026-12-13",
+        "title": {
+          "de": "Iată, vin colindătorii!",
+          "hu": "Iată, vin colindătorii!",
+          "ro": "Iată, vin colindătorii!",
+          "en": "Here come the carolers!"
+        },
+        "summary": {
+          "de": "Das von der Stadt organisierte Wintertraditionsspektakel ist in Turnu Măgurele als wiederkehrendes Dezemberprogramm mit Chören und Brauchtumsgruppen verankert.",
+          "hu": "A város által szervezett téli hagyományőrző műsor Turnu Măgurelében visszatérő decemberi program, kórusokkal és népi csoportokkal.",
+          "ro": "Spectacolul de datini și tradiții de iarnă organizat de primărie este un program recurent de decembrie la Turnu Măgurele, cu colindători și ansambluri.",
+          "en": "The municipality's winter traditions show is a recurring December program in Turnu Măgurele featuring carolers and folk ensembles."
+        },
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.municipiulturnumagurele.ro/iata-vin-colindatorii-spectacol-in-data-de-13-12-2025/"
+      },
+      {
+        "date": "2026-09-01",
+        "end_date": "2026-09-11",
+        "title": {
+          "de": "Danube Serenade",
+          "hu": "Danube Serenade",
+          "ro": "Danube Serenade",
+          "en": "Danube Serenade"
+        },
+        "summary": {
+          "de": "Die Flussreise mit Anlauf in Turnu Măgurele bindet die Donaustadt in ein mehrtägiges öffentlich buchbares Reiseprogramm im September ein.",
+          "hu": "A Turnu Măgurelét is érintő folyami út szeptember elején többnapos, nyilvánosan foglalható dunai programba kapcsolja be a várost.",
+          "ro": "Croaziera cu escală la Turnu Măgurele include orașul într-un itinerar dunărean rezervabil public, desfășurat la început de septembrie.",
+          "en": "This publicly bookable river cruise includes a call at Turnu Măgurele as part of a multi-day Danube itinerary in early September."
+        },
+        "source_url": "https://www.tourradar.com/t/179162"
+      }
+    ]
+  },
+  {
+    "id": "esztergom",
+    "events": [
+      {
+        "date": "2026-08-07",
+        "end_date": "2026-08-09",
+        "title": {
+          "de": "DunaFeszt",
+          "hu": "DunaFeszt",
+          "ro": "DunaFeszt",
+          "en": "DunaFeszt"
+        },
+        "summary": {
+          "de": "Das neue Sommerfestival auf der Prímás-sziget läuft drei Tage lang mit Konzerten und Freizeitprogramm an der Donau.",
+          "hu": "Az új nyári fesztivál a Prímás-szigeten három napon át koncertekkel és dunai szabadidős programokkal várja a látogatókat.",
+          "ro": "Noul festival de vară de pe Prímás-sziget se desfășoară timp de trei zile, cu concerte și programe de agrement pe malul Dunării.",
+          "en": "This new summer festival on Prímás Island runs for three days with concerts and leisure programming by the Danube."
+        },
+        "source_url": "https://visitesztergom.hu/programok/dunafeszt/"
+      },
+      {
+        "date": "2026-08-11",
+        "title": {
+          "de": "José Cura und Szamosi Szabolcs",
+          "hu": "José Cura és Szamosi Szabolcs közös koncertje",
+          "ro": "Concertul comun José Cura și Szamosi Szabolcs",
+          "en": "José Cura and Szamosi Szabolcs concert"
+        },
+        "summary": {
+          "de": "Im Rahmen der OrgonaPont-Reihe treffen der Tenor José Cura und Organist Szamosi Szabolcs zu einem besonderen Abend in Esztergom zusammen.",
+          "hu": "Az OrgonaPont sorozatban José Cura világhírű tenor és Szamosi Szabolcs orgonaművész közös estje érkezik Esztergomba.",
+          "ro": "În seria OrgonaPont, tenorul José Cura și organistul Szamosi Szabolcs urcă împreună pe scenă pentru o seară specială la Esztergom.",
+          "en": "As part of the OrgonaPont series, tenor José Cura and organist Szamosi Szabolcs share the stage for a special evening in Esztergom."
+        },
+        "source_url": "https://visitesztergom.hu/naptar/jose-cura-es-szamosi-szabolcs-kozos-koncertje/"
+      },
+      {
+        "date": "2026-08-19",
+        "end_date": "2026-08-23",
+        "title": {
+          "de": "Esztergomi Szent István Napok",
+          "hu": "Esztergomi Szent István Napok",
+          "ro": "Zilele Sfântului Ștefan la Esztergom",
+          "en": "Esztergom St Stephen Days"
+        },
+        "summary": {
+          "de": "Das mehrtägige Stadtfest rund um den ungarischen Nationalfeiertag bringt Konzerte, Theater, Familienprogramm und Gastronomie in den Erzsébet park.",
+          "hu": "Az államalapítás ünnepéhez kapcsolódó többnapos városi fesztivál koncertekkel, színházzal, családi programokkal és gasztronómiával várja a közönséget az Erzsébet parkban.",
+          "ro": "Evenimentul de mai multe zile dedicat sărbătorii Sfântului Ștefan aduce în Erzsébet park concerte, teatru, programe pentru familii și ofertă gastronomică.",
+          "en": "This multi-day city festival around Hungary's statehood holiday brings concerts, theater, family activities, and food to Erzsébet Park."
+        },
+        "source_url": "https://visitesztergom.hu/programok/szent-istvan-napok/"
+      },
+      {
+        "date": "2026-09-26",
+        "title": {
+          "de": "Hídfutás és Gyaloglás",
+          "hu": "Hídfutás és Gyaloglás",
+          "ro": "Alergare și plimbare pe pod",
+          "en": "Bridge Run and Walk"
+        },
+        "summary": {
+          "de": "Die beliebte Sportveranstaltung verbindet Esztergom und Párkány auf 4 Kilometern über die Mária-Valéria-Brücke für Läufer und Spaziergänger.",
+          "hu": "A népszerű sportesemény 4 kilométeres útvonalon köti össze Esztergomot és Párkányt a Mária Valéria hídon, futóknak és gyaloglóknak egyaránt.",
+          "ro": "Evenimentul sportiv leagă Esztergom de Párkány pe un traseu de 4 kilometri peste podul Mária Valéria, pentru alergători și participanți la plimbare.",
+          "en": "This popular sports event links Esztergom and Štúrovo over 4 kilometers across the Mária Valéria Bridge for runners and walkers."
+        },
+        "source_url": "https://visitesztergom.hu/programok/hidfutas-es-gyaloglas/"
+      },
+      {
+        "date": "2026-09-26",
+        "title": {
+          "de": "Hídünnep",
+          "hu": "Hídünnep",
+          "ro": "Sărbătoarea Podului",
+          "en": "Bridge Festival"
+        },
+        "summary": {
+          "de": "Am selben Tag wie der Brückenlauf feiert Esztergom die Mária-Valéria-Brücke mit Konzerten und Familienprogramm im Erzsébet park.",
+          "hu": "A hídfutással egy napon Esztergom koncertekkel és családi programokkal ünnepli a Mária Valéria hidat az Erzsébet parkban.",
+          "ro": "În aceeași zi cu alergarea, Esztergom sărbătorește podul Mária Valéria prin concerte și activități de familie în Erzsébet park.",
+          "en": "On the same date as the bridge run, Esztergom celebrates the Mária Valéria Bridge with concerts and family programming in Erzsébet Park."
+        },
+        "source_url": "https://visitesztergom.hu/programok/hidunnep/"
+      }
+    ]
+  },
+  {
+    "id": "le-chesnay",
+    "events": [
+      {
+        "date": "2026-07-26",
+        "title": {
+          "de": "Musical Fountains Show",
+          "hu": "Musical Fountains Show",
+          "ro": "Musical Fountains Show",
+          "en": "Musical Fountains Show",
+          "fr": "Grandes Eaux Musicales"
+        },
+        "summary": {
+          "de": "Die Schlossgärten von Versailles bei Le Chesnay bieten Ende Juli die große Wasser- und Musikinszenierung des Sommers.",
+          "hu": "Le Chesnay közelében, a versailles-i kastély kertjeiben július végén ismét megrendezik a nyár nagy zenés szökőkút-programját.",
+          "ro": "Grădinile Palatului Versailles, lângă Le Chesnay, găzduiesc la final de iulie spectacolul estival al fântânilor muzicale.",
+          "en": "The gardens of the Palace of Versailles near Le Chesnay host their summer Musical Fountains Show at the end of July.",
+          "fr": "Les jardins du château de Versailles, tout près du Chesnay, accueillent fin juillet leur grand rendez-vous des Grandes Eaux Musicales."
+        },
+        "source_url": "https://en.chateauversailles.fr/news/calendar/2026-07-23"
+      },
+      {
+        "date": "2026-08-01",
+        "title": {
+          "de": "Night Fountains Show",
+          "hu": "Night Fountains Show",
+          "ro": "Night Fountains Show",
+          "en": "Night Fountains Show",
+          "fr": "Grandes Eaux Nocturnes"
+        },
+        "summary": {
+          "de": "An den Sommerabenden beleuchten Musik, Wasserinszenierungen und Schlosskulisse die Gärten von Versailles in unmittelbarer Nähe von Le Chesnay.",
+          "hu": "Nyári esti programként zene, kivilágított vízjátékok és a kastély díszlete tölti meg a Versailles-i kerteket Le Chesnay mellett.",
+          "ro": "Seara de vară aduce muzică, jocuri de apă iluminate și decorul palatului în grădinile de la Versailles, foarte aproape de Le Chesnay.",
+          "en": "Music, illuminated fountains, and the palace setting create this summer evening spectacle in the Versailles gardens next to Le Chesnay.",
+          "fr": "Cette soirée d'été associe musique, jeux d'eau illuminés et décor du château dans les jardins de Versailles, aux portes du Chesnay."
+        },
+        "source_url": "https://en.chateauversailles.fr/palace-versailles-calendar"
+      },
+      {
+        "date": "2026-08-27",
+        "title": {
+          "de": "Ausflug nach Le Touquet-Paris-Plage",
+          "hu": "Kirándulás Le Touquet-Paris-Plage-ba",
+          "ro": "Escapadă la Le Touquet-Paris-Plage",
+          "en": "Escapade to Le Touquet-Paris-Plage",
+          "fr": "Escapade au Touquet-Paris-Plage"
+        },
+        "summary": {
+          "de": "Le Chesnay-Rocquencourt listet Ende August einen organisierten Stadtausflug an die Küste im öffentlichen Veranstaltungskalender.",
+          "hu": "Le Chesnay-Rocquencourt augusztus végére szervezett tengerparti kirándulást tüntet fel nyilvános városi programként.",
+          "ro": "Le Chesnay-Rocquencourt include la final de august o escapadă organizată la litoral în agenda publică a orașului.",
+          "en": "Le Chesnay-Rocquencourt lists an organized late-August seaside day trip in the city's public events agenda.",
+          "fr": "Le Chesnay-Rocquencourt inscrit fin août une sortie organisée vers le littoral dans son agenda public."
+        },
+        "source_url": "https://www.lechesnay-rocquencourt.fr/14-627/tout-l-agenda/fiche/escapade-au-touquet-paris-plage.htm"
+      },
+      {
+        "date": "2026-09-01",
+        "title": {
+          "de": "Vorstellung der Kultursaison 2026-2027",
+          "hu": "A 2026-2027-es kulturális évad bemutatója",
+          "ro": "Prezentarea sezonului cultural 2026-2027",
+          "en": "Presentation of the 2026-2027 cultural season",
+          "fr": "Présentation de la saison culturelle 2026-2027"
+        },
+        "summary": {
+          "de": "In La Grande Scène du Chesnay stellt die Stadt den neuen Kulturkalender und die kommende Spielzeit öffentlich vor.",
+          "hu": "A La Grande Scène du Chesnay helyszínén a város nyilvánosan bemutatja az új kulturális évad és programsorozat kínálatát.",
+          "ro": "La Grande Scène du Chesnay găzduiește prezentarea publică a noului sezon cultural și a programelor viitoare.",
+          "en": "At La Grande Scène du Chesnay, the city publicly unveils its new cultural season and upcoming program.",
+          "fr": "À La Grande Scène du Chesnay, la ville présente au public sa nouvelle saison culturelle et ses prochains rendez-vous."
+        },
+        "source_url": "https://www.lechesnay-rocquencourt.fr/14-679/tout-l-agenda/fiche/presentation-de-la-saison-culturelle-2026-2027.htm"
+      },
+      {
+        "date": "2026-09-06",
+        "title": {
+          "de": "Forum des associations",
+          "hu": "Egyesületi fórum",
+          "ro": "Forumul asociațiilor",
+          "en": "Associations forum",
+          "fr": "Forum des associations"
+        },
+        "summary": {
+          "de": "Das städtische Vereinsforum versammelt Anfang September lokale Gruppen, Aktivitäten und Informationsstände für Einwohner und Besucher.",
+          "hu": "A városi egyesületi fórum szeptember elején helyi szervezeteket, programokat és információs standokat gyűjt össze lakosoknak és látogatóknak.",
+          "ro": "Forumul municipal al asociațiilor reunește la început de septembrie organizații locale, activități și standuri de informare pentru public.",
+          "en": "The city's associations forum gathers local clubs, activities, and information stands for residents and visitors in early September.",
+          "fr": "Le forum municipal des associations réunit début septembre les structures locales, leurs activités et leurs stands d'information."
+        },
+        "source_url": "https://www.lechesnay-rocquencourt.fr/14-142/tout-l-agenda/fiche/forum-des-associations.htm"
+      }
+    ]
+  }
+]

@@ -1,0 +1,446 @@
+[
+  {
+    "id": "dole",
+    "events": [
+      {
+        "date": "2026-07-26",
+        "end_date": "2026-09-27",
+        "title": {
+          "de": "Ctrl + Alt + Art - Peindre le jeu video",
+          "hu": "Ctrl + Alt + Art - Peindre le jeu video",
+          "ro": "Ctrl + Alt + Art - Peindre le jeu video",
+          "en": "Ctrl + Alt + Art - Painting Video Games",
+          "fr": "Ctrl + Alt + Art - Peindre le jeu video"
+        },
+        "summary": {
+          "de": "Diese Ausstellung im Musee des Beaux-Arts zeigt, wie Concept Artists mit Malerei, Aquarell und klassischem Design Bildwelten fuer Videospiele entwickeln.",
+          "hu": "A Musee des Beaux-Arts kiallitasa azt mutatja be, hogyan epitenek a concept artistok festeszeti es klasszikus kepzomuveszeti modszerekkel videojatek-vilagokat.",
+          "ro": "Expozitia de la Musee des Beaux-Arts arata cum artistii de concept folosesc pictura, acuarela si designul clasic pentru a crea universuri de joc video.",
+          "en": "This Musee des Beaux-Arts exhibition shows how concept artists use painting, watercolor, and classical design methods to build video-game worlds.",
+          "fr": "Cette exposition du Musee des Beaux-Arts montre comment les concept artists utilisent peinture, aquarelle et techniques classiques pour creer des univers de jeu video."
+        },
+        "source_url": "https://www.doletourisme.fr/agenda%2Cctrl-alt-art-peindre-le-jeu-video-a-dole%2CDDFMABFC000V53TO2Q%2Cdate22750.htm"
+      },
+      {
+        "date": "2026-07-26",
+        "end_date": "2026-08-30",
+        "title": {
+          "de": "Wiedereroeffnung Aquaparc Isis",
+          "hu": "Az Aquaparc Isis nyari szezonja",
+          "ro": "Redeschiderea Aquaparc Isis",
+          "en": "Aquaparc Isis Summer Season",
+          "fr": "Reouverture Aquaparc Isis"
+        },
+        "summary": {
+          "de": "Der Aquaparc Isis und das Schwimmbad Leo Lagrange laufen im Sommerbetrieb mit taeglichen Wasserfreizeit-Angeboten in Dole.",
+          "hu": "Az Aquaparc Isis es a Leo Lagrange uszoda nyari nyitvatartassal varja a latogatokat Dole vizikikapcsolodasi helyszinen.",
+          "ro": "Aquaparc Isis si piscina Leo Lagrange functioneaza in sezonul de vara, oferind activitati acvatice zilnice in Dole.",
+          "en": "Aquaparc Isis and the Leo Lagrange pool operate for the summer season, offering daily water-based leisure in Dole.",
+          "fr": "L'Aquaparc Isis et la piscine Leo Lagrange fonctionnent pour la saison d'ete avec des loisirs aquatiques quotidiens a Dole."
+        },
+        "source_url": "https://www.doletourisme.fr/agenda%2Creouverture-aquaparc-isis-a-dole%2CDDFMABFC000V53WICM%2Cdate23322.htm"
+      },
+      {
+        "date": "2026-07-26",
+        "end_date": "2026-09-30",
+        "title": {
+          "de": "Parcours d'orientation Dole au fil de l'eau",
+          "hu": "Dole au fil de l'eau tajfutas",
+          "ro": "Parcours d'orientation Dole au fil de l'eau",
+          "en": "Dole Waterside Orienteering Trail",
+          "fr": "Parcours d'orientation Dole au fil de l'eau"
+        },
+        "summary": {
+          "de": "Die kostenlose 3,9-Kilometer-Orientierungsstrecke ab dem Hafen fuehrt Familien und Freizeitsportler entlang des Wassers durch Dole.",
+          "hu": "Az ingyenes, 3,9 kilometeres tajfuto utvonal a kikototol indul, es csaladbarat modon vezeti vegig a resztvevoket Dole vizparti reszein.",
+          "ro": "Traseul gratuit de orientare de 3,9 kilometri porneste din zona portului si ii conduce pe vizitatori de-a lungul apelor din Dole.",
+          "en": "This free 3.9-kilometer orienteering route starts by the port and leads families and casual visitors along Dole's waterfront areas.",
+          "fr": "Ce parcours d'orientation gratuit de 3,9 km part du port et guide les visiteurs le long des espaces d'eau de Dole."
+        },
+        "source_url": "https://www.doletourisme.fr/agenda%2Cparcours-d-orientation-dole-au-fil-de-l-eau-a-dole%2CDDFMABFC000V53ZBHX%2Cdate24483.htm"
+      },
+      {
+        "date": "2026-09-19",
+        "title": {
+          "de": "Entdeckung des Naturschutzgebiets",
+          "hu": "Felfedezes a termeszetvedelmi teruleten",
+          "ro": "Descoperirea rezervatiei",
+          "en": "Discover the Nature Reserve",
+          "fr": "Decouverte de la reserve"
+        },
+        "summary": {
+          "de": "Die gefuehrte Exkursion in die Reserve der Ile du Girard erklaert Landschaft, Fluesse und Tierwelt dieser naturnahen Umgebung bei Dole.",
+          "hu": "A vezetett seta az Ile du Girard termeszetvedelmi teruleten a taj alakulasa, a folyok es az elovilag megismeresere koncentral.",
+          "ro": "Excursia ghidata in rezervatia Ile du Girard prezinta peisajul, raurile si fauna acestei zone naturale de langa Dole.",
+          "en": "This guided outing in the Ile du Girard reserve introduces visitors to the landscape, rivers, and wildlife of the natural area near Dole.",
+          "fr": "Cette visite guidee dans la reserve de l'Ile du Girard fait decouvrir les paysages, les rivieres et la faune de ce site naturel pres de Dole."
+        },
+        "source_url": "https://www.doletourisme.fr/agenda%2Cdecouverte-de-la-reserve-a-gevry%2CDDFMABFC000V53PN9T%2Cdate22434.htm"
+      },
+      {
+        "date": "2026-09-25",
+        "end_date": "2026-09-27",
+        "title": {
+          "de": "Gourmet-Wochenende des Chat Perche",
+          "hu": "A Chat Perche gasztrohetvege",
+          "ro": "Weekendul gastronomic du Chat Perche",
+          "en": "Chat Perche Gourmet Weekend",
+          "fr": "Week-end Gourmand du Chat Perche"
+        },
+        "summary": {
+          "de": "Das Innenstadtfestival verbindet Doles Kulturerbe mit Verkostungen, Gourmet-Paessen, Kinderangeboten, Handwerk und Freiluftprogramm.",
+          "hu": "A belvarosi rendezveny Dole orokseget gasztronomiai kostolokkal, kulonbozo passokkal, csaladi programokkal es kezmues kinalattal kapcsolja ossze.",
+          "ro": "Festivalul din centrul orasului combina patrimoniul din Dole cu degustari, pachete gourmet, activitati pentru copii, artizani si animatie stradala.",
+          "en": "This city-center festival combines Dole's heritage with tastings, gourmet passes, family activities, artisan stalls, and street entertainment.",
+          "fr": "L'evenement du centre-ville associe patrimoine dolois, degustations, pass gourmands, espace enfants, artisans et animations."
+        },
+        "source_url": "https://www.doletourisme.fr/agenda%2Cweek-end-gourmand-du-chat-perche-a-dole%2CDDFMABFC000V534W7E%2Cdate21910.htm"
+      }
+    ]
+  },
+  {
+    "id": "menton",
+    "events": [
+      {
+        "date": "2026-07-26",
+        "end_date": "2026-08-07",
+        "title": {
+          "de": "Festival de Musique de Menton",
+          "hu": "Menton Zenei Fesztival",
+          "ro": "Festivalul de Muzica din Menton",
+          "en": "Menton Music Festival",
+          "fr": "Festival de Musique de Menton"
+        },
+        "summary": {
+          "de": "Das traditionsreiche Klassikfestival laeuft im Hochsommer weiter und bringt internationale Solisten und Ensembles nach Menton.",
+          "hu": "A nagy hagyomanyu komolyzenei fesztival a nyar csucsidenyszakan is folytatodik, nemzetkozi szoistakkal es egyuttesekkel Mentonban.",
+          "ro": "Festivalul clasic de traditie continua in plin sezon estival, aducand la Menton solisti si ansambluri internationale.",
+          "en": "This long-running classical festival continues through the peak summer period, bringing international soloists and ensembles to Menton.",
+          "fr": "Ce grand rendez-vous de musique classique se poursuit en plein ete avec des artistes et ensembles internationaux a Menton."
+        },
+        "source_url": "https://www.menton.fr/festival-de-musique-de-menton-15.html"
+      },
+      {
+        "date": "2026-07-26",
+        "end_date": "2026-08-31",
+        "title": {
+          "de": "Village d'ete",
+          "hu": "Nyari falu",
+          "ro": "Satul de vara",
+          "en": "Summer Village",
+          "fr": "Village d'ete"
+        },
+        "summary": {
+          "de": "Im Jardin Elysee Reclus bietet das Sommerdorf taeglich kostenlose Freizeitangebote und Aufenthaltsbereiche fuer Familien und Feriengaeste.",
+          "hu": "A Jardin Elysee Reclus teruleten a nyari falu naponta ingyenes szabadidos lehetosegeket es csaladbarat pihenohelyeket kinal.",
+          "ro": "In Jardin Elysee Reclus, satul de vara ofera zilnic activitati gratuite si spatii de relaxare pentru familii si turisti.",
+          "en": "At Jardin Elysee Reclus, the summer village offers daily free activities and relaxed public space for families and holiday visitors.",
+          "fr": "Au jardin Elysee Reclus, le village d'ete propose chaque jour des animations gratuites et des espaces conviviaux pour les visiteurs."
+        },
+        "source_url": "https://agenda.menton.fr/evenement/village-d-ete"
+      },
+      {
+        "date": "2026-07-26",
+        "end_date": "2026-08-29",
+        "title": {
+          "de": "Nachtmarkt von Menton",
+          "hu": "Menton ejszakai piaca",
+          "ro": "Piata de noapte din Menton",
+          "en": "Menton Night Market",
+          "fr": "Marche nocturne"
+        },
+        "summary": {
+          "de": "Der offizielle Sommer-Nachtmarkt belebt die Fussgaengerzone von Menton mit Staenden und Abendatmosphaere waehrend der Hauptsaison.",
+          "hu": "A hivatalos nyari ejjeli piac standokkal es esti setalo hangulattal tolti meg Menton setaloovezetet a foszezonban.",
+          "ro": "Piata nocturna oficiala anima zona pietonala din Menton cu standuri si atmosfera de seara pe durata sezonului estival.",
+          "en": "The official summer night market fills Menton's pedestrian area with stalls and evening atmosphere during the high season.",
+          "fr": "Le marche nocturne officiel anime la rue pietonne de Menton avec stands et ambiance de soiree pendant toute la saison d'ete."
+        },
+        "source_url": "https://www.menton.fr/rue-pietonne-et-marches.html"
+      },
+      {
+        "date": "2026-07-26",
+        "end_date": "2026-08-25",
+        "title": {
+          "de": "Gefuehrte Besichtigung der Basilika Saint-Michel",
+          "hu": "Vezetett latogatas a Saint-Michel-bazilikaban",
+          "ro": "Vizita ghidata la Bazilica Saint-Michel",
+          "en": "Guided Tour of Saint-Michel Basilica",
+          "fr": "Visite guidee : la Basilique Saint-Michel Archange"
+        },
+        "summary": {
+          "de": "Diese Sommerfuehrung erklaert Architektur, Platzanlage und Festivalumfeld der Basilika Saint-Michel im historischen Menton.",
+          "hu": "Ez a nyari vezetett program a Saint-Michel-bazilika epiteszetet, a teret es a fesztivalokhoz kapcsolodo kornyezetet mutatja be.",
+          "ro": "Turul de vara prezinta arhitectura bazilicii Saint-Michel, piata din jur si rolul ei in viata culturala a centrului vechi din Menton.",
+          "en": "This summer guided visit explains the architecture, square, and festival setting of Saint-Michel Basilica in historic Menton.",
+          "fr": "Cette visite estivale presente l'architecture de la basilique Saint-Michel, son parvis et son cadre culturel au coeur du vieux Menton."
+        },
+        "source_url": "https://agenda.menton.fr/evenement/visite-guidee-la-basilique-saint-michel-archange"
+      },
+      {
+        "date": "2026-09-26",
+        "end_date": "2026-09-27",
+        "title": {
+          "de": "Fete de la Saint-Michel",
+          "hu": "Saint-Michel-unnep",
+          "ro": "Sarbatoarea Saint-Michel",
+          "en": "Saint-Michel Festival",
+          "fr": "Fete de la Saint-Michel"
+        },
+        "summary": {
+          "de": "Das spaete Septemberfest in der Altstadt bringt religioese und lokale Feierlichkeiten rund um den Platz der Kirche nach Menton.",
+          "hu": "A szeptember vegei unnep a varosregi templomter korul vallasi es helyi kozossegi programokat kinal Mentonban.",
+          "ro": "Sarbatoarea de la sfarsit de septembrie aduce in jurul Place de l'Eglise evenimente religioase si momente festive locale.",
+          "en": "This late-September celebration brings religious and local festivities to the church square area in Menton's old town.",
+          "fr": "Cette fete de fin septembre rassemble ceremonies et animations locales autour de la place de l'Eglise a Menton."
+        },
+        "source_url": "https://agenda.menton.fr/evenement/fete-de-la-saint-michel"
+      }
+    ]
+  },
+  {
+    "id": "city-ajka-extra",
+    "events": [
+      {
+        "date": "2026-08-12",
+        "title": {
+          "de": "Die Jungs von der Paulstrasse",
+          "hu": "A Pal utcai fiuk",
+          "ro": "Baietii din strada Pal",
+          "en": "The Paul Street Boys"
+        },
+        "summary": {
+          "de": "Die Musicalfassung des ungarischen Romans bringt Jugendkonflikte, Freundschaft und bekannte Songs in Ajkas Kulturzentrum.",
+          "hu": "A hires magyar regeny musicalvaltozata baratsagrol, rivalizalasrol es fiatalos lendulettel mesel Ajka kulturkozpontjaban.",
+          "ro": "Adaptarea muzicala a celebrului roman maghiar aduce la Ajka o poveste despre prietenie, rivalitate si energie de scena.",
+          "en": "This musical adaptation of the famous Hungarian novel brings friendship, rivalry, and youthful energy to Ajka's cultural center."
+        },
+        "source_url": "https://www.jegy.hu/program/a-pal-utcai-fiuk-110800"
+      },
+      {
+        "date": "2026-09-16",
+        "title": {
+          "de": "Sei gut bis in den Tod",
+          "hu": "Legy jo mindhalalig",
+          "ro": "Fii bun pana la capat",
+          "en": "Be Good Unto Death"
+        },
+        "summary": {
+          "de": "Das bekannte ungarische Musical nach Moricz Zsigmond erzaehlt in Ajka die Geschichte des Schuelers Nyilas Misi und seiner moralischen Bewaehrung.",
+          "hu": "A Moricz Zsigmond regenye alapjan keszult musical Nyilas Misi tortenetet es erkolcsi probait hozza szinpadra Ajkan.",
+          "ro": "Musicalul bazat pe romanul lui Moricz Zsigmond urmareste povestea lui Nyilas Misi si probele sale morale pe scena din Ajka.",
+          "en": "Based on the novel by Moricz Zsigmond, this musical follows Nyilas Misi and his moral trials on stage in Ajka."
+        },
+        "source_url": "https://www.jegy.hu/city/ajka"
+      },
+      {
+        "date": "2026-09-19",
+        "title": {
+          "de": "Apostol - Wir koennen ohne euch nicht leben",
+          "hu": "Apostol - Nem tudunk elni nelkuletek",
+          "ro": "Apostol - Nu putem trai fara voi",
+          "en": "Apostol - We Can't Live Without You"
+        },
+        "summary": {
+          "de": "Das Konzertprogramm der ungarischen Pop-Rock-Gruppe Apostol ist als Abendveranstaltung im Kulturzentrum von Ajka gelistet.",
+          "hu": "Az Apostol egyuttes koncertmusora esti zenei programkent szerepel Ajka varosi muvelodesi kozpontjaban.",
+          "ro": "Programul de concert al trupei maghiare Apostol figureaza ca eveniment de seara la centrul cultural din Ajka.",
+          "en": "The concert program by Hungarian pop-rock group Apostol is listed as an evening event at Ajka's cultural center."
+        },
+        "source_url": "https://www.jegy.hu/city/ajka"
+      },
+      {
+        "date": "2026-10-07",
+        "title": {
+          "de": "Vortrag von Krisztian Steigervald",
+          "hu": "Steigervald Krisztian eloadasa",
+          "ro": "Conferinta lui Krisztian Steigervald",
+          "en": "Krisztian Steigervald Talk"
+        },
+        "summary": {
+          "de": "Der Generationsforscher spricht im VMK-Schauspielsaal ueber Unterschiede zwischen Altersgruppen und alltaegliche Kommunikation.",
+          "hu": "A generaciokutato eloadasa a kulonbozo korosztalyok gondolkodasarol es a mindennapi kommunikaciorol szol az ajkai VMK-ban.",
+          "ro": "Cercetatorul in domeniul generatiilor sustine la VMK Ajka o prezentare despre diferentele dintre varste si comunicarea cotidiana.",
+          "en": "At Ajka's VMK theater hall, the generational researcher gives a talk on age-group differences and everyday communication."
+        },
+        "source_url": "https://www.nagylaszlovmk.hu/"
+      },
+      {
+        "date": "2026-11-06",
+        "title": {
+          "de": "Die Meister der Illusionen",
+          "hu": "Az Illuzio Mesterei",
+          "ro": "Maestrii Iluziei",
+          "en": "Masters of Illusion"
+        },
+        "summary": {
+          "de": "Die Show bringt internationale Magier und grosse Illusionseffekte fuer ein abendliches Buehnenprogramm nach Ajka.",
+          "hu": "A musor nemzetkozi bveszeket es nagyszabasu illuzios szamokat hoz Ajkara egy latvanyos esti eloadasra.",
+          "ro": "Spectacolul aduce la Ajka iluzionisti internationali si numere de scena ample pentru o seara de divertisment vizual.",
+          "en": "This stage show brings international illusionists and large-scale visual acts to Ajka for an evening performance."
+        },
+        "source_url": "https://www.jegy.hu/program/az-illuzio-mesterei-ajka-142568"
+      }
+    ]
+  },
+  {
+    "id": "sitges",
+    "events": [
+      {
+        "date": "2026-07-26",
+        "end_date": "2026-12-13",
+        "title": {
+          "de": "La Pregonera",
+          "hu": "La Pregonera",
+          "ro": "La Pregonera",
+          "en": "La Pregonera"
+        },
+        "summary": {
+          "de": "Das Kulturprogramm der Stadt Sitges laeuft ueber mehrere Monate mit Ausstellungen, Musik, Theater und weiteren Veranstaltungen an verschiedenen Orten.",
+          "hu": "Sitges varosi kulturalis programsorozata tobb honapon at tart, kiallitasokkal, zenes es szinhazi esemenyekkel kulonbozo helyszineken.",
+          "ro": "Programul cultural al orasului Sitges se desfasoara pe mai multe luni, cu expozitii, muzica, teatru si alte activitati in diverse locatii.",
+          "en": "Sitges' municipal cultural program runs for months with exhibitions, music, theater, and other events across several venues."
+        },
+        "source_url": "https://www.sitgesanytime.com/en/news/calendar/pln330/la-pregonera-3"
+      },
+      {
+        "date": "2026-07-31",
+        "end_date": "2026-08-12",
+        "title": {
+          "de": "Festival Jardins Terramar",
+          "hu": "Jardins Terramar Fesztival",
+          "ro": "Festivalul Jardins Terramar",
+          "en": "Festival Jardins Terramar"
+        },
+        "summary": {
+          "de": "Das Festival in den Terramar-Gaerten verbindet Live-Konzerte, kleinere Musikformate, Gastronomie und Abendunterhaltung in historischem Gartenambiente.",
+          "hu": "A Terramar kertek fesztivalja elo koncerteket, kisebb zenei programokat, gasztronomiat es esti hangulatot egyesit a tortenelmi parkban.",
+          "ro": "Festivalul din gradinile Terramar combina concerte live, formate muzicale de mici dimensiuni, gastronomie si animatie de seara intr-un cadru istoric.",
+          "en": "Held in the Terramar gardens, this festival combines live concerts, smaller music formats, gastronomy, and evening entertainment in a heritage setting."
+        },
+        "source_url": "https://www.sitgesanytime.com/en/news/calendar/pln330/festival-terramar-caixabank"
+      },
+      {
+        "date": "2026-08-23",
+        "end_date": "2026-08-24",
+        "title": {
+          "de": "Festa Major de Sant Bartomeu",
+          "hu": "Sant Bartomeu fo unnepe",
+          "ro": "Festa Major de Sant Bartomeu",
+          "en": "Festa Major of Sant Bartomeu"
+        },
+        "summary": {
+          "de": "Sitges' wichtigstes Jahresfest fuellt die Stadt mit Musik, Feuer, Traditionen, Umzuegen und Veranstaltungen an mehreren Orten.",
+          "hu": "Sitges legfontosabb eves unnepe zenet, tuzjatekot, hagyomanyokat es felvonulasokat visz a varos tobb pontjara.",
+          "ro": "Cea mai importanta sarbatoare anuala a orasului Sitges umple orasul de muzica, foc, traditii, parade si evenimente in mai multe locuri.",
+          "en": "Sitges' main annual celebration fills the town with music, fire, traditions, parades, and activities across multiple locations."
+        },
+        "source_url": "https://www.sitgesanytime.com/en/news/calendar/pln330/festa-major-de-sant-bartomeu-sitges-main-annual-festival"
+      },
+      {
+        "date": "2026-09-04",
+        "end_date": "2026-09-13",
+        "title": {
+          "de": "Bears Sitges Week",
+          "hu": "Bears Sitges Week",
+          "ro": "Bears Sitges Week",
+          "en": "Bears Sitges Week"
+        },
+        "summary": {
+          "de": "Das internationale Community-Event bringt rund zehn Tage lang Kultur- und Freizeitprogramm in die Strandstadt Sitges.",
+          "hu": "Ez a nemzetkozi kozossegi rendezveny kozel tiz napos kulturalis es szabadidos programot hoz Sitges tengerparti varosaba.",
+          "ro": "Acest eveniment international al comunitatii aduce aproape zece zile de programe culturale si de loisir in orasul de litoral Sitges.",
+          "en": "This international community event brings around ten days of cultural and leisure programming to seaside Sitges."
+        },
+        "source_url": "https://www.sitgesanytime.com/en/news/calendar/pln330/bears-sitges-week"
+      },
+      {
+        "date": "2026-10-08",
+        "end_date": "2026-10-18",
+        "title": {
+          "de": "Internationales Fantastikfilmfestival von Katalonien",
+          "hu": "Sitgesi Nemzetkozi Fantasztikus Filmfesztival",
+          "ro": "Festivalul International de Film Fantastic de la Sitges",
+          "en": "Sitges International Fantastic Film Festival of Catalonia"
+        },
+        "summary": {
+          "de": "Das weltbekannte Genre-Filmfestival bringt Vorfuehrungen, Premieren und Stadtprogramm im Herbst nach Sitges.",
+          "hu": "A vilaghiru mufaji filmfesztival vetiteseket, premierek sorat es varosi kiseroprogramokat hoz Sitgesbe ossszel.",
+          "ro": "Celebrul festival de film fantastic aduce la Sitges proiectii, premiere si un amplu program urban de toamna.",
+          "en": "The world-famous genre film festival brings screenings, premieres, and citywide programming to Sitges in autumn."
+        },
+        "source_url": "https://www.sitgesanytime.com/en/news/calendar/pln330/sitges-international-fantastic-film-festival-of-catalonia"
+      }
+    ]
+  },
+  {
+    "id": "carmona",
+    "events": [
+      {
+        "date": "2026-07-30",
+        "title": {
+          "de": "Konzert Noches en Blanco (Guadajoz)",
+          "hu": "Noches en Blanco koncert Guadajozban",
+          "ro": "Concert Noches en Blanco (Guadajoz)",
+          "en": "Noches en Blanco Concert (Guadajoz)"
+        },
+        "summary": {
+          "de": "Die Stadtagenda von Carmona kuendigt fuer Guadajoz Ende Juli ein Abendkonzert im Rahmen des Sommerprogramms an.",
+          "hu": "Carmona hivatalos programnaptara julius vegere esti koncertet jelez Guadajozban a nyari program reszekent.",
+          "ro": "Agenda oficiala a orasului Carmona anunta pentru sfarsitul lui iulie un concert de seara la Guadajoz, in cadrul programului de vara.",
+          "en": "Carmona's official agenda lists an evening Noches en Blanco concert in Guadajoz at the end of July as part of the summer program."
+        },
+        "source_url": "https://www.carmona.org/actualidad/agenda.php"
+      },
+      {
+        "date": "2026-09-08",
+        "end_date": "2026-09-16",
+        "title": {
+          "de": "Feria und Patronatsfeste von Carmona",
+          "hu": "Carmona feriaja es vedoszentunnepe",
+          "ro": "Feria si sarbatorile patronale din Carmona",
+          "en": "Carmona Fair and Patronal Festivities"
+        },
+        "summary": {
+          "de": "Die offizielle Tourismusseite beschreibt die grossen Septemberfeiern von Carmona mit kulturellen, sportlichen und festlichen Aktivitaeten zu Ehren der Virgen de Gracia.",
+          "hu": "A hivatalos turisztikai oldal szerint Carmona nagy szeptemberi unnepe kulturális, sport es kozossegi programokkal tiszteleg a Virgen de Gracia elott.",
+          "ro": "Site-ul oficial de turism descrie marile sarbatori de septembrie din Carmona, cu activitati culturale, sportive si festive in cinstea Fecioarei de Gracia.",
+          "en": "The official tourism site describes Carmona's major September celebrations, with cultural, sporting, and festive activities honoring the Virgen de Gracia."
+        },
+        "source_url": "https://turismo.carmona.org/en/fiestas/"
+      },
+      {
+        "date": "2026-09-13",
+        "title": {
+          "de": "XXX Stadtangelwettbewerb von Carmona",
+          "hu": "XXX Carmona varosi horgaszverseny",
+          "ro": "Al XXX-lea concurs de pescuit sportiv Ciudad de Carmona",
+          "en": "30th Ciudad de Carmona Sport Fishing Contest"
+        },
+        "summary": {
+          "de": "Die stadtische Agenda fuehrt fuer September 2026 den dreissigsten Angelwettbewerb Ciudad de Carmona als oeffentliche Aktivitaet auf.",
+          "hu": "A varosi hivatalos programnaptar 2026 szeptemberere hirdeti meg a harmincadik Ciudad de Carmona sporthorgasz versenyt.",
+          "ro": "Agenda municipala anunta pentru septembrie 2026 cea de-a treizecea editie a concursului de pescuit sportiv Ciudad de Carmona.",
+          "en": "The municipal agenda lists the 30th Ciudad de Carmona sport fishing contest as a public September 2026 activity."
+        },
+        "source_url": "https://www.carmona.org/actualidad/agenda.php?num_asoc=43"
+      },
+      {
+        "date": "2026-09-16",
+        "title": {
+          "de": "Kinder- und Jugendaktivitaeten am 16. September",
+          "hu": "Gyermek- es ifjusagi programok szeptember 16-an",
+          "ro": "Activitati pentru copii si tineri pe 16 septembrie",
+          "en": "Children's and Youth Activities on September 16"
+        },
+        "summary": {
+          "de": "Die Agenda von Carmona weist fuer den 16. September 2026 ein eigenes Kinder- und Jugendprogramm als oeffentliche Aktivitaet aus.",
+          "hu": "Carmona hivatalos programnaptara 2026. szeptember 16-ra kulon gyermek- es ifjusagi rendezvenyeket sorol fel.",
+          "ro": "Agenda oficiala a orasului Carmona mentioneaza pentru 16 septembrie 2026 un program dedicat copiilor si tinerilor.",
+          "en": "Carmona's official agenda identifies a dedicated children's and youth activity program on September 16, 2026."
+        },
+        "source_url": "https://www.carmona.org/actualidad/agenda.php?num_asoc=329"
+      }
+    ]
+  }
+]

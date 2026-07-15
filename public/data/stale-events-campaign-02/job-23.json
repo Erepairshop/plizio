@@ -1,0 +1,456 @@
+[
+  {
+    "id": "city-lugoj-extra",
+    "events": [
+      {
+        "date": "2026-07-31",
+        "title": {
+          "de": "Concert SPECII im Esme Pub",
+          "hu": "SPECII koncert az Esme Pubban",
+          "ro": "Concert SPECII la Esme Pub",
+          "en": "SPECII concert at Esme Pub"
+        },
+        "summary": {
+          "de": "Die Hip-Hop-Gruppe SPECII spielt am 31. Juli 2026 ab 20:00 Uhr im Esme Pub in Lugoj. Die Veranstaltung wird über Eventbook mit Vorverkauf angeboten.",
+          "hu": "A SPECII hiphopcsapat 2026. július 31-én 20:00 órától lép fel a lugoji Esme Pubban. Az eseményre az Eventbook oldalon lehet jegyet foglalni.",
+          "ro": "Trupa hip-hop SPECII concertează la Esme Pub din Lugoj pe 31 iulie 2026, de la ora 20:00. Evenimentul este listat pe Eventbook cu bilete în avans.",
+          "en": "Hip-hop group SPECII performs at Esme Pub in Lugoj on 31 July 2026 at 20:00. The event is listed on Eventbook with advance ticket sales."
+        },
+        "source_url": "https://eventbook.ro/music/bilete-specii-lugoj",
+        "category": "Music"
+      },
+      {
+        "date": "2026-08-07",
+        "end_date": "2026-08-09",
+        "title": {
+          "de": "Youth Summer Fest 2026",
+          "hu": "Youth Summer Fest 2026",
+          "ro": "Youth Summer Fest 2026",
+          "en": "Youth Summer Fest 2026"
+        },
+        "summary": {
+          "de": "Das Jugendprogramm des European Youth Portal kündigt für den 7. bis 9. August 2026 Aktivitäten in Lugoj an, darunter Keramik-Workshops, Public-Speaking-Sessions und Freizeitangebote.",
+          "hu": "Az Európai Ifjúsági Portál szerint 2026. augusztus 7. és 9. között Lugojban kerámiafoglalkozások, public speaking műhelyek és közösségi programok várják a résztvevőket.",
+          "ro": "Portalul european pentru tineret anunță pentru perioada 7-9 august 2026 activități la Lugoj, inclusiv ateliere de ceramică, workshopuri de public speaking și programe recreative.",
+          "en": "The European Youth Portal announces activities in Lugoj from 7 to 9 August 2026, including ceramic workshops, public speaking sessions, and recreational programming."
+        },
+        "source_url": "https://youth.europa.eu/events/youth-summer-fest-2026_sr",
+        "category": "Festival"
+      },
+      {
+        "date": "2026-11-13",
+        "title": {
+          "de": "Direcția 5 - 100% Direcția 5",
+          "hu": "Direcția 5 - 100% Direcția 5",
+          "ro": "Direcția 5 - 100% Direcția 5",
+          "en": "Direcția 5 - 100% Direcția 5"
+        },
+        "summary": {
+          "de": "Die rumänische Pop-Rock-Band Direcția 5 bringt ihre Tour „100% Direcția 5“ am 13. November 2026 ins Teatrul Traian Grozăvescu in Lugoj. Die Vorstellung beginnt laut Ticketseite um 19:30 Uhr.",
+          "hu": "A román pop-rock együttes, a Direcția 5 a „100% Direcția 5” turnéval 2026. november 13-án a lugoji Traian Grozăvescu Színházban lép fel. A jegyoldal szerint a kezdés 19:30-kor lesz.",
+          "ro": "Trupa Direcția 5 aduce turneul „100% Direcția 5” la Teatrul Traian Grozăvescu din Lugoj pe 13 noiembrie 2026. Conform paginii de bilete, spectacolul începe la ora 19:30.",
+          "en": "Romanian pop-rock band Direcția 5 brings its '100% Direcția 5' tour to Teatrul Traian Grozăvescu in Lugoj on 13 November 2026. According to the ticket page, the show starts at 19:30."
+        },
+        "source_url": "https://www.iabilet.ro/bilete-lugoj-concert-directia-5-100-directia-5-124852/",
+        "category": "Music",
+        "period": {
+          "recurrent": false,
+          "times": [
+            "19:30:00"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "le-cannet",
+    "events": [
+      {
+        "date": "2026-07-28",
+        "title": {
+          "de": "Sommerspiele auf dem Plateau Bonnard",
+          "hu": "Nyári játékok a Plateau Bonnard téren",
+          "ro": "Animații de vară la Plateau Bonnard",
+          "en": "Summer games at Plateau Bonnard",
+          "fr": "Animations jeux d'été - Plateau Bonnard"
+        },
+        "summary": {
+          "de": "Le Cannet Tourisme listet am 28. Juli 2026 kostenlose Sommeranimationen und Spiele auf dem Plateau Bonnard. Das Angebot richtet sich an Familien und Freizeitpublikum.",
+          "hu": "A Le Cannet Tourisme 2026. július 28-ra nyári játékokat és szabadtéri animációkat hirdet a Plateau Bonnard helyszínen. A program családoknak és szabadidős látogatóknak szól.",
+          "ro": "Le Cannet Tourisme anunță pentru 28 iulie 2026 animații și jocuri de vară la Plateau Bonnard. Programul este gândit pentru familii și publicul larg.",
+          "en": "Le Cannet Tourisme lists summer games and outdoor activities at Plateau Bonnard on 28 July 2026. The program is aimed at families and general leisure visitors.",
+          "fr": "Le Cannet Tourisme annonce des animations et jeux d'été au Plateau Bonnard le 28 juillet 2026. Le programme vise surtout les familles et le grand public."
+        },
+        "source_url": "https://lecannet-tourisme.fr/fr/fete-et-manifestation/cinema-en-plein-air-superman/",
+        "category": "Family"
+      },
+      {
+        "date": "2026-07-29",
+        "end_date": "2026-08-11",
+        "title": {
+          "de": "Ausstellung Nicole Rondepierre - ACCA",
+          "hu": "Nicole Rondepierre kiállítása - ACCA",
+          "ro": "Expoziția Nicole Rondepierre - ACCA",
+          "en": "Nicole Rondepierre exhibition - ACCA",
+          "fr": "Exposition Nicole Rondepierre - ACCA"
+        },
+        "summary": {
+          "de": "Die Ausstellung in La Terrasse des Arts läuft vom 29. Juli bis 11. August 2026 bei freiem Eintritt. Zusätzlich sind Nocturnes d'Art am 29. Juli und 5. August von 18 bis 21 Uhr angekündigt.",
+          "hu": "A La Terrasse des Arts kiállítása 2026. július 29. és augusztus 11. között látogatható ingyenesen. A program része két esti Nocturnes d'Art alkalom is július 29-én és augusztus 5-én 18 és 21 óra között.",
+          "ro": "Expoziția de la La Terrasse des Arts are loc între 29 iulie și 11 august 2026, cu intrare liberă. Sunt anunțate și două seri Nocturnes d'Art pe 29 iulie și 5 august, între 18:00 și 21:00.",
+          "en": "This exhibition at La Terrasse des Arts runs from 29 July to 11 August 2026 with free admission. Two Nocturnes d'Art evenings are also scheduled on 29 July and 5 August from 18:00 to 21:00.",
+          "fr": "L'exposition à la Terrasse des Arts se tient du 29 juillet au 11 août 2026 en entrée libre. Deux Nocturnes d'Art sont aussi prévues les 29 juillet et 5 août de 18h à 21h."
+        },
+        "source_url": "https://lecannet-tourisme.fr/fr/fete-et-manifestation/exposition-nicole-rondepierre-acca/",
+        "category": "Exhibition"
+      },
+      {
+        "date": "2026-08-06",
+        "title": {
+          "de": "Open-Air-Kino: Superman",
+          "hu": "Szabadtéri mozi: Superman",
+          "ro": "Cinema în aer liber: Superman",
+          "en": "Open-air cinema: Superman",
+          "fr": "Cinéma en plein air \"Superman\""
+        },
+        "summary": {
+          "de": "Am 6. August 2026 zeigt Le Cannet im Jardin du Tivoli um 22 Uhr den Film „Superman“ unter freiem Himmel. Laut Veranstaltungsseite ist der Eintritt kostenlos.",
+          "hu": "2026. augusztus 6-án 22 órától a Jardins du Tivoli helyszínen szabadtéri Superman-vetítés lesz Le Cannet-ben. A rendezvényoldal szerint a belépés ingyenes.",
+          "ro": "Pe 6 august 2026, de la ora 22:00, la Jardins du Tivoli din Le Cannet are loc o proiecție în aer liber a filmului „Superman”. Pagina evenimentului precizează că accesul este gratuit.",
+          "en": "On 6 August 2026, Le Cannet hosts an open-air screening of 'Superman' at Jardins du Tivoli starting at 22:00. The event page states that admission is free.",
+          "fr": "Le 6 août 2026 à 22h, Le Cannet propose une projection en plein air de \"Superman\" aux Jardins du Tivoli. La page officielle indique que l'accès est gratuit."
+        },
+        "source_url": "https://lecannet-tourisme.fr/fr/fete-et-manifestation/cinema-en-plein-air-superman/",
+        "category": "Film",
+        "period": {
+          "recurrent": false,
+          "times": [
+            "22:00:00"
+          ]
+        }
+      },
+      {
+        "date": "2026-09-06",
+        "title": {
+          "de": "Urban Trail Le Cannet 2026",
+          "hu": "Urban Trail Le Cannet 2026",
+          "ro": "Urban Trail Le Cannet 2026",
+          "en": "Urban Trail Le Cannet 2026",
+          "fr": "Urban Trail Le Cannet 2026"
+        },
+        "summary": {
+          "de": "Der Lauf- und Familienevent startet am 6. September 2026 in den Jardins du Tivoli und umfasst 10-km-, 6-km- und 4-km-Strecken sowie zwei Kinderläufe. Die Veranstaltung hebt Sport, Stadtpanorama und Feststimmung im Vieux-Cannet hervor.",
+          "hu": "A sportos és családi esemény 2026. szeptember 6-án a Jardins du Tivoli helyszínről rajtol, 10 km-es, 6 km-es és 4 km-es pályával, valamint két gyerekfutammal. A rendezvény a mozgást, az óvárosi útvonalat és az ünnepi hangulatot kapcsolja össze.",
+          "ro": "Evenimentul sportiv și de familie pornește pe 6 septembrie 2026 din Jardins du Tivoli și include curse de 10 km, 6 km, 4 km și două curse pentru copii. Organizatorii pun accent pe traseul prin Vieux-Cannet și pe atmosfera festivă.",
+          "en": "This sports and family event starts on 6 September 2026 from Jardins du Tivoli and includes 10 km, 6 km, and 4 km courses plus two children's races. Organizers emphasize the old-town route and a festive atmosphere.",
+          "fr": "Cet événement sportif et familial part des Jardins du Tivoli le 6 septembre 2026 avec des parcours de 10 km, 6 km, 4 km et deux courses enfants. L'accent est mis sur le Vieux-Cannet et une ambiance conviviale."
+        },
+        "source_url": "https://lecannet-tourisme.fr/fr/sport/urban-trail-le-cannet/",
+        "category": "Sport"
+      }
+    ]
+  },
+  {
+    "id": "castres",
+    "events": [
+      {
+        "date": "2026-08-02",
+        "end_date": "2026-08-10",
+        "title": {
+          "de": "Couleurs du monde",
+          "hu": "Couleurs du monde",
+          "ro": "Couleurs du monde",
+          "en": "Couleurs du monde",
+          "fr": "Couleurs du monde"
+        },
+        "summary": {
+          "de": "Das Sommerprogramm der Stadt Castres kündigt das Folklorefestival „Couleurs du monde“ vom 2. bis 10. August 2026 an. Besucher können internationale Musik- und Traditionsgruppen erleben.",
+          "hu": "Castres nyári hivatalos programja szerint a Couleurs du monde folklórfesztivál 2026. augusztus 2. és 10. között zajlik. A közönség nemzetközi zenei és hagyományőrző együttesekkel találkozhat.",
+          "ro": "Programul oficial de vară al orașului Castres anunță festivalul folcloric „Couleurs du monde” între 2 și 10 august 2026. Vizitatorii pot vedea formații internaționale de muzică și tradiții populare.",
+          "en": "Castres' official summer program announces the 'Couleurs du monde' folklore festival from 2 to 10 August 2026. Visitors can expect international music and traditional performance groups.",
+          "fr": "Le programme estival officiel de Castres annonce le festival folklorique « Couleurs du monde » du 2 au 10 août 2026. Les visiteurs y retrouveront des ensembles internationaux de musique et de traditions."
+        },
+        "source_url": "https://www.ville-castres.fr/kiosque/ete-a-castres-programme-2026/",
+        "category": "Festival"
+      },
+      {
+        "date": "2026-06-13",
+        "end_date": "2026-09-27",
+        "title": {
+          "de": "Ausstellung \"Lumières d'Espagne. 1880-1920\"",
+          "hu": "\"Lumières d'Espagne. 1880-1920\" kiállítás",
+          "ro": "Expoziția \"Lumières d'Espagne. 1880-1920\"",
+          "en": "Exhibition 'Lumières d'Espagne. 1880-1920'",
+          "fr": "Exposition « Lumières d'Espagne. 1880-1920 »"
+        },
+        "summary": {
+          "de": "Im Musée Goya läuft vom 13. Juni bis 27. September 2026 eine Sommerausstellung zur spanischen Kunst von 1880 bis 1920. Sie beleuchtet weniger bekannte Strömungen neben den großen Namen dieser Epoche.",
+          "hu": "A Musée Goya 2026. június 13. és szeptember 27. között mutatja be a spanyol művészet 1880 és 1920 közötti korszakát feldolgozó nyári kiállítást. A tárlat a korszak kevésbé ismert alkotóira és irányzataira is figyelmet fordít.",
+          "ro": "La Musée Goya are loc între 13 iunie și 27 septembrie 2026 expoziția de vară dedicată artei spaniole din perioada 1880-1920. Expoziția pune în valoare și direcțiile mai puțin cunoscute ale epocii.",
+          "en": "Musée Goya hosts a summer exhibition on Spanish art from 1880 to 1920 from 13 June to 27 September 2026. It highlights lesser-known artistic currents alongside the era's famous names.",
+          "fr": "Le musée Goya présente du 13 juin au 27 septembre 2026 une exposition estivale consacrée à l'art espagnol de 1880 à 1920. Elle met aussi en lumière des courants moins connus de cette période."
+        },
+        "source_url": "https://www.ville-castres.fr/agenda/exposition-lumieres-despagne-1880-1920/",
+        "category": "Exhibition"
+      },
+      {
+        "date": "2026-06-13",
+        "end_date": "2026-12-31",
+        "title": {
+          "de": "Jaurès, die Kolonialwelt und die Freiheit der Völker",
+          "hu": "Jaurès, a gyarmati világ és a népek szabadsága",
+          "ro": "Jaurès, lumea colonială și libertatea popoarelor",
+          "en": "Jaurès, the colonial world and the freedom of peoples",
+          "fr": "Jaurès, le monde colonial et la liberté des peuples"
+        },
+        "summary": {
+          "de": "Das Sommerprogramm von Castres nennt diese Ausstellung im Centre national et musée Jean Jaurès als laufend bis zum 31. Dezember 2026. Sie richtet den Blick auf Jaurès und Fragen von Kolonialismus und Freiheitsbewegungen.",
+          "hu": "Castres nyári programja szerint ez a kiállítás a Centre national et musée Jean Jaurès-ben 2026. december 31-ig látogatható. A tárlat Jaurès alakját és a gyarmatosítás, illetve a szabadság kérdéseit vizsgálja.",
+          "ro": "Programul estival din Castres menționează această expoziție de la Centre national et musée Jean Jaurès ca fiind deschisă până la 31 decembrie 2026. Tema centrală este raportul dintre Jaurès, colonialism și libertatea popoarelor.",
+          "en": "Castres' summer program lists this exhibition at the Centre national et musée Jean Jaurès as running until 31 December 2026. It examines Jaurès in relation to colonialism and the freedom of peoples.",
+          "fr": "Le programme d'été de Castres indique que cette exposition du Centre national et musée Jean Jaurès se poursuit jusqu'au 31 décembre 2026. Elle interroge Jaurès face au monde colonial et aux libertés des peuples."
+        },
+        "source_url": "https://www.ville-castres.fr/kiosque/ete-a-castres-programme-2026/",
+        "category": "Exhibition"
+      },
+      {
+        "date": "2026-09-19",
+        "end_date": "2026-09-20",
+        "title": {
+          "de": "Europäische Tage des Kulturerbes 2026",
+          "hu": "Európai Örökség Napok 2026",
+          "ro": "Zilele Europene ale Patrimoniului 2026",
+          "en": "European Heritage Days 2026",
+          "fr": "Journées Européennes du Patrimoine 2026"
+        },
+        "summary": {
+          "de": "Castres veranstaltet die Journées Européennes du Patrimoine am 19. und 20. September 2026. Die offizielle Seite kündigt die 43. Ausgabe an und weist auf ein stadtweites Kulturprogramm hin.",
+          "hu": "Castres 2026. szeptember 19-20-án rendezi meg az Európai Örökség Napokat. A hivatalos oldal a 43. kiadást jelzi, városi kulturális programmal.",
+          "ro": "Castres organizează Zilele Europene ale Patrimoniului pe 19 și 20 septembrie 2026. Pagina oficială anunță cea de-a 43-a ediție și un program cultural la scară urbană.",
+          "en": "Castres hosts European Heritage Days on 19 and 20 September 2026. The official page announces the 43rd edition and a citywide heritage program.",
+          "fr": "Castres accueille les Journées Européennes du Patrimoine les 19 et 20 septembre 2026. La page officielle annonce la 43e édition et une programmation patrimoniale à l'échelle de la ville."
+        },
+        "source_url": "https://www.ville-castres.fr/agenda/journees-europeennes-du-patrimoine-2026/",
+        "category": "Heritage"
+      }
+    ]
+  },
+  {
+    "id": "gap",
+    "events": [
+      {
+        "date": "2026-07-03",
+        "end_date": "2026-08-28",
+        "title": {
+          "de": "Festival Éclat(s) d'été",
+          "hu": "Éclat(s) d'été fesztivál",
+          "ro": "Festivalul Éclat(s) d'été",
+          "en": "Éclat(s) d'été festival",
+          "fr": "Festival Éclat(s) d'été"
+        },
+        "summary": {
+          "de": "Das Sommerfestival der Stadt Gap läuft von Anfang Juli bis Ende August 2026 mit Konzerten, Straßenkunst, Klassik-, Jazz- und Weltmusikformaten. Die offizielle Festivalbroschüre nennt eine Reihe kostenloser Termine über die ganze Saison hinweg.",
+          "hu": "Gap város nyári fesztiválja 2026 júliusától augusztus végéig koncerteket, utcai művészetet, klasszikus, jazz- és világzenei programokat kínál. A hivatalos brosúra szerint a szezonban számos ingyenes esemény szerepel.",
+          "ro": "Festivalul de vară al orașului Gap se desfășoară din începutul lui iulie până la sfârșitul lui august 2026, cu concerte, artă stradală, muzică clasică, jazz și world music. Broșura oficială anunță numeroase întâlniri gratuite pe toată durata sezonului.",
+          "en": "Gap's summer festival runs from early July to late August 2026 with concerts, street arts, classical music, jazz, and world music programming. The official brochure describes numerous free dates across the season.",
+          "fr": "Le festival d'été de la Ville de Gap se déroule du début juillet à la fin août 2026 avec concerts, arts de rue, classique, jazz et musiques du monde. La brochure officielle annonce de nombreux rendez-vous gratuits pendant toute la saison."
+        },
+        "source_url": "https://www.ville-gap.fr/festival-eclats-dete/",
+        "category": "Festival"
+      },
+      {
+        "date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "title": {
+          "de": "À Ciel Ouvert",
+          "hu": "À Ciel Ouvert",
+          "ro": "À Ciel Ouvert",
+          "en": "À Ciel Ouvert",
+          "fr": "À Ciel Ouvert"
+        },
+        "summary": {
+          "de": "Dieser sommerliche Kunstparcours verwandelt Straßen, Plätze und Parks von Gap in eine Open-Air-Galerie. Die offizielle Stadtseite beschreibt die 2026er Ausgabe als Stadtrundgang mit Skulpturen, Installationen und Werken verschiedener Künstler.",
+          "hu": "Ez a nyári művészeti útvonal Gap utcáit, tereit és parkjait szabadtéri galériává alakítja. A városi oldal szerint a 2026-os kiadás több művész szobraival és installációival vezet végig a belvároson.",
+          "ro": "Acest parcurs artistic de vară transformă străzile, piețele și parcurile din Gap într-o galerie în aer liber. Pagina oficială prezintă ediția 2026 ca o plimbare urbană printre sculpturi și instalații.",
+          "en": "This summer art trail turns Gap's streets, squares, and parks into an open-air gallery. The official city page presents the 2026 edition as an urban walk through sculptures, installations, and public artworks.",
+          "fr": "Ce parcours artistique estival transforme les rues, places et parcs de Gap en galerie à ciel ouvert. La page officielle présente l'édition 2026 comme une promenade urbaine parmi sculptures, installations et œuvres d'art."
+        },
+        "source_url": "https://www.ville-gap.fr/a-ciel-ouvert/",
+        "category": "Exhibition"
+      },
+      {
+        "date": "2026-04-28",
+        "end_date": "2026-09-20",
+        "title": {
+          "de": "Ausstellung Mons Seleucus: göttlicher Knotenpunkt",
+          "hu": "Mons Seleucus kiállítás: isteni csomópont",
+          "ro": "Expoziția Mons Seleucus: carrefour divin",
+          "en": "Mons Seleucus exhibition: divine crossroads",
+          "fr": "Exposition Mons Seleucus : carrefour divin"
+        },
+        "summary": {
+          "de": "Das Musée muséum départemental des Hautes-Alpes zeigt diese archäologische Ausstellung vom 28. April bis 20. September 2026 täglich in Gap. Besucher finden dort Funde und Forschung rund um die gallo-römische Stätte Mons Seleucus.",
+          "hu": "A Musée muséum départemental des Hautes-Alpes 2026. április 28. és szeptember 20. között naponta mutatja be ezt a régészeti kiállítást Gapban. A tárlat a gallo-római Mons Seleucus lelőhely leleteit és kutatását ismerteti.",
+          "ro": "Musée muséum départemental des Hautes-Alpes găzduiește zilnic, între 28 aprilie și 20 septembrie 2026, această expoziție arheologică din Gap. Vizitatorii descoperă piese și cercetări dedicate sitului galo-roman Mons Seleucus.",
+          "en": "The Musée muséum départemental des Hautes-Alpes presents this archaeological exhibition daily in Gap from 28 April to 20 September 2026. Visitors can explore finds and research related to the Gallo-Roman site of Mons Seleucus.",
+          "fr": "Le musée muséum départemental des Hautes-Alpes présente cette exposition archéologique tous les jours à Gap du 28 avril au 20 septembre 2026. Le public y découvre les fouilles et les objets liés au site gallo-romain de Mons Seleucus."
+        },
+        "source_url": "https://www.terresdegap.fr/fr/evenements/agenda/fiche-detail/exposition-mons-seleucus-carrefour-divin-deux-siecles-de-fouilles-gallo-romaines-au-coeur-des-alpe/",
+        "category": "Exhibition"
+      },
+      {
+        "date": "2026-09-19",
+        "end_date": "2026-09-20",
+        "title": {
+          "de": "Tage des Kulturerbes",
+          "hu": "Örökség Napok",
+          "ro": "Journées du Patrimoine",
+          "en": "Heritage Days",
+          "fr": "Journées du Patrimoine"
+        },
+        "summary": {
+          "de": "Die Kulturseite der Stadt Gap kündigt die Journées du Patrimoine für September 2026 an. Sie zählen zu den wichtigsten jährlichen Kulturterminen mit Sonderöffnungen und Besichtigungen.",
+          "hu": "Gap kulturális oldala 2026 szeptemberére hirdeti meg az Örökség Napokat. Ez a város egyik legfontosabb éves kulturális időszaka különleges nyitvatartással és látogatásokkal.",
+          "ro": "Pagina culturală a orașului Gap anunță Journées du Patrimoine pentru septembrie 2026. Evenimentul face parte dintre marile repere culturale anuale, cu deschideri speciale și vizite dedicate patrimoniului.",
+          "en": "Gap's culture page announces Heritage Days for September 2026. It is one of the city's major annual cultural dates, typically centered on special openings and heritage visits.",
+          "fr": "La page culture de la Ville de Gap annonce les Journées du Patrimoine en septembre 2026. Il s'agit d'un des grands rendez-vous annuels avec ouvertures exceptionnelles et visites patrimoniales."
+        },
+        "source_url": "https://www.ville-gap.fr/evenements-culture-ville-de-gap/",
+        "category": "Heritage"
+      },
+      {
+        "date": "2026-10-03",
+        "end_date": "2026-10-04",
+        "title": {
+          "de": "Gapen'Cimes",
+          "hu": "Gapen'Cimes",
+          "ro": "Gapen'Cimes",
+          "en": "Gapen'Cimes",
+          "fr": "Gapen'Cimes"
+        },
+        "summary": {
+          "de": "Die Sportseite der Stadt Gap kündigt Gapen'Cimes für den 3. und 4. Oktober 2026 an. Die Veranstaltung gehört zu den großen sportlichen Herbstterminen der Stadt.",
+          "hu": "Gap sportoldala szerint a Gapen'Cimes rendezvényt 2026. október 3-4-én tartják meg. Ez a város egyik kiemelt őszi sporteseménye.",
+          "ro": "Pagina sportivă a orașului Gap anunță Gapen'Cimes pentru 3 și 4 octombrie 2026. Evenimentul este unul dintre reperele sportive importante ale toamnei locale.",
+          "en": "Gap's sports page lists Gapen'Cimes for 3 and 4 October 2026. It is one of the city's key autumn sports events.",
+          "fr": "La page sports de la Ville de Gap annonce Gapen'Cimes les 3 et 4 octobre 2026. C'est l'un des grands rendez-vous sportifs de l'automne gapençais."
+        },
+        "source_url": "https://www.ville-gap.fr/evenements-sports-ville-de-gap/",
+        "category": "Sport"
+      }
+    ]
+  },
+  {
+    "id": "boulogne-sur-mer",
+    "events": [
+      {
+        "date": "2026-07-01",
+        "end_date": "2026-08-30",
+        "title": {
+          "de": "Tous à la plage",
+          "hu": "Tous à la plage",
+          "ro": "Tous à la plage",
+          "en": "Tous à la plage",
+          "fr": "Tous à la plage"
+        },
+        "summary": {
+          "de": "Die Stadt Boulogne-sur-Mer führt dieses kostenlose Strandprogramm bis zum 30. August 2026 fort. Laut Veranstaltungsseite umfasst es Freizeit- und Sportaktivitäten für ein breites Publikum.",
+          "hu": "Boulogne-sur-Mer városa 2026. augusztus 30-ig futtatja ezt az ingyenes tengerparti programsorozatot. A hivatalos oldal szerint szabadidős és sportos foglalkozások várják a látogatókat.",
+          "ro": "Orașul Boulogne-sur-Mer continuă acest program gratuit pe plajă până la 30 august 2026. Pagina oficială indică activități recreative și sportive pentru public larg.",
+          "en": "Boulogne-sur-Mer continues this free beach program through 30 August 2026. The official page describes leisure and sports activities for a broad public.",
+          "fr": "La Ville de Boulogne-sur-Mer prolonge ce programme gratuit sur la plage jusqu'au 30 août 2026. La page officielle évoque des activités de loisirs et sportives pour tous les publics."
+        },
+        "source_url": "https://www.ville-boulogne-sur-mer.fr/evenements/tous-a-la-plage-2/",
+        "category": "Family"
+      },
+      {
+        "date": "2026-07-17",
+        "end_date": "2026-08-28",
+        "title": {
+          "de": "Les Terrasses Musicales",
+          "hu": "Les Terrasses Musicales",
+          "ro": "Les Terrasses Musicales",
+          "en": "Les Terrasses Musicales",
+          "fr": "Les Terrasses Musicales"
+        },
+        "summary": {
+          "de": "Die musikalischen Abende in der Rue Monsigny finden freitags und samstags vom 17. Juli bis 28. August 2026 jeweils von 19 bis 22 Uhr statt. Besucher erwartet eine sommerliche Innenstadtatmosphäre mit Live-Musik.",
+          "hu": "A rue Monsigny utcában rendezett zenei estek 2026. július 17. és augusztus 28. között péntekenként és szombatonként 19 és 22 óra között zajlanak. A program élőzenét hoz a belváros nyári hangulatába.",
+          "ro": "Serile muzicale din rue Monsigny au loc vinerea și sâmbăta, între 17 iulie și 28 august 2026, în intervalul 19:00-22:00. Publicul găsește atmosferă estivală și muzică live în centrul orașului.",
+          "en": "These music evenings on rue Monsigny run every Friday and Saturday from 17 July to 28 August 2026, from 19:00 to 22:00. Visitors can expect live music in a summer city-center setting.",
+          "fr": "Ces soirées musicales de la rue Monsigny se déroulent les vendredis et samedis du 17 juillet au 28 août 2026, de 19h à 22h. Les visiteurs y retrouvent de la musique live dans une ambiance estivale en centre-ville."
+        },
+        "source_url": "https://www.ville-boulogne-sur-mer.fr/evenements/les-terrasses-musicales/",
+        "category": "Music",
+        "period": {
+          "recurrent": true,
+          "times": [
+            "19:00:00"
+          ]
+        }
+      },
+      {
+        "date": "2026-07-25",
+        "end_date": "2026-08-23",
+        "title": {
+          "de": "Sommerkirmes",
+          "hu": "Nyári vidámpark",
+          "ro": "Foire d'été",
+          "en": "Summer fair",
+          "fr": "Foire d'été"
+        },
+        "summary": {
+          "de": "Die Sommerkirmes auf dem Gelände Éperon läuft vom 25. Juli bis 23. August 2026 täglich bis spät abends. Sie gehört zu den klassischen Ferienattraktionen für Familien und Abendbesucher.",
+          "hu": "A nyári vidámpark az Éperon helyszínen 2026. július 25. és augusztus 23. között működik, késő esti nyitvatartással. Hagyományos nyári attrakció családoknak és esti látogatóknak.",
+          "ro": "Foire d'été de pe situl Éperon are loc între 25 iulie și 23 august 2026, cu program până târziu în noapte. Este una dintre atracțiile clasice ale vacanței pentru familii și vizitatori de seară.",
+          "en": "The summer fair at the Éperon site runs from 25 July to 23 August 2026 with late-evening opening hours. It is one of the city's classic holiday attractions for families and evening visitors.",
+          "fr": "La foire d'été installée à l'Éperon se tient du 25 juillet au 23 août 2026 avec une ouverture jusque tard le soir. C'est l'une des attractions classiques des vacances pour les familles et les promeneurs."
+        },
+        "source_url": "https://www.ville-boulogne-sur-mer.fr/evenements/foire-dete-9314080/",
+        "category": "Fair"
+      },
+      {
+        "date": "2026-07-26",
+        "end_date": "2026-08-16",
+        "title": {
+          "de": "Quai en fête",
+          "hu": "Quai en fête",
+          "ro": "Quai en fête",
+          "en": "Quai en fête",
+          "fr": "Quai en fête"
+        },
+        "summary": {
+          "de": "An den Sonntagen 26. Juli sowie 2., 9. und 16. August 2026 bringt „Quai en fête“ Spiele, aufblasbare Strukturen, BMX-Einführungen und Unterhaltung auf den Quai Gambetta. Das Format richtet sich besonders an Familien.",
+          "hu": "A július 26-i, illetve az augusztus 2-i, 9-i és 16-i vasárnapokon a Quai Gambetta helyszínén játékok, ugrálóelemek, BMX-bemutatók és családi programok várják a közönséget. A sorozat elsősorban családbarát hangulatú.",
+          "ro": "În duminicile de 26 iulie, 2, 9 și 16 august 2026, „Quai en fête” aduce pe Quai Gambetta jocuri, structuri gonflabile, inițiere BMX și divertisment pentru familii. Evenimentul are un profil clar orientat spre publicul familial.",
+          "en": "On Sundays 26 July and 2, 9, and 16 August 2026, 'Quai en fête' brings games, inflatables, BMX initiation, and entertainment to Quai Gambetta. The event is clearly family-oriented.",
+          "fr": "Les dimanches 26 juillet puis 2, 9 et 16 août 2026, « Quai en fête » propose jeux, structures gonflables, initiation BMX et animations sur le quai Gambetta. Le rendez-vous vise particulièrement les familles."
+        },
+        "source_url": "https://www.ville-boulogne-sur-mer.fr/evenements/quai-en-fete-5950332/",
+        "category": "Family",
+        "period": {
+          "recurrent": true
+        }
+      },
+      {
+        "date": "2026-09-13",
+        "title": {
+          "de": "Cavalcade d'été",
+          "hu": "Nyári felvonulás",
+          "ro": "Cavalcade d'été",
+          "en": "Summer cavalcade",
+          "fr": "Cavalcade d'été"
+        },
+        "summary": {
+          "de": "Die Veranstaltungsseite kündigt für den 13. September 2026 eine Cavalcade mit Tänzern, Akrobaten, Musikern und Gruppen an. Das Ereignis setzt auf Straßenatmosphäre und publikumsnahe Sommerunterhaltung.",
+          "hu": "A hivatalos eseményoldal 2026. szeptember 13-ra táncosokkal, akrobatákkal, zenészekkel és fellépő csoportokkal megrendezett felvonulást hirdet. Az esemény utcai hangulatú, látványos nyárzáró program.",
+          "ro": "Pagina oficială anunță pentru 13 septembrie 2026 o cavalcadă cu dansatori, acrobați, muzicieni și grupuri artistice. Evenimentul pune accent pe atmosfera de stradă și divertismentul vizual.",
+          "en": "The official event page announces a cavalcade on 13 September 2026 featuring dancers, acrobats, musicians, and performance groups. It is designed as a lively street-style public event.",
+          "fr": "La page officielle annonce pour le 13 septembre 2026 une cavalcade réunissant danseurs, acrobates, musiciens et groupes artistiques. Le rendez-vous mise sur une ambiance de rue festive et visuelle."
+        },
+        "source_url": "https://www.ville-boulogne-sur-mer.fr/evenements/cavalcade-dete-1405633/",
+        "category": "Parade"
+      }
+    ]
+  }
+]

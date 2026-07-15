@@ -1,0 +1,300 @@
+[
+  {
+    "id": "belgium-verviers-cities-v2",
+    "events": [
+      {
+        "title": {
+          "de": "Pause Chefs-d'oeuvre aux Musees de Verviers",
+          "hu": "Remekmuvek-szunet a verviers-i muzeumokban",
+          "ro": "Pauza Capodopere la muzeele din Verviers",
+          "en": "Masterpieces Break at the Museums of Verviers"
+        },
+        "summary": {
+          "de": "Die Museumsreihe in Verviers laeuft vom Fruehjahr bis Anfang November und bietet Besucherinnen und Besuchern wiederkehrende Kulturtermine rund um die Sammlungen der Stadt.",
+          "hu": "A verviers-i muzeumok programsorozata tavasztol november elejeig tart, es visszatero kulturprogramokat kinal a varosi gyujtemenyek korul.",
+          "ro": "Seria de evenimente a muzeelor din Verviers se desfasoara din primavara pana la inceputul lui noiembrie si propune intalniri culturale recurente in jurul colectiilor orasului.",
+          "en": "This museums program in Verviers runs from spring to early November and offers recurring visitor events around the city's collections."
+        },
+        "date": "2026-03-11",
+        "end_date": "2026-11-04",
+        "source_url": "https://www.paysdevesdre.be/agenda/"
+      },
+      {
+        "title": {
+          "de": "Sommer-Radtouren 2026",
+          "hu": "2026-os nyari kerekparturak",
+          "ro": "Plimbarile cu bicicleta ale verii 2026",
+          "en": "Summer Bike Rides 2026"
+        },
+        "summary": {
+          "de": "Das Tourismusbuero des Pays de Vesdre listet fuer Verviers ein Sommerprogramm mit gefuehrten Fahrradausfluegen bis Mitte September.",
+          "hu": "A Pays de Vesdre turisztikai iroda Verviersben szeptember kozepeig tarto nyari, szervezett kerekparturakat hirdet.",
+          "ro": "Biroul turistic Pays de Vesdre anunta pentru Verviers un program de plimbari ghidate cu bicicleta pe durata verii, pana la mijlocul lui septembrie.",
+          "en": "The Pays de Vesdre tourist office lists a summer program of guided bike rides in and around Verviers through mid-September."
+        },
+        "date": "2026-06-14",
+        "end_date": "2026-09-13",
+        "source_url": "https://www.paysdevesdre.be/agenda/"
+      },
+      {
+        "title": {
+          "de": "Ausstellung: Rene Blanche",
+          "hu": "Rene Blanche kiallitas",
+          "ro": "Expozitie: Rene Blanche",
+          "en": "Exhibition: Rene Blanche"
+        },
+        "summary": {
+          "de": "Diese offizielle Ausstellung in Verviers ist vom 22. August bis 13. September 2026 angesetzt und bietet einen spaetsommerlichen Kulturtermin in der Stadt.",
+          "hu": "Ez a hivatalos verviers-i kiallitas 2026. augusztus 22. es szeptember 13. kozott latogathato, igy keso nyari kulturalis programot ad a varosban.",
+          "ro": "Aceasta expozitie oficiala din Verviers este programata intre 22 august si 13 septembrie 2026 si ofera un reper cultural de sfarsit de vara in oras.",
+          "en": "This official exhibition in Verviers is scheduled from 22 August to 13 September 2026, giving visitors a late-summer cultural stop in the city."
+        },
+        "date": "2026-08-22",
+        "end_date": "2026-09-13",
+        "source_url": "https://www.paysdevesdre.be/agenda/"
+      }
+    ]
+  },
+  {
+    "id": "wetzlar-extra",
+    "events": [
+      {
+        "title": {
+          "de": "WETZLAR LIVE",
+          "hu": "WETZLAR LIVE",
+          "ro": "WETZLAR LIVE",
+          "en": "WETZLAR LIVE"
+        },
+        "summary": {
+          "de": "Das offizielle Veranstaltungsprogramm der Stadt nennt WETZLAR LIVE als donnerstaegliche Reihe im August und September 2026 im Stadtmarketing-Kalender.",
+          "hu": "A varos hivatalos rendezvenynaptara szerint a WETZLAR LIVE 2026 augusztusaban es szeptemberben csutortokonkent jelentkezo sorozat.",
+          "ro": "Calendarul oficial al orasului prezinta WETZLAR LIVE ca serie recurenta organizata joia, in august si septembrie 2026.",
+          "en": "The city's official events brochure lists WETZLAR LIVE as a Thursday series running in August and September 2026."
+        },
+        "date": "2026-08-06",
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.wetzlar.de/microsite/stadtmarketing/medien/Veranstaltungen_2026.pdf"
+      },
+      {
+        "title": {
+          "de": "25. Wetzlarer Brueckenlauf",
+          "hu": "25. wetzlari hidfutas",
+          "ro": "Al 25-lea Brueckenlauf din Wetzlar",
+          "en": "25th Wetzlar Bridge Run"
+        },
+        "summary": {
+          "de": "Der offizielle Brueckenlauf der Stadt findet am Freitag, 4. September 2026, statt und laeutet traditionell das Brueckenfest ein.",
+          "hu": "A varos hivatalos Brueckenlauf futoversenyet 2026. szeptember 4-en, penteken rendezik meg, es hagyomanyosan ezzel indul a Brueckenfest.",
+          "ro": "Cursa oficiala Brueckenlauf are loc vineri, 4 septembrie 2026, si deschide in mod traditional Brueckenfest-ul orasului.",
+          "en": "The official bridge run takes place on Friday, 4 September 2026, and traditionally opens Wetzlar's Bridge Festival."
+        },
+        "date": "2026-09-04",
+        "source_url": "https://www.wetzlar.de/brueckenlauf"
+      },
+      {
+        "title": {
+          "de": "Interkulturelles Fest 2026",
+          "hu": "Interkulturalis unnep 2026",
+          "ro": "Festival intercultural 2026",
+          "en": "Intercultural Festival 2026"
+        },
+        "summary": {
+          "de": "Die Stadt Wetzlar kuendigt fuer den 6. September 2026 ein Interkulturelles Fest im Klostergarten der Altstadt unter dem Motto Vielfalt feiern an.",
+          "hu": "Wetzlar varosa 2026. szeptember 6-ara interkulturalis unnepet hirdet az ovaarosi Klostergartenben, a sokszinuseg unneplese jegyeben.",
+          "ro": "Orasul Wetzlar anunta pentru 6 septembrie 2026 un festival intercultural in gradina manastirii din centrul vechi, sub mesajul celebrarii diversitatii.",
+          "en": "The city of Wetzlar announces an Intercultural Festival on 6 September 2026 in the old town's Klostergarten under the theme of celebrating diversity."
+        },
+        "date": "2026-09-06",
+        "source_url": "https://www.wetzlar.de/wir"
+      }
+    ]
+  },
+  {
+    "id": "saint-brieuc",
+    "events": [
+      {
+        "title": {
+          "de": "Festival Le Mille",
+          "hu": "Le Mille fesztival",
+          "ro": "Festivalul Le Mille",
+          "en": "Le Mille Festival",
+          "fr": "Festival Le Mille"
+        },
+        "summary": {
+          "de": "Das Festival Le Mille ist in Saint-Brieuc vom 20. bis 23. August 2026 angesetzt und bringt ein mehrtaegiges Festivalprogramm in die Stadt.",
+          "hu": "A Le Mille fesztivalt 2026. augusztus 20. es 23. kozott rendezik meg Saint-Brieuc-ben, tobbnapos programmal.",
+          "ro": "Festivalul Le Mille este programat la Saint-Brieuc intre 20 si 23 august 2026, cu un program desfasurat pe mai multe zile.",
+          "en": "Le Mille is scheduled in Saint-Brieuc from 20 to 23 August 2026 as a multi-day festival in the city.",
+          "fr": "Le festival Le Mille est programme a Saint-Brieuc du 20 au 23 aout 2026 avec plusieurs jours d'animations."
+        },
+        "date": "2026-08-20",
+        "end_date": "2026-08-23",
+        "source_url": "https://www.baiedesaintbrieuc.com/sit/festival-le-mille"
+      },
+      {
+        "title": {
+          "de": "Festival Cadence",
+          "hu": "Cadence fesztival",
+          "ro": "Festivalul Cadence",
+          "en": "Cadence Festival",
+          "fr": "Festival Cadence"
+        },
+        "summary": {
+          "de": "Cadence ist ein offiziell gelisteter Festivaltermin in Saint-Brieuc am 28. August 2026 auf dem Areal am Gare Sud.",
+          "hu": "A Cadence hivatalosan meghirdetett fesztivalesemeny Saint-Brieuc-ben 2026. augusztus 28-an, a Gare Sud kornyeken.",
+          "ro": "Cadence este un festival anuntat oficial la Saint-Brieuc pentru 28 august 2026, in zona Gare Sud.",
+          "en": "Cadence is an officially listed festival event in Saint-Brieuc on 28 August 2026 near Gare Sud.",
+          "fr": "Cadence est un rendez-vous festival officiel a Saint-Brieuc le 28 aout 2026, du cote de la Gare Sud."
+        },
+        "date": "2026-08-28",
+        "source_url": "https://www.baiedesaintbrieuc.com/sit/festival-cadence"
+      },
+      {
+        "title": {
+          "de": "Ausstellung \"Dans nos filets\"",
+          "hu": "\"Dans nos filets\" kiallitas",
+          "ro": "Expozitia \"Dans nos filets\"",
+          "en": "Exhibition \"Dans nos filets\"",
+          "fr": "Exposition \"Dans nos filets\""
+        },
+        "summary": {
+          "de": "Die Ausstellung im Musee d'art et d'histoire von Saint-Brieuc laeuft vom 10. Juni bis 31. Oktober 2026 und ist damit auch im Spaetsommer und Herbst besuchbar.",
+          "hu": "A saint-brieuc-i Muzeum d'art et d'histoire kiallitasa 2026. junius 10-tol oktober 31-ig tart, igy keso nyaron es osszel is megnezheto.",
+          "ro": "Expozitia de la Muzeul de Arta si Istorie din Saint-Brieuc se desfasoara intre 10 iunie si 31 octombrie 2026, fiind vizitabila si la sfarsitul verii, si toamna.",
+          "en": "This exhibition at Saint-Brieuc's art and history museum runs from 10 June to 31 October 2026, so it remains visitable in late summer and autumn.",
+          "fr": "Cette exposition au musee d'art et d'histoire de Saint-Brieuc se tient du 10 juin au 31 octobre 2026 et reste accessible en fin d'ete et en automne."
+        },
+        "date": "2026-06-10",
+        "end_date": "2026-10-31",
+        "source_url": "https://www.baiedesaintbrieuc.com/sit/exposition-dans-nos-filets-musee-dart-et-dhistoire-saint-brieuc"
+      }
+    ]
+  },
+  {
+    "id": "laval",
+    "events": [
+      {
+        "title": {
+          "de": "Europameisterschaft Speed und Lead / Para-Kletter-Weltcup",
+          "hu": "Gyorsasagi es nehezsegi Europabajnoksag / para-maszo vilagkupa",
+          "ro": "Campionatul European de viteza si dificultate / Cupa Mondiala de paraescalada",
+          "en": "European Speed and Lead Championships / Para Climbing World Cup",
+          "fr": "Championnat d'Europe vitesse et difficulte / Coupe du monde de para-escalade"
+        },
+        "summary": {
+          "de": "Laval kuendigt fuer August 2026 eine internationale Doppelveranstaltung im Klettersport mit Europameisterschaften und Para-Kletter-Weltcup an.",
+          "hu": "Laval 2026 augusztusara nemzetkozi dupla maszoesemenyt hirdetett meg, Europabajnoksaggal es para-maszo vilagkupaval.",
+          "ro": "Laval anunta pentru august 2026 un dublu eveniment international de escalada, cu Campionat European si Cupa Mondiala de paraescalada.",
+          "en": "Laval announces a major international climbing event in August 2026 combining the European championships with a para climbing World Cup.",
+          "fr": "Laval annonce pour aout 2026 un grand rendez-vous international d'escalade reunissant le championnat d'Europe et une Coupe du monde de para-escalade."
+        },
+        "date": "2026-08-01",
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.laval-tourisme.com/offres/championnat-deurope-vitesse-et-difficulte-coupe-du-monde-para-escalade-laval-fr-6407997/"
+      },
+      {
+        "title": {
+          "de": "Duel d'histoire(s)",
+          "hu": "Tortenetek parbaja",
+          "ro": "Duel de istorie(i)",
+          "en": "Duel d'histoire(s)",
+          "fr": "Duel d'histoire(s)"
+        },
+        "summary": {
+          "de": "Diese gefuehrte Veranstaltung in Laval ist fuer den 21. August 2026 angesetzt und verbindet Stadtgeschichte mit einem Spaziergang im historischen Umfeld.",
+          "hu": "Ezt a vezetett lavali programot 2026. augusztus 21-re tettek, es a varostortenetet setaval kapcsolja ossze a tortenelmi kornyezetben.",
+          "ro": "Acest eveniment ghidat din Laval este programat pentru 21 august 2026 si combina istoria orasului cu o plimbare in centrul istoric.",
+          "en": "This guided Laval event is scheduled for 21 August 2026 and combines local history with a walk through the city's historic setting.",
+          "fr": "Cette animation guidee a Laval est prevue le 21 aout 2026 et melange histoire locale et promenade dans le cadre historique de la ville."
+        },
+        "date": "2026-08-21",
+        "source_url": "https://www.laval-tourisme.com/offres/duel-dhistoires-laval-fr-6348379/"
+      },
+      {
+        "title": {
+          "de": "Salon Habitat & Jardin Laval",
+          "hu": "Laval otthon es kert szalon",
+          "ro": "Salon Habitat & Jardin Laval",
+          "en": "Laval Home and Garden Fair",
+          "fr": "Salon Habitat & Jardin Laval"
+        },
+        "summary": {
+          "de": "Die Messe im Espace Mayenne laeuft vom 11. bis 13. September 2026 und richtet sich an Besucher mit Interesse an Haus-, Garten- und Aussenraumprojekten.",
+          "hu": "A vasart 2026. szeptember 11. es 13. kozott rendezik az Espace Mayenne helyszinen, otthon- es kertfejlesztes irant erdeklodoknek.",
+          "ro": "Salonul de la Espace Mayenne are loc intre 11 si 13 septembrie 2026 si se adreseaza vizitatorilor interesati de proiecte pentru casa si gradina.",
+          "en": "Held at Espace Mayenne from 11 to 13 September 2026, this fair targets visitors interested in home, garden, and outdoor living projects.",
+          "fr": "Organise a l'Espace Mayenne du 11 au 13 septembre 2026, ce salon s'adresse aux visiteurs interesses par la maison, le jardin et les amenagements exterieurs."
+        },
+        "date": "2026-09-11",
+        "end_date": "2026-09-13",
+        "source_url": "https://www.laval-tourisme.com/offres/salon-habitat-jardin-laval-laval-fr-6648662/"
+      }
+    ]
+  },
+  {
+    "id": "chalons-en-champagne",
+    "events": [
+      {
+        "title": {
+          "de": "Balade en barque l'Eau'dyssee",
+          "hu": "L'Eau'dyssee csonturaja",
+          "ro": "Plimbare cu barca l'Eau'dyssee",
+          "en": "l'Eau'dyssée Boat Ride",
+          "fr": "Balade en barque l'Eau'dyssee"
+        },
+        "summary": {
+          "de": "Die touristische Bootsfahrt durch Chaalons-en-Champagne ist offiziell vom 1. Mai bis 30. September 2026 im Programm und bleibt damit im Sommer voll nutzbar.",
+          "hu": "A Chaalons-en-Champagne-i turisztikai csonturakat hivatalosan 2026. majus 1. es szeptember 30. kozott kinaljak, igy a nyari idoszakban vegig elerhetok.",
+          "ro": "Plimbarea turistica cu barca prin Chaalons-en-Champagne este programata oficial intre 1 mai si 30 septembrie 2026, ramanand disponibila pe toata perioada verii.",
+          "en": "This official tourist boat ride in Châlons-en-Champagne runs from 1 May to 30 September 2026, remaining fully available through the summer season.",
+          "fr": "Cette balade touristique en barque a Châlons-en-Champagne est proposee officiellement du 1er mai au 30 septembre 2026 et reste disponible pendant toute la saison estivale."
+        },
+        "date": "2026-05-01",
+        "end_date": "2026-09-30",
+        "source_url": "https://www.chalonsenchampagne.fr/ville/que-faire-a-chalons?i=428566"
+      },
+      {
+        "title": {
+          "de": "Chalons Plage",
+          "hu": "Chalons Plage",
+          "ro": "Chalons Plage",
+          "en": "Châlons Plage",
+          "fr": "Chalons Plage"
+        },
+        "summary": {
+          "de": "Chalons Plage bietet vom 27. Juni bis 23. August 2026 nautische und sommerliche Freizeitangebote im Grand Jard.",
+          "hu": "A Chalons Plage 2026. junius 27. es augusztus 23. kozott vizis es nyari szabadidos programokat kinal a Grand Jard teruleten.",
+          "ro": "Châlons Plage ofera intre 27 iunie si 23 august 2026 activitati nautice si de vara in zona Grand Jard.",
+          "en": "Châlons Plage offers waterside and summer leisure activities at Grand Jard from 27 June to 23 August 2026.",
+          "fr": "Châlons Plage propose des activites nautiques et estivales au Grand Jard du 27 juin au 23 aout 2026."
+        },
+        "date": "2026-06-27",
+        "end_date": "2026-08-23",
+        "source_url": "https://www.chalonsenchampagne.fr/ville/que-faire-a-chalons?i=424224"
+      },
+      {
+        "title": {
+          "de": "Die Foire de Chalons",
+          "hu": "Chalons vasara",
+          "ro": "Foire de Châlons",
+          "en": "Foire de Châlons",
+          "fr": "La Foire de Chalons"
+        },
+        "summary": {
+          "de": "Die grosse Messe im Capitole en Champagne laeuft vom 28. August bis 7. September 2026 und gehoert zu den grossen Spaetsommerterminen der Stadt.",
+          "hu": "A nagy vasar a Capitole en Champagne helyszinen 2026. augusztus 28. es szeptember 7. kozott zajlik, es a varos egyik fontos keso nyari esemenye.",
+          "ro": "Marele targ organizat la Capitole en Champagne are loc intre 28 august si 7 septembrie 2026 si este unul dintre principalele evenimente de sfarsit de vara ale orasului.",
+          "en": "This major fair at Le Capitole en Champagne runs from 28 August to 7 September 2026 and is one of the city's main late-summer fixtures.",
+          "fr": "Cette grande foire au Capitole en Champagne se tient du 28 aout au 7 septembre 2026 et compte parmi les grands rendez-vous de fin d'ete de la ville."
+        },
+        "date": "2026-08-28",
+        "end_date": "2026-09-07",
+        "source_url": "https://www.chalonsenchampagne.fr/ville/services/culture-tourisme/le-capitole-en-champagne"
+      }
+    ]
+  }
+]

@@ -1,0 +1,347 @@
+[
+  {
+    "id": "sotteville-les-rouen",
+    "events": [
+      {
+        "date": "2026-07-26",
+        "end_date": "2026-08-26",
+        "title": {
+          "de": "Un ete au stade 2026",
+          "hu": "Egy nyar a stadionban 2026",
+          "ro": "O vara la stadion 2026",
+          "en": "A Summer at the Stadium 2026",
+          "fr": "Un ete au stade 2026"
+        },
+        "summary": {
+          "de": "Das kostenlose Sommerprogramm der Stadt bietet im Stade Jean Adret bis Ende August Sport, Ausfluge, Workshops und Familienabende fur alle Altersgruppen.",
+          "hu": "A varos ingyenes nyari programsorozata a Jean Adret stadionban sporttal, kirandulasokkal, muhelyekkel es csaladi estekkel varja a kulonbozo korosztalyokat augusztus vegeig.",
+          "ro": "Programul gratuit de vara al orasului aduce la stadionul Jean Adret sport, iesiri, ateliere si seri pentru familii pana la sfarsitul lunii august.",
+          "en": "The city's free summer program at Stade Jean Adret runs through late August with sports, outings, workshops, and family evenings for all ages.",
+          "fr": "Le programme estival gratuit de la Ville au stade Jean Adret propose jusqu'a fin aout des activites sportives, sorties, ateliers et rendez-vous familiaux pour tous les ages."
+        },
+        "source_url": "https://sotteville-les-rouen.fr/sortir/sport/un-ete-au-stade/"
+      },
+      {
+        "date": "2026-09-05",
+        "title": {
+          "de": "Carrefour der Vereine und kommunalen Freizeitangebote",
+          "hu": "Egyesuleti es onkormanyzati szabadidos forum",
+          "ro": "Forumul asociatiilor si al activitatilor municipale",
+          "en": "Associations and Municipal Leisure Fair",
+          "fr": "Carrefour des associations et des loisirs municipaux"
+        },
+        "summary": {
+          "de": "Am Stade Jean Adret stellt die Stadt zum Saisonstart Vereine und Freizeitangebote vor und hilft Besucherinnen und Besuchern, passende Sport-, Kultur- und Ehrenamtsaktivitaten zu finden.",
+          "hu": "A Jean Adret stadionban a varos a szezonkezdeskor bemutatja egyesuleteit es szabadidos lehetosegeit, hogy a latogatok sport-, kultura- es onkentes programokat talaljanak.",
+          "ro": "La stadionul Jean Adret, orasul reuneste la inceput de sezon asociatiile si activitatile municipale pentru cei care cauta sport, cultura sau voluntariat.",
+          "en": "At Stade Jean Adret, the city brings together local associations and municipal activities at the start of the season to help visitors choose sports, culture, and volunteering options.",
+          "fr": "Au stade Jean Adret, la Ville reunit ses associations et loisirs municipaux pour la rentree afin d'aider le public a choisir activites sportives, culturelles ou citoyennes."
+        },
+        "source_url": "https://sotteville-les-rouen.fr/app/uploads/1/2026/04/Guide-ete-jeunes-2026.pdf"
+      },
+      {
+        "date": "2026-11-01",
+        "title": {
+          "de": "10 km von Sotteville",
+          "hu": "Sotteville 10 km-es verseny",
+          "ro": "Cursa de 10 km din Sotteville",
+          "en": "10 km of Sotteville",
+          "fr": "10 km de Sotteville"
+        },
+        "summary": {
+          "de": "Die neue Stadtlauf-Veranstaltung richtet sich an unterschiedliche Leistungsniveaus; das Ziel befindet sich auf der neuen Leichtathletikbahn der Stadt.",
+          "hu": "Az uj varosi utcai futoverseny kulonbozo szinteken induloknak szol, a cel pedig a varos uj atletikai palyajan lesz.",
+          "ro": "Noua cursa urbana a orasului se adreseaza mai multor niveluri de participanti, iar sosirea va avea loc pe noua pista de atletism.",
+          "en": "This new urban road race is designed for different ability levels, with the finish on the city's new athletics track.",
+          "fr": "Cette nouvelle course urbaine s'adresse a plusieurs niveaux de pratique et se terminera sur la nouvelle piste d'athletisme de la ville."
+        },
+        "source_url": "https://sotteville-les-rouen.fr/actualite/une-equipe-municipale-au-service-de-sotteville/"
+      }
+    ]
+  },
+  {
+    "id": "epernay",
+    "events": [
+      {
+        "date": "2026-07-26",
+        "end_date": "2026-09-27",
+        "title": {
+          "de": "Vign'Art",
+          "hu": "Vign'Art",
+          "ro": "Vign'Art",
+          "en": "Vign'Art",
+          "fr": "Vign'Art"
+        },
+        "summary": {
+          "de": "Das zeitgenossische Kunst- und Land-Art-Festival prasentiert Installationen in der Champagne; in Epernay sind Werke beim Wein- und Archaologiemuseum sowie im Garten des Hauses Gosset zu sehen.",
+          "hu": "A kortars muveszeti es land art fesztival a Champagne teruleten hoz letre installaciokat; Epernay-ben a Bor- es Regeszeti Muzeumnal es a Gosset-haz kertjeben lathatok muvek.",
+          "ro": "Festivalul de arta contemporana si land art aduce instalatii in Champagne; la Epernay pot fi vazute lucrari la muzeul vinului si arheologiei si in gradina casei Gosset.",
+          "en": "The contemporary art and land-art festival spreads installations across Champagne; in Epernay, works are on view at the wine and archaeology museum and in the Gosset house garden.",
+          "fr": "Le festival d'art contemporain et de land art deploie des installations en Champagne; a Epernay, deux oeuvres sont visibles au musee du Vin de Champagne et dans le jardin de la maison Gosset."
+        },
+        "source_url": "https://epernay.fr/agenda/vignart"
+      },
+      {
+        "date": "2026-07-26",
+        "end_date": "2026-09-20",
+        "title": {
+          "de": "Ausstellung \"Etres de Champagne\" von Anne Laroque",
+          "hu": "\"Etres de Champagne\" kiallitas Anne Laroque-tol",
+          "ro": "Expozitia \"Etres de Champagne\" de Anne Laroque",
+          "en": "Exhibition \"Etres de Champagne\" by Anne Laroque",
+          "fr": "Exposition \"Etres de Champagne\" par Anne Laroque"
+        },
+        "summary": {
+          "de": "Die langlaufende Ausstellung zeigt Anne Laroques Blick auf die Champagne und ist wahrend des Sommers und bis in den September hinein in Epernay zu sehen.",
+          "hu": "A hosszan futtott kiallitas Anne Laroque szemszogebol mutatja be Champagne vilagat, es Epernay-ben egeszen szeptemberig latogathato.",
+          "ro": "Expozitia de lunga durata prezinta viziunea lui Anne Laroque asupra regiunii Champagne si poate fi vizitata la Epernay pana in septembrie.",
+          "en": "This long-running exhibition presents Anne Laroque's view of Champagne and remains open in Epernay through the summer and into September.",
+          "fr": "Cette exposition de longue duree presente le regard d'Anne Laroque sur la Champagne et reste visible a Epernay pendant l'ete et jusqu'en septembre."
+        },
+        "source_url": "https://epernay.fr/agenda/exposition-etres-de-champagne-par-anne-laroque"
+      },
+      {
+        "date": "2026-09-02",
+        "end_date": "2026-09-19",
+        "title": {
+          "de": "Ausstellung \"Legras Industries. Drei Generationen, eine Geschichte\"",
+          "hu": "\"Legras Industries. Harom generacio, egy tortenet\" kiallitas",
+          "ro": "Expozitia \"Legras Industries. Trei generatii, o istorie\"",
+          "en": "Exhibition \"Legras Industries. Three Generations, One Story\"",
+          "fr": "Exposition \"Legras Industries. Trois generations, une histoire\""
+        },
+        "summary": {
+          "de": "Die September-Ausstellung widmet sich der Industriegeschichte von Legras und verbindet lokales Erbe mit einem stadtnahen Kulturprogramm.",
+          "hu": "A szeptemberi kiallitas a Legras ipartortenetet mutatja be, es a helyi orokseget kapcsolja ossze a varosi kulturprogrammal.",
+          "ro": "Expozitia din septembrie este dedicata istoriei industriale Legras si pune in valoare patrimoniul local intr-un program cultural urban.",
+          "en": "This September exhibition focuses on the industrial history of Legras and highlights local heritage within the city's cultural program.",
+          "fr": "L'exposition de septembre est consacree a l'histoire industrielle de Legras et met en valeur le patrimoine local dans le cadre du programme culturel de la ville."
+        },
+        "source_url": "https://epernay.fr/agenda/exposition-legras-industries-trois-generations-une-histoire"
+      },
+      {
+        "date": "2026-09-15",
+        "title": {
+          "de": "Saisonprasentation des Salmanazar",
+          "hu": "A Salmanazar evadbemutato estje",
+          "ro": "Seara de prezentare a stagiunii Salmanazar",
+          "en": "Salmanazar Season Presentation Evening",
+          "fr": "Soiree de presentation de saison du Salmanazar"
+        },
+        "summary": {
+          "de": "Das Salmanazar stellt sein neues Kulturjahr vor und gibt Besucherinnen und Besuchern einen ersten Einblick in die kommende Spielzeit.",
+          "hu": "A Salmanazar bemutatja uj kulturális evadat, es elso betekintest ad a kovetkezo programokba.",
+          "ro": "Salmanazar isi prezinta noul sezon cultural si ofera publicului o prima privire asupra programului urmator.",
+          "en": "Salmanazar unveils its new cultural season and gives the public a first look at the coming program.",
+          "fr": "Le Salmanazar devoile sa nouvelle saison culturelle et offre au public un premier apercu de la programmation a venir."
+        },
+        "source_url": "https://epernay.fr/agenda/soiree-de-presentation-de-saison-du-salmanazar"
+      }
+    ]
+  },
+  {
+    "id": "city-falticeni-extra",
+    "events": [
+      {
+        "date": "2026-07-11",
+        "end_date": "2026-07-26",
+        "title": {
+          "de": "Zilele Municipiului Falticeni 2026",
+          "hu": "Falticeni Varosnapok 2026",
+          "ro": "Zilele Municipiului Falticeni 2026",
+          "en": "Falticeni City Days 2026"
+        },
+        "summary": {
+          "de": "Das Stadtfest lauft Mitte bis Ende Juli und verbindet Konzerte, Traditionen und Gemeinschaftsprogramme rund um das Patrozinium und die Feier der Stadt.",
+          "hu": "A julius kozepetol a honap vegeig tarto varosi unnep koncerteket, hagyomanyokat es kozossegi programokat kapcsol ossze a telepules founnepe korul.",
+          "ro": "Sarbatoarea orasului se desfasoara de la mijlocul pana la sfarsitul lui iulie si reuneste concerte, traditii si programe comunitare in jurul hramului orasului.",
+          "en": "The city celebration runs from mid to late July and combines concerts, traditions, and community programs around the town's patronal festivities."
+        },
+        "source_url": "https://www.facebook.com/municipiulfalticeni.primarie/posts/1343405304583920/"
+      },
+      {
+        "date": "2026-12-19",
+        "end_date": "2027-01-14",
+        "title": {
+          "de": "Oraselul copiilor",
+          "hu": "Gyermekvaroska",
+          "ro": "Oraselul copiilor",
+          "en": "Children's Holiday Village"
+        },
+        "summary": {
+          "de": "Im Parcul Prefecturii entsteht zur Feiertagssaison ein Kinderdorf mit winterlicher Familienatmosphare im Stadtzentrum.",
+          "hu": "Az unnepi idoszakban a Prefektura parkjaban gyermekvaroska varja a csaladokat teli hangulattal a belvarosban.",
+          "ro": "In Parcul Prefecturii este organizat in perioada sarbatorilor un orasel pentru copii, cu atmosfera de iarna in centrul orasului.",
+          "en": "A holiday children's village is set up in Parcul Prefecturii, bringing a winter family atmosphere to the town center."
+        },
+        "source_url": "https://www.falticeni.ro/proiecte/2025/proiect%20privind%20aprobarea%20organizarii%201%20decembrie%2027%20noiembrie%202025.pdf",
+        "period": {
+          "recurrent": true
+        }
+      },
+      {
+        "date": "2026-12-27",
+        "title": {
+          "de": "Festival der Weihnachts- und Neujahrsbrauche \"Sfanta-i brazda plugului\"",
+          "hu": "\"Sfanta-i brazda plugului\" karacsonyi es ujévi nepszokasfesztival",
+          "ro": "Festivalul de datini si obiceiuri \"Sfanta-i brazda plugului\"",
+          "en": "Christmas and New Year Traditions Festival \"Sfanta-i brazda plugului\""
+        },
+        "summary": {
+          "de": "Das zentrale Traditionsfestival bringt Ende Dezember Weihnachts- und Neujahrsbrauche in die Innenstadt von Falticeni.",
+          "hu": "A december vegi hagyomanyorzo fesztival karacsonyi es ujévi nepszokasokat visz Falticeni kozpontjaba.",
+          "ro": "Festivalul traditional de la sfarsitul lui decembrie aduce in centrul municipiului obiceiuri de Craciun si Anul Nou.",
+          "en": "This year-end traditions festival brings Christmas and New Year customs to central Falticeni."
+        },
+        "source_url": "https://www.falticeni.ro/proiecte/2025/proiect%20privind%20aprobarea%20organizarii%201%20decembrie%2027%20noiembrie%202025.pdf",
+        "period": {
+          "recurrent": true
+        }
+      }
+    ]
+  },
+  {
+    "id": "belgium-courcelles-cities-v2",
+    "events": [
+      {
+        "date": "2026-09-11",
+        "title": {
+          "de": "Vendredis Locaux - Je bouge, je lis",
+          "hu": "Vendredis Locaux - Mozgok es olvasok",
+          "ro": "Vendredis Locaux - Ma misc si citesc",
+          "en": "Local Fridays - I Move, I Read",
+          "fr": "Vendredis Locaux - Je bouge, je lis"
+        },
+        "summary": {
+          "de": "Auf dem Vorplatz des Hotels de Ville treffen sich lokale Produzenten, Kunsthandwerker, Konzerte und Familienanimationen zu einem geselligen Septemberabend.",
+          "hu": "A varoshaza elotti teren helyi termelok, kezmuvesek, koncertek es csaladi programok varjak a kozonseget egy baratsagos szeptemberi esten.",
+          "ro": "Pe esplanada hotelului de ville, producatorii locali, artizanii, concertele si animatiile pentru familii se reunesc intr-o seara conviviala de septembrie.",
+          "en": "On the forecourt of the town hall, local producers, artisans, concerts, and family activities come together for a convivial September evening.",
+          "fr": "Sur le parvis de l'hotel de ville, producteurs locaux, artisans, concerts et animations familiales se retrouvent pour une soiree conviviale de septembre."
+        },
+        "source_url": "https://www.courcelles.eu/courcelles-eu/evenement/vendredis-locaux-je-bouge-je-lis"
+      },
+      {
+        "date": "2026-09-11",
+        "title": {
+          "de": "Vendredis Locaux 2026",
+          "hu": "Vendredis Locaux 2026",
+          "ro": "Vendredis Locaux 2026",
+          "en": "Vendredis Locaux 2026",
+          "fr": "Vendredis Locaux 2026"
+        },
+        "summary": {
+          "de": "Die 2026er Reihe der kommunalen Markt- und Begegnungsabende bringt rund 30 Aussteller sowie Animationen und Musik nach Courcelles.",
+          "hu": "A telepulesi piac- es kozossegi estek 2026-os sorozata mintegy 30 kiallitot, valamint programokat es zenet hoz Courcelles-be.",
+          "ro": "Seria comunala de seri locale din 2026 aduce la Courcelles aproximativ 30 de expozanti, animatii si muzica.",
+          "en": "The commune's 2026 series of local evening markets brings around 30 exhibitors, entertainment, and music to Courcelles.",
+          "fr": "La serie communale 2026 des soirees locales rassemble a Courcelles une trentaine d'exposants, des animations et de la musique."
+        },
+        "source_url": "https://www.courcelles.eu/courcelles-eu/evenement"
+      },
+      {
+        "date": "2026-12-05",
+        "end_date": "2026-12-28",
+        "title": {
+          "de": "Les Feeries de Courcelles",
+          "hu": "Courcelles teli fenyei",
+          "ro": "Feeriile din Courcelles",
+          "en": "Courcelles Winter Fairies",
+          "fr": "Les Feeries de Courcelles"
+        },
+        "summary": {
+          "de": "Die winterliche Festreihe auf der Place Roosevelt kombiniert Kunsthandwerk, saisonale Produkte und weihnachtliche Stimmung uber mehrere Dezemberwochen.",
+          "hu": "A Place Roosevelt teli unnepi sorozata kezmuves standokat, szezonalis finomsagokat es karacsonyi hangulatot kinal tobb decemberi hetvegen at.",
+          "ro": "Programul festiv de iarna din Place Roosevelt reuneste produse artizanale, bunatati de sezon si atmosfera de Craciun pe parcursul mai multor saptamani din decembrie.",
+          "en": "This winter festive series on Place Roosevelt combines crafts, seasonal treats, and a Christmas atmosphere across several December weeks.",
+          "fr": "La serie festive hivernale sur la place Roosevelt reunit artisanat, produits de saison et ambiance de Noel pendant plusieurs semaines de decembre."
+        },
+        "source_url": "https://www.facebook.com/communedecourcelles/posts/1301957298631485/",
+        "period": {
+          "recurrent": true
+        }
+      }
+    ]
+  },
+  {
+    "id": "city-kiskunhalas-extra",
+    "events": [
+      {
+        "date": "2026-08-20",
+        "title": {
+          "de": "Feier zum 20. August",
+          "hu": "Augusztus 20-i unnepseg",
+          "ro": "Sarbatoarea din 20 august",
+          "en": "20 August Celebration"
+        },
+        "summary": {
+          "de": "Der ungarische Nationalfeiertag wird in Kiskunhalas jahrlich mit traditionellen, kirchlichen und musikalischen Programmen begangen.",
+          "hu": "Kiskunhalason minden evben hagyomanyorzo, egyhazi es koncertprogramok kiserik az allamalapitas unnepet.",
+          "ro": "La Kiskunhalas, sarbatoarea nationala a Ungariei este marcata anual prin programe traditionale, religioase si concerte.",
+          "en": "In Kiskunhalas, Hungary's national day is marked each year with traditional, church, and concert programming."
+        },
+        "source_url": "https://www.kiskunhalas.hu/kiskunhalas/kultura",
+        "period": {
+          "recurrent": true
+        }
+      },
+      {
+        "date": "2026-09-11",
+        "end_date": "2026-09-13",
+        "title": {
+          "de": "Halasi Weinlesefestival",
+          "hu": "Halasi Szureti Fesztival",
+          "ro": "Festivalul recoltei din Halas",
+          "en": "Halasi Harvest Festival"
+        },
+        "summary": {
+          "de": "Das traditionsreiche Weinlesefestival lockt am zweiten Septemberwochenende mit Buhnenprogramm und Feststimmung auf den Hauptplatz von Kiskunhalas.",
+          "hu": "A tobb mint negy evtizedes hagyomanyu szureti fesztival a szeptember masodik hetvegejen szinpadi programokkal es varosi unnepi hangulattal telik meg a foteren.",
+          "ro": "Festivalul culesului strugurilor, cu traditie de peste patru decenii, aduce in al doilea weekend din septembrie spectacole si atmosfera de sarbatoare in piata centrala.",
+          "en": "The long-running harvest festival fills Kiskunhalas's main square on the second weekend of September with stage programming and festive city-center atmosphere."
+        },
+        "source_url": "https://www.kiskunhalas.hu/kiskunhalas/kultura",
+        "period": {
+          "recurrent": true
+        }
+      },
+      {
+        "date": "2026-09-10",
+        "end_date": "2026-12-04",
+        "title": {
+          "de": "Kiskunhalaser Herbstausstellung",
+          "hu": "Kiskunhalasi Oszi Tarlat",
+          "ro": "Expozitia de toamna din Kiskunhalas",
+          "en": "Kiskunhalas Autumn Exhibition"
+        },
+        "summary": {
+          "de": "Das Thorma Janos Museum plant im Herbst wieder seine saisonale Ausstellung und Begleitprogramme als wichtigen Termin des Kulturkalenders.",
+          "hu": "A Thorma Janos Muzeum oszi idoszaki kiallitasa es kapcsolodo programjai a varos kulturális naptaranak fontos esemenyei.",
+          "ro": "Muzeul Thorma Janos programeaza din nou toamna expozitia sezoniera si programele conexe, un reper important al calendarului cultural local.",
+          "en": "The Thorma Janos Museum schedules its autumn exhibition and related programs again as a key fixture in the town's cultural calendar."
+        },
+        "source_url": "https://www.thormajanosmuzeum.hu/abef23517e8b6434b009bf0ae4695df3"
+      },
+      {
+        "date": "2026-12-01",
+        "end_date": "2026-12-31",
+        "title": {
+          "de": "Adventstage in Kiskunhalas",
+          "hu": "Adventi Napok Kiskunhalason",
+          "ro": "Zilele de Advent la Kiskunhalas",
+          "en": "Advent Days in Kiskunhalas"
+        },
+        "summary": {
+          "de": "Im Dezember fullen Marktstande, Lichter und Buhnenprogramme die Innenstadt im Rahmen der traditionellen Adventszeit.",
+          "hu": "Decemberben vasarosok, fenyek es unnepi fellepok toltik meg a belvarost a hagyomanyos adventi programsorozat idejen.",
+          "ro": "In decembrie, targul, luminile si spectacolele festive animeaza centrul orasului in cadrul programului traditional de Advent.",
+          "en": "In December, market stalls, lights, and festive performances fill the town center during the traditional Advent program."
+        },
+        "source_url": "https://www.kiskunhalas.hu/kiskunhalas/kultura",
+        "period": {
+          "recurrent": true
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,449 @@
+[
+  {
+    "id": "almunecar",
+    "events": [
+      {
+        "title": {
+          "de": "Patronatsfest der Virgen de la Antigua",
+          "hu": "A Virgen de la Antigua patr?nus?nnepe",
+          "ro": "S?rb?toarea patroanei Virgen de la Antigua",
+          "en": "Feast of the Virgin of Antiquity"
+        },
+        "summary": {
+          "de": "Offizielle Hauptfeier Almu??cars mit religi?sen und festlichen Programmpunkten rund um die Schutzpatronin der Stadt am 15. August.",
+          "hu": "Almu??car hivatalos v?rosi f??nnepe vall?si ?s ?nnepi programokkal a telep?l?s v?d?szentje, a Virgen de la Antigua tisztelet?re augusztus 15-?n.",
+          "ro": "S?rb?toarea oficial? principal? a ora?ului Almu??car, cu program religios ?i festiv dedicat patroanei locale Virgen de la Antigua pe 15 august.",
+          "en": "Almu??car?s main official town festival, with religious and festive programming centered on the patron saint Virgen de la Antigua on 15 August."
+        },
+        "date": "2026-08-15",
+        "source_url": "https://www.visitalmunecar.es/"
+      },
+      {
+        "title": {
+          "de": "Fiestas de San Miguel",
+          "hu": "San Miguel ?nnepe",
+          "ro": "Fiestas de San Miguel",
+          "en": "San Miguel Festivities"
+        },
+        "summary": {
+          "de": "Ende September verzeichnet das offizielle Tourismusportal die Fiestas de San Miguel als traditionelle Gemeindefeier am 29. September.",
+          "hu": "A hivatalos turisztikai port?l szeptember 29-re hagyom?nyos helyi ?nnepk?nt jel?li a San Miguel-?nnepet.",
+          "ro": "Portalul oficial de turism indic? Fiestas de San Miguel ca s?rb?toare tradi?ional? local? desf??urat? pe 29 septembrie.",
+          "en": "The official tourism portal lists the San Miguel festivities as a traditional local celebration held on 29 September."
+        },
+        "date": "2026-09-29",
+        "source_url": "https://www.visitalmunecar.es/"
+      },
+      {
+        "title": {
+          "de": "Fiestas Carrera de la Concepci?n",
+          "hu": "Carrera de la Concepci?n ?nnepe",
+          "ro": "Fiestas Carrera de la Concepci?n",
+          "en": "Carrera de la Concepci?n Festivities"
+        },
+        "summary": {
+          "de": "Das offizielle Tourismusportal f?hrt diese traditionelle Feier in Almu??car f?r den 8. Dezember als winterlichen Festtermin im Gemeindekalender.",
+          "hu": "A hivatalos turisztikai port?l ezt a hagyom?nyos almu??cari ?nnepet december 8-ra teszi a helyi t?li esem?nynapt?rban.",
+          "ro": "Portalul oficial de turism include aceast? s?rb?toare tradi?ional? din Almu??car pe 8 decembrie, ca eveniment de iarn? ?n calendarul local.",
+          "en": "The official tourism portal lists this traditional Almu??car celebration on 8 December as part of the town?s winter festivities calendar."
+        },
+        "date": "2026-12-08",
+        "source_url": "https://www.visitalmunecar.es/"
+      }
+    ]
+  },
+  {
+    "id": "sens",
+    "events": [
+      {
+        "title": {
+          "de": "Gar?on, la note!",
+          "hu": "Gar?on, la note!",
+          "ro": "Gar?on, la note!",
+          "en": "Gar?on, la note!",
+          "fr": "Gar?on, la note !"
+        },
+        "summary": {
+          "de": "Kostenlose Sommerkonzerte auf Caf?- und Restaurantterrassen in Sens und im S?nonais; 36 Termine sind 2026 zwischen Juni und August geplant.",
+          "hu": "Ingyenes ny?ri koncertek Sens ?s a S?nonais k?v?z?- ?s ?tteremteraszaiban; 2026-ban ?sszesen 36 id?pont szerepel j?nius ?s augusztus k?z?tt.",
+          "ro": "Serie de concerte gratuite de var? pe terasele cafenelelor ?i restaurantelor din Sens ?i S?nonais, cu 36 de date programate ?ntre iunie ?i august 2026.",
+          "en": "A free summer concert series on caf? and restaurant terraces across Sens and the S?nonais, with 36 dates scheduled between June and August 2026.",
+          "fr": "Festival de concerts gratuits sur les terrasses des caf?s et restaurants du S?nonais, avec 36 dates programm?es entre juin et ao?t 2026."
+        },
+        "date": "2026-07-27",
+        "source_url": "https://www.tourisme-sens.com/je-decouvre/fetes-et-temps-forts-le-sens-de-la-fete/garcon-la-note/",
+        "period": {
+          "recurrent": true,
+          "applies_on_day": "Monday",
+          "start_time": "21:00:00",
+          "end_time": "23:00:00"
+        },
+        "end_date": "2026-08-31"
+      },
+      {
+        "title": {
+          "de": "La Fresque",
+          "hu": "La Fresque t?rt?nelmi el?ad?s",
+          "ro": "La Fresque",
+          "en": "La Fresque historical show",
+          "fr": "La Fresque"
+        },
+        "summary": {
+          "de": "Historisches Abendspektakel in Sens mit mehreren Vorstellungen im August 2026, jeweils ab 21:15 Uhr.",
+          "hu": "T?rt?nelmi esti l?tv?nyel?ad?s Sens-ben, t?bb augusztusi 2026-os id?ponttal, minden alkalommal 21:15-t?l.",
+          "ro": "Spectacol istoric de sear? la Sens, programat ?n mai multe seri din august 2026, de la ora 21:15.",
+          "en": "A historical night show in Sens with multiple performance dates in August 2026, each starting from 9:15 p.m.",
+          "fr": "Spectacle historique nocturne ? Sens, propos? ? plusieurs dates en ao?t 2026 ? partir de 21h15."
+        },
+        "date": "2026-08-07",
+        "source_url": "https://www.tourisme-sens.com/agenda/la-fresque-spectacle-historique/",
+        "period": {
+          "recurrent": true,
+          "applies_on_day": "Friday",
+          "start_time": "21:15:00",
+          "end_time": null
+        },
+        "end_date": "2026-08-22"
+      },
+      {
+        "title": {
+          "de": "Ap?ro-concerts",
+          "hu": "Ap?ro-concerts",
+          "ro": "Ap?ro-concerts",
+          "en": "Ap?ro concerts",
+          "fr": "Ap?ro concerts"
+        },
+        "summary": {
+          "de": "Kostenlose Mittwochabend-Konzerte im Juli und August mit wechselnden Acts wie Zikr?ole, Richard Delmas, DJ Toby und You and Me.",
+          "hu": "Ingyenes szerda esti koncertsorozat j?liusban ?s augusztusban v?ltakoz? fell?p?kkel, k?zt?k Zikr?ole, Richard Delmas, DJ Toby ?s You and Me.",
+          "ro": "Concerte gratuite de miercuri seara ?n iulie ?i august, cu arti?ti diferi?i precum Zikr?ole, Richard Delmas, DJ Toby ?i You and Me.",
+          "en": "Free Wednesday evening concerts in July and August featuring changing acts including Zikr?ole, Richard Delmas, DJ Toby and You and Me.",
+          "fr": "Concerts gratuits du mercredi en juillet et ao?t avec des artistes vari?s comme Zikr?ole, Richard Delmas, DJ Toby et You and Me."
+        },
+        "date": "2026-08-05",
+        "source_url": "https://www.tourisme-sens.com/agenda/apero-concerts-2/",
+        "period": {
+          "recurrent": true,
+          "applies_on_day": "Wednesday",
+          "start_time": null,
+          "end_time": null
+        },
+        "end_date": "2026-08-26"
+      },
+      {
+        "title": {
+          "de": "Wei?es Dinner am Place Jean-Cousin",
+          "hu": "Feh?r vacsora a Jean-Cousin t?ren",
+          "ro": "Cin? alb? ?n pia?a Jean-Cousin",
+          "en": "White dinner at Jean Cousin Square",
+          "fr": "D?ner blanc ? chez Jean Cousin"
+        },
+        "summary": {
+          "de": "Open-Air-Abendessen in Wei? auf dem Place Jean-Cousin in Sens, laut Tourismusb?ro am Samstagabend des 29. August 2026.",
+          "hu": "Feh?r ruh?s szabadt?ri k?z?ss?gi vacsora a sens-i Jean-Cousin t?ren 2026. augusztus 29-?n, szombat este.",
+          "ro": "Cin? ?n aer liber, cu cod vestimentar alb, organizat? ?n Place Jean-Cousin din Sens ?n seara de s?mb?t?, 29 august 2026.",
+          "en": "An open-air white-themed communal dinner on Jean Cousin Square in Sens, scheduled for Saturday evening, 29 August 2026.",
+          "fr": "Grand d?ner en blanc en plein air sur la place Jean-Cousin ? Sens, programm? le samedi 29 ao?t 2026 en soir?e."
+        },
+        "date": "2026-08-29",
+        "source_url": "https://en.tourisme-sens.com/events/white-dinner-at-jean-cousins/"
+      },
+      {
+        "title": {
+          "de": "F?te de la Saint-Fiacre",
+          "hu": "Saint-Fiacre ?nnepe",
+          "ro": "F?te de la Saint-Fiacre",
+          "en": "Saint Fiacre Festival",
+          "fr": "F?te de la Saint-Fiacre"
+        },
+        "summary": {
+          "de": "Traditionsfest der G?rtner und Floristen mit gro?er Messe, pr?chtig geschm?ckter Kathedrale, Blumenkarren und Pflanzenmarkt in Sens.",
+          "hu": "Hagyom?nyos kert?sz- ?s vir?gk?t??nnep nagymis?vel, gazdagon feld?sz?tett sz?kesegyh?zzal, vir?gos talicsk?kkal ?s n?v?nyv?s?rral Sens-ben.",
+          "ro": "S?rb?toare tradi?ional? a horticultorilor ?i gr?dinarilor, cu slujb? solemn?, catedrala decorat? floral, care alegorice ?i t?rg de plante la Sens.",
+          "en": "A traditional festival of gardeners and growers featuring a major mass, a flower-decorated cathedral, floral carts and a plant fair in Sens.",
+          "fr": "F?te traditionnelle des mara?chers et jardiniers avec grande messe, cath?drale fleurie, brouettes d?cor?es et foire aux plantes ? Sens."
+        },
+        "date": "2026-09-20",
+        "source_url": "https://www.tourisme-sens.com/je-decouvre/fetes-et-temps-forts-le-sens-de-la-fete/fete-de-la-saint-fiacre/"
+      }
+    ]
+  },
+  {
+    "id": "city-sebes-extra",
+    "events": [
+      {
+        "title": {
+          "de": "Tag der rum?nischen Nationalhymne",
+          "hu": "A rom?n himnusz napja",
+          "ro": "Ziua Imnului Na?ional al Rom?niei",
+          "en": "Romanian National Anthem Day"
+        },
+        "summary": {
+          "de": "Im offiziellen Kulturprogramm 2026 von Sebe? steht am 29. Juli eine ?ffentliche Veranstaltung rund um die Nationalhymne als Symbol der Einheit.",
+          "hu": "Sebe? 2026-os hivatalos kultur?lis programja j?lius 29-?n nyilv?nos esem?nyt ?r el? a rom?n himnusz k?r?, az egys?g szimb?lumak?nt.",
+          "ro": "Programul cultural oficial 2026 al municipiului Sebe? include pe 29 iulie o manifestare public? dedicat? Imnului Na?ional, ca simbol al unit??ii.",
+          "en": "Sebe??s official 2026 cultural program includes a public event on 29 July dedicated to the national anthem as a symbol of unity."
+        },
+        "date": "2026-07-29",
+        "source_url": "https://www.primariasebes.ro/wp-content/uploads/2026/04/pct-10-site.pdf"
+      },
+      {
+        "title": {
+          "de": "Europ?ische Mobilit?tswoche und Monat der Bewegung",
+          "hu": "Eur?pai mobilit?si h?t ?s a mozg?s h?napja",
+          "ro": "S?pt?m?na european? a mobilit??ii ?i luna mi?c?rii",
+          "en": "European Mobility Week and Month of Movement"
+        },
+        "summary": {
+          "de": "Das offizielle Sozial- und Veranstaltungsprogramm von Sebe? plant Wettbewerbe und Aktionen f?r Jugendliche und Erwachsene zur F?rderung aktiver Mobilit?t und eines gesunden Lebensstils.",
+          "hu": "Sebe? hivatalos szociokultur?lis programja ifj?s?gi ?s feln?tt versenyeket, illetve aktivit?sokat tervez az akt?v k?zleked?s ?s az eg?szs?ges ?letm?d n?pszer?s?t?s?re.",
+          "ro": "Programul socio-cultural oficial al Sebe?ului prevede concursuri ?i activit??i pentru tineri ?i adul?i, promov?nd mobilitatea activ? ?i un stil de via?? s?n?tos.",
+          "en": "The official socio-cultural program for Sebe? schedules contests and activities for young people and adults to promote active mobility and healthy living."
+        },
+        "date": "2026-09-16",
+        "source_url": "https://www.primariasebes.ro/wp-content/uploads/2026/01/pct-7-site.pdf",
+        "period": {
+          "recurrent": true,
+          "applies_on_day": null,
+          "start_time": null,
+          "end_time": null
+        },
+        "end_date": "2026-09-22"
+      },
+      {
+        "title": {
+          "de": "Tag der Senioren: Eine Chrysantheme f?r das dritte Lebensalter",
+          "hu": "Id?sek napja: Krizant?m a sz?pkor?aknak",
+          "ro": "Ziua V?rstnicului - O crizantem? pentru v?rsta a treia",
+          "en": "Older Persons? Day - A Chrysanthemum for the Third Age"
+        },
+        "summary": {
+          "de": "Im offiziellen Sebe?-Programm 2026 ist eine eigene Veranstaltung f?r ?ltere B?rgerinnen und B?rger vorgesehen, einschlie?lich Ehrung langj?hriger Ehepaare.",
+          "hu": "A hivatalos 2026-os sebesi program k?l?n esem?nyt ir?nyoz el? az id?sek sz?m?ra, bele?rtve az 50 ?ve h?zas p?rok k?sz?nt?s?t is.",
+          "ro": "Programul oficial 2026 al municipiului Sebe? include un eveniment dedicat seniorilor, cu premiere pentru cuplurile care s?rb?toresc 50 de ani de c?snicie.",
+          "en": "Sebe??s official 2026 program includes a dedicated public event for older residents, including recognition for couples marking 50 years of marriage."
+        },
+        "date": "2026-10-01",
+        "source_url": "https://www.primariasebes.ro/wp-content/uploads/2026/01/HCL-4-site.pdf"
+      },
+      {
+        "title": {
+          "de": "Internationaler Tag der Menschen mit Behinderungen",
+          "hu": "A fogyat?koss?ggal ?l? szem?lyek nemzetk?zi napja",
+          "ro": "Ziua Interna?ional? a Persoanelor cu Dizabilit??i",
+          "en": "International Day of Persons with Disabilities"
+        },
+        "summary": {
+          "de": "Das offizielle Kulturprogramm von Sebe? sieht f?r Dezember 2026 ?ffentlich zug?ngliche kulturell-didaktische Aktivit?ten zum internationalen Aktionstag vor.",
+          "hu": "Sebe? hivatalos kultur?lis programja 2026 december?re nyilv?nos kultur?lis ?s oktat?si programokat ?r el? a nemzetk?zi vil?gnaphoz kapcsol?dva.",
+          "ro": "Programul cultural oficial al Sebe?ului prevede pentru decembrie 2026 activit??i cultural-didactice deschise publicului, dedicate acestei zile interna?ionale.",
+          "en": "Sebe??s official cultural program plans public cultural and educational activities in December 2026 for this international observance."
+        },
+        "date": "2026-12-03",
+        "source_url": "https://www.primariasebes.ro/wp-content/uploads/2026/04/pct-10-site.pdf"
+      }
+    ]
+  },
+  {
+    "id": "forbach",
+    "events": [
+      {
+        "title": {
+          "de": "Bibliotricot",
+          "hu": "Bibliotricot k?zimunkaklub",
+          "ro": "Bibliotricot",
+          "en": "Bibliotricot craft meetup",
+          "fr": "Bibliotricot"
+        },
+        "summary": {
+          "de": "Offener Treff in Forbach zum Stricken, H?keln, Sticken und Kreuzstich; auch Einsteigerinnen und Einsteiger sind willkommen.",
+          "hu": "Nyitott tal?lkoz? Forbach-ban k?t?shez, horgol?shoz, h?mz?shez ?s keresztszemes munk?hoz, kezd?k sz?m?ra is.",
+          "ro": "?nt?lnire deschis? la Forbach pentru tricotat, cro?etat, broderie ?i lucru manual, potrivit? ?i pentru ?ncep?tori.",
+          "en": "An open meetup in Forbach for knitting, crochet, embroidery and other needlework, welcoming beginners as well.",
+          "fr": "Rendez-vous convivial ? Forbach pour tricoter, crocheter, broder et avancer ses ouvrages, ouvert aussi aux d?butants."
+        },
+        "date": "2026-07-26",
+        "source_url": "https://paysdeforbach.com/"
+      },
+      {
+        "title": {
+          "de": "Markt der Gen?sse",
+          "hu": "?zek piaca",
+          "ro": "March? des saveurs",
+          "en": "Market of Flavours",
+          "fr": "March? des saveurs"
+        },
+        "summary": {
+          "de": "Monatlicher Genussmarkt auf dem Place Aristide-Briand mit rund 30 Ausstellern, regionalen Spezialit?ten und begleitenden Animationen.",
+          "hu": "Havi gasztron?miai piac a Place Aristide-Briand t?ren mintegy 30 ki?ll?t?val, helyi k?l?nlegess?gekkel ?s k?s?r? programokkal.",
+          "ro": "Pia?? gastronomic? lunar? ?n Place Aristide-Briand, cu aproximativ 30 de expozan?i, produse regionale ?i anima?ii.",
+          "en": "A monthly food market on Place Aristide-Briand with around 30 vendors, regional specialties and added entertainment.",
+          "fr": "March? gourmand mensuel place Aristide-Briand avec une trentaine d?exposants, des sp?cialit?s du terroir et des animations."
+        },
+        "date": "2026-08-05",
+        "source_url": "https://paysdeforbach.com/fiche-sit/F1306001147_marche-des-saveurs-forbach/"
+      },
+      {
+        "title": {
+          "de": "Le Marque-page",
+          "hu": "Le Marque-page olvas?klub",
+          "ro": "Le Marque-page",
+          "en": "Le Marque-page book club",
+          "fr": "Le Marque-page"
+        },
+        "summary": {
+          "de": "Literarischer Austausch in der M?diath?que Roger Bichelberger, bei dem Teilnehmende Lekt?refavoriten mitbringen und besprechen.",
+          "hu": "Irodalmi besz?lget?s a M?diath?que Roger Bichelbergerben, ahol a r?sztvev?k kedvenc olvasm?nyaikat hozz?k ?s aj?nlj?k egym?snak.",
+          "ro": "?nt?lnire literar? la M?diath?que Roger Bichelberger, unde participan?ii ??i aduc ?i discut? c?r?ile preferate.",
+          "en": "A literary meetup at the Roger Bichelberger media library where participants bring and discuss favorite books.",
+          "fr": "Rencontre litt?raire ? la m?diath?que Roger Bichelberger pour ?changer autour de ses coups de c?ur et des derni?res lectures."
+        },
+        "date": "2026-08-08",
+        "source_url": "https://paysdeforbach.com/en/fiche-sit/F1306007134_le-marque-page-forbach-en/"
+      },
+      {
+        "title": {
+          "de": "Gef?hrte Besichtigung der Kirche Saint-?loi",
+          "hu": "T?rlatvezet?s a Saint-?loi-templomban",
+          "ro": "Vizit? ghidat? la biserica Saint-?loi",
+          "en": "Guided visit of Saint-?loi Church",
+          "fr": "Visite comment?e ?glise Saint-?loi"
+        },
+        "summary": {
+          "de": "Kommentierte Besichtigung von Innenraum und Au?enbereich der Kirche in Folkling mit Fokus auf Glocken, Kreuzweg und Kirchturm.",
+          "hu": "Vezetett bej?r?s a folklingi templom bels? ?s k?ls? tereiben, a harangokkal, a kereszt?ttal ?s a toronyl?togat?ssal.",
+          "ro": "Vizit? comentat? ?n interiorul ?i exteriorul bisericii din Folkling, cu accent pe clopote, Calea Crucii ?i turn.",
+          "en": "A guided tour of the church in Folkling covering both interior and exterior, including the bells, stations of the cross and the bell tower.",
+          "fr": "Visite comment?e int?rieure et ext?rieure de l??glise de Folkling, avec d?couverte des cloches, du chemin de croix et du clocher."
+        },
+        "date": "2026-08-08",
+        "source_url": "https://paysdeforbach.com/fiche-sit/F1306001842_eglise-saint-eloi-folkling/",
+        "end_date": "2026-08-09"
+      }
+    ]
+  },
+  {
+    "id": "cavaillon",
+    "events": [
+      {
+        "title": {
+          "de": "Montagsmarkt von Cavaillon",
+          "hu": "Cavaillon h?tf?i piaca",
+          "ro": "Pia?a de luni din Cavaillon",
+          "en": "Cavaillon Monday Market",
+          "fr": "March? de Cavaillon"
+        },
+        "summary": {
+          "de": "Der Wochenmarkt belebt montags das Stadtzentrum von Cavaillon mit rund 200 H?ndlerst?nden vom Cours Bournissac bis zur Place du Clos.",
+          "hu": "A heti piac h?tf?nk?nt megt?lti Cavaillon belv?ros?t mintegy 200 ?russal a Cours Bournissac ?s a Place du Clos k?z?tt.",
+          "ro": "Pia?a s?pt?m?nal? anim? centrul ora?ului Cavaillon ?n fiecare luni, cu aproximativ 200 de comercian?i ?ntre Cours Bournissac ?i Place du Clos.",
+          "en": "The weekly market fills central Cavaillon every Monday with around 200 traders from Cours Bournissac to Place du Clos.",
+          "fr": "Le march? hebdomadaire anime le centre-ville de Cavaillon chaque lundi avec pr?s de 200 forains du cours Bournissac ? la place du Clos."
+        },
+        "date": "2026-07-27",
+        "source_url": "https://www.destinationluberon.com/tasting/marches/marche-de-cavaillon",
+        "period": {
+          "recurrent": true,
+          "applies_on_day": "Monday",
+          "start_time": "08:00:00",
+          "end_time": "13:00:00"
+        },
+        "end_date": "2026-12-31"
+      },
+      {
+        "title": {
+          "de": "Triennale de l??t?",
+          "hu": "Triennale de l??t?",
+          "ro": "Triennale de l??t?",
+          "en": "Summer Triennial",
+          "fr": "Triennale de l??t?"
+        },
+        "summary": {
+          "de": "Sommerausstellung in der Galerie Heckel in Cavaillon mit freiem Eintritt, ge?ffnet von Mitte Juli bis Ende September 2026.",
+          "hu": "Ny?ri ki?ll?t?s a cavailloni Galerie Heckelben, ingyenes bel?p?ssel, 2026 j?lius k?zep?t?l szeptember v?g?ig.",
+          "ro": "Expozi?ie de var? la galerie Heckel din Cavaillon, cu acces liber, deschis? de la mijlocul lui iulie p?n? la sf?r?itul lui septembrie 2026.",
+          "en": "A summer exhibition at Galerie Heckel in Cavaillon with free entry, open from mid-July to the end of September 2026.",
+          "fr": "Exposition estivale ? la galerie Heckel ? Cavaillon, en acc?s libre, du milieu de juillet ? la fin septembre 2026."
+        },
+        "date": "2026-07-26",
+        "source_url": "https://www.destinationluberon.com/page/triennale-de-l-ete%2B79023.html",
+        "end_date": "2026-09-30"
+      },
+      {
+        "title": {
+          "de": "Gef?hrte Besichtigung der Kathedrale von Cavaillon",
+          "hu": "Vezetett l?togat?s a cavailloni sz?kesegyh?zban",
+          "ro": "Vizit? ghidat? a catedralei din Cavaillon",
+          "en": "Guided tour of Cavaillon Cathedral",
+          "fr": "Visite guid?e de la cath?drale de Cavaillon et ses d?cors"
+        },
+        "summary": {
+          "de": "Gef?hrte Tour durch die ehemalige Kathedrale mit romanischer Architektur, farbigen Malereien des 19. Jahrhunderts und bedeutender Kirchenausstattung.",
+          "hu": "Vezetett bej?r?s az egykori sz?kesegyh?zban rom?n kori elemekkel, 19. sz?zadi sz?nes falfest?sekkel ?s jelent?s berendez?ssel.",
+          "ro": "Tur ghidat al fostei catedrale, cu elemente romanice, picturi colorate din secolul al XIX-lea ?i mobilier religios remarcabil.",
+          "en": "A guided visit through the former cathedral highlighting Romanesque architecture, colorful 19th-century paintings and notable furnishings.",
+          "fr": "Visite guid?e de l?ancienne cath?drale mettant en valeur l?architecture romane, les peintures color?es du XIXe si?cle et le mobilier."
+        },
+        "date": "2026-08-12",
+        "source_url": "https://www.destinationluberon.com/page/visite-guidee-de-la-cathedrale%2B78635.html",
+        "period": {
+          "recurrent": true,
+          "applies_on_day": "Wednesday",
+          "start_time": "09:30:00",
+          "end_time": null
+        },
+        "end_date": "2026-09-30"
+      },
+      {
+        "title": {
+          "de": "Erzeugermarkt von Cavaillon",
+          "hu": "Cavaillon termel?i piaca",
+          "ro": "Pia?a produc?torilor din Cavaillon",
+          "en": "Cavaillon Producers? Market",
+          "fr": "March? des producteurs de Cavaillon"
+        },
+        "summary": {
+          "de": "Lokaler Produzentenmarkt im Grenouillet mit frischen Saisonprodukten und Food-truck-Bereich, von M?rz bis September jeden Donnerstag.",
+          "hu": "Helyi termel?i piac a Grenouillet ter?let?n friss szezon?lis term?kekkel ?s food truck z?n?val, m?rciust?l szeptemberig minden cs?t?rt?k?n.",
+          "ro": "Pia?? local? a produc?torilor ?n zona Grenouillet, cu produse de sezon ?i spa?iu cu food truck-uri, ?n fiecare joi din martie p?n? ?n septembrie.",
+          "en": "A local producers? market in the Grenouillet area with fresh seasonal goods and a food-truck area, held every Thursday from March to September.",
+          "fr": "March? de producteurs au Grenouillet avec produits frais de saison et espace food-trucks, chaque jeudi de mars ? septembre."
+        },
+        "date": "2026-07-30",
+        "source_url": "https://www.destinationluberon.com/page/marche-des-producteurs%2B55868.html",
+        "period": {
+          "recurrent": true,
+          "applies_on_day": "Thursday",
+          "start_time": "16:00:00",
+          "end_time": "18:30:00"
+        },
+        "end_date": "2026-09-24"
+      },
+      {
+        "title": {
+          "de": "Designermarkt Passage des Arts",
+          "hu": "Passage des Arts alkot?i piac",
+          "ro": "Pia?a creatorilor Passage des Arts",
+          "en": "Passage des Arts Creators Market",
+          "fr": "March? des Cr?ateurs du Passage des Arts ? Cavaillon"
+        },
+        "summary": {
+          "de": "Jeden Samstag belebt ein Kunst- und Kunsthandwerksmarkt die Rue de la R?publique mit Malerei, Skulptur, Keramik, Fotografie und Textilkunst.",
+          "hu": "Szombatonk?nt m?v?szeti ?s k?zm?ves piac t?lti meg a Rue de la R?publique-t fest?szettel, szobrokkal, ker?mi?val, fot?val ?s textilm?v?szettel.",
+          "ro": "?n fiecare s?mb?t?, rue de la R?publique g?zduie?te o pia?? de art? ?i artizanat cu pictur?, sculptur?, ceramic?, fotografie ?i textile.",
+          "en": "Every Saturday, Rue de la R?publique hosts an arts and crafts market featuring painting, sculpture, ceramics, photography and textile work.",
+          "fr": "Chaque samedi, la rue de la R?publique accueille un march? artistique et artisanal avec peinture, sculpture, c?ramique, photographie et textile."
+        },
+        "date": "2026-08-01",
+        "source_url": "https://www.destinationluberon.com/page/marche-des-createurs-du-passage-des-arts%2B77286.html",
+        "period": {
+          "recurrent": true,
+          "applies_on_day": "Saturday",
+          "start_time": "10:00:00",
+          "end_time": "18:00:00"
+        },
+        "end_date": "2026-12-26"
+      }
+    ]
+  }
+]

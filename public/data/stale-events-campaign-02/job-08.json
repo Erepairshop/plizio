@@ -1,0 +1,396 @@
+[
+  {
+    "id": "france-valence-south-cities-v2",
+    "events": [
+      {
+        "date": "2026-08-01",
+        "title": {
+          "de": "UCI Pumptrack-Weltmeisterschaften in Valence",
+          "hu": "UCI Pumptrack Világbajnokság Valence-ben",
+          "ro": "Campionatele Mondiale UCI de Pumptrack la Valence",
+          "en": "UCI Pump Track World Championships in Valence",
+          "fr": "Championnats du monde UCI de pumptrack à Valence"
+        },
+        "summary": {
+          "de": "Valence empfängt am 1. August die französische Runde der Velosolutions UCI Pump Track World Championships mit internationalen Fahrerinnen und Fahrern auf der Pumptrack-Strecke der Stadt.",
+          "hu": "Valence augusztus 1-jén ad otthont a Velosolutions UCI Pump Track World Championships francia állomásának nemzetközi mezőnnyel a városi pumpapályán.",
+          "ro": "Valence găzduiește la 1 august etapa franceză a Velosolutions UCI Pump Track World Championships, cu sportivi internaționali pe pista de pumptrack a orașului.",
+          "en": "On August 1, Valence hosts the French stop of the Velosolutions UCI Pump Track World Championships with international riders on the city's pump track.",
+          "fr": "Le 1er août, Valence accueille la manche française des Velosolutions UCI Pump Track World Championships avec des pilotes internationaux sur la piste de pumptrack de la ville."
+        },
+        "source_url": "https://www.valence.fr/evenements/championnats-du-monde-pump-track-uci-valence/"
+      },
+      {
+        "date": "2026-09-10",
+        "end_date": "2026-09-13",
+        "title": {
+          "de": "Valence en Gastronomie Festival 2026",
+          "hu": "Valence en Gastronomie Fesztivál 2026",
+          "ro": "Festivalul Valence en Gastronomie 2026",
+          "en": "Valence en Gastronomie Festival 2026",
+          "fr": "Valence en Gastronomie Festival 2026"
+        },
+        "summary": {
+          "de": "Das große Kulinarikfestival auf dem Champ de Mars bringt mehrere Tage lang Produzenten, Spitzenköche, Vorführungen und Genussveranstaltungen in die Innenstadt von Valence.",
+          "hu": "A Champ de Mars köré szervezett nagy gasztronómiai fesztivál több napon át termelőket, séfeket, bemutatókat és kóstolókat hoz Valence központjába.",
+          "ro": "Marele festival culinar de pe Champ de Mars aduce timp de mai multe zile producători, chefi, demonstrații și evenimente gastronomice în centrul orașului Valence.",
+          "en": "This major food festival on the Champ de Mars brings producers, chefs, demonstrations, and tasting-focused events to central Valence over several days.",
+          "fr": "Ce grand festival culinaire au Champ de Mars réunit pendant plusieurs jours producteurs, chefs, démonstrations et rendez-vous gourmands au cœur de Valence."
+        },
+        "source_url": "https://www.valence-romans-tourisme.com/fr/catalogue/detail/valence-2971053/valence-en-gastronomie-festival-2026-7648032/"
+      },
+      {
+        "date": "2026-09-12",
+        "title": {
+          "de": "Valence en Gastronomie: Die Nacht des Festivals",
+          "hu": "Valence en Gastronomie: A fesztivál éjszakája",
+          "ro": "Valence en Gastronomie: Noaptea festivalului",
+          "en": "Valence en Gastronomie: Festival Night",
+          "fr": "Valence en Gastronomie : la nocturne du festival"
+        },
+        "summary": {
+          "de": "Die Samstags-Nocturne des Gastronomiefestivals belebt den Champ de Mars mit Abendprogramm, kulinarischen Entdeckungen und Feststimmung im Freien.",
+          "hu": "A fesztivál szombat esti hosszabbított programja a Champ de Mars terén esti hangulatot, ízes kóstolókat és szabadtéri nyüzsgést kínál.",
+          "ro": "Nocturna de sâmbătă a festivalului gastronomic animă Champ de Mars cu program de seară, descoperiri culinare și atmosferă festivă în aer liber.",
+          "en": "The festival's Saturday night edition fills the Champ de Mars with evening programming, food discoveries, and an open-air festive atmosphere.",
+          "fr": "La nocturne du samedi anime le Champ de Mars avec des rendez-vous du soir, des découvertes culinaires et une ambiance festive en plein air."
+        },
+        "source_url": "https://www.valence-romans-tourisme.com/fr/catalogue/detail/valence-2971053/valence-en-gastronomie-festival-la-nocturne-du-festival-7910058/"
+      },
+      {
+        "date": "2026-09-12",
+        "end_date": "2026-09-13",
+        "title": {
+          "de": "Valence en Gastronomie: Talente-Bühne",
+          "hu": "Valence en Gastronomie: Tehetségek színpada",
+          "ro": "Valence en Gastronomie: Scena talentelor",
+          "en": "Valence en Gastronomie: Talent Stage",
+          "fr": "Valence en Gastronomie : la scène des talents"
+        },
+        "summary": {
+          "de": "Die Scène des Talents rückt während des Festivalwochenendes auf dem Champ de Mars kulinarische Vorführungen und aufstrebende Akteure der Gastronomie ins Zentrum.",
+          "hu": "A Scène des Talents a fesztiválhétvégén a Champ de Mars terén kulináris bemutatókkal és feltörekvő gasztronómiai szereplőkkel várja a közönséget.",
+          "ro": "Scena talentelor pune în centrul weekendului de festival de pe Champ de Mars demonstrații culinare și noi nume din gastronomie.",
+          "en": "The Talent Stage spotlights culinary demonstrations and emerging food talents during the festival weekend on the Champ de Mars.",
+          "fr": "La Scène des talents met à l'honneur démonstrations culinaires et nouveaux visages de la gastronomie pendant le week-end du festival au Champ de Mars."
+        },
+        "source_url": "https://www.valence-romans-tourisme.com/fr/catalogue/detail/valence-2971053/valence-en-gastronomie-festival-la-scene-des-talents-7910032/"
+      },
+      {
+        "date": "2026-09-13",
+        "title": {
+          "de": "Valence en Gastronomie: Abschlussabend",
+          "hu": "Valence en Gastronomie: Záróesemény",
+          "ro": "Valence en Gastronomie: Închiderea festivalului",
+          "en": "Valence en Gastronomie: Closing Event",
+          "fr": "Valence en Gastronomie : la closing"
+        },
+        "summary": {
+          "de": "Auf der Place des Clercs beendet die Closing-Veranstaltung das Festivalwochenende mit einem letzten öffentlichen Treffpunkt im Herzen der Altstadt.",
+          "hu": "A Place des Clercs téren rendezett záróprogram a fesztiválhétvégét egy utolsó belvárosi közösségi eseménnyel zárja.",
+          "ro": "Evenimentul de închidere din Place des Clercs încheie weekendul festivalului cu un ultim moment public în centrul vechi al orașului.",
+          "en": "Held on Place des Clercs, the closing event wraps up the festival weekend with a final public gathering in the old center.",
+          "fr": "Organisée place des Clercs, la closing termine le week-end du festival avec un dernier rendez-vous public au cœur du centre ancien."
+        },
+        "source_url": "https://www.valence-romans-tourisme.com/fr/catalogue/detail/valence-2971053/valence-en-gastronomie-festival-la-closing-7910047/"
+      }
+    ]
+  },
+  {
+    "id": "ro-poi-slatina",
+    "events": [
+      {
+        "date": "2026-08-11",
+        "title": {
+          "de": "Best of Toma & Popesco Stand-up in Slatina",
+          "hu": "Best of Toma & Popesco stand-up Slatinán",
+          "ro": "Stand-up Best of Toma & Popesco la Slatina",
+          "en": "Best of Toma & Popesco stand-up in Slatina"
+        },
+        "summary": {
+          "de": "Im Baroc Cafe Pub kommt das Comedy-Duo Toma und Popesco mit einem Best-of-Programm aus bekannten Stand-up-Nummern nach Slatina.",
+          "hu": "A Baroc Cafe Pubban Toma és Popesco válogatásműsorral érkezik Slatinára ismert stand-up jeleneteikkel.",
+          "ro": "La Baroc Cafe Pub, Toma și Popesco aduc la Slatina un program best-of cu numere cunoscute de stand-up.",
+          "en": "At Baroc Cafe Pub, Toma and Popesco bring a best-of stand-up set to Slatina with familiar comedy material."
+        },
+        "source_url": "https://m.iabilet.ro/bilete-in-slatina/"
+      },
+      {
+        "date": "2026-09-01",
+        "end_date": "2026-10-31",
+        "period": {
+          "recurrent": true
+        },
+        "title": {
+          "de": "Festival „Oltenii și Restu' Lumii“",
+          "hu": "„Oltenii și Restu' Lumii” fesztivál",
+          "ro": "Festivalul „Oltenii și Restu' Lumii”",
+          "en": "Oltenii și Restu' Lumii Festival"
+        },
+        "summary": {
+          "de": "Die Stadt Slatina führt das traditionsreiche Humor- und Kulturfestival „Oltenii și Restu' Lumii“ als wiederkehrende Herbstveranstaltung in ihren öffentlichen Planungsunterlagen, üblicherweise mit Comedy-, Film- und Bühnenprogrammen.",
+          "hu": "Slatina városa a „Oltenii și Restu' Lumii” humor- és kulturális fesztivált visszatérő őszi eseményként szerepelteti nyilvános tervezési dokumentumaiban, rendszerint stand-up-, filmes és színpadi programokkal.",
+          "ro": "Municipiul Slatina include festivalul de umor și cultură „Oltenii și Restu' Lumii” ca eveniment recurent de toamnă în documentele sale publice de planificare, de obicei cu programe de comedie, film și scenă.",
+          "en": "Slatina lists the long-running Oltenii și Restu' Lumii humor and culture festival as a recurring autumn event in its public planning documents, typically with comedy, film, and stage programming."
+        },
+        "source_url": "https://www.primariaslatina.ro/images/dispozitii/h_276_221024.pdf"
+      },
+      {
+        "date": "2026-10-04",
+        "title": {
+          "de": "3 Sud Est: „Amintiri pentru o viață“",
+          "hu": "3 Sud Est: „Amintiri pentru o viață”",
+          "ro": "3 Sud Est: „Amintiri pentru o viață”",
+          "en": "3 Sud Est: \"Amintiri pentru o viață\""
+        },
+        "summary": {
+          "de": "Die Popgruppe 3 Sud Est bringt ihre nationale Tour „Amintiri pentru o viață“ ins Casa de Cultură a Tineretului in Slatina.",
+          "hu": "A 3 Sud Est popzenekar az „Amintiri pentru o viață” országos turnéjával lép fel a slatinai Casa de Cultură a Tineretului színpadán.",
+          "ro": "Trupa 3 Sud Est aduce la Casa de Cultură a Tineretului din Slatina turneul național „Amintiri pentru o viață”.",
+          "en": "Pop group 3 Sud Est brings its national \"Amintiri pentru o viață\" tour to Casa de Cultură a Tineretului in Slatina."
+        },
+        "source_url": "https://www.iabilet.ro/bilete-slatina-concert-3-sud-est-amintiri-pentru-o-viata-128630/?ica_campaign=&ica_medium=mobile&ica_source=HPMobile&ica_term=&nomobile=1"
+      }
+    ]
+  },
+  {
+    "id": "montauban",
+    "events": [
+      {
+        "date": "2026-07-02",
+        "end_date": "2026-08-30",
+        "title": {
+          "de": "Les Lucioles de Montauban",
+          "hu": "Les Lucioles de Montauban",
+          "ro": "Les Lucioles de Montauban",
+          "en": "Les Lucioles de Montauban",
+          "fr": "Les Lucioles de Montauban"
+        },
+        "summary": {
+          "de": "Das Sommerprogramm verwandelt Montauban mit Lichtinstallationen, Animationen und Abendveranstaltungen bis Ende August in eine leuchtende Open-Air-Bühne.",
+          "hu": "A nyári programsorozat fényinstallációkkal, esti programokkal és szabadtéri hangulattal tölti meg Montaubant augusztus végéig.",
+          "ro": "Programul de vară transformă Montaubanul până la sfârșitul lui august într-un decor luminos cu instalații, animații și seri în aer liber.",
+          "en": "Running through late August, this summer program turns Montauban into a luminous open-air setting with light shows, animations, and evening events.",
+          "fr": "Jusqu'à la fin août, ce programme d'été transforme Montauban en décor lumineux avec installations, animations et rendez-vous du soir."
+        },
+        "source_url": "https://www.montauban-tourisme.com/sejourner/agenda/nos-grands-evenements/les-lucioles-de-montauban/"
+      },
+      {
+        "date": "2026-07-28",
+        "end_date": "2026-08-30",
+        "title": {
+          "de": "Little Film Festival in Montauban",
+          "hu": "Little Film Festival Montaubanban",
+          "ro": "Little Film Festival la Montauban",
+          "en": "Little Film Festival in Montauban",
+          "fr": "Little Film Festival à Montauban"
+        },
+        "summary": {
+          "de": "Das CGR Montauban Le Paris zeigt den Little Film Festival-Sommerzyklus für junges Publikum mit Filmen, Kinderaktionen und Nachmittagsveranstaltungen.",
+          "hu": "A CGR Montauban Le Paris a Little Film Festival nyári válogatását vetíti családbarát filmekkel és kísérő programokkal.",
+          "ro": "CGR Montauban Le Paris găzduiește ediția de vară Little Film Festival, cu filme pentru publicul tânăr și activități asociate.",
+          "en": "CGR Montauban Le Paris hosts the summer Little Film Festival with family-friendly films and related activities for younger audiences.",
+          "fr": "Le CGR Montauban Le Paris accueille la programmation estivale du Little Film Festival avec films jeune public et animations associées."
+        },
+        "source_url": "https://www.montauban-tourisme.com/en/stay/agenda/cinema-little-film-festival-montauban-en-6611082/"
+      },
+      {
+        "date": "2026-09-11",
+        "end_date": "2026-09-13",
+        "period": {
+          "recurrent": true
+        },
+        "title": {
+          "de": "Fête des 400 Coups",
+          "hu": "Fête des 400 Coups",
+          "ro": "Fête des 400 Coups",
+          "en": "Fête des 400 Coups",
+          "fr": "Fête des 400 Coups"
+        },
+        "summary": {
+          "de": "Das historische Stadtfest erinnert mit Jahrmarkt, Umzügen, Musik und Altstadtanimationen an den Widerstand Montalbans im Jahr 1621.",
+          "hu": "A történelmi városi ünnep vásárral, felvonulásokkal, zenével és belvárosi programokkal idézi fel Montauban 1621-es ellenállását.",
+          "ro": "Sărbătoarea istorică a orașului evocă rezistența Montaubanului din 1621 prin târg, defilări, muzică și animații în centrul vechi.",
+          "en": "This historic town festival commemorates Montauban's 1621 resistance with a funfair, parades, music, and programming across the old center.",
+          "fr": "Cette fête historique rend hommage à la résistance de 1621 avec fête foraine, défilés, musique et animations dans le centre ancien."
+        },
+        "source_url": "https://www.montauban-tourisme.com/sejourner/agenda/?listpage=12"
+      },
+      {
+        "date": "2026-09-24",
+        "end_date": "2026-09-26",
+        "title": {
+          "de": "Fabrique du Jazz",
+          "hu": "Fabrique du Jazz",
+          "ro": "Fabrique du Jazz",
+          "en": "Fabrique du Jazz",
+          "fr": "Fabrique du Jazz"
+        },
+        "summary": {
+          "de": "Das Festival ehrt Hugues Panassié mit mehreren Tagen Jazzkultur, Konzerten und einem Programm rund um die Jazztradition in Montauban.",
+          "hu": "A fesztivál Hugues Panassié örökségét többnapos jazzprogrammal, koncertekkel és zenei életérzéssel ünnepli Montaubanban.",
+          "ro": "Festivalul îl omagiază pe Hugues Panassié prin mai multe zile de cultură jazz, concerte și atmosferă inspirată de tradiția jazzului la Montauban.",
+          "en": "This festival honors Hugues Panassié with several days of jazz culture, concerts, and programming rooted in Montauban's jazz heritage.",
+          "fr": "Le festival rend hommage à Hugues Panassié avec plusieurs jours de culture jazz, de concerts et d'animations autour de l'art de vivre jazz."
+        },
+        "source_url": "https://www.montauban-tourisme.com/sejourner/agenda/nos-grands-evenements/fabrique-du-jazz-2/"
+      }
+    ]
+  },
+  {
+    "id": "sopron",
+    "events": [
+      {
+        "date": "2026-08-01",
+        "title": {
+          "de": "„Vagy mindent, vagy semmit...”",
+          "hu": "„Vagy mindent, vagy semmit...”",
+          "ro": "„Vagy mindent, vagy semmit...”",
+          "en": "\"Vagy mindent, vagy semmit...\""
+        },
+        "summary": {
+          "de": "Im Barlangszínház in Fertőrákos präsentiert Nyári Károly zusammen mit dem Budapest Jazz Orchestra einen Konzertabend mit neu arrangierten ungarischen und internationalen Hits.",
+          "hu": "A fertőrákosi Barlangszínházban Nyári Károly és a Budapest Jazz Orchestra új hangszerelésben ad elő magyar és nemzetközi slágereket.",
+          "ro": "La Barlangszínház din Fertőrákos, Nyári Károly și Budapest Jazz Orchestra prezintă un concert cu șlagăre maghiare și internaționale reinterpretate.",
+          "en": "At the Barlangszínház in Fertőrákos, Nyári Károly and the Budapest Jazz Orchestra perform a concert of newly arranged Hungarian and international hits."
+        },
+        "source_url": "https://www.fertorakosikofejto.hu/hu/esemenyek/192/vagy-mindent-vagy-semmit"
+      },
+      {
+        "date": "2026-08-19",
+        "title": {
+          "de": "„Sose halunk meg”",
+          "hu": "„Sose halunk meg”",
+          "ro": "„Sose halunk meg”",
+          "en": "\"Sose halunk meg\""
+        },
+        "summary": {
+          "de": "Die musikalische Bühnenfassung von „Sose halunk meg“ gastiert als Produktion des Pannon Várszínház im Barlangszínház bei Sopron.",
+          "hu": "A „Sose halunk meg” zenés színpadi változata a Pannon Várszínház előadásában érkezik a soproni térség barlangszínházi helyszínére.",
+          "ro": "Adaptarea scenică muzicală „Sose halunk meg”, în producția Pannon Várszínház, ajunge la Barlangszínház, lângă Sopron.",
+          "en": "The musical stage version of \"Sose halunk meg,\" presented by Pannon Várszínház, comes to the Barlangszínház near Sopron."
+        },
+        "source_url": "https://www.fertorakosikofejto.hu/hu/esemenyek/197/des-nemes-koltai-nogradi-sose-halunk-meg"
+      },
+      {
+        "date": "2026-08-20",
+        "title": {
+          "de": "Szimfonikus Piknik",
+          "hu": "Szimfonikus Piknik",
+          "ro": "Piknik simfonic",
+          "en": "Symphonic Picnic"
+        },
+        "summary": {
+          "de": "Das neue Open-Air-Format bringt am ungarischen Nationalfeiertag die Győri Philharmoniker mit Werken mit ungarischem Bezug in die Höhlenbühne.",
+          "hu": "Az új szabadtéri formátum augusztus 20-án magyar vonatkozású művekkel és a Győri Filharmonikus Zenekarral várja a közönséget.",
+          "ro": "Acest nou format în aer liber, organizat de ziua națională a Ungariei, aduce la scenă Orchestra Filarmonicii din Győr cu lucrări cu tematică maghiară.",
+          "en": "This new open-air format marks Hungary's national holiday with the Győr Philharmonic Orchestra performing works connected to Hungarian music."
+        },
+        "source_url": "https://www.fertorakosikofejto.hu/hu/esemenyek/198/szimfonikus-piknik"
+      },
+      {
+        "date": "2026-08-28",
+        "title": {
+          "de": "Agatha Christie-Gerald Verner: „Éjféltájt”",
+          "hu": "Agatha Christie-Gerald Verner: „Éjféltájt”",
+          "ro": "Agatha Christie-Gerald Verner: „Éjféltájt”",
+          "en": "Agatha Christie-Gerald Verner: \"Éjféltájt\""
+        },
+        "summary": {
+          "de": "Die Krimiproduktion des Orlai Produkciós Iroda bringt eine Bühnenadaption von Agatha Christie in das Barlangszínház von Fertőrákos.",
+          "hu": "Az Orlai Produkciós Iroda krimielőadása Agatha Christie színpadi világát viszi a fertőrákosi Barlangszínházba.",
+          "ro": "Producția de tip thriller a Orlai Produkciós Iroda aduce o adaptare scenică inspirată de Agatha Christie la Barlangszínház din Fertőrákos.",
+          "en": "Orlai Produkciós Iroda brings an Agatha Christie-inspired stage thriller to the Barlangszínház in Fertőrákos."
+        },
+        "source_url": "https://www.fertorakosikofejto.hu/hu/esemenyek/200/agatha-christie-gerald-verner-ejfeltajt"
+      },
+      {
+        "date": "2026-09-05",
+        "title": {
+          "de": "Mester és Marica",
+          "hu": "Mester és Marica",
+          "ro": "Mester és Marica",
+          "en": "Mester és Marica"
+        },
+        "summary": {
+          "de": "Das szenische Operettenkonzert rund um „Marica grófnő“ vereint Solisten und das Győri Philharmonische Orchester in Fertőrákos.",
+          "hu": "A „Marica grófnő” dalaira épülő szcenírozott operettkoncert szólistákkal és a Győri Filharmonikus Zenekarral érkezik Fertőrákosra.",
+          "ro": "Concertul de operetă pus în scenă în jurul piesei „Marica grófnő” reunește soliști și Orchestra Filarmonică din Győr la Fertőrákos.",
+          "en": "This staged operetta concert built around songs from \"Marica grófnő\" brings soloists and the Győr Philharmonic Orchestra to Fertőrákos."
+        },
+        "source_url": "https://www.prokultura.hu/hu/programok/2026-09-05/3983-mester-es-marica.html"
+      }
+    ]
+  },
+  {
+    "id": "zalaegerszeg",
+    "events": [
+      {
+        "date": "2026-08-28",
+        "end_date": "2026-09-16",
+        "title": {
+          "de": "Ausstellung der Sommerlager und des Grafikklubs des Wissenszentrums",
+          "hu": "A Tudásközpont nyári táborainak és grafika szakkörének kiállítása",
+          "ro": "Expoziția taberelor de vară și a cercului de grafică ale Centrului de Cunoaștere",
+          "en": "Exhibition of the Knowledge Center's summer camps and graphic arts club"
+        },
+        "summary": {
+          "de": "Die Ausstellung präsentiert Arbeiten aus den Sommerlagern und dem Grafikzirkel des Tudásközpont und läuft bis Mitte September in Zalaegerszeg.",
+          "hu": "A kiállítás a Tudásközpont nyári táborainak és grafika szakkörének munkáit mutatja be, és szeptember közepéig látogatható Zalaegerszegen.",
+          "ro": "Expoziția prezintă lucrări realizate în taberele de vară și în cercul de grafică al Tudásközpont și poate fi vizitată până la mijlocul lui septembrie la Zalaegerszeg.",
+          "en": "This exhibition showcases work from the Knowledge Center's summer camps and graphic arts club and runs in Zalaegerszeg through mid-September."
+        },
+        "source_url": "https://zalaegerszegturizmus.hu/info/programok/a-tudaskozpont-nyari-taborainak-es-grafika-szakkorenek-kiallitasa/"
+      },
+      {
+        "date": "2026-09-12",
+        "title": {
+          "de": "XVIII. Kertvárosi Vigasságok",
+          "hu": "XVIII. Kertvárosi Vigasságok",
+          "ro": "XVIII. Kertvárosi Vigasságok",
+          "en": "18th Kertvárosi Festivities"
+        },
+        "summary": {
+          "de": "Das traditionelle Stadtteilfest im Apáczai Csere János Kulturzentrum bietet ein buntes Kultur- und Unterhaltungsprogramm bei freiem Eintritt.",
+          "hu": "A városrész hagyományos ünnepe az Apáczai Csere János Művelődési Központban színes kulturális és szórakoztató programot kínál ingyenesen.",
+          "ro": "Sărbătoarea tradițională a cartierului, găzduită de centrul cultural Apáczai Csere János, oferă un program variat de cultură și divertisment cu acces gratuit.",
+          "en": "This traditional district celebration at the Apáczai Csere János cultural center offers a varied free-entry program of culture and entertainment."
+        },
+        "source_url": "https://zalaegerszegturizmus.hu/info/programok/xviii-kertvarosi-vigassagok/"
+      },
+      {
+        "date": "2026-09-19",
+        "title": {
+          "de": "Szüreti Fesztivál in Andráshida",
+          "hu": "Szüreti Fesztivál Andráshidán – 2026",
+          "ro": "Festivalul recoltei la Andráshida",
+          "en": "Harvest Festival in Andráshida"
+        },
+        "summary": {
+          "de": "Das Erntefest in Andráshida beginnt mit einem Wagenumzug und setzt das Nachmittagsprogramm im Kulturhaus mit gemeinschaftlichen Auftritten fort.",
+          "hu": "Az andráshidai szüreti fesztivál kocsis felvonulással indul, majd a művelődési háznál folytatódik közösségi programokkal és fellépésekkel.",
+          "ro": "Festivalul recoltei din Andráshida începe cu o paradă de căruțe și continuă la casa de cultură cu programe comunitare și spectacole.",
+          "en": "Andráshida's harvest festival starts with a cart parade and continues at the local cultural house with community programming and performances."
+        },
+        "source_url": "https://zalaegerszegturizmus.hu/info/programok/szureti-fesztival-andrashidan-2026/"
+      },
+      {
+        "date": "2026-09-24",
+        "end_date": "2026-09-27",
+        "title": {
+          "de": "KULTÚRHÁZAK ÉJJEL-NAPPAL 2026",
+          "hu": "KULTÚRHÁZAK ÉJJEL-NAPPAL 2026",
+          "ro": "KULTÚRHÁZAK ÉJJEL-NAPPAL 2026",
+          "en": "Culture Houses Day and Night 2026"
+        },
+        "summary": {
+          "de": "Mehrere Tage lang beteiligt sich Zalaegerszeg an der landesweiten Reihe „Kultúrházak éjjel-nappal“ mit offenen Kulturhausprogrammen und Mitmachangeboten.",
+          "hu": "Zalaegerszeg több napon át csatlakozik a „Kultúrházak éjjel-nappal” országos rendezvénysorozathoz nyitott házas és közösségi programokkal.",
+          "ro": "Timp de mai multe zile, Zalaegerszeg participă la seria națională „Kultúrházak éjjel-nappal” cu programe deschise și activități comunitare în casele de cultură.",
+          "en": "Over several days, Zalaegerszeg joins the national Culture Houses Day and Night program with open-house cultural and community activities."
+        },
+        "source_url": "https://zalaegerszegturizmus.hu/info/programok/kulturhazak-ejjel-nappal-2026/"
+      }
+    ]
+  }
+]

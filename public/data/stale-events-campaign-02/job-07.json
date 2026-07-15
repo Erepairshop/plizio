@@ -1,0 +1,393 @@
+[
+  {
+    "id": "city-tulcea-extra",
+    "events": [
+      {
+        "date": "2026-08-27",
+        "title": {
+          "de": "Ich, Claude Monet",
+          "hu": "Én, Claude Monet",
+          "ro": "Eu, Claude Monet",
+          "en": "I, Claude Monet"
+        },
+        "summary": {
+          "de": "Die Dokumentarreihe „Große Maler auf der Leinwand“ bringt Ende August einen Film über Claude Monet nach Tulcea. Die Vorführung ist als öffentlich buchbares Kulturereignis im Eventbook-Programm gelistet.",
+          "hu": "A „Nagy festők a vásznon” sorozat augusztus végén Claude Monet-ról szóló filmet hoz Tulceára. A vetítés nyilvánosan foglalható kulturális eseményként szerepel az Eventbook programjában.",
+          "ro": "Seria „Mari pictori pe ecran” aduce la Tulcea, la final de august, un film despre Claude Monet. Proiecția este listată în programul public Eventbook ca eveniment cu acces pe bază de bilet.",
+          "en": "The “Great Painters on Screen” series brings a Claude Monet film to Tulcea in late August. The screening appears in Eventbook’s public program as a ticketed cultural event."
+        },
+        "source_url": "https://eventbook.ro/program?lang=hu&page=102"
+      },
+      {
+        "date": "2026-09-06",
+        "title": {
+          "de": "Ich ziehe zu Mama",
+          "hu": "Anyához költözöm",
+          "ro": "Mă mut la mama",
+          "en": "I’m Moving in with Mom"
+        },
+        "summary": {
+          "de": "Die rumänische Vorstellung „Mă mut la mama“ ist Anfang September im Teatrul Jean Bart angesetzt. Eventbook beschreibt eine Familienkomödie über eine 65-jährige Frau, deren neu entdeckte Freiheit von den Krisen ihrer Söhne gestört wird.",
+          "hu": "A „Mă mut la mama” című román nyelvű előadás szeptember elején látható a Teatrul Jean Bart színpadán. Az Eventbook egy családi komédiaként írja le, amelyben egy 65 éves nő új szabadságát fiai válságai borítják fel.",
+          "ro": "Spectacolul „Mă mut la mama” este programat la început de septembrie la Teatrul Jean Bart. Eventbook îl prezintă ca pe o comedie de familie despre o femeie de 65 de ani a cărei libertate redescoperită este dată peste cap de crizele fiilor ei.",
+          "en": "The Romanian-language show “Mă mut la mama” is scheduled for early September at Teatrul Jean Bart. Eventbook presents it as a family comedy about a 65-year-old woman whose rediscovered freedom is disrupted by her sons’ crises."
+        },
+        "source_url": "https://eventbook.ro/hall/teatrul-jean-bart-tulcea"
+      },
+      {
+        "date": "2026-10-01",
+        "title": {
+          "de": "Karneval | Tulcea",
+          "hu": "Karnevál | Tulcea",
+          "ro": "Carnavalul | Tulcea",
+          "en": "Carnival | Tulcea"
+        },
+        "summary": {
+          "de": "Das Familienformat „Carnavalul“ kommt Anfang Oktober in das Casa de Cultură a Sindicatelor in Tulcea. Die Ankündigung verspricht Musik, Tanz, interaktive Spiele und farbenreiche Bühneneffekte für Kinder und Erwachsene.",
+          "hu": "A „Carnavalul” családi előadás október elején érkezik a tulceai Casa de Cultură a Sindicatelor helyszínére. A beharangozó zenét, táncot, interaktív játékokat és látványos színpadi elemeket ígér gyerekeknek és felnőtteknek.",
+          "ro": "Spectacolul pentru familie „Carnavalul” ajunge la început de octombrie la Casa de Cultură a Sindicatelor din Tulcea. Prezentarea oficială promite muzică, dans, jocuri interactive și multă culoare pentru copii și adulți.",
+          "en": "The family show “Carnavalul” reaches Tulcea’s Casa de Cultură a Sindicatelor in early October. The official listing promises music, dancing, interactive games, and colorful stage entertainment for children and adults."
+        },
+        "source_url": "https://eventbook.ro/hall/casa-de-cultura-a-sindicatelor-tulcea"
+      }
+    ]
+  },
+  {
+    "id": "la-seyne-sur-mer",
+    "events": [
+      {
+        "date": "2026-05-22",
+        "end_date": "2026-12-31",
+        "period": {
+          "recurrent": true
+        },
+        "title": {
+          "de": "Micro-Folie",
+          "hu": "Micro-Folie",
+          "ro": "Micro-Folie",
+          "en": "Micro-Folie",
+          "fr": "Micro-Folie"
+        },
+        "summary": {
+          "de": "Die digitale Museumsplattform in der Médiathèque Andrée-Chedid läuft bis Ende 2026 weiter und bietet freie Besuche mittwochs sowie reservierbare Führungen. Besucher sehen virtuelle Werke großer Museen und begleitende Kulturtermine.",
+          "hu": "Az Andrée-Chedid médiatékában működő digitális múzeumi platform 2026 végéig tart, szerdánként szabad látogatással és foglalható csoportos vezetéssel. A látogatók nagy múzeumok műveit és kapcsolódó kulturális programokat fedezhetnek fel.",
+          "ro": "Platforma muzeală digitală din Médiathèque Andrée-Chedid continuă până la finalul lui 2026, cu vizite libere miercurea și vizite ghidate pe rezervare. Vizitatorii pot explora opere din mari muzee și evenimente culturale asociate.",
+          "en": "The digital museum platform at Médiathèque Andrée-Chedid continues through the end of 2026, with open visits on Wednesdays and bookable guided sessions. Visitors can explore works from major museums and related cultural programming.",
+          "fr": "La plateforme muséale numérique de la médiathèque Andrée-Chedid se poursuit jusqu’à la fin de 2026, avec visites libres le mercredi et visites guidées sur réservation. Les visiteurs y découvrent des œuvres de grands musées et une programmation culturelle associée."
+        },
+        "source_url": "https://www.la-seyne.fr/evenements/2026-06-21/"
+      },
+      {
+        "date": "2025-11-08",
+        "end_date": "2026-09-19",
+        "title": {
+          "de": "Regarder les gorgones",
+          "hu": "Regarder les gorgones",
+          "ro": "Regarder les gorgones",
+          "en": "Regarder les gorgones",
+          "fr": "Regarder les gorgones"
+        },
+        "summary": {
+          "de": "Die Ausstellung im Fort Balaguier verbindet Mittelmeer-Naturerbe und Mythologie, vom Koralligen bis zur Figur der Medusa. Sie bleibt den ganzen Sommer 2026 und bis Mitte September geöffnet.",
+          "hu": "A Fort Balaguier-ben rendezett kiállítás a földközi-tengeri természeti örökséget és a mitológiát kapcsolja össze, a koralligéntől Medúza alakjáig. Egész nyáron és szeptember közepéig látogatható 2026-ban.",
+          "ro": "Expoziția de la Fort Balaguier leagă patrimoniul mediteranean de mitologie, de la coralligen la figura Meduzei. Rămâne deschisă pe toată vara lui 2026 și până la mijlocul lunii septembrie.",
+          "en": "This Fort Balaguier exhibition links Mediterranean natural heritage with mythology, from coralligenous habitats to the figure of Medusa. It stays open throughout summer 2026 and into mid-September.",
+          "fr": "L’exposition du fort Balaguier relie patrimoine naturel méditerranéen et mythologie, du coralligène à la figure de Méduse. Elle reste ouverte tout l’été 2026 et jusqu’à la mi-septembre."
+        },
+        "source_url": "https://www.la-seyne.fr/evenement/regarder-les-gorgones-2/"
+      },
+      {
+        "date": "2026-07-26",
+        "title": {
+          "de": "Open-Air-Kino",
+          "hu": "Szabadtéri mozi",
+          "ro": "Cinema în aer liber",
+          "en": "Open-Air Cinema",
+          "fr": "Ciné de plein air"
+        },
+        "summary": {
+          "de": "Am 26. Juli ist im Théâtre de verdure im Parc Braudel ein Kinoabend unter freiem Himmel geplant. Das städtische Veranstaltungsprogramm führt das Format als Sommerausflug an den Sablettes.",
+          "hu": "Július 26-án szabadtéri moziestrét rendeznek a Parc Braudel zöld színházában. A városi program a nyári szezon egyik esti tengerparti eseményeként hirdeti.",
+          "ro": "Pe 26 iulie este programată o seară de cinema în aer liber la Théâtre de verdure din Parc Braudel. Agenda oficială a orașului o prezintă ca eveniment estival la Les Sablettes.",
+          "en": "An open-air movie night is scheduled for 26 July at the Théâtre de verdure in Parc Braudel. The city’s official agenda presents it as a summer evening event at Les Sablettes.",
+          "fr": "Une séance de cinéma en plein air est programmée le 26 juillet au théâtre de verdure du parc Braudel. L’agenda officiel de la ville la présente comme une sortie estivale aux Sablettes."
+        },
+        "source_url": "https://www.la-seyne.fr/evenements/categorie/cinema/"
+      },
+      {
+        "date": "2026-07-30",
+        "end_date": "2026-07-31",
+        "title": {
+          "de": "Poésie en Seyne, 2. Ausgabe",
+          "hu": "Poésie en Seyne, 2. kiadás",
+          "ro": "Poésie en Seyne, ediția a 2-a",
+          "en": "Poésie en Seyne, 2nd edition",
+          "fr": "Poésie en Seyne, 2e édition"
+        },
+        "summary": {
+          "de": "Die zweite Ausgabe von „Poésie en Seyne“ bringt zwei Sommerabende mit Poesie, Gitarre sowie klassischem und Tango-Tanz in das Fort Balaguier. Das offizielle Programm nennt Jean Saint Martin und Fabrice Sbardella.",
+          "hu": "A „Poésie en Seyne” második kiadása két nyári estére költöztet költészetet, gitárzenét, valamint klasszikus és tangó táncot a Fort Balaguier-be. A hivatalos program Jean Saint Martin és Fabrice Sbardella részvételét említi.",
+          "ro": "A doua ediție „Poésie en Seyne” aduce două seri de poezie, chitară și dans clasic sau tango la Fort Balaguier. Programul oficial îi menționează pe Jean Saint Martin și Fabrice Sbardella.",
+          "en": "The second edition of “Poésie en Seyne” brings two summer evenings of poetry, guitar, and classical or tango dance to Fort Balaguier. The official program names Jean Saint Martin and Fabrice Sbardella.",
+          "fr": "La 2e édition de « Poésie en Seyne » propose deux soirées d’été mêlant poésie, guitare et danse classique ou tango au fort Balaguier. Le programme officiel annonce Jean Saint Martin et Fabrice Sbardella."
+        },
+        "source_url": "https://www.la-seyne.fr/evenements/categorie/spectacles/"
+      },
+      {
+        "date": "2026-09-04",
+        "end_date": "2026-09-06",
+        "title": {
+          "de": "Französische Beach-Rowing-Sprint-Meisterschaft",
+          "hu": "Francia beach rowing sprint bajnokság",
+          "ro": "Campionatul Franței de beach rowing sprint",
+          "en": "French Beach Rowing Sprint Championship",
+          "fr": "Championnat de France de beach rowing sprint"
+        },
+        "summary": {
+          "de": "Der Aviron Seynois richtet Anfang September an der Plage des Sablettes die nationale Beach-Rowing-Sprint-Meisterschaft aus. Die Stadt verweist auf Wettkämpfe und ein Partnerdorf am Strand.",
+          "hu": "Szeptember elején az Aviron Seynois rendezi meg a francia beach rowing sprint bajnokságot a Plage des Sablettes partszakaszon. A városi program versenyeket és partnerfalut is jelez a helyszínen.",
+          "ro": "La început de septembrie, Aviron Seynois organizează la Plage des Sablettes campionatul național de beach rowing sprint. Agenda orașului anunță competiții și un sat al partenerilor pe plajă.",
+          "en": "At the start of September, Aviron Seynois hosts the national beach rowing sprint championship on Plage des Sablettes. The city’s agenda notes competition racing plus a partner village on the beach.",
+          "fr": "Début septembre, l’Aviron seynois accueille sur la plage des Sablettes le championnat de France de beach rowing sprint. L’agenda de la ville annonce des compétitions et un village partenaires sur la plage."
+        },
+        "source_url": "https://www.la-seyne.fr/le-beach-rowing-sprints-a-bien-le-vent-en-poupe/"
+      }
+    ]
+  },
+  {
+    "id": "kaposvar",
+    "events": [
+      {
+        "date": "2026-07-15",
+        "end_date": "2026-08-19",
+        "title": {
+          "de": "Betonskulpturen-Triennale",
+          "hu": "Betonszobrászati Triennálé",
+          "ro": "Trienala de sculptură în beton",
+          "en": "Concrete Sculpture Triennial"
+        },
+        "summary": {
+          "de": "Die Triennale ist im offiziellen Kaposvár-Kalender über mehrere Sommerwochen am Nagy Imre tér gelistet. Für Besucher ist sie als länger laufende Kunstausstellung im Stadtzentrum relevant.",
+          "hu": "A hivatalos kaposvári eseménynaptár szerint a triennále több nyári héten át látogatható a Nagy Imre téren. A látogatók számára egy hosszabban futó belvárosi művészeti programot jelent.",
+          "ro": "Trienala apare în calendarul oficial al orașului Kaposvár pe parcursul mai multor săptămâni de vară, în Nagy Imre tér. Pentru vizitatori, este o expoziție de artă de durată în centrul orașului.",
+          "en": "The triennial is listed in Kaposvár’s official event calendar across several summer weeks at Nagy Imre tér. For visitors, it functions as a longer-running art exhibition in the city center."
+        },
+        "source_url": "https://szorakozz.kaposvar.hu/esemenyek/"
+      },
+      {
+        "date": "2026-08-01",
+        "title": {
+          "de": "Night Run am Deseda-See",
+          "hu": "Night Run – Éjszakai futás a Deseda-tónál",
+          "ro": "Night Run la lacul Deseda",
+          "en": "Night Run at Lake Deseda"
+        },
+        "summary": {
+          "de": "Am 1. August ist ein nächtlicher Lauf am Deseda-See im offiziellen Stadtkalender angekündigt. Das Format richtet sich an Freizeit- und Sportbesucher, die ein Sommerabendevent im Freien suchen.",
+          "hu": "Augusztus 1-jén éjszakai futást hirdet a hivatalos városi naptár a Deseda-tónál. A program a szabadtéri nyári sportélményt kereső helyieknek és látogatóknak szól.",
+          "ro": "Pe 1 august, calendarul oficial al orașului anunță un alergat nocturn la lacul Deseda. Evenimentul este potrivit pentru vizitatorii care caută un program sportiv de seară în aer liber.",
+          "en": "The city’s official calendar announces a night run at Lake Deseda on 1 August. It is a summer outdoor event aimed at visitors and locals looking for an active evening program."
+        },
+        "source_url": "https://szorakozz.kaposvar.hu/esemenyek/"
+      },
+      {
+        "date": "2026-08-08",
+        "title": {
+          "de": "QuestRun Gemeinschafts-Trailrun an der Deseda",
+          "hu": "QuestRun közösségi terepfutás a Desedán",
+          "ro": "QuestRun, alergare comunitară de trail la Deseda",
+          "en": "QuestRun Community Trail Run at Deseda"
+        },
+        "summary": {
+          "de": "Der offizielle Kalender listet Anfang August einen gemeinschaftlichen Traillauf an der Deseda. Das Event spricht aktive Besucher an, die Natur und Sport rund um Kaposvár verbinden möchten.",
+          "hu": "A hivatalos naptár augusztus elejére közösségi terepfutást jelez a Desedánál. A program azoknak a látogatóknak szól, akik a természetet és a mozgást szeretnék összekapcsolni Kaposváron.",
+          "ro": "Calendarul oficial programează la început de august o alergare comunitară de trail în zona Deseda. Evenimentul se adresează vizitatorilor activi care vor să combine natura cu sportul în Kaposvár.",
+          "en": "The official calendar schedules a community trail run at Deseda in early August. It suits active visitors who want to combine nature with sport around Kaposvár."
+        },
+        "source_url": "https://szorakozz.kaposvar.hu/esemenyek/"
+      },
+      {
+        "date": "2026-08-13",
+        "title": {
+          "de": "Virtuelle Realität mit der Mosolygyár Egyesület",
+          "hu": "Virtuális valóság a Mosolygyár Egyesülettel",
+          "ro": "Realitate virtuală cu Asociația Mosolygyár",
+          "en": "Virtual Reality with the Mosolygyár Association"
+        },
+        "summary": {
+          "de": "Die Kinderbibliothek veranstaltet Mitte August ein Familienprogramm zum Thema virtuelle Realität. Das offizielle Listing ordnet es den Sommerferienaktivitäten für junge Besucher zu.",
+          "hu": "A gyermekkönyvtár augusztus közepén családi programot szervez a virtuális valóság témájában. A hivatalos eseménynaptár a nyári szünidei gyerekprogramok között sorolja fel.",
+          "ro": "Biblioteca pentru copii programează la mijloc de august o activitate de familie dedicată realității virtuale. Lista oficială o include între programele de vacanță pentru publicul tânăr.",
+          "en": "The children’s library hosts a virtual-reality family activity in mid-August. The official listing places it among the city’s summer holiday programs for young visitors."
+        },
+        "source_url": "https://szorakozz.kaposvar.hu/esemenyek/"
+      },
+      {
+        "date": "2026-08-13",
+        "title": {
+          "de": "Tante Charleys musikalische Komödie",
+          "hu": "Charley nénje zenés vígjáték",
+          "ro": "Mătușa lui Charley, comedie muzicală",
+          "en": "Charley’s Aunt Musical Comedy"
+        },
+        "summary": {
+          "de": "Für den 13. August verzeichnet der offizielle Kalender die musikalische Komödie „Charley nénje“. Sie bietet einen klassischen Theaterabend für Besucher, die sommerliche Abendunterhaltung in Kaposvár suchen.",
+          "hu": "Augusztus 13-ára a hivatalos városi naptár a „Charley nénje” zenés vígjátékot tünteti fel. Ez klasszikus esti színházi programot kínál a nyári kulturális kikapcsolódást kereső látogatóknak.",
+          "ro": "Pentru 13 august, calendarul oficial anunță comedia muzicală „Charley nénje”. Este o opțiune de seară pentru vizitatorii care caută divertisment teatral de vară în Kaposvár.",
+          "en": "For 13 August, the official calendar lists the musical comedy “Charley nénje.” It offers a theater evening for visitors looking for summer cultural entertainment in Kaposvár."
+        },
+        "source_url": "https://szorakozz.kaposvar.hu/esemenyek/"
+      }
+    ]
+  },
+  {
+    "id": "city-alba-iulia",
+    "events": [
+      {
+        "date": "2026-07-10",
+        "end_date": "2026-08-02",
+        "title": {
+          "de": "Tonitza 140 – Gesichter, Blicke, Emotionen",
+          "hu": "Tonitza 140 – Arcok, tekintetek, érzelmek",
+          "ro": "Tonitza 140 – Chipuri, priviri, emoții",
+          "en": "Tonitza 140 – Faces, Gazes, Emotions"
+        },
+        "summary": {
+          "de": "Der Palatul Principilor Transilvaniei widmet Nicolae Tonitza eine große Ausstellung zum 140. Geburtstag des Künstlers. Besucher können einen breiten Einblick in das Werk eines der beliebtesten rumänischen Maler gewinnen.",
+          "hu": "A Palatul Principilor Transilvaniei Nicolae Tonitza 140. születési évfordulójára rendezett nagy kiállítást mutat be. A látogatók átfogó képet kaphatnak az egyik legkedveltebb román festő életművéről.",
+          "ro": "Palatul Principilor Transilvaniei dedică o amplă expoziție lui Nicolae Tonitza la 140 de ani de la nașterea artistului. Vizitatorii pot descoperi universul unuia dintre cei mai iubiți pictori români.",
+          "en": "Palatul Principilor Transilvaniei is hosting a major exhibition on Nicolae Tonitza for the 140th anniversary of the artist’s birth. Visitors can explore the world of one of Romania’s best-loved painters."
+        },
+        "source_url": "https://turism.apulum.ro/events/tonitza-140-chipuri-priviri-emotii/"
+      },
+      {
+        "date": "2026-07-23",
+        "end_date": "2026-07-26",
+        "title": {
+          "de": "Imagine Fest",
+          "hu": "Imagine Fest",
+          "ro": "Imagine Fest",
+          "en": "Imagine Fest"
+        },
+        "summary": {
+          "de": "Imagine Fest läuft bis zum 26. Juli und bleibt damit am gewünschten Stichtag noch aktiv. Das offizielle Tourismusportal führt es als mehrtägiges Kulturereignis in Alba Iulia.",
+          "hu": "Az Imagine Fest július 26-ig tart, így a kért dátumon még zajlik. A hivatalos turisztikai portál többnapos kulturális eseményként sorolja fel Alba Iuliában.",
+          "ro": "Imagine Fest se desfășoară până pe 26 iulie, astfel că este încă activ la data-limită cerută. Portalul turistic oficial îl prezintă ca eveniment cultural de mai multe zile în Alba Iulia.",
+          "en": "Imagine Fest runs through 26 July, so it is still active on the requested cutoff date. The official tourism portal lists it as a multi-day cultural event in Alba Iulia."
+        },
+        "source_url": "https://turism.apulum.ro/events/imagine-fest-2/"
+      },
+      {
+        "date": "2026-07-31",
+        "end_date": "2026-08-02",
+        "title": {
+          "de": "Orange Weekends",
+          "hu": "Orange Weekends",
+          "ro": "Orange weekends",
+          "en": "Orange Weekends"
+        },
+        "summary": {
+          "de": "Das offizielle Tourismusprogramm von Alba Iulia listet „Orange Weekends“ als Sommertermin ab Ende Juli. Es gehört zu den Wochenendangeboten für Besucher in und um die Festung.",
+          "hu": "Az alba iuliai hivatalos turisztikai program az „Orange Weekends” eseményt július végére ütemezi. A város és a vár környékének nyári hétvégi kínálatához tartozik.",
+          "ro": "Programul turistic oficial din Alba Iulia include „Orange weekends” la final de iulie. Evenimentul face parte din oferta de weekend de vară pentru vizitatorii cetății și ai orașului.",
+          "en": "Alba Iulia’s official tourism program places “Orange Weekends” at the end of July. It is part of the city’s summer weekend offer for visitors around the fortress area."
+        },
+        "source_url": "https://turism.apulum.ro/events/orange-weekends/"
+      },
+      {
+        "date": "2026-07-31",
+        "title": {
+          "de": "Musiksaison „Iancu de Hunedoara“",
+          "hu": "„Iancu de Hunedoara” zenei évad",
+          "ro": "Stagiunea muzicală „Iancu de Hunedoara”",
+          "en": "“Iancu de Hunedoara” Music Season"
+        },
+        "summary": {
+          "de": "Die 2026 initiierte Reihe erinnert mit geistlicher, meditativer und kammermusikalischer Musik an Iancu de Hunedoara, 570 Jahre nach der Schlacht von Belgrad und seinem Tod. Der offizielle Eintrag beschreibt das Projekt als weit angelegte Konzertserie.",
+          "hu": "A 2026-ban indított sorozat szakrális, meditatív és kamarazenei műsorokkal emlékezik Hunyadi Jánosra, 570 évvel a nándorfehérvári győzelem és halála után. A hivatalos leírás nagyszabású koncertsorozatként mutatja be.",
+          "ro": "Seria lansată în 2026 evocă memoria lui Iancu de Hunedoara prin recitaluri de muzică sacră, meditativă și camerală, la 570 de ani de la victoria de la Belgrad și de la moartea voievodului. Descrierea oficială o prezintă ca pe un proiect cultural amplu.",
+          "en": "Launched in 2026, this series honors Iancu de Hunedoara with sacred, meditative, and chamber recitals, 570 years after the victory at Belgrade and his death. The official listing presents it as a large-scale cultural concert project."
+        },
+        "source_url": "https://turism.apulum.ro/events/stagiunea-muzicala-iancu-de-hunedoara-7/"
+      },
+      {
+        "date": "2026-08-01",
+        "title": {
+          "de": "Wachablösung der Zitadellengarde Alba Carolina",
+          "hu": "Az Alba Carolina várőrség őrségváltása",
+          "ro": "Ceremonialul schimbului de gardă – Garda Cetății Alba Carolina",
+          "en": "Changing of the Guard – Alba Carolina Citadel Guard"
+        },
+        "summary": {
+          "de": "Die historische Wachparade basiert auf habsburgischen Uniformen und verbindet Defilee und Reenactment auf den Esplanaden der Tore III und IV. Für Besucher ist es ein zugängliches Stück lebendige Stadtgeschichte in der Zitadelle.",
+          "hu": "A történelmi őrségparádé a Habsburg-kori egyenruhák világát idézi meg, felvonulással és élő történelmi bemutatóval a III. és IV. kapu környékén. A látogatók számára ez a vár egyik leglátványosabb élő történelmi programja.",
+          "ro": "Ceremonialul istoric se inspiră din uniformele armatei habsburgice și combină defilarea cu reconstituirea pe esplanadele Porților a III-a și a IV-a. Pentru vizitatori, este una dintre cele mai accesibile experiențe de istorie vie din cetate.",
+          "en": "This historical ceremony draws on Habsburg-era uniforms and combines parade movements with reenactment near Gates III and IV. For visitors, it is one of the citadel’s most accessible live-history experiences."
+        },
+        "source_url": "https://turism.apulum.ro/events/ceremonialul-schimbului-de-garda-garda-cetatii-alba-carolina-143/"
+      }
+    ]
+  },
+  {
+    "id": "arrecife",
+    "events": [
+      {
+        "date": "2026-07-29",
+        "period": {
+          "recurrent": true
+        },
+        "title": {
+          "de": "Markt von Arrecife",
+          "hu": "Arrecife piac",
+          "ro": "Piața din Arrecife",
+          "en": "Arrecife Market"
+        },
+        "summary": {
+          "de": "Der offizielle Markt am Charco de San Ginés findet jede Woche mittwochs und donnerstags statt. Er ist ein praktischer Anlaufpunkt für Besucher, die Kunsthandwerk und lokales Alltagsleben im Zentrum erleben möchten.",
+          "hu": "A Charco de San Ginés körüli hivatalos piac minden héten szerdán és csütörtökön működik. Jó választás azoknak a látogatóknak, akik kézműves termékeket és helyi városi hangulatot keresnek a központban.",
+          "ro": "Piața oficială din jurul Charco de San Ginés are loc săptămânal, miercurea și joia. Este potrivită pentru vizitatorii care vor produse artizanale și atmosferă locală în centrul orașului.",
+          "en": "The official market around Charco de San Ginés takes place every Wednesday and Thursday. It is a useful stop for visitors interested in crafts and everyday local life in the city center."
+        },
+        "source_url": "https://turismolanzarote.com/en/market/arrecife-market/"
+      },
+      {
+        "date": "2026-08-01",
+        "period": {
+          "recurrent": true
+        },
+        "title": {
+          "de": "Touristen- und Kunsthandwerksmarkt von Arrecife",
+          "hu": "Arrecife turisztikai és kézműves piaca",
+          "ro": "Piața turistică și de artizanat din Arrecife",
+          "en": "Arrecife Tourist and Craft Market"
+        },
+        "summary": {
+          "de": "Dieser Markt auf der Plaza de Las Palmas findet jeden Samstag statt und kombiniert landwirtschaftliche Produkte mit Kunsthandwerk. Für Reisende ist er eine einfache Gelegenheit, das historische Zentrum von Arrecife zu erleben.",
+          "hu": "A Plaza de Las Palmas téren tartott piac minden szombaton mezőgazdasági termékeket és kézműves árukat kínál. A látogatók számára könnyen elérhető hétvégi program Arrecife történelmi központjában.",
+          "ro": "Piața din Plaza de Las Palmas are loc în fiecare sâmbătă și combină produse agricole cu articole de artizanat. Pentru turiști, este o ocazie accesibilă de a petrece timp în centrul istoric din Arrecife.",
+          "en": "Held every Saturday in Plaza de Las Palmas, this market combines agricultural goods with craft products. For travelers, it is an easy way to experience Arrecife’s historic center."
+        },
+        "source_url": "https://turismolanzarote.com/en/market/arrecife-tourist-and-craft-market/"
+      },
+      {
+        "date": "2026-08-25",
+        "period": {
+          "recurrent": true
+        },
+        "title": {
+          "de": "Fiestas de San Ginés",
+          "hu": "San Ginés ünnepe",
+          "ro": "Fiestas de San Ginés",
+          "en": "San Ginés Festivities"
+        },
+        "summary": {
+          "de": "Das offizielle Informationsportal nennt den 25. August als Feiertag und Festtag von San Ginés in Arrecife. Für Besucher markiert er die wichtigsten Sommerfeiern rund um den Stadtheiligen.",
+          "hu": "A hivatalos tájékoztató oldal Arrecife esetében augusztus 25-ét jelöli San Ginés ünnepnapjaként. A város egyik legfontosabb nyári ünnepéhez kapcsolódó programokra számíthatnak a látogatók.",
+          "ro": "Portalul oficial de informații indică 25 august ca ziua sărbătorii San Ginés în Arrecife. Pentru vizitatori, aceasta marchează una dintre cele mai importante perioade festive de vară din capitală.",
+          "en": "The official practical-information page identifies 25 August as San Ginés day in Arrecife. For visitors, it marks one of the capital’s main summer festive periods."
+        },
+        "source_url": "https://turismolanzarote.com/en/plan-your-trip/practical-information/"
+      }
+    ]
+  }
+]

@@ -1,0 +1,363 @@
+[
+  {
+    "id": "alghero",
+    "events": [
+      {
+        "title": {
+          "de": "Alghero Experience 2026",
+          "hu": "Alghero Experience 2026",
+          "ro": "Alghero Experience 2026",
+          "en": "Alghero Experience 2026"
+        },
+        "summary": {
+          "de": "Die offizielle Sommersaison der Stadt läuft von Juni bis Ende September mit Konzerten, Kultur, Strandaktivitäten und Veranstaltungen im historischen Zentrum, in Lo Quarter und in Maria Pia.",
+          "hu": "A város hivatalos nyári programsorozata júniustól szeptember végéig tart koncertekkel, kulturális eseményekkel, tengerparti programokkal és rendezvényekkel a történelmi központban, Lo Quarterben és Maria Piában.",
+          "ro": "Programul oficial de vară al orașului se desfășoară din iunie până la sfârșitul lui septembrie, cu concerte, cultură, activități pe plajă și evenimente în centrul istoric, la Lo Quarter și în Maria Pia.",
+          "en": "The city's official summer season runs from June through late September with concerts, culture, beach activities, and events across the old town, Lo Quarter, and Maria Pia."
+        },
+        "date": "2026-06-08",
+        "end_date": "2026-09-30",
+        "source_url": "https://algheroturismo.eu/event/algheroexperience-2026-la-grande-estate-di-alghero-fino-a-san-michele/"
+      },
+      {
+        "title": {
+          "de": "Stefano Nazzi: Indagini",
+          "hu": "Stefano Nazzi: Indagini",
+          "ro": "Stefano Nazzi: Indagini",
+          "en": "Stefano Nazzi: Indagini"
+        },
+        "summary": {
+          "de": "Der True-Crime-Autor und Podcaster Stefano Nazzi bringt seine Live-Show „Indagini“ im Rahmen des Alguer Summer Festival nach Alghero.",
+          "hu": "Stefano Nazzi true crime szerző és podcaster az „Indagini” élő műsorát hozza el Algheróba az Alguer Summer Festival részeként.",
+          "ro": "Autorul și podcasterul de true crime Stefano Nazzi aduce la Alghero spectacolul live „Indagini”, în cadrul Alguer Summer Festival.",
+          "en": "True-crime author and podcaster Stefano Nazzi brings his live show “Indagini” to Alghero as part of the Alguer Summer Festival."
+        },
+        "date": "2026-07-28",
+        "source_url": "https://alguersummerfestival.it/il-nuovo-tour-di-stefano-nazzi-arriva-ad-alghero-per-una-serata-imperdibile-per-gli-appassionati-di-true-crime-lappuntamento-con-le-indagini-e-il-28-luglio/"
+      },
+      {
+        "title": {
+          "de": "Giorgio Panariello: E se domani",
+          "hu": "Giorgio Panariello: E se domani",
+          "ro": "Giorgio Panariello: E se domani",
+          "en": "Giorgio Panariello: E se domani"
+        },
+        "summary": {
+          "de": "Der italienische Komiker Giorgio Panariello gastiert mit seiner neuen Bühnenshow im Anfiteatro Ivan Graziani beim Alguer Summer Festival.",
+          "hu": "Giorgio Panariello olasz humorista új színpadi műsorával lép fel az Alguer Summer Festival keretében az Ivan Graziani amfiteátrumban.",
+          "ro": "Comediantul italian Giorgio Panariello vine la Alguer Summer Festival cu noul său spectacol scenic, la Amfiteatrul Ivan Graziani.",
+          "en": "Italian comedian Giorgio Panariello brings his new stage show to the Alguer Summer Festival at the Ivan Graziani amphitheatre."
+        },
+        "date": "2026-08-03",
+        "source_url": "https://alguersummerfestival.it/e-se-domani-lesilarante-spettacolo-di-giorgio-panariello-e-pronto-a-conquistare-il-pubblico-dellalguer-summer-festival-il-3-agosto/"
+      },
+      {
+        "title": {
+          "de": "Roberta Bruzzone in Lo Quarter",
+          "hu": "Roberta Bruzzone a Lo Quarterben",
+          "ro": "Roberta Bruzzone la Lo Quarter",
+          "en": "Roberta Bruzzone at Lo Quarter"
+        },
+        "summary": {
+          "de": "Roberta Bruzzone präsentiert in Alghero eine Konferenz-Show über toxische Beziehungen mit emotionalem Erzählen und Live-Musik.",
+          "hu": "Roberta Bruzzone Algheróban egy konferencia-előadást mutat be a toxikus kapcsolatokról, élő zenével és erős narratívával.",
+          "ro": "Roberta Bruzzone prezintă la Alghero un spectacol-conferință despre relațiile toxice, cu narațiune intensă și muzică live.",
+          "en": "Roberta Bruzzone presents a conference-show in Alghero exploring toxic relationships through intense storytelling and live music."
+        },
+        "date": "2026-08-10",
+        "source_url": "https://alguersummerfestival.it/il-10-agosto-roberta-bruzzone-sara-a-lo-quarter-di-alghero/"
+      }
+    ]
+  },
+  {
+    "id": "bourg-en-bresse",
+    "events": [
+      {
+        "title": {
+          "de": "Couleurs d'Amour",
+          "hu": "Couleurs d'Amour",
+          "ro": "Couleurs d'Amour",
+          "en": "Couleurs d'Amour",
+          "fr": "Couleurs d'Amour"
+        },
+        "summary": {
+          "de": "Die kostenlose Lichtshow beleuchtet Theater, Rathaus und das königliche Kloster von Brou an Sommerabenden in Bourg-en-Bresse.",
+          "hu": "Az ingyenes fényjáték nyári estéken a színház, a városháza és a brou-i királyi kolostor homlokzatát világítja meg Bourg-en-Bresse-ben.",
+          "ro": "Spectacolul gratuit de lumini pune în valoare teatrul, primăria și Mănăstirea regală de la Brou în serile de vară din Bourg-en-Bresse.",
+          "en": "This free light show illuminates the theatre, city hall, and the Royal Monastery of Brou on summer evenings in Bourg-en-Bresse.",
+          "fr": "Ce spectacle gratuit de son et lumière illumine le théâtre, l'hôtel de ville et le monastère royal de Brou pendant l'été."
+        },
+        "date": "2026-07-03",
+        "end_date": "2026-08-29",
+        "source_url": "https://www.bourgenbressedestinations.fr/explorer/bourg-en-bresse-lesprit-citadin/monastere-royal-de-brou/couleurs-damour-illuminent-bourg-en-bresse/"
+      },
+      {
+        "title": {
+          "de": "LOU NELL / Jeudis du Kiosque",
+          "hu": "LOU NELL / Jeudis du Kiosque",
+          "ro": "LOU NELL / Jeudis du Kiosque",
+          "en": "LOU NELL / Jeudis du Kiosque",
+          "fr": "LOU NELL / Jeudis du Kiosque"
+        },
+        "summary": {
+          "de": "Die sommerliche Freiluftreihe im Square Simone Veil bringt ein kostenloses Chanson- und Folk-Konzert von Lou Nell.",
+          "hu": "A Square Simone Veil nyári szabadtéri sorozata egy ingyenes chanson- és folk-koncertet kínál Lou Nell előadásában.",
+          "ro": "Seria estivală în aer liber din Square Simone Veil propune un concert gratuit de chanson și folk susținut de Lou Nell.",
+          "en": "The summer open-air series at Square Simone Veil features a free chanson and folk concert by Lou Nell.",
+          "fr": "La série estivale en plein air du square Simone Veil propose un concert gratuit de chanson française et folk avec Lou Nell."
+        },
+        "date": "2026-07-30",
+        "source_url": "https://www.bourgenbressedestinations.fr/offres/lou-nell-chanson-francaise-folk-jeudis-du-kiosque-bourg-en-bresse-fr-6435392/"
+      },
+      {
+        "title": {
+          "de": "CUT CAPERS / Jeudis du Kiosque",
+          "hu": "CUT CAPERS / Jeudis du Kiosque",
+          "ro": "CUT CAPERS / Jeudis du Kiosque",
+          "en": "CUT CAPERS / Jeudis du Kiosque",
+          "fr": "CUT CAPERS / Jeudis du Kiosque"
+        },
+        "summary": {
+          "de": "Ein kostenloser Sommerabend mit Funk, Jazz und Hip-Hop belebt das Musikprogramm der Jeudis du Kiosque im Stadtpark.",
+          "hu": "Egy ingyenes nyári este funk, jazz és hip-hop zenével gazdagítja a Jeudis du Kiosque parkbeli koncertsorozatát.",
+          "ro": "O seară de vară gratuită cu funk, jazz și hip-hop completează programul Jeudis du Kiosque din parcul orașului.",
+          "en": "A free summer evening of funk, jazz, and hip-hop adds to the Jeudis du Kiosque music program in the city park.",
+          "fr": "Cette soirée gratuite d'été mêle funk, jazz et hip-hop dans le cadre des Jeudis du Kiosque."
+        },
+        "date": "2026-08-06",
+        "source_url": "https://www.bourgenbressedestinations.fr/offres/cut-capers-funk-jazz-hip-hop-jeudis-du-kiosque-bourg-en-bresse-fr-6435375/"
+      },
+      {
+        "title": {
+          "de": "Festival ÀLAFOLIE!",
+          "hu": "ÀLAFOLIE! fesztivál",
+          "ro": "Festivalul ÀLAFOLIE!",
+          "en": "Festival ÀLAFOLIE!",
+          "fr": "Festival ÀLAFOLIE!"
+        },
+        "summary": {
+          "de": "Das Sommerfestival im königlichen Kloster von Brou bietet Samstagabend-Konzerte mit Jazz, Weltmusik, Klassik und Soul in einem historischen Rahmen.",
+          "hu": "A brou-i királyi kolostor nyári fesztiválja szombat esti koncerteket kínál jazz, világzene, klasszikus zene és soul műfajokban, történelmi környezetben.",
+          "ro": "Festivalul de vară de la Mănăstirea regală de la Brou propune concerte sâmbăta seara cu jazz, muzici ale lumii, clasic și soul, într-un cadru istoric.",
+          "en": "This summer festival at the Royal Monastery of Brou offers Saturday evening concerts spanning jazz, world music, classical, and soul in a historic setting.",
+          "fr": "Le festival d'été du monastère royal de Brou propose des soirées musicales du samedi entre jazz, musiques du monde, classique et soul."
+        },
+        "date": "2026-07-18",
+        "end_date": "2026-08-29",
+        "source_url": "https://www.bourgenbressedestinations.fr/explorer/bourg-en-bresse-lesprit-citadin/monastere-royal-de-brou/festival-a-la-folie-pas-du-tout/"
+      }
+    ]
+  },
+  {
+    "id": "city-turda-extra",
+    "events": [
+      {
+        "title": {
+          "de": "Famtastic Land 2026",
+          "hu": "Famtastic Land 2026",
+          "ro": "Famtastic Land 2026",
+          "en": "Famtastic Land 2026"
+        },
+        "summary": {
+          "de": "Das städtische Familienfestival an der Nova PG Arena bringt Konzerte, Kinderprogramm und Wochenendunterhaltung nach Turda.",
+          "hu": "A Nova PG Arénában rendezett városi családi fesztivál koncertekkel, gyerekprogramokkal és hétvégi szórakozással várja a közönséget Tordán.",
+          "ro": "Festivalul municipal pentru familii, organizat la Nova PG Arena, aduce la Turda concerte, activități pentru copii și divertisment de weekend.",
+          "en": "The municipal family festival at Nova PG Arena brings concerts, children's activities, and weekend entertainment to Turda."
+        },
+        "date": "2026-05-30",
+        "end_date": "2026-06-01",
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.facebook.com/PrimariaTurdaOficial/photos/-se-preg%C4%83te%C8%99te-cel-mai-colorat-weekend-al-anului-la-turda-iar-surprizele-abia-%C3%AEn/1296496215999892/"
+      },
+      {
+        "title": {
+          "de": "FITT 2026",
+          "hu": "FITT 2026",
+          "ro": "FITT 2026",
+          "en": "FITT 2026"
+        },
+        "summary": {
+          "de": "Das Internationale Theaterfestival Turda feiert seine zehnte Ausgabe mit Aufführungen, Konzerten und Open-Air-Programmen in der ganzen Stadt.",
+          "hu": "A Turdai Nemzetközi Színházi Fesztivál tizedik kiadása előadásokkal, koncertekkel és szabadtéri programokkal tölti meg a várost.",
+          "ro": "Festivalul Internațional de Teatru Turda marchează ediția a zecea cu spectacole, concerte și programe în aer liber în tot orașul.",
+          "en": "The Turda International Theatre Festival marks its tenth edition with performances, concerts, and open-air programming across the city."
+        },
+        "date": "2026-06-26",
+        "end_date": "2026-07-05",
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://fitturda.ro/stiri/"
+      },
+      {
+        "title": {
+          "de": "Festivalul Verde la Turda 2026",
+          "hu": "Festivalul Verde la Turda 2026",
+          "ro": "Festivalul Verde la Turda 2026",
+          "en": "Green Festival in Turda 2026"
+        },
+        "summary": {
+          "de": "Das städtische Umweltfestival bündelt Begrünungsaktionen, Bildungsaktivitäten und Gemeinschaftsprogramme rund um Nachhaltigkeit.",
+          "hu": "A városi zöldfesztivál környezetvédelmi akciókat, oktatási programokat és közösségi kezdeményezéseket fog össze a fenntarthatóság jegyében.",
+          "ro": "Festivalul verde al orașului reunește acțiuni de ecologizare, activități educaționale și programe comunitare dedicate sustenabilității.",
+          "en": "The city's green festival brings together clean-up actions, educational activities, and community programs focused on sustainability."
+        },
+        "date": "2026-05-19",
+        "end_date": "2026-05-28",
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.facebook.com/PrimariaTurdaOficial/posts/turda-se-%C3%AEmbrac%C4%83-%C3%AEn-verde-%EF%B8%8F%C3%AEn-perioada-19-28-mai-d%C4%83m-startul-festivalului-verde-/1301246072191573/"
+      }
+    ]
+  },
+  {
+    "id": "romania-turda-cities-v2",
+    "events": [
+      {
+        "title": {
+          "de": "Famtastic Land 2026",
+          "hu": "Famtastic Land 2026",
+          "ro": "Famtastic Land 2026",
+          "en": "Famtastic Land 2026"
+        },
+        "summary": {
+          "de": "Das städtische Familienfestival an der Nova PG Arena bringt Konzerte, Kinderprogramm und Wochenendunterhaltung nach Turda.",
+          "hu": "A Nova PG Arénában rendezett városi családi fesztivál koncertekkel, gyerekprogramokkal és hétvégi szórakozással várja a közönséget Tordán.",
+          "ro": "Festivalul municipal pentru familii, organizat la Nova PG Arena, aduce la Turda concerte, activități pentru copii și divertisment de weekend.",
+          "en": "The municipal family festival at Nova PG Arena brings concerts, children's activities, and weekend entertainment to Turda."
+        },
+        "date": "2026-05-30",
+        "end_date": "2026-06-01",
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.facebook.com/PrimariaTurdaOficial/photos/-se-preg%C4%83te%C8%99te-cel-mai-colorat-weekend-al-anului-la-turda-iar-surprizele-abia-%C3%AEn/1296496215999892/"
+      },
+      {
+        "title": {
+          "de": "FITT 2026",
+          "hu": "FITT 2026",
+          "ro": "FITT 2026",
+          "en": "FITT 2026"
+        },
+        "summary": {
+          "de": "Das Internationale Theaterfestival Turda feiert seine zehnte Ausgabe mit Aufführungen, Konzerten und Open-Air-Programmen in der ganzen Stadt.",
+          "hu": "A Turdai Nemzetközi Színházi Fesztivál tizedik kiadása előadásokkal, koncertekkel és szabadtéri programokkal tölti meg a várost.",
+          "ro": "Festivalul Internațional de Teatru Turda marchează ediția a zecea cu spectacole, concerte și programe în aer liber în tot orașul.",
+          "en": "The Turda International Theatre Festival marks its tenth edition with performances, concerts, and open-air programming across the city."
+        },
+        "date": "2026-06-26",
+        "end_date": "2026-07-05",
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://fitturda.ro/stiri/"
+      },
+      {
+        "title": {
+          "de": "Festivalul Verde la Turda 2026",
+          "hu": "Festivalul Verde la Turda 2026",
+          "ro": "Festivalul Verde la Turda 2026",
+          "en": "Green Festival in Turda 2026"
+        },
+        "summary": {
+          "de": "Das städtische Umweltfestival bündelt Begrünungsaktionen, Bildungsaktivitäten und Gemeinschaftsprogramme rund um Nachhaltigkeit.",
+          "hu": "A városi zöldfesztivál környezetvédelmi akciókat, oktatási programokat és közösségi kezdeményezéseket fog össze a fenntarthatóság jegyében.",
+          "ro": "Festivalul verde al orașului reunește acțiuni de ecologizare, activități educaționale și programe comunitare dedicate sustenabilității.",
+          "en": "The city's green festival brings together clean-up actions, educational activities, and community programs focused on sustainability."
+        },
+        "date": "2026-05-19",
+        "end_date": "2026-05-28",
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.facebook.com/PrimariaTurdaOficial/posts/turda-se-%C3%AEmbrac%C4%83-%C3%AEn-verde-%EF%B8%8F%C3%AEn-perioada-19-28-mai-d%C4%83m-startul-festivalului-verde-/1301246072191573/"
+      }
+    ]
+  },
+  {
+    "id": "city-medgidia-extra",
+    "events": [
+      {
+        "title": {
+          "de": "Festivalul Național de Teatru Tanța și Costel",
+          "hu": "Tanța și Costel Országos Színházi Fesztivál",
+          "ro": "Festivalul Național de Teatru Tanța și Costel",
+          "en": "Tanța and Costel National Theatre Festival"
+        },
+        "summary": {
+          "de": "Das städtische Theaterfestival ist eine wiederkehrende Kulturveranstaltung in Medgidia mit Aufführungen und Gastproduktionen.",
+          "hu": "A városi színházi fesztivál Medgidia visszatérő kulturális eseménye előadásokkal és vendégprodukciókkal.",
+          "ro": "Festivalul de teatru al municipiului este un eveniment cultural recurent la Medgidia, cu spectacole și producții invitate.",
+          "en": "The town's theatre festival is a recurring cultural event in Medgidia with performances and guest productions."
+        },
+        "date": "2026-10-15",
+        "end_date": "2026-10-17",
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.facebook.com/PrimariaMunicipiuluiMedgidia/posts/v%C4%83-invit%C4%83m-la-teatrula-medgidia-se-afl%C4%83-%C3%AEn-preg%C4%83tiri-cea-de-a-xii-a-edi%C8%9Bie-a-fes/1189296849897019/"
+      },
+      {
+        "title": {
+          "de": "Nationaler Kulturtag in Medgidia",
+          "hu": "A magyar kultúra napjához hasonló Nemzeti Kultúra Napja Medgidiában",
+          "ro": "Ziua Culturii Naționale la Medgidia",
+          "en": "National Culture Day in Medgidia"
+        },
+        "summary": {
+          "de": "Die Stadt lädt zu einem öffentlichen Musik- und Poesieprogramm anlässlich des Nationalen Kulturtags ein.",
+          "hu": "A város nyilvános zenei és verses programra hív a Nemzeti Kultúra Napja alkalmából.",
+          "ro": "Municipiul invită publicul la un spectacol de cântece și poezii dedicat Zilei Culturii Naționale.",
+          "en": "The municipality invites the public to a songs-and-poetry performance marking National Culture Day."
+        },
+        "date": "2026-01-15",
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.facebook.com/TVAlphaMedia/photos/de-ziua-culturii-na%C8%9Bionale-prim%C4%83ria-municipiului-medgidia-v%C4%83-invit%C4%83-joi-15-ianua/1511325283854766/"
+      },
+      {
+        "title": {
+          "de": "Dreikönigsfeier in Medgidia",
+          "hu": "Vízkereszti ünnepség Medgidiában",
+          "ro": "Activități de Bobotează la Medgidia",
+          "en": "Epiphany observance in Medgidia"
+        },
+        "summary": {
+          "de": "Die Stadtverwaltung organisiert gemeinsam mit der örtlichen Erzpriesterschaft öffentliche religiöse Aktivitäten zum orthodoxen Dreikönigstag.",
+          "hu": "A városháza a helyi esperességgel közösen nyilvános vallási programot szervez vízkereszt alkalmából.",
+          "ro": "Primăria, împreună cu Protoieria Medgidia, organizează activități religioase publice de Bobotează.",
+          "en": "City hall and the Medgidia archpriesthood organize public religious activities for Orthodox Epiphany."
+        },
+        "date": "2026-01-06",
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.facebook.com/PrimariaMunicipiuluiMedgidia/posts/prim%C4%83ria-municipiului-medgidia-%C3%AEn-colaborare-cu-protoieria-medgidia-organizeaz%C4%83-/1273211968172173/"
+      },
+      {
+        "title": {
+          "de": "Kindertag in Medgidia",
+          "hu": "Gyermeknap Medgidiában",
+          "ro": "1 Iunie la Medgidia",
+          "en": "Children's Day in Medgidia"
+        },
+        "summary": {
+          "de": "Das öffentliche Kindertagsprogramm umfasst Tanzvorführungen, Mitmachaktionen und familienfreundliche Unterhaltung im Stadtgebiet.",
+          "hu": "A nyilvános gyermeknapi program táncbemutatókat, interaktív foglalkozásokat és családbarát szórakozást kínál a városban.",
+          "ro": "Programul public de 1 Iunie include spectacole de dans, activități interactive și divertisment pentru familii în oraș.",
+          "en": "The public Children's Day program includes dance performances, interactive activities, and family entertainment in town."
+        },
+        "date": "2026-06-01",
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.facebook.com/TVAlphaMedia/posts/1-iunie-la-medgidia-un-eveniment-plin-de-culoare-veselie-%C8%99i-momente-magice-dedic/1630851108568849/"
+      }
+    ]
+  }
+]

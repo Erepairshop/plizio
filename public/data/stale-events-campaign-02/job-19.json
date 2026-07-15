@@ -1,0 +1,458 @@
+[
+  {
+    "id": "costa-adeje",
+    "events": [
+      {
+        "date": "2026-07-31",
+        "title": {
+          "de": "Hipatia y el Asteroide B-612",
+          "hu": "Hipatia y el Asteroide B-612",
+          "ro": "Hipatia y el Asteroide B-612",
+          "en": "Hipatia and the Asteroid B-612"
+        },
+        "summary": {
+          "de": "Das Familien-Theaterstueck im Auditorio de Adeje folgt der jungen Astronomiebegeisterten Hipatia auf dem Weg zur groessten Sternschnuppennacht.",
+          "hu": "Az Auditorio de Adeje csaladi szinhazi eloadasa a fiatal csillagaszat-rajongo Hipatiat koveti a minden idok legnagyobb hullocsillag-esemenye fele.",
+          "ro": "Spectacolul de teatru pentru familii de la Auditorio de Adeje o urmareste pe tanara pasionata de astronomie Hipatia in drumul ei spre cea mai mare ploaie de stele.",
+          "en": "This family stage show at the Auditorio de Adeje follows young astronomy fan Hipatia as she heads out to witness a major meteor shower."
+        },
+        "source_url": "https://www.auditoriodeadeje.es/programacion"
+      },
+      {
+        "date": "2026-08-08",
+        "title": {
+          "de": "Sunblast 2026",
+          "hu": "Sunblast 2026",
+          "ro": "Sunblast 2026",
+          "en": "Sunblast 2026"
+        },
+        "summary": {
+          "de": "Das grosse Elektronikfestival im Golf Costa Adeje startet am Nachmittag mit sieben immersiven Buehnen und einem langen Open-Air-Programm.",
+          "hu": "A Golf Costa Adeje teruleten megrendezett nagy elektronikus zenei fesztival delutan indul het immersziv szinpaddal es hosszu szabadtéri programmal.",
+          "ro": "Marele festival de muzica electronica de la Golf Costa Adeje incepe dupa-amiaza cu sapte scene imersive si un amplu program in aer liber.",
+          "en": "This major electronic music festival at Golf Costa Adeje starts in the afternoon with seven immersive stages and a large open-air program."
+        },
+        "source_url": "https://farra.world/sunblast/"
+      },
+      {
+        "date": "2026-08-29",
+        "end_date": "2026-08-29",
+        "title": {
+          "de": "Siam Night 2026",
+          "hu": "Siam Night 2026",
+          "ro": "Siam Night 2026",
+          "en": "Siam Night 2026"
+        },
+        "summary": {
+          "de": "Das Sommer-Nachtformat im Siam Park laeuft bis Ende August mit beleuchteten Attraktionen, DJs, Wellenbad-Sessions und geoeffneten Bars und Restaurants.",
+          "hu": "A Siam Park nyari ejszakai programja augusztus vegeig tart kivilagitott attrakciokkal, DJ-kkel, hullammedence-szekciokkal es nyitva tarto ettermekkel.",
+          "ro": "Programul estival de noapte din Siam Park continua pana la sfarsitul lui august cu atractii iluminate, DJ, sesiuni la piscina cu valuri si localuri deschise.",
+          "en": "Siam Park's summer night program runs through late August with illuminated rides, DJs, wave-pool sessions, and open bars and restaurants."
+        },
+        "source_url": "https://siampark.net/siam-night/"
+      },
+      {
+        "date": "2026-09-04",
+        "title": {
+          "de": "Antonia San Juan - La Ropa Vieja de Cuca",
+          "hu": "Antonia San Juan - La Ropa Vieja de Cuca",
+          "ro": "Antonia San Juan - La Ropa Vieja de Cuca",
+          "en": "Antonia San Juan - La Ropa Vieja de Cuca"
+        },
+        "summary": {
+          "de": "Antonia San Juan bringt im Auditorio de Adeje eine humorvolle Buehnenshow mit der Figur Cuca und Jennifer Artiles auf die Buehne.",
+          "hu": "Antonia San Juan az Auditorio de Adeje szinpadan Cuca figurajaval es Jennifer Artiles kozremukodesevel ad humoros estt.",
+          "ro": "Antonia San Juan aduce la Auditorio de Adeje un spectacol plin de umor cu personajul Cuca si participarea lui Jennifer Artiles.",
+          "en": "Antonia San Juan brings a humorous stage show to the Auditorio de Adeje featuring the character Cuca with Jennifer Artiles."
+        },
+        "source_url": "https://www.auditoriodeadeje.es/programacion/antonia-san-juan-la-ropa-vieja-de-cuca"
+      },
+      {
+        "date": "2026-09-18",
+        "title": {
+          "de": "Yllana - Gool",
+          "hu": "Yllana - Gool",
+          "ro": "Yllana - Gool",
+          "en": "Yllana - Gool"
+        },
+        "summary": {
+          "de": "Die September-Spielzeit des Auditorio de Adeje umfasst auch Yllanas komische Theaterproduktion \"Gool\".",
+          "hu": "Az Auditorio de Adeje szeptemberi musoraban Yllana komikus szinhazi produkcioja, a \"Gool\" is szerepel.",
+          "ro": "Programul din septembrie al Auditorio de Adeje include si productia de teatru comic \"Gool\" a companiei Yllana.",
+          "en": "The Auditorio de Adeje's September program also includes Yllana's comic theatre production \"Gool\"."
+        },
+        "source_url": "https://www.auditoriodeadeje.es/programacion"
+      }
+    ]
+  },
+  {
+    "id": "bastia",
+    "events": [
+      {
+        "date": "2026-07-26",
+        "end_date": "2026-10-04",
+        "title": {
+          "de": "Petit Train Touristique de Bastia",
+          "hu": "Bastia kis turistavonata",
+          "ro": "Trenulețul turistic din Bastia",
+          "en": "Bastia Tourist Little Train",
+          "fr": "Petit train touristique de Bastia"
+        },
+        "summary": {
+          "de": "Die gefuehrte 50-Minuten-Rundfahrt startet an der Place Saint-Nicolas und bietet einen kompakten Einstieg in Bastias Stadtbild.",
+          "hu": "Az 50 perces vezetett korut a Place Saint-Nicolas terrol indul, es gyors attekintest ad Bastia varoskeperol.",
+          "ro": "Turul ghidat de 50 de minute porneste din Place Saint-Nicolas si ofera o introducere compacta in orasul Bastia.",
+          "en": "This 50-minute guided ride starts at Place Saint-Nicolas and offers a compact introduction to Bastia.",
+          "fr": "Cette visite guidee de 50 minutes part de la place Saint-Nicolas et offre une decouverte concise de Bastia."
+        },
+        "source_url": "https://www.bastia-tourisme.com/agenda/"
+      },
+      {
+        "date": "2026-07-26",
+        "end_date": "2026-09-20",
+        "title": {
+          "de": "Vernicera - Histoire(s) de Foot",
+          "hu": "Vernicera - Histoire(s) de Foot",
+          "ro": "Vernicera - Histoire(s) de Foot",
+          "en": "Vernicera - Histoire(s) de Foot",
+          "fr": "Vernicera - Histoire(s) de Foot"
+        },
+        "summary": {
+          "de": "Die Ausstellung im Arsenale betrachtet Fussball als kulturelles Phaenomen mit Fotografien, Videos, Publikationen und Objekten.",
+          "hu": "Az Arsenale kiallitasa a futballt kulturális jelensegkent vizsgalja foto-kon, videokon, kiadvanyokon es targyakon keresztul.",
+          "ro": "Expozitia de la Arsenale abordeaza fotbalul ca fenomen cultural prin fotografii, video, publicatii si obiecte.",
+          "en": "This exhibition at Arsenale explores football as a cultural phenomenon through photographs, videos, publications, and objects.",
+          "fr": "L'exposition a l'Arsenale explore le football comme fait culturel a travers photographies, videos, editions et objets."
+        },
+        "source_url": "https://www.bastia-tourisme.com/agenda/"
+      },
+      {
+        "date": "2026-07-26",
+        "end_date": "2026-12-19",
+        "title": {
+          "de": "Corsica-Maghreb, eine Geschichte im Spiegel",
+          "hu": "Corsica-Maghreb, tukorben lattatott tortenelem",
+          "ro": "Corsica-Maghreb, o istorie in oglinda",
+          "en": "Corsica-Maghreb, a History in Mirror",
+          "fr": "Corsica-Maghreb, une histoire en miroir"
+        },
+        "summary": {
+          "de": "Das Musee de Bastia zeigt eine grosse Ausstellung ueber zwei Jahrhunderte Beziehungen zwischen Korsika und dem Maghreb.",
+          "hu": "A Musee de Bastia nagyszabasu kiallitasban mutatja be Korzika es a Maghreb ket evszazados kapcsolatait.",
+          "ro": "Musee de Bastia prezinta o ampla expozitie despre doua secole de relatii dintre Corsica si Maghreb.",
+          "en": "The Musee de Bastia is presenting a major exhibition about two centuries of links between Corsica and the Maghreb.",
+          "fr": "Le musee de Bastia presente une grande exposition consacree a deux siecles de relations entre la Corse et le Maghreb."
+        },
+        "source_url": "https://www.bastia-tourisme.com/agenda/"
+      },
+      {
+        "date": "2026-07-31",
+        "title": {
+          "de": "Festival Les Nuits du Piano 2026 - Antonii Baryshevskyi",
+          "hu": "Les Nuits du Piano 2026 - Antonii Baryshevskyi",
+          "ro": "Les Nuits du Piano 2026 - Antonii Baryshevskyi",
+          "en": "Les Nuits du Piano 2026 - Antonii Baryshevskyi",
+          "fr": "Les Nuits du Piano 2026 - Antonii Baryshevskyi"
+        },
+        "summary": {
+          "de": "Das Klavierfestival in Bastia bringt Antonii Baryshevskyi mit einem Abendprogramm im Palais des Gouverneurs.",
+          "hu": "A bastiai zongorafesztival Antonii Baryshevskyi estjet hozza el a Palais des Gouverneurs helyszinere.",
+          "ro": "Festivalul de pian din Bastia il programeaza pe Antonii Baryshevskyi intr-un recital la Palais des Gouverneurs.",
+          "en": "Bastia's piano festival presents Antonii Baryshevskyi in an evening performance at the Palais des Gouverneurs.",
+          "fr": "Le festival Les Nuits du Piano accueille Antonii Baryshevskyi pour une soiree au Palais des Gouverneurs."
+        },
+        "source_url": "https://www.bastia-tourisme.com/agenda/"
+      },
+      {
+        "date": "2026-08-05",
+        "period": {
+          "recurrent": true
+        },
+        "end_date": "2026-09-11",
+        "title": {
+          "de": "Besichtigung des Turms von Miomu",
+          "hu": "Miomu-torony latogatasa",
+          "ro": "Vizita la turnul Miomu",
+          "en": "Visit of the Miomu Tower",
+          "fr": "Visite de la tour de Miomu"
+        },
+        "summary": {
+          "de": "Die historische Tour de Miomu ist laut Sommerprogramm mittwochs und freitags bis September fuer Besichtigungen geoeffnet.",
+          "hu": "A nyari program szerint a tortenelmi Miomu-torony szeptemberig szerdankent es pentekenkent latogathato.",
+          "ro": "Conform programului de vara, turnul istoric Miomu poate fi vizitat miercurea si vinerea pana in septembrie.",
+          "en": "According to the summer program, the historic Miomu Tower is open for visits on Wednesdays and Fridays through September.",
+          "fr": "Selon le programme estival, la tour historique de Miomu se visite les mercredis et vendredis jusqu'en septembre."
+        },
+        "source_url": "https://www.bastia-tourisme.com/agenda/"
+      }
+    ]
+  },
+  {
+    "id": "dunaujvaros",
+    "events": [
+      {
+        "date": "2026-07-31",
+        "title": {
+          "de": "William Shakespeare: Romeo es Julia",
+          "hu": "William Shakespeare: Romeo es Julia",
+          "ro": "William Shakespeare: Romeo si Julia",
+          "en": "William Shakespeare: Romeo and Juliet"
+        },
+        "summary": {
+          "de": "Die Freilichtproduktion des Bartok Kamaraszinhaz wird Ende Juli im Liget beziehungsweise Shakespeare-Udvar in Dunaújváros gespielt.",
+          "hu": "A Bartok Kamaraszinhaz szabadtéri Romeo es Julia-eloadasa julius vegen a Liget, illetve a Shakespeare-udvar helyszinen lathato Dunaújvárosban.",
+          "ro": "Productia in aer liber a teatrului Bartok Kamaraszinhaz aduce la sfarsit de iulie \"Romeo si Julia\" la Liget, respectiv Shakespeare-Udvar, in Dunaújváros.",
+          "en": "Bartok Kamaraszinhaz stages its open-air production of Romeo and Juliet in Dunaújváros at the end of July."
+        },
+        "source_url": "https://www.jegy.hu/venue/bartok-kamaraszinhaz-es-muveszetek-haza"
+      },
+      {
+        "date": "2026-08-01",
+        "title": {
+          "de": "William Shakespeare: Ahogy Tetszik",
+          "hu": "William Shakespeare: Ahogy Tetszik",
+          "ro": "William Shakespeare: Ahogy Tetszik",
+          "en": "William Shakespeare: As You Like It"
+        },
+        "summary": {
+          "de": "Das Bartok Kamaraszinhaz veranstaltet am 1. August eine Abschiedsvorstellung von \"Ahogy Tetszik\" im Shakespeare-Udvar der Vasvari-Pal-Schule.",
+          "hu": "A Bartok Kamaraszinhaz augusztus 1-jen bucsueloadaskent jatsza az \"Ahogy Tetszik\" cimu darabot a Vasvari Pal Iskola Shakespeare-udvaraban.",
+          "ro": "Bartok Kamaraszinhaz programeaza pe 1 august o reprezentatie de ramas-bun cu \"Ahogy Tetszik\" in Shakespeare-Udvar, in curtea scolii Vasvari Pal.",
+          "en": "On August 1, Bartok Kamaraszinhaz presents a farewell performance of As You Like It in the Shakespeare courtyard at Vasvari Pal School."
+        },
+        "source_url": "https://bartokszinhaz.hu/esemeny/william-shakespeare-ahogy-tetszik-bucsueloadas-shakespeare-udvar-2026/"
+      },
+      {
+        "date": "2026-09-22",
+        "title": {
+          "de": "Zoran Turne 2026",
+          "hu": "Zoran Turne 2026",
+          "ro": "Turneul Zoran 2026",
+          "en": "Zoran Tour 2026"
+        },
+        "summary": {
+          "de": "Der ungarische Singer-Songwriter Zoran kommt fuer einen Abendauftritt ins Kultik Mozi in Dunaújváros.",
+          "hu": "Zoran magyar enekes-dalszerzo esti koncerttel erkezik a dunaújvárosi Kultik Moziba.",
+          "ro": "Cantaretul si compozitorul maghiar Zoran sustine un concert de seara la Kultik Mozi din Dunaújváros.",
+          "en": "Hungarian singer-songwriter Zoran is scheduled for an evening concert at Kultik Mozi in Dunaújváros."
+        },
+        "source_url": "https://www.jegy.hu/program/zoran-turne-2026-188692"
+      },
+      {
+        "date": "2026-10-02",
+        "title": {
+          "de": "Lazar Ervin: Negyszogletu Kerek Erdo",
+          "hu": "Lazar Ervin: Negyszogletu Kerek Erdo",
+          "ro": "Lazar Ervin: Negyszogletu Kerek Erdo",
+          "en": "Lazar Ervin: The Round Forest with Four Corners"
+        },
+        "summary": {
+          "de": "Das Bartok Kamaraszinhaz zeigt Anfang Oktober die Familien- und Puppentheaterproduktion nach Lazar Ervin im Studioterm.",
+          "hu": "A Bartok Kamaraszinhaz oktober elejen mutatja be Lazar Ervin csaladi es babszinhazi darabjat a Studioteremben.",
+          "ro": "La inceput de octombrie, Bartok Kamaraszinhaz prezinta in sala studio productia pentru familie si papusi dupa Lazar Ervin.",
+          "en": "At the start of October, Bartok Kamaraszinhaz presents this family puppet-theatre production based on Lazar Ervin in its studio venue."
+        },
+        "source_url": "https://www.jegy.hu/city/dunaujvaros"
+      },
+      {
+        "date": "2026-10-03",
+        "title": {
+          "de": "William Shakespeare: Romeo es Julia",
+          "hu": "William Shakespeare: Romeo es Julia",
+          "ro": "William Shakespeare: Romeo si Julia",
+          "en": "William Shakespeare: Romeo and Juliet"
+        },
+        "summary": {
+          "de": "Die Herbstspielzeit des Bartok Kamaraszinhaz nimmt Romeo und Julia Anfang Oktober im Theatersaal wieder auf.",
+          "hu": "Az oszi evadban a Bartok Kamaraszinhaz oktober elejen ujra musorra tuzi a Romeo es Julia eloadast a szinhazteremben.",
+          "ro": "In stagiunea de toamna, Bartok Kamaraszinhaz reia la inceput de octombrie spectacolul \"Romeo si Julia\" in sala mare.",
+          "en": "In the autumn season, Bartok Kamaraszinhaz revives Romeo and Juliet in its main theatre hall in early October."
+        },
+        "source_url": "https://www.jegy.hu/city/dunaujvaros"
+      }
+    ]
+  },
+  {
+    "id": "ascoli-piceno",
+    "events": [
+      {
+        "date": "2026-07-29",
+        "title": {
+          "de": "TAU - Teatri Antichi Uniti",
+          "hu": "TAU - Teatri Antichi Uniti",
+          "ro": "TAU - Teatri Antichi Uniti",
+          "en": "TAU - Teatri Antichi Uniti"
+        },
+        "summary": {
+          "de": "Das Sommerprogramm im Chiostro di Sant'Agostino bringt am 29. Juli eine weitere Veranstaltung der Theaterreihe TAU nach Ascoli Piceno.",
+          "hu": "A Chiostro di Sant'Agostino nyari programja julius 29-en a TAU szinhazi sorozat ujabb allomasat fogadja Ascoli Picenoban.",
+          "ro": "Programul de vara de la Chiostro di Sant'Agostino aduce pe 29 iulie o noua intalnire din seria TAU la Ascoli Piceno.",
+          "en": "The summer program at the Chiostro di Sant'Agostino hosts another TAU theatre-series event on July 29 in Ascoli Piceno."
+        },
+        "source_url": "https://www.comune.ap.it/calendarioeventi"
+      },
+      {
+        "date": "2026-07-29",
+        "title": {
+          "de": "Parchiamo - 29 luglio 2026",
+          "hu": "Parchiamo - 2026. julius 29.",
+          "ro": "Parchiamo - 29 iulie 2026",
+          "en": "Parchiamo - 29 July 2026"
+        },
+        "summary": {
+          "de": "Die Nachbarschaftsreihe Parchiamo macht am 29. Juli im Parco di via V.E. Orlando im Bereich Piazza Immacolata Station.",
+          "hu": "A Parchiamo kozossegi sorozat julius 29-en a Parco di via V.E. Orlando teruleten, a Piazza Immacolata kornyeken rendez programot.",
+          "ro": "Seria de cartier Parchiamo ajunge pe 29 iulie in Parco di via V.E. Orlando, in zona Piazza Immacolata.",
+          "en": "The Parchiamo neighborhood program stops on July 29 at the park on via V.E. Orlando near Piazza Immacolata."
+        },
+        "source_url": "https://www.comune.ap.it/calendarioeventi"
+      },
+      {
+        "date": "2026-07-31",
+        "title": {
+          "de": "Lezioni gratuite di yoga - 31 luglio",
+          "hu": "Ingyenes jogaora - julius 31.",
+          "ro": "Lectii gratuite de yoga - 31 iulie",
+          "en": "Free Yoga Lessons - 31 July"
+        },
+        "summary": {
+          "de": "Kostenlose Yoga-Stunden sind fuer den 31. Juli in Villa Pigna - Folignano im Sommerkalender der Region Ascoli eingetragen.",
+          "hu": "Az ingyenes yogaora julius 31-en szerepel a nyari naptarban Villa Pigna - Folignano helyszinen.",
+          "ro": "Calendarul de vara anunta pe 31 iulie lectii gratuite de yoga la Villa Pigna - Folignano.",
+          "en": "The summer calendar lists free yoga lessons on July 31 at Villa Pigna in Folignano."
+        },
+        "source_url": "https://www.comune.ap.it/calendarioeventi"
+      },
+      {
+        "date": "2026-08-02",
+        "title": {
+          "de": "Quintana 2026 - Giostra della Quintana in onore di Sant'Emidio",
+          "hu": "Quintana 2026 - Giostra della Quintana Sant'Emidio tiszteletere",
+          "ro": "Quintana 2026 - Giostra della Quintana in onoarea lui Sant'Emidio",
+          "en": "Quintana 2026 - Joust in Honor of Saint Emidio"
+        },
+        "summary": {
+          "de": "Die beruehmte mittelalterliche Reiter- und Stadtfestveranstaltung von Ascoli Piceno findet am Campo dei Giochi zu Ehren des Stadtpatrons statt.",
+          "hu": "Ascoli Piceno hires kozepkori lovagi es varosi unnepe a Campo dei Giochi helyszinen zajlik a varos vedoszentjenek tiszteletere.",
+          "ro": "Cunoscuta sarbatoare medievala cu turnir ecvestru din Ascoli Piceno are loc la Campo dei Giochi in onoarea sfantului patron al orasului.",
+          "en": "Ascoli Piceno's famous medieval joust and civic celebration takes place at Campo dei Giochi in honor of the city's patron saint."
+        },
+        "source_url": "https://www.quintanadiascoli.it/en/"
+      },
+      {
+        "date": "2026-08-05",
+        "title": {
+          "de": "Parchiamo - 5 agosto 2026",
+          "hu": "Parchiamo - 2026. augusztus 5.",
+          "ro": "Parchiamo - 5 august 2026",
+          "en": "Parchiamo - 5 August 2026"
+        },
+        "summary": {
+          "de": "Die Parchiamo-Reihe setzt sich Anfang August im Parco Viale de Gasperi im Bereich Hotel Gioly fort.",
+          "hu": "A Parchiamo sorozat augusztus elejen a Parco Viale de Gasperi teruleten, a Hotel Gioly kozeleben folytatodik.",
+          "ro": "Seria Parchiamo continua la inceput de august in Parco Viale de Gasperi, in zona hotelului Gioly.",
+          "en": "The Parchiamo series continues in early August at Parco Viale de Gasperi near Hotel Gioly."
+        },
+        "source_url": "https://www.comune.ap.it/calendarioeventi?MM=8&YY=2026"
+      }
+    ]
+  },
+  {
+    "id": "aubagne",
+    "events": [
+      {
+        "date": "2026-07-26",
+        "end_date": "2026-10-17",
+        "title": {
+          "de": "Entre deux mondes",
+          "hu": "Entre deux mondes",
+          "ro": "Entre deux mondes",
+          "en": "Between Two Worlds",
+          "fr": "Entre deux mondes"
+        },
+        "summary": {
+          "de": "Das Centre d'art contemporain Les Penitents Noirs zeigt in Aubagne die Ausstellung \"Entre deux mondes\" bis Mitte Oktober.",
+          "hu": "Az aubagne-i Centre d'art contemporain Les Penitents Noirs oktober kozepéig mutatja be az \"Entre deux mondes\" kiallitast.",
+          "ro": "Centrul de arta contemporana Les Penitents Noirs din Aubagne gazduieste expozitia \"Entre deux mondes\" pana la mijlocul lui octombrie.",
+          "en": "Aubagne's Centre d'art contemporain Les Penitents Noirs is presenting the exhibition \"Entre deux mondes\" through mid-October.",
+          "fr": "Le centre d'art contemporain Les Penitents Noirs a Aubagne presente l'exposition \"Entre deux mondes\" jusqu'a la mi-octobre."
+        },
+        "source_url": "https://www.aubagne.fr/evenements/"
+      },
+      {
+        "date": "2026-07-26",
+        "end_date": "2026-08-29",
+        "title": {
+          "de": "Le grand troc de la mediatheque",
+          "hu": "A mediateka nagy csereprogramja",
+          "ro": "Marele troc al mediatecii",
+          "en": "The Mediatheque Big Swap",
+          "fr": "Le grand troc de la mediatheque"
+        },
+        "summary": {
+          "de": "Die Mediatheque Marcel-Pagnol veranstaltet im Sommer einen langen Tauschmarkt mit Schul- und Kulturmaterialien.",
+          "hu": "A Mediatheque Marcel-Pagnol nyaron hosszan tarto csereprogramot szervez iskolai es kulturalis anyagokkal.",
+          "ro": "Mediatheque Marcel-Pagnol organizeaza pe timpul verii un amplu troc de materiale scolare si culturale.",
+          "en": "The Mediatheque Marcel-Pagnol runs an extended summer swap focused on school and cultural materials.",
+          "fr": "La mediatheque Marcel-Pagnol propose pendant l'ete un grand troc autour de fournitures et supports culturels."
+        },
+        "source_url": "https://www.aubagne.fr/evenements/"
+      },
+      {
+        "date": "2026-07-26",
+        "end_date": "2026-08-23",
+        "title": {
+          "de": "Marche a la ceramique et aux santons",
+          "hu": "Keramia- es santonvasar",
+          "ro": "Piata de ceramica si santoni",
+          "en": "Ceramics and Santons Market",
+          "fr": "Marche a la ceramique et aux santons"
+        },
+        "summary": {
+          "de": "Der traditionelle Markt auf dem Cours Foch versammelt im Sommer Keramik und provenzalische Santons im Herzen von Aubagne.",
+          "hu": "A Cours Foch hagyomanyos nyari piaca keramiat es provanszi santon figurakat mutat be Aubagne kozpontjaban.",
+          "ro": "Piata traditionala de pe Cours Foch reuneste vara ceramica si figurine santon provensale in centrul orasului Aubagne.",
+          "en": "This traditional market on Cours Foch brings together ceramics and Provençal santons in central Aubagne through the summer.",
+          "fr": "Ce marche traditionnel du Cours Foch reunit tout l'ete ceramique et santons provencaux au coeur d'Aubagne."
+        },
+        "source_url": "https://www.aubagne.fr/evenements/"
+      },
+      {
+        "date": "2026-08-07",
+        "title": {
+          "de": "Nostalgie Generation 80",
+          "hu": "Nostalgie Generation 80",
+          "ro": "Nostalgie Generation 80",
+          "en": "Nostalgie Generation 80",
+          "fr": "Nostalgie Generation 80"
+        },
+        "summary": {
+          "de": "Die Esplanade de Gaulle empfaengt Anfang August einen grossen 80er-Jahre-Konzertabend im Sommerprogramm der Stadt.",
+          "hu": "Augusztus elejen az Esplanade de Gaulle ad otthont a varos nyari musoranak egyik nagy 80-as evek temaju koncertestjenek.",
+          "ro": "La inceput de august, Esplanade de Gaulle gazduieste un mare concert tematic anii '80 in programul estival al orasului.",
+          "en": "In early August, Esplanade de Gaulle hosts a major 1980s-themed concert evening in the city's summer program.",
+          "fr": "Debut aout, l'esplanade de Gaulle accueille une grande soiree musicale consacree aux annees 1980 dans le programme d'ete de la ville."
+        },
+        "source_url": "https://www.aubagne.fr/evenements/page/2/"
+      },
+      {
+        "date": "2026-08-27",
+        "title": {
+          "de": "Places en musique - Zenia Quartet",
+          "hu": "Places en musique - Zenia Quartet",
+          "ro": "Places en musique - Zenia Quartet",
+          "en": "Places en musique - Zenia Quartet",
+          "fr": "Places en musique - Zenia Quartet"
+        },
+        "summary": {
+          "de": "Die kostenlose Konzertreihe \"Places en musique\" macht Ende August mit dem Zenia Quartet auf der Place Joseph-Rau Halt.",
+          "hu": "A \"Places en musique\" ingyenes koncertsorozat augusztus vegen a Zenia Quartet estjevel erkezik a Place Joseph-Rau terere.",
+          "ro": "Seria gratuita de concerte \"Places en musique\" ajunge la sfarsit de august in Place Joseph-Rau cu Zenia Quartet.",
+          "en": "The free \"Places en musique\" concert series returns in late August with Zenia Quartet at Place Joseph-Rau.",
+          "fr": "La serie gratuite \"Places en musique\" fait etape fin aout place Joseph-Rau avec le Zenia Quartet."
+        },
+        "source_url": "https://www.aubagne.fr/evenements/page/3/"
+      }
+    ]
+  }
+]

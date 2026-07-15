@@ -1,0 +1,371 @@
+[
+  {
+    "id": "agen",
+    "events": [
+      {
+        "date": "2026-07-31",
+        "end_date": "2026-08-01",
+        "title": {
+          "de": "Open Mind Festival 2026",
+          "hu": "Open Mind Fesztivál 2026",
+          "ro": "Open Mind Festival 2026",
+          "en": "Open Mind Festival 2026",
+          "fr": "Open Mind Festival 2026"
+        },
+        "summary": {
+          "de": "Das zweitaegige Festival nahe Agen bietet Live-Konzerte, Camping, Foodtrucks und eine bewusst klein gehaltene Open-Air-Atmosphaere.",
+          "hu": "A ketnapos, Agen kozeleben megrendezett fesztival elo koncertekkel, kempinggel, food truckokkal es intimebb szabateri hangulattal varja a latogatokat.",
+          "ro": "Festivalul de doua zile de langa Agen propune concerte live, camping, food truckuri si o atmosfera open-air pastrata la scara redusa.",
+          "en": "The two-day festival near Agen combines live music, camping, food trucks, and a deliberately small-scale outdoor atmosphere.",
+          "fr": "Ce festival de deux jours pres d'Agen propose des concerts, un espace camping, des food trucks et une ambiance en plein air a taille humaine."
+        },
+        "source_url": "https://destination-agen.com/open-mind-festival-2026/"
+      },
+      {
+        "date": "2026-08-07",
+        "title": {
+          "de": "Lumiere sur le grand chene",
+          "hu": "Feny a nagy tolgyon",
+          "ro": "Lumina asupra marelui stejar",
+          "en": "Light on the Great Oak",
+          "fr": "Lumiere sur le grand chene"
+        },
+        "summary": {
+          "de": "Der Sommerabend an der ehemaligen Ferme de Trotte-Lapin verbindet Picknickstimmung mit einem familienfreundlichen Abendprogramm im Freien.",
+          "hu": "Az egykori Trotte-Lapin gazdasagnal tartott nyari est piknikhangulatot es csaladbarat szabateri programot kinal.",
+          "ro": "Seara de vara de la fosta ferma Trotte-Lapin imbina atmosfera de picnic cu un program in aer liber potrivit pentru familii.",
+          "en": "This summer evening at the former Trotte-Lapin farm combines picnic time with a family-friendly outdoor program.",
+          "fr": "Cette soiree d'ete a l'ancienne ferme de Trotte-Lapin mele ambiance pique-nique et programme en plein air pour tous les publics."
+        },
+        "source_url": "https://destination-agen.com/spectacle-lumiere-sur-le-grand-chene-8eme-edition/"
+      },
+      {
+        "date": "2026-08-12",
+        "end_date": "2026-08-15",
+        "title": {
+          "de": "Festival de Saint-Amans",
+          "hu": "Saint-Amans Fesztival",
+          "ro": "Festivalul Saint-Amans",
+          "en": "Saint-Amans Festival",
+          "fr": "Festival de Saint-Amans"
+        },
+        "summary": {
+          "de": "Das mehrtaegige Sommerfestival im Agenais verbindet Spaziergaenge, Konzerte, Theater und gastronomische Angebote an mehreren Veranstaltungsorten.",
+          "hu": "Az Agen tersegeben zajlo tobbnapos nyari fesztival setakat, koncerteket, szinhazat es vendeglatasi programokat kapcsol ossze.",
+          "ro": "Festivalul estival de mai multe zile din zona Agen reuneste plimbari, concerte, teatru si oferta gastronomica in mai multe locuri.",
+          "en": "This multi-day summer festival in the Agen area mixes walks, concerts, theatre, and food offerings across several venues.",
+          "fr": "Ce festival estival de plusieurs jours dans l'Agenais reunit balades, concerts, theatre et restauration sur plusieurs sites."
+        },
+        "source_url": "https://destination-agen.com/le-festival-de-saint-amans/"
+      },
+      {
+        "date": "2026-08-28",
+        "end_date": "2026-08-29",
+        "title": {
+          "de": "Les Fetes d'Agen 2026",
+          "hu": "Agen Varosi Unnepei 2026",
+          "ro": "Sarbatorile orasului Agen 2026",
+          "en": "Les Fetes d'Agen 2026",
+          "fr": "Les Fetes d'Agen 2026"
+        },
+        "summary": {
+          "de": "Die Innenstadt von Agen wird fuer zwei Tage mit Konzerten, Strassenkunst und Stadtfeststimmung rund um die grossen Abendbuehnen belebt.",
+          "hu": "Agen belvarosa ket napra koncertekkel, utcamuveszettel es varosunnepi hangulattal telik meg.",
+          "ro": "Centrul orasului Agen gazduieste timp de doua zile concerte, arta stradala si o atmosfera de mare sarbatoare urbana.",
+          "en": "Agen's city centre hosts two days of concerts, street arts, and festive programming built around major evening performances.",
+          "fr": "Le centre-ville d'Agen accueille deux jours de concerts, d'arts de rue et d'animations festives autour des grandes scenes du soir."
+        },
+        "source_url": "https://destination-agen.com/les-fetes-d-agen/"
+      }
+    ]
+  },
+  {
+    "id": "nevers",
+    "events": [
+      {
+        "date": "2026-07-29",
+        "end_date": "2026-08-26",
+        "title": {
+          "de": "Gefuehrte Tour 'Die Legenden von Nevers'",
+          "hu": "Vezetett seta: Nevers legendai",
+          "ro": "Tur ghidat: Legendele din Nevers",
+          "en": "Guided tour: The Legends of Nevers",
+          "fr": "Visite guidee : Les Legendes de Nevers"
+        },
+        "summary": {
+          "de": "Die familienfreundliche Fuehrung des Tourismusburos stellt Geschichten und Legenden der Stadt auf einem Rundgang durch Nevers vor.",
+          "hu": "A turisztikai iroda csaladbarat setaja Nevers torteneteit es legendait mutatja be a belvarosban.",
+          "ro": "Vizita ghidata pentru familii prezentata de oficiul de turism pune in valoare povestile si legendele orasului Nevers.",
+          "en": "The tourist office's family-oriented walk introduces local stories and legends across the historic city.",
+          "fr": "Cette visite familiale de l'office de tourisme fait decouvrir les histoires et legendes de la ville au fil des rues de Nevers."
+        },
+        "source_url": "https://www.nevers-tourisme.com/sit/visite-guidee-les-legendes-de-nevers",
+        "period": {
+          "recurrent": true
+        }
+      },
+      {
+        "date": "2026-07-29",
+        "end_date": "2026-08-19",
+        "title": {
+          "de": "Kinder-Raetseltour 'Die Saphir-Affaere'",
+          "hu": "Gyerek kincskereses: A zafir ugye",
+          "ro": "Vanatoare de comori pentru copii: Afacerea safirului",
+          "en": "Children's treasure hunt: The Sapphire Case",
+          "fr": "Chasse aux tresors enfant : L'affaire du saphir"
+        },
+        "summary": {
+          "de": "Kinder folgen in der Innenstadt Hinweisen zu einem verschwundenen Schmuckstueck und entdecken dabei auf spielerische Weise Nevers.",
+          "hu": "A gyerekek nyomokat kovetnek egy eltunt ekszer utan, es jatekos modon fedezik fel Nevers belvarosat.",
+          "ro": "Copiii urmaresc indicii prin centrul orasului pentru a rezolva disparitia unui colier si descopera Nevers intr-un mod ludic.",
+          "en": "Children follow clues through the city centre to solve a missing-jewel mystery while exploring Nevers.",
+          "fr": "Les enfants suivent des indices dans le centre-ville pour resoudre la disparition d'un collier et decouvrir Nevers en s'amusant."
+        },
+        "source_url": "https://www.nevers-tourisme.com/sit/animation-enfant-chasse-aux-tresors-laffaire-du-saphir",
+        "period": {
+          "recurrent": true
+        }
+      },
+      {
+        "date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "title": {
+          "de": "Konzerte bei Nevers Plage",
+          "hu": "Nevers Plage koncertsorozat",
+          "ro": "Seria de concerte Nevers Plage",
+          "en": "Nevers Plage concert series",
+          "fr": "Concerts de Nevers Plage"
+        },
+        "summary": {
+          "de": "Die Sommerzone an der Loire bietet bis Ende August regelmaessig Abendkonzerte, DJ-Sets und entspannte Strandatmosphaere in der Stadt.",
+          "hu": "A Loire-parti nyari helyszin augusztus vegeig esti koncertekkel, DJ-szettekkel es laza strandhangulattal varja a kozonseget.",
+          "ro": "Spatiul estival de pe malul Loarei ofera pana la sfarsitul lui august concerte de seara, DJ seturi si o atmosfera relaxata de plaja urbana.",
+          "en": "The Loire-side summer venue runs evening concerts, DJ sets, and a relaxed urban beach atmosphere through the end of August.",
+          "fr": "L'espace estival au bord de la Loire propose jusqu'a fin aout concerts du soir, DJ sets et ambiance de plage urbaine."
+        },
+        "source_url": "https://www.nevers-tourisme.com/sit/animation-concerts-nevers-plage",
+        "period": {
+          "recurrent": true
+        }
+      },
+      {
+        "date": "2026-08-26",
+        "end_date": "2026-08-27",
+        "title": {
+          "de": "Masters de Petanque",
+          "hu": "Masters de Petanque",
+          "ro": "Masters de Petanque",
+          "en": "Masters de Petanque",
+          "fr": "Masters de Petanque"
+        },
+        "summary": {
+          "de": "Die professionelle Petanque-Tour macht zwei Tage Station auf der Esplanade des Palais Ducal und bringt Spitzenwettkaempfe samt Begleitprogramm nach Nevers.",
+          "hu": "A profi petanque-korverseny ket napra a Palais Ducal elotti teret foglalja el, es elvonalbeli meccseket hoz Neversbe.",
+          "ro": "Circuitul profesionist de petanque opreste doua zile pe esplanada Palais Ducal, cu competitii de top si program complementar.",
+          "en": "The professional petanque circuit stops for two days at the Palais Ducal esplanade with elite competition and side events.",
+          "fr": "Le grand circuit professionnel de petanque fait etape deux jours sur l'esplanade du Palais ducal avec competitions de haut niveau et animations."
+        },
+        "source_url": "https://www.nevers-tourisme.com/sit/masters-de-petanque"
+      }
+    ]
+  },
+  {
+    "id": "perigueux",
+    "events": [
+      {
+        "date": "2026-06-01",
+        "end_date": "2026-08-31",
+        "title": {
+          "de": "Ausstellung 'Die Kathedrale durch die Jahrhunderte'",
+          "hu": "Kiallitas: A katedralis az evszazadokon at",
+          "ro": "Expozitia 'Catedrala de-a lungul secolelor'",
+          "en": "Exhibition: The Cathedral Through the Centuries",
+          "fr": "Exposition : La Cathedrale a travers les siecles"
+        },
+        "summary": {
+          "de": "Die kostenlose Ausstellung erklaert Geschichte, Architektur und Ausstattung der Kathedrale Saint-Front im Herzen von Perigueux.",
+          "hu": "Az ingyenes kiallitas a perigueux-i Saint-Front katedralis tortenetet, epiteszetet es disziteset mutatja be.",
+          "ro": "Expozitia gratuita prezinta istoria, arhitectura si decorul catedralei Saint-Front din centrul orasului Perigueux.",
+          "en": "This free exhibition explores the history, architecture, and decoration of Saint-Front Cathedral in central Perigueux.",
+          "fr": "Cette exposition gratuite presente l'histoire, l'architecture et les decors de la cathedrale Saint-Front au coeur de Perigueux."
+        },
+        "source_url": "https://www.tourisme-grandperigueux.fr/fiche/exposition-la-cathedrale-a-travers-les-siecles/"
+      },
+      {
+        "date": "2026-07-28",
+        "end_date": "2026-08-27",
+        "title": {
+          "de": "Kurzfuehrung auf den Turm Mataguerre",
+          "hu": "Rovid vezetes a Mataguerre-toronyban",
+          "ro": "Vizita flash la Turnul Mataguerre",
+          "en": "Flash visit to the Tour Mataguerre",
+          "fr": "Visite flash - La Tour Mataguerre"
+        },
+        "summary": {
+          "de": "Die kurze Sommerfuehrung fuehrt auf einen markanten Stadtturm und bietet einen kompakten Blick auf die Entwicklung von Perigueux.",
+          "hu": "A rovid nyari vezetes felvisz egy fontos varostoronyba, ahonnan attekintheto Perigueux fejlodese.",
+          "ro": "Vizita scurta de vara urca intr-un turn emblematic si ofera o lectura rapida a evolutiei orasului Perigueux.",
+          "en": "This short summer tour climbs one of the city's landmark towers and gives a compact overview of Perigueux's development.",
+          "fr": "Cette courte visite estivale grimpe dans l'une des tours emblematiques de la ville et propose une lecture rapide de l'evolution de Perigueux."
+        },
+        "source_url": "https://www.tourisme-grandperigueux.fr/fiche/visite-flash-la-tour-mataguerre/",
+        "period": {
+          "recurrent": true
+        }
+      },
+      {
+        "date": "2026-08-20",
+        "title": {
+          "de": "Les Nuits Gourmandes",
+          "hu": "Les Nuits Gourmandes",
+          "ro": "Les Nuits Gourmandes",
+          "en": "Les Nuits Gourmandes",
+          "fr": "Les Nuits Gourmandes"
+        },
+        "summary": {
+          "de": "Der historische Stadtkern von Perigueux verwandelt sich fuer einen Abend in ein grosses Freiluft-Gourmettreffen mit regionalen Spezialitaeten.",
+          "hu": "Perigueux tortenelmi belvarosa egy estere szabadtari gasztronomiai talalkozohelye valik helyi kulonlegessegekkel.",
+          "ro": "Centrul istoric al orasului Perigueux devine pentru o seara un mare rendez-vous gastronomic in aer liber, cu specialitati locale.",
+          "en": "Perigueux's historic centre turns into a large open-air food evening centered on regional products and convivial dining.",
+          "fr": "Le centre historique de Perigueux devient le temps d'une soiree un grand rendez-vous gourmand en plein air autour des produits regionaux."
+        },
+        "source_url": "https://www.tourisme-grandperigueux.fr/fiche/les-nuits-gourmandes/"
+      },
+      {
+        "date": "2026-08-08",
+        "end_date": "2026-08-29",
+        "title": {
+          "de": "Stadtfuehrung 'Mittelalter und Renaissance'",
+          "hu": "Varosnezo seta: Kozepkor es reneszansz",
+          "ro": "Tur al orasului: Evul Mediu si Renastere",
+          "en": "City tour: Medieval and Renaissance Périgueux",
+          "fr": "Visite de la ville : Medievale et Renaissance"
+        },
+        "summary": {
+          "de": "Diese regelmaessige Fuehrung zeigt Besuchern Gassen, Bauwerke und Geschichte von Perigueux zwischen Mittelalter und Renaissance.",
+          "hu": "A rendszeres varosnezo seta Perigueux utcait, epuleteit es tortenetet mutatja be a kozepkortol a reneszanszig.",
+          "ro": "Turul ghidat regulat descopera strazi, monumente si istoria orasului Perigueux intre Evul Mediu si Renastere.",
+          "en": "This recurring guided walk introduces streets, monuments, and urban history from medieval to Renaissance Perigueux.",
+          "fr": "Cette visite reguliere fait decouvrir rues, monuments et histoire urbaine de Perigueux du Moyen Age a la Renaissance."
+        },
+        "source_url": "https://www.tourisme-grandperigueux.fr/fiche/visite-de-la-ville-medievale-et-renaissance/",
+        "period": {
+          "recurrent": true
+        }
+      }
+    ]
+  },
+  {
+    "id": "marignane",
+    "events": [
+      {
+        "date": "2026-06-17",
+        "end_date": "2026-08-29",
+        "title": {
+          "de": "Feiern wir den Sommer in Marignane",
+          "hu": "Unnepeljuk a nyarat Marignane-ban",
+          "ro": "Sa sarbatorim vara la Marignane",
+          "en": "Let's Celebrate Summer in Marignane",
+          "fr": "Fetons l'ete a Marignane"
+        },
+        "summary": {
+          "de": "Die Stadt spannt vom Fruehsommer bis Ende August ein langes Sommerprogramm ueber Marignane, das Besucher mit wiederkehrenden Freizeitmomenten begleitet.",
+          "hu": "A varos juniustol augusztus vegeig hosszu nyari programsorozatot szervez Marignane-ban, tobb visszatero szabadidos alkalommal.",
+          "ro": "Orasul deruleaza din iunie pana la sfarsitul lui august un amplu program de vara la Marignane, cu numeroase momente de loisir.",
+          "en": "The city runs a broad summer program from June to late August, giving visitors a season-long framework of leisure activities in Marignane.",
+          "fr": "La ville deploye de juin a fin aout un vaste programme estival a Marignane, avec des rendez-vous de loisirs tout au long de la saison."
+        },
+        "source_url": "https://www.marignane.fr/event-details/fetons-lete-a-marignane-1"
+      },
+      {
+        "date": "2026-08-29",
+        "title": {
+          "de": "FESTI K-POP",
+          "hu": "FESTI K-POP",
+          "ro": "FESTI K-POP",
+          "en": "FESTI K-POP",
+          "fr": "FESTI K-POP"
+        },
+        "summary": {
+          "de": "Das Skatepark-Event bringt am spaeten Samstagnachmittag K-Pop-orientierte Unterhaltung an einen jugendorientierten Ort der Stadt.",
+          "hu": "A keso delutani skatepark-rendezveny K-pop temaju szorakozast hoz Marignane egyik fiatalos helyszinere.",
+          "ro": "Evenimentul de la skatepark aduce intr-o dupa-amiaza de sambata divertisment orientat spre cultura K-pop intr-un spatiu tanar al orasului.",
+          "en": "Held at the skatepark, this late-afternoon event brings K-pop-focused entertainment to one of the city's youth-oriented venues.",
+          "fr": "Organise au skatepark, ce rendez-vous de fin d'apres-midi met la culture K-pop a l'honneur dans un lieu tres frequente par les jeunes."
+        },
+        "source_url": "https://www.marignane.fr/event-details/festi-k-pop"
+      },
+      {
+        "date": "2026-08-30",
+        "title": {
+          "de": "La course des etangs",
+          "hu": "La course des etangs",
+          "ro": "La course des etangs",
+          "en": "La course des etangs",
+          "fr": "La course des etangs"
+        },
+        "summary": {
+          "de": "Der Vormittag im Parc des Sports du Bolmon steht ganz im Zeichen eines sportlichen Treffens rund um die Etangs von Marignane.",
+          "hu": "A Bolmon sportparkban tartott delelotti rendezveny sportos kozossegi alkalmat kinal a marignane-i tavak kornyeken.",
+          "ro": "Evenimentul sportiv de dimineata de la Parc des Sports du Bolmon invita publicul la o intalnire activa in zona iazurilor din Marignane.",
+          "en": "This morning sports event at Parc des Sports du Bolmon offers an active gathering linked to the lagoon landscape around Marignane.",
+          "fr": "Ce rendez-vous sportif matinal au parc des sports du Bolmon propose une rencontre active dans l'environnement des etangs de Marignane."
+        },
+        "source_url": "https://www.marignane.fr/event-details/la-course-des-etangs-1"
+      }
+    ]
+  },
+  {
+    "id": "ozd",
+    "events": [
+      {
+        "date": "2026-08-08",
+        "title": {
+          "de": "12. Treffen der auswarts lebenden Menschen aus Ozd",
+          "hu": "12. Tavol Elo Ozdiak Talalkozoja",
+          "ro": "A 12-a intalnire a ozdenilor care locuiesc in afara orasului",
+          "en": "12th Meeting of People from Ozd Living Elsewhere"
+        },
+        "summary": {
+          "de": "Das kommunale Treffen bringt Menschen mit Bindung an Ozd zu Gespraechen und gemeinsamer Zeit am Horgaszto zusammen.",
+          "hu": "Az onkormanyzati kozossegi talalkozo az Ozdhoz kotodo, mashol elo embereket hivja beszelgetesre es kozos idotoltesre a horgasztohoz.",
+          "ro": "Intalnirea comunitara organizata de municipalitate reuneste persoane legate de Ozd pentru discutii si timp petrecut impreuna la lacul de pescuit.",
+          "en": "This municipal community event brings together people with ties to Ozd for conversations and shared time by the fishing lake."
+        },
+        "source_url": "https://www.ozd.hu/2026/07/08/augusztus-8-900-12-tavol-elo-ozdiak-talalkozoja/"
+      },
+      {
+        "date": "2026-08-15",
+        "title": {
+          "de": "Bestiak Retro Orulet - Miss Bee in Ozd",
+          "hu": "Bestiak Retro Orulet - Miss Bee Ozdon",
+          "ro": "Bestiak Retro Orulet - Miss Bee la Ozd",
+          "en": "Bestiak Retro Orulet - Miss Bee in Ozd"
+        },
+        "summary": {
+          "de": "Die kostenlose Open-Air-Show bringt am Nachmittag ein Retro-Pop-Programm auf eine Freiluftbuehne in Ozd.",
+          "hu": "Az ingyenes szabaderi koncert delutani retro-pop musort hoz Ozd szabadtari helyszinere.",
+          "ro": "Spectacolul gratuit in aer liber aduce dupa-amiaza un program de retro-pop pe o scena exterioara din Ozd.",
+          "en": "This free outdoor show brings a retro-pop performance to an open-air venue in Ozd on Saturday afternoon."
+        },
+        "source_url": "https://koncertbooking.com/esemeny/bestiak-retro-orulet-miss-bee-2026-ozd-szabadter"
+      },
+      {
+        "date": "2026-09-05",
+        "title": {
+          "de": "Opitz Barbi in Ozd",
+          "hu": "Opitz Barbi Ozdon",
+          "ro": "Opitz Barbi la Ozd",
+          "en": "Opitz Barbi in Ozd"
+        },
+        "summary": {
+          "de": "Der kostenlose Abendauftritt von Opitz Barbi ist als oeffentliche Freiluftveranstaltung in Ozd eingetragen.",
+          "hu": "Opitz Barbi ingyenes esti fellepese nyilvanos szabadtari rendezvenykent szerepel Ozdon.",
+          "ro": "Concertul de seara al lui Opitz Barbi figureaza ca eveniment public gratuit in aer liber la Ozd.",
+          "en": "Opitz Barbi's evening performance is listed as a free public outdoor event in Ozd."
+        },
+        "source_url": "https://koncertbooking.com/esemeny/opitz-barbi-2026-ozd-szabadter"
+      }
+    ]
+  }
+]

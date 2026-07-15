@@ -1,0 +1,308 @@
+[
+  {
+    "id": "lens",
+    "events": [
+      {
+        "date": "2026-07-26",
+        "end_date": "2026-08-30",
+        "title": {
+          "de": "Parc en Fete im Louvre-Lens",
+          "hu": "Parc en Fete a Louvre-Lens-ben",
+          "ro": "Parc en Fete la Louvre-Lens",
+          "en": "Parc en Fete at Louvre-Lens",
+          "fr": "Parc en Fete au Louvre-Lens"
+        },
+        "summary": {
+          "de": "Das kostenlose Sommerprogramm des Louvre-Lens laeuft bis Ende August mit künstlerischen, sportlichen und kulturellen Aktivitäten im Museumspark.",
+          "hu": "A Louvre-Lens ingyenes nyari programsorozata augusztus vegeig tart muveszeti, sport- es kulturális foglalkozasokkal a muzeum parkjaban.",
+          "ro": "Programul gratuit de vara al muzeului Louvre-Lens continua pana la sfarsitul lui august cu activitati artistice, sportive si culturale in parcul muzeului.",
+          "en": "Louvre-Lens runs this free summer program through late August with artistic, sports, and cultural activities across the museum park.",
+          "fr": "Le programme gratuit de l'ete du Louvre-Lens se poursuit jusqu'a fin aout avec des activites artistiques, sportives et culturelles dans le parc du musee."
+        },
+        "source_url": "https://www.lens.fr/"
+      },
+      {
+        "date": "2026-02-14",
+        "end_date": "2026-12-07",
+        "title": {
+          "de": "La Comedie-Francaise im Louvre-Lens",
+          "hu": "A Comedie-Francaise a Louvre-Lens-ben",
+          "ro": "Comedia Franceza la Louvre-Lens",
+          "en": "La Comedie-Francaise at Louvre-Lens",
+          "fr": "La Comedie-Francaise au Louvre-Lens"
+        },
+        "summary": {
+          "de": "Die Mezzanin-Ausstellung beleuchtet die Entstehung und Entwicklung der Gemälde- und Skulpturensammlungen der Comedie-Francaise in einer vom Theater inspirierten Szenografie.",
+          "hu": "A mezzanine-szinti kiallitas a Comedie-Francaise festmeny- es szoborgyujtemenyenek kialakulasat es fejlodeset mutatja be szinhazi ihletesu latvanyvilaggal.",
+          "ro": "Expozitia de la Mezzanine prezinta nasterea si evolutia colectiilor de pictura si sculptura ale Comediei Franceze intr-o scenografie inspirata de teatru.",
+          "en": "This mezzanine exhibition traces the birth and evolution of the Comedie-Francaise painting and sculpture collections in a theatrical scenography.",
+          "fr": "Cette exposition en mezzanine retrace la naissance et l'evolution des collections de peintures et de sculptures de la Comedie-Francaise dans une scenographie inspiree du theatre."
+        },
+        "source_url": "https://www.louvrelens.fr/les-expositions-temporaires/"
+      },
+      {
+        "date": "2026-09-23",
+        "end_date": "2027-01-18",
+        "title": {
+          "de": "Trop Mignon! L'art du bonheur",
+          "hu": "Trop Mignon! A boldogsag muveszete",
+          "ro": "Trop Mignon! Arta fericirii",
+          "en": "Trop Mignon! The Art of Happiness",
+          "fr": "Trop Mignon ! L'art du bonheur"
+        },
+        "summary": {
+          "de": "Die große Herbstausstellung untersucht mit rund 300 Werken, wie Kunst Freude, Zärtlichkeit und emotionale Resonanz erzeugen kann.",
+          "hu": "Az oszi nagykiallitas csaknem 300 alkotason keresztul vizsgalja, hogyan kelthet az art oromot, gyengedseget es erzelmi rezonanciat.",
+          "ro": "Marea expozitie de toamna reuneste aproape 300 de lucrari si exploreaza modul in care arta poate genera bucurie, tandrete si emotie.",
+          "en": "This major autumn exhibition brings together nearly 300 works to explore how art can create joy, tenderness, and emotional comfort.",
+          "fr": "Cette grande exposition d'automne reunit pres de 300 oeuvres pour explorer la facon dont l'art peut susciter joie, tendresse et reconfort."
+        },
+        "source_url": "https://www.louvrelens.fr/les-expositions-temporaires/"
+      }
+    ]
+  },
+  {
+    "id": "city-dej-extra",
+    "events": [
+      {
+        "date": "2026-07-09",
+        "end_date": "2026-07-31",
+        "title": {
+          "de": "Anuala Artiștilor Plastici Dejeni",
+          "hu": "A dejei kepzomuveszek annualis kiallitasa",
+          "ro": "Anuala Artistilor Plastici Dejeni",
+          "en": "Annual Exhibition of Dej Visual Artists"
+        },
+        "summary": {
+          "de": "Die städtische Museumsausstellung präsentiert Werke lokaler bildender Künstler und bleibt den ganzen Monat Juli für Besucher geöffnet.",
+          "hu": "A varosi muzeum kiallitasa helyi kepzomuveszek alkotasait mutatja be, es egesz juliusban latogathato.",
+          "ro": "Expozitia muzeului municipal reuneste lucrari ale artistilor plastici locali si ramane deschisa publicului pe tot parcursul lunii iulie.",
+          "en": "This municipal museum exhibition presents works by local visual artists and remains open to visitors throughout July."
+        },
+        "source_url": "https://turism-dej.ro/evenimente"
+      }
+    ]
+  },
+  {
+    "id": "santa-eularia",
+    "events": [
+      {
+        "date": "2026-07-28",
+        "end_date": "2026-07-29",
+        "title": {
+          "de": "Sommerworkshop der Jugendkapelle der Musikschule",
+          "hu": "A zeneiskola ifjusagi zenekaranak nyari muhelye",
+          "ro": "Atelierul de vara al fanfarei de tineret a scolii de muzica",
+          "en": "Summer workshop of the youth band of the municipal music school"
+        },
+        "summary": {
+          "de": "Der offizielle Veranstaltungskalender von Santa Eularia führt Ende Juli einen Sommerworkshop mit Abschlusskonzert der Jugendkapelle auf.",
+          "hu": "Santa Eularia hivatalos programnaptara julius vegere a varosi zeneiskola ifjusagi zenekaranak nyari muhelyet es zarokoncertjet hirdeti.",
+          "ro": "Agenda oficiala din Santa Eularia anunta la final de iulie un atelier de vara si concert de inchidere al fanfarei de tineret a scolii municipale de muzica.",
+          "en": "Santa Eularia’s official agenda lists a late-July summer workshop and closing concert by the municipal music school’s youth band."
+        },
+        "source_url": "https://visitsantaeulalia.com/en/nueva-agenda-2"
+      },
+      {
+        "date": "2026-06-24",
+        "end_date": "2026-08-14",
+        "title": {
+          "de": "Aquagym für Senioren",
+          "hu": "Aquagym idoseknek",
+          "ro": "Aquagym pentru seniori",
+          "en": "Aquagym for Seniors"
+        },
+        "summary": {
+          "de": "Das Gemeindprogramm bringt im Sommer betreute Aquagym-Kurse für ältere Teilnehmer nach Santa Eularia.",
+          "hu": "Az onkormanyzati nyari program szervezett aquagym-foglalkozasokat kinal idosebb resztvevoknek Santa Eulariaban.",
+          "ro": "Programul municipal de vara propune sedinte de aquagym pentru seniori pe parcursul sezonului estival in Santa Eularia.",
+          "en": "The municipality’s summer program offers supervised aquagym sessions for seniors throughout the season in Santa Eularia."
+        },
+        "source_url": "https://visitsantaeulalia.com/en/nueva-agenda-2/aquagym-for-seniors-2026"
+      },
+      {
+        "date": "2026-09-18",
+        "title": {
+          "de": "Déjà Vu, eine Zaubershow von Peio Rivas",
+          "hu": "Déjà Vu, Peio Rivas bűvészműsora",
+          "ro": "Déjà Vu, spectacol de magie de Peio Rivas",
+          "en": "Déjà Vu, a magic show by Peio Rivas"
+        },
+        "summary": {
+          "de": "Peio Rivas gastiert mit seiner Show „Déjà Vu“ im Veranstaltungskalender von Santa Eularia.",
+          "hu": "Peio Rivas „Déjà Vu” című műsora szerepel Santa Eularia hivatalos eseménynaptárában.",
+          "ro": "Peio Rivas prezinta spectacolul sau „Déjà Vu” in programul oficial de evenimente din Santa Eularia.",
+          "en": "Peio Rivas brings his “Déjà Vu” magic show to Santa Eularia’s official event program."
+        },
+        "source_url": "https://visitsantaeulalia.com/en/nueva-agenda-2/deja-vu-a-magic-show-by-peio-rivas"
+      },
+      {
+        "date": "2026-10-24",
+        "title": {
+          "de": "Workshop für dekorative Keramikmalerei",
+          "hu": "Diszkeramia-festes workshop",
+          "ro": "Atelier de pictura pe ceramica decorativa",
+          "en": "Decorative ceramics painting workshop"
+        },
+        "summary": {
+          "de": "Das Can Ros Ethnographic Museum veranstaltet einen praktischen Keramik-Workshop für Teilnehmer ab 16 Jahren.",
+          "hu": "A Can Ros Neprajzi Muzeum gyakorlati keramiafesto foglalkozast szervez 16 ev feletti resztvevoknek.",
+          "ro": "Muzeul Etnografic Can Ros organizeaza un atelier practic de pictura pe ceramica pentru participanti de peste 16 ani.",
+          "en": "Can Ros Ethnographic Museum hosts a hands-on decorative ceramics workshop for participants aged 16 and over."
+        },
+        "source_url": "https://visitsantaeulalia.com/en/nueva-agenda-2/decorative-ceramics-painting-workshop"
+      }
+    ]
+  },
+  {
+    "id": "thonon-les-bains",
+    "events": [
+      {
+        "date": "2026-07-10",
+        "end_date": "2026-08-21",
+        "title": {
+          "de": "Nocturnes de Thonon 2026",
+          "hu": "Nocturnes de Thonon 2026",
+          "ro": "Nocturnes de Thonon 2026",
+          "en": "Nocturnes de Thonon 2026",
+          "fr": "Nocturnes de Thonon 2026"
+        },
+        "summary": {
+          "de": "Jeden Freitagabend beleben Konzerte, Nachtmarkt, Flohmarkt und Gastronomiestände das Zentrum von Thonon-les-Bains.",
+          "hu": "A nyar minden pentek estejen koncertek, esti piac, bolhapiac es vendeglato standok toltik meg Thonon-les-Bains belvarosat.",
+          "ro": "In fiecare vineri seara din vara, centrul orasului se anima cu concerte, piata nocturna, targ de vechituri si standuri gastronomice.",
+          "en": "Every Friday evening in summer, concerts, a night market, flea-market stalls, and food stands animate central Thonon-les-Bains.",
+          "fr": "Chaque vendredi soir de l'ete, concerts, marche nocturne, vide-greniers et stands de restauration animent le centre-ville de Thonon-les-Bains."
+        },
+        "source_url": "https://www.ville-thonon.fr/evenements/nocturnes-de-thonon-2026/"
+      },
+      {
+        "date": "2026-07-29",
+        "end_date": "2026-08-01",
+        "title": {
+          "de": "Les Fondus du Macadam 2026",
+          "hu": "Les Fondus du Macadam 2026",
+          "ro": "Les Fondus du Macadam 2026",
+          "en": "Les Fondus du Macadam 2026",
+          "fr": "Les Fondus du Macadam 2026"
+        },
+        "summary": {
+          "de": "Das Straßenkunstfestival übernimmt Ende Juli und Anfang August das Stadtzentrum mit Aufführungen und Animationen im Freien.",
+          "hu": "A szabadtéri utcamuveszeti fesztival julius vegen es augusztus elejen eloadasokkal es programokkal foglalja el a belvarost.",
+          "ro": "Festivalul de arta stradala transforma centrul orasului la sfarsit de iulie si inceput de august prin spectacole si animatii in aer liber.",
+          "en": "This street-arts festival takes over the town center in late July and early August with open-air performances and public entertainment.",
+          "fr": "Ce festival des arts de la rue investit le centre-ville fin juillet et debut aout avec des spectacles et animations en plein air."
+        },
+        "source_url": "https://www.ville-thonon.fr/evenements/les-fondus-du-macadam-2026/"
+      },
+      {
+        "date": "2026-06-27",
+        "end_date": "2026-09-19",
+        "title": {
+          "de": "Un monde secondaire",
+          "hu": "Un monde secondaire",
+          "ro": "Un monde secondaire",
+          "en": "Un monde secondaire",
+          "fr": "Un monde secondaire"
+        },
+        "summary": {
+          "de": "Die Chapelle de la Visitation zeigt bis Mitte September die Installation von Lamarche-Ovize als imaginären Gartenraum.",
+          "hu": "A Chapelle de la Visitation szeptember kozepeig Lamarche-Ovize kepzeletbeli kerti installaciojat mutatja be.",
+          "ro": "Capela de la Visitation gazduieste pana la mijlocul lui septembrie instalatia „Un monde secondaire”, imaginata ca o gradina artistica.",
+          "en": "Chapelle de la Visitation hosts Lamarche-Ovize’s “Un monde secondaire” through mid-September as an immersive imaginary garden.",
+          "fr": "La Chapelle de la Visitation accueille jusqu'a mi-septembre l'installation « Un monde secondaire », imaginee comme un jardin fictif."
+        },
+        "source_url": "https://www.ville-thonon.fr/evenements/un-monde-secondaire-lamarche-ovize-transforme-la-chapelle-en-jardin-imaginaire/"
+      },
+      {
+        "date": "2026-05-02",
+        "end_date": "2026-09-13",
+        "title": {
+          "de": "Die städtische Strandanlage ist geöffnet",
+          "hu": "Nyitva a varosi strand",
+          "ro": "Plaja municipala este deschisa",
+          "en": "Municipal beach season",
+          "fr": "La plage municipale est ouverte"
+        },
+        "summary": {
+          "de": "Die Stadt eröffnet ihre Sommersaison am Genfersee mit der städtischen Strandanlage, die bis Mitte September täglich zugänglich ist.",
+          "hu": "A varos megnyitja nyari szezonjat a Genfi-to partjan fekvo stranddal, amely szeptember kozepeig naponta latogathato.",
+          "ro": "Orasul isi deschide sezonul de vara la malul Lacului Leman prin plaja municipala, accesibila zilnic pana la mijlocul lui septembrie.",
+          "en": "The city’s Lake Geneva summer season includes the municipal beach, open daily to visitors through mid-September.",
+          "fr": "La saison d'ete au bord du Leman comprend la plage municipale, ouverte chaque jour aux visiteurs jusqu'a mi-septembre."
+        },
+        "source_url": "https://www.ville-thonon.fr/evenements/ouverture-de-la-plage-municipale-2/"
+      }
+    ]
+  },
+  {
+    "id": "tuttlingen",
+    "events": [
+      {
+        "date": "2026-07-10",
+        "end_date": "2026-07-26",
+        "title": {
+          "de": "30. Tuttlinger Honberg-Sommer",
+          "hu": "30. Tuttlinger Honberg-Sommer",
+          "ro": "Al 30-lea Tuttlinger Honberg-Sommer",
+          "en": "30th Tuttlingen Honberg Summer"
+        },
+        "summary": {
+          "de": "Das mehrtägige Festival auf der Honberg-Ruine feiert seine 30. Ausgabe mit Konzerten, Varieté und Festivalatmosphäre über der Stadt.",
+          "hu": "A Honberg romjain rendezett tobbnapos fesztival 30. kiadasat unnepli koncertekkel, varietemuszorokkal es nyari fesztivalhangulattal.",
+          "ro": "Festivalul desfasurat la ruinele Honberg isi sarbatoreste a 30-a editie cu concerte, varietati si atmosfera estivala deasupra orasului.",
+          "en": "Held at the Honberg ruins, this multi-day festival marks its 30th edition with concerts, variety programming, and a strong summer festival atmosphere."
+        },
+        "source_url": "https://www.tuttlinger-hallen.de/tickets-fuer-unsere-events/honberg-sommer/programm/"
+      },
+      {
+        "date": "2026-10-23",
+        "title": {
+          "de": "Maladee: „Voila, da bin isch!“",
+          "hu": "Maladee: „Voila, da bin isch!“",
+          "ro": "Maladee: „Voila, da bin isch!“",
+          "en": "Maladee: “Voila, da bin isch!”"
+        },
+        "summary": {
+          "de": "Die preisgekrönte Chanson- und Kleinkunstfigur Maladee steht im Oktober im Programm der Tuttlinger Hallen.",
+          "hu": "A dijazott sanzon- es kabarefigurakent ismert Maladee oktoberben szerepel a Tuttlinger Hallen programjaban.",
+          "ro": "Artista de chanson si cabaret Maladee figureaza in programul oficial al Tuttlinger Hallen pentru luna octombrie.",
+          "en": "Award-winning chanson and cabaret performer Maladee appears in the October program of the Tuttlinger Hallen."
+        },
+        "source_url": "https://www.tuttlinger-hallen.de/tickets-fuer-unsere-events/"
+      },
+      {
+        "date": "2026-11-05",
+        "title": {
+          "de": "Pippo Pollina & Quartetto Acustico",
+          "hu": "Pippo Pollina & Quartetto Acustico",
+          "ro": "Pippo Pollina & Quartetto Acustico",
+          "en": "Pippo Pollina & Quartetto Acustico"
+        },
+        "summary": {
+          "de": "Der sizilianische Liedermacher kommt mit seinem Quartetto Acustico und der Tour „La vita è bella così com’è“ nach Tuttlingen.",
+          "hu": "A sziciliai dalszerzo Quartetto Acustico formaciojaval es „La vita è bella così com’è” turnejaval erkezik Tuttlingenbe.",
+          "ro": "Cantautorul sicilian revine la Tuttlingen impreuna cu Quartetto Acustico si turneul „La vita è bella così com’è”.",
+          "en": "The Sicilian singer-songwriter visits Tuttlingen with his Quartetto Acustico and the “La vita è bella così com’è” tour."
+        },
+        "source_url": "https://www.tuttlinger-hallen.de/tickets-fuer-unsere-events/"
+      },
+      {
+        "date": "2026-11-06",
+        "title": {
+          "de": "„Berta, das Ei ist hart“",
+          "hu": "„Berta, das Ei ist hart”",
+          "ro": "„Berta, das Ei ist hart”",
+          "en": "“Berta, das Ei ist hart”"
+        },
+        "summary": {
+          "de": "Der Literaturherbst endet mit einer musikalischen Lesung nach Loriot mit Martin Brambach, Christine Sommer und Dietmar Loeffler.",
+          "hu": "Az irodalmi osz Loriot-ihlette zenes felolvasoesttel zarul Martin Brambach, Christine Sommer es Dietmar Loeffler kozremukodesevel.",
+          "ro": "Festivalul de literatura se incheie cu o lectura muzicala inspirata de Loriot, cu Martin Brambach, Christine Sommer si Dietmar Loeffler.",
+          "en": "The literature season closes with a musical reading inspired by Loriot, featuring Martin Brambach, Christine Sommer, and Dietmar Loeffler."
+        },
+        "source_url": "https://www.tuttlinger-hallen.de/tickets-fuer-unsere-events/stadthalle-tuttlingen/literaturherbst-2/"
+      }
+    ]
+  }
+]

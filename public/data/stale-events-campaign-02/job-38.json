@@ -1,0 +1,414 @@
+[
+  {
+    "id": "lievin",
+    "events": [
+      {
+        "date": "2026-08-02",
+        "title": {
+          "de": "Kiosqu'Estival",
+          "hu": "Kiosqu'Estival nyári program",
+          "ro": "Kiosqu'Estival",
+          "en": "Kiosqu'Estival",
+          "fr": "Kiosqu'Estival"
+        },
+        "summary": {
+          "de": "Das Sommerprogramm im Jardin Public beginnt am 2. August um 15:30 mit einem offenen Nachmittagsformat im Stadtpark von Liévin.",
+          "hu": "A Jardin Public nyári szabadtéri programsorozata 2026. augusztus 2-án 15:30-kor indul Liévin közparkjában.",
+          "ro": "Programul estival din Jardin Public începe pe 2 august, la ora 15:30, cu o după-amiază în aer liber în parcul orașului Liévin.",
+          "en": "Liévin's summer series at the Jardin Public starts on August 2 at 15:30 with an open-air afternoon event in the town park.",
+          "fr": "La série estivale du Jardin Public commence le 2 août à 15h30 avec une animation de plein air dans le parc de Liévin."
+        },
+        "source_url": "https://lievin.fr/mon-ete-lievin-2"
+      },
+      {
+        "date": "2026-08-07",
+        "title": {
+          "de": "Marché Artisanal",
+          "hu": "Kézműves piac",
+          "ro": "Piață artizanală",
+          "en": "Artisan Market",
+          "fr": "Marché artisanal"
+        },
+        "summary": {
+          "de": "Der Abendmarkt im Jardin Public startet am 7. August um 18:30 und bringt lokales Kunsthandwerk in die Innenstadt.",
+          "hu": "A kézműves piac 2026. augusztus 7-én 18:30-kor nyílik meg a Jardin Public területén, helyi alkotókkal és árusokkal.",
+          "ro": "Piața artizanală are loc pe 7 august, de la 18:30, în Jardin Public, cu producători și artizani locali.",
+          "en": "The artisan market opens on August 7 at 18:30 in the Jardin Public, bringing local makers and craft stalls to central Liévin.",
+          "fr": "Le marché artisanal se tient le 7 août à partir de 18h30 au Jardin Public avec des créateurs et exposants locaux."
+        },
+        "source_url": "https://lievin.fr/mon-ete-lievin-2"
+      },
+      {
+        "date": "2026-08-07",
+        "end_date": "2026-08-09",
+        "title": {
+          "de": "48 Heures Country Rétro",
+          "hu": "48 Heures Country Rétro",
+          "ro": "48 Heures Country Rétro",
+          "en": "48 Heures Country Rétro",
+          "fr": "48 Heures Country Rétro"
+        },
+        "summary": {
+          "de": "Das mehrtägige Country- und Retro-Wochenende läuft vom 7. bis 9. August im Chalet Brand als ganztägiges Sommerprogramm.",
+          "hu": "A country és retro hangulatú, többnapos rendezvény 2026. augusztus 7. és 9. között zajlik a Chalet Brand helyszínén egész napos programokkal.",
+          "ro": "Evenimentul country și retro se desfășoară între 7 și 9 august la Chalet Brand, cu program pe tot parcursul zilei.",
+          "en": "This multi-day country and retro event runs from August 7 to 9 at Chalet Brand with all-day programming.",
+          "fr": "Ce rendez-vous country et rétro se déroule du 7 au 9 août au Chalet Brand avec des animations toute la journée."
+        },
+        "source_url": "https://lievin.fr/mon-ete-lievin-2"
+      },
+      {
+        "date": "2026-08-10",
+        "end_date": "2026-08-18",
+        "title": {
+          "de": "Ducasse de Riaumont",
+          "hu": "Riaumont vidámparkja",
+          "ro": "Ducasse de Riaumont",
+          "en": "Riaumont Fair",
+          "fr": "Ducasse de Riaumont"
+        },
+        "summary": {
+          "de": "Die Stadt kündigt die Ducasse de Riaumont als ganztägiges Kirmesprogramm im Quartier Riaumont vom 10. bis 18. August an.",
+          "hu": "A Riaumont negyed vidámparki rendezvénye 2026. augusztus 10-től 18-ig tart, egész napos vásári hangulattal.",
+          "ro": "Municipalitatea anunță ducasse-ul din cartierul Riaumont între 10 și 18 august, cu program de bâlci pe toată durata zilei.",
+          "en": "The city lists the Riaumont fair as an all-day neighborhood funfair running from August 10 to 18 in Quartier Riaumont.",
+          "fr": "La ville annonce la ducasse de Riaumont du 10 au 18 août, avec des animations foraines toute la journée dans le quartier."
+        },
+        "source_url": "https://lievin.fr/mon-ete-lievin-2"
+      },
+      {
+        "date": "2026-08-29",
+        "end_date": "2026-08-31",
+        "title": {
+          "de": "Kermesse du Val",
+          "hu": "Val negyedi kermesse",
+          "ro": "Kermesse du Val",
+          "en": "Kermesse du Val",
+          "fr": "Kermesse du Val"
+        },
+        "summary": {
+          "de": "Die Kermesse du Val läuft vom 29. bis 31. August ganztägig im Parc du Val de Souchez und schließt den Sommerkalender ab.",
+          "hu": "A Kermesse du Val 2026. augusztus 29. és 31. között egész napos rendezvényként zajlik a Parc du Val de Souchez területén.",
+          "ro": "Kermesse du Val se desfășoară între 29 și 31 august, pe tot parcursul zilei, în Parc du Val de Souchez.",
+          "en": "Kermesse du Val runs from August 29 to 31 as an all-day fair in Parc du Val de Souchez.",
+          "fr": "La Kermesse du Val se tient du 29 au 31 août toute la journée au parc du Val de Souchez."
+        },
+        "source_url": "https://lievin.fr/mon-ete-lievin-2"
+      }
+    ]
+  },
+  {
+    "id": "jaszbereny",
+    "events": [
+      {
+        "date": "2026-07-31",
+        "title": {
+          "de": "A digitális nindzsa",
+          "hu": "A digitális nindzsa",
+          "ro": "Ninja digital",
+          "en": "The Digital Ninja"
+        },
+        "summary": {
+          "de": "Aranyosi Péter bringt sein Solo-Programm am 31. Juli um 20:00 auf die Freilichtbühne in Jászberény.",
+          "hu": "Aranyosi Péter önálló estje 2026. július 31-én 20:00-kor érkezik a jászberényi szabadtéri színpadra.",
+          "ro": "Spectacolul solo al lui Aranyosi Péter ajunge pe scena în aer liber din Jászberény pe 31 iulie, la ora 20:00.",
+          "en": "Aranyosi Péter brings his solo show to Jászberény's open-air stage on July 31 at 20:00."
+        },
+        "source_url": "https://www.jegy.hu/city/jaszbereny"
+      },
+      {
+        "date": "2026-08-13",
+        "title": {
+          "de": "Kutyák",
+          "hu": "Kutyák",
+          "ro": "Câini",
+          "en": "Dogs"
+        },
+        "summary": {
+          "de": "Hadházi László spielt sein Stand-up-Programm am 13. August um 20:00 auf der überdachten Freilichtbühne in Jászberény.",
+          "hu": "Hadházi László önálló estje 2026. augusztus 13-án 20:00-kor lesz a fedett nézőteres szabadtéri helyszínen Jászberényben.",
+          "ro": "Hadházi László își prezintă spectacolul pe 13 august, la ora 20:00, pe scena în aer liber cu tribună acoperită din Jászberény.",
+          "en": "Hadházi László's comedy show is scheduled for August 13 at 20:00 on Jászberény's covered open-air stage."
+        },
+        "source_url": "https://www.jegy.hu/program/kutyak-hadhazi-laszlo-onallo-estje-musorvezeto-lovasz-laszlo-192699"
+      },
+      {
+        "date": "2026-09-25",
+        "title": {
+          "de": "Ónlakodalom",
+          "hu": "Ónlakodalom",
+          "ro": "Nuntă de cositor",
+          "en": "Tin Wedding Anniversary Show"
+        },
+        "summary": {
+          "de": "Lakatos László feiert am 25. September um 18:00 in Jászberény sein zehnjähriges Best-of-Programm mit Oliver Wolf als Voract.",
+          "hu": "Lakatos László jubileumi, tízéves best of estje 2026. szeptember 25-én 18:00-kor lesz Jászberényben, Oliver Wolf előzenekarával.",
+          "ro": "Lakatos László aduce la Jászberény pe 25 septembrie, la ora 18:00, spectacolul său aniversar best of de zece ani, cu Oliver Wolf în deschidere.",
+          "en": "Lakatos László's ten-year best-of anniversary show reaches Jászberény on September 25 at 18:00, with Oliver Wolf opening."
+        },
+        "source_url": "https://www.jegy.hu/program/onlakodalom-lakatos-laszlo-10-ev-best-ofja-jubileumi-eloadas-elozenekar-oliver-wolf-195050"
+      },
+      {
+        "date": "2026-10-27",
+        "title": {
+          "de": "Operett, ahogy szeretjük",
+          "hu": "Operett, ahogy szeretjük",
+          "ro": "Operetă, așa cum o iubim",
+          "en": "Operetta the Way We Love It"
+        },
+        "summary": {
+          "de": "Oszvald Marika und Peller Károly bringen am 27. Oktober um 18:00 einen klassischen Operettenabend nach Jászberény.",
+          "hu": "Oszvald Marika és Peller Károly 2026. október 27-én 18:00-kor operettesttel lép fel Jászberényben.",
+          "ro": "Oszvald Marika și Peller Károly aduc un spectacol de operetă la Jászberény pe 27 octombrie, de la ora 18:00.",
+          "en": "Oszvald Marika and Peller Károly bring a classic operetta evening to Jászberény on October 27 at 18:00."
+        },
+        "source_url": "https://www.jegy.hu/program/operett-ahogy-szeretjuk-oszvald-marikaval-es-peller-karollyal-jaszbereny-193730"
+      }
+    ]
+  },
+  {
+    "id": "oroshaza",
+    "events": [
+      {
+        "date": "2026-08-09",
+        "title": {
+          "de": "Rákász Gergely - Mozart",
+          "hu": "Rákász Gergely - Mozart",
+          "ro": "Rákász Gergely - Mozart",
+          "en": "Rákász Gergely - Mozart"
+        },
+        "summary": {
+          "de": "Der Organist Rákász Gergely spielt am 9. August um 19:00 ein Mozart-Programm in Orosháza.",
+          "hu": "Rákász Gergely Mozart-műsora 2026. augusztus 9-én 19:00-kor lesz Orosházán.",
+          "ro": "Programul Mozart susținut de organistul Rákász Gergely este programat la Orosháza pe 9 august, la ora 19:00.",
+          "en": "Organist Rákász Gergely presents a Mozart program in Orosháza on August 9 at 19:00."
+        },
+        "source_url": "https://www.jegy.hu/program/rakasz-gergely-mozart-187025"
+      },
+      {
+        "date": "2026-09-19",
+        "title": {
+          "de": "Meztelen igazság",
+          "hu": "Meztelen igazság",
+          "ro": "Adevărul gol-goluț",
+          "en": "The Naked Truth"
+        },
+        "summary": {
+          "de": "Die musikalische Komödie „Meztelen igazság“ kommt am 19. September um 19:00 nach Orosháza.",
+          "hu": "A Meztelen igazság című zenés vígjáték 2026. szeptember 19-én 19:00-kor látható Orosházán.",
+          "ro": "Comedia muzicală „Meztelen igazság” ajunge la Orosháza pe 19 septembrie, la ora 19:00.",
+          "en": "The musical comedy 'Meztelen igazság' is scheduled in Orosháza on September 19 at 19:00."
+        },
+        "source_url": "https://www.jegy.hu/program/meztelen-igazsag-zenes-vigjatek-192629"
+      },
+      {
+        "date": "2026-09-29",
+        "title": {
+          "de": "Rockballaden bei Kerzenlicht",
+          "hu": "Rockballadák gyertyafényben",
+          "ro": "Balade rock la lumina lumânărilor",
+          "en": "Rock Ballads by Candlelight"
+        },
+        "summary": {
+          "de": "Das Petőfi Művelődési Központ veranstaltet am 29. September um 19:00 einen Abend mit Rockballaden in Kerzenlicht-Atmosphäre.",
+          "hu": "A Petőfi Művelődési Központ 2026. szeptember 29-én 19:00-kor gyertyafényes rockballada-estet rendez Orosházán.",
+          "ro": "Petőfi Művelődési Központ găzduiește pe 29 septembrie, la ora 19:00, un concert de balade rock în atmosferă de lumânări.",
+          "en": "Petőfi Művelődési Központ hosts a candlelit rock ballads concert in Orosháza on September 29 at 19:00."
+        },
+        "source_url": "https://www.jegy.hu/program/rockballadak-gyertyafenyben-191374"
+      },
+      {
+        "date": "2026-10-12",
+        "title": {
+          "de": "Tvrtko - Csernobil 40",
+          "hu": "Tvrtko - Csernobil 40",
+          "ro": "Tvrtko - Cernobîl 40",
+          "en": "Tvrtko - Chernobyl 40"
+        },
+        "summary": {
+          "de": "Tvrtko bringt am 12. Oktober um 19:00 seine exklusive Bühnenproduktion zum 40. Jahrestag von Tschernobyl nach Orosháza.",
+          "hu": "Tvrtko 2026. október 12-én 19:00-kor exkluzív előadással érkezik Orosházára a csernobili katasztrófa 40. évfordulójáról.",
+          "ro": "Tvrtko vine la Orosháza pe 12 octombrie, la ora 19:00, cu un spectacol exclusiv dedicat la 40 de ani de la Cernobîl.",
+          "en": "Tvrtko brings his exclusive stage presentation on the 40th anniversary of Chernobyl to Orosháza on October 12 at 19:00."
+        },
+        "source_url": "https://www.jegy.hu/program/tvrtko-csernobil-40-exkluziv-eloadas-193657"
+      },
+      {
+        "date": "2026-10-13",
+        "title": {
+          "de": "Bródy János - Az első 80 év",
+          "hu": "Bródy János - Az első 80 év",
+          "ro": "Bródy János - Primii 80 de ani",
+          "en": "Bródy János - The First 80 Years"
+        },
+        "summary": {
+          "de": "Bródy János gastiert am 13. Oktober um 19:00 mit seinem Jubiläumsprogramm im Petőfi Művelődési Központ in Orosháza.",
+          "hu": "Bródy János jubileumi műsora 2026. október 13-án 19:00-kor lesz az orosházi Petőfi Művelődési Központban.",
+          "ro": "Programul aniversar al lui Bródy János ajunge la Petőfi Művelődési Központ din Orosháza pe 13 octombrie, la ora 19:00.",
+          "en": "Bródy János presents his anniversary program at Petőfi Művelődési Központ in Orosháza on October 13 at 19:00."
+        },
+        "source_url": "https://www.jegy.hu/program/brody-janos-az-elso-80-ev-jutalomjatek-193646"
+      }
+    ]
+  },
+  {
+    "id": "ostuni",
+    "events": [
+      {
+        "date": "2026-07-31",
+        "title": {
+          "de": "Serena Brancale",
+          "hu": "Serena Brancale koncert",
+          "ro": "Concert Serena Brancale",
+          "en": "Serena Brancale"
+        },
+        "summary": {
+          "de": "Serena Brancale tritt am 31. Juli um 21:30 im Foro Boario in Ostuni auf.",
+          "hu": "Serena Brancale 2026. július 31-én 21:30-kor lép fel az ostuni Foro Boario helyszínén.",
+          "ro": "Serena Brancale concertează la Foro Boario din Ostuni pe 31 iulie, la ora 21:30.",
+          "en": "Serena Brancale performs at Foro Boario in Ostuni on July 31 at 21:30."
+        },
+        "source_url": "https://www.ticketone.it/event/serena-brancale-foro-boario-21361474/"
+      },
+      {
+        "date": "2026-08-01",
+        "title": {
+          "de": "Enrico Nigiotti",
+          "hu": "Enrico Nigiotti koncert",
+          "ro": "Concert Enrico Nigiotti",
+          "en": "Enrico Nigiotti"
+        },
+        "summary": {
+          "de": "Enrico Nigiotti bringt seine Sommertour am 1. August um 21:30 ins Foro Boario von Ostuni.",
+          "hu": "Enrico Nigiotti nyári turnéja 2026. augusztus 1-jén 21:30-kor érkezik az ostuni Foro Boarióba.",
+          "ro": "Turneul de vară al lui Enrico Nigiotti ajunge la Foro Boario din Ostuni pe 1 august, la ora 21:30.",
+          "en": "Enrico Nigiotti's summer tour stops at Ostuni's Foro Boario on August 1 at 21:30."
+        },
+        "source_url": "https://www.ticketone.it/event/enrico-nigiotti-summer-tour-2026-foro-boario-21353249/"
+      },
+      {
+        "date": "2026-08-06",
+        "title": {
+          "de": "Giorgia",
+          "hu": "Giorgia koncert",
+          "ro": "Concert Giorgia",
+          "en": "Giorgia"
+        },
+        "summary": {
+          "de": "Giorgia gastiert am 6. August um 21:30 mit ihrer „G - Summer 2026“-Tour im Foro Boario.",
+          "hu": "Giorgia „G - Summer 2026” turnéja 2026. augusztus 6-án 21:30-kor áll meg az ostuni Foro Boarióban.",
+          "ro": "Giorgia aduce turneul „G - Summer 2026” la Foro Boario din Ostuni pe 6 august, la ora 21:30.",
+          "en": "Giorgia brings her 'G - Summer 2026' tour to Ostuni's Foro Boario on August 6 at 21:30."
+        },
+        "source_url": "https://www.ticketone.it/event/giorgia-g-summer-2026-foro-boario-21299618/"
+      },
+      {
+        "date": "2026-08-07",
+        "title": {
+          "de": "Giuseppe Ninno - La Famiglia Imbarazzi",
+          "hu": "Giuseppe Ninno - La Famiglia Imbarazzi",
+          "ro": "Giuseppe Ninno - La Famiglia Imbarazzi",
+          "en": "Giuseppe Ninno - La Famiglia Imbarazzi"
+        },
+        "summary": {
+          "de": "Giuseppe Ninno bringt die Show „La Famiglia Imbarazzi“ am 7. August um 21:30 ins Foro Boario von Ostuni.",
+          "hu": "Giuseppe Ninno „La Famiglia Imbarazzi” előadása 2026. augusztus 7-én 21:30-kor lesz az ostuni Foro Boarióban.",
+          "ro": "Giuseppe Ninno prezintă spectacolul „La Famiglia Imbarazzi” la Foro Boario din Ostuni pe 7 august, la ora 21:30.",
+          "en": "Giuseppe Ninno brings 'La Famiglia Imbarazzi' to Ostuni's Foro Boario on August 7 at 21:30."
+        },
+        "source_url": "https://www.ticketone.it/event/giuseppe-ninno-la-famiglia-imbarazzi-foro-boario-21348695/"
+      },
+      {
+        "date": "2026-08-23",
+        "title": {
+          "de": "Madame",
+          "hu": "Madame koncert",
+          "ro": "Concert Madame",
+          "en": "Madame"
+        },
+        "summary": {
+          "de": "Madame tritt am 23. August um 21:30 im Foro Boario in Ostuni im Rahmen ihrer Sommertour 2026 auf.",
+          "hu": "Madame 2026. augusztus 23-án 21:30-kor lép fel az ostuni Foro Boarióban a 2026-os nyári turné részeként.",
+          "ro": "Madame concertează la Foro Boario din Ostuni pe 23 august, la ora 21:30, în cadrul turneului de vară 2026.",
+          "en": "Madame performs at Ostuni's Foro Boario on August 23 at 21:30 as part of her 2026 summer tour."
+        },
+        "source_url": "https://www.ticketone.it/event/madame-tour-estate-2026-foro-boario-21332284/"
+      }
+    ]
+  },
+  {
+    "id": "gyongyos",
+    "events": [
+      {
+        "date": "2026-07-26",
+        "period": {
+          "recurrent": true
+        },
+        "title": {
+          "de": "Bori Mami Weinprobe mit Mátra-Auswahl",
+          "hu": "Bori Mami betekintő borkóstoló a Mátra legjavából",
+          "ro": "Degustare Bori Mami din cele mai bune vinuri ale Mátrei",
+          "en": "Bori Mami Tasting from the Best of Mátra"
+        },
+        "summary": {
+          "de": "Die Jegy.hu-Stadtseite führt die Bori-Mami-Schnupperverkostung in Gyöngyös als wiederkehrendes Erlebnisprogramm mit zahlreichen Sommerterminen.",
+          "hu": "A Jegy.hu gyöngyösi oldala a Bori Mami betekintő borkóstolót ismétlődő élményprogramként sorolja fel több nyári időponttal.",
+          "ro": "Pagina Jegy.hu pentru Gyöngyös listează degustarea introductivă Bori Mami ca program recurent, cu numeroase date de vară.",
+          "en": "Jegy.hu's Gyöngyös city page lists the Bori Mami introductory tasting as a recurring experience program with multiple summer dates."
+        },
+        "source_url": "https://www.jegy.hu/city/gyongyos"
+      },
+      {
+        "date": "2026-07-30",
+        "period": {
+          "recurrent": true
+        },
+        "title": {
+          "de": "Bori Mami Weinabend mit Degustation",
+          "hu": "Bori Mami borvacsora borkóstolóval",
+          "ro": "Cină Bori Mami cu degustare de vin",
+          "en": "Bori Mami Wine Dinner with Tasting"
+        },
+        "summary": {
+          "de": "Die Gyöngyöser Veranstaltungsseite bewirbt das Bori-Mami-Weindinner als wiederkehrendes Gastronomieprogramm mit ausgewählten Mátra-Weinen und Speisen.",
+          "hu": "A gyöngyösi Jegy.hu oldal a Bori Mami borvacsorát ismétlődő gasztronómiai programként hirdeti válogatott mátrai borokkal és fogásokkal.",
+          "ro": "Pagina Jegy.hu pentru Gyöngyös promovează cina cu degustare Bori Mami ca program gastronomic recurent, cu vinuri și preparate din Mátra.",
+          "en": "The Gyöngyös listing on Jegy.hu promotes the Bori Mami wine dinner as a recurring food-and-wine program featuring selected Mátra wines and dishes."
+        },
+        "source_url": "https://www.jegy.hu/city/gyongyos"
+      },
+      {
+        "date": "2026-09-03",
+        "title": {
+          "de": "Koncz Zsuzsa Konzert",
+          "hu": "Koncz Zsuzsa koncert",
+          "ro": "Concert Koncz Zsuzsa",
+          "en": "Koncz Zsuzsa Concert"
+        },
+        "summary": {
+          "de": "Koncz Zsuzsa tritt am 3. September um 19:00 im Mátra Művelődési Központ in Gyöngyös mit ihren bekannten Liedern live auf.",
+          "hu": "Koncz Zsuzsa 2026. szeptember 3-án 19:00-kor ad koncertet a gyöngyösi Mátra Művelődési Központban.",
+          "ro": "Koncz Zsuzsa concertează la Mátra Művelődési Központ din Gyöngyös pe 3 septembrie, la ora 19:00.",
+          "en": "Koncz Zsuzsa performs live at Mátra Művelődési Központ in Gyöngyös on September 3 at 19:00."
+        },
+        "source_url": "https://www.jegy.hu/program/koncz-zsuzsa-koncert-gyongyos-192966"
+      },
+      {
+        "date": "2026-12-01",
+        "title": {
+          "de": "Tvrtko - Csernobil 40",
+          "hu": "Tvrtko - Csernobil 40",
+          "ro": "Tvrtko - Cernobîl 40",
+          "en": "Tvrtko - Chernobyl 40"
+        },
+        "summary": {
+          "de": "Die exklusive Vortragsproduktion „Csernobil 40“ ist am 1. Dezember um 18:00 im Mátra Művelődési Központ in Gyöngyös geplant.",
+          "hu": "A „Csernobil 40” exkluzív előadás 2026. december 1-jén 18:00-kor lesz a gyöngyösi Mátra Művelődési Központban.",
+          "ro": "Producția specială „Cernobîl 40” este programată la Mátra Művelődési Központ din Gyöngyös pe 1 decembrie, la ora 18:00.",
+          "en": "The exclusive 'Chernobyl 40' presentation is scheduled at Mátra Művelődési Központ in Gyöngyös on December 1 at 18:00."
+        },
+        "source_url": "https://www.jegy.hu/program/tvrtko-csernobil-40-exkluziv-eloadas-193663"
+      }
+    ]
+  }
+]

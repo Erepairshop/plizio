@@ -1,0 +1,308 @@
+[
+  {
+    "id": "city-borsa-extra",
+    "events": [
+      {
+        "date": "2026-06-23",
+        "end_date": "2026-06-24",
+        "title": {
+          "de": "Festivalul Nopți de Sânziene 2026",
+          "hu": "Nopți de Sânziene Fesztivál 2026",
+          "ro": "Festivalul Nopți de Sânziene 2026",
+          "en": "Midsummer Nights Festival 2026"
+        },
+        "summary": {
+          "de": "Das traditionsreiche Kulturfestival in Borșa bringt zwei Tage lang Musik, Volkstracht und gemeinschaftliche Feiern rund um die Sânziene-Bräuche zusammen.",
+          "hu": "A hagyományos borșai kulturális fesztivál két napon át zenével, népviselettel és közösségi ünnepléssel idézi meg a Sânziene-szokásokat.",
+          "ro": "Festivalul tradițional din Borșa reunește timp de două zile muzică, port popular și momente comunitare dedicate obiceiurilor de Sânziene.",
+          "en": "This long-running Borșa festival brings two days of music, folk costume, and community celebrations centered on midsummer traditions."
+        },
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.facebook.com/events/borsa-maramures-romania/festivalul-nop%C8%9Bi-de-s%C3%A2nziene-2026/1659213111888492/"
+      }
+    ]
+  },
+  {
+    "id": "lunel",
+    "events": [
+      {
+        "date": "2026-08-06",
+        "title": {
+          "de": "Lunel Jazz Festival: Julien Brunetaud Quintet",
+          "hu": "Lunel Jazz Festival: Julien Brunetaud Quintet",
+          "ro": "Lunel Jazz Festival: Julien Brunetaud Quintet",
+          "en": "Lunel Jazz Festival: Julien Brunetaud Quintet",
+          "fr": "Lunel Jazz Festival : Julien Brunetaud Quintet"
+        },
+        "summary": {
+          "de": "Der erste Hauptabend des Lunel Jazz Festival bringt das Julien Brunetaud Quintet als Open-Air-Konzert in den Parc Jean Hugo, nach einem kostenlosen Off-Programm auf der Place des Caladons.",
+          "hu": "A Lunel Jazz Festival első kiemelt estjén a Julien Brunetaud Quintet ad szabadtéri koncertet a Parc Jean Hugo-ban, a Place des Caladons ingyenes bevezető programja után.",
+          "ro": "Prima seară principală a Lunel Jazz Festival aduce în aer liber, în parcul Jean Hugo, concertul Julien Brunetaud Quintet, după programul gratuit Off din Place des Caladons.",
+          "en": "The first main evening of the Lunel Jazz Festival brings Julien Brunetaud Quintet to Parc Jean Hugo, following the free Off program on Place des Caladons.",
+          "fr": "La première grande soirée du Lunel Jazz Festival accueille le Julien Brunetaud Quintet au parc Jean Hugo, après le programme Off gratuit place des Caladons."
+        },
+        "source_url": "https://www.lunel.com/2026/05/20/lete-jadore-lunel/"
+      },
+      {
+        "date": "2026-08-07",
+        "title": {
+          "de": "Lunel Jazz Festival: Renaud Gensane Quintet",
+          "hu": "Lunel Jazz Festival: Renaud Gensane Quintet",
+          "ro": "Lunel Jazz Festival: Renaud Gensane Quintet",
+          "en": "Lunel Jazz Festival: Renaud Gensane Quintet",
+          "fr": "Lunel Jazz Festival : Renaud Gensane Quintet"
+        },
+        "summary": {
+          "de": "Am zweiten Festivalabend folgen auf die Dixie Froggies im Off-Teil das Hauptkonzert des Renaud Gensane Quintet im Parc Jean Hugo.",
+          "hu": "A fesztivál második estjén a Dixie Froggies Off-programját a Renaud Gensane Quintet főkoncertje követi a Parc Jean Hugo-ban.",
+          "ro": "În a doua seară de festival, după momentul Off al formației Dixie Froggies, urmează concertul principal al Renaud Gensane Quintet în parcul Jean Hugo.",
+          "en": "On the festival's second evening, the Dixie Froggies Off set is followed by the main Renaud Gensane Quintet concert in Parc Jean Hugo.",
+          "fr": "Lors de la deuxième soirée du festival, le Off avec les Dixie Froggies est suivi du concert principal du Renaud Gensane Quintet au parc Jean Hugo."
+        },
+        "source_url": "https://www.lunel.com/2026/05/20/lete-jadore-lunel/"
+      },
+      {
+        "date": "2026-08-08",
+        "title": {
+          "de": "Lunel Jazz Festival: Macadam Farmer",
+          "hu": "Lunel Jazz Festival: Macadam Farmer",
+          "ro": "Lunel Jazz Festival: Macadam Farmer",
+          "en": "Lunel Jazz Festival: Macadam Farmer",
+          "fr": "Lunel Jazz Festival : Macadam Farmer"
+        },
+        "summary": {
+          "de": "Der Abschlussabend des Jazzfestivals verbindet die Hot Jazz Brothers im Off-Format mit dem Hauptkonzert von Macadam Farmer im Parc Jean Hugo.",
+          "hu": "A jazzfesztivál záróestjén a Hot Jazz Brothers Off-programja után a Macadam Farmer főkoncertje következik a Parc Jean Hugo-ban.",
+          "ro": "Seara de închidere a festivalului de jazz combină programul Off al Hot Jazz Brothers cu concertul principal Macadam Farmer din parcul Jean Hugo.",
+          "en": "The jazz festival's closing night pairs the Hot Jazz Brothers Off set with the main Macadam Farmer concert in Parc Jean Hugo.",
+          "fr": "La soirée de clôture du festival de jazz associe le Off des Hot Jazz Brothers au concert principal de Macadam Farmer au parc Jean Hugo."
+        },
+        "source_url": "https://www.lunel.com/2026/05/20/lete-jadore-lunel/"
+      },
+      {
+        "date": "2026-09-03",
+        "period": {
+          "recurrent": true
+        },
+        "title": {
+          "de": "La Terrasse du Jeudi",
+          "hu": "La Terrasse du Jeudi",
+          "ro": "La Terrasse du Jeudi",
+          "en": "Thursday Terrace",
+          "fr": "La Terrasse du Jeudi"
+        },
+        "summary": {
+          "de": "Die spätsommerliche Donnerstagsreihe auf der Terrasse der Arènes de Lunel bringt lokale Winzer, Produzenten, Essensstände und wechselnde Livemusik zusammen.",
+          "hu": "Az Arènes de Lunel teraszán zajló csütörtöki késő nyári sorozat helyi borászokat, termelőket, gasztronómiai standokat és élőzenét vonultat fel.",
+          "ro": "Seria de joi de la terasa arenelor din Lunel reunește la final de vară viticultori locali, producători, standuri gastronomice și muzică live.",
+          "en": "This late-summer Thursday series on the terrace of the Arènes de Lunel brings together local winemakers, producers, food stands, and live music.",
+          "fr": "Cette série estivale du jeudi sur la terrasse des arènes de Lunel réunit vignerons, producteurs, restauration et ambiance musicale."
+        },
+        "source_url": "https://www.lunel.com/2026/05/20/lete-jadore-lunel/"
+      }
+    ]
+  },
+  {
+    "id": "fougeres",
+    "events": [
+      {
+        "date": "2026-08-06",
+        "title": {
+          "de": "Les Jeudis du Château – Mon Royaume",
+          "hu": "Les Jeudis du Château – Mon Royaume",
+          "ro": "Les Jeudis du Château – Mon Royaume",
+          "en": "Castle Thursdays – My Kingdom",
+          "fr": "Les Jeudis du Château – Mon Royaume"
+        },
+        "summary": {
+          "de": "Im Château de Fougères zeigt die Compagnie Les p'tits bras ein humorvolles Luftzirkus-Spektakel mit drei exzentrischen Figuren.",
+          "hu": "A Fougères-i várban a Compagnie Les p'tits bras humoros légi cirkuszi előadást mutat be három különc szereplővel.",
+          "ro": "La castelul din Fougères, compania Les p'tits bras prezintă un spectacol de circ aerian plin de umor, cu trei personaje excentrice.",
+          "en": "At the Château de Fougères, Compagnie Les p'tits bras presents a humorous aerial circus performance built around three eccentric characters.",
+          "fr": "Au château de Fougères, la compagnie Les p'tits bras propose un spectacle de cirque aérien humoristique autour de trois personnages fantasques."
+        },
+        "source_url": "https://fougeres.fr/agenda/les-jeudis-du-chateau-mon-royaume/"
+      },
+      {
+        "date": "2026-08-08",
+        "end_date": "2026-08-23",
+        "title": {
+          "de": "Salon du pastel en Bretagne",
+          "hu": "Bretagne-i Pasztellszalon",
+          "ro": "Salonul pastelului din Bretania",
+          "en": "Pastel Salon of Brittany",
+          "fr": "Salon du pastel en Bretagne"
+        },
+        "summary": {
+          "de": "Das internationale Pastellfestival im Centre culturel Juliette Drouet vereint zahlreiche französische und internationale Künstler sowie Vorführungen und Workshops.",
+          "hu": "A Juliette Drouet kulturális központ nemzetközi pasztellfesztiválja francia és külföldi művészeket, bemutatókat és workshopokat fog össze.",
+          "ro": "Salonul internațional de pastel de la Centrul cultural Juliette Drouet reunește numeroși artiști francezi și internaționali, plus demonstrații și ateliere.",
+          "en": "This international pastel event at the Juliette Drouet Cultural Center brings together many French and international artists, along with demonstrations and workshops.",
+          "fr": "Ce rendez-vous international du pastel au centre culturel Juliette Drouet rassemble de nombreux artistes français et étrangers, avec démonstrations et ateliers."
+        },
+        "source_url": "https://fougeres.fr/agenda/salon-du-pastel-en-bretagne-2/"
+      },
+      {
+        "date": "2026-08-13",
+        "title": {
+          "de": "Les Jeudis du Château – Fest Noz au Château",
+          "hu": "Les Jeudis du Château – Fest Noz au Château",
+          "ro": "Les Jeudis du Château – Fest Noz au Château",
+          "en": "Castle Thursdays – Fest Noz at the Castle",
+          "fr": "Les Jeudis du Château – Fest Noz au Château"
+        },
+        "summary": {
+          "de": "Bretonische Musikgruppen beleben an einem kostenlosen Sommerabend das Schloss von Fougères mit Tanz- und Fest-Noz-Stimmung.",
+          "hu": "Breton zenei együttesek ingyenes nyári esttel és táncos Fest Noz hangulattal töltik meg a fougères-i várat.",
+          "ro": "Formații de muzică bretonă aduc la castelul din Fougères o seară gratuită de vară cu atmosferă de Fest Noz și dans.",
+          "en": "Breton music groups fill the Château de Fougères with a free summer evening of dance and Fest Noz atmosphere.",
+          "fr": "Des groupes de musiques bretonnes font vibrer le château de Fougères lors d'une soirée estivale gratuite à l'esprit Fest Noz."
+        },
+        "source_url": "https://fougeres.fr/agenda/les-jeudis-du-chateau-fest-noz-au-chateau/"
+      },
+      {
+        "date": "2026-08-21",
+        "end_date": "2026-08-23",
+        "title": {
+          "de": "Festival Les scènes déménagent",
+          "hu": "Les scènes déménagent fesztivál",
+          "ro": "Festivalul Les scènes déménagent",
+          "en": "Les scènes déménagent Festival",
+          "fr": "Festival Les scènes déménagent"
+        },
+        "summary": {
+          "de": "Im Jardin Public bietet dieses kostenlose Festival mehrere Tage lang künstlerische Entdeckungen und offene Sommerveranstaltungen für ein breites Publikum.",
+          "hu": "A Jardin Public több napon át ingyenes fesztiválnak ad otthont, amely művészeti felfedezéseket és nyári programokat kínál széles közönségnek.",
+          "ro": "În Jardin Public, acest festival gratuit propune timp de mai multe zile descoperiri artistice și animații estivale pentru publicul larg.",
+          "en": "Held in the Jardin Public, this free festival offers several days of artistic discoveries and open summer programming for a wide audience.",
+          "fr": "Au Jardin Public, ce festival gratuit propose plusieurs jours de découvertes artistiques et d'animations estivales pour tous."
+        },
+        "source_url": "https://fougeres.fr/agenda/festival-les-scenes-demenagent/"
+      },
+      {
+        "date": "2026-09-05",
+        "end_date": "2026-09-08",
+        "title": {
+          "de": "Angevines 2026",
+          "hu": "Angevines 2026",
+          "ro": "Angevines 2026",
+          "en": "Angevines 2026",
+          "fr": "Angevines 2026"
+        },
+        "summary": {
+          "de": "Das traditionsreiche Stadtwochenende kombiniert Jahrmarkt, nächtlichen Umzug, Händler-Braderie, Feuerwerk und das Grand Prix Cycliste de la ville.",
+          "hu": "A hagyományos városi ünnephétvége vidámparkkal, esti felvonulással, kirakodóvásárral, tűzijátékkal és városi kerékpárversennyel várja a látogatókat.",
+          "ro": "Weekendul festiv tradițional al orașului combină bâlciul, parada nocturnă, marile reduceri ale comercianților, focul de artificii și Grand Prix Cycliste de la ville.",
+          "en": "This traditional city festival weekend combines a funfair, night parade, shopping fair, fireworks, and the city's cycling grand prix.",
+          "fr": "Ce grand week-end festif traditionnel réunit fête foraine, défilé nocturne, braderie, feu d'artifice et Grand Prix cycliste de la ville."
+        },
+        "source_url": "https://fougeres.fr/agenda/angevines/"
+      }
+    ]
+  },
+  {
+    "id": "le-puy-en-velay",
+    "events": [
+      {
+        "date": "2026-07-29",
+        "end_date": "2026-08-01",
+        "title": {
+          "de": "Les Basaltiques",
+          "hu": "Les Basaltiques",
+          "ro": "Les Basaltiques",
+          "en": "Les Basaltiques",
+          "fr": "Les Basaltiques"
+        },
+        "summary": {
+          "de": "Das Sommerprogramm der Stadt kündigt für Le Puy-en-Velay mehrere Tage mit Konzerten und traditionellen Bällen im Rahmen von Les Basaltiques an.",
+          "hu": "A városi nyári program több napon át tartó koncerteket és hagyományos bálokat hirdet Le Puy-en-Velay-ben a Les Basaltiques keretében.",
+          "ro": "Programul estival al orașului anunță la Le Puy-en-Velay mai multe zile de concerte și baluri tradiționale în cadrul Les Basaltiques.",
+          "en": "The city's summer program announces several days of concerts and traditional dances in Le Puy-en-Velay as part of Les Basaltiques.",
+          "fr": "Le programme d'été de la ville annonce plusieurs jours de concerts et de bals traditionnels au Puy-en-Velay dans le cadre des Basaltiques."
+        },
+        "source_url": "https://www.lepuyenvelay.fr/culture-et-patrimoine/Votre-ete-en-Velay-n36.html"
+      },
+      {
+        "date": "2026-08-04",
+        "end_date": "2026-08-08",
+        "title": {
+          "de": "La Musique des Cuivres",
+          "hu": "La Musique des Cuivres",
+          "ro": "La Musique des Cuivres",
+          "en": "Brass Music Festival",
+          "fr": "La Musique des Cuivres"
+        },
+        "summary": {
+          "de": "Mehrere musikalische Pausen und Konzerte mit Blechbläsern beleben Anfang August den Espace Saint-Pierre, die Place du Plot und die Place du Clauzel.",
+          "hu": "Augusztus elején rézfúvós zenei programok és koncertek népesítik be az Espace Saint-Pierre, a Place du Plot és a Place du Clauzel tereit.",
+          "ro": "La început de august, momentele muzicale și concertele de alamă animă Espace Saint-Pierre, Place du Plot și Place du Clauzel.",
+          "en": "Early August brass-music performances and concerts animate Espace Saint-Pierre, Place du Plot, and Place du Clauzel.",
+          "fr": "Début août, plusieurs pauses musicales et concerts de cuivres animent l'espace Saint-Pierre, la place du Plot et la place du Clauzel."
+        },
+        "source_url": "https://www.lepuyenvelay.fr/culture-et-patrimoine/Votre-ete-en-Velay-n36.html"
+      },
+      {
+        "date": "2026-08-29",
+        "title": {
+          "de": "Festival de la Chaise-Dieu Konzert im Jardin Henri Vinay",
+          "hu": "Festival de la Chaise-Dieu koncert a Jardin Henri Vinay-ben",
+          "ro": "Concert Festival de la Chaise-Dieu în Jardin Henri Vinay",
+          "en": "Festival de la Chaise-Dieu Concert at Jardin Henri Vinay",
+          "fr": "Concert du Festival de La Chaise-Dieu au jardin Henri Vinay"
+        },
+        "summary": {
+          "de": "Das Sommerprogramm nennt für den 29. August ein Festival-de-la-Chaise-Dieu-Konzert um 17 Uhr im Kiosk des Jardin Henri Vinay.",
+          "hu": "A nyári program augusztus 29-ére 17 órás Festival de la Chaise-Dieu koncertet hirdet a Jardin Henri Vinay kioszkjánál.",
+          "ro": "Programul de vară anunță pentru 29 august, la ora 17:00, un concert al Festivalului de la Chaise-Dieu la chioșcul din Jardin Henri Vinay.",
+          "en": "The summer program lists a Festival de la Chaise-Dieu concert on August 29 at 5 pm at the kiosk in Jardin Henri Vinay.",
+          "fr": "Le programme d'été annonce un concert du Festival de La Chaise-Dieu le 29 août à 17 h au kiosque du jardin Henri Vinay."
+        },
+        "source_url": "https://www.lepuyenvelay.fr/culture-et-patrimoine/Votre-ete-en-Velay-n36.html"
+      },
+      {
+        "date": "2026-09-13",
+        "period": {
+          "recurrent": true
+        },
+        "title": {
+          "de": "Puy de Lumières",
+          "hu": "Puy de Lumières",
+          "ro": "Puy de Lumières",
+          "en": "Puy de Lumières",
+          "fr": "Puy de Lumières"
+        },
+        "summary": {
+          "de": "Die kostenlose Lichtinszenierung beleuchtet in ihrer Jubiläumssaison jeden Abend mehrere Wahrzeichen von Le Puy-en-Velay und Brives-Charensac bis Mitte September.",
+          "hu": "A jubileumi évad ingyenes fényjátéka minden este több Le Puy-en-Velay-i és Brives-Charensac-i helyszínt világít meg szeptember közepéig.",
+          "ro": "În sezonul său aniversar, spectacolul gratuit de lumini pune în valoare în fiecare seară mai multe monumente din Le Puy-en-Velay și Brives-Charensac până la jumătatea lui septembrie.",
+          "en": "In its anniversary season, this free nightly light show illuminates several landmarks in Le Puy-en-Velay and Brives-Charensac through mid-September.",
+          "fr": "Pour sa saison anniversaire, ce parcours lumineux gratuit illumine chaque soir plusieurs sites emblématiques du Puy-en-Velay et de Brives-Charensac jusqu'à la mi-septembre."
+        },
+        "source_url": "https://www.lepuyenvelay-tourisme.fr/temps-fort/le-puy-de-lumieres/"
+      },
+      {
+        "date": "2026-09-03",
+        "period": {
+          "recurrent": true
+        },
+        "title": {
+          "de": "Les Nuits gourmandes du Jardin",
+          "hu": "Les Nuits gourmandes du Jardin",
+          "ro": "Les Nuits gourmandes du Jardin",
+          "en": "Gourmet Nights in the Garden",
+          "fr": "Les Nuits gourmandes du Jardin"
+        },
+        "summary": {
+          "de": "Der neue abendliche Produzentenmarkt bringt lokale Spezialitäten, Winzer und eine gesellige musikalische Atmosphäre auf die Place du Martouret.",
+          "hu": "Az új esti termelői piac helyi specialitásokat, termelőket és barátságos zenei hangulatot visz a Place du Martouret térre.",
+          "ro": "Noul târg nocturn de producători aduce în Place du Martouret specialități locale, producători și o atmosferă muzicală convivială.",
+          "en": "This new evening producers' market brings local specialties, growers, and a convivial musical atmosphere to Place du Martouret.",
+          "fr": "Ce nouveau marché nocturne de producteurs met à l'honneur spécialités locales, producteurs et ambiance musicale conviviale place du Martouret."
+        },
+        "source_url": "https://www.lepuyenvelay.fr/La-Ville-du-Puy-en-Velay-lance-Les-Nuits-gourmandes-du-Jardin--a2501-mairie-du-puy-en-velay.html"
+      }
+    ]
+  }
+]

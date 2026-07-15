@@ -1,0 +1,380 @@
+[
+  {
+    "id": "godollo",
+    "events": [
+      {
+        "date": "2026-07-26",
+        "title": {
+          "de": "MAMMA MIA! Freiluftkino",
+          "hu": "MAMMA MIA! Kertmozi",
+          "ro": "MAMMA MIA! cinema în aer liber",
+          "en": "MAMMA MIA! open-air cinema"
+        },
+        "summary": {
+          "de": "Im Park des Königlichen Schlosses Gödöllő läuft der Musicalfilm als Sommerabend-Vorführung unter freiem Himmel.",
+          "hu": "A Gödöllői Királyi Kastély parkjában szabadtéri nyári vetítésen látható a musicalfilm.",
+          "ro": "Filmul muzical este proiectat într-o seară de vară în aer liber, în parcul Palatului Regal din Gödöllő.",
+          "en": "The musical film is screened as a summer open-air showing in the park of the Royal Palace of Gödöllő."
+        },
+        "source_url": "https://kiralyikastely.hu/mamma-mia-kertmozi-godollo.html"
+      },
+      {
+        "date": "2026-08-09",
+        "title": {
+          "de": "Die Schöne und das Biest Freiluftkino",
+          "hu": "Szépség és a Szörnyeteg Kertmozi",
+          "ro": "Frumoasa și Bestia cinema în aer liber",
+          "en": "Beauty and the Beast open-air cinema"
+        },
+        "summary": {
+          "de": "Der Familienfilm wird abends im Schlosspark als Open-Air-Kino gezeigt; ein Ausweichtermin ist für schlechtes Wetter vorgesehen.",
+          "hu": "A családi filmet esti szabadtéri vetítésen játsszák a kastélyparkban, rossz idő esetére esőnappal.",
+          "ro": "Filmul pentru familie este proiectat seara în parcul castelului, cu dată de rezervă în caz de ploaie.",
+          "en": "The family film is shown in an evening open-air screening in the palace park, with a rain date scheduled."
+        },
+        "source_url": "https://kiralyikastely.hu/szepseg-es-a-szornyeteg-kertmozi-godollo.html"
+      },
+      {
+        "date": "2026-08-16",
+        "title": {
+          "de": "„Polski Czardasz“ Konzert",
+          "hu": "„Polski Czardasz” koncert",
+          "ro": "concertul „Polski Czardasz”",
+          "en": "\"Polski Czardasz\" concert"
+        },
+        "summary": {
+          "de": "Im Festsaal spielen Ujj Emőke und Juhász Ildikó ein ungarisch-polnisches Programm mit Werken von Moniuszko, Bartók, Kodály, Strauss und Brahms.",
+          "hu": "A díszteremben Ujj Emőke és Juhász Ildikó magyar-lengyel tematikájú műsort ad Moniuszko, Bartók, Kodály, Strauss és Brahms darabjaival.",
+          "ro": "În sala de ceremonii, Ujj Emőke și Juhász Ildikó prezintă un program cu temă maghiaro-poloneză, cu lucrări de Moniuszko, Bartók, Kodály, Strauss și Brahms.",
+          "en": "In the ceremonial hall, Ujj Emőke and Juhász Ildikó present a Hungarian-Polish themed program with works by Moniuszko, Bartók, Kodály, Strauss, and Brahms."
+        },
+        "source_url": "https://kiralyikastely.hu/polski-czardasz-ujj-emoke-es-juhasz-ildiko-koncertje.html"
+      },
+      {
+        "date": "2026-09-16",
+        "title": {
+          "de": "Koncz Zsuzsa Konzert",
+          "hu": "Koncz Zsuzsa koncert",
+          "ro": "concert Koncz Zsuzsa",
+          "en": "Koncz Zsuzsa concert"
+        },
+        "summary": {
+          "de": "Die ungarische Sängerin Koncz Zsuzsa gibt ein Abendkonzert in der Reithalle des Schlosses.",
+          "hu": "Koncz Zsuzsa esti koncertet ad a kastély lovardájában.",
+          "ro": "Cântăreața maghiară Koncz Zsuzsa susține un concert de seară în manejul palatului.",
+          "en": "Hungarian singer Koncz Zsuzsa performs an evening concert in the palace riding hall."
+        },
+        "source_url": "https://kiralyikastely.hu/koncz-zsuzsa-koncert-godollo.html"
+      }
+    ]
+  },
+  {
+    "id": "neuruppin",
+    "events": [
+      {
+        "date": "2026-08-06",
+        "end_date": "2026-08-08",
+        "title": {
+          "de": "31. Neuruppiner Weinfest",
+          "hu": "31. Neuruppini Borfesztivál",
+          "ro": "al 31-lea Festival al Vinului din Neuruppin",
+          "en": "31st Neuruppin Wine Festival"
+        },
+        "summary": {
+          "de": "Auf Schulplatz und im Rosengarten feiern Weingüter aus der Partnerstadt Bad Kreuznach mit Live-Musik, Bühnenprogramm und kulinarischen Angeboten.",
+          "hu": "A Schulplatzon és a Rosengartenben a bad kreuznachi partnerkapcsolat borászatai élő zenével, színpadi programokkal és gasztronómiai kínálattal várják a vendégeket.",
+          "ro": "Pe Schulplatz și în Rosengarten, crame din orașul partener Bad Kreuznach participă la un festival cu muzică live, program de scenă și ofertă culinară.",
+          "en": "On Schulplatz and in the Rosengarten, wineries from partner city Bad Kreuznach join a festival with live music, stage acts, and food offerings."
+        },
+        "source_url": "https://neuruppin.de/pressemitteilungen/artikel/30-neuruppiner-weinfest"
+      },
+      {
+        "date": "2026-08-02",
+        "title": {
+          "de": "Geführter Spaziergang durch den Tempelgarten",
+          "hu": "Vezetett séta a Tempelgartenben",
+          "ro": "plimbare ghidată prin Tempelgarten",
+          "en": "Guided walk through the Tempelgarten"
+        },
+        "summary": {
+          "de": "Der Tempelgarten Neuruppin lädt zu einer kostenlosen Führung durch die historische Gartenanlage mit einer Stunde voller Geschichten ein.",
+          "hu": "A Tempelgarten Neuruppin egyórás, ingyenes vezetett sétára hív a történeti kertben, helyi történetekkel.",
+          "ro": "Tempelgarten Neuruppin organizează o vizită ghidată gratuită de o oră prin grădina istorică, cu povești despre loc.",
+          "en": "Tempelgarten Neuruppin hosts a free one-hour guided walk through the historic garden with stories about the site."
+        },
+        "source_url": "https://neuruppin.de/pressemitteilungen"
+      },
+      {
+        "date": "2026-10-03",
+        "title": {
+          "de": "Ostrock Klassik Deluxe mit Berlin String Ensemble",
+          "hu": "Ostrock Klassik Deluxe a Berlin String Ensemble-lel",
+          "ro": "Ostrock Klassik Deluxe cu Berlin String Ensemble",
+          "en": "Ostrock Klassik Deluxe with Berlin String Ensemble"
+        },
+        "summary": {
+          "de": "In der Kulturkirche verbindet eine All-Star-Band Ostrock-Hits mit Streicharrangements und feiert den Tag der Deutschen Einheit mit einem langen Konzertabend.",
+          "hu": "A Kulturkirchében egy all-star zenekar keletnémet rockslágereket ötvöz vonós hangszereléssel a német egység napján.",
+          "ro": "La Kulturkirche, o trupă all-star combină hituri Ostrock cu aranjamente pentru coarde într-un concert dedicat Zilei Unității Germane.",
+          "en": "At the Kulturkirche, an all-star band combines East German rock classics with string arrangements in a concert for German Unity Day."
+        },
+        "source_url": "https://www.kulturkirche-neuruppin.de/veranstaltungen/2728650/2026/10/03/ostrock-klassik-deluxe-mit-berlin-string-ensemble.html"
+      },
+      {
+        "date": "2026-10-04",
+        "title": {
+          "de": "Günther Fischer Quintett und Uschi Brüning",
+          "hu": "Günther Fischer Quintett és Uschi Brüning",
+          "ro": "Günther Fischer Quintett și Uschi Brüning",
+          "en": "Günther Fischer Quintett and Uschi Brüning"
+        },
+        "summary": {
+          "de": "Die Kulturkirche empfängt das bekannte Jazz- und Soul-Duo mit dem Günther Fischer Quintett zu einem Abendkonzert.",
+          "hu": "A Kulturkirche esti koncerten fogadja a jól ismert jazz- és soul-előadókat a Günther Fischer Quintett társaságában.",
+          "ro": "Kulturkirche găzduiește un concert de seară cu binecunoscutul duo de jazz și soul alături de Günther Fischer Quintett.",
+          "en": "The Kulturkirche hosts an evening concert by the well-known jazz and soul duo together with the Günther Fischer Quintett."
+        },
+        "source_url": "https://www.kulturkirche-neuruppin.de/verzeichnis/visitenkarte.php?mandat=28944"
+      }
+    ]
+  },
+  {
+    "id": "saumur",
+    "events": [
+      {
+        "date": "2026-08-05",
+        "end_date": "2026-08-10",
+        "title": {
+          "de": "La Summerise",
+          "hu": "La Summerise",
+          "ro": "La Summerise",
+          "en": "La Summerise",
+          "fr": "La Summerise"
+        },
+        "summary": {
+          "de": "Das sommerliche Uferfestival in Saumur bringt mehrere Tage Konzerte, Unterhaltung und Strandatmosphäre in die Stadt.",
+          "hu": "A saumuri nyári vízparti fesztivál több napon át koncerteket, szórakoztató programokat és tengerparti hangulatot hoz a városba.",
+          "ro": "Festivalul estival de pe malul apei aduce la Saumur mai multe zile de concerte, divertisment și atmosferă de plajă.",
+          "en": "This summer waterfront festival brings several days of concerts, entertainment, and beach-style atmosphere to Saumur.",
+          "fr": "Ce festival estival en bord de Loire propose plusieurs jours de concerts, d'animations et d'ambiance de plage à Saumur."
+        },
+        "source_url": "https://www.ot-saumur.fr/agenda/la-summerise-6189692/"
+      },
+      {
+        "date": "2026-08-22",
+        "end_date": "2026-08-23",
+        "title": {
+          "de": "Festival de Rou-Marson",
+          "hu": "Rou-Marson Fesztivál",
+          "ro": "Festivalul de la Rou-Marson",
+          "en": "Rou-Marson Festival",
+          "fr": "Festival de Rou-Marson"
+        },
+        "summary": {
+          "de": "Im Park des Château de Marson verbindet das Festival Musik, Gastronomie und ein ländliches Schlossambiente.",
+          "hu": "A Château de Marson parkjában rendezett fesztivál zenét, gasztronómiát és hangulatos kastélyparki környezetet kínál.",
+          "ro": "Organizat în parcul Château de Marson, festivalul combină muzica, gastronomia și cadrul relaxat al domeniului.",
+          "en": "Held in the park of Château de Marson, the festival combines music, food, and a relaxed château setting.",
+          "fr": "Organisé dans le parc du château de Marson, le festival mêle musique, gastronomie et cadre bucolique."
+        },
+        "source_url": "https://www.ot-saumur.fr/agenda/festival-de-rou-marson-7698863/"
+      },
+      {
+        "date": "2026-09-13",
+        "title": {
+          "de": "Weinlesefest im Schloss Saumur",
+          "hu": "Szüreti ünnep a saumuri kastélyban",
+          "ro": "Sărbătoarea recoltei la castelul din Saumur",
+          "en": "Harvest festival at Saumur Castle",
+          "fr": "Fête des vendanges au château de Saumur"
+        },
+        "summary": {
+          "de": "Das kostenlose Herbstfest im Château de Saumur bietet Aufführungen, Animationen und Schlossbesuche für Familien und Weinfreunde.",
+          "hu": "A saumuri kastély ingyenes őszi rendezvénye előadásokat, programokat és kastélylátogatást kínál családoknak és borbarátoknak.",
+          "ro": "Evenimentul gratuit de toamnă de la castelul din Saumur propune spectacole, animații și vizite ale castelului pentru familii și iubitorii de vin.",
+          "en": "This free autumn event at Saumur Castle offers shows, activities, and castle visits for families and wine lovers.",
+          "fr": "Ce rendez-vous gratuit de rentrée au château de Saumur propose spectacles, animations et visite du château."
+        },
+        "source_url": "https://www.ot-saumur.fr/agenda/fete-des-vendanges-au-chateau-de-saumur-5737782/"
+      },
+      {
+        "date": "2026-09-25",
+        "end_date": "2026-09-27",
+        "title": {
+          "de": "Saumur Loire Festival",
+          "hu": "Saumur Loire Fesztivál",
+          "ro": "Festivalul Loire din Saumur",
+          "en": "Saumur Loire Festival",
+          "fr": "Saumur Loire Festival"
+        },
+        "summary": {
+          "de": "Das Festival an den Loire-Ufern kehrt für ein ganzes Wochenende mit Flusskultur, Unterhaltung und einem festlichen Programm zurück.",
+          "hu": "A Loire partján rendezett fesztivál egy teljes hétvégére tér vissza folyami kultúrával, szórakozással és ünnepi programmal.",
+          "ro": "Festivalul de pe malurile Loarei revine pentru un weekend întreg cu cultură fluvială, divertisment și program festiv.",
+          "en": "The festival on the Loire riverbanks returns for a full weekend of river culture, entertainment, and festive programming.",
+          "fr": "Le festival revient sur les bords de Loire pour un week-end entier de culture ligérienne, d'animations et de fête."
+        },
+        "source_url": "https://www.ot-saumur.fr/agenda/saumur-loire-festival-6240278/"
+      }
+    ]
+  },
+  {
+    "id": "aix-les-bains",
+    "events": [
+      {
+        "date": "2026-08-07",
+        "end_date": "2026-08-09",
+        "title": {
+          "de": "Festival La Récré",
+          "hu": "La Récré Fesztivál",
+          "ro": "Festivalul La Récré",
+          "en": "La Récré Festival",
+          "fr": "Festival La Récré"
+        },
+        "summary": {
+          "de": "Das Festival für aktuelle Musik bringt an drei Tagen Konzerte und gesellige Sommerstimmung nach Aix-les-Bains.",
+          "hu": "A kortárs könnyűzenei fesztivál három napon át koncerteket és nyári fesztiválhangulatot hoz Aix-les-Bains-be.",
+          "ro": "Festivalul de muzici actuale aduce la Aix-les-Bains trei zile de concerte și atmosferă estivală relaxată.",
+          "en": "This contemporary music festival brings three days of concerts and relaxed summer atmosphere to Aix-les-Bains.",
+          "fr": "Ce festival convivial de musiques actuelles propose trois jours de concerts et d'ambiance estivale à Aix-les-Bains."
+        },
+        "source_url": "https://www.aixlesbains-rivieradesalpes.com/fete-et-manifestation/festival-la-recre-aix-les-bains/"
+      },
+      {
+        "date": "2026-08-24",
+        "end_date": "2026-08-30",
+        "title": {
+          "de": "Dragon Boat Festival",
+          "hu": "Dragon Boat Festival",
+          "ro": "Festivalul Dragon Boat",
+          "en": "Dragon Boat Festival",
+          "fr": "Dragon Boat Festival"
+        },
+        "summary": {
+          "de": "Das große Drachenbootfestival am Lac du Bourget empfängt Tausende Teilnehmende zu Rennen und Uferprogramm.",
+          "hu": "A Bourget-tónál rendezett nagy sárkányhajó-fesztivál versenyekkel és parti programokkal több ezer résztvevőt fogad.",
+          "ro": "Marele festival de bărci-dragon de pe lacul Bourget reunește mii de participanți pentru curse și activități pe mal.",
+          "en": "This major dragon boat festival on Lake Bourget welcomes thousands of participants for races and shore-side activities.",
+          "fr": "Le grand festival de bateaux-dragons sur le lac du Bourget réunit des milliers de participants autour des courses et des animations."
+        },
+        "source_url": "https://www.aixlesbains-rivieradesalpes.com/fete-et-manifestation/dragon-boat-festival-aix-les-bains/"
+      },
+      {
+        "date": "2026-09-05",
+        "title": {
+          "de": "Handival",
+          "hu": "Handival",
+          "ro": "Handival",
+          "en": "Handival",
+          "fr": "Handival"
+        },
+        "summary": {
+          "de": "Die inklusive Veranstaltung im Grand Passage bietet einen ganzen Tag mit Begegnungen, Information und Aktivitäten rund um Behinderung und Sport.",
+          "hu": "A Grand Passage helyszínén rendezett befogadó esemény egész napos találkozásokat, információkat és akadálymentes programokat kínál.",
+          "ro": "Evenimentul incluziv din Grand Passage propune o zi întreagă de întâlniri, informații și activități legate de dizabilitate și sport.",
+          "en": "This inclusive event at Grand Passage offers a full day of meetings, information, and activities around disability and sport.",
+          "fr": "Cet événement inclusif au Grand Passage propose une journée complète de rencontres, d'informations et d'activités autour du handicap et du sport."
+        },
+        "source_url": "https://www.aixlesbains-rivieradesalpes.com/fete-et-manifestation/handival-aix-les-bains/"
+      },
+      {
+        "date": "2026-09-12",
+        "end_date": "2026-09-13",
+        "title": {
+          "de": "Be Fit",
+          "hu": "Be Fit",
+          "ro": "Be Fit",
+          "en": "Be Fit",
+          "fr": "Be Fit"
+        },
+        "summary": {
+          "de": "Das jährliche Wohlfühl- und Fitnesswochenende lädt zu einer sensorischen und sportlichen Auszeit in Aix-les-Bains ein.",
+          "hu": "Az éves jólléti és fitneszhétvége érzékszervi és mozgásos feltöltődést kínál Aix-les-Bains-ben.",
+          "ro": "Weekendul anual dedicat stării de bine și fitnessului propune o experiență imersivă și activă la Aix-les-Bains.",
+          "en": "This annual wellbeing and fitness weekend offers an immersive and active experience in Aix-les-Bains.",
+          "fr": "Ce rendez-vous annuel du bien-être et de la forme propose une expérience immersive et active à Aix-les-Bains."
+        },
+        "source_url": "https://www.aixlesbains-rivieradesalpes.com/fete-et-manifestation/10eme-edition-be-fit-etre-en-forme-aix-les-bains/"
+      }
+    ]
+  },
+  {
+    "id": "city-curtea-de-arges-extra",
+    "events": [
+      {
+        "date": "2026-07-25",
+        "end_date": "2026-07-26",
+        "title": {
+          "de": "STOP CADRU International Film Festival",
+          "hu": "STOP CADRU Nemzetközi Filmfesztivál",
+          "ro": "Festivalul Internațional de Film STOP CADRU",
+          "en": "STOP CADRU International Film Festival"
+        },
+        "summary": {
+          "de": "Das fünfte Festival widmet sich dem unabhängigen Kino mit Vorführungen und Begleitveranstaltungen in der Königsstadt Curtea de Argeș.",
+          "hu": "Az ötödik fesztivál a független filmre koncentrál vetítésekkel és kísérőprogramokkal Curtea de Argeș királyi városában.",
+          "ro": "A cincea ediție a festivalului este dedicată cinematografiei independente, cu proiecții și evenimente conexe în orașul regal Curtea de Argeș.",
+          "en": "The fifth edition focuses on independent cinema with screenings and side events in the royal city of Curtea de Argeș."
+        },
+        "source_url": "https://filmfreeway.com/stopcadruinternationalfilmfestival"
+      },
+      {
+        "date": "2026-08-01",
+        "end_date": "2026-08-15",
+        "title": {
+          "de": "Tage der Stadt Curtea de Argeș",
+          "hu": "Curtea de Argeș városnapok",
+          "ro": "Zilele municipiului Curtea de Argeș",
+          "en": "Curtea de Argeș city days"
+        },
+        "summary": {
+          "de": "Die Stadt veranstaltet Anfang August ihr traditionelles Stadtfest mit Kultur- und Gemeinschaftsprogramm über zwei Wochen.",
+          "hu": "A város augusztus elején hagyományos városnapi rendezvénysorozatot tart kulturális és közösségi programokkal két héten át.",
+          "ro": "Municipiul organizează la început de august tradiționalele zile ale orașului, cu program cultural și comunitar desfășurat pe parcursul a două săptămâni.",
+          "en": "The municipality stages its traditional city-days celebration in early August with cultural and community programming across two weeks."
+        },
+        "source_url": "https://www.primariacurteadearges.ro/dm_ag_curteadearges/portalcda.nsf/AllByUNID/manifestari-culturalartistice-si-sportive-0000091a?OpenDocument=",
+        "period": {
+          "recurrent": true
+        }
+      },
+      {
+        "date": "2026-08-01",
+        "end_date": "2026-08-15",
+        "title": {
+          "de": "Markt der Volkskunsthandwerker",
+          "hu": "Népi mesterek vására",
+          "ro": "Târgul Meșterilor Populari",
+          "en": "Folk artisans fair"
+        },
+        "summary": {
+          "de": "Der traditionelle Handwerksmarkt bringt in der ersten Augusthälfte Kunsthandwerk und volkstümliche Atmosphäre in die Stadt.",
+          "hu": "A hagyományos kézműves vásár augusztus első felében népművészeti portékákat és fesztiválhangulatot hoz a városba.",
+          "ro": "Târgul tradițional aduce în prima jumătate a lunii august meșteșuguri autentice și atmosferă populară în oraș.",
+          "en": "The traditional fair brings authentic crafts and folk atmosphere to the city during the first half of August."
+        },
+        "source_url": "https://www.primariacurteadearges.ro/dm_ag_curteadearges/portalcda.nsf/AllByUNID/manifestari-culturalartistice-si-sportive-0000091a?OpenDocument=",
+        "period": {
+          "recurrent": true
+        }
+      },
+      {
+        "date": "2026-08-07",
+        "end_date": "2026-08-08",
+        "title": {
+          "de": "Curtea de Argeș Wine Festival 2026",
+          "hu": "Curtea de Argeș Wine Festival 2026",
+          "ro": "Curtea de Argeș Wine Festival 2026",
+          "en": "Curtea de Argeș Wine Festival 2026"
+        },
+        "summary": {
+          "de": "Das Weinfestival in der Pensiunea Clasic kombiniert Verkostungen mit Live-Musik und einem zweitägigen Besuchsformat.",
+          "hu": "A Pensiunea Clasic helyszínén tartott borfesztivál kóstolókat, élő zenét és kétnapos programot kínál.",
+          "ro": "Festivalul de vin de la Pensiunea Clasic combină degustări, muzică live și un format de două zile pentru vizitatori.",
+          "en": "The wine festival at Pensiunea Clasic combines tastings, live music, and a two-day visitor program."
+        },
+        "source_url": "https://curteadeargeswinefestival.ro/"
+      }
+    ]
+  }
+]

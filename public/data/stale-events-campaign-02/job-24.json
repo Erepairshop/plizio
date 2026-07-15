@@ -1,0 +1,315 @@
+[
+  {
+    "id": "city-campina-extra",
+    "events": [
+      {
+        "date": "2026-09-18",
+        "title": {
+          "de": "Vizionarii 2026",
+          "hu": "Vizionarii 2026",
+          "ro": "Vizionarii 2026",
+          "en": "Visionaries 2026"
+        },
+        "summary": {
+          "de": "Die Veranstaltung ist für das Haus der Jugend in Câmpina angekündigt und gehört zum städtischen Kulturkalender im September 2026.",
+          "hu": "Az eseményt a câmpinai Ifjúsági Házban rendezik meg, és a város 2026. szeptemberi kulturális programjának része.",
+          "ro": "Evenimentul este anunțat la Casa Tineretului din Câmpina și face parte din calendarul cultural local din septembrie 2026.",
+          "en": "The event is scheduled at Casa Tineretului in Câmpina as part of the city's September 2026 cultural program."
+        },
+        "source_url": "https://www.primariacampina.ro/evenimente/vizionarii-2026/"
+      },
+      {
+        "date": "2026-11-11",
+        "title": {
+          "de": "Te aștept să vii în Gara Mică",
+          "hu": "Te aștept să vii în Gara Mică",
+          "ro": "Te aștept să vii în Gara Mică",
+          "en": "I Wait for You at Gara Mică"
+        },
+        "summary": {
+          "de": "Dieses für den 11. November angekündigte Bühnenereignis steht im offiziellen Veranstaltungskalender von Câmpina und findet im Haus der Jugend statt.",
+          "hu": "A november 11-re meghirdetett színpadi program a hivatalos câmpinai eseménynaptárban szerepel, helyszíne a Casa Tineretului.",
+          "ro": "Programat pentru 11 noiembrie, evenimentul apare în calendarul oficial al municipiului Câmpina și are loc la Casa Tineretului.",
+          "en": "Scheduled for 11 November, this stage event appears in Câmpina's official events calendar and takes place at Casa Tineretului."
+        },
+        "source_url": "https://www.primariacampina.ro/evenimente/te-astept-sa-vii-in-gara-mica/"
+      },
+      {
+        "date": "2026-11-28",
+        "title": {
+          "de": "Spărgătorul de nuci – Magia sărbătorilor prinde viață",
+          "hu": "Spărgătorul de nuci – Magia sărbătorilor prinde viață",
+          "ro": "Spărgătorul de nuci – Magia sărbătorilor prinde viață",
+          "en": "The Nutcracker – Holiday Magic Comes to Life"
+        },
+        "summary": {
+          "de": "Die Aufführung ist für das Kulturhaus Geo Bogza in Câmpina angekündigt und bringt ein familienorientiertes Winterprogramm Ende November.",
+          "hu": "Az előadást a câmpinai Geo Bogza Művelődési Házban rendezik meg, és november végén családbarát téli programot kínál.",
+          "ro": "Spectacolul este anunțat la Casa Municipală de Cultură „Geo Bogza” din Câmpina și aduce un program de iarnă pentru publicul larg la final de noiembrie.",
+          "en": "The performance is scheduled at Câmpina's Geo Bogza Municipal House of Culture and offers a family-friendly winter program in late November."
+        },
+        "source_url": "https://www.primariacampina.ro/evenimente/spargatorul-de-nuci-magia-sarbatorilor-prinde-viata/"
+      }
+    ]
+  },
+  {
+    "id": "ro-poi-slobozia",
+    "events": [
+      {
+        "date": "2026-08-05",
+        "title": {
+          "de": "Ziua micilor artiști",
+          "hu": "A kis művészek napja",
+          "ro": "Ziua micilor artiști",
+          "en": "Little Artists' Day"
+        },
+        "summary": {
+          "de": "Das offizielle Kulturprogramm der Stadt nennt August-Termine im Ialomița-Park mit Malworkshops, Straßenzeichnungen, Musik und Tanz für Kinder.",
+          "hu": "A város hivatalos kulturális programja augusztusi alkalmakat sorol fel az Ialomița parkban festőfoglalkozásokkal, aszfaltrajzzal, zenével és tánccal.",
+          "ro": "Programul oficial al municipiului anunță edițiile din august în Parcul Ialomița, cu ateliere de pictură, desene pe asfalt, muzică și dans pentru copii.",
+          "en": "The municipality's official program lists August sessions in Parcul Ialomița with painting workshops, chalk drawing, music, and dance for children."
+        },
+        "period": {
+          "recurrent": true,
+          "end_date": "2026-08-26"
+        },
+        "source_url": "https://municipiulslobozia.ro/wp-content/uploads/2026/04/Programul-actiunilor-propunere-buget-DECT-2026-.docx"
+      },
+      {
+        "date": "2026-08-01",
+        "title": {
+          "de": "Floare de pe Bărăgan",
+          "hu": "Floare de pe Bărăgan",
+          "ro": "Floare de pe Bărăgan",
+          "en": "Floare de pe Bărăgan"
+        },
+        "summary": {
+          "de": "Das offizielle Slobozia-Programm führt dieses internationale Volksmusikfestival für August auf der Piața Unirii auf.",
+          "hu": "A hivatalos sloboziai program augusztusra, a Piața Unirii helyszínére írja ki ezt a nemzetközi népzenei fesztivált.",
+          "ro": "Programul oficial al Sloboziei include pentru luna august, în Piața Unirii, acest festival internațional de muzică populară.",
+          "en": "Slobozia's official program schedules this international folk-music festival for August in Piața Unirii."
+        },
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://municipiulslobozia.ro/wp-content/uploads/2026/04/Programul-actiunilor-propunere-buget-DECT-2026-.docx"
+      },
+      {
+        "date": "2026-10-22",
+        "title": {
+          "de": "Balul bobocilor 2026",
+          "hu": "Gólyabál 2026",
+          "ro": "Balul bobocilor 2026",
+          "en": "Freshers' Ball 2026"
+        },
+        "summary": {
+          "de": "Die Stadt plant am 22. Oktober einen Wettbewerb für neue Gymnasiasten mit Musik, DJ-Programm, Publikum und Geldpreisen.",
+          "hu": "A város október 22-ére zenés, DJ-s, közönség előtti gólyabált tervez pénzdíjas Miss és Mister versennyel.",
+          "ro": "Municipiul programează pe 22 octombrie un concurs pentru liceenii din clasa a IX-a, cu muzică, DJ și premii în bani.",
+          "en": "The city schedules a 22 October freshers' event for local ninth-grade students, with music, a DJ set, and cash prizes."
+        },
+        "source_url": "https://municipiulslobozia.ro/wp-content/uploads/2026/04/Programul-actiunilor-propunere-buget-DECT-2026-.docx"
+      }
+    ]
+  },
+  {
+    "id": "villepinte",
+    "events": [
+      {
+        "date": "2026-07-11",
+        "end_date": "2026-08-09",
+        "title": {
+          "de": "Villepinte Plage",
+          "hu": "Villepinte Plage",
+          "ro": "Villepinte Plage",
+          "en": "Villepinte Plage",
+          "fr": "Villepinte Plage"
+        },
+        "summary": {
+          "de": "Das Sommerprogramm der Stadt läuft mehrere Wochen mit Freizeit- und Ferienangeboten für Familien und Jugendliche in Villepinte.",
+          "hu": "A város nyári programsorozata több héten át kínál szabadidős és vakációs elfoglaltságokat családoknak és fiataloknak Villepinte-ben.",
+          "ro": "Programul estival al orașului se desfășoară pe parcursul mai multor săptămâni și propune activități de vacanță pentru familii și tineri la Villepinte.",
+          "en": "The city's summer program runs for several weeks with holiday and leisure activities for families and young people in Villepinte.",
+          "fr": "Le programme estival de la ville s'étend sur plusieurs semaines avec des activités de loisirs et de vacances pour les familles et les jeunes à Villepinte."
+        },
+        "source_url": "https://ville-villepinte.fr/villepinte-plage/"
+      },
+      {
+        "date": "2026-09-25",
+        "end_date": "2026-09-28",
+        "title": {
+          "de": "SILMO Paris",
+          "hu": "SILMO Paris",
+          "ro": "SILMO Paris",
+          "en": "SILMO Paris",
+          "fr": "SILMO Paris"
+        },
+        "summary": {
+          "de": "Die Fachmesse für Optik und Brillen ist für Paris Nord Villepinte über vier Tage Ende September angekündigt.",
+          "hu": "A szemüveg- és optikai szakkiállítást szeptember végén négy napon át rendezik meg a Paris Nord Villepinte központban.",
+          "ro": "Salonul profesionist dedicat opticii și ochelarilor este programat timp de patru zile la Paris Nord Villepinte, la final de septembrie.",
+          "en": "The professional optics and eyewear trade show is scheduled for four days at Paris Nord Villepinte in late September.",
+          "fr": "Le salon professionnel de l'optique et de la lunetterie est programmé pendant quatre jours à Paris Nord Villepinte à la fin du mois de septembre."
+        },
+        "source_url": "https://www.viparis.com/nos-lieux/paris-nord-villepinte/agenda"
+      },
+      {
+        "date": "2026-10-03",
+        "end_date": "2026-10-04",
+        "title": {
+          "de": "Paris Manga & Sci-Fi Show by TGS",
+          "hu": "Paris Manga & Sci-Fi Show by TGS",
+          "ro": "Paris Manga & Sci-Fi Show by TGS",
+          "en": "Paris Manga & Sci-Fi Show by TGS",
+          "fr": "Paris Manga & Sci-Fi Show by TGS"
+        },
+        "summary": {
+          "de": "Die Popkultur-Veranstaltung bringt Manga-, Science-Fiction- und Fan-Communities Anfang Oktober nach Paris Nord Villepinte.",
+          "hu": "A popkulturális rendezvény október elején manga-, science-fiction- és rajongói közösségeket vonz a Paris Nord Villepinte központba.",
+          "ro": "Evenimentul dedicat culturii pop reunește comunități manga, science-fiction și fandom la început de octombrie la Paris Nord Villepinte.",
+          "en": "The pop-culture event gathers manga, science-fiction, and fan communities at Paris Nord Villepinte in early October.",
+          "fr": "Cet événement de culture pop réunit les univers manga, science-fiction et fandom à Paris Nord Villepinte au début d'octobre."
+        },
+        "source_url": "https://www.viparis.com/nos-lieux/paris-nord-villepinte/agenda"
+      },
+      {
+        "date": "2026-10-17",
+        "end_date": "2026-10-21",
+        "title": {
+          "de": "SIAL Paris 2026",
+          "hu": "SIAL Paris 2026",
+          "ro": "SIAL Paris 2026",
+          "en": "SIAL Paris 2026",
+          "fr": "SIAL Paris 2026"
+        },
+        "summary": {
+          "de": "Die große Lebensmittelmesse ist Mitte Oktober über fünf Tage auf dem Gelände Paris Nord Villepinte geplant.",
+          "hu": "A nagyszabású élelmiszeripari szakvásárt október közepén öt napon át rendezik meg a Paris Nord Villepinte területén.",
+          "ro": "Marele salon dedicat industriei alimentare este programat pe durata a cinci zile, la mijlocul lunii octombrie, la Paris Nord Villepinte.",
+          "en": "The major food-industry trade fair is scheduled for five days in mid-October at Paris Nord Villepinte.",
+          "fr": "Le grand salon de l'industrie agroalimentaire est programmé pendant cinq jours à la mi-octobre à Paris Nord Villepinte."
+        },
+        "source_url": "https://www.viparis.com/nos-lieux/paris-nord-villepinte/agenda"
+      }
+    ]
+  },
+  {
+    "id": "douai",
+    "events": [
+      {
+        "date": "2026-09-27",
+        "title": {
+          "de": "DJADJA&DINAZ",
+          "hu": "DJADJA&DINAZ",
+          "ro": "DJADJA&DINAZ",
+          "en": "DJADJA&DINAZ",
+          "fr": "DJADJA&DINAZ"
+        },
+        "summary": {
+          "de": "Das Hip-Hop-Duo ist für einen Herbsttermin in Gayant Expo in Douai angekündigt.",
+          "hu": "A hiphopduó őszi koncertre érkezik a douai-i Gayant Expo csarnokba.",
+          "ro": "Duo-ul de hip-hop este anunțat pentru un concert de toamnă la Gayant Expo din Douai.",
+          "en": "The hip-hop duo is scheduled for an autumn show at Gayant Expo in Douai.",
+          "fr": "Le duo de hip-hop est annoncé pour un concert d'automne à Gayant Expo à Douai."
+        },
+        "source_url": "https://www.gayantexpoconcerts.com/agenda/"
+      },
+      {
+        "date": "2026-10-04",
+        "title": {
+          "de": "CHANTAL GOYA",
+          "hu": "CHANTAL GOYA",
+          "ro": "CHANTAL GOYA",
+          "en": "CHANTAL GOYA",
+          "fr": "CHANTAL GOYA"
+        },
+        "summary": {
+          "de": "Die langjährige französische Bühnenkünstlerin steht Anfang Oktober im Veranstaltungsprogramm von Gayant Expo.",
+          "hu": "A nagy múltú francia előadóművész október elején szerepel a Gayant Expo programjában.",
+          "ro": "Artista franceză de lungă carieră figurează la început de octombrie în programul Gayant Expo.",
+          "en": "The veteran French performer appears in Gayant Expo's early-October program.",
+          "fr": "L'artiste française de longue date figure au programme de Gayant Expo au début du mois d'octobre."
+        },
+        "source_url": "https://www.gayantexpoconcerts.com/agenda/"
+      },
+      {
+        "date": "2026-12-12",
+        "title": {
+          "de": "Les années 80 la Tournée",
+          "hu": "Les années 80 la Tournée",
+          "ro": "Les années 80 la Tournée",
+          "en": "Les années 80 la Tournée",
+          "fr": "Les années 80 la Tournée"
+        },
+        "summary": {
+          "de": "Die Nostalgie-Konzerttour mit 80er-Jahre-Repertoire ist für einen Samstagabend im Dezember in Douai angekündigt.",
+          "hu": "A nyolcvanas éveket idéző koncertturné decemberi szombat esti állomással szerepel Douai hivatalos csarnokprogramjában.",
+          "ro": "Turneul nostalgic dedicat repertoriului anilor '80 este anunțat pentru o seară de sâmbătă din decembrie la Douai.",
+          "en": "The nostalgia concert tour focused on 1980s repertoire is scheduled for a Saturday evening in December in Douai.",
+          "fr": "La tournée nostalgique consacrée au répertoire des années 1980 est annoncée pour un samedi soir de décembre à Douai."
+        },
+        "source_url": "https://www.gayantexpoconcerts.com/agenda/"
+      }
+    ]
+  },
+  {
+    "id": "city-tecuci-extra",
+    "events": [
+      {
+        "date": "2026-08-01",
+        "end_date": "2026-08-15",
+        "title": {
+          "de": "Iarmarocul Moldovenesc",
+          "hu": "Iarmarocul Moldovenesc",
+          "ro": "Iarmarocul Moldovenesc",
+          "en": "Moldavian Fair"
+        },
+        "summary": {
+          "de": "Der offizielle Veranstaltungskalender des Kreises Galați nennt für Tecuci eine zweiwöchige Ausgabe des traditionellen Jahrmarkts im August.",
+          "hu": "A Galați megyei hivatalos eseménynaptár Tecuciban augusztus elejére és közepére írja ki a hagyományos moldvai vásár kéthetes kiadását.",
+          "ro": "Calendarul oficial de evenimente al județului Galați anunță la Tecuci o ediție de două săptămâni a tradiționalului iarmaroc în luna august.",
+          "en": "The official Galați County events calendar lists a two-week edition of Tecuci's traditional fair in August."
+        },
+        "source_url": "https://cjgalati.ro/wp-content/uploads/2026/03/Calendar-evenimente-2026.pdf"
+      },
+      {
+        "date": "2026-10-25",
+        "title": {
+          "de": "Ziua Armatei Române",
+          "hu": "A Román Hadsereg Napja",
+          "ro": "Ziua Armatei Române",
+          "en": "Romanian Army Day"
+        },
+        "summary": {
+          "de": "Der Festtag am 25. Oktober wird in Tecuci traditionell mit öffentlichem Gedenken begangen und bleibt Teil des bürgerlichen Festkalenders.",
+          "hu": "Az október 25-i ünnepet Tecuciban hagyományosan nyilvános megemlékezéssel tartják meg, és része a városi ünnepnaptárnak.",
+          "ro": "Sărbătoarea din 25 octombrie este marcată tradițional la Tecuci prin manifestări publice de comemorare și rămâne parte a calendarului civic local.",
+          "en": "The 25 October observance is traditionally marked in Tecuci with public commemorative events and remains part of the local civic calendar."
+        },
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://primariatecuci.ro/25-octombrie-ziua-armatei-romane-2/"
+      },
+      {
+        "date": "2026-12-01",
+        "title": {
+          "de": "Ziua Națională a României",
+          "hu": "Románia Nemzeti Ünnepe",
+          "ro": "Ziua Națională a României",
+          "en": "Romania's National Day"
+        },
+        "summary": {
+          "de": "Der 1. Dezember wird in Tecuci mit öffentlichem Festprogramm gefeiert; die Gemeinde hat dafür ein eigenes Manifestationsprogramm veröffentlicht.",
+          "hu": "December 1-jét Tecuciban nyilvános ünnepi programmal tartják meg; az önkormányzat külön rendezvényprogramot tett közzé hozzá.",
+          "ro": "Data de 1 decembrie este celebrată la Tecuci printr-un program public de manifestări, publicat de administrația locală.",
+          "en": "1 December is celebrated in Tecuci with a public program of events published by the local administration."
+        },
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://primariatecuci.ro/1-decembrie-ziua-nationala-a-romaniei/"
+      }
+    ]
+  }
+]

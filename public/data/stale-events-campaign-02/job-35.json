@@ -1,0 +1,370 @@
+[
+  {
+    "id": "szekszard",
+    "events": [
+      {
+        "title": {
+          "de": "Holocaust-Überlebende: Die Synagogen - Ausstellung von Noam Chen",
+          "hu": "Holokauszt-túlélők: A zsinagógák - Noam Chen kiállítása",
+          "ro": "Supraviețuitorii Holocaustului: Sinagogile - expoziție de Noam Chen",
+          "en": "Holocaust Survivors: The Synagogues - an exhibition by Noam Chen"
+        },
+        "summary": {
+          "de": "Die Ausstellung im Művészetek Háza zeigt Fotografien mittel- und osteuropäischer Synagogen von Noam Chen und ist laut Veranstalter bis Anfang August geöffnet.",
+          "hu": "A Művészetek Házában rendezett tárlat Noam Chen közép- és kelet-európai zsinagógákat bemutató fotóit mutatja be, és a szervező szerint augusztus elejéig látogatható.",
+          "ro": "Expoziția de la Művészetek Háza prezintă fotografii realizate de Noam Chen cu sinagogi din Europa Centrală și de Est și este deschisă până la începutul lui august.",
+          "en": "Hosted at Művészetek Háza, this exhibition presents Noam Chen's photographs of Central and Eastern European synagogues and remains open into early August."
+        },
+        "date": "2026-07-05",
+        "end_date": "2026-08-01",
+        "source_url": "https://www.szekszardagora.hu/programok/holokauszt-tulelok-a-zsinagogak-noam-chen-kiallitasa"
+      },
+      {
+        "title": {
+          "de": "Takler-Weinverkostung im Weinbergherrenhaus",
+          "hu": "Takler borkóstoló a szőlőhegyi kúriában",
+          "ro": "Degustare de vin Takler la conacul din vie",
+          "en": "Takler wine tasting at the hilltop manor"
+        },
+        "summary": {
+          "de": "Die primäre Ticketseite listet mehrere Sommertermine bei Takler Pince, bei denen Besucher fünf ausgewählte Weine mit Blick über die Weinberge probieren können.",
+          "hu": "A hivatalos jegyoldal több nyári időpontot sorol a Takler Pincénél, ahol a látogatók öt válogatott bort kóstolhatnak meg a dűlők panorámájával.",
+          "ro": "Pagina principală de bilete afișează mai multe sesiuni de vară la Takler Pince, unde vizitatorii pot degusta cinci vinuri selecționate cu vedere spre podgorii.",
+          "en": "The primary ticketing page lists multiple summer sessions at Takler Pince where visitors can sample five selected wines overlooking the vineyards."
+        },
+        "date": "2026-07-29",
+        "end_date": "2026-07-31",
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.jegy.hu/city/szekszard/3"
+      },
+      {
+        "title": {
+          "de": "Bencsik János: Divina-Commedia-Serie",
+          "hu": "Bencsik János: Divina Commedia-sorozat",
+          "ro": "Bencsik János: seria Divina Commedia",
+          "en": "Bencsik János: Divina Commedia series"
+        },
+        "summary": {
+          "de": "Das Művészetek Háza kündigt für Anfang August eine neue Ausstellung aus der Divina-Commedia-Serie von Bencsik János an.",
+          "hu": "A Művészetek Háza augusztus elejére meghirdette Bencsik János Divina Commedia-sorozatának új kiállítását.",
+          "ro": "Művészetek Háza anunță pentru începutul lui august o nouă expoziție din seria Divina Commedia semnată de Bencsik János.",
+          "en": "Művészetek Háza has scheduled a new exhibition from Bencsik János's Divina Commedia series for early August."
+        },
+        "date": "2026-08-08",
+        "source_url": "https://muveszetekhaza.szekszardagora.hu/programok"
+      },
+      {
+        "title": {
+          "de": "Sankt-Stephan-Tag, Fest der ungarischen Staatsgründung",
+          "hu": "Szent István nap - a magyar államalapítás ünnepe",
+          "ro": "Ziua Sfântului Ștefan - sărbătoarea întemeierii statului maghiar",
+          "en": "Saint Stephen's Day - celebration of the founding of the Hungarian state"
+        },
+        "summary": {
+          "de": "Das Stadtprogramm umfasst laut Veranstalter Brotsegnung und Festmesse am Morgen sowie weitere Feierlichkeiten zum Nationalfeiertag in Szekszárd.",
+          "hu": "A városi program a szervező szerint kenyérszenteléssel és ünnepi szentmisével indul, majd további közösségi eseményekkel folytatódik Szekszárdon.",
+          "ro": "Potrivit organizatorului, programul orașului începe cu binecuvântarea pâinii și slujbă festivă, urmate de alte manifestări comunitare la Szekszárd.",
+          "en": "According to the organizer, the city program starts with a bread blessing and festive mass, followed by additional community celebrations in Szekszárd."
+        },
+        "date": "2026-08-20",
+        "source_url": "https://www.szekszardagora.hu/programok/szent-istvan-nap-2026"
+      },
+      {
+        "title": {
+          "de": "Szekszárder Weinlesetage",
+          "hu": "Szekszárdi Szüreti Napok",
+          "ro": "Zilele Recoltei din Szekszárd",
+          "en": "Szekszárd Harvest Days"
+        },
+        "summary": {
+          "de": "Die Stadt beschreibt ihr größtes Jahresereignis als viertägiges Herbstkunst- und Weinfestival mit Konzerten, Ausstellungen, Kinderprogramm und Verkostungen.",
+          "hu": "A város leírása szerint ez az év legnagyobb eseménye: négynapos őszi művészeti és borfesztivál koncertekkel, kiállításokkal, gyermekprogramokkal és kóstolókkal.",
+          "ro": "Orașul îl descrie ca pe cel mai mare eveniment anual: un festival de toamnă dedicat artei și vinului, cu concerte, expoziții, programe pentru copii și degustări.",
+          "en": "The city describes this as its biggest annual event, a four-day autumn arts and wine festival with concerts, exhibitions, family programming, and tastings."
+        },
+        "date": "2026-09-17",
+        "end_date": "2026-09-20",
+        "source_url": "https://szekszard.hu/hu/bor-turizmus-szabadido/programok/varosi-nagyrendezvenyek"
+      }
+    ]
+  },
+  {
+    "id": "vichy",
+    "events": [
+      {
+        "title": {
+          "de": "Vichy [Kultur] Estivale 2026",
+          "hu": "Vichy [Culture] Estivale 2026",
+          "ro": "Vichy [Culture] Estivale 2026",
+          "en": "Vichy [Culture] Estivale 2026",
+          "fr": "Vichy [Culture] Estivale 2026"
+        },
+        "summary": {
+          "de": "Das Sommerprogramm der Opéra de Vichy bespielt Oper, Fer à Cheval und Port de la Rotonde mit Ausstellungen, Tanz und Konzerten bis Ende August.",
+          "hu": "A Vichy-i Operaház nyári programsorozata az Operában, a Fer à Cheval helyszínen és a Port de la Rotonde területén kínál kiállításokat, tánc- és zenei programokat augusztus végéig.",
+          "ro": "Programul estival al Operei din Vichy animă Opéra, Fer à Cheval și Port de la Rotonde cu expoziții, dans și concerte până la sfârșitul lui august.",
+          "en": "Opéra de Vichy's summer season activates the opera house, Fer à Cheval, and Port de la Rotonde with exhibitions, dance, and concerts through late August.",
+          "fr": "La saison estivale de l'Opéra de Vichy anime l'Opéra, le Fer à Cheval et le Port de la Rotonde avec expositions, danse et concerts jusqu'à la fin août."
+        },
+        "date": "2026-07-27",
+        "end_date": "2026-08-23",
+        "source_url": "https://opera-vichy.com/vichy-culture-estivale-2026"
+      },
+      {
+        "title": {
+          "de": "Galopprennen",
+          "hu": "Galoppversenyek",
+          "ro": "Curse de galop",
+          "en": "Flat racing meetings",
+          "fr": "Courses de galop"
+        },
+        "summary": {
+          "de": "Die Agenda der Stadt listet mehrere Renntage auf der Rennbahn Vichy-Bellerive vom Sommer bis in den Dezember.",
+          "hu": "A városi programnaptár szerint a Vichy-Bellerive lóversenypályán nyártól decemberig több galoppversenynapot rendeznek.",
+          "ro": "Agenda orașului anunță mai multe reuniuni hipice la hipodromul Vichy-Bellerive din vară până în decembrie.",
+          "en": "The city agenda lists multiple race days at Vichy-Bellerive racecourse from summer into December.",
+          "fr": "L'agenda de la ville annonce plusieurs réunions à l'hippodrome de Vichy-Bellerive de l'été jusqu'en décembre."
+        },
+        "date": "2026-07-30",
+        "end_date": "2026-12-26",
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.ville-vichy.fr/agenda/courses-de-galop/"
+      },
+      {
+        "title": {
+          "de": "Geführter Rundgang: Zweites Kaiserreich, Belle Époque, goldenes Zeitalter von Vichy",
+          "hu": "Tárlatvezetés: Második Császárság, Belle Époque, Vichy aranykora",
+          "ro": "Tur ghidat: Al Doilea Imperiu, Belle Époque, epoca de aur a orașului Vichy",
+          "en": "Guided tour: Second Empire, Belle Époque, Vichy's golden age",
+          "fr": "Visite guidée : Second Empire, Belle Époque, Âge d'Or de Vichy"
+        },
+        "summary": {
+          "de": "Die Stadt bietet diese historische Führung im Sommer regelmäßig an; sie beleuchtet die Thermalkurarchitektur und die Entwicklung Vichys zur mondänen Kurstadt.",
+          "hu": "A város ezt a történelmi sétát rendszeresen kínálja a nyári időszakban; a program Vichy fürdővárosi építészetét és fejlődését mutatja be.",
+          "ro": "Orașul propune în mod regulat acest tur istoric de vară, dedicat arhitecturii balneare și transformării orașului Vichy într-o stațiune de prestigiu.",
+          "en": "The city runs this historical tour through summer, focusing on Vichy's spa architecture and rise as a grand resort town.",
+          "fr": "La ville propose régulièrement cette visite historique durant l'été, consacrée à l'architecture thermale et à l'essor de Vichy comme ville d'eaux."
+        },
+        "date": "2026-07-26",
+        "end_date": "2026-09-30",
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.ville-vichy.fr/agenda/visite-guidee-second-empire-belle-epoque-age-dor-de-vichy/"
+      },
+      {
+        "title": {
+          "de": "Geführter Rundgang: Die Vichy-Pastille, zwei Jahrhunderte Süße",
+          "hu": "Tárlatvezetés: A Vichy-pasztilla, két évszázad édessége",
+          "ro": "Tur ghidat: pastila de Vichy, două secole de dulceață",
+          "en": "Guided tour: The Vichy pastille, two centuries of sweetness",
+          "fr": "Visite guidée : La Pastille de Vichy, 2 siècles de douceur"
+        },
+        "summary": {
+          "de": "Diese Führung verbindet Stadtgeschichte mit der berühmten Vichy-Pastille und läuft laut Agenda bis Ende September.",
+          "hu": "Ez a vezetett program a várostörténetet a híres Vichy-pasztilla történetével kapcsolja össze, és a programnaptár szerint szeptember végéig tart.",
+          "ro": "Turul leagă istoria orașului de celebra pastilă de Vichy și, potrivit agendei oficiale, continuă până la sfârșitul lui septembrie.",
+          "en": "This tour links city history with the famous Vichy pastille and, according to the official agenda, continues through late September.",
+          "fr": "Cette visite relie l'histoire de la ville à la célèbre pastille de Vichy et se poursuit, selon l'agenda officiel, jusqu'à la fin septembre."
+        },
+        "date": "2026-07-26",
+        "end_date": "2026-09-30",
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.ville-vichy.fr/agenda/visite-guidee-la-pastille-de-vichy-2-siecles-de-douceur/"
+      }
+    ]
+  },
+  {
+    "id": "city-navodari-extra",
+    "events": [
+      {
+        "title": {
+          "de": "Woche der offenen Türen im Tageszentrum für Kinder",
+          "hu": "Nyitott kapuk hete a gyermekek nappali központjában",
+          "ro": "Săptămâna Porților Deschise la Centrul de Zi pentru Copii",
+          "en": "Open Doors Week at the Day Center for Children"
+        },
+        "summary": {
+          "de": "Die Stadtverwaltung kündigt eine offene Programmwoche mit Aktivitäten im Tageszentrum für Kinder in Năvodari Anfang August an.",
+          "hu": "A városháza augusztus elejére nyílt programhetet hirdetett meg a năvodari-i gyermekközpontban, különféle foglalkozásokkal.",
+          "ro": "Primăria anunță pentru începutul lui august o săptămână cu porți deschise și activități dedicate copiilor la centrul de zi din Năvodari.",
+          "en": "The municipality has announced an early-August open week with activities for children at Năvodari's day center."
+        },
+        "date": "2026-08-03",
+        "end_date": "2026-08-09",
+        "source_url": "https://primaria-navodari.ro/saptamana-portilor-deschise-la-centrul-de-zi-pentru-copii-din-navodari-intre-13-19-iulie-2026-si-3-9-august-2026/"
+      },
+      {
+        "title": {
+          "de": "Bibliothek in den Ferien - dritte Ausgabe",
+          "hu": "Bibliotéka a vakációban - III. kiadás",
+          "ro": "Biblioteca din Vacanță - ediția a III-a",
+          "en": "Holiday Library - third edition"
+        },
+        "summary": {
+          "de": "Das Sommerprogramm der Stadtbibliothek bringt Kindern in Năvodari kulturelle und Freizeitaktivitäten im Freien; die dritte Ausgabe läuft im Ferienzeitraum weiter.",
+          "hu": "A városi nyári könyvtári program kulturális és szabadidős foglalkozásokat kínál a gyerekeknek Năvodariban, és a harmadik kiadás a vakáció alatt folytatódik.",
+          "ro": "Programul estival al bibliotecii locale aduce copiilor activități culturale și recreative în aer liber, iar ediția a treia continuă în vacanța de vară.",
+          "en": "The local library's summer program offers children cultural and recreational outdoor activities, and its third edition continues through the school holidays."
+        },
+        "date": "2026-07-26",
+        "end_date": "2026-08-09",
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://primaria-navodari.ro/a-inceput-aventura-biblioteca-din-vacanta-editia-a-iii-a/"
+      },
+      {
+        "title": {
+          "de": "Astronomischer August",
+          "hu": "Csillagászati augusztus",
+          "ro": "August astronomic",
+          "en": "Astronomical August"
+        },
+        "summary": {
+          "de": "Im offiziellen kommunalen Veranstaltungsprogramm für 2026 ist ein August-Event mit astronomischem Thema als öffentliches Kulturangebot der Stadt vorgesehen.",
+          "hu": "A város 2026-os hivatalos rendezvényprogramjában szerepel egy augusztusi, csillagászati tematikájú nyilvános kulturális esemény.",
+          "ro": "Programul oficial de evenimente al orașului pentru 2026 include un eveniment public cu tematică astronomică în luna august.",
+          "en": "The city's official 2026 events program includes a public astronomy-themed event scheduled for August."
+        },
+        "date": "2026-08-01",
+        "end_date": "2026-08-31",
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://primaria-navodari.ro/wp-content/uploads/2026/03/Proiect-nr.11-din-26.03.2026.pdf"
+      }
+    ]
+  },
+  {
+    "id": "chatellerault",
+    "events": [
+      {
+        "title": {
+          "de": "Festival Manga / Retro-Jugend",
+          "hu": "Manga / retro ifjúsági fesztivál",
+          "ro": "Festival manga / retro jeunesse",
+          "en": "Manga / retro youth festival",
+          "fr": "Festival manga / rétro jeunesse"
+        },
+        "summary": {
+          "de": "Das Tourismusbüro kündigt im Parc des Expositions du Chillou ein thematisches Festival für Popkultur-, Manga- und Retro-Fans an.",
+          "hu": "A turisztikai iroda a Parc des Expositions du Chillou helyszínén popkultúra-, manga- és retrórajongóknak szóló fesztivált hirdet.",
+          "ro": "Biroul de turism anunță la Parc des Expositions du Chillou un festival tematic pentru fanii culturii pop, manga și retro.",
+          "en": "The tourism office advertises a themed festival for pop-culture, manga, and retro fans at Parc des Expositions du Chillou.",
+          "fr": "L'office de tourisme annonce au Parc des Expositions du Chillou un festival thématique pour les amateurs de pop culture, de manga et de rétro."
+        },
+        "date": "2026-08-21",
+        "source_url": "https://www.tourisme-chatellerault.fr/agenda/festival-manga-retro-jeunesse/"
+      },
+      {
+        "title": {
+          "de": "Das größte Klarinettenensemble der Welt",
+          "hu": "A világ legnagyobb klarinét-zenekara",
+          "ro": "Cel mai mare ansamblu de clarinete din lume",
+          "en": "The world's largest clarinet ensemble",
+          "fr": "Le plus grand ensemble de clarinettes du monde"
+        },
+        "summary": {
+          "de": "Der Veranstaltungskalender führt dieses Großkonzert Ende August im Parc Expo von Châtellerault auf.",
+          "hu": "A rendezvénynaptár augusztus végére nagyszabású koncertet jelez a châtellerault-i Parc Expo területén.",
+          "ro": "Calendarul oficial de evenimente programează la sfârșitul lui august un mare concert la Parc Expo din Châtellerault.",
+          "en": "The official events calendar schedules this large-scale concert for late August at Châtellerault's Parc Expo.",
+          "fr": "L'agenda officiel programme ce grand concert à la fin août au Parc Expo de Châtellerault."
+        },
+        "date": "2026-08-30",
+        "source_url": "https://www.tourisme-chatellerault.fr/agenda/le-plus-grand-ensemble-de-clarinettes-du-monde/"
+      },
+      {
+        "title": {
+          "de": "Manu Militari von Guillaume Chiron und Anthony Bonnin",
+          "hu": "Manu Militari Guillaume Chiron és Anthony Bonnin alkotóktól",
+          "ro": "Manu Militari de Guillaume Chiron și Anthony Bonnin",
+          "en": "Manu Militari by Guillaume Chiron and Anthony Bonnin",
+          "fr": "Manu Militari de Guillaume Chiron et Anthony Bonnin"
+        },
+        "summary": {
+          "de": "Das Zentrum für zeitgenössische Kunst und die Artothek von Grand Châtellerault zeigen diese Ausstellung bis Anfang September.",
+          "hu": "A Grand Châtellerault kortárs művészeti központja és artotékája szeptember elejéig mutatja be ezt a kiállítást.",
+          "ro": "Centrul de Artă Contemporană și Artoteca din Grand Châtellerault prezintă această expoziție până la începutul lui septembrie.",
+          "en": "Grand Châtellerault's contemporary art center and art library present this exhibition through early September.",
+          "fr": "Le Centre d'Art Contemporain et l'Artothèque de Grand Châtellerault présentent cette exposition jusqu'au début de septembre."
+        },
+        "date": "2026-07-26",
+        "end_date": "2026-09-07",
+        "source_url": "https://www.tourisme-chatellerault.fr/agenda/manu-militari-de-guillaume-chiron-et-anthony-bonnin/"
+      }
+    ]
+  },
+  {
+    "id": "city-fetesti-extra",
+    "events": [
+      {
+        "title": {
+          "de": "Festival der Fischertraditionen",
+          "hu": "Halászati hagyományok fesztiválja",
+          "ro": "Festivalul Tradițiilor Pescărești",
+          "en": "Festival of Fishing Traditions"
+        },
+        "summary": {
+          "de": "Die Stadtverwaltung führt dieses öffentliche Stadtfestival als eigene Veranstaltungskategorie und veröffentlicht dafür offizielle Teilnahme- und Anmeldeunterlagen.",
+          "hu": "Az önkormányzat ezt a nyilvános városi fesztivált külön eseménykategóriában kezeli, és hivatalos részvételi illetve jelentkezési dokumentumokat tesz közzé hozzá.",
+          "ro": "Primăria tratează acest festival public al orașului ca o categorie dedicată și publică documente oficiale de participare și înscriere pentru el.",
+          "en": "The municipality maintains this public city festival as a dedicated event category and publishes official participation and registration documents for it."
+        },
+        "date": "2026-08-01",
+        "end_date": "2026-08-31",
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://primariafetesti.ro/categorie/festivalultp/"
+      },
+      {
+        "title": {
+          "de": "Toamna Feteșteană",
+          "hu": "Toamna Feteșteană",
+          "ro": "Toamna Feteșteană",
+          "en": "Fetești Autumn Fair"
+        },
+        "summary": {
+          "de": "Auf der offiziellen Website der Stadt wird die Herbstveranstaltung als eigene Kategorie geführt; dazu gehören üblicherweise Stadtfest-, Markt- und Bühnenaktivitäten.",
+          "hu": "A város hivatalos oldalán külön kategóriaként szerepel az őszi rendezvény, amely jellemzően városi ünnepi, vásári és színpadi programokat foglal magába.",
+          "ro": "Pe site-ul oficial al primăriei, evenimentul de toamnă apare ca o categorie distinctă și reunește în mod obișnuit activități de oraș, târg și scenă.",
+          "en": "On the municipality's official site, this autumn event appears as a dedicated category and typically brings together city-fair, market, and stage programming."
+        },
+        "date": "2026-10-01",
+        "end_date": "2026-10-31",
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://primariafetesti.ro/categorie/toamnafetesteana/"
+      },
+      {
+        "title": {
+          "de": "Stadtkultur in Fetești",
+          "hu": "Fetești városi kulturális programjai",
+          "ro": "Program cultural municipal Fetești",
+          "en": "Municipal cultural programming in Fetești"
+        },
+        "summary": {
+          "de": "Die Kulturseite der Stadt bündelt lokale Einrichtungen und Aktivitäten und dient als offizieller Einstiegspunkt für öffentliche Kulturangebote in Fetești.",
+          "hu": "A város kulturális oldala összegyűjti a helyi intézményeket és programokat, és hivatalos kiindulópontként szolgál a nyilvános kulturális kínálathoz Fetești-ben.",
+          "ro": "Pagina de cultură a municipiului reunește instituțiile și activitățile locale și funcționează ca punct oficial de intrare pentru oferta publică de cultură din Fetești.",
+          "en": "The municipality's culture page gathers local institutions and activities and serves as the official starting point for Fetești's public cultural offer."
+        },
+        "date": "2026-07-26",
+        "end_date": "2026-12-31",
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://primariafetesti.ro/municipiul-fetesti/cultura/"
+      }
+    ]
+  }
+]

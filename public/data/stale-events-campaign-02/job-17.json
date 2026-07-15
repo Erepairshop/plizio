@@ -1,0 +1,390 @@
+[
+  {
+    "id": "ro-poi-sfantu-gheorghe",
+    "events": [
+      {
+        "date": "2026-08-01",
+        "end_date": "2026-08-02",
+        "title": {
+          "de": "Kovasznaer Reittage, 8. Ausgabe",
+          "hu": "Kovászna megye lovasnapjai, 8. kiadás",
+          "ro": "Zilele ecvestre din județul Covasna, ediția a VIII-a",
+          "en": "Covasna County Equestrian Days, 8th edition"
+        },
+        "summary": {
+          "de": "Das zweitägige Reitsportprogramm bringt Anfang August Wettkämpfe und Vorführungen nach Kovászna und wird im offiziellen Veranstaltungskalender von Visit Covasna angekündigt.",
+          "hu": "A kétnapos lovas program augusztus elején versenyeket és bemutatókat kínál Kovásznában, és szerepel a Visit Covasna hivatalos eseménynaptárában.",
+          "ro": "Programul ecvestru de două zile aduce la începutul lui august competiții și demonstrații în județul Covasna și apare în calendarul oficial Visit Covasna.",
+          "en": "This two-day equestrian program brings competitions and demonstrations to Covasna County at the start of August and is listed in the official Visit Covasna calendar."
+        },
+        "source_url": "https://www.visitcovasna.com/covasna-county-s-equestrian-days-the-viiith-edition?locale=en"
+      },
+      {
+        "date": "2026-08-08",
+        "end_date": "2026-08-09",
+        "title": {
+          "de": "SUGAS 24H 2026",
+          "hu": "SUGAS 24H 2026",
+          "ro": "SUGAS 24H 2026",
+          "en": "SUGAS 24H 2026"
+        },
+        "summary": {
+          "de": "Das 24-Stunden-Mountainbike-Event startet und endet an der Izvorul-Elisabeta-Quelle in Șugaș Băi mit Zweierteams auf einer 9,8-km-Runde mit 232 Höhenmetern pro Runde.",
+          "hu": "A 24 órás hegyikerékpáros esemény Șugaș Băiban, az Erzsébet-forrásnál rajtol és ér célba; kétfős csapatok egy 9,8 kilométeres, körönként 232 méter szintemelkedésű pályán tekernek.",
+          "ro": "Evenimentul de mountain-bike de 24 de ore pornește și se încheie la Izvorul Elisabeta din Șugaș Băi, cu echipe de câte doi pe un circuit de 9,8 km și 232 m diferență de nivel pe tură.",
+          "en": "This 24-hour mountain-bike event starts and finishes at Izvorul Elisabeta in Șugaș Băi, with two-person teams riding a 9.8 km circuit with 232 m of elevation gain per lap."
+        },
+        "source_url": "https://www.visitcovasna.com/sugas-24h-2026-en?locale=en"
+      },
+      {
+        "date": "2026-09-11",
+        "end_date": "2026-09-12",
+        "title": {
+          "de": "Szekler-Galopp, 15. Ausgabe",
+          "hu": "Székely Vágta, 15. kiadás",
+          "ro": "Galopul Secuiesc, ediția a 15-a",
+          "en": "The Szekler Gallop, 15th edition"
+        },
+        "summary": {
+          "de": "Die Jubiläumsausgabe des traditionsreichen Reitfestes findet im September statt und legt den Schwerpunkt auf Pferde, Wettkämpfe und die Reitgemeinschaft der Region.",
+          "hu": "A hagyományos lovas ünnep jubileumi kiadása szeptemberben lesz, és a lovakra, a versenyekre és a lovas közösségre helyezi a hangsúlyt.",
+          "ro": "Ediția aniversară a acestei sărbători ecvestre tradiționale are loc în septembrie și pune accent pe competiții, cai și comunitatea pasionaților de echitație.",
+          "en": "The anniversary edition of this traditional equestrian celebration takes place in September and focuses on competitions, horses, and the riding community."
+        },
+        "source_url": "https://www.visitcovasna.com/the-szekler-gallop-15th-edition?locale=en"
+      }
+    ]
+  },
+  {
+    "id": "ibiza-town",
+    "events": [
+      {
+        "date": "2026-09-01",
+        "end_date": "2026-09-05",
+        "title": {
+          "de": "Eivissa Jazz 2026",
+          "hu": "Eivissa Jazz 2026",
+          "ro": "Eivissa Jazz 2026",
+          "en": "Eivissa Jazz 2026"
+        },
+        "summary": {
+          "de": "Die 38. Ausgabe des internationalen Jazzfestivals von Ibiza-Stadt läuft fünf Tage lang mit internationalen Künstlern und Konzerten in Dalt Vila.",
+          "hu": "Ibiza város nemzetközi jazzfesztiváljának 38. kiadása öt napon át zajlik nemzetközi fellépőkkel és koncertekkel Dalt Vilában.",
+          "ro": "A 38-a ediție a festivalului internațional de jazz din orașul Ibiza se desfășoară timp de cinci zile, cu artiști internaționali și concerte în Dalt Vila.",
+          "en": "The 38th edition of Ibiza Town's international jazz festival runs for five days with international artists and concerts in Dalt Vila."
+        },
+        "source_url": "https://www.eivissa.es/w/eivissa-jazz-aposta-pel-talent-emergent-en-la-seva-38a-edici%C3%B3-per-a-augmentar-la-seva-projecci%C3%B3-internacional"
+      },
+      {
+        "date": "2026-10-10",
+        "title": {
+          "de": "Die Ursprünge von Dalt Vila",
+          "hu": "Dalt Vila eredete",
+          "ro": "Originile orașului Dalt Vila",
+          "en": "The Origins of Dalt Vila"
+        },
+        "summary": {
+          "de": "Diese offizielle Kulturerbe-Route startet am MACE und erklärt anhand archäologischer Überreste die antiken Ursprünge und die historische Ausdehnung von Dalt Vila.",
+          "hu": "Ez a hivatalos örökségi séta a MACE múzeumnál indul, és régészeti maradványokon keresztül mutatja be Dalt Vila ókori eredetét és történeti kiterjedését.",
+          "ro": "Acest itinerar oficial de patrimoniu pornește de la MACE și explică, prin vestigii arheologice, originile antice și extinderea istorică a zonei Dalt Vila.",
+          "en": "This official heritage route starts at MACE and uses archaeological remains to explain the ancient origins and historical extent of Dalt Vila."
+        },
+        "source_url": "https://www.eivissa.es/es/agenda4/-/calendarsuite/event/1368437/UIjR3yOgQwa4"
+      },
+      {
+        "date": "2026-11-07",
+        "title": {
+          "de": "Die emblematischen Gebäude",
+          "hu": "Az emblematikus épületek",
+          "ro": "Clădirile emblematice",
+          "en": "The Emblematic Buildings"
+        },
+        "summary": {
+          "de": "Der offizielle Rundgang durch Dalt Vila beleuchtet zivile, militärische und religiöse Architektur und erklärt Entstehung, Funktionen und Symbolik der wichtigsten Bauten.",
+          "hu": "A Dalt Vilán át vezető hivatalos séta a polgári, katonai és vallási építészetet mutatja be, valamint a főbb épületek eredetét, funkcióit és szimbolikáját ismerteti.",
+          "ro": "Turul oficial prin Dalt Vila evidențiază arhitectura civilă, militară și religioasă și explică geneza, funcțiile și simbolistica principalelor clădiri.",
+          "en": "This official walk through Dalt Vila highlights civil, military, and religious architecture and explains the origins, functions, and symbolism of key buildings."
+        },
+        "source_url": "https://www.eivissa.es/es/agenda4/-/calendarsuite/event/1501474/UIjR3yOgQwa4?_as_asac_calendar_suite_CalendarSuitePortlet_INSTANCE_UIjR3yOgQwa4_priv_r_p_calendarBookingId=1501474&_as_asac_calendar_suite_CalendarSuitePortlet_INSTANCE_UIjR3yOgQwa4_priv_r_p_calendarPath=%2Fhtml%2Fsuite%2Fdisplays%2Fdetail.jsp"
+      },
+      {
+        "date": "2026-12-05",
+        "title": {
+          "de": "Ibiza, Welterbe",
+          "hu": "Ibiza világöröksége",
+          "ro": "Eivissa, patrimoniu mondial",
+          "en": "Ibiza, World Heritage"
+        },
+        "summary": {
+          "de": "Diese städtische Heritage-Tour verbindet Stadt und Landschaft und erklärt, warum Eivissa, Biodiversität und Kultur als gemischtes UNESCO-Welterbe anerkannt sind.",
+          "hu": "Ez a városi örökségtúra a várost és a tájat kapcsolja össze, és bemutatja, miért kapta Eivissa, Biodiverzitás és Kultúra a vegyes UNESCO világörökségi minősítést.",
+          "ro": "Acest itinerar municipal pune în legătură orașul și peisajul și explică de ce Eivissa, Biodiversitate și Cultură a fost recunoscută ca sit UNESCO mixt.",
+          "en": "This municipal heritage itinerary links the town with its landscape and explains why Eivissa, Biodiversity and Culture was recognized as a mixed UNESCO World Heritage site."
+        },
+        "source_url": "https://www.eivissa.es/es/agenda4/-/calendarsuite/event/1368467/UIjR3yOgQwa4"
+      },
+      {
+        "date": "2026-12-06",
+        "title": {
+          "de": "Theatralisierte Führung durch den alten Friedhof von Eivissa",
+          "hu": "Színházi vezetés Eivissa régi temetőjében",
+          "ro": "Vizită teatralizată în cimitirul vechi din Eivissa",
+          "en": "Theatrical tour of the old cemetery of Eivissa"
+        },
+        "summary": {
+          "de": "Ein szenischer Rundgang in katalanischer Sprache führt durch den historischen Friedhof von Ses Figueretes und erzählt von bekannten Persönlichkeiten und lokalen Bestattungstraditionen.",
+          "hu": "A katalán nyelvű színházi séta a ses Figueretes-i történelmi temetőn vezet végig, és ismert személyiségekről valamint helyi temetkezési hagyományokról mesél.",
+          "ro": "Turul teatralizat în limba catalană parcurge cimitirul istoric din ses Figueretes și prezintă personalități cunoscute și particularități ale tradițiilor funerare locale.",
+          "en": "This dramatized tour in Catalan explores the historic cemetery in ses Figueretes and introduces notable local figures and burial traditions."
+        },
+        "source_url": "https://www.eivissa.es/es/agenda-cementerios/-/calendarsuite/event/1450552/0z8DklP1qSKB?_as_asac_calendar_suite_CalendarSuitePortlet_INSTANCE_0z8DklP1qSKB_priv_r_p_calendarBookingId=1450552&_as_asac_calendar_suite_CalendarSuitePortlet_INSTANCE_0z8DklP1qSKB_priv_r_p_calendarPath=%2Fhtml%2Fsuite%2Fdisplays%2Fdetail.jsp"
+      }
+    ]
+  },
+  {
+    "id": "belfort",
+    "events": [
+      {
+        "date": "2026-07-26",
+        "end_date": "2026-08-30",
+        "title": {
+          "de": "Ein Sommer unter den Mauern",
+          "hu": "Nyár a falak alatt",
+          "ro": "O vară sub ziduri",
+          "en": "A Summer Under the Walls",
+          "fr": "Un été sous les remparts"
+        },
+        "summary": {
+          "de": "Das von der Stadt Belfort organisierte Sommerprogramm läuft bis Ende August mit Sport am Dienstag, Kinderangeboten am Mittwoch, Entdeckungsformaten am Donnerstag und Filmabenden am Freitag.",
+          "hu": "A Belfort városa által szervezett nyári programsorozat augusztus végéig tart, keddi sporttal, szerdai gyerekprogramokkal, csütörtöki felfedező eseményekkel és pénteki vetítésekkel.",
+          "ro": "Programul de vară organizat de orașul Belfort continuă până la sfârșitul lui august, cu activități sportive marțea, programe pentru copii miercurea, activități de descoperire joia și proiecții vinerea.",
+          "en": "The City of Belfort's summer program runs until the end of August with sports on Tuesdays, children's activities on Wednesdays, discovery sessions on Thursdays, and films on Fridays.",
+          "fr": "Le programme estival organisé par la Ville de Belfort se poursuit jusqu'à fin août avec du sport le mardi, des animations pour enfants le mercredi, des découvertes le jeudi et des séances de cinéma le vendredi."
+        },
+        "source_url": "https://www.belfort-tourisme.com/en/calendar/a-summer-under-the-walls-fmabfc000v53xkut/"
+      },
+      {
+        "date": "2026-08-02",
+        "title": {
+          "de": "Flohmarkt in der Altstadt",
+          "hu": "Régiségpiac az óvárosban",
+          "ro": "Târg de vechituri în orașul vechi",
+          "en": "Flea Market in the Old Town",
+          "fr": "Brocante de la vieille ville"
+        },
+        "summary": {
+          "de": "Der traditionsreiche Flohmarkt in der Altstadt findet laut Belfort Tourisme an jedem ersten Sonntag von März bis Dezember auf dem Place d'Armes statt.",
+          "hu": "A Belfort Tourisme szerint a régi városrész hagyományos bolhapiaca márciustól decemberig minden hónap első vasárnapján a Place d'Armes téren várja a látogatókat.",
+          "ro": "Potrivit Belfort Tourisme, tradiționalul târg de vechituri din orașul vechi are loc în fiecare primă duminică a lunii, din martie până în decembrie, în Place d'Armes.",
+          "en": "According to Belfort Tourisme, this longstanding old-town flea market takes place on Place d'Armes every first Sunday from March to December.",
+          "fr": "Selon Belfort Tourisme, cette brocante emblématique de la vieille ville se tient place d'Armes chaque premier dimanche du mois, de mars à décembre."
+        },
+        "source_url": "https://www.belfort-tourisme.com/en/calendar/flea-market-fmabfc000v51fgk1/"
+      },
+      {
+        "date": "2026-08-20",
+        "end_date": "2026-08-23",
+        "title": {
+          "de": "Festival Escales en Musique",
+          "hu": "Escales en Musique fesztivál",
+          "ro": "Festivalul Escales en Musique",
+          "en": "Escales en Musique Festival",
+          "fr": "Festival Escales en Musique"
+        },
+        "summary": {
+          "de": "Das mehrtägige Musikfestival verbindet vom 20. bis 23. August mehrere Orte im Territoire de Belfort und bringt Konzerte in Giromagny, Auxelles-Haut und Rougemont-le-Château.",
+          "hu": "A többnapos zenei fesztivál augusztus 20. és 23. között a Territoire de Belfort több helyszínét kapcsolja össze, koncertekkel Giromagnyban, Auxelles-Haut-ban és Rougemont-le-Château-ban.",
+          "ro": "Festivalul muzical de mai multe zile leagă între 20 și 23 august mai multe localități din Territoire de Belfort și aduce concerte la Giromagny, Auxelles-Haut și Rougemont-le-Château.",
+          "en": "This multi-day music festival connects several locations in the Territoire de Belfort from August 20 to 23, with concerts in Giromagny, Auxelles-Haut, and Rougemont-le-Château.",
+          "fr": "Ce festival musical de plusieurs jours relie plusieurs sites du Territoire de Belfort du 20 au 23 août, avec des concerts à Giromagny, Auxelles-Haut et Rougemont-le-Château."
+        },
+        "source_url": "https://www.belfort-tourisme.com/en/calendar/festival-escales-en-musique-fmabfc000v53hio6/"
+      }
+    ]
+  },
+  {
+    "id": "italy-pordenone-cities-v2",
+    "events": [
+      {
+        "date": "2026-07-09",
+        "end_date": "2026-09-03",
+        "title": {
+          "de": "Pordenone Blues & Co. Festival 2026",
+          "hu": "Pordenone Blues & Co. Fesztivál 2026",
+          "ro": "Pordenone Blues & Co. Festival 2026",
+          "en": "Pordenone Blues & Co. Festival 2026"
+        },
+        "summary": {
+          "de": "Das internationale Blues-Festival prägt den Kultursommer der Stadt vom 9. Juli bis 3. September mit Konzerten und Open-Air-Abenden im Rahmen von Estate a Pordenone.",
+          "hu": "A nemzetközi bluesfesztivál július 9. és szeptember 3. között koncertekkel és szabadtéri estekkel alakítja a város kulturális nyarát az Estate a Pordenone program részeként.",
+          "ro": "Festivalul internațional de blues marchează vara culturală a orașului între 9 iulie și 3 septembrie, cu concerte și seri în aer liber în cadrul Estate a Pordenone.",
+          "en": "This international blues festival shapes the city's cultural summer from July 9 to September 3 with concerts and open-air evenings as part of Estate a Pordenone."
+        },
+        "source_url": "https://www.comune.pordenone.it/it/vivere-pordenone/eventi/pordenone-blues-festival-2026"
+      },
+      {
+        "date": "2026-08-26",
+        "end_date": "2026-08-30",
+        "title": {
+          "de": "Music in Village 2026",
+          "hu": "Music in Village 2026",
+          "ro": "Music in Village 2026",
+          "en": "Music in Village 2026"
+        },
+        "summary": {
+          "de": "Das kostenlose Festival im Parco IV Novembre kehrt Ende August mit fünf Abenden Live-Musik als Teil von Estate a Pordenone zurück.",
+          "hu": "Az ingyenes fesztivál augusztus végén tér vissza a Parco IV Novembre parkba öt élőzenei esttel, az Estate a Pordenone programsorozat részeként.",
+          "ro": "Festivalul gratuit din Parco IV Novembre revine la sfârșitul lui august cu cinci seri de muzică live, în cadrul Estate a Pordenone.",
+          "en": "This free festival returns to Parco IV Novembre at the end of August with five nights of live music as part of Estate a Pordenone."
+        },
+        "source_url": "https://www.comune.pordenone.it/it/vivere-pordenone/eventi/music-in-village-2026"
+      },
+      {
+        "date": "2026-08-26",
+        "title": {
+          "de": "Alborosie & The Shengen Clan",
+          "hu": "Alborosie & The Shengen Clan",
+          "ro": "Alborosie & The Shengen Clan",
+          "en": "Alborosie & The Shengen Clan"
+        },
+        "summary": {
+          "de": "Die Reggae-Band eröffnet das Music in Village 2026 im Parco IV Novembre und startet die Konzertreihe mit einem kostenlosen Abendprogramm.",
+          "hu": "A reggae-zenekar a Parco IV Novembre helyszínén nyitja meg a Music in Village 2026 fesztivált egy ingyenes koncertesttel.",
+          "ro": "Trupa reggae deschide Music in Village 2026 în Parco IV Novembre și lansează seria de concerte cu o seară cu acces gratuit.",
+          "en": "The reggae band opens Music in Village 2026 at Parco IV Novembre, launching the concert series with a free evening show."
+        },
+        "source_url": "https://www.comune.pordenone.it/it/vivere-pordenone/eventi/music-in-village-2026/alborosie-the-shengen-clan"
+      },
+      {
+        "date": "2026-08-28",
+        "title": {
+          "de": "Marlene Kuntz",
+          "hu": "Marlene Kuntz",
+          "ro": "Marlene Kuntz",
+          "en": "Marlene Kuntz"
+        },
+        "summary": {
+          "de": "Die italienische Rockband spielt am 28. August beim Music in Village 2026 und feiert dort den 30. Jahrestag des Albums \"Il Vile\".",
+          "hu": "Az olasz rockzenekar augusztus 28-án lép fel a Music in Village 2026 fesztiválon, és ott ünnepli az \"Il Vile\" album 30. évfordulóját.",
+          "ro": "Trupa italiană de rock cântă pe 28 august la Music in Village 2026 și marchează acolo 30 de ani de la albumul \"Il Vile\".",
+          "en": "The Italian rock band performs at Music in Village 2026 on August 28, marking the 30th anniversary of the album \"Il Vile\"."
+        },
+        "source_url": "https://www.comune.pordenone.it/it/vivere-pordenone/eventi/music-in-village-2026/marlene-kuntz"
+      },
+      {
+        "date": "2026-09-05",
+        "title": {
+          "de": "Geführte Besuche der Ausstellung \"Toppi. Le profondità verticali\"",
+          "hu": "Vezetett látogatások a \"Toppi. Le profondità verticali\" kiállításon",
+          "ro": "Vizite ghidate la expoziția \"Toppi. Le profondità verticali\"",
+          "en": "Guided visits to the exhibition \"Toppi. Le profondità verticali\""
+        },
+        "summary": {
+          "de": "Im Palazzo del Fumetto bietet Pordenone im Spätsommer mehrere offizielle Führungen durch die Toppi-Ausstellung an, darunter einen Termin am 5. September.",
+          "hu": "A Palazzo del Fumetto a nyár végén több hivatalos tárlatvezetést kínál a Toppi-kiállításon, köztük egyet szeptember 5-én.",
+          "ro": "La Palazzo del Fumetto, Pordenone organizează la sfârșitul verii mai multe vizite ghidate oficiale ale expoziției Toppi, inclusiv una pe 5 septembrie.",
+          "en": "At the Palazzo del Fumetto, Pordenone offers several official late-summer guided tours of the Toppi exhibition, including one on September 5."
+        },
+        "source_url": "https://www.comune.pordenone.it/it/vivere-pordenone/eventi/palazzo-del-fumetto/visite-guidate-alla-mostra-toppi-le-profondita-verticali"
+      }
+    ]
+  },
+  {
+    "id": "blois",
+    "events": [
+      {
+        "date": "2026-07-31",
+        "end_date": "2026-08-31",
+        "title": {
+          "de": "Ton- und Lichtshow im Königsschloss Blois",
+          "hu": "Fény- és hangjáték a blois-i királyi kastélynál",
+          "ro": "Spectacol son et lumière la Castelul Regal din Blois",
+          "en": "Sound and Light Show at the Royal Château of Blois",
+          "fr": "Son et lumière au Château royal de Blois"
+        },
+        "summary": {
+          "de": "Die abendliche Projektion im Schloss läuft im Hochsommer täglich weiter; die offizielle Seite bestätigt Vorstellungen bis 31. August und anschließend erneut im September.",
+          "hu": "Az esti kastélyvetítés a nyár csúcsán naponta folytatódik; a hivatalos oldal augusztus 31-ig, majd szeptemberben ismét megerősíti az előadásokat.",
+          "ro": "Proiecția de seară de la castel continuă zilnic în plin sezon; pagina oficială confirmă reprezentații până la 31 august și apoi din nou în septembrie.",
+          "en": "The château's evening projection continues daily through peak summer; the official page confirms performances until August 31 and then again in September.",
+          "fr": "La projection nocturne du château se poursuit chaque soir en haute saison ; la page officielle confirme des représentations jusqu'au 31 août puis à nouveau en septembre."
+        },
+        "source_url": "https://www.bloischambord.com/en/tours-and-activities/our-heritage/sound-and-light-show-blois-en-1528581/"
+      },
+      {
+        "date": "2026-08-20",
+        "end_date": "2026-08-21",
+        "title": {
+          "de": "Burleske Umzüge im Schloss: \"Lâcher de bouffons\"",
+          "hu": "Bolondok elszabadulása - burleszk séták a kastélyban",
+          "ro": "Plimbări burlești la castel: \"Lâcher de bouffons\"",
+          "en": "Burlesque Walks at the Château: \"Lâcher de bouffons\"",
+          "fr": "Déambulations burlesques au château : \"Lâcher de bouffons\""
+        },
+        "summary": {
+          "de": "Das Königsschloss veranstaltet im August zwei burleske Besuchstage, die das historische Monument mit inszenierten Rundgängen und Unterhaltung beleben.",
+          "hu": "A királyi kastély augusztusban két burleszk látogatási napot rendez, amelyek színpadi sétákkal és szórakoztató elemekkel elevenítik meg a műemléket.",
+          "ro": "Castelul regal organizează în august două zile de vizite burlești, care animă monumentul istoric prin trasee jucate și divertisment.",
+          "en": "The royal château stages two August days of burlesque visits that animate the historic monument with theatrical walks and entertainment.",
+          "fr": "Le château royal propose en août deux journées de déambulations burlesques qui animent le monument historique avec des parcours mis en scène et des divertissements."
+        },
+        "source_url": "https://www.bloischambord.com/en/le-mag/agenda/deambulations-burlesques-au-chateau-lacher-de-bouffons-blois-en-6383863/"
+      },
+      {
+        "date": "2026-08-27",
+        "title": {
+          "de": "Sommerlicher Nachtmarkt",
+          "hu": "Nyári esti piac",
+          "ro": "Piață nocturnă de vară",
+          "en": "Summer Night Market",
+          "fr": "Marché nocturne d'été"
+        },
+        "summary": {
+          "de": "Der Nachtmarkt auf dem Place Louis XII findet laut offizieller Agenda jeden Donnerstag bis 27. August von 17 bis 23 Uhr statt.",
+          "hu": "A Place Louis XII téren rendezett esti piac a hivatalos program szerint minden csütörtökön, augusztus 27-ig 17 és 23 óra között várja a látogatókat.",
+          "ro": "Piața nocturnă din Place Louis XII are loc, potrivit agendei oficiale, în fiecare joi până la 27 august, între orele 17:00 și 23:00.",
+          "en": "According to the official agenda, the night market on Place Louis XII takes place every Thursday until August 27 from 5 p.m. to 11 p.m.",
+          "fr": "Selon l'agenda officiel, le marché nocturne de la place Louis XII se tient chaque jeudi jusqu'au 27 août, de 17 h à 23 h."
+        },
+        "source_url": "https://www.bloischambord.com/en/le-mag/agenda/marche-nocturne-2026-blois-en-6457092/"
+      },
+      {
+        "date": "2026-09-03",
+        "end_date": "2026-09-06",
+        "title": {
+          "de": "Schulanfangs-Ausverkauf in Blois",
+          "hu": "Őszi boltkirakodás Blois-ban",
+          "ro": "Braderie de rentrée la Blois",
+          "en": "Back-to-School Sidewalk Sale in Blois",
+          "fr": "Braderie de rentrée à Blois"
+        },
+        "summary": {
+          "de": "Die mehrtägige Innenstadt-Braderie läuft Anfang September vier Tage lang mit langen Öffnungszeiten von 10 bis 19 Uhr.",
+          "hu": "A többnapos belvárosi árusítás szeptember elején négy napon át tart, naponta 10 és 19 óra közötti nyitvatartással.",
+          "ro": "Braderia de început de toamnă din centrul orașului se desfășoară la începutul lui septembrie timp de patru zile, cu program 10:00-19:00.",
+          "en": "This multi-day city-center sidewalk sale runs for four days at the start of September with daily opening hours from 10 a.m. to 7 p.m.",
+          "fr": "Cette braderie du centre-ville se déroule pendant quatre jours au début de septembre avec des horaires de 10 h à 19 h."
+        },
+        "source_url": "https://www.bloischambord.com/en/le-mag/agenda/braderie-de-rentree-blois-en-6661618/"
+      },
+      {
+        "date": "2026-09-12",
+        "title": {
+          "de": "Großes königliches Konzert im Schloss",
+          "hu": "Nagy királyi koncert a kastélyban",
+          "ro": "Marele concert regal la castel",
+          "en": "Grand Royal Concert at the Château",
+          "fr": "Grand concert royal au château"
+        },
+        "summary": {
+          "de": "Am 12. September empfängt das Königsschloss Blois ein großes Abendkonzert auf seinem historischen Gelände.",
+          "hu": "Szeptember 12-én a blois-i királyi kastély nagy esti koncertnek ad otthont történelmi helyszínén.",
+          "ro": "Pe 12 septembrie, Castelul Regal din Blois găzduiește un mare concert de seară în incinta sa istorică.",
+          "en": "On September 12, the Royal Château of Blois hosts a major evening concert in its historic setting.",
+          "fr": "Le 12 septembre, le Château royal de Blois accueille un grand concert en soirée dans son cadre historique."
+        },
+        "source_url": "https://www.bloischambord.com/en/le-mag/agenda/grand-concert-royal-au-chateau-blois-en-6383867/"
+      }
+    ]
+  }
+]

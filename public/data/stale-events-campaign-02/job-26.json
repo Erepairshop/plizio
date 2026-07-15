@@ -1,0 +1,442 @@
+[
+  {
+    "id": "city-sighetu-marmatiei-extra",
+    "events": [
+      {
+        "date": "2026-07-29",
+        "end_date": "2026-07-30",
+        "category": "Festival",
+        "title": {
+          "de": "Mittelalterfestival „Eternul Maramureș“",
+          "hu": "„Eternul Maramureș” középkori fesztivál",
+          "ro": "Festivalul Medieval „Eternul Maramureș”",
+          "en": "“Eternul Maramureș” Medieval Festival"
+        },
+        "summary": {
+          "de": "Das Sommerprogramm der Stadt kündigt Ende Juli zwei Tage Mittelalterfestival im Zentralpark von Sighetu Marmației an, mit historischen Darbietungen im öffentlichen Raum.",
+          "hu": "A város nyári programja július végére kétnapos középkori fesztivált hirdet a sigheti Központi Parkba, történelmi hangulatú nyilvános programokkal.",
+          "ro": "Programul de vară al municipiului anunță pentru finalul lunii iulie două zile de festival medieval în Parcul Central din Sighetu Marmației, cu activități publice cu tematică istorică.",
+          "en": "The city’s summer program schedules two days of medieval-themed public events in Sighetu Marmației’s Central Park at the end of July."
+        },
+        "source_url": "https://www.primaria-sighet.ro/ro/articol?slug=evenimentele-culturale-ale-verii-la-sighetu-marmatiei"
+      },
+      {
+        "date": "2026-08-01",
+        "category": "Culture",
+        "title": {
+          "de": "Internationales Folklorefestival „MARA“ 2026",
+          "hu": "„MARA” Nemzetközi Folklórfesztivál 2026",
+          "ro": "Festivalul Internațional de Folclor „MARA” 2026",
+          "en": "“MARA” International Folklore Festival 2026"
+        },
+        "summary": {
+          "de": "Am 1. August öffnet im Zentralpark das Folklorefestival „MARA“ mit Trachten, Musik und traditionellen Tänzen aus Maramureș und darüber hinaus.",
+          "hu": "Augusztus 1-jén a Központi Parkban nyílik meg a „MARA” folklórfesztivál népviseletekkel, zenével és hagyományos táncokkal.",
+          "ro": "La 1 august, în Parcul Central se deschide festivalul „MARA”, dedicat portului popular, muzicii și dansurilor tradiționale.",
+          "en": "On August 1, Central Park hosts the opening of the “MARA” festival, focused on folk costume, music, and traditional dance."
+        },
+        "source_url": "https://www.centrulculturalsighet.ro/evenimente/festivalul-international-de-folclor-mara-2026"
+      },
+      {
+        "date": "2026-08-01",
+        "end_date": "2026-08-02",
+        "category": "Market",
+        "title": {
+          "de": "Handwerkermarkt in Sighetu Marmației",
+          "hu": "Kézműves vásár Sighetu Marmațieiben",
+          "ro": "Târgul Meșteșugarilor",
+          "en": "Crafts Fair"
+        },
+        "summary": {
+          "de": "Der zweitägige Markt im Zentralpark bringt traditionelle Handwerker, Kunsthandwerk und familienfreundliche Entdeckungen rund um maramureșische Techniken zusammen.",
+          "hu": "A kétnapos vásár a Központi Parkban hagyományos mesterségeket, kézműves portékákat és családbarát felfedeznivalót kínál.",
+          "ro": "Târgul din Parcul Central reunește timp de două zile meșteșugari, creații autentice și demonstrații inspirate din tradițiile maramureșene.",
+          "en": "This two-day fair in Central Park brings together artisans, traditional crafts, and hands-on encounters with Maramureș heritage."
+        },
+        "source_url": "https://www.centrulculturalsighet.ro/evenimente/targul-mestesugarilor-traditia-prinde-viata-la-sighetu-marmatiei"
+      },
+      {
+        "date": "2026-08-11",
+        "category": "Art",
+        "title": {
+          "de": "„Wir schleifen heute für die Kunst von morgen“",
+          "hu": "„Ma csiszolunk a holnap művészetéért”",
+          "ro": "„Șlefuim azi pentru arta de mâine”",
+          "en": "“We Polish Today for Tomorrow’s Art”"
+        },
+        "summary": {
+          "de": "Im offiziellen Sommerprogramm ist für den 11. August eine Kunstveranstaltung der Asociația Ancestral in Sighetu Marmației aufgeführt.",
+          "hu": "A hivatalos nyári program augusztus 11-re az Asociația Ancestral művészeti rendezvényét sorolja fel Sighetu Marmațieiben.",
+          "ro": "Programul oficial de vară include la 11 august evenimentul „Șlefuim azi pentru arta de mâine”, organizat de Asociația Ancestral.",
+          "en": "The official summer program lists “We Polish Today for Tomorrow’s Art,” organized by Asociația Ancestral, for August 11."
+        },
+        "source_url": "https://www.primaria-sighet.ro/ro/articol?slug=evenimentele-culturale-ale-verii-la-sighetu-marmatiei"
+      },
+      {
+        "date": "2026-08-15",
+        "end_date": "2026-08-16",
+        "category": "Music",
+        "title": {
+          "de": "Nationales Folk-Musikfestival „Floare de Colț“",
+          "hu": "„Floare de Colț” országos folkzenei fesztiválverseny",
+          "ro": "Festivalul-Concurs Național de Muzică Folk „Floare de Colț”",
+          "en": "National Folk Music Festival-Contest “Floare de Colț”"
+        },
+        "summary": {
+          "de": "Die 14. Ausgabe des Folk-Wettbewerbs findet Mitte August im Park Grădina Morii statt und richtet sich an Besucherinnen und Besucher, die Live-Musik im Freien suchen.",
+          "hu": "A folkverseny 14. kiadását augusztus közepén a Grădina Morii parkban rendezik meg szabadtéri élő zenével.",
+          "ro": "Ediția a XIV-a a festivalului-concurs se desfășoară în Parcul „Grădina Morii”, cu două zile dedicate muzicii folk și concurenților din țară.",
+          "en": "The 14th edition of the folk festival-competition takes place in Grădina Morii Park, offering two days of live folk performances."
+        },
+        "source_url": "https://www.centrulculturalsighet.ro/evenimente/inscrieri-la-festivalul-concurs-national-de-muzica-folk-floare-de-colt-2026"
+      }
+    ]
+  },
+  {
+    "id": "chartres",
+    "events": [
+      {
+        "date": "2026-04-11",
+        "end_date": "2027-01-03",
+        "category": "LightShow",
+        "title": {
+          "de": "Chartres en lumières 2026",
+          "hu": "Chartres en lumières 2026",
+          "ro": "Chartres en lumières 2026",
+          "en": "Chartres en lumières 2026",
+          "fr": "Chartres en lumières 2026"
+        },
+        "summary": {
+          "de": "Die Stadt illuminiert vom Frühjahr bis Anfang Januar zahlreiche Wahrzeichen, darunter Kathedrale, Theater und Ufer der Eure.",
+          "hu": "A város tavasztól január elejéig számos nevezetességet fényinstallációkkal világít meg, köztük a katedrálist és az Eure partját.",
+          "ro": "Orașul iluminează din primăvară până la început de ianuarie numeroase monumente, inclusiv catedrala, teatrul și malurile Eurei.",
+          "en": "From spring to early January, the city lights up major landmarks including the cathedral, theatre, and the Eure riverbanks.",
+          "fr": "La ville illumine du printemps jusqu’au début janvier de nombreux sites patrimoniaux, dont la cathédrale, le théâtre et les bords de l’Eure."
+        },
+        "source_url": "https://www.chartres.fr/agenda/detail/chartres-en-lumieres-2026-leclat-du-patrimoine"
+      },
+      {
+        "date": "2026-07-03",
+        "end_date": "2026-08-22",
+        "category": "Music",
+        "title": {
+          "de": "ChartrEstivales 2026",
+          "hu": "ChartrEstivales 2026",
+          "ro": "ChartrEstivales 2026",
+          "en": "ChartrEstivales 2026",
+          "fr": "ChartrEstivales 2026"
+        },
+        "summary": {
+          "de": "Die kostenlose Sommerreihe bringt bis 22. August allabendlich Konzerte und Musikabende in die Innenstadt von Chartres.",
+          "hu": "Az ingyenes nyári sorozat augusztus 22-ig esti koncertekkel és zenei programokkal tölti meg Chartres belvárosát.",
+          "ro": "Seria estivală gratuită aduce până pe 22 august concerte și seri muzicale în centrul orașului Chartres.",
+          "en": "This free summer series fills central Chartres with evening concerts and music events through August 22.",
+          "fr": "Cette série estivale gratuite propose jusqu’au 22 août des concerts et soirées musicales dans le centre-ville de Chartres."
+        },
+        "source_url": "https://www.chartres.fr/agenda/detail/chartrestivales-2026-on-va-sauver-la-planete-celtic-seven-viviane-the-woodpeckers-cchartres-en-choeur-the-froggyz-orchestre-oasis"
+      },
+      {
+        "date": "2026-07-17",
+        "end_date": "2026-08-14",
+        "period": {
+          "recurrent": true
+        },
+        "category": "Tour",
+        "title": {
+          "de": "Chartres en lumières im Kanu",
+          "hu": "Chartres en lumières kenuval",
+          "ro": "Chartres en lumières cu canoea",
+          "en": "Chartres en lumières by canoe",
+          "fr": "Chartres en lumières en canoë"
+        },
+        "summary": {
+          "de": "Geführte Abendfahrten auf dem Wasser verbinden das Lichtspektakel mit einer ungewöhnlichen Perspektive auf Chartres.",
+          "hu": "Az esti vezetett kenutúrák a fényfesztivált különleges vízi nézőponttal kapcsolják össze.",
+          "ro": "Tururile ghidate de seară pe apă oferă o perspectivă neobișnuită asupra iluminărilor din Chartres.",
+          "en": "These guided evening canoe outings offer an unusual water-level view of the illuminated city.",
+          "fr": "Ces sorties guidées en soirée permettent de découvrir les illuminations depuis l’eau, sous un angle original."
+        },
+        "source_url": "https://www.chartres.fr/agenda/detail/chartres-en-lumieres-en-canoe"
+      },
+      {
+        "date": "2026-08-30",
+        "category": "Heritage",
+        "title": {
+          "de": "82. Jahrestag der Befreiung von Chartres",
+          "hu": "Chartres felszabadításának 82. évfordulója",
+          "ro": "A 82-a aniversare a eliberării orașului Chartres",
+          "en": "82nd anniversary of the Liberation of Chartres",
+          "fr": "82e anniversaire de la Libération de Chartres"
+        },
+        "summary": {
+          "de": "Die Stadt organisiert eine offizielle Gedenkzeremonie zur Befreiung von Chartres mit städtischen und staatlichen Vertretern.",
+          "hu": "A város hivatalos megemlékezést szervez Chartres felszabadításának évfordulójára önkormányzati és állami részvétellel.",
+          "ro": "Orașul organizează o ceremonie oficială de comemorare a eliberării municipiului Chartres, cu participare instituțională.",
+          "en": "The city hosts an official commemoration marking the liberation of Chartres, attended by municipal and state representatives.",
+          "fr": "La Ville organise une cérémonie officielle pour commémorer la Libération de Chartres, en présence des autorités."
+        },
+        "source_url": "https://www.chartres.fr/agenda/detail/ceremonie-officielle-du-82e-anniversaire-de-la-liberation-de-chartres"
+      },
+      {
+        "date": "2026-09-05",
+        "end_date": "2026-09-06",
+        "category": "Fair",
+        "title": {
+          "de": "Salon des associations 2026",
+          "hu": "Egyesületek vására 2026",
+          "ro": "Salonul asociațiilor 2026",
+          "en": "Associations Fair 2026",
+          "fr": "Salon des associations 2026"
+        },
+        "summary": {
+          "de": "Anfang September präsentieren sich Vereine und lokale Gruppen auf der butte des Charbonniers und der place Châtelet.",
+          "hu": "Szeptember elején egyesületek és helyi csoportok mutatkoznak be a butte des Charbonniers és a place Châtelet területén.",
+          "ro": "La început de septembrie, asociațiile și grupurile locale se prezintă publicului pe butte des Charbonniers și în place Châtelet.",
+          "en": "In early September, associations and local groups showcase their activities on the Butte des Charbonniers and Place Châtelet.",
+          "fr": "Début septembre, les associations et groupes locaux présentent leurs activités sur la butte des Charbonniers et la place Châtelet."
+        },
+        "source_url": "https://www.chartres-metropole.fr/les-actualites/agenda/detail/salon-des-associations-2026-de-chartres"
+      }
+    ]
+  },
+  {
+    "id": "city-mangalia-extra",
+    "events": [
+      {
+        "date": "2026-07-29",
+        "end_date": "2026-08-02",
+        "category": "Market",
+        "title": {
+          "de": "Antiquitäten- und Handmade-Markt im Tourismushafen",
+          "hu": "Régiség- és kézműves vásár a turisztikai kikötőben",
+          "ro": "Târg de Antichități și Handmade",
+          "en": "Antiques and Handmade Fair"
+        },
+        "summary": {
+          "de": "Der offizielle Veranstaltungskalender kündigt einen mehrtägigen Markt mit Antiquitäten, Vintage-Schmuck, Schallplatten, Dekor und Kinderatelier im Portul Turistic an.",
+          "hu": "A hivatalos eseménynaptár többnapos régiség- és kézműves vásárt jelez a turisztikai kikötő parkjának sétányán.",
+          "ro": "Calendarul oficial al evenimentelor anunță la Portul Turistic un târg cu obiecte de colecție, bijuterii vintage, decorațiuni și atelier pentru copii.",
+          "en": "The official city events program schedules a multi-day fair in the tourist port with collectibles, vintage jewellery, decor, and a children’s workshop."
+        },
+        "source_url": "https://mangalia.ro/wp-content/uploads/2026/02/HCL-76.pdf"
+      },
+      {
+        "date": "2026-08-12",
+        "end_date": "2026-08-16",
+        "category": "Market",
+        "title": {
+          "de": "Sommerausgabe des Antiquitäten- und Handmade-Markts",
+          "hu": "Nyári régiség- és kézműves vásár",
+          "ro": "Târg de Antichități și Handmade - ediția de august",
+          "en": "August Antiques and Handmade Fair"
+        },
+        "summary": {
+          "de": "Eine weitere offizielle Ausgabe des Markts bringt Mitte August Antiquitäten, Kunsthandwerk und Familienangebote in den Tourismushafen von Mangalia.",
+          "hu": "A vásár újabb hivatalos kiadása augusztus közepén régiségeket, kézműves termékeket és családi programokat hoz Mangalia turisztikai kikötőjébe.",
+          "ro": "O nouă ediție oficială a târgului aduce la mijlocul lunii august în Portul Turistic obiecte de colecție, handmade și activități pentru familii.",
+          "en": "A second official edition of the fair returns to Mangalia’s tourist port in mid-August with antiques, handmade goods, and family-friendly browsing."
+        },
+        "source_url": "https://mangalia.ro/wp-content/uploads/2026/02/HCL-76.pdf"
+      },
+      {
+        "date": "2026-09-17",
+        "end_date": "2026-09-20",
+        "category": "Food&Wine",
+        "title": {
+          "de": "Herbstfestival im Tourismushafen",
+          "hu": "Őszi fesztivál a turisztikai kikötőben",
+          "ro": "Festivalul Toamnei",
+          "en": "Autumn Festival"
+        },
+        "summary": {
+          "de": "Das Herbstfestival versammelt lokale Produzenten, Honig- und Obststände, Grillterrassen sowie handwerkliche Spezialitäten aus mehreren Landkreisen.",
+          "hu": "Az őszi fesztivál helyi termelőket, mézes és gyümölcsös standokat, grillteraszokat és kézműves finomságokat gyűjt össze.",
+          "ro": "Festivalul reunește producători locali de legume, fructe, miere și alte produse artizanale, alături de terase și standuri gastronomice.",
+          "en": "This autumn fair brings together local produce sellers, honey and fruit stands, grills, and regional specialty vendors in the tourist port."
+        },
+        "source_url": "https://mangalia.ro/wp-content/uploads/2026/02/HCL-76.pdf"
+      },
+      {
+        "date": "2026-11-28",
+        "end_date": "2026-12-24",
+        "category": "Christmas",
+        "title": {
+          "de": "Weihnachtsmarkt Mangalia 2026",
+          "hu": "Mangaliai karácsonyi vásár 2026",
+          "ro": "Târg de Crăciun",
+          "en": "Mangalia Christmas Market"
+        },
+        "summary": {
+          "de": "Der offizielle Markt im Zentrum bietet festlich dekorierte Holzhäuschen, saisonale Produkte und ein Weihnachtsprogramm für Besucherinnen und Besucher.",
+          "hu": "A központi hivatalos adventi vásár ünnepi faházakkal, szezonális termékekkel és karácsonyi hangulattal várja a látogatókat.",
+          "ro": "Târgul oficial din centru include căsuțe de lemn decorate, produse de sezon și program de sărbătoare pentru public.",
+          "en": "The official central Christmas market features decorated wooden stalls, seasonal goods, and a festive holiday atmosphere."
+        },
+        "source_url": "https://mangalia.ro/wp-content/uploads/2026/02/HCL-76.pdf"
+      },
+      {
+        "date": "2026-12-13",
+        "category": "Culture",
+        "title": {
+          "de": "Tag der Tataren",
+          "hu": "A tatárok napja",
+          "ro": "Ziua Tătarilor",
+          "en": "Day of the Tatars"
+        },
+        "summary": {
+          "de": "Die Stadt plant einen Kulturabend mit tatarenkünstlerischen Darbietungen und Ensembles als öffentliche Feier der lokalen Gemeinschaft.",
+          "hu": "A város tatár művészekkel és együttesekkel szervez kulturális ünnepet a helyi közösség számára.",
+          "ro": "Municipalitatea programează un spectacol cu artiști și ansambluri tătărești, dedicat comunității locale și vizitatorilor.",
+          "en": "The municipality schedules a public cultural event with Tatar artists and ensembles celebrating the local community."
+        },
+        "source_url": "https://mangalia.ro/wp-content/uploads/2026/02/HCL-76.pdf"
+      }
+    ]
+  },
+  {
+    "id": "romania-medias-cities-v2",
+    "events": [
+      {
+        "date": "2026-07-31",
+        "category": "Comedy",
+        "title": {
+          "de": "„Rămas pe vară“ mit Nae Nicolae und Popica",
+          "hu": "„Rămas pe vară” Nae Nicolae és Popica stand-up estje",
+          "ro": "„Rămas pe vară” - stand-up cu Nae Nicolae și Popica",
+          "en": "“Rămas pe vară” stand-up with Nae Nicolae and Popica"
+        },
+        "summary": {
+          "de": "Im Traube Hotel & Restaurant startet der Sommerabend mit einer Stand-up-Show des Duos Nae Nicolae und Popica.",
+          "hu": "A Traube Hotel & Restaurant nyári teraszán Nae Nicolae és Popica stand-up estje várja a közönséget.",
+          "ro": "La Traube Hotel & Restaurant este programat un spectacol de stand-up cu Nae Nicolae și Popica, pe terasa locației.",
+          "en": "Traube Hotel & Restaurant hosts a summer stand-up evening with comedians Nae Nicolae and Popica."
+        },
+        "source_url": "https://www.iabilet.ro/bilete-medias-ramas-pe-vara-stand-up-cu-nae-nicolae-si-popica-127673/"
+      },
+      {
+        "date": "2026-09-04",
+        "category": "Comedy",
+        "title": {
+          "de": "Stand-up mit Dan Țuțu und Cristi Manolescu",
+          "hu": "Dan Țuțu és Cristi Manolescu stand-up estje",
+          "ro": "Stand-up Comedy - Dan Țuțu și Cristi Manolescu",
+          "en": "Stand-up Comedy with Dan Țuțu and Cristi Manolescu"
+        },
+        "summary": {
+          "de": "Das Traube Hotel & Restaurant kündigt für Anfang September einen Live-Comedy-Abend mit Dan Țuțu und Cristi Manolescu an.",
+          "hu": "A Traube Hotel & Restaurant szeptember elejére élő stand-up műsort hirdet Dan Țuțuval és Cristi Manolescuval.",
+          "ro": "Traube Hotel & Restaurant programează pentru începutul lui septembrie un show live de stand-up cu Dan Țuțu și Cristi Manolescu.",
+          "en": "At the start of September, Traube Hotel & Restaurant presents a live stand-up show with Dan Țuțu and Cristi Manolescu."
+        },
+        "source_url": "https://m.iabilet.ro/bilete-medias-stand-up-comedy-dan-tutu-si-cristi-manolescu-128076/?ica_campaign=medias&ica_medium=mobile&ica_source=TownPage&ica_term="
+      },
+      {
+        "date": "2026-10-16",
+        "category": "Music",
+        "title": {
+          "de": "3 Sud Est - „Amintiri pentru o viață“",
+          "hu": "3 Sud Est - „Amintiri pentru o viață”",
+          "ro": "Concert 3 Sud Est - „Amintiri pentru o viață”",
+          "en": "3 Sud Est - “Amintiri pentru o viață” concert"
+        },
+        "summary": {
+          "de": "Die Popband 3 Sud Est bringt ihre Tour „Amintiri pentru o viață“ in die Sala Traube nach Mediaș.",
+          "hu": "A 3 Sud Est a „Amintiri pentru o viață” turnéval érkezik a mediași Sala Traube színpadára.",
+          "ro": "Trupa 3 Sud Est continuă turneul „Amintiri pentru o viață” cu un concert programat la Sala Traube din Mediaș.",
+          "en": "The pop group 3 Sud Est brings its “Amintiri pentru o viață” tour to Sala Traube in Mediaș."
+        },
+        "source_url": "https://www.iabilet.ro/bilete-medias-concert-3-sud-est-amintiri-pentru-o-viata-128643/?ica_campaign=Sala+Traube&ica_medium=mobile&ica_source=VenuePage&ica_term=&nomobile=1"
+      }
+    ]
+  },
+  {
+    "id": "wurselen",
+    "events": [
+      {
+        "date": "2026-07-29",
+        "category": "Film",
+        "title": {
+          "de": "Open-Air-Kino: „Horst Schlämmer sucht das Glück“",
+          "hu": "Szabadtéri mozi: „Horst Schlämmer sucht das Glück”",
+          "ro": "Cinema în aer liber: „Horst Schlämmer sucht das Glück”",
+          "en": "Open-air cinema: “Horst Schlämmer sucht das Glück”"
+        },
+        "summary": {
+          "de": "Auf Burg Wilhelmstein läuft Ende Juli ein Open-Air-Kinoabend mit der Komödie „Horst Schlämmer sucht das Glück“.",
+          "hu": "Július végén a Burg Wilhelmstein szabadtéri vetítésen mutatja be a „Horst Schlämmer sucht das Glück” című filmet.",
+          "ro": "La Burg Wilhelmstein este programată la final de iulie o proiecție open-air a filmului „Horst Schlämmer sucht das Glück”.",
+          "en": "Burg Wilhelmstein screens “Horst Schlämmer sucht das Glück” as part of its late-July open-air cinema program."
+        },
+        "source_url": "https://www.burg-wilhelmstein.com/tickets-3/"
+      },
+      {
+        "date": "2026-07-30",
+        "category": "Film",
+        "title": {
+          "de": "Open-Air-Kino: „Mamma Mia“",
+          "hu": "Szabadtéri mozi: „Mamma Mia”",
+          "ro": "Cinema în aer liber: „Mamma Mia”",
+          "en": "Open-air cinema: “Mamma Mia”"
+        },
+        "summary": {
+          "de": "Das Sommerprogramm der Burg Wilhelmstein setzt sich mit einem weiteren Open-Air-Kinoabend und dem Musicalfilm „Mamma Mia“ fort.",
+          "hu": "A Burg Wilhelmstein nyári programja újabb szabadtéri mozival folytatódik, ezúttal a „Mamma Mia” vetítésével.",
+          "ro": "Programul de vară al Burg Wilhelmstein continuă cu o nouă proiecție open-air, de această dată cu „Mamma Mia”.",
+          "en": "Burg Wilhelmstein’s summer season continues with another outdoor film night featuring “Mamma Mia.”"
+        },
+        "source_url": "https://www.burg-wilhelmstein.com/tickets-3/"
+      },
+      {
+        "date": "2026-07-31",
+        "category": "Music",
+        "title": {
+          "de": "MO-TORRES - Open-Air 2026",
+          "hu": "MO-TORRES - Open-Air 2026",
+          "ro": "MO-TORRES - Open-Air 2026",
+          "en": "MO-TORRES - Open-Air 2026"
+        },
+        "summary": {
+          "de": "Der Kölner Popmusiker MO-TORRES tritt unter freiem Himmel auf Burg Wilhelmstein in Würselen auf.",
+          "hu": "A kölni popelőadó, MO-TORRES szabadtéri koncertet ad a würseleni Burg Wilhelmsteinen.",
+          "ro": "Artistul pop din Köln, MO-TORRES, susține un concert open-air la Burg Wilhelmstein din Würselen.",
+          "en": "Cologne pop artist MO-TORRES performs an open-air concert at Burg Wilhelmstein in Würselen."
+        },
+        "source_url": "https://www.burg-wilhelmstein.com/tickets-3/"
+      },
+      {
+        "date": "2026-08-01",
+        "category": "Music",
+        "title": {
+          "de": "GIORA FEIDMAN - For a better world",
+          "hu": "GIORA FEIDMAN - For a better world",
+          "ro": "GIORA FEIDMAN - For a better world",
+          "en": "GIORA FEIDMAN - For a better world"
+        },
+        "summary": {
+          "de": "Klarinettist Giora Feidman gastiert Anfang August mit seinem Programm „For a better world“ auf Burg Wilhelmstein.",
+          "hu": "Giora Feidman klarinétművész augusztus elején a „For a better world” műsorral lép fel a Burg Wilhelmsteinen.",
+          "ro": "Clarinetistul Giora Feidman aduce la început de august programul „For a better world” pe scena Burg Wilhelmstein.",
+          "en": "Clarinetist Giora Feidman brings his “For a better world” program to Burg Wilhelmstein at the start of August."
+        },
+        "source_url": "https://www.burg-wilhelmstein.com/tickets-3/"
+      },
+      {
+        "date": "2026-08-02",
+        "category": "Music",
+        "title": {
+          "de": "KARAT - Die Kultband aus dem Osten",
+          "hu": "KARAT - Die Kultband aus dem Osten",
+          "ro": "KARAT - Die Kultband aus dem Osten",
+          "en": "KARAT - The cult band from the East"
+        },
+        "summary": {
+          "de": "Die deutsche Rockband KARAT steht Anfang August als Abendkonzert auf dem Spielplan der Freilichtbühne Burg Wilhelmstein.",
+          "hu": "Az augusztus eleji esti programban a német KARAT rockzenekar lép fel a Burg Wilhelmstein szabadtéri színpadán.",
+          "ro": "Trupa germană KARAT figurează în programul de început de august al scenei în aer liber Burg Wilhelmstein.",
+          "en": "German rock band KARAT appears on Burg Wilhelmstein’s early-August evening concert schedule."
+        },
+        "source_url": "https://www.burg-wilhelmstein.com/tickets-3/"
+      }
+    ]
+  }
+]

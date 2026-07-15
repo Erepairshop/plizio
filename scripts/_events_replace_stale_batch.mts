@@ -34,7 +34,7 @@ const isIsoDate = (value: unknown) => /^\d{4}-\d{2}-\d{2}$/.test(String(value ||
 
 const batches = inputPaths.flatMap((inputPath) => {
   if (!fs.existsSync(inputPath)) throw new Error(`results file not found: ${inputPath}`);
-  const raw = JSON.parse(fs.readFileSync(inputPath, "utf8"));
+  const raw = JSON.parse(fs.readFileSync(inputPath, "utf8").replace(/^\uFEFF/, ""));
   return Array.isArray(raw) ? raw : raw.results || [];
 });
 

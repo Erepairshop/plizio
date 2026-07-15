@@ -1,0 +1,435 @@
+[
+  {
+    "id": "hemer",
+    "events": [
+      {
+        "title": {
+          "de": "The BlueStars live.",
+          "hu": "The BlueStars live.",
+          "ro": "The BlueStars live.",
+          "en": "The BlueStars live."
+        },
+        "summary": {
+          "de": "Blueskonzert der BlueStars Blues Band im Veltins SoundGarten des Sauerlandparks Hemer.",
+          "hu": "A BlueStars Blues Band blueskoncertje a Sauerlandpark Hemer Veltins SoundGarten helyszínén.",
+          "ro": "Concert de blues susținut de BlueStars Blues Band în Veltins SoundGarten din Sauerlandpark Hemer.",
+          "en": "A blues concert by the BlueStars Blues Band in the Veltins SoundGarten at Sauerlandpark Hemer."
+        },
+        "date": "2026-08-06",
+        "source_url": "https://sauerlandpark.de/events/the-bluestars-live"
+      },
+      {
+        "title": {
+          "de": "Achkarrer-Weinwochenende",
+          "hu": "Achkarrer borkóstoló hétvége",
+          "ro": "Weekendul vinului Achkarrer",
+          "en": "Achkarrer Wine Weekend"
+        },
+        "summary": {
+          "de": "Mehrtägiges Weinwochenende im Sauerlandpark mit Genuss- und Aufenthaltsprogramm.",
+          "hu": "Többnapos boros hétvége a Sauerlandparkban kóstolókkal és pihenős programmal.",
+          "ro": "Weekend de mai multe zile dedicat vinului în Sauerlandpark, cu degustări și atmosferă relaxată.",
+          "en": "A multi-day wine weekend in Sauerlandpark focused on tasting and relaxed leisure."
+        },
+        "date": "2026-08-07",
+        "end_date": "2026-08-09",
+        "source_url": "https://sauerlandpark.de/events/achkarrer-weinwochenende26"
+      },
+      {
+        "title": {
+          "de": "Joel-Joao & Band live.",
+          "hu": "Joel-Joao & Band live.",
+          "ro": "Joel-Joao & Band live.",
+          "en": "Joel-Joao & Band live."
+        },
+        "summary": {
+          "de": "Open-Air-Abend mit Joel-Joao und Band, die R’n’B und Indie-Alternative-Rock verbinden.",
+          "hu": "Szabadtéri koncert Joel-Joao és zenekara előadásában, R’n’B és indie-alternative rock hangzással.",
+          "ro": "Seară open-air cu Joel-Joao și trupa sa, într-un amestec de R’n’B și indie alternative rock.",
+          "en": "An open-air evening with Joel-Joao and band, mixing R’n’B with indie alternative rock."
+        },
+        "date": "2026-08-13",
+        "source_url": "https://sauerlandpark.de/events/joel-joao-band-live"
+      },
+      {
+        "title": {
+          "de": "Vincent Dellwig feat. Skander Kotti live.",
+          "hu": "Vincent Dellwig feat. Skander Kotti live.",
+          "ro": "Vincent Dellwig feat. Skander Kotti live.",
+          "en": "Vincent Dellwig feat. Skander Kotti live."
+        },
+        "summary": {
+          "de": "Livekonzert im Veltins SoundGarten mit Vincent Dellwig und Gastmusiker Skander Kotti.",
+          "hu": "Élő koncert a Veltins SoundGartenben Vincent Dellwig és Skander Kotti közreműködésével.",
+          "ro": "Concert live în Veltins SoundGarten cu Vincent Dellwig și invitatul Skander Kotti.",
+          "en": "A live concert in the Veltins SoundGarten featuring Vincent Dellwig and guest Skander Kotti."
+        },
+        "date": "2026-08-20",
+        "source_url": "https://sauerlandpark.de/events/vincent-dellwig-feat-skander-kotti-live"
+      },
+      {
+        "title": {
+          "de": "11. Hemeraner Modellbau-Ausstellung",
+          "hu": "11. hemeri modellépítő kiállítás",
+          "ro": "A 11-a expoziție de modelism din Hemer",
+          "en": "11th Hemer Model Building Exhibition"
+        },
+        "summary": {
+          "de": "Zweitägige Modellbau-Ausstellung im Grohe-Forum des Sauerlandparks mit Ausstellungsprogramm zum Entdecken.",
+          "hu": "Kétnapos modellépítő kiállítás a Sauerlandpark Grohe-Forumában, felfedezésre szánt bemutatókkal.",
+          "ro": "Expoziție de modelism pe durata a două zile în Grohe-Forum din Sauerlandpark, cu prezentări pentru vizitatori.",
+          "en": "A two-day model building exhibition at the Grohe-Forum in Sauerlandpark with displays for visitors to explore."
+        },
+        "date": "2026-08-29",
+        "end_date": "2026-08-30",
+        "source_url": "https://sauerlandpark.de/events/9hemeraner-modellbau-ausstellung2026"
+      }
+    ]
+  },
+  {
+    "id": "city-obuda-extra",
+    "events": [
+      {
+        "title": {
+          "de": "Egy gyár anatómiája. Az óbudai hajógyárunk története",
+          "hu": "Egy gyár anatómiája. Az óbudai hajógyárunk története",
+          "ro": "Anatomia unei fabrici. Povestea șantierului naval din Óbuda",
+          "en": "Anatomy of a Factory: The Story of Óbuda Shipyard"
+        },
+        "summary": {
+          "de": "Sonderausstellung im Óbudai Múzeum über Geschichte, Technik und Menschen des historischen Schiffswerftsstandorts.",
+          "hu": "Időszaki kiállítás az Óbudai Múzeumban a hajógyár történetéről, technikájáról és dolgozóiról.",
+          "ro": "Expoziție temporară la Muzeul Óbuda despre istoria, tehnologia și oamenii șantierului naval local.",
+          "en": "A temporary exhibition at the Óbuda Museum about the history, technology, and workers of the local shipyard."
+        },
+        "date": "2025-06-20",
+        "end_date": "2027-04-30",
+        "source_url": "https://obuda.hu/esemeny/egy-gyar-anatomiaja-az-obudai-hajogyarunk-tortenete-idoszaki-kiallitas/"
+      },
+      {
+        "title": {
+          "de": "Dániel András író-illusztrátor rajzai",
+          "hu": "Dániel András író-illusztrátor rajzai",
+          "ro": "Desenele scriitorului și ilustratorului Dániel András",
+          "en": "Drawings by writer-illustrator Dániel András"
+        },
+        "summary": {
+          "de": "Kammerausstellung in der Óbudai Platán Könyvtár mit Zeichnungen des Autors und Illustrators Dániel András.",
+          "hu": "Kamarakiállítás az Óbudai Platán Könyvtárban Dániel András szerző és illusztrátor rajzaiból.",
+          "ro": "Expoziție de mici dimensiuni la Biblioteca Platán din Óbuda cu desenele autorului și ilustratorului Dániel András.",
+          "en": "A small exhibition at the Óbudai Platán Library featuring drawings by author and illustrator Dániel András."
+        },
+        "date": "2026-04-13",
+        "end_date": "2026-08-28",
+        "source_url": "https://obuda.hu/esemeny/daniel-andras-iro-illusztrator-rajzai/"
+      },
+      {
+        "title": {
+          "de": "Falatnyi varázslat – miniatűr gasztronómia időszaki kiállítás",
+          "hu": "Falatnyi varázslat – miniatűr gasztronómia időszaki kiállítás",
+          "ro": "Magie în miniatură – expoziție temporară de gastronomie miniaturală",
+          "en": "Tiny Magic: Temporary Miniature Gastronomy Exhibition"
+        },
+        "summary": {
+          "de": "Sonderausstellung des Óbudai Múzeum rund um Miniaturgastronomie als Teil der Reihe „Hagyományainkból táplálkozunk“.",
+          "hu": "Az Óbudai Múzeum időszaki kiállítása a miniatűr gasztronómiáról, a „Hagyományainkból táplálkozunk” sorozat részeként.",
+          "ro": "Expoziție temporară a Muzeului Óbuda dedicată gastronomiei în miniatură, parte din seria „Hagyományainkból táplálkozunk”.",
+          "en": "A temporary Óbuda Museum exhibition on miniature gastronomy, part of the “Hagyományainkból táplálkozunk” series."
+        },
+        "date": "2026-05-13",
+        "end_date": "2027-06-05",
+        "source_url": "https://obuda.hu/esemeny/falatnyi-varazslat-miniatur-gasztronomia-idoszaki-kiallitas/"
+      },
+      {
+        "title": {
+          "de": "Az Aelia Sabina Alapfokú Művészeti Iskola gyermekrajz kiállítása – Folyosói tárlat",
+          "hu": "Az Aelia Sabina Alapfokú Művészeti Iskola gyermekrajz kiállítása – Folyosói tárlat",
+          "ro": "Expoziția de desene pentru copii a școlii Aelia Sabina – expoziție de coridor",
+          "en": "Aelia Sabina Elementary Art School Children’s Drawing Exhibition – Corridor Gallery"
+        },
+        "summary": {
+          "de": "Länger laufende Ausstellung mit Kinderzeichnungen der Aelia Sabina Kunstschule in Óbuda.",
+          "hu": "Hosszabb ideig látogatható gyermekrajz-kiállítás az Aelia Sabina művészeti iskola alkotásaiból.",
+          "ro": "Expoziție de durată cu lucrări de desen ale copiilor de la școala de artă Aelia Sabina din Óbuda.",
+          "en": "An extended exhibition of children’s drawings from the Aelia Sabina art school in Óbuda."
+        },
+        "date": "2026-05-13",
+        "end_date": "2027-06-05",
+        "source_url": "https://obuda.hu/esemeny/az-aelia-sabina-alapfoku-muveszeti-iskola-gyermekrajz-kiallitasa-folyosoi-tarlat/"
+      },
+      {
+        "title": {
+          "de": "A hajógyár épített öröksége – tárlatvezetés",
+          "hu": "A hajógyár épített öröksége – tárlatvezetés",
+          "ro": "Patrimoniul construit al șantierului naval – tur ghidat",
+          "en": "Built Heritage of the Shipyard – Guided Tour"
+        },
+        "summary": {
+          "de": "Geführtes Freiluftprogramm an der Kórház utca mit Einblicken in die Architektur und Planung des historischen Schiffswerftsareals.",
+          "hu": "Szabadtéri tárlatvezetés a Kórház utcában, betekintéssel a történeti hajógyár építészetébe és tervezői világába.",
+          "ro": "Program ghidat în aer liber pe strada Kórház, axat pe arhitectura și proiectarea vechiului șantier naval.",
+          "en": "An outdoor guided program on Kórház Street focused on the architecture and design history of the former shipyard."
+        },
+        "date": "2026-08-06",
+        "source_url": "https://obuda.hu/esemeny/a-hajogyar-epitett-oroksege-tarlatvezetes-szabadteri-kiallitasunknal-a-korhaz-utcaban/"
+      }
+    ]
+  },
+  {
+    "id": "bad-nauheim",
+    "events": [
+      {
+        "title": {
+          "de": "Il Civetto",
+          "hu": "Il Civetto",
+          "ro": "Il Civetto",
+          "en": "Il Civetto"
+        },
+        "summary": {
+          "de": "Sommerreihe-Open-Air-Konzert an der Trinkkuranlage mit der Berliner Band Il Civetto.",
+          "hu": "Sommerreihe szabadtéri koncert a Trinkkuranlage helyszínén a berlini Il Civetto zenekarral.",
+          "ro": "Concert open-air din seria Sommerreihe la Trinkkuranlage, susținut de trupa berlineză Il Civetto.",
+          "en": "A Sommerreihe open-air concert at the Trinkkuranlage featuring Berlin band Il Civetto."
+        },
+        "date": "2026-07-30",
+        "source_url": "https://www.bad-nauheim.de/en/erlebnisreich/veranstaltungen/il-civetto~880101"
+      },
+      {
+        "title": {
+          "de": "Barclay James Harvest feat. Les Holroyd",
+          "hu": "Barclay James Harvest feat. Les Holroyd",
+          "ro": "Barclay James Harvest feat. Les Holroyd",
+          "en": "Barclay James Harvest feat. Les Holroyd"
+        },
+        "summary": {
+          "de": "Sommerreihe-Konzert in der Trinkkuranlage Bad Nauheim mit dem Rockprojekt um Les Holroyd.",
+          "hu": "Sommerreihe koncert a bad nauheimi Trinkkuranlage szabadtéri helyszínén Les Holroyd rockprodukciójával.",
+          "ro": "Concert din seria Sommerreihe la Trinkkuranlage din Bad Nauheim cu proiectul rock condus de Les Holroyd.",
+          "en": "A Sommerreihe concert at Bad Nauheim’s Trinkkuranlage featuring Les Holroyd’s rock project."
+        },
+        "date": "2026-08-06",
+        "source_url": "https://www.bad-nauheim.de/en/erlebnisreich/veranstaltungen/barclay-james-harvest-feat-les-holroyd~846048"
+      },
+      {
+        "title": {
+          "de": "Elvis and Gospelmusic",
+          "hu": "Elvis and Gospelmusic",
+          "ro": "Elvis and Gospelmusic",
+          "en": "Elvis and Gospelmusic"
+        },
+        "summary": {
+          "de": "Singing-Workshop im Rahmen des European Elvis Festival 2026 in Bad Nauheim.",
+          "hu": "Énekes workshop a European Elvis Festival 2026 programjaként Bad Nauheimban.",
+          "ro": "Atelier de canto organizat în cadrul European Elvis Festival 2026 la Bad Nauheim.",
+          "en": "A singing workshop held as part of the European Elvis Festival 2026 in Bad Nauheim."
+        },
+        "date": "2026-08-15",
+        "source_url": "https://www.bad-nauheim.de/en/erlebnisreich/veranstaltungen/elvis-and-gospelmusic~854029"
+      },
+      {
+        "title": {
+          "de": "Dick Brave: Back for more",
+          "hu": "Dick Brave: Back for more",
+          "ro": "Dick Brave: Back for more",
+          "en": "Dick Brave: Back for more"
+        },
+        "summary": {
+          "de": "Abendkonzert des 24. European Elvis Festival 2026 an der Konzertmuschel der Trinkkuranlage.",
+          "hu": "Esti koncert a 24. European Elvis Festival 2026 keretében a Trinkkuranlage koncertkagylójánál.",
+          "ro": "Concert de seară din cadrul celei de-a 24-a ediții a European Elvis Festival 2026 la Konzertmuschel din Trinkkuranlage.",
+          "en": "An evening concert during the 24th European Elvis Festival 2026 at the Trinkkuranlage bandstand."
+        },
+        "date": "2026-08-15",
+        "source_url": "https://www.bad-nauheim.de/en/erlebnisreich/veranstaltungen/dick-brave-back-for-more~844084"
+      },
+      {
+        "title": {
+          "de": "Talkshow with Elvis' secretary Pat West",
+          "hu": "Talkshow with Elvis' secretary Pat West",
+          "ro": "Talkshow with Elvis' secretary Pat West",
+          "en": "Talkshow with Elvis' secretary Pat West"
+        },
+        "summary": {
+          "de": "Gesprächsveranstaltung des European Elvis Festival mit der früheren Elvis-Sekretärin Pat West im OVAG Theater DOLCE.",
+          "hu": "Beszélgetős program a European Elvis Festival keretében Elvis egykori titkárnőjével, Pat Westtel, az OVAG Theater DOLCE helyszínén.",
+          "ro": "Eveniment de tip talk-show din cadrul European Elvis Festival cu fosta secretară a lui Elvis, Pat West, la OVAG Theater DOLCE.",
+          "en": "A European Elvis Festival talk event with Elvis’ former secretary Pat West at the OVAG Theater DOLCE."
+        },
+        "date": "2026-08-16",
+        "source_url": "https://www.bad-nauheim.de/en/erlebnisreich/veranstaltungen/talkshow-with-elvis-secretary-pat-west~864581"
+      }
+    ]
+  },
+  {
+    "id": "cambrils",
+    "events": [
+      {
+        "title": {
+          "de": "LaDyva & B4",
+          "hu": "LaDyva & B4",
+          "ro": "LaDyva & B4",
+          "en": "LaDyva & B4"
+        },
+        "summary": {
+          "de": "Kostenloses Eröffnungskonzert der 51. Ausgabe des Festival Internacional de Música de Cambrils im Hafen von Cambrils.",
+          "hu": "A Cambrilsi Nemzetközi Zenei Fesztivál 51. kiadásának ingyenes nyitókoncertje Cambrils kikötőjében.",
+          "ro": "Concertul gratuit de deschidere al celei de-a 51-a ediții a Festivalului Internațional de Muzică din Cambrils, în portul orașului.",
+          "en": "The free opening concert of the 51st Festival Internacional de Música de Cambrils at the Port of Cambrils."
+        },
+        "date": "2026-07-28",
+        "source_url": "https://www.cambrils.cat/ca/actualitat/notes-de-premsa-noticies/el-fim-cambrils-presenta-el-cartell-complet-amb-14-concerts-nous-espais-i-grans-noms-del-panorama-musical"
+      },
+      {
+        "title": {
+          "de": "Emma Smith & Ignasi Terraza Trio",
+          "hu": "Emma Smith & Ignasi Terraza Trio",
+          "ro": "Emma Smith & Ignasi Terraza Trio",
+          "en": "Emma Smith & Ignasi Terraza Trio"
+        },
+        "summary": {
+          "de": "Jazzabend des FIM Cambrils im Club Nàutic de Cambrils als Teil des Genre-Rundgangs durch besondere Spielorte.",
+          "hu": "Jazzest a FIM Cambrils keretében a Club Nàutic de Cambrils helyszínén, különleges városi terekben zajló koncertsorozat részeként.",
+          "ro": "Seară de jazz în cadrul FIM Cambrils la Club Nàutic de Cambrils, parte din itinerarul festivalului prin spații speciale.",
+          "en": "A jazz evening at Club Nàutic de Cambrils as part of the festival’s special-venue circuit."
+        },
+        "date": "2026-07-30",
+        "source_url": "https://www.cambrils.cat/ca/actualitat/notes-de-premsa-noticies/el-festival-internacional-de-musica-de-cambrils-proposa-un-itinerari-amb-quatre-nits-de-classica-jazz-i-gospel-en-espais-singulars-del-municipi"
+      },
+      {
+        "title": {
+          "de": "The Amy Winehouse Band",
+          "hu": "The Amy Winehouse Band",
+          "ro": "The Amy Winehouse Band",
+          "en": "The Amy Winehouse Band"
+        },
+        "summary": {
+          "de": "Soul- und Blues-Abend im FIM Cambrils mit der Originalband, die Amy Winehouse begleitet hat.",
+          "hu": "Soul- és bluesest a FIM Cambrils programjában Amy Winehouse egykori eredeti kísérőzenekarával.",
+          "ro": "Seară de soul și blues la FIM Cambrils cu formația originală care a acompaniat-o pe Amy Winehouse.",
+          "en": "A soul and blues night at FIM Cambrils with the original band that accompanied Amy Winehouse."
+        },
+        "date": "2026-08-02",
+        "source_url": "https://www.cambrils.cat/ca/actualitat/notes-de-premsa-noticies/el-festival-internacional-de-musica-de-cambrils-celebra-mig-segle-d2019historia"
+      },
+      {
+        "title": {
+          "de": "Quartet Gerhard",
+          "hu": "Quartet Gerhard",
+          "ro": "Quartet Gerhard",
+          "en": "Quartet Gerhard"
+        },
+        "summary": {
+          "de": "Klassikabend des Festival Internacional de Música de Cambrils im Parc Samà.",
+          "hu": "Klasszikus zenei est a Cambrilsi Nemzetközi Zenei Fesztivál keretében a Parc Samà helyszínén.",
+          "ro": "Seară de muzică clasică în cadrul Festivalului Internațional de Muzică din Cambrils la Parc Samà.",
+          "en": "A classical music evening at the Festival Internacional de Música de Cambrils in Parc Samà."
+        },
+        "date": "2026-08-03",
+        "source_url": "https://www.cambrils.cat/ca/actualitat/notes-de-premsa-noticies/el-festival-internacional-de-musica-de-cambrils-proposa-un-itinerari-amb-quatre-nits-de-classica-jazz-i-gospel-en-espais-singulars-del-municipi"
+      },
+      {
+        "title": {
+          "de": "Joan Dausà – Immortals Tour",
+          "hu": "Joan Dausà – Immortals turné",
+          "ro": "Joan Dausà – turneul Immortals",
+          "en": "Joan Dausà – Immortals Tour"
+        },
+        "summary": {
+          "de": "Joan Dausà bringt seine „Immortals“-Tour zum Festival Internacional de Música de Cambrils im Parc del Pinaret.",
+          "hu": "Joan Dausà az Immortals turnéval érkezik a Cambrilsi Nemzetközi Zenei Fesztiválra a Parc del Pinaret helyszínére.",
+          "ro": "Joan Dausà aduce turneul „Immortals” la Festivalul Internațional de Muzică din Cambrils, în Parc del Pinaret.",
+          "en": "Joan Dausà brings his Immortals tour to the Festival Internacional de Música de Cambrils at Parc del Pinaret."
+        },
+        "date": "2026-08-09",
+        "source_url": "https://www.cambrils.cat/ca/actualitat/notes-de-premsa-noticies/joan-dausa-es-el-primer-artista-confirmat-del-festival-internacional-de-musica-de-cambrils-2026"
+      }
+    ]
+  },
+  {
+    "id": "aosta",
+    "events": [
+      {
+        "title": {
+          "de": "Mostra-concorso dell’artigianato valdostano",
+          "hu": "Valle d’Aosta-i kézműves versenykiállítás",
+          "ro": "Expoziția-concurs a meșteșugurilor din Valle d’Aosta",
+          "en": "Valle d’Aosta Craft Competition Exhibition"
+        },
+        "summary": {
+          "de": "Traditionelle Sommerausstellung auf der Piazza Chanoux mit regionalem Kunsthandwerk aus dem Aostatal.",
+          "hu": "Hagyományos nyári kiállítás a Piazza Chanoux téren, a Valle d’Aosta régió kézműves alkotásaival.",
+          "ro": "Expoziție estivală tradițională în Piazza Chanoux, dedicată meșteșugurilor artistice din Valle d’Aosta.",
+          "en": "A traditional summer exhibition in Piazza Chanoux showcasing regional craftwork from Valle d’Aosta."
+        },
+        "date": "2026-07-18",
+        "end_date": "2026-07-26",
+        "source_url": "https://www.regione.vda.it/artigianato/manifestazioni_estive_2026_i.aspx"
+      },
+      {
+        "title": {
+          "de": "Atelier des Métiers",
+          "hu": "Atelier des Métiers",
+          "ro": "Atelier des Métiers",
+          "en": "Atelier des Métiers"
+        },
+        "summary": {
+          "de": "Mehrtägige Präsentation professioneller Handwerksbetriebe auf der Piazza Chanoux im Rahmen der Sommerveranstaltungen.",
+          "hu": "Többnapos bemutató professzionális kézműves vállalkozásokkal a Piazza Chanoux téren, a nyári programsorozat részeként.",
+          "ro": "Prezentare de mai multe zile a atelierelor profesionale de artizanat în Piazza Chanoux, în cadrul manifestărilor estivale.",
+          "en": "A multi-day presentation of professional craft businesses in Piazza Chanoux as part of the summer artisan events."
+        },
+        "date": "2026-07-30",
+        "end_date": "2026-08-02",
+        "source_url": "https://www.regione.vda.it/artigianato/manifestazioni_estive_2026_i.aspx"
+      },
+      {
+        "title": {
+          "de": "Foire d’été",
+          "hu": "Foire d’été",
+          "ro": "Foire d’été",
+          "en": "Foire d’été"
+        },
+        "summary": {
+          "de": "Großer Sommertag des Aostataler Handwerks im historischen Zentrum von Aosta mit Hunderten Ausstellern.",
+          "hu": "Aosta történelmi központjának nagy nyári kézműves napja, több száz kiállítóval.",
+          "ro": "Marea zi estivală a meșteșugarilor valdostani în centrul istoric din Aosta, cu sute de expozanți.",
+          "en": "A major summer craft fair in Aosta’s historic center with hundreds of exhibitors from the region."
+        },
+        "date": "2026-08-01",
+        "source_url": "https://www.regione.vda.it/artigianato/manifestazioni_estive_2026_i.aspx"
+      },
+      {
+        "title": {
+          "de": "Le Grenier en Place",
+          "hu": "Le Grenier en Place",
+          "ro": "Le Grenier en Place",
+          "en": "Le Grenier en Place"
+        },
+        "summary": {
+          "de": "Ganztägiger Markt auf der Piazza Chanoux rund um Antiquitäten, Sammlerstücke, Dekor und Kunsthandwerk nahe dem Fest des Stadtpatrons San Grato.",
+          "hu": "Egész napos vásár a Piazza Chanoux téren régiségekkel, gyűjteményekkel, lakásdekorral és kézműves termékekkel, San Grato ünnepéhez kapcsolódva.",
+          "ro": "Târg de o zi în Piazza Chanoux, cu antichități, obiecte de colecție, decorațiuni și artizanat, organizat în preajma sărbătorii patronului San Grato.",
+          "en": "A full-day market in Piazza Chanoux for antiques, collectibles, decor, and crafts near the feast of patron saint San Grato."
+        },
+        "date": "2026-09-06",
+        "source_url": "https://www.comune.aosta.it/it/page/mostre-mercato"
+      },
+      {
+        "title": {
+          "de": "Marché Vert Noël 26/27",
+          "hu": "Marché Vert Noël 26/27",
+          "ro": "Marché Vert Noël 26/27",
+          "en": "Marché Vert Noël 26/27"
+        },
+        "summary": {
+          "de": "Der alpine Weihnachtsmarkt kehrt ins historische Zentrum von Aosta zurück, mit Ständen und Animationen im ganzen Stadtkern.",
+          "hu": "Az alpesi karácsonyi vásár visszatér Aosta történelmi központjába, standokkal és programokkal az egész belvárosban.",
+          "ro": "Târgul alpin de Crăciun revine în centrul istoric din Aosta, cu standuri și animație în tot nucleul vechi.",
+          "en": "The alpine Christmas market returns to Aosta’s historic center with stalls and animation across the old town."
+        },
+        "date": "2026-11-21",
+        "source_url": "https://www.comune.aosta.it/it/news"
+      }
+    ]
+  }
+]

@@ -1,0 +1,437 @@
+[
+  {
+    "id": "hyeres",
+    "events": [
+      {
+        "date": "2026-08-05",
+        "title": {
+          "de": "Open-Air-Kino: Ma mère, Dieu et Sylvie Vartan",
+          "hu": "Szabadtéri mozi: Ma mère, Dieu et Sylvie Vartan",
+          "ro": "Cinema în aer liber: Ma mère, Dieu et Sylvie Vartan",
+          "en": "Open-air cinema: Ma mère, Dieu et Sylvie Vartan",
+          "fr": "Cin\u00e9 plein air : Ma m\u00e8re, Dieu et Sylvie Vartan"
+        },
+        "summary": {
+          "de": "Die Stadt Hy\u00e8res zeigt diese kostenlose Sommerfilmvorf\u00fchrung um 21:30 Uhr auf dem Place Clemenceau im Stadtzentrum.",
+          "hu": "Hy\u00e8res v\u00e1rosa ezt az ingyenes ny\u00e1ri filmvet\u00edt\u00e9st 21:30-kor rendezi a belv\u00e1rosi Place Clemenceau t\u00e9ren.",
+          "ro": "Ora\u0219ul Hy\u00e8res programeaz\u0103 aceast\u0103 proiec\u021bie estival\u0103 gratuit\u0103 la ora 21:30, \u00een Place Clemenceau din centru.",
+          "en": "The city of Hy\u00e8res stages this free summer film screening at 9:30 p.m. on Place Clemenceau in the town center.",
+          "fr": "La ville d'Hy\u00e8res propose cette projection estivale gratuite \u00e0 21h30 place Clemenceau, en centre-ville."
+        },
+        "source_url": "https://hyeres.fr/agenda/cinema_projection/cine-plein-air-ma-mere-dieu-sylvie-vartan/"
+      },
+      {
+        "date": "2026-08-16",
+        "title": {
+          "de": "Konzert und Feuerwerk am Hafen",
+          "hu": "Koncert \u00e9s t\u0171zij\u00e1t\u00e9k a kik\u00f6t\u0151ben",
+          "ro": "Concert \u0219i foc de artificii la port",
+          "en": "Concert and fireworks at the port",
+          "fr": "Concert et feu d'artifice"
+        },
+        "summary": {
+          "de": "Am Port d'Hy\u00e8res beginnt um 21:30 Uhr ein Konzert von One of Us, gefolgt von einem ins Meer geschossenen Feuerwerk um 22:30 Uhr.",
+          "hu": "A Port d'Hy\u00e8res helysz\u00edn\u00e9n 21:30-kor a One of Us koncertje kezd\u0151dik, majd 22:30-kor tengeri t\u0171zij\u00e1t\u00e9k k\u00f6vetkezik.",
+          "ro": "\u00cen Port d'Hy\u00e8res, concertul trupei One of Us \u00eencepe la 21:30, urmat de un foc de artificii tras pe mare la 22:30.",
+          "en": "At Port d'Hy\u00e8res, a One of Us concert starts at 9:30 p.m. and is followed by a fireworks display launched over the sea at 10:30 p.m.",
+          "fr": "Au port d'Hy\u00e8res, un concert de One of Us commence \u00e0 21h30, suivi d'un feu d'artifice tir\u00e9 en mer \u00e0 22h30."
+        },
+        "source_url": "https://hyeres.fr/agenda/manifestations/feu-dartifice/"
+      },
+      {
+        "date": "2026-08-21",
+        "title": {
+          "de": "Befreiungsfest der Stadt",
+          "hu": "A v\u00e1ros felszabadul\u00e1si \u00fcnnepe",
+          "ro": "S\u0103rb\u0103toarea eliber\u0103rii ora\u0219ului",
+          "en": "Liberation of the city celebration",
+          "fr": "F\u00eate de la lib\u00e9ration de la ville"
+        },
+        "summary": {
+          "de": "Die Feier im Stadtzentrum umfasst ab 19 Uhr einen Umzug historischer Fahrzeuge und ab 21:30 Uhr den Bal \"La Guinche\" auf der Place de la R\u00e9publique.",
+          "hu": "A belv\u00e1rosi \u00fcnneps\u00e9g 19 \u00f3r\u00e1t\u00f3l veter\u00e1nj\u00e1rm\u0171-felvonul\u00e1ssal, 21:30-t\u00f3l pedig a Place de la R\u00e9publique t\u00e9ren tartott \"La Guinche\" b\u00e1llal v\u00e1rja a l\u00e1togat\u00f3kat.",
+          "ro": "Evenimentul din centru include de la ora 19:00 o parad\u0103 a vehiculelor istorice \u0219i de la 21:30 balul \"La Guinche\" \u00een Place de la R\u00e9publique.",
+          "en": "This town-center celebration includes a vintage vehicle parade from 7 p.m. and the \"La Guinche\" dance party from 9:30 p.m. on Place de la R\u00e9publique.",
+          "fr": "Cette f\u00eate du centre-ville comprend \u00e0 partir de 19h un d\u00e9fil\u00e9 de v\u00e9hicules anciens et \u00e0 21h30 le bal \"La Guinche\" place de la R\u00e9publique."
+        },
+        "source_url": "https://hyeres.fr/agenda/manifestations/fete-de-la-liberation-de-la-ville-2/"
+      },
+      {
+        "date": "2026-08-21",
+        "end_date": "2026-08-23",
+        "title": {
+          "de": "Natif Festival",
+          "hu": "Natif Fesztiv\u00e1l",
+          "ro": "Festivalul Natif",
+          "en": "Natif Festival",
+          "fr": "Natif Festival"
+        },
+        "summary": {
+          "de": "Das dreit\u00e4gige Festival am Hippodrome de la Plage l\u00e4uft vom 21. bis 23. August jeweils von 17 Uhr bis 1 Uhr mit Musikprogramm und Ticketverkauf.",
+          "hu": "A Hippodrome de la Plage helysz\u00edn\u00e9n rendezett h\u00e1romnapos fesztiv\u00e1l augusztus 21. \u00e9s 23. k\u00f6z\u00f6tt naponta 17:00 \u00e9s 1:00 k\u00f6z\u00f6tt zajlik zenei programokkal.",
+          "ro": "Festivalul de la Hippodrome de la Plage are loc \u00eentre 21 \u0219i 23 august, zilnic \u00eentre 17:00 \u0219i 01:00, cu program muzical \u0219i bilete dedicate.",
+          "en": "This three-day festival at the Hippodrome de la Plage runs from August 21 to 23, daily from 5 p.m. to 1 a.m., with a music lineup and dedicated ticketing.",
+          "fr": "Ce festival de trois jours \u00e0 l'Hippodrome de la plage se tient du 21 au 23 ao\u00fbt, chaque jour de 17h \u00e0 1h, avec une programmation musicale et une billetterie d\u00e9di\u00e9e."
+        },
+        "source_url": "https://hyeres.fr/agenda/musique/natif-festival/"
+      }
+    ]
+  },
+  {
+    "id": "annecy",
+    "events": [
+      {
+        "date": "2026-08-01",
+        "title": {
+          "de": "Fest des Sees von Annecy",
+          "hu": "Annecy-tavi \u00fcnnep",
+          "ro": "S\u0103rb\u0103toarea lacului Annecy",
+          "en": "Annecy Lake Festival",
+          "fr": "F\u00eate du lac d'Annecy"
+        },
+        "summary": {
+          "de": "In der Bucht von Albigny pr\u00e4sentiert Annecy von 19 bis 23 Uhr die Ausgabe 2026 mit dem pyrotechnischen Spektakel \"L'\u00c2me du Monde\".",
+          "hu": "Az albigny-i \u00f6b\u00f6lben Annecy 19:00 \u00e9s 23:00 k\u00f6z\u00f6tt rendezi meg a 2026-os kiad\u00e1st az \"L'\u00c2me du Monde\" c\u00edm\u0171 pirotechnikai el\u0151ad\u00e1ssal.",
+          "ro": "\u00cen golful Albigny, Annecy organizeaz\u0103 \u00eentre 19:00 \u0219i 23:00 edi\u021bia 2026, cu spectacolul pirotehnic \"L'\u00c2me du Monde\".",
+          "en": "On Albigny Bay, Annecy hosts the 2026 edition from 7 p.m. to 11 p.m., featuring the pyrotechnic show \"L'\u00c2me du Monde\".",
+          "fr": "Dans la baie d'Albigny, Annecy accueille l'\u00e9dition 2026 de 19h \u00e0 23h avec le spectacle pyrotechnique \"L'\u00c2me du Monde\"."
+        },
+        "source_url": "https://www.lac-annecy.com/fete-et-manifestation/fete-du-lac-dannecy-annecy/"
+      },
+      {
+        "date": "2026-08-18",
+        "end_date": "2026-08-28",
+        "title": {
+          "de": "Imp\u00e9rial Annecy Festival 2026",
+          "hu": "Imp\u00e9rial Annecy Fesztiv\u00e1l 2026",
+          "ro": "Festivalul Imp\u00e9rial Annecy 2026",
+          "en": "Imperial Annecy Festival 2026",
+          "fr": "Imp\u00e9rial Annecy Festival 2026"
+        },
+        "summary": {
+          "de": "Die 11. Ausgabe im Imp\u00e9rial Palace vereint vom 18. bis 28. August Jazz, Klassik und Humor in zwanzig Vorstellungen, darunter zehn kostenlose.",
+          "hu": "A 11. kiad\u00e1s az Imp\u00e9rial Palace-ban augusztus 18. \u00e9s 28. k\u00f6z\u00f6tt jazzt, klasszikus zen\u00e9t \u00e9s humort k\u00edn\u00e1l h\u00fasz el\u0151ad\u00e1sban, amelyek k\u00f6z\u00fcl t\u00edz ingyenes.",
+          "ro": "A 11-a edi\u021bie de la Imp\u00e9rial Palace reune\u0219te \u00eentre 18 \u0219i 28 august jazz, muzic\u0103 clasic\u0103 \u0219i umor \u00een dou\u0103zeci de reprezenta\u021bii, dintre care zece gratuite.",
+          "en": "The 11th edition at the Imp\u00e9rial Palace runs from August 18 to 28 with jazz, classical music, and comedy across twenty performances, ten of them free.",
+          "fr": "La 11e \u00e9dition \u00e0 l'Imp\u00e9rial Palace se tient du 18 au 28 ao\u00fbt avec jazz, classique et humour sur vingt repr\u00e9sentations, dont dix gratuites."
+        },
+        "source_url": "https://www.imperial-annecy-festival.fr/"
+      },
+      {
+        "date": "2026-08-21",
+        "title": {
+          "de": "Nemanja Radulovic & Double Sens",
+          "hu": "Nemanja Radulovic & Double Sens",
+          "ro": "Nemanja Radulovic & Double Sens",
+          "en": "Nemanja Radulovic & Double Sens",
+          "fr": "Nemanja Radulovic & Double Sens"
+        },
+        "summary": {
+          "de": "Dieses Klassik-VIP-Konzert des Imp\u00e9rial Annecy Festival beginnt am 21. August um 21 Uhr in der Salle de l'Europe des Centre de Congr\u00e8s Imp\u00e9rial.",
+          "hu": "Az Imp\u00e9rial Annecy Fesztiv\u00e1l klasszikus VIP-koncertje augusztus 21-\u00e9n 21:00-kor kezd\u0151dik a Centre de Congr\u00e8s Imp\u00e9rial Salle de l'Europe term\u00e9ben.",
+          "ro": "Acest concert VIP de muzic\u0103 clasic\u0103 din cadrul Imp\u00e9rial Annecy Festival \u00eencepe pe 21 august la ora 21:00, \u00een Salle de l'Europe a Centre de Congr\u00e8s Imp\u00e9rial.",
+          "en": "This classical VIP concert in the Imperial Annecy Festival starts at 9 p.m. on August 21 in the Salle de l'Europe at the Centre de Congr\u00e8s Imp\u00e9rial.",
+          "fr": "Ce concert VIP de musique classique de l'Imp\u00e9rial Annecy Festival commence le 21 ao\u00fbt \u00e0 21h dans la Salle de l'Europe du Centre de Congr\u00e8s Imp\u00e9rial."
+        },
+        "source_url": "https://www.imperial-annecy-festival.fr/artistes/aida-nosrat-256"
+      },
+      {
+        "date": "2026-10-10",
+        "title": {
+          "de": "R\u00fcckkehr von den Almen",
+          "hu": "Hegyi legel\u0151kr\u0151l val\u00f3 visszat\u00e9r\u00e9s",
+          "ro": "\u00cenapoierea de la alpage",
+          "en": "Return from the alpine pastures",
+          "fr": "Retour des Alpages"
+        },
+        "summary": {
+          "de": "Die traditionelle Herbstfeier in der Altstadt bietet von 9 bis 18 Uhr Handwerk, alte Berufe, regionale Produkte und den Tierumzug um 14:30 Uhr.",
+          "hu": "A hagyom\u00e1nyos \u0151szi belv\u00e1rosi \u00fcnnep 9:00 \u00e9s 18:00 k\u00f6z\u00f6tt k\u00e9zm\u0171ves programokat, r\u00e9gi mesters\u00e9geket, helyi term\u00e9keket \u00e9s 14:30-kor \u00e1llatfelvonul\u00e1st k\u00edn\u00e1l.",
+          "ro": "Marea s\u0103rb\u0103toare tradi\u021bional\u0103 de toamn\u0103 din ora\u0219ul vechi ofer\u0103 \u00eentre 9:00 \u0219i 18:00 artizanat, meserii de alt\u0103dat\u0103, produse locale \u0219i parada animalelor la 14:30.",
+          "en": "This traditional autumn celebration in the old town runs from 9 a.m. to 6 p.m. with crafts, old trades, local produce, and the animal parade at 2:30 p.m.",
+          "fr": "Cette grande f\u00eate traditionnelle d'automne dans la vieille ville se tient de 9h \u00e0 18h avec artisanat, vieux m\u00e9tiers, produits du terroir et d\u00e9fil\u00e9 des animaux \u00e0 14h30."
+        },
+        "source_url": "https://www.lac-annecy.com/fete-et-manifestation/retour-des-alpages-annecy/"
+      }
+    ]
+  },
+  {
+    "id": "vannes",
+    "events": [
+      {
+        "date": "2026-08-01",
+        "title": {
+          "de": "Les Musicales du Golfe: Er\u00f6ffnungskonzert",
+          "hu": "Les Musicales du Golfe: nyit\u00f3koncert",
+          "ro": "Les Musicales du Golfe: concertul de deschidere",
+          "en": "Les Musicales du Golfe: opening concert",
+          "fr": "Les Musicales du Golfe : concert d'ouverture"
+        },
+        "summary": {
+          "de": "Im Palais des Arts er\u00f6ffnet das Orchestre National de Bretagne das Festival um 20 Uhr mit \"Jupiter, nuit symphonique\".",
+          "hu": "A Palais des Arts helysz\u00edn\u00e9n az Orchestre National de Bretagne 20:00-kor nyitja meg a fesztiv\u00e1lt a \"Jupiter, nuit symphonique\" m\u0171sorral.",
+          "ro": "La Palais des Arts, Orchestre National de Bretagne deschide festivalul la ora 20:00 cu programul \"Jupiter, nuit symphonique\".",
+          "en": "At the Palais des Arts, the Orchestre National de Bretagne opens the festival at 8 p.m. with \"Jupiter, nuit symphonique\".",
+          "fr": "Au Palais des arts, l'Orchestre National de Bretagne ouvre le festival \u00e0 20h avec \"Jupiter, nuit symphonique\"."
+        },
+        "source_url": "https://www.mairie-vannes.fr/agenda/les-musicales-du-golfe"
+      },
+      {
+        "date": "2026-08-14",
+        "end_date": "2026-08-16",
+        "title": {
+          "de": "Festival d'Arvor",
+          "hu": "Festival d'Arvor",
+          "ro": "Festival d'Arvor",
+          "en": "Festival d'Arvor",
+          "fr": "Festival d'Arvor"
+        },
+        "summary": {
+          "de": "Das dreit\u00e4gige bretonische Kulturfestival bietet am Hafen, bei den Carmes und in den Jardins des Remparts Konzerte, Stra\u00dfenkunst, Fest-noz und den traditionellen 15.-August-Termin.",
+          "hu": "A h\u00e1romnapos breton kultur\u00e1lis fesztiv\u00e1l a kik\u00f6t\u0151ben, a Carmes helysz\u00ednen \u00e9s a Jardins des Remparts kertjeiben koncerteket, utcai m\u0171v\u00e9szetet, fest-noz esteket \u00e9s az augusztus 15-i hagyom\u00e1nyos f\u0151napot k\u00edn\u00e1lja.",
+          "ro": "Festivalul de trei zile dedicat culturii bretone aduce \u00een port, la Carmes \u0219i \u00een Jardins des Remparts concerte, art\u0103 stradal\u0103, fest-noz \u0219i tradi\u021bionala zi de 15 august.",
+          "en": "This three-day Breton culture festival brings concerts, street arts, fest-noz evenings, and the traditional August 15 highlight to the port, Les Carmes, and the Jardins des Remparts.",
+          "fr": "Ce festival de trois jours consacr\u00e9 \u00e0 la culture bretonne propose au port, aux Carmes et dans les jardins des remparts concerts, arts de rue, fest-noz et le grand rendez-vous traditionnel du 15 ao\u00fbt."
+        },
+        "source_url": "https://www.mairie-vannes.fr/festival-darvor"
+      },
+      {
+        "date": "2026-07-26",
+        "end_date": "2026-08-30",
+        "title": {
+          "de": "Die verbotenen Bereiche der Festungsanlagen",
+          "hu": "Az er\u0151d\u00edtm\u00e9nyek rejtett r\u00e9szei",
+          "ro": "Zonele ascunse ale fortifica\u021biilor",
+          "en": "Forbidden corners of the fortifications",
+          "fr": "Les interdits des fortifications"
+        },
+        "summary": {
+          "de": "Diese gef\u00fchrte Tour durch normalerweise geschlossene Bereiche der Stadtmauer l\u00e4uft im Sommer mehrmals pro Woche mit Treffpunkt an den Lavoirs de la Garenne.",
+          "hu": "Ez a vezetett t\u00fara a v\u00e1rosfal rendszerint z\u00e1rt r\u00e9szeibe vezet, \u00e9s a ny\u00e1r folyam\u00e1n hetente t\u00f6bbsz\u00f6r indul a Lavoirs de la Garenne tal\u00e1lkoz\u00f3pontt\u00f3l.",
+          "ro": "Acest tur ghidat prin zone ale fortifica\u021biilor \u00een mod normal \u00eenchise publicului are loc de mai multe ori pe s\u0103pt\u0103m\u00e2n\u0103 vara, cu \u00eent\u00e2lnire la Lavoirs de la Garenne.",
+          "en": "This guided visit to normally closed sections of the fortifications runs several times a week in summer, meeting at Les lavoirs de la Garenne.",
+          "fr": "Cette visite guid\u00e9e des parties habituellement ferm\u00e9es des fortifications a lieu plusieurs fois par semaine en \u00e9t\u00e9, avec rendez-vous aux lavoirs de la Garenne."
+        },
+        "source_url": "https://www.mairie-vannes.fr/agenda/les-incontournables-les-interdits-des-fortifications-1",
+        "period": {
+          "recurrent": true
+        }
+      },
+      {
+        "date": "2026-07-26",
+        "end_date": "2026-08-14",
+        "title": {
+          "de": "Sommer-Tischtennisturniere",
+          "hu": "Ny\u00e1ri asztalitenisz-torn\u00e1k",
+          "ro": "Turneele estivale de tenis de mas\u0103",
+          "en": "Summer table tennis tournaments",
+          "fr": "Tournois d'\u00e9t\u00e9 de tennis de table"
+        },
+        "summary": {
+          "de": "Der Club de Tennis de Table de Vannes M\u00e9nimur veranstaltet freitags um 19 Uhr offene Sommerturniere in der Salle des sports du Foso.",
+          "hu": "A Vannes M\u00e9nimur asztaliteniszklub p\u00e9ntekenk\u00e9nt 19:00-kor nyitott ny\u00e1ri torn\u00e1kat rendez a Salle des sports du Foso csarnokban.",
+          "ro": "Clubul de tenis de mas\u0103 Vannes M\u00e9nimur organizeaz\u0103 vineri de la ora 19:00 turnee estivale deschise tuturor, la Salle des sports du Foso.",
+          "en": "The Vannes M\u00e9nimur table tennis club runs open summer tournaments on Fridays from 7 p.m. at the Salle des sports du Foso.",
+          "fr": "Le Club de Tennis de Table de Vannes M\u00e9nimur organise des tournois d'\u00e9t\u00e9 ouverts \u00e0 tous chaque vendredi \u00e0 partir de 19h \u00e0 la salle des sports du Foso."
+        },
+        "source_url": "https://www.mairie-vannes.fr/index.php/agenda/tournois-dete-de-tennis-de-table",
+        "period": {
+          "recurrent": true
+        }
+      }
+    ]
+  },
+  {
+    "id": "cholet",
+    "events": [
+      {
+        "date": "2026-08-04",
+        "title": {
+          "de": "F\u00fchrung: Friedhof Croix de Bault",
+          "hu": "Vezetett l\u00e1togat\u00e1s: Croix de Bault temet\u0151",
+          "ro": "Vizit\u0103 ghidat\u0103: cimitirul Croix de Bault",
+          "en": "Guided visit: Croix de Bault Cemetery",
+          "fr": "Visite : Le Cimeti\u00e8re de la Croix de Bault"
+        },
+        "summary": {
+          "de": "Diese einst\u00fcndige Themenf\u00fchrung beginnt um 10 Uhr und erschlie\u00dft das funer\u00e4re Erbe und die Stadtgeschichte des Friedhofs von Cholet.",
+          "hu": "Ez az egy\u00f3r\u00e1s tematikus l\u00e1togat\u00e1s 10:00-kor kezd\u0151dik, \u00e9s bemutatja a cholet-i temet\u0151 funer\u00e1lis \u00f6r\u00f6ks\u00e9g\u00e9t \u00e9s v\u00e1rost\u00f6rt\u00e9neti r\u00e9tegeit.",
+          "ro": "Aceast\u0103 vizit\u0103 tematic\u0103 de o or\u0103 \u00eencepe la 10:00 \u0219i prezint\u0103 patrimoniul funerar \u0219i istoria local\u0103 a cimitirului din Cholet.",
+          "en": "This one-hour themed visit starts at 10 a.m. and explores the funerary heritage and local history of Cholet's cemetery.",
+          "fr": "Cette visite th\u00e9matique d'une heure commence \u00e0 10h et fait d\u00e9couvrir le patrimoine fun\u00e9raire et l'histoire locale de ce cimeti\u00e8re choletais."
+        },
+        "source_url": "https://www.ot-cholet.fr/agenda/visite-le-cimetiere-de-la-croix-de-bault-cholet.html"
+      },
+      {
+        "date": "2026-08-13",
+        "title": {
+          "de": "F\u00fchrung: Kirche Notre-Dame",
+          "hu": "Vezetett l\u00e1togat\u00e1s: Notre-Dame-templom",
+          "ro": "Vizit\u0103 ghidat\u0103: biserica Notre-Dame",
+          "en": "Guided visit: Notre-Dame Church",
+          "fr": "Visite : l'Eglise Notre-Dame \u00e0 Cholet"
+        },
+        "summary": {
+          "de": "Die vormitt\u00e4gliche F\u00fchrung von 10 bis 11:30 Uhr stellt eines der markanten religi\u00f6sen Bauwerke im Zentrum von Cholet vor.",
+          "hu": "A d\u00e9lel\u0151tti, 10:00 \u00e9s 11:30 k\u00f6z\u00f6tti vezet\u00e9s Cholet k\u00f6zpontj\u00e1nak egyik meghat\u00e1roz\u00f3 egyh\u00e1zi \u00e9p\u00fclet\u00e9t mutatja be.",
+          "ro": "Vizita de diminea\u021b\u0103, programat\u0103 \u00eentre 10:00 \u0219i 11:30, prezint\u0103 unul dintre reperele religioase importante din centrul ora\u0219ului Cholet.",
+          "en": "This morning visit, running from 10 to 11:30 a.m., introduces one of the landmark church buildings in central Cholet.",
+          "fr": "Cette visite matinale, de 10h \u00e0 11h30, permet de d\u00e9couvrir l'un des grands rep\u00e8res religieux du centre de Cholet."
+        },
+        "source_url": "https://www.ot-cholet.fr/agenda/visite-l-eglise-notre-dame-a-cholet-cholet.html"
+      },
+      {
+        "date": "2026-08-21",
+        "end_date": "2026-08-28",
+        "title": {
+          "de": "La Guinguette du Mail",
+          "hu": "La Guinguette du Mail",
+          "ro": "La Guinguette du Mail",
+          "en": "La Guinguette du Mail",
+          "fr": "La Guinguette du Mail"
+        },
+        "summary": {
+          "de": "Im Jardin du Mail gibt es an zwei Freitagabenden von 18 bis 23 Uhr Spazieracts, offene B\u00fchnen, Konzerte und Familienanimationen in sommerlicher Guinguette-Atmosph\u00e4re.",
+          "hu": "A Jardin du Mail helysz\u00edn\u00e9n k\u00e9t p\u00e9ntek est\u00e9n 18:00 \u00e9s 23:00 k\u00f6z\u00f6tt s\u00e9t\u00e1l\u00f3 produkci\u00f3k, nyitott sz\u00ednpad, koncertek \u00e9s csal\u00e1di programok v\u00e1rj\u00e1k a l\u00e1togat\u00f3kat.",
+          "ro": "\u00cen Jardin du Mail, dou\u0103 seri de vineri, \u00eentre 18:00 \u0219i 23:00, aduc anima\u021bii ambulante, scen\u0103 deschis\u0103, concerte \u0219i activit\u0103\u021bi pentru familii \u00eentr-o atmosfer\u0103 estival\u0103 de guinguette.",
+          "en": "At the Jardin du Mail, two Friday evenings from 6 to 11 p.m. bring walkabout acts, an open stage, concerts, and family entertainment in a summer guinguette setting.",
+          "fr": "Au Jardin du Mail, deux soir\u00e9es du vendredi de 18h \u00e0 23h proposent d\u00e9ambulations, sc\u00e8ne ouverte, concert et animations familiales dans une ambiance guinguette."
+        },
+        "source_url": "https://www.ot-cholet.fr/agenda/la-guinguette-du-mail-cholet.html",
+        "period": {
+          "recurrent": true
+        }
+      },
+      {
+        "date": "2026-08-30",
+        "title": {
+          "de": "Sport en Famille 2026",
+          "hu": "Sport en Famille 2026",
+          "ro": "Sport en Famille 2026",
+          "en": "Sport en Famille 2026",
+          "fr": "Sport en Famille 2026"
+        },
+        "summary": {
+          "de": "Der Sporttag des Office Municipal du Sport bietet von 10 bis 18 Uhr 22 Disziplinen an sechs bekannten Orten in Cholet f\u00fcr alle Altersgruppen.",
+          "hu": "Az Office Municipal du Sport csal\u00e1di sportnapja 10:00 \u00e9s 18:00 k\u00f6z\u00f6tt 22 sport\u00e1gat k\u00edn\u00e1l Cholet hat ismert helysz\u00edn\u00e9n minden koroszt\u00e1ly sz\u00e1m\u00e1ra.",
+          "ro": "Ziua sportiv\u0103 organizat\u0103 de Office Municipal du Sport propune \u00eentre 10:00 \u0219i 18:00 22 de activit\u0103\u021bi \u00een \u0219ase locuri cunoscute din Cholet, pentru toate v\u00e2rstele.",
+          "en": "This family sports day from the Office Municipal du Sport offers 22 activities from 10 a.m. to 6 p.m. across six well-known Cholet venues.",
+          "fr": "Cette journ\u00e9e sportive de l'Office Municipal du Sport propose 22 activit\u00e9s de 10h \u00e0 18h sur six sites bien connus de Cholet."
+        },
+        "source_url": "https://www.ot-cholet.fr/agenda/sport-en-famille-2026-cholet.html"
+      }
+    ]
+  },
+  {
+    "id": "saint-quentin",
+    "events": [
+      {
+        "date": "2026-07-26",
+        "end_date": "2026-08-23",
+        "title": {
+          "de": "Der kleine Sommerzug",
+          "hu": "Ny\u00e1ri kisvonat",
+          "ro": "Micul tren de var\u0103",
+          "en": "The summer little train",
+          "fr": "Le petit train de l'\u00e9t\u00e9"
+        },
+        "summary": {
+          "de": "Der kostenlose Sommerzug f\u00e4hrt dienstags bis sonntags in Saint-Quentin; Kinder m\u00fcssen begleitet werden und der Zug ist barrierefrei zug\u00e4nglich.",
+          "hu": "Az ingyenes ny\u00e1ri kisvonat keddt\u0151l vas\u00e1rnapig k\u00f6zlekedik Saint-Quentinben; a gyerekeket feln\u0151ttnek kell k\u00eds\u00e9rnie, \u00e9s a vonat akad\u00e1lymentesen haszn\u00e1lhat\u00f3.",
+          "ro": "Micul tren gratuit de var\u0103 circul\u0103 de mar\u021bi p\u00e2n\u0103 duminic\u0103 \u00een Saint-Quentin; copiii trebuie \u00eens\u00e8\u021bi\u021bi de un adult, iar trenule\u021bul este accesibil PMR.",
+          "en": "The free summer train runs Tuesday to Sunday in Saint-Quentin; children must be accompanied by an adult and the train is accessible for reduced mobility users.",
+          "fr": "Le petit train gratuit de l'\u00e9t\u00e9 circule du mardi au dimanche \u00e0 Saint-Quentin ; les enfants doivent \u00eatre accompagn\u00e9s d'un adulte et le train est accessible PMR."
+        },
+        "source_url": "https://www.saint-quentin.fr/actualite/2845/283-actualites.htm",
+        "period": {
+          "recurrent": true
+        }
+      },
+      {
+        "date": "2026-07-30",
+        "end_date": "2026-08-20",
+        "title": {
+          "de": "Die Donnerstage des Sommers",
+          "hu": "Ny\u00e1ri cs\u00fct\u00f6rt\u00f6k",
+          "ro": "Joile verii",
+          "en": "Summer Thursdays",
+          "fr": "Les jeudis de l'\u00e9t\u00e9"
+        },
+        "summary": {
+          "de": "Jeden Donnerstag von 17 bis 21 Uhr bringt dieses Sommerprogramm Marktst\u00e4nde und Konzerte in den Park Champs-\u00c9lys\u00e9es.",
+          "hu": "Ez a ny\u00e1ri programsorozat minden cs\u00fct\u00f6rt\u00f6k\u00f6n 17:00 \u00e9s 21:00 k\u00f6z\u00f6tt piacot \u00e9s koncerteket visz a Champs-\u00c9lys\u00e9es parkba.",
+          "ro": "Acest program estival aduce \u00een fiecare joi, \u00eentre 17:00 \u0219i 21:00, standuri \u0219i concerte \u00een parcul Champs-\u00c9lys\u00e9es.",
+          "en": "Every Thursday from 5 to 9 p.m., this summer program brings stalls and concerts to the Champs-\u00c9lys\u00e9es park.",
+          "fr": "Chaque jeudi de 17h \u00e0 21h, ce rendez-vous estival installe stands et concerts au parc des Champs-\u00c9lys\u00e9es."
+        },
+        "source_url": "https://www.saint-quentin.fr/1832-nos-artisans-ont-du-talent-.htm",
+        "period": {
+          "recurrent": true
+        }
+      },
+      {
+        "date": "2026-07-26",
+        "end_date": "2026-08-30",
+        "title": {
+          "de": "Plage d'Isle",
+          "hu": "Plage d'Isle",
+          "ro": "Plage d'Isle",
+          "en": "Plage d'Isle",
+          "fr": "Plage d'Isle"
+        },
+        "summary": {
+          "de": "Der Sommerstrand im Parc d'Isle ist dienstags bis sonntags von 14 bis 19 Uhr ge\u00f6ffnet und bietet bewachtes Baden sowie Freizeitaktivit\u00e4ten.",
+          "hu": "A Parc d'Isle ny\u00e1ri strandja keddenk\u00e9nt \u00e9s vas\u00e1rnaponk\u00e9nt 14:00 \u00e9s 19:00 k\u00f6z\u00f6tt tart nyitva, fel\u00fcgyelt f\u00fcrd\u00e9ssel \u00e9s szabadid\u0151s programokkal.",
+          "ro": "Plaja estival\u0103 din Parc d'Isle este deschis\u0103 de mar\u021bi p\u00e2n\u0103 duminic\u0103, \u00eentre 14:00 \u0219i 19:00, cu zon\u0103 de \u00eemb\u0103iere supravegheat\u0103 \u0219i activit\u0103\u021bi de agrement.",
+          "en": "The summer beach at Parc d'Isle is open Tuesday to Sunday from 2 to 7 p.m., with supervised bathing and leisure activities.",
+          "fr": "La plage estivale du Parc d'Isle est ouverte du mardi au dimanche de 14h \u00e0 19h, avec baignade surveill\u00e9e et activit\u00e9s de loisirs."
+        },
+        "source_url": "https://www.saint-quentin.fr/421-parc-d-isle.htm",
+        "period": {
+          "recurrent": true
+        }
+      },
+      {
+        "date": "2026-08-03",
+        "end_date": "2026-08-07",
+        "title": {
+          "de": "D\u00e9f'Isle Sports",
+          "hu": "D\u00e9f'Isle Sports",
+          "ro": "D\u00e9f'Isle Sports",
+          "en": "Def'Isle Sports",
+          "fr": "D\u00e9f'Isle Sports"
+        },
+        "summary": {
+          "de": "Die kostenlose Sportwoche im Parc d'Isle l\u00e4dt vom 3. bis 7. August dazu ein, neue Disziplinen in einem offenen Sommerprogramm auszuprobieren.",
+          "hu": "Az ingyenes sporth\u00e9t a Parc d'Isle ter\u00fclet\u00e9n augusztus 3. \u00e9s 7. k\u00f6z\u00f6tt \u00faj sport\u00e1gak kipr\u00f3b\u00e1l\u00e1s\u00e1ra h\u00edv egy nyitott ny\u00e1ri program keret\u00e9ben.",
+          "ro": "S\u0103pt\u0103m\u00e2na sportiv\u0103 gratuit\u0103 din Parc d'Isle, organizat\u0103 \u00eentre 3 \u0219i 7 august, invit\u0103 publicul s\u0103 descopere discipline noi \u00eentr-un program estival deschis.",
+          "en": "This free sports week at Parc d'Isle, running from August 3 to 7, invites visitors to try new disciplines in an open summer program.",
+          "fr": "Cette semaine sportive gratuite au Parc d'Isle, du 3 au 7 ao\u00fbt, invite le public \u00e0 d\u00e9couvrir de nouvelles disciplines dans un programme estival ouvert \u00e0 tous."
+        },
+        "source_url": "https://www.saint-quentin.fr/141-animations-et-evenements.htm"
+      },
+      {
+        "date": "2026-07-26",
+        "end_date": "2026-09-27",
+        "title": {
+          "de": "Jazz en \u00e9t\u00e9",
+          "hu": "Jazz en \u00e9t\u00e9",
+          "ro": "Jazz en \u00e9t\u00e9",
+          "en": "Jazz en \u00e9t\u00e9",
+          "fr": "Jazz en \u00e9t\u00e9"
+        },
+        "summary": {
+          "de": "Diese stadtweite Sommer-Jazzreihe bespielt bis Ende September das Conservatoire, die Champs-\u00c9lys\u00e9es und die Manufacture mit einem abwechslungsreichen Programm.",
+          "hu": "Ez a v\u00e1rosszerte zajl\u00f3 ny\u00e1ri jazzsorozat szeptember v\u00e9g\u00e9ig a Conservatoire, a Champs-\u00c9lys\u00e9es \u00e9s a Manufacture helysz\u00ednein k\u00edn\u00e1l v\u00e1ltozatos programot.",
+          "ro": "Aceast\u0103 serie estival\u0103 de jazz anim\u0103 p\u00e2n\u0103 la sf\u00e2r\u0219itul lui septembrie Conservatorul, Champs-\u00c9lys\u00e9es \u0219i Manufacture cu un program variat.",
+          "en": "This citywide summer jazz series runs through late September across the Conservatory, the Champs-\u00c9lys\u00e9es, and the Manufacture with a varied program.",
+          "fr": "Cette s\u00e9rie estivale de jazz anime jusqu'\u00e0 fin septembre le Conservatoire, les Champs-\u00c9lys\u00e9es et la Manufacture avec une programmation vari\u00e9e."
+        },
+        "source_url": "https://www.saint-quentin.fr/PAR_TPL_IDENTIFIANT//264-tous-les-evenements.htm?cp=2091fb23f610d9b8837b&ip=2&mp=10&op=EVJ_DATE%2C+EVP_DATEDEBUT+asc",
+        "period": {
+          "recurrent": true
+        }
+      }
+    ]
+  }
+]

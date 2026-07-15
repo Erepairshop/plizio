@@ -1,0 +1,319 @@
+[
+  {
+    "id": "city-barlad-extra",
+    "events": [
+      {
+        "date": "2026-08-20",
+        "title": {
+          "de": "Bârlad International Film Festival 2026",
+          "hu": "Bârlad Nemzetközi Filmfesztivál 2026",
+          "ro": "Bârlad International Film Festival 2026",
+          "en": "Bârlad International Film Festival 2026"
+        },
+        "summary": {
+          "de": "Das Festival bringt einen ganzen Tag lang internationale Spiel- und Kurzfilme nach Bârlad und richtet sich an Filmfans, Kreative und neugierige Besucher.",
+          "hu": "Az egynapos fesztivál nemzetközi játék- és rövidfilmeket hoz Bârladra, filmes érdeklődőknek, alkotóknak és látogatóknak.",
+          "ro": "Festivalul aduce la Bârlad, pe durata unei zile, proiecții de lungmetraje și scurtmetraje internaționale pentru cinefili, creatori și publicul larg.",
+          "en": "This one-day festival brings international feature and short films to Bârlad for cinephiles, creators, and general visitors."
+        },
+        "source_url": "https://festhome.com/en/festival/barlad-international-film-festival"
+      }
+    ]
+  },
+  {
+    "id": "viterbo",
+    "events": [
+      {
+        "date": "2026-07-26",
+        "end_date": "2026-08-01",
+        "title": {
+          "de": "Ombre Festival",
+          "hu": "Ombre Fesztivál",
+          "ro": "Festivalul Ombre",
+          "en": "Ombre Festival"
+        },
+        "summary": {
+          "de": "Das städtische Sommerfestival belebt Plätze in Viterbo mit einem dichten Kulturprogramm aus Gesprächen, Shows und Begegnungen mit prominenten Gästen.",
+          "hu": "A városi nyári fesztivál Viterbo tereit beszélgetésekkel, előadásokkal és ismert vendégekkel tölti meg.",
+          "ro": "Festivalul estival al orașului animă piețele din Viterbo cu dezbateri, spectacole și întâlniri cu invitați cunoscuți.",
+          "en": "The city’s summer festival fills Viterbo’s squares with talks, performances, and appearances by high-profile guests."
+        },
+        "source_url": "https://comune.viterbo.it/vivere-il-comune/eventi/ombre-festival-dal-5-luglio-al-1-agosto/"
+      },
+      {
+        "date": "2026-08-05",
+        "title": {
+          "de": "Massimiliano Gallo: Lettera ad Eduardo",
+          "hu": "Massimiliano Gallo: Lettera ad Eduardo",
+          "ro": "Massimiliano Gallo: Lettera ad Eduardo",
+          "en": "Massimiliano Gallo: Lettera ad Eduardo"
+        },
+        "summary": {
+          "de": "Beim Ferento Teatro Festival spielt Massimiliano Gallo im römischen Theater von Ferento einen Theaterabend, der Eduardo De Filippo gewidmet ist.",
+          "hu": "A Ferento Teatro Festival keretében Massimiliano Gallo a ferentói római színházban ad elő Eduardo De Filippo előtt tisztelgő estet.",
+          "ro": "În cadrul Ferento Teatro Festival, Massimiliano Gallo prezintă la teatrul roman din Ferento un spectacol dedicat lui Eduardo De Filippo.",
+          "en": "As part of the Ferento Teatro Festival, Massimiliano Gallo performs a theatre evening dedicated to Eduardo De Filippo at the Roman theatre in Ferento."
+        },
+        "source_url": "https://ticketitalia.com/en/massimiliano-gallo-teatro-romano-ferento-august-5-2026-at-9-15-pm"
+      },
+      {
+        "date": "2026-08-08",
+        "end_date": "2026-08-22",
+        "period": {
+          "recurrent": true
+        },
+        "title": {
+          "de": "Erzählte Spaziergänge entlang der Route der Macchina di Santa Rosa",
+          "hu": "Mesélő séták a Macchina di Santa Rosa útvonalán",
+          "ro": "Plimbări narate pe traseul Mașinii di Santa Rosa",
+          "en": "Narrated walks along the Macchina di Santa Rosa route"
+        },
+        "summary": {
+          "de": "An ausgewählten Samstagen führen Guide und Facchino Besucher von San Sisto bis zum Heiligtum von Santa Rosa und erzählen Geschichten rund um das berühmte Stadtfest.",
+          "hu": "Kijelölt szombatokon idegenvezető és facchino vezeti a látogatókat San Sisto és a Santa Rosa-szentély között, a város híres ünnepéről mesélve.",
+          "ro": "În anumite sâmbete, un ghid și un facchino îi conduc pe vizitatori de la San Sisto la sanctuarul Santa Rosa, povestind despre celebra sărbătoare a orașului.",
+          "en": "On selected Saturdays, a guide and a facchino lead visitors from San Sisto to the Santa Rosa sanctuary, sharing stories about the city’s iconic celebration."
+        },
+        "source_url": "https://comune.viterbo.it/vivere-il-comune/eventi/passeggiate-narrate-lungo-il-percorso-della-macchina-di-santa-rosa-6/"
+      },
+      {
+        "date": "2026-09-03",
+        "title": {
+          "de": "Trasporto der Macchina di Santa Rosa",
+          "hu": "A Santa Rosa-gép hordozása",
+          "ro": "Transportul Mașinii di Santa Rosa",
+          "en": "Transport of the Macchina di Santa Rosa"
+        },
+        "summary": {
+          "de": "Viterbos berühmteste Nachtprozession trägt die monumentale Macchina di Santa Rosa durch die Stadt und ist eines der wichtigsten Besucherereignisse des Jahres.",
+          "hu": "Viterbo leghíresebb éjszakai körmenete során a monumentális Macchina di Santa Rosa halad végig a városon, ez az év egyik legfontosabb eseménye a látogatók számára.",
+          "ro": "Cea mai celebră procesiune nocturnă din Viterbo poartă impresionanta Macchina di Santa Rosa prin oraș și reprezintă unul dintre marile evenimente ale anului.",
+          "en": "Viterbo’s best-known night procession carries the monumental Macchina di Santa Rosa through the city and is one of the year’s major visitor events."
+        },
+        "source_url": "https://comune.viterbo.it/vivi-viterbo-2026/"
+      }
+    ]
+  },
+  {
+    "id": "city-targoviste",
+    "events": [
+      {
+        "date": "2026-08-12",
+        "title": {
+          "de": "Best of Toma & Popesco",
+          "hu": "Best of Toma & Popesco",
+          "ro": "Best of Toma & Popesco",
+          "en": "Best of Toma & Popesco"
+        },
+        "summary": {
+          "de": "Das Stand-up-Duo bringt in der Berăria Vlad Țepeș einen Best-of-Abend mit ihren beliebtesten Nummern auf die Bühne.",
+          "hu": "A stand-up páros a Berăria Vlad Țepeș helyszínén a legnépszerűbb poénjaikból válogatott estet ad.",
+          "ro": "Cei doi comedianți aduc la Berăria Vlad Țepeș un spectacol best-of cu unele dintre cele mai apreciate glume ale lor.",
+          "en": "The comedy duo brings a best-of stand-up set featuring some of their most popular material to Berăria Vlad Țepeș."
+        },
+        "source_url": "https://m.iabilet.ro/bilete-targoviste-stand-up-comedy-best-of-toma-popesco-127751/?ica_campaign=targoviste&ica_medium=mobile&ica_source=TownPage&ica_term="
+      },
+      {
+        "date": "2026-08-28",
+        "title": {
+          "de": "Tavi Colen & Emma de la Zu",
+          "hu": "Tavi Colen & Emma de la Zu",
+          "ro": "Tavi Colen & Emma de la Zu",
+          "en": "Tavi Colen & Emma de la Zu"
+        },
+        "summary": {
+          "de": "In der Berăria Vlad Țepeș steht ein Liveabend mit Tavi Colen, Emma de la Zu und Band auf dem Programm.",
+          "hu": "A Berăria Vlad Țepeș színpadán Tavi Colen, Emma de la Zu és zenekaruk élő koncertje várja a közönséget.",
+          "ro": "Berăria Vlad Țepeș găzduiește o seară de muzică live cu Tavi Colen, Emma de la Zu și trupa lor.",
+          "en": "Berăria Vlad Țepeș hosts a live music evening with Tavi Colen, Emma de la Zu, and their band."
+        },
+        "source_url": "https://m.iabilet.ro/bilete-targoviste-tavi-colen-emma-de-la-zu-128248/?ica_campaign=targoviste&ica_medium=mobile&ica_source=TownPage&ica_term="
+      },
+      {
+        "date": "2026-09-17",
+        "title": {
+          "de": "Stand-Up Fight mit Vio und Mălăele",
+          "hu": "Stand-Up Fight Vióval és Mălăelével",
+          "ro": "Stand-Up Fight cu Vio și Mălăele",
+          "en": "Stand-Up Fight with Vio and Mălăele"
+        },
+        "summary": {
+          "de": "Der Clubabend in der Berăria Vlad Țepeș setzt auf einen schnellen Comedy-Schlagabtausch von Vio Dragu und Bogdan Mălăele.",
+          "hu": "A Berăria Vlad Țepeș estjén Vio Dragu és Bogdan Mălăele gyors, ütős stand-up párbaja várható.",
+          "ro": "Seara de la Berăria Vlad Țepeș propune un duel de stand-up alert între Vio Dragu și Bogdan Mălăăele.",
+          "en": "This club night at Berăria Vlad Țepeș features a fast-paced stand-up faceoff between Vio Dragu and Bogdan Mălăele."
+        },
+        "source_url": "https://m.iabilet.ro/bilete-targoviste-stand-up-fight-cu-vio-si-malaele-stand-up-comedy-show-128320/?ica_campaign=targoviste&ica_medium=mobile&ica_source=TownPage&ica_term="
+      },
+      {
+        "date": "2026-11-23",
+        "title": {
+          "de": "„Asta-i ce-am avut de zis…”",
+          "hu": "„Asta-i ce-am avut de zis…”",
+          "ro": "„Asta-i ce-am avut de zis…”",
+          "en": "\"Asta-i ce-am avut de zis…\""
+        },
+        "summary": {
+          "de": "Horațiu Mălăele und Nicu Alifantis verbinden im Cinema Independenta Poesie, Musik, Humor und Monologe zu einem gemeinsamen Bühnenabend.",
+          "hu": "Horațiu Mălăele és Nicu Alifantis a Cinema Independenta színpadán költészetet, zenét, humort és monológokat kapcsol össze.",
+          "ro": "Horațiu Mălăele și Nicu Alifantis aduc la Cinema Independenta un spectacol care îmbină poezia, muzica, umorul și monologul.",
+          "en": "Horațiu Mălăele and Nicu Alifantis bring poetry, music, humour, and monologues together for a shared stage performance at Cinema Independenta."
+        },
+        "source_url": "https://m.iabilet.ro/bilete-targoviste-asta-i-ce-am-avut-de-zis-horatiu-malaele-nicu-alifantis-126126/?ica_campaign=targoviste&ica_medium=mobile&ica_source=TownPage&ica_term="
+      }
+    ]
+  },
+  {
+    "id": "quimper",
+    "events": [
+      {
+        "date": "2026-07-23",
+        "end_date": "2026-07-26",
+        "title": {
+          "de": "Festival de Cornouaille",
+          "hu": "Cornouaille Fesztivál",
+          "ro": "Festivalul de Cornouaille",
+          "en": "Cornouaille Festival",
+          "fr": "Festival de Cornouaille"
+        },
+        "summary": {
+          "de": "Das große bretonische Kulturfestival bringt Trachten, Musik, Paraden und vielfältige Aufführungen in die Altstadt von Quimper.",
+          "hu": "A nagy breton kulturális fesztivál népviseletekkel, zenével, felvonulásokkal és sokféle előadással tölti meg Quimper óvárosát.",
+          "ro": "Marele festival al culturii bretoane aduce în centrul vechi din Quimper costume tradiționale, muzică, parade și spectacole diverse.",
+          "en": "This major Breton culture festival fills Quimper’s old town with traditional dress, music, parades, and a wide range of performances.",
+          "fr": "Ce grand festival de culture bretonne anime le centre historique de Quimper avec costumes, musique, défilés et spectacles variés."
+        },
+        "source_url": "https://www.brittanytourism.com/matching-what-i-want/culture-and-heritage/brittanys-main-events/festival-le-cornouaille/"
+      },
+      {
+        "date": "2026-07-26",
+        "end_date": "2026-08-23",
+        "period": {
+          "recurrent": true
+        },
+        "title": {
+          "de": "Lehrvorführung Falknerei „Les ailes de l’Urga“",
+          "hu": "„Les ailes de l’Urga” solymászbemutató",
+          "ro": "Spectacolul pedagogic de șoimărie „Les ailes de l’Urga”",
+          "en": "Educational falconry show \"Les ailes de l’Urga\"",
+          "fr": "Spectacle pédagogique de fauconnerie « Les ailes de l’Urga »"
+        },
+        "summary": {
+          "de": "An Sommer-Sonntagen zeigt das Domaine de Lanniron Greifvogel-Flüge und familienfreundliche Falknerei-Erklärungen mit Zugang zu Gärten und Freizeitangeboten.",
+          "hu": "A Domaine de Lanniron nyári vasárnapokon ragadozómadár-bemutatókat és családbarát solymászmagyarázatokat kínál, a kertek és szabadidős programok elérésével.",
+          "ro": "În duminicile de vară, Domaine de Lanniron oferă zboruri de păsări de pradă și explicații de șoimărie pentru familii, cu acces la grădini și activități de agrement.",
+          "en": "On summer Sundays, Domaine de Lanniron offers birds-of-prey flight displays and family-friendly falconry interpretation, with access to the gardens and leisure activities.",
+          "fr": "Les dimanches d’été, le Domaine de Lanniron propose des vols de rapaces et une découverte familiale de la fauconnerie, avec accès aux jardins et aux loisirs."
+        },
+        "source_url": "https://www.quimper-tourisme.bzh/event-type/concert/"
+      },
+      {
+        "date": "2026-08-01",
+        "end_date": "2026-08-02",
+        "title": {
+          "de": "Festival Drag Baz’Hart XXL",
+          "hu": "Drag Baz’Hart XXL Fesztivál",
+          "ro": "Festivalul Drag Baz’Hart XXL",
+          "en": "Drag Baz’Hart XXL Festival",
+          "fr": "Festival Drag Baz’Hart XXL"
+        },
+        "summary": {
+          "de": "Im Jardin de l’Évêché läuft eine große Sommerausgabe des Drag-Formats mit Shows, Bar und Gastronomie bis tief in die Nacht.",
+          "hu": "A Jardin de l’Évêché kertben a drag-rendezvénysorozat nyári XXL kiadása zajlik műsorokkal, bárral és vendéglátással késő éjszakáig.",
+          "ro": "În Jardin de l’Évêché are loc ediția XXL de vară a evenimentului drag, cu show-uri, bar și zonă de food până târziu în noapte.",
+          "en": "At Jardin de l’Évêché, the summer XXL edition of the drag event runs with performances, a bar, and food service late into the night.",
+          "fr": "Au Jardin de l’Évêché, l’édition estivale XXL de l’événement drag propose des shows, un bar et de la restauration jusque tard dans la nuit."
+        },
+        "source_url": "https://www.quimper-tourisme.bzh/event-type/concert/"
+      },
+      {
+        "date": "2026-08-01",
+        "end_date": "2026-08-31",
+        "title": {
+          "de": "Summer Kemp’",
+          "hu": "Summer Kemp’",
+          "ro": "Summer Kemp’",
+          "en": "Summer Kemp’",
+          "fr": "Summer Kemp’"
+        },
+        "summary": {
+          "de": "Quimpers städtisches Sommerprogramm bündelt bis Ende August Kultur- und Sportanimationen für Besucher und Einheimische.",
+          "hu": "Quimper nyári városi programsorozata augusztus végéig kulturális és sportos programokat kínál látogatóknak és helyieknek.",
+          "ro": "Programul estival al orașului Quimper reunește până la sfârșitul lunii august animații culturale și sportive pentru vizitatori și localnici.",
+          "en": "Quimper’s municipal summer programme runs through the end of August with cultural and sports activities for visitors and locals.",
+          "fr": "Le programme d’été de la ville de Quimper se poursuit jusqu’à la fin août avec des animations culturelles et sportives pour visiteurs et habitants."
+        },
+        "source_url": "https://www.quimper-bretagne-occidentale.bzh/evenement/48990/164-summer-kemp-le-programme-de-votre-ete-2026.htm"
+      }
+    ]
+  },
+  {
+    "id": "ro-poi-focsani",
+    "events": [
+      {
+        "date": "2026-10-08",
+        "title": {
+          "de": "Burlac la 40 de ani",
+          "hu": "Burlac la 40 de ani",
+          "ro": "Burlac la 40 de ani",
+          "en": "Bachelor at 40"
+        },
+        "summary": {
+          "de": "Die Komödie im Teatrul Municipal „Maior Gheorghe Pastia“ kreist um Freundschaft, Liebesdilemmata und turbulente Entscheidungen.",
+          "hu": "A Teatrul Municipal „Maior Gheorghe Pastia” vígjátéka barátságról, szerelmi dilemmákról és zűrös döntésekről szól.",
+          "ro": "Comedia programată la Teatrul Municipal „Maior Gheorghe Pastia” urmărește prietenia, dilemele amoroase și alegerile complicate ale personajelor.",
+          "en": "This comedy at Teatrul Municipal \"Maior Gheorghe Pastia\" centres on friendship, romantic dilemmas, and chaotic choices."
+        },
+        "source_url": "https://m.iabilet.ro/bilete-focsani-burlac-la-40-de-ani-128118/?ica_campaign=focsani&ica_medium=mobile&ica_source=TownPage&ica_term="
+      },
+      {
+        "date": "2026-10-26",
+        "title": {
+          "de": "Richard 3.0",
+          "hu": "Richard 3.0",
+          "ro": "Richard 3.0",
+          "en": "Richard 3.0"
+        },
+        "summary": {
+          "de": "Die moderne Shakespeare-Adaption zeigt im Theater von Focșani eine minimalistische Inszenierung über Manipulation, Macht und das Erkennen des Bösen.",
+          "hu": "A modern Shakespeare-adaptáció a focșani színházban minimalista formában beszél manipulációról, hatalomról és a rossz felismeréséről.",
+          "ro": "Adaptarea modernă după Shakespeare propune la teatrul din Focșani o montare minimalistă despre manipulare, putere și recunoașterea răului.",
+          "en": "This modern Shakespeare adaptation brings a minimalist production about manipulation, power, and recognizing evil to Focșani’s theatre."
+        },
+        "source_url": "https://m.iabilet.ro/bilete-focsani-richard-3-0-dupa-william-shakespeare-premiera-127486/?ica_campaign=focsani&ica_medium=mobile&ica_source=TownPage&ica_term="
+      },
+      {
+        "date": "2026-10-29",
+        "title": {
+          "de": "3 Sud Est: Amintiri pentru o viață",
+          "hu": "3 Sud Est: Amintiri pentru o viață",
+          "ro": "3 Sud Est: Amintiri pentru o viață",
+          "en": "3 Sud Est: Memories for a Lifetime"
+        },
+        "summary": {
+          "de": "Die bekannte Popgruppe bringt ihre Jubiläumstour mit nostalgischen Hits und einem großen Liveshow-Abend in die Sala Balada.",
+          "hu": "A népszerű popegyüttes jubileumi turnéja nosztalgikus slágerekkel és nagyszabású élő show-val érkezik a Sala Balada színpadára.",
+          "ro": "Trupa pop bine cunoscută ajunge la Sala Balada cu turneul aniversar și un concert construit în jurul hiturilor sale emblematice.",
+          "en": "The well-known pop group brings its anniversary tour to Sala Balada with a live show built around its signature hits."
+        },
+        "source_url": "https://m.iabilet.ro/bilete-focsani-concert-3-sud-est-amintiri-pentru-o-viata-128646/?ica_campaign=focsani&ica_medium=mobile&ica_source=TownPage&ica_term="
+      },
+      {
+        "date": "2026-11-20",
+        "title": {
+          "de": "Direcția 5: 100% Direcția 5",
+          "hu": "Direcția 5: 100% Direcția 5",
+          "ro": "Direcția 5: 100% Direcția 5",
+          "en": "Direcția 5: 100% Direcția 5"
+        },
+        "summary": {
+          "de": "Das Jubiläumskonzert im Ateneul Popular Focșani feiert die bekanntesten Songs der Band, mit Antract als Special Guest.",
+          "hu": "Az Ateneul Popular Focșani jubileumi koncertjén a zenekar legismertebb dalai hangzanak el, különleges vendégként az Antracttal.",
+          "ro": "Concertul aniversar de la Ateneul Popular Focșani reunește cele mai cunoscute piese ale formației, cu Antract ca invitați speciali.",
+          "en": "This anniversary concert at Ateneul Popular Focșani celebrates the band’s best-known songs, with Antract as special guests."
+        },
+        "source_url": "https://m.iabilet.ro/bilete-focsani-concert-directia-5-100-directia-5-124272/?ica_campaign=focsani&ica_medium=mobile&ica_source=TownPage&ica_term="
+      }
+    ]
+  }
+]

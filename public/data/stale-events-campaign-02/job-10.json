@@ -1,0 +1,415 @@
+[
+  {
+    "id": "city-waterford",
+    "events": [
+      {
+        "date": "2026-07-31",
+        "end_date": "2026-08-02",
+        "title": {
+          "de": "Spraoi International Street Arts Festival 2026",
+          "hu": "Spraoi Nemzetközi Utcai Művészeti Fesztivál 2026",
+          "ro": "Festivalul Internațional de Artă Stradală Spraoi 2026",
+          "en": "Spraoi International Street Arts Festival 2026"
+        },
+        "summary": {
+          "de": "Das große Straßenkunstfestival bespielt Waterfords Zentrum drei Tage lang mit Parade, Musik, Zirkus, Installationen und familienfreundlichen Open-Air-Acts.",
+          "hu": "A belvárosi utcai művészeti fesztivál három napon át parádéval, zenével, cirkusszal, installációkkal és családbarát szabadtéri programokkal tölti meg Waterfordot.",
+          "ro": "Marele festival de artă stradală animă centrul orașului timp de trei zile cu paradă, muzică, circ, instalații și spectacole în aer liber pentru familii.",
+          "en": "The city-centre street arts festival fills Waterford with a parade, music, circus, installations, and family-friendly outdoor performances over three days."
+        },
+        "source_url": "https://spraoi.com/"
+      },
+      {
+        "date": "2026-07-18",
+        "end_date": "2026-10-10",
+        "title": {
+          "de": "AIB Portrait Prize & AIB Young Portrait Prize",
+          "hu": "AIB Portrait Prize és AIB Young Portrait Prize",
+          "ro": "AIB Portrait Prize și AIB Young Portrait Prize",
+          "en": "AIB Portrait Prize & AIB Young Portrait Prize"
+        },
+        "summary": {
+          "de": "Die Waterford Gallery of Art zeigt die renommierte Porträt-Ausstellung mit freiem Eintritt sowie Begleitprogramm aus Führungen, Talks und Workshops.",
+          "hu": "A Waterford Gallery of Art a rangos portrékiállítást ingyenes belépéssel, valamint tárlatvezetésekkel, beszélgetésekkel és workshopokkal mutatja be.",
+          "ro": "Waterford Gallery of Art găzduiește cunoscuta expoziție de portret cu acces gratuit și un program complementar de tururi, discuții și ateliere.",
+          "en": "Waterford Gallery of Art hosts the major portrait exhibition with free admission and a supporting program of tours, talks, and workshops."
+        },
+        "source_url": "https://waterfordgalleryofart.com/"
+      },
+      {
+        "date": "2026-09-05",
+        "end_date": "2026-09-07",
+        "title": {
+          "de": "Waterford Harvest Festival 2026",
+          "hu": "Waterford Harvest Festival 2026",
+          "ro": "Waterford Harvest Festival 2026",
+          "en": "Waterford Harvest Festival 2026"
+        },
+        "summary": {
+          "de": "Das Stadtfestival bringt Food-Stände, Kochvorführungen, Musik und Familienprogramm in die Innenstadt von Waterford.",
+          "hu": "A városi fesztivál gasztrostandokkal, főzőbemutatókkal, zenével és családi programokkal tölti meg Waterford központját.",
+          "ro": "Festivalul urban aduce în centrul Waterfordului standuri gastronomice, demonstrații culinare, muzică și activități pentru familii.",
+          "en": "The city festival brings food stalls, cooking demos, music, and family activities into central Waterford."
+        },
+        "source_url": "https://waterfordcouncil.ie/waterford-harvest-festival-returns-this-september/"
+      },
+      {
+        "date": "2026-10-01",
+        "end_date": "2026-10-31",
+        "title": {
+          "de": "Imagine Arts Festival 2026",
+          "hu": "Imagine Arts Festival 2026",
+          "ro": "Imagine Arts Festival 2026",
+          "en": "Imagine Arts Festival 2026"
+        },
+        "summary": {
+          "de": "Das jährliche Kunstfestival verwandelt Waterford im Oktober mit Theater, Musik, Tanz, Literatur und bildender Kunst in eine Festivalstadt.",
+          "hu": "Az éves művészeti fesztivál októberben színházzal, zenével, tánccal, irodalommal és képzőművészettel tölti meg Waterfordot.",
+          "ro": "Festivalul anual de arte transformă Waterfordul în octombrie prin teatru, muzică, dans, literatură și arte vizuale.",
+          "en": "The annual arts festival turns Waterford into a city-wide October program of theatre, music, dance, literature, and visual art."
+        },
+        "source_url": "https://www.imagineartsfestival.com/",
+        "period": {
+          "recurrent": true
+        }
+      }
+    ]
+  },
+  {
+    "id": "frejus",
+    "events": [
+      {
+        "date": "2026-06-27",
+        "end_date": "2026-08-30",
+        "title": {
+          "de": "Nachtmarkt von Fréjus-Plage",
+          "hu": "Fréjus-Plage esti piac",
+          "ro": "Piața de seară din Fréjus-Plage",
+          "en": "Fréjus-Plage Night Market",
+          "fr": "Marché nocturne de Fréjus-Plage"
+        },
+        "summary": {
+          "de": "Der sommerliche Markt entlang der Strandpromenade lädt abends zum Bummeln zwischen Kunsthandwerk, lokalen Produkten und Snacks am Meer ein.",
+          "hu": "A tengerparti sétány nyári esti piaca kézműves portékákkal, helyi termékekkel és harapnivalókkal várja a látogatókat.",
+          "ro": "Piața estivală de pe faleză oferă seri de plimbare printre standuri cu artizanat, produse locale și gustări lângă mare.",
+          "en": "The summer seafront market offers evening browsing among craft stalls, local products, and snacks by the beach.",
+          "fr": "Le marché d'été sur le front de mer propose des stands d'artisanat, des produits locaux et une promenade animée en soirée."
+        },
+        "source_url": "https://www.frejus-tourist-office.com/agenda/marches/",
+        "period": {
+          "recurrent": true
+        }
+      },
+      {
+        "date": "2026-06-27",
+        "end_date": "2026-08-30",
+        "title": {
+          "de": "Nachtmarkt von Port-Fréjus",
+          "hu": "Port-Fréjus esti piac",
+          "ro": "Piața de seară din Port-Fréjus",
+          "en": "Port-Fréjus Night Market",
+          "fr": "Marché nocturne de Port-Fréjus"
+        },
+        "summary": {
+          "de": "Auch am Hafen von Port-Fréjus läuft ein abendlicher Sommermarkt mit Ständen, Spazieratmosphäre und direkter Marina-Lage.",
+          "hu": "Port-Fréjus kikötőjében is esti nyári piac működik, standokkal és kellemes sétahangulattal a marinánál.",
+          "ro": "Și în zona portului Port-Fréjus are loc un târg estival de seară, cu standuri și atmosferă de promenadă la marină.",
+          "en": "Port-Fréjus also hosts an evening summer market with stalls and a marina-side promenade atmosphere.",
+          "fr": "Le port accueille lui aussi un marché nocturne estival avec stands, promenade et ambiance de marina."
+        },
+        "source_url": "https://www.frejus-tourist-office.com/agenda/",
+        "period": {
+          "recurrent": true
+        }
+      },
+      {
+        "date": "2026-06-30",
+        "end_date": "2026-08-27",
+        "title": {
+          "de": "Fréjus-centre en musique",
+          "hu": "Fréjus belvárosa zenében",
+          "ro": "Fréjus-centre en musique",
+          "en": "Fréjus-Centre in Music",
+          "fr": "Fréjus-centre en musique"
+        },
+        "summary": {
+          "de": "Die kostenlose Sommerreihe belebt das historische Zentrum mit Musikabenden im Freien während der Hochsaison.",
+          "hu": "Az ingyenes nyári sorozat szabadtéri zenei estekkel pezsdíti fel a történelmi városközpontot.",
+          "ro": "Seria gratuită de vară animă centrul istoric cu seri muzicale în aer liber pe durata sezonului turistic.",
+          "en": "The free summer series brings open-air music evenings into the historic town centre throughout the holiday season.",
+          "fr": "Cette série gratuite anime le centre historique avec des soirées musicales en plein air tout l'été."
+        },
+        "source_url": "https://www.frejus-tourist-office.com/agenda/",
+        "period": {
+          "recurrent": true
+        }
+      },
+      {
+        "date": "2026-07-03",
+        "end_date": "2026-08-28",
+        "title": {
+          "de": "Fest’Aygulf",
+          "hu": "Fest’Aygulf",
+          "ro": "Fest’Aygulf",
+          "en": "Fest’Aygulf",
+          "fr": "Fest’Aygulf"
+        },
+        "summary": {
+          "de": "Das Sommerprogramm in Saint-Aygulf bietet kostenlose Ferienunterhaltung und Abendveranstaltungen im Ortsteil von Fréjus.",
+          "hu": "A Saint-Aygulfban zajló nyári programsorozat ingyenes üdülőhelyi és esti rendezvényeket kínál Fréjus ezen városrészében.",
+          "ro": "Programul estival din Saint-Aygulf propune animație gratuită și seri de vacanță în cartierul litoral al Fréjusului.",
+          "en": "The Saint-Aygulf summer program offers free resort entertainment and evening activities in this Fréjus district.",
+          "fr": "Le programme estival de Saint-Aygulf propose des animations gratuites et des soirées de vacances tout l'été."
+        },
+        "source_url": "https://www.frejus-tourist-office.com/agenda/",
+        "period": {
+          "recurrent": true
+        }
+      }
+    ]
+  },
+  {
+    "id": "clamart",
+    "events": [
+      {
+        "date": "2026-07-18",
+        "end_date": "2026-08-09",
+        "title": {
+          "de": "Clamart Plage 2026",
+          "hu": "Clamart Plage 2026",
+          "ro": "Clamart Plage 2026",
+          "en": "Clamart Plage 2026",
+          "fr": "Clamart Plage 2026"
+        },
+        "summary": {
+          "de": "Das sommerliche Freizeitdorf im Jardin Parisien bietet Sport, Spiel und Familienaktivitäten in tropischer Atmosphäre.",
+          "hu": "A Jardin Parisien nyári szabadidős helyszíne sporttal, játékokkal és családi programokkal vár trópusi hangulatban.",
+          "ro": "Spațiul estival din Jardin Parisien propune sport, joacă și activități pentru familii într-o atmosferă tropicală.",
+          "en": "The summer leisure village at Jardin Parisien offers sports, games, and family activities in a tropical setting.",
+          "fr": "Le village estival du Jardin Parisien propose sports, jeux et activités familiales dans une ambiance tropicale."
+        },
+        "source_url": "https://www.clamart.fr/fr/agenda/clamart-plage-2026-dans-une-ambiance-tropicale"
+      },
+      {
+        "date": "2026-09-05",
+        "title": {
+          "de": "Forum des associations 2026",
+          "hu": "Egyesületi fórum 2026",
+          "ro": "Forumul asociațiilor 2026",
+          "en": "Forum of Associations 2026",
+          "fr": "Forum des associations 2026"
+        },
+        "summary": {
+          "de": "Die große Veranstaltung zum Saisonstart bündelt Vereinsstände, Vorführungen und Mitmachangebote für Einwohner und Neuankömmlinge.",
+          "hu": "A szezonnyitó nagy rendezvény egyesületi standokat, bemutatókat és kipróbálható programokat kínál a lakosoknak.",
+          "ro": "Evenimentul major al începutului de sezon reunește standuri ale asociațiilor, demonstrații și activități de descoperire pentru public.",
+          "en": "This major back-to-season event gathers association stands, demonstrations, and hands-on activities for residents.",
+          "fr": "Cet événement phare de la rentrée réunit stands associatifs, démonstrations et animations participatives."
+        },
+        "source_url": "https://www.clamart.fr/fr/agenda/forum-des-associations-2026"
+      },
+      {
+        "date": "2026-09-06",
+        "title": {
+          "de": "Flohmarkt von Clamart",
+          "hu": "Clamart bolhapiaca",
+          "ro": "Târgul de vechituri din Clamart",
+          "en": "Clamart Flea Market",
+          "fr": "Vide grenier de Clamart"
+        },
+        "summary": {
+          "de": "Der große Herbst-Flohmarkt auf der Esplanade du Panorama lädt zum Stöbern nach Secondhand-Funden und Haushaltswaren ein.",
+          "hu": "A Panorama sétány nagy őszi bolhapiaca használt holmikkal és otthoni tárgyakkal várja a böngészőket.",
+          "ro": "Marele vide-grenier de toamnă de pe Esplanade du Panorama invită la căutarea de obiecte second-hand și articole pentru casă.",
+          "en": "The large autumn flea market at Esplanade du Panorama is a good stop for second-hand finds and household items.",
+          "fr": "Le grand vide-grenier de la rentrée au Panorama invite à chiner vêtements, objets et bonnes affaires."
+        },
+        "source_url": "https://www.clamart.fr/fr/agenda/vide-grenier-de-clamart"
+      },
+      {
+        "date": "2026-09-13",
+        "title": {
+          "de": "Les Dimanches Culturels",
+          "hu": "Kulturális vasárnapok",
+          "ro": "Duminicile culturale",
+          "en": "Cultural Sundays",
+          "fr": "Les Dimanches Culturels"
+        },
+        "summary": {
+          "de": "Im Théâtre de Verdure laufen mehrere Open-Air-Vorstellungen verschiedener Sparten an einem einzigen Sonntagsprogramm.",
+          "hu": "A Théâtre de Verdure helyszínén egyetlen vasárnapon több szabadtéri előadás követi egymást különböző műfajokban.",
+          "ro": "La Théâtre de Verdure, programul propune mai multe spectacole în aer liber, din discipline artistice diferite, în aceeași zi.",
+          "en": "At the Théâtre de Verdure, several open-air performances from different disciplines are presented across the same Sunday.",
+          "fr": "Au Théâtre de Verdure, plusieurs spectacles en plein air se succèdent dans une programmation dominicale éclectique."
+        },
+        "source_url": "https://www.clamart.fr/fr/agenda/les-dimanches-culturels-13-septembre-2026"
+      },
+      {
+        "date": "2026-10-04",
+        "title": {
+          "de": "Mini Puces du Grand Canal 2026",
+          "hu": "Mini Puces du Grand Canal 2026",
+          "ro": "Mini Puces du Grand Canal 2026",
+          "en": "Grand Canal Mini Flea Market 2026",
+          "fr": "Mini Puces du Grand Canal 2026"
+        },
+        "summary": {
+          "de": "Im Quartier Grand Canal findet ein kleiner Nachbarschaftsmarkt mit Trödel und Gebrauchtwaren statt.",
+          "hu": "A Grand Canal negyedben kis közösségi bolhapiac várja a látogatókat használt tárgyakkal és alkalmi vásárral.",
+          "ro": "În cartierul Grand Canal are loc un mic târg de cartier cu obiecte second-hand și vânzări între localnici.",
+          "en": "The Grand Canal district hosts a small neighborhood flea market with second-hand goods and local sellers.",
+          "fr": "Le quartier du Grand Canal accueille une petite brocante de proximité avec objets d'occasion et ambiance de quartier."
+        },
+        "source_url": "https://www.clamart.fr/fr/agenda/mini-puces-du-grand-canal-2026"
+      }
+    ]
+  },
+  {
+    "id": "romania-resita-cities-v2",
+    "events": [
+      {
+        "date": "2026-06-13",
+        "end_date": "2026-06-21",
+        "title": {
+          "de": "New Wave International Theatre Festival 2026",
+          "hu": "New Wave Nemzetközi Színházi Fesztivál 2026",
+          "ro": "Festivalul Internațional de Teatru New Wave 2026",
+          "en": "New Wave International Theatre Festival 2026"
+        },
+        "summary": {
+          "de": "Die sechste Ausgabe bringt Theaterproduktionen, Konzerte und Kulturveranstaltungen aus Rumänien und dem Ausland nach Reșița.",
+          "hu": "A hatodik kiadás romániai és nemzetközi színházi előadásokat, koncerteket és kulturális programokat hoz Reșițára.",
+          "ro": "Ediția a șasea aduce la Reșița spectacole de teatru, concerte și evenimente culturale din țară și din străinătate.",
+          "en": "The sixth edition brings theatre productions, concerts, and cultural events from Romania and abroad to Reșița."
+        },
+        "source_url": "https://newwavefest.ro/",
+        "period": {
+          "recurrent": true
+        }
+      },
+      {
+        "date": "2026-06-26",
+        "end_date": "2026-07-03",
+        "title": {
+          "de": "Zilele Reșiței 2026",
+          "hu": "Reșița Napjai 2026",
+          "ro": "Zilele Reșiței 2026",
+          "en": "Reșița Days 2026"
+        },
+        "summary": {
+          "de": "Die offiziellen Stadttage umfassen mehrere Tage mit Konzerten und Festprogramm auf der Platforma Câlnicel sowie einer kulturellen Fortsetzung im Stadtzentrum.",
+          "hu": "A város hivatalos ünnepe többnapos koncert- és fesztiválprogramot kínál a Câlnicel platformon, majd kulturális folytatást a központban.",
+          "ro": "Sărbătoarea oficială a orașului include mai multe zile de concerte și program festiv pe Platforma Câlnicel, urmate de o continuare culturală în centru.",
+          "en": "The official city celebration includes several days of concerts and festival programming at Platforma Câlnicel, followed by a cultural continuation in the centre."
+        },
+        "source_url": "https://www.primariaresita.ro/portal/cs/resita/portal.nsf/AllByUNID/ZILELE%2BRESITEI%2B2026-000525A2?OpenDocument=",
+        "period": {
+          "recurrent": true
+        }
+      },
+      {
+        "date": "2026-07-22",
+        "end_date": "2026-07-31",
+        "title": {
+          "de": "Reșița Industrial Heritage Lab 2026",
+          "hu": "Reșița Industrial Heritage Lab 2026",
+          "ro": "Reșița Industrial Heritage Lab 2026",
+          "en": "Reșița Industrial Heritage Lab 2026"
+        },
+        "summary": {
+          "de": "Die interdisziplinäre Sommerschule widmet sich dem Industrieerbe und der künftigen Nutzung des UCMR-Geländes und endet mit einer öffentlichen Präsentation.",
+          "hu": "Az ipari örökségre és az UCMR terület jövőjére fókuszáló interdiszciplináris nyári iskola nyilvános záróbemutatóval zárul.",
+          "ro": "Școala de vară interdisciplinară dedicată patrimoniului industrial și viitorului platformei UCMR se încheie cu o prezentare publică.",
+          "en": "The interdisciplinary summer school focuses on industrial heritage and the future of the UCMR site, ending with a public presentation."
+        },
+        "source_url": "https://muzeulvirtualresita.ro/en/noutati/re%C8%99i%C8%9Ba-industrial-heritage-lab-2026"
+      }
+    ]
+  },
+  {
+    "id": "agrigento",
+    "events": [
+      {
+        "date": "2026-07-30",
+        "title": {
+          "de": "Sal Da Vinci - Live 2026",
+          "hu": "Sal Da Vinci - Live 2026",
+          "ro": "Sal Da Vinci - Live 2026",
+          "en": "Sal Da Vinci - Live 2026"
+        },
+        "summary": {
+          "de": "Der neapolitanische Sänger gastiert in Agrigentos Live Arena zu einem Sommerabendkonzert unter freiem Himmel.",
+          "hu": "A nápolyi énekes Agrigento Live Arena helyszínén ad szabadtéri nyári koncertet.",
+          "ro": "Cântărețul napolitan susține un concert de vară în aer liber la Live Arena din Agrigento.",
+          "en": "The Neapolitan singer performs an open-air summer concert at Agrigento's Live Arena."
+        },
+        "source_url": "https://www.ticketone.it/event/sal-da-vinci-live-2026-live-arena-21447134/"
+      },
+      {
+        "date": "2026-08-05",
+        "title": {
+          "de": "Robben Ford",
+          "hu": "Robben Ford",
+          "ro": "Robben Ford",
+          "en": "Robben Ford"
+        },
+        "summary": {
+          "de": "Der US-Gitarrist spielt im Teatro Panoramica Templi im Rahmen der sommerlichen Jazzreihe in der Valle dei Templi.",
+          "hu": "Az amerikai gitáros a Teatro Panoramica Templi színpadán lép fel a Valle dei Templi nyári jazzsorozatában.",
+          "ro": "Chitaristul american concertează la Teatro Panoramica Templi în cadrul seriei estivale de jazz din Valle dei Templi.",
+          "en": "The American guitarist performs at Teatro Panoramica Templi as part of the Valley of the Temples summer jazz program."
+        },
+        "source_url": "https://www.ticketone.it/event/robben-ford-teatro-panoramica-templi-21658728/"
+      },
+      {
+        "date": "2026-08-07",
+        "end_date": "2026-08-10",
+        "title": {
+          "de": "FestiValle 2026",
+          "hu": "FestiValle 2026",
+          "ro": "FestiValle 2026",
+          "en": "FestiValle 2026"
+        },
+        "summary": {
+          "de": "Das internationale Musik- und Digital-Arts-Festival bringt an vier Tagen mehr als zwanzig Acts in die Valle dei Templi.",
+          "hu": "A nemzetközi zenei és digitális művészeti fesztivál négy napon át több mint húsz fellépőt hoz a Valle dei Templi területére.",
+          "ro": "Festivalul internațional de muzică și arte digitale aduce timp de patru zile peste douăzeci de artiști în Valle dei Templi.",
+          "en": "The international music and digital arts festival brings more than twenty acts to the Valley of the Temples over four days."
+        },
+        "source_url": "https://festivalle.it/"
+      },
+      {
+        "date": "2026-08-09",
+        "title": {
+          "de": "Il Risveglio degli Dei",
+          "hu": "Il Risveglio degli Dei",
+          "ro": "Il Risveglio degli Dei",
+          "en": "Il Risveglio degli Dei"
+        },
+        "summary": {
+          "de": "Die ikonische Sunrise-Show von FestiValle verbindet Musik und Theater mit Dutzenden Darstellern in der Tempellandschaft von Agrigent.",
+          "hu": "A FestiValle ikonikus napfelkelte-show-ja zenét és színházat kapcsol össze több tucat előadóval Agrigento templomai között.",
+          "ro": "Spectacolul emblematic la răsărit al FestiValle combină muzica și teatrul cu zeci de performeri în decorul templelor din Agrigento.",
+          "en": "FestiValle's signature sunrise show combines music and theatre with dozens of performers among Agrigento's ancient temples."
+        },
+        "source_url": "https://festivalle.it/artista/il-risveglio-degli-dei/"
+      },
+      {
+        "date": "2026-08-12",
+        "title": {
+          "de": "Voglio tornare negli anni 90",
+          "hu": "Voglio tornare negli anni 90",
+          "ro": "Voglio tornare negli anni 90",
+          "en": "Voglio tornare negli anni 90"
+        },
+        "summary": {
+          "de": "Die Nostalgie-Show rund um Pop- und Partyhits der 1990er Jahre stoppt im Sommerprogramm der Live Arena in Agrigent.",
+          "hu": "Az 1990-es évek slágereire épülő nosztalgia-show Agrigento Live Arena nyári műsorában szerepel.",
+          "ro": "Show-ul nostalgic cu hituri pop și de petrecere din anii 1990 ajunge în programul de vară al Live Arena din Agrigento.",
+          "en": "The 1990s-themed nostalgia show is part of Agrigento Live Arena's summer concert schedule."
+        },
+        "source_url": "https://www.ticketone.it/event/voglio-tornare-negli-anni-90-il-festival-live-arena-21561988/"
+      }
+    ]
+  }
+]

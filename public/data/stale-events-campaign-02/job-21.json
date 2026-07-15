@@ -1,0 +1,358 @@
+[
+  {
+    "id": "istres",
+    "events": [
+      {
+        "title": {
+          "de": "Marché nocturne de créateurs",
+          "hu": "Éjszakai alkotói piac",
+          "ro": "Piață nocturnă a creatorilor",
+          "en": "Night creators' market",
+          "fr": "Marché nocturne de créateurs"
+        },
+        "summary": {
+          "de": "Jeden Donnerstagabend beleben lokale Designer und Kunsthandwerker die Esplanade Charles-de-Gaulle mit Ständen, Musik und Sommeratmosphäre am Étang de l'Olivier.",
+          "hu": "Minden csütörtök este helyi alkotók és kézművesek töltik meg a Charles-de-Gaulle sétányt standokkal, zenével és nyári hangulattal az Étang de l'Olivier partján.",
+          "ro": "În fiecare joi seara, creatori și artizani locali animă esplanada Charles-de-Gaulle cu standuri, muzică și atmosferă de vară pe malul Étang de l'Olivier.",
+          "en": "Every Thursday evening, local makers and artisans fill the Charles-de-Gaulle esplanade with stalls, music and a summer atmosphere beside the Etang de l'Olivier.",
+          "fr": "Chaque jeudi soir, des créateurs et artisans locaux animent l'esplanade Charles-de-Gaulle avec stands, musique et ambiance estivale au bord de l'étang de l'Olivier."
+        },
+        "source_url": "https://www.istres-tourisme.com/istres-agenda-evenements.html",
+        "date": "2026-07-30",
+        "end_date": "2026-08-20",
+        "period": {
+          "recurrent": true
+        }
+      },
+      {
+        "title": {
+          "de": "Les Jeudis de l'étang",
+          "hu": "A tópart csütörtökei",
+          "ro": "Joile de pe malul lacului",
+          "en": "Les Jeudis de l'etang",
+          "fr": "Les Jeudis de l'étang"
+        },
+        "summary": {
+          "de": "Die sommerliche Donnerstagsreihe kombiniert Musik, Spazierunterhaltung und Lichtshows an den Ufern des Étang de l'Olivier.",
+          "hu": "A nyári csütörtöki programsorozat zenét, sétáló utcai műsorokat és fényshow-kat kínál az Étang de l'Olivier partján.",
+          "ro": "Seria estivală de joi combină muzică, animații ambulante și spectacole de lumini pe malurile Étang de l'Olivier.",
+          "en": "This Thursday summer series combines music, roaming entertainment and light shows on the shores of the Etang de l'Olivier.",
+          "fr": "Cette série estivale du jeudi mêle musique, déambulations festives et spectacles lumineux sur les rives de l'étang de l'Olivier."
+        },
+        "source_url": "https://www.istres-tourisme.com/les-jeudis-de-l-etang.html",
+        "date": "2026-07-30",
+        "end_date": "2026-08-20",
+        "period": {
+          "recurrent": true
+        }
+      },
+      {
+        "title": {
+          "de": "Fêtes d'Istres",
+          "hu": "Istres ünnepe",
+          "ro": "Sărbătorile din Istres",
+          "en": "Fetes d'Istres",
+          "fr": "Fêtes d'Istres"
+        },
+        "summary": {
+          "de": "Das große Stadtfest bringt provenzalische Traditionen, Joutes auf dem Étang de l'Olivier, Reitershows, Straßenkunst und Konzerte in die Innenstadt.",
+          "hu": "A városi ünnep provence-i hagyományokat, vízi párbajokat az Étang de l'Olivier-en, lovas bemutatókat, utcai művészetet és koncerteket hoz a központba.",
+          "ro": "Marea sărbătoare a orașului aduce tradiții provensale, întreceri de joutes pe Étang de l'Olivier, spectacole ecvestre, artă stradală și concerte în centru.",
+          "en": "Istres' main town festival brings Provençal traditions, water jousts on the Etang de l'Olivier, equestrian shows, street arts and concerts to the town centre.",
+          "fr": "La grande fête de la ville réunit traditions provençales, joutes sur l'étang de l'Olivier, spectacles équestres, arts de rue et concerts au centre-ville."
+        },
+        "source_url": "https://www.istres-tourisme.com/fetes-d-istres.html",
+        "date": "2026-07-31",
+        "end_date": "2026-08-02"
+      },
+      {
+        "title": {
+          "de": "Les Rues de l'Étang",
+          "hu": "Az Étang utcái",
+          "ro": "Străzile Étangului",
+          "en": "Les Rues de l'Etang",
+          "fr": "Les Rues de l'Étang"
+        },
+        "summary": {
+          "de": "Das Open-Air-Festival verwandelt Istres mit Zirkus, Tanz, Straßentheater und einer finalen Drohnen- und Feuerwerksshow in eine große Freiluftbühne.",
+          "hu": "A szabadtéri fesztivál cirkusszal, tánccal, utcai színházzal és drónos-tűzijátékos fináléval változtatja nagy színpaddá Istres városát.",
+          "ro": "Festivalul în aer liber transformă Istres într-o scenă urbană cu circ, dans, teatru de stradă și un final cu drone și focuri de artificii.",
+          "en": "This open-air festival turns Istres into a citywide stage with circus, dance, street theatre and a closing drone-and-fireworks show.",
+          "fr": "Ce festival en plein air transforme Istres en scène urbaine avec cirque, danse, théâtre de rue et un final mêlant drones et feu d'artifice."
+        },
+        "source_url": "https://www.istres-tourisme.com/les-rues-de-l-etang.html",
+        "date": "2026-08-02"
+      }
+    ]
+  },
+  {
+    "id": "tarbes",
+    "events": [
+      {
+        "title": {
+          "de": "Festival Equestria 2026",
+          "hu": "Equestria Fesztivál 2026",
+          "ro": "Festivalul Equestria 2026",
+          "en": "Equestria Festival 2026",
+          "fr": "Festival Equestria 2026"
+        },
+        "summary": {
+          "de": "Das Pferde- und Kunstfestival im Haras de Tarbes feiert seine 30. Ausgabe mit Reitshows, Aufführungen und einem familienfreundlichen Programm.",
+          "hu": "A Haras de Tarbes lovas és művészeti fesztiválja 30. kiadását ünnepli lovas show-kkal, előadásokkal és családi programokkal.",
+          "ro": "Festivalul ecvestru și artistic de la Haras de Tarbes își marchează a 30-a ediție cu spectacole ecvestre, reprezentații și program pentru familii.",
+          "en": "The horse-and-arts festival at the Haras de Tarbes celebrates its 30th edition with equestrian shows, performances and family-friendly programming.",
+          "fr": "Le festival du cheval et des arts au Haras de Tarbes célèbre sa 30e édition avec spectacles équestres, performances et programmation familiale."
+        },
+        "source_url": "https://www.tarbes.fr/evenement/festival-equestria-2026/",
+        "date": "2026-07-21",
+        "end_date": "2026-07-26"
+      },
+      {
+        "title": {
+          "de": "Tarbes en Tango 2026",
+          "hu": "Tarbes en Tango 2026",
+          "ro": "Tarbes en Tango 2026",
+          "en": "Tarbes en Tango 2026",
+          "fr": "Tarbes en Tango 2026"
+        },
+        "summary": {
+          "de": "Das internationale Tangofestival verwandelt Tarbes mit Milongas, Konzerten, Workshops und argentinischer Atmosphäre in eine Tango-Hochburg.",
+          "hu": "A nemzetközi tangófesztivál milongákkal, koncertekkel, workshopokkal és argentin hangulattal tölti meg Tarbes városát.",
+          "ro": "Festivalul internațional de tango transformă Tarbes într-o capitală a tangoului, cu milonga, concerte, ateliere și atmosferă argentiniană.",
+          "en": "This international tango festival turns Tarbes into a tango capital with milongas, concerts, workshops and an Argentine atmosphere.",
+          "fr": "Le festival international transforme Tarbes en capitale du tango avec milongas, concerts, ateliers et ambiance argentine."
+        },
+        "source_url": "https://www.tarbes.fr/evenement/festival-tarbes-en-tango-2026/",
+        "date": "2026-08-14",
+        "end_date": "2026-08-23"
+      },
+      {
+        "title": {
+          "de": "Visites guidées du Haras de Tarbes",
+          "hu": "Vezetett túrák a harasban",
+          "ro": "Vizite ghidate la Haras de Tarbes",
+          "en": "Guided tours of the Haras de Tarbes",
+          "fr": "Visites guidées du Haras de Tarbes"
+        },
+        "summary": {
+          "de": "Geführte Besuche erschließen die napoleonische Architektur, Reitflächen und Geschichte des historischen Haras im Herzen der Stadt.",
+          "hu": "A vezetett látogatások bemutatják a történelmi ménesbirtok napóleoni építészetét, lovas tereit és történetét a város szívében.",
+          "ro": "Vizitele ghidate prezintă arhitectura napoleoniană, spațiile ecvestre și istoria harasului istoric din centrul orașului.",
+          "en": "Guided visits explore the Napoleonic architecture, riding areas and history of the historic Haras in the heart of the city.",
+          "fr": "Les visites guidées font découvrir l'architecture napoléonienne, les espaces équestres et l'histoire du Haras au cœur de la ville."
+        },
+        "source_url": "https://www.tarbes-tourisme.fr/lagenda/visites-guidees-du-haras-de-tarbes-FMAMIP065V52MOM1",
+        "date": "2026-06-03",
+        "end_date": "2026-12-31",
+        "period": {
+          "recurrent": true
+        }
+      },
+      {
+        "title": {
+          "de": "Exposition \"Le cheval : formes et représentations\"",
+          "hu": "\"A ló: formák és ábrázolások\" kiállítás",
+          "ro": "Expoziția „Le cheval : formes et représentations”",
+          "en": "Exhibition \"The horse: forms and representations\"",
+          "fr": "Exposition \"Le cheval : formes et représentations\""
+        },
+        "summary": {
+          "de": "Die Maison natale du Maréchal Foch zeigt Werke und Dokumente über die symbolische und künstlerische Rolle des Pferdes in Geschichte und Kunst.",
+          "hu": "A Maison natale du Maréchal Foch műveken és dokumentumokon keresztül mutatja be a ló szimbolikus és művészeti szerepét a történelemben.",
+          "ro": "Maison natale du Maréchal Foch prezintă lucrări și documente despre rolul simbolic și artistic al calului în istorie și artă.",
+          "en": "The Maison natale du Marechal Foch presents works and documents on the horse's symbolic and artistic role in history and art.",
+          "fr": "La Maison natale du Maréchal Foch présente œuvres et documents autour de la place symbolique et artistique du cheval dans l'histoire et les arts."
+        },
+        "source_url": "https://www.tarbes-tourisme.fr/je-decouvre/nos-incontournables/natale-du-marechal-foch/",
+        "date": "2026-06-22",
+        "end_date": "2026-09-20"
+      }
+    ]
+  },
+  {
+    "id": "valenciennes",
+    "events": [
+      {
+        "title": {
+          "de": "Régates à Valenciennes – Saison 2026",
+          "hu": "Valenciennes-i regattaszezon 2026",
+          "ro": "Regatele din Valenciennes – sezonul 2026",
+          "en": "Regattas in Valenciennes – 2026 season",
+          "fr": "Régates à Valenciennes – Saison 2026"
+        },
+        "summary": {
+          "de": "Der Cercle de Voile de Valenciennes richtet über das Jahr mehrere Wettfahrten am Plan d'eau du Vignoble aus, darunter späte Termine Ende September, im Oktober und im November.",
+          "hu": "A Cercle de Voile de Valenciennes egész évben több versenyt rendez a Plan d'eau du Vignoble tavon, köztük szeptember végi, októberi és novemberi futamokat is.",
+          "ro": "Cercle de Voile de Valenciennes organizează mai multe regate pe parcursul anului la Plan d'eau du Vignoble, inclusiv etape la sfârșit de septembrie, în octombrie și noiembrie.",
+          "en": "The Cercle de Voile de Valenciennes runs several regattas throughout the year at the Plan d'eau du Vignoble, including late-September, October and November dates.",
+          "fr": "Le Cercle de Voile de Valenciennes organise plusieurs régates au plan d'eau du Vignoble, avec des rendez-vous fin septembre, en octobre et en novembre."
+        },
+        "source_url": "https://www.valenciennes.fr/agenda/regates-a-valenciennes-saison-2026/",
+        "date": "2026-03-21",
+        "end_date": "2026-11-08",
+        "period": {
+          "recurrent": true
+        }
+      },
+      {
+        "title": {
+          "de": "URBAN TRAIL Valenciennes – édition 2026",
+          "hu": "URBAN TRAIL Valenciennes 2026",
+          "ro": "URBAN TRAIL Valenciennes – ediția 2026",
+          "en": "URBAN TRAIL Valenciennes – 2026 edition",
+          "fr": "URBAN TRAIL Valenciennes – édition 2026"
+        },
+        "summary": {
+          "de": "Der Stadtlauf führt Teilnehmerinnen und Teilnehmer auf einer besonderen Route durch urbane Räume und markante Orte von Valenciennes.",
+          "hu": "A városi futás különleges útvonalon vezeti a résztvevőket Valenciennes városi terein és jellegzetes helyszínein át.",
+          "ro": "Cursa urbană îi poartă pe participanți pe un traseu special prin spațiile urbane și locurile emblematice ale Valenciennes.",
+          "en": "This urban running event takes participants on a special route through Valenciennes' city spaces and landmark sites.",
+          "fr": "Cette course urbaine propose un parcours original à travers les espaces de ville et les lieux emblématiques de Valenciennes."
+        },
+        "source_url": "https://www.valenciennes.fr/agenda/urban-trail-valenciennes-edition-2026/",
+        "date": "2026-09-19"
+      },
+      {
+        "title": {
+          "de": "Festival 2 Cinéma 2026",
+          "hu": "2 Cinéma Fesztivál 2026",
+          "ro": "Festivalul 2 Cinéma 2026",
+          "en": "2 Cinema Festival 2026",
+          "fr": "Festival 2 Cinéma 2026"
+        },
+        "summary": {
+          "de": "Das Filmfestival von Valenciennes bringt internationale Spielfilm- und Dokumentarfilmwettbewerbe, Vorpremieren und kostenlose Masterclasses in die Stadt.",
+          "hu": "A valenciennes-i filmfesztivál nemzetközi játék- és dokumentumfilm-versenyeket, premier előtti vetítéseket és ingyenes mesterkurzusokat kínál.",
+          "ro": "Festivalul de film din Valenciennes aduce competiții internaționale de ficțiune și documentar, avanpremiere și masterclass-uri gratuite.",
+          "en": "Valenciennes' film festival brings international fiction and documentary competitions, preview screenings and free masterclasses to the city.",
+          "fr": "Le festival de Valenciennes propose compétitions internationales de fiction et de documentaire, avant-premières et masterclasses gratuites."
+        },
+        "source_url": "https://www.valenciennes.fr/agenda/festival-2-cinema-2026/",
+        "date": "2026-09-25",
+        "end_date": "2026-09-29"
+      }
+    ]
+  },
+  {
+    "id": "compiegne",
+    "events": [
+      {
+        "title": {
+          "de": "Festival d'été à Compiègne",
+          "hu": "Nyári fesztivál Compiègne-ben",
+          "ro": "Festivalul de vară din Compiègne",
+          "en": "Summer festival in Compiegne",
+          "fr": "Festival d'été à Compiègne"
+        },
+        "summary": {
+          "de": "Im Stadtzentrum schafft dieses Sommerprogramm eine Ferienatmosphäre mit Freizeitangeboten und Unterhaltung an mehreren Samstagen im August und Anfang September.",
+          "hu": "A belvárosi nyári programsorozat augusztus több szombatján és szeptember elején nyaralós hangulatot, szabadidős programokat és szórakozást kínál.",
+          "ro": "Acest program estival aduce în centrul orașului o atmosferă de vacanță, activități de loisir și divertisment în mai multe sâmbete din august și început de septembrie.",
+          "en": "This summer programme brings a holiday atmosphere, leisure activities and entertainment to the town centre on several Saturdays in August and early September.",
+          "fr": "Cette programmation estivale installe au centre-ville une ambiance de vacances avec animations et loisirs sur plusieurs samedis d'août et de début septembre."
+        },
+        "source_url": "https://www.compiegne-pierrefonds.fr/sit/festival-dete-a-compiegne/",
+        "date": "2026-08-01",
+        "end_date": "2026-09-05",
+        "period": {
+          "recurrent": true
+        }
+      },
+      {
+        "title": {
+          "de": "Visite guidée I Les remparts",
+          "hu": "Vezetett séta: A városfalak",
+          "ro": "Vizită ghidată I Zidurile orașului",
+          "en": "Guided tour I The ramparts",
+          "fr": "Visite guidée I Les remparts"
+        },
+        "summary": {
+          "de": "Die Führung zeigt die mittelalterlichen Befestigungsreste von Compiègne und erklärt vergessene Türme, Tore und Verteidigungsanlagen.",
+          "hu": "A vezetett séta bemutatja Compiègne középkori erődítéseinek maradványait, valamint az elfeledett tornyokat, kapukat és védműveket.",
+          "ro": "Turul ghidat prezintă vestigiile fortificațiilor medievale din Compiègne și explică turnurile, porțile și sistemele defensive uitate.",
+          "en": "This guided tour explores the remains of Compiegne's medieval fortifications, including forgotten towers, gates and defensive works.",
+          "fr": "Cette visite guidée fait découvrir les vestiges des fortifications médiévales de Compiègne, ses tours, portes et dispositifs défensifs oubliés."
+        },
+        "source_url": "https://www.compiegne-pierrefonds.fr/sit/visite-guidee-i-les-remparts/",
+        "date": "2026-08-15"
+      },
+      {
+        "title": {
+          "de": "Visite guidée I Le parc du château",
+          "hu": "Vezetett séta: A kastélypark",
+          "ro": "Vizită ghidată I Parcul castelului",
+          "en": "Guided tour I The chateau park",
+          "fr": "Visite guidée I Le parc du château"
+        },
+        "summary": {
+          "de": "Besucher entdecken die Landschaftsarchitektur und Geschichte des Schlossparks von Compiègne bei einer geführten Tour mit Schwerpunkt auf Perspektiven und Gartenkunst.",
+          "hu": "A látogatók vezetett sétán ismerhetik meg a compiègne-i kastélypark tájépítészetét, történetét és kertművészeti perspektíváit.",
+          "ro": "Vizitatorii descoperă arhitectura peisageră și istoria parcului castelului din Compiègne într-un tur ghidat dedicat perspectivelor și artei grădinilor.",
+          "en": "Visitors explore the landscape design and history of Compiegne's chateau park on a guided tour focused on vistas and garden art.",
+          "fr": "Les visiteurs découvrent l'architecture paysagère et l'histoire du parc du château de Compiègne lors d'une visite guidée dédiée aux perspectives et à l'art des jardins."
+        },
+        "source_url": "https://www.compiegne-pierrefonds.fr/sit/visite-guidee-i-le-parc-du-chateau/",
+        "date": "2026-08-16"
+      },
+      {
+        "title": {
+          "de": "Masters de Feu 2026",
+          "hu": "Masters de Feu 2026",
+          "ro": "Masters de Feu 2026",
+          "en": "Masters de Feu 2026",
+          "fr": "Masters de Feu 2026"
+        },
+        "summary": {
+          "de": "Zum 10-jährigen Bestehen kehrt der internationale Feuerwerkswettbewerb an die Pferderennbahn von Compiègne zurück und eröffnet einen neuen Auswahlzyklus der Masters d'Argent.",
+          "hu": "A nemzetközi tűzijátékverseny 10. évfordulójára visszatér a compiègne-i lóversenypályára, és új ezüstmester-válogatási ciklust indít.",
+          "ro": "Concursul internațional de artificii revine la hipodromul din Compiègne pentru aniversarea de 10 ani și deschide un nou ciclu de selecție pentru Masters d'Argent.",
+          "en": "For its 10th anniversary, this international fireworks competition returns to the Compiegne racecourse and launches a new Masters d'Argent selection cycle.",
+          "fr": "Pour ses 10 ans, ce concours international d'art pyrotechnique revient à l'hippodrome de Compiègne et lance un nouveau cycle de sélection des Masters d'Argent."
+        },
+        "source_url": "https://www.compiegne-pierrefonds.fr/sit/masters-de-feu-2026/",
+        "date": "2026-09-19"
+      },
+      {
+        "title": {
+          "de": "Journées Européennes du Patrimoine",
+          "hu": "Európai Örökségnapok",
+          "ro": "Zilele Europene ale Patrimoniului",
+          "en": "European Heritage Days",
+          "fr": "Journées Européennes du Patrimoine"
+        },
+        "summary": {
+          "de": "Das Kulturwochenende lädt dazu ein, architektonische Schätze und historische Stätten der Destination Compiègne-Pierrefonds zu entdecken.",
+          "hu": "A kulturális hétvége alkalmat ad Compiègne-Pierrefonds térségének építészeti kincsei és történelmi helyszínei felfedezésére.",
+          "ro": "Weekendul cultural invită publicul să descopere comorile arhitecturale și siturile istorice ale destinației Compiègne-Pierrefonds.",
+          "en": "This cultural weekend invites visitors to discover the architectural treasures and historic sites of the Compiegne-Pierrefonds destination.",
+          "fr": "Ce week-end culturel invite à découvrir les trésors architecturaux et les sites historiques de la destination Compiègne-Pierrefonds."
+        },
+        "source_url": "https://www.compiegne-pierrefonds.fr/lagenda/nos-temps-forts/journees-europeennes-du-patrimoine-2/",
+        "date": "2026-09-19",
+        "end_date": "2026-09-20"
+      }
+    ]
+  },
+  {
+    "id": "city-petrosani-extra",
+    "events": [
+      {
+        "title": {
+          "de": "Zilele Municipiului Petroșani 2026",
+          "hu": "Petrozsény városnapok 2026",
+          "ro": "Zilele Municipiului Petroșani 2026",
+          "en": "Petrosani City Days 2026"
+        },
+        "summary": {
+          "de": "Die Stadtverwaltung hat die Ausgabe 2026 der Petroșani-Stadttage für das Wochenende 24. bis 26. Juli angekündigt; das Abschlussprogramm erreicht noch den Stichtag am 26. Juli.",
+          "hu": "A városháza bejelentette a Petrozsény városnapok 2026-os kiadását 2026. július 24. és 26. között; a zárónap még a július 26-i határnapra esik.",
+          "ro": "Primăria a anunțat ediția 2026 a Zilelor Municipiului Petroșani pentru weekendul 24-26 iulie, iar programul de închidere ajunge inclusiv în data-limită de 26 iulie.",
+          "en": "The municipality has announced the 2026 edition of Petrosani City Days for the weekend of 24 to 26 July, with the closing day still falling on the 26 July cutoff."
+        },
+        "source_url": "https://www.primariapetrosani.ro/dm_petrosani/portal.nsf/AllByUNID/Anunt%2Bprivind%2Bselectia%2Bde%2Bparteneri%2Bpentru%2Borganizarea%2Bevenimentului%2B%E2%80%9EZilele%2BMunicipiului%2BPetrosani%E2%80%9D-0002FDDA?OpenDocument=",
+        "date": "2026-07-24",
+        "end_date": "2026-07-26"
+      }
+    ]
+  }
+]

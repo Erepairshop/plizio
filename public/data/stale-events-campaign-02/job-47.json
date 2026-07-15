@@ -1,0 +1,422 @@
+[
+  {
+    "id": "belgium-aarschot-cities-v2",
+    "events": [
+      {
+        "date": "2026-09-04",
+        "title": {
+          "de": "Waterloop",
+          "hu": "Waterloop",
+          "ro": "Waterloop",
+          "en": "Waterloop"
+        },
+        "summary": {
+          "de": "Diese flache Laufveranstaltung entlang von Demer und Laak gehört zum Aarschoter Joggingcriterium und bietet Distanzen über 14, 9 und 4 Kilometer.",
+          "hu": "A Demer és a Laak menti sík futóesemény az aarschoti futósorozat része, 14, 9 és 4 kilométeres távokkal.",
+          "ro": "Această cursă plată de alergare de-a lungul râurilor Demer și Laak face parte din criteriul de jogging din Aarschot și oferă probe de 14, 9 și 4 kilometri.",
+          "en": "This flat running event along the Demer and Laak forms part of the Aarschot jogging series and offers 14 km, 9 km, and 4 km distances."
+        },
+        "source_url": "https://www.aarschot.be/programma-zomer-2026"
+      },
+      {
+        "date": "2026-09-05",
+        "end_date": "2026-09-06",
+        "title": {
+          "de": "Art and Roots in the Woods",
+          "hu": "Art and Roots in the Woods",
+          "ro": "Art and Roots in the Woods",
+          "en": "Art and Roots in the Woods"
+        },
+        "summary": {
+          "de": "Das kostenlose Familienfestival im Meetshovenbos verbindet Musik, Kinderanimation, Workshops und einen Kunstmarkt in einer Waldkulisse.",
+          "hu": "Az ingyenes családi fesztivál a Meetshovenbos erdőben zenét, gyerekprogramokat, workshopokat és művészeti vásárt kínál.",
+          "ro": "Festivalul gratuit pentru familii din pădurea Meetshovenbos reunește muzică, animație pentru copii, ateliere și o piață de artă.",
+          "en": "This free family festival in Meetshovenbos combines music, children's activities, workshops, and an art market in a woodland setting."
+        },
+        "source_url": "https://www.aarschot.be/programma-zomer-2026"
+      },
+      {
+        "date": "2026-09-05",
+        "title": {
+          "de": "Runway Modeshow",
+          "hu": "Runway divatbemutató",
+          "ro": "Defilare de modă Runway",
+          "en": "Runway Fashion Show"
+        },
+        "summary": {
+          "de": "Auf dem Grote Markt zeigen fünfzehn lokale Geschäfte bei zwei kostenlosen Modenschauen ihre neuesten Kollektionen im Herzen von Aarschot.",
+          "hu": "A Grote Markton tizenöt helyi üzlet mutatja be új kollekcióit két ingyenes divatbemutatón Aarschot központjában.",
+          "ro": "În Grote Markt, cincisprezece magazine locale își prezintă noile colecții în două prezentări de modă gratuite, în centrul orașului Aarschot.",
+          "en": "On the Grote Markt, fifteen local shops present their latest collections in two free fashion shows in the center of Aarschot."
+        },
+        "source_url": "https://www.aarschot.be/programma-zomer-2026"
+      },
+      {
+        "date": "2026-09-12",
+        "title": {
+          "de": "Film op wielen: Holly (2023)",
+          "hu": "Film op wielen: Holly (2023)",
+          "ro": "Film op wielen: Holly (2023)",
+          "en": "Film op wielen: Holly (2023)"
+        },
+        "summary": {
+          "de": "Die kostenlose Freiluftvorführung am Orleanstoren zeigt den belgischen Film „Holly“; die Bar öffnet am Abend, der Film beginnt bei Einbruch der Dämmerung.",
+          "hu": "Az Orleanstorennél rendezett ingyenes szabadtéri vetítésen a belga „Holly” című filmet adják, esti nyitással és naplemente utáni kezdéssel.",
+          "ro": "Proiecția gratuită în aer liber de la Orleanstoren prezintă filmul belgian „Holly”, cu deschiderea barului seara și start la lăsarea întunericului.",
+          "en": "This free open-air screening at the Orleanstoren presents the Belgian film 'Holly,' with the bar opening in the evening and the film starting at dusk."
+        },
+        "source_url": "https://www.aarschot.be/programma-zomer-2026"
+      },
+      {
+        "date": "2026-09-12",
+        "end_date": "2026-09-13",
+        "title": {
+          "de": "Berg Op Tegen Kanker",
+          "hu": "Berg Op Tegen Kanker",
+          "ro": "Berg Op Tegen Kanker",
+          "en": "Berg Op Tegen Kanker"
+        },
+        "summary": {
+          "de": "Das Benefizevent im Zentrum von Aarschot verbindet eine Ausdauer-Radchallenge mit Stadtfeststimmung, Animationen und Unterstützung für Kom Op Tegen Kanker.",
+          "hu": "Az aarschoti belvárosi jótékonysági esemény egy extrém kerékpáros kihívást kapcsol össze városi programokkal és a Kom Op Tegen Kanker támogatásával.",
+          "ro": "Evenimentul caritabil din centrul orașului Aarschot combină o provocare ciclistă de anduranță cu animație urbană și sprijin pentru Kom Op Tegen Kanker.",
+          "en": "This charity event in central Aarschot combines an endurance cycling challenge with city-center festivities and support for Kom Op Tegen Kanker."
+        },
+        "source_url": "https://www.aarschot.be/programma-zomer-2026"
+      }
+    ]
+  },
+  {
+    "id": "chaumont",
+    "events": [
+      {
+        "date": "2026-07-04",
+        "end_date": "2026-08-16",
+        "title": {
+          "de": "Chaumont Plage 2026",
+          "hu": "Chaumont Plage 2026",
+          "ro": "Chaumont Plage 2026",
+          "en": "Chaumont Plage 2026",
+          "fr": "Chaumont Plage 2026"
+        },
+        "summary": {
+          "de": "Das Sommerprogramm bringt bis Mitte August Strandatmosphäre und Freizeitangebote nach Chaumont.",
+          "hu": "A nyári programsorozat augusztus közepéig strandhangulatot és szabadidős programokat visz Chaumont-ba.",
+          "ro": "Programul de vară aduce până la mijlocul lui august atmosferă de plajă și activități de agrement la Chaumont.",
+          "en": "This summer program brings a beach-style atmosphere and leisure activities to Chaumont through mid-August.",
+          "fr": "Ce programme estival installe jusqu'à la mi-août une ambiance de plage et des animations de loisirs à Chaumont."
+        },
+        "source_url": "https://www.ville-chaumont.fr/sepanouir/agenda-des-manifestations/"
+      },
+      {
+        "date": "2026-07-04",
+        "end_date": "2026-08-16",
+        "title": {
+          "de": "Les Estivales: Médiathèque les silos à la plage",
+          "hu": "Les Estivales: Médiathèque les silos à la plage",
+          "ro": "Les Estivales: Médiathèque les silos à la plage",
+          "en": "Les Estivales: Médiathèque les silos à la plage",
+          "fr": "Les Estivales : Médiathèque les silos à la plage"
+        },
+        "summary": {
+          "de": "Die Sommerreihe der Médiathèque Les Silos ergänzt die Saison mit Kultur- und Bibliotheksangeboten im Freien.",
+          "hu": "A Médiathèque Les Silos nyári sorozata szabadtéri kulturális és könyvtári programokkal egészíti ki a szezont.",
+          "ro": "Seria estivală a Médiathèque Les Silos completează sezonul cu activități culturale și de bibliotecă în aer liber.",
+          "en": "The Médiathèque Les Silos summer series adds open-air cultural and library programming to the season.",
+          "fr": "La série estivale de la médiathèque Les Silos ajoute des rendez-vous culturels et de lecture en plein air à la saison."
+        },
+        "source_url": "https://www.ville-chaumont.fr/sepanouir/agenda-des-manifestations/"
+      },
+      {
+        "date": "2026-03-04",
+        "end_date": "2026-09-20",
+        "title": {
+          "de": "Un Voyage illustré en Ukraine",
+          "hu": "Un Voyage illustré en Ukraine",
+          "ro": "Un Voyage illustré en Ukraine",
+          "en": "An Illustrated Journey in Ukraine",
+          "fr": "Un Voyage illustré en Ukraine"
+        },
+        "summary": {
+          "de": "Diese Ausstellung läuft bis 20. September 2026 und lädt Besucherinnen und Besucher zu einer illustrierten Entdeckungsreise durch die Ukraine ein.",
+          "hu": "Ez a kiállítás 2026. szeptember 20-ig látogatható, és illusztrált utazásra hívja a közönséget Ukrajnán keresztül.",
+          "ro": "Această expoziție rămâne deschisă până la 20 septembrie 2026 și propune publicului o călătorie ilustrată prin Ucraina.",
+          "en": "Running through September 20, 2026, this exhibition invites visitors on an illustrated journey through Ukraine.",
+          "fr": "Présentée jusqu'au 20 septembre 2026, cette exposition propose aux visiteurs un voyage illustré à travers l'Ukraine."
+        },
+        "source_url": "https://www.ville-chaumont.fr/sepanouir/agenda-des-manifestations/"
+      },
+      {
+        "date": "2026-06-03",
+        "end_date": "2026-11-29",
+        "title": {
+          "de": "Les Ambassadeurs",
+          "hu": "Les Ambassadeurs",
+          "ro": "Les Ambassadeurs",
+          "en": "Les Ambassadeurs",
+          "fr": "Les Ambassadeurs"
+        },
+        "summary": {
+          "de": "Die Reihe „Les Ambassadeurs“ ist bis Ende November im offiziellen Veranstaltungsprogramm von Chaumont gelistet.",
+          "hu": "A „Les Ambassadeurs” sorozat november végéig szerepel Chaumont hivatalos rendezvénynaptárában.",
+          "ro": "Seria „Les Ambassadeurs” figurează în agenda oficială a orașului Chaumont până la sfârșitul lunii noiembrie.",
+          "en": "The 'Les Ambassadeurs' series remains listed in Chaumont's official program through the end of November.",
+          "fr": "La série « Les Ambassadeurs » figure dans l'agenda officiel de Chaumont jusqu'à la fin novembre."
+        },
+        "source_url": "https://www.ville-chaumont.fr/sepanouir/agenda-des-manifestations/"
+      },
+      {
+        "date": "2025-10-29",
+        "end_date": "2027-02-28",
+        "title": {
+          "de": "Exposition L’Herbier de Gustave Dutailly (1846-1906)",
+          "hu": "Exposition L’Herbier de Gustave Dutailly (1846-1906)",
+          "ro": "Exposition L’Herbier de Gustave Dutailly (1846-1906)",
+          "en": "Exhibition: Gustave Dutailly's Herbarium (1846-1906)",
+          "fr": "Exposition L’Herbier de Gustave Dutailly (1846-1906)"
+        },
+        "summary": {
+          "de": "Die Langzeitausstellung über das Herbarium von Gustave Dutailly ist auch im Spätsommer und Herbst 2026 in Chaumont geöffnet.",
+          "hu": "A Gustave Dutailly herbáriumáról szóló hosszú távú kiállítás 2026 késő nyarán és őszén is látogatható Chaumont-ban.",
+          "ro": "Expoziția de durată dedicată ierbarului lui Gustave Dutailly rămâne deschisă și în a doua parte a anului 2026 la Chaumont.",
+          "en": "This long-running exhibition on Gustave Dutailly's herbarium remains open in Chaumont during late summer and autumn 2026.",
+          "fr": "Cette exposition de longue durée consacrée à l'herbier de Gustave Dutailly reste ouverte à Chaumont pendant la fin de l'été et l'automne 2026."
+        },
+        "source_url": "https://www.ville-chaumont.fr/sepanouir/agenda-des-manifestations/"
+      }
+    ]
+  },
+  {
+    "id": "butzbach",
+    "events": [
+      {
+        "date": "2026-07-23",
+        "end_date": "2026-08-13",
+        "title": {
+          "de": "Open Air Kino Butzbach",
+          "hu": "Butzbachi szabadtéri mozi",
+          "ro": "Cinema în aer liber la Butzbach",
+          "en": "Butzbach Open-Air Cinema"
+        },
+        "summary": {
+          "de": "Das Open-Air-Kino läuft mehrere Wochen am Landgrafenschloss und gehört zu den wichtigsten Sommerveranstaltungen der Stadt.",
+          "hu": "A szabadtéri mozi több héten át várja a közönséget a Landgrafenschlossnál, és Butzbach nyári programjainak fontos része.",
+          "ro": "Cinemaul în aer liber are loc timp de mai multe săptămâni la castelul Landgrafenschloss și este unul dintre reperele verii la Butzbach.",
+          "en": "The open-air cinema runs for several weeks at Landgrafenschloss and is one of Butzbach's key summer attractions."
+        },
+        "source_url": "https://stadt-butzbach.de/kultur/maerkte-events/"
+      },
+      {
+        "date": "2026-08-29",
+        "end_date": "2026-08-30",
+        "title": {
+          "de": "Wetterauer Chortage",
+          "hu": "Wetteraui Kórusnapok",
+          "ro": "Zilele Corale Wetterau",
+          "en": "Wetterau Choir Days"
+        },
+        "summary": {
+          "de": "Die Chorveranstaltung in der Alten Turnhalle bietet zwei Tage lang Auftritte und Programme für ein breites Publikum.",
+          "hu": "Az Alte Turnhalle-ban rendezett kórusesemény két napon át koncertekkel és programokkal várja a közönséget.",
+          "ro": "Evenimentul coral din Alte Turnhalle propune timp de două zile concerte și programe pentru publicul larg.",
+          "en": "Held at the Alte Turnhalle, this choral event offers two days of performances and programming for a broad audience."
+        },
+        "source_url": "https://stadt-butzbach.de/kultur/maerkte-events/"
+      },
+      {
+        "date": "2026-08-29",
+        "title": {
+          "de": "Klanggarten - musikalische Streifzüge durch die Chormusik der Romantik",
+          "hu": "Klanggarten - barangolás a romantikus kóruszene világában",
+          "ro": "Klanggarten - incursiuni muzicale în muzica corală romantică",
+          "en": "Klanggarten - musical journeys through Romantic choral music"
+        },
+        "summary": {
+          "de": "Das Abendkonzert des Kammerchors cantus firmus Wetterau widmet sich der Chormusik der Romantik bei freiem Eintritt.",
+          "hu": "A cantus firmus Wetterau kamarakar ingyenes esti koncertje a romantikus kórusirodalomra összpontosít.",
+          "ro": "Concertul de seară al corului de cameră cantus firmus Wetterau este dedicat muzicii corale romantice și are intrare liberă.",
+          "en": "This free evening concert by cantus firmus Wetterau focuses on Romantic-era choral music."
+        },
+        "source_url": "https://stadt-butzbach.de/kultur/maerkte-events/"
+      },
+      {
+        "date": "2026-09-04",
+        "end_date": "2026-09-06",
+        "title": {
+          "de": "43. Butzbacher Altstadtfest",
+          "hu": "43. Butzbachi Óvárosi Fesztivál",
+          "ro": "A 43-a Sărbătoare a Centrului Vechi din Butzbach",
+          "en": "43rd Butzbach Old Town Festival"
+        },
+        "summary": {
+          "de": "Das traditionsreiche Altstadtfest belebt Marktplatz und Innenstadt von Butzbach über ein ganzes Wochenende.",
+          "hu": "A hagyományos óvárosi fesztivál egy teljes hétvégére megtölti élettel Butzbach piacterét és belvárosát.",
+          "ro": "Festivalul tradițional al centrului vechi animă piața și centrul orașului Butzbach pe durata întregului weekend.",
+          "en": "This long-running old town festival fills Butzbach's market square and town center over a full weekend."
+        },
+        "source_url": "https://stadt-butzbach.de/kultur/maerkte-events/"
+      },
+      {
+        "date": "2026-10-24",
+        "end_date": "2026-10-27",
+        "title": {
+          "de": "705. Butzbacher Katharinenmarkt",
+          "hu": "705. Butzbachi Katalin-vásár",
+          "ro": "Al 705-lea Târg Sfânta Ecaterina din Butzbach",
+          "en": "705th Butzbach Katharinenmarkt"
+        },
+        "summary": {
+          "de": "Der historische Katharinenmarkt bringt Ende Oktober Markt- und Festatmosphäre auf Schlossplatz und in die Innenstadt.",
+          "hu": "A történelmi Katharinenmarkt október végén vásári és ünnepi hangulatot teremt a Schlossplatzon és a belvárosban.",
+          "ro": "Piața istorică Katharinenmarkt aduce la sfârșitul lui octombrie atmosferă de târg și sărbătoare în Schlossplatz și centrul orașului.",
+          "en": "The historic Katharinenmarkt brings fairground and festival atmosphere to Schlossplatz and the town center in late October."
+        },
+        "source_url": "https://stadt-butzbach.de/kultur/maerkte-events/"
+      }
+    ]
+  },
+  {
+    "id": "city-caransebes-extra",
+    "events": [
+      {
+        "date": "2026-09-14",
+        "title": {
+          "de": "Pelerinaj la Crucea de pe Muntele Mic",
+          "hu": "Zarándoklat a Muntele Mic keresztjéhez",
+          "ro": "Pelerinaj la Crucea de pe Muntele Mic",
+          "en": "Pilgrimage to the Cross on Muntele Mic"
+        },
+        "summary": {
+          "de": "Das offizielle Kulturprogramm der Diözese Caransebeș führt diesen September-Pilgerweg als große geistliche und öffentliche Veranstaltung der Region.",
+          "hu": "A Caransebeși Egyházmegye hivatalos kulturális programja ezt a szeptemberi zarándoklatot a térség egyik kiemelt nyilvános vallási eseményeként sorolja fel.",
+          "ro": "Agenda culturală oficială a Episcopiei Caransebeșului include acest pelerinaj de septembrie ca un important eveniment public și spiritual al zonei.",
+          "en": "The official cultural agenda of the Diocese of Caransebeș lists this September pilgrimage as a major public and spiritual event in the area."
+        },
+        "source_url": "https://www.episcopiacaransebesului.ro/agenda-culturala-2026/"
+      },
+      {
+        "date": "2026-10-15",
+        "end_date": "2026-10-30",
+        "title": {
+          "de": "Festivalul „Timotei Popovici” al corurilor de tineret",
+          "hu": "„Timotei Popovici” ifjúsági kórusfesztivál",
+          "ro": "Festivalul „Timotei Popovici” al corurilor de tineret",
+          "en": "Timotei Popovici Youth Choir Festival"
+        },
+        "summary": {
+          "de": "Das mehrwöchige Jugendchorfestival findet in Caransebeș statt und gehört zum offiziellen Kulturkalender 2026 der Diözese.",
+          "hu": "A többhetes ifjúsági kórusfesztivált Caransebeșben rendezik meg, és szerepel az egyházmegye hivatalos 2026-os kulturális naptárában.",
+          "ro": "Festivalul de coruri de tineret are loc la Caransebeș pe parcursul a două săptămâni și figurează în calendarul cultural oficial al anului 2026.",
+          "en": "This multi-week youth choir festival takes place in Caransebeș and appears in the diocese's official 2026 cultural calendar."
+        },
+        "source_url": "https://www.episcopiacaransebesului.ro/agenda-culturala-2026/"
+      },
+      {
+        "date": "2026-12-01",
+        "title": {
+          "de": "1 Decembrie",
+          "hu": "December 1.",
+          "ro": "1 Decembrie",
+          "en": "1 December National Day Events"
+        },
+        "summary": {
+          "de": "Für den rumänischen Nationalfeiertag nennt das offizielle Programm in Caransebeș Veranstaltungen an der Casa de Cultură, der Kathedrale und auf der Piața Miron Cristea.",
+          "hu": "A hivatalos program Caransebeșben a román nemzeti ünnephez a Casa de Cultură, a székesegyház és a Piața Miron Cristea helyszínein sorol fel eseményeket.",
+          "ro": "Programul oficial pentru Ziua Națională include la Caransebeș manifestări la Casa de Cultură, la catedrală și în Piața Miron Cristea.",
+          "en": "The official program for Romania's National Day lists events in Caransebeș at the Casa de Cultură, the cathedral, and Piața Miron Cristea."
+        },
+        "source_url": "https://www.episcopiacaransebesului.ro/agenda-culturala-2026/"
+      },
+      {
+        "date": "2026-12-19",
+        "title": {
+          "de": "Alaiul Colindătorilor",
+          "hu": "Kántálók menete",
+          "ro": "Alaiul Colindătorilor",
+          "en": "Christmas Carolers' Parade"
+        },
+        "summary": {
+          "de": "Das offizielle Kulturprogramm kündigt am 19. Dezember einen Kolindiererzug zwischen der Kathedrale „Învierea Domnului“ und dem Eparchiezentrum in Caransebeș an.",
+          "hu": "A hivatalos kulturális program december 19-re karácsonyi kántálók felvonulását hirdeti meg a „Învierea Domnului” székesegyház és az egyházmegyei központ között Caransebeșben.",
+          "ro": "Agenda culturală oficială anunță pentru 19 decembrie Alaiul Colindătorilor între Catedrala „Învierea Domnului” și Centrul Eparhial din Caransebeș.",
+          "en": "The official cultural agenda announces a Christmas carolers' parade on December 19 between the Învierea Domnului Cathedral and the diocesan center in Caransebeș."
+        },
+        "source_url": "https://www.episcopiacaransebesului.ro/agenda-culturala-2026/"
+      }
+    ]
+  },
+  {
+    "id": "sant-antoni",
+    "events": [
+      {
+        "date": "2026-07-31",
+        "end_date": "2026-08-14",
+        "period": {
+          "recurrent": true
+        },
+        "title": {
+          "de": "Mercat de sa Cooperativa",
+          "hu": "Mercat de sa Cooperativa",
+          "ro": "Mercat de sa Cooperativa",
+          "en": "Mercat de sa Cooperativa"
+        },
+        "summary": {
+          "de": "Der offizielle Gemeindekalender listet diesen Freitagsmarkt an mehreren Terminen im Sommer direkt bei der landwirtschaftlichen Genossenschaft von Sant Antoni.",
+          "hu": "A hivatalos önkormányzati naptár ezt a pénteki piacot több nyári időpontban is feltünteti a sant antoni mezőgazdasági szövetkezet mellett.",
+          "ro": "Calendarul oficial al primăriei include această piață de vineri în mai multe date de vară, lângă cooperativa agricolă din Sant Antoni.",
+          "en": "The official municipal calendar lists this Friday market on multiple summer dates next to Sant Antoni's agricultural cooperative."
+        },
+        "source_url": "https://www.santantoni.net/actualidad/agenda"
+      },
+      {
+        "date": "2026-08-24",
+        "title": {
+          "de": "Fiestas Patronales de Sant Bartomeu",
+          "hu": "Sant Bartomeu védőszenti ünnepségek",
+          "ro": "Sărbătorile patronale Sant Bartomeu",
+          "en": "Sant Bartomeu Festivity"
+        },
+        "summary": {
+          "de": "Das wichtigste Sommerfest von Sant Antoni bringt laut offiziellem Tourismusportal Feuerwerk, Gastronomie, Märkte, Konzerte und weitere öffentliche Aktivitäten in die Bucht und den Ort.",
+          "hu": "Sant Antoni fő nyári ünnepe az hivatalos turisztikai oldal szerint tűzijátékot, gasztronómiai programokat, vásárokat, koncerteket és további közösségi eseményeket kínál.",
+          "ro": "Principala sărbătoare de vară a localității aduce, potrivit portalului oficial de turism, focuri de artificii, gastronomie, piețe, concerte și alte activități publice în oraș și pe malul golfului.",
+          "en": "Sant Antoni's main summer festivity brings fireworks, food events, markets, concerts, and other public activities to the town and bay, according to the official tourism portal."
+        },
+        "source_url": "https://visit.santantoni.net/en/events/fiestas-patronales-de-sant-bartomeu/"
+      },
+      {
+        "date": "2026-09-11",
+        "end_date": "2026-09-13",
+        "title": {
+          "de": "Ibiza Balloon Festival",
+          "hu": "Ibiza Balloon Festival",
+          "ro": "Ibiza Balloon Festival",
+          "en": "Ibiza Balloon Festival"
+        },
+        "summary": {
+          "de": "Spaniens offizielles Tourismusportal nennt das Ibiza Balloon Festival in Sant Antoni de Portmany für Mitte September 2026.",
+          "hu": "Spanyolország hivatalos turisztikai oldala szerint az Ibiza Balloon Festival 2026 szeptemberének közepén tér vissza Sant Antoniba.",
+          "ro": "Portalul oficial de turism al Spaniei indică desfășurarea Ibiza Balloon Festival la Sant Antoni de Portmany la mijlocul lunii septembrie 2026.",
+          "en": "Spain's official tourism portal lists the Ibiza Balloon Festival in Sant Antoni de Portmany for mid-September 2026."
+        },
+        "source_url": "https://www.spain.info/en/destination/sant-antoni-portmany/"
+      },
+      {
+        "date": "2026-10-24",
+        "title": {
+          "de": "Ibiza Trail Marathon Festival",
+          "hu": "Ibiza Trail Marathon Festival",
+          "ro": "Ibiza Trail Marathon Festival",
+          "en": "Ibiza Trail Marathon Festival"
+        },
+        "summary": {
+          "de": "Das offizielle Tourismusportal von Sant Antoni bewirbt dieses Trailrunning-Festival mit Strecken über 10, 25 und 46 Kilometer sowie Begleitprogramm mit Musik und Gastronomie.",
+          "hu": "Sant Antoni hivatalos turisztikai oldala ezt a terepfutó fesztivált 10, 25 és 46 kilométeres távokkal, valamint zenei és gasztronómiai kísérőprogrammal hirdeti.",
+          "ro": "Portalul oficial de turism din Sant Antoni promovează acest festival de trail running cu trasee de 10, 25 și 46 km și cu program asociat de muzică și gastronomie.",
+          "en": "Sant Antoni's official tourism portal promotes this trail-running festival with 10 km, 25 km, and 46 km routes plus related music and gastronomy programming."
+        },
+        "source_url": "https://visit.santantoni.net/en/events/ibiza-trail-marathon/"
+      }
+    ]
+  }
+]

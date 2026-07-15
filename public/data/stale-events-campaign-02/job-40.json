@@ -1,0 +1,253 @@
+[
+  {
+    "id": "mosonmagyarovar",
+    "events": [
+      {
+        "title": {
+          "de": "Omega Musical: Gyöngyhajú lány",
+          "hu": "Omega Musical: Gyöngyhajú lány",
+          "ro": "Omega Musical: Fata cu părul de perlă",
+          "en": "Omega Musical: Girl with Pearl Hair"
+        },
+        "summary": {
+          "de": "Großes Open-Air-Musical im Mosoni városrész mit Songs der legendären Band Omega und einer märchenhaften Geschichte um Kriszta.",
+          "hu": "Nagyszabású szabadtéri musical a Mosoni városrészben az Omega legismertebb dalaival és Kriszta történetével.",
+          "ro": "Musical în aer liber în cartierul Mosoni, construit în jurul hiturilor trupei Omega și al poveștii personajului Kriszta.",
+          "en": "Large open-air musical in the Mosoni district built around Omega hits and the coming-of-age story of Kriszta."
+        },
+        "date": "2026-08-20",
+        "source_url": "https://www.tixa.hu/omega-musical-gyongyhaju-lany-20260820"
+      },
+      {
+        "title": {
+          "de": "Szent István Napok Sommerfestival",
+          "hu": "Szent István Napok Nyári Fesztivál",
+          "ro": "Festivalul de vară Szent István Napok",
+          "en": "Szent István Days Summer Festival"
+        },
+        "summary": {
+          "de": "Mehrtägiges Stadtfestival mit Konzerten, Familienprogrammen und Open-Air-Unterhaltung im Mosoni városrész.",
+          "hu": "Többnapos városi fesztivál koncertekkel, családi programokkal és szabadtéri szórakozással a Mosoni városrészben.",
+          "ro": "Festival urban de mai multe zile cu concerte, programe pentru familii și divertisment în aer liber în cartierul Mosoni.",
+          "en": "Multi-day town festival with concerts, family programming and outdoor entertainment in the Mosoni district."
+        },
+        "date": "2026-08-20",
+        "end_date": "2026-08-22",
+        "source_url": "https://www.programturizmus.hu/ajanlat-szent-istvan-napok-nyari-fesztival-mosonmagyarovar.html"
+      },
+      {
+        "title": {
+          "de": "Bödőcs Tibor: Innen már csak gurulunk",
+          "hu": "Bödőcs Tibor: Innen már csak gurulunk",
+          "ro": "Bödőcs Tibor: Innen már csak gurulunk",
+          "en": "Bödőcs Tibor: Innen már csak gurulunk"
+        },
+        "summary": {
+          "de": "Der bekannte ungarische Stand-up-Comedian gastiert im Flesch Központ mit seinem Soloprogramm.",
+          "hu": "A népszerű magyar stand-up humorista önálló esttel érkezik a Flesch Központba.",
+          "ro": "Cunoscutul comedian maghiar de stand-up vine la Flesch Központ cu spectacolul său solo.",
+          "en": "The popular Hungarian stand-up comedian brings his solo show to the Flesch Center."
+        },
+        "date": "2026-09-17",
+        "source_url": "https://www.tixa.hu/bodocs-tibor-mosonmagyarovaron-innen-mar-csak-gurulunk-cimu-stand-up-est-20260917"
+      },
+      {
+        "title": {
+          "de": "Somogyi András: Kölcsön Arcok",
+          "hu": "Somogyi András: Kölcsön Arcok",
+          "ro": "Somogyi András: Kölcsön Arcok",
+          "en": "Somogyi András: Borrowed Faces"
+        },
+        "summary": {
+          "de": "Somogyi András präsentiert im Flesch Központ sein neues Solo-Comedyprogramm.",
+          "hu": "Somogyi András új önálló esttel lép fel a Flesch Központban.",
+          "ro": "Somogyi András prezintă un nou spectacol solo de comedie la Flesch Központ.",
+          "en": "Somogyi András performs his new solo comedy show at the Flesch Center."
+        },
+        "date": "2026-10-02",
+        "source_url": "https://www.tixa.hu/mosonmagyarovar-somogyiandras"
+      },
+      {
+        "title": {
+          "de": "Fergeteges komédia",
+          "hu": "Fergeteges komédia",
+          "ro": "Comedie năvalnică",
+          "en": "Boisterous Comedy"
+        },
+        "summary": {
+          "de": "Bühnenkomödie im Flesch Központ für Besucher, die einen unterhaltsamen Theaterabend suchen.",
+          "hu": "Színpadi vígjáték a Flesch Központban azoknak, akik könnyed esti szórakozásra vágynak.",
+          "ro": "Comedie de teatru la Flesch Központ pentru vizitatorii care caută o seară relaxată.",
+          "en": "Stage comedy at the Flesch Center for visitors looking for a light evening performance."
+        },
+        "date": "2026-11-08",
+        "source_url": "https://www.tixa.hu/fergeteges-komedia-mosonmagyarovar"
+      }
+    ]
+  },
+  {
+    "id": "soissons",
+    "events": [
+      {
+        "title": {
+          "de": "Guinguette d’Alain et Christian",
+          "hu": "Alain és Christian guinguette-délutánja",
+          "ro": "Guinguette cu Alain și Christian",
+          "en": "Alain and Christian Guinguette",
+          "fr": "Guinguette d’Alain et Christian"
+        },
+        "summary": {
+          "de": "Kostenloser Tanz- und Musiknachmittag am Quai Saint-Waast an den Ufern der Aisne.",
+          "hu": "Ingyenes zenés-táncos délután a Quai Saint-Waast helyszínen, az Aisne partján.",
+          "ro": "După-amiază gratuită cu muzică și dans pe Quai Saint-Waast, pe malul râului Aisne.",
+          "en": "Free afternoon of music and dancing on Quai Saint-Waast along the Aisne.",
+          "fr": "Après-midi gratuite de musique et de danse quai Saint-Waast, sur les berges de l’Aisne."
+        },
+        "date": "2026-08-06",
+        "source_url": "https://www.grandsoissons.com/agenda/guinguette-dalain-et-christian-3/"
+      },
+      {
+        "title": {
+          "de": "Abbaye en chantiers",
+          "hu": "Abbaye en chantiers",
+          "ro": "Abbaye en chantiers",
+          "en": "Abbey Worksites",
+          "fr": "Abbaye en chantiers"
+        },
+        "summary": {
+          "de": "Geführte Besichtigung der Restaurierungsarbeiten an der Abbaye Saint-Jean-des-Vignes mit Einblick in Denkmalpflege und Baustelle.",
+          "hu": "Vezetett látogatás az Abbaye Saint-Jean-des-Vignes helyreállítási munkáihoz, műemlékvédelmi betekintéssel.",
+          "ro": "Vizită ghidată a lucrărilor de restaurare de la Abbaye Saint-Jean-des-Vignes, cu explicații despre patrimoniu și șantier.",
+          "en": "Guided visit of restoration works at Abbaye Saint-Jean-des-Vignes with insight into the active heritage worksite.",
+          "fr": "Visite guidée du chantier de restauration de l’abbaye Saint-Jean-des-Vignes et de ses savoir-faire."
+        },
+        "date": "2026-08-19",
+        "source_url": "https://www.grandsoissons.com/agenda/abbaye-en-chantiers/"
+      },
+      {
+        "title": {
+          "de": "Terrasse Musicale de la Bourse aux Grains",
+          "hu": "Terrasse musicale de la Bourse aux Grains",
+          "ro": "Terasa muzicală de la Bourse aux Grains",
+          "en": "Bourse aux Grains Music Terrace",
+          "fr": "Terrasse musicale de la Bourse aux Grains"
+        },
+        "summary": {
+          "de": "Kostenloser Sommerabend mit Live-Musik im Stadtzentrum auf der Place de la République.",
+          "hu": "Ingyenes nyáresti élőzene a városközpontban, a Place de la République téren.",
+          "ro": "Seară estivală gratuită cu muzică live în centrul orașului, pe Place de la République.",
+          "en": "Free summer evening with live music in the city center on Place de la République.",
+          "fr": "Soirée musicale gratuite au cœur de Soissons, place de la République."
+        },
+        "date": "2026-08-21",
+        "source_url": "https://www.grandsoissons.com/agenda/terrasse-musicale-de-la-bourse-aux-grains/"
+      },
+      {
+        "title": {
+          "de": "Soissons en lumière: Un site en intimité",
+          "hu": "Soissons en lumière: Un site en intimité",
+          "ro": "Soissons en lumière: Un site en intimité",
+          "en": "Soissons in Lights: An Intimate Site",
+          "fr": "Soissons en lumière : Un site en intimité"
+        },
+        "summary": {
+          "de": "Nächtliche Entdeckung eines Kulturerbes mit Taschenlampe und Lichtinszenierung, Treffpunkt am Hôtel de Ville.",
+          "hu": "Esti örökségtúra zseblámpával és fényjátékkal, találkozó a városházánál.",
+          "ro": "Descoperire nocturnă a patrimoniului cu lanternă și puneri în lumină, cu întâlnire la Hôtel de Ville.",
+          "en": "Night-time heritage visit with a torch-lit atmosphere and special lighting, meeting at City Hall.",
+          "fr": "Découverte nocturne d’un lieu patrimonial à la lampe torche, avec mise en lumière et départ à l’Hôtel de Ville."
+        },
+        "date": "2026-08-22",
+        "source_url": "https://www.grandsoissons.com/agenda/soissons-en-lumiere-un-site-en-intimite/"
+      },
+      {
+        "title": {
+          "de": "Nos quartiers d’été: Saint-Crépin",
+          "hu": "Nos quartiers d’été: Saint-Crépin",
+          "ro": "Nos quartiers d’été: Saint-Crépin",
+          "en": "Summer in Our Neighborhoods: Saint-Crépin",
+          "fr": "Nos quartiers d’été : Saint-Crépin"
+        },
+        "summary": {
+          "de": "Kostenloser Nachmittagsmarkt mit Umweltshow, Spielen, Quiz und Familienanimation im Quartier Saint-Crépin.",
+          "hu": "Ingyenes délutáni közösségi program környezetvédelmi előadással, játékokkal, kvízzel és családi foglalkozásokkal Saint-Crépinben.",
+          "ro": "După-amiază gratuită de cartier cu spectacol tematic, jocuri, quiz și activități pentru familii în Saint-Crépin.",
+          "en": "Free neighborhood afternoon with an eco-themed show, games, quizzes and family activities in Saint-Crépin.",
+          "fr": "Après-midi gratuit et festif à Saint-Crépin avec spectacle, animations, jeux et moments conviviaux."
+        },
+        "date": "2026-08-26",
+        "source_url": "https://www.grandsoissons.com/agenda/nos-quartiers-dete-saint-crepin-2/"
+      }
+    ]
+  },
+  {
+    "id": "ciutadella",
+    "events": [
+      {
+        "title": {
+          "de": "Ciutadella Summer Music Festival",
+          "hu": "Ciutadella Nyári Zenei Fesztivál",
+          "ro": "Festivalul de Muzică de Vară din Ciutadella",
+          "en": "Ciutadella Summer Music Festival"
+        },
+        "summary": {
+          "de": "Klassikfestival im Kreuzgang des Seminari del Socors mit international besetzten Sommerkonzerten in Ciutadella.",
+          "hu": "Klasszikus zenei fesztivál a Seminari del Socors kerengőjében, nemzetközi fellépőkkel Ciutadellában.",
+          "ro": "Festival de muzică clasică în claustrul Seminarului del Socors, cu concerte estivale și artiști internaționali la Ciutadella.",
+          "en": "Classical summer festival in the cloister of the Seminari del Socors with internationally featured concerts in Ciutadella."
+        },
+        "date": "2026-07-09",
+        "end_date": "2026-08-24",
+        "source_url": "https://www.spain.info/en/calendar/summer-music-festival-ciutadella/"
+      },
+      {
+        "title": {
+          "de": "Dansar sobre el mirall",
+          "hu": "Dansar sobre el mirall",
+          "ro": "Dansar sobre el mirall",
+          "en": "Dancing on the Mirror"
+        },
+        "summary": {
+          "de": "Klavierabend mit Magí Garcías und einem introspektiven Programm von Schumann bis Liszt.",
+          "hu": "Magí Garcías zongoraestje Schumanntól Lisztig ívelő, befelé forduló műsorral.",
+          "ro": "Recital de pian cu Magí Garcías, de la Schumann la Liszt, cu un program introspectiv.",
+          "en": "Piano recital by Magí Garcías with an introspective program running from Schumann to Liszt."
+        },
+        "date": "2026-08-10",
+        "source_url": "https://www.jjmmciutadella.com/jmc/2026/06/12/54e-festival-de-musica-destiu-dansar-sobre-el-mirall-magi-garcias/"
+      },
+      {
+        "title": {
+          "de": "Transfoliació",
+          "hu": "Transfoliació",
+          "ro": "Transfoliació",
+          "en": "Transfoliació"
+        },
+        "summary": {
+          "de": "KamBrass interpretiert die Folia-Tradition in einer zeitgenössischen Kammermusikproduktion.",
+          "hu": "A KamBrass kortárs kamarazenei megközelítésben értelmezi újra a folia hagyományát.",
+          "ro": "KamBrass reinterpretează tradiția foliei într-un proiect contemporan de muzică de cameră.",
+          "en": "KamBrass reinterprets the folia tradition in a contemporary chamber-music project."
+        },
+        "date": "2026-08-17",
+        "source_url": "https://www.jjmmciutadella.com/jmc/2026/06/12/54e-festival-de-musica-destiu-transfoliacio-kambrass/"
+      },
+      {
+        "title": {
+          "de": "New Beginnings",
+          "hu": "New Beginnings",
+          "ro": "New Beginnings",
+          "en": "New Beginnings"
+        },
+        "summary": {
+          "de": "Abschlusskonzert des Festivals mit The Rest Project und einem Programm über Erneuerung und Wandel.",
+          "hu": "A fesztivál zárókoncertje a The Rest Projecttel, a megújulás és átalakulás témája köré építve.",
+          "ro": "Concertul de închidere al festivalului, susținut de The Rest Project, dedicat ideii de reînnoire și transformare.",
+          "en": "Festival closing concert by The Rest Project built around the idea of renewal and transformation."
+        },
+        "date": "2026-08-24",
+        "source_url": "https://www.jjmmciutadella.com/jmc/2026/06/12/54e-festival-de-musica-destiu-new-beginnings-the-rest-project/"
+      }
+    ]
+  }
+]

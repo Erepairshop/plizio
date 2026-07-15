@@ -1,0 +1,414 @@
+[
+  {
+    "id": "toledo",
+    "events": [
+      {
+        "date": "2026-08-13",
+        "end_date": "2026-08-19",
+        "title": {
+          "de": "Feria y Fiestas de Agosto 2026",
+          "hu": "2026-os augusztusi városi ünnepek",
+          "ro": "Feria y Fiestas de Agosto 2026",
+          "en": "August Fair and Festivities 2026"
+        },
+        "summary": {
+          "de": "Toledos große Augustfeier zu Ehren der Virgen del Sagrario verbindet Konzerte, Traditionen und Kulturprogramme in mehreren Teilen der Stadt.",
+          "hu": "Toledo nagy augusztusi ünnepe a Virgen del Sagrario tiszteletére koncertekkel, hagyományőrző programokkal és kulturális eseményekkel tölti meg a várost.",
+          "ro": "Marea sărbătoare de august a orașului Toledo, dedicată Fecioarei del Sagrario, aduce concerte, tradiții și programe culturale în mai multe zone ale orașului.",
+          "en": "Toledo's main August celebration in honor of the Virgen del Sagrario fills the city with concerts, traditions, and cultural programming."
+        },
+        "source_url": "https://www.toledo.es/las-ferias-y-fiestas-de-agosto-en-toledo-contaran-con-la-actuacion-de-loquillo-leire-martinez-pole-y-jose-manuel-soto-como-grandes-protagonistas/"
+      },
+      {
+        "date": "2026-12-31",
+        "title": {
+          "de": "Rutas de Patrimonio Desconocido",
+          "hu": "Ismeretlen örökség útvonalai",
+          "ro": "Rutas de Patrimonio Desconocido",
+          "en": "Hidden Heritage Routes"
+        },
+        "summary": {
+          "de": "Kostenlose geführte Besuche erschließen restaurierte Monumente, Ausgrabungen und andere sonst kaum zugängliche Orte des historischen Toledo.",
+          "hu": "Az ingyenes vezetett látogatások helyreállított műemlékeket, régészeti helyszíneket és más, ritkán látogatható toledói helyeket mutatnak be.",
+          "ro": "Vizitele ghidate gratuite duc publicul prin monumente restaurate, situri arheologice și alte locuri mai puțin accesibile din Toledo.",
+          "en": "Free guided visits open restored monuments, archaeological sites, and other lesser-seen places across historic Toledo."
+        },
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.toledo-turismo.com/"
+      },
+      {
+        "date": "2026-12-31",
+        "title": {
+          "de": "Exposición permanente obra de Alberto Sánchez",
+          "hu": "Alberto Sánchez állandó kiállítása",
+          "ro": "Expoziția permanentă Alberto Sánchez",
+          "en": "Permanent Exhibition of Alberto Sánchez"
+        },
+        "summary": {
+          "de": "Das Zentrum für moderne und zeitgenössische Kunst von Kastilien-La Mancha zeigt dauerhaft Zeichnungen und Skulpturen des Toledaner Künstlers Alberto Sánchez.",
+          "hu": "A Kasztília-La Mancha-i Modern és Kortárs Művészeti Központ Alberto Sánchez toledói művész rajzait és szobrait mutatja be állandó kiállításon.",
+          "ro": "Centrul de Artă Modernă și Contemporană din Castilla-La Mancha găzduiește permanent desene și sculpturi ale artistului toledan Alberto Sánchez.",
+          "en": "The Center for Modern and Contemporary Art of Castilla-La Mancha permanently displays drawings and sculptures by Toledo artist Alberto Sánchez."
+        },
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.toledo-turismo.com/"
+      },
+      {
+        "date": "2026-12-31",
+        "title": {
+          "de": "Itinerario de Botánica Andalusí en Toledo",
+          "hu": "Andalúz botanikai útvonal Toledóban",
+          "ro": "Itinerar de botanică andaluză în Toledo",
+          "en": "Andalusian Botany Route in Toledo"
+        },
+        "summary": {
+          "de": "Der botanische Rundgang im Museo de Santa Cruz macht Pflanzenarten und Wissen aus der islamischen Zeit der iberischen Halbinsel sichtbar.",
+          "hu": "A Santa Cruz Múzeum botanikai útvonala az Ibériai-félsziget iszlám korszakának növényvilágát és tudását mutatja be.",
+          "ro": "Traseul botanic din Muzeul Santa Cruz pune în valoare speciile și cunoștințele botanice din perioada islamică a Peninsulei Iberice.",
+          "en": "This botanical route at the Museum of Santa Cruz highlights plant species and botanical knowledge from Islamic-era Iberia."
+        },
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.toledo-turismo.com/"
+      }
+    ]
+  },
+  {
+    "id": "france-lyon-south-cities-v2",
+    "events": [
+      {
+        "date": "2026-08-28",
+        "end_date": "2026-08-30",
+        "title": {
+          "de": "Forum des associations 2026",
+          "hu": "Egyesületi fórum 2026",
+          "ro": "Forumul asociațiilor 2026",
+          "en": "Association Forum 2026",
+          "fr": "Forum des associations 2026"
+        },
+        "summary": {
+          "de": "In Oullins-Pierre-Bénite südlich von Lyon präsentiert das Verbändeforum lokale Vereine, Freizeitangebote und Begegnungen für Einwohner und Besucher.",
+          "hu": "A Lyontól délre fekvő Oullins-Pierre-Bénite egyesületi fóruma helyi szervezeteket, szabadidős lehetőségeket és közösségi találkozókat mutat be.",
+          "ro": "La Oullins-Pierre-Bénite, în sudul Lyonului, forumul asociațiilor reunește organizații locale, activități de loisir și întâlniri pentru public.",
+          "en": "In Oullins-Pierre-Bénite south of Lyon, the association forum brings together local groups, leisure activities, and community encounters.",
+          "fr": "À Oullins-Pierre-Bénite, au sud de Lyon, le forum des associations réunit structures locales, activités de loisirs et rencontres conviviales."
+        },
+        "source_url": "https://www.oullinspierrebenite.fr/evenements/"
+      },
+      {
+        "date": "2026-09-12",
+        "title": {
+          "de": "Francophonides 2026",
+          "hu": "Francophonides 2026",
+          "ro": "Francophonides 2026",
+          "en": "Francophonides 2026",
+          "fr": "Francophonides 2026"
+        },
+        "summary": {
+          "de": "Das Open-Air-Festival im Parc Jean de La Fontaine widmet sich dem frankophonen Chanson und kündigt 2026 Amel Bent, Jérémy Frerot, Joseph Chedid und Marla Fredonne an.",
+          "hu": "A Parc Jean de La Fontaine szabadtéri fesztiválja a francia nyelvű dalnak szentelt estét kínál Amel Bent, Jérémy Frerot, Joseph Chedid és Marla Fredonne fellépésével.",
+          "ro": "Festivalul în aer liber din Parc Jean de La Fontaine este dedicat cântecului francofon și îi anunță în 2026 pe Amel Bent, Jérémy Frerot, Joseph Chedid și Marla Fredonne.",
+          "en": "This open-air festival in Parc Jean de La Fontaine celebrates francophone song, with Amel Bent, Jérémy Frerot, Joseph Chedid, and Marla Fredonne announced for 2026.",
+          "fr": "Ce festival en plein air au parc Jean de La Fontaine célèbre la chanson francophone avec Amel Bent, Jérémy Frerot, Joseph Chedid et Marla Fredonne annoncés en 2026."
+        },
+        "source_url": "https://www.oullinspierrebenite.fr/app/uploads/2026/06/26_Traitsdunion_JUIN_2026_WEB.pdf"
+      },
+      {
+        "date": "2026-10-09",
+        "end_date": "2026-10-11",
+        "title": {
+          "de": "Oktoberfest 2026",
+          "hu": "Oktoberfest 2026",
+          "ro": "Oktoberfest 2026",
+          "en": "Oktoberfest 2026",
+          "fr": "Oktoberfest 2026"
+        },
+        "summary": {
+          "de": "Das mehrtägige Herbstfest im Parc Chabrières bringt Feststimmung und öffentliches Unterhaltungsprogramm in den Süden der Metropole Lyon.",
+          "hu": "A Parc Chabrières többnapos őszi rendezvénye ünnepi hangulatot és nyilvános szórakoztató programot kínál Lyon déli részén.",
+          "ro": "Evenimentul de toamnă desfășurat pe mai multe zile în Parc Chabrières aduce atmosferă festivă și divertisment public în sudul metropolei Lyon.",
+          "en": "This multi-day autumn event in Parc Chabrières brings festive atmosphere and public entertainment to the southern Lyon area.",
+          "fr": "Cet événement automnal de plusieurs jours au parc Chabrières apporte ambiance festive et animations publiques au sud de la métropole lyonnaise."
+        },
+        "source_url": "https://www.oullinspierrebenite.fr/evenements/"
+      },
+      {
+        "date": "2026-08-30",
+        "end_date": "2026-08-30",
+        "title": {
+          "de": "Activités multisports 11/14",
+          "hu": "11/14-es multisport foglalkozások",
+          "ro": "Activități multisport 11/14",
+          "en": "Multisport Activities 11/14",
+          "fr": "Activités multisports 11/14"
+        },
+        "summary": {
+          "de": "Das Sommerprogramm für 11- bis 14-Jährige in Oullins-Pierre-Bénite läuft bis Ende August und bietet betreute Sportanimationen für Jugendliche.",
+          "hu": "Az Oullins-Pierre-Bénite-i 11-14 éveseknek szóló nyári program augusztus végéig tart, és felügyelt sportfoglalkozásokat kínál.",
+          "ro": "Programul de vară pentru tinerii de 11-14 ani din Oullins-Pierre-Bénite continuă până la sfârșitul lui august, cu activități sportive supravegheate.",
+          "en": "This summer program for ages 11 to 14 in Oullins-Pierre-Bénite runs through the end of August with supervised sports activities.",
+          "fr": "Ce programme estival pour les 11-14 ans à Oullins-Pierre-Bénite se poursuit jusqu'à la fin août avec des animations sportives encadrées."
+        },
+        "source_url": "https://www.oullinspierrebenite.fr/"
+      }
+    ]
+  },
+  {
+    "id": "netherlands-hengelo-cities-v2",
+    "events": [
+      {
+        "date": "2026-08-01",
+        "title": {
+          "de": "Warenmarkt in Hengelo",
+          "hu": "Hengelói piac",
+          "ro": "Piața din Hengelo",
+          "en": "Hengelo Market"
+        },
+        "summary": {
+          "de": "Der Innenstadtmarkt findet jede Woche mittwochs und samstags statt und kombiniert Einkaufen mit Essensständen und Stadtbummel.",
+          "hu": "A belvárosi piac minden szerdán és szombaton várja a látogatókat vásárlással, ételárusokkal és laza városi hangulattal.",
+          "ro": "Piața centrală are loc în fiecare miercuri și sâmbătă și combină cumpărăturile cu standuri de mâncare și plimbări prin centru.",
+          "en": "The city-center market takes place every Wednesday and Saturday, mixing shopping, food stalls, and a relaxed day out."
+        },
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://uitinhengelo.nl/evenementen/warenmarkt-in-hengelo"
+      },
+      {
+        "date": "2026-08-03",
+        "end_date": "2026-08-14",
+        "title": {
+          "de": "Vakantiekids Zomerfestijn 2026",
+          "hu": "Vakantiekids Nyári Fesztivál 2026",
+          "ro": "Vakantiekids Zomerfestijn 2026",
+          "en": "Vakantiekids Summer Festival 2026"
+        },
+        "summary": {
+          "de": "Zwei Wochen Ferienprogramm mit Spielen und Aktionen wie Lasergame, Schwimmen, Rutschen und Basteln für Kinder und Familien in Hengelo.",
+          "hu": "Kéthetes szünidei programsorozat gyerekeknek és családoknak lasertaggel, úszással, csúszdázással és kézműves foglalkozásokkal Hengelóban.",
+          "ro": "Două săptămâni de vacanță cu jocuri și activități precum laser tag, înot, tobogane și ateliere pentru copii și familii în Hengelo.",
+          "en": "This two-week holiday program offers games and activities such as laser tag, swimming, slides, and crafts for children and families in Hengelo."
+        },
+        "source_url": "https://uitinhengelo.nl/evenementen/vakantiekids-zomerfestijn-2026"
+      },
+      {
+        "date": "2026-08-28",
+        "end_date": "2026-08-30",
+        "title": {
+          "de": "Volksfeesten Oele",
+          "hu": "Oele népünnepély",
+          "ro": "Volksfeesten Oele",
+          "en": "Oele Folk Festival"
+        },
+        "summary": {
+          "de": "Das dreitägige Volksfest in Oele bei Hengelo verbindet Musik, Kirmes und Unterhaltung mit starkem lokalem Charakter.",
+          "hu": "Az Oele-ben megrendezett háromnapos népünnepély zenével, vidámparki hangulattal és helyi közösségi programokkal várja a látogatókat.",
+          "ro": "Sărbătoarea populară de trei zile din Oele, lângă Hengelo, combină muzica, bâlciul și divertismentul cu o atmosferă locală puternică.",
+          "en": "This three-day folk festival in Oele near Hengelo combines music, fairground atmosphere, and local entertainment."
+        },
+        "source_url": "https://uitinhengelo.nl/evenementen/volksfeesten-oele"
+      },
+      {
+        "date": "2026-08-01",
+        "end_date": "2026-08-30",
+        "title": {
+          "de": "Rabobank Beach Courts",
+          "hu": "Rabobank Beach Courts",
+          "ro": "Rabobank Beach Courts",
+          "en": "Rabobank Beach Courts"
+        },
+        "summary": {
+          "de": "Die temporären Beach-Courts auf dem Platz vor dem Rathaus laden den ganzen Sommer zu Sport, Freizeit und entspanntem Aufenthalt im Zentrum ein.",
+          "hu": "A városháza előtti ideiglenes strandpályák egész nyáron sportolási és kikapcsolódási lehetőséget kínálnak a belvárosban.",
+          "ro": "Terenurile temporare de plajă din fața primăriei oferă pe tot parcursul verii sport și relaxare chiar în centrul orașului.",
+          "en": "Temporary beach courts in front of city hall offer sports, leisure, and a summer hangout in the town center."
+        },
+        "source_url": "https://uitinhengelo.nl/evenementen/rabobank-beach-courts"
+      },
+      {
+        "date": "2026-08-07",
+        "title": {
+          "de": "Nightskate Twente",
+          "hu": "Nightskate Twente",
+          "ro": "Nightskate Twente",
+          "en": "Nightskate Twente"
+        },
+        "summary": {
+          "de": "Die kostenlose Freitags-Skaterunde startet am Stationsplein und führt begleitet durch Hengelo und die Umgebung.",
+          "hu": "Az ingyenes péntek esti görkorcsolyás menet a Stationspleinről indul, és kísérettel halad Hengelo és környéke útvonalain.",
+          "ro": "Turul gratuit de vineri seara pentru role pornește din Stationsplein și străbate Hengelo și împrejurimile cu escortă organizată.",
+          "en": "This free Friday evening skate starts at Stationsplein and tours Hengelo and its surroundings with organized route support."
+        },
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://uitinhengelo.nl/evenementen/nightskate-twente"
+      }
+    ]
+  },
+  {
+    "id": "city-resita-extra",
+    "events": [
+      {
+        "date": "2026-09-25",
+        "title": {
+          "de": "Noaptea Cercetătorilor și Festival de Științe",
+          "hu": "Kutatók Éjszakája és Tudományfesztivál",
+          "ro": "Noaptea Cercetătorilor și Festival de Științe",
+          "en": "Researchers' Night and Science Festival"
+        },
+        "summary": {
+          "de": "Am UBB-Universitätszentrum in Reșița gibt es interaktive Wissenschaftsstände, Experimente und Vorführungen für alle Altersgruppen.",
+          "hu": "A reșițai UBB egyetemi központban interaktív tudományos standok, kísérletek és bemutatók várják minden korosztály látogatóit.",
+          "ro": "La Centrul Universitar UBB din Reșița, publicul este invitat la standuri interactive, experimente și demonstrații științifice pentru toate vârstele.",
+          "en": "At the UBB University Center in Reșița, visitors can explore interactive science stands, experiments, and demonstrations for all ages."
+        },
+        "source_url": "https://resita.ro/noaptea-cercetatorilor-si-festival-de-stiinte-la-resita/"
+      },
+      {
+        "date": "2026-09-26",
+        "end_date": "2026-09-28",
+        "title": {
+          "de": "Zilele Recoltei",
+          "hu": "Aratónapok",
+          "ro": "Zilele Recoltei",
+          "en": "Harvest Days"
+        },
+        "summary": {
+          "de": "Das jährliche Herbstfest auf der Platforma Câlnicel bringt Produzenten, Kunsthandwerker und Volksmusikprogramme nach Reșița.",
+          "hu": "A Câlnicel platformon megrendezett éves őszi vásár termelőket, kézműveseket és népzenei programokat hoz Reșițára.",
+          "ro": "Evenimentul anual de toamnă de pe Platforma Câlnicel reunește producători, artizani și programe de muzică populară la Reșița.",
+          "en": "This annual autumn event at Platforma Câlnicel brings producers, artisans, and folk-music programming to Reșița."
+        },
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://resita.ro/zilele-recoltei-la-resita-in-perioada-26-28-septembrie/"
+      },
+      {
+        "date": "2026-09-03",
+        "end_date": "2026-09-05",
+        "title": {
+          "de": "Reșița Film Festival",
+          "hu": "Reșița Filmfesztivál",
+          "ro": "Reșița Film Festival",
+          "en": "Reșița Film Festival"
+        },
+        "summary": {
+          "de": "Das Filmfestival in Zusammenarbeit mit TIFF bringt mehrere Tage lang rumänische und europäische Filme an öffentliche Spielorte in Reșița.",
+          "hu": "A TIFF-fel közösen szervezett filmfesztivál több napon át román és európai filmeket vetít Reșița különböző helyszínein.",
+          "ro": "Festivalul organizat împreună cu TIFF aduce timp de mai multe zile filme românești și europene în mai multe spații din Reșița.",
+          "en": "Organized with TIFF, this multi-day film festival brings Romanian and European cinema to several venues in Reșița."
+        },
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://resita.ro/resita-film-festival-sub-egida-tiff-trei-zile-trei-locatii-diferite-zece-filme-artistice-si-un-documentar/"
+      },
+      {
+        "date": "2026-10-26",
+        "end_date": "2026-10-30",
+        "title": {
+          "de": "Festivalul Internațional Sabin Pautza",
+          "hu": "Sabin Pautza Nemzetközi Fesztivál",
+          "ro": "Festivalul Internațional Sabin Pautza",
+          "en": "Sabin Pautza International Festival"
+        },
+        "summary": {
+          "de": "Das mehrtägige Festival in Reșița umfasst Konzerte, Recitals, Ausstellungen, Buchvorstellungen und einen Klavier- und Kompositionswettbewerb.",
+          "hu": "A többnapos reșițai fesztivál koncerteket, zenei esteket, kiállításokat, könyvbemutatókat és zongora- valamint zeneszerzőversenyt kínál.",
+          "ro": "Festivalul desfășurat pe parcursul mai multor zile la Reșița include concerte, recitaluri, expoziții, lansări de carte și concursuri de pian și compoziție.",
+          "en": "This multi-day festival in Reșița includes concerts, recitals, exhibitions, book launches, and piano and composition competitions."
+        },
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://resita.ro/resita-150-festivalul-international-sabin-pautza-editia-a-ix-a/"
+      }
+    ]
+  },
+  {
+    "id": "pau",
+    "events": [
+      {
+        "date": "2026-08-01",
+        "title": {
+          "de": "La Cercleuse - Dakeez - Nono La Grinta",
+          "hu": "La Cercleuse - Dakeez - Nono La Grinta",
+          "ro": "La Cercleuse - Dakeez - Nono La Grinta",
+          "en": "La Cercleuse - Dakeez - Nono La Grinta",
+          "fr": "La Cercleuse - Dakeez - Nono La Grinta"
+        },
+        "summary": {
+          "de": "Kostenlose Abendkonzerte im Théâtre de Verdure beschließen die Ausgabe 2026 des Festivalprogramms Été à Pau.",
+          "hu": "Az Été à Pau 2026 programját ingyenes esti koncertek zárják a Théâtre de Verdure szabadtéri helyszínén.",
+          "ro": "Seria Été à Pau 2026 se încheie la Théâtre de Verdure cu un program de concerte de seară cu acces gratuit.",
+          "en": "This free evening concert program at the Théâtre de Verdure closes the 2026 edition of Été à Pau.",
+          "fr": "Ces concerts gratuits en soirée au Théâtre de Verdure clôturent l'édition 2026 de l'Été à Pau."
+        },
+        "source_url": "https://www.pau.fr/agenda/la-cercleuse-dakeez-nono-la-grinta"
+      },
+      {
+        "date": "2026-08-10",
+        "end_date": "2026-08-14",
+        "title": {
+          "de": "Pau's détente au parc Ridgway",
+          "hu": "Pau's détente a Ridgway parkban",
+          "ro": "Pau's détente în parcul Ridgway",
+          "en": "Pau's détente at Parc Ridgway",
+          "fr": "Pau's détente au parc Ridgway"
+        },
+        "summary": {
+          "de": "Im Parc Ridgway bietet die Stadt mehrere Tage lang kostenlose Freizeitanimationen ohne Anmeldung an.",
+          "hu": "A Ridgway parkban a város több napon át ingyenes, előzetes regisztráció nélküli kikapcsolódási programokat szervez.",
+          "ro": "În parc Ridgway, municipalitatea propune mai multe zile de animații gratuite fără înscriere prealabilă.",
+          "en": "At Parc Ridgway, the city offers several days of free drop-in leisure activities with no registration required.",
+          "fr": "Au parc Ridgway, la ville propose plusieurs jours d'animations gratuites sans inscription."
+        },
+        "source_url": "https://www.pau.fr/agenda/paus-detente-au-parc-ridgway"
+      },
+      {
+        "date": "2026-08-24",
+        "title": {
+          "de": "Qui suis-je ?",
+          "hu": "Ki vagyok én?",
+          "ro": "Qui suis-je ?",
+          "en": "Who Am I?",
+          "fr": "Qui suis-je ?"
+        },
+        "summary": {
+          "de": "Im Schloss von Pau lädt ein Spurenspiel für kleine Kinder dazu ein, die Dauersammlungen spielerisch zu entdecken.",
+          "hu": "A pau-i kastélyban a kisgyerekeknek szóló nyomkereső játék játékos módon mutatja be az állandó gyűjteményeket.",
+          "ro": "La castelul din Pau, un joc de pistă pentru copii mici oferă o descoperire ludică a colecțiilor permanente.",
+          "en": "At the Château de Pau, a children's treasure-trail style visit offers a playful way to explore the permanent collections.",
+          "fr": "Au château de Pau, ce parcours-jeu permet aux jeunes enfants de découvrir les collections permanentes de façon ludique."
+        },
+        "source_url": "https://www.pau.fr/agenda/qui-suis-je-2"
+      },
+      {
+        "date": "2026-09-05",
+        "title": {
+          "de": "Le jour des papillons",
+          "hu": "A lepkék napja",
+          "ro": "Ziua fluturilor",
+          "en": "Day of the Butterflies",
+          "fr": "Le jour des papillons"
+        },
+        "summary": {
+          "de": "Die Naturveranstaltung des Musée national et domaine du château de Pau widmet sich Schmetterlingen und lebendigen Landschaften.",
+          "hu": "A Musée national et domaine du château de Pau természetprogramja a lepkékre és az élő tájakra irányítja a figyelmet.",
+          "ro": "Evenimentul de natură propus de Musée national et domaine du château de Pau este dedicat fluturilor și peisajelor vii.",
+          "en": "This nature outing, proposed with the national museum and estate of the Château de Pau, focuses on butterflies and living landscapes.",
+          "fr": "Cette sortie nature proposée avec le Musée national et domaine du château de Pau met à l'honneur les papillons et les paysages vivants."
+        },
+        "source_url": "https://www.pau.fr/agenda/le-jour-des-papillons-0"
+      }
+    ]
+  }
+]

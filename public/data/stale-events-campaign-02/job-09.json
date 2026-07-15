@@ -1,0 +1,436 @@
+[
+  {
+    "id": "garbsen",
+    "events": [
+      {
+        "title": {
+          "de": "GarbsenLIVE! Comedy-Night",
+          "hu": "GarbsenLIVE! Comedy Night",
+          "ro": "GarbsenLIVE! Noaptea de comedie",
+          "en": "GarbsenLIVE! Comedy Night"
+        },
+        "summary": {
+          "de": "Die vierte Comedy-Night auf dem Rathausplatz bringt Frank Fischer, Vera Deckers, Fabian Lampert und Ana Lucia auf die Open-Air-Bühne.",
+          "hu": "A negyedik Comedy Night a városháza terén Frank Fischer, Vera Deckers, Fabian Lampert és Ana Lucia fellépésével várja a közönséget a szabadtéri színpadon.",
+          "ro": "A patra ediție a serii de comedie de pe Rathausplatz îi aduce pe scena în aer liber pe Frank Fischer, Vera Deckers, Fabian Lampert și Ana Lucia.",
+          "en": "The fourth Comedy Night on Rathausplatz brings Frank Fischer, Vera Deckers, Fabian Lampert, and Ana Lucia to the open-air stage."
+        },
+        "date": "2026-08-07",
+        "source_url": "https://www.garbsen.de/regional/veranstaltungen/detail-904023185-21200.html"
+      },
+      {
+        "title": {
+          "de": "GarbsenLIVE! Garbsen goes Beach",
+          "hu": "GarbsenLIVE! Garbsen goes Beach",
+          "ro": "GarbsenLIVE! Garbsen goes Beach",
+          "en": "GarbsenLIVE! Garbsen goes Beach"
+        },
+        "summary": {
+          "de": "Der Rathausplatz wird zwei Tage lang zur Strandlounge mit Sand, Musik, Tanz, Showeinlagen und sommerlichem Stadtfestival-Flair.",
+          "hu": "A városháza tere két napra homokkal, zenével, tánccal és show-elemekkel nyári strandhangulatú városi helyszínné alakul.",
+          "ro": "Piața primăriei se transformă pentru două zile într-un lounge urban de plajă, cu nisip, muzică, dans și momente de spectacol.",
+          "en": "Rathausplatz turns into a two-day beach lounge with sand, music, dancing, show acts, and a summery city-festival atmosphere."
+        },
+        "date": "2026-08-21",
+        "end_date": "2026-08-22",
+        "source_url": "https://www.garbsen.de/regional/veranstaltungen/detail-904023188-21200.html"
+      },
+      {
+        "title": {
+          "de": "GarbsenLIVE! MARQUESS bei Garbsen goes Beach",
+          "hu": "GarbsenLIVE! MARQUESS a Garbsen goes Beach rendezvényen",
+          "ro": "GarbsenLIVE! MARQUESS la Garbsen goes Beach",
+          "en": "GarbsenLIVE! MARQUESS at Garbsen goes Beach"
+        },
+        "summary": {
+          "de": "Beim Strandwochenende spielt MARQUESS mit seinen Latin-Pop-Hits ein kostenloses Konzert als musikalisches Highlight des Programms.",
+          "hu": "A strandhétvége zenei csúcspontjaként a MARQUESS latin-pop slágerekkel ad ingyenes koncertet.",
+          "ro": "În cadrul weekendului de plajă, MARQUESS susține un concert gratuit cu hituri latin-pop, ca punct culminant muzical al programului.",
+          "en": "As a musical highlight of the beach weekend, MARQUESS performs a free concert with its Latin-pop hits."
+        },
+        "date": "2026-08-22",
+        "source_url": "https://www.garbsen.de/regional/veranstaltungen/detail-904023188-21200.html"
+      },
+      {
+        "title": {
+          "de": "GarbsenLIVE! Uncle Bard & The Dirty Bastards",
+          "hu": "GarbsenLIVE! Uncle Bard & The Dirty Bastards",
+          "ro": "GarbsenLIVE! Uncle Bard & The Dirty Bastards",
+          "en": "GarbsenLIVE! Uncle Bard & The Dirty Bastards"
+        },
+        "summary": {
+          "de": "Das Abschlusskonzert der Reihe bringt Celtic- und Irish-Folk-Rock auf den Rathausplatz.",
+          "hu": "A sorozat zárókoncertje kelta és ír folk-rock hangzást visz a Rathausplatzra.",
+          "ro": "Concertul de închidere al seriei aduce pe Rathausplatz sonorități de folk-rock celtic și irlandez.",
+          "en": "The series finale brings Celtic and Irish folk rock to Rathausplatz."
+        },
+        "date": "2026-09-05",
+        "source_url": "https://www.garbsen.de/regional/veranstaltungen/garbsenlive-uncle-bard-the-dirty-bastards-904023192-21200.html"
+      },
+      {
+        "title": {
+          "de": "KULTOUR 2026",
+          "hu": "KULTOUR 2026",
+          "ro": "KULTOUR 2026",
+          "en": "KULTOUR 2026"
+        },
+        "summary": {
+          "de": "Bei der stadtweiten KULTOUR entsteht an mehreren Orten ein Programm aus Musik, Straßenkunst, Artistik und Comedy.",
+          "hu": "A városszerte zajló KULTOUR több helyszínen kínál zenét, utcaművészetet, artistákat és humort.",
+          "ro": "KULTOUR aduce în mai multe puncte ale orașului un program cu muzică, artă stradală, acrobație și comedie.",
+          "en": "The citywide KULTOUR creates a multi-location program of music, street art, acrobatics, and comedy."
+        },
+        "date": "2026-09-20",
+        "source_url": "https://www.garbsen.de/portal/seiten/kultour-2087056866-21200.html"
+      }
+    ]
+  },
+  {
+    "id": "bekescsaba",
+    "events": [
+      {
+        "title": {
+          "de": "Könyvtári Nyár '26",
+          "hu": "Könyvtári Nyár '26",
+          "ro": "Vara Bibliotecii '26",
+          "en": "Library Summer '26"
+        },
+        "summary": {
+          "de": "Die Sommerserie der Bezirksbibliothek bietet bis Mitte August kreative Digilabor-Termine wie Robotik, digitales Storytelling, Nähen und Schmuckherstellung.",
+          "hu": "A megyei könyvtár nyári programsorozata augusztus közepéig kreatív Digilabor-foglalkozásokat kínál robotikával, digitális történetmeséléssel, varrással és ékszerkészítéssel.",
+          "ro": "Seria de vară a bibliotecii județene oferă până la mijlocul lui august ateliere Digilabor, inclusiv robotică, storytelling digital, cusut și realizare de bijuterii.",
+          "en": "The county library's summer series runs into mid-August with Digilabor sessions covering robotics, digital storytelling, sewing, and jewelry making."
+        },
+        "date": "2026-07-14",
+        "end_date": "2026-08-18",
+        "source_url": "https://bekescsaba.hu/aktualitasok/civil-hirek/csabai-nyar-2026"
+      },
+      {
+        "title": {
+          "de": "Lóci Játszik",
+          "hu": "Lóci Játszik",
+          "ro": "Lóci Játszik",
+          "en": "Lóci Játszik"
+        },
+        "summary": {
+          "de": "Die ungarische Alternative-Pop-Band spielt ein Sommerkonzert auf der Bühne CsaKK STÉG.",
+          "hu": "A magyar alternatív-pop zenekar nyári koncertet ad a CsaKK STÉG színpadán.",
+          "ro": "Formația maghiară de alternative pop susține un concert de vară pe scena CsaKK STÉG.",
+          "en": "The Hungarian alternative pop band performs a summer concert on the CsaKK STÉG stage."
+        },
+        "date": "2026-08-15",
+        "source_url": "https://bekescsaba.hu/aktualitasok/civil-hirek/csabai-nyar-2026"
+      },
+      {
+        "title": {
+          "de": "Csillagos Abend in der Bibliothek",
+          "hu": "Csillagos este a könyvtárban",
+          "ro": "Seară sub stele la bibliotecă",
+          "en": "Starry Evening at the Library"
+        },
+        "summary": {
+          "de": "Im Rahmen von „Egy Hét a Csillagok Alatt“ gibt es einen Astronomievortrag, Quiz und Himmelsbeobachtung an der Bezirksbibliothek.",
+          "hu": "Az „Egy Hét a Csillagok Alatt” programsorozathoz kapcsolódva csillagászati előadás, kvíz és távcsöves égboltmegfigyelés várja a látogatókat a megyei könyvtárban.",
+          "ro": "În cadrul programului „Egy Hét a Csillagok Alatt”, biblioteca județeană găzduiește o prezentare de astronomie, quiz și observații ale cerului cu telescopul.",
+          "en": "As part of “Egy Hét a Csillagok Alatt,” the county library hosts an astronomy talk, quiz, and telescope skywatching."
+        },
+        "date": "2026-08-15",
+        "source_url": "https://bekescsaba.hu/aktualitasok/civil-hirek/csabai-nyar-2026"
+      },
+      {
+        "title": {
+          "de": "St.-Stephans-Tag in Békéscsaba",
+          "hu": "Államalapító Szent István Ünnepe Békéscsabán",
+          "ro": "Sărbătoarea Sfântului Ștefan la Békéscsaba",
+          "en": "St. Stephen's Day in Békéscsaba"
+        },
+        "summary": {
+          "de": "Das Stadtfest auf dem Szent-István-Platz verbindet Blasmusik, Fahnenzeremonie, Brotsegnung, Familienprogramm, Feuerwerk und Konzerte.",
+          "hu": "A Szent István téri városi ünnep térzenével, zászlófelvonással, kenyérszenteléssel, családi programokkal, tűzijátékkal és koncertekkel várja a közönséget.",
+          "ro": "Sărbătoarea urbană din Piața Szent István include fanfară, ceremonie de arborare a drapelului, binecuvântarea pâinii, programe pentru familii, focuri de artificii și concerte.",
+          "en": "The city celebration on Szent István Square combines brass music, a flag ceremony, bread blessing, family activities, fireworks, and concerts."
+        },
+        "date": "2026-08-20",
+        "source_url": "https://bekescsaba.hu/aktualitasok/civil-hirek/csabai-nyar-2026"
+      },
+      {
+        "title": {
+          "de": "Hiperkarma",
+          "hu": "Hiperkarma",
+          "ro": "Hiperkarma",
+          "en": "Hiperkarma"
+        },
+        "summary": {
+          "de": "Die prägende ungarische Alternative-Rock-Band um Bérczesi Robi spielt ein spätsommerliches Konzert am CsaKK STÉG.",
+          "hu": "A Bérczesi Robi vezette meghatározó magyar alternatív rockzenekar késő nyári koncertet ad a CsaKK STÉG helyszínen.",
+          "ro": "Trupa emblematică de rock alternativ maghiar condusă de Bérczesi Robi susține un concert de final de vară la CsaKK STÉG.",
+          "en": "The influential Hungarian alternative rock band led by Bérczesi Robi plays a late-summer concert at CsaKK STÉG."
+        },
+        "date": "2026-08-28",
+        "source_url": "https://bekescsaba.hu/aktualitasok/civil-hirek/csabai-nyar-2026"
+      }
+    ]
+  },
+  {
+    "id": "veszprem-city",
+    "events": [
+      {
+        "title": {
+          "de": "Zenés esték in der Sankt-Margit-Kirche",
+          "hu": "Zenés esték az Árpád-házi Szt. Margit templomban",
+          "ro": "Seri muzicale la biserica Sfânta Margareta",
+          "en": "Musical Evenings at St. Margaret Church"
+        },
+        "summary": {
+          "de": "Die kostenlose Sommerreihe in der Árpád-házi-Szent-Margit-Kirche läuft bis Anfang August und umfasst Kirchenkonzerte in historischem Ambiente.",
+          "hu": "Az Árpád-házi Szent Margit-templom ingyenes nyári koncertsorozata augusztus elejéig tart történelmi környezetben rendezett zenei estekkel.",
+          "ro": "Seria gratuită de concerte de vară din biserica Sfânta Margareta continuă până la începutul lui august, într-un cadru istoric.",
+          "en": "The free summer concert series at St. Margaret Church continues into early August with performances in a historic setting."
+        },
+        "date": "2026-07-05",
+        "end_date": "2026-08-02",
+        "source_url": "https://www.veszpreminfo.hu/hu/esemenyek/zenes-estek-az-arpad-hazi-szt-margit-templomban-2026"
+      },
+      {
+        "title": {
+          "de": "Auer-Festival Veszprém 2026",
+          "hu": "Auer Fesztivál Veszprém 2026",
+          "ro": "Festivalul Auer Veszprém 2026",
+          "en": "Auer Festival Veszprém 2026"
+        },
+        "summary": {
+          "de": "Das Festival ehrt den Geiger Leopold Auer mit internationaler Klassik, Kammermusik und weiteren Konzerten in Veszprém.",
+          "hu": "A fesztivál Auer Lipót emléke előtt tiszteleg nemzetközi klasszikus zenei, kamarazenei és további koncertekkel Veszprémben.",
+          "ro": "Festivalul îl omagiază pe violonistul Leopold Auer prin concerte internaționale de muzică clasică, cameră și alte producții la Veszprém.",
+          "en": "The festival honors violinist Leopold Auer with international classical, chamber, and other concerts in Veszprém."
+        },
+        "date": "2026-08-03",
+        "end_date": "2026-08-09",
+        "source_url": "https://www.veszpreminfo.hu/hu/esemenyek/auer-fesztival-veszprem-2026"
+      },
+      {
+        "title": {
+          "de": "OrgonaPont: Kecskés Mónika und Deák László",
+          "hu": "OrgonaPont - Kecskés Mónika és Deák László közös koncertje",
+          "ro": "OrgonaPont - concertul comun al lui Kecskés Mónika și Deák László",
+          "en": "OrgonaPont - Joint Concert by Mónika Kecskés and László Deák"
+        },
+        "summary": {
+          "de": "Die Konzertreihe OrgonaPont gastiert im Sankt-Michael-Dom mit einem gemeinsamen Orgelkonzert der beiden Musiker.",
+          "hu": "Az OrgonaPont koncertsorozat a Szent Mihály-főszékesegyházban közös hangversenyt ad a két művésszel.",
+          "ro": "Seria OrgonaPont ajunge în catedrala Sfântul Mihail cu un concert comun susținut de cei doi muzicieni.",
+          "en": "The OrgonaPont series reaches St. Michael's Cathedral with a joint organ concert by the two musicians."
+        },
+        "date": "2026-08-10",
+        "source_url": "https://www.veszpreminfo.hu/hu/esemenyek/orgonapont-kecskes-monika-es-deak-laszlo-kozos-koncertje"
+      },
+      {
+        "title": {
+          "de": "István, a király",
+          "hu": "István, a király",
+          "ro": "István, a király",
+          "en": "István, a király"
+        },
+        "summary": {
+          "de": "Die legendäre Rockoper von Levente Szörényi und János Bródy wird als großes Freilufttheater in der Burg von Veszprém gespielt.",
+          "hu": "Szörényi Levente és Bródy János legendás rockoperája nagyszabású szabadtéri előadásként érkezik a veszprémi várba.",
+          "ro": "Legendara operă rock a lui Levente Szörényi și János Bródy este prezentată într-o mare producție în aer liber în cetatea din Veszprém.",
+          "en": "The legendary rock opera by Levente Szörényi and János Bródy is staged as a major open-air production in Veszprém Castle."
+        },
+        "date": "2026-08-20",
+        "source_url": "https://www.veszpreminfo.hu/hu/esemenyek/istvan-a-kiraly-7716"
+      },
+      {
+        "title": {
+          "de": "Filmpiknik 2026",
+          "hu": "Filmpiknik 2026",
+          "ro": "Filmpiknik 2026",
+          "en": "Filmpiknik 2026"
+        },
+        "summary": {
+          "de": "Das erneuerte Filmfestival in Veszprém und Balatonfüred zeigt ungarische Spielfilme, Dokumentarfilme, Premieren, Publikumsgespräche und Begleitprogramme.",
+          "hu": "A megújult veszprémi és balatonfüredi filmes esemény magyar játék- és dokumentumfilmekkel, premiervetítésekkel, közönségtalálkozókkal és kísérőprogramokkal várja a látogatókat.",
+          "ro": "Evenimentul cinematografic reînnoit din Veszprém și Balatonfüred aduce filme maghiare de ficțiune și documentare, premiere, întâlniri cu publicul și programe conexe.",
+          "en": "The renewed film event in Veszprém and Balatonfüred offers Hungarian features, documentaries, premieres, audience talks, and side programs."
+        },
+        "date": "2026-08-27",
+        "end_date": "2026-08-29",
+        "source_url": "https://www.veszpreminfo.hu/hu/esemenyek/filmpiknik-2026"
+      }
+    ]
+  },
+  {
+    "id": "olbia",
+    "events": [
+      {
+        "title": {
+          "de": "Diventerai uomo",
+          "hu": "Diventerai uomo",
+          "ro": "Diventerai uomo",
+          "en": "Diventerai uomo"
+        },
+        "summary": {
+          "de": "Leonardo Mendolicchio spricht in der Sommerreihe auf der Piazza dello Scolastico über Männlichkeitsbilder, Erziehung und das Aufwachsen junger Männer.",
+          "hu": "Leonardo Mendolicchio a Piazza dello Scolasticón rendezett nyári sorozatban a férfiképről, nevelésről és a fiúk felnövekedéséről beszél.",
+          "ro": "În cadrul seriei estivale din Piazza dello Scolastico, Leonardo Mendolicchio vorbește despre modelele de masculinitate, educație și maturizarea băieților.",
+          "en": "In the summer series at Piazza dello Scolastico, Leonardo Mendolicchio discusses masculinity, education, and the growing-up of young men."
+        },
+        "date": "2026-07-30",
+        "source_url": "https://www.comune.olbia.ot.it/it/eventi/diventerai-uomo"
+      },
+      {
+        "title": {
+          "de": "La rivoluzione del metabolismo",
+          "hu": "La rivoluzione del metabolismo",
+          "ro": "La rivoluzione del metabolismo",
+          "en": "La rivoluzione del metabolismo"
+        },
+        "summary": {
+          "de": "Cristina Tomasi ist Gast der städtischen Sommerreihe mit einer Buchveranstaltung rund um Stoffwechsel und Gesundheit.",
+          "hu": "Cristina Tomasi a városi nyári sorozat vendége egy anyagcseréről és egészségről szóló könyvbemutatóval.",
+          "ro": "Cristina Tomasi participă la seria estivală a orașului cu o prezentare de carte dedicată metabolismului și sănătății.",
+          "en": "Cristina Tomasi joins the city's summer series for a book event focused on metabolism and health."
+        },
+        "date": "2026-07-31",
+        "source_url": "https://www.comune.olbia.ot.it/it/eventi/la-rivoluzione-del-metabolismo"
+      },
+      {
+        "title": {
+          "de": "Sergio Atzeni: Passavamo sulla terra leggeri",
+          "hu": "Sergio Atzeni: Passavamo sulla terra leggeri",
+          "ro": "Sergio Atzeni: Passavamo sulla terra leggeri",
+          "en": "Sergio Atzeni: Passavamo sulla terra leggeri"
+        },
+        "summary": {
+          "de": "Tullio Solenghi und Elena Pau lesen das Werk des sardischen Schriftstellers Sergio Atzeni in einer Theaterveranstaltung der Stadt.",
+          "hu": "Tullio Solenghi és Elena Pau Sergio Atzeni szardíniai író művét adják elő a város színházi programjában.",
+          "ro": "Tullio Solenghi și Elena Pau prezintă textul scriitorului sard Sergio Atzeni într-un eveniment teatral organizat de oraș.",
+          "en": "Tullio Solenghi and Elena Pau present the work of Sardinian writer Sergio Atzeni in a municipal theater event."
+        },
+        "date": "2026-08-04",
+        "source_url": "https://www.comune.olbia.ot.it/it/eventi/sergio-atzeni-passavamo-sulla-terra-leggeri"
+      },
+      {
+        "title": {
+          "de": "Red Valley Festival 2026",
+          "hu": "Red Valley Festival 2026",
+          "ro": "Festivalul Red Valley 2026",
+          "en": "Red Valley Festival 2026"
+        },
+        "summary": {
+          "de": "Das große Crossover-Musikfestival im Olbia Arena läuft über Ferragosto mit nationalen und internationalen Pop-, Rap-, Urban- und Dance-Acts.",
+          "hu": "Az Olbia Arénában rendezett nagyszabású crossover zenei fesztivál Ferragosto idején hazai és nemzetközi pop-, rap-, urban- és dance-fellépőket vonultat fel.",
+          "ro": "Marele festival muzical crossover de la Olbia Arena are loc în perioada Ferragosto și aduce artiști pop, rap, urban și dance din Italia și din străinătate.",
+          "en": "The major crossover music festival at Olbia Arena runs over Ferragosto with national and international pop, rap, urban, and dance acts."
+        },
+        "date": "2026-08-13",
+        "end_date": "2026-08-15",
+        "source_url": "https://redvalleyfestival.com/festival-info/"
+      },
+      {
+        "title": {
+          "de": "Mialinu 'e Crapinu",
+          "hu": "Mialinu 'e Crapinu",
+          "ro": "Mialinu 'e Crapinu",
+          "en": "Mialinu 'e Crapinu"
+        },
+        "summary": {
+          "de": "Die Stadt kündigt das sardische Theaterspektakel als Spätsommertermin ihres Kulturprogramms an.",
+          "hu": "A város kulturális programjának késő nyári állomásaként hirdetik meg a szardíniai színházi előadást.",
+          "ro": "Orașul anunță acest spectacol teatral sard ca eveniment de final de vară în programul său cultural.",
+          "en": "The city lists this Sardinian stage production as a late-summer event in its cultural program."
+        },
+        "date": "2026-08-27",
+        "source_url": "https://www.comune.olbia.ot.it/it/eventi/mialinu-e-crapinu"
+      }
+    ]
+  },
+  {
+    "id": "matera",
+    "events": [
+      {
+        "title": {
+          "de": "Viva Vittoria Matera",
+          "hu": "Viva Vittoria Matera",
+          "ro": "Viva Vittoria Matera",
+          "en": "Viva Vittoria Matera"
+        },
+        "summary": {
+          "de": "Das gemeinschaftliche Kunst- und Solidaritätsprojekt nutzt gestrickte Quadrate, um auf Gewalt gegen Frauen aufmerksam zu machen und lokale Hilfsprojekte zu unterstützen.",
+          "hu": "A közösségi művészeti és szolidaritási projekt kötött négyzetekkel hívja fel a figyelmet a nők elleni erőszakra, és helyi támogatási programokat segít.",
+          "ro": "Proiectul colectiv de artă și solidaritate folosește pătrate tricotate pentru a atrage atenția asupra violenței împotriva femeilor și pentru a sprijini proiecte locale de ajutor.",
+          "en": "This collective art and solidarity project uses knitted squares to raise awareness of violence against women and support local aid projects."
+        },
+        "date": "2026-07-11",
+        "end_date": "2026-11-22",
+        "source_url": "https://events.materawelcome.it/events/view/education/8416/viva_vittoria_matera?nav=1&sez=prossimi"
+      },
+      {
+        "title": {
+          "de": "Michelangelo Pistoletto",
+          "hu": "Michelangelo Pistoletto",
+          "ro": "Michelangelo Pistoletto",
+          "en": "Michelangelo Pistoletto"
+        },
+        "summary": {
+          "de": "Die große Ausstellung zeitgenössischer Kunst läuft in Matera mit täglichen Öffnungszeiten von morgens bis abends weiter.",
+          "hu": "A nagyszabású kortárs művészeti kiállítás Materában minden nap reggeltől estig látogatható.",
+          "ro": "Marea expoziție de artă contemporană din Matera rămâne deschisă zilnic, de dimineață până seara.",
+          "en": "The major contemporary-art exhibition in Matera continues with daily opening hours from morning to evening."
+        },
+        "date": "2026-04-18",
+        "end_date": "2026-11-28",
+        "source_url": "https://events.materawelcome.it/events/view/arte-contemporanea/8467/michelangelo_pistoletto"
+      },
+      {
+        "title": {
+          "de": "Enrico Bronzi e i Solisti Lucani",
+          "hu": "Enrico Bronzi e i Solisti Lucani",
+          "ro": "Enrico Bronzi e i Solisti Lucani",
+          "en": "Enrico Bronzi e i Solisti Lucani"
+        },
+        "summary": {
+          "de": "Die Konzertreihe von MATE und Solisti Lucani bringt Anfang August einen Kammermusikabend mit Enrico Bronzi nach Matera.",
+          "hu": "A MATE és a Solisti Lucani koncertsorozata augusztus elején Enrico Bronzi közreműködésével kamarazenei estet hoz Materába.",
+          "ro": "Seria de concerte MATE și Solisti Lucani aduce la început de august la Matera o seară de muzică de cameră cu Enrico Bronzi.",
+          "en": "The MATE and Solisti Lucani concert series brings a chamber-music evening with Enrico Bronzi to Matera in early August."
+        },
+        "date": "2026-08-07",
+        "source_url": "https://events.materawelcome.it/events/view/musica/5812/i_concerti_di_mate_e_solisti_lucani"
+      },
+      {
+        "title": {
+          "de": "Pilar in concerto",
+          "hu": "Pilar in concerto",
+          "ro": "Pilar in concerto",
+          "en": "Pilar in concerto"
+        },
+        "summary": {
+          "de": "Die gleiche MATE-Konzertreihe setzt sich Mitte August mit Pilar und Arrangements von Federico Ferrandina fort.",
+          "hu": "Ugyanez a MATE koncertsorozat augusztus közepén Pilar fellépésével és Federico Ferrandina hangszereléseivel folytatódik.",
+          "ro": "Aceeași serie MATE continuă la mijlocul lui august cu Pilar și aranjamente de Federico Ferrandina.",
+          "en": "The same MATE concert series continues in mid-August with Pilar and arrangements by Federico Ferrandina."
+        },
+        "date": "2026-08-19",
+        "source_url": "https://events.materawelcome.it/events/view/musica/5812/i_concerti_di_mate_e_solisti_lucani"
+      },
+      {
+        "title": {
+          "de": "LIVE! Festival",
+          "hu": "LIVE! Festival",
+          "ro": "LIVE! Festival",
+          "en": "LIVE! Festival"
+        },
+        "summary": {
+          "de": "Das Septemberprogramm im Parco del Castello kombiniert ein Africa-Unite-Konzert mit einer Theaterproduktion von Giulia und Paola Michelini.",
+          "hu": "A Parco del Castello szeptemberi programja Africa Unite koncertet és Giulia, illetve Paola Michelini színházi produkcióját kapcsolja össze.",
+          "ro": "Programul din septembrie de la Parco del Castello combină un concert Africa Unite cu o producție teatrală semnată de Giulia și Paola Michelini.",
+          "en": "The September program at Parco del Castello combines an Africa Unite concert with a stage production by Giulia and Paola Michelini."
+        },
+        "date": "2026-09-11",
+        "end_date": "2026-09-12",
+        "source_url": "https://events.materawelcome.it/events/view/musica/5321/live_festival"
+      }
+    ]
+  }
+]

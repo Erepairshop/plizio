@@ -1,0 +1,460 @@
+[
+  {
+    "id": "eger",
+    "events": [
+      {
+        "title": {
+          "de": "Egri Szabadtéri Várszínház 2026",
+          "hu": "Egri Szabadtéri Várszínház 2026",
+          "ro": "Teatrul de vară în aer liber din Cetatea Eger 2026",
+          "en": "Eger Open-Air Castle Theatre 2026"
+        },
+        "summary": {
+          "de": "Die Sommerbühne in der Burg von Eger bietet mehrere Abende mit Theater, Musical und Konzerten in historischer Kulisse.",
+          "hu": "Az egri vár szabadtéri nyári évada színházi, musical- és koncertestekkel várja a közönséget történelmi környezetben.",
+          "ro": "Stagiunea de vară din Cetatea Eger aduce seri de teatru, musical și concerte într-un cadru istoric.",
+          "en": "The summer season at Eger Castle brings theatre, musical and concert evenings in a historic open-air setting."
+        },
+        "date": "2026-07-24",
+        "end_date": "2026-08-02",
+        "period": {
+          "recurrent": false
+        },
+        "source_url": "https://visiteger.com/programok/szinhaz/2026-egri-szabadteri-varszinhaz"
+      },
+      {
+        "title": {
+          "de": "100-köpfiges Zigeunerorchester Galakonzert",
+          "hu": "100 Tagú Cigányzenekar Hangversenyzenekari Gálakoncert",
+          "ro": "Concert de gală al Orchestrei Țigănești de 100 de membri",
+          "en": "100-Member Gypsy Orchestra Gala Concert"
+        },
+        "summary": {
+          "de": "Das berühmte ungarische Ensemble gastiert im Rahmen des Burgtheater-Programms mit einem Galaabend im Egri vár.",
+          "hu": "A világhírű együttes az egri vár szabadtéri programsorozatában ad gálakoncertet.",
+          "ro": "Cunoscutul ansamblu maghiar susține un concert de gală în Cetatea Eger, în cadrul programului de teatru de vară.",
+          "en": "The renowned Hungarian ensemble performs a gala concert at Eger Castle as part of the open-air theatre season."
+        },
+        "date": "2026-07-29",
+        "source_url": "https://visiteger.com/programok/zene/100-tagu-ciganyzenekar-galakoncert-2026"
+      },
+      {
+        "title": {
+          "de": "Gárdonyi-Tage 2026",
+          "hu": "Gárdonyi Napok 2026",
+          "ro": "Zilele Gárdonyi 2026",
+          "en": "Gárdonyi Days Festival 2026"
+        },
+        "summary": {
+          "de": "Das Festival verbindet Jazzkonzerte und Kulturprogramme und erinnert an das literarische Erbe von Géza Gárdonyi in Eger.",
+          "hu": "A fesztivál jazzkoncertekkel és kulturális programokkal kapcsolódik Gárdonyi Géza egri örökségéhez.",
+          "ro": "Festivalul reunește concerte de jazz și programe culturale dedicate moștenirii lui Géza Gárdonyi la Eger.",
+          "en": "This festival combines jazz concerts and cultural programming tied to Géza Gárdonyi's legacy in Eger."
+        },
+        "date": "2026-08-03",
+        "end_date": "2026-08-07",
+        "period": {
+          "recurrent": false
+        },
+        "source_url": "https://visiteger.com/en/programs/all/gardonyi-days-festival-2026"
+      },
+      {
+        "title": {
+          "de": "Feierliches Sankt-Stephan-Programm",
+          "hu": "Szent István-napi ünnepi programok",
+          "ro": "Program festiv de Ziua Sfântului Ștefan",
+          "en": "St. Stephen's Day Festive Program"
+        },
+        "summary": {
+          "de": "Auf dem Dobó tér sind ein „Szimfonik lájk”-Konzert und ein musikalisches Feuerwerk zum Nationalfeiertag angekündigt.",
+          "hu": "A Dobó téren Szimfonik lájk koncert és zenés tűzijáték szerepel az államalapítás ünnepi programjában.",
+          "ro": "În Piața Dobó sunt anunțate un concert „Szimfonik lájk” și focuri de artificii muzicale pentru sărbătoarea națională.",
+          "en": "Dobó Square will host a 'Szimfonik lájk' concert and a musical fireworks show for Hungary's national holiday."
+        },
+        "date": "2026-08-20",
+        "source_url": "https://www.eger.hu/hu/event/c/szent-istvan-napi-unnepi-programok-17950"
+      }
+    ]
+  },
+  {
+    "id": "niort",
+    "events": [
+      {
+        "title": {
+          "de": "Nordterrasse des Donjons wieder geöffnet",
+          "hu": "Újra látogatható az északi toronyterasza",
+          "ro": "Terasa turnului de nord este redeschisă",
+          "en": "The North Tower Terrace Reopens",
+          "fr": "La terrasse de la tour Nord est rouverte"
+        },
+        "summary": {
+          "de": "Besucher können den Donjon von oben erleben und während des Sommers den Aussichtspunkt über Niort nutzen.",
+          "hu": "A látogatók nyári időszakban újra feljuthatnak a donjon északi tornyának kilátóteraszára.",
+          "ro": "Vizitatorii pot urca din nou pe terasa de belvedere a turnului nordic al donjonului pe durata verii.",
+          "en": "Visitors can once again access the Donjon's north tower terrace for elevated summer views over Niort.",
+          "fr": "Les visiteurs peuvent de nouveau accéder à la terrasse de la tour Nord du Donjon pendant l'été pour profiter de la vue sur Niort."
+        },
+        "date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "period": {
+          "recurrent": false
+        },
+        "source_url": "https://niortsup.fr/agenda/la-terrasse-de-la-tour-nord-est-rouverte/index.html"
+      },
+      {
+        "title": {
+          "de": "Niort von oben",
+          "hu": "Niort madártávlatból",
+          "ro": "Niort văzut de sus",
+          "en": "Niort from Above",
+          "fr": "Niort vu d'en haut"
+        },
+        "summary": {
+          "de": "Das Sommerangebot lädt zu erhöhten Stadtblicken und Entdeckungen rund um das historische Zentrum von Niort ein.",
+          "hu": "A nyári program emelt nézőpontból mutatja meg Niort városát és történelmi központját.",
+          "ro": "Programul de vară propune descoperirea orașului Niort și a centrului său istoric dintr-un punct de observație înalt.",
+          "en": "This summer activity offers elevated views and a fresh perspective on Niort and its historic center.",
+          "fr": "Cette animation estivale propose de découvrir Niort et son centre historique depuis un point de vue en hauteur."
+        },
+        "date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "period": {
+          "recurrent": false
+        },
+        "source_url": "https://niortsup.fr/agenda/niort-vu-den-haut-2/index.html"
+      },
+      {
+        "title": {
+          "de": "Arts en Sèvre: Das ozeanische Gefühl",
+          "hu": "Arts en Sèvre: Óceáni érzés",
+          "ro": "Arts en Sèvre: Sentimentul oceanic",
+          "en": "Arts en Sèvre: The Oceanic Feeling",
+          "fr": "Arts en Sèvre : Le sentiment océanique"
+        },
+        "summary": {
+          "de": "Die Ausstellung im Le Pilori gehört zum Sommerprogramm von Niort und zeigt zeitgenössische Kunst im Stadtkern.",
+          "hu": "A Le Pilori kiállítása a niort-i nyári programsorozat részeként kortárs művészeti élményt kínál a belvárosban.",
+          "ro": "Expoziția de la Le Pilori face parte din programul estival al orașului și aduce artă contemporană în centrul Niort.",
+          "en": "Presented at Le Pilori, this exhibition is part of Niort's summer cultural season and brings contemporary art into the city center.",
+          "fr": "Présentée au Pilori, cette exposition s'inscrit dans la programmation estivale de Niort et met l'art contemporain au cœur de la ville."
+        },
+        "date": "2026-07-04",
+        "end_date": "2026-08-29",
+        "period": {
+          "recurrent": false
+        },
+        "source_url": "https://niortsup.fr/agenda/arts-en-sevre-le-sentiment-oceanique/index.html"
+      },
+      {
+        "title": {
+          "de": "Arts en Sèvre: Die Kinder des Flusses",
+          "hu": "Arts en Sèvre: A folyó gyermekei",
+          "ro": "Arts en Sèvre: Copiii fluviului",
+          "en": "Arts en Sèvre: Children of the River",
+          "fr": "Arts en Sèvre : Les enfants du fleuve"
+        },
+        "summary": {
+          "de": "Die Freiluftausstellung am Square Henri-Georges Clouzot gehört zur sommerlichen Kunstreihe von Niort.",
+          "hu": "A Square Henri-Georges Clouzot szabadtéri kiállítása a niort-i nyári művészeti sorozat része.",
+          "ro": "Expoziția în aer liber din Square Henri-Georges Clouzot face parte din seria artistică de vară a orașului Niort.",
+          "en": "This open-air exhibition at Square Henri-Georges Clouzot forms part of Niort's summer arts series.",
+          "fr": "Cette exposition en plein air au square Henri-Georges Clouzot fait partie de la série artistique estivale de Niort."
+        },
+        "date": "2026-07-04",
+        "end_date": "2026-08-30",
+        "period": {
+          "recurrent": false
+        },
+        "source_url": "https://niortsup.fr/agenda/arts-en-sevre-les-enfants-du-fleuve/index.html"
+      },
+      {
+        "title": {
+          "de": "Wassersport in Port Boinot",
+          "hu": "Vízi programok Port Boinot-nál",
+          "ro": "Activități nautice la Port Boinot",
+          "en": "Water Activities at Port Boinot",
+          "fr": "Activités nautiques à Port Boinot"
+        },
+        "summary": {
+          "de": "Am Niort Comptoir Nautique können Besucher Kanus, SUP-Boards und Drachen-Tretboote mieten; außerdem gibt es geführte Nachtfahrten im Sommer.",
+          "hu": "A Niort Comptoir Nautique kajakot, SUP-ot és sárkányformájú vízibiciklit kínál, valamint vezetett esti vízi programokat szervez.",
+          "ro": "La Niort Comptoir Nautique se pot închiria canoe, paddleboard-uri și hidrobiciclete în formă de dragon, iar vara sunt programate și ieșiri ghidate de seară.",
+          "en": "At Niort Comptoir Nautique, visitors can rent canoes, stand-up paddle boards and dragon-shaped pedal boats, with guided evening outings also offered in summer.",
+          "fr": "Au Niort Comptoir Nautique, on peut louer canoës, paddles et pédalos en forme de dragon, avec aussi des sorties guidées en soirée pendant l'été."
+        },
+        "date": "2026-07-06",
+        "end_date": "2026-08-30",
+        "period": {
+          "recurrent": false
+        },
+        "source_url": "https://agenda.niortagglo.fr/rechercher-une-manifestation/activites-nautiques-a-port-boinot/index.html"
+      }
+    ]
+  },
+  {
+    "id": "giurgiu",
+    "events": [
+      {
+        "title": {
+          "de": "Wochenend-Flohmarkt von Giurgiu",
+          "hu": "Giurgiu hétvégi régiségvására",
+          "ro": "Târgul de vechituri din Giurgiu",
+          "en": "Giurgiu Weekend Flea Market"
+        },
+        "summary": {
+          "de": "Der Flohmarkt findet an jedem Wochenende in der Stadt statt; ein städtischer Hinweis von 2026 bestätigt, dass er nach Ausnahmen wieder regulär läuft.",
+          "hu": "A bolhapiac minden hétvégén megrendezésre kerül a városban; egy 2026-os önkormányzati közlemény is megerősíti, hogy rendes menetrend szerint folytatódik.",
+          "ro": "Târgul are loc la fiecare sfârșit de săptămână în municipiu, iar un anunț al primăriei din 2026 confirmă reluarea programului obișnuit după excepții punctuale.",
+          "en": "This flea market is held every weekend in the city, and a 2026 city notice confirms it resumes on its usual schedule after occasional exceptions."
+        },
+        "date": "2026-07-26",
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://primariagiurgiu.ro/2013/11/targ-de-vechituri-la-giurgiu-la-fiecare-sfarsit-de-saptamana/"
+      },
+      {
+        "title": {
+          "de": "Mariä-Fest in Giurgiu",
+          "hu": "Szűz Mária-ünnep Giurgiuban",
+          "ro": "Sărbătoarea „Sfânta Fecioară Maria”",
+          "en": "Feast of the Holy Virgin Mary"
+        },
+        "summary": {
+          "de": "Der Stadtrat hat die Vorbereitung der Feierlichkeiten für den 3. bis 17. August 2026 an das Kulturzentrum Ion Vinea delegiert.",
+          "hu": "A városi tanács a 2026. augusztus 3. és 17. közötti ünnepségek megszervezését az Ion Vinea helyi kulturális központra bízta.",
+          "ro": "Consiliul Local a delegat Centrului Cultural Local „Ion Vinea” organizarea activităților dedicate sărbătorii din perioada 3-17 august 2026.",
+          "en": "The city council delegated the organization of this celebration to the Ion Vinea Local Cultural Center for August 3-17, 2026."
+        },
+        "date": "2026-08-03",
+        "end_date": "2026-08-17",
+        "period": {
+          "recurrent": false
+        },
+        "source_url": "https://primariagiurgiu.ro/storage/formidable/334/HOT.-17-fs.pdf"
+      },
+      {
+        "title": {
+          "de": "Play Giurgiu 2026",
+          "hu": "Play Giurgiu 2026",
+          "ro": "Play Giurgiu 2026",
+          "en": "Play Giurgiu 2026"
+        },
+        "summary": {
+          "de": "Das Jugendfilm- und Animationsfestival bringt drei Tage lang Vorführungen im Theater und auf der Esplanade sowie Workshops und Gespräche nach Giurgiu.",
+          "hu": "A fiatal közönségnek szóló film- és animációs fesztivál három napon át vetítéseket, foglalkozásokat és beszélgetéseket hoz Giurgiuba.",
+          "ro": "Festivalul de film și animație pentru publicul tânăr aduce trei zile de proiecții în teatru și pe esplanadă, plus ateliere și discuții.",
+          "en": "This youth-oriented film and animation festival brings three days of screenings at the theatre and on the esplanade, plus workshops and talks."
+        },
+        "date": "2026-06-26",
+        "end_date": "2026-06-28",
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.teatrultudorvianu.ro/coming-soon-01"
+      },
+      {
+        "title": {
+          "de": "Cifre",
+          "hu": "Cifre",
+          "ro": "Cifre",
+          "en": "Cifre"
+        },
+        "summary": {
+          "de": "Die dokumentarische Theaterproduktion über Migration und moralische Entscheidungen hat im Tudor-Vianu-Theater eine bestätigte Aufführung im September 2026.",
+          "hu": "A migrációról és erkölcsi döntésekről szóló dokumentarista előadásnak 2026 szeptemberére megerősített előadása van a Tudor Vianu Színházban.",
+          "ro": "Spectacolul de teatru documentar despre migrație și decizii morale are o reprezentație confirmată în septembrie 2026 la Teatrul Tudor Vianu.",
+          "en": "This documentary-style stage production about migration and moral choices has a confirmed September 2026 performance at the Tudor Vianu Theatre."
+        },
+        "date": "2026-09-22",
+        "source_url": "https://www.teatrultudorvianu.ro/spectacol/cifre"
+      }
+    ]
+  },
+  {
+    "id": "bayonne",
+    "events": [
+      {
+        "title": {
+          "de": "Festes de Bayonne 2026",
+          "hu": "Bayonne ünnepei 2026",
+          "ro": "Fêtes de Bayonne 2026",
+          "en": "Fêtes de Bayonne 2026",
+          "fr": "Fêtes de Bayonne 2026"
+        },
+        "summary": {
+          "de": "Das große Stadtfest in Weiß und Rot gehört zu den wichtigsten Sommerterminen Bayonnes und wird von der Stadt organisiert.",
+          "hu": "A fehér-piros városi fesztivál Bayonne egyik legfontosabb nyári eseménye, amelyet a város szervez.",
+          "ro": "Marea sărbătoare urbană în alb și roșu este unul dintre cele mai importante evenimente de vară ale Bayonne-ului și este organizată de municipalitate.",
+          "en": "The major white-and-red city festival is one of Bayonne's signature summer events and is organized by the city.",
+          "fr": "La grande fête blanche et rouge fait partie des rendez-vous majeurs de l'été bayonnais et elle est organisée par la Ville."
+        },
+        "date": "2026-07-15",
+        "end_date": "2026-07-19",
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.bayonne.fr/information-transversale/tout-lagenda/fetes-de-bayonne-7-1-35067"
+      },
+      {
+        "title": {
+          "de": "Star Academy Tour 2026",
+          "hu": "Star Academy Tour 2026",
+          "ro": "Star Academy Tour 2026",
+          "en": "Star Academy Tour 2026",
+          "fr": "Star Academy Tour 2026"
+        },
+        "summary": {
+          "de": "Die aktuelle Star-Academy-Besetzung bringt eine neue Show mit Tanz, Pop-Hits und Bühnenproduktion nach Bayonne.",
+          "hu": "A Star Academy aktuális szereplőgárdája új show-val, koreográfiákkal és ismert dalokkal érkezik Bayonne-ba.",
+          "ro": "Noua distribuție Star Academy aduce la Bayonne un spectacol nou cu coregrafii, hituri și producție scenică amplă.",
+          "en": "The current Star Academy cast brings a new live show of choreography, hit songs and arena-style production to Bayonne.",
+          "fr": "La nouvelle promotion de la Star Academy vient à Bayonne avec un spectacle inédit mêlant chorégraphies, reprises et grande mise en scène."
+        },
+        "date": "2026-07-26",
+        "source_url": "https://arenes.bayonne.fr/informations-transversales/tout-lagenda/star-academy-tour-2026-le-meilleur-de-la-star-academy-en-live-70370"
+      },
+      {
+        "title": {
+          "de": "Christophe Maé",
+          "hu": "Christophe Maé",
+          "ro": "Christophe Maé",
+          "en": "Christophe Maé",
+          "fr": "Christophe Maé"
+        },
+        "summary": {
+          "de": "Christophe Maé macht mit seiner Frankreich-Tour 2026 Halt in den Arènes de Bayonne.",
+          "hu": "Christophe Maé 2026-os turnéja a bayonne-i arénát is érinti.",
+          "ro": "Turneul lui Christophe Maé din 2026 include o oprire la Arènes de Bayonne.",
+          "en": "Christophe Maé's 2026 tour includes a stop at the Arènes de Bayonne.",
+          "fr": "La tournée 2026 de Christophe Maé passe par les Arènes de Bayonne."
+        },
+        "date": "2026-07-27",
+        "source_url": "https://arenes.bayonne.fr/informations-transversales/tout-lagenda/christophe-mae-1-6525"
+      },
+      {
+        "title": {
+          "de": "Feria de l'Atlantique: Corrida der Versprechen",
+          "hu": "Feria de l'Atlantique: az ígéretes torreádorok viadala",
+          "ro": "Feria de l'Atlantique: corrida promisiunilor tauromahiei",
+          "en": "Feria de l'Atlantique: Promising Matadors' Bullfight",
+          "fr": "Feria de l'Atlantique : corrida des promesses de la tauromachie"
+        },
+        "summary": {
+          "de": "Die Feria de l'Atlantique in Bayonne bietet eine Corrida, bei der das Publikum den Torero für den sechsten Stier live auswählt.",
+          "hu": "A bayonne-i Feria de l'Atlantique egyik fő programja az a corrida, ahol a közönség élőben választja ki a hatodik bikával küzdő torreádort.",
+          "ro": "În cadrul Feria de l'Atlantique, publicul din Bayonne alege în direct toreroul care va înfrunta al șaselea taur.",
+          "en": "As part of the Feria de l'Atlantique, Bayonne's audience chooses live which torero will face the sixth bull.",
+          "fr": "Dans le cadre de la Feria de l'Atlantique, le public choisit en direct le torero qui combattra le sixième taureau."
+        },
+        "date": "2026-09-05",
+        "source_url": "https://arenes.bayonne.fr/informations-transversales/tout-lagenda/feria-de-latlantique-corrida-des-promesses-de-la-tauromachie-12350"
+      }
+    ]
+  },
+  {
+    "id": "siena",
+    "events": [
+      {
+        "title": {
+          "de": "ViviFortezza 2026",
+          "hu": "ViviFortezza 2026",
+          "ro": "ViviFortezza 2026",
+          "en": "ViviFortezza 2026"
+        },
+        "summary": {
+          "de": "Die Sommerreihe in der Fortezza Medicea läuft bis Ende September mit kostenlosen Konzerten, Aufführungen und Kulturangeboten.",
+          "hu": "A Fortezza Medicea nyári programsorozata szeptember végéig ingyenes koncertekkel, előadásokkal és kulturális eseményekkel zajlik.",
+          "ro": "Programul estival din Fortezza Medicea continuă până la sfârșitul lui septembrie cu concerte, spectacole și activități culturale gratuite.",
+          "en": "The summer season at the Medicean Fortress runs through late September with free concerts, performances and cultural activities."
+        },
+        "date": "2026-04-30",
+        "end_date": "2026-09-30",
+        "period": {
+          "recurrent": false
+        },
+        "source_url": "https://www.comune.siena.it/vivere-il-comune/eventi/fortezza-medicea-approvata-la-concessione-la-stagione-estiva-2026"
+      },
+      {
+        "title": {
+          "de": "Sboccia l'Estate 2026",
+          "hu": "Sboccia l'Estate 2026",
+          "ro": "Sboccia l'Estate 2026",
+          "en": "Sboccia l'Estate 2026"
+        },
+        "summary": {
+          "de": "Die Sommerproduktion der Teatri di Siena bringt von Juni bis September Schauspiel, Musik und Tanz in mehrere Plätze und Höfe der Stadt.",
+          "hu": "A Teatri di Siena nyári sorozata júniustól szeptemberig prózát, zenét és táncot visz Siena tereire és udvaraiba.",
+          "ro": "Stagiunea de vară a Teatri di Siena aduce între iunie și septembrie spectacole de teatru, muzică și dans în mai multe piețe și curți ale orașului.",
+          "en": "The Teatri di Siena summer season brings theatre, music and dance to several city squares and courtyards from June through September."
+        },
+        "date": "2026-06-21",
+        "end_date": "2026-09-11",
+        "period": {
+          "recurrent": false
+        },
+        "source_url": "https://www.comune.siena.it/vivere-il-comune/eventi/eventi-estivi-2026-la-giunta-comunale-approva-la-programmazione"
+      },
+      {
+        "title": {
+          "de": "Palio von Siena im August",
+          "hu": "Sienai augusztusi Palio",
+          "ro": "Palio di Siena din august",
+          "en": "Siena's August Palio"
+        },
+        "summary": {
+          "de": "Der berühmte Pferderennwettbewerb zu Ehren der Madonna Assunta umfasst mehrere Tage mit Proben, historischem Umzug und dem Rennen auf der Piazza del Campo.",
+          "hu": "A Madonna Assunta tiszteletére rendezett híres lóverseny több napos próbákkal, történelmi felvonulással és a Piazza del Campón futott versennyel zajlik.",
+          "ro": "Celebra cursă de cai dedicată Madonnei Assunta include mai multe zile de probe, cortegiu istoric și cursa din Piazza del Campo.",
+          "en": "The famous horse race in honor of the Madonna Assunta spans several days of trials, the historic parade and the race in Piazza del Campo."
+        },
+        "date": "2026-08-13",
+        "end_date": "2026-08-16",
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.visitsiena.it/en/the-palio-di-siena-festival/"
+      },
+      {
+        "title": {
+          "de": "Santa Maria della Scala: Architektur, Projekte und Visionen",
+          "hu": "Santa Maria della Scala: Építészet, tervek és víziók",
+          "ro": "Santa Maria della Scala: Arhitecturi, proiecte și viziuni",
+          "en": "Santa Maria della Scala: Architectures, Projects and Visions"
+        },
+        "summary": {
+          "de": "Die große Ausstellung im Santa Maria della Scala ist täglich geöffnet und widmet sich Geschichte, Architektur und Zukunftsvisionen des Komplexes.",
+          "hu": "A Santa Maria della Scala nagy kiállítása naponta látogatható, és a komplexum történetét, építészetét és jövőképét mutatja be.",
+          "ro": "Marea expoziție de la Santa Maria della Scala este deschisă zilnic și prezintă istoria, arhitectura și perspectivele de viitor ale complexului.",
+          "en": "This major Santa Maria della Scala exhibition is open daily and explores the complex's history, architecture and future visions."
+        },
+        "date": "2026-05-30",
+        "end_date": "2026-09-27",
+        "period": {
+          "recurrent": false
+        },
+        "source_url": "https://www.santamariadellascala.com/eventi/santa-maria-della-scala-architetture-progetti-e-visioni-una-mostra-a-cura-di-luca"
+      },
+      {
+        "title": {
+          "de": "Metamorfosi del Sacro",
+          "hu": "Metamorfosi del Sacro",
+          "ro": "Metamorfosi del Sacro",
+          "en": "Metamorfosi del Sacro"
+        },
+        "summary": {
+          "de": "Die Ausstellung mit Werken von Teodora Axente läuft im Santa Maria della Scala bis Ende August 2026 und steht im Dialog mit Siena.",
+          "hu": "A Teodora Axente műveit bemutató kiállítás a Santa Maria della Scalában 2026 augusztusának végéig látható, Siena városával párbeszédben.",
+          "ro": "Expoziția cu lucrări de Teodora Axente de la Santa Maria della Scala rămâne deschisă până la sfârșitul lui august 2026 și dialoghează cu orașul Siena.",
+          "en": "This Santa Maria della Scala exhibition of works by Teodora Axente runs through the end of August 2026 and is conceived in dialogue with Siena."
+        },
+        "date": "2026-02-20",
+        "end_date": "2026-08-30",
+        "period": {
+          "recurrent": false
+        },
+        "source_url": "https://www.santamariadellascala.com/eventi/metamorfosi-del-sacro-selezione-di-opere"
+      }
+    ]
+  }
+]

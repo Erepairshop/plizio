@@ -1,0 +1,456 @@
+[
+  {
+    "id": "javea",
+    "events": [
+      {
+        "date": "2026-06-26",
+        "end_date": "2026-08-30",
+        "title": {
+          "de": "Sommer-Kunsthandwerksmarkt",
+          "hu": "Nyári kézműves vásár",
+          "ro": "Târgul de artizanat de vară",
+          "en": "Summer Handicrafts Fair"
+        },
+        "summary": {
+          "de": "Auf dem Paseo Marítimo Joaquín Sorolla läuft den Sommer über ein abendlicher Kunsthandwerksmarkt mit handgefertigten Keramiken, Schmuck, Holzspielzeug und weiteren lokalen Arbeiten.",
+          "hu": "A Paseo Marítimo Joaquín Sorolla sétányon egész nyáron esti kézműves vásár működik kézzel készített kerámiákkal, ékszerekkel, fajátékokkal és más helyi portékákkal.",
+          "ro": "Pe Paseo Marítimo Joaquín Sorolla are loc toată vara un târg de seară cu ceramică, bijuterii, jucării din lemn și alte obiecte lucrate manual.",
+          "en": "On Paseo Marítimo Joaquín Sorolla, this evening summer fair showcases handmade ceramics, jewelry, wooden toys, and other artisan goods."
+        },
+        "source_url": "https://en.xabia.org/ver/1075/Eventos-en-Xabia.html"
+      },
+      {
+        "date": "2026-08-06",
+        "title": {
+          "de": "Das goldene Zeitalter von Xàbia",
+          "hu": "Xàbia aranykora",
+          "ro": "Epoca de aur a orașului Xàbia",
+          "en": "The Golden Age of Xàbia"
+        },
+        "summary": {
+          "de": "Diese dramatisierte Route führt durch das Xàbia des 19. Jahrhunderts und erzählt von rivalisierenden Rosinenhändlern, städtischen Gewohnheiten und dem wirtschaftlichen Aufschwung jener Zeit.",
+          "hu": "Ez a dramatizált séta a 19. századi Xàbiát idézi meg, rivalizáló mazsolakereskedőkkel, helyi szokásokkal és a korszak fellendülésével.",
+          "ro": "Traseul teatralizat readuce la viață Xàbia secolului al XIX-lea, cu negustori de stafide rivali, obiceiuri locale și istoria perioadei de prosperitate.",
+          "en": "This dramatized route revisits 19th-century Xàbia through rival raisin merchants, local customs, and the town's boom years."
+        },
+        "source_url": "https://en.xabia.org/ver/1075/Eventos-en-Xabia.html"
+      },
+      {
+        "date": "2026-07-26",
+        "title": {
+          "de": "Antiquitäten- und Vintage-Markt",
+          "hu": "Antik és vintage piac",
+          "ro": "Piață de antichități și obiecte vintage",
+          "en": "Antique & Vintage Market"
+        },
+        "summary": {
+          "de": "Im Riurau d'Arnauda versammelt dieser Abendmarkt Antiquitäten, Retro-Objekte, Handwerk und Sammlerstücke in einem historischen Freiluftambiente.",
+          "hu": "Az Arnauda Riurau történelmi helyszínén ez az esti piac antik tárgyakat, retró darabokat, kézműves munkákat és gyűjtői különlegességeket kínál.",
+          "ro": "La Riurau d'Arnauda, această piață de seară reunește antichități, obiecte retro, produse artizanale și piese pentru colecționari.",
+          "en": "Held at Arnauda's Riurau, this evening market brings together antiques, retro pieces, crafts, and collector-friendly finds."
+        },
+        "source_url": "https://en.xabia.org/ver/1075/Eventos-en-Xabia.html"
+      },
+      {
+        "date": "2026-08-17",
+        "title": {
+          "de": "19.-Jahrhundert-Route: Das goldene Zeitalter in Xàbia",
+          "hu": "19. századi útvonal: Xàbia aranykora",
+          "ro": "Traseu al secolului al XIX-lea: Epoca de aur a orașului Xàbia",
+          "en": "19th-Century Route: The Golden Age in Xàbia"
+        },
+        "summary": {
+          "de": "Die englischsprachige Themenführung beleuchtet Handel, Architektur und Alltagsleben im Xàbia des 19. Jahrhunderts auf einem Rundgang durch die Altstadt.",
+          "hu": "Az angol nyelvű tematikus séta a 19. századi Xàbia kereskedelmét, építészetét és mindennapjait mutatja be az óvároson keresztül.",
+          "ro": "Turul tematic în limba engleză prezintă comerțul, arhitectura și viața cotidiană a orașului Xàbia din secolul al XIX-lea, traversând centrul istoric.",
+          "en": "This English-language themed walk explores trade, architecture, and everyday life in 19th-century Xàbia through the old town."
+        },
+        "source_url": "https://en.xabia.org/ver/1075/Eventos-en-Xabia.html"
+      },
+      {
+        "date": "2026-08-29",
+        "title": {
+          "de": "Mercat d’Origen",
+          "hu": "Mercat d’Origen",
+          "ro": "Mercat d’Origen",
+          "en": "Mercat d’Origen"
+        },
+        "summary": {
+          "de": "Der Markt im Riurau d'Arnauda bietet Produkte aus der Marina Alta, handgemachte Spezialitäten, Live-Musik und familienfreundliche Aktivitäten.",
+          "hu": "Az Arnauda Riurau piacán a Marina Alta térség termelői portékái, kézműves finomságok, élőzene és családi programok várják a látogatókat.",
+          "ro": "La Riurau d'Arnauda, piața reunește produse locale din Marina Alta, delicii artizanale, muzică live și activități pentru familii.",
+          "en": "At Arnauda's Riurau, this market features Marina Alta produce, handmade treats, live music, and family activities."
+        },
+        "source_url": "https://en.xabia.org/ver/1075/Eventos-en-Xabia.html"
+      }
+    ]
+  },
+  {
+    "id": "salou",
+    "events": [
+      {
+        "date": "2026-07-31",
+        "title": {
+          "de": "Traditionelle Fischerei-Vorführung „Calada de les malles“",
+          "hu": "Hagyományos halászati bemutató: „Calada de les malles”",
+          "ro": "Demonstrație tradițională de pescuit „Calada de les malles”",
+          "en": "Traditional Fishing Demonstration \"Calada de les malles\""
+        },
+        "summary": {
+          "de": "Salou zeigt Ende Juli eine öffentliche Vorführung traditioneller Fischereitechniken und macht damit einen Teil seines maritimen Erbes für Besucher erlebbar.",
+          "hu": "Salou július végén nyilvános bemutatón eleveníti fel a hagyományos halászati technikákat, így a látogatók a város tengeri örökségébe is betekinthetnek.",
+          "ro": "La sfârșitul lui iulie, Salou prezintă publicului o demonstrație a tehnicilor tradiționale de pescuit, punând în valoare patrimoniul său maritim.",
+          "en": "At the end of July, Salou stages a public demonstration of traditional fishing techniques that highlights the town's maritime heritage."
+        },
+        "source_url": "https://www.visitsalou.eu/en/during-your-visit/useful-information/events"
+      },
+      {
+        "date": "2026-08-01",
+        "end_date": "2026-08-15",
+        "title": {
+          "de": "Nits Daurades",
+          "hu": "Nits Daurades",
+          "ro": "Nits Daurades",
+          "en": "Nits Daurades"
+        },
+        "summary": {
+          "de": "Salous wichtigste Sommerfesttage verbinden Konzerte, Straßenleben, lokale Traditionen und Festveranstaltungen an mehreren Orten im Ort.",
+          "hu": "Salou legfontosabb nyári ünnepségsorozata koncerteket, utcai programokat, helyi hagyományokat és városszerte zajló közösségi eseményeket kínál.",
+          "ro": "Principala sărbătoare de vară din Salou reunește concerte, viață de stradă, tradiții locale și evenimente festive în mai multe zone ale stațiunii.",
+          "en": "Salou's main summer celebration combines concerts, street life, local traditions, and festive programming across multiple venues."
+        },
+        "source_url": "https://www.visitsalou.eu/en/during-your-visit/useful-information/events/golden-nights-1"
+      },
+      {
+        "date": "2026-08-09",
+        "title": {
+          "de": "Fire Night",
+          "hu": "Tűz éjszakája",
+          "ro": "Noaptea focului",
+          "en": "Fire Night"
+        },
+        "summary": {
+          "de": "Diese Sommernacht während der Nits Daurades setzt auf Feuer, Festatmosphäre und spektakuläre öffentliche Inszenierung im Freien.",
+          "hu": "A Nits Daurades részeként megrendezett nyári est a tűz látványára, az ünnepi hangulatra és a szabadtéri élményre épül.",
+          "ro": "Organizat în cadrul Nits Daurades, acest eveniment de vară pune accent pe spectacolul focului și pe atmosfera festivă în aer liber.",
+          "en": "Part of Nits Daurades, this summer event centers on fire-themed spectacle and festive open-air atmosphere."
+        },
+        "source_url": "https://www.visitsalou.eu/en/during-your-visit/useful-information/events/fire-night"
+      },
+      {
+        "date": "2026-08-12",
+        "title": {
+          "de": "Totale Sonnenfinsternis",
+          "hu": "Teljes napfogyatkozás",
+          "ro": "Eclipsă totală de soare",
+          "en": "Total Eclipse"
+        },
+        "summary": {
+          "de": "Salou bewirbt die totale Sonnenfinsternis vom 12. August 2026 als außergewöhnliches Himmelsereignis mit Besuchswert für Gäste an der Costa Daurada.",
+          "hu": "Salou a 2026. augusztus 12-i teljes napfogyatkozást kiemelt égi látványosságként ajánlja a Costa Dauradára érkező látogatóknak.",
+          "ro": "Salou promovează eclipsa totală de soare din 12 august 2026 ca pe un fenomen astronomic deosebit pentru vizitatorii de pe Costa Daurada.",
+          "en": "Salou highlights the total solar eclipse of August 12, 2026 as a major sky event for visitors on the Costa Daurada."
+        },
+        "source_url": "https://www.visitsalou.eu/en/during-your-visit/useful-information/events/total-eclipse"
+      },
+      {
+        "date": "2026-09-03",
+        "end_date": "2026-09-06",
+        "title": {
+          "de": "König-Jaume-I.-Fest",
+          "hu": "I. Jakab király fesztiválja",
+          "ro": "Festivalul Regelui Jaume I",
+          "en": "King Jaume I Festival"
+        },
+        "summary": {
+          "de": "Das historische Fest erinnert an König Jaume I. und verbindet Salous Geschichte mit Paraden, Vorführungen und öffentlichem Sommerprogramm.",
+          "hu": "A történelmi fesztivál I. Jakab király emlékét idézi fel felvonulásokkal, bemutatókkal és nyilvános nyárzáró programokkal.",
+          "ro": "Festivalul istoric dedicat regelui Jaume I pune în valoare trecutul orașului Salou prin parade, reconstituiri și programe publice.",
+          "en": "This historical festival commemorates King Jaume I with parades, reenactment-style programming, and public events tied to Salou's past."
+        },
+        "source_url": "https://www.visitsalou.eu/en/during-your-visit/useful-information/events/king-jaume-i-festival"
+      }
+    ]
+  },
+  {
+    "id": "assisi",
+    "events": [
+      {
+        "date": "2026-07-29",
+        "end_date": "2026-08-03",
+        "title": {
+          "de": "Feier der Vergebung von Assisi 2026",
+          "hu": "Az assisi bűnbocsánat ünnepe 2026",
+          "ro": "Solemnitatea Iertării din Assisi 2026",
+          "en": "Solemnity of Forgiveness of Assisi 2026"
+        },
+        "summary": {
+          "de": "In der Porziuncola-Basilika prägt dieses zentrale Franziskus-Jubiläumsereignis Assisi mit Triduum, Liturgien, Katechesen und großen Pilgerfeiern.",
+          "hu": "A Porziuncola-bazilikában zajló központi ferences jubileumi esemény triduumot, liturgiákat, katekéziseket és nagy zarándokünnepeket kínál.",
+          "ro": "La bazilica Porțiuncula, acest moment central al anului franciscan aduce triduum, liturghii, cateheze și mari celebrări pentru pelerini.",
+          "en": "At the Porziuncola basilica, this key Franciscan centenary event fills Assisi with triduum services, liturgies, catechesis, and major pilgrim celebrations."
+        },
+        "source_url": "https://www.visit-assisi.it/eventi/en/event/solennita-del-perdono-di-assisi-programma-2026/"
+      },
+      {
+        "date": "2026-08-02",
+        "end_date": "2026-08-15",
+        "title": {
+          "de": "Der heilige Franziskus und der Monte Subasio: Geschichte, Natur und Kunst",
+          "hu": "Szent Ferenc és a Monte Subasio: történelem, természet és művészet",
+          "ro": "Sfântul Francisc și Muntele Subasio: istorie, natură și artă",
+          "en": "Saint Francis and Mount Subasio: A Blend of History, Nature and Art"
+        },
+        "summary": {
+          "de": "Diese sommerliche Reihe verbindet die Landschaft des Monte Subasio mit Franziskus-Orten, Naturerlebnis und kultureller Deutung für Besucher.",
+          "hu": "Ez a nyári programsorozat a Monte Subasio tájait ferences helyszínekkel, természetközeli élménnyel és kulturális értelmezéssel kapcsolja össze.",
+          "ro": "Programul de vară leagă peisajele de pe Monte Subasio de locurile franciscane, experiențele în natură și lectura culturală a zonei.",
+          "en": "This summer program links Mount Subasio landscapes with Franciscan sites, nature experiences, and cultural interpretation for visitors."
+        },
+        "source_url": "https://www.visit-assisi.it/eventi/en/tag/eighth-centenary/"
+      },
+      {
+        "date": "2026-08-04",
+        "end_date": "2026-08-09",
+        "title": {
+          "de": "DeMusicAssisi 2026 „Gloriosus Franciscus“",
+          "hu": "DeMusicAssisi 2026 „Gloriosus Franciscus”",
+          "ro": "DeMusicAssisi 2026 „Gloriosus Franciscus”",
+          "en": "DeMusicAssisi 2026 \"Gloriosus Franciscus\""
+        },
+        "summary": {
+          "de": "Das Festival für mittelalterliche Musik bringt mehr als dreißig kostenlose Konzerte, Vorträge, Workshops und Musikbankette an Spielorte im historischen Zentrum.",
+          "hu": "A középkori zenei fesztivál több mint harminc ingyenes koncertet, előadást, workshopot és zenés lakomát visz Assisi történelmi központjába.",
+          "ro": "Festivalul de muzică medievală aduce peste treizeci de evenimente gratuite, inclusiv concerte, conferințe, ateliere și banchete muzicale în centrul vechi.",
+          "en": "This medieval music festival brings more than thirty free concerts, talks, workshops, and musical banquets to venues across the historic center."
+        },
+        "source_url": "https://www.visit-assisi.it/eventi/en/event/demusicassisi-2026-gloriosus-franciscus/"
+      },
+      {
+        "date": "2026-08-14",
+        "end_date": "2026-08-23",
+        "title": {
+          "de": "Rivotorto: Wiege des Franziskanertums",
+          "hu": "Rivotorto: a ferences mozgalom bölcsője",
+          "ro": "Rivotorto: leagănul franciscanismului",
+          "en": "Rivotorto: The Cradle of Franciscanism"
+        },
+        "summary": {
+          "de": "Die Veranstaltungsreihe in Rivotorto beleuchtet Geschichte, Kunst und Innovation rund um einen der wichtigsten frühen franziskanischen Orte.",
+          "hu": "A rivotortói programsorozat történelemmel, művészettel és innovációval mutatja be a ferences hagyomány egyik legfontosabb korai helyszínét.",
+          "ro": "Seria de evenimente de la Rivotorto pune în valoare istoria, arta și inovația legate de unul dintre locurile fondatoare ale franciscanismului.",
+          "en": "This series in Rivotorto explores history, art, and innovation around one of the foundational places of the Franciscan movement."
+        },
+        "source_url": "https://www.visit-assisi.it/eventi/en/tag/eighth-centenary/"
+      },
+      {
+        "date": "2026-08-28",
+        "end_date": "2026-08-30",
+        "title": {
+          "de": "Franziskus in der Kunst der Madonnari",
+          "hu": "Ferenc a madonnari művészetében",
+          "ro": "Francisc în arta madonnarilor",
+          "en": "Francis in the Art of the Madonnari"
+        },
+        "summary": {
+          "de": "Zum Franziskusjahr widmet sich dieses Spätsommerprogramm der Straßenkunst der Madonnari und ihrer bildlichen Interpretation franziskanischer Themen.",
+          "hu": "A ferences centenárium részeként ez a késő nyári program a madonnari utcai művészetét és annak ferences témájú képi világát állítja középpontba.",
+          "ro": "În cadrul anului franciscan, acest program de sfârșit de vară este dedicat artei stradale a madonnarilor și interpretării vizuale a temelor franciscane.",
+          "en": "As part of the Franciscan centenary, this late-summer program focuses on Madonnari street art and visual interpretations of Franciscan themes."
+        },
+        "source_url": "https://www.visit-assisi.it/eventi/en/tag/eighth-centenary/"
+      }
+    ]
+  },
+  {
+    "id": "laon",
+    "events": [
+      {
+        "date": "2026-07-14",
+        "end_date": "2026-11-01",
+        "title": {
+          "de": "Ausstellung „Le Visible & l’Invisible“",
+          "hu": "„Le Visible & l’Invisible” kiállítás",
+          "ro": "Expoziția „Le Visible & l’Invisible”",
+          "en": "Exhibition \"Le Visible & l'Invisible\"",
+          "fr": "Exposition « Le Visible & l'Invisible »"
+        },
+        "summary": {
+          "de": "Diese große Ausstellung in der mittelalterlichen Oberstadt lädt dazu ein, die Kathedrale Notre-Dame de Laon aus neuen Perspektiven und jenseits des Offensichtlichen zu betrachten.",
+          "hu": "Az óvárosban rendezett nagy kiállítás arra hívja a látogatókat, hogy a laoni Notre-Dame-székesegyházat új nézőpontokból fedezzék fel.",
+          "ro": "Această amplă expoziție din orașul medieval îi invită pe vizitatori să privească catedrala Notre-Dame din Laon din perspective noi, dincolo de evidență.",
+          "en": "This major exhibition in the medieval upper town invites visitors to rediscover Laon's Notre-Dame cathedral from fresh perspectives.",
+          "fr": "Cette grande exposition dans la cité médiévale invite les visiteurs à redécouvrir la cathédrale Notre-Dame de Laon sous un angle inédit."
+        },
+        "source_url": "https://www.tourisme-paysdelaon.com/agenda/exposition-a-laon-le-visible-linvisible/"
+      },
+      {
+        "date": "2026-09-05",
+        "end_date": "2026-09-05",
+        "title": {
+          "de": "Geführter Street-Art-Rundgang im Quartier Champagne",
+          "hu": "Vezetett street art séta a Champagne negyedben",
+          "ro": "Tur ghidat de street art în cartierul Champagne",
+          "en": "Guided Street Art Tour in the Champagne District",
+          "fr": "Visite guidée street art dans le quartier Champagne"
+        },
+        "summary": {
+          "de": "Die geführte Tour durch die Unterstadt stellt großformatige Murals internationaler Künstler im Viertel Champagne vor.",
+          "hu": "Az alsóvárosi vezetett séta a Champagne negyed nemzetközi alkotók nagyméretű falfestményeit mutatja be.",
+          "ro": "Turul ghidat prin orașul de jos prezintă marile fresce murale realizate de artiști internaționali în cartierul Champagne.",
+          "en": "This guided tour in the lower town highlights major murals by international street artists in the Champagne district.",
+          "fr": "Cette visite guidée en ville basse met en avant de grandes fresques réalisées par des artistes internationaux dans le quartier Champagne."
+        },
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.tourisme-paysdelaon.com/agenda/visite-guidee-autour-du-street-art-a-laon-quartier-champagne/"
+      },
+      {
+        "date": "2026-09-13",
+        "title": {
+          "de": "Rando Trail de la Montagne Couronnée #8",
+          "hu": "Rando Trail de la Montagne Couronnée #8",
+          "ro": "Rando Trail de la Montagne Couronnée #8",
+          "en": "Rando Trail de la Montagne Couronnée #8",
+          "fr": "Rando Trail de la Montagne Couronnée #8"
+        },
+        "summary": {
+          "de": "Der sportliche September-Termin lässt Teilnehmer Laon zu Fuß oder laufend erkunden und führt 2026 erneut auch durch die unterirdischen Gänge der Oberstadt.",
+          "hu": "A szeptemberi sportesemény gyalogosan vagy futva fedezteti fel Laont, és 2026-ban ismét az óváros föld alatti járataiba is elvezet.",
+          "ro": "Evenimentul sportiv de septembrie îi invită pe participanți să descopere Laon mergând sau alergând, inclusiv prin pasajele subterane ale orașului vechi.",
+          "en": "This September sports event lets participants explore Laon on foot or at a run, including a passage through the medieval city's underground spaces.",
+          "fr": "Ce rendez-vous sportif de rentrée propose de découvrir Laon en marchant ou en courant, avec un passage dans les souterrains de la cité médiévale."
+        },
+        "source_url": "https://www.tourisme-paysdelaon.com/agenda/rando-trail-de-la-montagne-couronnee-8-a-laon/"
+      },
+      {
+        "date": "2026-09-19",
+        "end_date": "2026-09-20",
+        "title": {
+          "de": "Europäische Tage des Denkmals 2026 in Laon",
+          "hu": "2026-os Európai Örökség Napok Laonban",
+          "ro": "Zilele Europene ale Patrimoniului 2026 la Laon",
+          "en": "European Heritage Days 2026 in Laon",
+          "fr": "Journées européennes du Patrimoine 2026 à Laon"
+        },
+        "summary": {
+          "de": "Das Heritage-Wochenende öffnet in Laon und seinem Umland zahlreiche Kulturorte und stellt 2026 gefährdetes Erbe in den Mittelpunkt.",
+          "hu": "Az örökségi hétvége Laonban és környékén számos kulturális helyszínt nyit meg, 2026-ban a veszélyeztetett örökség témájára fókuszálva.",
+          "ro": "Weekendul patrimoniului deschide numeroase situri culturale în Laon și împrejurimi, cu accent în 2026 pe patrimoniul aflat în pericol.",
+          "en": "This heritage weekend opens numerous cultural sites in and around Laon, with 2026 focusing on endangered heritage.",
+          "fr": "Ce week-end patrimonial ouvre de nombreux sites culturels à Laon et dans son pays, avec un accent 2026 sur le patrimoine en danger."
+        },
+        "source_url": "https://www.tourisme-paysdelaon.com/agenda/journees-europeennes-du-patrimoine-2026-a-laon-et-dans-son-pays/"
+      },
+      {
+        "date": "2026-10-03",
+        "end_date": "2026-10-03",
+        "title": {
+          "de": "Geführter Street-Art-Rundgang im Quartier Montreuil",
+          "hu": "Vezetett street art séta a Montreuil negyedben",
+          "ro": "Tur ghidat de street art în cartierul Montreuil",
+          "en": "Guided Street Art Tour in the Montreuil District",
+          "fr": "Visite guidée street art dans le quartier Montreuil"
+        },
+        "summary": {
+          "de": "Diese Führung in der Unterstadt zeigt weitere markante Wandbilder internationaler Street-Art-Künstler im Quartier Montreuil.",
+          "hu": "Ez az alsóvárosi vezetett séta további figyelemre méltó, nemzetközi street art alkotókhoz kötődő falfestményeket mutat be a Montreuil negyedben.",
+          "ro": "Turul ghidat din orașul de jos prezintă alte fresce remarcabile realizate de artiști internaționali de street art în cartierul Montreuil.",
+          "en": "This guided walk in the lower town showcases more standout murals by international street artists in the Montreuil district.",
+          "fr": "Cette visite guidée en ville basse fait découvrir d'autres fresques marquantes d'artistes street art internationaux dans le quartier Montreuil."
+        },
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.tourisme-paysdelaon.com/agenda/visite-guidee-autour-du-street-art-a-laon-quartier-montreuil/"
+      }
+    ]
+  },
+  {
+    "id": "erice",
+    "events": [
+      {
+        "date": "2026-08-01",
+        "title": {
+          "de": "Cortili Narranti mit Giacomo Pilati",
+          "hu": "Cortili Narranti Giacomo Pilatival",
+          "ro": "Cortili Narranti cu Giacomo Pilati",
+          "en": "Cortili Narranti with Giacomo Pilati"
+        },
+        "summary": {
+          "de": "Im Cortile D'Alì eröffnet Cortili Narranti den August mit einem literarischen Abend rund um Giacomo Pilatis Buch „Blu e sale. Un'educazione siciliana“.",
+          "hu": "A Cortile D'Alì udvarán a Cortili Narranti augusztusi irodalmi esttel folytatódik, Giacomo Pilati „Blu e sale. Un'educazione siciliana” című könyve köré építve.",
+          "ro": "La Cortile D'Alì, seria Cortili Narranti continuă cu o întâlnire literară dedicată volumului „Blu e sale. Un'educazione siciliana” de Giacomo Pilati.",
+          "en": "At Cortile D'Alì, the Cortili Narranti series continues with a literary evening built around Giacomo Pilati's book \"Blu e sale. Un'educazione siciliana\"."
+        },
+        "source_url": "https://www.comune.erice.tp.it/it/news/estate-2026-a-erice-lidentita-della-sicilia-nella-cultura-nella-musica-e-nella-letteratura"
+      },
+      {
+        "date": "2026-08-09",
+        "title": {
+          "de": "Borgo in Musica",
+          "hu": "Borgo in Musica",
+          "ro": "Borgo in Musica",
+          "en": "Borgo in Musica"
+        },
+        "summary": {
+          "de": "Der Musiktag verteilt drei Konzerte über den Ort, von Klavier im Teatro Gebel Hamed bis zu Pop-Rock in den Giardini del Balio und Jazz am Abend.",
+          "hu": "A zenei nap három koncertet oszt el a város különböző pontjain: zongora a Teatro Gebel Hamedben, pop-rock a Giardini del Balióban és esti jazz.",
+          "ro": "Ziua muzicală aduce trei concerte în diferite locuri din Erice, de la pian la Teatro Gebel Hamed la pop-rock în Giardini del Balio și jazz seara.",
+          "en": "This music day spreads three concerts across Erice, from piano at Teatro Gebel Hamed to pop-rock at Giardini del Balio and evening jazz."
+        },
+        "source_url": "https://www.comune.erice.tp.it/it/news/estate-2026-a-erice-lidentita-della-sicilia-nella-cultura-nella-musica-e-nella-letteratura"
+      },
+      {
+        "date": "2026-08-12",
+        "title": {
+          "de": "Stefania Auci präsentiert „L'alba dei leoni“",
+          "hu": "Stefania Auci bemutatja a „L'alba dei leoni” című könyvet",
+          "ro": "Stefania Auci prezintă „L'alba dei leoni”",
+          "en": "Stefania Auci Presents \"L'alba dei leoni\""
+        },
+        "summary": {
+          "de": "Vor dem Castello di Venere stellt Stefania Auci ihren Bestseller über die Ursprünge der Familie Florio in einer öffentlichen Begegnung mit Lesungen vor.",
+          "hu": "A Castello di Venere előtt Stefania Auci nyilvános találkozón mutatja be a Florio család eredetéről szóló bestsellerét felolvasásokkal kísérve.",
+          "ro": "În fața Castello di Venere, Stefania Auci își prezintă bestsellerul despre originile familiei Florio într-o întâlnire publică cu lecturi.",
+          "en": "In front of Castello di Venere, Stefania Auci presents her bestselling novel about the origins of the Florio family in a public literary event."
+        },
+        "source_url": "https://www.comune.erice.tp.it/it/news/estate-2026-a-erice-lidentita-della-sicilia-nella-cultura-nella-musica-e-nella-letteratura"
+      },
+      {
+        "date": "2026-08-28",
+        "end_date": "2026-08-30",
+        "title": {
+          "de": "Borgo diVino in Tour 2026",
+          "hu": "Borgo diVino in Tour 2026",
+          "ro": "Borgo diVino in Tour 2026",
+          "en": "Borgo diVino in Tour 2026"
+        },
+        "summary": {
+          "de": "Drei Tage lang verwandelt sich das historische Zentrum von Erice in einen Wein- und Genussparcours mit Weingütern aus ganz Italien, lokaler Gastronomie, Musik und Kulturinitiativen.",
+          "hu": "Három napra Erice történelmi központja bor- és gasztroútvonallá alakul olasz pincészetekkel, helyi ételekkel, zenével és kulturális programokkal.",
+          "ro": "Timp de trei zile, centrul istoric al orașului Erice devine un traseu dedicat vinului și gastronomiei, cu crame din toată Italia, muzică și inițiative culturale.",
+          "en": "For three days, Erice's historic center turns into a wine-and-food route with wineries from across Italy, local gastronomy, music, and cultural programming."
+        },
+        "source_url": "https://www.comune.erice.tp.it/it/news/erice-tappa-di-borgo-divino-in-tour-2026-presentata-alla-camera-dei-deputati-la-nuova-edizione"
+      },
+      {
+        "date": "2026-08-28",
+        "title": {
+          "de": "Premio Letterario Città di Erice 2026",
+          "hu": "Città di Erice irodalmi díj 2026",
+          "ro": "Premiul Literar Città di Erice 2026",
+          "en": "Città di Erice Literary Prize 2026"
+        },
+        "summary": {
+          "de": "Am Castello di Venere schließt Cortili Narranti mit der Preisverleihung des achten Literaturpreises der Stadt Erice und des Jugendpreises ab.",
+          "hu": "A Castello di Venere helyszínén zárul a Cortili Narranti sorozat a város nyolcadik irodalmi díjának és az ifjúsági díjnak az átadásával.",
+          "ro": "La Castello di Venere, seria Cortili Narranti se încheie cu ceremonia de premiere a celei de-a opta ediții a Premiului Literar Città di Erice și a premiului pentru tineri.",
+          "en": "At Castello di Venere, Cortili Narranti closes with the award ceremony for the eighth Città di Erice Literary Prize and the youth prize."
+        },
+        "source_url": "https://www.comune.erice.tp.it/it/news/estate-2026-a-erice-lidentita-della-sicilia-nella-cultura-nella-musica-e-nella-letteratura"
+      }
+    ]
+  }
+]

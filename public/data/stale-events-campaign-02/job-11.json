@@ -1,0 +1,452 @@
+[
+  {
+    "id": "montlucon",
+    "events": [
+      {
+        "date": "2026-07-29",
+        "end_date": "2026-08-26",
+        "title": {
+          "de": "Geführter Rundgang durch die mittelalterliche Altstadt von Montluçon",
+          "hu": "Vezetett séta Montluçon középkori városrészében",
+          "ro": "Tur ghidat prin cetatea medievală din Montluçon",
+          "en": "Guided tour of Montluçon's medieval town",
+          "fr": "Visite guidée de la cité médiévale de Montluçon"
+        },
+        "summary": {
+          "de": "Das Tourismusbüro bietet mittwochs eine geführte Entdeckung der mittelalterlichen Stadt mit ihren wichtigsten historischen Bauwerken an.",
+          "hu": "A turisztikai iroda szerdánként vezetett felfedező sétát szervez Montluçon középkori negyedében és főbb műemlékeihez.",
+          "ro": "Oficiul de turism organizează miercurea o vizită ghidată prin orașul medieval și principalele sale monumente istorice.",
+          "en": "The tourist office runs a Wednesday guided visit through the medieval quarter and its main historic landmarks.",
+          "fr": "L'office de tourisme propose chaque mercredi une visite guidée de la cité médiévale et de ses principaux monuments."
+        },
+        "source_url": "https://www.montlucon-tourisme.fr/offres/visite-guidee-il-etait-une-fois-la-cite-medievale-de-montlucon-montlucon-fr-3014135/",
+        "period": {
+          "recurrent": true
+        }
+      },
+      {
+        "date": "2026-07-30",
+        "end_date": "2026-08-27",
+        "title": {
+          "de": "Geführte Tour „Montluçon Secret“",
+          "hu": "„Titkos Montluçon” vezetett séta",
+          "ro": "Tur ghidat „Montluçon secret”",
+          "en": "Montluçon Secret guided tour",
+          "fr": "Visite guidée « Montluçon Secret »"
+        },
+        "summary": {
+          "de": "Diese sommerliche Führung am Donnerstag richtet den Blick auf versteckte Details, wenig bekannte Orte und das lokale Kulturerbe.",
+          "hu": "Ez a csütörtöki nyári séta rejtett részleteket, kevésbé ismert helyszíneket és a helyi örökséget mutatja be.",
+          "ro": "Vizita de vară din fiecare joi pune accent pe detalii ascunse, locuri mai puțin cunoscute și patrimoniul local.",
+          "en": "This Thursday summer tour focuses on hidden details, lesser-known places, and local heritage.",
+          "fr": "Cette visite estivale du jeudi met en valeur des détails cachés, des lieux méconnus et le patrimoine local."
+        },
+        "source_url": "https://www.montlucon-tourisme.fr/offres/visite-guidee-il-etait-une-fois-montlucon-secret-montlucon-fr-4172546/",
+        "period": {
+          "recurrent": true
+        }
+      },
+      {
+        "date": "2026-08-13",
+        "title": {
+          "de": "Les Ripailles de la Charité",
+          "hu": "Les Ripailles de la Charité",
+          "ro": "Les Ripailles de la Charité",
+          "en": "Les Ripailles de la Charité",
+          "fr": "Les Ripailles de la Charité"
+        },
+        "summary": {
+          "de": "Der Abend in Lavault-Sainte-Anne verbindet Essen, Musik und geselliges Sommerprogramm im Espace La Charité nahe Montluçon.",
+          "hu": "A közeli Lavault-Sainte-Anne nyári estje ételt, zenét és barátságos közösségi programot kínál az Espace La Charité helyszínen.",
+          "ro": "Evenimentul din apropiata Lavault-Sainte-Anne combină gastronomie, muzică și o atmosferă convivială de vară la Espace La Charité.",
+          "en": "This nearby Lavault-Sainte-Anne event combines food, music, and a convivial summer atmosphere at Espace La Charité.",
+          "fr": "Cette soirée à Lavault-Sainte-Anne mêle restauration, musique et ambiance estivale conviviale à l'Espace La Charité."
+        },
+        "source_url": "https://www.montlucon-tourisme.fr/offres/les-ripailles-de-la-charite-lavault-sainte-anne-fr-6358192/"
+      },
+      {
+        "date": "2026-08-22",
+        "title": {
+          "de": "Führung durch das Schloss der Herzöge von Bourbon",
+          "hu": "Vezetett látogatás a Bourbon-hercegek várában",
+          "ro": "Vizită ghidată la castelul ducilor de Bourbon",
+          "en": "Guided visit of the Château des Ducs de Bourbon",
+          "fr": "Visite guidée du Château des Ducs de Bourbon"
+        },
+        "summary": {
+          "de": "Die reservierungspflichtige Führung erschließt eines der prägenden Wahrzeichen von Montluçon und erklärt seine historische Rolle.",
+          "hu": "Az előzetes foglalással látogatható séta Montluçon egyik legfontosabb jelképes épületét és annak történelmi szerepét mutatja be.",
+          "ro": "Vizita cu rezervare prezintă unul dintre reperele majore ale orașului Montluçon și rolul său istoric.",
+          "en": "This reservation-only tour explores one of Montluçon's main landmarks and explains its historical significance.",
+          "fr": "Cette visite sur réservation permet de découvrir l'un des grands monuments de Montluçon et son rôle historique."
+        },
+        "source_url": "https://www.montlucon-tourisme.fr/offres/chateau-des-ducs-de-bourbon-visite-guidee-montlucon-fr-6640001/"
+      },
+      {
+        "date": "2026-08-28",
+        "title": {
+          "de": "Musikfestival Aout of Sounds",
+          "hu": "Aout of Sounds zenei fesztivál",
+          "ro": "Festivalul muzical Aout of Sounds",
+          "en": "Aout of Sounds music festival",
+          "fr": "Festival de musique Aout of Sounds"
+        },
+        "summary": {
+          "de": "Das Festival in Domérat bei Montluçon bringt am Abend Pop-, Rock- und Weltmusik auf die Bühne am Place Bacchus.",
+          "hu": "A Montluçon melletti Domérat fesztiválja pop-, rock- és világzenei koncertestet kínál a Place Bacchus téren.",
+          "ro": "Festivalul din Domérat, lângă Montluçon, aduce o seară de pop, rock și world music în Place Bacchus.",
+          "en": "Held in nearby Domérat, the festival brings an evening of pop, rock, and world music to Place Bacchus.",
+          "fr": "À Domérat, près de Montluçon, ce festival propose une soirée pop, rock et musiques du monde sur la place Bacchus."
+        },
+        "source_url": "https://www.montlucon-tourisme.fr/offres/festival-de-musique-aout-of-sounds-domerat-fr-5620013/"
+      }
+    ]
+  },
+  {
+    "id": "avila",
+    "events": [
+      {
+        "date": "2026-07-26",
+        "end_date": "2026-08-08",
+        "title": {
+          "de": "Ausstellung „Convergentes“",
+          "hu": "„Convergentes” kiállítás",
+          "ro": "Expoziția „Convergentes”",
+          "en": "Convergentes exhibition"
+        },
+        "summary": {
+          "de": "Im Palacio de los Verdugo vereint die Ausstellung Werke von 13 Künstlerinnen und Künstlern aus Ávila bis Anfang August.",
+          "hu": "A Palacio de los Verdugo épületében 13 ávilai alkotó munkái láthatók augusztus elejéig.",
+          "ro": "La Palacio de los Verdugo, expoziția reunește lucrările a 13 artiști din Ávila până la începutul lunii august.",
+          "en": "At the Palacio de los Verdugo, the exhibition brings together works by 13 artists from Ávila through early August."
+        },
+        "source_url": "https://www.avila.es/component/k2/item/8217-exposicion-convergentes"
+      },
+      {
+        "date": "2026-08-01",
+        "end_date": "2026-08-29",
+        "title": {
+          "de": "Geführte Besichtigung „Ávila Románica“",
+          "hu": "„Ávila Románica” vezetett séta",
+          "ro": "Tur ghidat „Ávila Románica”",
+          "en": "Ávila Románica guided tour"
+        },
+        "summary": {
+          "de": "Die Samstagsführung verbindet romanische Kirchen der Stadt mit dem Zugang zur Stadtmauer und startet im Besucherzentrum.",
+          "hu": "A szombati vezetett séta a város román kori templomait és a városfal bejárását kapcsolja össze, indulás a látogatóközponttól.",
+          "ro": "Turul ghidat de sâmbătă include bisericile romanice ale orașului și accesul pe zidurile orașului, cu plecare de la centrul de vizitatori.",
+          "en": "This Saturday guided tour covers the city's Romanesque churches and access to the walls, starting at the visitor center."
+        },
+        "source_url": "https://www.avilaturismo.com/visitas-guiadas/avila-romanica",
+        "period": {
+          "recurrent": true
+        }
+      },
+      {
+        "date": "2026-08-01",
+        "end_date": "2026-08-29",
+        "title": {
+          "de": "Erlebnisse auf der Stadtmauer",
+          "hu": "Élmények a városfalon",
+          "ro": "Experiențe pe zidul orașului",
+          "en": "Experiences on the city wall"
+        },
+        "summary": {
+          "de": "Die Samstagabende auf der Mauer kombinieren Aussicht und regionale Verkostungen in kleinem Rahmen auf der Muralla de Ávila.",
+          "hu": "A szombat esti program a városfalon kilátást és helyi kóstolókat kínál kis létszámú csoportban.",
+          "ro": "Serile de sâmbătă pe zidurile orașului combină panorama cu degustări de produse locale într-un format restrâns.",
+          "en": "These Saturday evening sessions on the walls combine panoramic views with tastings of local products in a small-group format."
+        },
+        "source_url": "https://www.avilaturismo.com/experiencias-en-la-muralla",
+        "period": {
+          "recurrent": true
+        }
+      },
+      {
+        "date": "2026-08-02",
+        "end_date": "2026-08-30",
+        "title": {
+          "de": "Geführte Besichtigung „Descubre Ávila“",
+          "hu": "„Descubre Ávila” vezetett városi séta",
+          "ro": "Vizită ghidată „Descubre Ávila”",
+          "en": "Descubre Ávila guided tour"
+        },
+        "summary": {
+          "de": "Die Sonntagsführung führt zu San Vicente, Kathedrale, Rastro, La Santa und weiteren Schlüsselpunkten im historischen Zentrum.",
+          "hu": "A vasárnapi városnézés San Vicente, a katedrális, a Rastro, La Santa és más fontos történelmi helyszínek érintésével járja be a központot.",
+          "ro": "Turul de duminică trece prin San Vicente, catedrală, Rastro, La Santa și alte puncte-cheie ale centrului istoric.",
+          "en": "The Sunday tour covers San Vicente, the cathedral, the Rastro, La Santa, and other key sights in the historic center."
+        },
+        "source_url": "https://www.avilaturismo.com/visitas-guiadas/descubre-avila",
+        "period": {
+          "recurrent": true
+        }
+      }
+    ]
+  },
+  {
+    "id": "narbonne",
+    "events": [
+      {
+        "date": "2026-07-28",
+        "title": {
+          "de": "Festival Grand Clap' – 20.000 Meilen unter dem Meer",
+          "hu": "Grand Clap' fesztivál – 20 000 mérföld a tenger alatt",
+          "ro": "Festivalul Grand Clap' – 20.000 de leghe sub mări",
+          "en": "Grand Clap' Festival – 20,000 Leagues Under the Sea",
+          "fr": "Festival Grand Clap' – 20 000 lieues sous les mers"
+        },
+        "summary": {
+          "de": "Das Sommerfilmprogramm der Stadt startet Ende Juli am Espace Dominique Baudis mit einer Vorführung des Abenteuerklassikers.",
+          "hu": "A város nyári filmes programsorozata július végén az Espace Dominique Baudis helyszínen indul ezzel a klasszikus kalandfilmmel.",
+          "ro": "Programul estival de cinema al orașului începe la sfârșitul lui iulie la Espace Dominique Baudis cu această proiecție clasică de aventură.",
+          "en": "The city's summer film program opens in late July at Espace Dominique Baudis with this classic adventure screening.",
+          "fr": "Le programme cinématographique estival de la ville s'ouvre fin juillet à l'Espace Dominique Baudis avec cette projection d'aventure."
+        },
+        "source_url": "https://www.narbonne.fr/billetterie"
+      },
+      {
+        "date": "2026-07-30",
+        "title": {
+          "de": "Geführte Monumental-Tour auf Spanisch",
+          "hu": "Spanyol nyelvű vezetett túra a monumentális együttesen",
+          "ro": "Tur ghidat în spaniolă al ansamblului monumental",
+          "en": "Spanish-language guided tour of the monumental complex",
+          "fr": "Visite guidée en espagnol du conjunto monumental"
+        },
+        "summary": {
+          "de": "Die Führung erschließt Kathedrale, Altstadt und verborgene Winkel des monumentalen Zentrums von Narbonne in spanischer Sprache.",
+          "hu": "A spanyol nyelvű séta a katedrálist, az óvárost és a monumentális központ rejtettebb részeit mutatja be.",
+          "ro": "Vizita în limba spaniolă prezintă catedrala, orașul vechi și colțurile mai ascunse ale centrului monumental din Narbonne.",
+          "en": "This Spanish-language tour explores the cathedral, old town, and hidden corners of Narbonne's monumental center.",
+          "fr": "Cette visite en espagnol fait découvrir la cathédrale, la vieille ville et les recoins du centre monumental de Narbonne."
+        },
+        "source_url": "https://visites.narbonne.fr/visites-guidees/visita-guiada-en-espanol-conjunto-monumental"
+      },
+      {
+        "date": "2026-08-20",
+        "end_date": "2026-08-22",
+        "title": {
+          "de": "Barques en scène 2026",
+          "hu": "Barques en scène 2026",
+          "ro": "Barques en scène 2026",
+          "en": "Barques en scène 2026",
+          "fr": "Barques en scène 2026"
+        },
+        "summary": {
+          "de": "Das große Narbonner Spätsommerfestival bringt drei Abende mit Bodegas, Straßenkunst und Konzerten ins Stadtzentrum.",
+          "hu": "A város nagy nyár végi fesztiválja három estén át bodegákat, utcai művészetet és koncerteket hoz Narbonne központjába.",
+          "ro": "Marele festival de sfârșit de vară al orașului aduce trei seri cu bodegi, artă stradală și concerte în centrul Narbonne-ului.",
+          "en": "Narbonne's major late-summer festival brings three evenings of bodegas, street arts, and concerts to the city center.",
+          "fr": "Le grand festival de fin d'été de Narbonne propose trois soirées de bodegas, d'arts de rue et de concerts au cœur de ville."
+        },
+        "source_url": "https://www.narbonne.fr/barques-scene-2026"
+      },
+      {
+        "date": "2026-08-19",
+        "end_date": "2026-09-01",
+        "title": {
+          "de": "Fjord",
+          "hu": "Fjord",
+          "ro": "Fjord",
+          "en": "Fjord",
+          "fr": "Fjord"
+        },
+        "summary": {
+          "de": "Im Théâtre + Cinéma läuft Cristian Mungius Cannes-Palmengewinner mit mehreren Vorführungen zwischen August und September.",
+          "hu": "A Théâtre + Cinéma műsorán Cristian Mungiu cannes-i Arany Pálma-díjas filmje több vetítéssel szerepel augusztus és szeptember fordulóján.",
+          "ro": "La Théâtre + Cinéma rulează filmul câștigător al Palme d'Or de la Cannes, semnat de Cristian Mungiu, în mai multe proiecții la sfârșit de august.",
+          "en": "Théâtre + Cinéma is screening Cristian Mungiu's Palme d'Or winner across multiple dates from late August into early September.",
+          "fr": "Le Théâtre + Cinéma programme sur plusieurs dates le film palmé à Cannes de Cristian Mungiu, de fin août à début septembre."
+        },
+        "source_url": "https://www.theatrecinema-narbonne.com/evenements/fjord/"
+      }
+    ]
+  },
+  {
+    "id": "beauvais",
+    "events": [
+      {
+        "date": "2026-08-12",
+        "title": {
+          "de": "Sonnenfinsternis und Nacht der Sternschnuppen",
+          "hu": "Napfogyatkozás és a hullócsillagok éjszakája",
+          "ro": "Eclipsă solară și noaptea stelelor căzătoare",
+          "en": "Solar eclipse and night of shooting stars",
+          "fr": "Éclipse solaire et Nuit des étoiles filantes"
+        },
+        "summary": {
+          "de": "Am Plan d'eau du Canada lädt die Stadt zu einem kostenlosen Beobachtungsabend mit Sonnen- und Perseidenprogramm ein.",
+          "hu": "A Plan d'eau du Canada helyszínen a város ingyenes megfigyelő estét szervez napfogyatkozással és a Perszeidákkal.",
+          "ro": "La Plan d'eau du Canada, orașul propune o seară gratuită de observații dedicate eclipsei și Perseidelor.",
+          "en": "At Plan d'eau du Canada, the city is hosting a free observation evening around the eclipse and the Perseids.",
+          "fr": "Au Plan d'eau du Canada, la ville propose une soirée gratuite d'observation autour de l'éclipse et des Perséides."
+        },
+        "source_url": "https://sortir.beauvais.fr/eclipse-solaire-nuit-des-etoiles-filantes-plan-deau-du-canada"
+      },
+      {
+        "date": "2026-08-22",
+        "title": {
+          "de": "Nocturne Märkte",
+          "hu": "Éjszakai piacok",
+          "ro": "Marchés nocturnes",
+          "en": "Night markets",
+          "fr": "Les Marchés Nocturnes"
+        },
+        "summary": {
+          "de": "Auf der Place Jeanne Hachette erwartet Besucher ein Abendmarkt mit regionalen Kunsthandwerkern, Gastronomie und Musik der 1980er.",
+          "hu": "A Place Jeanne Hachette esti piaca helyi kézműveseket, étkezési lehetőségeket és 1980-as évekbeli zenei hangulatot kínál.",
+          "ro": "Pe Place Jeanne Hachette, piața de seară reunește artizani locali, standuri culinare și o ambianță muzicală inspirată din anii 1980.",
+          "en": "On Place Jeanne Hachette, the evening market combines local artisans, food stalls, and an 1980s-themed musical atmosphere.",
+          "fr": "Place Jeanne Hachette, ce marché du soir réunit artisans locaux, restauration sur place et ambiance musicale années 80."
+        },
+        "source_url": "https://sortir.beauvais.fr/les-marches-nocturnes-place-jeanne-hachette"
+      },
+      {
+        "date": "2026-08-22",
+        "title": {
+          "de": "Canada Sound mit Lil'Bellules",
+          "hu": "Canada Sound Lil'Bellules koncerttel",
+          "ro": "Canada Sound cu Lil'Bellules",
+          "en": "Canada Sound featuring Lil'Bellules",
+          "fr": "Canada Sound avec Lil'Bellules"
+        },
+        "summary": {
+          "de": "Das kostenlose Konzert am Plan d'eau du Canada setzt auf französische Chansons, Guinguette-Stimmung und Hits der 1980er.",
+          "hu": "Az ingyenes koncert a Plan d'eau du Canada partján francia sanzonokat, guinguette hangulatot és nyolcvanas évekbeli slágereket kínál.",
+          "ro": "Concertul gratuit de la Plan d'eau du Canada propune varietate franceză, spirit guinguette și hituri din anii 1980.",
+          "en": "This free concert at Plan d'eau du Canada brings French variety music, a guinguette feel, and 1980s hits.",
+          "fr": "Ce concert gratuit au Plan d'eau du Canada propose variété française, esprit guinguette et tubes des années 80."
+        },
+        "source_url": "https://sortir.beauvais.fr/canada-sound-plan-deau-du-canada-14"
+      },
+      {
+        "date": "2026-08-29",
+        "end_date": "2026-08-30",
+        "title": {
+          "de": "15. Festival Malices & Merveilles",
+          "hu": "15. Malices & Merveilles fesztivál",
+          "ro": "A 15-a ediție a festivalului Malices & Merveilles",
+          "en": "15th Malices & Merveilles festival",
+          "fr": "15e édition du Festival Malices & Merveilles"
+        },
+        "summary": {
+          "de": "In der Maladrerie Saint-Lazare bietet das Familienfestival zwei Tage mit Zirkus, Straßentheater, Spielen und Musik.",
+          "hu": "A Maladrerie Saint-Lazare helyszínén a családi fesztivál két napon át cirkuszt, utcaszínházat, játékokat és zenét kínál.",
+          "ro": "La Maladrerie Saint-Lazare, festivalul pentru familii oferă două zile de circ, teatru de stradă, jocuri și muzică.",
+          "en": "At the Maladrerie Saint-Lazare, the family festival offers two days of circus, street theater, games, and music.",
+          "fr": "À la Maladrerie Saint-Lazare, ce festival familial propose deux jours de cirque, théâtre de rue, jeux et musique."
+        },
+        "source_url": "https://sortir.beauvais.fr/15e-edition-du-festival-malices-merveilles-maladrerie-saint-lazare"
+      },
+      {
+        "date": "2026-12-05",
+        "end_date": "2026-12-21",
+        "title": {
+          "de": "Entre Ciel et Terre von Yann Nguema",
+          "hu": "Entre Ciel et Terre, Yann Nguema fényinstallációja",
+          "ro": "Entre Ciel et Terre de Yann Nguema",
+          "en": "Entre Ciel et Terre by Yann Nguema",
+          "fr": "Entre Ciel et Terre, par Yann Nguema"
+        },
+        "summary": {
+          "de": "Zum 800-jährigen Kathedraljubiläum verwandelt eine kostenlose Lichtprojektion den Vorplatz der Kathedrale Saint-Pierre an 13 Abenden.",
+          "hu": "A székesegyház 800 éves jubileumára ingyenes fényvetítés kelti új életre a Saint-Pierre-székesegyház előterét 13 estén át.",
+          "ro": "Pentru aniversarea de 800 de ani a catedralei, o proiecție luminoasă gratuită transformă parvisul catedralei Saint-Pierre în 13 seri.",
+          "en": "For the cathedral's 800th anniversary, a free light projection transforms the forecourt of Saint-Pierre Cathedral across 13 evenings.",
+          "fr": "Pour les 800 ans de la cathédrale, une projection lumineuse gratuite métamorphose le parvis de Saint-Pierre pendant 13 soirées."
+        },
+        "source_url": "https://800anscathedrale.beauvais.fr/evenements/surprise-illuminee/"
+      }
+    ]
+  },
+  {
+    "id": "meerbusch",
+    "events": [
+      {
+        "date": "2026-07-26",
+        "end_date": "2026-09-06",
+        "title": {
+          "de": "Meerbuscher KunstSommer 2026",
+          "hu": "Meerbuscher KunstSommer 2026",
+          "ro": "Meerbuscher KunstSommer 2026",
+          "en": "Meerbusch Art Summer 2026"
+        },
+        "summary": {
+          "de": "Der stadtweite KunstSommer füllt die Ferien mit Lesungen, Workshops, Kinoabenden, Konzerten und Mitmachformaten für alle Generationen.",
+          "hu": "A város egészére kiterjedő KunstSommer a nyári szünetben felolvasásokat, workshopokat, filmesteket és koncerteket kínál minden korosztálynak.",
+          "ro": "Programul urban KunstSommer animă vacanța cu lecturi, ateliere, seri de cinema și concerte pentru toate generațiile.",
+          "en": "The citywide KunstSommer fills the school holidays with readings, workshops, film nights, concerts, and participatory events for all ages."
+        },
+        "source_url": "https://meerbusch.de/leben-in-meerbusch/kunst-und-kultur/kunstsommer",
+        "period": {
+          "recurrent": true
+        }
+      },
+      {
+        "date": "2026-08-09",
+        "title": {
+          "de": "Ein Hauch von Afrika in Meerbusch",
+          "hu": "Egy csipet Afrika Meerbuschban",
+          "ro": "O adiere de Africa la Meerbusch",
+          "en": "A touch of Africa in Meerbusch"
+        },
+        "summary": {
+          "de": "In der Bethlehemkirche bringt die Gruppe Haware einen sommerlichen Konzertabend mit Gesang, Percussion, Gitarre und Djembe.",
+          "hu": "A Bethlehemkirchében a Haware együttes nyári koncertestet ad énekkel, ütőhangszerekkel, gitárral és djembevel.",
+          "ro": "La Bethlehemkirche, grupul Haware propune o seară de concert de vară cu voce, percuție, chitară și djembe.",
+          "en": "At Bethlehemkirche, Haware performs a summer concert evening with vocals, percussion, guitar, and djembe."
+        },
+        "source_url": "https://meerbusch.de/fileadmin/Dateien/Leben_in_Meerbusch/Kunst_und_Kultur/Programm_KunstSommer.pdf"
+      },
+      {
+        "date": "2026-08-16",
+        "title": {
+          "de": "JazzMittag im Bistro am Wasserturm",
+          "hu": "Jazz délben a Wasserturm bisztróban",
+          "ro": "Prânz cu jazz la Bistro am Wasserturm",
+          "en": "Jazz lunchtime at Bistro am Wasserturm"
+        },
+        "summary": {
+          "de": "Die Filofax Jazzband spielt im Bistro am Wasserturm Swing, Soul und Pop-Balladen als entspanntes Mittagskonzert.",
+          "hu": "A Filofax Jazzband swinget, soult és popballadákat játszik a Bistro am Wasserturm könnyed déli koncertjén.",
+          "ro": "Filofax Jazzband cântă swing, soul și balade pop într-un concert relaxat de prânz la Bistro am Wasserturm.",
+          "en": "The Filofax Jazzband brings swing, soul, and pop ballads to a relaxed lunchtime concert at Bistro am Wasserturm."
+        },
+        "source_url": "https://meerbusch.de/fileadmin/Dateien/Leben_in_Meerbusch/Kunst_und_Kultur/Programm_KunstSommer.pdf"
+      },
+      {
+        "date": "2026-08-16",
+        "title": {
+          "de": "ORGEL pur",
+          "hu": "ORGEL pur",
+          "ro": "ORGEL pur",
+          "en": "ORGEL pur"
+        },
+        "summary": {
+          "de": "Die Organistin Ute Gremmel-Geuchen spielt in St. Nikolaus ein Programm mit Werken von Corrette, Bach, Mendelssohn und Franck.",
+          "hu": "Ute Gremmel-Geuchen orgonaművész a Szent Miklós-templomban Corrette, Bach, Mendelssohn és Franck műveiből ad koncertet.",
+          "ro": "Organista Ute Gremmel-Geuchen interpretează la St. Nikolaus lucrări de Corrette, Bach, Mendelssohn și Franck.",
+          "en": "Organist Ute Gremmel-Geuchen performs works by Corrette, Bach, Mendelssohn, and Franck at St. Nikolaus."
+        },
+        "source_url": "https://meerbusch.de/fileadmin/Dateien/Leben_in_Meerbusch/Kunst_und_Kultur/Programm_KunstSommer.pdf"
+      },
+      {
+        "date": "2026-08-23",
+        "title": {
+          "de": "Magic Sea Day",
+          "hu": "Magic Sea Day",
+          "ro": "Magic Sea Day",
+          "en": "Magic Sea Day"
+        },
+        "summary": {
+          "de": "Am Latumer See gibt es einen Familientag mit Kunstworkshops, Selfie-Station, Musik sowie Kaffee und Kuchen.",
+          "hu": "A Latumer See partján családi nap várja a látogatókat művészeti workshopokkal, szelfiállomással, zenével, kávéval és süteménnyel.",
+          "ro": "La lacul Latumer See are loc o zi pentru familii cu ateliere artistice, selfie station, program muzical, cafea și prăjituri.",
+          "en": "At Latumer See, this family day offers art workshops, a selfie station, music, coffee, and cake."
+        },
+        "source_url": "https://meerbusch.de/leben-in-meerbusch/kunst-und-kultur/kunstsommer"
+      }
+    ]
+  }
+]

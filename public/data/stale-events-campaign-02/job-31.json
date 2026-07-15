@@ -1,0 +1,443 @@
+[
+  {
+    "id": "spoleto",
+    "events": [
+      {
+        "title": {
+          "de": "Dido and Aeneas",
+          "hu": "Dido and Aeneas",
+          "ro": "Dido and Aeneas",
+          "en": "Dido and Aeneas"
+        },
+        "summary": {
+          "de": "Die 80. Spielzeit des Teatro Lirico Sperimentale eröffnet in Spoleto mit Purcells Oper in einer Inszenierung von Tommaso Amadio und unter der musikalischen Leitung von Marco Angius.",
+          "hu": "A Teatro Lirico Sperimentale 80. évada Spolettóban Purcell operájával nyílik meg Tommaso Amadio rendezésében és Marco Angius zenei vezetésével.",
+          "ro": "A 80-a ediție a Teatro Lirico Sperimentale din Spoleto se deschide cu opera lui Purcell, în regia lui Tommaso Amadio și sub conducerea muzicală a lui Marco Angius.",
+          "en": "Spoleto's 80th Teatro Lirico Sperimentale season opens with Purcell's opera, staged by Tommaso Amadio and conducted by Marco Angius."
+        },
+        "source_url": "https://www.comune.spoleto.pg.it/it/eventi/80a-stagione-lirica-sperimentale-dido-and-aeneas",
+        "date": "2026-08-06",
+        "end_date": "2026-08-09"
+      },
+      {
+        "title": {
+          "de": "Una promessa infranta",
+          "hu": "Una promessa infranta",
+          "ro": "Una promessa infranta",
+          "en": "Una promessa infranta"
+        },
+        "summary": {
+          "de": "Die Kammeroper von Federico Gardella mit Libretto und Regie von Cecilia Ligorio ist der zweite zeitgenössische Termin der Spoletoer Lyrik-Saison.",
+          "hu": "Federico Gardella kamaroperája Cecilia Ligorio librettójával és rendezésével a spoletói lírai évad második kortárs produkciója.",
+          "ro": "Opera de cameră a lui Federico Gardella, cu libret și regie de Cecilia Ligorio, este al doilea mare eveniment contemporan din sezonul liric de la Spoleto.",
+          "en": "Federico Gardella's chamber opera, with libretto and staging by Cecilia Ligorio, is the second contemporary highlight of Spoleto's lyric season."
+        },
+        "source_url": "https://www.comune.spoleto.pg.it/it/eventi/80a-stagione-lirica-sperimentale-una-promessa-infranta",
+        "date": "2026-08-20",
+        "end_date": "2026-08-23"
+      },
+      {
+        "title": {
+          "de": "Pulse - Segni e battiti della città contemporanea",
+          "hu": "Pulse - Segni e battiti della città contemporanea",
+          "ro": "Pulse - Segni e battiti della città contemporanea",
+          "en": "Pulse - Signs and Beats of the Contemporary City"
+        },
+        "summary": {
+          "de": "Die Ausstellung im Palazzo Due Mondi zeigt urbane Gegenwartskunst und bleibt mit freiem Eintritt bis Anfang September für Besucher geöffnet.",
+          "hu": "A Palazzo Due Mondi kiállítása kortárs városi művészetet mutat be, és szeptember elejéig ingyenesen látogatható.",
+          "ro": "Expoziția de la Palazzo Due Mondi prezintă artă urbană contemporană și rămâne deschisă gratuit vizitatorilor până la începutul lui septembrie.",
+          "en": "This exhibition at Palazzo Due Mondi presents contemporary urban art and stays open to visitors free of charge into early September."
+        },
+        "source_url": "https://www.comune.spoleto.pg.it/it/eventi/pulse-segni-e-battiti-della-citta-contemporanea",
+        "date": "2026-06-26",
+        "end_date": "2026-09-06"
+      },
+      {
+        "title": {
+          "de": "La cantatrice calva",
+          "hu": "La cantatrice calva",
+          "ro": "La cantatrice calva",
+          "en": "La cantatrice calva"
+        },
+        "summary": {
+          "de": "Luciano Chaillys Opernfassung von Ionescos \"Anti-Komödie\" kommt in Spoleto mit Marco Angius und Pier Luigi Pizzi auf die Bühne.",
+          "hu": "Luciano Chailly Ionesco-féle \"ellenkomédiájából\" készült operája Marco Angius és Pier Luigi Pizzi közreműködésével érkezik Spolettóba.",
+          "ro": "Opera lui Luciano Chailly după \"anti-comedia\" lui Ionesco ajunge la Spoleto cu Marco Angius și Pier Luigi Pizzi.",
+          "en": "Luciano Chailly's operatic take on Ionesco's anti-comedy comes to Spoleto with Marco Angius and Pier Luigi Pizzi."
+        },
+        "source_url": "https://www.comune.spoleto.pg.it/it/eventi/80a-stagione-lirica-sperimentale-la-cantatrice-calva",
+        "date": "2026-09-03",
+        "end_date": "2026-09-06"
+      },
+      {
+        "title": {
+          "de": "L’elisir d’amore e la Stagione regio",
+          "hu": "L’elisir d’amore e la Stagione regio",
+          "ro": "L’elisir d’amore e la Stagione regio",
+          "en": "L’elisir d’amore e la Stagione regio"
+        },
+        "summary": {
+          "de": "Donizettis komische Oper beschließt die 80. Saison des Teatro Lirico Sperimentale im Teatro Nuovo Gian Carlo Menotti.",
+          "hu": "Donizetti vígoperája a Teatro Nuovo Gian Carlo Menotti színpadán zárja a Teatro Lirico Sperimentale 80. évadát.",
+          "ro": "Opera comică a lui Donizetti închide a 80-a stagiune a Teatro Lirico Sperimentale la Teatro Nuovo Gian Carlo Menotti.",
+          "en": "Donizetti's comic opera closes the 80th Teatro Lirico Sperimentale season at Teatro Nuovo Gian Carlo Menotti."
+        },
+        "source_url": "https://www.comune.spoleto.pg.it/it/eventi/80a-stagione-lirica-sperimentale-lelisir-damore-e-la-stagione-regio",
+        "date": "2026-09-16",
+        "end_date": "2026-09-20"
+      }
+    ]
+  },
+  {
+    "id": "creil",
+    "events": [
+      {
+        "title": {
+          "de": "Creil c'est l'été",
+          "hu": "Creil c'est l'été",
+          "ro": "Creil c'est l'été",
+          "en": "Creil's Summer Festival",
+          "fr": "Creil c'est l'été"
+        },
+        "summary": {
+          "de": "Das städtische Sommerprogramm bietet bis Anfang August täglich kostenlose Sport-, Spiel- und Kulturangebote am Champ de Mars und auf der Île Saint-Maurice.",
+          "hu": "A városi nyári programsorozat augusztus elejéig minden nap ingyenes sport-, játék- és kulturális foglalkozásokat kínál a Champ de Mars-on és az Île Saint-Maurice-on.",
+          "ro": "Programul estival al orașului oferă zilnic până la începutul lui august activități sportive, ludice și culturale gratuite la Champ de Mars și pe Île Saint-Maurice.",
+          "en": "The city's summer programme runs daily into early August with free sports, family and cultural activities at Champ de Mars and Île Saint-Maurice.",
+          "fr": "Le programme estival de la ville propose chaque jour jusqu'au début août des animations gratuites sportives, ludiques et culturelles au Champ de Mars et sur l'île Saint-Maurice."
+        },
+        "source_url": "https://www.creil.fr/agenda/creil-ete-2026",
+        "date": "2026-07-11",
+        "end_date": "2026-08-09"
+      },
+      {
+        "title": {
+          "de": "Ciné Club",
+          "hu": "Ciné Club",
+          "ro": "Ciné Club",
+          "en": "Ciné Club",
+          "fr": "Ciné Club"
+        },
+        "summary": {
+          "de": "Der monatliche Filmclub in La Faïencerie startet im September und verbindet Themenvorführungen mit der Mediathek Antoine Chanut.",
+          "hu": "A La Faïencerie havi filmklubja szeptemberben indul, tematikus vetítésekkel a Médiathèque Antoine Chanut közreműködésével.",
+          "ro": "Clubul de cinema lunar de la La Faïencerie începe în septembrie și propune proiecții tematice împreună cu Médiathèque Antoine Chanut.",
+          "en": "La Faïencerie's monthly film club starts in September, offering themed screenings in partnership with the Antoine Chanut media library.",
+          "fr": "Le ciné-club mensuel de La Faïencerie démarre en septembre avec des séances thématiques en partenariat avec la médiathèque Antoine Chanut."
+        },
+        "source_url": "https://faiencerie-theatre.com/saison-2026-2027/cine-club-26-27",
+        "date": "2026-09-19",
+        "end_date": "2027-05-22",
+        "period": {
+          "recurrent": true
+        }
+      },
+      {
+        "title": {
+          "de": "Alice danse, danse, danse",
+          "hu": "Alice danse, danse, danse",
+          "ro": "Alice danse, danse, danse",
+          "en": "Alice danse, danse, danse",
+          "fr": "Alice danse, danse, danse"
+        },
+        "summary": {
+          "de": "Die Filmvorführung in La Faïencerie begleitet das Bühnenprojekt von Alice Davazoglou und findet in Anwesenheit der Choreografin statt.",
+          "hu": "A La Faïencerie-ben vetített dokumentumfilm Alice Davazoglou színpadi projektjéhez kapcsolódik, és a koreográfus jelenlétében zajlik.",
+          "ro": "Proiecția de la La Faïencerie însoțește proiectul scenic al lui Alice Davazoglou și are loc în prezența coregrafei.",
+          "en": "This screening at La Faïencerie accompanies Alice Davazoglou's stage project and takes place in the choreographer's presence.",
+          "fr": "Cette projection à La Faïencerie accompagne le projet scénique d'Alice Davazoglou et se tient en présence de la chorégraphe."
+        },
+        "source_url": "https://faiencerie-theatre.com/saison-2026-2027/alice-danse-danse-danse",
+        "date": "2026-10-03"
+      },
+      {
+        "title": {
+          "de": "Danser ensemble",
+          "hu": "Danser ensemble",
+          "ro": "Danser ensemble",
+          "en": "Danser ensemble",
+          "fr": "Danser ensemble"
+        },
+        "summary": {
+          "de": "Alice Davazoglous Tanzstück bringt zehn renommierte Choreografen in La Faïencerie zusammen und stellt inklusives künstlerisches Arbeiten in den Mittelpunkt.",
+          "hu": "Alice Davazoglou táncelőadása tíz elismert koreográfust hoz össze a La Faïencerie-ben, és a befogadó alkotást helyezi középpontba.",
+          "ro": "Spectacolul de dans al lui Alice Davazoglou reunește zece coregrafi cunoscuți la La Faïencerie și pune în centru creația incluzivă.",
+          "en": "Alice Davazoglou's dance piece brings ten renowned choreographers together at La Faïencerie, centering inclusive creation.",
+          "fr": "La pièce d'Alice Davazoglou réunit dix chorégraphes reconnus à La Faïencerie et met au premier plan la création inclusive."
+        },
+        "source_url": "https://faiencerie-theatre.com/saison-2026-2027/danser-ensemble",
+        "date": "2026-10-08"
+      }
+    ]
+  },
+  {
+    "id": "cegled",
+    "events": [
+      {
+        "title": {
+          "de": "A KASZKADŐR | KULTUDVAR – Szabadtéri mozi",
+          "hu": "A KASZKADŐR | KULTUDVAR – Szabadtéri mozi",
+          "ro": "A KASZKADŐR | KULTUDVAR – cinema în aer liber",
+          "en": "THE STUNTMAN | KULTUDVAR – Open-Air Cinema"
+        },
+        "summary": {
+          "de": "Im Kulturhof von Cegléd läuft eine sommerliche Freiluft-Kinovorstellung als Teil der offiziellen KULTUDVAR-Reihe.",
+          "hu": "A ceglédi kultúrudvarban a hivatalos KULTUDVAR sorozat részeként nyári szabadtéri filmvetítés várja a közönséget.",
+          "ro": "În curtea culturală din Cegléd are loc o proiecție estivală în aer liber în cadrul seriei oficiale KULTUDVAR.",
+          "en": "Cegléd's cultural courtyard hosts a summer open-air screening as part of the official KULTUDVAR series."
+        },
+        "source_url": "https://www.cegledikultura.hu/events/a-kaszkador-kultudvar-szabadteri-mozi/",
+        "date": "2026-08-05"
+      },
+      {
+        "title": {
+          "de": "Mini Dinoszaurusz Modell és Dioráma kiállítás",
+          "hu": "Mini Dinoszaurusz Modell és Dioráma kiállítás",
+          "ro": "Expoziție de modele și diorame cu mini dinozauri",
+          "en": "Mini Dinosaur Model and Diorama Exhibition"
+        },
+        "summary": {
+          "de": "Diese wiederkehrende Ausstellung präsentiert in Cegléd Mini-Dinosauriermodelle und Dioramen für Familien und neugierige Besucher.",
+          "hu": "Ez az ismétlődő ceglédi kiállítás mini dinoszauruszmodelleket és diorámákat mutat be családoknak és kíváncsi látogatóknak.",
+          "ro": "Această expoziție recurentă din Cegléd prezintă modele și diorame cu mini dinozauri pentru familii și vizitatori curioși.",
+          "en": "This recurring exhibition in Cegléd presents miniature dinosaur models and dioramas for families and curious visitors."
+        },
+        "source_url": "https://www.cegledikultura.hu/events/mini-dinoszaurusz-modell-es-diorama-kiallitas/",
+        "date": "2026-08-08",
+        "period": {
+          "recurrent": true
+        }
+      },
+      {
+        "title": {
+          "de": "MAMMA MIA! | KULTUDVAR – Szabadtéri mozi",
+          "hu": "MAMMA MIA! | KULTUDVAR – Szabadtéri mozi",
+          "ro": "MAMMA MIA! | KULTUDVAR – cinema în aer liber",
+          "en": "MAMMA MIA! | KULTUDVAR – Open-Air Cinema"
+        },
+        "summary": {
+          "de": "Die offizielle Freiluft-Kinoreihe KULTUDVAR bringt den Musikfilm \"Mamma Mia!\" in den Sommerkalender von Cegléd.",
+          "hu": "A hivatalos KULTUDVAR szabadtéri mozisorozat a \"Mamma Mia!\" zenés filmet is elhozza Cegléd nyári programjába.",
+          "ro": "Seria oficială de cinema în aer liber KULTUDVAR aduce musicalul \"Mamma Mia!\" în programul de vară al orașului Cegléd.",
+          "en": "The official KULTUDVAR open-air film series brings the musical \"Mamma Mia!\" into Cegléd's summer programme."
+        },
+        "source_url": "https://www.cegledikultura.hu/events/mamma-mia-kultudvar-szabadteri-mozi/",
+        "date": "2026-08-12"
+      },
+      {
+        "title": {
+          "de": "Áradás projekt lemezbemutató koncert",
+          "hu": "Áradás projekt lemezbemutató koncert",
+          "ro": "Concert de lansare a albumului Áradás projekt",
+          "en": "Áradás Project Album Launch Concert"
+        },
+        "summary": {
+          "de": "Ein offizielles Album-Release-Konzert erweitert das Augustprogramm von Cegléd um einen Live-Musikabend.",
+          "hu": "A hivatalos lemezbemutató koncert élő zenei esttel bővíti Cegléd augusztusi programkínálatát.",
+          "ro": "Concertul oficial de lansare a albumului completează programul din august al orașului Cegléd cu o seară live.",
+          "en": "An official album-launch show adds a live music evening to Cegléd's August calendar."
+        },
+        "source_url": "https://www.cegledikultura.hu/events/aradas-projekt-lemezbemutato-koncert/",
+        "date": "2026-08-13"
+      },
+      {
+        "title": {
+          "de": "ÍGY NEVELD A SÁRKÁNYODAT | KULTUDVAR – Szabadtéri mozi",
+          "hu": "ÍGY NEVELD A SÁRKÁNYODAT | KULTUDVAR – Szabadtéri mozi",
+          "ro": "Îți dresăm dragonul | KULTUDVAR – cinema în aer liber",
+          "en": "How to Train Your Dragon | KULTUDVAR – Open-Air Cinema"
+        },
+        "summary": {
+          "de": "Die Cegléder KULTUDVAR-Reihe setzt den Spätsommer mit einer familienfreundlichen Open-Air-Filmnacht fort.",
+          "hu": "A ceglédi KULTUDVAR sorozat egy családbarát szabadtéri filmesttel folytatja a késő nyári programot.",
+          "ro": "Seria KULTUDVAR din Cegléd continuă sfârșitul verii cu o seară de film în aer liber, potrivită pentru familii.",
+          "en": "Cegléd's KULTUDVAR series continues late summer with a family-friendly open-air movie night."
+        },
+        "source_url": "https://www.cegledikultura.hu/events/igy-neveld-a-sarkanyodat-kultudvar-szabadteri-mozi/",
+        "date": "2026-08-26"
+      }
+    ]
+  },
+  {
+    "id": "vac",
+    "events": [
+      {
+        "title": {
+          "de": "Azért, mert azt mondtam… – Beszédes Henrietta önálló előadása",
+          "hu": "Azért, mert azt mondtam… – Beszédes Henrietta önálló előadása",
+          "ro": "Azért, mert azt mondtam… – spectacol solo de Beszédes Henrietta",
+          "en": "Because I Said So… – Beszédes Henrietta Solo Performance"
+        },
+        "summary": {
+          "de": "Das Madách Imre Művelődési Központ kündigt für Mitte September einen Soloabend von Beszédes Henrietta in Vác an.",
+          "hu": "A Madách Imre Művelődési Központ szeptember közepére Beszédes Henrietta önálló estjét hirdeti meg Vácon.",
+          "ro": "Madách Imre Művelődési Központ anunță pentru mijlocul lui septembrie un spectacol solo susținut de Beszédes Henrietta la Vác.",
+          "en": "The Madách Imre Cultural Centre lists a mid-September solo evening by Beszédes Henrietta in Vác."
+        },
+        "source_url": "https://mimk.hu/esemenyek/azert-mert-azt-mondtam-beszedes-henrietta-onallo-eloadasa/",
+        "date": "2026-09-18"
+      },
+      {
+        "title": {
+          "de": "Cserháti Zsuzsa emlékest – egy díva története",
+          "hu": "Cserháti Zsuzsa emlékest – egy díva története",
+          "ro": "Seară omagială Cserháti Zsuzsa – povestea unei dive",
+          "en": "Cserháti Zsuzsa Memorial Evening – The Story of a Diva"
+        },
+        "summary": {
+          "de": "Ein Erinnerungsabend an Cserháti Zsuzsa gehört zum offiziellen Herbstprogramm des Kulturzentrums in Vác.",
+          "hu": "A Cserháti Zsuzsának emléket állító est a váci művelődési központ hivatalos őszi programjának része.",
+          "ro": "Seara omagială dedicată lui Cserháti Zsuzsa face parte din programul oficial de toamnă al centrului cultural din Vác.",
+          "en": "A tribute evening to Cserháti Zsuzsa is part of the cultural centre's official autumn programme in Vác."
+        },
+        "source_url": "https://mimk.hu/esemenyek/cserhati-est-charlieval/",
+        "date": "2026-09-20"
+      },
+      {
+        "title": {
+          "de": "Kató, a színésznő",
+          "hu": "Kató, a színésznő",
+          "ro": "Kató, actrița",
+          "en": "Kató, the Actress"
+        },
+        "summary": {
+          "de": "Die Produktion \"Kató, a színésznő\" ist als Septembertermin im offiziellen Vác-Programm des MIMK gelistet.",
+          "hu": "A \"Kató, a színésznő\" című előadás szeptemberi időponttal szerepel a MIMK hivatalos váci programjában.",
+          "ro": "Producția \"Kató, a színésznő\" apare în programul oficial al MIMK din Vác cu o dată în septembrie.",
+          "en": "\"Kató, the Actress\" is listed on the MIMK's official Vác programme for late September."
+        },
+        "source_url": "https://mimk.hu/esemenyek/kato-a-szineszno/",
+        "date": "2026-09-25"
+      },
+      {
+        "title": {
+          "de": "Műhelylátogatás – Mácsai Pál estje",
+          "hu": "Műhelylátogatás – Mácsai Pál estje",
+          "ro": "Vizită de atelier – seara lui Mácsai Pál",
+          "en": "Workshop Visit – An Evening with Pál Mácsai"
+        },
+        "summary": {
+          "de": "Anfang Oktober bringt das MIMK einen Abend mit Pál Mácsai in sein offizielles Veranstaltungsprogramm in Vác.",
+          "hu": "Október elején a MIMK hivatalos váci programjában Mácsai Pál estje is szerepel.",
+          "ro": "La început de octombrie, programul oficial MIMK din Vác include și o seară cu Pál Mácsai.",
+          "en": "In early October, the MIMK's official Vác programme includes an evening with Pál Mácsai."
+        },
+        "source_url": "https://mimk.hu/esemenyek/muhelylatogatas-macsai-pal-estje/",
+        "date": "2026-10-02"
+      },
+      {
+        "title": {
+          "de": "Beck Zoltán – Vecsei H. Miklós: Kártyajáték",
+          "hu": "Beck Zoltán – Vecsei H. Miklós: Kártyajáték",
+          "ro": "Beck Zoltán – Vecsei H. Miklós: Kártyajáték",
+          "en": "Beck Zoltán – Vecsei H. Miklós: Card Game"
+        },
+        "summary": {
+          "de": "Das Spätherbstprogramm des MIMK kündigt in Vác einen gemeinsamen Bühnenabend von Beck Zoltán und Vecsei H. Miklós an.",
+          "hu": "A MIMK késő őszi programja Vácon Beck Zoltán és Vecsei H. Miklós közös színpadi estjét hirdeti meg.",
+          "ro": "Programul de toamnă târzie al MIMK anunță la Vác o seară scenică comună cu Beck Zoltán și Vecsei H. Miklós.",
+          "en": "The MIMK's late-autumn programme in Vác announces a joint stage evening with Beck Zoltán and Vecsei H. Miklós."
+        },
+        "source_url": "https://mimk.hu/esemenyek/beck-zoltan-vecsei-h-miklos-kartyajatek/",
+        "date": "2026-11-18"
+      }
+    ]
+  },
+  {
+    "id": "vierzon",
+    "events": [
+      {
+        "title": {
+          "de": "Cap'O'Monde",
+          "hu": "Cap'O'Monde",
+          "ro": "Cap'O'Monde",
+          "en": "Cap'O'Monde",
+          "fr": "Cap'O'Monde"
+        },
+        "summary": {
+          "de": "Das Sommerwochenende in Vierzon kombiniert Straßentheater, Musik, Nachtshow und Familienanimationen im Jardin de l'Abbaye und auf der Place Fernand Micouraud.",
+          "hu": "A vierzoni nyári hétvége utcaszínházat, zenét, éjszakai látványshow-t és családi programokat kínál a Jardin de l'Abbaye és a Place Fernand Micouraud helyszínein.",
+          "ro": "Weekendul de vară din Vierzon combină teatru stradal, muzică, spectacol nocturn și animații pentru familii în Jardin de l'Abbaye și Place Fernand Micouraud.",
+          "en": "This summer weekend in Vierzon combines street theatre, music, a night show and family activities at Jardin de l'Abbaye and Place Fernand Micouraud.",
+          "fr": "Ce week-end d'été à Vierzon mêle théâtre de rue, musique, spectacle nocturne et animations familiales au jardin de l'Abbaye et place Fernand Micouraud."
+        },
+        "source_url": "https://www.ville-vierzon.fr/evenement/caoomonde.html",
+        "date": "2026-07-25",
+        "end_date": "2026-07-26"
+      },
+      {
+        "title": {
+          "de": "Marine Leonardi",
+          "hu": "Marine Leonardi",
+          "ro": "Marine Leonardi",
+          "en": "Marine Leonardi",
+          "fr": "Marine Leonardi"
+        },
+        "summary": {
+          "de": "Die Komikerin bringt ihr Programm \"Mauvaise graine\" im November in das Théâtre Mac-Nab in Vierzon.",
+          "hu": "A humorista novemberben a \"Mauvaise graine\" című előadását hozza el a vierzoni Théâtre Mac-Nab színpadára.",
+          "ro": "Comediana aduce în noiembrie spectacolul \"Mauvaise graine\" pe scena Théâtre Mac-Nab din Vierzon.",
+          "en": "The comedian brings her show \"Mauvaise graine\" to Vierzon's Théâtre Mac-Nab in November.",
+          "fr": "L'humoriste présente son spectacle \"Mauvaise graine\" au Théâtre Mac-Nab de Vierzon en novembre."
+        },
+        "source_url": "https://www.ville-vierzon.fr/evenement/marine-leonardi.html",
+        "date": "2026-11-07"
+      },
+      {
+        "title": {
+          "de": "Hervé Vilard",
+          "hu": "Hervé Vilard",
+          "ro": "Hervé Vilard",
+          "en": "Hervé Vilard",
+          "fr": "Hervé Vilard"
+        },
+        "summary": {
+          "de": "Hervé Vilard gastiert Ende November mit \"Avec les siens\" im Théâtre Mac-Nab.",
+          "hu": "Hervé Vilard november végén az \"Avec les siens\" műsorral lép fel a Théâtre Mac-Nab-ban.",
+          "ro": "Hervé Vilard urcă la final de noiembrie pe scena Théâtre Mac-Nab cu spectacolul \"Avec les siens\".",
+          "en": "Hervé Vilard appears at Théâtre Mac-Nab in late November with \"Avec les siens\".",
+          "fr": "Hervé Vilard se produit fin novembre au Théâtre Mac-Nab avec \"Avec les siens\"."
+        },
+        "source_url": "https://www.ville-vierzon.fr/evenement/herve-vilard.html",
+        "date": "2026-11-29"
+      },
+      {
+        "title": {
+          "de": "Sam en Foire",
+          "hu": "Sam en Foire",
+          "ro": "Sam en Foire",
+          "en": "Sam en Foire",
+          "fr": "Sam en Foire"
+        },
+        "summary": {
+          "de": "Das solidarische Musikprojekt zugunsten der Restos du Cœur füllt kurz vor Weihnachten das Théâtre Mac-Nab mit Gesang, Tanz und Benefizstimmung.",
+          "hu": "A Restos du Cœur javára szervezett jótékonysági zenei produkció karácsony előtt énekkel, tánccal és közösségi hangulattal tölti meg a Théâtre Mac-Nab-ot.",
+          "ro": "Proiectul muzical caritabil pentru Restos du Cœur aduce înainte de Crăciun cântec, dans și solidaritate la Théâtre Mac-Nab.",
+          "en": "This solidarity music show for Restos du Cœur brings songs, dancing and a charity spirit to Théâtre Mac-Nab just before Christmas.",
+          "fr": "Ce spectacle musical solidaire au profit des Restos du Cœur fait vivre le Théâtre Mac-Nab juste avant Noël avec chansons, danse et esprit caritatif."
+        },
+        "source_url": "https://www.ville-vierzon.fr/evenement/sam-en-foire-2472.html",
+        "date": "2026-12-19"
+      },
+      {
+        "title": {
+          "de": "66e Paris-Chalette-Vierzon",
+          "hu": "66e Paris-Chalette-Vierzon",
+          "ro": "66e Paris-Chalette-Vierzon",
+          "en": "66th Paris-Chalette-Vierzon",
+          "fr": "66e Paris-Chalette-Vierzon"
+        },
+        "summary": {
+          "de": "Das nationale Elite-Radrennen endet am Nachmittag mit dem Zieleinlauf der 66. Ausgabe in Vierzon.",
+          "hu": "Az országos elit országúti kerékpárverseny 66. kiadása délutáni befutóval ér véget Vierzonban.",
+          "ro": "Cursa ciclistă națională de elită se încheie după-amiaza, odată cu sosirea celei de-a 66-a ediții la Vierzon.",
+          "en": "The national elite cycling race concludes in the afternoon with the finish of its 66th edition in Vierzon.",
+          "fr": "La course cycliste nationale Élite s'achève dans l'après-midi avec l'arrivée de sa 66e édition à Vierzon."
+        },
+        "source_url": "https://www.ville-vierzon.fr/evenement/id-64e-paris-chalette-vierzon.html",
+        "date": "2026-09-27"
+      }
+    ]
+  }
+]

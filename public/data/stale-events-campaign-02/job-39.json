@@ -1,0 +1,342 @@
+[
+  {
+    "id": "aurillac",
+    "events": [
+      {
+        "title": {
+          "de": "Festival International de Théâtre de Rue d’Aurillac",
+          "hu": "Aurillac Nemzetközi Utcaszínházi Fesztivál",
+          "ro": "Festivalul Internațional de Teatru de Stradă din Aurillac",
+          "en": "Aurillac International Street Theatre Festival",
+          "fr": "Festival international de théâtre de rue d’Aurillac"
+        },
+        "summary": {
+          "de": "Die 39. Ausgabe von Aurillacs großem Sommerfestival bringt vier Tage Straßentheater in die Stadt und wird von zusätzlichen Veranstaltungen von Champ libre! begleitet.",
+          "hu": "A város 39. nagy nyári fesztiválja négy napon át utcai színházzal tölti meg Aurillac utcáit, a Champ libre! kísérőprogramjaival együtt.",
+          "ro": "A 39-a ediție a marelui festival de vară al orașului aduce patru zile de teatru de stradă în Aurillac, împreună cu programul asociat Champ libre!. ",
+          "en": "The 39th edition of Aurillac’s flagship summer festival brings four days of street theatre across the city, alongside the related Champ libre! program.",
+          "fr": "La 39e édition du grand festival d’été d’Aurillac propose quatre jours de théâtre de rue dans toute la ville, avec le programme associé Champ libre !"
+        },
+        "date": "2026-08-19",
+        "end_date": "2026-08-22",
+        "category": "Festival",
+        "source_url": "https://www.aurillac.fr/festival-aurillac/"
+      },
+      {
+        "title": {
+          "de": "FEU! CHATTERTON",
+          "hu": "FEU! CHATTERTON",
+          "ro": "FEU! CHATTERTON",
+          "en": "FEU! CHATTERTON",
+          "fr": "FEU! CHATTERTON"
+        },
+        "summary": {
+          "de": "Die französische Band bringt ihre Tour zum neuen Album „Labyrinthe“ in den Veranstaltungsort Le Prisme in Aurillac.",
+          "hu": "A francia zenekar a „Labyrinthe” album turnéjával érkezik az aurillac-i Le Prisme helyszínre.",
+          "ro": "Trupa franceză aduce turneul noului album „Labyrinthe” la sala Le Prisme din Aurillac.",
+          "en": "The French band brings its tour for the new album “Labyrinthe” to Le Prisme in Aurillac.",
+          "fr": "Le groupe français passe au Prisme d’Aurillac avec la tournée de son nouvel album « Labyrinthe »."
+        },
+        "date": "2026-11-18",
+        "category": "Music",
+        "source_url": "https://www.aurillaccongres.com/event/the-music-of-han-zimmer/"
+      },
+      {
+        "title": {
+          "de": "MARINE",
+          "hu": "MARINE",
+          "ro": "MARINE",
+          "en": "MARINE",
+          "fr": "MARINE"
+        },
+        "summary": {
+          "de": "Die Singer-Songwriterin Marine kommt im Dezember für einen Abend im Le Prisme nach Aurillac.",
+          "hu": "Marine decemberben egy esti koncertre érkezik Aurillac-ba, a Le Prisme helyszínre.",
+          "ro": "Cantautoarea Marine vine la Aurillac în decembrie pentru un concert la Le Prisme.",
+          "en": "Singer-songwriter Marine visits Aurillac in December for an evening show at Le Prisme.",
+          "fr": "L’autrice-compositrice-interprète Marine se produit en décembre au Prisme à Aurillac."
+        },
+        "date": "2026-12-04",
+        "category": "Music",
+        "source_url": "https://www.aurillaccongres.com/event/marine/"
+      }
+    ]
+  },
+  {
+    "id": "mazarron",
+    "events": [
+      {
+        "title": {
+          "de": "Touristisches Sommerprogramm 2026: August in Mazarrón",
+          "hu": "2026-os turisztikai nyári program: augusztus Mazarrónban",
+          "ro": "Program turistic de vară 2026: august în Mazarrón",
+          "en": "Summer Tourism Program 2026: August in Mazarrón"
+        },
+        "summary": {
+          "de": "Das Tourismusamt bündelt im August geführte Wanderungen, Kulturbesuche, Open-Air-Kino, Familienanimation und Strandaktivitäten an mehreren Orten im Gemeindegebiet.",
+          "hu": "A turisztikai hivatal augusztusban vezetett túrákat, kulturális látogatásokat, szabadtéri mozit, családi animációt és strandprogramokat kínál több helyszínen.",
+          "ro": "Biroul de turism reunește în august drumeții ghidate, vizite culturale, cinema în aer liber, animație pentru familii și activități pe plajă în mai multe locuri din municipiu.",
+          "en": "The tourism office combines guided hikes, cultural visits, open-air cinema, family activities, and beach sessions across multiple locations during August."
+        },
+        "date": "2026-08-01",
+        "end_date": "2026-08-31",
+        "category": "Festival",
+        "source_url": "https://www.turismoregiondemurcia.es/es/evento/programacion-turistica-verano-2026.-agosto-en-mazarron-M447175/"
+      },
+      {
+        "title": {
+          "de": "Mares de Papel 2026 VII Edición",
+          "hu": "Mares de Papel 2026, 7. kiadás",
+          "ro": "Mares de Papel 2026, ediția a VII-a",
+          "en": "Mares de Papel 2026, 7th Edition"
+        },
+        "summary": {
+          "de": "Das Sommerfestival im Complejo Deportivo de Mazarrón läuft fast sieben Wochen lang mit Konzerten, Tributes, Musicals und Shows.",
+          "hu": "A Complejo Deportivo de Mazarrón nyári fesztiválja közel hét héten át kínál koncerteket, tribute műsorokat, musicaleket és show-kat.",
+          "ro": "Festivalul de vară de la Complejo Deportivo de Mazarrón se desfășoară aproape șapte săptămâni, cu concerte, tribute-uri, musicaluri și show-uri.",
+          "en": "The summer festival at the Complejo Deportivo de Mazarrón runs for nearly seven weeks with concerts, tribute shows, musicals, and entertainment."
+        },
+        "date": "2026-07-11",
+        "end_date": "2026-08-29",
+        "category": "Festival",
+        "source_url": "https://www.turismoregiondemurcia.es/es/evento/-mares-de-papel-2026-vii-edicion-M446334/"
+      },
+      {
+        "title": {
+          "de": "MAZAROCK",
+          "hu": "MAZAROCK",
+          "ro": "MAZAROCK",
+          "en": "MAZAROCK"
+        },
+        "summary": {
+          "de": "Das Rockevent kehrt nach 43 Jahren nach Mazarrón zurück und versammelt unter anderem Mägo de Oz, Medina Azahara, Barón Rojo und Obús im Rahmen von Mares de Papel.",
+          "hu": "A rockesemény 43 év után tér vissza Mazarrónba, és a Mares de Papel keretében többek között a Mägo de Oz, a Medina Azahara, a Barón Rojo és az Obús is fellép.",
+          "ro": "Evenimentul rock revine la Mazarrón după 43 de ani și îi aduce, în cadrul Mares de Papel, printre alții pe Mägo de Oz, Medina Azahara, Barón Rojo și Obús.",
+          "en": "The rock event returns to Mazarrón after 43 years, bringing acts including Mägo de Oz, Medina Azahara, Barón Rojo, and Obús within Mares de Papel."
+        },
+        "date": "2026-07-31",
+        "category": "Music",
+        "source_url": "https://www.turismoregiondemurcia.es/es/evento/mazarock--M445978/"
+      },
+      {
+        "title": {
+          "de": "Supervivencia Fílmica 2026",
+          "hu": "Supervivencia Fílmica 2026",
+          "ro": "Supervivencia Fílmica 2026",
+          "en": "Supervivencia Fílmica 2026"
+        },
+        "summary": {
+          "de": "Mehrere Orte in Mazarrón werden Anfang September erneut Schauplatz dieser filmbezogenen Herausforderung.",
+          "hu": "Szeptember elején Mazarrón több helyszíne ismét ennek a filmes kihívásnak ad otthont.",
+          "ro": "La începutul lui septembrie, mai multe locuri din Mazarrón găzduiesc din nou această provocare dedicată filmului.",
+          "en": "Multiple locations in Mazarrón host this film-focused challenge again at the start of September."
+        },
+        "date": "2026-09-04",
+        "end_date": "2026-09-06",
+        "category": "Film",
+        "source_url": "https://www.turismoregiondemurcia.es/es/evento/supervivencia-filmica-en-2026-M446983/"
+      }
+    ]
+  },
+  {
+    "id": "city-dorohoi-extra",
+    "events": [
+      {
+        "title": {
+          "de": "Festival der handwerklichen Traditionen",
+          "hu": "Kézműves hagyományok fesztiválja",
+          "ro": "Festivalul tradițiilor meșteșugărești",
+          "en": "Festival of Craft Traditions"
+        },
+        "summary": {
+          "de": "Die Stadt Dorohoi führt dieses mehrtägige Traditionsfestival in ihren offiziellen Unterlagen als repräsentatives jährliches Ereignis Ende August.",
+          "hu": "Dorohoi városa ezt a többnapos hagyományőrző fesztivált hivatalos dokumentumaiban augusztus végi, reprezentatív éves eseményként sorolja fel.",
+          "ro": "Municipiul Dorohoi include acest festival de tradiții și meșteșuguri, desfășurat pe mai multe zile, între evenimentele sale anuale reprezentative de la sfârșitul lui august.",
+          "en": "The municipality of Dorohoi lists this multi-day traditions and crafts festival among its representative annual events at the end of August."
+        },
+        "date": "2026-08-27",
+        "end_date": "2026-08-29",
+        "category": "Festival",
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.primariadorohoi.ro/files/2025/SIDU2025/SIDU%20Dorohoi%20rev%20aprilie%202025.pdf"
+      },
+      {
+        "title": {
+          "de": "Tage der Stadt Dorohoi",
+          "hu": "Dorohoi városnapok",
+          "ro": "Zilele municipiului Dorohoi",
+          "en": "Days of the Municipality of Dorohoi"
+        },
+        "summary": {
+          "de": "Dorohoi führt seine Stadttage in den offiziellen kommunalen Planungsunterlagen als wiederkehrendes Ereignis über drei Tage von Ende September bis Anfang Oktober.",
+          "hu": "A város a hivatalos önkormányzati tervezési dokumentumokban visszatérő, háromnapos eseményként szerepelteti a városnapokat szeptember vége és október eleje között.",
+          "ro": "Dorohoi își include zilele orașului în documentele oficiale de planificare ca eveniment recurent de trei zile, de la sfârșitul lui septembrie până la începutul lui octombrie.",
+          "en": "Dorohoi includes its city days in official municipal planning documents as a recurring three-day event from late September into early October."
+        },
+        "date": "2026-09-30",
+        "end_date": "2026-10-02",
+        "category": "Festival",
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.primariadorohoi.ro/files/2025/SIDU2025/SIDU%20Dorohoi%20rev%20aprilie%202025.pdf"
+      },
+      {
+        "title": {
+          "de": "Internationales Volksmusikfestival „Mugurelul“",
+          "hu": "„Mugurelul” nemzetközi népzenei fesztivál",
+          "ro": "Festivalul internațional de muzică populară „Mugurelul”",
+          "en": "“Mugurelul” International Folk Music Festival"
+        },
+        "summary": {
+          "de": "Das Volksmusikfestival „Mugurelul“ erscheint in den offiziellen Dorohoier Unterlagen als jährliches Referenzereignis mit Partnerschaft des Clubul Copiilor Dorohoi.",
+          "hu": "A „Mugurelul” népzenei fesztivál Dorohoi hivatalos dokumentumaiban éves kiemelt eseményként szerepel, a Clubul Copiilor Dorohoi partnerségével.",
+          "ro": "Festivalul de muzică populară „Mugurelul” apare în documentele oficiale ale Dorohoiului ca eveniment anual de referință, în parteneriat cu Clubul Copiilor Dorohoi.",
+          "en": "The “Mugurelul” folk music festival appears in Dorohoi’s official documents as an annual reference event, organized in partnership with Clubul Copiilor Dorohoi."
+        },
+        "date": "2026-06-22",
+        "end_date": "2026-06-23",
+        "category": "Music",
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.primariadorohoi.ro/files/2025/SIDU2025/SIDU%20Dorohoi%20rev%20aprilie%202025.pdf"
+      }
+    ]
+  },
+  {
+    "id": "city-fagaras-extra",
+    "events": [
+      {
+        "title": {
+          "de": "Făgăraș Rocks! 2026",
+          "hu": "Făgăraș Rocks! 2026",
+          "ro": "Făgăraș Rocks! 2026",
+          "en": "Făgăraș Rocks! 2026"
+        },
+        "summary": {
+          "de": "Das viertägige Berglauf- und Outdoorfestival läuft Ende Juli und Anfang August mit Basecamp in Berivoi und einem detaillierten offiziellen Programm.",
+          "hu": "A négynapos hegyifutó és outdoor fesztivál július végén és augusztus elején zajlik, berivoi bázistáborral és részletes hivatalos programmal.",
+          "ro": "Festivalul de alergare montană și outdoor are loc pe durata a patru zile, la final de iulie și început de august, cu tabără de bază la Berivoi și program oficial detaliat.",
+          "en": "This four-day mountain running and outdoor festival takes place in late July and early August, with its base camp at Berivoi and a detailed official program."
+        },
+        "date": "2026-07-30",
+        "end_date": "2026-08-02",
+        "category": "Sports",
+        "source_url": "https://fagarasrocks.ro/info-program/"
+      },
+      {
+        "title": {
+          "de": "Festivalul Medieval MEDFEST Făgăraș",
+          "hu": "MEDFEST középkori fesztivál, Fogaras",
+          "ro": "Festivalul Medieval MEDFEST Făgăraș",
+          "en": "MEDFEST Medieval Festival, Făgăraș"
+        },
+        "summary": {
+          "de": "Der offizielle Veranstaltungskalender der Stadt kündigt MEDFEST mit Ritterorden, Musik alter Zeiten, mittelalterlichem Theater und Kreativworkshops an.",
+          "hu": "A város hivatalos rendezvénynaptára a MEDFEST-et lovagrendekkel, régi zenével, középkori színházzal és alkotóműhelyekkel hirdeti meg.",
+          "ro": "Calendarul oficial al orașului anunță MEDFEST cu ordine cavalerești, concerte de muzică veche, teatru medieval și ateliere de creație.",
+          "en": "The city’s official events calendar presents MEDFEST with knightly orders, early-music concerts, medieval theatre, and creative workshops."
+        },
+        "date": "2026-08-28",
+        "end_date": "2026-08-30",
+        "category": "Festival",
+        "source_url": "https://www.primaria-fagaras.ro/mb/pdf/SKM_C257i26052213080.pdf"
+      },
+      {
+        "title": {
+          "de": "Europäische Mobilitätswoche",
+          "hu": "Európai Mobilitási Hét",
+          "ro": "Săptămâna Mobilității Europene",
+          "en": "European Mobility Week"
+        },
+        "summary": {
+          "de": "Der offizielle Veranstaltungskalender von Făgăraș setzt die Europäische Mobilitätswoche Ende September über acht Tage an.",
+          "hu": "Făgăraș hivatalos rendezvénynaptára szeptember végére, nyolcnapos időszakra ütemezi az Európai Mobilitási Hetet.",
+          "ro": "Calendarul oficial de evenimente al Făgărașului programează Săptămâna Mobilității Europene pe durata a opt zile la final de septembrie.",
+          "en": "Făgăraș’s official event calendar schedules European Mobility Week across eight days at the end of September."
+        },
+        "date": "2026-09-23",
+        "end_date": "2026-09-30",
+        "category": "Community",
+        "source_url": "https://www.primaria-fagaras.ro/mb/pdf/SKM_C257i26052911060.pdf"
+      }
+    ]
+  },
+  {
+    "id": "arcos-de-la-frontera",
+    "events": [
+      {
+        "title": {
+          "de": "Los Veranos Son de CulturArcos",
+          "hu": "Los Veranos Son de CulturArcos",
+          "ro": "Los Veranos Son de CulturArcos",
+          "en": "Los Veranos Son de CulturArcos"
+        },
+        "summary": {
+          "de": "Das Kulturprogramm zur Velada de las Nieves läuft im historischen Zentrum von Arcos über mehrere Sommerabende.",
+          "hu": "A Velada de las Nieves kulturális programsorozata több nyári estén át zajlik Arcos történelmi központjában.",
+          "ro": "Programul cultural al Veladei de las Nieves se desfășoară în centrul istoric din Arcos pe parcursul mai multor seri de vară.",
+          "en": "This cultural program tied to the Velada de las Nieves runs across several summer evenings in Arcos’s old town."
+        },
+        "date": "2026-07-31",
+        "end_date": "2026-08-05",
+        "category": "Festival",
+        "source_url": "https://www.turismoarcos.es/events/los-veranos-son-de-culturarcos-3/"
+      },
+      {
+        "title": {
+          "de": "Gipsy Kings",
+          "hu": "Gipsy Kings",
+          "ro": "Gipsy Kings",
+          "en": "Gipsy Kings"
+        },
+        "summary": {
+          "de": "Die legendäre Gruppe spielt im Rahmen der Velada Virgen de las Nieves auf der Plaza del Cabildo.",
+          "hu": "A legendás együttes a Velada Virgen de las Nieves programjában lép fel a Plaza del Cabildón.",
+          "ro": "Trupa legendară concertează în cadrul Veladei Virgen de las Nieves în Plaza del Cabildo.",
+          "en": "The legendary group performs on Plaza del Cabildo as part of the Velada Virgen de las Nieves."
+        },
+        "date": "2026-08-08",
+        "category": "Music",
+        "source_url": "https://www.turismoarcos.es/events/gipsy-kings/"
+      },
+      {
+        "title": {
+          "de": "Verano con Humor",
+          "hu": "Verano con Humor",
+          "ro": "Verano con Humor",
+          "en": "Summer with Humor"
+        },
+        "summary": {
+          "de": "Der Sommerabend mit Comedy findet in der Venta Junta de los Ríos statt.",
+          "hu": "A nyári humoros estnek a Venta Junta de los Ríos ad otthont.",
+          "ro": "Seara de comedie de vară are loc la Venta Junta de los Ríos.",
+          "en": "This summer comedy night takes place at Venta Junta de los Ríos."
+        },
+        "date": "2026-08-15",
+        "category": "Comedy",
+        "source_url": "https://www.turismoarcos.es/events/verano-con-humor-2/"
+      },
+      {
+        "title": {
+          "de": "Los Veranos Son de CulturArcos: Noche de las Velas",
+          "hu": "Los Veranos Son de CulturArcos: Noche de las Velas",
+          "ro": "Los Veranos Son de CulturArcos: Noche de las Velas",
+          "en": "Los Veranos Son de CulturArcos: Night of Candles"
+        },
+        "summary": {
+          "de": "Die Noche de las Velas ist als besonderer Abend des Sommer-Kulturprogramms im historischen Zentrum angesetzt.",
+          "hu": "A Noche de las Velas a nyári kulturális program különleges estjeként szerepel az óvárosban.",
+          "ro": "Noche de las Velas este programată ca o seară specială a programului cultural de vară în centrul vechi.",
+          "en": "The Night of Candles is scheduled as a special evening within the summer cultural program in the old quarter."
+        },
+        "date": "2026-08-22",
+        "category": "Festival",
+        "source_url": "https://www.turismoarcos.es/events/los-veranos-son-de-culturarcos-4/"
+      }
+    ]
+  }
+]

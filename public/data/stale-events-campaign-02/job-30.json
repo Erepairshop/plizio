@@ -1,0 +1,414 @@
+[
+  {
+    "id": "saint-raphael",
+    "events": [
+      {
+        "date": "2026-07-27",
+        "title": {
+          "de": "Fantomas",
+          "hu": "Fantomas",
+          "ro": "Fantomas",
+          "en": "Fantomas",
+          "fr": "Fantômas"
+        },
+        "summary": {
+          "de": "Das Sommerprogramm der Stadt zeigt den Film \"Fantomas\" als Open-Air-Kinoabend am Strand von Le Dramont.",
+          "hu": "A város nyári programja a \"Fantomas\" című filmet szabadtéri mozivetítésként mutatja be a Le Dramont strandon.",
+          "ro": "Programul de vară al orașului proiectează filmul „Fantomas” într-o seară de cinema în aer liber pe plaja Le Dramont.",
+          "en": "The city's summer program screens \"Fantomas\" as an open-air movie night on Le Dramont beach.",
+          "fr": "Le programme d'été de la Ville propose le film « Fantômas » en séance de cinéma en plein air sur la plage du Dramont."
+        },
+        "source_url": "https://www.ville-saintraphael.fr/fileadmin/PUBLICATIONS/DAC/Agenda_%C3%A9t%C3%A9_2026_couv_A4.pdf"
+      },
+      {
+        "date": "2026-08-01",
+        "end_date": "2026-08-03",
+        "title": {
+          "de": "Fête de la Saint-Pierre",
+          "hu": "Szent Péter-ünnep",
+          "ro": "Sărbătoarea Sfântului Petru",
+          "en": "Saint Peter Festival",
+          "fr": "Fête de la Saint-Pierre"
+        },
+        "summary": {
+          "de": "Drei Tage mit provenzalischem Dorf, Konzerten, Meeresprozession, Sardinenfest und Aktivitäten rund um das maritime Erbe von Saint-Raphaël.",
+          "hu": "Háromnapos ünnep provanszál faluval, koncertekkel, tengeri körmenettel, szardíniás mulatsággal és a helyi tengeri örökséghez kapcsolódó programokkal.",
+          "ro": "Trei zile de festivități cu sat provensal, concerte, procesiune pe mare, sardinadă și activități dedicate patrimoniului maritim al orașului.",
+          "en": "This three-day celebration features a Provençal village, concerts, a sea procession, a sardine feast, and activities tied to Saint-Raphaël's maritime heritage.",
+          "fr": "Trois jours d'animations avec village provençal, concerts, procession en mer, sardinade et rendez-vous autour du patrimoine maritime raphaëlois."
+        },
+        "source_url": "https://www.ville-saintraphael.fr/fileadmin/PUBLICATIONS/DAC/Agenda_%C3%A9t%C3%A9_2026_couv_A4.pdf"
+      },
+      {
+        "date": "2026-08-17",
+        "end_date": "2026-08-19",
+        "title": {
+          "de": "Mômes en Fête 2026",
+          "hu": "Mômes en Fête 2026",
+          "ro": "Mômes en Fête 2026",
+          "en": "Mômes en Fête 2026",
+          "fr": "Mômes en Fête 2026"
+        },
+        "summary": {
+          "de": "Das Kinderfestival der Stadt bietet an drei Tagen durchgehende Animationen und Familienaktivitäten im Sommerprogramm von Saint-Raphaël.",
+          "hu": "A városi gyerekfesztivál három napon át folyamatos programokat és családi foglalkozásokat kínál Saint-Raphaël nyári szezonjában.",
+          "ro": "Festivalul pentru copii al orașului propune timp de trei zile animații continue și activități pentru familii în cadrul verii din Saint-Raphaël.",
+          "en": "The city's children's festival runs for three days with continuous entertainment and family activities as part of Saint-Raphaël's summer season.",
+          "fr": "Le festival jeunesse de la Ville propose trois jours d'animations continues et d'activités familiales pendant l'été raphaëlois."
+        },
+        "source_url": "https://www.ville-saintraphael.fr/information-transversale/actualites/appel-a-candidatures-rejoignez-momes-en-fete-2026-13342"
+      },
+      {
+        "date": "2026-09-13",
+        "title": {
+          "de": "Sommerlicher Nachtmarkt",
+          "hu": "Nyári esti piac",
+          "ro": "Piață nocturnă de vară",
+          "en": "Summer Night Market",
+          "fr": "Marché nocturne estival"
+        },
+        "summary": {
+          "de": "Der kommunale Nachtmarkt an der Promenade de Lattre de Tassigny bringt im Sommer Kunsthandwerk, Malerei und Abendbummel ans Meer.",
+          "hu": "A Promenade de Lattre de Tassigny sétányon rendezett önkormányzati esti piac kézműves termékeket, festőket és tengerparti esti hangulatot kínál.",
+          "ro": "Piața nocturnă organizată de comună pe Promenade de Lattre de Tassigny aduce artizanat, pictori și plimbări de seară pe malul mării.",
+          "en": "The municipal night market on the Promenade de Lattre de Tassigny brings crafts, painters, and evening seaside strolling throughout the summer.",
+          "fr": "Le marché nocturne communal sur la promenade de Lattre de Tassigny réunit artisanat, artistes-peintres et promenade en bord de mer tout l'été."
+        },
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.ville-saintraphael.fr/utile/economie/commerce-et-artisanat/les-marches"
+      }
+    ]
+  },
+  {
+    "id": "cherbourg-octeville",
+    "events": [
+      {
+        "date": "2026-08-19",
+        "title": {
+          "de": "Les Parasols im Stadtzentrum",
+          "hu": "Les Parasols a belvárosban",
+          "ro": "Les Parasols în centrul orașului",
+          "en": "Les Parasols in the town center",
+          "fr": "Les Parasols en centre-ville"
+        },
+        "summary": {
+          "de": "Die kostenlose Sommerreihe bietet familienfreundliche Spiele und Kreativangebote an wechselnden Orten in Cherbourg-en-Cotentin.",
+          "hu": "Az ingyenes nyári programsorozat családbarát játékokat és kreatív foglalkozásokat kínál Cherbourg-en-Cotentin több helyszínén.",
+          "ro": "Seria gratuită de vară propune jocuri și ateliere creative pentru familii în mai multe locuri din Cherbourg-en-Cotentin.",
+          "en": "This free summer series offers family games and creative activities at rotating locations across Cherbourg-en-Cotentin.",
+          "fr": "Cette série estivale gratuite propose jeux et ateliers créatifs pour les familles dans différents lieux de Cherbourg-en-Cotentin."
+        },
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.cherbourg.fr/agendas-et-actus/agenda/evenement/les-parasols-en-centre-ville/"
+      },
+      {
+        "date": "2026-06-06",
+        "end_date": "2026-09-20",
+        "title": {
+          "de": "Ausstellung \"Le voyage des arts modestes\"",
+          "hu": "\"Le voyage des arts modestes\" kiállítás",
+          "ro": "Expoziția „Le voyage des arts modestes”",
+          "en": "Exhibition \"Le voyage des arts modestes\"",
+          "fr": "Exposition « Le voyage des arts modestes »"
+        },
+        "summary": {
+          "de": "Im Château des Ravalet zeigt Cherbourg-en-Cotentin eine große Ausstellung mit den Sammlungen des Musée International des Arts Modestes.",
+          "hu": "A Château des Ravalet kastélyban Cherbourg-en-Cotentin a Musée International des Arts Modestes gyűjteményeiből rendez nagyszabású kiállítást.",
+          "ro": "La Château des Ravalet, Cherbourg-en-Cotentin prezintă o amplă expoziție din colecțiile Musée International des Arts Modestes.",
+          "en": "At Château des Ravalet, Cherbourg-en-Cotentin is presenting a large exhibition from the collections of the Musée International des Arts Modestes.",
+          "fr": "Au château des Ravalet, Cherbourg-en-Cotentin présente une grande exposition issue des collections du Musée International des Arts Modestes."
+        },
+        "source_url": "https://www.cherbourg.fr/agendas-et-actus/agenda/evenement/exposition-le-voyage-des-arts-modestes/"
+      },
+      {
+        "date": "2026-08-23",
+        "title": {
+          "de": "Kommentierte Führung zu \"Le voyage des arts modestes\"",
+          "hu": "\"Le voyage des arts modestes\" tárlatvezetés",
+          "ro": "Vizită ghidată la „Le voyage des arts modestes”",
+          "en": "Guided tour of \"Le voyage des arts modestes\"",
+          "fr": "Visite commentée de « Le voyage des arts modestes »"
+        },
+        "summary": {
+          "de": "Eine kommentierte Sommerführung im Château des Ravalet erschließt die Ausstellung über die Sammlungen des MIAM.",
+          "hu": "A Château des Ravalet nyári tárlatvezetése a MIAM gyűjteményeire épülő kiállítást mutatja be részletesen.",
+          "ro": "O vizită ghidată de vară la Château des Ravalet prezintă în detaliu expoziția dedicată colecțiilor MIAM.",
+          "en": "This summer guided visit at Château des Ravalet explores the exhibition built around the MIAM collections.",
+          "fr": "Cette visite commentée estivale au château des Ravalet permet de découvrir l'exposition consacrée aux collections du MIAM."
+        },
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.cherbourg.fr/agendas-et-actus/agenda/evenement/exposition-le-voyage-des-arts-modestes-visite-commentee/"
+      },
+      {
+        "date": "2026-06-26",
+        "end_date": "2026-11-08",
+        "title": {
+          "de": "Ausstellung \"L’Ange de la Révolte. Satan dans les arts au XIXe siècle\"",
+          "hu": "\"L’Ange de la Révolte. Satan dans les arts au XIXe siècle\" kiállítás",
+          "ro": "Expoziția „L’Ange de la Révolte. Satan dans les arts au XIXe siècle”",
+          "en": "Exhibition \"L’Ange de la Révolte. Satan dans les arts au XIXe siècle\"",
+          "fr": "Exposition « L’Ange de la Révolte. Satan dans les arts au XIXe siècle »"
+        },
+        "summary": {
+          "de": "Das Musée Thomas Henry widmet sich 2026 einer großen Ausstellung über die Figur des Satans in Kunst, Literatur und Ideenwelt des 19. Jahrhunderts.",
+          "hu": "A Musée Thomas Henry 2026-ban nagyszabású tárlaton vizsgálja a Sátán alakját a 19. századi művészetben, irodalomban és eszmetörténetben.",
+          "ro": "Muzeul Thomas Henry dedică anului 2026 o mare expoziție despre figura lui Satan în arta, literatura și istoria ideilor din secolul al XIX-lea.",
+          "en": "The Musée Thomas Henry is devoting a major 2026 exhibition to the figure of Satan in 19th-century art, literature, and intellectual history.",
+          "fr": "Le musée Thomas Henry consacre en 2026 une grande exposition à la figure de Satan dans les arts, la littérature et l'histoire des idées du XIXe siècle."
+        },
+        "source_url": "https://www.cherbourg.fr/agendas-et-actus/agenda/evenement/lange-de-la-revolte-satan-dans-les-arts-au-xixe-siecle/"
+      }
+    ]
+  },
+  {
+    "id": "conflans-sainte-honorine",
+    "events": [
+      {
+        "date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "title": {
+          "de": "Les pauses culturelles in der Stadt",
+          "hu": "Les pauses culturelles a városban",
+          "ro": "Les pauses culturelles în oraș",
+          "en": "Cultural breaks around town",
+          "fr": "Les pauses culturelles en ville"
+        },
+        "summary": {
+          "de": "Die Stadt verteilt im Sommer Kulturangebote zwischen Mediathek, Binnenschifffahrtsmuseum und den Seine-Ufern.",
+          "hu": "A város nyáron a médiatékától a belvízi hajózási múzeumon át a Szajna-partig több helyszínen kínál kulturális programokat.",
+          "ro": "Orașul propune vara activități culturale între mediatecă, muzeul navigației și malurile Senei.",
+          "en": "The town spreads summer cultural programming between the media library, the inland navigation museum, and the Seine quays.",
+          "fr": "La Ville déploie tout l'été des propositions culturelles entre la médiathèque, le musée de la batellerie et les quais de Seine."
+        },
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.conflans-sainte-honorine.fr/evenements/les-pauses-culturelles-en-ville-ete-2026/"
+      },
+      {
+        "date": "2026-07-04",
+        "end_date": "2026-08-31",
+        "title": {
+          "de": "Spaziergang an den Kais",
+          "hu": "Séta a rakpartokon",
+          "ro": "Plimbare pe chei",
+          "en": "Promenade along the quays",
+          "fr": "Promenez-vous sur les quais"
+        },
+        "summary": {
+          "de": "Das Sommerprogramm lädt Besucher ein, die Seine-Ufer zu Fuß, mit dem Roller oder mit dem Fahrrad entspannt zu entdecken.",
+          "hu": "A nyári program arra hívja a látogatókat, hogy gyalog, rollerrel vagy kerékpárral fedezzék fel a Szajna-partot.",
+          "ro": "Programul de vară îi invită pe vizitatori să descopere malurile Senei pe jos, cu trotineta sau cu bicicleta.",
+          "en": "This summer program invites visitors to enjoy the Seine-side quays on foot, by scooter, or by bike.",
+          "fr": "Ce rendez-vous estival invite à profiter des quais de Seine à pied, en trottinette ou à vélo."
+        },
+        "period": {
+          "recurrent": true
+        },
+        "source_url": "https://www.conflans-sainte-honorine.fr/evenements/promenez-vous-sur-les-quais-ete-2026/"
+      },
+      {
+        "date": "2026-07-06",
+        "end_date": "2026-08-31",
+        "title": {
+          "de": "Pop-up-Escape-Game",
+          "hu": "Ideiglenes szabadulószoba",
+          "ro": "Escape game temporar",
+          "en": "Pop-up escape game",
+          "fr": "Escape game éphémère"
+        },
+        "summary": {
+          "de": "Das immersive Sommer-Escape-Game \"Nébuleuse\" an der rue Maurice-Berteaux verbindet Rätsel mit professionellen Darstellern.",
+          "hu": "A Maurice-Berteaux utcai „Nébuleuse” nyári szabadulószoba rejtvényeket és profi színészi kíséretet ötvöz.",
+          "ro": "Escape game-ul estival „Nébuleuse”, instalat pe rue Maurice-Berteaux, combină enigmele cu actori profesioniști.",
+          "en": "The summer pop-up escape game \"Nébuleuse\" on rue Maurice-Berteaux combines puzzles with live professional performers.",
+          "fr": "L'escape game estival « Nébuleuse », installé rue Maurice-Berteaux, mêle énigmes et comédiens professionnels."
+        },
+        "source_url": "https://www.conflans-sainte-honorine.fr/evenements/escape-game-ephemere/"
+      },
+      {
+        "date": "2026-08-29",
+        "end_date": "2026-08-30",
+        "title": {
+          "de": "Scènes d’été 2026 - Abschlusswochenende",
+          "hu": "Scènes d’été 2026 - záróhétvége",
+          "ro": "Scènes d’été 2026 - weekend de închidere",
+          "en": "Scènes d’été 2026 - closing weekend",
+          "fr": "Scènes d’été 2026 - Week-end de clôture"
+        },
+        "summary": {
+          "de": "Vor dem Schulbeginn organisiert die Stadt im Parc du Prieuré und an der Place Fouillère ein sommerliches Abschlusswochenende.",
+          "hu": "A tanévkezdés előtt a város nyári záróhétvégét rendez a Parc du Prieuré és a Place Fouillère helyszínein.",
+          "ro": "Înainte de începerea școlii, orașul organizează un weekend estival de închidere în Parc du Prieuré și pe Place Fouillère.",
+          "en": "Before the school year resumes, the town and its partners stage a lively closing weekend in Parc du Prieuré and Place Fouillère.",
+          "fr": "Avant la rentrée, la Ville et ses partenaires proposent un week-end animé de clôture au parc du Prieuré et place Fouillère."
+        },
+        "source_url": "https://www.conflans-sainte-honorine.fr/evenements/scenes-dete-2026-week-end-de-cloture/"
+      }
+    ]
+  },
+  {
+    "id": "auxerre",
+    "events": [
+      {
+        "date": "2026-07-08",
+        "end_date": "2026-08-12",
+        "title": {
+          "de": "Green Stadium 2026",
+          "hu": "Green Stadium 2026",
+          "ro": "Green Stadium 2026",
+          "en": "Green Stadium 2026",
+          "fr": "Green Stadium 2026"
+        },
+        "summary": {
+          "de": "Das kostenlose Sommer-Sportprogramm im Parc de l'Arbre Sec und auf weiteren Standorten bietet Aktivitäten für Kinder, Jugendliche und Erwachsene.",
+          "hu": "Az ingyenes nyári sportprogram a Parc de l'Arbre Sec parkban és több más helyszínen kínál foglalkozásokat gyerekeknek, fiataloknak és felnőtteknek.",
+          "ro": "Programul sportiv gratuit de vară din Parc de l'Arbre Sec și din alte locuri ale orașului oferă activități pentru copii, tineri și adulți.",
+          "en": "This free summer sports program at Parc de l'Arbre Sec and other city sites offers activities for children, teens, and adults.",
+          "fr": "Ce programme sportif gratuit de l'été, au parc de l'Arbre Sec et sur d'autres sites, propose des activités pour enfants, jeunes et adultes."
+        },
+        "source_url": "https://www.auxerre.fr/green-stadium-2026"
+      },
+      {
+        "date": "2026-06-13",
+        "end_date": "2026-08-14",
+        "title": {
+          "de": "Lézards des arts - Sommer 2026",
+          "hu": "Lézards des arts - 2026 nyara",
+          "ro": "Lézards des arts - vara 2026",
+          "en": "Lézards des arts - summer 2026",
+          "fr": "Lézards des arts - été 2026"
+        },
+        "summary": {
+          "de": "Das städtische Ferienprogramm für 5- bis 17-Jährige verbindet künstlerische Workshops mit Entdeckungen des Auxerroiser Kulturerbes.",
+          "hu": "Az 5 és 17 év közötti fiataloknak szóló városi szünidei program művészeti műhelyeket kapcsol össze Auxerre örökségének felfedezésével.",
+          "ro": "Programul municipal de vacanță pentru tineri între 5 și 17 ani combină ateliere artistice cu descoperirea patrimoniului din Auxerre.",
+          "en": "This city holiday program for ages 5 to 17 combines artistic workshops with hands-on discovery of Auxerre's heritage.",
+          "fr": "Ce programme de vacances municipal pour les 5 à 17 ans associe ateliers artistiques et découverte active du patrimoine auxerrois."
+        },
+        "source_url": "https://www.auxerre.fr/lezards-des-arts-ete-2026"
+      },
+      {
+        "date": "2026-08-21",
+        "end_date": "2026-08-23",
+        "title": {
+          "de": "Rues Barrées",
+          "hu": "Rues Barrées",
+          "ro": "Rues Barrées",
+          "en": "Rues Barrées",
+          "fr": "Rues Barrées"
+        },
+        "summary": {
+          "de": "Die neunte Ausgabe des kostenlosen Straßenkunstfestivals bringt internationale Compagnien mit Zirkus, Tanz, Jonglage und Theater nach Auxerre.",
+          "hu": "A kilencedik ingyenes utcaművészeti fesztivál nemzetközi társulatokat hoz Auxerre-be cirkusszal, tánccal, zsonglőrködéssel és színházzal.",
+          "ro": "A noua ediție a festivalului gratuit de artă stradală aduce la Auxerre companii internaționale cu circ, dans, jonglerie și teatru.",
+          "en": "The ninth edition of this free street-arts festival brings international companies to Auxerre for circus, dance, juggling, and theatre.",
+          "fr": "La neuvième édition de ce festival gratuit des arts de la rue accueille à Auxerre des compagnies internationales de cirque, danse, jonglage et théâtre."
+        },
+        "source_url": "https://www.auxerre.fr/rues-barrees"
+      },
+      {
+        "date": "2026-09-05",
+        "title": {
+          "de": "Forum der Vereine",
+          "hu": "Egyesületi fórum",
+          "ro": "Forumul asociațiilor",
+          "en": "Association Forum",
+          "fr": "Forum des associations"
+        },
+        "summary": {
+          "de": "Direkt nach dem Schulbeginn lädt Auxerre Besucher ein, lokale Vereine, Vorführungen und Freizeitangebote an einem freien Zugangstag kennenzulernen.",
+          "hu": "Közvetlenül a tanévkezdés után Auxerre szabadon látogatható napon mutatja be a helyi egyesületeket, bemutatókat és szabadidős lehetőségeket.",
+          "ro": "Imediat după rentrée, Auxerre invită publicul să descopere asociațiile locale, demonstrațiile și activitățile de loisir într-o zi cu acces liber.",
+          "en": "Just after the school rentrée, Auxerre invites visitors to meet local associations, watch demonstrations, and explore leisure options at this free-access event.",
+          "fr": "Juste après la rentrée, Auxerre invite le public à rencontrer les associations locales, assister à des démonstrations et découvrir de nombreuses activités."
+        },
+        "source_url": "https://www.auxerre.fr/forum-des-associations"
+      }
+    ]
+  },
+  {
+    "id": "meyzieu",
+    "events": [
+      {
+        "date": "2026-06-29",
+        "end_date": "2026-08-30",
+        "title": {
+          "de": "Aquaparc BeFUN",
+          "hu": "Aquaparc BeFUN",
+          "ro": "Aquaparc BeFUN",
+          "en": "Aquaparc BeFUN",
+          "fr": "Aquaparc BeFUN"
+        },
+        "summary": {
+          "de": "Im Grand Parc Miribel Jonage bei Meyzieu läuft im Hochsommer ein großer aufblasbarer Wasserpark für Badegäste und Freizeitbesucher.",
+          "hu": "A Meyzieu melletti Grand Parc Miribel Jonage területén a nyár folyamán nagyméretű felfújható vízi park várja a látogatókat.",
+          "ro": "La Grand Parc Miribel Jonage, lângă Meyzieu, funcționează pe timpul verii un mare parc acvatic gonflabil pentru înot și agrement.",
+          "en": "At Grand Parc Miribel Jonage near Meyzieu, a large inflatable water park runs through the high summer season for swimmers and leisure visitors.",
+          "fr": "Au Grand Parc Miribel Jonage, près de Meyzieu, un grand parc aquatique gonflable anime la saison estivale pour les baigneurs et visiteurs loisirs."
+        },
+        "source_url": "https://www.grand-parc.fr/"
+      },
+      {
+        "date": "2026-09-12",
+        "title": {
+          "de": "Fête de l'Automne 2026",
+          "hu": "Fête de l'Automne 2026",
+          "ro": "Fête de l'Automne 2026",
+          "en": "Autumn Festival 2026",
+          "fr": "Fête de l'Automne 2026"
+        },
+        "summary": {
+          "de": "Das kostenlose Familienfest im Grand Parc Miribel Jonage bietet Straßentheater, Zirkus, Mitmach-Ateliers und einen Naturmarkt.",
+          "hu": "A Grand Parc Miribel Jonage ingyenes családi őszi fesztiválja utcaszínházzal, cirkusszal, foglalkozásokkal és helyi termelői piaccal várja a közönséget.",
+          "ro": "Festivalul gratuit de toamnă pentru familii din Grand Parc Miribel Jonage propune teatru de stradă, circ, ateliere și o piață locală de natură.",
+          "en": "This free family festival at Grand Parc Miribel Jonage features street theatre, circus, hands-on workshops, and a local nature market.",
+          "fr": "Cette fête familiale gratuite au Grand Parc Miribel Jonage propose théâtre de rue, cirque, ateliers participatifs et marché nature."
+        },
+        "source_url": "https://www.grand-parc.fr/agenda/fete-de-l-automne"
+      },
+      {
+        "date": "2026-10-04",
+        "title": {
+          "de": "Triathlon des Roses Lyon 2026",
+          "hu": "Triathlon des Roses Lyon 2026",
+          "ro": "Triathlon des Roses Lyon 2026",
+          "en": "Triathlon des Roses Lyon 2026",
+          "fr": "Triathlon des Roses Lyon 2026"
+        },
+        "summary": {
+          "de": "Die Benefizveranstaltung im Grand Parc Miribel Jonage verbindet Sport und Solidarität im Kampf gegen Krebs.",
+          "hu": "A Grand Parc Miribel Jonage jótékonysági sporteseménye a sportot és a rákkal szembeni összefogást kapcsolja össze.",
+          "ro": "Evenimentul caritabil din Grand Parc Miribel Jonage unește sportul cu solidaritatea în lupta împotriva cancerului.",
+          "en": "This charity event at Grand Parc Miribel Jonage combines sport with solidarity in the fight against cancer.",
+          "fr": "Cet événement solidaire au Grand Parc Miribel Jonage associe pratique sportive et mobilisation contre le cancer."
+        },
+        "source_url": "https://www.grand-parc.fr/agenda/course-triathlon-des-roses-lyon"
+      },
+      {
+        "date": "2026-11-07",
+        "title": {
+          "de": "Les illuminés de Meyzieu 2026",
+          "hu": "Les illuminés de Meyzieu 2026",
+          "ro": "Les illuminés de Meyzieu 2026",
+          "en": "Les illuminés de Meyzieu 2026",
+          "fr": "Les illuminés de Meyzieu 2026"
+        },
+        "summary": {
+          "de": "Das Halb-Nachtlauf-Event im Grand Parc Miribel Jonage umfasst 5-, 14- und 22-Kilometer-Strecken sowie Familienanimationen.",
+          "hu": "A Grand Parc Miribel Jonage félig éjszakai futóeseménye 5, 14 és 22 kilométeres távokat, valamint családi programokat kínál.",
+          "ro": "Evenimentul de alergare semi-nocturnă din Grand Parc Miribel Jonage include curse de 5, 14 și 22 km plus animații pentru familii.",
+          "en": "This semi-night running event at Grand Parc Miribel Jonage includes 5 km, 14 km, and 22 km races plus family entertainment.",
+          "fr": "Cet événement de course semi-nocturne au Grand Parc Miribel Jonage comprend des parcours de 5, 14 et 22 km ainsi que des animations familiales."
+        },
+        "source_url": "https://www.grand-parc.fr/agenda/les-illumines-de-meyzieu-2026-course-a-pied-trail-nocturne"
+      }
+    ]
+  }
+]
