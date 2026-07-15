@@ -1,0 +1,5163 @@
+{
+  "version": 1,
+  "name": "stale-events-campaign-02",
+  "createdAt": "2026-07-15T08:18:10.591Z",
+  "cutoff": "2026-07-26",
+  "agentModel": "gpt-5.4",
+  "agentCount": 50,
+  "poisPerAgent": 5,
+  "concurrency": 5,
+  "waves": 10,
+  "jobs": [
+    {
+      "id": "job-01",
+      "wave": 1,
+      "status": "pending",
+      "output": "public/data/stale-events-campaign-02/job-01.json",
+      "targets": [
+        {
+          "id": "toledo",
+          "iso2": "ES",
+          "country": "spain",
+          "type": "city",
+          "name": {
+            "en": "Toledo",
+            "de": "Toledo",
+            "hu": "Toledo",
+            "ro": "Toledo"
+          },
+          "coords": [
+            -4.0273,
+            39.8628
+          ],
+          "population": 83000,
+          "tier": 4,
+          "staleEvents": 3
+        },
+        {
+          "id": "france-lyon-south-cities-v2",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Lyon-Sud",
+            "de": "Lyon-Sud",
+            "hu": "Lyon-Sud",
+            "ro": "Lyon-Sud"
+          },
+          "coords": [
+            4.83,
+            45.74
+          ],
+          "population": 82573,
+          "tier": 4,
+          "staleEvents": 1
+        },
+        {
+          "id": "netherlands-hengelo-cities-v2",
+          "iso2": "NL",
+          "country": "netherlands",
+          "type": "city",
+          "name": {
+            "en": "Hengelo",
+            "de": "Hengelo",
+            "hu": "Hengelo",
+            "ro": "Hengelo"
+          },
+          "coords": [
+            6.7932,
+            52.2652
+          ],
+          "population": 82311,
+          "tier": 4,
+          "staleEvents": 4
+        },
+        {
+          "id": "city-resita-extra",
+          "iso2": "RO",
+          "country": "romania",
+          "type": "city",
+          "name": {
+            "en": "Reșița",
+            "de": "Reschitz",
+            "hu": "Resicabánya",
+            "ro": "Reșița"
+          },
+          "coords": [
+            21.89,
+            45.3
+          ],
+          "population": 81228,
+          "tier": 4,
+          "staleEvents": 3
+        },
+        {
+          "id": "pau",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Pau",
+            "de": "Pau",
+            "hu": "Pau",
+            "ro": "Pau"
+          },
+          "coords": [
+            -0.3708,
+            43.2951
+          ],
+          "population": 81166,
+          "tier": 4,
+          "staleEvents": 10
+        }
+      ]
+    },
+    {
+      "id": "job-02",
+      "wave": 1,
+      "status": "pending",
+      "output": "public/data/stale-events-campaign-02/job-02.json",
+      "targets": [
+        {
+          "id": "cherbourg-en-cotentin",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Cherbourg-en-Cotentin",
+            "de": "Cherbourg-en-Cotentin",
+            "hu": "Cherbourg-en-Cotentin",
+            "ro": "Cherbourg-en-Cotentin"
+          },
+          "coords": [
+            -1.622,
+            49.633
+          ],
+          "population": 80616,
+          "tier": 5,
+          "staleEvents": 1
+        },
+        {
+          "id": "piatra-neamt",
+          "iso2": "RO",
+          "country": "romania",
+          "type": "city",
+          "name": {
+            "en": "Piatra Neamț",
+            "de": "Piatra Neamț",
+            "hu": "Karácsonkő",
+            "ro": "Piatra-Neamț"
+          },
+          "coords": [
+            26.370833333,
+            46.9275
+          ],
+          "population": 79679,
+          "tier": 3,
+          "staleEvents": 1
+        },
+        {
+          "id": "ro-poi-bistrita",
+          "iso2": "RO",
+          "country": "romania",
+          "type": "city",
+          "name": {
+            "en": "Bistrița",
+            "de": "Bistritz",
+            "hu": "Beszterce",
+            "ro": "Bistrița"
+          },
+          "coords": [
+            24.5,
+            47.1333
+          ],
+          "population": 78877,
+          "tier": 4,
+          "staleEvents": 3
+        },
+        {
+          "id": "szombathely",
+          "iso2": "HU",
+          "country": "hungary",
+          "type": "city",
+          "name": {
+            "en": "Szombathely",
+            "de": "Steinamanger",
+            "hu": "Szombathely",
+            "ro": "Szombathely"
+          },
+          "coords": [
+            16.6217,
+            47.2306
+          ],
+          "population": 78446,
+          "tier": 4,
+          "staleEvents": 1
+        },
+        {
+          "id": "france-antibes-cities-v2",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Antibes",
+            "de": "Antibes",
+            "hu": "Antibes",
+            "ro": "Antibes"
+          },
+          "coords": [
+            7.1251,
+            43.5804
+          ],
+          "population": 77637,
+          "tier": 4,
+          "staleEvents": 9
+        }
+      ]
+    },
+    {
+      "id": "job-03",
+      "wave": 1,
+      "status": "pending",
+      "output": "public/data/stale-events-campaign-02/job-03.json",
+      "targets": [
+        {
+          "id": "bourges",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Bourges",
+            "de": "Bourges",
+            "hu": "Bourges",
+            "ro": "Bourges"
+          },
+          "coords": [
+            2.3991,
+            47.081
+          ],
+          "population": 77300,
+          "tier": 4,
+          "staleEvents": 10
+        },
+        {
+          "id": "poland-siedlce-cities-v2",
+          "iso2": "PL",
+          "country": "poland",
+          "type": "city",
+          "name": {
+            "en": "Siedlce",
+            "de": "Siedlce",
+            "hu": "Siedlce",
+            "ro": "Siedlce"
+          },
+          "coords": [
+            22.2891,
+            52.1668
+          ],
+          "population": 77185,
+          "tier": 4,
+          "staleEvents": 3
+        },
+        {
+          "id": "calais",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Calais",
+            "de": "Calais",
+            "hu": "Calais",
+            "ro": "Calais"
+          },
+          "coords": [
+            1.8587,
+            50.9513
+          ],
+          "population": 75961,
+          "tier": 4,
+          "staleEvents": 1
+        },
+        {
+          "id": "netherlands-spijkenisse-cities-v2",
+          "iso2": "NL",
+          "country": "netherlands",
+          "type": "city",
+          "name": {
+            "en": "Spijkenisse",
+            "de": "Spijkenisse",
+            "hu": "Spijkenisse",
+            "ro": "Spijkenisse"
+          },
+          "coords": [
+            4.3297,
+            51.8444
+          ],
+          "population": 74988,
+          "tier": 4,
+          "staleEvents": 1
+        },
+        {
+          "id": "troyes",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Troyes",
+            "de": "Troyes",
+            "hu": "Troyes",
+            "ro": "Troyes"
+          },
+          "coords": [
+            4.0744,
+            48.2973
+          ],
+          "population": 74898,
+          "tier": 4,
+          "staleEvents": 6
+        }
+      ]
+    },
+    {
+      "id": "job-04",
+      "wave": 1,
+      "status": "pending",
+      "output": "public/data/stale-events-campaign-02/job-04.json",
+      "targets": [
+        {
+          "id": "italy-asti-cities-v2",
+          "iso2": "IT",
+          "country": "italy",
+          "type": "city",
+          "name": {
+            "en": "Asti",
+            "de": "Asti",
+            "hu": "Asti",
+            "ro": "Asti"
+          },
+          "coords": [
+            8.2045,
+            44.9015
+          ],
+          "population": 74348,
+          "tier": 4,
+          "staleEvents": 2
+        },
+        {
+          "id": "italy-pistoia-cities-v2",
+          "iso2": "IT",
+          "country": "italy",
+          "type": "city",
+          "name": {
+            "en": "Pistoia",
+            "de": "Pistoia",
+            "hu": "Pistoia",
+            "ro": "Pistoia"
+          },
+          "coords": [
+            10.9167,
+            43.9333
+          ],
+          "population": 73832,
+          "tier": 4,
+          "staleEvents": 7
+        },
+        {
+          "id": "city-targu-jiu-extra",
+          "iso2": "RO",
+          "country": "romania",
+          "type": "city",
+          "name": {
+            "en": "Târgu Jiu",
+            "de": "Turgu Jiu",
+            "hu": "Zsilvásárhely",
+            "ro": "Târgu Jiu"
+          },
+          "coords": [
+            23.27,
+            45.04
+          ],
+          "population": 73545,
+          "tier": 4,
+          "staleEvents": 3
+        },
+        {
+          "id": "szolnok",
+          "iso2": "HU",
+          "country": "hungary",
+          "type": "city",
+          "name": {
+            "en": "Szolnok",
+            "de": "Sollnock",
+            "hu": "Szolnok",
+            "ro": "Szolnok"
+          },
+          "coords": [
+            20.2,
+            47.1833
+          ],
+          "population": 73193,
+          "tier": 4,
+          "staleEvents": 1
+        },
+        {
+          "id": "erd",
+          "iso2": "HU",
+          "country": "hungary",
+          "type": "city",
+          "name": {
+            "en": "Érd",
+            "de": "Hanselbeck",
+            "hu": "Érd",
+            "ro": "Érd"
+          },
+          "coords": [
+            18.9167,
+            47.3833
+          ],
+          "population": 71495,
+          "tier": 4,
+          "staleEvents": 1
+        }
+      ]
+    },
+    {
+      "id": "job-05",
+      "wave": 1,
+      "status": "pending",
+      "output": "public/data/stale-events-campaign-02/job-05.json",
+      "targets": [
+        {
+          "id": "zadar",
+          "iso2": "HR",
+          "country": "croatia",
+          "type": "city",
+          "name": {
+            "en": "Zadar",
+            "de": "Zadar",
+            "hu": "Zadar",
+            "ro": "Zadar"
+          },
+          "coords": [
+            15.2314,
+            44.1194
+          ],
+          "population": 70718,
+          "tier": 4,
+          "staleEvents": 6
+        },
+        {
+          "id": "city-hunedoara-extra",
+          "iso2": "RO",
+          "country": "romania",
+          "type": "city",
+          "name": {
+            "en": "Hunedoara",
+            "de": "Eisenmarkt",
+            "hu": "Vajdahunyad",
+            "ro": "Hunedoara"
+          },
+          "coords": [
+            22.9,
+            45.76
+          ],
+          "population": 69136,
+          "tier": 4,
+          "staleEvents": 1
+        },
+        {
+          "id": "netherlands-assen-cities-v2",
+          "iso2": "NL",
+          "country": "netherlands",
+          "type": "capital",
+          "name": {
+            "en": "Assen",
+            "de": "Assen",
+            "hu": "Assen",
+            "ro": "Assen"
+          },
+          "coords": [
+            6.5642,
+            52.9922
+          ],
+          "population": 68836,
+          "tier": 4,
+          "staleEvents": 3
+        },
+        {
+          "id": "sanlucar",
+          "iso2": "ES",
+          "country": "spain",
+          "type": "city",
+          "name": {
+            "en": "Sanlúcar de Barrameda",
+            "de": "Sanlúcar de Barrameda",
+            "hu": "Sanlúcar de Barrameda",
+            "ro": "Sanlúcar de Barrameda"
+          },
+          "coords": [
+            -6.3531,
+            36.7758
+          ],
+          "population": 68400,
+          "tier": 4,
+          "staleEvents": 5
+        },
+        {
+          "id": "city-roman-extra",
+          "iso2": "RO",
+          "country": "romania",
+          "type": "city",
+          "name": {
+            "en": "Roman",
+            "de": "Roman",
+            "hu": "Románvásár",
+            "ro": "Roman"
+          },
+          "coords": [
+            26.92,
+            46.92
+          ],
+          "population": 67819,
+          "tier": 4,
+          "staleEvents": 2
+        }
+      ]
+    },
+    {
+      "id": "job-06",
+      "wave": 2,
+      "status": "pending",
+      "output": "public/data/stale-events-campaign-02/job-06.json",
+      "targets": [
+        {
+          "id": "city-barlad-extra",
+          "iso2": "RO",
+          "country": "romania",
+          "type": "city",
+          "name": {
+            "en": "Bârlad",
+            "de": "Berlad",
+            "hu": "Barlád",
+            "ro": "Bârlad"
+          },
+          "coords": [
+            27.67,
+            46.22
+          ],
+          "population": 67818,
+          "tier": 4,
+          "staleEvents": 3
+        },
+        {
+          "id": "viterbo",
+          "iso2": "IT",
+          "country": "italy",
+          "type": "city",
+          "name": {
+            "en": "Viterbo",
+            "de": "Viterbo",
+            "hu": "Viterbo",
+            "ro": "Viterbo"
+          },
+          "coords": [
+            12.1054,
+            42.417
+          ],
+          "population": 67000,
+          "tier": 4,
+          "staleEvents": 5
+        },
+        {
+          "id": "city-targoviste",
+          "iso2": "RO",
+          "country": "romania",
+          "type": "city",
+          "name": {
+            "en": "Târgoviște",
+            "de": "Târgoviște",
+            "hu": "Târgoviște",
+            "ro": "Târgoviște"
+          },
+          "coords": [
+            25.4572,
+            44.9254
+          ],
+          "population": 66965,
+          "tier": 4,
+          "staleEvents": 1
+        },
+        {
+          "id": "quimper",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Quimper",
+            "de": "Quimper",
+            "hu": "Quimper",
+            "ro": "Quimper"
+          },
+          "coords": [
+            -4.0979,
+            47.9961
+          ],
+          "population": 66743,
+          "tier": 4,
+          "staleEvents": 1
+        },
+        {
+          "id": "ro-poi-focsani",
+          "iso2": "RO",
+          "country": "romania",
+          "type": "city",
+          "name": {
+            "en": "Focșani",
+            "de": "Fokschan",
+            "hu": "Foksány",
+            "ro": "Focșani"
+          },
+          "coords": [
+            27.1833,
+            45.7
+          ],
+          "population": 66648,
+          "tier": 4,
+          "staleEvents": 3
+        }
+      ]
+    },
+    {
+      "id": "job-07",
+      "wave": 2,
+      "status": "pending",
+      "output": "public/data/stale-events-campaign-02/job-07.json",
+      "targets": [
+        {
+          "id": "city-tulcea-extra",
+          "iso2": "RO",
+          "country": "romania",
+          "type": "city",
+          "name": {
+            "en": "Tulcea",
+            "de": "Tultsch",
+            "hu": "Tulcsa",
+            "ro": "Tulcea"
+          },
+          "coords": [
+            28.81,
+            45.18
+          ],
+          "population": 65624,
+          "tier": 4,
+          "staleEvents": 3
+        },
+        {
+          "id": "la-seyne-sur-mer",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "La Seyne-sur-Mer",
+            "de": "La Seyne-sur-Mer",
+            "hu": "La Seyne-sur-Mer",
+            "ro": "La Seyne-sur-Mer"
+          },
+          "coords": [
+            5.8783,
+            43.1031
+          ],
+          "population": 65386,
+          "tier": 4,
+          "staleEvents": 1
+        },
+        {
+          "id": "kaposvar",
+          "iso2": "HU",
+          "country": "hungary",
+          "type": "city",
+          "name": {
+            "en": "Kaposvár",
+            "de": "Kopisch",
+            "hu": "Kaposvár",
+            "ro": "Kaposvár"
+          },
+          "coords": [
+            17.7897,
+            46.3592
+          ],
+          "population": 65337,
+          "tier": 4,
+          "staleEvents": 1
+        },
+        {
+          "id": "city-alba-iulia",
+          "iso2": "RO",
+          "country": "romania",
+          "type": "state-capital",
+          "name": {
+            "en": "Alba Iulia",
+            "de": "Karlsburg",
+            "hu": "Gyulafehérvár",
+            "ro": "Alba Iulia"
+          },
+          "coords": [
+            23.5805,
+            46.0667
+          ],
+          "population": 64227,
+          "tier": 4,
+          "staleEvents": 1
+        },
+        {
+          "id": "arrecife",
+          "iso2": "ES",
+          "country": "spain",
+          "type": "city",
+          "name": {
+            "en": "Arrecife",
+            "de": "Arrecife",
+            "hu": "Arrecife",
+            "ro": "Arrecife"
+          },
+          "coords": [
+            -13.5478,
+            28.9636
+          ],
+          "population": 64000,
+          "tier": 4,
+          "staleEvents": 5
+        }
+      ]
+    },
+    {
+      "id": "job-08",
+      "wave": 2,
+      "status": "pending",
+      "output": "public/data/stale-events-campaign-02/job-08.json",
+      "targets": [
+        {
+          "id": "france-valence-south-cities-v2",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Valence-Sud",
+            "de": "Valence-Sud",
+            "hu": "Valence-Sud",
+            "ro": "Valence-Sud"
+          },
+          "coords": [
+            4.89,
+            44.91
+          ],
+          "population": 63864,
+          "tier": 4,
+          "staleEvents": 4
+        },
+        {
+          "id": "ro-poi-slatina",
+          "iso2": "RO",
+          "country": "romania",
+          "type": "city",
+          "name": {
+            "en": "Slatina",
+            "de": "Slatina",
+            "hu": "Slatina",
+            "ro": "Slatina"
+          },
+          "coords": [
+            24.3667,
+            44.4333
+          ],
+          "population": 63487,
+          "tier": 4,
+          "staleEvents": 1
+        },
+        {
+          "id": "montauban",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Montauban",
+            "de": "Montauban",
+            "hu": "Montauban",
+            "ro": "Montauban"
+          },
+          "coords": [
+            1.352,
+            44.017
+          ],
+          "population": 62945,
+          "tier": 4,
+          "staleEvents": 1
+        },
+        {
+          "id": "sopron",
+          "iso2": "HU",
+          "country": "hungary",
+          "type": "city",
+          "name": {
+            "en": "Sopron",
+            "de": "Ödenburg",
+            "hu": "Sopron",
+            "ro": "Sopron"
+          },
+          "coords": [
+            16.5905,
+            47.6817
+          ],
+          "population": 62454,
+          "tier": 4,
+          "staleEvents": 1
+        },
+        {
+          "id": "zalaegerszeg",
+          "iso2": "HU",
+          "country": "hungary",
+          "type": "city",
+          "name": {
+            "en": "Zalaegerszeg",
+            "de": "Egersee",
+            "hu": "Zalaegerszeg",
+            "ro": "Zalaegerszeg"
+          },
+          "coords": [
+            16.8439,
+            46.8417
+          ],
+          "population": 62214,
+          "tier": 4,
+          "staleEvents": 1
+        }
+      ]
+    },
+    {
+      "id": "job-09",
+      "wave": 2,
+      "status": "pending",
+      "output": "public/data/stale-events-campaign-02/job-09.json",
+      "targets": [
+        {
+          "id": "garbsen",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Garbsen",
+            "de": "Garbsen",
+            "hu": "Garbsen",
+            "ro": "Garbsen"
+          },
+          "coords": [
+            9.5981,
+            52.4183
+          ],
+          "population": 61594,
+          "tier": 4,
+          "staleEvents": 1
+        },
+        {
+          "id": "bekescsaba",
+          "iso2": "HU",
+          "country": "hungary",
+          "type": "city",
+          "name": {
+            "en": "Békéscsaba",
+            "de": "Tschaba",
+            "hu": "Békéscsaba",
+            "ro": "Bichișciaba"
+          },
+          "coords": [
+            21.0978,
+            46.6797
+          ],
+          "population": 61046,
+          "tier": 4,
+          "staleEvents": 1
+        },
+        {
+          "id": "veszprem-city",
+          "iso2": "HU",
+          "country": "hungary",
+          "type": "city",
+          "name": {
+            "en": "Veszprém",
+            "de": "Wesprim",
+            "hu": "Veszprém",
+            "ro": "Veszprém"
+          },
+          "coords": [
+            17.9114,
+            47.0928
+          ],
+          "population": 60876,
+          "tier": 4,
+          "staleEvents": 1
+        },
+        {
+          "id": "olbia",
+          "iso2": "IT",
+          "country": "italy",
+          "type": "city",
+          "name": {
+            "en": "Olbia",
+            "de": "Olbia",
+            "hu": "Olbia",
+            "ro": "Olbia"
+          },
+          "coords": [
+            9.5,
+            40.9233
+          ],
+          "population": 60800,
+          "tier": 4,
+          "staleEvents": 4
+        },
+        {
+          "id": "matera",
+          "iso2": "IT",
+          "country": "italy",
+          "type": "city",
+          "name": {
+            "en": "Matera",
+            "de": "Matera",
+            "hu": "Matera",
+            "ro": "Matera"
+          },
+          "coords": [
+            16.6043,
+            40.6664
+          ],
+          "population": 60400,
+          "tier": 4,
+          "staleEvents": 6
+        }
+      ]
+    },
+    {
+      "id": "job-10",
+      "wave": 2,
+      "status": "pending",
+      "output": "public/data/stale-events-campaign-02/job-10.json",
+      "targets": [
+        {
+          "id": "city-waterford",
+          "iso2": "IE",
+          "country": "ireland",
+          "type": "city",
+          "name": {
+            "en": "Waterford",
+            "de": "Waterford",
+            "hu": "Waterford",
+            "ro": "Waterford"
+          },
+          "coords": [
+            -7.1101,
+            52.2593
+          ],
+          "population": 60079,
+          "tier": 4,
+          "staleEvents": 1
+        },
+        {
+          "id": "frejus",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Fréjus",
+            "de": "Fréjus",
+            "hu": "Fréjus",
+            "ro": "Fréjus"
+          },
+          "coords": [
+            6.7356,
+            43.4331
+          ],
+          "population": 59719,
+          "tier": 4,
+          "staleEvents": 3
+        },
+        {
+          "id": "clamart",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Clamart",
+            "de": "Clamart",
+            "hu": "Clamart",
+            "ro": "Clamart"
+          },
+          "coords": [
+            2.2619,
+            48.8008
+          ],
+          "population": 58576,
+          "tier": 4,
+          "staleEvents": 1
+        },
+        {
+          "id": "romania-resita-cities-v2",
+          "iso2": "RO",
+          "country": "romania",
+          "type": "city",
+          "name": {
+            "en": "Reșița",
+            "de": "Reschitza",
+            "hu": "Resicabánya",
+            "ro": "Reșița"
+          },
+          "coords": [
+            21.8897,
+            45.3005
+          ],
+          "population": 58393,
+          "tier": 4,
+          "staleEvents": 2
+        },
+        {
+          "id": "agrigento",
+          "iso2": "IT",
+          "country": "italy",
+          "type": "city",
+          "name": {
+            "en": "Agrigento",
+            "de": "Agrigent",
+            "hu": "Agrigento",
+            "ro": "Agrigento"
+          },
+          "coords": [
+            13.5765,
+            37.311
+          ],
+          "population": 58000,
+          "tier": 4,
+          "staleEvents": 4
+        }
+      ]
+    },
+    {
+      "id": "job-11",
+      "wave": 3,
+      "status": "pending",
+      "output": "public/data/stale-events-campaign-02/job-11.json",
+      "targets": [
+        {
+          "id": "montlucon",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Montluçon",
+            "de": "Montluçon",
+            "hu": "Montluçon",
+            "ro": "Montluçon"
+          },
+          "coords": [
+            2.6025,
+            46.34
+          ],
+          "population": 57871,
+          "tier": 4,
+          "staleEvents": 4
+        },
+        {
+          "id": "avila",
+          "iso2": "ES",
+          "country": "spain",
+          "type": "city",
+          "name": {
+            "en": "Ávila",
+            "de": "Ávila",
+            "hu": "Ávila",
+            "ro": "Ávila"
+          },
+          "coords": [
+            -4.6812,
+            40.6566
+          ],
+          "population": 57700,
+          "tier": 4,
+          "staleEvents": 3
+        },
+        {
+          "id": "narbonne",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Narbonne",
+            "de": "Narbonne",
+            "hu": "Narbonne",
+            "ro": "Narbonne"
+          },
+          "coords": [
+            3.005,
+            43.183
+          ],
+          "population": 57587,
+          "tier": 4,
+          "staleEvents": 2
+        },
+        {
+          "id": "beauvais",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Beauvais",
+            "de": "Beauvais",
+            "hu": "Beauvais",
+            "ro": "Beauvais"
+          },
+          "coords": [
+            2.0875,
+            49.4342
+          ],
+          "population": 57548,
+          "tier": 4,
+          "staleEvents": 9
+        },
+        {
+          "id": "meerbusch",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Meerbusch",
+            "de": "Meerbusch",
+            "hu": "Meerbusch",
+            "ro": "Meerbusch"
+          },
+          "coords": [
+            6.6667,
+            51.2667
+          ],
+          "population": 57440,
+          "tier": 4,
+          "staleEvents": 6
+        }
+      ]
+    },
+    {
+      "id": "job-12",
+      "wave": 3,
+      "status": "pending",
+      "output": "public/data/stale-events-campaign-02/job-12.json",
+      "targets": [
+        {
+          "id": "hyeres",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Hyères",
+            "de": "Hyères",
+            "hu": "Hyères",
+            "ro": "Hyères"
+          },
+          "coords": [
+            6.1286,
+            43.1189
+          ],
+          "population": 56799,
+          "tier": 4,
+          "staleEvents": 5
+        },
+        {
+          "id": "annecy",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Annecy",
+            "de": "Annecy",
+            "hu": "Annecy",
+            "ro": "Annecy"
+          },
+          "coords": [
+            6.1294,
+            45.8992
+          ],
+          "population": 56777,
+          "tier": 4,
+          "staleEvents": 1
+        },
+        {
+          "id": "vannes",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Vannes",
+            "de": "Vannes",
+            "hu": "Vannes",
+            "ro": "Vannes"
+          },
+          "coords": [
+            -2.7608,
+            47.6582
+          ],
+          "population": 55790,
+          "tier": 4,
+          "staleEvents": 1
+        },
+        {
+          "id": "cholet",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Cholet",
+            "de": "Cholet",
+            "hu": "Cholet",
+            "ro": "Cholet"
+          },
+          "coords": [
+            -0.8787,
+            47.0581
+          ],
+          "population": 55772,
+          "tier": 4,
+          "staleEvents": 10
+        },
+        {
+          "id": "saint-quentin",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Saint-Quentin",
+            "de": "Saint-Quentin",
+            "hu": "Saint-Quentin",
+            "ro": "Saint-Quentin"
+          },
+          "coords": [
+            3.286,
+            49.848
+          ],
+          "population": 55407,
+          "tier": 4,
+          "staleEvents": 6
+        }
+      ]
+    },
+    {
+      "id": "job-13",
+      "wave": 3,
+      "status": "pending",
+      "output": "public/data/stale-events-campaign-02/job-13.json",
+      "targets": [
+        {
+          "id": "eger",
+          "iso2": "HU",
+          "country": "hungary",
+          "type": "city",
+          "name": {
+            "en": "Eger",
+            "de": "Erlau",
+            "hu": "Eger",
+            "ro": "Eger"
+          },
+          "coords": [
+            20.3739,
+            47.9025
+          ],
+          "population": 54867,
+          "tier": 4,
+          "staleEvents": 1
+        },
+        {
+          "id": "niort",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Niort",
+            "de": "Niort",
+            "hu": "Niort",
+            "ro": "Niort"
+          },
+          "coords": [
+            -0.46,
+            46.323
+          ],
+          "population": 54660,
+          "tier": 4,
+          "staleEvents": 3
+        },
+        {
+          "id": "giurgiu",
+          "iso2": "RO",
+          "country": "romania",
+          "type": "city",
+          "name": {
+            "en": "Giurgiu",
+            "de": "Giurgiu",
+            "hu": "Gyurgyevó",
+            "ro": "Giurgiu"
+          },
+          "coords": [
+            25.966666666,
+            43.9
+          ],
+          "population": 54551,
+          "tier": 4,
+          "staleEvents": 1
+        },
+        {
+          "id": "bayonne",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Bayonne",
+            "de": "Bayonne",
+            "hu": "Bayonne",
+            "ro": "Bayonne"
+          },
+          "coords": [
+            -1.4734,
+            43.4929
+          ],
+          "population": 54306,
+          "tier": 4,
+          "staleEvents": 10
+        },
+        {
+          "id": "siena",
+          "iso2": "IT",
+          "country": "italy",
+          "type": "city",
+          "name": {
+            "en": "Siena",
+            "de": "Siena",
+            "hu": "Siena",
+            "ro": "Siena"
+          },
+          "coords": [
+            11.3308,
+            43.3188
+          ],
+          "population": 54000,
+          "tier": 4,
+          "staleEvents": 5
+        }
+      ]
+    },
+    {
+      "id": "job-14",
+      "wave": 3,
+      "status": "pending",
+      "output": "public/data/stale-events-campaign-02/job-14.json",
+      "targets": [
+        {
+          "id": "san-remo",
+          "iso2": "IT",
+          "country": "italy",
+          "type": "city",
+          "name": {
+            "en": "San Remo",
+            "de": "San Remo",
+            "hu": "Sanremo",
+            "ro": "San Remo"
+          },
+          "coords": [
+            7.7758,
+            43.8158
+          ],
+          "population": 53800,
+          "tier": 4,
+          "staleEvents": 4
+        },
+        {
+          "id": "cuenca",
+          "iso2": "ES",
+          "country": "spain",
+          "type": "city",
+          "name": {
+            "en": "Cuenca",
+            "de": "Cuenca",
+            "hu": "Cuenca",
+            "ro": "Cuenca"
+          },
+          "coords": [
+            -2.1374,
+            40.0704
+          ],
+          "population": 53700,
+          "tier": 4,
+          "staleEvents": 4
+        },
+        {
+          "id": "chateauroux",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Châteauroux",
+            "de": "Châteauroux",
+            "hu": "Châteauroux",
+            "ro": "Châteauroux"
+          },
+          "coords": [
+            1.691,
+            46.81
+          ],
+          "population": 53429,
+          "tier": 4,
+          "staleEvents": 10
+        },
+        {
+          "id": "cagnes-sur-mer",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Cagnes-sur-Mer",
+            "de": "Cagnes-sur-Mer",
+            "hu": "Cagnes-sur-Mer",
+            "ro": "Cagnes-sur-Mer"
+          },
+          "coords": [
+            7.1483,
+            43.6636
+          ],
+          "population": 53354,
+          "tier": 4,
+          "staleEvents": 2
+        },
+        {
+          "id": "romania-deva-cities-v2",
+          "iso2": "RO",
+          "country": "romania",
+          "type": "city",
+          "name": {
+            "en": "Deva",
+            "de": "Diemrich",
+            "hu": "Déva",
+            "ro": "Deva"
+          },
+          "coords": [
+            22.9,
+            45.8833
+          ],
+          "population": 53113,
+          "tier": 4,
+          "staleEvents": 1
+        }
+      ]
+    },
+    {
+      "id": "job-15",
+      "wave": 3,
+      "status": "pending",
+      "output": "public/data/stale-events-campaign-02/job-15.json",
+      "targets": [
+        {
+          "id": "belgium-verviers-cities-v2",
+          "iso2": "BE",
+          "country": "belgium",
+          "type": "city",
+          "name": {
+            "en": "Verviers",
+            "de": "Verviers",
+            "hu": "Verviers",
+            "ro": "Verviers"
+          },
+          "coords": [
+            5.8631,
+            50.5932
+          ],
+          "population": 52824,
+          "tier": 4,
+          "staleEvents": 10
+        },
+        {
+          "id": "wetzlar-extra",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Wetzlar",
+            "de": "Wetzlar",
+            "hu": "Wetzlar",
+            "ro": "Wetzlar"
+          },
+          "coords": [
+            8.5,
+            50.55
+          ],
+          "population": 52656,
+          "tier": 4,
+          "staleEvents": 1
+        },
+        {
+          "id": "saint-brieuc",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Saint-Brieuc",
+            "de": "Saint-Brieuc",
+            "hu": "Saint-Brieuc",
+            "ro": "Saint-Brieuc"
+          },
+          "coords": [
+            -2.76,
+            48.5142
+          ],
+          "population": 52559,
+          "tier": 4,
+          "staleEvents": 6
+        },
+        {
+          "id": "laval",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Laval",
+            "de": "Laval",
+            "hu": "Laval",
+            "ro": "Laval"
+          },
+          "coords": [
+            -0.7703,
+            48.0734
+          ],
+          "population": 52359,
+          "tier": 4,
+          "staleEvents": 10
+        },
+        {
+          "id": "chalons-en-champagne",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Châlons-en-Champagne",
+            "de": "Châlons-en-Champagne",
+            "hu": "Châlons-en-Champagne",
+            "ro": "Châlons-en-Champagne"
+          },
+          "coords": [
+            4.3644,
+            48.9567
+          ],
+          "population": 52275,
+          "tier": 4,
+          "staleEvents": 10
+        }
+      ]
+    },
+    {
+      "id": "job-16",
+      "wave": 4,
+      "status": "pending",
+      "output": "public/data/stale-events-campaign-02/job-16.json",
+      "targets": [
+        {
+          "id": "pula",
+          "iso2": "HR",
+          "country": "croatia",
+          "type": "city",
+          "name": {
+            "en": "Pula",
+            "de": "Pula",
+            "hu": "Pula",
+            "ro": "Pula"
+          },
+          "coords": [
+            13.8496,
+            44.8666
+          ],
+          "population": 52220,
+          "tier": 4,
+          "staleEvents": 6
+        },
+        {
+          "id": "brive-la-gaillarde",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Brive-la-Gaillarde",
+            "de": "Brive-la-Gaillarde",
+            "hu": "Brive-la-Gaillarde",
+            "ro": "Brive-la-Gaillarde"
+          },
+          "coords": [
+            1.533,
+            45.159
+          ],
+          "population": 51864,
+          "tier": 4,
+          "staleEvents": 10
+        },
+        {
+          "id": "rastatt",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Rastatt",
+            "de": "Rastatt",
+            "hu": "Rastatt",
+            "ro": "Rastatt"
+          },
+          "coords": [
+            8.2031,
+            48.8572
+          ],
+          "population": 51800,
+          "tier": 4,
+          "staleEvents": 1
+        },
+        {
+          "id": "saint-malo",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Saint-Malo",
+            "de": "Saint-Malo",
+            "hu": "Saint-Malo",
+            "ro": "Saint-Malo"
+          },
+          "coords": [
+            -2.0249,
+            48.6493
+          ],
+          "population": 50675,
+          "tier": 4,
+          "staleEvents": 10
+        },
+        {
+          "id": "floresti",
+          "iso2": "RO",
+          "country": "romania",
+          "type": "city",
+          "name": {
+            "en": "Florești",
+            "de": "Florești",
+            "hu": "Szászfenes",
+            "ro": "Florești"
+          },
+          "coords": [
+            23.490833333,
+            46.7475
+          ],
+          "population": 50307,
+          "tier": 5,
+          "staleEvents": 1
+        }
+      ]
+    },
+    {
+      "id": "job-17",
+      "wave": 4,
+      "status": "pending",
+      "output": "public/data/stale-events-campaign-02/job-17.json",
+      "targets": [
+        {
+          "id": "ro-poi-sfantu-gheorghe",
+          "iso2": "RO",
+          "country": "romania",
+          "type": "city",
+          "name": {
+            "en": "Sfântu Gheorghe",
+            "de": "Sankt Georgen",
+            "hu": "Sepsiszentgyörgy",
+            "ro": "Sfântu Gheorghe"
+          },
+          "coords": [
+            25.7833,
+            45.8667
+          ],
+          "population": 50080,
+          "tier": 4,
+          "staleEvents": 3
+        },
+        {
+          "id": "ibiza-town",
+          "iso2": "ES",
+          "country": "spain",
+          "type": "city",
+          "name": {
+            "en": "Ibiza Town",
+            "de": "Ibiza-Stadt",
+            "hu": "Ibiza-város",
+            "ro": "Ibiza Town"
+          },
+          "coords": [
+            1.4206,
+            38.9067
+          ],
+          "population": 50000,
+          "tier": 4,
+          "staleEvents": 4
+        },
+        {
+          "id": "belfort",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Belfort",
+            "de": "Belfort",
+            "hu": "Belfort",
+            "ro": "Belfort"
+          },
+          "coords": [
+            6.8628,
+            47.6375
+          ],
+          "population": 49926,
+          "tier": 4,
+          "staleEvents": 7
+        },
+        {
+          "id": "italy-pordenone-cities-v2",
+          "iso2": "IT",
+          "country": "italy",
+          "type": "city",
+          "name": {
+            "en": "Pordenone",
+            "de": "Pordenone",
+            "hu": "Pordenone",
+            "ro": "Pordenone"
+          },
+          "coords": [
+            12.6587,
+            45.9554
+          ],
+          "population": 49878,
+          "tier": 4,
+          "staleEvents": 4
+        },
+        {
+          "id": "blois",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Blois",
+            "de": "Blois",
+            "hu": "Blois",
+            "ro": "Blois"
+          },
+          "coords": [
+            1.329,
+            47.5861
+          ],
+          "population": 49778,
+          "tier": 4,
+          "staleEvents": 3
+        }
+      ]
+    },
+    {
+      "id": "job-18",
+      "wave": 4,
+      "status": "pending",
+      "output": "public/data/stale-events-campaign-02/job-18.json",
+      "targets": [
+        {
+          "id": "monopoli",
+          "iso2": "IT",
+          "country": "italy",
+          "type": "city",
+          "name": {
+            "en": "Monopoli",
+            "de": "Monopoli",
+            "hu": "Monopoli",
+            "ro": "Monopoli"
+          },
+          "coords": [
+            17.3014,
+            40.9542
+          ],
+          "population": 49600,
+          "tier": 4,
+          "staleEvents": 4
+        },
+        {
+          "id": "angouleme",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Angoulême",
+            "de": "Angoulême",
+            "hu": "Angoulême",
+            "ro": "Angoulême"
+          },
+          "coords": [
+            0.16,
+            45.65
+          ],
+          "population": 49468,
+          "tier": 4,
+          "staleEvents": 6
+        },
+        {
+          "id": "martigues",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Martigues",
+            "de": "Martigues",
+            "hu": "Martigues",
+            "ro": "Martigues"
+          },
+          "coords": [
+            5.0475,
+            43.4053
+          ],
+          "population": 49403,
+          "tier": 4,
+          "staleEvents": 7
+        },
+        {
+          "id": "nagykanizsa",
+          "iso2": "HU",
+          "country": "hungary",
+          "type": "city",
+          "name": {
+            "en": "Nagykanizsa",
+            "de": "Großkirchen",
+            "hu": "Nagykanizsa",
+            "ro": "Nagykanizsa"
+          },
+          "coords": [
+            16.9911,
+            46.45
+          ],
+          "population": 49070,
+          "tier": 4,
+          "staleEvents": 1
+        },
+        {
+          "id": "mantova",
+          "iso2": "IT",
+          "country": "italy",
+          "type": "city",
+          "name": {
+            "en": "Mantua",
+            "de": "Mantua",
+            "hu": "Mantova",
+            "ro": "Mantova"
+          },
+          "coords": [
+            10.7914,
+            45.1564
+          ],
+          "population": 49000,
+          "tier": 4,
+          "staleEvents": 6
+        }
+      ]
+    },
+    {
+      "id": "job-19",
+      "wave": 4,
+      "status": "pending",
+      "output": "public/data/stale-events-campaign-02/job-19.json",
+      "targets": [
+        {
+          "id": "costa-adeje",
+          "iso2": "ES",
+          "country": "spain",
+          "type": "city",
+          "name": {
+            "en": "Costa Adeje",
+            "de": "Costa Adeje",
+            "hu": "Costa Adeje",
+            "ro": "Costa Adeje"
+          },
+          "coords": [
+            -16.7308,
+            28.0922
+          ],
+          "population": 49000,
+          "tier": 4,
+          "staleEvents": 4
+        },
+        {
+          "id": "bastia",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Bastia",
+            "de": "Bastia",
+            "hu": "Bastia",
+            "ro": "Bastia"
+          },
+          "coords": [
+            9.4494,
+            42.7
+          ],
+          "population": 48768,
+          "tier": 4,
+          "staleEvents": 1
+        },
+        {
+          "id": "dunaujvaros",
+          "iso2": "HU",
+          "country": "hungary",
+          "type": "city",
+          "name": {
+            "en": "Dunaújváros",
+            "de": "Neustadt an der Donau",
+            "hu": "Dunaújváros",
+            "ro": "Dunaújváros"
+          },
+          "coords": [
+            18.9397,
+            46.9619
+          ],
+          "population": 48484,
+          "tier": 4,
+          "staleEvents": 1
+        },
+        {
+          "id": "ascoli-piceno",
+          "iso2": "IT",
+          "country": "italy",
+          "type": "city",
+          "name": {
+            "en": "Ascoli Piceno",
+            "de": "Ascoli Piceno",
+            "hu": "Ascoli Piceno",
+            "ro": "Ascoli Piceno"
+          },
+          "coords": [
+            13.575,
+            42.8536
+          ],
+          "population": 47900,
+          "tier": 4,
+          "staleEvents": 5
+        },
+        {
+          "id": "aubagne",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Aubagne",
+            "de": "Aubagne",
+            "hu": "Aubagne",
+            "ro": "Aubagne"
+          },
+          "coords": [
+            5.5708,
+            43.2908
+          ],
+          "population": 47724,
+          "tier": 4,
+          "staleEvents": 2
+        }
+      ]
+    },
+    {
+      "id": "job-20",
+      "wave": 4,
+      "status": "pending",
+      "output": "public/data/stale-events-campaign-02/job-20.json",
+      "targets": [
+        {
+          "id": "chalon-sur-saone",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Chalon-sur-Saône",
+            "de": "Chalon-sur-Saône",
+            "hu": "Chalon-sur-Saône",
+            "ro": "Chalon-sur-Saône"
+          },
+          "coords": [
+            4.8539,
+            46.7811
+          ],
+          "population": 47085,
+          "tier": 4,
+          "staleEvents": 9
+        },
+        {
+          "id": "denmark-valby-garden-cities-v2",
+          "iso2": "DK",
+          "country": "denmark",
+          "type": "city",
+          "name": {
+            "en": "Sondermarken",
+            "de": "Søndermarken",
+            "hu": "Søndermarken",
+            "ro": "Søndermarken"
+          },
+          "coords": [
+            12.52,
+            55.67
+          ],
+          "population": 46161,
+          "tier": 4,
+          "staleEvents": 2
+        },
+        {
+          "id": "ales",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Alès",
+            "de": "Alès",
+            "hu": "Alès",
+            "ro": "Alès"
+          },
+          "coords": [
+            4.0808,
+            44.1272
+          ],
+          "population": 46125,
+          "tier": 4,
+          "staleEvents": 1
+        },
+        {
+          "id": "sete",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Sète",
+            "de": "Sète",
+            "hu": "Sète",
+            "ro": "Sète"
+          },
+          "coords": [
+            3.699,
+            43.402
+          ],
+          "population": 45337,
+          "tier": 4,
+          "staleEvents": 10
+        },
+        {
+          "id": "city-pascani-extra",
+          "iso2": "RO",
+          "country": "romania",
+          "type": "city",
+          "name": {
+            "en": "Pașcani",
+            "de": "Pascani",
+            "hu": "Páskán",
+            "ro": "Pașcani"
+          },
+          "coords": [
+            26.72,
+            47.25
+          ],
+          "population": 45000,
+          "tier": 4,
+          "staleEvents": 2
+        }
+      ]
+    },
+    {
+      "id": "job-21",
+      "wave": 5,
+      "status": "pending",
+      "output": "public/data/stale-events-campaign-02/job-21.json",
+      "targets": [
+        {
+          "id": "istres",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Istres",
+            "de": "Istres",
+            "hu": "Istres",
+            "ro": "Istres"
+          },
+          "coords": [
+            4.9889,
+            43.5142
+          ],
+          "population": 44577,
+          "tier": 4,
+          "staleEvents": 6
+        },
+        {
+          "id": "tarbes",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Tarbes",
+            "de": "Tarbes",
+            "hu": "Tarbes",
+            "ro": "Tarbes"
+          },
+          "coords": [
+            -0.0781,
+            43.2332
+          ],
+          "population": 44529,
+          "tier": 5,
+          "staleEvents": 6
+        },
+        {
+          "id": "valenciennes",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Valenciennes",
+            "de": "Valenciennes",
+            "hu": "Valenciennes",
+            "ro": "Valenciennes"
+          },
+          "coords": [
+            3.523,
+            50.357
+          ],
+          "population": 44509,
+          "tier": 4,
+          "staleEvents": 1
+        },
+        {
+          "id": "compiegne",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Compiègne",
+            "de": "Compiègne",
+            "hu": "Compiègne",
+            "ro": "Compiègne"
+          },
+          "coords": [
+            2.826,
+            49.414
+          ],
+          "population": 44243,
+          "tier": 4,
+          "staleEvents": 10
+        },
+        {
+          "id": "city-petrosani-extra",
+          "iso2": "RO",
+          "country": "romania",
+          "type": "city",
+          "name": {
+            "en": "Petroșani",
+            "de": "Petroschen",
+            "hu": "Petrozsény",
+            "ro": "Petroșani"
+          },
+          "coords": [
+            23.37,
+            45.41
+          ],
+          "population": 44187,
+          "tier": 4,
+          "staleEvents": 2
+        }
+      ]
+    },
+    {
+      "id": "job-22",
+      "wave": 5,
+      "status": "pending",
+      "output": "public/data/stale-events-campaign-02/job-22.json",
+      "targets": [
+        {
+          "id": "alghero",
+          "iso2": "IT",
+          "country": "italy",
+          "type": "city",
+          "name": {
+            "en": "Alghero",
+            "de": "Alghero",
+            "hu": "Alghero",
+            "ro": "Alghero"
+          },
+          "coords": [
+            8.3194,
+            40.5594
+          ],
+          "population": 44000,
+          "tier": 4,
+          "staleEvents": 6
+        },
+        {
+          "id": "bourg-en-bresse",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Bourg-en-Bresse",
+            "de": "Bourg-en-Bresse",
+            "hu": "Bourg-en-Bresse",
+            "ro": "Bourg-en-Bresse"
+          },
+          "coords": [
+            5.2281,
+            46.2047
+          ],
+          "population": 43454,
+          "tier": 4,
+          "staleEvents": 1
+        },
+        {
+          "id": "city-turda-extra",
+          "iso2": "RO",
+          "country": "romania",
+          "type": "city",
+          "name": {
+            "en": "Turda",
+            "de": "Thorenburg",
+            "hu": "Torda",
+            "ro": "Turda"
+          },
+          "coords": [
+            23.78,
+            46.56
+          ],
+          "population": 43319,
+          "tier": 4,
+          "staleEvents": 2
+        },
+        {
+          "id": "romania-turda-cities-v2",
+          "iso2": "RO",
+          "country": "romania",
+          "type": "city",
+          "name": {
+            "en": "Turda",
+            "de": "Turda",
+            "hu": "Torda",
+            "ro": "Turda"
+          },
+          "coords": [
+            23.7745,
+            46.5709
+          ],
+          "population": 43319,
+          "tier": 4,
+          "staleEvents": 2
+        },
+        {
+          "id": "city-medgidia-extra",
+          "iso2": "RO",
+          "country": "romania",
+          "type": "city",
+          "name": {
+            "en": "Medgidia",
+            "de": "Medgidia",
+            "hu": "Medgidia",
+            "ro": "Medgidia"
+          },
+          "coords": [
+            28.26,
+            44.25
+          ],
+          "population": 43315,
+          "tier": 4,
+          "staleEvents": 2
+        }
+      ]
+    },
+    {
+      "id": "job-23",
+      "wave": 5,
+      "status": "pending",
+      "output": "public/data/stale-events-campaign-02/job-23.json",
+      "targets": [
+        {
+          "id": "city-lugoj-extra",
+          "iso2": "RO",
+          "country": "romania",
+          "type": "city",
+          "name": {
+            "en": "Lugoj",
+            "de": "Lugos",
+            "hu": "Lugos",
+            "ro": "Lugoj"
+          },
+          "coords": [
+            21.9,
+            45.68
+          ],
+          "population": 43243,
+          "tier": 4,
+          "staleEvents": 2
+        },
+        {
+          "id": "le-cannet",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Le Cannet",
+            "de": "Le Cannet",
+            "hu": "Le Cannet",
+            "ro": "Le Cannet"
+          },
+          "coords": [
+            7.0186,
+            43.5761
+          ],
+          "population": 43187,
+          "tier": 4,
+          "staleEvents": 1
+        },
+        {
+          "id": "castres",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Castres",
+            "de": "Castres",
+            "hu": "Castres",
+            "ro": "Castres"
+          },
+          "coords": [
+            2.24,
+            43.6058
+          ],
+          "population": 42923,
+          "tier": 4,
+          "staleEvents": 1
+        },
+        {
+          "id": "gap",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Gap",
+            "de": "Gap",
+            "hu": "Gap",
+            "ro": "Gap"
+          },
+          "coords": [
+            6.0778,
+            44.5586
+          ],
+          "population": 42567,
+          "tier": 4,
+          "staleEvents": 3
+        },
+        {
+          "id": "boulogne-sur-mer",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Boulogne-sur-Mer",
+            "de": "Boulogne-sur-Mer",
+            "hu": "Boulogne-sur-Mer",
+            "ro": "Boulogne-sur-Mer"
+          },
+          "coords": [
+            1.613,
+            50.726
+          ],
+          "population": 42537,
+          "tier": 4,
+          "staleEvents": 2
+        }
+      ]
+    },
+    {
+      "id": "job-24",
+      "wave": 5,
+      "status": "pending",
+      "output": "public/data/stale-events-campaign-02/job-24.json",
+      "targets": [
+        {
+          "id": "city-campina-extra",
+          "iso2": "RO",
+          "country": "romania",
+          "type": "city",
+          "name": {
+            "en": "Câmpina",
+            "de": "Campina",
+            "hu": "Campina",
+            "ro": "Câmpina"
+          },
+          "coords": [
+            25.73,
+            45.13
+          ],
+          "population": 41554,
+          "tier": 4,
+          "staleEvents": 2
+        },
+        {
+          "id": "ro-poi-slobozia",
+          "iso2": "RO",
+          "country": "romania",
+          "type": "city",
+          "name": {
+            "en": "Slobozia",
+            "de": "Slobozia",
+            "hu": "Slobozia",
+            "ro": "Slobozia"
+          },
+          "coords": [
+            27.3667,
+            44.5667
+          ],
+          "population": 41550,
+          "tier": 4,
+          "staleEvents": 1
+        },
+        {
+          "id": "villepinte",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Villepinte",
+            "de": "Villepinte",
+            "hu": "Villepinte",
+            "ro": "Villepinte"
+          },
+          "coords": [
+            2.5303,
+            48.9606
+          ],
+          "population": 41470,
+          "tier": 4,
+          "staleEvents": 1
+        },
+        {
+          "id": "douai",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Douai",
+            "de": "Douai",
+            "hu": "Douai",
+            "ro": "Douai"
+          },
+          "coords": [
+            3.0792,
+            50.3708
+          ],
+          "population": 41189,
+          "tier": 4,
+          "staleEvents": 2
+        },
+        {
+          "id": "city-tecuci-extra",
+          "iso2": "RO",
+          "country": "romania",
+          "type": "city",
+          "name": {
+            "en": "Tecuci",
+            "de": "Tekutsch",
+            "hu": "Tekucs",
+            "ro": "Tecuci"
+          },
+          "coords": [
+            27.42,
+            45.85
+          ],
+          "population": 41154,
+          "tier": 4,
+          "staleEvents": 2
+        }
+      ]
+    },
+    {
+      "id": "job-25",
+      "wave": 5,
+      "status": "pending",
+      "output": "public/data/stale-events-campaign-02/job-25.json",
+      "targets": [
+        {
+          "id": "merano",
+          "iso2": "IT",
+          "country": "italy",
+          "type": "city",
+          "name": {
+            "en": "Merano",
+            "de": "Meran",
+            "hu": "Merano",
+            "ro": "Merano"
+          },
+          "coords": [
+            11.1606,
+            46.6712
+          ],
+          "population": 41000,
+          "tier": 4,
+          "staleEvents": 7
+        },
+        {
+          "id": "antequera",
+          "iso2": "ES",
+          "country": "spain",
+          "type": "city",
+          "name": {
+            "en": "Antequera",
+            "de": "Antequera",
+            "hu": "Antequera",
+            "ro": "Antequera"
+          },
+          "coords": [
+            -4.5614,
+            37.0194
+          ],
+          "population": 41000,
+          "tier": 4,
+          "staleEvents": 4
+        },
+        {
+          "id": "colomiers",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Colomiers",
+            "de": "Colomiers",
+            "hu": "Colomiers",
+            "ro": "Colomiers"
+          },
+          "coords": [
+            1.3358,
+            43.6128
+          ],
+          "population": 40916,
+          "tier": 4,
+          "staleEvents": 1
+        },
+        {
+          "id": "lloret-de-mar",
+          "iso2": "ES",
+          "country": "spain",
+          "type": "city",
+          "name": {
+            "en": "Lloret de Mar",
+            "de": "Lloret de Mar",
+            "hu": "Lloret de Mar",
+            "ro": "Lloret de Mar"
+          },
+          "coords": [
+            2.845,
+            41.7
+          ],
+          "population": 40800,
+          "tier": 4,
+          "staleEvents": 4
+        },
+        {
+          "id": "city-swords-extra",
+          "iso2": "IE",
+          "country": "ireland",
+          "type": "city",
+          "name": {
+            "en": "Swords",
+            "de": "Swords",
+            "hu": "Swords",
+            "ro": "Swords"
+          },
+          "coords": [
+            -6.2181,
+            53.4597
+          ],
+          "population": 40776,
+          "tier": 4,
+          "staleEvents": 4
+        }
+      ]
+    },
+    {
+      "id": "job-26",
+      "wave": 6,
+      "status": "pending",
+      "output": "public/data/stale-events-campaign-02/job-26.json",
+      "targets": [
+        {
+          "id": "city-sighetu-marmatiei-extra",
+          "iso2": "RO",
+          "country": "romania",
+          "type": "city",
+          "name": {
+            "en": "Sighetu Marmației",
+            "de": "Marmaroschsiget",
+            "hu": "Máramarossziget",
+            "ro": "Sighetu Marmației"
+          },
+          "coords": [
+            23.89,
+            47.93
+          ],
+          "population": 40653,
+          "tier": 4,
+          "staleEvents": 2
+        },
+        {
+          "id": "chartres",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Chartres",
+            "de": "Chartres",
+            "hu": "Chartres",
+            "ro": "Chartres"
+          },
+          "coords": [
+            1.489,
+            48.4461
+          ],
+          "population": 40361,
+          "tier": 4,
+          "staleEvents": 10
+        },
+        {
+          "id": "city-mangalia-extra",
+          "iso2": "RO",
+          "country": "romania",
+          "type": "city",
+          "name": {
+            "en": "Mangalia",
+            "de": "Mangalia",
+            "hu": "Mangalia",
+            "ro": "Mangalia"
+          },
+          "coords": [
+            28.58,
+            43.82
+          ],
+          "population": 39619,
+          "tier": 4,
+          "staleEvents": 2
+        },
+        {
+          "id": "romania-medias-cities-v2",
+          "iso2": "RO",
+          "country": "romania",
+          "type": "city",
+          "name": {
+            "en": "Mediaș",
+            "de": "Mediasch",
+            "hu": "Medgyes",
+            "ro": "Mediaș"
+          },
+          "coords": [
+            24.3524,
+            46.1664
+          ],
+          "population": 39505,
+          "tier": 4,
+          "staleEvents": 1
+        },
+        {
+          "id": "wurselen",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Würselen",
+            "de": "Würselen",
+            "hu": "Würselen",
+            "ro": "Würselen"
+          },
+          "coords": [
+            6.1275,
+            50.8247
+          ],
+          "population": 38750,
+          "tier": 4,
+          "staleEvents": 1
+        }
+      ]
+    },
+    {
+      "id": "job-27",
+      "wave": 6,
+      "status": "pending",
+      "output": "public/data/stale-events-campaign-02/job-27.json",
+      "targets": [
+        {
+          "id": "kastela",
+          "iso2": "HR",
+          "country": "croatia",
+          "type": "city",
+          "name": {
+            "en": "Kaštela",
+            "de": "Kaštela",
+            "hu": "Kaštela",
+            "ro": "Kaštela"
+          },
+          "coords": [
+            16.35,
+            43.55
+          ],
+          "population": 38667,
+          "tier": 5,
+          "staleEvents": 3
+        },
+        {
+          "id": "maspalomas",
+          "iso2": "ES",
+          "country": "spain",
+          "type": "city",
+          "name": {
+            "en": "Maspalomas",
+            "de": "Maspalomas",
+            "hu": "Maspalomas",
+            "ro": "Maspalomas"
+          },
+          "coords": [
+            -15.5856,
+            27.7606
+          ],
+          "population": 38600,
+          "tier": 4,
+          "staleEvents": 6
+        },
+        {
+          "id": "city-ramnicu-sarat-extra",
+          "iso2": "RO",
+          "country": "romania",
+          "type": "city",
+          "name": {
+            "en": "Râmnicu Sărat",
+            "de": "Rümnick",
+            "hu": "Râmnicu Sărat",
+            "ro": "Râmnicu Sărat"
+          },
+          "coords": [
+            27.05,
+            45.38
+          ],
+          "population": 38526,
+          "tier": 4,
+          "staleEvents": 2
+        },
+        {
+          "id": "blanes",
+          "iso2": "ES",
+          "country": "spain",
+          "type": "city",
+          "name": {
+            "en": "Blanes",
+            "de": "Blanes",
+            "hu": "Blanes",
+            "ro": "Blanes"
+          },
+          "coords": [
+            2.7906,
+            41.674
+          ],
+          "population": 38500,
+          "tier": 4,
+          "staleEvents": 5
+        },
+        {
+          "id": "la-ciotat",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "La Ciotat",
+            "de": "La Ciotat",
+            "hu": "La Ciotat",
+            "ro": "La Ciotat"
+          },
+          "coords": [
+            5.6081,
+            43.1761
+          ],
+          "population": 38477,
+          "tier": 4,
+          "staleEvents": 6
+        }
+      ]
+    },
+    {
+      "id": "job-28",
+      "wave": 6,
+      "status": "pending",
+      "output": "public/data/stale-events-campaign-02/job-28.json",
+      "targets": [
+        {
+          "id": "lens",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Lens",
+            "de": "Lens",
+            "hu": "Lens",
+            "ro": "Lens"
+          },
+          "coords": [
+            2.826,
+            50.433
+          ],
+          "population": 38265,
+          "tier": 4,
+          "staleEvents": 3
+        },
+        {
+          "id": "city-dej-extra",
+          "iso2": "RO",
+          "country": "romania",
+          "type": "city",
+          "name": {
+            "en": "Dej",
+            "de": "Burglos",
+            "hu": "Dés",
+            "ro": "Dej"
+          },
+          "coords": [
+            23.87,
+            47.14
+          ],
+          "population": 38033,
+          "tier": 4,
+          "staleEvents": 1
+        },
+        {
+          "id": "santa-eularia",
+          "iso2": "ES",
+          "country": "spain",
+          "type": "city",
+          "name": {
+            "en": "Santa Eulària des Riu",
+            "de": "Santa Eulària des Riu",
+            "hu": "Santa Eulària des Riu",
+            "ro": "Santa Eulària des Riu"
+          },
+          "coords": [
+            1.5347,
+            38.9844
+          ],
+          "population": 38000,
+          "tier": 4,
+          "staleEvents": 6
+        },
+        {
+          "id": "thonon-les-bains",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Thonon-les-Bains",
+            "de": "Thonon-les-Bains",
+            "hu": "Thonon-les-Bains",
+            "ro": "Thonon-les-Bains"
+          },
+          "coords": [
+            6.4797,
+            46.3706
+          ],
+          "population": 37928,
+          "tier": 4,
+          "staleEvents": 2
+        },
+        {
+          "id": "tuttlingen",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Tuttlingen",
+            "de": "Tuttlingen",
+            "hu": "Tuttlingen",
+            "ro": "Tuttlingen"
+          },
+          "coords": [
+            8.8233,
+            47.985
+          ],
+          "population": 37784,
+          "tier": 4,
+          "staleEvents": 1
+        }
+      ]
+    },
+    {
+      "id": "job-29",
+      "wave": 6,
+      "status": "pending",
+      "output": "public/data/stale-events-campaign-02/job-29.json",
+      "targets": [
+        {
+          "id": "villefranche-sur-saone",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Villefranche-sur-Saône",
+            "de": "Villefranche-sur-Saône",
+            "hu": "Villefranche-sur-Saône",
+            "ro": "Villefranche-sur-Saône"
+          },
+          "coords": [
+            4.7197,
+            45.9894
+          ],
+          "population": 37783,
+          "tier": 4,
+          "staleEvents": 1
+        },
+        {
+          "id": "baja",
+          "iso2": "HU",
+          "country": "hungary",
+          "type": "city",
+          "name": {
+            "en": "Baja",
+            "de": "Frankenstadt",
+            "hu": "Baja",
+            "ro": "Baja"
+          },
+          "coords": [
+            18.95,
+            46.1833
+          ],
+          "population": 37714,
+          "tier": 4,
+          "staleEvents": 2
+        },
+        {
+          "id": "france-tours-south-cities-v2",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Tours-Sud",
+            "de": "Tours-Sud",
+            "hu": "Tours-Sud",
+            "ro": "Tours-Sud"
+          },
+          "coords": [
+            0.68,
+            47.37
+          ],
+          "population": 37466,
+          "tier": 4,
+          "staleEvents": 2
+        },
+        {
+          "id": "saint-dizier",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Saint-Dizier",
+            "de": "Saint-Dizier",
+            "hu": "Saint-Dizier",
+            "ro": "Saint-Dizier"
+          },
+          "coords": [
+            4.9489,
+            48.6378
+          ],
+          "population": 37266,
+          "tier": 4,
+          "staleEvents": 7
+        },
+        {
+          "id": "vitrolles",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Vitrolles",
+            "de": "Vitrolles",
+            "hu": "Vitrolles",
+            "ro": "Vitrolles"
+          },
+          "coords": [
+            5.2497,
+            43.4481
+          ],
+          "population": 37190,
+          "tier": 4,
+          "staleEvents": 1
+        }
+      ]
+    },
+    {
+      "id": "job-30",
+      "wave": 6,
+      "status": "pending",
+      "output": "public/data/stale-events-campaign-02/job-30.json",
+      "targets": [
+        {
+          "id": "saint-raphael",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Saint-Raphaël",
+            "de": "Saint-Raphaël",
+            "hu": "Saint-Raphaël",
+            "ro": "Saint-Raphaël"
+          },
+          "coords": [
+            6.7678,
+            43.4247
+          ],
+          "population": 37113,
+          "tier": 4,
+          "staleEvents": 2
+        },
+        {
+          "id": "cherbourg-octeville",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Cherbourg-Octeville",
+            "de": "Cherbourg-Octeville",
+            "hu": "Cherbourg-Octeville",
+            "ro": "Cherbourg-Octeville"
+          },
+          "coords": [
+            -1.625,
+            49.6389
+          ],
+          "population": 37055,
+          "tier": 5,
+          "staleEvents": 2
+        },
+        {
+          "id": "conflans-sainte-honorine",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Conflans-Sainte-Honorine",
+            "de": "Conflans-Sainte-Honorine",
+            "hu": "Conflans-Sainte-Honorine",
+            "ro": "Conflans-Sainte-Honorine"
+          },
+          "coords": [
+            2.0944,
+            48.9972
+          ],
+          "population": 36958,
+          "tier": 4,
+          "staleEvents": 1
+        },
+        {
+          "id": "auxerre",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Auxerre",
+            "de": "Auxerre",
+            "hu": "Auxerre",
+            "ro": "Auxerre"
+          },
+          "coords": [
+            3.5669,
+            47.7975
+          ],
+          "population": 36804,
+          "tier": 4,
+          "staleEvents": 10
+        },
+        {
+          "id": "meyzieu",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Meyzieu",
+            "de": "Meyzieu",
+            "hu": "Meyzieu",
+            "ro": "Meyzieu"
+          },
+          "coords": [
+            5.0028,
+            45.7664
+          ],
+          "population": 36687,
+          "tier": 5,
+          "staleEvents": 1
+        }
+      ]
+    },
+    {
+      "id": "job-31",
+      "wave": 7,
+      "status": "pending",
+      "output": "public/data/stale-events-campaign-02/job-31.json",
+      "targets": [
+        {
+          "id": "spoleto",
+          "iso2": "IT",
+          "country": "italy",
+          "type": "city",
+          "name": {
+            "en": "Spoleto",
+            "de": "Spoleto",
+            "hu": "Spoleto",
+            "ro": "Spoleto"
+          },
+          "coords": [
+            12.7384,
+            42.7344
+          ],
+          "population": 36500,
+          "tier": 5,
+          "staleEvents": 6
+        },
+        {
+          "id": "creil",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Creil",
+            "de": "Creil",
+            "hu": "Creil",
+            "ro": "Creil"
+          },
+          "coords": [
+            2.4828,
+            49.2578
+          ],
+          "population": 36494,
+          "tier": 4,
+          "staleEvents": 3
+        },
+        {
+          "id": "cegled",
+          "iso2": "HU",
+          "country": "hungary",
+          "type": "city",
+          "name": {
+            "en": "Cegléd",
+            "de": "Ziegled",
+            "hu": "Cegléd",
+            "ro": "Cegléd"
+          },
+          "coords": [
+            19.8,
+            47.1833
+          ],
+          "population": 36391,
+          "tier": 4,
+          "staleEvents": 1
+        },
+        {
+          "id": "vac",
+          "iso2": "HU",
+          "country": "hungary",
+          "type": "city",
+          "name": {
+            "en": "Vác",
+            "de": "Waitzen",
+            "hu": "Vác",
+            "ro": "Vác"
+          },
+          "coords": [
+            19.1306,
+            47.7756
+          ],
+          "population": 36310,
+          "tier": 4,
+          "staleEvents": 1
+        },
+        {
+          "id": "vierzon",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Vierzon",
+            "de": "Vierzon",
+            "hu": "Vierzon",
+            "ro": "Vierzon"
+          },
+          "coords": [
+            2.0683,
+            47.2219
+          ],
+          "population": 35699,
+          "tier": 5,
+          "staleEvents": 8
+        }
+      ]
+    },
+    {
+      "id": "job-32",
+      "wave": 7,
+      "status": "pending",
+      "output": "public/data/stale-events-campaign-02/job-32.json",
+      "targets": [
+        {
+          "id": "neu-isenburg-extra",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Neu-Isenburg",
+            "de": "Neu-Isenburg",
+            "hu": "Neu-Isenburg",
+            "ro": "Neu-Isenburg"
+          },
+          "coords": [
+            8.7,
+            50.05
+          ],
+          "population": 35293,
+          "tier": 4,
+          "staleEvents": 1
+        },
+        {
+          "id": "dreux",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Dreux",
+            "de": "Dreux",
+            "hu": "Dreux",
+            "ro": "Dreux"
+          },
+          "coords": [
+            1.3656,
+            48.7364
+          ],
+          "population": 35230,
+          "tier": 4,
+          "staleEvents": 3
+        },
+        {
+          "id": "macon",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Mâcon",
+            "de": "Mâcon",
+            "hu": "Mâcon",
+            "ro": "Mâcon"
+          },
+          "coords": [
+            4.8319,
+            46.3067
+          ],
+          "population": 35177,
+          "tier": 4,
+          "staleEvents": 7
+        },
+        {
+          "id": "poland-sopot-cities-v2",
+          "iso2": "PL",
+          "country": "poland",
+          "type": "city",
+          "name": {
+            "en": "Sopot",
+            "de": "Sopot",
+            "hu": "Sopot",
+            "ro": "Sopot"
+          },
+          "coords": [
+            18.5601,
+            54.4414
+          ],
+          "population": 35049,
+          "tier": 4,
+          "staleEvents": 3
+        },
+        {
+          "id": "aguilas",
+          "iso2": "ES",
+          "country": "spain",
+          "type": "city",
+          "name": {
+            "en": "Águilas",
+            "de": "Águilas",
+            "hu": "Águilas",
+            "ro": "Águilas"
+          },
+          "coords": [
+            -1.5837,
+            37.4067
+          ],
+          "population": 35000,
+          "tier": 4,
+          "staleEvents": 6
+        }
+      ]
+    },
+    {
+      "id": "job-33",
+      "wave": 7,
+      "status": "pending",
+      "output": "public/data/stale-events-campaign-02/job-33.json",
+      "targets": [
+        {
+          "id": "agen",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Agen",
+            "de": "Agen",
+            "hu": "Agen",
+            "ro": "Agen"
+          },
+          "coords": [
+            0.621,
+            44.203
+          ],
+          "population": 34949,
+          "tier": 4,
+          "staleEvents": 3
+        },
+        {
+          "id": "nevers",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Nevers",
+            "de": "Nevers",
+            "hu": "Nevers",
+            "ro": "Nevers"
+          },
+          "coords": [
+            3.1567,
+            46.9925
+          ],
+          "population": 34841,
+          "tier": 4,
+          "staleEvents": 10
+        },
+        {
+          "id": "perigueux",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Périgueux",
+            "de": "Périgueux",
+            "hu": "Périgueux",
+            "ro": "Périgueux"
+          },
+          "coords": [
+            0.721,
+            45.184
+          ],
+          "population": 34770,
+          "tier": 4,
+          "staleEvents": 10
+        },
+        {
+          "id": "marignane",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Marignane",
+            "de": "Marignane",
+            "hu": "Marignane",
+            "ro": "Marignane"
+          },
+          "coords": [
+            5.2147,
+            43.4169
+          ],
+          "population": 34393,
+          "tier": 4,
+          "staleEvents": 3
+        },
+        {
+          "id": "ozd",
+          "iso2": "HU",
+          "country": "hungary",
+          "type": "city",
+          "name": {
+            "en": "Ózd",
+            "de": "Ózd",
+            "hu": "Ózd",
+            "ro": "Ózd"
+          },
+          "coords": [
+            20.2833,
+            48.2167
+          ],
+          "population": 34361,
+          "tier": 4,
+          "staleEvents": 1
+        }
+      ]
+    },
+    {
+      "id": "job-34",
+      "wave": 7,
+      "status": "pending",
+      "output": "public/data/stale-events-campaign-02/job-34.json",
+      "targets": [
+        {
+          "id": "hemer",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Hemer",
+            "de": "Hemer",
+            "hu": "Hemer",
+            "ro": "Hemer"
+          },
+          "coords": [
+            7.7667,
+            51.3833
+          ],
+          "population": 33916,
+          "tier": 4,
+          "staleEvents": 1
+        },
+        {
+          "id": "city-obuda-extra",
+          "iso2": "HU",
+          "country": "hungary",
+          "type": "city",
+          "name": {
+            "en": "Óbuda",
+            "de": "Óbuda",
+            "hu": "Óbuda",
+            "ro": "Óbuda"
+          },
+          "coords": [
+            19.04,
+            47.54
+          ],
+          "population": 33836,
+          "tier": 4,
+          "staleEvents": 3
+        },
+        {
+          "id": "bad-nauheim",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Bad Nauheim",
+            "de": "Bad Nauheim",
+            "hu": "Bad Nauheim",
+            "ro": "Bad Nauheim"
+          },
+          "coords": [
+            8.75,
+            50.3667
+          ],
+          "population": 33809,
+          "tier": 4,
+          "staleEvents": 2
+        },
+        {
+          "id": "cambrils",
+          "iso2": "ES",
+          "country": "spain",
+          "type": "city",
+          "name": {
+            "en": "Cambrils",
+            "de": "Cambrils",
+            "hu": "Cambrils",
+            "ro": "Cambrils"
+          },
+          "coords": [
+            1.0531,
+            41.0671
+          ],
+          "population": 33800,
+          "tier": 4,
+          "staleEvents": 5
+        },
+        {
+          "id": "aosta",
+          "iso2": "IT",
+          "country": "italy",
+          "type": "city",
+          "name": {
+            "en": "Aosta",
+            "de": "Aosta",
+            "hu": "Aosta",
+            "ro": "Aosta"
+          },
+          "coords": [
+            7.3206,
+            45.7372
+          ],
+          "population": 33800,
+          "tier": 4,
+          "staleEvents": 2
+        }
+      ]
+    },
+    {
+      "id": "job-35",
+      "wave": 7,
+      "status": "pending",
+      "output": "public/data/stale-events-campaign-02/job-35.json",
+      "targets": [
+        {
+          "id": "szekszard",
+          "iso2": "HU",
+          "country": "hungary",
+          "type": "city",
+          "name": {
+            "en": "Szekszárd",
+            "de": "Sechshard",
+            "hu": "Szekszárd",
+            "ro": "Szekszárd"
+          },
+          "coords": [
+            18.7,
+            46.35
+          ],
+          "population": 33599,
+          "tier": 4,
+          "staleEvents": 1
+        },
+        {
+          "id": "vichy",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Vichy",
+            "de": "Vichy",
+            "hu": "Vichy",
+            "ro": "Vichy"
+          },
+          "coords": [
+            3.4258,
+            46.1269
+          ],
+          "population": 33506,
+          "tier": 5,
+          "staleEvents": 4
+        },
+        {
+          "id": "city-navodari-extra",
+          "iso2": "RO",
+          "country": "romania",
+          "type": "city",
+          "name": {
+            "en": "Năvodari",
+            "de": "Navodari",
+            "hu": "Navodari",
+            "ro": "Năvodari"
+          },
+          "coords": [
+            28.61,
+            44.32
+          ],
+          "population": 33106,
+          "tier": 4,
+          "staleEvents": 2
+        },
+        {
+          "id": "chatellerault",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Châtellerault",
+            "de": "Châtellerault",
+            "hu": "Châtellerault",
+            "ro": "Châtellerault"
+          },
+          "coords": [
+            0.5453,
+            46.8169
+          ],
+          "population": 32887,
+          "tier": 4,
+          "staleEvents": 10
+        },
+        {
+          "id": "city-fetesti-extra",
+          "iso2": "RO",
+          "country": "romania",
+          "type": "city",
+          "name": {
+            "en": "Fetești",
+            "de": "Fetesti",
+            "hu": "Fetesti",
+            "ro": "Fetești"
+          },
+          "coords": [
+            27.84,
+            44.39
+          ],
+          "population": 32866,
+          "tier": 4,
+          "staleEvents": 2
+        }
+      ]
+    },
+    {
+      "id": "job-36",
+      "wave": 8,
+      "status": "pending",
+      "output": "public/data/stale-events-campaign-02/job-36.json",
+      "targets": [
+        {
+          "id": "godollo",
+          "iso2": "HU",
+          "country": "hungary",
+          "type": "city",
+          "name": {
+            "en": "Gödöllő",
+            "de": "Gödöllő",
+            "hu": "Gödöllő",
+            "ro": "Gödöllő"
+          },
+          "coords": [
+            19.3478,
+            47.5969
+          ],
+          "population": 32792,
+          "tier": 4,
+          "staleEvents": 1
+        },
+        {
+          "id": "neuruppin",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Neuruppin",
+            "de": "Neuruppin",
+            "hu": "Neuruppin",
+            "ro": "Neuruppin"
+          },
+          "coords": [
+            12.8,
+            52.9222
+          ],
+          "population": 32656,
+          "tier": 4,
+          "staleEvents": 1
+        },
+        {
+          "id": "saumur",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Saumur",
+            "de": "Saumur",
+            "hu": "Saumur",
+            "ro": "Saumur"
+          },
+          "coords": [
+            -0.0781,
+            47.2592
+          ],
+          "population": 32515,
+          "tier": 4,
+          "staleEvents": 10
+        },
+        {
+          "id": "aix-les-bains",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Aix-les-Bains",
+            "de": "Aix-les-Bains",
+            "hu": "Aix-les-Bains",
+            "ro": "Aix-les-Bains"
+          },
+          "coords": [
+            5.915,
+            45.6886
+          ],
+          "population": 32406,
+          "tier": 5,
+          "staleEvents": 1
+        },
+        {
+          "id": "city-curtea-de-arges-extra",
+          "iso2": "RO",
+          "country": "romania",
+          "type": "city",
+          "name": {
+            "en": "Curtea de Argeș",
+            "de": "Argisch",
+            "hu": "Argyasudvarhely",
+            "ro": "Curtea de Argeș"
+          },
+          "coords": [
+            24.68,
+            45.14
+          ],
+          "population": 32178,
+          "tier": 4,
+          "staleEvents": 2
+        }
+      ]
+    },
+    {
+      "id": "job-37",
+      "wave": 8,
+      "status": "pending",
+      "output": "public/data/stale-events-campaign-02/job-37.json",
+      "targets": [
+        {
+          "id": "hajduboszormeny",
+          "iso2": "HU",
+          "country": "hungary",
+          "type": "city",
+          "name": {
+            "en": "Hajdúböszörmény",
+            "de": "Hajdúböszörmény",
+            "hu": "Hajdúböszörmény",
+            "ro": "Hajdúböszörmény"
+          },
+          "coords": [
+            21.5167,
+            47.6667
+          ],
+          "population": 32177,
+          "tier": 4,
+          "staleEvents": 1
+        },
+        {
+          "id": "montbeliard",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Montbéliard",
+            "de": "Montbéliard",
+            "hu": "Montbéliard",
+            "ro": "Montbéliard"
+          },
+          "coords": [
+            6.7983,
+            47.5097
+          ],
+          "population": 31836,
+          "tier": 5,
+          "staleEvents": 3
+        },
+        {
+          "id": "herblay-sur-seine",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Herblay-sur-Seine",
+            "de": "Herblay-sur-Seine",
+            "hu": "Herblay-sur-Seine",
+            "ro": "Herblay-sur-Seine"
+          },
+          "coords": [
+            2.1656,
+            48.9903
+          ],
+          "population": 31818,
+          "tier": 5,
+          "staleEvents": 1
+        },
+        {
+          "id": "vienne",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Vienne",
+            "de": "Vienne",
+            "hu": "Vienne",
+            "ro": "Vienne"
+          },
+          "coords": [
+            4.8747,
+            45.5256
+          ],
+          "population": 31778,
+          "tier": 4,
+          "staleEvents": 3
+        },
+        {
+          "id": "mont-de-marsan",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Mont-de-Marsan",
+            "de": "Mont-de-Marsan",
+            "hu": "Mont-de-Marsan",
+            "ro": "Mont-de-Marsan"
+          },
+          "coords": [
+            -0.5006,
+            43.8903
+          ],
+          "population": 31592,
+          "tier": 4,
+          "staleEvents": 3
+        }
+      ]
+    },
+    {
+      "id": "job-38",
+      "wave": 8,
+      "status": "pending",
+      "output": "public/data/stale-events-campaign-02/job-38.json",
+      "targets": [
+        {
+          "id": "lievin",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Liévin",
+            "de": "Liévin",
+            "hu": "Liévin",
+            "ro": "Liévin"
+          },
+          "coords": [
+            2.7778,
+            50.4219
+          ],
+          "population": 31517,
+          "tier": 4,
+          "staleEvents": 1
+        },
+        {
+          "id": "jaszbereny",
+          "iso2": "HU",
+          "country": "hungary",
+          "type": "city",
+          "name": {
+            "en": "Jászberény",
+            "de": "Jászberény",
+            "hu": "Jászberény",
+            "ro": "Jászberény"
+          },
+          "coords": [
+            19.9167,
+            47.5
+          ],
+          "population": 31402,
+          "tier": 5,
+          "staleEvents": 1
+        },
+        {
+          "id": "oroshaza",
+          "iso2": "HU",
+          "country": "hungary",
+          "type": "city",
+          "name": {
+            "en": "Orosháza",
+            "de": "Orosháza",
+            "hu": "Orosháza",
+            "ro": "Orosháza"
+          },
+          "coords": [
+            20.6667,
+            46.5667
+          ],
+          "population": 31373,
+          "tier": 4,
+          "staleEvents": 2
+        },
+        {
+          "id": "ostuni",
+          "iso2": "IT",
+          "country": "italy",
+          "type": "city",
+          "name": {
+            "en": "Ostuni",
+            "de": "Ostuni",
+            "hu": "Ostuni",
+            "ro": "Ostuni"
+          },
+          "coords": [
+            17.5806,
+            40.7297
+          ],
+          "population": 31200,
+          "tier": 5,
+          "staleEvents": 6
+        },
+        {
+          "id": "gyongyos",
+          "iso2": "HU",
+          "country": "hungary",
+          "type": "city",
+          "name": {
+            "en": "Gyöngyös",
+            "de": "Gyöngyös",
+            "hu": "Gyöngyös",
+            "ro": "Gyöngyös"
+          },
+          "coords": [
+            19.9281,
+            47.7833
+          ],
+          "population": 31018,
+          "tier": 4,
+          "staleEvents": 1
+        }
+      ]
+    },
+    {
+      "id": "job-39",
+      "wave": 8,
+      "status": "pending",
+      "output": "public/data/stale-events-campaign-02/job-39.json",
+      "targets": [
+        {
+          "id": "aurillac",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Aurillac",
+            "de": "Aurillac",
+            "hu": "Aurillac",
+            "ro": "Aurillac"
+          },
+          "coords": [
+            2.4397,
+            44.9253
+          ],
+          "population": 30963,
+          "tier": 4,
+          "staleEvents": 1
+        },
+        {
+          "id": "mazarron",
+          "iso2": "ES",
+          "country": "spain",
+          "type": "city",
+          "name": {
+            "en": "Mazarrón",
+            "de": "Mazarrón",
+            "hu": "Mazarrón",
+            "ro": "Mazarrón"
+          },
+          "coords": [
+            -1.3133,
+            37.5994
+          ],
+          "population": 30900,
+          "tier": 4,
+          "staleEvents": 6
+        },
+        {
+          "id": "city-dorohoi-extra",
+          "iso2": "RO",
+          "country": "romania",
+          "type": "city",
+          "name": {
+            "en": "Dorohoi",
+            "de": "Dorohoi",
+            "hu": "Dorohoj",
+            "ro": "Dorohoi"
+          },
+          "coords": [
+            26.44,
+            47.95
+          ],
+          "population": 30776,
+          "tier": 4,
+          "staleEvents": 2
+        },
+        {
+          "id": "city-fagaras-extra",
+          "iso2": "RO",
+          "country": "romania",
+          "type": "city",
+          "name": {
+            "en": "Făgăraș",
+            "de": "Fogarasch",
+            "hu": "Fogaras",
+            "ro": "Făgăraș"
+          },
+          "coords": [
+            24.97,
+            45.84
+          ],
+          "population": 30714,
+          "tier": 4,
+          "staleEvents": 2
+        },
+        {
+          "id": "arcos-de-la-frontera",
+          "iso2": "ES",
+          "country": "spain",
+          "type": "city",
+          "name": {
+            "en": "Arcos de la Frontera",
+            "de": "Arcos de la Frontera",
+            "hu": "Arcos de la Frontera",
+            "ro": "Arcos de la Frontera"
+          },
+          "coords": [
+            -5.8083,
+            36.7506
+          ],
+          "population": 30400,
+          "tier": 4,
+          "staleEvents": 4
+        }
+      ]
+    },
+    {
+      "id": "job-40",
+      "wave": 8,
+      "status": "pending",
+      "output": "public/data/stale-events-campaign-02/job-40.json",
+      "targets": [
+        {
+          "id": "mosonmagyarovar",
+          "iso2": "HU",
+          "country": "hungary",
+          "type": "city",
+          "name": {
+            "en": "Mosonmagyaróvár",
+            "de": "Wieselburg-Ungarisch Altenburg",
+            "hu": "Mosonmagyaróvár",
+            "ro": "Mosonmagyaróvár"
+          },
+          "coords": [
+            17.2667,
+            47.8667
+          ],
+          "population": 30359,
+          "tier": 4,
+          "staleEvents": 1
+        },
+        {
+          "id": "city-voluntari-extra",
+          "iso2": "RO",
+          "country": "romania",
+          "type": "city",
+          "name": {
+            "en": "Voluntari",
+            "de": "Voluntari",
+            "hu": "Voluntari",
+            "ro": "Voluntari"
+          },
+          "coords": [
+            26.13,
+            44.49
+          ],
+          "population": 30323,
+          "tier": 4,
+          "staleEvents": 1
+        },
+        {
+          "id": "romania-voluntari-cities-v2",
+          "iso2": "RO",
+          "country": "romania",
+          "type": "city",
+          "name": {
+            "en": "Voluntari",
+            "de": "Voluntari",
+            "hu": "Voluntari",
+            "ro": "Voluntari"
+          },
+          "coords": [
+            26.16,
+            44.48
+          ],
+          "population": 30323,
+          "tier": 4,
+          "staleEvents": 1
+        },
+        {
+          "id": "soissons",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Soissons",
+            "de": "Soissons",
+            "hu": "Soissons",
+            "ro": "Soissons"
+          },
+          "coords": [
+            3.3225,
+            49.3811
+          ],
+          "population": 30213,
+          "tier": 4,
+          "staleEvents": 10
+        },
+        {
+          "id": "ciutadella",
+          "iso2": "ES",
+          "country": "spain",
+          "type": "city",
+          "name": {
+            "en": "Ciutadella",
+            "de": "Ciutadella",
+            "hu": "Ciutadella",
+            "ro": "Ciutadella"
+          },
+          "coords": [
+            3.8403,
+            39.9978
+          ],
+          "population": 30000,
+          "tier": 5,
+          "staleEvents": 6
+        }
+      ]
+    },
+    {
+      "id": "job-41",
+      "wave": 9,
+      "status": "pending",
+      "output": "public/data/stale-events-campaign-02/job-41.json",
+      "targets": [
+        {
+          "id": "puerto-de-la-cruz",
+          "iso2": "ES",
+          "country": "spain",
+          "type": "city",
+          "name": {
+            "en": "Puerto de la Cruz",
+            "de": "Puerto de la Cruz",
+            "hu": "Puerto de la Cruz",
+            "ro": "Puerto de la Cruz"
+          },
+          "coords": [
+            -16.55,
+            28.4117
+          ],
+          "population": 30000,
+          "tier": 4,
+          "staleEvents": 4
+        },
+        {
+          "id": "agde",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Agde",
+            "de": "Agde",
+            "hu": "Agde",
+            "ro": "Agde"
+          },
+          "coords": [
+            3.4753,
+            43.31
+          ],
+          "population": 29939,
+          "tier": 5,
+          "staleEvents": 10
+        },
+        {
+          "id": "city-sacele-extra",
+          "iso2": "RO",
+          "country": "romania",
+          "type": "city",
+          "name": {
+            "en": "Sacele",
+            "de": "Siebendörfer",
+            "hu": "Négyfalu",
+            "ro": "Săcele"
+          },
+          "coords": [
+            25.68,
+            45.62
+          ],
+          "population": 29918,
+          "tier": 5,
+          "staleEvents": 2
+        },
+        {
+          "id": "decines-charpieu",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Décines-Charpieu",
+            "de": "Décines-Charpieu",
+            "hu": "Décines-Charpieu",
+            "ro": "Décines-Charpieu"
+          },
+          "coords": [
+            4.9589,
+            45.7686
+          ],
+          "population": 29905,
+          "tier": 5,
+          "staleEvents": 1
+        },
+        {
+          "id": "orange",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Orange",
+            "de": "Orange",
+            "hu": "Orange",
+            "ro": "Orange"
+          },
+          "coords": [
+            4.8089,
+            44.1375
+          ],
+          "population": 29856,
+          "tier": 4,
+          "staleEvents": 2
+        }
+      ]
+    },
+    {
+      "id": "job-42",
+      "wave": 9,
+      "status": "pending",
+      "output": "public/data/stale-events-campaign-02/job-42.json",
+      "targets": [
+        {
+          "id": "sotteville-les-rouen",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Sotteville-lès-Rouen",
+            "de": "Sotteville-lès-Rouen",
+            "hu": "Sotteville-lès-Rouen",
+            "ro": "Sotteville-lès-Rouen"
+          },
+          "coords": [
+            1.0892,
+            49.4086
+          ],
+          "population": 29766,
+          "tier": 4,
+          "staleEvents": 2
+        },
+        {
+          "id": "epernay",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Épernay",
+            "de": "Épernay",
+            "hu": "Épernay",
+            "ro": "Épernay"
+          },
+          "coords": [
+            3.9592,
+            49.04
+          ],
+          "population": 29677,
+          "tier": 5,
+          "staleEvents": 6
+        },
+        {
+          "id": "city-falticeni-extra",
+          "iso2": "RO",
+          "country": "romania",
+          "type": "city",
+          "name": {
+            "en": "Fălticeni",
+            "de": "Falticeni",
+            "hu": "Falticsén",
+            "ro": "Fălticeni"
+          },
+          "coords": [
+            26.3,
+            47.46
+          ],
+          "population": 29576,
+          "tier": 5,
+          "staleEvents": 2
+        },
+        {
+          "id": "belgium-courcelles-cities-v2",
+          "iso2": "BE",
+          "country": "belgium",
+          "type": "city",
+          "name": {
+            "en": "Courcelles",
+            "de": "Courcelles",
+            "hu": "Courcelles",
+            "ro": "Courcelles"
+          },
+          "coords": [
+            4.3739,
+            50.4578
+          ],
+          "population": 29473,
+          "tier": 5,
+          "staleEvents": 2
+        },
+        {
+          "id": "city-kiskunhalas-extra",
+          "iso2": "HU",
+          "country": "hungary",
+          "type": "city",
+          "name": {
+            "en": "Kiskunhalas",
+            "de": "Kiskunhalas",
+            "hu": "Kiskunhalas",
+            "ro": "Kiskunhalas"
+          },
+          "coords": [
+            19.48,
+            46.43
+          ],
+          "population": 29354,
+          "tier": 5,
+          "staleEvents": 1
+        }
+      ]
+    },
+    {
+      "id": "job-43",
+      "wave": 9,
+      "status": "pending",
+      "output": "public/data/stale-events-campaign-02/job-43.json",
+      "targets": [
+        {
+          "id": "dole",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Dole",
+            "de": "Dole",
+            "hu": "Dole",
+            "ro": "Dole"
+          },
+          "coords": [
+            5.4897,
+            47.0922
+          ],
+          "population": 29295,
+          "tier": 5,
+          "staleEvents": 9
+        },
+        {
+          "id": "menton",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Menton",
+            "de": "Menton",
+            "hu": "Menton",
+            "ro": "Menton"
+          },
+          "coords": [
+            7.5044,
+            43.7762
+          ],
+          "population": 29094,
+          "tier": 5,
+          "staleEvents": 4
+        },
+        {
+          "id": "city-ajka-extra",
+          "iso2": "HU",
+          "country": "hungary",
+          "type": "city",
+          "name": {
+            "en": "Ajka",
+            "de": "Ajka",
+            "hu": "Ajka",
+            "ro": "Ajka"
+          },
+          "coords": [
+            17.558,
+            47.102
+          ],
+          "population": 29048,
+          "tier": 4,
+          "staleEvents": 2
+        },
+        {
+          "id": "sitges",
+          "iso2": "ES",
+          "country": "spain",
+          "type": "city",
+          "name": {
+            "en": "Sitges",
+            "de": "Sitges",
+            "hu": "Sitges",
+            "ro": "Sitges"
+          },
+          "coords": [
+            1.8051,
+            41.2371
+          ],
+          "population": 29000,
+          "tier": 5,
+          "staleEvents": 7
+        },
+        {
+          "id": "carmona",
+          "iso2": "ES",
+          "country": "spain",
+          "type": "city",
+          "name": {
+            "en": "Carmona",
+            "de": "Carmona",
+            "hu": "Carmona",
+            "ro": "Carmona"
+          },
+          "coords": [
+            -5.6411,
+            37.4708
+          ],
+          "population": 29000,
+          "tier": 5,
+          "staleEvents": 6
+        }
+      ]
+    },
+    {
+      "id": "job-44",
+      "wave": 9,
+      "status": "pending",
+      "output": "public/data/stale-events-campaign-02/job-44.json",
+      "targets": [
+        {
+          "id": "romania-campina-cities-v2",
+          "iso2": "RO",
+          "country": "romania",
+          "type": "city",
+          "name": {
+            "en": "Câmpina",
+            "de": "Câmpina",
+            "hu": "Câmpina",
+            "ro": "Câmpina"
+          },
+          "coords": [
+            25.73,
+            45.13
+          ],
+          "population": 28993,
+          "tier": 4,
+          "staleEvents": 2
+        },
+        {
+          "id": "mao",
+          "iso2": "ES",
+          "country": "spain",
+          "type": "city",
+          "name": {
+            "en": "Maó",
+            "de": "Maó",
+            "hu": "Maó",
+            "ro": "Maó"
+          },
+          "coords": [
+            4.2655,
+            39.8889
+          ],
+          "population": 28800,
+          "tier": 5,
+          "staleEvents": 5
+        },
+        {
+          "id": "city-turnu-magurele-extra",
+          "iso2": "RO",
+          "country": "romania",
+          "type": "city",
+          "name": {
+            "en": "Turnu Măgurele",
+            "de": "Turnu Magurele",
+            "hu": "Turnu Măgurele",
+            "ro": "Turnu Măgurele"
+          },
+          "coords": [
+            24.87,
+            43.75
+          ],
+          "population": 28783,
+          "tier": 5,
+          "staleEvents": 1
+        },
+        {
+          "id": "esztergom",
+          "iso2": "HU",
+          "country": "hungary",
+          "type": "city",
+          "name": {
+            "en": "Esztergom",
+            "de": "Gran",
+            "hu": "Esztergom",
+            "ro": "Esztergom"
+          },
+          "coords": [
+            18.7394,
+            47.7914
+          ],
+          "population": 28680,
+          "tier": 5,
+          "staleEvents": 2
+        },
+        {
+          "id": "le-chesnay",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Le Chesnay",
+            "de": "Le Chesnay",
+            "hu": "Le Chesnay",
+            "ro": "Le Chesnay"
+          },
+          "coords": [
+            2.1303,
+            48.8203
+          ],
+          "population": 28640,
+          "tier": 5,
+          "staleEvents": 3
+        }
+      ]
+    },
+    {
+      "id": "job-45",
+      "wave": 9,
+      "status": "pending",
+      "output": "public/data/stale-events-campaign-02/job-45.json",
+      "targets": [
+        {
+          "id": "szentendre",
+          "iso2": "HU",
+          "country": "hungary",
+          "type": "city",
+          "name": {
+            "en": "Szentendre",
+            "de": "Sankt Andrä",
+            "hu": "Szentendre",
+            "ro": "Szentendre"
+          },
+          "coords": [
+            19.0761,
+            47.6694
+          ],
+          "population": 28524,
+          "tier": 5,
+          "staleEvents": 2
+        },
+        {
+          "id": "city-szentes-extra",
+          "iso2": "HU",
+          "country": "hungary",
+          "type": "city",
+          "name": {
+            "en": "Szentes",
+            "de": "Szentes",
+            "hu": "Szentes",
+            "ro": "Szentes"
+          },
+          "coords": [
+            20.26,
+            46.65
+          ],
+          "population": 28456,
+          "tier": 5,
+          "staleEvents": 2
+        },
+        {
+          "id": "city-aiud-extra",
+          "iso2": "RO",
+          "country": "romania",
+          "type": "city",
+          "name": {
+            "en": "Aiud",
+            "de": "Straßburg am Mieresch",
+            "hu": "Nagyenyed",
+            "ro": "Aiud"
+          },
+          "coords": [
+            23.72,
+            46.31
+          ],
+          "population": 28341,
+          "tier": 5,
+          "staleEvents": 2
+        },
+        {
+          "id": "kazincbarcika",
+          "iso2": "HU",
+          "country": "hungary",
+          "type": "city",
+          "name": {
+            "en": "Kazincbarcika",
+            "de": "Kazincbarcika",
+            "hu": "Kazincbarcika",
+            "ro": "Kazincbarcika"
+          },
+          "coords": [
+            20.6333,
+            48.25
+          ],
+          "population": 28249,
+          "tier": 4,
+          "staleEvents": 1
+        },
+        {
+          "id": "bergerac",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Bergerac",
+            "de": "Bergerac",
+            "hu": "Bergerac",
+            "ro": "Bergerac"
+          },
+          "coords": [
+            0.485,
+            44.851
+          ],
+          "population": 28166,
+          "tier": 5,
+          "staleEvents": 10
+        }
+      ]
+    },
+    {
+      "id": "job-46",
+      "wave": 10,
+      "status": "pending",
+      "output": "public/data/stale-events-campaign-02/job-46.json",
+      "targets": [
+        {
+          "id": "javea",
+          "iso2": "ES",
+          "country": "spain",
+          "type": "city",
+          "name": {
+            "en": "Jávea",
+            "de": "Jávea",
+            "hu": "Jávea",
+            "ro": "Jávea"
+          },
+          "coords": [
+            0.17,
+            38.79
+          ],
+          "population": 28000,
+          "tier": 5,
+          "staleEvents": 6
+        },
+        {
+          "id": "salou",
+          "iso2": "ES",
+          "country": "spain",
+          "type": "city",
+          "name": {
+            "en": "Salou",
+            "de": "Salou",
+            "hu": "Salou",
+            "ro": "Salou"
+          },
+          "coords": [
+            1.1414,
+            41.0775
+          ],
+          "population": 28000,
+          "tier": 5,
+          "staleEvents": 5
+        },
+        {
+          "id": "assisi",
+          "iso2": "IT",
+          "country": "italy",
+          "type": "city",
+          "name": {
+            "en": "Assisi",
+            "de": "Assisi",
+            "hu": "Assisi",
+            "ro": "Assisi"
+          },
+          "coords": [
+            12.6196,
+            43.0707
+          ],
+          "population": 28000,
+          "tier": 5,
+          "staleEvents": 4
+        },
+        {
+          "id": "laon",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Laon",
+            "de": "Laon",
+            "hu": "Laon",
+            "ro": "Laon"
+          },
+          "coords": [
+            3.6206,
+            49.5644
+          ],
+          "population": 27914,
+          "tier": 5,
+          "staleEvents": 6
+        },
+        {
+          "id": "erice",
+          "iso2": "IT",
+          "country": "italy",
+          "type": "city",
+          "name": {
+            "en": "Erice",
+            "de": "Erice",
+            "hu": "Erice",
+            "ro": "Erice"
+          },
+          "coords": [
+            12.5847,
+            38.0397
+          ],
+          "population": 27800,
+          "tier": 5,
+          "staleEvents": 5
+        }
+      ]
+    },
+    {
+      "id": "job-47",
+      "wave": 10,
+      "status": "pending",
+      "output": "public/data/stale-events-campaign-02/job-47.json",
+      "targets": [
+        {
+          "id": "belgium-aarschot-cities-v2",
+          "iso2": "BE",
+          "country": "belgium",
+          "type": "city",
+          "name": {
+            "en": "Aarschot",
+            "de": "Aarschot",
+            "hu": "Aarschot",
+            "ro": "Aarschot"
+          },
+          "coords": [
+            4.8333,
+            50.9833
+          ],
+          "population": 27656,
+          "tier": 5,
+          "staleEvents": 10
+        },
+        {
+          "id": "chaumont",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Chaumont",
+            "de": "Chaumont",
+            "hu": "Chaumont",
+            "ro": "Chaumont"
+          },
+          "coords": [
+            5.1386,
+            48.1108
+          ],
+          "population": 27554,
+          "tier": 5,
+          "staleEvents": 5
+        },
+        {
+          "id": "butzbach",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Butzbach",
+            "de": "Butzbach",
+            "hu": "Butzbach",
+            "ro": "Butzbach"
+          },
+          "coords": [
+            8.6622,
+            50.4367
+          ],
+          "population": 27528,
+          "tier": 5,
+          "staleEvents": 2
+        },
+        {
+          "id": "city-caransebes-extra",
+          "iso2": "RO",
+          "country": "romania",
+          "type": "city",
+          "name": {
+            "en": "Caransebeș",
+            "de": "Karansebesch",
+            "hu": "Karánsebes",
+            "ro": "Caransebeș"
+          },
+          "coords": [
+            22.22,
+            45.41
+          ],
+          "population": 27521,
+          "tier": 5,
+          "staleEvents": 3
+        },
+        {
+          "id": "sant-antoni",
+          "iso2": "ES",
+          "country": "spain",
+          "type": "city",
+          "name": {
+            "en": "Sant Antoni de Portmany",
+            "de": "Sant Antoni de Portmany",
+            "hu": "Sant Antoni de Portmany",
+            "ro": "Sant Antoni de Portmany"
+          },
+          "coords": [
+            1.3033,
+            38.9806
+          ],
+          "population": 27300,
+          "tier": 5,
+          "staleEvents": 5
+        }
+      ]
+    },
+    {
+      "id": "job-48",
+      "wave": 10,
+      "status": "pending",
+      "output": "public/data/stale-events-campaign-02/job-48.json",
+      "targets": [
+        {
+          "id": "almunecar",
+          "iso2": "ES",
+          "country": "spain",
+          "type": "city",
+          "name": {
+            "en": "Almuñécar",
+            "de": "Almuñécar",
+            "hu": "Almuñécar",
+            "ro": "Almuñécar"
+          },
+          "coords": [
+            -3.6917,
+            36.7333
+          ],
+          "population": 27300,
+          "tier": 5,
+          "staleEvents": 4
+        },
+        {
+          "id": "sens",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Sens",
+            "de": "Sens",
+            "hu": "Sens",
+            "ro": "Sens"
+          },
+          "coords": [
+            3.2833,
+            48.1972
+          ],
+          "population": 27275,
+          "tier": 5,
+          "staleEvents": 7
+        },
+        {
+          "id": "city-sebes-extra",
+          "iso2": "RO",
+          "country": "romania",
+          "type": "city",
+          "name": {
+            "en": "Sebeș",
+            "de": "Mühlbach",
+            "hu": "Szászsebes",
+            "ro": "Sebeș"
+          },
+          "coords": [
+            23.57,
+            45.96
+          ],
+          "population": 27246,
+          "tier": 5,
+          "staleEvents": 2
+        },
+        {
+          "id": "forbach",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Forbach",
+            "de": "Forbach",
+            "hu": "Forbach",
+            "ro": "Forbach"
+          },
+          "coords": [
+            6.9,
+            49.1881
+          ],
+          "population": 27187,
+          "tier": 5,
+          "staleEvents": 1
+        },
+        {
+          "id": "cavaillon",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Cavaillon",
+            "de": "Cavaillon",
+            "hu": "Cavaillon",
+            "ro": "Cavaillon"
+          },
+          "coords": [
+            5.0372,
+            43.8367
+          ],
+          "population": 26985,
+          "tier": 5,
+          "staleEvents": 1
+        }
+      ]
+    },
+    {
+      "id": "job-49",
+      "wave": 10,
+      "status": "pending",
+      "output": "public/data/stale-events-campaign-02/job-49.json",
+      "targets": [
+        {
+          "id": "city-borsa-extra",
+          "iso2": "RO",
+          "country": "romania",
+          "type": "city",
+          "name": {
+            "en": "Borșa",
+            "de": "Borscha",
+            "hu": "Borsa",
+            "ro": "Borșa"
+          },
+          "coords": [
+            24.66,
+            47.65
+          ],
+          "population": 26966,
+          "tier": 5,
+          "staleEvents": 2
+        },
+        {
+          "id": "lunel",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Lunel",
+            "de": "Lunel",
+            "hu": "Lunel",
+            "ro": "Lunel"
+          },
+          "coords": [
+            4.1353,
+            43.6769
+          ],
+          "population": 26623,
+          "tier": 5,
+          "staleEvents": 2
+        },
+        {
+          "id": "fougeres",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Fougères",
+            "de": "Fougères",
+            "hu": "Fougères",
+            "ro": "Fougères"
+          },
+          "coords": [
+            -1.2,
+            48.3517
+          ],
+          "population": 26610,
+          "tier": 5,
+          "staleEvents": 3
+        },
+        {
+          "id": "le-puy-en-velay",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Le Puy-en-Velay",
+            "de": "Le Puy-en-Velay",
+            "hu": "Le Puy-en-Velay",
+            "ro": "Le Puy-en-Velay"
+          },
+          "coords": [
+            3.885,
+            45.0433
+          ],
+          "population": 26594,
+          "tier": 5,
+          "staleEvents": 1
+        },
+        {
+          "id": "city-campia-turzii-extra",
+          "iso2": "RO",
+          "country": "romania",
+          "type": "city",
+          "name": {
+            "en": "Câmpia Turzii",
+            "de": "Jerischmarkt",
+            "hu": "Aranyosgyéres",
+            "ro": "Câmpia Turzii"
+          },
+          "coords": [
+            23.88,
+            46.54
+          ],
+          "population": 26457,
+          "tier": 5,
+          "staleEvents": 2
+        }
+      ]
+    },
+    {
+      "id": "job-50",
+      "wave": 10,
+      "status": "pending",
+      "output": "public/data/stale-events-campaign-02/job-50.json",
+      "targets": [
+        {
+          "id": "siofok",
+          "iso2": "HU",
+          "country": "hungary",
+          "type": "city",
+          "name": {
+            "en": "Siófok",
+            "de": "Siófok",
+            "hu": "Siófok",
+            "ro": "Siófok"
+          },
+          "coords": [
+            18.05,
+            46.9
+          ],
+          "population": 26451,
+          "tier": 5,
+          "staleEvents": 2
+        },
+        {
+          "id": "saint-macaire-en-mauges",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Saint-Macaire-en-Mauges",
+            "de": "Saint-Macaire-en-Mauges",
+            "hu": "Saint-Macaire-en-Mauges",
+            "ro": "Saint-Macaire-en-Mauges"
+          },
+          "coords": [
+            -0.9917,
+            47.1239
+          ],
+          "population": 26239,
+          "tier": 5,
+          "staleEvents": 2
+        },
+        {
+          "id": "biarritz",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Biarritz",
+            "de": "Biarritz",
+            "hu": "Biarritz",
+            "ro": "Biarritz"
+          },
+          "coords": [
+            -1.5536,
+            43.4832
+          ],
+          "population": 26206,
+          "tier": 4,
+          "staleEvents": 10
+        },
+        {
+          "id": "muret",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Muret",
+            "de": "Muret",
+            "hu": "Muret",
+            "ro": "Muret"
+          },
+          "coords": [
+            1.3258,
+            43.4603
+          ],
+          "population": 26079,
+          "tier": 5,
+          "staleEvents": 7
+        },
+        {
+          "id": "moulins",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Moulins",
+            "de": "Moulins",
+            "hu": "Moulins",
+            "ro": "Moulins"
+          },
+          "coords": [
+            3.3325,
+            46.5647
+          ],
+          "population": 26067,
+          "tier": 5,
+          "staleEvents": 5
+        }
+      ]
+    }
+  ]
+}

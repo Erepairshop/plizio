@@ -14,11 +14,13 @@ const CUTOFF = "2026-07-26";
 const AGENT_COUNT = Number(process.argv.find((arg) => arg.startsWith("--agents="))?.split("=")[1] || 50);
 const POIS_PER_AGENT = Number(process.argv.find((arg) => arg.startsWith("--pois="))?.split("=")[1] || 5);
 const CONCURRENCY = Number(process.argv.find((arg) => arg.startsWith("--concurrency="))?.split("=")[1] || 5);
+const CAMPAIGN_NAME = process.argv.find((arg) => arg.startsWith("--name="))?.split("=")[1] || "stale-events-campaign";
 const DATA = path.resolve(process.cwd(), "public", "data");
-const OUTPUT = path.join(DATA, "_stale_events_campaign.json");
+const OUTPUT = path.join(DATA, `_${CAMPAIGN_NAME.replace(/-/g, "_")}.json`);
 
 if (!loadFullPois || !getCountryIdStrict || !ISO2_TO_COUNTRY) throw new Error("POI loader imports failed");
 if (AGENT_COUNT < 1 || POIS_PER_AGENT < 1 || CONCURRENCY < 1) throw new Error("campaign sizes must be positive");
+if (!/^[a-z0-9-]+$/.test(CAMPAIGN_NAME)) throw new Error("campaign name must contain only a-z, 0-9, and hyphens");
 
 const EU27 = new Set([
   "AT", "BE", "BG", "HR", "CY", "CZ", "DK", "EE", "FI", "FR", "DE", "GR", "HU", "IE",
@@ -39,7 +41,15 @@ const fullPois: any[] = await loadFullPois();
 
 const staleCount = (id: string) => (highlights[id] || []).filter((event) => {
   const date = String(event?.date || "");
-  return !/^\d{4}-\d{2}-\d{2}$/.test(date) || date < CUTOFF;
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) return true;
+  const hasRequiredContent = ["de", "hu", "ro", "en"].every((lang) =>
+    String(event.title?.[lang] || "").trim() && String(event.summary?.[lang] || "").trim(),
+  );
+  if (!hasRequiredContent) return true;
+  if (date >= CUTOFF) return false;
+  const endDate = String(event.date_end || event.end_date || event.endDate || "");
+  const isRecurrent = !!(event.period && typeof event.period === "object" && event.period.recurrent);
+  return !(/^\d{4}-\d{2}-\d{2}$/.test(endDate) && endDate >= CUTOFF) && !isRecurrent;
 }).length;
 
 const byId = new Map<string, any>();
@@ -112,13 +122,14 @@ const jobs = Array.from({ length: AGENT_COUNT }, (_, index) => {
     id: `job-${String(number).padStart(2, "0")}`,
     wave: Math.floor(index / CONCURRENCY) + 1,
     status: "pending",
-    output: `public/data/stale-events-campaign/job-${String(number).padStart(2, "0")}.json`,
+    output: `public/data/${CAMPAIGN_NAME}/job-${String(number).padStart(2, "0")}.json`,
     targets: targets.slice(index * POIS_PER_AGENT, (index + 1) * POIS_PER_AGENT),
   };
 });
 
 const campaign = {
   version: 1,
+  name: CAMPAIGN_NAME,
   createdAt: new Date().toISOString(),
   cutoff: CUTOFF,
   agentModel: "gpt-5.4",
@@ -129,7 +140,7 @@ const campaign = {
   jobs,
 };
 
-fs.mkdirSync(path.join(DATA, "stale-events-campaign"), { recursive: true });
+fs.mkdirSync(path.join(DATA, CAMPAIGN_NAME), { recursive: true });
 fs.writeFileSync(OUTPUT, JSON.stringify(campaign, null, 2) + "\n", "utf8");
 
 const countryCounts: Record<string, number> = {};
