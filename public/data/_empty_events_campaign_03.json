@@ -1,0 +1,5414 @@
+{
+  "version": 1,
+  "name": "empty-events-campaign-03",
+  "createdAt": "2026-07-16T18:38:00.098Z",
+  "cutoff": "2026-07-26",
+  "agentModel": "gpt-5.4",
+  "agentCount": 50,
+  "poisPerAgent": 5,
+  "concurrency": 5,
+  "onlyEmpty": true,
+  "waves": 10,
+  "jobs": [
+    {
+      "id": "job-01",
+      "wave": 1,
+      "status": "pending",
+      "output": "public/data/empty-events-campaign-03/job-01.json",
+      "targets": [
+        {
+          "id": "italy-monte-pellegrino-cities-v2",
+          "iso2": "IT",
+          "country": "italy",
+          "type": "city",
+          "name": {
+            "en": "Monte Pellegrino",
+            "de": "Monte Pellegrino",
+            "hu": "Monte Pellegrino",
+            "ro": "Monte Pellegrino"
+          },
+          "coords": [
+            13.354053,
+            38.169789
+          ],
+          "population": 648260,
+          "tier": 2,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "dortmund",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Dortmund",
+            "de": "Dortmund",
+            "hu": "Dortmund",
+            "ro": "Dortmund"
+          },
+          "coords": [
+            7.4653,
+            51.5139
+          ],
+          "population": 595471,
+          "tier": 2,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "spain-este-cities-v2",
+          "iso2": "ES",
+          "country": "spain",
+          "type": "city",
+          "name": {
+            "en": "Este",
+            "de": "Este",
+            "hu": "Este",
+            "ro": "Este"
+          },
+          "coords": [
+            -4.35871,
+            36.74281
+          ],
+          "population": 592346,
+          "tier": 2,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-dresden",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "state-capital",
+          "name": {
+            "en": "Dresden",
+            "de": "Dresden",
+            "hu": "Dresden",
+            "ro": "Dresden"
+          },
+          "coords": [
+            13.7383,
+            51.0504
+          ],
+          "population": 564904,
+          "tier": 2,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-bremen",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "state-capital",
+          "name": {
+            "en": "Bremen",
+            "de": "Bremen",
+            "hu": "Bremen",
+            "ro": "Bremen"
+          },
+          "coords": [
+            8.8017,
+            53.0793
+          ],
+          "population": 546501,
+          "tier": 2,
+          "staleEvents": 0,
+          "existingEvents": 0
+        }
+      ]
+    },
+    {
+      "id": "job-02",
+      "wave": 1,
+      "status": "pending",
+      "output": "public/data/empty-events-campaign-03/job-02.json",
+      "targets": [
+        {
+          "id": "lt-vilnius",
+          "iso2": "LT",
+          "country": "lithuania",
+          "type": "city",
+          "name": {
+            "en": "Vilnius",
+            "de": "Vilnius",
+            "hu": "Vilnius",
+            "ro": "Vilnius"
+          },
+          "coords": [
+            25.2797,
+            54.6872
+          ],
+          "population": 542366,
+          "tier": 2,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-lisbon",
+          "iso2": "PT",
+          "country": "portugal",
+          "type": "city",
+          "name": {
+            "en": "Lisbon",
+            "de": "Lissabon",
+            "hu": "Lisszabon",
+            "ro": "Lisabona"
+          },
+          "coords": [
+            -9.1393,
+            38.7223
+          ],
+          "population": 517802,
+          "tier": 2,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "slovakia-bratislava-cities-v2",
+          "iso2": "SK",
+          "country": "slovakia",
+          "type": "city",
+          "name": {
+            "en": "Bratislava",
+            "de": "Bratislava",
+            "hu": "Pozsony",
+            "ro": "Bratislava"
+          },
+          "coords": [
+            17.107822,
+            48.144825
+          ],
+          "population": 423737,
+          "tier": 2,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "netherlands-utrecht-cities-v2",
+          "iso2": "NL",
+          "country": "netherlands",
+          "type": "city",
+          "name": {
+            "en": "Utrecht",
+            "de": "Utrecht",
+            "hu": "Utrecht",
+            "ro": "Utrecht"
+          },
+          "coords": [
+            5.121667,
+            52.090833
+          ],
+          "population": 376435,
+          "tier": 2,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "florence",
+          "iso2": "IT",
+          "country": "italy",
+          "type": "city",
+          "name": {
+            "en": "Florence",
+            "de": "Florenz",
+            "hu": "Firenze",
+            "ro": "Florența"
+          },
+          "coords": [
+            11.2558,
+            43.7696
+          ],
+          "population": 367150,
+          "tier": 2,
+          "staleEvents": 0,
+          "existingEvents": 0
+        }
+      ]
+    },
+    {
+      "id": "job-03",
+      "wave": 1,
+      "status": "pending",
+      "output": "public/data/empty-events-campaign-03/job-03.json",
+      "targets": [
+        {
+          "id": "city-malmo",
+          "iso2": "SE",
+          "country": "sweden",
+          "type": "city",
+          "name": {
+            "en": "Malmö",
+            "de": "Malmö",
+            "hu": "Malmö",
+            "ro": "Malmö"
+          },
+          "coords": [
+            13.0038,
+            55.605
+          ],
+          "population": 362133,
+          "tier": 2,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "poland-rury-cities-v2",
+          "iso2": "PL",
+          "country": "poland",
+          "type": "city",
+          "name": {
+            "en": "Rury (Lublin)",
+            "de": "Rury (Lublin)",
+            "hu": "Rury (Lublin)",
+            "ro": "Rury (Lublin)"
+          },
+          "coords": [
+            22.5166,
+            51.2388
+          ],
+          "population": 336339,
+          "tier": 2,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-bonn",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Bonn",
+            "de": "Bonn",
+            "hu": "Bonn",
+            "ro": "Bonn"
+          },
+          "coords": [
+            7.0982,
+            50.7374
+          ],
+          "population": 330579,
+          "tier": 2,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-plovdiv",
+          "iso2": "BG",
+          "country": "bulgaria",
+          "type": "city",
+          "name": {
+            "en": "Plovdiv",
+            "de": "Plowdiw",
+            "hu": "Plovdiv",
+            "ro": "Plovdiv"
+          },
+          "coords": [
+            24.7453,
+            42.1354
+          ],
+          "population": 329489,
+          "tier": 2,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-espoo",
+          "iso2": "FI",
+          "country": "finland",
+          "type": "city",
+          "name": {
+            "en": "Espoo",
+            "de": "Espoo",
+            "hu": "Espoo",
+            "ro": "Espoo"
+          },
+          "coords": [
+            24.6559,
+            60.2055
+          ],
+          "population": 323910,
+          "tier": 2,
+          "staleEvents": 0,
+          "existingEvents": 0
+        }
+      ]
+    },
+    {
+      "id": "job-04",
+      "wave": 1,
+      "status": "pending",
+      "output": "public/data/empty-events-campaign-03/job-04.json",
+      "targets": [
+        {
+          "id": "city-varna",
+          "iso2": "BG",
+          "country": "bulgaria",
+          "type": "city",
+          "name": {
+            "en": "Varna",
+            "de": "Warna",
+            "hu": "Várna",
+            "ro": "Varna"
+          },
+          "coords": [
+            27.9147,
+            43.2141
+          ],
+          "population": 318737,
+          "tier": 2,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-thessaloniki",
+          "iso2": "GR",
+          "country": "greece",
+          "type": "city",
+          "name": {
+            "en": "Thessaloniki",
+            "de": "Thessaloniki",
+            "hu": "Thesszaloniki",
+            "ro": "Salonic"
+          },
+          "coords": [
+            22.9444,
+            40.6401
+          ],
+          "population": 317778,
+          "tier": 2,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "AT-Graz",
+          "iso2": "AT",
+          "country": "austria",
+          "type": "city",
+          "name": {
+            "en": "Graz",
+            "de": "Graz",
+            "hu": "Graz",
+            "ro": "Graz"
+          },
+          "coords": [
+            15.4395,
+            47.0707
+          ],
+          "population": 303270,
+          "tier": 2,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-augsburg",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Augsburg",
+            "de": "Augsburg",
+            "hu": "Augsburg",
+            "ro": "Augsburg"
+          },
+          "coords": [
+            10.8978,
+            48.3705
+          ],
+          "population": 301105,
+          "tier": 2,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "lt-kaunas",
+          "iso2": "LT",
+          "country": "lithuania",
+          "type": "city",
+          "name": {
+            "en": "Kaunas",
+            "de": "Kaunas",
+            "hu": "Kaunas",
+            "ro": "Kaunas"
+          },
+          "coords": [
+            23.9036,
+            54.8985
+          ],
+          "population": 289380,
+          "tier": 2,
+          "staleEvents": 0,
+          "existingEvents": 0
+        }
+      ]
+    },
+    {
+      "id": "job-05",
+      "wave": 1,
+      "status": "pending",
+      "output": "public/data/empty-events-campaign-03/job-05.json",
+      "targets": [
+        {
+          "id": "city-aarhus",
+          "iso2": "DK",
+          "country": "denmark",
+          "type": "city",
+          "name": {
+            "en": "Aarhus",
+            "de": "Aarhus",
+            "hu": "Aarhus",
+            "ro": "Aarhus"
+          },
+          "coords": [
+            10.2039,
+            56.1567
+          ],
+          "population": 285273,
+          "tier": 2,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-ljubljana-extra",
+          "iso2": "SI",
+          "country": "slovenia",
+          "type": "city",
+          "name": {
+            "en": "Ljubljana",
+            "de": "Ljubljana",
+            "hu": "Ljubljana",
+            "ro": "Ljubljana"
+          },
+          "coords": [
+            14.5058,
+            46.0569
+          ],
+          "population": 272220,
+          "tier": 2,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-tampere",
+          "iso2": "FI",
+          "country": "finland",
+          "type": "city",
+          "name": {
+            "en": "Tampere",
+            "de": "Tampere",
+            "hu": "Tampere",
+            "ro": "Tampere"
+          },
+          "coords": [
+            23.7609,
+            61.4978
+          ],
+          "population": 260646,
+          "tier": 2,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-black-church",
+          "iso2": "RO",
+          "country": "romania",
+          "type": "city",
+          "name": {
+            "en": "Black Church",
+            "de": "Schwarze Kirche",
+            "hu": "Fekete templom",
+            "ro": "Biserica Neagră"
+          },
+          "coords": [
+            25.5878,
+            45.6406
+          ],
+          "population": 253200,
+          "tier": 2,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-vantaa",
+          "iso2": "FI",
+          "country": "finland",
+          "type": "city",
+          "name": {
+            "en": "Vantaa",
+            "de": "Vantaa",
+            "hu": "Vantaa",
+            "ro": "Vantaa"
+          },
+          "coords": [
+            25.0443,
+            60.2934
+          ],
+          "population": 252724,
+          "tier": 2,
+          "staleEvents": 0,
+          "existingEvents": 0
+        }
+      ]
+    },
+    {
+      "id": "job-06",
+      "wave": 2,
+      "status": "pending",
+      "output": "public/data/empty-events-campaign-03/job-06.json",
+      "targets": [
+        {
+          "id": "city-porto",
+          "iso2": "PT",
+          "country": "portugal",
+          "type": "city",
+          "name": {
+            "en": "Porto",
+            "de": "Porto",
+            "hu": "Porto",
+            "ro": "Porto"
+          },
+          "coords": [
+            -8.6291,
+            41.1579
+          ],
+          "population": 252687,
+          "tier": 2,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-kiel",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "state-capital",
+          "name": {
+            "en": "Kiel",
+            "de": "Kiel",
+            "hu": "Kiel",
+            "ro": "Kiel"
+          },
+          "coords": [
+            10.1228,
+            54.3233
+          ],
+          "population": 252668,
+          "tier": 2,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "spain-mera-cities-v2",
+          "iso2": "ES",
+          "country": "spain",
+          "type": "city",
+          "name": {
+            "en": "Mera",
+            "de": "Mera",
+            "hu": "Mera",
+            "ro": "Mera"
+          },
+          "coords": [
+            -8.33751,
+            43.3795
+          ],
+          "population": 250438,
+          "tier": 2,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "netherlands-groningen-cities-v2",
+          "iso2": "NL",
+          "country": "netherlands",
+          "type": "city",
+          "name": {
+            "en": "Groningen",
+            "de": "Groningen",
+            "hu": "Groningen",
+            "ro": "Groningen"
+          },
+          "coords": [
+            6.5675,
+            53.218889
+          ],
+          "population": 244807,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-magdeburg",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "state-capital",
+          "name": {
+            "en": "Magdeburg",
+            "de": "Magdeburg",
+            "hu": "Magdeburg",
+            "ro": "Magdeburg"
+          },
+          "coords": [
+            11.6276,
+            52.1205
+          ],
+          "population": 244329,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        }
+      ]
+    },
+    {
+      "id": "job-07",
+      "wave": 2,
+      "status": "pending",
+      "output": "public/data/empty-events-campaign-03/job-07.json",
+      "targets": [
+        {
+          "id": "city-oberhausen",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Oberhausen",
+            "de": "Oberhausen",
+            "hu": "Oberhausen",
+            "ro": "Oberhausen"
+          },
+          "coords": [
+            6.8638,
+            51.4963
+          ],
+          "population": 219176,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-erfurt",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "state-capital",
+          "name": {
+            "en": "Erfurt",
+            "de": "Erfurt",
+            "hu": "Erfurt",
+            "ro": "Erfurt"
+          },
+          "coords": [
+            11.029,
+            50.9848
+          ],
+          "population": 218793,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "galati",
+          "iso2": "RO",
+          "country": "romania",
+          "type": "city",
+          "name": {
+            "en": "Galați",
+            "de": "Galați",
+            "hu": "Galac",
+            "ro": "Galați"
+          },
+          "coords": [
+            28.0425,
+            45.423333333
+          ],
+          "population": 217851,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-oulu",
+          "iso2": "FI",
+          "country": "finland",
+          "type": "city",
+          "name": {
+            "en": "Oulu",
+            "de": "Oulu",
+            "hu": "Oulu",
+            "ro": "Oulu"
+          },
+          "coords": [
+            25.4716,
+            65.0121
+          ],
+          "population": 216066,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-luebeck",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Lübeck",
+            "de": "Lübeck",
+            "hu": "Lübeck",
+            "ro": "Lübeck"
+          },
+          "coords": [
+            10.6866,
+            53.8655
+          ],
+          "population": 212207,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        }
+      ]
+    },
+    {
+      "id": "job-08",
+      "wave": 2,
+      "status": "pending",
+      "output": "public/data/empty-events-campaign-03/job-08.json",
+      "targets": [
+        {
+          "id": "city-burgas",
+          "iso2": "BG",
+          "country": "bulgaria",
+          "type": "city",
+          "name": {
+            "en": "Burgas",
+            "de": "Burgas",
+            "hu": "Burgasz",
+            "ro": "Burgas"
+          },
+          "coords": [
+            27.4626,
+            42.5048
+          ],
+          "population": 210646,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-turku",
+          "iso2": "FI",
+          "country": "finland",
+          "type": "city",
+          "name": {
+            "en": "Turku",
+            "de": "Turku",
+            "hu": "Turku",
+            "ro": "Turku"
+          },
+          "coords": [
+            22.2666,
+            60.4518
+          ],
+          "population": 206655,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "AT-Linz",
+          "iso2": "AT",
+          "country": "austria",
+          "type": "city",
+          "name": {
+            "en": "Linz",
+            "de": "Linz",
+            "hu": "Linz",
+            "ro": "Linz"
+          },
+          "coords": [
+            14.2861,
+            48.3069
+          ],
+          "population": 204846,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "italy-lama-cities-v2",
+          "iso2": "IT",
+          "country": "italy",
+          "type": "city",
+          "name": {
+            "en": "Lama",
+            "de": "Lama",
+            "hu": "Lama",
+            "ro": "Lama"
+          },
+          "coords": [
+            17.24537,
+            40.40783
+          ],
+          "population": 198585,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-braga",
+          "iso2": "PT",
+          "country": "portugal",
+          "type": "city",
+          "name": {
+            "en": "Braga",
+            "de": "Braga",
+            "hu": "Braga",
+            "ro": "Braga"
+          },
+          "coords": [
+            -8.4265,
+            41.5454
+          ],
+          "population": 193324,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        }
+      ]
+    },
+    {
+      "id": "job-09",
+      "wave": 2,
+      "status": "pending",
+      "output": "public/data/empty-events-campaign-03/job-09.json",
+      "targets": [
+        {
+          "id": "city-potsdam",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "state-capital",
+          "name": {
+            "en": "Potsdam",
+            "de": "Potsdam",
+            "hu": "Potsdam",
+            "ro": "Potsdam"
+          },
+          "coords": [
+            13.0657,
+            52.3906
+          ],
+          "population": 184754,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-saarbruecken",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "state-capital",
+          "name": {
+            "en": "Saarbrücken",
+            "de": "Saarbrücken",
+            "hu": "Saarbrücken",
+            "ro": "Saarbrücken"
+          },
+          "coords": [
+            6.997,
+            49.24
+          ],
+          "population": 182971,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-uppsala",
+          "iso2": "SE",
+          "country": "sweden",
+          "type": "city",
+          "name": {
+            "en": "Uppsala",
+            "de": "Uppsala",
+            "hu": "Uppsala",
+            "ro": "Uppsala"
+          },
+          "coords": [
+            17.6389,
+            59.8586
+          ],
+          "population": 177074,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "ludwigshafen-am-rhein",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Ludwigshafen",
+            "de": "Ludwigshafen am Rhein",
+            "hu": "Ludwigshafen",
+            "ro": "Ludwigshafen"
+          },
+          "coords": [
+            8.4353,
+            49.4811
+          ],
+          "population": 176110,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "spain-somo-cities-v2",
+          "iso2": "ES",
+          "country": "spain",
+          "type": "city",
+          "name": {
+            "en": "Somo",
+            "de": "Somo",
+            "hu": "Somo",
+            "ro": "Somo"
+          },
+          "coords": [
+            -3.7414,
+            43.45348
+          ],
+          "population": 173635,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        }
+      ]
+    },
+    {
+      "id": "job-10",
+      "wave": 2,
+      "status": "pending",
+      "output": "public/data/empty-events-campaign-03/job-10.json",
+      "targets": [
+        {
+          "id": "mulheim-an-der-ruhr",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Mülheim an der Ruhr",
+            "de": "Mülheim an der Ruhr",
+            "hu": "Mülheim an der Ruhr",
+            "ro": "Mülheim an der Ruhr"
+          },
+          "coords": [
+            6.8825,
+            51.4275
+          ],
+          "population": 173255,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "lt-klaipeda",
+          "iso2": "LT",
+          "country": "lithuania",
+          "type": "city",
+          "name": {
+            "en": "Klaipėda",
+            "de": "Klaipėda",
+            "hu": "Klaipėda",
+            "ro": "Klaipėda"
+          },
+          "coords": [
+            21.1443,
+            55.7033
+          ],
+          "population": 172292,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-darmstadt",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Darmstadt",
+            "de": "Darmstadt",
+            "hu": "Darmstadt",
+            "ro": "Darmstadt"
+          },
+          "coords": [
+            8.6512,
+            49.8728
+          ],
+          "population": 167029,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-linkoping",
+          "iso2": "SE",
+          "country": "sweden",
+          "type": "city",
+          "name": {
+            "en": "Linköping",
+            "de": "Linköping",
+            "hu": "Linköping",
+            "ro": "Linköping"
+          },
+          "coords": [
+            15.6214,
+            58.4108
+          ],
+          "population": 166673,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-osnabrueck",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Osnabrück",
+            "de": "Osnabrück",
+            "hu": "Osnabrück",
+            "ro": "Osnabrück"
+          },
+          "coords": [
+            8.0472,
+            52.2799
+          ],
+          "population": 166462,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        }
+      ]
+    },
+    {
+      "id": "job-11",
+      "wave": 3,
+      "status": "pending",
+      "output": "public/data/empty-events-campaign-03/job-11.json",
+      "targets": [
+        {
+          "id": "solingen-extra",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Solingen",
+            "de": "Solingen",
+            "hu": "Solingen",
+            "ro": "Solingen"
+          },
+          "coords": [
+            7.08,
+            51.17
+          ],
+          "population": 164359,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "belgium-anderlecht-cities-v2",
+          "iso2": "BE",
+          "country": "belgium",
+          "type": "city",
+          "name": {
+            "en": "Anderlecht",
+            "de": "Anderlecht",
+            "hu": "Anderlecht",
+            "ro": "Anderlecht"
+          },
+          "coords": [
+            4.329722,
+            50.839167
+          ],
+          "population": 160553,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "herne",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Herne",
+            "de": "Herne",
+            "hu": "Herne",
+            "ro": "Herne"
+          },
+          "coords": [
+            7.219,
+            51.5426
+          ],
+          "population": 157896,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "austria-salzburg-cities-v2",
+          "iso2": "AT",
+          "country": "austria",
+          "type": "city",
+          "name": {
+            "en": "Salzburg",
+            "de": "Salzburg",
+            "hu": "Salzburg",
+            "ro": "Salzburg"
+          },
+          "coords": [
+            13.045,
+            47.8
+          ],
+          "population": 157245,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-orebro",
+          "iso2": "SE",
+          "country": "sweden",
+          "type": "city",
+          "name": {
+            "en": "Örebro",
+            "de": "Örebro",
+            "hu": "Örebro",
+            "ro": "Örebro"
+          },
+          "coords": [
+            15.2066,
+            59.2753
+          ],
+          "population": 155989,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        }
+      ]
+    },
+    {
+      "id": "job-12",
+      "wave": 3,
+      "status": "pending",
+      "output": "public/data/empty-events-campaign-03/job-12.json",
+      "targets": [
+        {
+          "id": "neuss",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Neuss",
+            "de": "Neuss",
+            "hu": "Neuss",
+            "ro": "Neuss"
+          },
+          "coords": [
+            6.6939,
+            51.2003
+          ],
+          "population": 155163,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "nl-enschede",
+          "iso2": "NL",
+          "country": "netherlands",
+          "type": "city",
+          "name": {
+            "en": "Enschede",
+            "de": "Enschede",
+            "hu": "Enschede",
+            "ro": "Enschede"
+          },
+          "coords": [
+            6.8937,
+            52.2215
+          ],
+          "population": 153655,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-regensburg",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Regensburg",
+            "de": "Regensburg",
+            "hu": "Regensburg",
+            "ro": "Regensburg"
+          },
+          "coords": [
+            12.0956,
+            49.0134
+          ],
+          "population": 151389,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-jyvaskyla",
+          "iso2": "FI",
+          "country": "finland",
+          "type": "city",
+          "name": {
+            "en": "Jyväskylä",
+            "de": "Jyväskylä",
+            "hu": "Jyväskylä",
+            "ro": "Jyväskylä"
+          },
+          "coords": [
+            25.7473,
+            62.2426
+          ],
+          "population": 148744,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "italy-viserba-cities-v2",
+          "iso2": "IT",
+          "country": "italy",
+          "type": "city",
+          "name": {
+            "en": "Viserba",
+            "de": "Viserba",
+            "hu": "Viserba",
+            "ro": "Viserba"
+          },
+          "coords": [
+            12.53486,
+            44.08514
+          ],
+          "population": 148688,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        }
+      ]
+    },
+    {
+      "id": "job-13",
+      "wave": 3,
+      "status": "pending",
+      "output": "public/data/empty-events-campaign-03/job-13.json",
+      "targets": [
+        {
+          "id": "city-coimbra",
+          "iso2": "PT",
+          "country": "portugal",
+          "type": "city",
+          "name": {
+            "en": "Coimbra",
+            "de": "Coimbra",
+            "hu": "Coimbra",
+            "ro": "Coimbra"
+          },
+          "coords": [
+            -8.4103,
+            40.2033
+          ],
+          "population": 140796,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "sweden-sollentuna-cities-v2",
+          "iso2": "SE",
+          "country": "sweden",
+          "type": "city",
+          "name": {
+            "en": "Sollentuna",
+            "de": "Sollentuna",
+            "hu": "Sollentuna",
+            "ro": "Sollentuna"
+          },
+          "coords": [
+            17.941667,
+            59.425
+          ],
+          "population": 139606,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "greece-heraklion-cities-v2",
+          "iso2": "GR",
+          "country": "greece",
+          "type": "capital",
+          "name": {
+            "en": "Heraklion",
+            "de": "Iraklio",
+            "hu": "Iráklio",
+            "ro": "Heraklion"
+          },
+          "coords": [
+            25.1442,
+            35.3387
+          ],
+          "population": 137154,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "offenbach-am-main",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Offenbach am Main",
+            "de": "Offenbach am Main",
+            "hu": "Offenbach am Main",
+            "ro": "Offenbach am Main"
+          },
+          "coords": [
+            8.7667,
+            50.1
+          ],
+          "population": 135490,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "romania-sibiu-cities-v2",
+          "iso2": "RO",
+          "country": "romania",
+          "type": "city",
+          "name": {
+            "en": "Sibiu",
+            "de": "Sibiu",
+            "hu": "Nagyszeben",
+            "ro": "Sibiu"
+          },
+          "coords": [
+            24.15,
+            45.8
+          ],
+          "population": 134309,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        }
+      ]
+    },
+    {
+      "id": "job-14",
+      "wave": 3,
+      "status": "pending",
+      "output": "public/data/empty-events-campaign-03/job-14.json",
+      "targets": [
+        {
+          "id": "city-wuerzburg",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Würzburg",
+            "de": "Würzburg",
+            "hu": "Würzburg",
+            "ro": "Würzburg"
+          },
+          "coords": [
+            9.9534,
+            49.7913
+          ],
+          "population": 133731,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "AT-Innsbruck",
+          "iso2": "AT",
+          "country": "austria",
+          "type": "city",
+          "name": {
+            "en": "Innsbruck",
+            "de": "Innsbruck",
+            "hu": "Innsbruck",
+            "ro": "Innsbruck"
+          },
+          "coords": [
+            11.3945,
+            47.2692
+          ],
+          "population": 132493,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "furth",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Fürth",
+            "de": "Fürth",
+            "hu": "Fürth",
+            "ro": "Fürth"
+          },
+          "coords": [
+            10.9903,
+            49.4783
+          ],
+          "population": 132032,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-umea",
+          "iso2": "SE",
+          "country": "sweden",
+          "type": "city",
+          "name": {
+            "en": "Umeå",
+            "de": "Umeå",
+            "hu": "Umeå",
+            "ro": "Umeå"
+          },
+          "coords": [
+            20.263,
+            63.8258
+          ],
+          "population": 130224,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-leiria",
+          "iso2": "PT",
+          "country": "portugal",
+          "type": "city",
+          "name": {
+            "en": "Leiria",
+            "de": "Leiria",
+            "hu": "Leiria",
+            "ro": "Leiria"
+          },
+          "coords": [
+            -8.807,
+            39.7436
+          ],
+          "population": 128640,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        }
+      ]
+    },
+    {
+      "id": "job-15",
+      "wave": 3,
+      "status": "pending",
+      "output": "public/data/empty-events-campaign-03/job-15.json",
+      "targets": [
+        {
+          "id": "city-vasteras",
+          "iso2": "SE",
+          "country": "sweden",
+          "type": "city",
+          "name": {
+            "en": "Västerås",
+            "de": "Västerås",
+            "hu": "Västerås",
+            "ro": "Västerås"
+          },
+          "coords": [
+            16.5448,
+            59.6114
+          ],
+          "population": 127799,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "greece-rhodes-cities-v2",
+          "iso2": "GR",
+          "country": "greece",
+          "type": "city",
+          "name": {
+            "en": "Rhodes",
+            "de": "Rhodos",
+            "hu": "Rodosz",
+            "ro": "Rodos"
+          },
+          "coords": [
+            27.92,
+            36.17
+          ],
+          "population": 127613,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-kuopio",
+          "iso2": "FI",
+          "country": "finland",
+          "type": "city",
+          "name": {
+            "en": "Kuopio",
+            "de": "Kuopio",
+            "hu": "Kuopio",
+            "ro": "Kuopio"
+          },
+          "coords": [
+            27.677,
+            62.8924
+          ],
+          "population": 125462,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "spain-telde-cities-v2",
+          "iso2": "ES",
+          "country": "spain",
+          "type": "city",
+          "name": {
+            "en": "Telde",
+            "de": "Telde",
+            "hu": "Telde",
+            "ro": "Telde"
+          },
+          "coords": [
+            -15.41915,
+            27.99243
+          ],
+          "population": 123265,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "NL-CT-MAA",
+          "iso2": "NL",
+          "country": "netherlands",
+          "type": "city",
+          "name": {
+            "en": "Maastricht",
+            "de": "Maastricht",
+            "hu": "Maastricht",
+            "ro": "Maastricht"
+          },
+          "coords": [
+            5.69,
+            50.85
+          ],
+          "population": 122378,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        }
+      ]
+    },
+    {
+      "id": "job-16",
+      "wave": 4,
+      "status": "pending",
+      "output": "public/data/empty-events-campaign-03/job-16.json",
+      "targets": [
+        {
+          "id": "city-goettingen",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Göttingen",
+            "de": "Göttingen",
+            "hu": "Göttingen",
+            "ro": "Göttingen"
+          },
+          "coords": [
+            9.9352,
+            51.5413
+          ],
+          "population": 122149,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-lahti",
+          "iso2": "FI",
+          "country": "finland",
+          "type": "city",
+          "name": {
+            "en": "Lahti",
+            "de": "Lahti",
+            "hu": "Lahti",
+            "ro": "Lahti"
+          },
+          "coords": [
+            25.6615,
+            60.9827
+          ],
+          "population": 121622,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-stara-zagora",
+          "iso2": "BG",
+          "country": "bulgaria",
+          "type": "city",
+          "name": {
+            "en": "Stara Zagora",
+            "de": "Stara Sagora",
+            "hu": "Sztara Zagora",
+            "ro": "Stara Zagora"
+          },
+          "coords": [
+            25.6257,
+            42.4258
+          ],
+          "population": 121582,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "spain-palmones-cities-v2",
+          "iso2": "ES",
+          "country": "spain",
+          "type": "city",
+          "name": {
+            "en": "Palmones",
+            "de": "Palmones",
+            "hu": "Palmones",
+            "ro": "Palmones"
+          },
+          "coords": [
+            -5.43566,
+            36.17524
+          ],
+          "population": 121414,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "bulgaria-ruse-cities-v2",
+          "iso2": "BG",
+          "country": "bulgaria",
+          "type": "city",
+          "name": {
+            "en": "Ruse",
+            "de": "Ruse",
+            "hu": "Rusze",
+            "ro": "Ruse"
+          },
+          "coords": [
+            25.953907,
+            43.844532
+          ],
+          "population": 121168,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        }
+      ]
+    },
+    {
+      "id": "job-17",
+      "wave": 4,
+      "status": "pending",
+      "output": "public/data/empty-events-campaign-03/job-17.json",
+      "targets": [
+        {
+          "id": "spain-santa-coloma-de-gramenet-cities-v2",
+          "iso2": "ES",
+          "country": "spain",
+          "type": "city",
+          "name": {
+            "en": "Santa Coloma de Gramenet",
+            "de": "Santa Coloma de Gramenet",
+            "hu": "Santa Coloma de Gramenet",
+            "ro": "Santa Coloma de Gramenet"
+          },
+          "coords": [
+            2.2081,
+            41.45152
+          ],
+          "population": 118821,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-setubal",
+          "iso2": "PT",
+          "country": "portugal",
+          "type": "city",
+          "name": {
+            "en": "Setubal",
+            "de": "Setúbal",
+            "hu": "Setúbal",
+            "ro": "Setúbal"
+          },
+          "coords": [
+            -8.8928,
+            38.5244
+          ],
+          "population": 118166,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "remscheid",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Remscheid",
+            "de": "Remscheid",
+            "hu": "Remscheid",
+            "ro": "Remscheid"
+          },
+          "coords": [
+            7.1944,
+            51.1799
+          ],
+          "population": 112970,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-jonkoping",
+          "iso2": "SE",
+          "country": "sweden",
+          "type": "city",
+          "name": {
+            "en": "Jönköping",
+            "de": "Jönköping",
+            "hu": "Jönköping",
+            "ro": "Jönköping"
+          },
+          "coords": [
+            14.1618,
+            57.7826
+          ],
+          "population": 112766,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "bergisch-gladbach",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Bergisch Gladbach",
+            "de": "Bergisch Gladbach",
+            "hu": "Bergisch Gladbach",
+            "ro": "Bergisch Gladbach"
+          },
+          "coords": [
+            7.1367,
+            50.9917
+          ],
+          "population": 112660,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        }
+      ]
+    },
+    {
+      "id": "job-18",
+      "wave": 4,
+      "status": "pending",
+      "output": "public/data/empty-events-campaign-03/job-18.json",
+      "targets": [
+        {
+          "id": "italy-terni-cities-v2",
+          "iso2": "IT",
+          "country": "italy",
+          "type": "city",
+          "name": {
+            "en": "Terni",
+            "de": "Terni",
+            "hu": "Terni",
+            "ro": "Terni"
+          },
+          "coords": [
+            12.646782,
+            42.560771
+          ],
+          "population": 111189,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "belgium-namur-cities-v2",
+          "iso2": "BE",
+          "country": "belgium",
+          "type": "city",
+          "name": {
+            "en": "Namur",
+            "de": "Namur",
+            "hu": "Namur",
+            "ro": "Namur"
+          },
+          "coords": [
+            4.866667,
+            50.466667
+          ],
+          "population": 110939,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-rijeka",
+          "iso2": "HR",
+          "country": "croatia",
+          "type": "city",
+          "name": {
+            "en": "Rijeka",
+            "de": "Rijeka",
+            "hu": "Rijeka",
+            "ro": "Rijeka"
+          },
+          "coords": [
+            14.4423,
+            45.3271
+          ],
+          "population": 107964,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "siegen-extra",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Siegen",
+            "de": "Siegen",
+            "hu": "Siegen",
+            "ro": "Siegen"
+          },
+          "coords": [
+            8.02,
+            50.87
+          ],
+          "population": 107242,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-funchal",
+          "iso2": "PT",
+          "country": "portugal",
+          "type": "city",
+          "name": {
+            "en": "Funchal",
+            "de": "Funchal",
+            "hu": "Funchal",
+            "ro": "Funchal"
+          },
+          "coords": [
+            -16.9288,
+            32.6669
+          ],
+          "population": 105795,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        }
+      ]
+    },
+    {
+      "id": "job-19",
+      "wave": 4,
+      "status": "pending",
+      "output": "public/data/empty-events-campaign-03/job-19.json",
+      "targets": [
+        {
+          "id": "moers",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Moers",
+            "de": "Moers",
+            "hu": "Moers",
+            "ro": "Moers"
+          },
+          "coords": [
+            6.6197,
+            51.4592
+          ],
+          "population": 105606,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-jena",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Jena",
+            "de": "Jena",
+            "hu": "Jena",
+            "ro": "Jena"
+          },
+          "coords": [
+            11.5892,
+            50.9271
+          ],
+          "population": 104712,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-gera",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Gera",
+            "de": "Gera",
+            "hu": "Gera",
+            "ro": "Gera"
+          },
+          "coords": [
+            12.0814,
+            50.8791
+          ],
+          "population": 104659,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "sweden-miatorp-cities-v2",
+          "iso2": "SE",
+          "country": "sweden",
+          "type": "city",
+          "name": {
+            "en": "Miatorp",
+            "de": "Miatorp",
+            "hu": "Miatorp",
+            "ro": "Miatorp"
+          },
+          "coords": [
+            12.72166,
+            56.01903
+          ],
+          "population": 104250,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "at-klagenfurt-am-woerthersee",
+          "iso2": "AT",
+          "country": "austria",
+          "type": "city",
+          "name": {
+            "en": "Klagenfurt",
+            "de": "Klagenfurt am Wörthersee",
+            "hu": "Klagenfurt",
+            "ro": "Klagenfurt"
+          },
+          "coords": [
+            14.3055,
+            46.6247
+          ],
+          "population": 103623,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        }
+      ]
+    },
+    {
+      "id": "job-20",
+      "wave": 4,
+      "status": "pending",
+      "output": "public/data/empty-events-campaign-03/job-20.json",
+      "targets": [
+        {
+          "id": "city-viseu",
+          "iso2": "PT",
+          "country": "portugal",
+          "type": "city",
+          "name": {
+            "en": "Viseu",
+            "de": "Viseu",
+            "hu": "Viseu",
+            "ro": "Viseu"
+          },
+          "coords": [
+            -7.9125,
+            40.661
+          ],
+          "population": 103502,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "gutersloh",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Gütersloh",
+            "de": "Gütersloh",
+            "hu": "Gütersloh",
+            "ro": "Gütersloh"
+          },
+          "coords": [
+            8.3833,
+            51.9
+          ],
+          "population": 102464,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "mitte-extra",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Mitte",
+            "de": "Mitte",
+            "hu": "Mitte",
+            "ro": "Mitte"
+          },
+          "coords": [
+            13.4049,
+            52.52
+          ],
+          "population": 102338,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-ujpest-extra",
+          "iso2": "HU",
+          "country": "hungary",
+          "type": "city",
+          "name": {
+            "en": "Újpest",
+            "de": "Újpest",
+            "hu": "Újpest",
+            "ro": "Újpest"
+          },
+          "coords": [
+            19.09,
+            47.56
+          ],
+          "population": 100694,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "greece-south-athens-cities-v2",
+          "iso2": "GR",
+          "country": "greece",
+          "type": "city",
+          "name": {
+            "en": "South Athens",
+            "de": "Südathen",
+            "hu": "Dél-Athén",
+            "ro": "Atena de Sud"
+          },
+          "coords": [
+            23.69239,
+            37.94028
+          ],
+          "population": 100641,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        }
+      ]
+    },
+    {
+      "id": "job-21",
+      "wave": 5,
+      "status": "pending",
+      "output": "public/data/empty-events-campaign-03/job-21.json",
+      "targets": [
+        {
+          "id": "spain-barakaldo-cities-v2",
+          "iso2": "ES",
+          "country": "spain",
+          "type": "city",
+          "name": {
+            "en": "Barakaldo",
+            "de": "Barakaldo",
+            "hu": "Barakaldo",
+            "ro": "Barakaldo"
+          },
+          "coords": [
+            -2.991667,
+            43.297222
+          ],
+          "population": 100435,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "AT-Klagenfurt",
+          "iso2": "AT",
+          "country": "austria",
+          "type": "city",
+          "name": {
+            "en": "Klagenfurt",
+            "de": "Klagenfurt",
+            "hu": "Klagenfurt",
+            "ro": "Klagenfurt"
+          },
+          "coords": [
+            14.3053,
+            46.6247
+          ],
+          "population": 100316,
+          "tier": 3,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "greece-acharnes-cities-v2",
+          "iso2": "GR",
+          "country": "greece",
+          "type": "city",
+          "name": {
+            "en": "Acharnes",
+            "de": "Acharnes",
+            "hu": "Acharnes",
+            "ro": "Acharnes"
+          },
+          "coords": [
+            23.7425,
+            38.0925
+          ],
+          "population": 99346,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "nanterre",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Nanterre",
+            "de": "Nanterre",
+            "hu": "Nanterre",
+            "ro": "Nanterre"
+          },
+          "coords": [
+            2.2036,
+            48.8906
+          ],
+          "population": 98119,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-maribor-extra",
+          "iso2": "SI",
+          "country": "slovenia",
+          "type": "city",
+          "name": {
+            "en": "Maribor",
+            "de": "Maribor",
+            "hu": "Maribor",
+            "ro": "Maribor"
+          },
+          "coords": [
+            15.6459,
+            46.5547
+          ],
+          "population": 96209,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        }
+      ]
+    },
+    {
+      "id": "job-22",
+      "wave": 5,
+      "status": "pending",
+      "output": "public/data/empty-events-campaign-03/job-22.json",
+      "targets": [
+        {
+          "id": "vitry-sur-seine",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Vitry-sur-Seine",
+            "de": "Vitry-sur-Seine",
+            "hu": "Vitry-sur-Seine",
+            "ro": "Vitry-sur-Seine"
+          },
+          "coords": [
+            2.3928,
+            48.7875
+          ],
+          "population": 96205,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "esslingen-am-neckar",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Esslingen am Neckar",
+            "de": "Esslingen am Neckar",
+            "hu": "Esslingen am Neckar",
+            "ro": "Esslingen am Neckar"
+          },
+          "coords": [
+            9.3108,
+            48.7406
+          ],
+          "population": 95881,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "spain-las-rozas-de-madrid-cities-v2",
+          "iso2": "ES",
+          "country": "spain",
+          "type": "city",
+          "name": {
+            "en": "Las Rozas de Madrid",
+            "de": "Las Rozas de Madrid",
+            "hu": "Las Rozas de Madrid",
+            "ro": "Las Rozas de Madrid"
+          },
+          "coords": [
+            -3.903,
+            40.52673
+          ],
+          "population": 95550,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "spain-san-fernando-cities-v2",
+          "iso2": "ES",
+          "country": "spain",
+          "type": "city",
+          "name": {
+            "en": "San Fernando",
+            "de": "San Fernando",
+            "hu": "San Fernando",
+            "ro": "San Fernando"
+          },
+          "coords": [
+            -6.19835,
+            36.46467
+          ],
+          "population": 95174,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "denmark-grøndal-cities-v2",
+          "iso2": "DK",
+          "country": "denmark",
+          "type": "city",
+          "name": {
+            "en": "Grondal",
+            "de": "Grøndal",
+            "hu": "Grøndal",
+            "ro": "Grøndal"
+          },
+          "coords": [
+            12.51,
+            55.69
+          ],
+          "population": 95029,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        }
+      ]
+    },
+    {
+      "id": "job-23",
+      "wave": 5,
+      "status": "pending",
+      "output": "public/data/empty-events-campaign-03/job-23.json",
+      "targets": [
+        {
+          "id": "nl-alkmaar",
+          "iso2": "NL",
+          "country": "netherlands",
+          "type": "city",
+          "name": {
+            "en": "Alkmaar",
+            "de": "Alkmaar",
+            "hu": "Alkmaar",
+            "ro": "Alkmaar"
+          },
+          "coords": [
+            4.7483,
+            52.6324
+          ],
+          "population": 94853,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "portugal-agualva-cacem-cities-v2",
+          "iso2": "PT",
+          "country": "portugal",
+          "type": "city",
+          "name": {
+            "en": "Agualva-Cacém",
+            "de": "Agualva-Cacém",
+            "hu": "Agualva-Cacém",
+            "ro": "Agualva-Cacém"
+          },
+          "coords": [
+            -9.30072,
+            38.770262
+          ],
+          "population": 93982,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "asnieres-sur-seine",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Asnières-sur-Seine",
+            "de": "Asnières-sur-Seine",
+            "hu": "Asnières-sur-Seine",
+            "ro": "Asnières-sur-Seine"
+          },
+          "coords": [
+            2.2856,
+            48.9111
+          ],
+          "population": 93941,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "spain-guadalajara-city-cities-v2",
+          "iso2": "ES",
+          "country": "spain",
+          "type": "city",
+          "name": {
+            "en": "Guadalajara",
+            "de": "Guadalajara",
+            "hu": "Guadalajara",
+            "ro": "Guadalajara"
+          },
+          "coords": [
+            -3.1669,
+            40.633483
+          ],
+          "population": 93470,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "czechrepublic-maj-cities-v2",
+          "iso2": "CZ",
+          "country": "czech-republic",
+          "type": "city",
+          "name": {
+            "en": "Máj",
+            "de": "Máj",
+            "hu": "Máj",
+            "ro": "Máj"
+          },
+          "coords": [
+            14.4387,
+            48.984
+          ],
+          "population": 93426,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        }
+      ]
+    },
+    {
+      "id": "job-24",
+      "wave": 5,
+      "status": "pending",
+      "output": "public/data/empty-events-campaign-03/job-24.json",
+      "targets": [
+        {
+          "id": "creteil",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Créteil",
+            "de": "Créteil",
+            "hu": "Créteil",
+            "ro": "Créteil"
+          },
+          "coords": [
+            2.4531,
+            48.7778
+          ],
+          "population": 93397,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "duren",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Düren",
+            "de": "Düren",
+            "hu": "Düren",
+            "ro": "Düren"
+          },
+          "coords": [
+            6.4821,
+            50.8032
+          ],
+          "population": 93323,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "italy-barletta-cities-v2",
+          "iso2": "IT",
+          "country": "italy",
+          "type": "city",
+          "name": {
+            "en": "Barletta",
+            "de": "Barletta",
+            "hu": "Barletta",
+            "ro": "Barletta"
+          },
+          "coords": [
+            16.28687,
+            41.3215
+          ],
+          "population": 93279,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "iserlohn",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Iserlohn",
+            "de": "Iserlohn",
+            "hu": "Iserlohn",
+            "ro": "Iserlohn"
+          },
+          "coords": [
+            7.6667,
+            51.3833
+          ],
+          "population": 92404,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "greece-kalamaria-cities-v2",
+          "iso2": "GR",
+          "country": "greece",
+          "type": "city",
+          "name": {
+            "en": "Kalamaria",
+            "de": "Kalamaria",
+            "hu": "Kalamariá",
+            "ro": "Kalamaria"
+          },
+          "coords": [
+            22.95,
+            40.583333
+          ],
+          "population": 91518,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        }
+      ]
+    },
+    {
+      "id": "job-25",
+      "wave": 5,
+      "status": "pending",
+      "output": "public/data/empty-events-campaign-03/job-25.json",
+      "targets": [
+        {
+          "id": "ee-tartu",
+          "iso2": "EE",
+          "country": "estonia",
+          "type": "city",
+          "name": {
+            "en": "Tartu",
+            "de": "Tartu",
+            "hu": "Tartu",
+            "ro": "Tartu"
+          },
+          "coords": [
+            26.729,
+            58.378
+          ],
+          "population": 91407,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "colombes",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Colombes",
+            "de": "Colombes",
+            "hu": "Colombes",
+            "ro": "Colombes"
+          },
+          "coords": [
+            2.2522,
+            48.9236
+          ],
+          "population": 91053,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "sweden-huddinge-cities-v2",
+          "iso2": "SE",
+          "country": "sweden",
+          "type": "city",
+          "name": {
+            "en": "Huddinge",
+            "de": "Huddinge",
+            "hu": "Huddinge",
+            "ro": "Huddinge"
+          },
+          "coords": [
+            17.98,
+            59.23
+          ],
+          "population": 90182,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "greece-nikaia-cities-v2",
+          "iso2": "GR",
+          "country": "greece",
+          "type": "city",
+          "name": {
+            "en": "Nikaia",
+            "de": "Nikaia",
+            "hu": "Nikaia",
+            "ro": "Nikaia"
+          },
+          "coords": [
+            23.633333,
+            37.966667
+          ],
+          "population": 89380,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "villingen-schwenningen",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Villingen-Schwenningen",
+            "de": "Villingen-Schwenningen",
+            "hu": "Villingen-Schwenningen",
+            "ro": "Villingen-Schwenningen"
+          },
+          "coords": [
+            8.493,
+            48.0632
+          ],
+          "population": 89145,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        }
+      ]
+    },
+    {
+      "id": "job-26",
+      "wave": 6,
+      "status": "pending",
+      "output": "public/data/empty-events-campaign-03/job-26.json",
+      "targets": [
+        {
+          "id": "spain-talavera-de-la-reina-cities-v2",
+          "iso2": "ES",
+          "country": "spain",
+          "type": "city",
+          "name": {
+            "en": "Talavera de la Reina",
+            "de": "Talavera de la Reina",
+            "hu": "Talavera de la Reina",
+            "ro": "Talavera de la Reina"
+          },
+          "coords": [
+            -4.833702,
+            39.960167
+          ],
+          "population": 88856,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "lunen",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Lünen",
+            "de": "Lünen",
+            "hu": "Lünen",
+            "ro": "Lünen"
+          },
+          "coords": [
+            7.5167,
+            51.6167
+          ],
+          "population": 87266,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-lund",
+          "iso2": "SE",
+          "country": "sweden",
+          "type": "city",
+          "name": {
+            "en": "Lund",
+            "de": "Lund",
+            "hu": "Lund",
+            "ro": "Lund"
+          },
+          "coords": [
+            13.191,
+            55.7047
+          ],
+          "population": 87244,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "spain-melilla-cities-v2",
+          "iso2": "ES",
+          "country": "spain",
+          "type": "city",
+          "name": {
+            "en": "Melilla",
+            "de": "Melilla",
+            "hu": "Melilla",
+            "ro": "Melilla"
+          },
+          "coords": [
+            -2.9475,
+            35.2825
+          ],
+          "population": 85985,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "courbevoie",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Courbevoie",
+            "de": "Courbevoie",
+            "hu": "Courbevoie",
+            "ro": "Courbevoie"
+          },
+          "coords": [
+            2.2522,
+            48.8972
+          ],
+          "population": 85523,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        }
+      ]
+    },
+    {
+      "id": "job-27",
+      "wave": 6,
+      "status": "pending",
+      "output": "public/data/empty-events-campaign-03/job-27.json",
+      "targets": [
+        {
+          "id": "italy-ostia-sud-cities-v2",
+          "iso2": "IT",
+          "country": "italy",
+          "type": "city",
+          "name": {
+            "en": "Ostia Sud",
+            "de": "Ostia Sud",
+            "hu": "Ostia Sud",
+            "ro": "Ostia Sud"
+          },
+          "coords": [
+            12.291727,
+            41.733533
+          ],
+          "population": 85301,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "marl",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Marl",
+            "de": "Marl",
+            "hu": "Marl",
+            "ro": "Marl"
+          },
+          "coords": [
+            7.1167,
+            51.6667
+          ],
+          "population": 85001,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "greece-ilion-cities-v2",
+          "iso2": "GR",
+          "country": "greece",
+          "type": "city",
+          "name": {
+            "en": "Ilion",
+            "de": "Ilion",
+            "hu": "Ilion",
+            "ro": "Ilion"
+          },
+          "coords": [
+            23.7,
+            38.03333
+          ],
+          "population": 84793,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "spain-el-ejido-cities-v2",
+          "iso2": "ES",
+          "country": "spain",
+          "type": "city",
+          "name": {
+            "en": "El Ejido",
+            "de": "El Ejido",
+            "hu": "El Ejido",
+            "ro": "El Ejido"
+          },
+          "coords": [
+            -2.80475,
+            36.72291
+          ],
+          "population": 84710,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-sliven",
+          "iso2": "BG",
+          "country": "bulgaria",
+          "type": "city",
+          "name": {
+            "en": "Sliven",
+            "de": "Sliwen",
+            "hu": "Szliven",
+            "ro": "Sliven"
+          },
+          "coords": [
+            26.3333,
+            42.6817
+          ],
+          "population": 83740,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        }
+      ]
+    },
+    {
+      "id": "job-28",
+      "wave": 6,
+      "status": "pending",
+      "output": "public/data/empty-events-campaign-03/job-28.json",
+      "targets": [
+        {
+          "id": "spain-ceuta-cities-v2",
+          "iso2": "ES",
+          "country": "spain",
+          "type": "city",
+          "name": {
+            "en": "Ceuta",
+            "de": "Ceuta",
+            "hu": "Ceuta",
+            "ro": "Ceuta"
+          },
+          "coords": [
+            -5.3,
+            35.886667
+          ],
+          "population": 83179,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-pori",
+          "iso2": "FI",
+          "country": "finland",
+          "type": "city",
+          "name": {
+            "en": "Pori",
+            "de": "Pori",
+            "hu": "Pori",
+            "ro": "Pori"
+          },
+          "coords": [
+            21.797,
+            61.485
+          ],
+          "population": 83157,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "minden",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Minden",
+            "de": "Minden",
+            "hu": "Minden",
+            "ro": "Minden"
+          },
+          "coords": [
+            8.9167,
+            52.2883
+          ],
+          "population": 83100,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "rueil-malmaison",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Rueil-Malmaison",
+            "de": "Rueil-Malmaison",
+            "hu": "Rueil-Malmaison",
+            "ro": "Rueil-Malmaison"
+          },
+          "coords": [
+            2.1883,
+            48.8778
+          ],
+          "population": 82874,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "spain-la-mata-cities-v2",
+          "iso2": "ES",
+          "country": "spain",
+          "type": "city",
+          "name": {
+            "en": "La Mata",
+            "de": "La Mata",
+            "hu": "La Mata",
+            "ro": "La Mata"
+          },
+          "coords": [
+            -0.65452,
+            38.02655
+          ],
+          "population": 82599,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        }
+      ]
+    },
+    {
+      "id": "job-29",
+      "wave": 6,
+      "status": "pending",
+      "output": "public/data/empty-events-campaign-03/job-29.json",
+      "targets": [
+        {
+          "id": "city-pernik",
+          "iso2": "BG",
+          "country": "bulgaria",
+          "type": "city",
+          "name": {
+            "en": "Pernik",
+            "de": "Pernik",
+            "hu": "Pernik",
+            "ro": "Pernik"
+          },
+          "coords": [
+            23.02,
+            42.605
+          ],
+          "population": 82467,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "spain-pozuelo-de-alarcon-cities-v2",
+          "iso2": "ES",
+          "country": "spain",
+          "type": "city",
+          "name": {
+            "en": "Pozuelo de Alarcón",
+            "de": "Pozuelo de Alarcón",
+            "hu": "Pozuelo de Alarcón",
+            "ro": "Pozuelo de Alarcón"
+          },
+          "coords": [
+            -3.81338,
+            40.43293
+          ],
+          "population": 82428,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "spain-coslada-cities-v2",
+          "iso2": "ES",
+          "country": "spain",
+          "type": "city",
+          "name": {
+            "en": "Coslada",
+            "de": "Coslada",
+            "hu": "Coslada",
+            "ro": "Coslada"
+          },
+          "coords": [
+            -3.565,
+            40.426111
+          ],
+          "population": 81860,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "italy-cuma-cities-v2",
+          "iso2": "IT",
+          "country": "italy",
+          "type": "city",
+          "name": {
+            "en": "Cuma",
+            "de": "Cuma",
+            "hu": "Cuma",
+            "ro": "Cuma"
+          },
+          "coords": [
+            14.05598,
+            40.83805
+          ],
+          "population": 81231,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-zilina",
+          "iso2": "SK",
+          "country": "slovakia",
+          "type": "city",
+          "name": {
+            "en": "Žilina",
+            "de": "Sillein",
+            "hu": "Zsolna",
+            "ro": "Žilina"
+          },
+          "coords": [
+            18.7408,
+            49.2236
+          ],
+          "population": 81219,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        }
+      ]
+    },
+    {
+      "id": "job-30",
+      "wave": 6,
+      "status": "pending",
+      "output": "public/data/empty-events-campaign-03/job-30.json",
+      "targets": [
+        {
+          "id": "city-aveiro",
+          "iso2": "PT",
+          "country": "portugal",
+          "type": "city",
+          "name": {
+            "en": "Aveiro",
+            "de": "Aveiro",
+            "hu": "Aveiro",
+            "ro": "Aveiro"
+          },
+          "coords": [
+            -8.6538,
+            40.6405
+          ],
+          "population": 80880,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "italy-varese-cities-v2",
+          "iso2": "IT",
+          "country": "italy",
+          "type": "city",
+          "name": {
+            "en": "Varese",
+            "de": "Varese",
+            "hu": "Varese",
+            "ro": "Varese"
+          },
+          "coords": [
+            8.833333,
+            45.816667
+          ],
+          "population": 80588,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "italy-giugliano-in-campania-cities-v2",
+          "iso2": "IT",
+          "country": "italy",
+          "type": "city",
+          "name": {
+            "en": "Giugliano in Campania",
+            "de": "Giugliano in Campania",
+            "hu": "Giugliano in Campania",
+            "ro": "Giugliano in Campania"
+          },
+          "coords": [
+            14.201085,
+            40.928346
+          ],
+          "population": 80269,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-drobeta-turnu-severin",
+          "iso2": "RO",
+          "country": "romania",
+          "type": "city",
+          "name": {
+            "en": "Drobeta-Turnu Severin",
+            "de": "Drobeta-Turnu Severin",
+            "hu": "Drobeta-Turnu Severin",
+            "ro": "Drobeta-Turnu Severin"
+          },
+          "coords": [
+            22.6566,
+            44.6369
+          ],
+          "population": 79865,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "netherlands-lelystad-cities-v2",
+          "iso2": "NL",
+          "country": "netherlands",
+          "type": "city",
+          "name": {
+            "en": "Lelystad",
+            "de": "Lelystad",
+            "hu": "Lelystad",
+            "ro": "Lelystad"
+          },
+          "coords": [
+            5.475,
+            52.50833
+          ],
+          "population": 79811,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        }
+      ]
+    },
+    {
+      "id": "job-31",
+      "wave": 7,
+      "status": "pending",
+      "output": "public/data/empty-events-campaign-03/job-31.json",
+      "targets": [
+        {
+          "id": "spain-sant-cugat-del-valles-cities-v2",
+          "iso2": "ES",
+          "country": "spain",
+          "type": "city",
+          "name": {
+            "en": "Sant Cugat del Vallès",
+            "de": "Sant Cugat del Vallès",
+            "hu": "Sant Cugat del Vallès",
+            "ro": "Sant Cugat del Vallès"
+          },
+          "coords": [
+            2.08611,
+            41.47063
+          ],
+          "population": 79253,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "viersen",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Viersen",
+            "de": "Viersen",
+            "hu": "Viersen",
+            "ro": "Viersen"
+          },
+          "coords": [
+            6.3917,
+            51.2556
+          ],
+          "population": 79250,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-joensuu",
+          "iso2": "FI",
+          "country": "finland",
+          "type": "city",
+          "name": {
+            "en": "Joensuu",
+            "de": "Joensuu",
+            "hu": "Joensuu",
+            "ro": "Joensuu"
+          },
+          "coords": [
+            29.7636,
+            62.6015
+          ],
+          "population": 78398,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "finland-kouvola-cities-v2",
+          "iso2": "FI",
+          "country": "finland",
+          "type": "city",
+          "name": {
+            "en": "Kouvola",
+            "de": "Kouvola",
+            "hu": "Kouvola",
+            "ro": "Kouvola"
+          },
+          "coords": [
+            26.704167,
+            60.868056
+          ],
+          "population": 78094,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-lulea",
+          "iso2": "SE",
+          "country": "sweden",
+          "type": "city",
+          "name": {
+            "en": "Luleå",
+            "de": "Luleå",
+            "hu": "Luleå",
+            "ro": "Luleå"
+          },
+          "coords": [
+            22.1547,
+            65.5848
+          ],
+          "population": 77832,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        }
+      ]
+    },
+    {
+      "id": "job-32",
+      "wave": 7,
+      "status": "pending",
+      "output": "public/data/empty-events-campaign-03/job-32.json",
+      "targets": [
+        {
+          "id": "city-jelenia-gora-extra",
+          "iso2": "PL",
+          "country": "poland",
+          "type": "city",
+          "name": {
+            "en": "Jelenia Góra",
+            "de": "Hirschberg",
+            "hu": "Jelenia Góra",
+            "ro": "Jelenia Góra"
+          },
+          "coords": [
+            15.75,
+            50.9
+          ],
+          "population": 77366,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "rheine",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Rheine",
+            "de": "Rheine",
+            "hu": "Rheine",
+            "ro": "Rheine"
+          },
+          "coords": [
+            7.4333,
+            52.2833
+          ],
+          "population": 77209,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "dorsten",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Dorsten",
+            "de": "Dorsten",
+            "hu": "Dorsten",
+            "ro": "Dorsten"
+          },
+          "coords": [
+            6.9642,
+            51.66
+          ],
+          "population": 76842,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "lu-luxembourg-city",
+          "iso2": "LU",
+          "country": "luxembourg",
+          "type": "city",
+          "name": {
+            "en": "Luxembourg City",
+            "de": "Luxemburg-Stadt",
+            "hu": "Luxemburg",
+            "ro": "Luxemburg"
+          },
+          "coords": [
+            6.1319,
+            49.6116
+          ],
+          "population": 76684,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "saint-maur-des-fosses",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Saint-Maur-des-Fossés",
+            "de": "Saint-Maur-des-Fossés",
+            "hu": "Saint-Maur-des-Fossés",
+            "ro": "Saint-Maur-des-Fossés"
+          },
+          "coords": [
+            2.4856,
+            48.8025
+          ],
+          "population": 76572,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        }
+      ]
+    },
+    {
+      "id": "job-33",
+      "wave": 7,
+      "status": "pending",
+      "output": "public/data/empty-events-campaign-03/job-33.json",
+      "targets": [
+        {
+          "id": "france-ajaccio-cities-v2",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Ajaccio",
+            "de": "Ajaccio",
+            "hu": "Ajaccio",
+            "ro": "Ajaccio"
+          },
+          "coords": [
+            8.7369,
+            41.9267
+          ],
+          "population": 76320,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "wilhelmshaven",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Wilhelmshaven",
+            "de": "Wilhelmshaven",
+            "hu": "Wilhelmshaven",
+            "ro": "Wilhelmshaven"
+          },
+          "coords": [
+            8.1056,
+            53.5286
+          ],
+          "population": 76247,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "gladbeck",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Gladbeck",
+            "de": "Gladbeck",
+            "hu": "Gladbeck",
+            "ro": "Gladbeck"
+          },
+          "coords": [
+            6.9827,
+            51.5713
+          ],
+          "population": 75799,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "italy-gela-cities-v2",
+          "iso2": "IT",
+          "country": "italy",
+          "type": "city",
+          "name": {
+            "en": "Gela",
+            "de": "Gela",
+            "hu": "Gela",
+            "ro": "Gela"
+          },
+          "coords": [
+            14.25,
+            37.066667
+          ],
+          "population": 75001,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "sweden-haninge-cities-v2",
+          "iso2": "SE",
+          "country": "sweden",
+          "type": "city",
+          "name": {
+            "en": "Haninge",
+            "de": "Haninge",
+            "hu": "Haninge",
+            "ro": "Haninge"
+          },
+          "coords": [
+            18.15,
+            59.17
+          ],
+          "population": 74968,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        }
+      ]
+    },
+    {
+      "id": "job-34",
+      "wave": 7,
+      "status": "pending",
+      "output": "public/data/empty-events-campaign-03/job-34.json",
+      "targets": [
+        {
+          "id": "detmold",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Detmold",
+            "de": "Detmold",
+            "hu": "Detmold",
+            "ro": "Detmold"
+          },
+          "coords": [
+            8.8833,
+            51.9378
+          ],
+          "population": 74835,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "spain-valdemoro-cities-v2",
+          "iso2": "ES",
+          "country": "spain",
+          "type": "city",
+          "name": {
+            "en": "Valdemoro",
+            "de": "Valdemoro",
+            "hu": "Valdemoro",
+            "ro": "Valdemoro"
+          },
+          "coords": [
+            -3.678815,
+            40.188899
+          ],
+          "population": 74745,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "greece-evosmos-cities-v2",
+          "iso2": "GR",
+          "country": "greece",
+          "type": "city",
+          "name": {
+            "en": "Evosmos",
+            "de": "Evosmos",
+            "hu": "Evosmosz",
+            "ro": "Evosmos"
+          },
+          "coords": [
+            22.908333,
+            40.668889
+          ],
+          "population": 74686,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-banska-bystrica",
+          "iso2": "SK",
+          "country": "slovakia",
+          "type": "city",
+          "name": {
+            "en": "Banská Bystrica",
+            "de": "Neusohl",
+            "hu": "Besztercebánya",
+            "ro": "Banská Bystrica"
+          },
+          "coords": [
+            19.145,
+            48.7395
+          ],
+          "population": 74590,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "castrop-rauxel",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Castrop-Rauxel",
+            "de": "Castrop-Rauxel",
+            "hu": "Castrop-Rauxel",
+            "ro": "Castrop-Rauxel"
+          },
+          "coords": [
+            7.3167,
+            51.55
+          ],
+          "population": 74370,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        }
+      ]
+    },
+    {
+      "id": "job-35",
+      "wave": 7,
+      "status": "pending",
+      "output": "public/data/empty-events-campaign-03/job-35.json",
+      "targets": [
+        {
+          "id": "greece-chalandri-cities-v2",
+          "iso2": "GR",
+          "country": "greece",
+          "type": "city",
+          "name": {
+            "en": "Chalandri",
+            "de": "Chalandri",
+            "hu": "Chalandri",
+            "ro": "Chalandri"
+          },
+          "coords": [
+            23.8,
+            38.016667
+          ],
+          "population": 74192,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "poland-ostrowiec-swietokrzyski-cities-v2",
+          "iso2": "PL",
+          "country": "poland",
+          "type": "city",
+          "name": {
+            "en": "Ostrowiec Świętokrzyski",
+            "de": "Ostrowiec Swietokrzyski",
+            "hu": "Ostrowiec Świętokrzyski",
+            "ro": "Ostrowiec Świętokrzyski"
+          },
+          "coords": [
+            21.3853,
+            50.9311
+          ],
+          "population": 73989,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "poland-siemianowice-slaskie-cities-v2",
+          "iso2": "PL",
+          "country": "poland",
+          "type": "city",
+          "name": {
+            "en": "Siemianowice Śląskie",
+            "de": "Laurahütte",
+            "hu": "Siemianowice Śląskie",
+            "ro": "Siemianowice Śląskie"
+          },
+          "coords": [
+            19.0261,
+            50.3014
+          ],
+          "population": 73121,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "greece-nea-smyrni-cities-v2",
+          "iso2": "GR",
+          "country": "greece",
+          "type": "city",
+          "name": {
+            "en": "Nea Smyrni",
+            "de": "Nea Smyrni",
+            "hu": "Nea Smirni",
+            "ro": "Nea Smirni"
+          },
+          "coords": [
+            23.710556,
+            37.943333
+          ],
+          "population": 73076,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "spain-rubi-cities-v2",
+          "iso2": "ES",
+          "country": "spain",
+          "type": "city",
+          "name": {
+            "en": "Rubí",
+            "de": "Rubí",
+            "hu": "Rubí",
+            "ro": "Rubí"
+          },
+          "coords": [
+            2.03305,
+            41.49226
+          ],
+          "population": 72987,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        }
+      ]
+    },
+    {
+      "id": "job-36",
+      "wave": 8,
+      "status": "pending",
+      "output": "public/data/empty-events-campaign-03/job-36.json",
+      "targets": [
+        {
+          "id": "noisy-le-grand",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Noisy-le-Grand",
+            "de": "Noisy-le-Grand",
+            "hu": "Noisy-le-Grand",
+            "ro": "Noisy-le-Grand"
+          },
+          "coords": [
+            2.5581,
+            48.8439
+          ],
+          "population": 72978,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-bayreuth",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Bayreuth",
+            "de": "Bayreuth",
+            "hu": "Bayreuth",
+            "ro": "Bayreuth"
+          },
+          "coords": [
+            11.5789,
+            49.9427
+          ],
+          "population": 72940,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-lappeenranta",
+          "iso2": "FI",
+          "country": "finland",
+          "type": "city",
+          "name": {
+            "en": "Lappeenranta",
+            "de": "Lappeenranta",
+            "hu": "Lappeenranta",
+            "ro": "Lappeenranta"
+          },
+          "coords": [
+            28.1887,
+            61.0583
+          ],
+          "population": 72909,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "poland-ostrow-wielkopolski-cities-v2",
+          "iso2": "PL",
+          "country": "poland",
+          "type": "city",
+          "name": {
+            "en": "Ostrów Wielkopolski",
+            "de": "Ostrowo",
+            "hu": "Ostrów Wielkopolski",
+            "ro": "Ostrów Wielkopolski"
+          },
+          "coords": [
+            17.8117,
+            51.655
+          ],
+          "population": 72898,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "italy-caserta-cities-v2",
+          "iso2": "IT",
+          "country": "italy",
+          "type": "city",
+          "name": {
+            "en": "Caserta",
+            "de": "Caserta",
+            "hu": "Caserta",
+            "ro": "Caserta"
+          },
+          "coords": [
+            14.333333,
+            41.066667
+          ],
+          "population": 72844,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        }
+      ]
+    },
+    {
+      "id": "job-37",
+      "wave": 8,
+      "status": "pending",
+      "output": "public/data/empty-events-campaign-03/job-37.json",
+      "targets": [
+        {
+          "id": "lippstadt",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Lippstadt",
+            "de": "Lippstadt",
+            "hu": "Lippstadt",
+            "ro": "Lippstadt"
+          },
+          "coords": [
+            8.35,
+            51.6667
+          ],
+          "population": 72804,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "steglitz-extra",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Steglitz",
+            "de": "Steglitz",
+            "hu": "Steglitz",
+            "ro": "Steglitz"
+          },
+          "coords": [
+            13.3229,
+            52.4566
+          ],
+          "population": 72464,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "bocholt",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Bocholt",
+            "de": "Bocholt",
+            "hu": "Bocholt",
+            "ro": "Bocholt"
+          },
+          "coords": [
+            6.6167,
+            51.8333
+          ],
+          "population": 72409,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-shumen",
+          "iso2": "BG",
+          "country": "bulgaria",
+          "type": "city",
+          "name": {
+            "en": "Shumen",
+            "de": "Schumen",
+            "hu": "Sumen",
+            "ro": "Shumen"
+          },
+          "coords": [
+            26.9294,
+            43.2706
+          ],
+          "population": 72342,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "greece-marousi-cities-v2",
+          "iso2": "GR",
+          "country": "greece",
+          "type": "city",
+          "name": {
+            "en": "Marousi",
+            "de": "Marousi",
+            "hu": "Marúsi",
+            "ro": "Marousi"
+          },
+          "coords": [
+            23.8,
+            38.05
+          ],
+          "population": 72333,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        }
+      ]
+    },
+    {
+      "id": "job-38",
+      "wave": 8,
+      "status": "pending",
+      "output": "public/data/empty-events-campaign-03/job-38.json",
+      "targets": [
+        {
+          "id": "nl-gouda",
+          "iso2": "NL",
+          "country": "netherlands",
+          "type": "city",
+          "name": {
+            "en": "Gouda",
+            "de": "Gouda",
+            "hu": "Gouda",
+            "ro": "Gouda"
+          },
+          "coords": [
+            4.7085,
+            52.0115
+          ],
+          "population": 71952,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-esbjerg",
+          "iso2": "DK",
+          "country": "denmark",
+          "type": "city",
+          "name": {
+            "en": "Esbjerg",
+            "de": "Esbjerg",
+            "hu": "Esbjerg",
+            "ro": "Esbjerg"
+          },
+          "coords": [
+            8.4508,
+            55.4765
+          ],
+          "population": 71698,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "spain-la-cala-cities-v2",
+          "iso2": "ES",
+          "country": "spain",
+          "type": "city",
+          "name": {
+            "en": "La Cala",
+            "de": "La Cala",
+            "hu": "La Cala",
+            "ro": "La Cala"
+          },
+          "coords": [
+            -4.68182,
+            36.50798
+          ],
+          "population": 71482,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "greece-zografou-cities-v2",
+          "iso2": "GR",
+          "country": "greece",
+          "type": "city",
+          "name": {
+            "en": "Zografou",
+            "de": "Zografou",
+            "hu": "Zográfu",
+            "ro": "Zografou"
+          },
+          "coords": [
+            23.763778,
+            37.976222
+          ],
+          "population": 71026,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "kempten-allgau",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Kempten",
+            "de": "Kempten (Allgäu)",
+            "hu": "Kempten",
+            "ro": "Kempten"
+          },
+          "coords": [
+            10.3167,
+            47.7333
+          ],
+          "population": 70713,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        }
+      ]
+    },
+    {
+      "id": "job-39",
+      "wave": 8,
+      "status": "pending",
+      "output": "public/data/empty-events-campaign-03/job-39.json",
+      "targets": [
+        {
+          "id": "poland-pabianice-cities-v2",
+          "iso2": "PL",
+          "country": "poland",
+          "type": "city",
+          "name": {
+            "en": "Pabianice",
+            "de": "Pabianice",
+            "hu": "Pabianice",
+            "ro": "Pabianice"
+          },
+          "coords": [
+            19.3571,
+            51.6638
+          ],
+          "population": 70542,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-halmstad",
+          "iso2": "SE",
+          "country": "sweden",
+          "type": "city",
+          "name": {
+            "en": "Halmstad",
+            "de": "Halmstad",
+            "hu": "Halmstad",
+            "ro": "Halmstad"
+          },
+          "coords": [
+            12.8578,
+            56.6745
+          ],
+          "population": 70480,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-faro",
+          "iso2": "PT",
+          "country": "portugal",
+          "type": "city",
+          "name": {
+            "en": "Faro",
+            "de": "Faro",
+            "hu": "Faro",
+            "ro": "Faro"
+          },
+          "coords": [
+            -7.9304,
+            37.0193
+          ],
+          "population": 70347,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "poland-gniezno-cities-v2",
+          "iso2": "PL",
+          "country": "poland",
+          "type": "city",
+          "name": {
+            "en": "Gniezno",
+            "de": "Gnesen",
+            "hu": "Gniezno",
+            "ro": "Gniezno"
+          },
+          "coords": [
+            17.5822,
+            52.5347
+          ],
+          "population": 70269,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "lithuania-kalnieciai-cities-v2",
+          "iso2": "LT",
+          "country": "lithuania",
+          "type": "city",
+          "name": {
+            "en": "Kalniečiai",
+            "de": "Kalniečiai",
+            "hu": "Kalniečiai",
+            "ro": "Kalniečiai"
+          },
+          "coords": [
+            23.955556,
+            54.925
+          ],
+          "population": 70000,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        }
+      ]
+    },
+    {
+      "id": "job-40",
+      "wave": 8,
+      "status": "pending",
+      "output": "public/data/empty-events-campaign-03/job-40.json",
+      "targets": [
+        {
+          "id": "city-vaasa",
+          "iso2": "FI",
+          "country": "finland",
+          "type": "city",
+          "name": {
+            "en": "Vaasa",
+            "de": "Vaasa",
+            "hu": "Vaasa",
+            "ro": "Vaasa"
+          },
+          "coords": [
+            21.6165,
+            63.0951
+          ],
+          "population": 69819,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-dobrich",
+          "iso2": "BG",
+          "country": "bulgaria",
+          "type": "city",
+          "name": {
+            "en": "Dobrich",
+            "de": "Dobritsch",
+            "hu": "Dobrics",
+            "ro": "Dobrich"
+          },
+          "coords": [
+            27.83,
+            43.5667
+          ],
+          "population": 69434,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "issy-les-moulineaux",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Issy-les-Moulineaux",
+            "de": "Issy-les-Moulineaux",
+            "hu": "Issy-les-Moulineaux",
+            "ro": "Issy-les-Moulineaux"
+          },
+          "coords": [
+            2.2692,
+            48.8231
+          ],
+          "population": 69231,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "poland-suwalki-cities-v2",
+          "iso2": "PL",
+          "country": "poland",
+          "type": "city",
+          "name": {
+            "en": "Suwałki",
+            "de": "Suwalki",
+            "hu": "Suwałki",
+            "ro": "Suwałki"
+          },
+          "coords": [
+            22.9308,
+            54.1119
+          ],
+          "population": 69222,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "netherlands-hoorn-cities-v2",
+          "iso2": "NL",
+          "country": "netherlands",
+          "type": "city",
+          "name": {
+            "en": "Hoorn",
+            "de": "Hoorn",
+            "hu": "Hoorn",
+            "ro": "Hoorn"
+          },
+          "coords": [
+            5.05972,
+            52.6425
+          ],
+          "population": 68852,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        }
+      ]
+    },
+    {
+      "id": "job-41",
+      "wave": 9,
+      "status": "pending",
+      "output": "public/data/empty-events-campaign-03/job-41.json",
+      "targets": [
+        {
+          "id": "finland-aulanko-cities-v2",
+          "iso2": "FI",
+          "country": "finland",
+          "type": "city",
+          "name": {
+            "en": "Aulanko",
+            "de": "Aulanko",
+            "hu": "Aulanko",
+            "ro": "Aulanko"
+          },
+          "coords": [
+            24.452219,
+            61.024308
+          ],
+          "population": 68473,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "spain-majadahonda-cities-v2",
+          "iso2": "ES",
+          "country": "spain",
+          "type": "city",
+          "name": {
+            "en": "Majadahonda",
+            "de": "Majadahonda",
+            "hu": "Majadahonda",
+            "ro": "Majadahonda"
+          },
+          "coords": [
+            -3.874115,
+            40.4721
+          ],
+          "population": 68110,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-blagoevgrad",
+          "iso2": "BG",
+          "country": "bulgaria",
+          "type": "city",
+          "name": {
+            "en": "Blagoevgrad",
+            "de": "Blagoewgrad",
+            "hu": "Blagoevgrad",
+            "ro": "Blagoevgrad"
+          },
+          "coords": [
+            23.092,
+            42.0209
+          ],
+          "population": 67810,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "russelsheim-am-main",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Rüsselsheim am Main",
+            "de": "Rüsselsheim am Main",
+            "hu": "Rüsselsheim am Main",
+            "ro": "Rüsselsheim am Main"
+          },
+          "coords": [
+            8.4119,
+            49.995
+          ],
+          "population": 67656,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "kerpen",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Kerpen",
+            "de": "Kerpen",
+            "hu": "Kerpen",
+            "ro": "Kerpen"
+          },
+          "coords": [
+            6.6961,
+            50.8719
+          ],
+          "population": 67627,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        }
+      ]
+    },
+    {
+      "id": "job-42",
+      "wave": 9,
+      "status": "pending",
+      "output": "public/data/empty-events-campaign-03/job-42.json",
+      "targets": [
+        {
+          "id": "pessac",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Pessac",
+            "de": "Pessac",
+            "hu": "Pessac",
+            "ro": "Pessac"
+          },
+          "coords": [
+            -0.6322,
+            44.8058
+          ],
+          "population": 67339,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "herford",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Herford",
+            "de": "Herford",
+            "hu": "Herford",
+            "ro": "Herford"
+          },
+          "coords": [
+            8.6734,
+            52.1146
+          ],
+          "population": 67265,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "poland-tomaszow-mazowiecki-cities-v2",
+          "iso2": "PL",
+          "country": "poland",
+          "type": "city",
+          "name": {
+            "en": "Tomaszów Mazowiecki",
+            "de": "Tomaschow-Masowien",
+            "hu": "Tomaszów Mazowiecki",
+            "ro": "Tomaszów Mazowiecki"
+          },
+          "coords": [
+            20.0167,
+            51.5333
+          ],
+          "population": 67197,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "greece-nea-ionia-cities-v2",
+          "iso2": "GR",
+          "country": "greece",
+          "type": "city",
+          "name": {
+            "en": "Nea Ionia",
+            "de": "Nea Ionia",
+            "hu": "Nea Ionia",
+            "ro": "Nea Ionia"
+          },
+          "coords": [
+            23.75,
+            38.033333
+          ],
+          "population": 67134,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "poland-przemysl-cities-v2",
+          "iso2": "PL",
+          "country": "poland",
+          "type": "city",
+          "name": {
+            "en": "Przemyśl",
+            "de": "Przemysl",
+            "hu": "Przemyśl",
+            "ro": "Przemyśl"
+          },
+          "coords": [
+            22.7667,
+            49.7833
+          ],
+          "population": 67013,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        }
+      ]
+    },
+    {
+      "id": "job-43",
+      "wave": 9,
+      "status": "pending",
+      "output": "public/data/empty-events-campaign-03/job-43.json",
+      "targets": [
+        {
+          "id": "spain-valle-romano-cities-v2",
+          "iso2": "ES",
+          "country": "spain",
+          "type": "city",
+          "name": {
+            "en": "Valle Romano",
+            "de": "Valle Romano",
+            "hu": "Valle Romano",
+            "ro": "Valle Romano"
+          },
+          "coords": [
+            -5.194,
+            36.4235
+          ],
+          "population": 67012,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "sweden-solna-cities-v2",
+          "iso2": "SE",
+          "country": "sweden",
+          "type": "city",
+          "name": {
+            "en": "Solna",
+            "de": "Solna",
+            "hu": "Solna",
+            "ro": "Solna"
+          },
+          "coords": [
+            18,
+            59.36
+          ],
+          "population": 66909,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "sweden-verko-cities-v2",
+          "iso2": "SE",
+          "country": "sweden",
+          "type": "city",
+          "name": {
+            "en": "Verkö",
+            "de": "Verkö",
+            "hu": "Verkö",
+            "ro": "Verkö"
+          },
+          "coords": [
+            15.63927,
+            56.17113
+          ],
+          "population": 66675,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "italy-mraxini-arrubiu-cities-v2",
+          "iso2": "IT",
+          "country": "italy",
+          "type": "city",
+          "name": {
+            "en": "Mràxini Arrùbiu",
+            "de": "Mràxini Arrùbiu",
+            "hu": "Mràxini Arrùbiu",
+            "ro": "Mràxini Arrùbiu"
+          },
+          "coords": [
+            9.2275,
+            39.23254
+          ],
+          "population": 66620,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "poland-stalowa-wola-cities-v2",
+          "iso2": "PL",
+          "country": "poland",
+          "type": "city",
+          "name": {
+            "en": "Stalowa Wola",
+            "de": "Stahlwille",
+            "hu": "Stalowa Wola",
+            "ro": "Stalowa Wola"
+          },
+          "coords": [
+            22.05,
+            50.5833
+          ],
+          "population": 66495,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        }
+      ]
+    },
+    {
+      "id": "job-44",
+      "wave": 9,
+      "status": "pending",
+      "output": "public/data/empty-events-campaign-03/job-44.json",
+      "targets": [
+        {
+          "id": "spain-castelldefels-cities-v2",
+          "iso2": "ES",
+          "country": "spain",
+          "type": "city",
+          "name": {
+            "en": "Castelldefels",
+            "de": "Castelldefels",
+            "hu": "Castelldefels",
+            "ro": "Castelldefels"
+          },
+          "coords": [
+            1.98242,
+            41.2861
+          ],
+          "population": 66375,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "spain-viladecans-cities-v2",
+          "iso2": "ES",
+          "country": "spain",
+          "type": "city",
+          "name": {
+            "en": "Viladecans",
+            "de": "Viladecans",
+            "hu": "Viladecans",
+            "ro": "Viladecans"
+          },
+          "coords": [
+            2.018247,
+            41.317325
+          ],
+          "population": 66168,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "italy-castellammare-di-stabia-cities-v2",
+          "iso2": "IT",
+          "country": "italy",
+          "type": "city",
+          "name": {
+            "en": "Castellammare di Stabia",
+            "de": "Castellammare di Stabia",
+            "hu": "Castellammare di Stabia",
+            "ro": "Castellammare di Stabia"
+          },
+          "coords": [
+            14.480278,
+            40.694722
+          ],
+          "population": 66164,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "poland-zamosc-cities-v2",
+          "iso2": "PL",
+          "country": "poland",
+          "type": "city",
+          "name": {
+            "en": "Zamość",
+            "de": "Zamosch",
+            "hu": "Zamość",
+            "ro": "Zamość"
+          },
+          "coords": [
+            23.25,
+            50.7167
+          ],
+          "population": 66034,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "spain-vilanova-i-la-geltru-cities-v2",
+          "iso2": "ES",
+          "country": "spain",
+          "type": "city",
+          "name": {
+            "en": "Vilanova i la Geltrú",
+            "de": "Vilanova i la Geltrú",
+            "hu": "Vilanova i la Geltrú",
+            "ro": "Vilanova i la Geltrú"
+          },
+          "coords": [
+            1.72511,
+            41.22392
+          ],
+          "population": 65890,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        }
+      ]
+    },
+    {
+      "id": "job-45",
+      "wave": 9,
+      "status": "pending",
+      "output": "public/data/empty-events-campaign-03/job-45.json",
+      "targets": [
+        {
+          "id": "city-rovaniemi",
+          "iso2": "FI",
+          "country": "finland",
+          "type": "city",
+          "name": {
+            "en": "Rovaniemi",
+            "de": "Rovaniemi",
+            "hu": "Rovaniemi",
+            "ro": "Rovaniemi"
+          },
+          "coords": [
+            25.7294,
+            66.5039
+          ],
+          "population": 65670,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "poland-kedzierzyn-kozle-cities-v2",
+          "iso2": "PL",
+          "country": "poland",
+          "type": "city",
+          "name": {
+            "en": "Kędzierzyn-Koźle",
+            "de": "Kandrzin-Cosel",
+            "hu": "Kędzierzyn-Koźle",
+            "ro": "Kędzierzyn-Koźle"
+          },
+          "coords": [
+            18.2167,
+            50.35
+          ],
+          "population": 65636,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "spain-guadalmar-san-julian-cities-v2",
+          "iso2": "ES",
+          "country": "spain",
+          "type": "city",
+          "name": {
+            "en": "Guadalmar-San Julián",
+            "de": "Guadalmar-San Julián",
+            "hu": "Guadalmar-San Julián",
+            "ro": "Guadalmar-San Julián"
+          },
+          "coords": [
+            -4.46607,
+            36.66815
+          ],
+          "population": 65448,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "poland-glogow-cities-v2",
+          "iso2": "PL",
+          "country": "poland",
+          "type": "city",
+          "name": {
+            "en": "Głogów",
+            "de": "Glogau",
+            "hu": "Głogów",
+            "ro": "Głogów"
+          },
+          "coords": [
+            16.0847,
+            51.6631
+          ],
+          "population": 65400,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "clichy",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Clichy",
+            "de": "Clichy",
+            "hu": "Clichy",
+            "ro": "Clichy"
+          },
+          "coords": [
+            2.3056,
+            48.9036
+          ],
+          "population": 65102,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        }
+      ]
+    },
+    {
+      "id": "job-46",
+      "wave": 10,
+      "status": "pending",
+      "output": "public/data/empty-events-campaign-03/job-46.json",
+      "targets": [
+        {
+          "id": "poland-wrzeszcz-gorny-cities-v2",
+          "iso2": "PL",
+          "country": "poland",
+          "type": "city",
+          "name": {
+            "en": "Wrzeszcz Górny",
+            "de": "Langfuhr",
+            "hu": "Wrzeszcz Górny",
+            "ro": "Wrzeszcz Górny"
+          },
+          "coords": [
+            18.5978,
+            54.3788
+          ],
+          "population": 65000,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "italy-crotone-cities-v2",
+          "iso2": "IT",
+          "country": "italy",
+          "type": "city",
+          "name": {
+            "en": "Crotone",
+            "de": "Crotone",
+            "hu": "Crotone",
+            "ro": "Crotone"
+          },
+          "coords": [
+            17.1272,
+            39.08062
+          ],
+          "population": 64603,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "spain-santa-margarita-cities-v2",
+          "iso2": "ES",
+          "country": "spain",
+          "type": "city",
+          "name": {
+            "en": "Santa Margarita",
+            "de": "Santa Margarita",
+            "hu": "Santa Margarita",
+            "ro": "Santa Margarita"
+          },
+          "coords": [
+            -5.3374,
+            36.20485
+          ],
+          "population": 64595,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "grevenbroich",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Grevenbroich",
+            "de": "Grevenbroich",
+            "hu": "Grevenbroich",
+            "ro": "Grevenbroich"
+          },
+          "coords": [
+            6.5875,
+            51.0883
+          ],
+          "population": 64588,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-haskovo",
+          "iso2": "BG",
+          "country": "bulgaria",
+          "type": "city",
+          "name": {
+            "en": "Haskovo",
+            "de": "Haskowo",
+            "hu": "Haskovo",
+            "ro": "Haskovo"
+          },
+          "coords": [
+            25.556,
+            41.9341
+          ],
+          "population": 64564,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        }
+      ]
+    },
+    {
+      "id": "job-47",
+      "wave": 10,
+      "status": "pending",
+      "output": "public/data/empty-events-campaign-03/job-47.json",
+      "targets": [
+        {
+          "id": "antony",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Antony",
+            "de": "Antony",
+            "hu": "Antony",
+            "ro": "Antony"
+          },
+          "coords": [
+            2.2967,
+            48.7533
+          ],
+          "population": 64263,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "spain-molina-de-segura-cities-v2",
+          "iso2": "ES",
+          "country": "spain",
+          "type": "city",
+          "name": {
+            "en": "Molina de Segura",
+            "de": "Molina de Segura",
+            "hu": "Molina de Segura",
+            "ro": "Molina de Segura"
+          },
+          "coords": [
+            -1.211633,
+            38.05056
+          ],
+          "population": 64065,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "spain-paterna-cities-v2",
+          "iso2": "ES",
+          "country": "spain",
+          "type": "city",
+          "name": {
+            "en": "Paterna",
+            "de": "Paterna",
+            "hu": "Paterna",
+            "ro": "Paterna"
+          },
+          "coords": [
+            -0.442574,
+            39.502737
+          ],
+          "population": 64023,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "poland-leszno-cities-v2",
+          "iso2": "PL",
+          "country": "poland",
+          "type": "city",
+          "name": {
+            "en": "Leszno",
+            "de": "Lissa",
+            "hu": "Leszno",
+            "ro": "Leszno"
+          },
+          "coords": [
+            16.57494,
+            51.84034
+          ],
+          "population": 63565,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "friedrichshafen",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Friedrichshafen",
+            "de": "Friedrichshafen",
+            "hu": "Friedrichshafen",
+            "ro": "Friedrichshafen"
+          },
+          "coords": [
+            9.4792,
+            47.6542
+          ],
+          "population": 63441,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        }
+      ]
+    },
+    {
+      "id": "job-48",
+      "wave": 10,
+      "status": "pending",
+      "output": "public/data/empty-events-campaign-03/job-48.json",
+      "targets": [
+        {
+          "id": "poland-zory-cities-v2",
+          "iso2": "PL",
+          "country": "poland",
+          "type": "city",
+          "name": {
+            "en": "Żory",
+            "de": "Sohrau",
+            "hu": "Żory",
+            "ro": "Żory"
+          },
+          "coords": [
+            18.7,
+            50.05
+          ],
+          "population": 63174,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "spain-collado-villalba-cities-v2",
+          "iso2": "ES",
+          "country": "spain",
+          "type": "city",
+          "name": {
+            "en": "Collado Villalba",
+            "de": "Collado Villalba",
+            "hu": "Collado Villalba",
+            "ro": "Collado Villalba"
+          },
+          "coords": [
+            -3.992725,
+            40.643029
+          ],
+          "population": 63074,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "vaslui",
+          "iso2": "RO",
+          "country": "romania",
+          "type": "city",
+          "name": {
+            "en": "Vaslui",
+            "de": "Wassluy",
+            "hu": "Vászló",
+            "ro": "Vaslui"
+          },
+          "coords": [
+            27.729166666,
+            46.638333333
+          ],
+          "population": 63035,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "poland-belchatow-cities-v2",
+          "iso2": "PL",
+          "country": "poland",
+          "type": "city",
+          "name": {
+            "en": "Bełchatów",
+            "de": "Belchatow",
+            "hu": "Bełchatów",
+            "ro": "Bełchatów"
+          },
+          "coords": [
+            19.3667,
+            51.3667
+          ],
+          "population": 62896,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "neuilly-sur-seine",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Neuilly-sur-Seine",
+            "de": "Neuilly-sur-Seine",
+            "hu": "Neuilly-sur-Seine",
+            "ro": "Neuilly-sur-Seine"
+          },
+          "coords": [
+            2.2675,
+            48.8872
+          ],
+          "population": 62346,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        }
+      ]
+    },
+    {
+      "id": "job-49",
+      "wave": 10,
+      "status": "pending",
+      "output": "public/data/empty-events-campaign-03/job-49.json",
+      "targets": [
+        {
+          "id": "france-fabregas-cities-v2",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Fabregas",
+            "de": "Fabregas",
+            "hu": "Fabregas",
+            "ro": "Fabregas"
+          },
+          "coords": [
+            5.87101,
+            43.07063
+          ],
+          "population": 62330,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "herten",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Herten",
+            "de": "Herten",
+            "hu": "Herten",
+            "ro": "Herten"
+          },
+          "coords": [
+            7.1333,
+            51.6
+          ],
+          "population": 62204,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "bergheim",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Bergheim",
+            "de": "Bergheim",
+            "hu": "Bergheim",
+            "ro": "Bergheim"
+          },
+          "coords": [
+            6.6412,
+            50.9541
+          ],
+          "population": 62172,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "italy-lido-di-camaiore-cities-v2",
+          "iso2": "IT",
+          "country": "italy",
+          "type": "city",
+          "name": {
+            "en": "Lido di Camaiore",
+            "de": "Lido di Camaiore",
+            "hu": "Lido di Camaiore",
+            "ro": "Lido di Camaiore"
+          },
+          "coords": [
+            10.2287,
+            43.89331
+          ],
+          "population": 62169,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "poland-lomza-cities-v2",
+          "iso2": "PL",
+          "country": "poland",
+          "type": "city",
+          "name": {
+            "en": "Łomża",
+            "de": "Lomscha",
+            "hu": "Łomża",
+            "ro": "Łomża"
+          },
+          "coords": [
+            22.078,
+            53.178
+          ],
+          "population": 62019,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        }
+      ]
+    },
+    {
+      "id": "job-50",
+      "wave": 10,
+      "status": "pending",
+      "output": "public/data/empty-events-campaign-03/job-50.json",
+      "targets": [
+        {
+          "id": "pantin",
+          "iso2": "FR",
+          "country": "france",
+          "type": "city",
+          "name": {
+            "en": "Pantin",
+            "de": "Pantin",
+            "hu": "Pantin",
+            "ro": "Pantin"
+          },
+          "coords": [
+            2.4072,
+            48.8981
+          ],
+          "population": 61929,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "spain-zamora-cities-v2",
+          "iso2": "ES",
+          "country": "spain",
+          "type": "city",
+          "name": {
+            "en": "Zamora",
+            "de": "Zamora",
+            "hu": "Zamora",
+            "ro": "Zamora"
+          },
+          "coords": [
+            -5.755556,
+            41.503333
+          ],
+          "population": 61827,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "neu-ulm",
+          "iso2": "DE",
+          "country": "germany",
+          "type": "city",
+          "name": {
+            "en": "Neu-Ulm",
+            "de": "Neu-Ulm",
+            "hu": "Neu-Ulm",
+            "ro": "Neu-Ulm"
+          },
+          "coords": [
+            10,
+            48.3833
+          ],
+          "population": 61780,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-kolding",
+          "iso2": "DK",
+          "country": "denmark",
+          "type": "city",
+          "name": {
+            "en": "Kolding",
+            "de": "Kolding",
+            "hu": "Kolding",
+            "ro": "Kolding"
+          },
+          "coords": [
+            9.4731,
+            55.4904
+          ],
+          "population": 61638,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        },
+        {
+          "id": "city-karlstad",
+          "iso2": "SE",
+          "country": "sweden",
+          "type": "city",
+          "name": {
+            "en": "Karlstad",
+            "de": "Karlstad",
+            "hu": "Karlstad",
+            "ro": "Karlstad"
+          },
+          "coords": [
+            13.5036,
+            59.3793
+          ],
+          "population": 61492,
+          "tier": 4,
+          "staleEvents": 0,
+          "existingEvents": 0
+        }
+      ]
+    }
+  ]
+}

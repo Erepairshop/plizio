@@ -2,12 +2,14 @@ param(
     [Parameter(Mandatory = $true)]
     [ValidatePattern('^job-\d{2}$')]
     [string]$JobId,
-    [string]$Model = 'gpt-5.4'
+    [string]$Model = 'gpt-5.4',
+    [ValidatePattern('^[a-z0-9-]+$')]
+    [string]$CampaignName = 'stale-events-campaign'
 )
 
 $ErrorActionPreference = 'Stop'
 $repo = Split-Path -Parent $PSScriptRoot
-$manifestPath = Join-Path $repo 'public\data\_stale_events_campaign.json'
+$manifestPath = Join-Path $repo ("public\data\_" + ($CampaignName -replace '-', '_') + ".json")
 $manifest = Get-Content -LiteralPath $manifestPath -Raw | ConvertFrom-Json
 $job = $manifest.jobs | Where-Object { $_.id -eq $JobId } | Select-Object -First 1
 if (-not $job) { throw "Unknown campaign job: $JobId" }
@@ -15,10 +17,11 @@ if (-not $job) { throw "Unknown campaign job: $JobId" }
 $outputPath = Join-Path $repo ($job.output -replace '/', '\')
 $lastMessagePath = Join-Path (Split-Path -Parent $outputPath) "$JobId.last-message.txt"
 $prompt = @"
-Work in $repo. Execute $JobId from public/data/_stale_events_campaign.json.
+Work in $repo. Execute $JobId from public/data/_$($CampaignName -replace '-', '_').json.
 Read exactly that job's five target objects and write ONLY the output file declared by that job.
 Research every target with live web search. For each POI provide 3-5 confirmed, visitor-relevant public events whose start date is >= 2026-07-26, preferring Aug-Dec 2026. Use official organizer, venue, municipality, tourism-office, or primary ticketing pages. source_url must be a direct real HTTP(S) URL, never a search URL or headline text. Include image_url and image_credit only for a durable direct image from an official source; omit uncertain images.
 Every event must contain date in YYYY-MM-DD and title plus concise factual summary in de, hu, ro, en. Add fr for French targets when practical. Match the YHEvent schema in public/data/poi-yearly-highlights.json.
+If an official source explicitly proves that an event repeats, add period.recurrent=true and period.frequency as exactly daily, weekly, monthly, or yearly. For weekly events also add the English weekday in period.applies_on_day when known, and add period.start_time when known. Do not infer recurrence merely because earlier editions existed; otherwise omit period entirely.
 The output must be a JSON array [{id,events:[...]}] containing all five requested ids exactly once and at least one valid event per id. Validate JSON before finishing. Do not edit the main highlights sidecar, campaign manifest, delta, or any other file. Do not revert other users' changes.
 "@
 
@@ -42,4 +45,3 @@ try {
 finally {
     Pop-Location
 }
-

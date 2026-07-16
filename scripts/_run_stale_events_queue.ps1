@@ -5,14 +5,16 @@ param(
     [int]$StartupDelaySeconds = 180,
     [ValidateRange(1, 100)]
     [int]$MaxAttempts = 20,
-    [string]$Model = 'gpt-5.4'
+    [string]$Model = 'gpt-5.4',
+    [ValidatePattern('^[a-z0-9-]+$')]
+    [string]$CampaignName = 'stale-events-campaign'
 )
 
 $ErrorActionPreference = 'Stop'
 $repo = Split-Path -Parent $PSScriptRoot
 $dataDir = Join-Path $repo 'public\data'
-$campaignDir = Join-Path $dataDir 'stale-events-campaign'
-$manifestPath = Join-Path $dataDir '_stale_events_campaign.json'
+$campaignDir = Join-Path $dataDir $CampaignName
+$manifestPath = Join-Path $dataDir ("_" + ($CampaignName -replace '-', '_') + ".json")
 $statusPath = Join-Path $campaignDir '_queue-status.json'
 $lockPath = Join-Path $campaignDir '_queue.lock'
 $workerPath = Join-Path $PSScriptRoot '_run_stale_event_job.ps1'
@@ -101,7 +103,7 @@ try {
             $stderr = Join-Path $logDir "$($job.id).attempt-$attempt.err.log"
             $args = @(
                 '-NoProfile', '-ExecutionPolicy', 'Bypass', '-File', $workerPath,
-                '-JobId', $job.id, '-Model', $Model
+                '-JobId', $job.id, '-Model', $Model, '-CampaignName', $CampaignName
             )
             $process = Start-Process -FilePath 'powershell.exe' -ArgumentList $args -WindowStyle Hidden `
                 -RedirectStandardOutput $stdout -RedirectStandardError $stderr -PassThru

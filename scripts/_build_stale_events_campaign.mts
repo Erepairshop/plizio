@@ -15,6 +15,7 @@ const AGENT_COUNT = Number(process.argv.find((arg) => arg.startsWith("--agents="
 const POIS_PER_AGENT = Number(process.argv.find((arg) => arg.startsWith("--pois="))?.split("=")[1] || 5);
 const CONCURRENCY = Number(process.argv.find((arg) => arg.startsWith("--concurrency="))?.split("=")[1] || 5);
 const CAMPAIGN_NAME = process.argv.find((arg) => arg.startsWith("--name="))?.split("=")[1] || "stale-events-campaign";
+const ONLY_EMPTY = process.argv.includes("--only-empty");
 const DATA = path.resolve(process.cwd(), "public", "data");
 const OUTPUT = path.join(DATA, `_${CAMPAIGN_NAME.replace(/-/g, "_")}.json`);
 
@@ -39,6 +40,7 @@ const cityPopulation: Record<string, { pop?: number; tier?: number }> = JSON.par
 );
 const fullPois: any[] = await loadFullPois();
 
+const eventCount = (id: string) => Array.isArray(highlights[id]) ? highlights[id].length : 0;
 const staleCount = (id: string) => (highlights[id] || []).filter((event) => {
   const date = String(event?.date || "");
   if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) return true;
@@ -79,6 +81,7 @@ for (const poi of fullPois) {
     population,
     tier: cityPopulation[poi.id]?.tier ?? null,
     staleEvents: stale,
+    existingEvents: eventCount(poi.id),
   };
   const current = byId.get(poi.id);
   if (!current || population > current.population) byId.set(poi.id, target);
@@ -108,12 +111,12 @@ for (const group of grouped.values()) {
 
 const targetCount = AGENT_COUNT * POIS_PER_AGENT;
 const targets = [...byId.values()]
-  .filter((target) => target.staleEvents > 0 && !dropped.has(target.id))
+  .filter((target) => (ONLY_EMPTY ? target.existingEvents === 0 : target.staleEvents > 0) && !dropped.has(target.id))
   .sort((a, b) => b.population - a.population || b.staleEvents - a.staleEvents || a.id.localeCompare(b.id))
   .slice(0, targetCount);
 
 if (targets.length < targetCount) {
-  throw new Error(`only ${targets.length} eligible stale EU city POIs found, need ${targetCount}`);
+  throw new Error(`only ${targets.length} eligible ${ONLY_EMPTY ? "event-free" : "stale"} EU city POIs found, need ${targetCount}`);
 }
 
 const jobs = Array.from({ length: AGENT_COUNT }, (_, index) => {
@@ -136,6 +139,7 @@ const campaign = {
   agentCount: AGENT_COUNT,
   poisPerAgent: POIS_PER_AGENT,
   concurrency: CONCURRENCY,
+  onlyEmpty: ONLY_EMPTY,
   waves: Math.ceil(AGENT_COUNT / CONCURRENCY),
   jobs,
 };
