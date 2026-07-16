@@ -99,7 +99,7 @@ type YHEvent = {
   image_credit?: string;
   category?: Partial<Record<string, string>> | string;
   price?: Partial<Record<string, string>> | string;
-  period?: { start_time?: string; end_time?: string; applies_on_day?: string; recurrent?: boolean } | string;
+  period?: { start_time?: string; end_time?: string; applies_on_day?: string; recurrent?: boolean; frequency?: "daily" | "weekly" | "monthly" | "yearly" } | string;
 };
 let YEARLY_HIGHLIGHTS: Record<string, YHEvent[]> = {};
 try {
@@ -2006,6 +2006,13 @@ const RP_COPY: Record<string, Record<string, string>> = {
   ro: { h: "Planificator traseu — Mașină & Rulotă", sub: "De unde pleci? Construim traseul până aici, cu opriri și informații pe țări.", to: "Destinație", from: "Plecare", fromPh: "ex. Cluj", via: "Prin (opțional)", viaPh: "ex. Zagreb", nights: "Opriri peste noapte", vehicle: "Vehicul", car: "🚗 Mașină", camper: "🚐 Rulotă", filter: "Doar opriri cu (opțional):", water: "💧 Apă", dump: "♻️ Golire", power: "🔌 Curent", wc: "🚻 Toaletă", shower: "🚿 Duș", tierAB: "Popasuri + camping", tierA: "Doar popasuri", tierB: "Doar camping", tierABC: "Și locuri de odihnă/natură", b10: "Ocol max 10 km", b20: "max 20 km", b30: "max 30 km", b50: "max 50 km", plan: "🧭 Planifică traseul" },
   fr: { h: "Planificateur d'itinéraire — Voiture & Camping-car", sub: "D'où partez-vous ? Nous construisons l'itinéraire jusqu'ici, avec des étapes et des infos par pays.", to: "Destination", from: "Départ", fromPh: "ex. Paris", via: "Via (optionnel)", viaPh: "ex. Zagreb", nights: "Étapes nuitées", vehicle: "Véhicule", car: "🚗 Voiture", camper: "🚐 Camping-car", filter: "Étapes avec (optionnel) :", water: "💧 Eau", dump: "♻️ Vidange", power: "🔌 Électricité", wc: "🚻 WC", shower: "🚿 Douche", tierAB: "Aires + campings", tierA: "Aires seulement", tierB: "Campings seulement", tierABC: "Aussi aires nature/repos", b10: "Détour max 10 km", b20: "max 20 km", b30: "max 30 km", b50: "max 50 km", plan: "🧭 Planifier l'itinéraire" },
 };
+const RP_VEHICLE_COPY: Record<string, Record<string, string>> = {
+  de: { title: "Wohnmobil-Maße", compact: "Kompaktvan", standard: "Wohnmobil 3,5 t", large: "Großes Wohnmobil", custom: "Eigene Maße", length: "Länge", width: "Breite", height: "Höhe", weight: "Gewicht" },
+  hu: { title: "Lakóautó méretei", compact: "Kompakt furgon", standard: "Lakóautó 3,5 t", large: "Nagy lakóautó", custom: "Saját méretek", length: "Hossz", width: "Szélesség", height: "Magasság", weight: "Tömeg" },
+  en: { title: "Motorhome dimensions", compact: "Compact van", standard: "3.5 t motorhome", large: "Large motorhome", custom: "Custom dimensions", length: "Length", width: "Width", height: "Height", weight: "Weight" },
+  ro: { title: "Dimensiuni autorulotă", compact: "Camper compact", standard: "Autorulotă 3,5 t", large: "Autorulotă mare", custom: "Dimensiuni proprii", length: "Lungime", width: "Lățime", height: "Înălțime", weight: "Greutate" },
+  fr: { title: "Dimensions du camping-car", compact: "Fourgon compact", standard: "Camping-car 3,5 t", large: "Grand camping-car", custom: "Dimensions personnalisées", length: "Longueur", width: "Largeur", height: "Hauteur", weight: "Poids" },
+};
 const RP_DYN: Record<string, Record<string, string>> = {
   de: { notFound: "Ort nicht gefunden", needOrigin: "Bitte Startort eingeben.", searching: "📍 Ort wird gesucht…", routing: "🛣️ Route wird berechnet…", km: "km", hrs: "Std.", nights: "Übernachtungen", matchStops: "passende Stopps", mapsAll: "Ganze Route in Maps", advisory: "Länder-Hinweise", toll: "Maut", lez: "Umweltzone", overnight: "Übernachten", mandatory: "Pflicht", keepStop: "diesen Stopp behalten", day: "TAG", dest: "ZIEL", swipe: "← Karten wischen →", regen: "Neu generieren — behaltene Stopps fixieren", regenKept: "🔄 Route mit behaltenen Stopps…", regenNew: "🔄 Neue Variante…" },
   hu: { notFound: "A hely nem található", needOrigin: "Add meg az indulási helyet.", searching: "📍 Hely keresése…", routing: "🛣️ Útvonal számítása…", km: "km", hrs: "óra", nights: "éjszaka", matchStops: "találó megálló", mapsAll: "Teljes útvonal Mapsben", advisory: "Ország-tudnivalók", toll: "Útdíj", lez: "Környezeti zóna", overnight: "Éjszakázás", mandatory: "Kötelező", keepStop: "ezt a megállót megtartom", day: "NAP", dest: "CÉL", swipe: "← húzd a kártyákat →", regen: "Újragenerálás — megtartottak rögzítése", regenKept: "🔄 Útvonal a megtartottakkal…", regenNew: "🔄 Új variáció…" },
@@ -2027,6 +2034,7 @@ function renderRoutePlanner(poi: POI, lang: Lang, name: string): string {
   const _cid = slugs.getCountryIdStrict(poi.parent);
   const cc = (_cid && slugs.countryIso2(_cid)) || "";
   const T = RP_COPY[lang] || RP_COPY.en;
+  const V = RP_VEHICLE_COPY[lang] || RP_VEHICLE_COPY.en;
   const dyn = RP_DYN[lang] || RP_DYN.en;
   const stopsOpts = [1, 2, 3, 4, 5, 6, 7, 8].map((n) => `<option${n === 2 ? " selected" : ""}>${n}</option>`).join("");
   const svc = [["water", T.water], ["dump", T.dump], ["power", T.power], ["toilets", T.wc], ["shower", T.shower]]
@@ -2048,6 +2056,11 @@ function renderRoutePlanner(poi: POI, lang: Lang, name: string): string {
 .plz-rp-flabel{flex:1 0 100%;font-size:.74rem;color:var(--ink-soft)}
 .plz-rp-svcl{font-size:.8rem;color:var(--ink);background:var(--paper);border:1px solid var(--rule);border-radius:999px;padding:.28rem .6rem;cursor:pointer;display:inline-flex;gap:.25rem;align-items:center}
 .plz-rp-tier,.plz-rp-buffer{font-size:.82rem}
+.plz-rp-camper-spec{flex:1 0 100%;display:flex;flex-wrap:wrap;align-items:end;gap:.45rem;padding-top:.35rem;border-top:1px solid var(--rule)}
+.plz-rp-camper-spec>.plz-rp-flabel{flex:1 0 100%}.plz-rp-vehicle-preset{flex:1 1 180px}
+.plz-rp-dimensions{display:grid;grid-template-columns:repeat(4,minmax(70px,1fr));gap:.4rem;flex:3 1 360px}
+.plz-rp-dimensions label{position:relative;font-size:.68rem;color:var(--ink-soft)}.plz-rp-dimensions input{width:100%;padding-right:1.5rem}
+.plz-rp-dimensions label span{position:absolute;right:.48rem;bottom:.52rem;font-size:.72rem;color:var(--ink-faint);pointer-events:none}
 .plz-rp-go{width:100%;padding:.7rem;border:none;border-radius:999px;background:var(--accent);color:#fff;font-weight:800;font-size:.98rem;cursor:pointer;display:flex;align-items:center;justify-content:center;gap:.4rem}
 .plz-rp-go:hover{background:var(--accent-deep)}
 .plz-rp-status{text-align:center;font-size:.82rem;color:var(--ink-soft);min-height:1.1em;margin-top:.5rem}
@@ -2079,7 +2092,7 @@ function renderRoutePlanner(poi: POI, lang: Lang, name: string): string {
 .plz-rp-regen{width:100%;padding:.6rem;border-radius:999px;border:1px solid var(--rule);background:var(--paper);color:var(--ink);font-weight:600;cursor:pointer}
 .plz-rp-regen:hover{background:var(--paper-2)}
 .plz-rp-credit{font-size:.7rem;color:var(--ink-faint);margin:.7rem 0 0;text-align:center}
-@media(max-width:560px){.plz-rp-card{flex:0 0 calc(100% - .6rem)}}
+@media(max-width:560px){.plz-rp-card{flex:0 0 calc(100% - .6rem)}.plz-rp-dimensions{grid-template-columns:repeat(2,1fr)}}
 </style>`;
   return `${css}<section class="plz-rp" id="plz-route-planner" data-lng="${lng}" data-lat="${lat}" data-dest="${escapeHtml(name)}" data-lang="${lang}" data-cc="${cc}" data-copy="${copyJson}">
   <div class="plz-rp-head"><h2>${escapeHtml(T.h)}</h2><p>${escapeHtml(T.sub)}</p></div>
@@ -2095,6 +2108,15 @@ function renderRoutePlanner(poi: POI, lang: Lang, name: string): string {
   <div class="plz-rp-filters"><span class="plz-rp-flabel">${escapeHtml(T.filter)}</span>${svc}
     <select class="plz-rp-tier"><option value="AB">${escapeHtml(T.tierAB)}</option><option value="A">${escapeHtml(T.tierA)}</option><option value="B">${escapeHtml(T.tierB)}</option><option value="ABC">${escapeHtml(T.tierABC)}</option></select>
     <select class="plz-rp-buffer"><option value="10">${escapeHtml(T.b10)}</option><option value="20" selected>${escapeHtml(T.b20)}</option><option value="30">${escapeHtml(T.b30)}</option><option value="50">${escapeHtml(T.b50)}</option></select>
+    <div class="plz-rp-camper-spec"><span class="plz-rp-flabel">${escapeHtml(V.title)}</span>
+      <select class="plz-rp-vehicle-preset"><option value="compact">${escapeHtml(V.compact)}</option><option value="standard" selected>${escapeHtml(V.standard)}</option><option value="large">${escapeHtml(V.large)}</option><option value="custom">${escapeHtml(V.custom)}</option></select>
+      <div class="plz-rp-dimensions">
+        <label>${escapeHtml(V.length)}<input class="plz-rp-dim" data-key="length" type="number" min="3" max="15" step="0.1" value="7"><span>m</span></label>
+        <label>${escapeHtml(V.width)}<input class="plz-rp-dim" data-key="width" type="number" min="1.5" max="3.5" step="0.05" value="2.3"><span>m</span></label>
+        <label>${escapeHtml(V.height)}<input class="plz-rp-dim" data-key="height" type="number" min="1.8" max="4.5" step="0.05" value="3.1"><span>m</span></label>
+        <label>${escapeHtml(V.weight)}<input class="plz-rp-dim" data-key="weight" type="number" min="1" max="20" step="0.1" value="3.5"><span>t</span></label>
+      </div>
+    </div>
   </div>
   <button type="button" class="plz-rp-go">${escapeHtml(T.plan)}</button>
   <div class="plz-rp-status"></div>
@@ -2103,7 +2125,7 @@ function renderRoutePlanner(poi: POI, lang: Lang, name: string): string {
 </section>
 <script defer src="/js/stop-card.js?v=20260620ed1"></script>
 <script defer src="/js/sights-nearby.js?v=20260620ed1"></script>
-<script defer src="/js/route-planner.js?v=20260622cc1"></script>`;
+<script defer src="/js/route-planner.js?v=20260716vehicle1"></script>`;
 }
 
 function renderCityItinerary(poi: POI, lang: Lang): string {
@@ -3256,10 +3278,19 @@ function renderHtml(poi: POI, lang: Lang): string | null {
         let periodTxt = "";
         if (ev.period) {
           if (typeof ev.period === "string") periodTxt = ev.period;
-          else if (ev.period.applies_on_day || ev.period.start_time) {
+          else {
+            const frequencyLabels: Record<string, Partial<Record<Lang, string>>> = {
+              daily: { de: "täglich", hu: "naponta", ro: "zilnic", en: "daily", fr: "chaque jour", tr: "günlük", hr: "svakodnevno" },
+              weekly: { de: "wöchentlich", hu: "hetente", ro: "săptămânal", en: "weekly", fr: "chaque semaine", tr: "haftalık", hr: "tjedno" },
+              monthly: { de: "monatlich", hu: "havonta", ro: "lunar", en: "monthly", fr: "chaque mois", tr: "aylık", hr: "mjesečno" },
+              yearly: { de: "jährlich", hu: "évente", ro: "anual", en: "yearly", fr: "chaque année", tr: "yıllık", hr: "godišnje" },
+            };
+            const frequency = ev.period.frequency
+              ? (frequencyLabels[ev.period.frequency]?.[lang] || frequencyLabels[ev.period.frequency]?.en || ev.period.frequency)
+              : "";
             const dayRaw = ev.period.applies_on_day as string | undefined;
             const dayTxt = dayRaw ? (DAY_I18N[dayRaw]?.[lang] || DAY_I18N[dayRaw]?.en || dayRaw) : "";
-            periodTxt = [dayTxt, ev.period.start_time?.slice(0,5)].filter(Boolean).join(" ");
+            periodTxt = [frequency, dayTxt, ev.period.start_time?.slice(0,5)].filter(Boolean).join(" · ");
           }
         }
         if (isRecurrent && !periodTxt) {

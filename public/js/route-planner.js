@@ -34,6 +34,19 @@
     fr: { notFound: "Lieu introuvable", needBoth: "Entrez départ et destination.", searching: "📍 Recherche…", routing: "🛣️ Calcul de l'itinéraire…", km: "km", hrs: "h", nights: "nuitées", matchStops: "étapes", mapsAll: "Tout l'itinéraire dans Maps", advisory: "Infos par pays", toll: "Péage", lez: "Zone à faibles émissions", overnight: "Nuitée", mandatory: "Obligatoire", keepStop: "garder cette étape", day: "JOUR", dest: "BUT", swipe: "← faites glisser →", regen: "Régénérer — fixer les étapes gardées", regenKept: "🔄 Itinéraire avec étapes gardées…", regenNew: "🔄 Nouvelle variante…" },
   };
   var T = COPY[LANG] || COPY.en, C = DYN[LANG] || DYN.en;
+  var VEHICLE_COPY = {
+    de: { title: "Wohnmobil-Maße", compact: "Kompaktvan", standard: "Wohnmobil 3,5 t", large: "Großes Wohnmobil", custom: "Eigene Maße", length: "Länge", width: "Breite", height: "Höhe", weight: "Gewicht", invalid: "Bitte gültige Wohnmobil-Maße eingeben." },
+    hu: { title: "Lakóautó méretei", compact: "Kompakt furgon", standard: "Lakóautó 3,5 t", large: "Nagy lakóautó", custom: "Saját méretek", length: "Hossz", width: "Szélesség", height: "Magasság", weight: "Tömeg", invalid: "Adj meg érvényes lakóautó-méreteket." },
+    en: { title: "Motorhome dimensions", compact: "Compact van", standard: "3.5 t motorhome", large: "Large motorhome", custom: "Custom dimensions", length: "Length", width: "Width", height: "Height", weight: "Weight", invalid: "Enter valid motorhome dimensions." },
+    ro: { title: "Dimensiuni autorulotă", compact: "Camper compact", standard: "Autorulotă 3,5 t", large: "Autorulotă mare", custom: "Dimensiuni proprii", length: "Lungime", width: "Lățime", height: "Înălțime", weight: "Greutate", invalid: "Introdu dimensiuni valide pentru autorulotă." },
+    fr: { title: "Dimensions du camping-car", compact: "Fourgon compact", standard: "Camping-car 3,5 t", large: "Grand camping-car", custom: "Dimensions personnalisées", length: "Longueur", width: "Largeur", height: "Hauteur", weight: "Poids", invalid: "Saisissez des dimensions valides." },
+  };
+  var V = VEHICLE_COPY[LANG] || VEHICLE_COPY.en;
+  var VEHICLE_PRESETS = {
+    compact: { length: 5.4, width: 2.05, height: 2.6, weight: 3 },
+    standard: { length: 7, width: 2.3, height: 3.1, weight: 3.5 },
+    large: { length: 8.5, width: 2.5, height: 3.4, weight: 5 },
+  };
   // "Ehhez az országhoz még nincs camping-adat" popup (a Wohnmobil-kapuzáshoz).
   var ND = {
     de: { title: "Noch keine Wohnmobil-Daten", body: "Für dieses Land haben wir noch keine Stellplatz-Daten. Sobald Daten vorliegen, lässt sich die Route hierher automatisch planen.", car: "Mit dem Auto planen", ok: "OK" },
@@ -67,6 +80,16 @@
 
   function esc(s) { return String(s == null ? "" : s).replace(/[&<>"]/g, function (c) { return ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]; }); }
   function $(s) { return M.querySelector(s); }
+  function vehicleSpecHtml() {
+    return '<div class="plz-rp-camper-spec"><span class="plz-rp-flabel">' + esc(V.title) + '</span>'
+      + '<select class="plz-rp-vehicle-preset"><option value="compact">' + esc(V.compact) + '</option><option value="standard" selected>' + esc(V.standard) + '</option><option value="large">' + esc(V.large) + '</option><option value="custom">' + esc(V.custom) + '</option></select>'
+      + '<div class="plz-rp-dimensions">'
+      + '<label>' + esc(V.length) + '<input class="plz-rp-dim" data-key="length" type="number" min="3" max="15" step="0.1" value="7"><span>m</span></label>'
+      + '<label>' + esc(V.width) + '<input class="plz-rp-dim" data-key="width" type="number" min="1.5" max="3.5" step="0.05" value="2.3"><span>m</span></label>'
+      + '<label>' + esc(V.height) + '<input class="plz-rp-dim" data-key="height" type="number" min="1.8" max="4.5" step="0.05" value="3.1"><span>m</span></label>'
+      + '<label>' + esc(V.weight) + '<input class="plz-rp-dim" data-key="weight" type="number" min="1" max="20" step="0.1" value="3.5"><span>t</span></label>'
+      + '</div></div>';
+  }
 
   // ── CSS (egyszeri injektálás) ───────────────────────────────────────────────
   var CSS = '#plz-route-planner.plz-rp{margin:1.4rem 0;background:var(--panel);border:1px solid var(--rule);border-radius:var(--r);padding:1rem 1.05rem 1.15rem;color:var(--ink)}'
@@ -87,6 +110,11 @@
     + '.plz-rp-svcl svg{width:1em;height:1em}'
     + '.plz-rp-svcl:hover{background:var(--paper-2)}'
     + '.plz-rp-svcl:has(input:checked){background:var(--accent-wash);border-color:var(--accent);color:var(--ink)}'
+    + '.plz-rp-camper-spec{flex:1 0 100%;display:flex;flex-wrap:wrap;align-items:end;gap:.45rem;padding-top:.35rem;border-top:1px solid var(--rule)}'
+    + '.plz-rp-camper-spec>.plz-rp-flabel{flex:1 0 100%}.plz-rp-vehicle-preset{flex:1 1 180px}'
+    + '.plz-rp-dimensions{display:grid;grid-template-columns:repeat(4,minmax(70px,1fr));gap:.4rem;flex:3 1 360px}'
+    + '.plz-rp-dimensions label{position:relative;font-size:.68rem;color:var(--ink-soft)}.plz-rp-dimensions input{width:100%;padding-right:1.5rem!important}'
+    + '.plz-rp-dimensions label span{position:absolute;right:.48rem;bottom:.52rem;font-size:.72rem;color:var(--ink-faint);pointer-events:none}'
     + '.plz-rp-go{width:100%;padding:.65rem;border:none;border-radius:999px;background:var(--accent);color:#fff;font-weight:800;font-size:.98rem;cursor:pointer;display:inline-flex;align-items:center;justify-content:center;gap:.4em}'
     + '.plz-rp-go:hover{background:var(--accent-deep)}'
     + '.plz-rp-status{text-align:center;font-size:.82rem;color:var(--ink-soft);min-height:1.1em;margin-top:.5rem}'
@@ -133,7 +161,7 @@
     + '.plz-rp-pop-btns button{padding:.45rem .85rem;border-radius:999px;font-size:.85rem;font-weight:600;cursor:pointer;border:1px solid var(--rule)}'
     + '.plz-rp-pop-car{background:var(--accent);color:#fff;border-color:var(--accent)}'
     + '.plz-rp-pop-ok{background:var(--paper);color:var(--ink)}'
-    + '@media(max-width:560px){.plz-rp-card{flex:0 0 calc(100% - .6rem)}}';
+    + '@media(max-width:560px){.plz-rp-card{flex:0 0 calc(100% - .6rem)}.plz-rp-dimensions{grid-template-columns:repeat(2,1fr)}}';
   if (!document.getElementById("plz-rp-css")) {
     var st = document.createElement("style"); st.id = "plz-rp-css"; st.textContent = CSS; document.head.appendChild(st);
   }
@@ -156,7 +184,7 @@
       + '</div><div class="plz-rp-row"><div class="plz-rp-vehicle">' + esc(T.vehicle)
       + '<div class="plz-rp-vehbtns"><button type="button" class="plz-rp-mode" data-mode="car" aria-selected="true">' + IC.car + ' ' + esc(T.car) + '</button><button type="button" class="plz-rp-mode" data-mode="camper" aria-selected="false">' + IC.camper + ' ' + esc(T.camper) + '</button></div></div></div>'
       + '<div class="plz-rp-filters"><span class="plz-rp-camperonly" style="display:contents"><span class="plz-rp-flabel">' + esc(T.filter) + '</span>' + svcHtml
-      + '<select class="plz-rp-tier"><option value="AB">' + esc(T.tierAB) + '</option><option value="A">' + esc(T.tierA) + '</option><option value="B">' + esc(T.tierB) + '</option><option value="ABC">' + esc(T.tierABC) + '</option></select></span></div>'
+      + '<select class="plz-rp-tier"><option value="AB">' + esc(T.tierAB) + '</option><option value="A">' + esc(T.tierA) + '</option><option value="B">' + esc(T.tierB) + '</option><option value="ABC">' + esc(T.tierABC) + '</option></select></span>' + vehicleSpecHtml() + '</div>'
       + '<button type="button" class="plz-rp-go">' + IC.compass + ' ' + esc(T.plan) + '</button>'
       + '<div class="plz-rp-status"></div><div class="plz-rp-result" style="display:none"></div>'
       + '<p class="plz-rp-credit">© OpenStreetMap contributors · OpenRouteService</p>';
@@ -164,6 +192,19 @@
   } else {
     hasDest = !!M.querySelector(".plz-rp-dest");
   }
+  if (!M.querySelector(".plz-rp-camper-spec")) {
+    var filterBox = M.querySelector(".plz-rp-filters");
+    if (filterBox) filterBox.insertAdjacentHTML("beforeend", vehicleSpecHtml());
+  }
+  var presetEl = M.querySelector(".plz-rp-vehicle-preset");
+  if (presetEl) presetEl.addEventListener("change", function () {
+    var preset = VEHICLE_PRESETS[presetEl.value];
+    if (!preset) return;
+    M.querySelectorAll(".plz-rp-dim").forEach(function (input) { input.value = preset[input.dataset.key]; });
+  });
+  M.querySelectorAll(".plz-rp-dim").forEach(function (input) {
+    input.addEventListener("input", function () { if (presetEl) presetEl.value = "custom"; });
+  });
 
   // car mode = stops at OUR city POIs (camper-only service/tier filters hidden); camper = OSM camper sites
   function applyModeClass() { M.classList.toggle("mode-car", mode === "car"); M.classList.toggle("mode-camper", mode !== "car"); }
@@ -298,6 +339,17 @@
       .then(function (r) { return r.json(); })
       .then(function (data) { if (!data.ok) throw new Error(data.error || "Error"); return data; });
   }
+  function readVehicle() {
+    if (mode !== "camper") return null;
+    var limits = { length: [3, 15], width: [1.5, 3.5], height: [1.8, 4.5], weight: [1, 20] };
+    var vehicle = {}, valid = true;
+    M.querySelectorAll(".plz-rp-dim").forEach(function (input) {
+      var key = input.dataset.key, value = parseFloat(input.value), range = limits[key];
+      if (!range || !isFinite(value) || value < range[0] || value > range[1]) valid = false;
+      vehicle[key] = value;
+    });
+    return valid ? vehicle : null;
+  }
   // a cél feloldása: ha van dest-input és a user nem írta át az előkitöltöttet → előkitöltött koord; különben geocode
   function resolveDest() {
     var di = $(".plz-rp-dest");
@@ -328,14 +380,16 @@
     stt.textContent = C.searching; res.style.display = "none";
     var reqServices = Array.prototype.map.call(M.querySelectorAll(".plz-rp-svc:checked"), function (c) { return c.value; });
     var tiers = ({ AB: ["A", "B"], A: ["A"], B: ["B"], ABC: ["A", "B", "C"] })[$(".plz-rp-tier").value] || ["A", "B"];
+    var vehicle = readVehicle();
+    if (mode === "camper" && !vehicle) { stt.textContent = V.invalid; return; }
     var _bEl = $(".plz-rp-buffer"); var bufferKm = _bEl ? (parseInt(_bEl.value, 10) || 20) : 20; // buffer selector removed → fixed 20km corridor
     var origin, destination, destName = destNameNow();
     Promise.all([inputCoords(".plz-rp-origin"), inputCoords(".plz-rp-dest", DEST_PREFILL.coords), inputCoords(".plz-rp-via")]).then(function (r) {
       origin = r[0]; destination = r[1]; var baseAnchors = r[2] ? [r[2]] : [];
       if (!origin || !destination) throw new Error(C.needBoth);
       stt.textContent = C.routing;
-      lastReq = { origin: origin, destination: destination, baseAnchors: baseAnchors, stops: stops, mode: mode, variant: 0, reqServices: reqServices, tiers: tiers, bufferKm: bufferKm, destName: destName };
-      return plan({ origin: origin, destination: destination, anchors: baseAnchors, stops: stops, mode: mode, variant: 0, reqServices: reqServices, tiers: tiers, bufferKm: bufferKm });
+      lastReq = { origin: origin, destination: destination, baseAnchors: baseAnchors, stops: stops, mode: mode, vehicle: vehicle, variant: 0, reqServices: reqServices, tiers: tiers, bufferKm: bufferKm, destName: destName };
+      return plan({ origin: origin, destination: destination, anchors: baseAnchors, stops: stops, mode: mode, vehicle: vehicle, variant: 0, reqServices: reqServices, tiers: tiers, bufferKm: bufferKm });
     }).then(carify).then(function (data) { return refineCountries(data).then(function () { render(data); stt.textContent = ""; }); })
       .catch(function (e) { stt.textContent = "⚠️ " + e.message; });
   }
@@ -509,7 +563,7 @@
       else { anchors = lastReq.baseAnchors || []; variant = (lastReq.variant || 0) + 1; stt.textContent = C.regenNew; }
       lastReq.variant = variant;
       lastReq._keep = kept; // car mode: snap kept city stops back in after re-picking
-      plan({ origin: lastReq.origin, destination: lastReq.destination, anchors: anchors, stops: lastReq.stops, mode: lastReq.mode, variant: variant, reqServices: lastReq.reqServices, tiers: lastReq.tiers, bufferKm: lastReq.bufferKm })
+      plan({ origin: lastReq.origin, destination: lastReq.destination, anchors: anchors, stops: lastReq.stops, mode: lastReq.mode, vehicle: lastReq.vehicle, variant: variant, reqServices: lastReq.reqServices, tiers: lastReq.tiers, bufferKm: lastReq.bufferKm })
         .then(carify).then(function (data) { return refineCountries(data).then(function () { render(data); stt.textContent = ""; }); }).catch(function (e) { stt.textContent = "⚠️ " + e.message; });
     });
   }
