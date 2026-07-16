@@ -3,6 +3,11 @@
 Ez a fájl rövid, gyakorlati összefoglaló Codexnek.
 Nem váltja ki a `CLAUDE.md`-t, hanem gyors képbehozásra szolgál.
 
+## Célzott architektúra-memók
+
+- POI HTML generátor, POI-modulok és tartalmi mélyítés:
+  `docs/poi-generator-architecture.md`
+
 ## Munkamód
 
 - Ennél a projektnél közvetlenül a `main` ágon dolgozunk.
