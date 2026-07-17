@@ -3,7 +3,7 @@
 import { useState } from "react";
 import { motion } from "framer-motion";
 import { Gamepad2, Loader2 } from "lucide-react";
-import { registerUsername, isNameAvailable, suggestNames } from "@/lib/username";
+import { normalizeUsername, registerUsername, isNameAvailable, suggestNames, usernameLength } from "@/lib/username";
 
 interface UsernameModalProps {
   onDone: (name: string) => void;
@@ -22,9 +22,10 @@ export default function UsernameModal({ onDone }: UsernameModalProps) {
   };
 
   const tryRegister = async (n: string) => {
-    const trimmed = n.trim();
-    if (trimmed.length < 2) { setError("Min. 2 characters"); return; }
-    if (trimmed.length > 16) { setError("Max. 16 characters"); return; }
+    const trimmed = normalizeUsername(n);
+    const length = usernameLength(trimmed);
+    if (length < 2) { setError("Min. 2 characters"); return; }
+    if (length > 16) { setError("Max. 16 characters"); return; }
 
     setLoading(true);
     setSuggestions([]);
@@ -49,8 +50,8 @@ export default function UsernameModal({ onDone }: UsernameModalProps) {
 
   // Live check on blur
   const handleBlur = async () => {
-    const trimmed = name.trim();
-    if (trimmed.length < 2) return;
+    const trimmed = normalizeUsername(name);
+    if (usernameLength(trimmed) < 2) return;
     setChecking(true);
     const available = await isNameAvailable(trimmed);
     setChecking(false);
@@ -86,11 +87,16 @@ export default function UsernameModal({ onDone }: UsernameModalProps) {
           <div className="relative">
             <input
               type="text"
+              name="username"
               value={name}
               onChange={(e) => { setName(e.target.value); setError(""); setSuggestions([]); }}
               onBlur={handleBlur}
               placeholder="Player name..."
-              maxLength={16}
+              maxLength={32}
+              autoComplete="username"
+              enterKeyHint="done"
+              inputMode="text"
+              spellCheck={false}
               autoFocus
               className="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-3 text-white text-center text-lg font-bold placeholder:text-white/20 focus:outline-none focus:border-neon-blue/40"
               style={{ letterSpacing: "0.05em" }}

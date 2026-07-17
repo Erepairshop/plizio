@@ -66,11 +66,12 @@ function clmp(v){return Math.max(.5,Math.min(20,v))}
 function toVb(cx,cy){const r=svg.getBoundingClientRect();return[(cx-r.left)*(W/r.width),(cy-r.top)*(H/r.height)]}
 function zoomAt(f,cx,cy){const[vx,vy]=toVb(cx,cy);const ns=clmp(s*f);const k=ns/s;tx=vx-k*(vx-tx);ty=vy-k*(vy-ty);s=ns;ap()}
 function zoomCenter(f){const r=svg.getBoundingClientRect();zoomAt(f,r.left+r.width/2,r.top+r.height/2)}
-let dr=false,dx=0,dy=0,moved=false;
-svg.addEventListener('pointerdown',e=>{if(e.isPrimary===false)return;dr=true;dx=e.clientX;dy=e.clientY;moved=false;svg.classList.add('drag');svg.setPointerCapture(e.pointerId)});
-svg.addEventListener('pointermove',e=>{if(!dr)return;const r=svg.getBoundingClientRect();const k=W/r.width;const dxm=e.clientX-dx,dym=e.clientY-dy;if(Math.abs(dxm)+Math.abs(dym)>4)moved=true;tx+=dxm*k;ty+=dym*k;dx=e.clientX;dy=e.clientY;ap()});
-svg.addEventListener('pointerup',()=>{dr=false;svg.classList.remove('drag')});
-svg.addEventListener('pointercancel',()=>{dr=false;svg.classList.remove('drag')});
+let dr=false,dx=0,dy=0,moved=false,pid=null;
+svg.addEventListener('pointerdown',e=>{if(e.isPrimary===false||e.button!==0)return;dr=true;pid=e.pointerId;dx=e.clientX;dy=e.clientY;moved=false;svg.classList.add('drag')});
+svg.addEventListener('pointermove',e=>{if(!dr||e.pointerId!==pid)return;const r=svg.getBoundingClientRect();const k=W/r.width;const dxm=e.clientX-dx,dym=e.clientY-dy;if(Math.abs(dxm)+Math.abs(dym)>4){moved=true;if(!svg.hasPointerCapture(e.pointerId))svg.setPointerCapture(e.pointerId)}tx+=dxm*k;ty+=dym*k;dx=e.clientX;dy=e.clientY;ap()});
+function endDrag(e){if(pid!==null&&svg.hasPointerCapture(pid))svg.releasePointerCapture(pid);dr=false;pid=null;svg.classList.remove('drag')}
+svg.addEventListener('pointerup',endDrag);
+svg.addEventListener('pointercancel',endDrag);
 svg.addEventListener('click',e=>{const dis=e.target.closest('.country.disabled');if(dis){e.preventDefault();showToast(dis.getAttribute('data-name')+' — '+SOON);return}if(moved){e.preventDefault();e.stopPropagation()}},true);
 svg.addEventListener('wheel',e=>{e.preventDefault();zoomAt(e.deltaY<0?1.2:1/1.2,e.clientX,e.clientY)},{passive:false});
 document.getElementById('zin').onclick=()=>zoomCenter(1.3);

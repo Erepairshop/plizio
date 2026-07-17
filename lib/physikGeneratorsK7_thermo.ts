@@ -1181,16 +1181,16 @@ function generateSpecificHeatMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
       q4("Meer vs. Land: Welcher erwärmt sich schneller in Sonne?", "Ocean vs. land: which heats up faster in sun?", "Tenger vs. szárazföld: melyik melegszik fel gyorsabban?", "Ocean vs. teren: care se încălzește mai rapid?", lang),
     ], rng);
 
+    // A gyorsabban felmelegedő az ALACSONYABB fajhőjű (kevesebb energia kell 1 °C-hoz).
     questions.push(
       createMCQ(
         "thermodynamics",
         "specific_heat",
-        q4("Vergleich aus Praxis", "Practical comparison", "Gyakorlati összehasonlítás", "Comparație practică", lang),
-        pick([
-          q4("Der mit niedriger spezifischer Wärme", "The one with lower specific heat", "Az alacsonyabb fajhővel", "Cel cu căldură specifică mai scăzută", lang),
-          q4("Der mit hoher spezifischer Wärme", "The one with higher specific heat", "Az magasabb fajhővel", "Cel cu căldură specifică mai mare", lang),
-        ], rng),
-        [],
+        scenario,
+        q4("Der mit niedriger spezifischer Wärme", "The one with lower specific heat", "Az alacsonyabb fajhőjű", "Cel cu căldură specifică mai scăzută", lang),
+        [
+          q4("Der mit hoher spezifischer Wärme", "The one with higher specific heat", "A magasabb fajhőjű", "Cel cu căldură specifică mai mare", lang),
+        ],
         rng
       )
     );
