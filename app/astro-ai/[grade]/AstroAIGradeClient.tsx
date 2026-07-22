@@ -739,9 +739,9 @@ export default function AstroAIGradeClient({ params }: { params: Promise<{ grade
               <IslandMapSVG G={G} progress={progress} onIsland={handleIslandSelect} onCheckpoint={startCheckpoint} />
               <motion.div
                 className="absolute pointer-events-none z-10"
-                style={{ width: 48, height: 48, transform: "translate(-50%, -75%)" }}
+                style={{ width: 72, height: 72, transform: "translate(-50%, -50%)" }}
                 animate={{
-                  left: `${(avatarIsland.svgX / MAP_W) * 100}%`,
+                  left: `${((avatarIsland.svgX + (avatarIsland.svgX > MAP_W / 2 ? -54 : 54)) / MAP_W) * 100}%`,
                   top: `${((avatarIsland.svgY + MAP_VB_OFFSET) / MAP_H) * 100}%`,
                   opacity: 1,
                 }}

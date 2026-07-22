@@ -357,8 +357,8 @@ export default function AstroGeschichteK8Page() {
         <div className="relative z-10 flex-1 overflow-y-auto" ref={attachAutoScrollToBottom}>
           <div className="max-w-sm mx-auto relative" style={{ minHeight: MAP_H }}>
             <IslandMapSVG progress={progress} onIsland={handleIslandSelect} onCheckpoint={startCheckpoint} />
-            <motion.div className="absolute pointer-events-none z-10" style={{ width: 48, height: 48, transform: "translate(-50%, -75%)" }}
-              animate={{ left: `${(avatarIsland.svgX / MAP_W) * 100}%`, top: `${((avatarIsland.svgY + MAP_VB_OFFSET) / MAP_H) * 100}%`, opacity: 1 }} initial={{ opacity: 0 }}>
+            <motion.div className="absolute pointer-events-none z-10" style={{ width: 72, height: 72, transform: "translate(-50%, -50%)" }}
+              animate={{ left: `${((avatarIsland.svgX + (avatarIsland.svgX > MAP_W / 2 ? -54 : 54)) / MAP_W) * 100}%`, top: `${((avatarIsland.svgY + MAP_VB_OFFSET) / MAP_H) * 100}%`, opacity: 1 }} initial={{ opacity: 0 }}>
               <AvatarCompanion fixed={false} mood="idle" {...avatarProps} />
             </motion.div>
           </div>
