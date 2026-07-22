@@ -271,21 +271,21 @@ export default function TimeWarpGame({ grade, lang, onDone }: TimeWarpGameProps)
       </div>
 
       {/* Header UI */}
-      <div className="relative z-10 flex justify-between items-center p-6 bg-gradient-to-b from-gray-900 to-transparent">
-        <h1 className="text-2xl font-black tracking-widest text-transparent bg-clip-text bg-gradient-to-r from-pink-500 to-violet-500 uppercase drop-shadow-sm">
+      <div className="relative z-10 flex justify-between items-center gap-2 p-3 sm:p-6 bg-gradient-to-b from-gray-900 to-transparent">
+        <h1 className="text-sm sm:text-2xl font-black tracking-wide sm:tracking-widest text-transparent bg-clip-text bg-gradient-to-r from-pink-500 to-violet-500 uppercase drop-shadow-sm">
           {t.title}
         </h1>
         
         {gameStarted && !gameOver && (
           <div className="flex flex-col items-center">
-            <span className="text-cyan-500 text-sm font-bold uppercase tracking-wider mb-1">{t.target}</span>
-            <div className="text-4xl font-black text-white drop-shadow-[0_0_10px_rgba(255,255,255,0.5)] bg-gray-800/80 px-6 py-2 rounded-xl border border-gray-700">
+            <span className="text-cyan-500 text-[10px] sm:text-sm font-bold uppercase tracking-wide sm:tracking-wider mb-1">{t.target}</span>
+            <div className="text-2xl sm:text-4xl font-black text-white drop-shadow-[0_0_10px_rgba(255,255,255,0.5)] bg-gray-800/80 px-3 sm:px-6 py-1.5 sm:py-2 rounded-lg sm:rounded-xl border border-gray-700">
               {formatTime(targetTime.h, targetTime.m)}
             </div>
           </div>
         )}
 
-        <div className="text-xl font-bold text-emerald-400 bg-emerald-950/50 px-4 py-2 rounded-lg border border-emerald-900/50">
+        <div className="text-xs sm:text-xl font-bold text-emerald-400 bg-emerald-950/50 px-2 sm:px-4 py-1.5 sm:py-2 rounded-lg border border-emerald-900/50 whitespace-nowrap">
           {t.score} {score}
         </div>
       </div>
@@ -326,11 +326,11 @@ export default function TimeWarpGame({ grade, lang, onDone }: TimeWarpGameProps)
             exit={{ opacity: 0 }}
             className="absolute inset-0 z-50 flex flex-col items-center justify-center bg-gray-950/85 backdrop-blur-sm"
           >
-            <motion.h2 initial={{ scale: 0.8 }} animate={{ scale: 1 }} className="text-6xl font-black text-emerald-400 mb-4 drop-shadow-[0_0_20px_rgba(52,211,153,0.6)]">
+            <motion.h2 initial={{ scale: 0.8 }} animate={{ scale: 1 }} className="text-4xl sm:text-6xl font-black text-emerald-400 mb-4 drop-shadow-[0_0_20px_rgba(52,211,153,0.6)]">
               ✓
             </motion.h2>
-            <p className="text-3xl text-cyan-100 mb-10">{t.finalScore} <span className="text-white font-black">{score}</span></p>
-            <button onClick={startGame} className="px-10 py-4 bg-gradient-to-r from-emerald-600 to-cyan-600 text-white font-black rounded-full text-xl uppercase tracking-wider transition-all hover:scale-105 active:scale-95 mb-4">
+            <p className="px-4 text-center text-xl sm:text-3xl text-cyan-100 mb-6 sm:mb-10">{t.finalScore} <span className="text-white font-black">{score}</span></p>
+            <button onClick={startGame} className="px-6 sm:px-10 py-3 sm:py-4 bg-gradient-to-r from-emerald-600 to-cyan-600 text-white font-black rounded-full text-base sm:text-xl uppercase tracking-wide sm:tracking-wider transition-all hover:scale-105 active:scale-95 mb-4">
               {t.playAgain}
             </button>
             {onDone && <button onClick={() => onDone(score)} className="text-gray-400 hover:text-white uppercase text-sm tracking-wider font-bold mt-2 transition-colors">{t.finalScore}</button>}
@@ -349,7 +349,7 @@ export default function TimeWarpGame({ grade, lang, onDone }: TimeWarpGameProps)
                 <motion.h2
                   initial={{ scale: 0.8, y: 20 }}
                   animate={{ scale: 1, y: 0 }}
-                  className="text-6xl font-black text-transparent bg-clip-text bg-gradient-to-r from-red-500 to-pink-600 mb-4 drop-shadow-[0_0_20px_rgba(239,68,68,0.5)]"
+                  className="px-4 text-center text-3xl sm:text-6xl font-black text-transparent bg-clip-text bg-gradient-to-r from-red-500 to-pink-600 mb-4 drop-shadow-[0_0_20px_rgba(239,68,68,0.5)]"
                 >
                   {t.gameOver}
                 </motion.h2>
@@ -357,7 +357,7 @@ export default function TimeWarpGame({ grade, lang, onDone }: TimeWarpGameProps)
                   initial={{ opacity: 0 }}
                   animate={{ opacity: 1 }}
                   transition={{ delay: 0.2 }}
-                  className="text-3xl text-cyan-100 mb-10"
+                  className="px-4 text-center text-xl sm:text-3xl text-cyan-100 mb-6 sm:mb-10"
                 >
                   {t.finalScore} <span className="text-white font-black">{score}</span>
                 </motion.p>
@@ -366,7 +366,7 @@ export default function TimeWarpGame({ grade, lang, onDone }: TimeWarpGameProps)
               <motion.h2
                 initial={{ scale: 0.8, y: 20 }}
                 animate={{ scale: 1, y: 0 }}
-                className="text-6xl font-black text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-600 mb-10 drop-shadow-[0_0_20px_rgba(6,182,212,0.5)]"
+                className="px-4 text-center text-3xl sm:text-6xl font-black text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-600 mb-6 sm:mb-10 drop-shadow-[0_0_20px_rgba(6,182,212,0.5)]"
               >
                 {t.title}
               </motion.h2>
@@ -376,7 +376,7 @@ export default function TimeWarpGame({ grade, lang, onDone }: TimeWarpGameProps)
               whileHover={{ scale: 1.05, boxShadow: "0 0 25px rgba(236,72,153,0.6)" }}
               whileTap={{ scale: 0.95 }}
               onClick={startGame}
-              className="px-10 py-4 bg-gradient-to-r from-pink-600 to-purple-600 text-white text-2xl font-bold rounded-2xl shadow-[0_0_15px_rgba(219,39,119,0.4)] transition-all"
+              className="px-7 sm:px-10 py-3 sm:py-4 bg-gradient-to-r from-pink-600 to-purple-600 text-white text-lg sm:text-2xl font-bold rounded-2xl shadow-[0_0_15px_rgba(219,39,119,0.4)] transition-all"
             >
               {gameOver ? t.playAgain : (lang === 'de' ? 'Starten' : lang === 'hu' ? 'Indítás' : lang === 'ro' ? 'Start' : 'Start')}
             </motion.button>
