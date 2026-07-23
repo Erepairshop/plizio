@@ -37,8 +37,8 @@ Nem napló, hanem gyors memóriasegéd, hogy kevesebb újrabeolvasás kelljen.
 - Az eredeti 10 kerdes erintetlen; a +20 kerdes kulon
   `data/map-quiz-pool-extensions/*.json` fajlokbol egyesul 30-as poolla.
 - A kliens minden jatekhoz tovabbra is csak 10 veletlen feladatot valaszt.
-- A hatter-workflow allapota: `C:\Users\User\plizio_orch\map_quiz_expansion\state.json`.
-- A hatter-workflow naploja: `C:\Users\User\plizio_orch\map_quiz_expansion.log`.
+- A hatter-workflow allapota: `C:\Users\User\plizio_orch\map_quiz_expansion_v2\state.json`.
+- A hatter-workflow naploja: `C:\Users\User\plizio_orch\map_quiz_expansion_v2.log`.
 
 ## Frissítsd, ha változik
 
