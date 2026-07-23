@@ -32,6 +32,14 @@ Nem napló, hanem gyors memóriasegéd, hogy kevesebb újrabeolvasás kelljen.
 - a VPS aktuális fájllistájával számolt valódi POI-képhiány 4 895; a hiánylista az explicit
   `image` mező és a `<poi-id>.webp` implicit fájlnév ellenőrzésével készül
 
+## Map quiz expansion
+
+- Az eredeti 10 kerdes erintetlen; a +20 kerdes kulon
+  `data/map-quiz-pool-extensions/*.json` fajlokbol egyesul 30-as poolla.
+- A kliens minden jatekhoz tovabbra is csak 10 veletlen feladatot valaszt.
+- A hatter-workflow allapota: `C:\Users\User\plizio_orch\map_quiz_expansion\state.json`.
+- A hatter-workflow naploja: `C:\Users\User\plizio_orch\map_quiz_expansion.log`.
+
 ## Frissítsd, ha változik
 
 - jelenlegi fő hibaterület

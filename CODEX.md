@@ -231,6 +231,16 @@ Nem váltja ki a `CLAUDE.md`-t, hanem gyors képbehozásra szolgál.
 - Ez üres Three.js canvashoz vezethet.
 - Build/deploy commitba ne kerüljön bele véletlenül idegen lokális fájl.
 
+## Map quiz pool bovites
+
+- Az eredeti 10 feladatos orszagpoolok valtozatlanul a `data/map-quiz-pools/*.json` fajlokban vannak.
+- A tovabbi 20 feladat orszagonkent a `data/map-quiz-pool-extensions/*.json` fajlokba kerul.
+- A generator 10 vagy 30 feladatos poolt fogad el, de egy jatek mindig 10 veletlen feladatot huz.
+- A sessiontol fuggetlen bovito workflow vezerloje:
+  `C:\Users\User\plizio_orch\map_quiz_expansion_runner.py`
+- A workflow 5 parhuzamos `gpt-5.4` workert hasznal, majd globalis validacio utan commitol,
+  pushol es elinditja a `deploy-poi-full.yml` workflowt.
+
 ## Mikor mit olvass
 
 - Ha workflow vagy deploy kérdés: előbb ezt a fájlt.

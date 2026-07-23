@@ -691,49 +691,75 @@ const INLINE_MAP_QUIZ_POOLS: Record<string, MapQuizTask[]> = {
 };
 
 const MAP_QUIZ_POOL_DIR = path.join(process.cwd(), "data", "map-quiz-pools");
+const MAP_QUIZ_EXTENSION_DIR = path.join(process.cwd(), "data", "map-quiz-pool-extensions");
 const MAP_QUIZ_POOLS: Record<string, MapQuizTask[]> = { ...INLINE_MAP_QUIZ_POOLS };
+
+function validateMapQuizTasks(
+  iso: string,
+  tasks: MapQuizTask[],
+  file: string,
+  expectedCount: number,
+  existingIds: Set<string> = new Set(),
+): void {
+  if (!Array.isArray(tasks) || tasks.length !== expectedCount) {
+    throw new Error(`Map quiz pool ${iso} in ${file} must contain exactly ${expectedCount} tasks`);
+  }
+  const ids = new Set(existingIds);
+  for (const task of tasks) {
+    if (!task || typeof task.id !== "string" || ids.has(task.id)) {
+      throw new Error(`Map quiz pool ${iso} in ${file} has a missing or duplicate task id`);
+    }
+    ids.add(task.id);
+    if (!["find_poi", "find_region", "odd_one_out", "sequence"].includes(task.type)) {
+      throw new Error(`Map quiz ${iso}/${task.id} in ${file} has invalid type`);
+    }
+    if (task.type === "find_poi" && typeof task.targetPoiId !== "string") {
+      throw new Error(`Map quiz ${iso}/${task.id} in ${file} is missing targetPoiId`);
+    }
+    if (task.type === "find_region" && typeof task.targetRegionId !== "string") {
+      throw new Error(`Map quiz ${iso}/${task.id} in ${file} is missing targetRegionId`);
+    }
+    if (task.type === "odd_one_out" && (
+      typeof task.targetPoiId !== "string" || !Array.isArray(task.poiIds) || task.poiIds.length < 3
+    )) {
+      throw new Error(`Map quiz ${iso}/${task.id} in ${file} has invalid odd_one_out data`);
+    }
+    if (task.type === "sequence" && (
+      !Array.isArray(task.poiIds) || !Array.isArray(task.orderedPoiIds) ||
+      task.poiIds.length < 2 || task.orderedPoiIds.length !== task.poiIds.length
+    )) {
+      throw new Error(`Map quiz ${iso}/${task.id} in ${file} has invalid sequence data`);
+    }
+    for (const lang of LANGS) {
+      if (!task.question || typeof task.question[lang] !== "string" || !task.question[lang].trim()) {
+        throw new Error(`Map quiz ${iso}/${task.id} in ${file} is missing ${lang} question`);
+      }
+    }
+  }
+}
+
 if (fs.existsSync(MAP_QUIZ_POOL_DIR)) {
   for (const file of fs.readdirSync(MAP_QUIZ_POOL_DIR).filter(f => f.endsWith(".json")).sort()) {
     const filePath = path.join(MAP_QUIZ_POOL_DIR, file);
     const parsed = JSON.parse(fs.readFileSync(filePath, "utf8")) as Record<string, MapQuizTask[]>;
     for (const [iso, tasks] of Object.entries(parsed)) {
       if (MAP_QUIZ_POOLS[iso]) throw new Error(`Duplicate map quiz pool for ${iso} in ${file}`);
-      if (!Array.isArray(tasks) || tasks.length !== 10) {
-        throw new Error(`Map quiz pool ${iso} in ${file} must contain exactly 10 tasks`);
-      }
-      const ids = new Set<string>();
-      for (const task of tasks) {
-        if (!task || typeof task.id !== "string" || ids.has(task.id)) {
-          throw new Error(`Map quiz pool ${iso} in ${file} has a missing or duplicate task id`);
-        }
-        ids.add(task.id);
-        if (!["find_poi", "find_region", "odd_one_out", "sequence"].includes(task.type)) {
-          throw new Error(`Map quiz ${iso}/${task.id} in ${file} has invalid type`);
-        }
-        if (task.type === "find_poi" && typeof task.targetPoiId !== "string") {
-          throw new Error(`Map quiz ${iso}/${task.id} in ${file} is missing targetPoiId`);
-        }
-        if (task.type === "find_region" && typeof task.targetRegionId !== "string") {
-          throw new Error(`Map quiz ${iso}/${task.id} in ${file} is missing targetRegionId`);
-        }
-        if (task.type === "odd_one_out" && (
-          typeof task.targetPoiId !== "string" || !Array.isArray(task.poiIds) || task.poiIds.length < 3
-        )) {
-          throw new Error(`Map quiz ${iso}/${task.id} in ${file} has invalid odd_one_out data`);
-        }
-        if (task.type === "sequence" && (
-          !Array.isArray(task.poiIds) || !Array.isArray(task.orderedPoiIds) ||
-          task.poiIds.length < 2 || task.orderedPoiIds.length !== task.poiIds.length
-        )) {
-          throw new Error(`Map quiz ${iso}/${task.id} in ${file} has invalid sequence data`);
-        }
-        for (const lang of LANGS) {
-          if (!task.question || typeof task.question[lang] !== "string" || !task.question[lang].trim()) {
-            throw new Error(`Map quiz ${iso}/${task.id} in ${file} is missing ${lang} question`);
-          }
-        }
-      }
+      validateMapQuizTasks(iso, tasks, file, 10);
       MAP_QUIZ_POOLS[iso] = tasks;
+    }
+  }
+}
+
+if (fs.existsSync(MAP_QUIZ_EXTENSION_DIR)) {
+  for (const file of fs.readdirSync(MAP_QUIZ_EXTENSION_DIR).filter(f => f.endsWith(".json")).sort()) {
+    const filePath = path.join(MAP_QUIZ_EXTENSION_DIR, file);
+    const parsed = JSON.parse(fs.readFileSync(filePath, "utf8")) as Record<string, MapQuizTask[]>;
+    for (const [iso, tasks] of Object.entries(parsed)) {
+      const baseTasks = MAP_QUIZ_POOLS[iso];
+      if (!baseTasks) throw new Error(`Map quiz extension ${iso} in ${file} has no base pool`);
+      if (baseTasks.length !== 10) throw new Error(`Duplicate map quiz extension for ${iso} in ${file}`);
+      validateMapQuizTasks(iso, tasks, file, 20, new Set(baseTasks.map(task => task.id)));
+      MAP_QUIZ_POOLS[iso] = [...baseTasks, ...tasks];
     }
   }
 }
@@ -956,8 +982,8 @@ function renderHtml(c: Country, lang: Lang, regions: any[], pois: SlimPoi[], vie
       throw new Error(`Quiz ${c.iso}/${task.id}: missing region ${task.targetRegionId}`);
     }
   }
-  if (quizPool.length && quizPool.length !== 10) {
-    throw new Error(`Quiz ${c.iso} must contain exactly 10 tasks, got ${quizPool.length}`);
+  if (quizPool.length && quizPool.length !== 10 && quizPool.length !== 30) {
+    throw new Error(`Quiz ${c.iso} must contain 10 base tasks or 30 pooled tasks, got ${quizPool.length}`);
   }
   const quizPayload = quizPool.map(task => ({ ...task, question: task.question[lang] }));
   const quizUi = MAP_QUIZ_UI[lang];
