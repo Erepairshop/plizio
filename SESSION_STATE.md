@@ -21,6 +21,11 @@ Nem napló, hanem gyors memóriasegéd, hogy kevesebb újrabeolvasás kelljen.
 - a repo nagy és memóriaigényes; a full build drága
 - a Hostinger 3 GB-os szerver nem jó elsődleges build gép
 - telefonos teszteléshez a hálózati dev preview a preferált út
+- a statikus országtérképek közös kvízmotorja a `scripts/build-static-maps.mts` fájlban van
+- Németország 10 feladatos, négynyelvű kvíze elkészült
+- a kvízeredmények helyi kulcsa `plizio_map_quiz_scores_v1`, a név kulcsa `plizio_username`
+- térképgenerálás előtt kötelező a teljes `build-poi-url-index.mts`, különben eltűnnek a
+  POI-kártyák SEO-linkjei
 
 ## Frissítsd, ha változik
 

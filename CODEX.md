@@ -8,6 +8,37 @@ Nem váltja ki a `CLAUDE.md`-t, hanem gyors képbehozásra szolgál.
 - POI HTML generátor, POI-modulok és tartalmi mélyítés:
   `docs/poi-generator-architecture.md`
 
+## Statikus országtérképek és kvíz
+
+- Generátor: `scripts/build-static-maps.mts`.
+- Kimenet: `public/<orszag-slug>-map/`, nyelvenként `de/`, `hu/`, `ro/`, `en/`.
+- Gyors deploy: `.github/workflows/deploy-static-maps.yml`; nem igényel teljes Next buildet.
+- A térképes kvíz közös, vanilla JavaScript motorja a generátorban van.
+- Országonkénti feladatpool: `MAP_QUIZ_POOLS`.
+- Németország (`de`) jelenleg 10 feladatot kapott mind a négy nyelven:
+  POI-keresés, tartománykeresés, kakukktojás és sorrendi feladat.
+- Kvíz közben legfeljebb 30 POI lehet látható.
+- A kvíz végén nevet kér; a meglévő `plizio_username` localStorage-kulcsot használja.
+- A helyi eredménylista kulcsa: `plizio_map_quiz_scores_v1`.
+  Egy rekord: `{ map, lang, name, score, total, at }`; legfeljebb 100 rekord marad.
+- A POI-kártya „Bővebben” linkje a `public/data/_poi-url-index.json` hiteles indexből jön.
+  Térképgenerálás előtt mindig fusson:
+  `npx tsx scripts/build-poi-url-index.mts`.
+- A térképgenerátor szándékosan hibával leáll, ha az URL-index 1000-nél kevesebb elemet
+  tartalmaz, mert ez tipikusan félbemaradt delta index, és link nélküli térképet készítene.
+- Német térkép újragenerálása:
+  `npx tsx scripts/build-static-maps.mts de`.
+- Böngészős ellenőrzésnél tesztelendő: mind a 10 feladattípus, mobilnézet, 30-as POI-limit,
+  név- és pontmentés, valamint legalább egy SEO-linkes és egy link nélküli POI-kártya.
+
+## Memo backup
+
+- Windows Task Scheduler feladat: `PlizioMemoryBackup`, naponta 18:00.
+- Script: `C:\Users\User\backup_memory.ps1`.
+- A VPS-archívum együtt tartalmazza a Claude memory mappát, ezt a `CODEX.md`-t,
+  a `SESSION_STATE.md`-t és a Vonko `CODEX_MEMO.md`-t.
+- VPS cél: `/home/erik/backups/claude-memory`, 30 napi archívum megőrzésével.
+
 ## Munkamód
 
 - Ennél a projektnél közvetlenül a `main` ágon dolgozunk.

@@ -691,10 +691,10 @@ const MAP_QUIZ_POOLS: Record<string, MapQuizTask[]> = {
 };
 
 const MAP_QUIZ_UI: Record<Lang, Record<string,string>> = {
-  de: { launch:"Quiz", start:"Quiz starten", next:"Weiter", close:"Beenden", restart:"Noch einmal", correct:"Richtig!", wrong:"Nicht ganz.", answer:"Richtige Antwort", score:"Punkte", task:"Aufgabe", complete:"Geschafft!", intro:"10 abwechslungsreiche Kartenaufgaben", sequence:"Nächster Ort" },
-  hu: { launch:"Kvíz", start:"Kvíz indítása", next:"Tovább", close:"Kilépés", restart:"Újra", correct:"Helyes!", wrong:"Nem egészen.", answer:"Helyes válasz", score:"Pont", task:"Feladat", complete:"Kész!", intro:"10 változatos térképes feladat", sequence:"Következő hely" },
-  ro: { launch:"Quiz", start:"Începe quizul", next:"Continuă", close:"Ieșire", restart:"Din nou", correct:"Corect!", wrong:"Nu chiar.", answer:"Răspuns corect", score:"Puncte", task:"Sarcina", complete:"Gata!", intro:"10 sarcini variate pe hartă", sequence:"Următorul loc" },
-  en: { launch:"Quiz", start:"Start quiz", next:"Next", close:"Exit", restart:"Play again", correct:"Correct!", wrong:"Not quite.", answer:"Correct answer", score:"Score", task:"Task", complete:"Complete!", intro:"10 varied map challenges", sequence:"Next place" },
+  de: { launch:"Quiz", start:"Quiz starten", next:"Weiter", close:"Beenden", restart:"Noch einmal", correct:"Richtig!", wrong:"Nicht ganz.", answer:"Richtige Antwort", score:"Punkte", task:"Aufgabe", complete:"Geschafft!", intro:"10 abwechslungsreiche Kartenaufgaben", sequence:"Nächster Ort", namePrompt:"Wie heißt du?", namePlaceholder:"Spielername", save:"Ergebnis speichern", saved:"Ergebnis gespeichert", best:"Dein bestes Ergebnis", invalidName:"Bitte 2 bis 16 Zeichen verwenden: Buchstaben, Zahlen, _ oder -" },
+  hu: { launch:"Kvíz", start:"Kvíz indítása", next:"Tovább", close:"Kilépés", restart:"Újra", correct:"Helyes!", wrong:"Nem egészen.", answer:"Helyes válasz", score:"Pont", task:"Feladat", complete:"Kész!", intro:"10 változatos térképes feladat", sequence:"Következő hely", namePrompt:"Mi a neved?", namePlaceholder:"Játékosnév", save:"Eredmény mentése", saved:"Eredmény elmentve", best:"Legjobb eredményed", invalidName:"2-16 karaktert adj meg: betű, szám, _ vagy -" },
+  ro: { launch:"Quiz", start:"Începe quizul", next:"Continuă", close:"Ieșire", restart:"Din nou", correct:"Corect!", wrong:"Nu chiar.", answer:"Răspuns corect", score:"Puncte", task:"Sarcina", complete:"Gata!", intro:"10 sarcini variate pe hartă", sequence:"Următorul loc", namePrompt:"Cum te numești?", namePlaceholder:"Nume jucător", save:"Salvează rezultatul", saved:"Rezultat salvat", best:"Cel mai bun rezultat", invalidName:"Folosește 2-16 caractere: litere, cifre, _ sau -" },
+  en: { launch:"Quiz", start:"Start quiz", next:"Next", close:"Exit", restart:"Play again", correct:"Correct!", wrong:"Not quite.", answer:"Correct answer", score:"Score", task:"Task", complete:"Complete!", intro:"10 varied map challenges", sequence:"Next place", namePrompt:"What is your name?", namePlaceholder:"Player name", save:"Save result", saved:"Result saved", best:"Your best score", invalidName:"Use 2-16 characters: letters, numbers, _ or -" },
 };
 
 // Street View availability sidecar (built by the VPS metadata sweep):
@@ -710,6 +710,12 @@ const URL_INDEX_PATH = path.join(process.cwd(), "public", "data", "_poi-url-inde
 let POI_URLS: Record<string, Record<string, string>> = {};
 if (fs.existsSync(URL_INDEX_PATH)) {
   try { POI_URLS = JSON.parse(fs.readFileSync(URL_INDEX_PATH, "utf8")); } catch {}
+}
+if (Object.keys(POI_URLS).length < 1000) {
+  throw new Error(
+    `POI URL index is incomplete (${Object.keys(POI_URLS).length} entries). ` +
+    "Run: npx tsx scripts/build-poi-url-index.mts",
+  );
 }
 
 // Image-manifest: list of all webp filenames living on VPS under
@@ -1085,9 +1091,18 @@ header .langs{display:flex;gap:.25rem}
 .quiz-btn.secondary{background:#ffffff10;color:#dbeafe;border:1px solid #ffffff20}
 .quiz-complete{text-align:center;padding:.25rem 0}
 .quiz-complete strong{display:block;font-size:1.35rem;color:#fcd34d;margin:.2rem 0}
+.quiz-name-form{display:grid;gap:.45rem;margin-top:.7rem;text-align:left}
+.quiz-name-form label{font-size:.76rem;font-weight:800;color:#dbeafe}
+.quiz-name-row{display:flex;gap:.45rem}
+.quiz-name-row input{flex:1;min-width:0;border:1px solid #ffffff25;border-radius:10px;background:#070d20;color:#fff;padding:.62rem .7rem;font:700 .84rem/1 system-ui;outline:none}
+.quiz-name-row input:focus{border-color:#fbbf24;box-shadow:0 0 0 2px #fbbf2428}
+.quiz-name-row .quiz-btn{flex:0 0 auto}
+.quiz-save-status{min-height:1rem;font-size:.72rem;color:#bbf7d0;text-align:center}
+.quiz-save-status.error{color:#fecaca}
+.quiz-best{font-size:.75rem;color:#bfdbfe;text-align:center;margin-top:.35rem}
 body.quiz-active .controls{opacity:.12;pointer-events:none}
 body.quiz-active .hint{display:none}
-@media(max-width:640px){header{gap:.35rem;padding-inline:.55rem}.quiz-launch{padding:0 .5rem}.quiz-panel{top:.45rem;padding:.72rem .8rem}.quiz-marker-label{font-size:10px}}
+@media(max-width:640px){header{gap:.35rem;padding-inline:.55rem}.quiz-launch{padding:0 .5rem}.quiz-panel{top:.45rem;padding:.72rem .8rem}.quiz-marker-label{font-size:10px}.quiz-name-row{flex-direction:column}.quiz-name-row .quiz-btn{width:100%}}
 .hint{position:absolute;top:102px;left:50%;transform:translateX(-50%);background:#000000a0;backdrop-filter:blur(8px);padding:.4rem .8rem;border-radius:999px;font-size:.75rem;color:#ffffffc0;pointer-events:none;z-index:3;animation:fadeOut 4s 2s forwards}
 @keyframes fadeOut{to{opacity:0}}
 .popup{position:absolute;bottom:0;left:0;right:0;background:rgba(11,19,35,.86);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border-top:1px solid rgba(120,180,255,.3);border-radius:18px 18px 0 0;padding:1rem 1.2rem 1.4rem;transform:translateY(100%);transition:transform .25s;z-index:10;box-shadow:0 -12px 44px rgba(0,0,0,.6)}
@@ -1220,6 +1235,7 @@ ${quizPool.length ? `<button type="button" class="quiz-launch" id="quizLaunch">�
 <div class="burst" id="burst"><svg class="burst-svg" id="burstSvg"></svg><div class="burst-dots" id="burstDots"></div></div>
 <script>
 const LANG=${JSON.stringify(lang)},W=${W},H=${H};
+const MAP_QUIZ_ID=${JSON.stringify(c.iso)};
 const QUIZ_POOL=${JSON.stringify(quizPayload)};
 const QUIZ_UI=${JSON.stringify(quizUi)};
 try{localStorage.setItem('plizio_language',LANG)}catch(e){}
@@ -1611,12 +1627,49 @@ function nextQuizTask(){
   if(quizIndex>=quizTasks.length){showQuizComplete();return}
   renderQuizTask();
 }
+const QUIZ_SCORE_KEY='plizio_map_quiz_scores_v1',QUIZ_NAME_KEY='plizio_username';
+function quizSavedResults(){
+  try{
+    const value=JSON.parse(localStorage.getItem(QUIZ_SCORE_KEY)||'[]');
+    return Array.isArray(value)?value:[];
+  }catch(e){return []}
+}
+function quizSavedName(){
+  try{return localStorage.getItem(QUIZ_NAME_KEY)||''}catch(e){return ''}
+}
+function quizBestScore(){
+  return quizSavedResults().filter(function(r){return r&&r.map===MAP_QUIZ_ID}).reduce(function(best,r){return Math.max(best,Number(r.score)||0)},0);
+}
+function saveQuizResult(name){
+  const normalized=String(name||'').trim().normalize('NFC');
+  const length=Array.from(normalized).length;
+  if(length<2||length>16||!(/^[\\p{L}\\p{M}\\p{N}_-]+$/u.test(normalized)))return false;
+  try{
+    localStorage.setItem(QUIZ_NAME_KEY,normalized);
+    const results=quizSavedResults();
+    results.push({map:MAP_QUIZ_ID,lang:LANG,name:normalized,score:quizScore,total:quizTasks.length,at:new Date().toISOString()});
+    localStorage.setItem(QUIZ_SCORE_KEY,JSON.stringify(results.slice(-100)));
+    return true;
+  }catch(e){return false}
+}
 function showQuizComplete(){
   clearQuizMap();svg.classList.remove('quiz-mode','quiz-region-task');
-  quizPanel.innerHTML='<div class="quiz-top"><span class="quiz-progress">'+quizEsc(QUIZ_UI.complete)+'</span><button type="button" class="quiz-exit" id="quizExit" aria-label="'+quizEsc(QUIZ_UI.close)+'">×</button></div><div class="quiz-complete"><strong>'+quizScore+' / '+quizTasks.length+'</strong><span>'+quizEsc(QUIZ_UI.score)+'</span></div><div class="quiz-actions"><button type="button" class="quiz-btn" id="quizRestart">'+quizEsc(QUIZ_UI.restart)+'</button><button type="button" class="quiz-btn secondary" id="quizDone">'+quizEsc(QUIZ_UI.close)+'</button></div>';
+  const best=quizBestScore();
+  quizPanel.innerHTML='<div class="quiz-top"><span class="quiz-progress">'+quizEsc(QUIZ_UI.complete)+'</span><button type="button" class="quiz-exit" id="quizExit" aria-label="'+quizEsc(QUIZ_UI.close)+'">×</button></div><div class="quiz-complete"><strong>'+quizScore+' / '+quizTasks.length+'</strong><span>'+quizEsc(QUIZ_UI.score)+'</span></div><form class="quiz-name-form" id="quizNameForm"><label for="quizName">'+quizEsc(QUIZ_UI.namePrompt)+'</label><div class="quiz-name-row"><input id="quizName" name="name" type="text" maxlength="16" autocomplete="username" enterkeyhint="done" placeholder="'+quizEsc(QUIZ_UI.namePlaceholder)+'" value="'+quizEsc(quizSavedName())+'"><button class="quiz-btn" id="quizSave" type="submit">'+quizEsc(QUIZ_UI.save)+'</button></div><div class="quiz-save-status" id="quizSaveStatus"></div></form>'+(best?'<div class="quiz-best" id="quizBest">'+quizEsc(QUIZ_UI.best)+': '+best+' / '+quizTasks.length+'</div>':'<div class="quiz-best" id="quizBest"></div>')+'<div class="quiz-actions"><button type="button" class="quiz-btn" id="quizRestart">'+quizEsc(QUIZ_UI.restart)+'</button><button type="button" class="quiz-btn secondary" id="quizDone">'+quizEsc(QUIZ_UI.close)+'</button></div>';
   document.getElementById('quizExit').onclick=exitQuiz;
   document.getElementById('quizDone').onclick=exitQuiz;
   document.getElementById('quizRestart').onclick=startQuiz;
+  document.getElementById('quizNameForm').onsubmit=function(e){
+    e.preventDefault();
+    const input=document.getElementById('quizName'),status=document.getElementById('quizSaveStatus');
+    if(!saveQuizResult(input.value)){
+      status.className='quiz-save-status error';status.textContent=QUIZ_UI.invalidName;input.focus();return;
+    }
+    status.className='quiz-save-status';status.textContent=QUIZ_UI.saved;
+    document.getElementById('quizBest').textContent=QUIZ_UI.best+': '+quizBestScore()+' / '+quizTasks.length;
+    document.getElementById('quizSave').disabled=true;input.disabled=true;
+  };
+  document.getElementById('quizName').focus();
 }
 function showQuizIntro(){
   if(!quizPanel)return;
