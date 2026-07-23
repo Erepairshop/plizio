@@ -580,6 +580,123 @@ const GROUP_LABELS: Record<Grp, Record<Lang, string>> = {
 
 type SlimPoi = { id:string; type:string; grp:Grp; cx:number; cy:number; name:any; urls?:Record<string,string>; img?:string; desc?:any; facts?:any; sv?:string };
 
+type MapQuizTask =
+  | { id:string; type:"find_poi"; question:Record<Lang,string>; targetPoiId:string }
+  | { id:string; type:"find_region"; question:Record<Lang,string>; targetRegionId:string }
+  | { id:string; type:"odd_one_out"; question:Record<Lang,string>; poiIds:string[]; targetPoiId:string }
+  | { id:string; type:"sequence"; question:Record<Lang,string>; poiIds:string[]; orderedPoiIds:string[] };
+
+// Country-specific content, shared by the standalone HTML quiz engine below.
+// A session uses every task once; add larger pools later and the engine will
+// continue to draw ten without replacement.
+const MAP_QUIZ_POOLS: Record<string, MapQuizTask[]> = {
+  de: [
+    {
+      id: "de-find-berlin", type: "find_poi", targetPoiId: "city-berlin",
+      question: {
+        de: "Wo liegt Berlin? Klicke auf die Stadt.",
+        hu: "Hol található Berlin? Kattints a városra.",
+        ro: "Unde se află Berlin? Apasă pe oraș.",
+        en: "Where is Berlin? Click the city.",
+      },
+    },
+    {
+      id: "de-find-hamburg", type: "find_poi", targetPoiId: "city-hamburg",
+      question: {
+        de: "Finde Hamburg auf der Karte.",
+        hu: "Keresd meg Hamburgot a térképen.",
+        ro: "Găsește Hamburg pe hartă.",
+        en: "Find Hamburg on the map.",
+      },
+    },
+    {
+      id: "de-find-zugspitze", type: "find_poi", targetPoiId: "mnt-zugspitze",
+      question: {
+        de: "Die Zugspitze ist Deutschlands höchster Berg. Wo liegt sie?",
+        hu: "A Zugspitze Németország legmagasabb hegye. Hol található?",
+        ro: "Zugspitze este cel mai înalt munte din Germania. Unde se află?",
+        en: "The Zugspitze is Germany's highest mountain. Where is it?",
+      },
+    },
+    {
+      id: "de-find-bodensee", type: "find_poi", targetPoiId: "lake-bodensee",
+      question: {
+        de: "Finde den Bodensee im Süden Deutschlands.",
+        hu: "Keresd meg a Bodeni-tavat Németország déli részén.",
+        ro: "Găsește Lacul Constanța în sudul Germaniei.",
+        en: "Find Lake Constance in southern Germany.",
+      },
+    },
+    {
+      id: "de-region-bayern", type: "find_region", targetRegionId: "DE-BY",
+      question: {
+        de: "Klicke auf das Bundesland Bayern.",
+        hu: "Kattints Bajorország tartományra.",
+        ro: "Apasă pe landul Bavaria.",
+        en: "Click the state of Bavaria.",
+      },
+    },
+    {
+      id: "de-region-nrw", type: "find_region", targetRegionId: "DE-NW",
+      question: {
+        de: "Wo liegt Nordrhein-Westfalen?",
+        hu: "Hol található Észak-Rajna-Vesztfália?",
+        ro: "Unde se află Renania de Nord-Westfalia?",
+        en: "Where is North Rhine-Westphalia?",
+      },
+    },
+    {
+      id: "de-region-sachsen", type: "find_region", targetRegionId: "DE-SN",
+      question: {
+        de: "Finde das Bundesland Sachsen.",
+        hu: "Keresd meg Szászország tartományt.",
+        ro: "Găsește landul Saxonia.",
+        en: "Find the state of Saxony.",
+      },
+    },
+    {
+      id: "de-odd-bayern", type: "odd_one_out",
+      poiIds: ["city-muenchen", "city-nuernberg", "city-augsburg", "city-regensburg", "city-stuttgart"],
+      targetPoiId: "city-stuttgart",
+      question: {
+        de: "Welche dieser Städte liegt nicht in Bayern?",
+        hu: "Melyik város nem Bajorországban található?",
+        ro: "Care dintre aceste orașe nu se află în Bavaria?",
+        en: "Which of these cities is not in Bavaria?",
+      },
+    },
+    {
+      id: "de-order-west-east", type: "sequence",
+      poiIds: ["city-koeln", "city-frankfurt", "city-dresden"],
+      orderedPoiIds: ["city-koeln", "city-frankfurt", "city-dresden"],
+      question: {
+        de: "Klicke die Städte von West nach Ost an.",
+        hu: "Kattints a városokra nyugatról keletre haladva.",
+        ro: "Apasă orașele de la vest la est.",
+        en: "Click the cities from west to east.",
+      },
+    },
+    {
+      id: "de-sequence-cities", type: "sequence",
+      poiIds: ["city-berlin", "city-hamburg", "city-muenchen"],
+      orderedPoiIds: ["city-hamburg", "city-berlin", "city-muenchen"],
+      question: {
+        de: "Klicke in dieser Reihenfolge: Hamburg, Berlin, München.",
+        hu: "Kattints ebben a sorrendben: Hamburg, Berlin, München.",
+        ro: "Apasă în această ordine: Hamburg, Berlin, München.",
+        en: "Click in this order: Hamburg, Berlin, Munich.",
+      },
+    },
+  ],
+};
+
+const MAP_QUIZ_UI: Record<Lang, Record<string,string>> = {
+  de: { launch:"Quiz", start:"Quiz starten", next:"Weiter", close:"Beenden", restart:"Noch einmal", correct:"Richtig!", wrong:"Nicht ganz.", answer:"Richtige Antwort", score:"Punkte", task:"Aufgabe", complete:"Geschafft!", intro:"10 abwechslungsreiche Kartenaufgaben", sequence:"Nächster Ort" },
+  hu: { launch:"Kvíz", start:"Kvíz indítása", next:"Tovább", close:"Kilépés", restart:"Újra", correct:"Helyes!", wrong:"Nem egészen.", answer:"Helyes válasz", score:"Pont", task:"Feladat", complete:"Kész!", intro:"10 változatos térképes feladat", sequence:"Következő hely" },
+  ro: { launch:"Quiz", start:"Începe quizul", next:"Continuă", close:"Ieșire", restart:"Din nou", correct:"Corect!", wrong:"Nu chiar.", answer:"Răspuns corect", score:"Puncte", task:"Sarcina", complete:"Gata!", intro:"10 sarcini variate pe hartă", sequence:"Următorul loc" },
+  en: { launch:"Quiz", start:"Start quiz", next:"Next", close:"Exit", restart:"Play again", correct:"Correct!", wrong:"Not quite.", answer:"Correct answer", score:"Score", task:"Task", complete:"Complete!", intro:"10 varied map challenges", sequence:"Next place" },
+};
+
 // Street View availability sidecar (built by the VPS metadata sweep):
 // {"lat,lng"@4dp: 1}. When the POI center is covered, the mapcard gets a pegman link.
 const SV_PATH = path.join(process.cwd(), "public", "data", "sight-sv.json");
@@ -771,6 +888,25 @@ function renderHtml(c: Country, lang: Lang, regions: any[], pois: SlimPoi[], vie
   }).filter((x) => x.n);
   const t = `${c.names[lang]} ${TITLE_SUFFIX[lang]}`;
   const hint = HINT[lang], more = MORE[lang], back = BACK[lang], searchPh = SEARCH_PH[lang];
+  const quizPool = MAP_QUIZ_POOLS[c.iso] || [];
+  const poiIds = new Set(pois.map(p => p.id));
+  const regionIds = new Set(regions.map(r => r.id));
+  for (const task of quizPool) {
+    const taskPoiIds = task.type === "find_poi" ? [task.targetPoiId]
+      : task.type === "find_region" ? []
+      : task.type === "odd_one_out" ? [...task.poiIds, task.targetPoiId]
+      : [...task.poiIds, ...task.orderedPoiIds];
+    const missingPois = taskPoiIds.filter(id => !poiIds.has(id));
+    if (missingPois.length) throw new Error(`Quiz ${c.iso}/${task.id}: missing POI(s): ${missingPois.join(", ")}`);
+    if (task.type === "find_region" && !regionIds.has(task.targetRegionId)) {
+      throw new Error(`Quiz ${c.iso}/${task.id}: missing region ${task.targetRegionId}`);
+    }
+  }
+  if (c.iso === "de" && quizPool.length !== 10) {
+    throw new Error(`Germany quiz must contain exactly 10 tasks, got ${quizPool.length}`);
+  }
+  const quizPayload = quizPool.map(task => ({ ...task, question: task.question[lang] }));
+  const quizUi = MAP_QUIZ_UI[lang];
   const langLinks = LANGS.map(l => l === lang
     ? `<span class="lang on">${l.toUpperCase()}</span>`
     : `<a class="lang" href="/${c.slug}-map/${l==='hu'?'':l+'/'}">${l.toUpperCase()}</a>`
@@ -845,6 +981,8 @@ header a.back{display:inline-flex;align-items:center;justify-content:center;widt
 header a.back:active{background:#ffffff28}
 header h1{margin:0;font-size:1rem;font-weight:800;flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 header .langs{display:flex;gap:.25rem}
+.quiz-launch{height:30px;padding:0 .7rem;border-radius:8px;border:1px solid #fbbf2470;background:linear-gradient(135deg,#fbbf2426,#fb923c1f);color:#fde68a;font:700 .72rem/1 system-ui;cursor:pointer;white-space:nowrap}
+.quiz-launch:hover,.quiz-launch:focus-visible{background:#fbbf2438;border-color:#fbbf24;color:#fff}
 .lang{font-size:.7rem;font-weight:700;padding:.25rem .45rem;border-radius:6px;color:#ffffffb0;text-decoration:none;background:#ffffff10}
 .lang.on{background:#3b82f6;color:#fff}
 #stage{position:absolute;inset:101px 0 0 0;overflow:hidden;touch-action:none;background:radial-gradient(ellipse at 50% 30%,#0e1233 0%,#060614 70%)}
@@ -921,6 +1059,35 @@ header .langs{display:flex;gap:.25rem}
 /* At higher zoom: clusters hide, in-cluster POIs become visible */
 #svg.expand .cluster{display:none}
 #svg.expand .poi.in-cluster{display:initial}
+#svg.quiz-mode .poi{display:none!important}
+#svg.quiz-mode .poi.quiz-visible{display:initial!important;opacity:1!important;pointer-events:auto!important}
+#svg.quiz-mode .cluster,#svg.quiz-mode .poi-metro{display:none!important}
+#svg.quiz-mode .region{pointer-events:none;opacity:.7}
+#svg.quiz-mode.quiz-region-task .region{pointer-events:auto;cursor:pointer;opacity:1}
+#svg.quiz-mode .poi.quiz-correct circle,#svg.quiz-mode .region.quiz-correct{fill:#22c55e!important;stroke:#dcfce7!important;stroke-width:3!important;filter:drop-shadow(0 0 9px #22c55e)}
+#svg.quiz-mode .poi.quiz-wrong circle,#svg.quiz-mode .region.quiz-wrong{fill:#ef4444!important;stroke:#fee2e2!important;stroke-width:3!important;filter:drop-shadow(0 0 9px #ef4444)}
+.quiz-marker-label{fill:#fff;font-size:12px;font-weight:800;text-anchor:middle;paint-order:stroke;stroke:#070716;stroke-width:3.5px;stroke-linejoin:round;pointer-events:none}
+.quiz-panel{position:absolute;z-index:8;top:.65rem;left:50%;width:min(92vw,560px);transform:translateX(-50%);background:linear-gradient(145deg,rgba(12,20,45,.97),rgba(20,31,66,.95));border:1px solid rgba(251,191,36,.42);border-radius:18px;box-shadow:0 16px 48px #000a,0 0 32px rgba(251,191,36,.08);padding:.85rem 1rem;display:none;backdrop-filter:blur(14px)}
+.quiz-panel.open{display:block;animation:quizIn .22s ease-out}
+@keyframes quizIn{from{opacity:0;transform:translate(-50%,-8px)}to{opacity:1;transform:translate(-50%,0)}}
+.quiz-top{display:flex;align-items:center;gap:.65rem}
+.quiz-progress{font-size:.7rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:#fcd34d}
+.quiz-score{margin-left:auto;font-size:.72rem;font-weight:700;color:#bfdbfe}
+.quiz-exit{width:27px;height:27px;border-radius:50%;border:1px solid #ffffff22;background:#ffffff0d;color:#fff;font-size:1rem;cursor:pointer}
+.quiz-question{font-size:clamp(.94rem,2.8vw,1.15rem);font-weight:800;line-height:1.3;margin:.55rem 0 .2rem;color:#f8fafc}
+.quiz-sub{font-size:.75rem;color:#a9c4ef;min-height:1rem}
+.quiz-feedback{display:none;margin-top:.55rem;padding:.55rem .7rem;border-radius:10px;font-size:.82rem;font-weight:700}
+.quiz-feedback.show{display:block}
+.quiz-feedback.ok{background:#14532d80;color:#bbf7d0;border:1px solid #22c55e70}
+.quiz-feedback.bad{background:#7f1d1d80;color:#fecaca;border:1px solid #ef444470}
+.quiz-actions{display:flex;gap:.55rem;margin-top:.65rem}
+.quiz-btn{flex:1;border:none;border-radius:10px;padding:.65rem .8rem;font:800 .82rem/1 system-ui;cursor:pointer;background:linear-gradient(135deg,#fbbf24,#f97316);color:#201006}
+.quiz-btn.secondary{background:#ffffff10;color:#dbeafe;border:1px solid #ffffff20}
+.quiz-complete{text-align:center;padding:.25rem 0}
+.quiz-complete strong{display:block;font-size:1.35rem;color:#fcd34d;margin:.2rem 0}
+body.quiz-active .controls{opacity:.12;pointer-events:none}
+body.quiz-active .hint{display:none}
+@media(max-width:640px){header{gap:.35rem;padding-inline:.55rem}.quiz-launch{padding:0 .5rem}.quiz-panel{top:.45rem;padding:.72rem .8rem}.quiz-marker-label{font-size:10px}}
 .hint{position:absolute;top:102px;left:50%;transform:translateX(-50%);background:#000000a0;backdrop-filter:blur(8px);padding:.4rem .8rem;border-radius:999px;font-size:.75rem;color:#ffffffc0;pointer-events:none;z-index:3;animation:fadeOut 4s 2s forwards}
 @keyframes fadeOut{to{opacity:0}}
 .popup{position:absolute;bottom:0;left:0;right:0;background:rgba(11,19,35,.86);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border-top:1px solid rgba(120,180,255,.3);border-radius:18px 18px 0 0;padding:1rem 1.2rem 1.4rem;transform:translateY(100%);transition:transform .25s;z-index:10;box-shadow:0 -12px 44px rgba(0,0,0,.6)}
@@ -990,6 +1157,7 @@ header .langs{display:flex;gap:.25rem}
 <header>
 <a class="back" href="${c.parentMap ? `/${c.parentMap}-map/${lang === "hu" ? "" : lang + "/"}` : "/"}" onclick="if(history.length>1){history.back();return false;}" aria-label="${back}">‹</a>
 <h1>${t}</h1>
+${quizPool.length ? `<button type="button" class="quiz-launch" id="quizLaunch">◆ ${escText(quizUi.launch)}</button>` : ""}
 <div class="langs">${langLinks}</div>
 </header>
 <div class="controls">
@@ -998,7 +1166,7 @@ header .langs{display:flex;gap:.25rem}
 </div>
 <div id="stage">
   <svg id="svg" viewBox="${viewBox}" preserveAspectRatio="xMidYMid meet" aria-label="${t}">
-    <g id="gR"${c.islandRingsSlug ? ' class="noint"' : ''}>${regions.map(r => `<path class="region" data-id="${escAttr(r.id)}" d="${r.path}"/>`).join("")}</g>
+    <g id="gR"${c.islandRingsSlug ? ' class="noint"' : ''}>${regions.map(r => `<path class="region" data-id="${escAttr(r.id)}" data-name="${escAttr((r.name && (r.name[lang] || r.name.en)) || r.id)}" d="${r.path}"/>`).join("")}</g>
     <g id="gL">${regions.filter(r => r.labelX && r.labelY).map(r => `<text class="label" x="${r.labelX}" y="${r.labelY}">${escText((r.name && (r.name[lang] || r.name.en)) || r.id)}</text>`).join("")}</g>
     <g id="gP">${pois.map(p => {
       const url = p.urls?.[lang];
@@ -1023,6 +1191,7 @@ header .langs{display:flex;gap:.25rem}
     }).join("")}</g>
   </svg>
   <div class="zoom"><button id="zin" aria-label="zoom in">+</button><button id="zout" aria-label="zoom out">−</button></div>
+  ${quizPool.length ? `<section class="quiz-panel" id="quizPanel" aria-live="polite"></section>` : ""}
 </div>
 <div class="hint">${hint}</div>
 <div class="popup" id="popup" role="dialog" aria-modal="false">
@@ -1051,6 +1220,8 @@ header .langs{display:flex;gap:.25rem}
 <div class="burst" id="burst"><svg class="burst-svg" id="burstSvg"></svg><div class="burst-dots" id="burstDots"></div></div>
 <script>
 const LANG=${JSON.stringify(lang)},W=${W},H=${H};
+const QUIZ_POOL=${JSON.stringify(quizPayload)};
+const QUIZ_UI=${JSON.stringify(quizUi)};
 try{localStorage.setItem('plizio_language',LANG)}catch(e){}
 const CLUSTERS=${JSON.stringify(multiClusters.map(cl => cl.pois.map(p => ({id:p.id, name:p.name[lang]||p.name.en||p.id, grp:p.grp, url:p.urls?.[lang]||null, cx:p.cx, cy:p.cy}))))};
 const SEARCH_EXTRA=${JSON.stringify(SEARCH_EXTRA_JS)};
@@ -1162,7 +1333,8 @@ function openBurst(clEl){
 burstDots.addEventListener('click',e=>{const b=e.target.closest('.burst-dot');if(!b)return;e.stopPropagation();const p=burstData[b.getAttribute('data-id')];if(!p)return;fillCard(p);mapcard.classList.add('open');placeMapcardAt(parseFloat(b.style.left),parseFloat(b.style.top));});
 function openClusterList(i){const all=CLUSTERS[i];if(!all)return;closeMapcard();closeBurst();const sInEl=document.getElementById('searchIn');const q=sInEl?norm(sInEl.value.trim()):'';const list=all.filter(p=>{if(!activeGrps.has(p.grp))return false;if(q&&!((POI_SEARCH_BY_ID[p.id]||'').includes(q)))return false;return true});const el=document.getElementById('plist');function row(p){const c=POI_CARD[p.id]||{};const col=GCOL2[p.grp]||'#9ca3af';const th=c.i?'<span class="lthumb" style="background-image:url('+String(c.i).replace(/[()]/g,'')+')"></span>':'<span class="lthumb ln" style="background:'+col+'22;color:'+col+'"><span class="dot" style="background:'+col+'"></span></span>';const body='<span class="lbody"><span class="n">'+escAttrJs(p.name)+'</span><span class="g">'+p.grp+'</span></span>';return p.url?'<a href="'+p.url+'">'+th+body+'<span class="lgo">›</span></a>':'<div class="nl">'+th+body+'</div>';}svg.classList.add('dim-pois');el.innerHTML='<p class="lh">'+list.length+' '+(LANG==='hu'?'hely ezen a környéken':LANG==='de'?'Orte in dieser Gegend':LANG==='ro'?'locuri în zonă':'places nearby')+'</p>'+list.map(row).join('');clearMode();pop.classList.add('mode-list','open')}
 function escAttrJs(s){return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')}
-gP.addEventListener('click',e=>{const el=e.target.closest('.poi');if(el){e.stopPropagation();openPopup(el)}});
+gP.addEventListener('click',e=>{const el=e.target.closest('.poi');if(el){e.stopPropagation();if(quizActive){handleQuizPoi(el)}else{openPopup(el)}}});
+gR.addEventListener('click',e=>{const el=e.target.closest('.region');if(el&&quizActive){e.stopPropagation();handleQuizRegion(el)}});
 if(gC){gC.addEventListener('click',e=>{const cl=e.target.closest('.cluster');if(!cl)return;e.stopPropagation();openBurst(cl)})}
 function closePopup(){pop.classList.remove('open');clearMode();closeMapcard();closeBurst();svg.classList.remove('dim-pois');document.querySelectorAll('.poi.active').forEach(n=>n.classList.remove('active'))}
 document.getElementById('px').onclick=closePopup;
@@ -1336,6 +1508,142 @@ sRes.addEventListener('click',e=>{
 });
 // Close dropdown on outside click
 document.addEventListener('click',e=>{if(!sW.contains(e.target))sRes.classList.remove('has-hits')});
+
+/* Standalone country-map quiz engine. Country content is generated above,
+   while this state machine stays identical for every future country pool. */
+let quizActive=false,quizTasks=[],quizIndex=0,quizScore=0,quizTask=null,quizLocked=false,quizSequencePos=0;
+const quizPanel=document.getElementById('quizPanel'),quizLaunch=document.getElementById('quizLaunch');
+function quizEsc(v){return String(v==null?'':v).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;')}
+function quizShuffle(arr){const a=arr.slice();for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));const x=a[i];a[i]=a[j];a[j]=x}return a}
+function quizPoi(id){return gP.querySelector('.poi[data-id="'+String(id).replace(/"/g,'\\\\"')+'"]')}
+function quizRegion(id){return gR.querySelector('.region[data-id="'+String(id).replace(/"/g,'\\\\"')+'"]')}
+function clearQuizMap(){
+  svg.classList.remove('quiz-region-task');
+  gP.querySelectorAll('.poi').forEach(function(p){
+    p.classList.remove('quiz-visible','quiz-correct','quiz-wrong');
+    p.removeAttribute('tabindex');
+    p.querySelectorAll('.quiz-marker-label').forEach(function(n){n.remove()});
+  });
+  gR.querySelectorAll('.region').forEach(function(r){r.classList.remove('quiz-correct','quiz-wrong');r.removeAttribute('tabindex')});
+}
+function addQuizLabel(el){
+  if(!el||el.querySelector('.quiz-marker-label'))return;
+  const text=document.createElementNS('http://www.w3.org/2000/svg','text');
+  text.setAttribute('class','quiz-marker-label');
+  text.setAttribute('x','0');text.setAttribute('y','-10');
+  text.textContent=el.getAttribute('data-name')||'';
+  el.appendChild(text);
+}
+function showQuizPois(ids,labels){
+  const unique=Array.from(new Set(ids)).slice(0,30);
+  unique.forEach(function(id){
+    const el=quizPoi(id);if(!el)return;
+    el.classList.add('quiz-visible');el.setAttribute('tabindex','0');
+    if(labels)addQuizLabel(el);
+  });
+}
+function quizAnswerName(task){
+  if(task.type==='find_region'){const r=quizRegion(task.targetRegionId);return r?r.getAttribute('data-name'):task.targetRegionId}
+  const id=task.type==='sequence'?task.orderedPoiIds[Math.min(quizSequencePos,task.orderedPoiIds.length-1)]:task.targetPoiId;
+  const p=POI_INDEX[id];return p?p.name:id;
+}
+function quizVisibleFor(task){
+  if(task.type==='find_region')return [];
+  if(task.type==='odd_one_out'||task.type==='sequence')return task.poiIds.slice(0,30);
+  const target=POI_INDEX[task.targetPoiId];
+  if(!target)return [task.targetPoiId];
+  const distractors=[];
+  for(const id in POI_INDEX){if(id!==task.targetPoiId&&POI_INDEX[id].grp===target.grp)distractors.push(id)}
+  return [task.targetPoiId].concat(quizShuffle(distractors).slice(0,29));
+}
+function quizHeader(){
+  return '<div class="quiz-top"><span class="quiz-progress">'+quizEsc(QUIZ_UI.task)+' '+(quizIndex+1)+' / '+quizTasks.length+'</span><span class="quiz-score">'+quizEsc(QUIZ_UI.score)+': '+quizScore+'</span><button type="button" class="quiz-exit" id="quizExit" aria-label="'+quizEsc(QUIZ_UI.close)+'">×</button></div>';
+}
+function renderQuizTask(){
+  clearQuizMap();closePopup();
+  quizTask=quizTasks[quizIndex];quizLocked=false;quizSequencePos=0;
+  s=1;tx=0;ty=0;ap();
+  svg.classList.add('quiz-mode');
+  if(quizTask.type==='find_region'){
+    svg.classList.add('quiz-region-task');
+    gR.querySelectorAll('.region').forEach(function(r){r.setAttribute('tabindex','0')});
+  }else{
+    showQuizPois(quizVisibleFor(quizTask),quizTask.type==='odd_one_out'||quizTask.type==='sequence');
+  }
+  const seq=quizTask.type==='sequence'?quizEsc(QUIZ_UI.sequence)+' 1 / '+quizTask.orderedPoiIds.length:'';
+  quizPanel.innerHTML=quizHeader()+'<div class="quiz-question">'+quizEsc(quizTask.question)+'</div><div class="quiz-sub" id="quizSub">'+seq+'</div><div class="quiz-feedback" id="quizFeedback"></div><div class="quiz-actions"><button type="button" class="quiz-btn" id="quizNext" style="display:none">'+quizEsc(QUIZ_UI.next)+'</button></div>';
+  document.getElementById('quizExit').onclick=exitQuiz;
+  document.getElementById('quizNext').onclick=nextQuizTask;
+}
+function finishQuizAnswer(ok,clickedEl){
+  quizLocked=true;
+  const correctId=quizTask.type==='find_region'?quizTask.targetRegionId:(quizTask.type==='sequence'?quizTask.orderedPoiIds[Math.min(quizSequencePos,quizTask.orderedPoiIds.length-1)]:quizTask.targetPoiId);
+  const correctEl=quizTask.type==='find_region'?quizRegion(correctId):quizPoi(correctId);
+  if(correctEl)correctEl.classList.add('quiz-correct');
+  if(!ok&&clickedEl)clickedEl.classList.add('quiz-wrong');
+  if(ok)quizScore++;
+  const fb=document.getElementById('quizFeedback');
+  fb.className='quiz-feedback show '+(ok?'ok':'bad');
+  fb.textContent=ok?QUIZ_UI.correct:(QUIZ_UI.wrong+' '+QUIZ_UI.answer+': '+quizAnswerName(quizTask));
+  document.querySelector('.quiz-score').textContent=QUIZ_UI.score+': '+quizScore;
+  document.getElementById('quizNext').style.display='block';
+}
+function handleQuizPoi(el){
+  if(!quizActive||quizLocked||!el.classList.contains('quiz-visible'))return;
+  const id=el.getAttribute('data-id');
+  if(quizTask.type==='find_poi'||quizTask.type==='odd_one_out'){
+    finishQuizAnswer(id===quizTask.targetPoiId,el);return;
+  }
+  if(quizTask.type==='sequence'){
+    const expected=quizTask.orderedPoiIds[quizSequencePos];
+    if(id!==expected){finishQuizAnswer(false,el);return}
+    el.classList.add('quiz-correct');quizSequencePos++;
+    if(quizSequencePos>=quizTask.orderedPoiIds.length){finishQuizAnswer(true,el);return}
+    document.getElementById('quizSub').textContent=QUIZ_UI.sequence+' '+(quizSequencePos+1)+' / '+quizTask.orderedPoiIds.length;
+  }
+}
+function handleQuizRegion(el){
+  if(!quizActive||quizLocked||quizTask.type!=='find_region')return;
+  finishQuizAnswer(el.getAttribute('data-id')===quizTask.targetRegionId,el);
+}
+function nextQuizTask(){
+  quizIndex++;
+  if(quizIndex>=quizTasks.length){showQuizComplete();return}
+  renderQuizTask();
+}
+function showQuizComplete(){
+  clearQuizMap();svg.classList.remove('quiz-mode','quiz-region-task');
+  quizPanel.innerHTML='<div class="quiz-top"><span class="quiz-progress">'+quizEsc(QUIZ_UI.complete)+'</span><button type="button" class="quiz-exit" id="quizExit" aria-label="'+quizEsc(QUIZ_UI.close)+'">×</button></div><div class="quiz-complete"><strong>'+quizScore+' / '+quizTasks.length+'</strong><span>'+quizEsc(QUIZ_UI.score)+'</span></div><div class="quiz-actions"><button type="button" class="quiz-btn" id="quizRestart">'+quizEsc(QUIZ_UI.restart)+'</button><button type="button" class="quiz-btn secondary" id="quizDone">'+quizEsc(QUIZ_UI.close)+'</button></div>';
+  document.getElementById('quizExit').onclick=exitQuiz;
+  document.getElementById('quizDone').onclick=exitQuiz;
+  document.getElementById('quizRestart').onclick=startQuiz;
+}
+function showQuizIntro(){
+  if(!quizPanel)return;
+  quizPanel.classList.add('open');
+  quizPanel.innerHTML='<div class="quiz-top"><span class="quiz-progress">'+quizEsc(QUIZ_UI.launch)+'</span><button type="button" class="quiz-exit" id="quizExit" aria-label="'+quizEsc(QUIZ_UI.close)+'">×</button></div><div class="quiz-question">'+quizEsc(QUIZ_UI.intro)+'</div><div class="quiz-actions"><button type="button" class="quiz-btn" id="quizStart">'+quizEsc(QUIZ_UI.start)+'</button></div>';
+  document.getElementById('quizExit').onclick=exitQuiz;
+  document.getElementById('quizStart').onclick=startQuiz;
+}
+function startQuiz(){
+  if(!QUIZ_POOL.length)return;
+  quizTasks=quizShuffle(QUIZ_POOL).slice(0,10);quizIndex=0;quizScore=0;quizActive=true;
+  document.body.classList.add('quiz-active');quizPanel.classList.add('open');
+  renderQuizTask();
+}
+function exitQuiz(){
+  quizActive=false;quizLocked=false;quizTask=null;
+  clearQuizMap();svg.classList.remove('quiz-mode','quiz-region-task');
+  document.body.classList.remove('quiz-active');
+  if(quizPanel){quizPanel.classList.remove('open');quizPanel.innerHTML=''}
+  applyGrpFilter();
+}
+if(quizLaunch)quizLaunch.addEventListener('click',showQuizIntro);
+svg.addEventListener('keydown',function(e){
+  if(!quizActive||(e.key!=='Enter'&&e.key!==' '))return;
+  const poi=e.target.closest&&e.target.closest('.poi');const region=e.target.closest&&e.target.closest('.region');
+  if(poi){e.preventDefault();handleQuizPoi(poi)}else if(region){e.preventDefault();handleQuizRegion(region)}
+});
 </script>
 </body>
 </html>`;
