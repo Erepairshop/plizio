@@ -1,0 +1,1226 @@
+{
+  "ng": [
+    {
+      "id": "ng-find-abuja",
+      "type": "find_poi",
+      "targetPoiId": "ng-abuja-cities-v2",
+      "question": {
+        "de": "Finde Abuja, die Hauptstadt Nigerias.",
+        "hu": "Keresd meg Abuját, Nigéria fővárosát.",
+        "ro": "Găsește Abuja, capitala Nigeriei.",
+        "en": "Find Abuja, the capital of Nigeria."
+      }
+    },
+    {
+      "id": "ng-find-lagos",
+      "type": "find_poi",
+      "targetPoiId": "ng-lagos-city-cities-v2",
+      "question": {
+        "de": "Finde Lagos an der Küste des Golfs von Guinea.",
+        "hu": "Keresd meg Lagost a Guineai-öböl partján.",
+        "ro": "Găsește Lagos pe coasta Golfului Guineei.",
+        "en": "Find Lagos on the coast of the Gulf of Guinea."
+      }
+    },
+    {
+      "id": "ng-find-kano",
+      "type": "find_poi",
+      "targetPoiId": "ng-kano-city-cities-v2",
+      "question": {
+        "de": "Finde Kano im Norden Nigerias.",
+        "hu": "Keresd meg Kanót Nigéria északi részén.",
+        "ro": "Găsește Kano în nordul Nigeriei.",
+        "en": "Find Kano in northern Nigeria."
+      }
+    },
+    {
+      "id": "ng-find-niger-delta",
+      "type": "find_poi",
+      "targetPoiId": "niger-delta-nature-v2",
+      "question": {
+        "de": "Finde das Nigerdelta im Süden des Landes.",
+        "hu": "Keresd meg a Niger deltáját az ország déli részén.",
+        "ro": "Găsește Delta Nigerului în sudul țării.",
+        "en": "Find the Niger Delta in the south of the country."
+      }
+    },
+    {
+      "id": "ng-region-lagos",
+      "type": "find_region",
+      "targetRegionId": "NGA-2850",
+      "question": {
+        "de": "Klicke auf den kleinen Bundesstaat Lagos an der Südwestküste.",
+        "hu": "Kattints a délnyugati parton fekvő kis Lagos államra.",
+        "ro": "Apasă pe micul stat Lagos de pe coasta sud-vestică.",
+        "en": "Click the small Lagos State on the southwestern coast."
+      }
+    },
+    {
+      "id": "ng-region-borno",
+      "type": "find_region",
+      "targetRegionId": "NGA-2839",
+      "question": {
+        "de": "Finde den Bundesstaat Borno im Nordosten.",
+        "hu": "Keresd meg Borno államot északkeleten.",
+        "ro": "Găsește statul Borno în nord-est.",
+        "en": "Find Borno State in the northeast."
+      }
+    },
+    {
+      "id": "ng-region-kebbi",
+      "type": "find_region",
+      "targetRegionId": "NGA-2879",
+      "question": {
+        "de": "Klicke auf Kebbi im Nordwesten Nigerias.",
+        "hu": "Kattints Kebbire Nigéria északnyugati részén.",
+        "ro": "Apasă pe Kebbi în nord-vestul Nigeriei.",
+        "en": "Click Kebbi in northwestern Nigeria."
+      }
+    },
+    {
+      "id": "ng-odd-northern-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "ng-lagos-city-cities-v2",
+        "ng-port-harcourt-cities-v2",
+        "ng-calabar-cities-v2",
+        "ng-kano-city-cities-v2"
+      ],
+      "targetPoiId": "ng-kano-city-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt weit im Norden statt nahe der Südküste?",
+        "hu": "Melyik város fekszik messze északon, nem pedig a déli partvidék közelében?",
+        "ro": "Care oraș se află departe în nord, nu lângă coasta sudică?",
+        "en": "Which city lies far north rather than near the southern coast?"
+      }
+    },
+    {
+      "id": "ng-order-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "ng-lagos-city-cities-v2",
+        "ng-abuja-cities-v2",
+        "ng-maiduguri-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "ng-lagos-city-cities-v2",
+        "ng-abuja-cities-v2",
+        "ng-maiduguri-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Lagos, Abuja und Maiduguri von Westen nach Osten an.",
+        "hu": "Kattints Lagosra, Abujára és Maidugurira nyugatról kelet felé.",
+        "ro": "Apasă Lagos, Abuja și Maiduguri de la vest la est.",
+        "en": "Click Lagos, Abuja and Maiduguri from west to east."
+      }
+    },
+    {
+      "id": "ng-order-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "ng-kano-city-cities-v2",
+        "ng-abuja-cities-v2",
+        "ng-port-harcourt-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "ng-kano-city-cities-v2",
+        "ng-abuja-cities-v2",
+        "ng-port-harcourt-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Kano, Abuja und Port Harcourt von Norden nach Süden an.",
+        "hu": "Kattints Kanóra, Abujára és Port Harcourtra északról dél felé.",
+        "ro": "Apasă Kano, Abuja și Port Harcourt de la nord la sud.",
+        "en": "Click Kano, Abuja and Port Harcourt from north to south."
+      }
+    }
+  ],
+  "cm": [
+    {
+      "id": "cm-find-yaounde",
+      "type": "find_poi",
+      "targetPoiId": "cameroon-yaounde-cities-v2",
+      "question": {
+        "de": "Finde Yaoundé, die Hauptstadt Kameruns.",
+        "hu": "Keresd meg Yaoundét, Kamerun fővárosát.",
+        "ro": "Găsește Yaoundé, capitala Camerunului.",
+        "en": "Find Yaoundé, the capital of Cameroon."
+      }
+    },
+    {
+      "id": "cm-find-douala",
+      "type": "find_poi",
+      "targetPoiId": "cameroon-douala-cities-v2",
+      "question": {
+        "de": "Finde die Hafenstadt Douala nahe der Küste.",
+        "hu": "Keresd meg Douala kikötővárosát a part közelében.",
+        "ro": "Găsește orașul-port Douala, aproape de coastă.",
+        "en": "Find the port city of Douala near the coast."
+      }
+    },
+    {
+      "id": "cm-find-maroua",
+      "type": "find_poi",
+      "targetPoiId": "cameroon-maroua-cities-v2",
+      "question": {
+        "de": "Finde Maroua im äußersten Norden Kameruns.",
+        "hu": "Keresd meg Marouát Kamerun legészakibb részén.",
+        "ro": "Găsește Maroua în extremitatea nordică a Camerunului.",
+        "en": "Find Maroua in the far north of Cameroon."
+      }
+    },
+    {
+      "id": "cm-find-mount-cameroon",
+      "type": "find_poi",
+      "targetPoiId": "mount-cameroon-nature-v2",
+      "question": {
+        "de": "Finde den Kamerunberg nahe der Atlantikküste.",
+        "hu": "Keresd meg a Kamerun-hegyet az Atlanti-óceán partvidékén.",
+        "ro": "Găsește Muntele Camerun lângă coasta Atlanticului.",
+        "en": "Find Mount Cameroon near the Atlantic coast."
+      }
+    },
+    {
+      "id": "cm-region-centre",
+      "type": "find_region",
+      "targetRegionId": "CMR-1480",
+      "question": {
+        "de": "Klicke auf die Region Centre, in der Yaoundé liegt.",
+        "hu": "Kattints a Centre régióra, ahol Yaoundé fekszik.",
+        "ro": "Apasă pe regiunea Centre, unde se află Yaoundé.",
+        "en": "Click the Centre Region, where Yaoundé is located."
+      }
+    },
+    {
+      "id": "cm-region-extreme-north",
+      "type": "find_region",
+      "targetRegionId": "CMR-1462",
+      "question": {
+        "de": "Finde Extrême-Nord an der nördlichen Spitze Kameruns.",
+        "hu": "Keresd meg az Extrême-Nord régiót Kamerun északi csúcsán.",
+        "ro": "Găsește regiunea Extrême-Nord la extremitatea nordică a Camerunului.",
+        "en": "Find the Extrême-Nord Region at Cameroon's northern tip."
+      }
+    },
+    {
+      "id": "cm-region-littoral",
+      "type": "find_region",
+      "targetRegionId": "CMR-1476",
+      "question": {
+        "de": "Klicke auf die Küstenregion Littoral.",
+        "hu": "Kattints a part menti Littoral régióra.",
+        "ro": "Apasă pe regiunea de coastă Littoral.",
+        "en": "Click the coastal Littoral Region."
+      }
+    },
+    {
+      "id": "cm-odd-far-north",
+      "type": "odd_one_out",
+      "poiIds": [
+        "cameroon-yaounde-cities-v2",
+        "cameroon-douala-cities-v2",
+        "cameroon-kribi-cities-v2",
+        "cameroon-maroua-cities-v2"
+      ],
+      "targetPoiId": "cameroon-maroua-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt im äußersten Norden statt im Süden Kameruns?",
+        "hu": "Melyik város fekszik a távoli északon, nem pedig Kamerun déli részén?",
+        "ro": "Care oraș se află în extremitatea nordică, nu în sudul Camerunului?",
+        "en": "Which city lies in the far north rather than southern Cameroon?"
+      }
+    },
+    {
+      "id": "cm-order-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "cameroon-douala-cities-v2",
+        "cameroon-yaounde-cities-v2",
+        "cameroon-bertoua-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "cameroon-douala-cities-v2",
+        "cameroon-yaounde-cities-v2",
+        "cameroon-bertoua-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Douala, Yaoundé und Bertoua von Westen nach Osten an.",
+        "hu": "Kattints Doualára, Yaoundéra és Bertouára nyugatról kelet felé.",
+        "ro": "Apasă Douala, Yaoundé și Bertoua de la vest la est.",
+        "en": "Click Douala, Yaoundé and Bertoua from west to east."
+      }
+    },
+    {
+      "id": "cm-order-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "cameroon-maroua-cities-v2",
+        "cameroon-ngaoundere-cities-v2",
+        "cameroon-yaounde-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "cameroon-maroua-cities-v2",
+        "cameroon-ngaoundere-cities-v2",
+        "cameroon-yaounde-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Maroua, Ngaoundéré und Yaoundé von Norden nach Süden an.",
+        "hu": "Kattints Marouára, Ngaoundérére és Yaoundéra északról dél felé.",
+        "ro": "Apasă Maroua, Ngaoundéré și Yaoundé de la nord la sud.",
+        "en": "Click Maroua, Ngaoundéré and Yaoundé from north to south."
+      }
+    }
+  ],
+  "td": [
+    {
+      "id": "td-find-ndjamena",
+      "type": "find_poi",
+      "targetPoiId": "ndjamena-cities-v2",
+      "question": {
+        "de": "Finde N'Djamena, die Hauptstadt des Tschad.",
+        "hu": "Keresd meg N'Djamenát, Csád fővárosát.",
+        "ro": "Găsește N'Djamena, capitala Ciadului.",
+        "en": "Find N'Djamena, the capital of Chad."
+      }
+    },
+    {
+      "id": "td-find-abeche",
+      "type": "find_poi",
+      "targetPoiId": "abeche-cities-v2",
+      "question": {
+        "de": "Finde Abéché im Osten des Tschad.",
+        "hu": "Keresd meg Abéchét Csád keleti részén.",
+        "ro": "Găsește Abéché în estul Ciadului.",
+        "en": "Find Abéché in eastern Chad."
+      }
+    },
+    {
+      "id": "td-find-faya",
+      "type": "find_poi",
+      "targetPoiId": "faya-largeau-cities-v2",
+      "question": {
+        "de": "Finde Faya-Largeau in der nördlichen Sahara.",
+        "hu": "Keresd meg Faya-Largeau-t az északi Szaharában.",
+        "ro": "Găsește Faya-Largeau în Sahara nordică.",
+        "en": "Find Faya-Largeau in the northern Sahara."
+      }
+    },
+    {
+      "id": "td-find-zakouma",
+      "type": "find_poi",
+      "targetPoiId": "zakouma-elephants-life-v2",
+      "question": {
+        "de": "Finde das Zakouma-Elefantenreservat im Südosten.",
+        "hu": "Keresd meg a Zakouma elefántrezervátumot délkeleten.",
+        "ro": "Găsește rezervația de elefanți Zakouma în sud-est.",
+        "en": "Find the Zakouma elephant reserve in the southeast."
+      }
+    },
+    {
+      "id": "td-region-lac",
+      "type": "find_region",
+      "targetRegionId": "TCD-1466",
+      "question": {
+        "de": "Klicke auf die Region Lac am Tschadsee.",
+        "hu": "Kattints a Csád-tó melletti Lac régióra.",
+        "ro": "Apasă pe regiunea Lac de lângă Lacul Ciad.",
+        "en": "Click the Lac Region beside Lake Chad."
+      }
+    },
+    {
+      "id": "td-region-salamat",
+      "type": "find_region",
+      "targetRegionId": "TCD-1489",
+      "question": {
+        "de": "Finde die Region Salamat im Südosten.",
+        "hu": "Keresd meg Salamat régiót délkeleten.",
+        "ro": "Găsește regiunea Salamat în sud-est.",
+        "en": "Find the Salamat Region in the southeast."
+      }
+    },
+    {
+      "id": "td-region-tibesti",
+      "type": "find_region",
+      "targetRegionId": "TCD-5578",
+      "question": {
+        "de": "Klicke auf die nördliche Region Tibesti.",
+        "hu": "Kattints az északi Tibeszti régióra.",
+        "ro": "Apasă pe regiunea nordică Tibesti.",
+        "en": "Click the northern Tibesti Region."
+      }
+    },
+    {
+      "id": "td-odd-northern-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "moundou-cities-v2",
+        "sarh-cities-v2",
+        "doba-cities-v2",
+        "faya-largeau-cities-v2"
+      ],
+      "targetPoiId": "faya-largeau-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt im Saharanorden statt im grüneren Süden?",
+        "hu": "Melyik város fekszik a szaharai északon, nem pedig a zöldebb délen?",
+        "ro": "Care oraș se află în nordul saharian, nu în sudul mai verde?",
+        "en": "Which city lies in the Saharan north rather than the greener south?"
+      }
+    },
+    {
+      "id": "td-order-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "ndjamena-cities-v2",
+        "mongo-cities-v2",
+        "abeche-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "ndjamena-cities-v2",
+        "mongo-cities-v2",
+        "abeche-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke N'Djamena, Mongo und Abéché von Westen nach Osten an.",
+        "hu": "Kattints N'Djamenára, Mongóra és Abéchéré nyugatról kelet felé.",
+        "ro": "Apasă N'Djamena, Mongo și Abéché de la vest la est.",
+        "en": "Click N'Djamena, Mongo and Abéché from west to east."
+      }
+    },
+    {
+      "id": "td-order-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "faya-largeau-cities-v2",
+        "ndjamena-cities-v2",
+        "sarh-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "faya-largeau-cities-v2",
+        "ndjamena-cities-v2",
+        "sarh-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Faya-Largeau, N'Djamena und Sarh von Norden nach Süden an.",
+        "hu": "Kattints Faya-Largeau-ra, N'Djamenára és Sarhra északról dél felé.",
+        "ro": "Apasă Faya-Largeau, N'Djamena și Sarh de la nord la sud.",
+        "en": "Click Faya-Largeau, N'Djamena and Sarh from north to south."
+      }
+    }
+  ],
+  "cf": [
+    {
+      "id": "cf-find-bangui",
+      "type": "find_poi",
+      "targetPoiId": "bangui-cities-v2",
+      "question": {
+        "de": "Finde Bangui, die Hauptstadt der Zentralafrikanischen Republik.",
+        "hu": "Keresd meg Banguit, a Közép-afrikai Köztársaság fővárosát.",
+        "ro": "Găsește Bangui, capitala Republicii Centrafricane.",
+        "en": "Find Bangui, the capital of the Central African Republic."
+      }
+    },
+    {
+      "id": "cf-find-berberati",
+      "type": "find_poi",
+      "targetPoiId": "berberati-cities-v2",
+      "question": {
+        "de": "Finde Berbérati im Südwesten des Landes.",
+        "hu": "Keresd meg Berbératit az ország délnyugati részén.",
+        "ro": "Găsește Berbérati în sud-vestul țării.",
+        "en": "Find Berbérati in the southwest of the country."
+      }
+    },
+    {
+      "id": "cf-find-birao",
+      "type": "find_poi",
+      "targetPoiId": "birao-cities-v2",
+      "question": {
+        "de": "Finde Birao im fernen Nordosten.",
+        "hu": "Keresd meg Biraót a távoli északkeleten.",
+        "ro": "Găsește Birao în extremitatea nord-estică.",
+        "en": "Find Birao in the far northeast."
+      }
+    },
+    {
+      "id": "cf-find-zemongo",
+      "type": "find_poi",
+      "targetPoiId": "zemongo-wildlife-life-v2",
+      "question": {
+        "de": "Finde das Zemongo-Wildreservat im Osten.",
+        "hu": "Keresd meg a Zemongo vadrezervátumot keleten.",
+        "ro": "Găsește rezervația faunistică Zemongo în est.",
+        "en": "Find the Zemongo wildlife reserve in the east."
+      }
+    },
+    {
+      "id": "cf-region-bangui",
+      "type": "find_region",
+      "targetRegionId": "CAF-1460",
+      "question": {
+        "de": "Klicke auf die kleine Hauptstadtregion Bangui.",
+        "hu": "Kattints a kis Bangui fővárosi régióra.",
+        "ro": "Apasă pe mica regiune a capitalei Bangui.",
+        "en": "Click the small capital region of Bangui."
+      }
+    },
+    {
+      "id": "cf-region-vakaga",
+      "type": "find_region",
+      "targetRegionId": "CAF-812",
+      "question": {
+        "de": "Finde Vakaga im Nordosten.",
+        "hu": "Keresd meg Vakaga régiót északkeleten.",
+        "ro": "Găsește regiunea Vakaga în nord-est.",
+        "en": "Find the Vakaga region in the northeast."
+      }
+    },
+    {
+      "id": "cf-region-lobaye",
+      "type": "find_region",
+      "targetRegionId": "CAF-795",
+      "question": {
+        "de": "Klicke auf Lobaye im Südwesten.",
+        "hu": "Kattints Lobaye régióra délnyugaton.",
+        "ro": "Apasă pe regiunea Lobaye din sud-vest.",
+        "en": "Click the Lobaye region in the southwest."
+      }
+    },
+    {
+      "id": "cf-odd-far-east",
+      "type": "odd_one_out",
+      "poiIds": [
+        "bangui-cities-v2",
+        "berberati-cities-v2",
+        "carnot-cities-v2",
+        "obo-cities-v2"
+      ],
+      "targetPoiId": "obo-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt weit im Osten statt in der westlichen Landeshälfte?",
+        "hu": "Melyik város fekszik messze keleten, nem pedig az ország nyugati felében?",
+        "ro": "Care oraș se află departe în est, nu în jumătatea vestică a țării?",
+        "en": "Which city lies far east rather than in the western half of the country?"
+      }
+    },
+    {
+      "id": "cf-order-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "berberati-cities-v2",
+        "bangui-cities-v2",
+        "obo-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "berberati-cities-v2",
+        "bangui-cities-v2",
+        "obo-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Berbérati, Bangui und Obo von Westen nach Osten an.",
+        "hu": "Kattints Berbératira, Banguira és Obóra nyugatról kelet felé.",
+        "ro": "Apasă Berbérati, Bangui și Obo de la vest la est.",
+        "en": "Click Berbérati, Bangui and Obo from west to east."
+      }
+    },
+    {
+      "id": "cf-order-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "birao-cities-v2",
+        "bambari-cities-v2",
+        "bangui-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "birao-cities-v2",
+        "bambari-cities-v2",
+        "bangui-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Birao, Bambari und Bangui von Norden nach Süden an.",
+        "hu": "Kattints Biraóra, Bambarira és Banguira északról dél felé.",
+        "ro": "Apasă Birao, Bambari și Bangui de la nord la sud.",
+        "en": "Click Birao, Bambari and Bangui from north to south."
+      }
+    }
+  ],
+  "gq": [
+    {
+      "id": "gq-find-malabo",
+      "type": "find_poi",
+      "targetPoiId": "malabo-cities-v2",
+      "question": {
+        "de": "Finde Malabo auf der Insel Bioko.",
+        "hu": "Keresd meg Malabót Bioko szigetén.",
+        "ro": "Găsește Malabo pe insula Bioko.",
+        "en": "Find Malabo on Bioko Island."
+      }
+    },
+    {
+      "id": "gq-find-bata",
+      "type": "find_poi",
+      "targetPoiId": "bata-cities-v2",
+      "question": {
+        "de": "Finde Bata an der Küste des Festlandteils.",
+        "hu": "Keresd meg Batát a szárazföldi országrész partján.",
+        "ro": "Găsește Bata pe coasta părții continentale.",
+        "en": "Find Bata on the coast of the mainland region."
+      }
+    },
+    {
+      "id": "gq-find-mongomo",
+      "type": "find_poi",
+      "targetPoiId": "mongomo-cities-v2",
+      "question": {
+        "de": "Finde Mongomo nahe der östlichen Grenze.",
+        "hu": "Keresd meg Mongomót a keleti határ közelében.",
+        "ro": "Găsește Mongomo lângă granița estică.",
+        "en": "Find Mongomo near the eastern border."
+      }
+    },
+    {
+      "id": "gq-find-bioko",
+      "type": "find_poi",
+      "targetPoiId": "bioko-island-nature-v2",
+      "question": {
+        "de": "Finde die Insel Bioko im Golf von Guinea.",
+        "hu": "Keresd meg Bioko szigetét a Guineai-öbölben.",
+        "ro": "Găsește insula Bioko în Golful Guineei.",
+        "en": "Find Bioko Island in the Gulf of Guinea."
+      }
+    },
+    {
+      "id": "gq-region-litoral",
+      "type": "find_region",
+      "targetRegionId": "GNQ-1470",
+      "question": {
+        "de": "Klicke auf die Festlandprovinz Litoral.",
+        "hu": "Kattints a szárazföldi Litoral tartományra.",
+        "ro": "Apasă pe provincia continentală Litoral.",
+        "en": "Click the mainland province of Litoral."
+      }
+    },
+    {
+      "id": "gq-region-bioko-norte",
+      "type": "find_region",
+      "targetRegionId": "GNQ-1478",
+      "question": {
+        "de": "Finde Bioko Norte im Norden der Insel Bioko.",
+        "hu": "Keresd meg Bioko Norte tartományt Bioko szigetének északi részén.",
+        "ro": "Găsește provincia Bioko Norte în nordul insulei Bioko.",
+        "en": "Find Bioko Norte in the north of Bioko Island."
+      }
+    },
+    {
+      "id": "gq-region-annobon",
+      "type": "find_region",
+      "targetRegionId": "GNQ-1467",
+      "question": {
+        "de": "Klicke auf die Inselprovinz Annobón.",
+        "hu": "Kattints Annobón szigettartományra.",
+        "ro": "Apasă pe provincia insulară Annobón.",
+        "en": "Click the island province of Annobón."
+      }
+    },
+    {
+      "id": "gq-odd-mainland",
+      "type": "odd_one_out",
+      "poiIds": [
+        "malabo-cities-v2",
+        "luba-cities-v2",
+        "riaba-cities-v2",
+        "bata-cities-v2"
+      ],
+      "targetPoiId": "bata-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt auf dem afrikanischen Festland statt auf Bioko?",
+        "hu": "Melyik város fekszik az afrikai szárazföldön, nem pedig Bioko szigetén?",
+        "ro": "Care oraș se află pe continentul african, nu pe insula Bioko?",
+        "en": "Which city lies on the African mainland rather than Bioko Island?"
+      }
+    },
+    {
+      "id": "gq-order-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "bata-cities-v2",
+        "evinayong-cities-v2",
+        "mongomo-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "bata-cities-v2",
+        "evinayong-cities-v2",
+        "mongomo-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Bata, Evinayong und Mongomo von Westen nach Osten an.",
+        "hu": "Kattints Batára, Evinayongra és Mongomóra nyugatról kelet felé.",
+        "ro": "Apasă Bata, Evinayong și Mongomo de la vest la est.",
+        "en": "Click Bata, Evinayong and Mongomo from west to east."
+      }
+    },
+    {
+      "id": "gq-order-bioko-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "malabo-cities-v2",
+        "luba-cities-v2",
+        "moca-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "malabo-cities-v2",
+        "luba-cities-v2",
+        "moca-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Malabo, Luba und Moka auf Bioko von Norden nach Süden an.",
+        "hu": "Kattints Malabóra, Lubára és Mokára Bioko szigetén északról dél felé.",
+        "ro": "Apasă Malabo, Luba și Moka pe Bioko de la nord la sud.",
+        "en": "Click Malabo, Luba and Moka on Bioko from north to south."
+      }
+    }
+  ],
+  "ga": [
+    {
+      "id": "ga-find-libreville",
+      "type": "find_poi",
+      "targetPoiId": "libreville-cities-v2",
+      "question": {
+        "de": "Finde Libreville, die Hauptstadt Gabuns.",
+        "hu": "Keresd meg Libreville-t, Gabon fővárosát.",
+        "ro": "Găsește Libreville, capitala Gabonului.",
+        "en": "Find Libreville, the capital of Gabon."
+      }
+    },
+    {
+      "id": "ga-find-port-gentil",
+      "type": "find_poi",
+      "targetPoiId": "port-gentil-cities-v2",
+      "question": {
+        "de": "Finde die Hafenstadt Port-Gentil an der Atlantikküste.",
+        "hu": "Keresd meg Port-Gentil kikötővárosát az Atlanti-óceán partján.",
+        "ro": "Găsește orașul-port Port-Gentil pe coasta Atlanticului.",
+        "en": "Find the port city of Port-Gentil on the Atlantic coast."
+      }
+    },
+    {
+      "id": "ga-find-franceville",
+      "type": "find_poi",
+      "targetPoiId": "franceville-cities-v2",
+      "question": {
+        "de": "Finde Franceville im Südosten Gabuns.",
+        "hu": "Keresd meg Franceville-t Gabon délkeleti részén.",
+        "ro": "Găsește Franceville în sud-estul Gabonului.",
+        "en": "Find Franceville in southeastern Gabon."
+      }
+    },
+    {
+      "id": "ga-find-langoue-bai",
+      "type": "find_poi",
+      "targetPoiId": "langoue-bai-life-v2",
+      "question": {
+        "de": "Finde Langoué Baï im bewaldeten Landesinneren.",
+        "hu": "Keresd meg Langoué Baït az erdős országközépben.",
+        "ro": "Găsește Langoué Baï în interiorul împădurit al țării.",
+        "en": "Find Langoué Baï in the forested interior."
+      }
+    },
+    {
+      "id": "ga-region-estuaire",
+      "type": "find_region",
+      "targetRegionId": "GAB-2168",
+      "question": {
+        "de": "Klicke auf Estuaire, die Provinz von Libreville.",
+        "hu": "Kattints Estuaire tartományra, ahol Libreville fekszik.",
+        "ro": "Apasă pe provincia Estuaire, unde se află Libreville.",
+        "en": "Click Estuaire, the province containing Libreville."
+      }
+    },
+    {
+      "id": "ga-region-nyanga",
+      "type": "find_region",
+      "targetRegionId": "GAB-2623",
+      "question": {
+        "de": "Finde die Provinz Nyanga im Südwesten.",
+        "hu": "Keresd meg Nyanga tartományt délnyugaton.",
+        "ro": "Găsește provincia Nyanga în sud-vest.",
+        "en": "Find Nyanga Province in the southwest."
+      }
+    },
+    {
+      "id": "ga-region-haut-ogooue",
+      "type": "find_region",
+      "targetRegionId": "GAB-2627",
+      "question": {
+        "de": "Klicke auf Haut-Ogooué im Südosten.",
+        "hu": "Kattints Haut-Ogooué tartományra délkeleten.",
+        "ro": "Apasă pe provincia Haut-Ogooué din sud-est.",
+        "en": "Click Haut-Ogooué Province in the southeast."
+      }
+    },
+    {
+      "id": "ga-odd-inland-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "libreville-cities-v2",
+        "port-gentil-cities-v2",
+        "mayumba-cities-v2",
+        "franceville-cities-v2"
+      ],
+      "targetPoiId": "franceville-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt tief im Landesinneren statt nahe der Atlantikküste?",
+        "hu": "Melyik város fekszik mélyen az ország belsejében, nem pedig az Atlanti-óceán partja közelében?",
+        "ro": "Care oraș se află adânc în interior, nu aproape de coasta Atlanticului?",
+        "en": "Which city lies deep inland rather than near the Atlantic coast?"
+      }
+    },
+    {
+      "id": "ga-order-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "libreville-cities-v2",
+        "lambarene-cities-v2",
+        "franceville-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "libreville-cities-v2",
+        "lambarene-cities-v2",
+        "franceville-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Libreville, Lambaréné und Franceville von Westen nach Osten an.",
+        "hu": "Kattints Libreville-re, Lambarénére és Franceville-re nyugatról kelet felé.",
+        "ro": "Apasă Libreville, Lambaréné și Franceville de la vest la est.",
+        "en": "Click Libreville, Lambaréné and Franceville from west to east."
+      }
+    },
+    {
+      "id": "ga-order-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "oyem-cities-v2",
+        "libreville-cities-v2",
+        "tchibanga-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "oyem-cities-v2",
+        "libreville-cities-v2",
+        "tchibanga-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Oyem, Libreville und Tchibanga von Norden nach Süden an.",
+        "hu": "Kattints Oyemre, Libreville-re és Tchibangára északról dél felé.",
+        "ro": "Apasă Oyem, Libreville și Tchibanga de la nord la sud.",
+        "en": "Click Oyem, Libreville and Tchibanga from north to south."
+      }
+    }
+  ],
+  "cg": [
+    {
+      "id": "cg-find-brazzaville",
+      "type": "find_poi",
+      "targetPoiId": "cg-brazzaville-cities-v2",
+      "question": {
+        "de": "Finde Brazzaville, die Hauptstadt der Republik Kongo.",
+        "hu": "Keresd meg Brazzaville-t, a Kongói Köztársaság fővárosát.",
+        "ro": "Găsește Brazzaville, capitala Republicii Congo.",
+        "en": "Find Brazzaville, the capital of the Republic of the Congo."
+      }
+    },
+    {
+      "id": "cg-find-pointe-noire",
+      "type": "find_poi",
+      "targetPoiId": "cg-pointe-noire-cities-v2",
+      "question": {
+        "de": "Finde Pointe-Noire an der Atlantikküste.",
+        "hu": "Keresd meg Pointe-Noire-t az Atlanti-óceán partján.",
+        "ro": "Găsește Pointe-Noire pe coasta Atlanticului.",
+        "en": "Find Pointe-Noire on the Atlantic coast."
+      }
+    },
+    {
+      "id": "cg-find-ouesso",
+      "type": "find_poi",
+      "targetPoiId": "cg-ouesso-cities-v2",
+      "question": {
+        "de": "Finde Ouésso im Norden des Landes.",
+        "hu": "Keresd meg Ouéssót az ország északi részén.",
+        "ro": "Găsește Ouésso în nordul țării.",
+        "en": "Find Ouésso in the north of the country."
+      }
+    },
+    {
+      "id": "cg-find-tele-lake",
+      "type": "find_poi",
+      "targetPoiId": "cg-tele-lake-nature-v2",
+      "question": {
+        "de": "Finde den Télé-See im nördlichen Tiefland.",
+        "hu": "Keresd meg a Télé-tavat az északi alföldön.",
+        "ro": "Găsește Lacul Télé în câmpia nordică.",
+        "en": "Find Lake Télé in the northern lowlands."
+      }
+    },
+    {
+      "id": "cg-region-brazzaville",
+      "type": "find_region",
+      "targetRegionId": "COG-4855",
+      "question": {
+        "de": "Klicke auf die Hauptstadtregion Brazzaville.",
+        "hu": "Kattints Brazzaville fővárosi régiójára.",
+        "ro": "Apasă pe regiunea capitalei Brazzaville.",
+        "en": "Click the capital region of Brazzaville."
+      }
+    },
+    {
+      "id": "cg-region-likouala",
+      "type": "find_region",
+      "targetRegionId": "COG-2838",
+      "question": {
+        "de": "Finde Likouala im äußersten Norden.",
+        "hu": "Keresd meg Likouala régiót a legészakibb országrészben.",
+        "ro": "Găsește regiunea Likouala în extremitatea nordică.",
+        "en": "Find Likouala in the far north."
+      }
+    },
+    {
+      "id": "cg-region-kouilou",
+      "type": "find_region",
+      "targetRegionId": "COG-3343",
+      "question": {
+        "de": "Klicke auf die Küstenregion Kouilou.",
+        "hu": "Kattints a tengerparti Kouilou régióra.",
+        "ro": "Apasă pe regiunea de coastă Kouilou.",
+        "en": "Click the coastal Kouilou region."
+      }
+    },
+    {
+      "id": "cg-odd-far-north",
+      "type": "odd_one_out",
+      "poiIds": [
+        "cg-brazzaville-cities-v2",
+        "cg-pointe-noire-cities-v2",
+        "cg-dolisie-cities-v2",
+        "cg-impfondo-cities-v2"
+      ],
+      "targetPoiId": "cg-impfondo-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt weit im Norden statt im Süden des Landes?",
+        "hu": "Melyik város fekszik messze északon, nem pedig az ország déli részén?",
+        "ro": "Care oraș se află departe în nord, nu în sudul țării?",
+        "en": "Which city lies far north rather than in the south of the country?"
+      }
+    },
+    {
+      "id": "cg-order-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "cg-pointe-noire-cities-v2",
+        "cg-dolisie-cities-v2",
+        "cg-brazzaville-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "cg-pointe-noire-cities-v2",
+        "cg-dolisie-cities-v2",
+        "cg-brazzaville-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Pointe-Noire, Dolisie und Brazzaville von Westen nach Osten an.",
+        "hu": "Kattints Pointe-Noire-ra, Dolisie-re és Brazzaville-re nyugatról kelet felé.",
+        "ro": "Apasă Pointe-Noire, Dolisie și Brazzaville de la vest la est.",
+        "en": "Click Pointe-Noire, Dolisie and Brazzaville from west to east."
+      }
+    },
+    {
+      "id": "cg-order-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "cg-impfondo-cities-v2",
+        "cg-owando-cities-v2",
+        "cg-brazzaville-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "cg-impfondo-cities-v2",
+        "cg-owando-cities-v2",
+        "cg-brazzaville-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Impfondo, Owando und Brazzaville von Norden nach Süden an.",
+        "hu": "Kattints Impfondóra, Owandóra és Brazzaville-re északról dél felé.",
+        "ro": "Apasă Impfondo, Owando și Brazzaville de la nord la sud.",
+        "en": "Click Impfondo, Owando and Brazzaville from north to south."
+      }
+    }
+  ],
+  "cd": [
+    {
+      "id": "cd-find-kinshasa",
+      "type": "find_poi",
+      "targetPoiId": "cd-kinshasa-cities-v2",
+      "question": {
+        "de": "Finde Kinshasa, die Hauptstadt der Demokratischen Republik Kongo.",
+        "hu": "Keresd meg Kinshasát, a Kongói Demokratikus Köztársaság fővárosát.",
+        "ro": "Găsește Kinshasa, capitala Republicii Democrate Congo.",
+        "en": "Find Kinshasa, the capital of the Democratic Republic of the Congo."
+      }
+    },
+    {
+      "id": "cd-find-lubumbashi",
+      "type": "find_poi",
+      "targetPoiId": "cd-lubumbashi-cities-v2",
+      "question": {
+        "de": "Finde Lubumbashi im Südosten des Landes.",
+        "hu": "Keresd meg Lubumbashit az ország délkeleti részén.",
+        "ro": "Găsește Lubumbashi în sud-estul țării.",
+        "en": "Find Lubumbashi in the southeast of the country."
+      }
+    },
+    {
+      "id": "cd-find-kisangani",
+      "type": "find_poi",
+      "targetPoiId": "cd-kisangani-cities-v2",
+      "question": {
+        "de": "Finde Kisangani am Kongofluss im Nordosten.",
+        "hu": "Keresd meg Kisanganit a Kongó folyó mellett, északkeleten.",
+        "ro": "Găsește Kisangani pe fluviul Congo, în nord-est.",
+        "en": "Find Kisangani on the Congo River in the northeast."
+      }
+    },
+    {
+      "id": "cd-find-okapi",
+      "type": "find_poi",
+      "targetPoiId": "okapi-wildlife-nature-v2",
+      "question": {
+        "de": "Finde das Okapi-Wildreservat im Nordosten.",
+        "hu": "Keresd meg az Okapi Vadrezervátumot északkeleten.",
+        "ro": "Găsește Rezervația Faunistică Okapi în nord-est.",
+        "en": "Find the Okapi Wildlife Reserve in the northeast."
+      }
+    },
+    {
+      "id": "cd-region-kinshasa",
+      "type": "find_region",
+      "targetRegionId": "COD-1884",
+      "question": {
+        "de": "Klicke auf die Hauptstadtregion Kinshasa City.",
+        "hu": "Kattints Kinshasa fővárosi régiójára.",
+        "ro": "Apasă pe regiunea capitalei Kinshasa.",
+        "en": "Click the capital region of Kinshasa City."
+      }
+    },
+    {
+      "id": "cd-region-katanga",
+      "type": "find_region",
+      "targetRegionId": "COD-1897",
+      "question": {
+        "de": "Finde Katanga im Südosten.",
+        "hu": "Keresd meg Katanga régiót délkeleten.",
+        "ro": "Găsește regiunea Katanga în sud-est.",
+        "en": "Find Katanga in the southeast."
+      }
+    },
+    {
+      "id": "cd-region-north-kivu",
+      "type": "find_region",
+      "targetRegionId": "COD-1898",
+      "question": {
+        "de": "Klicke auf Nord-Kivu an der östlichen Grenze.",
+        "hu": "Kattints Észak-Kivu régióra a keleti határnál.",
+        "ro": "Apasă pe Nord-Kivu la granița estică.",
+        "en": "Click North Kivu on the eastern border."
+      }
+    },
+    {
+      "id": "cd-odd-western-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "cd-goma-cities-v2",
+        "cd-bukavu-cities-v2",
+        "cd-lubumbashi-cities-v2",
+        "cd-kinshasa-cities-v2"
+      ],
+      "targetPoiId": "cd-kinshasa-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt im äußersten Westen statt in der östlichen Landeshälfte?",
+        "hu": "Melyik város fekszik a távoli nyugaton, nem pedig az ország keleti felében?",
+        "ro": "Care oraș se află în extremitatea vestică, nu în jumătatea estică a țării?",
+        "en": "Which city lies in the far west rather than the eastern half of the country?"
+      }
+    },
+    {
+      "id": "cd-order-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "cd-kinshasa-cities-v2",
+        "cd-kananga-cities-v2",
+        "cd-goma-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "cd-kinshasa-cities-v2",
+        "cd-kananga-cities-v2",
+        "cd-goma-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Kinshasa, Kananga und Goma von Westen nach Osten an.",
+        "hu": "Kattints Kinshasára, Kanangára és Gomára nyugatról kelet felé.",
+        "ro": "Apasă Kinshasa, Kananga și Goma de la vest la est.",
+        "en": "Click Kinshasa, Kananga and Goma from west to east."
+      }
+    },
+    {
+      "id": "cd-order-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "cd-kisangani-cities-v2",
+        "cd-kananga-cities-v2",
+        "cd-lubumbashi-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "cd-kisangani-cities-v2",
+        "cd-kananga-cities-v2",
+        "cd-lubumbashi-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Kisangani, Kananga und Lubumbashi von Norden nach Süden an.",
+        "hu": "Kattints Kisanganira, Kanangára és Lubumbashira északról dél felé.",
+        "ro": "Apasă Kisangani, Kananga și Lubumbashi de la nord la sud.",
+        "en": "Click Kisangani, Kananga and Lubumbashi from north to south."
+      }
+    }
+  ],
+  "st": [
+    {
+      "id": "st-find-sao-tome",
+      "type": "find_poi",
+      "targetPoiId": "sao-tome-cities-v2",
+      "question": {
+        "de": "Finde São Tomé, die Hauptstadt des Inselstaates.",
+        "hu": "Keresd meg São Tomét, a szigetország fővárosát.",
+        "ro": "Găsește São Tomé, capitala statului insular.",
+        "en": "Find São Tomé, the capital of the island nation."
+      }
+    },
+    {
+      "id": "st-find-santo-antonio",
+      "type": "find_poi",
+      "targetPoiId": "santo-antonio-cities-v2",
+      "question": {
+        "de": "Finde Santo António auf der Insel Príncipe.",
+        "hu": "Keresd meg Santo Antóniót Príncipe szigetén.",
+        "ro": "Găsește Santo António pe insula Príncipe.",
+        "en": "Find Santo António on Príncipe Island."
+      }
+    },
+    {
+      "id": "st-find-neves",
+      "type": "find_poi",
+      "targetPoiId": "neves-cities-v2",
+      "question": {
+        "de": "Finde Neves an der Westküste der Insel São Tomé.",
+        "hu": "Keresd meg Nevest São Tomé szigetének nyugati partján.",
+        "ro": "Găsește Neves pe coasta vestică a insulei São Tomé.",
+        "en": "Find Neves on the western coast of São Tomé Island."
+      }
+    },
+    {
+      "id": "st-find-pico-sao-tome",
+      "type": "find_poi",
+      "targetPoiId": "pico-de-sao-tome-nature-v2",
+      "question": {
+        "de": "Finde den Pico de São Tomé im Inselinneren.",
+        "hu": "Keresd meg a Pico de São Tomét a sziget belsejében.",
+        "ro": "Găsește Pico de São Tomé în interiorul insulei.",
+        "en": "Find Pico de São Tomé in the island's interior."
+      }
+    },
+    {
+      "id": "st-find-pico-principe",
+      "type": "find_poi",
+      "targetPoiId": "pico-do-principe-nature-v2",
+      "question": {
+        "de": "Finde den Pico do Príncipe auf der kleineren Hauptinsel.",
+        "hu": "Keresd meg a Pico do Príncipét a kisebb főszigeten.",
+        "ro": "Găsește Pico do Príncipe pe insula principală mai mică.",
+        "en": "Find Pico do Príncipe on the smaller main island."
+      }
+    },
+    {
+      "id": "st-region-sao-tome",
+      "type": "find_region",
+      "targetRegionId": "STP-4861",
+      "question": {
+        "de": "Klicke auf die größere Inselregion São Tomé.",
+        "hu": "Kattints a nagyobb São Tomé szigetrégióra.",
+        "ro": "Apasă pe regiunea insulară mai mare São Tomé.",
+        "en": "Click the larger island region of São Tomé."
+      }
+    },
+    {
+      "id": "st-region-principe",
+      "type": "find_region",
+      "targetRegionId": "STP-4862",
+      "question": {
+        "de": "Klicke auf die kleinere Inselregion Príncipe.",
+        "hu": "Kattints a kisebb Príncipe szigetrégióra.",
+        "ro": "Apasă pe regiunea insulară mai mică Príncipe.",
+        "en": "Click the smaller island region of Príncipe."
+      }
+    },
+    {
+      "id": "st-odd-principe",
+      "type": "odd_one_out",
+      "poiIds": [
+        "sao-tome-cities-v2",
+        "santana-cities-v2",
+        "neves-cities-v2",
+        "santo-antonio-cities-v2"
+      ],
+      "targetPoiId": "santo-antonio-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt auf Príncipe statt auf der Insel São Tomé?",
+        "hu": "Melyik hely fekszik Príncipe szigetén, nem pedig São Tomén?",
+        "ro": "Care loc se află pe Príncipe, nu pe insula São Tomé?",
+        "en": "Which place lies on Príncipe rather than São Tomé Island?"
+      }
+    },
+    {
+      "id": "st-order-sao-tome-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "neves-cities-v2",
+        "sao-tome-cities-v2",
+        "sao-joao-dos-angolares-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "neves-cities-v2",
+        "sao-tome-cities-v2",
+        "sao-joao-dos-angolares-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Neves, São Tomé und São João dos Angolares von Norden nach Süden an.",
+        "hu": "Kattints Nevesre, São Toméra és São João dos Angolaresre északról dél felé.",
+        "ro": "Apasă Neves, São Tomé și São João dos Angolares de la nord la sud.",
+        "en": "Click Neves, São Tomé and São João dos Angolares from north to south."
+      }
+    },
+    {
+      "id": "st-order-principe-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "sundy-cities-v2",
+        "santo-antonio-cities-v2",
+        "belo-monte-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "sundy-cities-v2",
+        "santo-antonio-cities-v2",
+        "belo-monte-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Sundy, Santo António und Belo Monte auf Príncipe von Westen nach Osten an.",
+        "hu": "Kattints Sundyra, Santo Antónióra és Belo Montéra Príncipe szigetén nyugatról kelet felé.",
+        "ro": "Apasă Sundy, Santo António și Belo Monte pe Príncipe de la vest la est.",
+        "en": "Click Sundy, Santo António and Belo Monte on Príncipe from west to east."
+      }
+    }
+  ]
+}

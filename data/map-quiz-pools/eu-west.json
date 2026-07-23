@@ -1,0 +1,604 @@
+{
+  "at": [
+    {
+      "id": "at-find-salzburg",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Salzburg auf der Karte.",
+        "hu": "Keresd meg Salzburgot a térképen.",
+        "ro": "Găsește Salzburg pe hartă.",
+        "en": "Find Salzburg on the map."
+      },
+      "targetPoiId": "austria-salzburg-cities-v2"
+    },
+    {
+      "id": "at-find-graz",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Graz, die Hauptstadt der Steiermark?",
+        "hu": "Hol található Graz, Stájerország fővárosa?",
+        "ro": "Unde se află Graz, capitala Stiriei?",
+        "en": "Where is Graz, the capital of Styria?"
+      },
+      "targetPoiId": "AT-Graz"
+    },
+    {
+      "id": "at-find-innsbruck",
+      "type": "find_poi",
+      "question": {
+        "de": "Klicke auf Innsbruck in Tirol.",
+        "hu": "Kattints a tiroli Innsbruckra.",
+        "ro": "Apasă pe Innsbruck, în Tirol.",
+        "en": "Click Innsbruck in Tyrol."
+      },
+      "targetPoiId": "AT-Innsbruck"
+    },
+    {
+      "id": "at-find-grossglockner",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde den Großglockner, Österreichs höchsten Berg.",
+        "hu": "Keresd meg a Großglocknert, Ausztria legmagasabb hegyét.",
+        "ro": "Găsește Grossglockner, cel mai înalt munte din Austria.",
+        "en": "Find the Grossglockner, Austria's highest mountain."
+      },
+      "targetPoiId": "AT-Grossglockner"
+    },
+    {
+      "id": "at-region-vienna",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf das Bundesland Wien.",
+        "hu": "Kattints Bécs tartományra.",
+        "ro": "Apasă pe landul Viena.",
+        "en": "Click the state of Vienna."
+      },
+      "targetRegionId": "AT-9"
+    },
+    {
+      "id": "at-region-tyrol",
+      "type": "find_region",
+      "question": {
+        "de": "Wo liegt das Bundesland Tirol?",
+        "hu": "Hol található Tirol tartomány?",
+        "ro": "Unde se află landul Tirol?",
+        "en": "Where is the state of Tyrol?"
+      },
+      "targetRegionId": "AT-7"
+    },
+    {
+      "id": "at-region-styria",
+      "type": "find_region",
+      "question": {
+        "de": "Finde die Steiermark.",
+        "hu": "Keresd meg Stájerországot.",
+        "ro": "Găsește Stiria.",
+        "en": "Find Styria."
+      },
+      "targetRegionId": "AT-6"
+    },
+    {
+      "id": "at-odd-tyrol",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Städte liegt nicht in Tirol?",
+        "hu": "Melyik város nem Tirolban található?",
+        "ro": "Care dintre aceste orașe nu se află în Tirol?",
+        "en": "Which of these cities is not in Tyrol?"
+      },
+      "poiIds": [
+        "AT-Innsbruck",
+        "austria-kufstein-cities-v2",
+        "at-lienz",
+        "austria-salzburg-cities-v2"
+      ],
+      "targetPoiId": "austria-salzburg-cities-v2"
+    },
+    {
+      "id": "at-order-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Städte von West nach Ost an.",
+        "hu": "Kattints a városokra nyugatról keletre haladva.",
+        "ro": "Apasă orașele de la vest la est.",
+        "en": "Click the cities from west to east."
+      },
+      "poiIds": ["AT-Bregenz", "AT-Innsbruck", "austria-salzburg-cities-v2", "AT-Graz"],
+      "orderedPoiIds": ["AT-Bregenz", "AT-Innsbruck", "austria-salzburg-cities-v2", "AT-Graz"]
+    },
+    {
+      "id": "at-order-north-south",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Linz, Salzburg, Graz und Klagenfurt von Nord nach Süd an.",
+        "hu": "Kattints Linzre, Salzburgra, Grazra és Klagenfurtra északról délre.",
+        "ro": "Apasă Linz, Salzburg, Graz și Klagenfurt de la nord la sud.",
+        "en": "Click Linz, Salzburg, Graz and Klagenfurt from north to south."
+      },
+      "poiIds": ["AT-Linz", "austria-salzburg-cities-v2", "AT-Graz", "AT-Klagenfurt"],
+      "orderedPoiIds": ["AT-Linz", "austria-salzburg-cities-v2", "AT-Graz", "AT-Klagenfurt"]
+    }
+  ],
+  "be": [
+    {
+      "id": "be-find-brussels",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Brüssel auf der Karte.",
+        "hu": "Keresd meg Brüsszelt a térképen.",
+        "ro": "Găsește Bruxelles pe hartă.",
+        "en": "Find Brussels on the map."
+      },
+      "targetPoiId": "city-brussels"
+    },
+    {
+      "id": "be-find-antwerp",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Antwerpen?",
+        "hu": "Hol található Antwerpen?",
+        "ro": "Unde se află Anvers?",
+        "en": "Where is Antwerp?"
+      },
+      "targetPoiId": "belgium-antwerp-cities-v2"
+    },
+    {
+      "id": "be-find-ghent",
+      "type": "find_poi",
+      "question": {
+        "de": "Klicke auf Gent.",
+        "hu": "Kattints Gentre.",
+        "ro": "Apasă pe Gent.",
+        "en": "Click Ghent."
+      },
+      "targetPoiId": "belgium-ghent-cities-v2"
+    },
+    {
+      "id": "be-find-liege",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Lüttich im Osten Belgiens.",
+        "hu": "Keresd meg Liège városát Belgium keleti részén.",
+        "ro": "Găsește Liège în estul Belgiei.",
+        "en": "Find Liege in eastern Belgium."
+      },
+      "targetPoiId": "belgium-liege-cities-v2"
+    },
+    {
+      "id": "be-region-west-flanders",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf die Provinz Westflandern.",
+        "hu": "Kattints Nyugat-Flandria tartományra.",
+        "ro": "Apasă pe provincia Flandra de Vest.",
+        "en": "Click the province of West Flanders."
+      },
+      "targetRegionId": "BE-VWV"
+    },
+    {
+      "id": "be-region-antwerp",
+      "type": "find_region",
+      "question": {
+        "de": "Wo liegt die Provinz Antwerpen?",
+        "hu": "Hol található Antwerpen tartomány?",
+        "ro": "Unde se află provincia Anvers?",
+        "en": "Where is the province of Antwerp?"
+      },
+      "targetRegionId": "BE-VAN"
+    },
+    {
+      "id": "be-region-namur",
+      "type": "find_region",
+      "question": {
+        "de": "Finde die Provinz Namur.",
+        "hu": "Keresd meg Namur tartományt.",
+        "ro": "Găsește provincia Namur.",
+        "en": "Find the province of Namur."
+      },
+      "targetRegionId": "BE-WNA"
+    },
+    {
+      "id": "be-odd-flanders",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Städte liegt nicht in der flämischen Region?",
+        "hu": "Melyik város nem a flamand régióban található?",
+        "ro": "Care dintre aceste orașe nu se află în regiunea flamandă?",
+        "en": "Which of these cities is not in the Flemish Region?"
+      },
+      "poiIds": [
+        "belgium-antwerp-cities-v2",
+        "belgium-ghent-cities-v2",
+        "belgium-bruges-cities-v2",
+        "belgium-leuven-cities-v2",
+        "belgium-liege-cities-v2"
+      ],
+      "targetPoiId": "belgium-liege-cities-v2"
+    },
+    {
+      "id": "be-order-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Städte von West nach Ost an.",
+        "hu": "Kattints a városokra nyugatról keletre haladva.",
+        "ro": "Apasă orașele de la vest la est.",
+        "en": "Click the cities from west to east."
+      },
+      "poiIds": ["belgium-bruges-cities-v2", "belgium-ghent-cities-v2", "city-brussels", "belgium-liege-cities-v2"],
+      "orderedPoiIds": ["belgium-bruges-cities-v2", "belgium-ghent-cities-v2", "city-brussels", "belgium-liege-cities-v2"]
+    },
+    {
+      "id": "be-order-north-south",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Antwerpen, Brüssel, Namur und Charleroi von Nord nach Süd an.",
+        "hu": "Kattints Antwerpenre, Brüsszelre, Namurra és Charleroi-ra északról délre.",
+        "ro": "Apasă Anvers, Bruxelles, Namur și Charleroi de la nord la sud.",
+        "en": "Click Antwerp, Brussels, Namur and Charleroi from north to south."
+      },
+      "poiIds": ["belgium-antwerp-cities-v2", "city-brussels", "belgium-namur-cities-v2", "belgium-charleroi-cities-v2"],
+      "orderedPoiIds": ["belgium-antwerp-cities-v2", "city-brussels", "belgium-namur-cities-v2", "belgium-charleroi-cities-v2"]
+    }
+  ],
+  "nl": [
+    {
+      "id": "nl-find-rotterdam",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Rotterdam auf der Karte.",
+        "hu": "Keresd meg Rotterdamot a térképen.",
+        "ro": "Găsește Rotterdam pe hartă.",
+        "en": "Find Rotterdam on the map."
+      },
+      "targetPoiId": "NL-CT-ROT"
+    },
+    {
+      "id": "nl-find-utrecht",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Utrecht?",
+        "hu": "Hol található Utrecht?",
+        "ro": "Unde se află Utrecht?",
+        "en": "Where is Utrecht?"
+      },
+      "targetPoiId": "netherlands-utrecht-cities-v2"
+    },
+    {
+      "id": "nl-find-groningen",
+      "type": "find_poi",
+      "question": {
+        "de": "Klicke auf Groningen im Norden.",
+        "hu": "Kattints az északi Groningenre.",
+        "ro": "Apasă pe Groningen, în nord.",
+        "en": "Click Groningen in the north."
+      },
+      "targetPoiId": "netherlands-groningen-cities-v2"
+    },
+    {
+      "id": "nl-find-maastricht",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Maastricht im Süden der Niederlande.",
+        "hu": "Keresd meg Maastrichtot Hollandia déli részén.",
+        "ro": "Găsește Maastricht în sudul Țărilor de Jos.",
+        "en": "Find Maastricht in the south of the Netherlands."
+      },
+      "targetPoiId": "NL-CT-MAA"
+    },
+    {
+      "id": "nl-region-friesland",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf die Provinz Friesland.",
+        "hu": "Kattints Frízföld tartományra.",
+        "ro": "Apasă pe provincia Frizia.",
+        "en": "Click the province of Friesland."
+      },
+      "targetRegionId": "NL-FR"
+    },
+    {
+      "id": "nl-region-zeeland",
+      "type": "find_region",
+      "question": {
+        "de": "Wo liegt die Provinz Zeeland?",
+        "hu": "Hol található Zeeland tartomány?",
+        "ro": "Unde se află provincia Zeeland?",
+        "en": "Where is the province of Zeeland?"
+      },
+      "targetRegionId": "NL-ZE"
+    },
+    {
+      "id": "nl-region-limburg",
+      "type": "find_region",
+      "question": {
+        "de": "Finde die Provinz Limburg.",
+        "hu": "Keresd meg Limburg tartományt.",
+        "ro": "Găsește provincia Limburg.",
+        "en": "Find the province of Limburg."
+      },
+      "targetRegionId": "NL-LI"
+    },
+    {
+      "id": "nl-odd-limburg",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Städte liegt nicht in der Provinz Limburg?",
+        "hu": "Melyik város nem Limburg tartományban található?",
+        "ro": "Care dintre aceste orașe nu se află în provincia Limburg?",
+        "en": "Which of these cities is not in the province of Limburg?"
+      },
+      "poiIds": ["NL-CT-MAA", "netherlands-venlo-cities-v2", "netherlands-roermond-cities-v2", "NL-CT-EIN"],
+      "targetPoiId": "NL-CT-EIN"
+    },
+    {
+      "id": "nl-order-north-south",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Städte von Nord nach Süd an.",
+        "hu": "Kattints a városokra északról délre haladva.",
+        "ro": "Apasă orașele de la nord la sud.",
+        "en": "Click the cities from north to south."
+      },
+      "poiIds": ["netherlands-groningen-cities-v2", "netherlands-utrecht-cities-v2", "NL-CT-EIN", "NL-CT-MAA"],
+      "orderedPoiIds": ["netherlands-groningen-cities-v2", "netherlands-utrecht-cities-v2", "NL-CT-EIN", "NL-CT-MAA"]
+    },
+    {
+      "id": "nl-order-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Middelburg, Rotterdam, Arnhem und Groningen von West nach Ost an.",
+        "hu": "Kattints Middelburgra, Rotterdamra, Arnhemre és Groningenre nyugatról keletre.",
+        "ro": "Apasă Middelburg, Rotterdam, Arnhem și Groningen de la vest la est.",
+        "en": "Click Middelburg, Rotterdam, Arnhem and Groningen from west to east."
+      },
+      "poiIds": ["netherlands-middelburg-cities-v2", "NL-CT-ROT", "nl-arnhem", "netherlands-groningen-cities-v2"],
+      "orderedPoiIds": ["netherlands-middelburg-cities-v2", "NL-CT-ROT", "nl-arnhem", "netherlands-groningen-cities-v2"]
+    }
+  ],
+  "lu": [
+    {
+      "id": "lu-find-luxembourg",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Luxemburg-Stadt auf der Karte.",
+        "hu": "Keresd meg Luxemburg városát a térképen.",
+        "ro": "Găsește orașul Luxemburg pe hartă.",
+        "en": "Find Luxembourg City on the map."
+      },
+      "targetPoiId": "lu-luxembourg-city"
+    },
+    {
+      "id": "lu-find-esch",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Esch an der Alzette?",
+        "hu": "Hol található Esch-sur-Alzette?",
+        "ro": "Unde se află Esch-sur-Alzette?",
+        "en": "Where is Esch-sur-Alzette?"
+      },
+      "targetPoiId": "luxembourg-esch-sur-alzette-cities-v2"
+    },
+    {
+      "id": "lu-find-vianden",
+      "type": "find_poi",
+      "question": {
+        "de": "Klicke auf Vianden im Nordosten.",
+        "hu": "Kattints az északkeleti Viandenre.",
+        "ro": "Apasă pe Vianden, în nord-est.",
+        "en": "Click Vianden in the northeast."
+      },
+      "targetPoiId": "luxembourg-vianden-cities-v2"
+    },
+    {
+      "id": "lu-find-echternach",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Echternach nahe der deutschen Grenze.",
+        "hu": "Keresd meg Echternachot a német határ közelében.",
+        "ro": "Găsește Echternach lângă granița cu Germania.",
+        "en": "Find Echternach near the German border."
+      },
+      "targetPoiId": "luxembourg-echternach-cities-v2"
+    },
+    {
+      "id": "lu-region-diekirch",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf den Distrikt Diekirch.",
+        "hu": "Kattints Diekirch kerületre.",
+        "ro": "Apasă pe districtul Diekirch.",
+        "en": "Click the district of Diekirch."
+      },
+      "targetRegionId": "LU-D"
+    },
+    {
+      "id": "lu-region-grevenmacher",
+      "type": "find_region",
+      "question": {
+        "de": "Wo liegt der Distrikt Grevenmacher?",
+        "hu": "Hol található Grevenmacher kerület?",
+        "ro": "Unde se află districtul Grevenmacher?",
+        "en": "Where is the district of Grevenmacher?"
+      },
+      "targetRegionId": "LU-G"
+    },
+    {
+      "id": "lu-region-luxembourg",
+      "type": "find_region",
+      "question": {
+        "de": "Finde den Distrikt Luxemburg.",
+        "hu": "Keresd meg Luxemburg kerületet.",
+        "ro": "Găsește districtul Luxemburg.",
+        "en": "Find the district of Luxembourg."
+      },
+      "targetRegionId": "LU-L"
+    },
+    {
+      "id": "lu-odd-diekirch",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Städte liegt nicht im Distrikt Diekirch?",
+        "hu": "Melyik város nem Diekirch kerületben található?",
+        "ro": "Care dintre aceste orașe nu se află în districtul Diekirch?",
+        "en": "Which of these towns is not in the district of Diekirch?"
+      },
+      "poiIds": [
+        "luxembourg-wiltz-cities-v2",
+        "luxembourg-clervaux-cities-v2",
+        "luxembourg-vianden-cities-v2",
+        "luxembourg-diekirch-cities-v2",
+        "luxembourg-esch-sur-alzette-cities-v2"
+      ],
+      "targetPoiId": "luxembourg-esch-sur-alzette-cities-v2"
+    },
+    {
+      "id": "lu-order-north-south",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Clervaux, Diekirch, Luxemburg und Esch an der Alzette von Nord nach Süd an.",
+        "hu": "Kattints Clervaux-ra, Diekirchre, Luxemburgra és Esch-sur-Alzette-re északról délre.",
+        "ro": "Apasă Clervaux, Diekirch, Luxemburg și Esch-sur-Alzette de la nord la sud.",
+        "en": "Click Clervaux, Diekirch, Luxembourg and Esch-sur-Alzette from north to south."
+      },
+      "poiIds": [
+        "luxembourg-clervaux-cities-v2",
+        "luxembourg-diekirch-cities-v2",
+        "lu-luxembourg-city",
+        "luxembourg-esch-sur-alzette-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "luxembourg-clervaux-cities-v2",
+        "luxembourg-diekirch-cities-v2",
+        "lu-luxembourg-city",
+        "luxembourg-esch-sur-alzette-cities-v2"
+      ]
+    },
+    {
+      "id": "lu-order-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Differdingen, Luxemburg und Echternach von West nach Ost an.",
+        "hu": "Kattints Differdange-ra, Luxemburgra és Echternachra nyugatról keletre.",
+        "ro": "Apasă Differdange, Luxemburg și Echternach de la vest la est.",
+        "en": "Click Differdange, Luxembourg and Echternach from west to east."
+      },
+      "poiIds": ["luxembourg-differdange-cities-v2", "lu-luxembourg-city", "luxembourg-echternach-cities-v2"],
+      "orderedPoiIds": ["luxembourg-differdange-cities-v2", "lu-luxembourg-city", "luxembourg-echternach-cities-v2"]
+    }
+  ],
+  "fr": [
+    {
+      "id": "fr-find-marseille",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Marseille an der Mittelmeerküste.",
+        "hu": "Keresd meg Marseille-t a Földközi-tenger partján.",
+        "ro": "Găsește Marsilia pe coasta Mediteranei.",
+        "en": "Find Marseille on the Mediterranean coast."
+      },
+      "targetPoiId": "marseille"
+    },
+    {
+      "id": "fr-find-lyon",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Lyon?",
+        "hu": "Hol található Lyon?",
+        "ro": "Unde se află Lyon?",
+        "en": "Where is Lyon?"
+      },
+      "targetPoiId": "lyon"
+    },
+    {
+      "id": "fr-find-toulouse",
+      "type": "find_poi",
+      "question": {
+        "de": "Klicke auf Toulouse im Südwesten Frankreichs.",
+        "hu": "Kattints a délnyugat-franciaországi Toulouse-ra.",
+        "ro": "Apasă pe Toulouse, în sud-vestul Franței.",
+        "en": "Click Toulouse in southwestern France."
+      },
+      "targetPoiId": "toulouse"
+    },
+    {
+      "id": "fr-find-strasbourg",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Straßburg nahe der deutschen Grenze.",
+        "hu": "Keresd meg Strasbourgot a német határ közelében.",
+        "ro": "Găsește Strasbourg lângă granița cu Germania.",
+        "en": "Find Strasbourg near the German border."
+      },
+      "targetPoiId": "strasbourg"
+    },
+    {
+      "id": "fr-region-ile-de-france",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf die Region Île-de-France.",
+        "hu": "Kattints Île-de-France régióra.",
+        "ro": "Apasă pe regiunea Île-de-France.",
+        "en": "Click the Île-de-France region."
+      },
+      "targetRegionId": "FR-IDF"
+    },
+    {
+      "id": "fr-region-brittany",
+      "type": "find_region",
+      "question": {
+        "de": "Wo liegt die Bretagne?",
+        "hu": "Hol található Bretagne?",
+        "ro": "Unde se află Bretania?",
+        "en": "Where is Brittany?"
+      },
+      "targetRegionId": "FR-BRE"
+    },
+    {
+      "id": "fr-region-corsica",
+      "type": "find_region",
+      "question": {
+        "de": "Finde die Inselregion Korsika.",
+        "hu": "Keresd meg Korzika szigeti régióját.",
+        "ro": "Găsește regiunea insulară Corsica.",
+        "en": "Find the island region of Corsica."
+      },
+      "targetRegionId": "FR-COR"
+    },
+    {
+      "id": "fr-odd-mediterranean",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Städte liegt nicht an der Mittelmeerküste?",
+        "hu": "Melyik város nem a Földközi-tenger partján található?",
+        "ro": "Care dintre aceste orașe nu se află pe coasta Mediteranei?",
+        "en": "Which of these cities is not on the Mediterranean coast?"
+      },
+      "poiIds": ["marseille", "city-montpellier-extra", "nice", "ajaccio", "bordeaux"],
+      "targetPoiId": "bordeaux"
+    },
+    {
+      "id": "fr-order-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Bordeaux, Lyon und Straßburg von West nach Ost an.",
+        "hu": "Kattints Bordeaux-ra, Lyonra és Strasbourgra nyugatról keletre.",
+        "ro": "Apasă Bordeaux, Lyon și Strasbourg de la vest la est.",
+        "en": "Click Bordeaux, Lyon and Strasbourg from west to east."
+      },
+      "poiIds": ["bordeaux", "lyon", "strasbourg"],
+      "orderedPoiIds": ["bordeaux", "lyon", "strasbourg"]
+    },
+    {
+      "id": "fr-order-north-south",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Lille, Lyon, Marseille und Ajaccio von Nord nach Süd an.",
+        "hu": "Kattints Lille-re, Lyonra, Marseille-re és Ajaccióra északról délre.",
+        "ro": "Apasă Lille, Lyon, Marsilia și Ajaccio de la nord la sud.",
+        "en": "Click Lille, Lyon, Marseille and Ajaccio from north to south."
+      },
+      "poiIds": ["lille", "lyon", "marseille", "ajaccio"],
+      "orderedPoiIds": ["lille", "lyon", "marseille", "ajaccio"]
+    }
+  ]
+}

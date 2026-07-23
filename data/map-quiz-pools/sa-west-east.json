@@ -1,0 +1,546 @@
+{
+  "pe": [
+    {
+      "id": "pe-find-lima",
+      "type": "find_poi",
+      "targetPoiId": "lima-cities-v2",
+      "question": {
+        "de": "Finde Lima, die Hauptstadt Perus, an der Pazifikküste.",
+        "hu": "Keresd meg Limát, Peru fővárosát a Csendes-óceán partján.",
+        "ro": "Găsește Lima, capitala statului Peru, pe coasta Pacificului.",
+        "en": "Find Lima, the capital of Peru, on the Pacific coast."
+      }
+    },
+    {
+      "id": "pe-find-machu-picchu",
+      "type": "find_poi",
+      "targetPoiId": "machu-picchu-landmarks-v2",
+      "question": {
+        "de": "Finde die Inkastadt Machu Picchu in den Anden.",
+        "hu": "Keresd meg az Andokban fekvő inka várost, Machu Picchut.",
+        "ro": "Găsește orașul incaș Machu Picchu din Anzi.",
+        "en": "Find the Inca city of Machu Picchu in the Andes."
+      }
+    },
+    {
+      "id": "pe-find-iquitos",
+      "type": "find_poi",
+      "targetPoiId": "iquitos-cities-v2",
+      "question": {
+        "de": "Finde Iquitos im peruanischen Amazonasgebiet.",
+        "hu": "Keresd meg Iquitost a perui Amazonas-vidéken.",
+        "ro": "Găsește Iquitos în regiunea amazoniană a statului Peru.",
+        "en": "Find Iquitos in the Peruvian Amazon."
+      }
+    },
+    {
+      "id": "pe-find-arequipa",
+      "type": "find_poi",
+      "targetPoiId": "arequipa-cities-v2",
+      "question": {
+        "de": "Finde Arequipa im Süden Perus.",
+        "hu": "Keresd meg Arequipát Peru déli részén.",
+        "ro": "Găsește Arequipa în sudul statului Peru.",
+        "en": "Find Arequipa in southern Peru."
+      }
+    },
+    {
+      "id": "pe-region-loreto",
+      "type": "find_region",
+      "targetRegionId": "PER-585",
+      "question": {
+        "de": "Klicke auf Loreto, die große Amazonasregion im Nordosten.",
+        "hu": "Kattints Loretóra, a nagy északkeleti amazóniai régióra.",
+        "ro": "Apasă pe Loreto, vasta regiune amazoniană din nord-est.",
+        "en": "Click Loreto, the large Amazon region in the northeast."
+      }
+    },
+    {
+      "id": "pe-region-cusco",
+      "type": "find_region",
+      "targetRegionId": "PER-571",
+      "question": {
+        "de": "Finde die Region Cusco, das historische Kernland der Inka.",
+        "hu": "Keresd meg Cusco régióját, az Inka Birodalom történelmi központját.",
+        "ro": "Găsește regiunea Cusco, centrul istoric al Imperiului Incaș.",
+        "en": "Find the Cusco region, the historic heartland of the Inca Empire."
+      }
+    },
+    {
+      "id": "pe-region-tacna",
+      "type": "find_region",
+      "targetRegionId": "PER-575",
+      "question": {
+        "de": "Klicke auf Tacna an der Südgrenze Perus.",
+        "hu": "Kattints Tacnára Peru déli határánál.",
+        "ro": "Apasă pe Tacna, la granița sudică a statului Peru.",
+        "en": "Click Tacna on Peru's southern border."
+      }
+    },
+    {
+      "id": "pe-odd-coastal-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "lima-cities-v2",
+        "trujillo-cities-v2",
+        "chiclayo-cities-v2",
+        "cusco-cities-v2"
+      ],
+      "targetPoiId": "cusco-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht nahe der peruanischen Pazifikküste?",
+        "hu": "Melyik város nem Peru csendes-óceáni partvidékén fekszik?",
+        "ro": "Care oraș nu se află în apropierea coastei pacifice a statului Peru?",
+        "en": "Which city is not near Peru's Pacific coast?"
+      }
+    },
+    {
+      "id": "pe-order-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "lima-cities-v2",
+        "cusco-cities-v2",
+        "peru-puerto-maldonado-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "lima-cities-v2",
+        "cusco-cities-v2",
+        "peru-puerto-maldonado-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Lima, Cusco und Puerto Maldonado von Westen nach Osten an.",
+        "hu": "Kattints Limára, Cuscóra és Puerto Maldonadóra nyugatról kelet felé.",
+        "ro": "Apasă Lima, Cusco și Puerto Maldonado de la vest la est.",
+        "en": "Click Lima, Cusco and Puerto Maldonado from west to east."
+      }
+    },
+    {
+      "id": "pe-order-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "chiclayo-cities-v2",
+        "lima-cities-v2",
+        "arequipa-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "chiclayo-cities-v2",
+        "lima-cities-v2",
+        "arequipa-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Chiclayo, Lima und Arequipa von Norden nach Süden an.",
+        "hu": "Kattints Chiclayóra, Limára és Arequipára északról dél felé.",
+        "ro": "Apasă Chiclayo, Lima și Arequipa de la nord la sud.",
+        "en": "Click Chiclayo, Lima and Arequipa from north to south."
+      }
+    }
+  ],
+  "sr": [
+    {
+      "id": "sr-find-paramaribo",
+      "type": "find_poi",
+      "targetPoiId": "paramaribo-cities-v2",
+      "question": {
+        "de": "Finde Paramaribo, die Hauptstadt Surinames.",
+        "hu": "Keresd meg Paramaribót, Suriname fővárosát.",
+        "ro": "Găsește Paramaribo, capitala statului Suriname.",
+        "en": "Find Paramaribo, the capital of Suriname."
+      }
+    },
+    {
+      "id": "sr-find-brownsweg",
+      "type": "find_poi",
+      "targetPoiId": "suriname-brownsweg-cities-v2",
+      "question": {
+        "de": "Finde Brownsweg nahe dem Brokopondo-Stausee.",
+        "hu": "Keresd meg Brownsweget a Brokopondo-víztározó közelében.",
+        "ro": "Găsește Brownsweg, lângă lacul de acumulare Brokopondo.",
+        "en": "Find Brownsweg near the Brokopondo Reservoir."
+      }
+    },
+    {
+      "id": "sr-find-palumeu",
+      "type": "find_poi",
+      "targetPoiId": "suriname-palumeu-cities-v2",
+      "question": {
+        "de": "Finde Palumeu im bewaldeten Süden Surinames.",
+        "hu": "Keresd meg Palumeut Suriname erdős déli részén.",
+        "ro": "Găsește Palumeu în sudul împădurit al statului Suriname.",
+        "en": "Find Palumeu in the forested south of Suriname."
+      }
+    },
+    {
+      "id": "sr-find-bigi-pan",
+      "type": "find_poi",
+      "targetPoiId": "suriname-bigi-pan-cities-v2",
+      "question": {
+        "de": "Finde Bigi Pan im Nordwesten Surinames.",
+        "hu": "Keresd meg Bigi Pant Suriname északnyugati részén.",
+        "ro": "Găsește Bigi Pan în nord-vestul statului Suriname.",
+        "en": "Find Bigi Pan in northwestern Suriname."
+      }
+    },
+    {
+      "id": "sr-region-nickerie",
+      "type": "find_region",
+      "targetRegionId": "SUR-37",
+      "question": {
+        "de": "Klicke auf den Distrikt Nickerie im Westen.",
+        "hu": "Kattints a nyugati Nickerie körzetre.",
+        "ro": "Apasă pe districtul Nickerie din vest.",
+        "en": "Click Nickerie District in the west."
+      }
+    },
+    {
+      "id": "sr-region-paramaribo",
+      "type": "find_region",
+      "targetRegionId": "SUR-72",
+      "question": {
+        "de": "Finde den kleinen Hauptstadtdistrikt Paramaribo an der Nordküste.",
+        "hu": "Keresd meg a kis Paramaribo fővárosi körzetet az északi parton.",
+        "ro": "Găsește micul district al capitalei Paramaribo, pe coasta de nord.",
+        "en": "Find the small capital district of Paramaribo on the northern coast."
+      }
+    },
+    {
+      "id": "sr-region-sipaliwini",
+      "type": "find_region",
+      "targetRegionId": "SUR-69",
+      "question": {
+        "de": "Klicke auf Sipaliwini, den großen südlichen Distrikt.",
+        "hu": "Kattints Sipaliwinire, a nagy déli körzetre.",
+        "ro": "Apasă pe Sipaliwini, vastul district din sud.",
+        "en": "Click Sipaliwini, the large southern district."
+      }
+    },
+    {
+      "id": "sr-odd-interior",
+      "type": "odd_one_out",
+      "poiIds": [
+        "paramaribo-cities-v2",
+        "suriname-bigi-pan-cities-v2",
+        "suriname-galibi-nature-reserve-cities-v2",
+        "suriname-palumeu-cities-v2"
+      ],
+      "targetPoiId": "suriname-palumeu-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt tief im Landesinneren statt nahe der nördlichen Küste?",
+        "hu": "Melyik hely fekszik mélyen az ország belsejében, nem pedig az északi part közelében?",
+        "ro": "Care loc se află adânc în interiorul țării, nu lângă coasta de nord?",
+        "en": "Which place lies deep inland rather than near the northern coast?"
+      }
+    },
+    {
+      "id": "sr-order-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "suriname-bigi-pan-cities-v2",
+        "paramaribo-cities-v2",
+        "suriname-galibi-nature-reserve-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "suriname-bigi-pan-cities-v2",
+        "paramaribo-cities-v2",
+        "suriname-galibi-nature-reserve-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Bigi Pan, Paramaribo und Galibi von Westen nach Osten an.",
+        "hu": "Kattints Bigi Panra, Paramaribóra és Galibire nyugatról kelet felé.",
+        "ro": "Apasă Bigi Pan, Paramaribo și Galibi de la vest la est.",
+        "en": "Click Bigi Pan, Paramaribo and Galibi from west to east."
+      }
+    },
+    {
+      "id": "sr-order-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "paramaribo-cities-v2",
+        "suriname-brownsweg-cities-v2",
+        "suriname-palumeu-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "paramaribo-cities-v2",
+        "suriname-brownsweg-cities-v2",
+        "suriname-palumeu-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Paramaribo, Brownsweg und Palumeu von Norden nach Süden an.",
+        "hu": "Kattints Paramaribóra, Brownswegre és Palumeura északról dél felé.",
+        "ro": "Apasă Paramaribo, Brownsweg și Palumeu de la nord la sud.",
+        "en": "Click Paramaribo, Brownsweg and Palumeu from north to south."
+      }
+    }
+  ],
+  "uy": [
+    {
+      "id": "uy-find-montevideo",
+      "type": "find_poi",
+      "targetPoiId": "montevideo-cities-v2",
+      "question": {
+        "de": "Finde Montevideo, die Hauptstadt Uruguays.",
+        "hu": "Keresd meg Montevideót, Uruguay fővárosát.",
+        "ro": "Găsește Montevideo, capitala statului Uruguay.",
+        "en": "Find Montevideo, the capital of Uruguay."
+      }
+    },
+    {
+      "id": "uy-find-punta-del-este",
+      "type": "find_poi",
+      "targetPoiId": "punta-del-este-cities-v2",
+      "question": {
+        "de": "Finde den Badeort Punta del Este an der Südostküste.",
+        "hu": "Keresd meg Punta del Este üdülővárost a délkeleti parton.",
+        "ro": "Găsește stațiunea Punta del Este de pe coasta de sud-est.",
+        "en": "Find the resort city of Punta del Este on the southeastern coast."
+      }
+    },
+    {
+      "id": "uy-find-salto",
+      "type": "find_poi",
+      "targetPoiId": "salto-cities-v2",
+      "question": {
+        "de": "Finde Salto am Uruguay-Fluss im Nordwesten.",
+        "hu": "Keresd meg Saltót az Uruguay folyó mellett, északnyugaton.",
+        "ro": "Găsește Salto, pe râul Uruguay, în nord-vest.",
+        "en": "Find Salto on the Uruguay River in the northwest."
+      }
+    },
+    {
+      "id": "uy-find-colonia",
+      "type": "find_poi",
+      "targetPoiId": "colonia-del-sacramento-cities-v2",
+      "question": {
+        "de": "Finde die historische Stadt Colonia del Sacramento.",
+        "hu": "Keresd meg Colonia del Sacramento történelmi városát.",
+        "ro": "Găsește orașul istoric Colonia del Sacramento.",
+        "en": "Find the historic city of Colonia del Sacramento."
+      }
+    },
+    {
+      "id": "uy-region-artigas",
+      "type": "find_region",
+      "targetRegionId": "URY-6",
+      "question": {
+        "de": "Klicke auf das Departamento Artigas ganz im Norden.",
+        "hu": "Kattints Artigas megyére az ország legészakibb részén.",
+        "ro": "Apasă pe departamentul Artigas din extremitatea nordică.",
+        "en": "Click Artigas Department in the far north."
+      }
+    },
+    {
+      "id": "uy-region-rocha",
+      "type": "find_region",
+      "targetRegionId": "URY-22",
+      "question": {
+        "de": "Finde das Küstendepartamento Rocha im Osten.",
+        "hu": "Keresd meg a keleti, tengerparti Rocha megyét.",
+        "ro": "Găsește departamentul litoral Rocha din est.",
+        "en": "Find the coastal department of Rocha in the east."
+      }
+    },
+    {
+      "id": "uy-region-montevideo",
+      "type": "find_region",
+      "targetRegionId": "URY-21",
+      "question": {
+        "de": "Klicke auf das kleine Departamento Montevideo an der Südküste.",
+        "hu": "Kattints a kis Montevideo megyére a déli parton.",
+        "ro": "Apasă pe micul departament Montevideo de pe coasta sudică.",
+        "en": "Click the small Montevideo Department on the southern coast."
+      }
+    },
+    {
+      "id": "uy-odd-atlantic",
+      "type": "odd_one_out",
+      "poiIds": [
+        "punta-del-este-cities-v2",
+        "rocha-cities-v2",
+        "la-paloma-cities-v2",
+        "salto-cities-v2"
+      ],
+      "targetPoiId": "salto-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht im südöstlichen Atlantikraum Uruguays?",
+        "hu": "Melyik város nem Uruguay délkeleti, atlanti térségében található?",
+        "ro": "Care oraș nu se află în zona atlantică de sud-est a Uruguayului?",
+        "en": "Which city is not in Uruguay's southeastern Atlantic area?"
+      }
+    },
+    {
+      "id": "uy-order-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "colonia-del-sacramento-cities-v2",
+        "montevideo-cities-v2",
+        "punta-del-este-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "colonia-del-sacramento-cities-v2",
+        "montevideo-cities-v2",
+        "punta-del-este-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Colonia del Sacramento, Montevideo und Punta del Este von Westen nach Osten an.",
+        "hu": "Kattints Colonia del Sacramentóra, Montevideóra és Punta del Estére nyugatról kelet felé.",
+        "ro": "Apasă Colonia del Sacramento, Montevideo și Punta del Este de la vest la est.",
+        "en": "Click Colonia del Sacramento, Montevideo and Punta del Este from west to east."
+      }
+    },
+    {
+      "id": "uy-order-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "salto-cities-v2",
+        "durazno-cities-v2",
+        "montevideo-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "salto-cities-v2",
+        "durazno-cities-v2",
+        "montevideo-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Salto, Durazno und Montevideo von Norden nach Süden an.",
+        "hu": "Kattints Saltóra, Duraznóra és Montevideóra északról dél felé.",
+        "ro": "Apasă Salto, Durazno și Montevideo de la nord la sud.",
+        "en": "Click Salto, Durazno and Montevideo from north to south."
+      }
+    }
+  ],
+  "ve": [
+    {
+      "id": "ve-find-caracas",
+      "type": "find_poi",
+      "targetPoiId": "caracas-cities-v2",
+      "question": {
+        "de": "Finde Caracas, die Hauptstadt Venezuelas.",
+        "hu": "Keresd meg Caracast, Venezuela fővárosát.",
+        "ro": "Găsește Caracas, capitala Venezuelei.",
+        "en": "Find Caracas, the capital of Venezuela."
+      }
+    },
+    {
+      "id": "ve-find-maracaibo",
+      "type": "find_poi",
+      "targetPoiId": "maracaibo-cities-v2",
+      "question": {
+        "de": "Finde Maracaibo im Nordwesten Venezuelas.",
+        "hu": "Keresd meg Maracaibót Venezuela északnyugati részén.",
+        "ro": "Găsește Maracaibo în nord-vestul Venezuelei.",
+        "en": "Find Maracaibo in northwestern Venezuela."
+      }
+    },
+    {
+      "id": "ve-find-angel-falls",
+      "type": "find_poi",
+      "targetPoiId": "venezuela-salto-angel-nature-v2",
+      "question": {
+        "de": "Finde den Salto Ángel im Hochland von Guayana.",
+        "hu": "Keresd meg az Angel-vízesést a Guyanai-hegyvidéken.",
+        "ro": "Găsește cascada Angel în Podișul Guyanelor.",
+        "en": "Find Angel Falls in the Guiana Highlands."
+      }
+    },
+    {
+      "id": "ve-find-mukumbari",
+      "type": "find_poi",
+      "targetPoiId": "venezuela-teleferico-mukumbari-landmark-v2",
+      "question": {
+        "de": "Finde die Mukumbarí-Seilbahn in den Anden bei Mérida.",
+        "hu": "Keresd meg a Mukumbarí felvonót az Andokban, Mérida közelében.",
+        "ro": "Găsește telecabina Mukumbarí din Anzi, lângă Mérida.",
+        "en": "Find the Mukumbarí cable car in the Andes near Mérida."
+      }
+    },
+    {
+      "id": "ve-region-zulia",
+      "type": "find_region",
+      "targetRegionId": "VEN-31",
+      "question": {
+        "de": "Klicke auf Zulia im äußersten Nordwesten.",
+        "hu": "Kattints Zuliára a messzi északnyugati országrészben.",
+        "ro": "Apasă pe Zulia, în extremitatea nord-vestică.",
+        "en": "Click Zulia in the far northwest."
+      }
+    },
+    {
+      "id": "ve-region-bolivar",
+      "type": "find_region",
+      "targetRegionId": "VEN-39",
+      "question": {
+        "de": "Finde den großen Bundesstaat Bolívar im Südosten.",
+        "hu": "Keresd meg a nagy Bolívar államot délkeleten.",
+        "ro": "Găsește vastul stat Bolívar din sud-est.",
+        "en": "Find the large state of Bolívar in the southeast."
+      }
+    },
+    {
+      "id": "ve-region-nueva-esparta",
+      "type": "find_region",
+      "targetRegionId": "VEN-48",
+      "question": {
+        "de": "Klicke auf den Inselstaat Nueva Esparta vor der Nordostküste.",
+        "hu": "Kattints Nueva Esparta szigetállamra az északkeleti part előtt.",
+        "ro": "Apasă pe statul insular Nueva Esparta, în largul coastei de nord-est.",
+        "en": "Click the island state of Nueva Esparta off the northeastern coast."
+      }
+    },
+    {
+      "id": "ve-odd-not-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "caracas-cities-v2",
+        "maracaibo-cities-v2",
+        "valencia-cities-v2",
+        "venezuela-salto-angel-nature-v2"
+      ],
+      "targetPoiId": "venezuela-salto-angel-nature-v2",
+      "question": {
+        "de": "Welches Ziel ist eine Natursehenswürdigkeit und keine Stadt?",
+        "hu": "Melyik célpont természeti látnivaló, nem pedig város?",
+        "ro": "Care destinație este un obiectiv natural, nu un oraș?",
+        "en": "Which destination is a natural landmark rather than a city?"
+      }
+    },
+    {
+      "id": "ve-order-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "maracaibo-cities-v2",
+        "caracas-cities-v2",
+        "venezuela-salto-angel-nature-v2"
+      ],
+      "orderedPoiIds": [
+        "maracaibo-cities-v2",
+        "caracas-cities-v2",
+        "venezuela-salto-angel-nature-v2"
+      ],
+      "question": {
+        "de": "Klicke Maracaibo, Caracas und Salto Ángel von Westen nach Osten an.",
+        "hu": "Kattints Maracaibóra, Caracasra és az Angel-vízesésre nyugatról kelet felé.",
+        "ro": "Apasă Maracaibo, Caracas și cascada Angel de la vest la est.",
+        "en": "Click Maracaibo, Caracas and Angel Falls from west to east."
+      }
+    },
+    {
+      "id": "ve-order-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "caracas-cities-v2",
+        "venezuela-puente-angostura-landmark-v2",
+        "venezuela-salto-angel-nature-v2"
+      ],
+      "orderedPoiIds": [
+        "caracas-cities-v2",
+        "venezuela-puente-angostura-landmark-v2",
+        "venezuela-salto-angel-nature-v2"
+      ],
+      "question": {
+        "de": "Klicke Caracas, die Angostura-Brücke und Salto Ángel von Norden nach Süden an.",
+        "hu": "Kattints Caracasra, az Angostura hídra és az Angel-vízesésre északról dél felé.",
+        "ro": "Apasă Caracas, podul Angostura și cascada Angel de la nord la sud.",
+        "en": "Click Caracas, Angostura Bridge and Angel Falls from north to south."
+      }
+    }
+  ]
+}

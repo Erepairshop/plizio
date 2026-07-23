@@ -1,0 +1,562 @@
+{
+  "co": [
+    {
+      "id": "co-find-bogota",
+      "type": "find_poi",
+      "targetPoiId": "bogota-cities-v2",
+      "question": {
+        "de": "Finde Bogotá, die Hauptstadt Kolumbiens.",
+        "hu": "Keresd meg Bogotát, Kolumbia fővárosát.",
+        "ro": "Găsește Bogotá, capitala Columbiei.",
+        "en": "Find Bogotá, the capital of Colombia."
+      }
+    },
+    {
+      "id": "co-find-medellin",
+      "type": "find_poi",
+      "targetPoiId": "medellin-cities-v2",
+      "question": {
+        "de": "Finde Medellín im Aburrá-Tal.",
+        "hu": "Keresd meg Medellínt az Aburrá-völgyben.",
+        "ro": "Găsește Medellín în Valea Aburrá.",
+        "en": "Find Medellín in the Aburrá Valley."
+      }
+    },
+    {
+      "id": "co-find-cartagena",
+      "type": "find_poi",
+      "targetPoiId": "cartagena-cities-v2",
+      "question": {
+        "de": "Finde Cartagena an der Karibikküste.",
+        "hu": "Keresd meg Cartagenát a Karib-tenger partján.",
+        "ro": "Găsește Cartagena pe coasta Caraibilor.",
+        "en": "Find Cartagena on the Caribbean coast."
+      }
+    },
+    {
+      "id": "co-find-leticia",
+      "type": "find_poi",
+      "targetPoiId": "leticia-cities-v2",
+      "question": {
+        "de": "Finde Leticia im kolumbianischen Amazonasgebiet.",
+        "hu": "Keresd meg Leticiát Kolumbia amazóniai részén.",
+        "ro": "Găsește Leticia în regiunea amazoniană a Columbiei.",
+        "en": "Find Leticia in Colombia's Amazon region."
+      }
+    },
+    {
+      "id": "co-region-amazonas",
+      "type": "find_region",
+      "targetRegionId": "COL-1283",
+      "question": {
+        "de": "Klicke auf das Departamento Amazonas im Süden.",
+        "hu": "Kattints a déli Amazonas megyére.",
+        "ro": "Apasă pe departamentul Amazonas din sud.",
+        "en": "Click Amazonas Department in the south."
+      }
+    },
+    {
+      "id": "co-region-antioquia",
+      "type": "find_region",
+      "targetRegionId": "COL-1314",
+      "question": {
+        "de": "Finde das Departamento Antioquia, dessen Hauptstadt Medellín ist.",
+        "hu": "Keresd meg Antioquia megyét, amelynek székhelye Medellín.",
+        "ro": "Găsește departamentul Antioquia, a cărui capitală este Medellín.",
+        "en": "Find Antioquia Department, whose capital is Medellín."
+      }
+    },
+    {
+      "id": "co-region-la-guajira",
+      "type": "find_region",
+      "targetRegionId": "COL-1318",
+      "question": {
+        "de": "Finde La Guajira an Kolumbiens nordöstlicher Karibikküste.",
+        "hu": "Keresd meg La Guajirát Kolumbia északkeleti karibi partján.",
+        "ro": "Găsește La Guajira pe coasta caraibiană din nord-estul Columbiei.",
+        "en": "Find La Guajira on Colombia's northeastern Caribbean coast."
+      }
+    },
+    {
+      "id": "co-odd-antioquia",
+      "type": "odd_one_out",
+      "poiIds": [
+        "medellin-cities-v2",
+        "bello-cities-v2",
+        "rionegro-cities-v2",
+        "cali-cities-v2"
+      ],
+      "targetPoiId": "cali-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht im Departamento Antioquia?",
+        "hu": "Melyik hely nem Antioquia megyében található?",
+        "ro": "Care dintre aceste locuri nu se află în departamentul Antioquia?",
+        "en": "Which of these places is not in Antioquia Department?"
+      }
+    },
+    {
+      "id": "co-order-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "cali-cities-v2",
+        "bogota-cities-v2",
+        "villavicencio-cities-v2",
+        "inirida-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "cali-cities-v2",
+        "bogota-cities-v2",
+        "villavicencio-cities-v2",
+        "inirida-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die Städte von West nach Ost an.",
+        "hu": "Kattints a városokra nyugatról keletre haladva.",
+        "ro": "Apasă orașele de la vest la est.",
+        "en": "Click the cities from west to east."
+      }
+    },
+    {
+      "id": "co-order-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "cartagena-cities-v2",
+        "medellin-cities-v2",
+        "bogota-cities-v2",
+        "leticia-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "cartagena-cities-v2",
+        "medellin-cities-v2",
+        "bogota-cities-v2",
+        "leticia-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Cartagena, Medellín, Bogotá und Leticia von Nord nach Süd an.",
+        "hu": "Kattints Cartagenára, Medellínre, Bogotára és Leticiára északról délre.",
+        "ro": "Apasă Cartagena, Medellín, Bogotá și Leticia de la nord la sud.",
+        "en": "Click Cartagena, Medellín, Bogotá and Leticia from north to south."
+      }
+    }
+  ],
+  "ec": [
+    {
+      "id": "ec-find-quito",
+      "type": "find_poi",
+      "targetPoiId": "quito-cities-v2",
+      "question": {
+        "de": "Finde Quito, die Hauptstadt Ecuadors.",
+        "hu": "Keresd meg Quitót, Ecuador fővárosát.",
+        "ro": "Găsește Quito, capitala Ecuadorului.",
+        "en": "Find Quito, the capital of Ecuador."
+      }
+    },
+    {
+      "id": "ec-find-guayaquil",
+      "type": "find_poi",
+      "targetPoiId": "guayaquil-cities-v2",
+      "question": {
+        "de": "Finde Guayaquil nahe der Pazifikküste.",
+        "hu": "Keresd meg Guayaquilt a Csendes-óceán partvidékén.",
+        "ro": "Găsește Guayaquil în apropierea coastei Pacificului.",
+        "en": "Find Guayaquil near the Pacific coast."
+      }
+    },
+    {
+      "id": "ec-find-cuenca",
+      "type": "find_poi",
+      "targetPoiId": "cuenca-cities-v2",
+      "question": {
+        "de": "Finde die Andenstadt Cuenca im Süden Ecuadors.",
+        "hu": "Keresd meg Cuenca andoki városát Ecuador déli részén.",
+        "ro": "Găsește orașul andin Cuenca din sudul Ecuadorului.",
+        "en": "Find the Andean city of Cuenca in southern Ecuador."
+      }
+    },
+    {
+      "id": "ec-find-puerto-ayora",
+      "type": "find_poi",
+      "targetPoiId": "puerto-ayora-cities-v2",
+      "question": {
+        "de": "Finde Puerto Ayora auf den Galápagosinseln.",
+        "hu": "Keresd meg Puerto Ayorát a Galápagos-szigeteken.",
+        "ro": "Găsește Puerto Ayora în Insulele Galápagos.",
+        "en": "Find Puerto Ayora in the Galápagos Islands."
+      }
+    },
+    {
+      "id": "ec-region-pichincha",
+      "type": "find_region",
+      "targetRegionId": "ECU-1287",
+      "question": {
+        "de": "Klicke auf die Provinz Pichincha, in der Quito liegt.",
+        "hu": "Kattints Pichincha tartományra, ahol Quito található.",
+        "ro": "Apasă pe provincia Pichincha, unde se află Quito.",
+        "en": "Click Pichincha Province, where Quito is located."
+      }
+    },
+    {
+      "id": "ec-region-galapagos",
+      "type": "find_region",
+      "targetRegionId": "ECU-1270",
+      "question": {
+        "de": "Finde die Inselprovinz Galápagos.",
+        "hu": "Keresd meg Galápagos szigettartományát.",
+        "ro": "Găsește provincia insulară Galápagos.",
+        "en": "Find the island province of Galápagos."
+      }
+    },
+    {
+      "id": "ec-region-azuay",
+      "type": "find_region",
+      "targetRegionId": "ECU-1266",
+      "question": {
+        "de": "Finde die Provinz Azuay mit der Hauptstadt Cuenca.",
+        "hu": "Keresd meg Azuay tartományt, amelynek székhelye Cuenca.",
+        "ro": "Găsește provincia Azuay, a cărei capitală este Cuenca.",
+        "en": "Find Azuay Province, whose capital is Cuenca."
+      }
+    },
+    {
+      "id": "ec-odd-guayas",
+      "type": "odd_one_out",
+      "poiIds": [
+        "guayaquil-cities-v2",
+        "duran-cities-v2",
+        "milagro-cities-v2",
+        "cuenca-cities-v2"
+      ],
+      "targetPoiId": "cuenca-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht in der Provinz Guayas?",
+        "hu": "Melyik hely nem Guayas tartományban található?",
+        "ro": "Care dintre aceste locuri nu se află în provincia Guayas?",
+        "en": "Which of these places is not in Guayas Province?"
+      }
+    },
+    {
+      "id": "ec-order-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "manta-cities-v2",
+        "guayaquil-cities-v2",
+        "quito-cities-v2",
+        "tena-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "manta-cities-v2",
+        "guayaquil-cities-v2",
+        "quito-cities-v2",
+        "tena-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die Orte von West nach Ost an.",
+        "hu": "Kattints a helyekre nyugatról keletre haladva.",
+        "ro": "Apasă locurile de la vest la est.",
+        "en": "Click the places from west to east."
+      }
+    },
+    {
+      "id": "ec-order-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "ibarra-cities-v2",
+        "quito-cities-v2",
+        "cuenca-cities-v2",
+        "loja-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "ibarra-cities-v2",
+        "quito-cities-v2",
+        "cuenca-cities-v2",
+        "loja-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Ibarra, Quito, Cuenca und Loja von Nord nach Süd an.",
+        "hu": "Kattints Ibarrára, Quitóra, Cuencára és Lojára északról délre.",
+        "ro": "Apasă Ibarra, Quito, Cuenca și Loja de la nord la sud.",
+        "en": "Click Ibarra, Quito, Cuenca and Loja from north to south."
+      }
+    }
+  ],
+  "gy": [
+    {
+      "id": "gy-find-georgetown",
+      "type": "find_poi",
+      "targetPoiId": "georgetown-cities-v2",
+      "question": {
+        "de": "Finde Georgetown, die Hauptstadt Guyanas.",
+        "hu": "Keresd meg Georgetownt, Guyana fővárosát.",
+        "ro": "Găsește Georgetown, capitala Guyanei.",
+        "en": "Find Georgetown, the capital of Guyana."
+      }
+    },
+    {
+      "id": "gy-find-linden",
+      "type": "find_poi",
+      "targetPoiId": "linden-cities-v2",
+      "question": {
+        "de": "Finde Linden am Demerara-Fluss.",
+        "hu": "Keresd meg Lindent a Demerara folyó mellett.",
+        "ro": "Găsește Linden pe râul Demerara.",
+        "en": "Find Linden on the Demerara River."
+      }
+    },
+    {
+      "id": "gy-find-lethem",
+      "type": "find_poi",
+      "targetPoiId": "lethem-cities-v2",
+      "question": {
+        "de": "Finde Lethem nahe der brasilianischen Grenze.",
+        "hu": "Keresd meg Lethemet a brazil határ közelében.",
+        "ro": "Găsește Lethem aproape de granița cu Brazilia.",
+        "en": "Find Lethem near the Brazilian border."
+      }
+    },
+    {
+      "id": "gy-find-new-amsterdam",
+      "type": "find_poi",
+      "targetPoiId": "new-amsterdam-cities-v2",
+      "question": {
+        "de": "Finde New Amsterdam im Osten Guyanas.",
+        "hu": "Keresd meg New Amsterdamot Guyana keleti részén.",
+        "ro": "Găsește New Amsterdam în estul Guyanei.",
+        "en": "Find New Amsterdam in eastern Guyana."
+      }
+    },
+    {
+      "id": "gy-region-barima-waini",
+      "type": "find_region",
+      "targetRegionId": "GUY-675",
+      "question": {
+        "de": "Klicke auf Barima-Waini im Nordwesten Guyanas.",
+        "hu": "Kattints Barima-Waini régióra Guyana északnyugati részén.",
+        "ro": "Apasă pe regiunea Barima-Waini din nord-vestul Guyanei.",
+        "en": "Click Barima-Waini in northwestern Guyana."
+      }
+    },
+    {
+      "id": "gy-region-upper-takutu",
+      "type": "find_region",
+      "targetRegionId": "GUY-673",
+      "question": {
+        "de": "Finde Upper Takutu-Upper Essequibo an der brasilianischen Grenze.",
+        "hu": "Keresd meg Upper Takutu-Upper Essequibo régiót a brazil határnál.",
+        "ro": "Găsește regiunea Upper Takutu-Upper Essequibo la granița cu Brazilia.",
+        "en": "Find Upper Takutu-Upper Essequibo on the Brazilian border."
+      }
+    },
+    {
+      "id": "gy-region-east-berbice",
+      "type": "find_region",
+      "targetRegionId": "GUY-677",
+      "question": {
+        "de": "Finde East Berbice-Corentyne im Osten Guyanas.",
+        "hu": "Keresd meg East Berbice-Corentyne régiót Guyana keleti részén.",
+        "ro": "Găsește regiunea East Berbice-Corentyne din estul Guyanei.",
+        "en": "Find East Berbice-Corentyne in eastern Guyana."
+      }
+    },
+    {
+      "id": "gy-odd-east-berbice",
+      "type": "odd_one_out",
+      "poiIds": [
+        "new-amsterdam-cities-v2",
+        "corriverton-cities-v2",
+        "rose-hall-cities-v2",
+        "linden-cities-v2"
+      ],
+      "targetPoiId": "linden-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht in East Berbice-Corentyne?",
+        "hu": "Melyik hely nem East Berbice-Corentyne régióban található?",
+        "ro": "Care dintre aceste locuri nu se află în East Berbice-Corentyne?",
+        "en": "Which of these places is not in East Berbice-Corentyne?"
+      }
+    },
+    {
+      "id": "gy-order-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "lethem-cities-v2",
+        "bartica-cities-v2",
+        "georgetown-cities-v2",
+        "new-amsterdam-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "lethem-cities-v2",
+        "bartica-cities-v2",
+        "georgetown-cities-v2",
+        "new-amsterdam-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die Orte von West nach Ost an.",
+        "hu": "Kattints a helyekre nyugatról keletre haladva.",
+        "ro": "Apasă locurile de la vest la est.",
+        "en": "Click the places from west to east."
+      }
+    },
+    {
+      "id": "gy-order-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "mabaruma-cities-v2",
+        "georgetown-cities-v2",
+        "linden-cities-v2",
+        "lethem-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "mabaruma-cities-v2",
+        "georgetown-cities-v2",
+        "linden-cities-v2",
+        "lethem-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Mabaruma, Georgetown, Linden und Lethem von Nord nach Süd an.",
+        "hu": "Kattints Mabarumára, Georgetownra, Lindenre és Lethemre északról délre.",
+        "ro": "Apasă Mabaruma, Georgetown, Linden și Lethem de la nord la sud.",
+        "en": "Click Mabaruma, Georgetown, Linden and Lethem from north to south."
+      }
+    }
+  ],
+  "py": [
+    {
+      "id": "py-find-asuncion",
+      "type": "find_poi",
+      "targetPoiId": "asuncion-cities-v2",
+      "question": {
+        "de": "Finde Asunción, die Hauptstadt Paraguays.",
+        "hu": "Keresd meg Asunciónt, Paraguay fővárosát.",
+        "ro": "Găsește Asunción, capitala Paraguayului.",
+        "en": "Find Asunción, the capital of Paraguay."
+      }
+    },
+    {
+      "id": "py-find-ciudad-del-este",
+      "type": "find_poi",
+      "targetPoiId": "ciudad-del-este-cities-v2",
+      "question": {
+        "de": "Finde Ciudad del Este an der Grenze zu Brasilien.",
+        "hu": "Keresd meg Ciudad del Estét a brazil határnál.",
+        "ro": "Găsește Ciudad del Este la granița cu Brazilia.",
+        "en": "Find Ciudad del Este on the Brazilian border."
+      }
+    },
+    {
+      "id": "py-find-encarnacion",
+      "type": "find_poi",
+      "targetPoiId": "encarnacion-cities-v2",
+      "question": {
+        "de": "Finde Encarnación am Paraná-Fluss im Süden.",
+        "hu": "Keresd meg Encarnaciónt a Paraná folyónál, délen.",
+        "ro": "Găsește Encarnación pe râul Paraná, în sud.",
+        "en": "Find Encarnación on the Paraná River in the south."
+      }
+    },
+    {
+      "id": "py-find-defensores-chaco",
+      "type": "find_poi",
+      "targetPoiId": "py-parque-defensores-chaco-nature-v2",
+      "question": {
+        "de": "Finde den Nationalpark Defensores del Chaco im Norden.",
+        "hu": "Keresd meg a Defensores del Chaco Nemzeti Parkot északon.",
+        "ro": "Găsește Parcul Național Defensores del Chaco în nord.",
+        "en": "Find Defensores del Chaco National Park in the north."
+      }
+    },
+    {
+      "id": "py-region-boqueron",
+      "type": "find_region",
+      "targetRegionId": "PRY-598",
+      "question": {
+        "de": "Klicke auf Boquerón im westlichen Chaco.",
+        "hu": "Kattints Boquerón megyére a nyugati Chacóban.",
+        "ro": "Apasă pe departamentul Boquerón din vestul Chaco.",
+        "en": "Click Boquerón Department in the western Chaco."
+      }
+    },
+    {
+      "id": "py-region-alto-parana",
+      "type": "find_region",
+      "targetRegionId": "PRY-616",
+      "question": {
+        "de": "Finde Alto Paraná an der Grenze zu Brasilien.",
+        "hu": "Keresd meg Alto Paraná megyét a brazil határnál.",
+        "ro": "Găsește departamentul Alto Paraná la granița cu Brazilia.",
+        "en": "Find Alto Paraná Department on the Brazilian border."
+      }
+    },
+    {
+      "id": "py-region-itapua",
+      "type": "find_region",
+      "targetRegionId": "PRY-620",
+      "question": {
+        "de": "Finde Itapúa im Süden Paraguays.",
+        "hu": "Keresd meg Itapúa megyét Paraguay déli részén.",
+        "ro": "Găsește departamentul Itapúa din sudul Paraguayului.",
+        "en": "Find Itapúa Department in southern Paraguay."
+      }
+    },
+    {
+      "id": "py-odd-central",
+      "type": "odd_one_out",
+      "poiIds": [
+        "aregua-cities-v2",
+        "luque-cities-v2",
+        "capiata-cities-v2",
+        "encarnacion-cities-v2"
+      ],
+      "targetPoiId": "encarnacion-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht im Departamento Central?",
+        "hu": "Melyik hely nem Central megyében található?",
+        "ro": "Care dintre aceste locuri nu se află în departamentul Central?",
+        "en": "Which of these places is not in Central Department?"
+      }
+    },
+    {
+      "id": "py-order-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "filadelfia-cities-v2",
+        "asuncion-cities-v2",
+        "villarrica-cities-v2",
+        "ciudad-del-este-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "filadelfia-cities-v2",
+        "asuncion-cities-v2",
+        "villarrica-cities-v2",
+        "ciudad-del-este-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die Städte von West nach Ost an.",
+        "hu": "Kattints a városokra nyugatról keletre haladva.",
+        "ro": "Apasă orașele de la vest la est.",
+        "en": "Click the cities from west to east."
+      }
+    },
+    {
+      "id": "py-order-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "fuerte-olimpo-cities-v2",
+        "pedro-juan-caballero-cities-v2",
+        "asuncion-cities-v2",
+        "encarnacion-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "fuerte-olimpo-cities-v2",
+        "pedro-juan-caballero-cities-v2",
+        "asuncion-cities-v2",
+        "encarnacion-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Fuerte Olimpo, Pedro Juan Caballero, Asunción und Encarnación von Nord nach Süd an.",
+        "hu": "Kattints Fuerte Olimpóra, Pedro Juan Caballeróra, Asunciónra és Encarnaciónra északról délre.",
+        "ro": "Apasă Fuerte Olimpo, Pedro Juan Caballero, Asunción și Encarnación de la nord la sud.",
+        "en": "Click Fuerte Olimpo, Pedro Juan Caballero, Asunción and Encarnación from north to south."
+      }
+    }
+  ]
+}

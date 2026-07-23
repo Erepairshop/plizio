@@ -1,0 +1,545 @@
+{
+  "dk": [
+    {
+      "id": "dk-find-aarhus",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Aarhus? Klicke auf die Stadt.",
+        "hu": "Hol található Aarhus? Kattints a városra.",
+        "ro": "Unde se află Aarhus? Apasă pe oraș.",
+        "en": "Where is Aarhus? Click the city."
+      },
+      "targetPoiId": "city-aarhus"
+    },
+    {
+      "id": "dk-find-odense",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Odense auf der Insel Fünen.",
+        "hu": "Keresd meg Odensét Fyn szigetén.",
+        "ro": "Găsește Odense pe insula Funen.",
+        "en": "Find Odense on the island of Funen."
+      },
+      "targetPoiId": "city-odense"
+    },
+    {
+      "id": "dk-find-legoland",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt das Legoland Billund?",
+        "hu": "Hol található a billundi Legoland?",
+        "ro": "Unde se află Legoland Billund?",
+        "en": "Where is Legoland Billund?"
+      },
+      "targetPoiId": "cult-legoland"
+    },
+    {
+      "id": "dk-find-roskilde-cathedral",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde den Dom zu Roskilde.",
+        "hu": "Keresd meg a roskildei székesegyházat.",
+        "ro": "Găsește Catedrala din Roskilde.",
+        "en": "Find Roskilde Cathedral."
+      },
+      "targetPoiId": "hist-roskilde-cathedral"
+    },
+    {
+      "id": "dk-region-north-denmark",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf die Region Nordjütland.",
+        "hu": "Kattints Észak-Jylland régióra.",
+        "ro": "Apasă pe regiunea Iutlanda de Nord.",
+        "en": "Click the North Denmark Region."
+      },
+      "targetRegionId": "DK-81"
+    },
+    {
+      "id": "dk-region-southern-denmark",
+      "type": "find_region",
+      "question": {
+        "de": "Finde die Region Syddanmark.",
+        "hu": "Keresd meg Dél-Dánia régióját.",
+        "ro": "Găsește regiunea Danemarca de Sud.",
+        "en": "Find the Region of Southern Denmark."
+      },
+      "targetRegionId": "DK-83"
+    },
+    {
+      "id": "dk-region-zealand",
+      "type": "find_region",
+      "question": {
+        "de": "Wo liegt die Region Seeland?",
+        "hu": "Hol található Sjælland régió?",
+        "ro": "Unde se află regiunea Zealand?",
+        "en": "Where is Region Zealand?"
+      },
+      "targetRegionId": "DK-85"
+    },
+    {
+      "id": "dk-odd-jutland",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Städte liegt nicht auf der Halbinsel Jütland?",
+        "hu": "Melyik város nem a Jylland-félszigeten található?",
+        "ro": "Care dintre aceste orașe nu se află în Peninsula Iutlanda?",
+        "en": "Which of these cities is not on the Jutland Peninsula?"
+      },
+      "poiIds": [
+        "city-aalborg",
+        "city-aarhus",
+        "city-esbjerg",
+        "city-odense"
+      ],
+      "targetPoiId": "city-odense"
+    },
+    {
+      "id": "dk-sequence-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Städte von Westen nach Osten an.",
+        "hu": "Kattints a városokra nyugatról keletre haladva.",
+        "ro": "Apasă orașele de la vest la est.",
+        "en": "Click the cities from west to east."
+      },
+      "poiIds": [
+        "city-esbjerg",
+        "city-odense",
+        "city-roskilde"
+      ],
+      "orderedPoiIds": [
+        "city-esbjerg",
+        "city-odense",
+        "city-roskilde"
+      ]
+    },
+    {
+      "id": "dk-sequence-north-south",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Städte von Norden nach Süden an.",
+        "hu": "Kattints a városokra északról délre haladva.",
+        "ro": "Apasă orașele de la nord la sud.",
+        "en": "Click the cities from north to south."
+      },
+      "poiIds": [
+        "city-aalborg",
+        "city-aarhus",
+        "city-odense"
+      ],
+      "orderedPoiIds": [
+        "city-aalborg",
+        "city-aarhus",
+        "city-odense"
+      ]
+    }
+  ],
+  "se": [
+    {
+      "id": "se-find-stockholm",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Stockholm? Klicke auf die Hauptstadt.",
+        "hu": "Hol található Stockholm? Kattints a fővárosra.",
+        "ro": "Unde se află Stockholm? Apasă pe capitală.",
+        "en": "Where is Stockholm? Click the capital."
+      },
+      "targetPoiId": "city-stockholm"
+    },
+    {
+      "id": "se-find-gothenburg",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Göteborg an der Westküste.",
+        "hu": "Keresd meg Göteborgot a nyugati parton.",
+        "ro": "Găsește Göteborg pe coasta de vest.",
+        "en": "Find Gothenburg on the west coast."
+      },
+      "targetPoiId": "city-gothenburg"
+    },
+    {
+      "id": "se-find-kiruna",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Kiruna im hohen Norden Schwedens.",
+        "hu": "Keresd meg Kirunát Svédország messzi északi részén.",
+        "ro": "Găsește Kiruna în nordul îndepărtat al Suediei.",
+        "en": "Find Kiruna in the far north of Sweden."
+      },
+      "targetPoiId": "city-kiruna"
+    },
+    {
+      "id": "se-find-visby",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Visby auf der Insel Gotland?",
+        "hu": "Hol található Visby Gotland szigetén?",
+        "ro": "Unde se află Visby pe insula Gotland?",
+        "en": "Where is Visby on the island of Gotland?"
+      },
+      "targetPoiId": "cult-visby"
+    },
+    {
+      "id": "se-region-norrbotten",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf Norrbotten, Schwedens nördlichstes Län.",
+        "hu": "Kattints Norrbottenre, Svédország legészakibb megyéjére.",
+        "ro": "Apasă pe Norrbotten, cel mai nordic comitat al Suediei.",
+        "en": "Click Norrbotten, Sweden's northernmost county."
+      },
+      "targetRegionId": "SE-BD"
+    },
+    {
+      "id": "se-region-stockholm",
+      "type": "find_region",
+      "question": {
+        "de": "Finde Stockholms län.",
+        "hu": "Keresd meg Stockholm megyét.",
+        "ro": "Găsește comitatul Stockholm.",
+        "en": "Find Stockholm County."
+      },
+      "targetRegionId": "SE-AB"
+    },
+    {
+      "id": "se-region-skane",
+      "type": "find_region",
+      "question": {
+        "de": "Wo liegt Skåne im Süden Schwedens?",
+        "hu": "Hol található Skåne Svédország déli részén?",
+        "ro": "Unde se află Skåne în sudul Suediei?",
+        "en": "Where is Skåne in southern Sweden?"
+      },
+      "targetRegionId": "SE-M"
+    },
+    {
+      "id": "se-odd-skane",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Städte liegt nicht in Skåne?",
+        "hu": "Melyik város nem Skåne megyében található?",
+        "ro": "Care dintre aceste orașe nu se află în Skåne?",
+        "en": "Which of these cities is not in Skåne?"
+      },
+      "poiIds": [
+        "city-malmo",
+        "city-lund",
+        "city-stockholm"
+      ],
+      "targetPoiId": "city-stockholm"
+    },
+    {
+      "id": "se-sequence-south-north",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Städte von Süden nach Norden an.",
+        "hu": "Kattints a városokra délről északra haladva.",
+        "ro": "Apasă orașele de la sud la nord.",
+        "en": "Click the cities from south to north."
+      },
+      "poiIds": [
+        "city-malmo",
+        "city-stockholm",
+        "city-kiruna"
+      ],
+      "orderedPoiIds": [
+        "city-malmo",
+        "city-stockholm",
+        "city-kiruna"
+      ]
+    },
+    {
+      "id": "se-sequence-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Städte von Westen nach Osten an.",
+        "hu": "Kattints a városokra nyugatról keletre haladva.",
+        "ro": "Apasă orașele de la vest la est.",
+        "en": "Click the cities from west to east."
+      },
+      "poiIds": [
+        "city-gothenburg",
+        "city-orebro",
+        "city-stockholm"
+      ],
+      "orderedPoiIds": [
+        "city-gothenburg",
+        "city-orebro",
+        "city-stockholm"
+      ]
+    }
+  ],
+  "fi": [
+    {
+      "id": "fi-find-helsinki",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Helsinki? Klicke auf die Hauptstadt.",
+        "hu": "Hol található Helsinki? Kattints a fővárosra.",
+        "ro": "Unde se află Helsinki? Apasă pe capitală.",
+        "en": "Where is Helsinki? Click the capital."
+      },
+      "targetPoiId": "city-helsinki"
+    },
+    {
+      "id": "fi-find-turku",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Turku an der Südwestküste.",
+        "hu": "Keresd meg Turkut a délnyugati parton.",
+        "ro": "Găsește Turku pe coasta de sud-vest.",
+        "en": "Find Turku on the southwest coast."
+      },
+      "targetPoiId": "city-turku"
+    },
+    {
+      "id": "fi-find-rovaniemi",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Rovaniemi nahe dem Polarkreis.",
+        "hu": "Keresd meg Rovaniemit az északi sarkkör közelében.",
+        "ro": "Găsește Rovaniemi în apropierea Cercului Polar.",
+        "en": "Find Rovaniemi near the Arctic Circle."
+      },
+      "targetPoiId": "city-rovaniemi"
+    },
+    {
+      "id": "fi-find-oulu",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Oulu am Bottnischen Meerbusen?",
+        "hu": "Hol található Oulu a Botteni-öbölnél?",
+        "ro": "Unde se află Oulu la Golful Botnic?",
+        "en": "Where is Oulu on the Gulf of Bothnia?"
+      },
+      "targetPoiId": "city-oulu"
+    },
+    {
+      "id": "fi-region-lapland",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf die Region Lappland.",
+        "hu": "Kattints Lappföld régióra.",
+        "ro": "Apasă pe regiunea Laponia.",
+        "en": "Click the Lapland region."
+      },
+      "targetRegionId": "FI-10"
+    },
+    {
+      "id": "fi-region-uusimaa",
+      "type": "find_region",
+      "question": {
+        "de": "Finde Uusimaa rund um Helsinki.",
+        "hu": "Keresd meg Uusimaa régiót Helsinki körül.",
+        "ro": "Găsește regiunea Uusimaa din jurul orașului Helsinki.",
+        "en": "Find the Uusimaa region around Helsinki."
+      },
+      "targetRegionId": "FI-18"
+    },
+    {
+      "id": "fi-region-pirkanmaa",
+      "type": "find_region",
+      "question": {
+        "de": "Wo liegt Pirkanmaa mit der Stadt Tampere?",
+        "hu": "Hol található Pirkanmaa, Tampere régiója?",
+        "ro": "Unde se află Pirkanmaa, regiunea orașului Tampere?",
+        "en": "Where is Pirkanmaa, the region containing Tampere?"
+      },
+      "targetRegionId": "FI-11"
+    },
+    {
+      "id": "fi-odd-uusimaa",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Städte liegt nicht in der Region Uusimaa?",
+        "hu": "Melyik város nem Uusimaa régióban található?",
+        "ro": "Care dintre aceste orașe nu se află în regiunea Uusimaa?",
+        "en": "Which of these cities is not in the Uusimaa region?"
+      },
+      "poiIds": [
+        "city-helsinki",
+        "city-porvoo",
+        "city-turku"
+      ],
+      "targetPoiId": "city-turku"
+    },
+    {
+      "id": "fi-sequence-south-north",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Städte von Süden nach Norden an.",
+        "hu": "Kattints a városokra délről északra haladva.",
+        "ro": "Apasă orașele de la sud la nord.",
+        "en": "Click the cities from south to north."
+      },
+      "poiIds": [
+        "city-helsinki",
+        "city-tampere",
+        "city-oulu",
+        "city-rovaniemi"
+      ],
+      "orderedPoiIds": [
+        "city-helsinki",
+        "city-tampere",
+        "city-oulu",
+        "city-rovaniemi"
+      ]
+    },
+    {
+      "id": "fi-sequence-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Städte von Westen nach Osten an.",
+        "hu": "Kattints a városokra nyugatról keletre haladva.",
+        "ro": "Apasă orașele de la vest la est.",
+        "en": "Click the cities from west to east."
+      },
+      "poiIds": [
+        "city-vaasa",
+        "city-tampere",
+        "city-kuopio"
+      ],
+      "orderedPoiIds": [
+        "city-vaasa",
+        "city-tampere",
+        "city-kuopio"
+      ]
+    }
+  ],
+  "ee": [
+    {
+      "id": "ee-find-tallinn",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Tallinn? Klicke auf die Hauptstadt.",
+        "hu": "Hol található Tallinn? Kattints a fővárosra.",
+        "ro": "Unde se află Tallinn? Apasă pe capitală.",
+        "en": "Where is Tallinn? Click the capital."
+      },
+      "targetPoiId": "ee-tallinn"
+    },
+    {
+      "id": "ee-find-tartu",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde die Universitätsstadt Tartu.",
+        "hu": "Keresd meg Tartu egyetemi városát.",
+        "ro": "Găsește orașul universitar Tartu.",
+        "en": "Find the university city of Tartu."
+      },
+      "targetPoiId": "ee-tartu"
+    },
+    {
+      "id": "ee-find-narva",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Narva an der Grenze zu Russland.",
+        "hu": "Keresd meg Narvát az orosz határnál.",
+        "ro": "Găsește Narva la granița cu Rusia.",
+        "en": "Find Narva on the border with Russia."
+      },
+      "targetPoiId": "ee-narva"
+    },
+    {
+      "id": "ee-find-kuressaare",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Kuressaare auf der Insel Saaremaa?",
+        "hu": "Hol található Kuressaare Saaremaa szigetén?",
+        "ro": "Unde se află Kuressaare pe insula Saaremaa?",
+        "en": "Where is Kuressaare on the island of Saaremaa?"
+      },
+      "targetPoiId": "city-kuressaare"
+    },
+    {
+      "id": "ee-region-harju",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf den Kreis Harju rund um Tallinn.",
+        "hu": "Kattints a Tallinnt körülvevő Harju megyére.",
+        "ro": "Apasă pe comitatul Harju din jurul Tallinnului.",
+        "en": "Click Harju County around Tallinn."
+      },
+      "targetRegionId": "EE-37"
+    },
+    {
+      "id": "ee-region-tartu",
+      "type": "find_region",
+      "question": {
+        "de": "Finde den Kreis Tartu.",
+        "hu": "Keresd meg Tartu megyét.",
+        "ro": "Găsește comitatul Tartu.",
+        "en": "Find Tartu County."
+      },
+      "targetRegionId": "EE-78"
+    },
+    {
+      "id": "ee-region-saare",
+      "type": "find_region",
+      "question": {
+        "de": "Wo liegt der Inselkreis Saare?",
+        "hu": "Hol található Saare szigetmegye?",
+        "ro": "Unde se află comitatul insular Saare?",
+        "en": "Where is the island county of Saare?"
+      },
+      "targetRegionId": "EE-74"
+    },
+    {
+      "id": "ee-odd-russian-border",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Städte liegt direkt an der Grenze zu Russland?",
+        "hu": "Melyik város fekszik közvetlenül az orosz határon?",
+        "ro": "Care dintre aceste orașe se află direct la granița cu Rusia?",
+        "en": "Which of these cities lies directly on the border with Russia?"
+      },
+      "poiIds": [
+        "ee-tallinn",
+        "ee-tartu",
+        "ee-narva"
+      ],
+      "targetPoiId": "ee-narva"
+    },
+    {
+      "id": "ee-sequence-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Städte von Westen nach Osten an.",
+        "hu": "Kattints a városokra nyugatról keletre haladva.",
+        "ro": "Apasă orașele de la vest la est.",
+        "en": "Click the cities from west to east."
+      },
+      "poiIds": [
+        "ee-parnu",
+        "ee-tartu",
+        "ee-narva"
+      ],
+      "orderedPoiIds": [
+        "ee-parnu",
+        "ee-tartu",
+        "ee-narva"
+      ]
+    },
+    {
+      "id": "ee-sequence-north-south",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Städte von Norden nach Süden an.",
+        "hu": "Kattints a városokra északról délre haladva.",
+        "ro": "Apasă orașele de la nord la sud.",
+        "en": "Click the cities from north to south."
+      },
+      "poiIds": [
+        "ee-tallinn",
+        "ee-tartu",
+        "city-valga"
+      ],
+      "orderedPoiIds": [
+        "ee-tallinn",
+        "ee-tartu",
+        "city-valga"
+      ]
+    }
+  ]
+}

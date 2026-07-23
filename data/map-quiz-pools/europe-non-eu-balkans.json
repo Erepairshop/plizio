@@ -1,0 +1,822 @@
+{
+  "rs": [
+    {
+      "id": "rs-find-belgrade-theatre",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde das Nationaltheater in Belgrad.",
+        "hu": "Keresd meg a belgrádi Nemzeti Színházat.",
+        "ro": "Găsește Teatrul Național din Belgrad.",
+        "en": "Find the National Theatre in Belgrade."
+      },
+      "targetPoiId": "serbia-belgrade-national-theater-landmarks-v2"
+    },
+    {
+      "id": "rs-find-subotica-city-hall",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde das Rathaus von Subotica.",
+        "hu": "Keresd meg a szabadkai városházát.",
+        "ro": "Găsește Primăria din Subotica.",
+        "en": "Find Subotica City Hall."
+      },
+      "targetPoiId": "serbia-subotica-city-hall-landmarks-v2"
+    },
+    {
+      "id": "rs-find-kopaonik",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt das Kopaonik-Gebirge?",
+        "hu": "Hol található a Kopaonik-hegység?",
+        "ro": "Unde se află Munții Kopaonik?",
+        "en": "Where are the Kopaonik Mountains?"
+      },
+      "targetPoiId": "mountain-kopaonik"
+    },
+    {
+      "id": "rs-find-stara-planina",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde die Stara Planina im Osten Serbiens.",
+        "hu": "Keresd meg a Kelet-Szerbiában fekvő Stara Planinát.",
+        "ro": "Găsește Stara Planina în estul Serbiei.",
+        "en": "Find Stara Planina in eastern Serbia."
+      },
+      "targetPoiId": "RS-007-stara-planina"
+    },
+    {
+      "id": "rs-region-belgrade",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf die Region Grad Beograd.",
+        "hu": "Kattints Grad Beograd régiójára.",
+        "ro": "Apasă pe regiunea Grad Beograd.",
+        "en": "Click the Grad Beograd region."
+      },
+      "targetRegionId": "RS-019"
+    },
+    {
+      "id": "rs-region-zlatibor",
+      "type": "find_region",
+      "question": {
+        "de": "Finde den Bezirk Zlatiborski.",
+        "hu": "Keresd meg a Zlatiborski körzetet.",
+        "ro": "Găsește districtul Zlatiborski.",
+        "en": "Find the Zlatiborski District."
+      },
+      "targetRegionId": "RS-012"
+    },
+    {
+      "id": "rs-region-pirot",
+      "type": "find_region",
+      "question": {
+        "de": "Finde den Bezirk Pirotski.",
+        "hu": "Keresd meg a Pirotski körzetet.",
+        "ro": "Găsește districtul Pirotski.",
+        "en": "Find the Pirotski District."
+      },
+      "targetRegionId": "RS-007"
+    },
+    {
+      "id": "rs-odd-vojvodina",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort liegt nicht in der Vojvodina?",
+        "hu": "Melyik település nem a Vajdaságban található?",
+        "ro": "Care localitate nu se află în Voivodina?",
+        "en": "Which place is not in Vojvodina?"
+      },
+      "poiIds": [
+        "RS-002-sombor",
+        "RS-003-kikinda",
+        "RS-017-vrsac",
+        "RS-004-vranje"
+      ],
+      "targetPoiId": "RS-004-vranje"
+    },
+    {
+      "id": "rs-order-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Städte von West nach Ost an.",
+        "hu": "Kattints a városokra nyugatról keletre.",
+        "ro": "Apasă orașele de la vest la est.",
+        "en": "Click the cities from west to east."
+      },
+      "poiIds": [
+        "RS-014-sabac",
+        "RS-020-smederevo-city",
+        "RS-006-zajecar"
+      ],
+      "orderedPoiIds": [
+        "RS-014-sabac",
+        "RS-020-smederevo-city",
+        "RS-006-zajecar"
+      ]
+    },
+    {
+      "id": "rs-order-north-south",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Städte von Nord nach Süd an.",
+        "hu": "Kattints a városokra északról délre.",
+        "ro": "Apasă orașele de la nord la sud.",
+        "en": "Click the cities from north to south."
+      },
+      "poiIds": [
+        "RS-003-senta",
+        "RS-020-smederevo-city",
+        "RS-004-vranje"
+      ],
+      "orderedPoiIds": [
+        "RS-003-senta",
+        "RS-020-smederevo-city",
+        "RS-004-vranje"
+      ]
+    }
+  ],
+  "ba": [
+    {
+      "id": "ba-find-sarajevo",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Sarajevo.",
+        "hu": "Keresd meg Szarajevót.",
+        "ro": "Găsește Sarajevo.",
+        "en": "Find Sarajevo."
+      },
+      "targetPoiId": "ba-sarajevo"
+    },
+    {
+      "id": "ba-find-mostar",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Mostar?",
+        "hu": "Hol található Mostar?",
+        "ro": "Unde se află Mostar?",
+        "en": "Where is Mostar?"
+      },
+      "targetPoiId": "ba-mostar"
+    },
+    {
+      "id": "ba-find-jajce",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde die Festung und den Wasserfall von Jajce.",
+        "hu": "Keresd meg Jajca várát és vízesését.",
+        "ro": "Găsește cetatea și cascada din Jajce.",
+        "en": "Find Jajce Fortress and waterfall."
+      },
+      "targetPoiId": "ba-jajce"
+    },
+    {
+      "id": "ba-find-trebinje",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Trebinje im Süden des Landes.",
+        "hu": "Keresd meg az ország déli részén fekvő Trebinjét.",
+        "ro": "Găsește Trebinje în sudul țării.",
+        "en": "Find Trebinje in the south of the country."
+      },
+      "targetPoiId": "ba-trebinje"
+    },
+    {
+      "id": "ba-region-banja-luka",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf die Region Banja Luka.",
+        "hu": "Kattints Banja Luka régiójára.",
+        "ro": "Apasă pe regiunea Banja Luka.",
+        "en": "Click the Banja Luka region."
+      },
+      "targetRegionId": "BA-004"
+    },
+    {
+      "id": "ba-region-una-sana",
+      "type": "find_region",
+      "question": {
+        "de": "Finde die Region Una-Sana im Nordwesten.",
+        "hu": "Keresd meg az északnyugati Una-Sana régiót.",
+        "ro": "Găsește regiunea Una-Sana din nord-vest.",
+        "en": "Find the Una-Sana region in the northwest."
+      },
+      "targetRegionId": "BA-005"
+    },
+    {
+      "id": "ba-region-tuzla",
+      "type": "find_region",
+      "question": {
+        "de": "Finde die Region Tuzla.",
+        "hu": "Keresd meg Tuzla régióját.",
+        "ro": "Găsește regiunea Tuzla.",
+        "en": "Find the Tuzla region."
+      },
+      "targetRegionId": "BA-015"
+    },
+    {
+      "id": "ba-odd-herzegovina",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche Stadt liegt nicht in der Herzegowina?",
+        "hu": "Melyik város nem Hercegovinában található?",
+        "ro": "Care oraș nu se află în Herțegovina?",
+        "en": "Which city is not in Herzegovina?"
+      },
+      "poiIds": [
+        "ba-mostar",
+        "ba-trebinje",
+        "bosniaherzegovina-capljina-cities-v2",
+        "ba-bihac"
+      ],
+      "targetPoiId": "ba-bihac"
+    },
+    {
+      "id": "ba-order-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Städte von West nach Ost an.",
+        "hu": "Kattints a városokra nyugatról keletre.",
+        "ro": "Apasă orașele de la vest la est.",
+        "en": "Click the cities from west to east."
+      },
+      "poiIds": [
+        "ba-bihac",
+        "ba-zenica",
+        "ba-tuzla"
+      ],
+      "orderedPoiIds": [
+        "ba-bihac",
+        "ba-zenica",
+        "ba-tuzla"
+      ]
+    },
+    {
+      "id": "ba-order-north-south",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Städte von Nord nach Süd an.",
+        "hu": "Kattints a városokra északról délre.",
+        "ro": "Apasă orașele de la nord la sud.",
+        "en": "Click the cities from north to south."
+      },
+      "poiIds": [
+        "ba-prijedor",
+        "ba-sarajevo",
+        "ba-trebinje"
+      ],
+      "orderedPoiIds": [
+        "ba-prijedor",
+        "ba-sarajevo",
+        "ba-trebinje"
+      ]
+    }
+  ],
+  "al": [
+    {
+      "id": "al-find-tirana",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Tirana.",
+        "hu": "Keresd meg Tiranát.",
+        "ro": "Găsește Tirana.",
+        "en": "Find Tirana."
+      },
+      "targetPoiId": "city-tirana"
+    },
+    {
+      "id": "al-find-shkoder",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Shkodra?",
+        "hu": "Hol található Shkodra?",
+        "ro": "Unde se află Shkodra?",
+        "en": "Where is Shkodra?"
+      },
+      "targetPoiId": "city-shkoder"
+    },
+    {
+      "id": "al-find-berat-castle",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde die Burg von Berat.",
+        "hu": "Keresd meg a berati várat.",
+        "ro": "Găsește Castelul Berat.",
+        "en": "Find Berat Castle."
+      },
+      "targetPoiId": "hist-berat-castle"
+    },
+    {
+      "id": "al-find-butrint",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde die antike Stätte Butrint.",
+        "hu": "Keresd meg Butrint ókori romvárosát.",
+        "ro": "Găsește situl antic Butrint.",
+        "en": "Find the ancient site of Butrint."
+      },
+      "targetPoiId": "hist-butrint"
+    },
+    {
+      "id": "al-region-tirane",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf den Qark Tirana.",
+        "hu": "Kattints Tiranë megyére.",
+        "ro": "Apasă pe județul Tiranë.",
+        "en": "Click Tiranë County."
+      },
+      "targetRegionId": "AL-009"
+    },
+    {
+      "id": "al-region-shkoder",
+      "type": "find_region",
+      "question": {
+        "de": "Finde den Qark Shkodra im Norden.",
+        "hu": "Keresd meg az északi Shkodër megyét.",
+        "ro": "Găsește județul Shkodër din nord.",
+        "en": "Find Shkodër County in the north."
+      },
+      "targetRegionId": "AL-007"
+    },
+    {
+      "id": "al-region-gjirokaster",
+      "type": "find_region",
+      "question": {
+        "de": "Finde den Qark Gjirokastra im Süden.",
+        "hu": "Keresd meg a déli Gjirokastër megyét.",
+        "ro": "Găsește județul Gjirokastër din sud.",
+        "en": "Find Gjirokastër County in the south."
+      },
+      "targetRegionId": "AL-005"
+    },
+    {
+      "id": "al-odd-adriatic",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche Stadt liegt nicht an oder nahe der Adriaküste?",
+        "hu": "Melyik város nem az Adria partján vagy annak közelében fekszik?",
+        "ro": "Care oraș nu se află pe sau lângă coasta Adriaticii?",
+        "en": "Which city is not on or near the Adriatic coast?"
+      },
+      "poiIds": [
+        "city-durres",
+        "city-vlore",
+        "city-shkoder",
+        "city-korce"
+      ],
+      "targetPoiId": "city-korce"
+    },
+    {
+      "id": "al-order-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Städte von West nach Ost an.",
+        "hu": "Kattints a városokra nyugatról keletre.",
+        "ro": "Apasă orașele de la vest la est.",
+        "en": "Click the cities from west to east."
+      },
+      "poiIds": [
+        "city-durres",
+        "city-tirana",
+        "city-korce"
+      ],
+      "orderedPoiIds": [
+        "city-durres",
+        "city-tirana",
+        "city-korce"
+      ]
+    },
+    {
+      "id": "al-order-north-south",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Orte von Nord nach Süd an.",
+        "hu": "Kattints a helyekre északról délre.",
+        "ro": "Apasă locurile de la nord la sud.",
+        "en": "Click the places from north to south."
+      },
+      "poiIds": [
+        "city-shkoder",
+        "city-tirana",
+        "city-berat",
+        "hist-butrint"
+      ],
+      "orderedPoiIds": [
+        "city-shkoder",
+        "city-tirana",
+        "city-berat",
+        "hist-butrint"
+      ]
+    }
+  ],
+  "me": [
+    {
+      "id": "me-find-kotor-walls",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde die Stadtmauer von Kotor.",
+        "hu": "Keresd meg Kotor városfalát.",
+        "ro": "Găsește zidurile orașului Kotor.",
+        "en": "Find the city walls of Kotor."
+      },
+      "targetPoiId": "montenegro-kotor-walls-landmarks-v2"
+    },
+    {
+      "id": "me-find-durmitor",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde die alpine Landschaft des Durmitor.",
+        "hu": "Keresd meg a Durmitor alpesi vidékét.",
+        "ro": "Găsește peisajul alpin din Durmitor.",
+        "en": "Find the alpine landscape of Durmitor."
+      },
+      "targetPoiId": "montenegro-durmitor-flora-life-v2"
+    },
+    {
+      "id": "me-find-ulcinj-old-town",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde die Altstadt von Ulcinj.",
+        "hu": "Keresd meg Ulcinj óvárosát.",
+        "ro": "Găsește orașul vechi din Ulcinj.",
+        "en": "Find the old town of Ulcinj."
+      },
+      "targetPoiId": "montenegro-starigrad-ulcinj-history-v2"
+    },
+    {
+      "id": "me-find-lovcen",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt der Nationalpark Lovćen?",
+        "hu": "Hol található a Lovćen Nemzeti Park?",
+        "ro": "Unde se află Parcul Național Lovćen?",
+        "en": "Where is Lovćen National Park?"
+      },
+      "targetPoiId": "me-018-lovcen"
+    },
+    {
+      "id": "me-region-podgorica",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf die Gemeinde Podgorica.",
+        "hu": "Kattints Podgorica községére.",
+        "ro": "Apasă pe comuna Podgorica.",
+        "en": "Click Podgorica Municipality."
+      },
+      "targetRegionId": "ME-012"
+    },
+    {
+      "id": "me-region-kotor",
+      "type": "find_region",
+      "question": {
+        "de": "Finde die Gemeinde Kotor an der Bucht.",
+        "hu": "Keresd meg Kotor községét az öbölnél.",
+        "ro": "Găsește comuna Kotor de lângă golf.",
+        "en": "Find Kotor Municipality by the bay."
+      },
+      "targetRegionId": "ME-010"
+    },
+    {
+      "id": "me-region-zabljak",
+      "type": "find_region",
+      "question": {
+        "de": "Finde die Gemeinde Žabljak beim Durmitor.",
+        "hu": "Keresd meg Žabljak községét a Durmitornál.",
+        "ro": "Găsește comuna Žabljak de lângă Durmitor.",
+        "en": "Find Žabljak Municipality by Durmitor."
+      },
+      "targetRegionId": "ME-007"
+    },
+    {
+      "id": "me-odd-coast",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort liegt nicht an der Adriaküste?",
+        "hu": "Melyik hely nem az Adria partján található?",
+        "ro": "Care loc nu se află pe coasta Adriaticii?",
+        "en": "Which place is not on the Adriatic coast?"
+      },
+      "poiIds": [
+        "montenegro-kotor-walls-landmarks-v2",
+        "montenegro-budva-citadel-landmarks-v2",
+        "montenegro-ulcinj-fortress-landmarks-v2",
+        "montenegro-durmitor-flora-life-v2"
+      ],
+      "targetPoiId": "montenegro-durmitor-flora-life-v2"
+    },
+    {
+      "id": "me-order-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Orte von West nach Ost an.",
+        "hu": "Kattints a helyekre nyugatról keletre.",
+        "ro": "Apasă locurile de la vest la est.",
+        "en": "Click the places from west to east."
+      },
+      "poiIds": [
+        "montenegro-kotor-walls-landmarks-v2",
+        "montenegro-podgorica-st-george-landmarks-v2",
+        "me-002-city"
+      ],
+      "orderedPoiIds": [
+        "montenegro-kotor-walls-landmarks-v2",
+        "montenegro-podgorica-st-george-landmarks-v2",
+        "me-002-city"
+      ]
+    },
+    {
+      "id": "me-order-north-south",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Orte von Nord nach Süd an.",
+        "hu": "Kattints a helyekre északról délre.",
+        "ro": "Apasă locurile de la nord la sud.",
+        "en": "Click the places from north to south."
+      },
+      "poiIds": [
+        "me-005-city",
+        "montenegro-podgorica-st-george-landmarks-v2",
+        "montenegro-starigrad-ulcinj-history-v2"
+      ],
+      "orderedPoiIds": [
+        "me-005-city",
+        "montenegro-podgorica-st-george-landmarks-v2",
+        "montenegro-starigrad-ulcinj-history-v2"
+      ]
+    }
+  ],
+  "mk": [
+    {
+      "id": "mk-find-mavrovo",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde den Nationalpark Mavrovo.",
+        "hu": "Keresd meg a Mavrovo Nemzeti Parkot.",
+        "ro": "Găsește Parcul Național Mavrovo.",
+        "en": "Find Mavrovo National Park."
+      },
+      "targetPoiId": "northmacedonia-mavrovo-life-v2"
+    },
+    {
+      "id": "mk-find-ohrid-old-town",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde die Altstadt von Ohrid.",
+        "hu": "Keresd meg Ohrid óvárosát.",
+        "ro": "Găsește orașul vechi din Ohrid.",
+        "en": "Find Ohrid Old Town."
+      },
+      "targetPoiId": "MK-007-ohrid-old-town"
+    },
+    {
+      "id": "mk-find-bitola-clock",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde den Uhrturm von Bitola.",
+        "hu": "Keresd meg a bitolai óratornyot.",
+        "ro": "Găsește Turnul cu Ceas din Bitola.",
+        "en": "Find Bitola Clock Tower."
+      },
+      "targetPoiId": "northmacedonia-clock-tower-bitola-landmarks-v2"
+    },
+    {
+      "id": "mk-find-skopje-aqueduct",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde das Aquädukt von Skopje.",
+        "hu": "Keresd meg a szkopjei akveduktust.",
+        "ro": "Găsește apeductul din Skopje.",
+        "en": "Find the Skopje Aqueduct."
+      },
+      "targetPoiId": "MK-044-aqueduct-skopje"
+    },
+    {
+      "id": "mk-region-ohrid",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf die Gemeinde Ohrid.",
+        "hu": "Kattints Ohrid községére.",
+        "ro": "Apasă pe comuna Ohrid.",
+        "en": "Click Ohrid Municipality."
+      },
+      "targetRegionId": "MK-007"
+    },
+    {
+      "id": "mk-region-bitola",
+      "type": "find_region",
+      "question": {
+        "de": "Finde die Gemeinde Bitola.",
+        "hu": "Keresd meg Bitola községét.",
+        "ro": "Găsește comuna Bitola.",
+        "en": "Find Bitola Municipality."
+      },
+      "targetRegionId": "MK-019"
+    },
+    {
+      "id": "mk-region-skopje",
+      "type": "find_region",
+      "question": {
+        "de": "Finde die Region Skopje.",
+        "hu": "Keresd meg Szkopje régióját.",
+        "ro": "Găsește regiunea Skopje.",
+        "en": "Find the Skopje region."
+      },
+      "targetRegionId": "MK-068"
+    },
+    {
+      "id": "mk-odd-west",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort liegt nicht im Westen Nordmazedoniens?",
+        "hu": "Melyik hely nem Észak-Macedónia nyugati részén található?",
+        "ro": "Care loc nu se află în vestul Macedoniei de Nord?",
+        "en": "Which place is not in western North Macedonia?"
+      },
+      "poiIds": [
+        "MK-001-struga-city",
+        "MK-003-debar-city",
+        "MK-005-gostivar-city",
+        "northmacedonia-berovo-cities-v2"
+      ],
+      "targetPoiId": "northmacedonia-berovo-cities-v2"
+    },
+    {
+      "id": "mk-order-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Orte von West nach Ost an.",
+        "hu": "Kattints a helyekre nyugatról keletre.",
+        "ro": "Apasă locurile de la vest la est.",
+        "en": "Click the places from west to east."
+      },
+      "poiIds": [
+        "MK-001-struga-city",
+        "northmacedonia-prilep-tobacco-processing-economic-v2",
+        "northmacedonia-berovo-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "MK-001-struga-city",
+        "northmacedonia-prilep-tobacco-processing-economic-v2",
+        "northmacedonia-berovo-cities-v2"
+      ]
+    },
+    {
+      "id": "mk-order-north-south",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Orte von Nord nach Süd an.",
+        "hu": "Kattints a helyekre északról délre.",
+        "ro": "Apasă locurile de la nord la sud.",
+        "en": "Click the places from north to south."
+      },
+      "poiIds": [
+        "northmacedonia-kriva-palanka-cities-v2",
+        "northmacedonia-monument-karpos-skopje-landmarks-v2",
+        "northmacedonia-clock-tower-bitola-landmarks-v2"
+      ],
+      "orderedPoiIds": [
+        "northmacedonia-kriva-palanka-cities-v2",
+        "northmacedonia-monument-karpos-skopje-landmarks-v2",
+        "northmacedonia-clock-tower-bitola-landmarks-v2"
+      ]
+    }
+  ],
+  "xk": [
+    {
+      "id": "xk-find-decan",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde das Kloster Visoki Dečani.",
+        "hu": "Keresd meg a Visoki Dečani kolostort.",
+        "ro": "Găsește Mănăstirea Visoki Dečani.",
+        "en": "Find Visoki Dečani Monastery."
+      },
+      "targetPoiId": "xk-decan"
+    },
+    {
+      "id": "xk-find-gjakova",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Gjakova.",
+        "hu": "Keresd meg Gjakovát.",
+        "ro": "Găsește Gjakova.",
+        "en": "Find Gjakova."
+      },
+      "targetPoiId": "xk-gjakova"
+    },
+    {
+      "id": "xk-find-prizren-fortress",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde die Festung von Prizren.",
+        "hu": "Keresd meg Prizren várát.",
+        "ro": "Găsește Cetatea Prizren.",
+        "en": "Find Prizren Fortress."
+      },
+      "targetPoiId": "xk-kalaja-prizren"
+    },
+    {
+      "id": "xk-find-pogragja",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde die Burg Pogragja im Osten.",
+        "hu": "Keresd meg a keleten fekvő Pogragja várát.",
+        "ro": "Găsește Castelul Pogragja din est.",
+        "en": "Find Pogragja Castle in the east."
+      },
+      "targetPoiId": "xk-pogragja-castle"
+    },
+    {
+      "id": "xk-region-pristina",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf die Region Priština.",
+        "hu": "Kattints Priština régiójára.",
+        "ro": "Apasă pe regiunea Priština.",
+        "en": "Click the Priština region."
+      },
+      "targetRegionId": "XK-014"
+    },
+    {
+      "id": "xk-region-decani",
+      "type": "find_region",
+      "question": {
+        "de": "Finde die Region Dečani im Westen.",
+        "hu": "Keresd meg a nyugati Dečani régiót.",
+        "ro": "Găsește regiunea Dečani din vest.",
+        "en": "Find the Dečani region in the west."
+      },
+      "targetRegionId": "XK-001"
+    },
+    {
+      "id": "xk-region-prizren",
+      "type": "find_region",
+      "question": {
+        "de": "Finde die Region Prizren im Süden.",
+        "hu": "Keresd meg a déli Prizren régiót.",
+        "ro": "Găsește regiunea Prizren din sud.",
+        "en": "Find the Prizren region in the south."
+      },
+      "targetRegionId": "XK-004"
+    },
+    {
+      "id": "xk-odd-historic",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort ist keine historische Sehenswürdigkeit?",
+        "hu": "Melyik hely nem történelmi látnivaló?",
+        "ro": "Care loc nu este un obiectiv istoric?",
+        "en": "Which place is not a historic sight?"
+      },
+      "poiIds": [
+        "xk-decan",
+        "xk-hadum-mosque",
+        "xk-kalaja-prizren",
+        "xk-gjilan"
+      ],
+      "targetPoiId": "xk-gjilan"
+    },
+    {
+      "id": "xk-order-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Orte von West nach Ost an.",
+        "hu": "Kattints a helyekre nyugatról keletre.",
+        "ro": "Apasă locurile de la vest la est.",
+        "en": "Click the places from west to east."
+      },
+      "poiIds": [
+        "xk-decan",
+        "xk-prizren",
+        "xk-gjilan"
+      ],
+      "orderedPoiIds": [
+        "xk-decan",
+        "xk-prizren",
+        "xk-gjilan"
+      ]
+    },
+    {
+      "id": "xk-order-north-south",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Orte von Nord nach Süd an.",
+        "hu": "Kattints a helyekre északról délre.",
+        "ro": "Apasă locurile de la nord la sud.",
+        "en": "Click the places from north to south."
+      },
+      "poiIds": [
+        "xk-decan",
+        "xk-gjakova",
+        "xk-prizren",
+        "xk-restelica"
+      ],
+      "orderedPoiIds": [
+        "xk-decan",
+        "xk-gjakova",
+        "xk-prizren",
+        "xk-restelica"
+      ]
+    }
+  ]
+}

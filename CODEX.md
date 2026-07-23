@@ -14,9 +14,16 @@ Nem váltja ki a `CLAUDE.md`-t, hanem gyors képbehozásra szolgál.
 - Kimenet: `public/<orszag-slug>-map/`, nyelvenként `de/`, `hu/`, `ro/`, `en/`.
 - Gyors deploy: `.github/workflows/deploy-static-maps.yml`; nem igényel teljes Next buildet.
 - A térképes kvíz közös, vanilla JavaScript motorja a generátorban van.
-- Országonkénti feladatpool: `MAP_QUIZ_POOLS`.
-- Németország (`de`) jelenleg 10 feladatot kapott mind a négy nyelven:
-  POI-keresés, tartománykeresés, kakukktojás és sorrendi feladat.
+- Németország (`de`) referencia-poolja a generátorban maradt; az új országpoolok adatvezéreltek:
+  `data/map-quiz-pools/*.json`.
+- A generátor az összes JSON-fragmentumot automatikusan betölti, és hibával leáll duplikált
+  ország, nem 10 feladat, hibás séma, hiányzó nyelv vagy nem létező térképi ID esetén.
+- 2026-07 állapot: minden konfigurált országos térkép kész Európában, Észak- és
+  Dél-Amerikában, Afrikában, Ázsiában és Óceániában.
+- Összesen 194 ország × 10 feladat × 4 nyelv. Ebből 193 ország külső JSON-pool,
+  Németország referencia-poolja továbbra is a generátorban van.
+- Feladattípusok: POI-keresés, régiókeresés, kakukktojás és földrajzi sorrend.
+- Ha egy országhoz nincs pool, a generált oldalon sem kvízgomb, sem kvízpanel nem jelenik meg.
 - Kvíz közben legfeljebb 30 POI lehet látható.
 - A kvíz végén nevet kér; a meglévő `plizio_username` localStorage-kulcsot használja.
 - A helyi eredménylista kulcsa: `plizio_map_quiz_scores_v1`.
@@ -24,12 +31,26 @@ Nem váltja ki a `CLAUDE.md`-t, hanem gyors képbehozásra szolgál.
 - A POI-kártya „Bővebben” linkje a `public/data/_poi-url-index.json` hiteles indexből jön.
   Térképgenerálás előtt mindig fusson:
   `npx tsx scripts/build-poi-url-index.mts`.
+- A POI HTML-generátor csak akkor rendereli a papírszínű, lokalizált térképkvíz CTA-t,
+  ha a célország kész map HTML-je ténylegesen tartalmazza a `quizLaunch` elemet.
+- A CTA nyelvi útvonala `de/hu/ro/en`; a további POI-oldalnyelvek az angol kvízre esnek vissza.
+
+## POI-kép fetch
+
+- A tényleges hiánylistát a `scripts/_build_missing_img_worklist.mjs` készíti.
+- VPS-listás ellenőrzésnél add át az `IMAGE_MANIFEST_FILE` környezeti változót; a script
+  az explicit `image` mező mellett a `<poi-id>.webp` névkonvenciót is ellenőrzi.
+- A 2026-07-23-i tényleges VPS-listával 4 895 kép nélküli, koordinátás POI maradt.
+- Production fetchhez csak szigorú névegyezésű Wikidata P18/Wikipedia forrás engedélyezett,
+  legalább 65 KB és 800×450 px kapuval. A laza Commons-geosearch és stock fallback tiltott,
+  mert vizuálisan téves találatot adhat.
+- Új fetch előtt kötelező egy külön staging mappás mintakör és kézi vizuális ellenőrzés.
 - A térképgenerátor szándékosan hibával leáll, ha az URL-index 1000-nél kevesebb elemet
   tartalmaz, mert ez tipikusan félbemaradt delta index, és link nélküli térképet készítene.
-- Német térkép újragenerálása:
+- Egy térkép újragenerálása:
   `npx tsx scripts/build-static-maps.mts de`.
-- Böngészős ellenőrzésnél tesztelendő: mind a 10 feladattípus, mobilnézet, 30-as POI-limit,
-  név- és pontmentés, valamint legalább egy SEO-linkes és egy link nélküli POI-kártya.
+- Böngészős ellenőrzésnél tesztelendő: mind a négy feladattípus, mobilnézet, 30-as POI-limit,
+  név- és pontmentés, valamint a POI-kártya SEO-linkje.
 
 ## Memo backup
 

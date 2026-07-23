@@ -1,0 +1,408 @@
+{
+  "ie": [
+    {
+      "id": "ie-find-dublin",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Dublin? Klicke auf die Hauptstadt.",
+        "hu": "Hol található Dublin? Kattints a fővárosra.",
+        "ro": "Unde se află Dublin? Apasă pe capitală.",
+        "en": "Where is Dublin? Click the capital."
+      },
+      "targetPoiId": "city-dublin"
+    },
+    {
+      "id": "ie-find-cork",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Cork im Süden Irlands.",
+        "hu": "Keresd meg Corkot Írország déli részén.",
+        "ro": "Găsește Cork în sudul Irlandei.",
+        "en": "Find Cork in southern Ireland."
+      },
+      "targetPoiId": "city-cork"
+    },
+    {
+      "id": "ie-find-carrauntoohil",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde den Carrauntoohil, den höchsten Berg Irlands.",
+        "hu": "Keresd meg a Carrauntoohilt, Írország legmagasabb hegyét.",
+        "ro": "Găsește Carrauntoohil, cel mai înalt munte din Irlanda.",
+        "en": "Find Carrauntoohil, Ireland's highest mountain."
+      },
+      "targetPoiId": "nat-carrauntoohil"
+    },
+    {
+      "id": "ie-find-cliffs-of-moher",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegen die Cliffs of Moher an der Atlantikküste?",
+        "hu": "Hol találhatók a Moher-sziklák az Atlanti-óceán partján?",
+        "ro": "Unde se află Stâncile Moher pe coasta Atlanticului?",
+        "en": "Where are the Cliffs of Moher on the Atlantic coast?"
+      },
+      "targetPoiId": "nat-cliffs-of-moher"
+    },
+    {
+      "id": "ie-find-newgrange",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde das prähistorische Ganggrab Newgrange.",
+        "hu": "Keresd meg a történelem előtti Newgrange síremléket.",
+        "ro": "Găsește monumentul funerar preistoric Newgrange.",
+        "en": "Find the prehistoric passage tomb of Newgrange."
+      },
+      "targetPoiId": "cult-newgrange"
+    },
+    {
+      "id": "ie-region-dublin",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf das County Dublin.",
+        "hu": "Kattints Dublin megyére.",
+        "ro": "Apasă pe comitatul Dublin.",
+        "en": "Click County Dublin."
+      },
+      "targetRegionId": "IE-D"
+    },
+    {
+      "id": "ie-region-cork",
+      "type": "find_region",
+      "question": {
+        "de": "Finde das County Cork im Süden.",
+        "hu": "Keresd meg Cork megyét délen.",
+        "ro": "Găsește comitatul Cork în sud.",
+        "en": "Find County Cork in the south."
+      },
+      "targetRegionId": "IE-CO"
+    },
+    {
+      "id": "ie-odd-western-city",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten im Westen?",
+        "hu": "Melyik város fekszik ezek közül a legnyugatabbra?",
+        "ro": "Care dintre aceste orașe se află cel mai la vest?",
+        "en": "Which of these cities lies furthest west?"
+      },
+      "poiIds": [
+        "city-dublin",
+        "city-cork",
+        "city-galway",
+        "city-limerick"
+      ],
+      "targetPoiId": "city-galway"
+    },
+    {
+      "id": "ie-sequence-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Städte von Westen nach Osten an.",
+        "hu": "Kattints a városokra nyugatról keletre haladva.",
+        "ro": "Apasă orașele de la vest la est.",
+        "en": "Click the cities from west to east."
+      },
+      "poiIds": [
+        "city-galway",
+        "city-limerick",
+        "city-dublin"
+      ],
+      "orderedPoiIds": [
+        "city-galway",
+        "city-limerick",
+        "city-dublin"
+      ]
+    },
+    {
+      "id": "ie-sequence-north-south",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke in dieser Reihenfolge von Norden nach Süden: Sligo, Galway, Cork.",
+        "hu": "Kattints északról délre ebben a sorrendben: Sligo, Galway, Cork.",
+        "ro": "Apasă de la nord la sud în această ordine: Sligo, Galway, Cork.",
+        "en": "Click from north to south in this order: Sligo, Galway, Cork."
+      },
+      "poiIds": [
+        "city-sligo",
+        "city-galway",
+        "city-cork"
+      ],
+      "orderedPoiIds": [
+        "city-sligo",
+        "city-galway",
+        "city-cork"
+      ]
+    }
+  ],
+  "lt": [
+    {
+      "id": "lt-find-vilnius",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Vilnius? Klicke auf die Hauptstadt.",
+        "hu": "Hol található Vilnius? Kattints a fővárosra.",
+        "ro": "Unde se află Vilnius? Apasă pe capitală.",
+        "en": "Where is Vilnius? Click the capital."
+      },
+      "targetPoiId": "lt-vilnius"
+    },
+    {
+      "id": "lt-find-kaunas",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Kaunas in Mittellitauen.",
+        "hu": "Keresd meg Kaunast Litvánia középső részén.",
+        "ro": "Găsește Kaunas în centrul Lituaniei.",
+        "en": "Find Kaunas in central Lithuania."
+      },
+      "targetPoiId": "lt-kaunas"
+    },
+    {
+      "id": "lt-find-klaipeda",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde die Hafenstadt Klaipėda an der Ostsee.",
+        "hu": "Keresd meg Klaipėda kikötővárost a Balti-tenger partján.",
+        "ro": "Găsește orașul-port Klaipėda de la Marea Baltică.",
+        "en": "Find the port city of Klaipėda on the Baltic Sea."
+      },
+      "targetPoiId": "lt-klaipeda"
+    },
+    {
+      "id": "lt-find-hill-of-crosses",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt der berühmte Berg der Kreuze?",
+        "hu": "Hol található a híres Keresztek hegye?",
+        "ro": "Unde se află celebrul Deal al Crucilor?",
+        "en": "Where is the famous Hill of Crosses?"
+      },
+      "targetPoiId": "lt-hill-of-crosses"
+    },
+    {
+      "id": "lt-find-curonian-spit",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde die Kurische Nehrung an der Ostseeküste.",
+        "hu": "Keresd meg a Kur-földnyelvet a Balti-tenger partján.",
+        "ro": "Găsește Istmul Curlandei pe coasta Mării Baltice.",
+        "en": "Find the Curonian Spit on the Baltic coast."
+      },
+      "targetPoiId": "lt-curonian-spit"
+    },
+    {
+      "id": "lt-region-vilnius",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf den Bezirk Vilnius.",
+        "hu": "Kattints Vilnius megyére.",
+        "ro": "Apasă pe județul Vilnius.",
+        "en": "Click Vilnius County."
+      },
+      "targetRegionId": "LT-VL"
+    },
+    {
+      "id": "lt-region-klaipeda",
+      "type": "find_region",
+      "question": {
+        "de": "Finde den Bezirk Klaipėda an der Küste.",
+        "hu": "Keresd meg Klaipėda megyét a tengerparton.",
+        "ro": "Găsește județul Klaipėda de pe coastă.",
+        "en": "Find Klaipėda County on the coast."
+      },
+      "targetRegionId": "LT-KL"
+    },
+    {
+      "id": "lt-odd-not-coastal",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Städte liegt nicht an der Ostseeküste?",
+        "hu": "Melyik város nem a Balti-tenger partján fekszik?",
+        "ro": "Care dintre aceste orașe nu se află pe coasta Mării Baltice?",
+        "en": "Which of these cities is not on the Baltic coast?"
+      },
+      "poiIds": [
+        "lt-klaipeda",
+        "lithuania-palanga-cities-v2",
+        "lithuania-siauliai-cities-v2"
+      ],
+      "targetPoiId": "lithuania-siauliai-cities-v2"
+    },
+    {
+      "id": "lt-sequence-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Städte von Westen nach Osten an.",
+        "hu": "Kattints a városokra nyugatról keletre haladva.",
+        "ro": "Apasă orașele de la vest la est.",
+        "en": "Click the cities from west to east."
+      },
+      "poiIds": [
+        "lt-klaipeda",
+        "lt-kaunas",
+        "lt-vilnius"
+      ],
+      "orderedPoiIds": [
+        "lt-klaipeda",
+        "lt-kaunas",
+        "lt-vilnius"
+      ]
+    },
+    {
+      "id": "lt-sequence-north-south",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke in dieser Reihenfolge von Norden nach Süden: Šiauliai, Kaunas, Alytus.",
+        "hu": "Kattints északról délre ebben a sorrendben: Šiauliai, Kaunas, Alytus.",
+        "ro": "Apasă de la nord la sud în această ordine: Šiauliai, Kaunas, Alytus.",
+        "en": "Click from north to south in this order: Šiauliai, Kaunas, Alytus."
+      },
+      "poiIds": [
+        "lithuania-siauliai-cities-v2",
+        "lt-kaunas",
+        "lithuania-alytus-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "lithuania-siauliai-cities-v2",
+        "lt-kaunas",
+        "lithuania-alytus-cities-v2"
+      ]
+    }
+  ],
+  "lv": [
+    {
+      "id": "lv-find-riga",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Riga? Klicke auf die Hauptstadt.",
+        "hu": "Hol található Riga? Kattints a fővárosra.",
+        "ro": "Unde se află Riga? Apasă pe capitală.",
+        "en": "Where is Riga? Click the capital."
+      },
+      "targetPoiId": "lv-riga"
+    },
+    {
+      "id": "lv-find-daugavpils",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Daugavpils im Südosten Lettlands.",
+        "hu": "Keresd meg Daugavpilst Lettország délkeleti részén.",
+        "ro": "Găsește Daugavpils în sud-estul Letoniei.",
+        "en": "Find Daugavpils in southeastern Latvia."
+      },
+      "targetPoiId": "city-daugavpils"
+    },
+    {
+      "id": "lv-find-gauja",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde den Gauja-Nationalpark.",
+        "hu": "Keresd meg a Gauja Nemzeti Parkot.",
+        "ro": "Găsește Parcul Național Gauja.",
+        "en": "Find Gauja National Park."
+      },
+      "targetPoiId": "lv-gauja"
+    },
+    {
+      "id": "lv-find-gaizinkalns",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt der Gaiziņkalns, Lettlands höchster Punkt?",
+        "hu": "Hol található a Gaiziņkalns, Lettország legmagasabb pontja?",
+        "ro": "Unde se află Gaiziņkalns, cel mai înalt punct al Letoniei?",
+        "en": "Where is Gaiziņkalns, Latvia's highest point?"
+      },
+      "targetPoiId": "lv-gaizinkalns"
+    },
+    {
+      "id": "lv-region-riga",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf das Stadtgebiet von Riga.",
+        "hu": "Kattints Riga városi területére.",
+        "ro": "Apasă pe teritoriul orașului Riga.",
+        "en": "Click the city area of Riga."
+      },
+      "targetRegionId": "LV-RIX"
+    },
+    {
+      "id": "lv-region-daugavpils",
+      "type": "find_region",
+      "question": {
+        "de": "Finde das Stadtgebiet von Daugavpils.",
+        "hu": "Keresd meg Daugavpils városi területét.",
+        "ro": "Găsește teritoriul orașului Daugavpils.",
+        "en": "Find the city area of Daugavpils."
+      },
+      "targetRegionId": "LV-DGV"
+    },
+    {
+      "id": "lv-region-liepaja",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf das Stadtgebiet von Liepāja an der Küste.",
+        "hu": "Kattints Liepāja tengerparti városi területére.",
+        "ro": "Apasă pe teritoriul orașului Liepāja de pe coastă.",
+        "en": "Click the coastal city area of Liepāja."
+      },
+      "targetRegionId": "LV-LPX"
+    },
+    {
+      "id": "lv-odd-not-coastal",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Städte liegt nicht an der Ostseeküste?",
+        "hu": "Melyik város nem a Balti-tenger partján fekszik?",
+        "ro": "Care dintre aceste orașe nu se află pe coasta Mării Baltice?",
+        "en": "Which of these cities is not on the Baltic coast?"
+      },
+      "poiIds": [
+        "lv-ventspils",
+        "lv-liepaja",
+        "lv-rezekne"
+      ],
+      "targetPoiId": "lv-rezekne"
+    },
+    {
+      "id": "lv-sequence-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Städte von Westen nach Osten an.",
+        "hu": "Kattints a városokra nyugatról keletre haladva.",
+        "ro": "Apasă orașele de la vest la est.",
+        "en": "Click the cities from west to east."
+      },
+      "poiIds": [
+        "lv-liepaja",
+        "lv-riga",
+        "lv-rezekne"
+      ],
+      "orderedPoiIds": [
+        "lv-liepaja",
+        "lv-riga",
+        "lv-rezekne"
+      ]
+    },
+    {
+      "id": "lv-sequence-north-south",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke in dieser Reihenfolge von Norden nach Süden: Valmiera, Riga, Daugavpils.",
+        "hu": "Kattints északról délre ebben a sorrendben: Valmiera, Riga, Daugavpils.",
+        "ro": "Apasă de la nord la sud în această ordine: Valmiera, Riga, Daugavpils.",
+        "en": "Click from north to south in this order: Valmiera, Riga, Daugavpils."
+      },
+      "poiIds": [
+        "lv-valmiera",
+        "lv-riga",
+        "city-daugavpils"
+      ],
+      "orderedPoiIds": [
+        "lv-valmiera",
+        "lv-riga",
+        "city-daugavpils"
+      ]
+    }
+  ]
+}

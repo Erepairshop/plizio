@@ -1,0 +1,555 @@
+{
+  "pl": [
+    {
+      "id": "pl-find-warsaw",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Warschau? Klicke auf die Stadt.",
+        "hu": "Hol található Varsó? Kattints a városra.",
+        "ro": "Unde se află Varșovia? Apasă pe oraș.",
+        "en": "Where is Warsaw? Click the city."
+      },
+      "targetPoiId": "poland-warsaw-cities-v2"
+    },
+    {
+      "id": "pl-find-krakow",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Krakau auf der Karte.",
+        "hu": "Keresd meg Krakkót a térképen.",
+        "ro": "Găsește Cracovia pe hartă.",
+        "en": "Find Kraków on the map."
+      },
+      "targetPoiId": "poland-krakow-cities-v2"
+    },
+    {
+      "id": "pl-find-gdansk",
+      "type": "find_poi",
+      "question": {
+        "de": "Welche Stadt liegt an der Ostseeküste? Finde Danzig.",
+        "hu": "Melyik város fekszik a Balti-tenger partján? Keresd meg Gdańskot.",
+        "ro": "Ce oraș se află pe coasta Mării Baltice? Găsește Gdańsk.",
+        "en": "Which city lies on the Baltic coast? Find Gdańsk."
+      },
+      "targetPoiId": "poland-gdansk-cities-v2"
+    },
+    {
+      "id": "pl-find-wroclaw",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Breslau im Südwesten Polens.",
+        "hu": "Keresd meg Wrocławot Lengyelország délnyugati részén.",
+        "ro": "Găsește Wrocław în sud-vestul Poloniei.",
+        "en": "Find Wrocław in southwestern Poland."
+      },
+      "targetPoiId": "poland-wroclaw-cities-v2"
+    },
+    {
+      "id": "pl-region-masovia",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf die Woiwodschaft Masowien, in der Warschau liegt.",
+        "hu": "Kattints a Mazóviai vajdaságra, ahol Varsó található.",
+        "ro": "Apasă pe voievodatul Mazovia, unde se află Varșovia.",
+        "en": "Click the Masovian Voivodeship, where Warsaw is located."
+      },
+      "targetRegionId": "PL-MZ"
+    },
+    {
+      "id": "pl-region-lesser-poland",
+      "type": "find_region",
+      "question": {
+        "de": "Finde die Woiwodschaft Kleinpolen rund um Krakau.",
+        "hu": "Keresd meg a Krakkó körüli Kis-lengyelországi vajdaságot.",
+        "ro": "Găsește voievodatul Polonia Mică din jurul Cracoviei.",
+        "en": "Find the Lesser Poland Voivodeship around Kraków."
+      },
+      "targetRegionId": "PL-MA"
+    },
+    {
+      "id": "pl-region-pomerania",
+      "type": "find_region",
+      "question": {
+        "de": "Wo liegt die Woiwodschaft Pommern mit Danzig?",
+        "hu": "Hol található a Gdańskot is magában foglaló Pomerániai vajdaság?",
+        "ro": "Unde se află voievodatul Pomerania, care include Gdańsk?",
+        "en": "Where is the Pomeranian Voivodeship, which includes Gdańsk?"
+      },
+      "targetRegionId": "PL-PM"
+    },
+    {
+      "id": "pl-odd-masovia",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Städte liegt nicht in der Woiwodschaft Masowien?",
+        "hu": "Melyik város nem a Mazóviai vajdaságban található?",
+        "ro": "Care dintre aceste orașe nu se află în voievodatul Mazovia?",
+        "en": "Which of these cities is not in the Masovian Voivodeship?"
+      },
+      "poiIds": [
+        "poland-warsaw-cities-v2",
+        "poland-radom-cities-v2",
+        "poland-plock-cities-v2",
+        "poland-siedlce-cities-v2",
+        "poland-krakow-cities-v2"
+      ],
+      "targetPoiId": "poland-krakow-cities-v2"
+    },
+    {
+      "id": "pl-sequence-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Städte von West nach Ost an: Stettin, Posen, Warschau, Lublin.",
+        "hu": "Kattints a városokra nyugatról keletre: Szczecin, Poznań, Varsó, Lublin.",
+        "ro": "Apasă orașele de la vest la est: Szczecin, Poznań, Varșovia, Lublin.",
+        "en": "Click the cities from west to east: Szczecin, Poznań, Warsaw, Lublin."
+      },
+      "poiIds": [
+        "poland-szczecin-cities-v2",
+        "poland-poznan-cities-v2",
+        "poland-warsaw-cities-v2",
+        "poland-lublin-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "poland-szczecin-cities-v2",
+        "poland-poznan-cities-v2",
+        "poland-warsaw-cities-v2",
+        "poland-lublin-cities-v2"
+      ]
+    },
+    {
+      "id": "pl-sequence-north-south",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke diese Städte von Nord nach Süd an: Danzig, Warschau, Krakau.",
+        "hu": "Kattints ezekre a városokra északról délre: Gdańsk, Varsó, Krakkó.",
+        "ro": "Apasă aceste orașe de la nord la sud: Gdańsk, Varșovia, Cracovia.",
+        "en": "Click these cities from north to south: Gdańsk, Warsaw, Kraków."
+      },
+      "poiIds": [
+        "poland-gdansk-cities-v2",
+        "poland-warsaw-cities-v2",
+        "poland-krakow-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "poland-gdansk-cities-v2",
+        "poland-warsaw-cities-v2",
+        "poland-krakow-cities-v2"
+      ]
+    }
+  ],
+  "cz": [
+    {
+      "id": "cz-find-prague",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Prag? Klicke auf die Hauptstadt.",
+        "hu": "Hol található Prága? Kattints a fővárosra.",
+        "ro": "Unde se află Praga? Apasă pe capitală.",
+        "en": "Where is Prague? Click the capital."
+      },
+      "targetPoiId": "czechrepublic-prague-cities-v2"
+    },
+    {
+      "id": "cz-find-brno",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Brünn, das Zentrum Südmährens.",
+        "hu": "Keresd meg Brnót, Dél-Morvaország központját.",
+        "ro": "Găsește Brno, centrul Moraviei de Sud.",
+        "en": "Find Brno, the centre of South Moravia."
+      },
+      "targetPoiId": "czechrepublic-brno-cities-v2"
+    },
+    {
+      "id": "cz-find-ostrava",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Ostrava im Nordosten Tschechiens.",
+        "hu": "Keresd meg Ostravát Csehország északkeleti részén.",
+        "ro": "Găsește Ostrava în nord-estul Cehiei.",
+        "en": "Find Ostrava in northeastern Czechia."
+      },
+      "targetPoiId": "czechrepublic-ostrava-cities-v2"
+    },
+    {
+      "id": "cz-find-plzen",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Pilsen im Westen Tschechiens?",
+        "hu": "Hol található Plzeň Csehország nyugati részén?",
+        "ro": "Unde se află Plzeň în vestul Cehiei?",
+        "en": "Where is Plzeň in western Czechia?"
+      },
+      "targetPoiId": "czechrepublic-plzen-cities-v2"
+    },
+    {
+      "id": "cz-region-prague",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf die Hauptstadtregion Prag.",
+        "hu": "Kattints Prága fővárosi régiójára.",
+        "ro": "Apasă pe regiunea capitalei Praga.",
+        "en": "Click the Prague capital region."
+      },
+      "targetRegionId": "CZ-PR"
+    },
+    {
+      "id": "cz-region-south-moravia",
+      "type": "find_region",
+      "question": {
+        "de": "Finde die Region Südmähren mit Brünn.",
+        "hu": "Keresd meg a Brnót is magában foglaló Dél-morvaországi kerületet.",
+        "ro": "Găsește regiunea Moravia de Sud, care include Brno.",
+        "en": "Find the South Moravian Region, which includes Brno."
+      },
+      "targetRegionId": "CZ-JM"
+    },
+    {
+      "id": "cz-region-moravian-silesian",
+      "type": "find_region",
+      "question": {
+        "de": "Wo liegt die Mährisch-Schlesische Region mit Ostrava?",
+        "hu": "Hol található az Ostravát is magában foglaló Morva-sziléziai kerület?",
+        "ro": "Unde se află regiunea Moravia-Silezia, care include Ostrava?",
+        "en": "Where is the Moravian-Silesian Region, which includes Ostrava?"
+      },
+      "targetRegionId": "CZ-MO"
+    },
+    {
+      "id": "cz-odd-south-moravia",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Städte liegt nicht in der Region Südmähren?",
+        "hu": "Melyik város nem a Dél-morvaországi kerületben található?",
+        "ro": "Care dintre aceste orașe nu se află în regiunea Moravia de Sud?",
+        "en": "Which of these cities is not in the South Moravian Region?"
+      },
+      "poiIds": [
+        "czechrepublic-brno-cities-v2",
+        "czechrepublic-breclav-cities-v2",
+        "czechrepublic-hodonin-cities-v2",
+        "czechrepublic-zlin-cities-v2"
+      ],
+      "targetPoiId": "czechrepublic-zlin-cities-v2"
+    },
+    {
+      "id": "cz-sequence-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Städte von West nach Ost an: Pilsen, Prag, Brünn, Ostrava.",
+        "hu": "Kattints a városokra nyugatról keletre: Plzeň, Prága, Brno, Ostrava.",
+        "ro": "Apasă orașele de la vest la est: Plzeň, Praga, Brno, Ostrava.",
+        "en": "Click the cities from west to east: Plzeň, Prague, Brno, Ostrava."
+      },
+      "poiIds": [
+        "czechrepublic-plzen-cities-v2",
+        "czechrepublic-prague-cities-v2",
+        "czechrepublic-brno-cities-v2",
+        "czechrepublic-ostrava-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "czechrepublic-plzen-cities-v2",
+        "czechrepublic-prague-cities-v2",
+        "czechrepublic-brno-cities-v2",
+        "czechrepublic-ostrava-cities-v2"
+      ]
+    },
+    {
+      "id": "cz-sequence-north-south",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke diese Städte von Nord nach Süd an: Reichenberg, Prag, Budweis.",
+        "hu": "Kattints ezekre a városokra északról délre: Liberec, Prága, České Budějovice.",
+        "ro": "Apasă aceste orașe de la nord la sud: Liberec, Praga, České Budějovice.",
+        "en": "Click these cities from north to south: Liberec, Prague, České Budějovice."
+      },
+      "poiIds": [
+        "czechrepublic-liberec-cities-v2",
+        "czechrepublic-prague-cities-v2",
+        "czechrepublic-ceske-budejovice-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "czechrepublic-liberec-cities-v2",
+        "czechrepublic-prague-cities-v2",
+        "czechrepublic-ceske-budejovice-cities-v2"
+      ]
+    }
+  ],
+  "sk": [
+    {
+      "id": "sk-find-bratislava",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Bratislava? Klicke auf die Hauptstadt.",
+        "hu": "Hol található Pozsony? Kattints a fővárosra.",
+        "ro": "Unde se află Bratislava? Apasă pe capitală.",
+        "en": "Where is Bratislava? Click the capital."
+      },
+      "targetPoiId": "slovakia-bratislava-cities-v2"
+    },
+    {
+      "id": "sk-find-kosice",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Košice im Osten der Slowakei.",
+        "hu": "Keresd meg Kassát Szlovákia keleti részén.",
+        "ro": "Găsește Košice în estul Slovaciei.",
+        "en": "Find Košice in eastern Slovakia."
+      },
+      "targetPoiId": "slovakia-kosice-cities-v2"
+    },
+    {
+      "id": "sk-find-presov",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Prešov, nördlich von Košice?",
+        "hu": "Hol található a Kassától északra fekvő Eperjes?",
+        "ro": "Unde se află Prešov, la nord de Košice?",
+        "en": "Where is Prešov, north of Košice?"
+      },
+      "targetPoiId": "slovakia-presov-cities-v2"
+    },
+    {
+      "id": "sk-find-nitra",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Nitra im Westen der Slowakei.",
+        "hu": "Keresd meg Nyitrát Szlovákia nyugati részén.",
+        "ro": "Găsește Nitra în vestul Slovaciei.",
+        "en": "Find Nitra in western Slovakia."
+      },
+      "targetPoiId": "slovakia-nitra-cities-v2"
+    },
+    {
+      "id": "sk-region-bratislava",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf den Bratislavský kraj im äußersten Westen.",
+        "hu": "Kattints a legnyugatibb Pozsonyi kerületre.",
+        "ro": "Apasă pe regiunea Bratislava din extremitatea vestică.",
+        "en": "Click the Bratislava Region in the far west."
+      },
+      "targetRegionId": "SK-BL"
+    },
+    {
+      "id": "sk-region-kosice",
+      "type": "find_region",
+      "question": {
+        "de": "Finde den Košický kraj im Südosten.",
+        "hu": "Keresd meg a délkeleti Kassai kerületet.",
+        "ro": "Găsește regiunea Košice din sud-est.",
+        "en": "Find the Košice Region in the southeast."
+      },
+      "targetRegionId": "SK-KI"
+    },
+    {
+      "id": "sk-region-zilina",
+      "type": "find_region",
+      "question": {
+        "de": "Wo liegt der Žilinský kraj im Norden der Slowakei?",
+        "hu": "Hol található a Zsolnai kerület Szlovákia északi részén?",
+        "ro": "Unde se află regiunea Žilina în nordul Slovaciei?",
+        "en": "Where is the Žilina Region in northern Slovakia?"
+      },
+      "targetRegionId": "SK-ZI"
+    },
+    {
+      "id": "sk-odd-east",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Städte liegt nicht in der Ostslowakei?",
+        "hu": "Melyik város nem Kelet-Szlovákiában található?",
+        "ro": "Care dintre aceste orașe nu se află în estul Slovaciei?",
+        "en": "Which of these cities is not in eastern Slovakia?"
+      },
+      "poiIds": [
+        "slovakia-kosice-cities-v2",
+        "slovakia-presov-cities-v2",
+        "slovakia-bardejov-cities-v2",
+        "slovakia-trnava-cities-v2"
+      ],
+      "targetPoiId": "slovakia-trnava-cities-v2"
+    },
+    {
+      "id": "sk-sequence-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Städte von West nach Ost an: Bratislava, Nitra, Zvolen, Košice.",
+        "hu": "Kattints a városokra nyugatról keletre: Pozsony, Nyitra, Zólyom, Kassa.",
+        "ro": "Apasă orașele de la vest la est: Bratislava, Nitra, Zvolen, Košice.",
+        "en": "Click the cities from west to east: Bratislava, Nitra, Zvolen, Košice."
+      },
+      "poiIds": [
+        "slovakia-bratislava-cities-v2",
+        "slovakia-nitra-cities-v2",
+        "slovakia-zvolen-cities-v2",
+        "slovakia-kosice-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "slovakia-bratislava-cities-v2",
+        "slovakia-nitra-cities-v2",
+        "slovakia-zvolen-cities-v2",
+        "slovakia-kosice-cities-v2"
+      ]
+    },
+    {
+      "id": "sk-sequence-north-south",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke diese Städte von Nord nach Süd an: Bardejov, Prešov, Košice.",
+        "hu": "Kattints ezekre a városokra északról délre: Bártfa, Eperjes, Kassa.",
+        "ro": "Apasă aceste orașe de la nord la sud: Bardejov, Prešov, Košice.",
+        "en": "Click these cities from north to south: Bardejov, Prešov, Košice."
+      },
+      "poiIds": [
+        "slovakia-bardejov-cities-v2",
+        "slovakia-presov-cities-v2",
+        "slovakia-kosice-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "slovakia-bardejov-cities-v2",
+        "slovakia-presov-cities-v2",
+        "slovakia-kosice-cities-v2"
+      ]
+    }
+  ],
+  "hu": [
+    {
+      "id": "hu-find-budapest",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Budapest? Klicke auf die Hauptstadt.",
+        "hu": "Hol található Budapest? Kattints a fővárosra.",
+        "ro": "Unde se află Budapesta? Apasă pe capitală.",
+        "en": "Where is Budapest? Click the capital."
+      },
+      "targetPoiId": "budapest-city"
+    },
+    {
+      "id": "hu-find-debrecen",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Debrecen im Osten Ungarns.",
+        "hu": "Keresd meg Debrecent Magyarország keleti részén.",
+        "ro": "Găsește Debrețin în estul Ungariei.",
+        "en": "Find Debrecen in eastern Hungary."
+      },
+      "targetPoiId": "debrecen"
+    },
+    {
+      "id": "hu-find-szeged",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Szeged nahe der südlichen Grenze?",
+        "hu": "Hol található Szeged a déli határ közelében?",
+        "ro": "Unde se află Seghedin, aproape de granița sudică?",
+        "en": "Where is Szeged, near the southern border?"
+      },
+      "targetPoiId": "szeged"
+    },
+    {
+      "id": "hu-find-pecs",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Pécs im Südwesten Ungarns.",
+        "hu": "Keresd meg Pécset Magyarország délnyugati részén.",
+        "ro": "Găsește Pécs în sud-vestul Ungariei.",
+        "en": "Find Pécs in southwestern Hungary."
+      },
+      "targetPoiId": "pecs"
+    },
+    {
+      "id": "hu-region-budapest",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf die eigenständige Hauptstadtregion Budapest.",
+        "hu": "Kattints az önálló Budapest fővárosi régióra.",
+        "ro": "Apasă pe regiunea separată a capitalei Budapesta.",
+        "en": "Click the separate Budapest capital region."
+      },
+      "targetRegionId": "HU-BU"
+    },
+    {
+      "id": "hu-region-hajdu-bihar",
+      "type": "find_region",
+      "question": {
+        "de": "Finde das Komitat Hajdú-Bihar mit Debrecen.",
+        "hu": "Keresd meg Hajdú-Bihar vármegyét, ahol Debrecen található.",
+        "ro": "Găsește județul Hajdú-Bihar, unde se află Debrețin.",
+        "en": "Find Hajdú-Bihar County, where Debrecen is located."
+      },
+      "targetRegionId": "HU-HB"
+    },
+    {
+      "id": "hu-region-csongrad",
+      "type": "find_region",
+      "question": {
+        "de": "Wo liegt das Komitat Csongrád-Csanád mit Szeged?",
+        "hu": "Hol található Csongrád-Csanád vármegye, ahol Szeged fekszik?",
+        "ro": "Unde se află județul Csongrád-Csanád, care include Seghedin?",
+        "en": "Where is Csongrád-Csanád County, which includes Szeged?"
+      },
+      "targetRegionId": "HU-CS"
+    },
+    {
+      "id": "hu-odd-pest-county",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Städte gehört nicht zum Komitat Pest?",
+        "hu": "Melyik város nem Pest vármegyéhez tartozik?",
+        "ro": "Care dintre aceste orașe nu aparține județului Pest?",
+        "en": "Which of these cities is not part of Pest County?"
+      },
+      "poiIds": [
+        "dunakeszi-extra",
+        "budaoers-extra",
+        "vecses-extra",
+        "budapest-city"
+      ],
+      "targetPoiId": "budapest-city"
+    },
+    {
+      "id": "hu-sequence-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Städte von West nach Ost an: Szombathely, Győr, Budapest, Debrecen.",
+        "hu": "Kattints a városokra nyugatról keletre: Szombathely, Győr, Budapest, Debrecen.",
+        "ro": "Apasă orașele de la vest la est: Szombathely, Győr, Budapesta, Debrețin.",
+        "en": "Click the cities from west to east: Szombathely, Győr, Budapest, Debrecen."
+      },
+      "poiIds": [
+        "szombathely",
+        "gyor",
+        "budapest-city",
+        "debrecen"
+      ],
+      "orderedPoiIds": [
+        "szombathely",
+        "gyor",
+        "budapest-city",
+        "debrecen"
+      ]
+    },
+    {
+      "id": "hu-sequence-north-south",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke diese Städte von Nord nach Süd an: Miskolc, Budapest, Szeged.",
+        "hu": "Kattints ezekre a városokra északról délre: Miskolc, Budapest, Szeged.",
+        "ro": "Apasă aceste orașe de la nord la sud: Miskolc, Budapesta, Seghedin.",
+        "en": "Click these cities from north to south: Miskolc, Budapest, Szeged."
+      },
+      "poiIds": [
+        "miskolc",
+        "budapest-city",
+        "szeged"
+      ],
+      "orderedPoiIds": [
+        "miskolc",
+        "budapest-city",
+        "szeged"
+      ]
+    }
+  ]
+}

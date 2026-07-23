@@ -1243,6 +1243,27 @@ function countryMapUrl(countryId: string): string | null {
   return null;
 }
 
+const MAP_QUIZ_AVAILABILITY = new Map<string, boolean>();
+function countryMapQuizUrl(countryId: string, lang: Lang): string | null {
+  const mapUrl = countryMapUrl(countryId);
+  if (!mapUrl) return null;
+
+  let available = MAP_QUIZ_AVAILABILITY.get(countryId);
+  if (available == null) {
+    const mapFolder = mapUrl.replace(/^\/|\/$/g, "");
+    const mapHtml = path.resolve(process.cwd(), "public", mapFolder, "index.html");
+    available = fs.existsSync(mapHtml)
+      && fs.readFileSync(mapHtml, "utf-8").includes('id="quizLaunch"');
+    MAP_QUIZ_AVAILABILITY.set(countryId, available);
+  }
+  if (!available) return null;
+
+  const quizLang = lang === "de" || lang === "hu" || lang === "ro" || lang === "en"
+    ? lang
+    : "en";
+  return quizLang === "hu" ? mapUrl : `${mapUrl}${quizLang}/`;
+}
+
 function escapeHtml(s: any): string {
   if (s == null) return "";
   if (typeof s !== "string") s = String(s);
@@ -1328,6 +1349,65 @@ function renderPostcardCta(poi: POI, lang: Lang, countryId: string): string {
     <span class="plz-postcard-sun"></span>
     <strong>${escapeHtml(placeName)}</strong>
     <span class="plz-postcard-stamp">${escapeHtml(t.stamp)}<br>${escapeHtml(placeName)}</span>
+  </div>
+  </section>`;
+}
+
+function renderMapQuizCta(countryId: string, countryName: string, lang: Lang): string {
+  const href = countryMapQuizUrl(countryId, lang);
+  if (!href) return "";
+
+  const COPY: Partial<Record<Lang, { eyebrow: string; title: string; body: string; count: string; button: string }>> = {
+    de: {
+      eyebrow: "Auf der Karte entdecken",
+      title: `Wie gut kennst du ${countryName}?`,
+      body: "Finde Städte, Landschaften und Regionen in 10 abwechslungsreichen Aufgaben auf der interaktiven Karte.",
+      count: "10 Aufgaben",
+      button: "Kartenquiz starten",
+    },
+    hu: {
+      eyebrow: "Felfedezés a térképen",
+      title: `Mennyire ismered ezt az országot: ${countryName}?`,
+      body: "Keress meg városokat, tájakat és régiókat 10 változatos feladatban az interaktív térképen.",
+      count: "10 feladat",
+      button: "Térképes kvíz indítása",
+    },
+    ro: {
+      eyebrow: "Descoperă pe hartă",
+      title: `Cât de bine cunoști ${countryName}?`,
+      body: "Găsește orașe, peisaje și regiuni în 10 provocări variate pe harta interactivă.",
+      count: "10 provocări",
+      button: "Pornește quizul pe hartă",
+    },
+    en: {
+      eyebrow: "Explore on the map",
+      title: `How well do you know ${countryName}?`,
+      body: "Find cities, landscapes and regions in 10 varied challenges on the interactive map.",
+      count: "10 challenges",
+      button: "Start the map quiz",
+    },
+  };
+  const t = COPY[lang] || COPY.en!;
+
+  return `<section class="plz-map-quiz-cta" aria-labelledby="plz-map-quiz-title">
+  <div class="plz-map-quiz-copy">
+    <p class="plz-map-quiz-eyebrow">${escapeHtml(t.eyebrow)}</p>
+    <h2 id="plz-map-quiz-title">${escapeHtml(t.title)}</h2>
+    <p>${escapeHtml(t.body)}</p>
+    <div class="plz-map-quiz-actions">
+      <a class="plz-map-quiz-button" href="${escapeHtml(href)}">${escapeHtml(t.button)} <span aria-hidden="true">→</span></a>
+      <span class="plz-map-quiz-count">${escapeHtml(t.count)}</span>
+    </div>
+  </div>
+  <div class="plz-map-quiz-art" aria-hidden="true">
+    <svg viewBox="0 0 280 180">
+      <path class="plz-map-quiz-route" d="M31 139C62 108 72 65 119 77s49 58 95 30c18-11 26-29 35-53"/>
+      <path class="plz-map-quiz-land" d="M31 65c15-30 56-39 83-24 19 10 34 3 56 5 33 2 59 31 53 62-6 32-40 48-70 39-21-6-32 11-61 7-43-6-79-50-61-89Z"/>
+      <circle cx="49" cy="129" r="7"/><circle cx="119" cy="77" r="7"/><circle cx="214" cy="107" r="7"/>
+      <path class="plz-map-quiz-pin" d="M212 40c0-13 10-23 23-23s23 10 23 23c0 18-23 41-23 41s-23-23-23-41Z"/>
+      <circle class="plz-map-quiz-pin-hole" cx="235" cy="40" r="7"/>
+    </svg>
+    <strong>10</strong>
   </div>
   </section>`;
 }
@@ -3562,6 +3642,7 @@ document.addEventListener('click',function(e){
   var yh=e.target.closest('.plz-yh-card');if(yh){t('highlight_click',{});}
   var ymore=e.target.closest('.plz-yh-more');if(ymore){t('highlight_expand',{});}
   var sight=e.target.closest('.plz-sight');if(sight){t('sight_click',{});}
+  var mapQuiz=e.target.closest('.plz-map-quiz-button');if(mapQuiz){t('map_quiz_open',{country:${JSON.stringify(countryId)}});}
   var postcard=e.target.closest('.plz-postcard-button');if(postcard){t('postcard_open',{place:${JSON.stringify(name)}});}
   var lang=e.target.closest('[data-lang-switch]');if(lang){t('lang_switch',{to:lang.dataset.langSwitch});}
 });
@@ -3595,6 +3676,7 @@ ready();})();</script>
   </div>
   ${renderVisitInfo(poi, lang)}
   ${descText ? `<section><p class="poi-lead-paragraph">${escapeHtml(descText)}</p></section>` : ""}
+  ${renderMapQuizCta(countryId, countryName, lang)}
   ${renderPostcardCta(poi, lang, countryId)}
   ${renderPlizioTip(poi, lang, name, sightsItems.slice(0, 3).map((x) => (typeof x.s.name === "string" ? x.s.name : "")), ((): { name: string; km: number } | null => { const nc = getNearbyCities(poi, 1, 90, 4)[0]; return nc ? { name: (getLocalized(nc.p.name as Partial<Record<string, string>>, lang) as string) || nc.p.id, km: nc.km } : null; })())}
   ${renderKeyFacts(poi, lang, countryName, sightsItems.slice(0, 3).map((x) => (typeof x.s.name === "string" ? x.s.name : "")), ((): { name: string; km: number } | null => { const nc = getNearbyCities(poi, 1, 90, 4)[0]; return nc ? { name: (getLocalized(nc.p.name as Partial<Record<string, string>>, lang) as string) || nc.p.id, km: nc.km } : null; })())}
@@ -3628,6 +3710,26 @@ ready();})();</script>
 </main>
 <div id="plz-lightbox" class="plz-lightbox" role="dialog" aria-modal="true" aria-hidden="true"><button type="button" class="plz-lightbox-close" aria-label="Close">×</button><img alt="" /></div>
 <style>
+.plz-map-quiz-cta{position:relative;isolation:isolate;display:grid;grid-template-columns:minmax(0,1fr) minmax(210px,34%);align-items:stretch;overflow:hidden;margin:1.5rem 0;border:1px solid rgba(91,68,40,.2);border-radius:22px;background:linear-gradient(125deg,#fffaf0 0%,#f5ead5 58%,#e7d1aa 100%);box-shadow:0 14px 36px rgba(77,53,28,.12);color:#30271e}
+.plz-map-quiz-cta:before{content:"";position:absolute;inset:0;z-index:-1;opacity:.22;background-image:repeating-linear-gradient(0deg,transparent 0 27px,rgba(103,75,38,.16) 28px),repeating-linear-gradient(90deg,transparent 0 27px,rgba(103,75,38,.12) 28px)}
+.plz-map-quiz-copy{padding:clamp(1.35rem,3vw,2.35rem)}
+.plz-map-quiz-copy h2{max-width:23ch;margin:.15rem 0 .65rem;font-family:Georgia,"Times New Roman",serif;font-size:clamp(1.55rem,3vw,2.35rem);line-height:1.08;color:#30271e}
+.plz-map-quiz-copy>p:not(.plz-map-quiz-eyebrow){max-width:58ch;margin:0;color:#5d4a37;line-height:1.6}
+.plz-map-quiz-eyebrow{margin:0;color:#9a4f25;font-size:.76rem;font-weight:800;letter-spacing:.13em;text-transform:uppercase}
+.plz-map-quiz-actions{display:flex;flex-wrap:wrap;align-items:center;gap:.8rem;margin-top:1.15rem}
+.plz-map-quiz-button{display:inline-flex;align-items:center;gap:.55rem;border-radius:999px;padding:.78rem 1.1rem;background:#9a4f25;color:#fff!important;font-weight:800;text-decoration:none;box-shadow:0 6px 15px rgba(110,52,22,.22);transition:transform .18s ease,box-shadow .18s ease,background .18s ease}
+.plz-map-quiz-button:hover{transform:translateY(-2px);background:#793b1b;box-shadow:0 9px 20px rgba(110,52,22,.28)}
+.plz-map-quiz-button:focus-visible{outline:3px solid #30271e;outline-offset:3px}
+.plz-map-quiz-count{padding:.46rem .7rem;border:1px solid rgba(91,68,40,.25);border-radius:999px;background:rgba(255,255,255,.48);font-size:.8rem;font-weight:800;color:#5d4a37}
+.plz-map-quiz-art{position:relative;display:grid;place-items:center;min-height:220px;padding:1rem;background:linear-gradient(145deg,rgba(121,79,38,.08),rgba(255,255,255,.35))}
+.plz-map-quiz-art svg{width:min(100%,290px);height:auto;filter:drop-shadow(0 8px 9px rgba(80,49,24,.12))}
+.plz-map-quiz-land{fill:#d9b778;stroke:#6d5b3d;stroke-width:3}
+.plz-map-quiz-route{fill:none;stroke:#9a4f25;stroke-width:4;stroke-linecap:round;stroke-dasharray:7 8}
+.plz-map-quiz-art circle{fill:#fffaf0;stroke:#9a4f25;stroke-width:4}
+.plz-map-quiz-pin{fill:#9a4f25;stroke:#fffaf0;stroke-width:3}
+.plz-map-quiz-pin-hole{fill:#fffaf0!important;stroke:none!important}
+.plz-map-quiz-art strong{position:absolute;right:14%;bottom:12%;display:grid;place-items:center;width:58px;height:58px;border:2px solid #9a4f25;border-radius:50%;background:#fffaf0;color:#9a4f25;font:800 1.55rem/1 Georgia,serif;transform:rotate(7deg);box-shadow:0 5px 13px rgba(80,49,24,.18)}
+@media(max-width:700px){.plz-map-quiz-cta{grid-template-columns:1fr}.plz-map-quiz-art{min-height:155px;border-top:1px dashed rgba(91,68,40,.28)}.plz-map-quiz-art svg{max-height:145px}.plz-map-quiz-copy{padding:1.3rem}.plz-map-quiz-copy h2{font-size:1.65rem}}
 .plz-sight-img-btn{padding:0;border:0;background:none;cursor:zoom-in;display:block}
 .plz-sight-img-btn:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 .plz-sight-sv{display:inline-flex;align-items:center;justify-content:center;width:24px;height:24px;margin-left:8px;vertical-align:-5px;border-radius:50%;background:#fbbc04;color:#fff;box-shadow:0 1px 3px rgba(0,0,0,.35);transition:transform .15s,box-shadow .15s}

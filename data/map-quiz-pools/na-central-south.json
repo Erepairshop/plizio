@@ -1,0 +1,416 @@
+{
+  "cr": [
+    {
+      "id": "cr-find-san-jose",
+      "type": "find_poi",
+      "targetPoiId": "cr-sanjose",
+      "question": {
+        "de": "Finde San José, die Hauptstadt Costa Ricas.",
+        "hu": "Keresd meg San Josét, Costa Rica fővárosát.",
+        "ro": "Găsește San José, capitala statului Costa Rica.",
+        "en": "Find San José, the capital of Costa Rica."
+      }
+    },
+    {
+      "id": "cr-find-arenal",
+      "type": "find_poi",
+      "targetPoiId": "cr-arenal",
+      "question": {
+        "de": "Finde den Vulkan Arenal im Norden Costa Ricas.",
+        "hu": "Keresd meg az Arenal vulkánt Costa Rica északi részén.",
+        "ro": "Găsește vulcanul Arenal din nordul statului Costa Rica.",
+        "en": "Find Arenal Volcano in northern Costa Rica."
+      }
+    },
+    {
+      "id": "cr-find-corcovado",
+      "type": "find_poi",
+      "targetPoiId": "cr-corcovado",
+      "question": {
+        "de": "Finde den Corcovado-Nationalpark auf der Halbinsel Osa.",
+        "hu": "Keresd meg a Corcovado Nemzeti Parkot az Osa-félszigeten.",
+        "ro": "Găsește Parcul Național Corcovado din Peninsula Osa.",
+        "en": "Find Corcovado National Park on the Osa Peninsula."
+      }
+    },
+    {
+      "id": "cr-find-tortuguero",
+      "type": "find_poi",
+      "targetPoiId": "cr-tortuguero",
+      "question": {
+        "de": "Finde den Tortuguero-Nationalpark an der Karibikküste.",
+        "hu": "Keresd meg a Tortuguero Nemzeti Parkot a Karib-tenger partján.",
+        "ro": "Găsește Parcul Național Tortuguero de pe coasta Caraibilor.",
+        "en": "Find Tortuguero National Park on the Caribbean coast."
+      }
+    },
+    {
+      "id": "cr-region-guanacaste",
+      "type": "find_region",
+      "targetRegionId": "CRI-1334",
+      "question": {
+        "de": "Klicke auf die Provinz Guanacaste im Nordwesten.",
+        "hu": "Kattints az északnyugati Guanacaste tartományra.",
+        "ro": "Apasă pe provincia Guanacaste din nord-vest.",
+        "en": "Click Guanacaste Province in the northwest."
+      }
+    },
+    {
+      "id": "cr-region-limon",
+      "type": "find_region",
+      "targetRegionId": "CRI-1329",
+      "question": {
+        "de": "Welche Provinz erstreckt sich entlang der Karibikküste? Klicke auf Limón.",
+        "hu": "Melyik tartomány húzódik a Karib-tenger partján? Kattints Limónra.",
+        "ro": "Ce provincie se întinde de-a lungul coastei Caraibilor? Apasă pe Limón.",
+        "en": "Which province stretches along the Caribbean coast? Click Limón."
+      }
+    },
+    {
+      "id": "cr-region-san-jose",
+      "type": "find_region",
+      "targetRegionId": "CRI-1331",
+      "question": {
+        "de": "Finde die Provinz San José im Zentrum des Landes.",
+        "hu": "Keresd meg San José tartományt az ország középső részén.",
+        "ro": "Găsește provincia San José din centrul țării.",
+        "en": "Find San José Province in the center of the country."
+      }
+    },
+    {
+      "id": "cr-odd-guanacaste",
+      "type": "odd_one_out",
+      "poiIds": [
+        "cr-liberia",
+        "nicoya-de-guanacaste-cities-v2",
+        "santa-cruz-de-guanacaste-cities-v2",
+        "cr-cartago"
+      ],
+      "targetPoiId": "cr-cartago",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht in der Provinz Guanacaste?",
+        "hu": "Melyik hely nem Guanacaste tartományban található?",
+        "ro": "Care dintre aceste locuri nu se află în provincia Guanacaste?",
+        "en": "Which of these places is not in Guanacaste Province?"
+      }
+    },
+    {
+      "id": "cr-order-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "cr-liberia",
+        "cr-arenal",
+        "cr-sanjose",
+        "puerto-viejo-de-talamanca-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "cr-liberia",
+        "cr-arenal",
+        "cr-sanjose",
+        "puerto-viejo-de-talamanca-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die Orte von West nach Ost an.",
+        "hu": "Kattints a helyekre nyugatról keletre haladva.",
+        "ro": "Apasă locurile de la vest la est.",
+        "en": "Click the places from west to east."
+      }
+    },
+    {
+      "id": "cr-order-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "cr-tortuguero",
+        "cr-sanjose",
+        "cr-corcovado"
+      ],
+      "orderedPoiIds": [
+        "cr-tortuguero",
+        "cr-sanjose",
+        "cr-corcovado"
+      ],
+      "question": {
+        "de": "Klicke Tortuguero, San José und Corcovado von Nord nach Süd an.",
+        "hu": "Kattints Tortugueróra, San Joséra és Corcovadóra északról délre.",
+        "ro": "Apasă Tortuguero, San José și Corcovado de la nord la sud.",
+        "en": "Click Tortuguero, San José and Corcovado from north to south."
+      }
+    }
+  ],
+  "pa": [
+    {
+      "id": "pa-find-panama-city",
+      "type": "find_poi",
+      "targetPoiId": "pa-panamacity",
+      "question": {
+        "de": "Finde Panama-Stadt, die Hauptstadt des Landes.",
+        "hu": "Keresd meg Panamavárost, az ország fővárosát.",
+        "ro": "Găsește Ciudad de Panamá, capitala țării.",
+        "en": "Find Panama City, the country's capital."
+      }
+    },
+    {
+      "id": "pa-find-canal",
+      "type": "find_poi",
+      "targetPoiId": "pa-canal",
+      "question": {
+        "de": "Finde den Panamakanal, der Atlantik und Pazifik verbindet.",
+        "hu": "Keresd meg az Atlanti- és a Csendes-óceánt összekötő Panama-csatornát.",
+        "ro": "Găsește Canalul Panama, care leagă Atlanticul de Pacific.",
+        "en": "Find the Panama Canal, which links the Atlantic and Pacific."
+      }
+    },
+    {
+      "id": "pa-find-boquete",
+      "type": "find_poi",
+      "targetPoiId": "pa-boquete",
+      "question": {
+        "de": "Finde den Hochlandort Boquete in der Provinz Chiriquí.",
+        "hu": "Keresd meg Boquete hegyvidéki települését Chiriquí tartományban.",
+        "ro": "Găsește localitatea montană Boquete din provincia Chiriquí.",
+        "en": "Find the highland town of Boquete in Chiriquí Province."
+      }
+    },
+    {
+      "id": "pa-find-san-blas",
+      "type": "find_poi",
+      "targetPoiId": "pa-sanblas",
+      "question": {
+        "de": "Finde die San-Blas-Inseln an der Karibikküste.",
+        "hu": "Keresd meg a San Blas-szigeteket a Karib-tenger partján.",
+        "ro": "Găsește Insulele San Blas de pe coasta Caraibilor.",
+        "en": "Find the San Blas Islands on the Caribbean coast."
+      }
+    },
+    {
+      "id": "pa-region-chiriqui",
+      "type": "find_region",
+      "targetRegionId": "PAN-1332",
+      "question": {
+        "de": "Klicke auf Chiriquí im Westen Panamas.",
+        "hu": "Kattints Panama nyugati részén Chiriquí tartományra.",
+        "ro": "Apasă pe provincia Chiriquí din vestul statului Panama.",
+        "en": "Click Chiriquí Province in western Panama."
+      }
+    },
+    {
+      "id": "pa-region-darien",
+      "type": "find_region",
+      "targetRegionId": "PAN-1418",
+      "question": {
+        "de": "Finde Darién an der Grenze zu Kolumbien.",
+        "hu": "Keresd meg Dariént a kolumbiai határnál.",
+        "ro": "Găsește provincia Darién la granița cu Columbia.",
+        "en": "Find Darién on the border with Colombia."
+      }
+    },
+    {
+      "id": "pa-region-bocas",
+      "type": "find_region",
+      "targetRegionId": "PAN-1958",
+      "question": {
+        "de": "Finde Bocas del Toro im karibischen Nordwesten.",
+        "hu": "Keresd meg Bocas del Torót a karibi északnyugaton.",
+        "ro": "Găsește Bocas del Toro în nord-vestul caraibian.",
+        "en": "Find Bocas del Toro in the Caribbean northwest."
+      }
+    },
+    {
+      "id": "pa-odd-chiriqui",
+      "type": "odd_one_out",
+      "poiIds": [
+        "pa-david",
+        "pa-boquete",
+        "panama-volcan-cities-v2",
+        "pa-panamacity"
+      ],
+      "targetPoiId": "pa-panamacity",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht in der Provinz Chiriquí?",
+        "hu": "Melyik hely nem Chiriquí tartományban található?",
+        "ro": "Care dintre aceste locuri nu se află în provincia Chiriquí?",
+        "en": "Which of these places is not in Chiriquí Province?"
+      }
+    },
+    {
+      "id": "pa-order-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "pa-boquete",
+        "pa-santiago",
+        "pa-panamacity",
+        "panama-fuerte-yaviza-history-v2"
+      ],
+      "orderedPoiIds": [
+        "pa-boquete",
+        "pa-santiago",
+        "pa-panamacity",
+        "panama-fuerte-yaviza-history-v2"
+      ],
+      "question": {
+        "de": "Klicke die Orte von West nach Ost an.",
+        "hu": "Kattints a helyekre nyugatról keletre haladva.",
+        "ro": "Apasă locurile de la vest la est.",
+        "en": "Click the places from west to east."
+      }
+    },
+    {
+      "id": "pa-order-caribbean",
+      "type": "sequence",
+      "poiIds": [
+        "pa-bocas",
+        "pa-colon",
+        "pa-sanblas"
+      ],
+      "orderedPoiIds": [
+        "pa-bocas",
+        "pa-colon",
+        "pa-sanblas"
+      ],
+      "question": {
+        "de": "Klicke Bocas del Toro, Colón und die San-Blas-Inseln entlang der Karibikküste von West nach Ost an.",
+        "hu": "Kattints Bocas del Toróra, Colónra és a San Blas-szigetekre a karibi part mentén nyugatról keletre.",
+        "ro": "Apasă Bocas del Toro, Colón și Insulele San Blas de la vest la est de-a lungul coastei Caraibilor.",
+        "en": "Click Bocas del Toro, Colón and the San Blas Islands from west to east along the Caribbean coast."
+      }
+    }
+  ],
+  "bz": [
+    {
+      "id": "bz-find-belmopan",
+      "type": "find_poi",
+      "targetPoiId": "bz-belmopan",
+      "question": {
+        "de": "Finde Belmopan, die Hauptstadt von Belize.",
+        "hu": "Keresd meg Belmopant, Belize fővárosát.",
+        "ro": "Găsește Belmopan, capitala statului Belize.",
+        "en": "Find Belmopan, the capital of Belize."
+      }
+    },
+    {
+      "id": "bz-find-belize-city",
+      "type": "find_poi",
+      "targetPoiId": "bz-belizecity",
+      "question": {
+        "de": "Finde Belize City an der Karibikküste.",
+        "hu": "Keresd meg Belize Cityt a Karib-tenger partján.",
+        "ro": "Găsește Belize City pe coasta Caraibilor.",
+        "en": "Find Belize City on the Caribbean coast."
+      }
+    },
+    {
+      "id": "bz-find-caracol",
+      "type": "find_poi",
+      "targetPoiId": "bz-caracol",
+      "question": {
+        "de": "Finde die Maya-Ruinen von Caracol im Westen des Landes.",
+        "hu": "Keresd meg Caracol maja romvárosát az ország nyugati részén.",
+        "ro": "Găsește ruinele mayașe de la Caracol în vestul țării.",
+        "en": "Find the Maya ruins of Caracol in western Belize."
+      }
+    },
+    {
+      "id": "bz-find-placencia",
+      "type": "find_poi",
+      "targetPoiId": "bz-placencia",
+      "question": {
+        "de": "Finde Placencia auf der Halbinsel an der Südküste.",
+        "hu": "Keresd meg Placenciát a déli partvidék félszigetén.",
+        "ro": "Găsește Placencia pe peninsula de pe coasta sudică.",
+        "en": "Find Placencia on the peninsula along the southern coast."
+      }
+    },
+    {
+      "id": "bz-region-cayo",
+      "type": "find_region",
+      "targetRegionId": "BLZ-1324",
+      "question": {
+        "de": "Klicke auf den Distrikt Cayo im Westen von Belize.",
+        "hu": "Kattints a Belize nyugati részén fekvő Cayo körzetre.",
+        "ro": "Apasă pe districtul Cayo din vestul statului Belize.",
+        "en": "Click Cayo District in western Belize."
+      }
+    },
+    {
+      "id": "bz-region-belize",
+      "type": "find_region",
+      "targetRegionId": "BLZ-1323",
+      "question": {
+        "de": "Finde den Distrikt Belize an der zentralen Küste.",
+        "hu": "Keresd meg Belize körzetet a középső partvidéken.",
+        "ro": "Găsește districtul Belize de pe coasta centrală.",
+        "en": "Find Belize District on the central coast."
+      }
+    },
+    {
+      "id": "bz-region-toledo",
+      "type": "find_region",
+      "targetRegionId": "BLZ-1356",
+      "question": {
+        "de": "Finde den südlichsten Distrikt Toledo.",
+        "hu": "Keresd meg a legdélebbi Toledo körzetet.",
+        "ro": "Găsește districtul Toledo, cel mai sudic din țară.",
+        "en": "Find Toledo, the country's southernmost district."
+      }
+    },
+    {
+      "id": "bz-odd-cayo",
+      "type": "odd_one_out",
+      "poiIds": [
+        "bz-belmopan",
+        "bz-sanignacio",
+        "bz-caracol",
+        "bz-belizecity"
+      ],
+      "targetPoiId": "bz-belizecity",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht im Distrikt Cayo?",
+        "hu": "Melyik hely nem Cayo körzetben található?",
+        "ro": "Care dintre aceste locuri nu se află în districtul Cayo?",
+        "en": "Which of these places is not in Cayo District?"
+      }
+    },
+    {
+      "id": "bz-order-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "corozal-town-cities-v2",
+        "orange-walk-town-cities-v2",
+        "bz-belizecity",
+        "punta-gorda-town-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "corozal-town-cities-v2",
+        "orange-walk-town-cities-v2",
+        "bz-belizecity",
+        "punta-gorda-town-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die Orte von Nord nach Süd an.",
+        "hu": "Kattints a helyekre északról délre haladva.",
+        "ro": "Apasă locurile de la nord la sud.",
+        "en": "Click the places from north to south."
+      }
+    },
+    {
+      "id": "bz-order-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "bz-sanignacio",
+        "bz-belmopan",
+        "bz-belizecity"
+      ],
+      "orderedPoiIds": [
+        "bz-sanignacio",
+        "bz-belmopan",
+        "bz-belizecity"
+      ],
+      "question": {
+        "de": "Klicke San Ignacio, Belmopan und Belize City von West nach Ost an.",
+        "hu": "Kattints San Ignacióra, Belmopanra és Belize Cityre nyugatról keletre.",
+        "ro": "Apasă San Ignacio, Belmopan și Belize City de la vest la est.",
+        "en": "Click San Ignacio, Belmopan and Belize City from west to east."
+      }
+    }
+  ]
+}

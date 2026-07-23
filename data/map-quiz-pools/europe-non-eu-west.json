@@ -1,0 +1,832 @@
+{
+  "gb": [
+    {
+      "id": "gb-find-london",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde London auf der Karte.",
+        "hu": "Keresd meg Londont a térképen.",
+        "ro": "Găsește Londra pe hartă.",
+        "en": "Find London on the map."
+      },
+      "targetPoiId": "uk-london"
+    },
+    {
+      "id": "gb-find-edinburgh",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Edinburgh, die Hauptstadt Schottlands?",
+        "hu": "Hol található Edinburgh, Skócia fővárosa?",
+        "ro": "Unde se află Edinburgh, capitala Scoției?",
+        "en": "Where is Edinburgh, the capital of Scotland?"
+      },
+      "targetPoiId": "uk-edinburgh"
+    },
+    {
+      "id": "gb-find-belfast",
+      "type": "find_poi",
+      "question": {
+        "de": "Klicke auf Belfast in Nordirland.",
+        "hu": "Kattints az észak-írországi Belfastra.",
+        "ro": "Apasă pe Belfast, în Irlanda de Nord.",
+        "en": "Click Belfast in Northern Ireland."
+      },
+      "targetPoiId": "uk-belfast"
+    },
+    {
+      "id": "gb-find-stonehenge",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde den prähistorischen Steinkreis Stonehenge.",
+        "hu": "Keresd meg a történelem előtti Stonehenge kőkört.",
+        "ro": "Găsește cercul preistoric de piatră Stonehenge.",
+        "en": "Find the prehistoric stone circle of Stonehenge."
+      },
+      "targetPoiId": "uk-stonehenge-history-v2"
+    },
+    {
+      "id": "gb-region-england",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf England.",
+        "hu": "Kattints Angliára.",
+        "ro": "Apasă pe Anglia.",
+        "en": "Click England."
+      },
+      "targetRegionId": "GB-ENG"
+    },
+    {
+      "id": "gb-region-scotland",
+      "type": "find_region",
+      "question": {
+        "de": "Wo liegt Schottland?",
+        "hu": "Hol található Skócia?",
+        "ro": "Unde se află Scoția?",
+        "en": "Where is Scotland?"
+      },
+      "targetRegionId": "GB-SCT"
+    },
+    {
+      "id": "gb-region-wales",
+      "type": "find_region",
+      "question": {
+        "de": "Finde Wales.",
+        "hu": "Keresd meg Walest.",
+        "ro": "Găsește Țara Galilor.",
+        "en": "Find Wales."
+      },
+      "targetRegionId": "GB-WLS"
+    },
+    {
+      "id": "gb-odd-scotland",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Städte liegt nicht in Schottland?",
+        "hu": "Melyik város nem Skóciában található?",
+        "ro": "Care dintre aceste orașe nu se află în Scoția?",
+        "en": "Which of these cities is not in Scotland?"
+      },
+      "poiIds": [
+        "uk-edinburgh",
+        "uk-glasgow-cities-v2",
+        "uk-manchester-cities-v2"
+      ],
+      "targetPoiId": "uk-manchester-cities-v2"
+    },
+    {
+      "id": "gb-order-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Städte von West nach Ost an.",
+        "hu": "Kattints a városokra nyugatról keletre haladva.",
+        "ro": "Apasă orașele de la vest la est.",
+        "en": "Click the cities from west to east."
+      },
+      "poiIds": [
+        "uk-belfast",
+        "uk-liverpool-cities-v2",
+        "uk-manchester-cities-v2",
+        "uk-london"
+      ],
+      "orderedPoiIds": [
+        "uk-belfast",
+        "uk-liverpool-cities-v2",
+        "uk-manchester-cities-v2",
+        "uk-london"
+      ]
+    },
+    {
+      "id": "gb-order-north-south",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Edinburgh, Manchester, Birmingham und Cardiff von Nord nach Süd an.",
+        "hu": "Kattints Edinburghra, Manchesterre, Birminghamre és Cardiffra északról délre.",
+        "ro": "Apasă Edinburgh, Manchester, Birmingham și Cardiff de la nord la sud.",
+        "en": "Click Edinburgh, Manchester, Birmingham and Cardiff from north to south."
+      },
+      "poiIds": [
+        "uk-edinburgh",
+        "uk-manchester-cities-v2",
+        "uk-birmingham-cities-v2",
+        "uk-cardiff"
+      ],
+      "orderedPoiIds": [
+        "uk-edinburgh",
+        "uk-manchester-cities-v2",
+        "uk-birmingham-cities-v2",
+        "uk-cardiff"
+      ]
+    }
+  ],
+  "no": [
+    {
+      "id": "no-find-oslo",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Oslo auf der Karte.",
+        "hu": "Keresd meg Oslót a térképen.",
+        "ro": "Găsește Oslo pe hartă.",
+        "en": "Find Oslo on the map."
+      },
+      "targetPoiId": "city-oslo"
+    },
+    {
+      "id": "no-find-bergen",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt die Hafenstadt Bergen?",
+        "hu": "Hol található Bergen kikötővárosa?",
+        "ro": "Unde se află orașul-port Bergen?",
+        "en": "Where is the port city of Bergen?"
+      },
+      "targetPoiId": "city-bergen"
+    },
+    {
+      "id": "no-find-trondheim",
+      "type": "find_poi",
+      "question": {
+        "de": "Klicke auf Trondheim.",
+        "hu": "Kattints Trondheimre.",
+        "ro": "Apasă pe Trondheim.",
+        "en": "Click Trondheim."
+      },
+      "targetPoiId": "city-trondheim"
+    },
+    {
+      "id": "no-find-north-cape",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde das Nordkap im hohen Norden Norwegens.",
+        "hu": "Keresd meg az Északi-fokot Norvégia messzi északi részén.",
+        "ro": "Găsește Capul Nord în extremitatea nordică a Norvegiei.",
+        "en": "Find the North Cape in the far north of Norway."
+      },
+      "targetPoiId": "nat-north-cape"
+    },
+    {
+      "id": "no-region-troms",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf die Region Troms.",
+        "hu": "Kattints Troms régióra.",
+        "ro": "Apasă pe regiunea Troms.",
+        "en": "Click the Troms region."
+      },
+      "targetRegionId": "NO-19"
+    },
+    {
+      "id": "no-region-nordland",
+      "type": "find_region",
+      "question": {
+        "de": "Wo liegt Nordland?",
+        "hu": "Hol található Nordland?",
+        "ro": "Unde se află Nordland?",
+        "en": "Where is Nordland?"
+      },
+      "targetRegionId": "NO-18"
+    },
+    {
+      "id": "no-region-rogaland",
+      "type": "find_region",
+      "question": {
+        "de": "Finde Rogaland im Südwesten Norwegens.",
+        "hu": "Keresd meg Rogalandot Norvégia délnyugati részén.",
+        "ro": "Găsește Rogaland în sud-vestul Norvegiei.",
+        "en": "Find Rogaland in southwestern Norway."
+      },
+      "targetRegionId": "NO-11"
+    },
+    {
+      "id": "no-odd-west-coast",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Städte liegt nicht an Norwegens Westküste?",
+        "hu": "Melyik város nem Norvégia nyugati partvidékén található?",
+        "ro": "Care dintre aceste orașe nu se află pe coasta de vest a Norvegiei?",
+        "en": "Which of these cities is not on Norway's west coast?"
+      },
+      "poiIds": [
+        "city-bergen",
+        "city-stavanger",
+        "city-alesund",
+        "city-oslo"
+      ],
+      "targetPoiId": "city-oslo"
+    },
+    {
+      "id": "no-order-south-north",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Städte von Süd nach Nord an.",
+        "hu": "Kattints a városokra délről észak felé haladva.",
+        "ro": "Apasă orașele de la sud la nord.",
+        "en": "Click the cities from south to north."
+      },
+      "poiIds": [
+        "city-kristiansand",
+        "city-oslo",
+        "city-trondheim",
+        "city-tromso"
+      ],
+      "orderedPoiIds": [
+        "city-kristiansand",
+        "city-oslo",
+        "city-trondheim",
+        "city-tromso"
+      ]
+    },
+    {
+      "id": "no-order-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Bergen, Oslo und Tromsø von West nach Ost an.",
+        "hu": "Kattints Bergenre, Oslóra és Tromsøre nyugatról keletre.",
+        "ro": "Apasă Bergen, Oslo și Tromsø de la vest la est.",
+        "en": "Click Bergen, Oslo and Tromsø from west to east."
+      },
+      "poiIds": [
+        "city-bergen",
+        "city-oslo",
+        "city-tromso"
+      ],
+      "orderedPoiIds": [
+        "city-bergen",
+        "city-oslo",
+        "city-tromso"
+      ]
+    }
+  ],
+  "ch": [
+    {
+      "id": "ch-find-zurich",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Zürich auf der Karte.",
+        "hu": "Keresd meg Zürichet a térképen.",
+        "ro": "Găsește Zürich pe hartă.",
+        "en": "Find Zurich on the map."
+      },
+      "targetPoiId": "city-zurich"
+    },
+    {
+      "id": "ch-find-geneva",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Genf am Genfersee?",
+        "hu": "Hol található Genf a Genfi-tó partján?",
+        "ro": "Unde se află Geneva, pe malul lacului Geneva?",
+        "en": "Where is Geneva on Lake Geneva?"
+      },
+      "targetPoiId": "city-geneva"
+    },
+    {
+      "id": "ch-find-bern",
+      "type": "find_poi",
+      "question": {
+        "de": "Klicke auf die Bundesstadt Bern.",
+        "hu": "Kattints Svájc szövetségi fővárosára, Bernre.",
+        "ro": "Apasă pe Berna, capitala federală a Elveției.",
+        "en": "Click Bern, Switzerland's federal capital."
+      },
+      "targetPoiId": "ch-bern"
+    },
+    {
+      "id": "ch-find-matterhorn",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde das Matterhorn in den Walliser Alpen.",
+        "hu": "Keresd meg a Matterhornt a Wallisi-Alpokban.",
+        "ro": "Găsește Matterhorn în Alpii Pennini.",
+        "en": "Find the Matterhorn in the Pennine Alps."
+      },
+      "targetPoiId": "nature-matterhorn"
+    },
+    {
+      "id": "ch-region-ticino",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf den Kanton Tessin.",
+        "hu": "Kattints Ticino kantonra.",
+        "ro": "Apasă pe cantonul Ticino.",
+        "en": "Click the canton of Ticino."
+      },
+      "targetRegionId": "CH-TI"
+    },
+    {
+      "id": "ch-region-geneva",
+      "type": "find_region",
+      "question": {
+        "de": "Wo liegt der Kanton Genf?",
+        "hu": "Hol található Genf kanton?",
+        "ro": "Unde se află cantonul Geneva?",
+        "en": "Where is the canton of Geneva?"
+      },
+      "targetRegionId": "CH-GE"
+    },
+    {
+      "id": "ch-region-grisons",
+      "type": "find_region",
+      "question": {
+        "de": "Finde den Kanton Graubünden.",
+        "hu": "Keresd meg Graubünden kantont.",
+        "ro": "Găsește cantonul Graubünden.",
+        "en": "Find the canton of Graubünden."
+      },
+      "targetRegionId": "CH-GR"
+    },
+    {
+      "id": "ch-odd-ticino",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Städte liegt nicht im Kanton Tessin?",
+        "hu": "Melyik város nem Ticino kantonban található?",
+        "ro": "Care dintre aceste orașe nu se află în cantonul Ticino?",
+        "en": "Which of these cities is not in the canton of Ticino?"
+      },
+      "poiIds": [
+        "city-lugano",
+        "switzerland-bellinzona-cities-v2",
+        "switzerland-locarno-cities-v2",
+        "city-lausanne"
+      ],
+      "targetPoiId": "city-lausanne"
+    },
+    {
+      "id": "ch-order-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Genf, Bern und Zürich von West nach Ost an.",
+        "hu": "Kattints Genfre, Bernre és Zürichre nyugatról keletre.",
+        "ro": "Apasă Geneva, Berna și Zürich de la vest la est.",
+        "en": "Click Geneva, Bern and Zurich from west to east."
+      },
+      "poiIds": [
+        "city-geneva",
+        "ch-bern",
+        "city-zurich"
+      ],
+      "orderedPoiIds": [
+        "city-geneva",
+        "ch-bern",
+        "city-zurich"
+      ]
+    },
+    {
+      "id": "ch-order-north-south",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Basel, Luzern und Lugano von Nord nach Süd an.",
+        "hu": "Kattints Bázelre, Luzernre és Luganóra északról délre.",
+        "ro": "Apasă Basel, Lucerna și Lugano de la nord la sud.",
+        "en": "Click Basel, Lucerne and Lugano from north to south."
+      },
+      "poiIds": [
+        "city-basel",
+        "city-lucerne",
+        "city-lugano"
+      ],
+      "orderedPoiIds": [
+        "city-basel",
+        "city-lucerne",
+        "city-lugano"
+      ]
+    }
+  ],
+  "is": [
+    {
+      "id": "is-find-reykjavik",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Reykjavík auf der Karte.",
+        "hu": "Keresd meg Reykjavíkot a térképen.",
+        "ro": "Găsește Reykjavík pe hartă.",
+        "en": "Find Reykjavik on the map."
+      },
+      "targetPoiId": "iceland-reykjavik-cities-v2"
+    },
+    {
+      "id": "is-find-akureyri",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Akureyri im Norden Islands?",
+        "hu": "Hol található Akureyri Izland északi részén?",
+        "ro": "Unde se află Akureyri, în nordul Islandei?",
+        "en": "Where is Akureyri in northern Iceland?"
+      },
+      "targetPoiId": "iceland-akureyri-cities-v2"
+    },
+    {
+      "id": "is-find-hofn",
+      "type": "find_poi",
+      "question": {
+        "de": "Klicke auf die Küstenstadt Höfn im Südosten.",
+        "hu": "Kattints a délkeleti Höfn tengerparti városára.",
+        "ro": "Apasă pe orașul de coastă Höfn din sud-est.",
+        "en": "Click the coastal town of Hofn in the southeast."
+      },
+      "targetPoiId": "iceland-hofn-cities-v2"
+    },
+    {
+      "id": "is-find-gullfoss",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde den Wasserfall Gullfoss.",
+        "hu": "Keresd meg a Gullfoss-vízesést.",
+        "ro": "Găsește cascada Gullfoss.",
+        "en": "Find Gullfoss waterfall."
+      },
+      "targetPoiId": "iceland-gullfoss-nature-v2"
+    },
+    {
+      "id": "is-region-reykjavik",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf die Region Reykjavík.",
+        "hu": "Kattints Reykjavík régióra.",
+        "ro": "Apasă pe regiunea Reykjavík.",
+        "en": "Click the Reykjavik region."
+      },
+      "targetRegionId": "IS-004"
+    },
+    {
+      "id": "is-region-westfjords",
+      "type": "find_region",
+      "question": {
+        "de": "Wo liegen die Westfjorde?",
+        "hu": "Hol található a Nyugati-fjordok régiója?",
+        "ro": "Unde se află regiunea Fiordurilor de Vest?",
+        "en": "Where are the Westfjords?"
+      },
+      "targetRegionId": "IS-007"
+    },
+    {
+      "id": "is-region-east",
+      "type": "find_region",
+      "question": {
+        "de": "Finde die Region Austurland im Osten Islands.",
+        "hu": "Keresd meg Austurland régiót Izland keleti részén.",
+        "ro": "Găsește regiunea Austurland în estul Islandei.",
+        "en": "Find the Austurland region in eastern Iceland."
+      },
+      "targetRegionId": "IS-001"
+    },
+    {
+      "id": "is-odd-north",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht in Nordisland?",
+        "hu": "Melyik hely nem Észak-Izlandon található?",
+        "ro": "Care dintre aceste locuri nu se află în nordul Islandei?",
+        "en": "Which of these places is not in northern Iceland?"
+      },
+      "poiIds": [
+        "iceland-akureyri-cities-v2",
+        "iceland-husavik-cities-v2",
+        "iceland-dalvik-cities-v2",
+        "iceland-selfoss-cities-v2"
+      ],
+      "targetPoiId": "iceland-selfoss-cities-v2"
+    },
+    {
+      "id": "is-order-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Keflavík, Reykjavík, Höfn und Egilsstaðir von West nach Ost an.",
+        "hu": "Kattints Keflavíkra, Reykjavíkra, Höfnre és Egilsstaðirra nyugatról keletre.",
+        "ro": "Apasă Keflavík, Reykjavík, Höfn și Egilsstaðir de la vest la est.",
+        "en": "Click Keflavik, Reykjavik, Hofn and Egilsstadir from west to east."
+      },
+      "poiIds": [
+        "iceland-keflavik-cities-v2",
+        "iceland-reykjavik-cities-v2",
+        "iceland-hofn-cities-v2",
+        "city-egilsstadir-extra"
+      ],
+      "orderedPoiIds": [
+        "iceland-keflavik-cities-v2",
+        "iceland-reykjavik-cities-v2",
+        "iceland-hofn-cities-v2",
+        "city-egilsstadir-extra"
+      ]
+    },
+    {
+      "id": "is-order-north-south",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Húsavík, Akureyri, Reykjavík und Vík von Nord nach Süd an.",
+        "hu": "Kattints Húsavíkra, Akureyrire, Reykjavíkra és Víkra északról délre.",
+        "ro": "Apasă Húsavík, Akureyri, Reykjavík și Vík de la nord la sud.",
+        "en": "Click Husavik, Akureyri, Reykjavik and Vik from north to south."
+      },
+      "poiIds": [
+        "iceland-husavik-cities-v2",
+        "iceland-akureyri-cities-v2",
+        "iceland-reykjavik-cities-v2",
+        "iceland-vik-i-myrdal-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "iceland-husavik-cities-v2",
+        "iceland-akureyri-cities-v2",
+        "iceland-reykjavik-cities-v2",
+        "iceland-vik-i-myrdal-cities-v2"
+      ]
+    }
+  ],
+  "li": [
+    {
+      "id": "li-find-malbun",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde den Bergort Malbun.",
+        "hu": "Keresd meg Malbun hegyi üdülőhelyet.",
+        "ro": "Găsește stațiunea montană Malbun.",
+        "en": "Find the mountain resort of Malbun."
+      },
+      "targetPoiId": "city-malbun-extra"
+    },
+    {
+      "id": "li-find-vaduz-castle",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Schloss Vaduz?",
+        "hu": "Hol található a vaduzi vár?",
+        "ro": "Unde se află Castelul Vaduz?",
+        "en": "Where is Vaduz Castle?"
+      },
+      "targetPoiId": "li-cult-vaduz-castle"
+    },
+    {
+      "id": "li-find-schaanwald",
+      "type": "find_poi",
+      "question": {
+        "de": "Klicke auf Schaanwald im Norden Liechtensteins.",
+        "hu": "Kattints az észak-liechtensteini Schaanwaldra.",
+        "ro": "Apasă pe Schaanwald, în nordul Liechtensteinului.",
+        "en": "Click Schaanwald in northern Liechtenstein."
+      },
+      "targetPoiId": "city-schaanwald-extra"
+    },
+    {
+      "id": "li-find-ruggeller-riet",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde das Naturschutzgebiet Ruggeller Riet.",
+        "hu": "Keresd meg a Ruggeller Riet természetvédelmi területet.",
+        "ro": "Găsește rezervația naturală Ruggeller Riet.",
+        "en": "Find the Ruggeller Riet nature reserve."
+      },
+      "targetPoiId": "city-ruggeller-riet-extra"
+    },
+    {
+      "id": "li-region-vaduz",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf die Gemeinde Vaduz.",
+        "hu": "Kattints Vaduz községre.",
+        "ro": "Apasă pe comuna Vaduz.",
+        "en": "Click the municipality of Vaduz."
+      },
+      "targetRegionId": "LI-010"
+    },
+    {
+      "id": "li-region-balzers",
+      "type": "find_region",
+      "question": {
+        "de": "Wo liegt die Gemeinde Balzers?",
+        "hu": "Hol található Balzers község?",
+        "ro": "Unde se află comuna Balzers?",
+        "en": "Where is the municipality of Balzers?"
+      },
+      "targetRegionId": "LI-004"
+    },
+    {
+      "id": "li-region-ruggell",
+      "type": "find_region",
+      "question": {
+        "de": "Finde die Gemeinde Ruggell im Norden.",
+        "hu": "Keresd meg Ruggell községet északon.",
+        "ro": "Găsește comuna Ruggell în nord.",
+        "en": "Find the municipality of Ruggell in the north."
+      },
+      "targetRegionId": "LI-009"
+    },
+    {
+      "id": "li-odd-castle",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Marker bezeichnet eine Burg und keinen Ort?",
+        "hu": "Melyik jelölő várat, nem pedig települést mutat?",
+        "ro": "Care marcaj indică un castel, nu o localitate?",
+        "en": "Which marker identifies a castle rather than a settlement?"
+      },
+      "poiIds": [
+        "city-malbun-extra",
+        "city-schaanwald-extra",
+        "li-cult-vaduz-castle"
+      ],
+      "targetPoiId": "li-cult-vaduz-castle"
+    },
+    {
+      "id": "li-order-north-south",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Ruggeller Riet, Eschen, Schaan und Vaduz von Nord nach Süd an.",
+        "hu": "Kattints Ruggeller Rietre, Eschenre, Schaanra és Vaduzra északról délre.",
+        "ro": "Apasă Ruggeller Riet, Eschen, Schaan și Vaduz de la nord la sud.",
+        "en": "Click Ruggeller Riet, Eschen, Schaan and Vaduz from north to south."
+      },
+      "poiIds": [
+        "city-ruggeller-riet-extra",
+        "li-poi-eschen-pfruendhaus",
+        "historical-schaan-roemerkastell-extra",
+        "li-cult-vaduz-castle"
+      ],
+      "orderedPoiIds": [
+        "city-ruggeller-riet-extra",
+        "li-poi-eschen-pfruendhaus",
+        "historical-schaan-roemerkastell-extra",
+        "li-cult-vaduz-castle"
+      ]
+    },
+    {
+      "id": "li-order-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Marker bei Balzers, Vaduz und Mauren von West nach Ost an.",
+        "hu": "Kattints a balzersi, vaduzi és maureni jelölőkre nyugatról keletre.",
+        "ro": "Apasă marcajele din Balzers, Vaduz și Mauren de la vest la est.",
+        "en": "Click the markers at Balzers, Vaduz and Mauren from west to east."
+      },
+      "poiIds": [
+        "landmark-balzers-rheinbruecke-extra",
+        "li-cult-vaduz-castle",
+        "landmark-mauren-pfarreizentrum-extra"
+      ],
+      "orderedPoiIds": [
+        "landmark-balzers-rheinbruecke-extra",
+        "li-cult-vaduz-castle",
+        "landmark-mauren-pfarreizentrum-extra"
+      ]
+    }
+  ],
+  "ad": [
+    {
+      "id": "ad-find-capital",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Andorra la Vella auf der Karte.",
+        "hu": "Keresd meg Andorra la Vellát a térképen.",
+        "ro": "Găsește Andorra la Vella pe hartă.",
+        "en": "Find Andorra la Vella on the map."
+      },
+      "targetPoiId": "city-andorra-la-vella"
+    },
+    {
+      "id": "ad-find-pas-de-la-casa",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Pas de la Casa nahe der französischen Grenze?",
+        "hu": "Hol található Pas de la Casa a francia határ közelében?",
+        "ro": "Unde se află Pas de la Casa, lângă granița cu Franța?",
+        "en": "Where is Pas de la Casa near the French border?"
+      },
+      "targetPoiId": "andorra-pas-de-la-casa-cities-v2"
+    },
+    {
+      "id": "ad-find-ordino",
+      "type": "find_poi",
+      "question": {
+        "de": "Klicke auf Ordino.",
+        "hu": "Kattints Ordinóra.",
+        "ro": "Apasă pe Ordino.",
+        "en": "Click Ordino."
+      },
+      "targetPoiId": "city-ordino"
+    },
+    {
+      "id": "ad-find-canillo",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Canillo im Nordosten Andorras.",
+        "hu": "Keresd meg Canillót Andorra északkeleti részén.",
+        "ro": "Găsește Canillo în nord-estul Andorrei.",
+        "en": "Find Canillo in northeastern Andorra."
+      },
+      "targetPoiId": "city-canillo"
+    },
+    {
+      "id": "ad-region-sant-julia",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf die Gemeinde Sant Julià de Lòria.",
+        "hu": "Kattints Sant Julià de Lòria községre.",
+        "ro": "Apasă pe parohia Sant Julià de Lòria.",
+        "en": "Click the parish of Sant Julia de Loria."
+      },
+      "targetRegionId": "AD-005"
+    },
+    {
+      "id": "ad-region-encamp",
+      "type": "find_region",
+      "question": {
+        "de": "Wo liegt die Gemeinde Encamp?",
+        "hu": "Hol található Encamp község?",
+        "ro": "Unde se află parohia Encamp?",
+        "en": "Where is the parish of Encamp?"
+      },
+      "targetRegionId": "AD-003"
+    },
+    {
+      "id": "ad-region-la-massana",
+      "type": "find_region",
+      "question": {
+        "de": "Finde die Gemeinde La Massana.",
+        "hu": "Keresd meg La Massana községet.",
+        "ro": "Găsește parohia La Massana.",
+        "en": "Find the parish of La Massana."
+      },
+      "targetRegionId": "AD-004"
+    },
+    {
+      "id": "ad-odd-capital",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher dieser Orte ist die Hauptstadt Andorras?",
+        "hu": "Melyik hely Andorra fővárosa?",
+        "ro": "Care dintre aceste localități este capitala Andorrei?",
+        "en": "Which of these places is the capital of Andorra?"
+      },
+      "poiIds": [
+        "city-andorra-la-vella",
+        "city-escaldes-engordany",
+        "city-encamp",
+        "city-canillo"
+      ],
+      "targetPoiId": "city-andorra-la-vella"
+    },
+    {
+      "id": "ad-order-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke La Massana, Andorra la Vella, Encamp und Pas de la Casa von West nach Ost an.",
+        "hu": "Kattints La Massanára, Andorra la Vellára, Encampra és Pas de la Casára nyugatról keletre.",
+        "ro": "Apasă La Massana, Andorra la Vella, Encamp și Pas de la Casa de la vest la est.",
+        "en": "Click La Massana, Andorra la Vella, Encamp and Pas de la Casa from west to east."
+      },
+      "poiIds": [
+        "city-la-massana",
+        "city-andorra-la-vella",
+        "city-encamp",
+        "andorra-pas-de-la-casa-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "city-la-massana",
+        "city-andorra-la-vella",
+        "city-encamp",
+        "andorra-pas-de-la-casa-cities-v2"
+      ]
+    },
+    {
+      "id": "ad-order-north-south",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Canillo, Ordino, Andorra la Vella und Sant Julià de Lòria von Nord nach Süd an.",
+        "hu": "Kattints Canillóra, Ordinóra, Andorra la Vellára és Sant Julià de Lòriára északról délre.",
+        "ro": "Apasă Canillo, Ordino, Andorra la Vella și Sant Julià de Lòria de la nord la sud.",
+        "en": "Click Canillo, Ordino, Andorra la Vella and Sant Julia de Loria from north to south."
+      },
+      "poiIds": [
+        "city-canillo",
+        "city-ordino",
+        "city-andorra-la-vella",
+        "city-sant-julia"
+      ],
+      "orderedPoiIds": [
+        "city-canillo",
+        "city-ordino",
+        "city-andorra-la-vella",
+        "city-sant-julia"
+      ]
+    }
+  ]
+}

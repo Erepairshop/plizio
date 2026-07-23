@@ -1,0 +1,560 @@
+{
+  "ar": [
+    {
+      "id": "ar-find-buenos-aires",
+      "type": "find_poi",
+      "targetPoiId": "ar-c-buenos-aires-cities-v2",
+      "question": {
+        "de": "Finde Buenos Aires, die Hauptstadt Argentiniens.",
+        "hu": "Keresd meg Buenos Airest, Argentína fővárosát.",
+        "ro": "Găsește Buenos Aires, capitala Argentinei.",
+        "en": "Find Buenos Aires, the capital of Argentina."
+      }
+    },
+    {
+      "id": "ar-find-cordoba",
+      "type": "find_poi",
+      "targetPoiId": "ar-x-cordoba-cities-v2",
+      "question": {
+        "de": "Finde Córdoba im Zentrum Argentiniens.",
+        "hu": "Keresd meg Córdobát Argentína középső részén.",
+        "ro": "Găsește Córdoba în centrul Argentinei.",
+        "en": "Find Córdoba in central Argentina."
+      }
+    },
+    {
+      "id": "ar-find-ushuaia",
+      "type": "find_poi",
+      "targetPoiId": "ar-v-ushuaia-cities-v2",
+      "question": {
+        "de": "Finde Ushuaia im äußersten Süden Argentiniens.",
+        "hu": "Keresd meg Ushuaiát Argentína legdélibb részén.",
+        "ro": "Găsește Ushuaia în extremitatea sudică a Argentinei.",
+        "en": "Find Ushuaia in the far south of Argentina."
+      }
+    },
+    {
+      "id": "ar-find-puerto-iguazu",
+      "type": "find_poi",
+      "targetPoiId": "ar-n-puerto-iguazu-cities-v2",
+      "question": {
+        "de": "Finde Puerto Iguazú im Nordosten Argentiniens.",
+        "hu": "Keresd meg Puerto Iguazút Argentína északkeleti részén.",
+        "ro": "Găsește Puerto Iguazú în nord-estul Argentinei.",
+        "en": "Find Puerto Iguazú in northeastern Argentina."
+      }
+    },
+    {
+      "id": "ar-region-mendoza",
+      "type": "find_region",
+      "targetRegionId": "ARG-1275",
+      "question": {
+        "de": "Klicke auf die Provinz Mendoza an der Grenze zu Chile.",
+        "hu": "Kattints a chilei határnál fekvő Mendoza tartományra.",
+        "ro": "Apasă pe provincia Mendoza de la granița cu Chile.",
+        "en": "Click Mendoza Province along the Chilean border."
+      }
+    },
+    {
+      "id": "ar-region-misiones",
+      "type": "find_region",
+      "targetRegionId": "ARG-1312",
+      "question": {
+        "de": "Finde die Provinz Misiones im Nordosten.",
+        "hu": "Keresd meg Misiones tartományt északkeleten.",
+        "ro": "Găsește provincia Misiones în nord-est.",
+        "en": "Find Misiones Province in the northeast."
+      }
+    },
+    {
+      "id": "ar-region-tierra-del-fuego",
+      "type": "find_region",
+      "targetRegionId": "ARG-1272",
+      "question": {
+        "de": "Klicke auf Tierra del Fuego im äußersten Süden.",
+        "hu": "Kattints a legdélebbi Tűzföld tartományra.",
+        "ro": "Apasă pe Țara de Foc din extremitatea sudică.",
+        "en": "Click Tierra del Fuego in the far south."
+      }
+    },
+    {
+      "id": "ar-odd-cordoba",
+      "type": "odd_one_out",
+      "poiIds": [
+        "ar-x-cordoba-cities-v2",
+        "ar-x-rio-cuarto-cities-v2",
+        "ar-x-villa-maria-cities-v2",
+        "ar-m-mendoza-cities-v2"
+      ],
+      "targetPoiId": "ar-m-mendoza-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt nicht in der Provinz Córdoba?",
+        "hu": "Melyik város nem Córdoba tartományban található?",
+        "ro": "Care dintre aceste orașe nu se află în provincia Córdoba?",
+        "en": "Which of these cities is not in Córdoba Province?"
+      }
+    },
+    {
+      "id": "ar-order-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "ar-m-mendoza-cities-v2",
+        "ar-x-cordoba-cities-v2",
+        "ar-c-buenos-aires-cities-v2",
+        "ar-n-puerto-iguazu-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "ar-m-mendoza-cities-v2",
+        "ar-x-cordoba-cities-v2",
+        "ar-c-buenos-aires-cities-v2",
+        "ar-n-puerto-iguazu-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Mendoza, Córdoba, Buenos Aires und Puerto Iguazú von West nach Ost an.",
+        "hu": "Kattints Mendozára, Córdobára, Buenos Airesre és Puerto Iguazúra nyugatról keletre.",
+        "ro": "Apasă Mendoza, Córdoba, Buenos Aires și Puerto Iguazú de la vest la est.",
+        "en": "Click Mendoza, Córdoba, Buenos Aires and Puerto Iguazú from west to east."
+      }
+    },
+    {
+      "id": "ar-order-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "ar-a-salta-cities-v2",
+        "ar-x-cordoba-cities-v2",
+        "ar-c-buenos-aires-cities-v2",
+        "ar-v-ushuaia-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "ar-a-salta-cities-v2",
+        "ar-x-cordoba-cities-v2",
+        "ar-c-buenos-aires-cities-v2",
+        "ar-v-ushuaia-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Salta, Córdoba, Buenos Aires und Ushuaia von Nord nach Süd an.",
+        "hu": "Kattints Saltára, Córdobára, Buenos Airesre és Ushuaiára északról délre.",
+        "ro": "Apasă Salta, Córdoba, Buenos Aires și Ushuaia de la nord la sud.",
+        "en": "Click Salta, Córdoba, Buenos Aires and Ushuaia from north to south."
+      }
+    }
+  ],
+  "bo": [
+    {
+      "id": "bo-find-salar-de-uyuni",
+      "type": "find_poi",
+      "targetPoiId": "bo-salar-de-uyuni-nature-v2",
+      "question": {
+        "de": "Finde den Salar de Uyuni, die große Salzwüste Boliviens.",
+        "hu": "Keresd meg a Salar de Uyuni sómezőt.",
+        "ro": "Găsește Salar de Uyuni, marele deșert de sare al Boliviei.",
+        "en": "Find Salar de Uyuni, Bolivia's great salt flat."
+      }
+    },
+    {
+      "id": "bo-find-lake-titicaca",
+      "type": "find_poi",
+      "targetPoiId": "bo-lake-titicaca-nature-v2",
+      "question": {
+        "de": "Finde den Titicacasee an der Grenze zu Peru.",
+        "hu": "Keresd meg a Titicaca-tavat a perui határnál.",
+        "ro": "Găsește Lacul Titicaca la granița cu Peru.",
+        "en": "Find Lake Titicaca along the Peruvian border."
+      }
+    },
+    {
+      "id": "bo-find-tiwanaku",
+      "type": "find_poi",
+      "targetPoiId": "bo-tiwanaku-history-v2",
+      "question": {
+        "de": "Finde die Ruinen von Tiwanaku.",
+        "hu": "Keresd meg Tiwanaku romjait.",
+        "ro": "Găsește ruinele de la Tiwanaku.",
+        "en": "Find the ruins of Tiwanaku."
+      }
+    },
+    {
+      "id": "bo-find-eduardo-avaroa",
+      "type": "find_poi",
+      "targetPoiId": "eduardo-avaroa-reservat-life-v2",
+      "question": {
+        "de": "Finde das Eduardo-Avaroa-Reservat im Südwesten Boliviens.",
+        "hu": "Keresd meg az Eduardo Avaroa Rezervátumot Bolívia délnyugati részén.",
+        "ro": "Găsește Rezervația Eduardo Avaroa în sud-vestul Boliviei.",
+        "en": "Find Eduardo Avaroa Reserve in southwestern Bolivia."
+      }
+    },
+    {
+      "id": "bo-region-la-paz",
+      "type": "find_region",
+      "targetRegionId": "BOL-1936",
+      "question": {
+        "de": "Klicke auf das Departamento La Paz im Westen.",
+        "hu": "Kattints a nyugati La Paz megyére.",
+        "ro": "Apasă pe departamentul La Paz din vest.",
+        "en": "Click La Paz Department in the west."
+      }
+    },
+    {
+      "id": "bo-region-santa-cruz",
+      "type": "find_region",
+      "targetRegionId": "BOL-1940",
+      "question": {
+        "de": "Finde das große Departamento Santa Cruz im Osten.",
+        "hu": "Keresd meg a nagy Santa Cruz megyét keleten.",
+        "ro": "Găsește marele departament Santa Cruz din est.",
+        "en": "Find the large Santa Cruz Department in the east."
+      }
+    },
+    {
+      "id": "bo-region-potosi",
+      "type": "find_region",
+      "targetRegionId": "BOL-1939",
+      "question": {
+        "de": "Klicke auf das Departamento Potosí im Südwesten.",
+        "hu": "Kattints a délnyugati Potosí megyére.",
+        "ro": "Apasă pe departamentul Potosí din sud-vest.",
+        "en": "Click Potosí Department in the southwest."
+      }
+    },
+    {
+      "id": "bo-odd-la-paz",
+      "type": "odd_one_out",
+      "poiIds": [
+        "plaza-murillo-landmarks-v2",
+        "basilica-san-francisco-landmarks-v2",
+        "catedral-nuestra-senora-la-paz-landmarks-v2",
+        "bo-casa-moneda-history-v2"
+      ],
+      "targetPoiId": "bo-casa-moneda-history-v2",
+      "question": {
+        "de": "Welche dieser Sehenswürdigkeiten liegt nicht in La Paz?",
+        "hu": "Melyik látnivaló nem La Pazban található?",
+        "ro": "Care dintre aceste obiective nu se află în La Paz?",
+        "en": "Which of these landmarks is not in La Paz?"
+      }
+    },
+    {
+      "id": "bo-order-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "bo-lake-titicaca-nature-v2",
+        "bo-salar-de-uyuni-nature-v2",
+        "bo-casa-libertad-history-v2",
+        "bo-fuerte-samaipata-history-v2"
+      ],
+      "orderedPoiIds": [
+        "bo-lake-titicaca-nature-v2",
+        "bo-salar-de-uyuni-nature-v2",
+        "bo-casa-libertad-history-v2",
+        "bo-fuerte-samaipata-history-v2"
+      ],
+      "question": {
+        "de": "Klicke Titicacasee, Salar de Uyuni, Casa de la Libertad und El Fuerte de Samaipata von West nach Ost an.",
+        "hu": "Kattints a Titicaca-tóra, Salar de Uyunira, Casa de la Libertadra és El Fuerte de Samaipatára nyugatról keletre.",
+        "ro": "Apasă Lacul Titicaca, Salar de Uyuni, Casa de la Libertad și El Fuerte de Samaipata de la vest la est.",
+        "en": "Click Lake Titicaca, Salar de Uyuni, Casa de la Libertad and El Fuerte de Samaipata from west to east."
+      }
+    },
+    {
+      "id": "bo-order-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "manuripi-heath-reservat-life-v2",
+        "bo-lake-titicaca-nature-v2",
+        "bo-salar-de-uyuni-nature-v2",
+        "bo-laguna-verde-nature-v2"
+      ],
+      "orderedPoiIds": [
+        "manuripi-heath-reservat-life-v2",
+        "bo-lake-titicaca-nature-v2",
+        "bo-salar-de-uyuni-nature-v2",
+        "bo-laguna-verde-nature-v2"
+      ],
+      "question": {
+        "de": "Klicke Manuripi, Titicacasee, Salar de Uyuni und Laguna Verde von Nord nach Süd an.",
+        "hu": "Kattints Manuripire, a Titicaca-tóra, Salar de Uyunira és Laguna Verdére északról délre.",
+        "ro": "Apasă Manuripi, Lacul Titicaca, Salar de Uyuni și Laguna Verde de la nord la sud.",
+        "en": "Click Manuripi, Lake Titicaca, Salar de Uyuni and Laguna Verde from north to south."
+      }
+    }
+  ],
+  "br": [
+    {
+      "id": "br-find-sao-paulo",
+      "type": "find_poi",
+      "targetPoiId": "sao-paulo-cities-v2",
+      "question": {
+        "de": "Finde São Paulo, die größte Stadt Brasiliens.",
+        "hu": "Keresd meg São Paulót, Brazília legnagyobb városát.",
+        "ro": "Găsește São Paulo, cel mai mare oraș al Braziliei.",
+        "en": "Find São Paulo, Brazil's largest city."
+      }
+    },
+    {
+      "id": "br-find-rio-de-janeiro",
+      "type": "find_poi",
+      "targetPoiId": "rio-de-janeiro-cities-v2",
+      "question": {
+        "de": "Finde Rio de Janeiro an der Atlantikküste.",
+        "hu": "Keresd meg Rio de Janeirót az Atlanti-óceán partján.",
+        "ro": "Găsește Rio de Janeiro pe coasta Atlanticului.",
+        "en": "Find Rio de Janeiro on the Atlantic coast."
+      }
+    },
+    {
+      "id": "br-find-brasilia",
+      "type": "find_poi",
+      "targetPoiId": "brasilia-cities-v2",
+      "question": {
+        "de": "Finde Brasília, die Hauptstadt im Landesinneren.",
+        "hu": "Keresd meg Brazíliavárost, az ország belsejében fekvő fővárost.",
+        "ro": "Găsește Brasília, capitala din interiorul țării.",
+        "en": "Find Brasília, the inland capital."
+      }
+    },
+    {
+      "id": "br-find-manaus",
+      "type": "find_poi",
+      "targetPoiId": "manaus-cities-v2",
+      "question": {
+        "de": "Finde Manaus im Amazonasgebiet.",
+        "hu": "Keresd meg Manaust az Amazonas vidékén.",
+        "ro": "Găsește Manaus în regiunea Amazonului.",
+        "en": "Find Manaus in the Amazon region."
+      }
+    },
+    {
+      "id": "br-region-amazonas",
+      "type": "find_region",
+      "targetRegionId": "BRA-592",
+      "question": {
+        "de": "Klicke auf den großen Bundesstaat Amazonas im Nordwesten.",
+        "hu": "Kattints a nagy Amazonas államra északnyugaton.",
+        "ro": "Apasă pe marele stat Amazonas din nord-vest.",
+        "en": "Click the large state of Amazonas in the northwest."
+      }
+    },
+    {
+      "id": "br-region-bahia",
+      "type": "find_region",
+      "targetRegionId": "BRA-624",
+      "question": {
+        "de": "Finde den Bundesstaat Bahia an der Ostküste.",
+        "hu": "Keresd meg Bahia államot a keleti partvidéken.",
+        "ro": "Găsește statul Bahia pe coasta de est.",
+        "en": "Find the state of Bahia on the east coast."
+      }
+    },
+    {
+      "id": "br-region-rio-grande-do-sul",
+      "type": "find_region",
+      "targetRegionId": "BRA-612",
+      "question": {
+        "de": "Klicke auf Rio Grande do Sul, Brasiliens südlichsten Bundesstaat.",
+        "hu": "Kattints Rio Grande do Sulra, Brazília legdélibb államára.",
+        "ro": "Apasă pe Rio Grande do Sul, cel mai sudic stat al Braziliei.",
+        "en": "Click Rio Grande do Sul, Brazil's southernmost state."
+      }
+    },
+    {
+      "id": "br-odd-sao-paulo-state",
+      "type": "odd_one_out",
+      "poiIds": [
+        "sao-paulo-cities-v2",
+        "campinas-cities-v2",
+        "sorocaba-cities-v2",
+        "rio-de-janeiro-cities-v2"
+      ],
+      "targetPoiId": "rio-de-janeiro-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt nicht im Bundesstaat São Paulo?",
+        "hu": "Melyik város nem São Paulo államban található?",
+        "ro": "Care dintre aceste orașe nu se află în statul São Paulo?",
+        "en": "Which of these cities is not in the state of São Paulo?"
+      }
+    },
+    {
+      "id": "br-order-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "manaus-cities-v2",
+        "brasilia-cities-v2",
+        "salvador-cities-v2",
+        "recife-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "manaus-cities-v2",
+        "brasilia-cities-v2",
+        "salvador-cities-v2",
+        "recife-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Manaus, Brasília, Salvador und Recife von West nach Ost an.",
+        "hu": "Kattints Manausra, Brazíliavárosra, Salvadorra és Recifére nyugatról keletre.",
+        "ro": "Apasă Manaus, Brasília, Salvador și Recife de la vest la est.",
+        "en": "Click Manaus, Brasília, Salvador and Recife from west to east."
+      }
+    },
+    {
+      "id": "br-order-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "belem-cities-v2",
+        "brasilia-cities-v2",
+        "sao-paulo-cities-v2",
+        "porto-alegre-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "belem-cities-v2",
+        "brasilia-cities-v2",
+        "sao-paulo-cities-v2",
+        "porto-alegre-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Belém, Brasília, São Paulo und Porto Alegre von Nord nach Süd an.",
+        "hu": "Kattints Belémre, Brazíliavárosra, São Paulóra és Porto Alegrére északról délre.",
+        "ro": "Apasă Belém, Brasília, São Paulo și Porto Alegre de la nord la sud.",
+        "en": "Click Belém, Brasília, São Paulo and Porto Alegre from north to south."
+      }
+    }
+  ],
+  "cl": [
+    {
+      "id": "cl-find-santiago",
+      "type": "find_poi",
+      "targetPoiId": "santiago-cities-v2",
+      "question": {
+        "de": "Finde Santiago, die Hauptstadt Chiles.",
+        "hu": "Keresd meg Santiagót, Chile fővárosát.",
+        "ro": "Găsește Santiago, capitala statului Chile.",
+        "en": "Find Santiago, the capital of Chile."
+      }
+    },
+    {
+      "id": "cl-find-antofagasta",
+      "type": "find_poi",
+      "targetPoiId": "antofagasta-cities-v2",
+      "question": {
+        "de": "Finde Antofagasta an der Küste Nordchiles.",
+        "hu": "Keresd meg Antofagastát Chile északi partvidékén.",
+        "ro": "Găsește Antofagasta pe coasta de nord a statului Chile.",
+        "en": "Find Antofagasta on Chile's northern coast."
+      }
+    },
+    {
+      "id": "cl-find-torres-del-paine",
+      "type": "find_poi",
+      "targetPoiId": "chile-torres-del-paine-cities-v2",
+      "question": {
+        "de": "Finde Torres del Paine im Süden Patagoniens.",
+        "hu": "Keresd meg Torres del Painét Patagónia déli részén.",
+        "ro": "Găsește Torres del Paine în sudul Patagoniei.",
+        "en": "Find Torres del Paine in southern Patagonia."
+      }
+    },
+    {
+      "id": "cl-find-easterly-puerto-williams",
+      "type": "find_poi",
+      "targetPoiId": "chile-puerto-williams-cities-v2",
+      "question": {
+        "de": "Finde Puerto Williams im äußersten Süden Chiles.",
+        "hu": "Keresd meg Puerto Williamst Chile legdélibb részén.",
+        "ro": "Găsește Puerto Williams în extremitatea sudică a statului Chile.",
+        "en": "Find Puerto Williams in the far south of Chile."
+      }
+    },
+    {
+      "id": "cl-region-antofagasta",
+      "type": "find_region",
+      "targetRegionId": "CHL-2695",
+      "question": {
+        "de": "Klicke auf die Region Antofagasta im Norden.",
+        "hu": "Kattints az északi Antofagasta régióra.",
+        "ro": "Apasă pe regiunea Antofagasta din nord.",
+        "en": "Click the Antofagasta Region in the north."
+      }
+    },
+    {
+      "id": "cl-region-metropolitana",
+      "type": "find_region",
+      "targetRegionId": "CHL-2698",
+      "question": {
+        "de": "Finde die Hauptstadtregion Región Metropolitana de Santiago.",
+        "hu": "Keresd meg a fővárosi Región Metropolitana de Santiago régiót.",
+        "ro": "Găsește regiunea capitalei, Región Metropolitana de Santiago.",
+        "en": "Find the capital region, Región Metropolitana de Santiago."
+      }
+    },
+    {
+      "id": "cl-region-los-lagos",
+      "type": "find_region",
+      "targetRegionId": "CHL-2704",
+      "question": {
+        "de": "Klicke auf die Region Los Lagos im Süden.",
+        "hu": "Kattints a déli Los Lagos régióra.",
+        "ro": "Apasă pe regiunea Los Lagos din sud.",
+        "en": "Click the Los Lagos Region in the south."
+      }
+    },
+    {
+      "id": "cl-odd-metropolitana",
+      "type": "odd_one_out",
+      "poiIds": [
+        "santiago-cities-v2",
+        "puente-alto-cities-v2",
+        "maipu-cities-v2",
+        "antofagasta-cities-v2"
+      ],
+      "targetPoiId": "antofagasta-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt nicht in der Hauptstadtregion Santiago?",
+        "hu": "Melyik város nem a Santiago fővárosi régióban található?",
+        "ro": "Care dintre aceste orașe nu se află în regiunea capitalei Santiago?",
+        "en": "Which of these cities is not in the Santiago Metropolitan Region?"
+      }
+    },
+    {
+      "id": "cl-order-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "chile-robinson-crusoe-island-cities-v2",
+        "chile-vina-del-mar-cities-v2",
+        "santiago-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "chile-robinson-crusoe-island-cities-v2",
+        "chile-vina-del-mar-cities-v2",
+        "santiago-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Robinson-Crusoe-Insel, Viña del Mar und Santiago von West nach Ost an.",
+        "hu": "Kattints a Robinson Crusoe-szigetre, Viña del Marra és Santiagóra nyugatról keletre.",
+        "ro": "Apasă Insula Robinson Crusoe, Viña del Mar și Santiago de la vest la est.",
+        "en": "Click Robinson Crusoe Island, Viña del Mar and Santiago from west to east."
+      }
+    },
+    {
+      "id": "cl-order-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "antofagasta-cities-v2",
+        "chile-la-serena-cities-v2",
+        "santiago-cities-v2",
+        "chile-puerto-montt-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "antofagasta-cities-v2",
+        "chile-la-serena-cities-v2",
+        "santiago-cities-v2",
+        "chile-puerto-montt-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Antofagasta, La Serena, Santiago und Puerto Montt von Nord nach Süd an.",
+        "hu": "Kattints Antofagastára, La Serenára, Santiagóra és Puerto Monttra északról délre.",
+        "ro": "Apasă Antofagasta, La Serena, Santiago și Puerto Montt de la nord la sud.",
+        "en": "Click Antofagasta, La Serena, Santiago and Puerto Montt from north to south."
+      }
+    }
+  ]
+}

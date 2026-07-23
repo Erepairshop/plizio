@@ -1,0 +1,1226 @@
+{
+  "er": [
+    {
+      "id": "er-find-asmara",
+      "type": "find_poi",
+      "targetPoiId": "asmara-cities-v2",
+      "question": {
+        "de": "Finde Asmara auf der Karte.",
+        "hu": "Keresd meg Asmara helyét a térképen.",
+        "ro": "Găsește Asmara pe hartă.",
+        "en": "Find Asmara on the map."
+      }
+    },
+    {
+      "id": "er-find-massawa",
+      "type": "find_poi",
+      "targetPoiId": "massawa-cities-v2",
+      "question": {
+        "de": "Finde Massawa auf der Karte.",
+        "hu": "Keresd meg Massawa helyét a térképen.",
+        "ro": "Găsește Massawa pe hartă.",
+        "en": "Find Massawa on the map."
+      }
+    },
+    {
+      "id": "er-find-keren",
+      "type": "find_poi",
+      "targetPoiId": "keren-cities-v2",
+      "question": {
+        "de": "Finde Keren auf der Karte.",
+        "hu": "Keresd meg Keren helyét a térképen.",
+        "ro": "Găsește Keren pe hartă.",
+        "en": "Find Keren on the map."
+      }
+    },
+    {
+      "id": "er-find-assab",
+      "type": "find_poi",
+      "targetPoiId": "assab-cities-v2",
+      "question": {
+        "de": "Finde Assab auf der Karte.",
+        "hu": "Keresd meg Assab helyét a térképen.",
+        "ro": "Găsește Assab pe hartă.",
+        "en": "Find Assab on the map."
+      }
+    },
+    {
+      "id": "er-region-eri-1565",
+      "type": "find_region",
+      "targetRegionId": "ERI-1565",
+      "question": {
+        "de": "Klicke auf die Region Debubawi Keyih Bahri.",
+        "hu": "Kattints Debubawi Keyih Bahri régiójára.",
+        "ro": "Apasă pe regiunea Debubawi Keyih Bahri.",
+        "en": "Click the Debubawi Keyih Bahri region."
+      }
+    },
+    {
+      "id": "er-region-eri-1560",
+      "type": "find_region",
+      "targetRegionId": "ERI-1560",
+      "question": {
+        "de": "Klicke auf die Region Gash Barka.",
+        "hu": "Kattints Gash Barka régiójára.",
+        "ro": "Apasă pe regiunea Gash Barka.",
+        "en": "Click the Gash Barka region."
+      }
+    },
+    {
+      "id": "er-region-eri-1564",
+      "type": "find_region",
+      "targetRegionId": "ERI-1564",
+      "question": {
+        "de": "Klicke auf die Region Maekel.",
+        "hu": "Kattints Maekel régiójára.",
+        "ro": "Apasă pe regiunea Maekel.",
+        "en": "Click the Maekel region."
+      }
+    },
+    {
+      "id": "er-odd-south",
+      "type": "odd_one_out",
+      "poiIds": [
+        "asmara-cities-v2",
+        "massawa-cities-v2",
+        "keren-cities-v2",
+        "assab-cities-v2"
+      ],
+      "targetPoiId": "assab-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt am weitesten südlich?",
+        "hu": "Melyik hely fekszik a legdélebbre?",
+        "ro": "Care loc se află cel mai la sud?",
+        "en": "Which place lies furthest south?"
+      }
+    },
+    {
+      "id": "er-order-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "keren-cities-v2",
+        "asmara-cities-v2",
+        "assab-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "keren-cities-v2",
+        "asmara-cities-v2",
+        "assab-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Keren, Asmara, Assab von Norden nach Süden an.",
+        "hu": "Kattints ezekre északról délre: Keren, Asmara, Assab.",
+        "ro": "Apasă în ordine de la nord la sud: Keren, Asmara, Assab.",
+        "en": "Click from north to south: Keren, Asmara, Assab."
+      }
+    },
+    {
+      "id": "er-order-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "barentu-cities-v2",
+        "asmara-cities-v2",
+        "massawa-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "barentu-cities-v2",
+        "asmara-cities-v2",
+        "massawa-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Barentu, Asmara, Massawa von Westen nach Osten an.",
+        "hu": "Kattints ezekre nyugatról keletre: Barentu, Asmara, Massawa.",
+        "ro": "Apasă în ordine de la vest la est: Barentu, Asmara, Massawa.",
+        "en": "Click from west to east: Barentu, Asmara, Massawa."
+      }
+    }
+  ],
+  "dj": [
+    {
+      "id": "dj-find-djibouti-city",
+      "type": "find_poi",
+      "targetPoiId": "djibouti-city-cities-v2",
+      "question": {
+        "de": "Finde Djibouti City auf der Karte.",
+        "hu": "Keresd meg Djibouti City helyét a térképen.",
+        "ro": "Găsește Djibouti City pe hartă.",
+        "en": "Find Djibouti City on the map."
+      }
+    },
+    {
+      "id": "dj-find-ali-sabieh",
+      "type": "find_poi",
+      "targetPoiId": "ali-sabieh-cities-v2",
+      "question": {
+        "de": "Finde Ali Sabieh auf der Karte.",
+        "hu": "Keresd meg Ali Sabieh helyét a térképen.",
+        "ro": "Găsește Ali Sabieh pe hartă.",
+        "en": "Find Ali Sabieh on the map."
+      }
+    },
+    {
+      "id": "dj-find-tadjourah",
+      "type": "find_poi",
+      "targetPoiId": "tadjourah-cities-v2",
+      "question": {
+        "de": "Finde Tadjourah auf der Karte.",
+        "hu": "Keresd meg Tadjourah helyét a térképen.",
+        "ro": "Găsește Tadjourah pe hartă.",
+        "en": "Find Tadjourah on the map."
+      }
+    },
+    {
+      "id": "dj-find-obock",
+      "type": "find_poi",
+      "targetPoiId": "obock-cities-v2",
+      "question": {
+        "de": "Finde Obock auf der Karte.",
+        "hu": "Keresd meg Obock helyét a térképen.",
+        "ro": "Găsește Obock pe hartă.",
+        "en": "Find Obock on the map."
+      }
+    },
+    {
+      "id": "dj-region-dji-1566",
+      "type": "find_region",
+      "targetRegionId": "DJI-1566",
+      "question": {
+        "de": "Klicke auf die Region Ali Sabieh.",
+        "hu": "Kattints Ali Sabieh régiójára.",
+        "ro": "Apasă pe regiunea Ali Sabieh.",
+        "en": "Click the Ali Sabieh region."
+      }
+    },
+    {
+      "id": "dj-region-dji-1569",
+      "type": "find_region",
+      "targetRegionId": "DJI-1569",
+      "question": {
+        "de": "Klicke auf die Region Dikhil.",
+        "hu": "Kattints Dikhil régiójára.",
+        "ro": "Apasă pe regiunea Dikhil.",
+        "en": "Click the Dikhil region."
+      }
+    },
+    {
+      "id": "dj-region-dji-1571",
+      "type": "find_region",
+      "targetRegionId": "DJI-1571",
+      "question": {
+        "de": "Klicke auf die Region Tadjourah.",
+        "hu": "Kattints Tadjourah régiójára.",
+        "ro": "Apasă pe regiunea Tadjourah.",
+        "en": "Click the Tadjourah region."
+      }
+    },
+    {
+      "id": "dj-odd-south",
+      "type": "odd_one_out",
+      "poiIds": [
+        "djibouti-city-cities-v2",
+        "ali-sabieh-cities-v2",
+        "tadjourah-cities-v2",
+        "obock-cities-v2"
+      ],
+      "targetPoiId": "ali-sabieh-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt am weitesten südlich?",
+        "hu": "Melyik hely fekszik a legdélebbre?",
+        "ro": "Care loc se află cel mai la sud?",
+        "en": "Which place lies furthest south?"
+      }
+    },
+    {
+      "id": "dj-order-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "obock-cities-v2",
+        "djibouti-city-cities-v2",
+        "ali-sabieh-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "obock-cities-v2",
+        "djibouti-city-cities-v2",
+        "ali-sabieh-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Obock, Djibouti City, Ali Sabieh von Norden nach Süden an.",
+        "hu": "Kattints ezekre északról délre: Obock, Djibouti City, Ali Sabieh.",
+        "ro": "Apasă în ordine de la nord la sud: Obock, Djibouti City, Ali Sabieh.",
+        "en": "Click from north to south: Obock, Djibouti City, Ali Sabieh."
+      }
+    },
+    {
+      "id": "dj-order-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "dikhil-cities-v2",
+        "arta-cities-v2",
+        "djibouti-city-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "dikhil-cities-v2",
+        "arta-cities-v2",
+        "djibouti-city-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Dikhil, Arta, Djibouti City von Westen nach Osten an.",
+        "hu": "Kattints ezekre nyugatról keletre: Dikhil, Arta, Djibouti City.",
+        "ro": "Apasă în ordine de la vest la est: Dikhil, Arta, Djibouti City.",
+        "en": "Click from west to east: Dikhil, Arta, Djibouti City."
+      }
+    }
+  ],
+  "et": [
+    {
+      "id": "et-find-addis-ababa",
+      "type": "find_poi",
+      "targetPoiId": "addis-ababa-cities-v2",
+      "question": {
+        "de": "Finde Addis Ababa auf der Karte.",
+        "hu": "Keresd meg Addis Ababa helyét a térképen.",
+        "ro": "Găsește Addis Ababa pe hartă.",
+        "en": "Find Addis Ababa on the map."
+      }
+    },
+    {
+      "id": "et-find-dire-dawa",
+      "type": "find_poi",
+      "targetPoiId": "dire-dawa-cities-v2",
+      "question": {
+        "de": "Finde Dire Dawa auf der Karte.",
+        "hu": "Keresd meg Dire Dawa helyét a térképen.",
+        "ro": "Găsește Dire Dawa pe hartă.",
+        "en": "Find Dire Dawa on the map."
+      }
+    },
+    {
+      "id": "et-find-mekelle",
+      "type": "find_poi",
+      "targetPoiId": "mekelle-cities-v2",
+      "question": {
+        "de": "Finde Mekelle auf der Karte.",
+        "hu": "Keresd meg Mekelle helyét a térképen.",
+        "ro": "Găsește Mekelle pe hartă.",
+        "en": "Find Mekelle on the map."
+      }
+    },
+    {
+      "id": "et-find-gondar",
+      "type": "find_poi",
+      "targetPoiId": "gondar-cities-v2",
+      "question": {
+        "de": "Finde Gondar auf der Karte.",
+        "hu": "Keresd meg Gondar helyét a térképen.",
+        "ro": "Găsește Gondar pe hartă.",
+        "en": "Find Gondar on the map."
+      }
+    },
+    {
+      "id": "et-region-eth-3134",
+      "type": "find_region",
+      "targetRegionId": "ETH-3134",
+      "question": {
+        "de": "Klicke auf die Region Somali.",
+        "hu": "Kattints Somali régiójára.",
+        "ro": "Apasă pe regiunea Somali.",
+        "en": "Click the Somali region."
+      }
+    },
+    {
+      "id": "et-region-eth-3109",
+      "type": "find_region",
+      "targetRegionId": "ETH-3109",
+      "question": {
+        "de": "Klicke auf die Region Amhara.",
+        "hu": "Kattints Amhara régiójára.",
+        "ro": "Apasă pe regiunea Amhara.",
+        "en": "Click the Amhara region."
+      }
+    },
+    {
+      "id": "et-region-eth-3131",
+      "type": "find_region",
+      "targetRegionId": "ETH-3131",
+      "question": {
+        "de": "Klicke auf die Region Oromiya.",
+        "hu": "Kattints Oromiya régiójára.",
+        "ro": "Apasă pe regiunea Oromiya.",
+        "en": "Click the Oromiya region."
+      }
+    },
+    {
+      "id": "et-odd-east",
+      "type": "odd_one_out",
+      "poiIds": [
+        "addis-ababa-cities-v2",
+        "dire-dawa-cities-v2",
+        "mekelle-cities-v2",
+        "gondar-cities-v2"
+      ],
+      "targetPoiId": "dire-dawa-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt am weitesten östlich?",
+        "hu": "Melyik hely fekszik a legkeletebbre?",
+        "ro": "Care loc se află cel mai la est?",
+        "en": "Which place lies furthest east?"
+      }
+    },
+    {
+      "id": "et-order-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "mekelle-cities-v2",
+        "addis-ababa-cities-v2",
+        "hawassa-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "mekelle-cities-v2",
+        "addis-ababa-cities-v2",
+        "hawassa-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Mekelle, Addis Ababa, Hawassa von Norden nach Süden an.",
+        "hu": "Kattints ezekre északról délre: Mekelle, Addis Ababa, Hawassa.",
+        "ro": "Apasă în ordine de la nord la sud: Mekelle, Addis Ababa, Hawassa.",
+        "en": "Click from north to south: Mekelle, Addis Ababa, Hawassa."
+      }
+    },
+    {
+      "id": "et-order-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "jimma-cities-v2",
+        "addis-ababa-cities-v2",
+        "jigjiga-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "jimma-cities-v2",
+        "addis-ababa-cities-v2",
+        "jigjiga-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Jimma, Addis Ababa, Jijiga von Westen nach Osten an.",
+        "hu": "Kattints ezekre nyugatról keletre: Jimma, Addis Ababa, Jijiga.",
+        "ro": "Apasă în ordine de la vest la est: Jimma, Addis Ababa, Jijiga.",
+        "en": "Click from west to east: Jimma, Addis Ababa, Jijiga."
+      }
+    }
+  ],
+  "so": [
+    {
+      "id": "so-find-mogadishu",
+      "type": "find_poi",
+      "targetPoiId": "mogadishu-cities-v2",
+      "question": {
+        "de": "Finde Mogadishu auf der Karte.",
+        "hu": "Keresd meg Mogadishu helyét a térképen.",
+        "ro": "Găsește Mogadishu pe hartă.",
+        "en": "Find Mogadishu on the map."
+      }
+    },
+    {
+      "id": "so-find-hargeisa",
+      "type": "find_poi",
+      "targetPoiId": "hargeisa-cities-v2",
+      "question": {
+        "de": "Finde Hargeysa auf der Karte.",
+        "hu": "Keresd meg Hargeysa helyét a térképen.",
+        "ro": "Găsește Hargeysa pe hartă.",
+        "en": "Find Hargeysa on the map."
+      }
+    },
+    {
+      "id": "so-find-bossaso",
+      "type": "find_poi",
+      "targetPoiId": "bossaso-cities-v2",
+      "question": {
+        "de": "Finde Boosaaso auf der Karte.",
+        "hu": "Keresd meg Boosaaso helyét a térképen.",
+        "ro": "Găsește Boosaaso pe hartă.",
+        "en": "Find Boosaaso on the map."
+      }
+    },
+    {
+      "id": "so-find-kismayo",
+      "type": "find_poi",
+      "targetPoiId": "kismayo-cities-v2",
+      "question": {
+        "de": "Finde Kismaayo auf der Karte.",
+        "hu": "Keresd meg Kismaayo helyét a térképen.",
+        "ro": "Găsește Kismaayo pe hartă.",
+        "en": "Find Kismaayo on the map."
+      }
+    },
+    {
+      "id": "so-region-som-1",
+      "type": "find_region",
+      "targetRegionId": "SOM-1",
+      "question": {
+        "de": "Klicke auf die Region Bari.",
+        "hu": "Kattints Bari régiójára.",
+        "ro": "Apasă pe regiunea Bari.",
+        "en": "Click the Bari region."
+      }
+    },
+    {
+      "id": "so-region-som-2407",
+      "type": "find_region",
+      "targetRegionId": "SOM-2407",
+      "question": {
+        "de": "Klicke auf die Region Banaadir.",
+        "hu": "Kattints Banaadir régiójára.",
+        "ro": "Apasă pe regiunea Banaadir.",
+        "en": "Click the Banaadir region."
+      }
+    },
+    {
+      "id": "so-region-som-2645",
+      "type": "find_region",
+      "targetRegionId": "SOM-2645",
+      "question": {
+        "de": "Klicke auf die Region Jubbada Hoose.",
+        "hu": "Kattints Jubbada Hoose régiójára.",
+        "ro": "Apasă pe regiunea Jubbada Hoose.",
+        "en": "Click the Jubbada Hoose region."
+      }
+    },
+    {
+      "id": "so-odd-south",
+      "type": "odd_one_out",
+      "poiIds": [
+        "mogadishu-cities-v2",
+        "hargeisa-cities-v2",
+        "bossaso-cities-v2",
+        "kismayo-cities-v2"
+      ],
+      "targetPoiId": "kismayo-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt am weitesten südlich?",
+        "hu": "Melyik hely fekszik a legdélebbre?",
+        "ro": "Care loc se află cel mai la sud?",
+        "en": "Which place lies furthest south?"
+      }
+    },
+    {
+      "id": "so-order-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "bossaso-cities-v2",
+        "galkayo-cities-v2",
+        "mogadishu-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "bossaso-cities-v2",
+        "galkayo-cities-v2",
+        "mogadishu-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Boosaaso, Galkayo, Mogadishu von Norden nach Süden an.",
+        "hu": "Kattints ezekre északról délre: Boosaaso, Galkayo, Mogadishu.",
+        "ro": "Apasă în ordine de la nord la sud: Boosaaso, Galkayo, Mogadishu.",
+        "en": "Click from north to south: Boosaaso, Galkayo, Mogadishu."
+      }
+    },
+    {
+      "id": "so-order-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "baidoa-cities-v2",
+        "mogadishu-cities-v2",
+        "garowe-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "baidoa-cities-v2",
+        "mogadishu-cities-v2",
+        "garowe-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Baidoa, Mogadishu, Garoowe von Westen nach Osten an.",
+        "hu": "Kattints ezekre nyugatról keletre: Baidoa, Mogadishu, Garoowe.",
+        "ro": "Apasă în ordine de la vest la est: Baidoa, Mogadishu, Garoowe.",
+        "en": "Click from west to east: Baidoa, Mogadishu, Garoowe."
+      }
+    }
+  ],
+  "ss": [
+    {
+      "id": "ss-find-juba",
+      "type": "find_poi",
+      "targetPoiId": "juba-cities-v2",
+      "question": {
+        "de": "Finde Juba auf der Karte.",
+        "hu": "Keresd meg Juba helyét a térképen.",
+        "ro": "Găsește Juba pe hartă.",
+        "en": "Find Juba on the map."
+      }
+    },
+    {
+      "id": "ss-find-malakal",
+      "type": "find_poi",
+      "targetPoiId": "malakal-cities-v2",
+      "question": {
+        "de": "Finde Malakal auf der Karte.",
+        "hu": "Keresd meg Malakal helyét a térképen.",
+        "ro": "Găsește Malakal pe hartă.",
+        "en": "Find Malakal on the map."
+      }
+    },
+    {
+      "id": "ss-find-wau",
+      "type": "find_poi",
+      "targetPoiId": "wau-cities-v2",
+      "question": {
+        "de": "Finde Wau auf der Karte.",
+        "hu": "Keresd meg Wau helyét a térképen.",
+        "ro": "Găsește Wau pe hartă.",
+        "en": "Find Wau on the map."
+      }
+    },
+    {
+      "id": "ss-find-yambio",
+      "type": "find_poi",
+      "targetPoiId": "yambio-cities-v2",
+      "question": {
+        "de": "Finde Yambio auf der Karte.",
+        "hu": "Keresd meg Yambio helyét a térképen.",
+        "ro": "Găsește Yambio pe hartă.",
+        "en": "Find Yambio on the map."
+      }
+    },
+    {
+      "id": "ss-region-sds-892",
+      "type": "find_region",
+      "targetRegionId": "SDS-892",
+      "question": {
+        "de": "Klicke auf die Region Eastern Equatoria.",
+        "hu": "Kattints Eastern Equatoria régiójára.",
+        "ro": "Apasă pe regiunea Eastern Equatoria.",
+        "en": "Click the Eastern Equatoria region."
+      }
+    },
+    {
+      "id": "ss-region-sds-865",
+      "type": "find_region",
+      "targetRegionId": "SDS-865",
+      "question": {
+        "de": "Klicke auf die Region Central Equatoria.",
+        "hu": "Kattints Central Equatoria régiójára.",
+        "ro": "Apasă pe regiunea Central Equatoria.",
+        "en": "Click the Central Equatoria region."
+      }
+    },
+    {
+      "id": "ss-region-sds-869",
+      "type": "find_region",
+      "targetRegionId": "SDS-869",
+      "question": {
+        "de": "Klicke auf die Region Upper Nile.",
+        "hu": "Kattints Upper Nile régiójára.",
+        "ro": "Apasă pe regiunea Upper Nile.",
+        "en": "Click the Upper Nile region."
+      }
+    },
+    {
+      "id": "ss-odd-north",
+      "type": "odd_one_out",
+      "poiIds": [
+        "juba-cities-v2",
+        "malakal-cities-v2",
+        "wau-cities-v2",
+        "yambio-cities-v2"
+      ],
+      "targetPoiId": "malakal-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt am weitesten nördlich?",
+        "hu": "Melyik hely fekszik a legészakabbra?",
+        "ro": "Care loc se află cel mai la nord?",
+        "en": "Which place lies furthest north?"
+      }
+    },
+    {
+      "id": "ss-order-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "malakal-cities-v2",
+        "wau-cities-v2",
+        "juba-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "malakal-cities-v2",
+        "wau-cities-v2",
+        "juba-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Malakal, Wau, Juba von Norden nach Süden an.",
+        "hu": "Kattints ezekre északról délre: Malakal, Wau, Juba.",
+        "ro": "Apasă în ordine de la nord la sud: Malakal, Wau, Juba.",
+        "en": "Click from north to south: Malakal, Wau, Juba."
+      }
+    },
+    {
+      "id": "ss-order-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "wau-cities-v2",
+        "juba-cities-v2",
+        "torit-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "wau-cities-v2",
+        "juba-cities-v2",
+        "torit-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Wau, Juba, Torit von Westen nach Osten an.",
+        "hu": "Kattints ezekre nyugatról keletre: Wau, Juba, Torit.",
+        "ro": "Apasă în ordine de la vest la est: Wau, Juba, Torit.",
+        "en": "Click from west to east: Wau, Juba, Torit."
+      }
+    }
+  ],
+  "sd": [
+    {
+      "id": "sd-find-khartoum",
+      "type": "find_poi",
+      "targetPoiId": "khartoum-cities-v2",
+      "question": {
+        "de": "Finde Khartoum auf der Karte.",
+        "hu": "Keresd meg Khartoum helyét a térképen.",
+        "ro": "Găsește Khartoum pe hartă.",
+        "en": "Find Khartoum on the map."
+      }
+    },
+    {
+      "id": "sd-find-port-sudan",
+      "type": "find_poi",
+      "targetPoiId": "port-sudan-cities-v2",
+      "question": {
+        "de": "Finde Port Sudan auf der Karte.",
+        "hu": "Keresd meg Port Sudan helyét a térképen.",
+        "ro": "Găsește Port Sudan pe hartă.",
+        "en": "Find Port Sudan on the map."
+      }
+    },
+    {
+      "id": "sd-find-kassala",
+      "type": "find_poi",
+      "targetPoiId": "kassala-cities-v2",
+      "question": {
+        "de": "Finde Kassala auf der Karte.",
+        "hu": "Keresd meg Kassala helyét a térképen.",
+        "ro": "Găsește Kassala pe hartă.",
+        "en": "Find Kassala on the map."
+      }
+    },
+    {
+      "id": "sd-find-nyala",
+      "type": "find_poi",
+      "targetPoiId": "nyala-cities-v2",
+      "question": {
+        "de": "Finde Nyala auf der Karte.",
+        "hu": "Keresd meg Nyala helyét a térképen.",
+        "ro": "Găsește Nyala pe hartă.",
+        "en": "Find Nyala on the map."
+      }
+    },
+    {
+      "id": "sd-region-sdn-878",
+      "type": "find_region",
+      "targetRegionId": "SDN-878",
+      "question": {
+        "de": "Klicke auf die Region Northern.",
+        "hu": "Kattints Northern régiójára.",
+        "ro": "Apasă pe regiunea Northern.",
+        "en": "Click the Northern region."
+      }
+    },
+    {
+      "id": "sd-region-sdn-149",
+      "type": "find_region",
+      "targetRegionId": "SDN-149",
+      "question": {
+        "de": "Klicke auf die Region Red Sea.",
+        "hu": "Kattints Red Sea régiójára.",
+        "ro": "Apasă pe regiunea Red Sea.",
+        "en": "Click the Red Sea region."
+      }
+    },
+    {
+      "id": "sd-region-sdn-5856",
+      "type": "find_region",
+      "targetRegionId": "SDN-5856",
+      "question": {
+        "de": "Klicke auf die Region Southern Darfur.",
+        "hu": "Kattints Southern Darfur régiójára.",
+        "ro": "Apasă pe regiunea Southern Darfur.",
+        "en": "Click the Southern Darfur region."
+      }
+    },
+    {
+      "id": "sd-odd-west",
+      "type": "odd_one_out",
+      "poiIds": [
+        "khartoum-cities-v2",
+        "port-sudan-cities-v2",
+        "kassala-cities-v2",
+        "nyala-cities-v2"
+      ],
+      "targetPoiId": "nyala-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt am weitesten westlich?",
+        "hu": "Melyik hely fekszik a legnyugatabbra?",
+        "ro": "Care loc se află cel mai la vest?",
+        "en": "Which place lies furthest west?"
+      }
+    },
+    {
+      "id": "sd-order-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "port-sudan-cities-v2",
+        "khartoum-cities-v2",
+        "nyala-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "port-sudan-cities-v2",
+        "khartoum-cities-v2",
+        "nyala-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Port Sudan, Khartoum, Nyala von Norden nach Süden an.",
+        "hu": "Kattints ezekre északról délre: Port Sudan, Khartoum, Nyala.",
+        "ro": "Apasă în ordine de la nord la sud: Port Sudan, Khartoum, Nyala.",
+        "en": "Click from north to south: Port Sudan, Khartoum, Nyala."
+      }
+    },
+    {
+      "id": "sd-order-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "nyala-cities-v2",
+        "khartoum-cities-v2",
+        "port-sudan-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "nyala-cities-v2",
+        "khartoum-cities-v2",
+        "port-sudan-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Nyala, Khartoum, Port Sudan von Westen nach Osten an.",
+        "hu": "Kattints ezekre nyugatról keletre: Nyala, Khartoum, Port Sudan.",
+        "ro": "Apasă în ordine de la vest la est: Nyala, Khartoum, Port Sudan.",
+        "en": "Click from west to east: Nyala, Khartoum, Port Sudan."
+      }
+    }
+  ],
+  "ke": [
+    {
+      "id": "ke-find-nairobi",
+      "type": "find_poi",
+      "targetPoiId": "nairobi-cities-v2",
+      "question": {
+        "de": "Finde Nairobi auf der Karte.",
+        "hu": "Keresd meg Nairobi helyét a térképen.",
+        "ro": "Găsește Nairobi pe hartă.",
+        "en": "Find Nairobi on the map."
+      }
+    },
+    {
+      "id": "ke-find-mombasa",
+      "type": "find_poi",
+      "targetPoiId": "mombasa-cities-v2",
+      "question": {
+        "de": "Finde Mombasa auf der Karte.",
+        "hu": "Keresd meg Mombasa helyét a térképen.",
+        "ro": "Găsește Mombasa pe hartă.",
+        "en": "Find Mombasa on the map."
+      }
+    },
+    {
+      "id": "ke-find-kisumu",
+      "type": "find_poi",
+      "targetPoiId": "kisumu-cities-v2",
+      "question": {
+        "de": "Finde Kisumu auf der Karte.",
+        "hu": "Keresd meg Kisumu helyét a térképen.",
+        "ro": "Găsește Kisumu pe hartă.",
+        "en": "Find Kisumu on the map."
+      }
+    },
+    {
+      "id": "ke-find-eldoret",
+      "type": "find_poi",
+      "targetPoiId": "eldoret-cities-v2",
+      "question": {
+        "de": "Finde Eldoret auf der Karte.",
+        "hu": "Keresd meg Eldoret helyét a térképen.",
+        "ro": "Găsește Eldoret pe hartă.",
+        "en": "Find Eldoret on the map."
+      }
+    },
+    {
+      "id": "ke-region-ken-1193",
+      "type": "find_region",
+      "targetRegionId": "KEN-1193",
+      "question": {
+        "de": "Klicke auf die Region Coast.",
+        "hu": "Kattints Coast régiójára.",
+        "ro": "Apasă pe regiunea Coast.",
+        "en": "Click the Coast region."
+      }
+    },
+    {
+      "id": "ke-region-ken-1196",
+      "type": "find_region",
+      "targetRegionId": "KEN-1196",
+      "question": {
+        "de": "Klicke auf die Region Nairobi.",
+        "hu": "Kattints Nairobi régiójára.",
+        "ro": "Apasă pe regiunea Nairobi.",
+        "en": "Click the Nairobi region."
+      }
+    },
+    {
+      "id": "ke-region-ken-890",
+      "type": "find_region",
+      "targetRegionId": "KEN-890",
+      "question": {
+        "de": "Klicke auf die Region Rift Valley.",
+        "hu": "Kattints Rift Valley régiójára.",
+        "ro": "Apasă pe regiunea Rift Valley.",
+        "en": "Click the Rift Valley region."
+      }
+    },
+    {
+      "id": "ke-odd-coast",
+      "type": "odd_one_out",
+      "poiIds": [
+        "nairobi-cities-v2",
+        "mombasa-cities-v2",
+        "kisumu-cities-v2",
+        "eldoret-cities-v2"
+      ],
+      "targetPoiId": "mombasa-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt an der Küste des Indischen Ozeans?",
+        "hu": "Melyik hely fekszik az Indiai-óceán partján?",
+        "ro": "Care loc se află pe coasta Oceanului Indian?",
+        "en": "Which place lies on the Indian Ocean coast?"
+      }
+    },
+    {
+      "id": "ke-order-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "eldoret-cities-v2",
+        "nairobi-cities-v2",
+        "mombasa-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "eldoret-cities-v2",
+        "nairobi-cities-v2",
+        "mombasa-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Eldoret, Nairobi, Mombasa von Norden nach Süden an.",
+        "hu": "Kattints ezekre északról délre: Eldoret, Nairobi, Mombasa.",
+        "ro": "Apasă în ordine de la nord la sud: Eldoret, Nairobi, Mombasa.",
+        "en": "Click from north to south: Eldoret, Nairobi, Mombasa."
+      }
+    },
+    {
+      "id": "ke-order-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "kisumu-cities-v2",
+        "nairobi-cities-v2",
+        "mombasa-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "kisumu-cities-v2",
+        "nairobi-cities-v2",
+        "mombasa-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Kisumu, Nairobi, Mombasa von Westen nach Osten an.",
+        "hu": "Kattints ezekre nyugatról keletre: Kisumu, Nairobi, Mombasa.",
+        "ro": "Apasă în ordine de la vest la est: Kisumu, Nairobi, Mombasa.",
+        "en": "Click from west to east: Kisumu, Nairobi, Mombasa."
+      }
+    }
+  ],
+  "ug": [
+    {
+      "id": "ug-find-kampala",
+      "type": "find_poi",
+      "targetPoiId": "kampala-cities-v2",
+      "question": {
+        "de": "Finde Kampala auf der Karte.",
+        "hu": "Keresd meg Kampala helyét a térképen.",
+        "ro": "Găsește Kampala pe hartă.",
+        "en": "Find Kampala on the map."
+      }
+    },
+    {
+      "id": "ug-find-gulu",
+      "type": "find_poi",
+      "targetPoiId": "gulu-cities-v2",
+      "question": {
+        "de": "Finde Gulu auf der Karte.",
+        "hu": "Keresd meg Gulu helyét a térképen.",
+        "ro": "Găsește Gulu pe hartă.",
+        "en": "Find Gulu on the map."
+      }
+    },
+    {
+      "id": "ug-find-mbarara",
+      "type": "find_poi",
+      "targetPoiId": "mbarara-cities-v2",
+      "question": {
+        "de": "Finde Mbarara auf der Karte.",
+        "hu": "Keresd meg Mbarara helyét a térképen.",
+        "ro": "Găsește Mbarara pe hartă.",
+        "en": "Find Mbarara on the map."
+      }
+    },
+    {
+      "id": "ug-find-jinja",
+      "type": "find_poi",
+      "targetPoiId": "jinja-cities-v2",
+      "question": {
+        "de": "Finde Jinja auf der Karte.",
+        "hu": "Keresd meg Jinja helyét a térképen.",
+        "ro": "Găsește Jinja pe hartă.",
+        "en": "Find Jinja on the map."
+      }
+    },
+    {
+      "id": "ug-region-uga-3372",
+      "type": "find_region",
+      "targetRegionId": "UGA-3372",
+      "question": {
+        "de": "Klicke auf die Region Ntungamo.",
+        "hu": "Kattints Ntungamo régiójára.",
+        "ro": "Apasă pe regiunea Ntungamo.",
+        "en": "Click the Ntungamo region."
+      }
+    },
+    {
+      "id": "ug-region-uga-3375",
+      "type": "find_region",
+      "targetRegionId": "UGA-3375",
+      "question": {
+        "de": "Klicke auf die Region Kabale.",
+        "hu": "Kattints Kabale régiójára.",
+        "ro": "Apasă pe regiunea Kabale.",
+        "en": "Click the Kabale region."
+      }
+    },
+    {
+      "id": "ug-region-uga-3125",
+      "type": "find_region",
+      "targetRegionId": "UGA-3125",
+      "question": {
+        "de": "Klicke auf die Region Kaabong.",
+        "hu": "Kattints Kaabong régiójára.",
+        "ro": "Apasă pe regiunea Kaabong.",
+        "en": "Click the Kaabong region."
+      }
+    },
+    {
+      "id": "ug-odd-north",
+      "type": "odd_one_out",
+      "poiIds": [
+        "kampala-cities-v2",
+        "gulu-cities-v2",
+        "mbarara-cities-v2",
+        "jinja-cities-v2"
+      ],
+      "targetPoiId": "gulu-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt am weitesten nördlich?",
+        "hu": "Melyik hely fekszik a legészakabbra?",
+        "ro": "Care loc se află cel mai la nord?",
+        "en": "Which place lies furthest north?"
+      }
+    },
+    {
+      "id": "ug-order-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "gulu-cities-v2",
+        "kampala-cities-v2",
+        "mbarara-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "gulu-cities-v2",
+        "kampala-cities-v2",
+        "mbarara-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Gulu, Kampala, Mbarara von Norden nach Süden an.",
+        "hu": "Kattints ezekre északról délre: Gulu, Kampala, Mbarara.",
+        "ro": "Apasă în ordine de la nord la sud: Gulu, Kampala, Mbarara.",
+        "en": "Click from north to south: Gulu, Kampala, Mbarara."
+      }
+    },
+    {
+      "id": "ug-order-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "mbarara-cities-v2",
+        "kampala-cities-v2",
+        "jinja-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "mbarara-cities-v2",
+        "kampala-cities-v2",
+        "jinja-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Mbarara, Kampala, Jinja von Westen nach Osten an.",
+        "hu": "Kattints ezekre nyugatról keletre: Mbarara, Kampala, Jinja.",
+        "ro": "Apasă în ordine de la vest la est: Mbarara, Kampala, Jinja.",
+        "en": "Click from west to east: Mbarara, Kampala, Jinja."
+      }
+    }
+  ],
+  "rw": [
+    {
+      "id": "rw-find-kigali",
+      "type": "find_poi",
+      "targetPoiId": "rwanda-kigali-cities-v2",
+      "question": {
+        "de": "Finde Kigali auf der Karte.",
+        "hu": "Keresd meg Kigali helyét a térképen.",
+        "ro": "Găsește Kigali pe hartă.",
+        "en": "Find Kigali on the map."
+      }
+    },
+    {
+      "id": "rw-find-musanze",
+      "type": "find_poi",
+      "targetPoiId": "rwanda-musanze-cities-v2",
+      "question": {
+        "de": "Finde Musanze auf der Karte.",
+        "hu": "Keresd meg Musanze helyét a térképen.",
+        "ro": "Găsește Musanze pe hartă.",
+        "en": "Find Musanze on the map."
+      }
+    },
+    {
+      "id": "rw-find-rubavu",
+      "type": "find_poi",
+      "targetPoiId": "rwanda-rubavu-cities-v2",
+      "question": {
+        "de": "Finde Rubavu auf der Karte.",
+        "hu": "Keresd meg Rubavu helyét a térképen.",
+        "ro": "Găsește Rubavu pe hartă.",
+        "en": "Find Rubavu on the map."
+      }
+    },
+    {
+      "id": "rw-find-huye",
+      "type": "find_poi",
+      "targetPoiId": "rwanda-huye-cities-v2",
+      "question": {
+        "de": "Finde Huye auf der Karte.",
+        "hu": "Keresd meg Huye helyét a térképen.",
+        "ro": "Găsește Huye pe hartă.",
+        "en": "Find Huye on the map."
+      }
+    },
+    {
+      "id": "rw-region-rwa-3493",
+      "type": "find_region",
+      "targetRegionId": "RWA-3493",
+      "question": {
+        "de": "Klicke auf die Region Eastern.",
+        "hu": "Kattints Eastern régiójára.",
+        "ro": "Apasă pe regiunea Eastern.",
+        "en": "Click the Eastern region."
+      }
+    },
+    {
+      "id": "rw-region-rwa-3491",
+      "type": "find_region",
+      "targetRegionId": "RWA-3491",
+      "question": {
+        "de": "Klicke auf die Region Southern.",
+        "hu": "Kattints Southern régiójára.",
+        "ro": "Apasă pe regiunea Southern.",
+        "en": "Click the Southern region."
+      }
+    },
+    {
+      "id": "rw-region-rwa-3492",
+      "type": "find_region",
+      "targetRegionId": "RWA-3492",
+      "question": {
+        "de": "Klicke auf die Region Western.",
+        "hu": "Kattints Western régiójára.",
+        "ro": "Apasă pe regiunea Western.",
+        "en": "Click the Western region."
+      }
+    },
+    {
+      "id": "rw-odd-south",
+      "type": "odd_one_out",
+      "poiIds": [
+        "rwanda-kigali-cities-v2",
+        "rwanda-musanze-cities-v2",
+        "rwanda-rubavu-cities-v2",
+        "rwanda-huye-cities-v2"
+      ],
+      "targetPoiId": "rwanda-huye-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt am weitesten südlich?",
+        "hu": "Melyik hely fekszik a legdélebbre?",
+        "ro": "Care loc se află cel mai la sud?",
+        "en": "Which place lies furthest south?"
+      }
+    },
+    {
+      "id": "rw-order-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "rwanda-musanze-cities-v2",
+        "rwanda-kigali-cities-v2",
+        "rwanda-huye-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "rwanda-musanze-cities-v2",
+        "rwanda-kigali-cities-v2",
+        "rwanda-huye-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Musanze, Kigali, Huye von Norden nach Süden an.",
+        "hu": "Kattints ezekre északról délre: Musanze, Kigali, Huye.",
+        "ro": "Apasă în ordine de la nord la sud: Musanze, Kigali, Huye.",
+        "en": "Click from north to south: Musanze, Kigali, Huye."
+      }
+    },
+    {
+      "id": "rw-order-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "rwanda-rubavu-cities-v2",
+        "rwanda-kigali-cities-v2",
+        "rwanda-rwamagana-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "rwanda-rubavu-cities-v2",
+        "rwanda-kigali-cities-v2",
+        "rwanda-rwamagana-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Rubavu, Kigali, Rwamagana von Westen nach Osten an.",
+        "hu": "Kattints ezekre nyugatról keletre: Rubavu, Kigali, Rwamagana.",
+        "ro": "Apasă în ordine de la vest la est: Rubavu, Kigali, Rwamagana.",
+        "en": "Click from west to east: Rubavu, Kigali, Rwamagana."
+      }
+    }
+  ]
+}

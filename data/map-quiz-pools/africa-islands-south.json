@@ -1,0 +1,1280 @@
+{
+  "ao": [
+    {
+      "id": "ao-find-luanda",
+      "type": "find_poi",
+      "targetPoiId": "luanda-cities-v2",
+      "question": {
+        "de": "Finde Luanda, die Hauptstadt Angolas.",
+        "hu": "Keresd meg Luandát, Angola fővárosát.",
+        "ro": "Găsește Luanda, capitala Angolei.",
+        "en": "Find Luanda, the capital of Angola."
+      }
+    },
+    {
+      "id": "ao-find-cabinda",
+      "type": "find_poi",
+      "targetPoiId": "cabinda-cities-v2",
+      "question": {
+        "de": "Finde Cabinda in der nördlichen Exklave Angolas.",
+        "hu": "Keresd meg Cabindát Angola északi exklávéjában.",
+        "ro": "Găsește Cabinda în exclava nordică a Angolei.",
+        "en": "Find Cabinda in Angola's northern exclave."
+      }
+    },
+    {
+      "id": "ao-find-huambo",
+      "type": "find_poi",
+      "targetPoiId": "huambo-cities-v2",
+      "question": {
+        "de": "Finde Huambo im zentralen Hochland.",
+        "hu": "Keresd meg Huambót a központi fennsíkon.",
+        "ro": "Găsește Huambo pe platoul central.",
+        "en": "Find Huambo in the central highlands."
+      }
+    },
+    {
+      "id": "ao-find-ondjiva",
+      "type": "find_poi",
+      "targetPoiId": "ondjiva-cities-v2",
+      "question": {
+        "de": "Finde Ondjiva im Süden Angolas.",
+        "hu": "Keresd meg Ondjivát Angola déli részén.",
+        "ro": "Găsește Ondjiva în sudul Angolei.",
+        "en": "Find Ondjiva in southern Angola."
+      }
+    },
+    {
+      "id": "ao-region-cabinda",
+      "type": "find_region",
+      "targetRegionId": "AGO-1885",
+      "question": {
+        "de": "Klicke auf die Provinz Cabinda.",
+        "hu": "Kattints Cabinda tartományra.",
+        "ro": "Apasă pe provincia Cabinda.",
+        "en": "Click Cabinda Province."
+      }
+    },
+    {
+      "id": "ao-region-namibe",
+      "type": "find_region",
+      "targetRegionId": "AGO-1893",
+      "question": {
+        "de": "Klicke auf die Küstenprovinz Namibe.",
+        "hu": "Kattints Namibe tengerparti tartományra.",
+        "ro": "Apasă pe provincia de coastă Namibe.",
+        "en": "Click the coastal province of Namibe."
+      }
+    },
+    {
+      "id": "ao-odd-east",
+      "type": "odd_one_out",
+      "poiIds": [
+        "dundo-cities-v2",
+        "saurimo-cities-v2",
+        "luena-cities-v2",
+        "luanda-cities-v2"
+      ],
+      "targetPoiId": "luanda-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht im Osten Angolas?",
+        "hu": "Melyik város nem Angola keleti részén fekszik?",
+        "ro": "Care oraș nu se află în estul Angolei?",
+        "en": "Which city is not in eastern Angola?"
+      }
+    },
+    {
+      "id": "ao-odd-coast",
+      "type": "odd_one_out",
+      "poiIds": [
+        "luanda-cities-v2",
+        "benguela-cities-v2",
+        "namibe-cities-v2",
+        "malanje-cities-v2"
+      ],
+      "targetPoiId": "malanje-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht nahe der Atlantikküste?",
+        "hu": "Melyik város nem az Atlanti-óceán partvidékén fekszik?",
+        "ro": "Care oraș nu se află aproape de coasta Atlanticului?",
+        "en": "Which city is not near the Atlantic coast?"
+      }
+    },
+    {
+      "id": "ao-order-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "cabinda-cities-v2",
+        "luanda-cities-v2",
+        "huambo-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "cabinda-cities-v2",
+        "luanda-cities-v2",
+        "huambo-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Cabinda, Luanda und Huambo von Westen nach Osten an.",
+        "hu": "Kattints Cabindára, Luandára és Huambóra nyugatról kelet felé.",
+        "ro": "Apasă Cabinda, Luanda și Huambo de la vest la est.",
+        "en": "Click Cabinda, Luanda and Huambo from west to east."
+      }
+    },
+    {
+      "id": "ao-order-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "cabinda-cities-v2",
+        "luanda-cities-v2",
+        "ondjiva-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "cabinda-cities-v2",
+        "luanda-cities-v2",
+        "ondjiva-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Cabinda, Luanda und Ondjiva von Norden nach Süden an.",
+        "hu": "Kattints Cabindára, Luandára és Ondjivára északról dél felé.",
+        "ro": "Apasă Cabinda, Luanda și Ondjiva de la nord la sud.",
+        "en": "Click Cabinda, Luanda and Ondjiva from north to south."
+      }
+    }
+  ],
+  "bf": [
+    {
+      "id": "bf-find-ouagadougou",
+      "type": "find_poi",
+      "targetPoiId": "ouagadougou-cities-v2",
+      "question": {
+        "de": "Finde Ouagadougou, die Hauptstadt Burkina Fasos.",
+        "hu": "Keresd meg Ouagadougout, Burkina Faso fővárosát.",
+        "ro": "Găsește Ouagadougou, capitala statului Burkina Faso.",
+        "en": "Find Ouagadougou, the capital of Burkina Faso."
+      }
+    },
+    {
+      "id": "bf-find-bobo",
+      "type": "find_poi",
+      "targetPoiId": "bobo-dioulasso-cities-v2",
+      "question": {
+        "de": "Finde Bobo-Dioulasso im Südwesten.",
+        "hu": "Keresd meg Bobo-Dioulassót délnyugaton.",
+        "ro": "Găsește Bobo-Dioulasso în sud-vest.",
+        "en": "Find Bobo-Dioulasso in the southwest."
+      }
+    },
+    {
+      "id": "bf-find-dori",
+      "type": "find_poi",
+      "targetPoiId": "dori-cities-v2",
+      "question": {
+        "de": "Finde Dori im Norden Burkina Fasos.",
+        "hu": "Keresd meg Dorit Burkina Faso északi részén.",
+        "ro": "Găsește Dori în nordul statului Burkina Faso.",
+        "en": "Find Dori in northern Burkina Faso."
+      }
+    },
+    {
+      "id": "bf-find-banfora",
+      "type": "find_poi",
+      "targetPoiId": "banfora-cities-v2",
+      "question": {
+        "de": "Finde Banfora im Südwesten des Landes.",
+        "hu": "Keresd meg Banforát az ország délnyugati részén.",
+        "ro": "Găsește Banfora în sud-vestul țării.",
+        "en": "Find Banfora in the southwest of the country."
+      }
+    },
+    {
+      "id": "bf-region-tapoa",
+      "type": "find_region",
+      "targetRegionId": "BFA-2878",
+      "question": {
+        "de": "Klicke auf Tapoa im Osten.",
+        "hu": "Kattints a keleti Tapoa tartományra.",
+        "ro": "Apasă pe provincia Tapoa din est.",
+        "en": "Click Tapoa Province in the east."
+      }
+    },
+    {
+      "id": "bf-region-komoe",
+      "type": "find_region",
+      "targetRegionId": "BFA-2836",
+      "question": {
+        "de": "Klicke auf die Provinz Comoé im Südwesten.",
+        "hu": "Kattints a délnyugati Comoé tartományra.",
+        "ro": "Apasă pe provincia Comoé din sud-vest.",
+        "en": "Click Comoé Province in the southwest."
+      }
+    },
+    {
+      "id": "bf-odd-north",
+      "type": "odd_one_out",
+      "poiIds": [
+        "dori-cities-v2",
+        "djibo-cities-v2",
+        "ouahigouya-cities-v2",
+        "gaoua-cities-v2"
+      ],
+      "targetPoiId": "gaoua-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht im Norden Burkina Fasos?",
+        "hu": "Melyik város nem Burkina Faso északi részén fekszik?",
+        "ro": "Care oraș nu se află în nordul statului Burkina Faso?",
+        "en": "Which city is not in northern Burkina Faso?"
+      }
+    },
+    {
+      "id": "bf-odd-west",
+      "type": "odd_one_out",
+      "poiIds": [
+        "bobo-dioulasso-cities-v2",
+        "banfora-cities-v2",
+        "dedougou-cities-v2",
+        "fada-ngourma-cities-v2"
+      ],
+      "targetPoiId": "fada-ngourma-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht im Westen des Landes?",
+        "hu": "Melyik város nem az ország nyugati részén fekszik?",
+        "ro": "Care oraș nu se află în vestul țării?",
+        "en": "Which city is not in the west of the country?"
+      }
+    },
+    {
+      "id": "bf-order-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "bobo-dioulasso-cities-v2",
+        "ouagadougou-cities-v2",
+        "fada-ngourma-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "bobo-dioulasso-cities-v2",
+        "ouagadougou-cities-v2",
+        "fada-ngourma-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Bobo-Dioulasso, Ouagadougou und Fada N'Gourma von Westen nach Osten an.",
+        "hu": "Kattints Bobo-Dioulassóra, Ouagadougoura és Fada N'Gourmára nyugatról kelet felé.",
+        "ro": "Apasă Bobo-Dioulasso, Ouagadougou și Fada N'Gourma de la vest la est.",
+        "en": "Click Bobo-Dioulasso, Ouagadougou and Fada N'Gourma from west to east."
+      }
+    },
+    {
+      "id": "bf-order-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "dori-cities-v2",
+        "ouagadougou-cities-v2",
+        "gaoua-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "dori-cities-v2",
+        "ouagadougou-cities-v2",
+        "gaoua-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Dori, Ouagadougou und Gaoua von Norden nach Süden an.",
+        "hu": "Kattints Dorira, Ouagadougoura és Gaouára északról dél felé.",
+        "ro": "Apasă Dori, Ouagadougou și Gaoua de la nord la sud.",
+        "en": "Click Dori, Ouagadougou and Gaoua from north to south."
+      }
+    }
+  ],
+  "km": [
+    {
+      "id": "km-find-moroni",
+      "type": "find_poi",
+      "targetPoiId": "moroni-cities-v2",
+      "question": {
+        "de": "Finde Moroni, die Hauptstadt der Komoren.",
+        "hu": "Keresd meg Moronit, a Comore-szigetek fővárosát.",
+        "ro": "Găsește Moroni, capitala Comorelor.",
+        "en": "Find Moroni, the capital of Comoros."
+      }
+    },
+    {
+      "id": "km-find-mutsamudu",
+      "type": "find_poi",
+      "targetPoiId": "mutsamudu-cities-v2",
+      "question": {
+        "de": "Finde Mutsamudu auf Anjouan.",
+        "hu": "Keresd meg Mutsamudut Anjouan szigetén.",
+        "ro": "Găsește Mutsamudu pe insula Anjouan.",
+        "en": "Find Mutsamudu on Anjouan."
+      }
+    },
+    {
+      "id": "km-find-fomboni",
+      "type": "find_poi",
+      "targetPoiId": "fomboni-cities-v2",
+      "question": {
+        "de": "Finde Fomboni auf Mohéli.",
+        "hu": "Keresd meg Fombonit Mohéli szigetén.",
+        "ro": "Găsește Fomboni pe insula Mohéli.",
+        "en": "Find Fomboni on Mohéli."
+      }
+    },
+    {
+      "id": "km-find-domoni",
+      "type": "find_poi",
+      "targetPoiId": "domoni-cities-v2",
+      "question": {
+        "de": "Finde Domoni im Osten von Anjouan.",
+        "hu": "Keresd meg Domonit Anjouan keleti részén.",
+        "ro": "Găsește Domoni în estul insulei Anjouan.",
+        "en": "Find Domoni in eastern Anjouan."
+      }
+    },
+    {
+      "id": "km-region-moheli",
+      "type": "find_region",
+      "targetRegionId": "COM-4934",
+      "question": {
+        "de": "Klicke auf Mohéli, die südliche Hauptinsel.",
+        "hu": "Kattints Mohélire, a déli főszigetre.",
+        "ro": "Apasă pe Mohéli, insula principală din sud.",
+        "en": "Click Mohéli, the southern main island."
+      }
+    },
+    {
+      "id": "km-region-anjouan",
+      "type": "find_region",
+      "targetRegionId": "COM-4936",
+      "question": {
+        "de": "Klicke auf Anjouan, die östliche Hauptinsel.",
+        "hu": "Kattints Anjouanra, a keleti főszigetre.",
+        "ro": "Apasă pe Anjouan, insula principală din est.",
+        "en": "Click Anjouan, the eastern main island."
+      }
+    },
+    {
+      "id": "km-odd-grande-comore",
+      "type": "odd_one_out",
+      "poiIds": [
+        "moroni-cities-v2",
+        "mitsamiouli-cities-v2",
+        "iconi-cities-v2",
+        "mutsamudu-cities-v2"
+      ],
+      "targetPoiId": "mutsamudu-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht auf Grande Comore?",
+        "hu": "Melyik település nem Grande Comore szigetén fekszik?",
+        "ro": "Care localitate nu se află pe Grande Comore?",
+        "en": "Which place is not on Grande Comore?"
+      }
+    },
+    {
+      "id": "km-odd-anjouan",
+      "type": "odd_one_out",
+      "poiIds": [
+        "mutsamudu-cities-v2",
+        "domoni-cities-v2",
+        "ouani-cities-v2",
+        "fomboni-cities-v2"
+      ],
+      "targetPoiId": "fomboni-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht auf Anjouan?",
+        "hu": "Melyik település nem Anjouan szigetén fekszik?",
+        "ro": "Care localitate nu se află pe Anjouan?",
+        "en": "Which place is not on Anjouan?"
+      }
+    },
+    {
+      "id": "km-order-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "moroni-cities-v2",
+        "fomboni-cities-v2",
+        "mutsamudu-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "moroni-cities-v2",
+        "fomboni-cities-v2",
+        "mutsamudu-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Moroni, Fomboni und Mutsamudu von Westen nach Osten an.",
+        "hu": "Kattints Moronira, Fombonira és Mutsamudura nyugatról kelet felé.",
+        "ro": "Apasă Moroni, Fomboni și Mutsamudu de la vest la est.",
+        "en": "Click Moroni, Fomboni and Mutsamudu from west to east."
+      }
+    },
+    {
+      "id": "km-order-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "mitsamiouli-cities-v2",
+        "moroni-cities-v2",
+        "fomboni-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "mitsamiouli-cities-v2",
+        "moroni-cities-v2",
+        "fomboni-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Mitsamiouli, Moroni und Fomboni von Norden nach Süden an.",
+        "hu": "Kattints Mitsamioulira, Moronira és Fombonira északról dél felé.",
+        "ro": "Apasă Mitsamiouli, Moroni și Fomboni de la nord la sud.",
+        "en": "Click Mitsamiouli, Moroni and Fomboni from north to south."
+      }
+    }
+  ],
+  "sz": [
+    {
+      "id": "sz-find-mbabane",
+      "type": "find_poi",
+      "targetPoiId": "mbabane-cities-v2",
+      "question": {
+        "de": "Finde Mbabane, die Verwaltungshauptstadt Eswatinis.",
+        "hu": "Keresd meg Mbabanét, Eswatini közigazgatási fővárosát.",
+        "ro": "Găsește Mbabane, capitala administrativă a statului Eswatini.",
+        "en": "Find Mbabane, the administrative capital of Eswatini."
+      }
+    },
+    {
+      "id": "sz-find-manzini",
+      "type": "find_poi",
+      "targetPoiId": "manzini-cities-v2",
+      "question": {
+        "de": "Finde Manzini im Zentrum Eswatinis.",
+        "hu": "Keresd meg Manzinit Eswatini középső részén.",
+        "ro": "Găsește Manzini în centrul statului Eswatini.",
+        "en": "Find Manzini in central Eswatini."
+      }
+    },
+    {
+      "id": "sz-find-siteki",
+      "type": "find_poi",
+      "targetPoiId": "siteki-cities-v2",
+      "question": {
+        "de": "Finde Siteki im Osten des Landes.",
+        "hu": "Keresd meg Sitekit az ország keleti részén.",
+        "ro": "Găsește Siteki în estul țării.",
+        "en": "Find Siteki in the east of the country."
+      }
+    },
+    {
+      "id": "sz-find-nhlangano",
+      "type": "find_poi",
+      "targetPoiId": "nhlangano-cities-v2",
+      "question": {
+        "de": "Finde Nhlangano im Süden Eswatinis.",
+        "hu": "Keresd meg Nhlanganót Eswatini déli részén.",
+        "ro": "Găsește Nhlangano în sudul statului Eswatini.",
+        "en": "Find Nhlangano in southern Eswatini."
+      }
+    },
+    {
+      "id": "sz-region-lubombo",
+      "type": "find_region",
+      "targetRegionId": "SWZ-535",
+      "question": {
+        "de": "Klicke auf die Region Lubombo im Osten.",
+        "hu": "Kattints a keleti Lubombo régióra.",
+        "ro": "Apasă pe regiunea Lubombo din est.",
+        "en": "Click the Lubombo region in the east."
+      }
+    },
+    {
+      "id": "sz-region-hhohho",
+      "type": "find_region",
+      "targetRegionId": "SWZ-534",
+      "question": {
+        "de": "Klicke auf die Region Hhohho im Nordwesten.",
+        "hu": "Kattints az északnyugati Hhohho régióra.",
+        "ro": "Apasă pe regiunea Hhohho din nord-vest.",
+        "en": "Click the Hhohho region in the northwest."
+      }
+    },
+    {
+      "id": "sz-odd-east",
+      "type": "odd_one_out",
+      "poiIds": [
+        "siteki-cities-v2",
+        "simunye-cities-v2",
+        "big-bend-cities-v2",
+        "mbabane-cities-v2"
+      ],
+      "targetPoiId": "mbabane-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht im Osten Eswatinis?",
+        "hu": "Melyik település nem Eswatini keleti részén fekszik?",
+        "ro": "Care localitate nu se află în estul statului Eswatini?",
+        "en": "Which place is not in eastern Eswatini?"
+      }
+    },
+    {
+      "id": "sz-odd-south",
+      "type": "odd_one_out",
+      "poiIds": [
+        "nhlangano-cities-v2",
+        "hluti-cities-v2",
+        "lavumisa-cities-v2",
+        "piggs-peak-cities-v2"
+      ],
+      "targetPoiId": "piggs-peak-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht im Süden Eswatinis?",
+        "hu": "Melyik település nem Eswatini déli részén fekszik?",
+        "ro": "Care localitate nu se află în sudul statului Eswatini?",
+        "en": "Which place is not in southern Eswatini?"
+      }
+    },
+    {
+      "id": "sz-order-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "mbabane-cities-v2",
+        "manzini-cities-v2",
+        "siteki-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "mbabane-cities-v2",
+        "manzini-cities-v2",
+        "siteki-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Mbabane, Manzini und Siteki von Westen nach Osten an.",
+        "hu": "Kattints Mbabanéra, Manzinire és Sitekire nyugatról kelet felé.",
+        "ro": "Apasă Mbabane, Manzini și Siteki de la vest la est.",
+        "en": "Click Mbabane, Manzini and Siteki from west to east."
+      }
+    },
+    {
+      "id": "sz-order-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "piggs-peak-cities-v2",
+        "mbabane-cities-v2",
+        "nhlangano-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "piggs-peak-cities-v2",
+        "mbabane-cities-v2",
+        "nhlangano-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Piggs Peak, Mbabane und Nhlangano von Norden nach Süden an.",
+        "hu": "Kattints Piggs Peakre, Mbabanéra és Nhlanganóra északról dél felé.",
+        "ro": "Apasă Piggs Peak, Mbabane și Nhlangano de la nord la sud.",
+        "en": "Click Piggs Peak, Mbabane and Nhlangano from north to south."
+      }
+    }
+  ],
+  "ls": [
+    {
+      "id": "ls-find-maseru",
+      "type": "find_poi",
+      "targetPoiId": "maseru-cities-v2",
+      "question": {
+        "de": "Finde Maseru, die Hauptstadt Lesothos.",
+        "hu": "Keresd meg Maserut, Lesotho fővárosát.",
+        "ro": "Găsește Maseru, capitala statului Lesotho.",
+        "en": "Find Maseru, the capital of Lesotho."
+      }
+    },
+    {
+      "id": "ls-find-mokhotlong",
+      "type": "find_poi",
+      "targetPoiId": "mokhotlong-cities-v2",
+      "question": {
+        "de": "Finde Mokhotlong im gebirgigen Osten.",
+        "hu": "Keresd meg Mokhotlongot a hegyvidéki keleten.",
+        "ro": "Găsește Mokhotlong în estul muntos.",
+        "en": "Find Mokhotlong in the mountainous east."
+      }
+    },
+    {
+      "id": "ls-find-quthing",
+      "type": "find_poi",
+      "targetPoiId": "quthing-cities-v2",
+      "question": {
+        "de": "Finde Quthing im Süden Lesothos.",
+        "hu": "Keresd meg Quthingot Lesotho déli részén.",
+        "ro": "Găsește Quthing în sudul statului Lesotho.",
+        "en": "Find Quthing in southern Lesotho."
+      }
+    },
+    {
+      "id": "ls-find-butha-buthe",
+      "type": "find_poi",
+      "targetPoiId": "butha-buthe-cities-v2",
+      "question": {
+        "de": "Finde Butha-Buthe im Norden.",
+        "hu": "Keresd meg Butha-Buthe települést északon.",
+        "ro": "Găsește Butha-Buthe în nord.",
+        "en": "Find Butha-Buthe in the north."
+      }
+    },
+    {
+      "id": "ls-region-mokhotlong",
+      "type": "find_region",
+      "targetRegionId": "LSO-1213",
+      "question": {
+        "de": "Klicke auf den Distrikt Mokhotlong.",
+        "hu": "Kattints Mokhotlong körzetre.",
+        "ro": "Apasă pe districtul Mokhotlong.",
+        "en": "Click Mokhotlong District."
+      }
+    },
+    {
+      "id": "ls-region-maseru",
+      "type": "find_region",
+      "targetRegionId": "LSO-1203",
+      "question": {
+        "de": "Klicke auf den Distrikt Maseru im Westen.",
+        "hu": "Kattints a nyugati Maseru körzetre.",
+        "ro": "Apasă pe districtul Maseru din vest.",
+        "en": "Click Maseru District in the west."
+      }
+    },
+    {
+      "id": "ls-odd-east",
+      "type": "odd_one_out",
+      "poiIds": [
+        "mokhotlong-cities-v2",
+        "qachas-nek-cities-v2",
+        "thaba-tseka-cities-v2",
+        "maseru-cities-v2"
+      ],
+      "targetPoiId": "maseru-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht im Osten Lesothos?",
+        "hu": "Melyik település nem Lesotho keleti részén fekszik?",
+        "ro": "Care localitate nu se află în estul statului Lesotho?",
+        "en": "Which place is not in eastern Lesotho?"
+      }
+    },
+    {
+      "id": "ls-odd-south",
+      "type": "odd_one_out",
+      "poiIds": [
+        "quthing-cities-v2",
+        "mohales-hoek-cities-v2",
+        "mafeteng-cities-v2",
+        "butha-buthe-cities-v2"
+      ],
+      "targetPoiId": "butha-buthe-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht in der südlichen Hälfte Lesothos?",
+        "hu": "Melyik település nem Lesotho déli felében fekszik?",
+        "ro": "Care localitate nu se află în jumătatea sudică a statului Lesotho?",
+        "en": "Which place is not in the southern half of Lesotho?"
+      }
+    },
+    {
+      "id": "ls-order-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "maseru-cities-v2",
+        "thaba-tseka-cities-v2",
+        "mokhotlong-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "maseru-cities-v2",
+        "thaba-tseka-cities-v2",
+        "mokhotlong-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Maseru, Thaba-Tseka und Mokhotlong von Westen nach Osten an.",
+        "hu": "Kattints Maserura, Thaba-Tsekára és Mokhotlongra nyugatról kelet felé.",
+        "ro": "Apasă Maseru, Thaba-Tseka și Mokhotlong de la vest la est.",
+        "en": "Click Maseru, Thaba-Tseka and Mokhotlong from west to east."
+      }
+    },
+    {
+      "id": "ls-order-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "butha-buthe-cities-v2",
+        "maseru-cities-v2",
+        "quthing-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "butha-buthe-cities-v2",
+        "maseru-cities-v2",
+        "quthing-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Butha-Buthe, Maseru und Quthing von Norden nach Süden an.",
+        "hu": "Kattints Butha-Buthe, Maseru és Quthing településre északról dél felé.",
+        "ro": "Apasă Butha-Buthe, Maseru și Quthing de la nord la sud.",
+        "en": "Click Butha-Buthe, Maseru and Quthing from north to south."
+      }
+    }
+  ],
+  "mg": [
+    {
+      "id": "mg-find-antananarivo",
+      "type": "find_poi",
+      "targetPoiId": "antananarivo-cities-v2",
+      "question": {
+        "de": "Finde Antananarivo, die Hauptstadt Madagaskars.",
+        "hu": "Keresd meg Antananarivót, Madagaszkár fővárosát.",
+        "ro": "Găsește Antananarivo, capitala Madagascarului.",
+        "en": "Find Antananarivo, the capital of Madagascar."
+      }
+    },
+    {
+      "id": "mg-find-toamasina",
+      "type": "find_poi",
+      "targetPoiId": "toamasina-cities-v2",
+      "question": {
+        "de": "Finde Toamasina an der Ostküste.",
+        "hu": "Keresd meg Toamasinát a keleti parton.",
+        "ro": "Găsește Toamasina pe coasta de est.",
+        "en": "Find Toamasina on the east coast."
+      }
+    },
+    {
+      "id": "mg-find-antsiranana",
+      "type": "find_poi",
+      "targetPoiId": "antsiranana-cities-v2",
+      "question": {
+        "de": "Finde Antsiranana im äußersten Norden.",
+        "hu": "Keresd meg Antsirananát a sziget legészakibb részén.",
+        "ro": "Găsește Antsiranana în nordul extrem.",
+        "en": "Find Antsiranana in the far north."
+      }
+    },
+    {
+      "id": "mg-find-toliara",
+      "type": "find_poi",
+      "targetPoiId": "toliara-cities-v2",
+      "question": {
+        "de": "Finde Toliara an der Südwestküste.",
+        "hu": "Keresd meg Toliarát a délnyugati parton.",
+        "ro": "Găsește Toliara pe coasta de sud-vest.",
+        "en": "Find Toliara on the southwest coast."
+      }
+    },
+    {
+      "id": "mg-region-diana",
+      "type": "find_region",
+      "targetRegionId": "MDG-5872",
+      "question": {
+        "de": "Klicke auf die Region Diana im Norden.",
+        "hu": "Kattints az északi Diana régióra.",
+        "ro": "Apasă pe regiunea Diana din nord.",
+        "en": "Click the Diana region in the north."
+      }
+    },
+    {
+      "id": "mg-region-analamanga",
+      "type": "find_region",
+      "targetRegionId": "MDG-5862",
+      "question": {
+        "de": "Klicke auf Analamanga rund um die Hauptstadt.",
+        "hu": "Kattints a fővárost körülvevő Analamanga régióra.",
+        "ro": "Apasă pe regiunea Analamanga din jurul capitalei.",
+        "en": "Click Analamanga around the capital."
+      }
+    },
+    {
+      "id": "mg-odd-east-coast",
+      "type": "odd_one_out",
+      "poiIds": [
+        "toamasina-cities-v2",
+        "mahanoro-cities-v2",
+        "manakara-cities-v2",
+        "morondava-cities-v2"
+      ],
+      "targetPoiId": "morondava-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht an der Ostküste Madagaskars?",
+        "hu": "Melyik város nem Madagaszkár keleti partján fekszik?",
+        "ro": "Care oraș nu se află pe coasta estică a Madagascarului?",
+        "en": "Which city is not on Madagascar's east coast?"
+      }
+    },
+    {
+      "id": "mg-odd-south",
+      "type": "odd_one_out",
+      "poiIds": [
+        "toliara-cities-v2",
+        "tolanaro-cities-v2",
+        "ambovombe-cities-v2",
+        "mahajanga-cities-v2"
+      ],
+      "targetPoiId": "mahajanga-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht im Süden Madagaskars?",
+        "hu": "Melyik város nem Madagaszkár déli részén fekszik?",
+        "ro": "Care oraș nu se află în sudul Madagascarului?",
+        "en": "Which city is not in southern Madagascar?"
+      }
+    },
+    {
+      "id": "mg-order-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "mahajanga-cities-v2",
+        "antananarivo-cities-v2",
+        "toamasina-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "mahajanga-cities-v2",
+        "antananarivo-cities-v2",
+        "toamasina-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Mahajanga, Antananarivo und Toamasina von Westen nach Osten an.",
+        "hu": "Kattints Mahajangára, Antananarivóra és Toamasinára nyugatról kelet felé.",
+        "ro": "Apasă Mahajanga, Antananarivo și Toamasina de la vest la est.",
+        "en": "Click Mahajanga, Antananarivo and Toamasina from west to east."
+      }
+    },
+    {
+      "id": "mg-order-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "antsiranana-cities-v2",
+        "antananarivo-cities-v2",
+        "toliara-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "antsiranana-cities-v2",
+        "antananarivo-cities-v2",
+        "toliara-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Antsiranana, Antananarivo und Toliara von Norden nach Süden an.",
+        "hu": "Kattints Antsirananára, Antananarivóra és Toliarára északról dél felé.",
+        "ro": "Apasă Antsiranana, Antananarivo și Toliara de la nord la sud.",
+        "en": "Click Antsiranana, Antananarivo and Toliara from north to south."
+      }
+    }
+  ],
+  "mu": [
+    {
+      "id": "mu-find-port-louis",
+      "type": "find_poi",
+      "targetPoiId": "mauritius-port-louis-cities-v2",
+      "question": {
+        "de": "Finde Port Louis, die Hauptstadt von Mauritius.",
+        "hu": "Keresd meg Port Louist, Mauritius fővárosát.",
+        "ro": "Găsește Port Louis, capitala statului Mauritius.",
+        "en": "Find Port Louis, the capital of Mauritius."
+      }
+    },
+    {
+      "id": "mu-find-mahebourg",
+      "type": "find_poi",
+      "targetPoiId": "mauritius-mahebourg-cities-v2",
+      "question": {
+        "de": "Finde Mahébourg im Südosten.",
+        "hu": "Keresd meg Mahébourgot délkeleten.",
+        "ro": "Găsește Mahébourg în sud-est.",
+        "en": "Find Mahébourg in the southeast."
+      }
+    },
+    {
+      "id": "mu-find-goodlands",
+      "type": "find_poi",
+      "targetPoiId": "mauritius-goodlands-town-cities-v2",
+      "question": {
+        "de": "Finde Goodlands im Norden der Insel.",
+        "hu": "Keresd meg Goodlandst a sziget északi részén.",
+        "ro": "Găsește Goodlands în nordul insulei.",
+        "en": "Find Goodlands in the north of the island."
+      }
+    },
+    {
+      "id": "mu-find-curepipe",
+      "type": "find_poi",
+      "targetPoiId": "mauritius-curepipe-cities-v2",
+      "question": {
+        "de": "Finde Curepipe im zentralen Hochland.",
+        "hu": "Keresd meg Curepipe-ot a központi fennsíkon.",
+        "ro": "Găsește Curepipe pe platoul central.",
+        "en": "Find Curepipe in the central highlands."
+      }
+    },
+    {
+      "id": "mu-region-grand-port",
+      "type": "find_region",
+      "targetRegionId": "MUS-5185",
+      "question": {
+        "de": "Klicke auf den Distrikt Grand Port im Südosten.",
+        "hu": "Kattints a délkeleti Grand Port körzetre.",
+        "ro": "Apasă pe districtul Grand Port din sud-est.",
+        "en": "Click Grand Port District in the southeast."
+      }
+    },
+    {
+      "id": "mu-region-pamplemousses",
+      "type": "find_region",
+      "targetRegionId": "MUS-5187",
+      "question": {
+        "de": "Klicke auf den Distrikt Pamplemousses im Norden.",
+        "hu": "Kattints az északi Pamplemousses körzetre.",
+        "ro": "Apasă pe districtul Pamplemousses din nord.",
+        "en": "Click Pamplemousses District in the north."
+      }
+    },
+    {
+      "id": "mu-odd-north",
+      "type": "odd_one_out",
+      "poiIds": [
+        "mauritius-goodlands-town-cities-v2",
+        "mauritius-grand-baie-cities-v2",
+        "mauritius-triolet-town-cities-v2",
+        "mauritius-mahebourg-cities-v2"
+      ],
+      "targetPoiId": "mauritius-mahebourg-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht im Norden von Mauritius?",
+        "hu": "Melyik település nem Mauritius északi részén fekszik?",
+        "ro": "Care localitate nu se află în nordul insulei Mauritius?",
+        "en": "Which place is not in northern Mauritius?"
+      }
+    },
+    {
+      "id": "mu-odd-south",
+      "type": "odd_one_out",
+      "poiIds": [
+        "mauritius-mahebourg-cities-v2",
+        "mauritius-rose-belle-cities-v2",
+        "mauritius-chemin-grenier-cities-v2",
+        "mauritius-port-louis-cities-v2"
+      ],
+      "targetPoiId": "mauritius-port-louis-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht in der südlichen Hälfte von Mauritius?",
+        "hu": "Melyik település nem Mauritius déli felében fekszik?",
+        "ro": "Care localitate nu se află în jumătatea sudică a insulei Mauritius?",
+        "en": "Which place is not in the southern half of Mauritius?"
+      }
+    },
+    {
+      "id": "mu-order-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "mauritius-bambous-cities-v2",
+        "mauritius-port-louis-cities-v2",
+        "mauritius-mahebourg-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "mauritius-bambous-cities-v2",
+        "mauritius-port-louis-cities-v2",
+        "mauritius-mahebourg-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Bambous, Port Louis und Mahébourg von Westen nach Osten an.",
+        "hu": "Kattints Bambous-ra, Port Louisra és Mahébourgra nyugatról kelet felé.",
+        "ro": "Apasă Bambous, Port Louis și Mahébourg de la vest la est.",
+        "en": "Click Bambous, Port Louis and Mahébourg from west to east."
+      }
+    },
+    {
+      "id": "mu-order-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "mauritius-goodlands-town-cities-v2",
+        "mauritius-port-louis-cities-v2",
+        "mauritius-curepipe-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "mauritius-goodlands-town-cities-v2",
+        "mauritius-port-louis-cities-v2",
+        "mauritius-curepipe-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Goodlands, Port Louis und Curepipe von Norden nach Süden an.",
+        "hu": "Kattints Goodlandsre, Port Louisra és Curepipe-ra északról dél felé.",
+        "ro": "Apasă Goodlands, Port Louis și Curepipe de la nord la sud.",
+        "en": "Click Goodlands, Port Louis and Curepipe from north to south."
+      }
+    }
+  ],
+  "sc": [
+    {
+      "id": "sc-find-victoria",
+      "type": "find_poi",
+      "targetPoiId": "sc-victoria-cities-v2",
+      "question": {
+        "de": "Finde Victoria, die Hauptstadt der Seychellen.",
+        "hu": "Keresd meg Victoriát, a Seychelle-szigetek fővárosát.",
+        "ro": "Găsește Victoria, capitala statului Seychelles.",
+        "en": "Find Victoria, the capital of Seychelles."
+      }
+    },
+    {
+      "id": "sc-find-grand-anse-praslin",
+      "type": "find_poi",
+      "targetPoiId": "sc-grand-anse-praslin-cities-v2",
+      "question": {
+        "de": "Finde Grand Anse auf Praslin.",
+        "hu": "Keresd meg Grand Anse települést Praslin szigetén.",
+        "ro": "Găsește Grand Anse pe insula Praslin.",
+        "en": "Find Grand Anse on Praslin."
+      }
+    },
+    {
+      "id": "sc-find-la-passe",
+      "type": "find_poi",
+      "targetPoiId": "sc-la-passe-cities-v2",
+      "question": {
+        "de": "Finde La Passe auf La Digue.",
+        "hu": "Keresd meg La Passe-t La Digue szigetén.",
+        "ro": "Găsește La Passe pe insula La Digue.",
+        "en": "Find La Passe on La Digue."
+      }
+    },
+    {
+      "id": "sc-find-anse-royale",
+      "type": "find_poi",
+      "targetPoiId": "sc-anse-royale-cities-v2",
+      "question": {
+        "de": "Finde Anse Royale im Süden von Mahé.",
+        "hu": "Keresd meg Anse Royale-t Mahé déli részén.",
+        "ro": "Găsește Anse Royale în sudul insulei Mahé.",
+        "en": "Find Anse Royale in southern Mahé."
+      }
+    },
+    {
+      "id": "sc-region-la-digue",
+      "type": "find_region",
+      "targetRegionId": "SYC-5212",
+      "question": {
+        "de": "Klicke auf La Digue and Inner Islands.",
+        "hu": "Kattints a La Digue and Inner Islands régióra.",
+        "ro": "Apasă pe regiunea La Digue and Inner Islands.",
+        "en": "Click La Digue and Inner Islands."
+      }
+    },
+    {
+      "id": "sc-region-takamaka",
+      "type": "find_region",
+      "targetRegionId": "SYC-5220",
+      "question": {
+        "de": "Klicke auf den Distrikt Takamaka im Süden von Mahé.",
+        "hu": "Kattints Takamaka körzetre Mahé déli részén.",
+        "ro": "Apasă pe districtul Takamaka din sudul insulei Mahé.",
+        "en": "Click Takamaka District in southern Mahé."
+      }
+    },
+    {
+      "id": "sc-odd-mahe",
+      "type": "odd_one_out",
+      "poiIds": [
+        "sc-victoria-cities-v2",
+        "sc-beau-vallon-cities-v2",
+        "sc-anse-royale-cities-v2",
+        "sc-la-passe-cities-v2"
+      ],
+      "targetPoiId": "sc-la-passe-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht auf Mahé?",
+        "hu": "Melyik település nem Mahé szigetén fekszik?",
+        "ro": "Care localitate nu se află pe insula Mahé?",
+        "en": "Which place is not on Mahé?"
+      }
+    },
+    {
+      "id": "sc-odd-praslin",
+      "type": "odd_one_out",
+      "poiIds": [
+        "sc-grand-anse-praslin-cities-v2",
+        "sc-baie-sainte-anne-cities-v2",
+        "sc-anse-kerlan-cities-v2",
+        "sc-victoria-cities-v2"
+      ],
+      "targetPoiId": "sc-victoria-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht auf Praslin?",
+        "hu": "Melyik település nem Praslin szigetén fekszik?",
+        "ro": "Care localitate nu se află pe insula Praslin?",
+        "en": "Which place is not on Praslin?"
+      }
+    },
+    {
+      "id": "sc-order-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "sc-beau-vallon-cities-v2",
+        "sc-victoria-cities-v2",
+        "sc-la-passe-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "sc-beau-vallon-cities-v2",
+        "sc-victoria-cities-v2",
+        "sc-la-passe-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Beau Vallon, Victoria und La Passe von Westen nach Osten an.",
+        "hu": "Kattints Beau Vallonra, Victoriára és La Passe-ra nyugatról kelet felé.",
+        "ro": "Apasă Beau Vallon, Victoria și La Passe de la vest la est.",
+        "en": "Click Beau Vallon, Victoria and La Passe from west to east."
+      }
+    },
+    {
+      "id": "sc-order-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "sc-grand-anse-praslin-cities-v2",
+        "sc-victoria-cities-v2",
+        "sc-takamaka-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "sc-grand-anse-praslin-cities-v2",
+        "sc-victoria-cities-v2",
+        "sc-takamaka-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Grand Anse, Victoria und Takamaka von Norden nach Süden an.",
+        "hu": "Kattints Grand Anse-ra, Victoriára és Takamakára északról dél felé.",
+        "ro": "Apasă Grand Anse, Victoria și Takamaka de la nord la sud.",
+        "en": "Click Grand Anse, Victoria and Takamaka from north to south."
+      }
+    }
+  ],
+  "ne": [
+    {
+      "id": "ne-find-niamey",
+      "type": "find_poi",
+      "targetPoiId": "niamey-cities-v2",
+      "question": {
+        "de": "Finde Niamey, die Hauptstadt Nigers.",
+        "hu": "Keresd meg Niameyt, Niger fővárosát.",
+        "ro": "Găsește Niamey, capitala Nigerului.",
+        "en": "Find Niamey, the capital of Niger."
+      }
+    },
+    {
+      "id": "ne-find-agadez",
+      "type": "find_poi",
+      "targetPoiId": "agadez-cities-v2",
+      "question": {
+        "de": "Finde Agadez am Rand der Sahara.",
+        "hu": "Keresd meg Agadezt a Szahara peremén.",
+        "ro": "Găsește Agadez la marginea Saharei.",
+        "en": "Find Agadez on the edge of the Sahara."
+      }
+    },
+    {
+      "id": "ne-find-diffa",
+      "type": "find_poi",
+      "targetPoiId": "diffa-cities-v2",
+      "question": {
+        "de": "Finde Diffa im äußersten Südosten.",
+        "hu": "Keresd meg Diffát a messzi délkeleten.",
+        "ro": "Găsește Diffa în extremitatea sud-estică.",
+        "en": "Find Diffa in the far southeast."
+      }
+    },
+    {
+      "id": "ne-find-zinder",
+      "type": "find_poi",
+      "targetPoiId": "zinder-cities-v2",
+      "question": {
+        "de": "Finde Zinder im Süden Nigers.",
+        "hu": "Keresd meg Zindert Niger déli részén.",
+        "ro": "Găsește Zinder în sudul Nigerului.",
+        "en": "Find Zinder in southern Niger."
+      }
+    },
+    {
+      "id": "ne-region-agadez",
+      "type": "find_region",
+      "targetRegionId": "NER-800",
+      "question": {
+        "de": "Klicke auf die große Region Agadez im Norden.",
+        "hu": "Kattints a nagy északi Agadez régióra.",
+        "ro": "Apasă pe vasta regiune Agadez din nord.",
+        "en": "Click the large Agadez region in the north."
+      }
+    },
+    {
+      "id": "ne-region-niamey",
+      "type": "find_region",
+      "targetRegionId": "NER-94",
+      "question": {
+        "de": "Klicke auf die Hauptstadtregion Niamey.",
+        "hu": "Kattints Niamey fővárosi régiójára.",
+        "ro": "Apasă pe regiunea capitalei Niamey.",
+        "en": "Click the capital region of Niamey."
+      }
+    },
+    {
+      "id": "ne-odd-south",
+      "type": "odd_one_out",
+      "poiIds": [
+        "niamey-cities-v2",
+        "maradi-cities-v2",
+        "zinder-cities-v2",
+        "arlit-cities-v2"
+      ],
+      "targetPoiId": "arlit-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht im Süden Nigers?",
+        "hu": "Melyik város nem Niger déli részén fekszik?",
+        "ro": "Care oraș nu se află în sudul Nigerului?",
+        "en": "Which city is not in southern Niger?"
+      }
+    },
+    {
+      "id": "ne-odd-west",
+      "type": "odd_one_out",
+      "poiIds": [
+        "niamey-cities-v2",
+        "dosso-cities-v2",
+        "tahoua-cities-v2",
+        "diffa-cities-v2"
+      ],
+      "targetPoiId": "diffa-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht in der westlichen Hälfte Nigers?",
+        "hu": "Melyik város nem Niger nyugati felében fekszik?",
+        "ro": "Care oraș nu se află în jumătatea vestică a Nigerului?",
+        "en": "Which city is not in the western half of Niger?"
+      }
+    },
+    {
+      "id": "ne-order-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "niamey-cities-v2",
+        "agadez-cities-v2",
+        "diffa-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "niamey-cities-v2",
+        "agadez-cities-v2",
+        "diffa-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Niamey, Agadez und Diffa von Westen nach Osten an.",
+        "hu": "Kattints Niameyre, Agadezre és Diffára nyugatról kelet felé.",
+        "ro": "Apasă Niamey, Agadez și Diffa de la vest la est.",
+        "en": "Click Niamey, Agadez and Diffa from west to east."
+      }
+    },
+    {
+      "id": "ne-order-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "arlit-cities-v2",
+        "agadez-cities-v2",
+        "niamey-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "arlit-cities-v2",
+        "agadez-cities-v2",
+        "niamey-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Arlit, Agadez und Niamey von Norden nach Süden an.",
+        "hu": "Kattints Arlitra, Agadezre és Niameyre északról dél felé.",
+        "ro": "Apasă Arlit, Agadez și Niamey de la nord la sud.",
+        "en": "Click Arlit, Agadez and Niamey from north to south."
+      }
+    }
+  ]
+}

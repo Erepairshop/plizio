@@ -1,0 +1,424 @@
+{
+  "us": [
+    {
+      "id": "us-find-new-york",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde New York auf der Karte.",
+        "hu": "Keresd meg New Yorkot a térképen.",
+        "ro": "Găsește New York pe hartă.",
+        "en": "Find New York on the map."
+      },
+      "targetPoiId": "new-york-city-cities-v2"
+    },
+    {
+      "id": "us-find-los-angeles",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Los Angeles an der Westküste?",
+        "hu": "Hol található Los Angeles a nyugati parton?",
+        "ro": "Unde se află Los Angeles pe coasta de vest?",
+        "en": "Where is Los Angeles on the West Coast?"
+      },
+      "targetPoiId": "los-angeles-cities-v2"
+    },
+    {
+      "id": "us-find-chicago",
+      "type": "find_poi",
+      "question": {
+        "de": "Klicke auf Chicago am Michigansee.",
+        "hu": "Kattints a Michigan-tó partján fekvő Chicagóra.",
+        "ro": "Apasă pe Chicago, lângă Lacul Michigan.",
+        "en": "Click Chicago by Lake Michigan."
+      },
+      "targetPoiId": "chicago-cities-v2"
+    },
+    {
+      "id": "us-find-yellowstone",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde den Yellowstone-Nationalpark.",
+        "hu": "Keresd meg a Yellowstone Nemzeti Parkot.",
+        "ro": "Găsește Parcul Național Yellowstone.",
+        "en": "Find Yellowstone National Park."
+      },
+      "targetPoiId": "yellowstone-national-park-life-v2"
+    },
+    {
+      "id": "us-region-california",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf den Bundesstaat Kalifornien.",
+        "hu": "Kattints Kalifornia államra.",
+        "ro": "Apasă pe statul California.",
+        "en": "Click the state of California."
+      },
+      "targetRegionId": "USA-3521"
+    },
+    {
+      "id": "us-region-texas",
+      "type": "find_region",
+      "question": {
+        "de": "Wo liegt der Bundesstaat Texas?",
+        "hu": "Hol található Texas állam?",
+        "ro": "Unde se află statul Texas?",
+        "en": "Where is the state of Texas?"
+      },
+      "targetRegionId": "USA-3536"
+    },
+    {
+      "id": "us-region-florida",
+      "type": "find_region",
+      "question": {
+        "de": "Finde den Bundesstaat Florida.",
+        "hu": "Keresd meg Florida államot.",
+        "ro": "Găsește statul Florida.",
+        "en": "Find the state of Florida."
+      },
+      "targetRegionId": "USA-3542"
+    },
+    {
+      "id": "us-odd-california",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Städte liegt nicht in Kalifornien?",
+        "hu": "Melyik város nem Kaliforniában található?",
+        "ro": "Care dintre aceste orașe nu se află în California?",
+        "en": "Which of these cities is not in California?"
+      },
+      "poiIds": [
+        "los-angeles-cities-v2",
+        "usa-san-francisco-cities-v2",
+        "san-diego-cities-v2",
+        "seattle-cities-v2"
+      ],
+      "targetPoiId": "seattle-cities-v2"
+    },
+    {
+      "id": "us-order-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Seattle, Denver, Chicago und Boston von West nach Ost an.",
+        "hu": "Kattints Seattle-re, Denverre, Chicagóra és Bostonra nyugatról keletre.",
+        "ro": "Apasă pe Seattle, Denver, Chicago și Boston de la vest la est.",
+        "en": "Click Seattle, Denver, Chicago and Boston from west to east."
+      },
+      "poiIds": [
+        "seattle-cities-v2",
+        "denver-cities-v2",
+        "chicago-cities-v2",
+        "boston-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "seattle-cities-v2",
+        "denver-cities-v2",
+        "chicago-cities-v2",
+        "boston-cities-v2"
+      ]
+    },
+    {
+      "id": "us-order-north-south",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Seattle, Chicago, Washington D.C. und Miami von Nord nach Süd an.",
+        "hu": "Kattints Seattle-re, Chicagóra, Washington D.C.-re és Miamira északról délre.",
+        "ro": "Apasă pe Seattle, Chicago, Washington D.C. și Miami de la nord la sud.",
+        "en": "Click Seattle, Chicago, Washington D.C. and Miami from north to south."
+      },
+      "poiIds": [
+        "seattle-cities-v2",
+        "chicago-cities-v2",
+        "washington-dc-cities-v2",
+        "miami-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "seattle-cities-v2",
+        "chicago-cities-v2",
+        "washington-dc-cities-v2",
+        "miami-cities-v2"
+      ]
+    }
+  ],
+  "ca": [
+    {
+      "id": "ca-find-toronto",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Toronto auf der Karte.",
+        "hu": "Keresd meg Torontót a térképen.",
+        "ro": "Găsește Toronto pe hartă.",
+        "en": "Find Toronto on the map."
+      },
+      "targetPoiId": "can_tor"
+    },
+    {
+      "id": "ca-find-vancouver",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Vancouver an der Pazifikküste?",
+        "hu": "Hol található Vancouver a Csendes-óceán partján?",
+        "ro": "Unde se află Vancouver pe coasta Pacificului?",
+        "en": "Where is Vancouver on the Pacific coast?"
+      },
+      "targetPoiId": "can_van"
+    },
+    {
+      "id": "ca-find-ottawa",
+      "type": "find_poi",
+      "question": {
+        "de": "Klicke auf Kanadas Hauptstadt Ottawa.",
+        "hu": "Kattints Kanada fővárosára, Ottawára.",
+        "ro": "Apasă pe Ottawa, capitala Canadei.",
+        "en": "Click Ottawa, the capital of Canada."
+      },
+      "targetPoiId": "can_cap"
+    },
+    {
+      "id": "ca-find-niagara",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde die Niagarafälle.",
+        "hu": "Keresd meg a Niagara-vízesést.",
+        "ro": "Găsește Cascada Niagara.",
+        "en": "Find Niagara Falls."
+      },
+      "targetPoiId": "can_niagara"
+    },
+    {
+      "id": "ca-region-british-columbia",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf die Provinz British Columbia.",
+        "hu": "Kattints British Columbia tartományra.",
+        "ro": "Apasă pe provincia British Columbia.",
+        "en": "Click the province of British Columbia."
+      },
+      "targetRegionId": "CAN-633"
+    },
+    {
+      "id": "ca-region-ontario",
+      "type": "find_region",
+      "question": {
+        "de": "Wo liegt die Provinz Ontario?",
+        "hu": "Hol található Ontario tartomány?",
+        "ro": "Unde se află provincia Ontario?",
+        "en": "Where is the province of Ontario?"
+      },
+      "targetRegionId": "CAN-682"
+    },
+    {
+      "id": "ca-region-quebec",
+      "type": "find_region",
+      "question": {
+        "de": "Finde die Provinz Québec.",
+        "hu": "Keresd meg Québec tartományt.",
+        "ro": "Găsește provincia Québec.",
+        "en": "Find the province of Quebec."
+      },
+      "targetRegionId": "CAN-683"
+    },
+    {
+      "id": "ca-odd-ontario",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Städte liegt nicht in Ontario?",
+        "hu": "Melyik város nem Ontario tartományban található?",
+        "ro": "Care dintre aceste orașe nu se află în Ontario?",
+        "en": "Which of these cities is not in Ontario?"
+      },
+      "poiIds": [
+        "can_tor",
+        "can_cap",
+        "can_niagara",
+        "can_mon"
+      ],
+      "targetPoiId": "can_mon"
+    },
+    {
+      "id": "ca-order-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Vancouver, Calgary, Winnipeg, Toronto und Halifax von West nach Ost an.",
+        "hu": "Kattints Vancouverre, Calgaryre, Winnipegre, Torontóra és Halifaxre nyugatról keletre.",
+        "ro": "Apasă pe Vancouver, Calgary, Winnipeg, Toronto și Halifax de la vest la est.",
+        "en": "Click Vancouver, Calgary, Winnipeg, Toronto and Halifax from west to east."
+      },
+      "poiIds": [
+        "can_van",
+        "can_cal",
+        "can_win",
+        "can_tor",
+        "can_hal"
+      ],
+      "orderedPoiIds": [
+        "can_van",
+        "can_cal",
+        "can_win",
+        "can_tor",
+        "can_hal"
+      ]
+    },
+    {
+      "id": "ca-order-north-south",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Edmonton, Calgary, Winnipeg und Toronto von Nord nach Süd an.",
+        "hu": "Kattints Edmontonra, Calgaryre, Winnipegre és Torontóra északról délre.",
+        "ro": "Apasă pe Edmonton, Calgary, Winnipeg și Toronto de la nord la sud.",
+        "en": "Click Edmonton, Calgary, Winnipeg and Toronto from north to south."
+      },
+      "poiIds": [
+        "can_edm",
+        "can_cal",
+        "can_win",
+        "can_tor"
+      ],
+      "orderedPoiIds": [
+        "can_edm",
+        "can_cal",
+        "can_win",
+        "can_tor"
+      ]
+    }
+  ],
+  "mx": [
+    {
+      "id": "mx-find-mexico-city",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Mexiko-Stadt auf der Karte.",
+        "hu": "Keresd meg Mexikóvárost a térképen.",
+        "ro": "Găsește Ciudad de México pe hartă.",
+        "en": "Find Mexico City on the map."
+      },
+      "targetPoiId": "mex_cap"
+    },
+    {
+      "id": "mx-find-guadalajara",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Guadalajara?",
+        "hu": "Hol található Guadalajara?",
+        "ro": "Unde se află Guadalajara?",
+        "en": "Where is Guadalajara?"
+      },
+      "targetPoiId": "mex_gua"
+    },
+    {
+      "id": "mx-find-monterrey",
+      "type": "find_poi",
+      "question": {
+        "de": "Klicke auf Monterrey im Norden Mexikos.",
+        "hu": "Kattints az észak-mexikói Monterreyre.",
+        "ro": "Apasă pe Monterrey, în nordul Mexicului.",
+        "en": "Click Monterrey in northern Mexico."
+      },
+      "targetPoiId": "monterrey-cities-v2"
+    },
+    {
+      "id": "mx-find-merida",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Mérida auf der Halbinsel Yucatán.",
+        "hu": "Keresd meg Méridát a Yucatán-félszigeten.",
+        "ro": "Găsește Mérida în Peninsula Yucatán.",
+        "en": "Find Merida on the Yucatan Peninsula."
+      },
+      "targetPoiId": "merida-cities-v2"
+    },
+    {
+      "id": "mx-region-baja-california",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf den Bundesstaat Baja California.",
+        "hu": "Kattints Baja California államra.",
+        "ro": "Apasă pe statul Baja California.",
+        "en": "Click the state of Baja California."
+      },
+      "targetRegionId": "MEX-2706"
+    },
+    {
+      "id": "mx-region-jalisco",
+      "type": "find_region",
+      "question": {
+        "de": "Wo liegt der Bundesstaat Jalisco?",
+        "hu": "Hol található Jalisco állam?",
+        "ro": "Unde se află statul Jalisco?",
+        "en": "Where is the state of Jalisco?"
+      },
+      "targetRegionId": "MEX-2719"
+    },
+    {
+      "id": "mx-region-yucatan",
+      "type": "find_region",
+      "question": {
+        "de": "Finde den Bundesstaat Yucatán.",
+        "hu": "Keresd meg Yucatán államot.",
+        "ro": "Găsește statul Yucatán.",
+        "en": "Find the state of Yucatan."
+      },
+      "targetRegionId": "MEX-2737"
+    },
+    {
+      "id": "mx-odd-pacific",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Städte liegt nicht an der Pazifikseite Mexikos?",
+        "hu": "Melyik város nem Mexikó csendes-óceáni oldalán található?",
+        "ro": "Care dintre aceste orașe nu se află pe partea pacifică a Mexicului?",
+        "en": "Which of these cities is not on Mexico's Pacific side?"
+      },
+      "poiIds": [
+        "tijuana-cities-v2",
+        "puerto-vallarta-cities-v2",
+        "acapulco-cities-v2",
+        "monterrey-cities-v2"
+      ],
+      "targetPoiId": "monterrey-cities-v2"
+    },
+    {
+      "id": "mx-order-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Tijuana, Chihuahua, Monterrey und Mérida von West nach Ost an.",
+        "hu": "Kattints Tijuanára, Chihuahuára, Monterreyre és Méridára nyugatról keletre.",
+        "ro": "Apasă pe Tijuana, Chihuahua, Monterrey și Mérida de la vest la est.",
+        "en": "Click Tijuana, Chihuahua, Monterrey and Merida from west to east."
+      },
+      "poiIds": [
+        "tijuana-cities-v2",
+        "chihuahua-city-cities-v2",
+        "monterrey-cities-v2",
+        "merida-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "tijuana-cities-v2",
+        "chihuahua-city-cities-v2",
+        "monterrey-cities-v2",
+        "merida-cities-v2"
+      ]
+    },
+    {
+      "id": "mx-order-north-south",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Chihuahua, Monterrey, Mexiko-Stadt und Acapulco von Nord nach Süd an.",
+        "hu": "Kattints Chihuahuára, Monterreyre, Mexikóvárosra és Acapulcóra északról délre.",
+        "ro": "Apasă pe Chihuahua, Monterrey, Ciudad de México și Acapulco de la nord la sud.",
+        "en": "Click Chihuahua, Monterrey, Mexico City and Acapulco from north to south."
+      },
+      "poiIds": [
+        "chihuahua-city-cities-v2",
+        "monterrey-cities-v2",
+        "mex_cap",
+        "acapulco-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "chihuahua-city-cities-v2",
+        "monterrey-cities-v2",
+        "mex_cap",
+        "acapulco-cities-v2"
+      ]
+    }
+  ]
+}

@@ -589,7 +589,7 @@ type MapQuizTask =
 // Country-specific content, shared by the standalone HTML quiz engine below.
 // A session uses every task once; add larger pools later and the engine will
 // continue to draw ten without replacement.
-const MAP_QUIZ_POOLS: Record<string, MapQuizTask[]> = {
+const INLINE_MAP_QUIZ_POOLS: Record<string, MapQuizTask[]> = {
   de: [
     {
       id: "de-find-berlin", type: "find_poi", targetPoiId: "city-berlin",
@@ -689,6 +689,54 @@ const MAP_QUIZ_POOLS: Record<string, MapQuizTask[]> = {
     },
   ],
 };
+
+const MAP_QUIZ_POOL_DIR = path.join(process.cwd(), "data", "map-quiz-pools");
+const MAP_QUIZ_POOLS: Record<string, MapQuizTask[]> = { ...INLINE_MAP_QUIZ_POOLS };
+if (fs.existsSync(MAP_QUIZ_POOL_DIR)) {
+  for (const file of fs.readdirSync(MAP_QUIZ_POOL_DIR).filter(f => f.endsWith(".json")).sort()) {
+    const filePath = path.join(MAP_QUIZ_POOL_DIR, file);
+    const parsed = JSON.parse(fs.readFileSync(filePath, "utf8")) as Record<string, MapQuizTask[]>;
+    for (const [iso, tasks] of Object.entries(parsed)) {
+      if (MAP_QUIZ_POOLS[iso]) throw new Error(`Duplicate map quiz pool for ${iso} in ${file}`);
+      if (!Array.isArray(tasks) || tasks.length !== 10) {
+        throw new Error(`Map quiz pool ${iso} in ${file} must contain exactly 10 tasks`);
+      }
+      const ids = new Set<string>();
+      for (const task of tasks) {
+        if (!task || typeof task.id !== "string" || ids.has(task.id)) {
+          throw new Error(`Map quiz pool ${iso} in ${file} has a missing or duplicate task id`);
+        }
+        ids.add(task.id);
+        if (!["find_poi", "find_region", "odd_one_out", "sequence"].includes(task.type)) {
+          throw new Error(`Map quiz ${iso}/${task.id} in ${file} has invalid type`);
+        }
+        if (task.type === "find_poi" && typeof task.targetPoiId !== "string") {
+          throw new Error(`Map quiz ${iso}/${task.id} in ${file} is missing targetPoiId`);
+        }
+        if (task.type === "find_region" && typeof task.targetRegionId !== "string") {
+          throw new Error(`Map quiz ${iso}/${task.id} in ${file} is missing targetRegionId`);
+        }
+        if (task.type === "odd_one_out" && (
+          typeof task.targetPoiId !== "string" || !Array.isArray(task.poiIds) || task.poiIds.length < 3
+        )) {
+          throw new Error(`Map quiz ${iso}/${task.id} in ${file} has invalid odd_one_out data`);
+        }
+        if (task.type === "sequence" && (
+          !Array.isArray(task.poiIds) || !Array.isArray(task.orderedPoiIds) ||
+          task.poiIds.length < 2 || task.orderedPoiIds.length !== task.poiIds.length
+        )) {
+          throw new Error(`Map quiz ${iso}/${task.id} in ${file} has invalid sequence data`);
+        }
+        for (const lang of LANGS) {
+          if (!task.question || typeof task.question[lang] !== "string" || !task.question[lang].trim()) {
+            throw new Error(`Map quiz ${iso}/${task.id} in ${file} is missing ${lang} question`);
+          }
+        }
+      }
+      MAP_QUIZ_POOLS[iso] = tasks;
+    }
+  }
+}
 
 const MAP_QUIZ_UI: Record<Lang, Record<string,string>> = {
   de: { launch:"Quiz", start:"Quiz starten", next:"Weiter", close:"Beenden", restart:"Noch einmal", correct:"Richtig!", wrong:"Nicht ganz.", answer:"Richtige Antwort", score:"Punkte", task:"Aufgabe", complete:"Geschafft!", intro:"10 abwechslungsreiche Kartenaufgaben", sequence:"Nächster Ort", namePrompt:"Wie heißt du?", namePlaceholder:"Spielername", save:"Ergebnis speichern", saved:"Ergebnis gespeichert", best:"Dein bestes Ergebnis", invalidName:"Bitte 2 bis 16 Zeichen verwenden: Buchstaben, Zahlen, _ oder -" },
@@ -908,8 +956,8 @@ function renderHtml(c: Country, lang: Lang, regions: any[], pois: SlimPoi[], vie
       throw new Error(`Quiz ${c.iso}/${task.id}: missing region ${task.targetRegionId}`);
     }
   }
-  if (c.iso === "de" && quizPool.length !== 10) {
-    throw new Error(`Germany quiz must contain exactly 10 tasks, got ${quizPool.length}`);
+  if (quizPool.length && quizPool.length !== 10) {
+    throw new Error(`Quiz ${c.iso} must contain exactly 10 tasks, got ${quizPool.length}`);
   }
   const quizPayload = quizPool.map(task => ({ ...task, question: task.question[lang] }));
   const quizUi = MAP_QUIZ_UI[lang];

@@ -1,0 +1,728 @@
+{
+  "hr": [
+    {
+      "id": "hr-find-zagreb-cathedral",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde die Kathedrale von Zagreb.",
+        "hu": "Keresd meg a zágrábi székesegyházat.",
+        "ro": "Găsește Catedrala din Zagreb.",
+        "en": "Find Zagreb Cathedral."
+      },
+      "targetPoiId": "croatia-zagreb-cathedral-landmarks-v2"
+    },
+    {
+      "id": "hr-find-split",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Split? Klicke auf die Stadt.",
+        "hu": "Hol található Split? Kattints a városra.",
+        "ro": "Unde se află Split? Apasă pe oraș.",
+        "en": "Where is Split? Click the city."
+      },
+      "targetPoiId": "hr-split"
+    },
+    {
+      "id": "hr-find-dubrovnik-walls",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde die Stadtmauern von Dubrovnik.",
+        "hu": "Keresd meg Dubrovnik városfalait.",
+        "ro": "Găsește zidurile orașului Dubrovnik.",
+        "en": "Find the Walls of Dubrovnik."
+      },
+      "targetPoiId": "croatia-dubrovnik-walls-history-v2"
+    },
+    {
+      "id": "hr-find-plitvice",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt der Nationalpark Plitvicer Seen?",
+        "hu": "Hol található a Plitvicei-tavak Nemzeti Park?",
+        "ro": "Unde se află Parcul Național Lacurile Plitvice?",
+        "en": "Where is Plitvice Lakes National Park?"
+      },
+      "targetPoiId": "hr-plitvice"
+    },
+    {
+      "id": "hr-find-pula-arena",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde das römische Amphitheater von Pula.",
+        "hu": "Keresd meg a pulai római amfiteátrumot.",
+        "ro": "Găsește amfiteatrul roman din Pula.",
+        "en": "Find the Roman amphitheatre in Pula."
+      },
+      "targetPoiId": "croatia-pula-arena-history-v2"
+    },
+    {
+      "id": "hr-odd-dalmatia",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort liegt nicht in Dalmatien?",
+        "hu": "Melyik hely nem Dalmáciában található?",
+        "ro": "Care loc nu se află în Dalmația?",
+        "en": "Which place is not in Dalmatia?"
+      },
+      "poiIds": [
+        "hr-split",
+        "zadar",
+        "croatia-dubrovnik-walls-history-v2",
+        "croatia-osijek-cities-v2"
+      ],
+      "targetPoiId": "croatia-osijek-cities-v2"
+    },
+    {
+      "id": "hr-odd-adriatic",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort liegt nicht an der Adriaküste?",
+        "hu": "Melyik hely nem az Adria partján található?",
+        "ro": "Care loc nu se află pe coasta Adriaticii?",
+        "en": "Which place is not on the Adriatic coast?"
+      },
+      "poiIds": [
+        "city-rijeka",
+        "zadar",
+        "croatia-pula-arena-history-v2",
+        "croatia-karlovac-cities-v2"
+      ],
+      "targetPoiId": "croatia-karlovac-cities-v2"
+    },
+    {
+      "id": "hr-order-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Städte von West nach Ost an.",
+        "hu": "Kattints a városokra nyugatról keletre.",
+        "ro": "Apasă orașele de la vest la est.",
+        "en": "Click the cities from west to east."
+      },
+      "poiIds": [
+        "city-rijeka",
+        "croatia-karlovac-cities-v2",
+        "croatia-osijek-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "city-rijeka",
+        "croatia-karlovac-cities-v2",
+        "croatia-osijek-cities-v2"
+      ]
+    },
+    {
+      "id": "hr-order-north-south",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Orte von Nord nach Süd an.",
+        "hu": "Kattints a helyekre északról délre.",
+        "ro": "Apasă locurile de la nord la sud.",
+        "en": "Click the places from north to south."
+      },
+      "poiIds": [
+        "croatia-osijek-cities-v2",
+        "hr-plitvice",
+        "hr-split",
+        "croatia-dubrovnik-walls-history-v2"
+      ],
+      "orderedPoiIds": [
+        "croatia-osijek-cities-v2",
+        "hr-plitvice",
+        "hr-split",
+        "croatia-dubrovnik-walls-history-v2"
+      ]
+    },
+    {
+      "id": "hr-route-zagreb-split",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke der Reihe nach: Zagreb, Plitvicer Seen, Split.",
+        "hu": "Kattints sorrendben: Zágráb, Plitvicei-tavak, Split.",
+        "ro": "Apasă în ordine: Zagreb, Lacurile Plitvice, Split.",
+        "en": "Click in order: Zagreb, Plitvice Lakes, Split."
+      },
+      "poiIds": [
+        "croatia-zagreb-cathedral-landmarks-v2",
+        "hr-plitvice",
+        "hr-split"
+      ],
+      "orderedPoiIds": [
+        "croatia-zagreb-cathedral-landmarks-v2",
+        "hr-plitvice",
+        "hr-split"
+      ]
+    }
+  ],
+  "si": [
+    {
+      "id": "si-find-ljubljana-castle",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde die Burg von Ljubljana.",
+        "hu": "Keresd meg a ljubljanai várat.",
+        "ro": "Găsește Castelul Ljubljana.",
+        "en": "Find Ljubljana Castle."
+      },
+      "targetPoiId": "slovenia-ljubljana-castle-history-v2"
+    },
+    {
+      "id": "si-find-maribor",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Maribor?",
+        "hu": "Hol található Maribor?",
+        "ro": "Unde se află Maribor?",
+        "en": "Where is Maribor?"
+      },
+      "targetPoiId": "city-maribor-extra"
+    },
+    {
+      "id": "si-find-triglav",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde den Triglav, den höchsten Berg Sloweniens.",
+        "hu": "Keresd meg a Triglavot, Szlovénia legmagasabb hegyét.",
+        "ro": "Găsește Triglav, cel mai înalt munte din Slovenia.",
+        "en": "Find Triglav, Slovenia's highest mountain."
+      },
+      "targetPoiId": "slovenia-triglav-nature-v2"
+    },
+    {
+      "id": "si-find-lake-bled",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt der Bleder See?",
+        "hu": "Hol található a Bledi-tó?",
+        "ro": "Unde se află Lacul Bled?",
+        "en": "Where is Lake Bled?"
+      },
+      "targetPoiId": "slovenia-lake-bled-nature-v2"
+    },
+    {
+      "id": "si-find-postojna",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde die Höhle von Postojna.",
+        "hu": "Keresd meg a Postojnai-cseppkőbarlangot.",
+        "ro": "Găsește Peștera Postojna.",
+        "en": "Find Postojna Cave."
+      },
+      "targetPoiId": "slovenia-postojna-cave-nature-v2"
+    },
+    {
+      "id": "si-find-skocjan",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde die Höhlen von Škocjan.",
+        "hu": "Keresd meg a Škocjan-barlangrendszert.",
+        "ro": "Găsește Peșterile Škocjan.",
+        "en": "Find the Škocjan Caves."
+      },
+      "targetPoiId": "slovenia-skocjan-caves-nature-v2"
+    },
+    {
+      "id": "si-odd-alpine",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort gehört nicht zur alpinen Landschaft im Nordwesten?",
+        "hu": "Melyik hely nem az északnyugati alpesi tájhoz tartozik?",
+        "ro": "Care loc nu aparține peisajului alpin din nord-vest?",
+        "en": "Which place does not belong to the alpine northwest?"
+      },
+      "poiIds": [
+        "slovenia-triglav-nature-v2",
+        "slovenia-lake-bled-nature-v2",
+        "slovenia-lake-bohinj-nature-v2",
+        "city-koper-extra"
+      ],
+      "targetPoiId": "city-koper-extra"
+    },
+    {
+      "id": "si-odd-caves",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher dieser Orte ist keine Höhle?",
+        "hu": "Melyik hely nem barlang?",
+        "ro": "Care dintre aceste locuri nu este o peșteră?",
+        "en": "Which of these places is not a cave?"
+      },
+      "poiIds": [
+        "slovenia-postojna-cave-nature-v2",
+        "slovenia-skocjan-caves-nature-v2",
+        "slovenia-predjama-castle-history-v2"
+      ],
+      "targetPoiId": "slovenia-predjama-castle-history-v2"
+    },
+    {
+      "id": "si-order-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Orte von West nach Ost an.",
+        "hu": "Kattints a helyekre nyugatról keletre.",
+        "ro": "Apasă locurile de la vest la est.",
+        "en": "Click the places from west to east."
+      },
+      "poiIds": [
+        "slovenia-nova-gorica-cities-v2",
+        "slovenia-ljubljana-castle-history-v2",
+        "city-maribor-extra"
+      ],
+      "orderedPoiIds": [
+        "slovenia-nova-gorica-cities-v2",
+        "slovenia-ljubljana-castle-history-v2",
+        "city-maribor-extra"
+      ]
+    },
+    {
+      "id": "si-order-north-south",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Orte von Nord nach Süd an.",
+        "hu": "Kattints a helyekre északról délre.",
+        "ro": "Apasă locurile de la nord la sud.",
+        "en": "Click the places from north to south."
+      },
+      "poiIds": [
+        "slovenia-jesenice-cities-v2",
+        "slovenia-ljubljana-castle-history-v2",
+        "city-koper-extra"
+      ],
+      "orderedPoiIds": [
+        "slovenia-jesenice-cities-v2",
+        "slovenia-ljubljana-castle-history-v2",
+        "city-koper-extra"
+      ]
+    }
+  ],
+  "bg": [
+    {
+      "id": "bg-find-sofia",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Sofia?",
+        "hu": "Hol található Szófia?",
+        "ro": "Unde se află Sofia?",
+        "en": "Where is Sofia?"
+      },
+      "targetPoiId": "city-sofia"
+    },
+    {
+      "id": "bg-find-plovdiv",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Plowdiw auf der Karte.",
+        "hu": "Keresd meg Plovdivot a térképen.",
+        "ro": "Găsește Plovdiv pe hartă.",
+        "en": "Find Plovdiv on the map."
+      },
+      "targetPoiId": "city-plovdiv"
+    },
+    {
+      "id": "bg-find-rila-monastery",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde das Rila-Kloster.",
+        "hu": "Keresd meg a Rilai kolostort.",
+        "ro": "Găsește Mănăstirea Rila.",
+        "en": "Find Rila Monastery."
+      },
+      "targetPoiId": "cult-rila-monastery"
+    },
+    {
+      "id": "bg-find-nessebar",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt die Altstadt von Nessebar?",
+        "hu": "Hol található Neszebár óvárosa?",
+        "ro": "Unde se află orașul vechi Nessebar?",
+        "en": "Where is Nessebar Old Town?"
+      },
+      "targetPoiId": "cult-nessebar"
+    },
+    {
+      "id": "bg-find-seven-rila-lakes",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde die Sieben Rila-Seen.",
+        "hu": "Keresd meg a Hét Rilai-tavat.",
+        "ro": "Găsește Cele Șapte Lacuri Rila.",
+        "en": "Find the Seven Rila Lakes."
+      },
+      "targetPoiId": "nat-seven-rila"
+    },
+    {
+      "id": "bg-find-veliko-tarnovo",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Weliko Tarnowo?",
+        "hu": "Hol található Veliko Tarnovo?",
+        "ro": "Unde se află Veliko Târnovo?",
+        "en": "Where is Veliko Tarnovo?"
+      },
+      "targetPoiId": "city-veliko-tarnovo"
+    },
+    {
+      "id": "bg-odd-black-sea",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort liegt nicht an der Schwarzmeerküste?",
+        "hu": "Melyik hely nem a Fekete-tenger partján található?",
+        "ro": "Care loc nu se află pe litoralul Mării Negre?",
+        "en": "Which place is not on the Black Sea coast?"
+      },
+      "poiIds": [
+        "city-varna",
+        "city-burgas",
+        "cult-nessebar",
+        "city-sofia"
+      ],
+      "targetPoiId": "city-sofia"
+    },
+    {
+      "id": "bg-odd-mountains",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort gehört nicht zu Bulgariens Berglandschaften?",
+        "hu": "Melyik hely nem Bulgária hegyvidékeihez tartozik?",
+        "ro": "Care loc nu aparține zonelor montane ale Bulgariei?",
+        "en": "Which place does not belong to Bulgaria's mountain landscapes?"
+      },
+      "poiIds": [
+        "nat-rila",
+        "nat-seven-rila",
+        "bg-bansko",
+        "city-burgas"
+      ],
+      "targetPoiId": "city-burgas"
+    },
+    {
+      "id": "bg-order-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Städte von West nach Ost an.",
+        "hu": "Kattints a városokra nyugatról keletre.",
+        "ro": "Apasă orașele de la vest la est.",
+        "en": "Click the cities from west to east."
+      },
+      "poiIds": [
+        "city-sofia",
+        "city-plovdiv",
+        "city-burgas"
+      ],
+      "orderedPoiIds": [
+        "city-sofia",
+        "city-plovdiv",
+        "city-burgas"
+      ]
+    },
+    {
+      "id": "bg-order-north-south",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Orte von Nord nach Süd an.",
+        "hu": "Kattints a helyekre északról délre.",
+        "ro": "Apasă locurile de la nord la sud.",
+        "en": "Click the places from north to south."
+      },
+      "poiIds": [
+        "bulgaria-pleven-cities-v2",
+        "city-veliko-tarnovo",
+        "city-plovdiv",
+        "bg-bansko"
+      ],
+      "orderedPoiIds": [
+        "bulgaria-pleven-cities-v2",
+        "city-veliko-tarnovo",
+        "city-plovdiv",
+        "bg-bansko"
+      ]
+    }
+  ],
+  "ro": [
+    {
+      "id": "ro-find-bucharest",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Bukarest?",
+        "hu": "Hol található Bukarest?",
+        "ro": "Unde se află București?",
+        "en": "Where is Bucharest?"
+      },
+      "targetPoiId": "bucuresti"
+    },
+    {
+      "id": "ro-find-cluj",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Cluj-Napoca auf der Karte.",
+        "hu": "Keresd meg Kolozsvárt a térképen.",
+        "ro": "Găsește Cluj-Napoca pe hartă.",
+        "en": "Find Cluj-Napoca on the map."
+      },
+      "targetPoiId": "city-cluj-napoca"
+    },
+    {
+      "id": "ro-find-timisoara",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Timișoara?",
+        "hu": "Hol található Temesvár?",
+        "ro": "Unde se află Timișoara?",
+        "en": "Where is Timișoara?"
+      },
+      "targetPoiId": "city-timisoara"
+    },
+    {
+      "id": "ro-find-constanta",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Constanța an der Schwarzmeerküste.",
+        "hu": "Keresd meg Konstancát a Fekete-tenger partján.",
+        "ro": "Găsește Constanța pe litoralul Mării Negre.",
+        "en": "Find Constanța on the Black Sea coast."
+      },
+      "targetPoiId": "constanta"
+    },
+    {
+      "id": "ro-find-bran-castle",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Schloss Bran.",
+        "hu": "Keresd meg Törcsvárat, azaz Bran várát.",
+        "ro": "Găsește Castelul Bran.",
+        "en": "Find Bran Castle."
+      },
+      "targetPoiId": "hist-bran-castle"
+    },
+    {
+      "id": "ro-find-danube-delta",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt das Donaudelta?",
+        "hu": "Hol található a Duna-delta?",
+        "ro": "Unde se află Delta Dunării?",
+        "en": "Where is the Danube Delta?"
+      },
+      "targetPoiId": "landmark-delta-dunarii"
+    },
+    {
+      "id": "ro-odd-transylvania",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche Stadt liegt nicht in Siebenbürgen?",
+        "hu": "Melyik város nem Erdélyben található?",
+        "ro": "Care oraș nu se află în Transilvania?",
+        "en": "Which city is not in Transylvania?"
+      },
+      "poiIds": [
+        "city-cluj-napoca",
+        "brasov",
+        "sibiu",
+        "constanta"
+      ],
+      "targetPoiId": "constanta"
+    },
+    {
+      "id": "ro-odd-west-central",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche Stadt liegt deutlich im Osten Rumäniens?",
+        "hu": "Melyik város található egyértelműen Románia keleti részén?",
+        "ro": "Care oraș se află clar în estul României?",
+        "en": "Which city is clearly in eastern Romania?"
+      },
+      "poiIds": [
+        "city-timisoara",
+        "romania-resita-cities-v2",
+        "romania-deva-cities-v2",
+        "iasi"
+      ],
+      "targetPoiId": "iasi"
+    },
+    {
+      "id": "ro-order-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Städte von West nach Ost an.",
+        "hu": "Kattints a városokra nyugatról keletre.",
+        "ro": "Apasă orașele de la vest la est.",
+        "en": "Click the cities from west to east."
+      },
+      "poiIds": [
+        "city-timisoara",
+        "sibiu",
+        "bucuresti",
+        "constanta"
+      ],
+      "orderedPoiIds": [
+        "city-timisoara",
+        "sibiu",
+        "bucuresti",
+        "constanta"
+      ]
+    },
+    {
+      "id": "ro-order-north-south",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Städte von Nord nach Süd an.",
+        "hu": "Kattints a városokra északról délre.",
+        "ro": "Apasă orașele de la nord la sud.",
+        "en": "Click the cities from north to south."
+      },
+      "poiIds": [
+        "iasi",
+        "city-cluj-napoca",
+        "brasov",
+        "bucuresti"
+      ],
+      "orderedPoiIds": [
+        "iasi",
+        "city-cluj-napoca",
+        "brasov",
+        "bucuresti"
+      ]
+    }
+  ],
+  "gr": [
+    {
+      "id": "gr-find-athens",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Athen?",
+        "hu": "Hol található Athén?",
+        "ro": "Unde se află Atena?",
+        "en": "Where is Athens?"
+      },
+      "targetPoiId": "city-athens"
+    },
+    {
+      "id": "gr-find-thessaloniki",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Thessaloniki auf der Karte.",
+        "hu": "Keresd meg Thesszalonikit a térképen.",
+        "ro": "Găsește Salonic pe hartă.",
+        "en": "Find Thessaloniki on the map."
+      },
+      "targetPoiId": "city-thessaloniki"
+    },
+    {
+      "id": "gr-find-meteora",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde die Meteora-Klöster.",
+        "hu": "Keresd meg a Metéora-kolostorokat.",
+        "ro": "Găsește mănăstirile Meteora.",
+        "en": "Find the Meteora monasteries."
+      },
+      "targetPoiId": "greece-meteora-history-v2"
+    },
+    {
+      "id": "gr-find-delphi",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt das antike Orakel von Delphi?",
+        "hu": "Hol található az ókori delphoi jósda?",
+        "ro": "Unde se află oracolul antic din Delphi?",
+        "en": "Where is the ancient Oracle of Delphi?"
+      },
+      "targetPoiId": "greece-delphi-history-v2"
+    },
+    {
+      "id": "gr-find-olympia",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde das antike Olympia.",
+        "hu": "Keresd meg az ókori Olümpiát.",
+        "ro": "Găsește Olympia antică.",
+        "en": "Find ancient Olympia."
+      },
+      "targetPoiId": "greece-olympia-history-v2"
+    },
+    {
+      "id": "gr-find-rhodes",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt die Stadt Rhodos?",
+        "hu": "Hol található Rodosz városa?",
+        "ro": "Unde se află orașul Rodos?",
+        "en": "Where is Rhodes Town?"
+      },
+      "targetPoiId": "greece-rhodes-cities-v2"
+    },
+    {
+      "id": "gr-odd-islands",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche Stadt liegt nicht auf einer griechischen Insel?",
+        "hu": "Melyik város nem egy görög szigeten található?",
+        "ro": "Care oraș nu se află pe o insulă grecească?",
+        "en": "Which city is not on a Greek island?"
+      },
+      "poiIds": [
+        "greece-heraklion-cities-v2",
+        "greece-chania-cities-v2",
+        "greece-rhodes-cities-v2",
+        "greece-larissa-cities-v2"
+      ],
+      "targetPoiId": "greece-larissa-cities-v2"
+    },
+    {
+      "id": "gr-odd-ancient-sites",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort ist hier kein antikes Heiligtum oder Denkmal?",
+        "hu": "Melyik hely nem ókori szentély vagy műemlék?",
+        "ro": "Care loc nu este aici un sanctuar sau monument antic?",
+        "en": "Which place is not an ancient sanctuary or monument?"
+      },
+      "poiIds": [
+        "greece-delphi-history-v2",
+        "greece-olympia-history-v2",
+        "greece-acropolis-athens-landmarks-v2",
+        "city-thessaloniki"
+      ],
+      "targetPoiId": "city-thessaloniki"
+    },
+    {
+      "id": "gr-order-north-south",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Städte von Nord nach Süd an.",
+        "hu": "Kattints a városokra északról délre.",
+        "ro": "Apasă orașele de la nord la sud.",
+        "en": "Click the cities from north to south."
+      },
+      "poiIds": [
+        "city-thessaloniki",
+        "city-athens",
+        "greece-heraklion-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "city-thessaloniki",
+        "city-athens",
+        "greece-heraklion-cities-v2"
+      ]
+    },
+    {
+      "id": "gr-order-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Orte von West nach Ost an.",
+        "hu": "Kattints a helyekre nyugatról keletre.",
+        "ro": "Apasă locurile de la vest la est.",
+        "en": "Click the places from west to east."
+      },
+      "poiIds": [
+        "greece-corfu-town-cities-v2",
+        "city-athens",
+        "greece-rhodes-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "greece-corfu-town-cities-v2",
+        "city-athens",
+        "greece-rhodes-cities-v2"
+      ]
+    }
+  ]
+}

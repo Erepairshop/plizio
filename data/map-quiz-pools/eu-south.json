@@ -1,0 +1,578 @@
+{
+  "it": [
+    {
+      "id": "it-find-rome",
+      "type": "find_poi",
+      "targetPoiId": "rome",
+      "question": {
+        "de": "Wo liegt Rom? Klicke auf die Hauptstadt.",
+        "hu": "Hol található Róma? Kattints a fővárosra.",
+        "ro": "Unde se află Roma? Apasă pe capitală.",
+        "en": "Where is Rome? Click the capital."
+      }
+    },
+    {
+      "id": "it-find-venice",
+      "type": "find_poi",
+      "targetPoiId": "venice",
+      "question": {
+        "de": "Finde Venedig an der Adriaküste.",
+        "hu": "Keresd meg Velencét az Adriai-tenger partján.",
+        "ro": "Găsește Veneția pe coasta Mării Adriatice.",
+        "en": "Find Venice on the Adriatic coast."
+      }
+    },
+    {
+      "id": "it-find-florence",
+      "type": "find_poi",
+      "targetPoiId": "florence",
+      "question": {
+        "de": "Welche Stadt gilt als Wiege der Renaissance? Finde Florenz.",
+        "hu": "Melyik várost tartják a reneszánsz bölcsőjének? Keresd meg Firenzét.",
+        "ro": "Ce oraș este considerat leagănul Renașterii? Găsește Florența.",
+        "en": "Which city is known as the cradle of the Renaissance? Find Florence."
+      }
+    },
+    {
+      "id": "it-find-etna",
+      "type": "find_poi",
+      "targetPoiId": "it-etna",
+      "question": {
+        "de": "Finde den Vulkan Ätna auf Sizilien.",
+        "hu": "Keresd meg az Etna vulkánt Szicílián.",
+        "ro": "Găsește vulcanul Etna din Sicilia.",
+        "en": "Find Mount Etna on Sicily."
+      }
+    },
+    {
+      "id": "it-region-lazio",
+      "type": "find_region",
+      "targetRegionId": "IT-62",
+      "question": {
+        "de": "Klicke auf die Region Latium, in der Rom liegt.",
+        "hu": "Kattints Lazio régióra, ahol Róma található.",
+        "ro": "Apasă pe regiunea Lazio, unde se află Roma.",
+        "en": "Click the Lazio region, where Rome is located."
+      }
+    },
+    {
+      "id": "it-region-tuscany",
+      "type": "find_region",
+      "targetRegionId": "IT-52",
+      "question": {
+        "de": "Finde die Toskana in Mittelitalien.",
+        "hu": "Keresd meg Toszkánát Közép-Olaszországban.",
+        "ro": "Găsește Toscana în centrul Italiei.",
+        "en": "Find Tuscany in central Italy."
+      }
+    },
+    {
+      "id": "it-region-sicily",
+      "type": "find_region",
+      "targetRegionId": "IT-82",
+      "question": {
+        "de": "Klicke auf die Inselregion Sizilien.",
+        "hu": "Kattints Szicília szigetrégióra.",
+        "ro": "Apasă pe regiunea insulară Sicilia.",
+        "en": "Click the island region of Sicily."
+      }
+    },
+    {
+      "id": "it-odd-island-city",
+      "type": "odd_one_out",
+      "poiIds": ["rome", "milan", "venice", "florence", "palermo"],
+      "targetPoiId": "palermo",
+      "question": {
+        "de": "Welche dieser Städte liegt nicht auf dem italienischen Festland?",
+        "hu": "Melyik város nem az olasz szárazföldön található?",
+        "ro": "Care dintre aceste orașe nu se află pe Italia continentală?",
+        "en": "Which of these cities is not on mainland Italy?"
+      }
+    },
+    {
+      "id": "it-sequence-north-south",
+      "type": "sequence",
+      "poiIds": ["milan", "florence", "rome", "naples"],
+      "orderedPoiIds": ["milan", "florence", "rome", "naples"],
+      "question": {
+        "de": "Klicke die Städte von Norden nach Süden an.",
+        "hu": "Kattints a városokra északról délre haladva.",
+        "ro": "Apasă orașele de la nord la sud.",
+        "en": "Click the cities from north to south."
+      }
+    },
+    {
+      "id": "it-sequence-west-east",
+      "type": "sequence",
+      "poiIds": ["torino", "milan", "venice"],
+      "orderedPoiIds": ["torino", "milan", "venice"],
+      "question": {
+        "de": "Klicke Turin, Mailand und Venedig von Westen nach Osten an.",
+        "hu": "Kattints Torinóra, Milánóra és Velencére nyugatról keletre.",
+        "ro": "Apasă Torino, Milano și Veneția de la vest la est.",
+        "en": "Click Turin, Milan and Venice from west to east."
+      }
+    }
+  ],
+  "es": [
+    {
+      "id": "es-find-madrid",
+      "type": "find_poi",
+      "targetPoiId": "madrid",
+      "question": {
+        "de": "Wo liegt Madrid? Klicke auf die Hauptstadt.",
+        "hu": "Hol található Madrid? Kattints a fővárosra.",
+        "ro": "Unde se află Madrid? Apasă pe capitală.",
+        "en": "Where is Madrid? Click the capital."
+      }
+    },
+    {
+      "id": "es-find-barcelona",
+      "type": "find_poi",
+      "targetPoiId": "barcelona",
+      "question": {
+        "de": "Finde Barcelona an der Mittelmeerküste.",
+        "hu": "Keresd meg Barcelonát a Földközi-tenger partján.",
+        "ro": "Găsește Barcelona pe coasta Mării Mediterane.",
+        "en": "Find Barcelona on the Mediterranean coast."
+      }
+    },
+    {
+      "id": "es-find-toledo",
+      "type": "find_poi",
+      "targetPoiId": "toledo",
+      "question": {
+        "de": "Finde die historische Stadt Toledo südlich von Madrid.",
+        "hu": "Keresd meg Toledo történelmi városát Madridtól délre.",
+        "ro": "Găsește orașul istoric Toledo, la sud de Madrid.",
+        "en": "Find the historic city of Toledo, south of Madrid."
+      }
+    },
+    {
+      "id": "es-find-teide",
+      "type": "find_poi",
+      "targetPoiId": "spain-teide-life-v2",
+      "question": {
+        "de": "Finde den Teide-Nationalpark auf den Kanarischen Inseln.",
+        "hu": "Keresd meg a Teide Nemzeti Parkot a Kanári-szigeteken.",
+        "ro": "Găsește Parcul Național Teide din Insulele Canare.",
+        "en": "Find Teide National Park in the Canary Islands."
+      }
+    },
+    {
+      "id": "es-region-madrid",
+      "type": "find_region",
+      "targetRegionId": "ES-MD",
+      "question": {
+        "de": "Klicke auf die Autonome Gemeinschaft Madrid.",
+        "hu": "Kattints Madrid autonóm közösségére.",
+        "ro": "Apasă pe Comunitatea Autonomă Madrid.",
+        "en": "Click the Community of Madrid."
+      }
+    },
+    {
+      "id": "es-region-catalonia",
+      "type": "find_region",
+      "targetRegionId": "ES-CT",
+      "question": {
+        "de": "Finde Katalonien im Nordosten Spaniens.",
+        "hu": "Keresd meg Katalóniát Spanyolország északkeleti részén.",
+        "ro": "Găsește Catalonia în nord-estul Spaniei.",
+        "en": "Find Catalonia in northeastern Spain."
+      }
+    },
+    {
+      "id": "es-region-andalusia",
+      "type": "find_region",
+      "targetRegionId": "ES-AN",
+      "question": {
+        "de": "Klicke auf Andalusien im Süden Spaniens.",
+        "hu": "Kattints Andalúziára Spanyolország déli részén.",
+        "ro": "Apasă pe Andaluzia, în sudul Spaniei.",
+        "en": "Click Andalusia in southern Spain."
+      }
+    },
+    {
+      "id": "es-odd-andalusia",
+      "type": "odd_one_out",
+      "poiIds": ["spain-seville-cities-v2", "granada", "spain-malaga-cities-v2", "madrid"],
+      "targetPoiId": "madrid",
+      "question": {
+        "de": "Welche dieser Städte liegt nicht in Andalusien?",
+        "hu": "Melyik város nem Andalúziában található?",
+        "ro": "Care dintre aceste orașe nu se află în Andaluzia?",
+        "en": "Which of these cities is not in Andalusia?"
+      }
+    },
+    {
+      "id": "es-sequence-west-east",
+      "type": "sequence",
+      "poiIds": ["spain-santiago-de-compostela-cities-v2", "madrid", "barcelona"],
+      "orderedPoiIds": ["spain-santiago-de-compostela-cities-v2", "madrid", "barcelona"],
+      "question": {
+        "de": "Klicke die Städte von Westen nach Osten an.",
+        "hu": "Kattints a városokra nyugatról keletre haladva.",
+        "ro": "Apasă orașele de la vest la est.",
+        "en": "Click the cities from west to east."
+      }
+    },
+    {
+      "id": "es-sequence-north-south",
+      "type": "sequence",
+      "poiIds": ["spain-bilbao-cities-v2", "madrid", "spain-malaga-cities-v2"],
+      "orderedPoiIds": ["spain-bilbao-cities-v2", "madrid", "spain-malaga-cities-v2"],
+      "question": {
+        "de": "Klicke Bilbao, Madrid und Málaga von Norden nach Süden an.",
+        "hu": "Kattints Bilbaóra, Madridra és Málagára északról délre.",
+        "ro": "Apasă Bilbao, Madrid și Málaga de la nord la sud.",
+        "en": "Click Bilbao, Madrid and Málaga from north to south."
+      }
+    }
+  ],
+  "pt": [
+    {
+      "id": "pt-find-lisbon",
+      "type": "find_poi",
+      "targetPoiId": "city-lisbon",
+      "question": {
+        "de": "Wo liegt Lissabon? Klicke auf die Hauptstadt.",
+        "hu": "Hol található Lisszabon? Kattints a fővárosra.",
+        "ro": "Unde se află Lisabona? Apasă pe capitală.",
+        "en": "Where is Lisbon? Click the capital."
+      }
+    },
+    {
+      "id": "pt-find-porto",
+      "type": "find_poi",
+      "targetPoiId": "city-porto",
+      "question": {
+        "de": "Finde Porto an der Mündung des Douro.",
+        "hu": "Keresd meg Portót a Douro torkolatánál.",
+        "ro": "Găsește Porto la vărsarea râului Douro.",
+        "en": "Find Porto at the mouth of the Douro."
+      }
+    },
+    {
+      "id": "pt-find-coimbra",
+      "type": "find_poi",
+      "targetPoiId": "city-coimbra",
+      "question": {
+        "de": "Finde die Universitätsstadt Coimbra.",
+        "hu": "Keresd meg Coimbra egyetemi városát.",
+        "ro": "Găsește orașul universitar Coimbra.",
+        "en": "Find the university city of Coimbra."
+      }
+    },
+    {
+      "id": "pt-find-faro",
+      "type": "find_poi",
+      "targetPoiId": "city-faro",
+      "question": {
+        "de": "Finde Faro an der Algarve.",
+        "hu": "Keresd meg Farót Algarve régióban.",
+        "ro": "Găsește Faro în regiunea Algarve.",
+        "en": "Find Faro in the Algarve."
+      }
+    },
+    {
+      "id": "pt-region-lisbon",
+      "type": "find_region",
+      "targetRegionId": "PT-11",
+      "question": {
+        "de": "Klicke auf den Distrikt Lissabon.",
+        "hu": "Kattints Lisszabon kerületére.",
+        "ro": "Apasă pe districtul Lisabona.",
+        "en": "Click the Lisbon district."
+      }
+    },
+    {
+      "id": "pt-region-porto",
+      "type": "find_region",
+      "targetRegionId": "PT-13",
+      "question": {
+        "de": "Finde den Distrikt Porto im Norden.",
+        "hu": "Keresd meg Porto kerületét északon.",
+        "ro": "Găsește districtul Porto în nord.",
+        "en": "Find the Porto district in the north."
+      }
+    },
+    {
+      "id": "pt-region-faro",
+      "type": "find_region",
+      "targetRegionId": "PT-08",
+      "question": {
+        "de": "Klicke auf den Distrikt Faro an der Südküste.",
+        "hu": "Kattints Faro kerületére a déli parton.",
+        "ro": "Apasă pe districtul Faro de pe coasta sudică.",
+        "en": "Click the Faro district on the southern coast."
+      }
+    },
+    {
+      "id": "pt-odd-northern-city",
+      "type": "odd_one_out",
+      "poiIds": ["city-faro", "city-beja", "city-evora", "city-braga"],
+      "targetPoiId": "city-braga",
+      "question": {
+        "de": "Welche dieser Städte liegt als einzige im Norden Portugals?",
+        "hu": "Melyik város található egyedüliként Portugália északi részén?",
+        "ro": "Care dintre aceste orașe este singurul aflat în nordul Portugaliei?",
+        "en": "Which of these cities is the only one in northern Portugal?"
+      }
+    },
+    {
+      "id": "pt-sequence-north-south",
+      "type": "sequence",
+      "poiIds": ["city-braga", "city-coimbra", "city-lisbon", "city-faro"],
+      "orderedPoiIds": ["city-braga", "city-coimbra", "city-lisbon", "city-faro"],
+      "question": {
+        "de": "Klicke die Städte von Norden nach Süden an.",
+        "hu": "Kattints a városokra északról délre haladva.",
+        "ro": "Apasă orașele de la nord la sud.",
+        "en": "Click the cities from north to south."
+      }
+    },
+    {
+      "id": "pt-sequence-atlantic",
+      "type": "sequence",
+      "poiIds": ["city-viana-do-castelo", "city-porto", "city-lisbon", "city-faro"],
+      "orderedPoiIds": ["city-viana-do-castelo", "city-porto", "city-lisbon", "city-faro"],
+      "question": {
+        "de": "Folge der Atlantikküste: Klicke die Städte von Norden nach Süden an.",
+        "hu": "Kövesd az Atlanti-óceán partját: kattints a városokra északról délre.",
+        "ro": "Urmează coasta Atlanticului: apasă orașele de la nord la sud.",
+        "en": "Follow the Atlantic coast: click the cities from north to south."
+      }
+    }
+  ],
+  "mt": [
+    {
+      "id": "mt-find-valletta",
+      "type": "find_poi",
+      "targetPoiId": "city-valletta-extra",
+      "question": {
+        "de": "Wo liegt Valletta? Klicke auf Maltas Hauptstadt.",
+        "hu": "Hol található Valletta? Kattints Málta fővárosára.",
+        "ro": "Unde se află Valletta? Apasă pe capitala Maltei.",
+        "en": "Where is Valletta? Click Malta's capital."
+      }
+    },
+    {
+      "id": "mt-find-mdina",
+      "type": "find_poi",
+      "targetPoiId": "poi-mt-mdina",
+      "question": {
+        "de": "Finde Mdina, die historische Stille Stadt.",
+        "hu": "Keresd meg Mdinát, a történelmi Csendes Várost.",
+        "ro": "Găsește Mdina, istoricul Oraș Tăcut.",
+        "en": "Find Mdina, the historic Silent City."
+      }
+    },
+    {
+      "id": "mt-find-marsaxlokk",
+      "type": "find_poi",
+      "targetPoiId": "city-marsaxlokk-extra",
+      "question": {
+        "de": "Finde das Fischerdorf Marsaxlokk im Südosten Maltas.",
+        "hu": "Keresd meg Marsaxlokk halászfalut Málta délkeleti részén.",
+        "ro": "Găsește satul pescăresc Marsaxlokk în sud-estul Maltei.",
+        "en": "Find the fishing village of Marsaxlokk in southeastern Malta."
+      }
+    },
+    {
+      "id": "mt-find-victoria",
+      "type": "find_poi",
+      "targetPoiId": "city-victoria-rabat-gozo-extra",
+      "question": {
+        "de": "Finde Victoria, den Hauptort der Insel Gozo.",
+        "hu": "Keresd meg Victoriát, Gozo szigetének központját.",
+        "ro": "Găsește Victoria, principalul oraș al insulei Gozo.",
+        "en": "Find Victoria, the main town of Gozo."
+      }
+    },
+    {
+      "id": "mt-find-mellieha",
+      "type": "find_poi",
+      "targetPoiId": "city-mellieha-extra",
+      "question": {
+        "de": "Finde Mellieħa im Norden der Hauptinsel.",
+        "hu": "Keresd meg Mellieħát a fősziget északi részén.",
+        "ro": "Găsește Mellieħa în nordul insulei principale.",
+        "en": "Find Mellieħa in the north of the main island."
+      }
+    },
+    {
+      "id": "mt-find-mosta",
+      "type": "find_poi",
+      "targetPoiId": "city-mosta-extra",
+      "question": {
+        "de": "Finde Mosta im Zentrum der Hauptinsel.",
+        "hu": "Keresd meg Mostát a fősziget középső részén.",
+        "ro": "Găsește Mosta în centrul insulei principale.",
+        "en": "Find Mosta in the centre of the main island."
+      }
+    },
+    {
+      "id": "mt-odd-gozo",
+      "type": "odd_one_out",
+      "poiIds": ["city-valletta-extra", "city-sliema-extra", "city-marsaxlokk-extra", "city-victoria-rabat-gozo-extra"],
+      "targetPoiId": "city-victoria-rabat-gozo-extra",
+      "question": {
+        "de": "Welcher dieser Orte liegt auf Gozo statt auf der Hauptinsel Malta?",
+        "hu": "Melyik település található Gozo szigetén Málta főszigete helyett?",
+        "ro": "Care dintre aceste localități se află pe Gozo, nu pe insula principală Malta?",
+        "en": "Which of these places is on Gozo rather than Malta's main island?"
+      }
+    },
+    {
+      "id": "mt-odd-inland",
+      "type": "odd_one_out",
+      "poiIds": ["city-sliema-extra", "city-st-julians-extra", "city-marsaxlokk-extra", "poi-mt-mdina"],
+      "targetPoiId": "poi-mt-mdina",
+      "question": {
+        "de": "Welcher dieser Orte ist als einziger keine Küstenstadt?",
+        "hu": "Melyik település az egyetlen, amely nem tengerparti?",
+        "ro": "Care dintre aceste localități este singura fără ieșire la mare?",
+        "en": "Which of these places is the only one that is not coastal?"
+      }
+    },
+    {
+      "id": "mt-sequence-main-island",
+      "type": "sequence",
+      "poiIds": ["city-mellieha-extra", "city-mosta-extra", "city-valletta-extra", "city-marsaxlokk-extra"],
+      "orderedPoiIds": ["city-mellieha-extra", "city-mosta-extra", "city-valletta-extra", "city-marsaxlokk-extra"],
+      "question": {
+        "de": "Klicke die Orte auf der Hauptinsel von Norden nach Süden an.",
+        "hu": "Kattints a fősziget településeire északról délre.",
+        "ro": "Apasă localitățile insulei principale de la nord la sud.",
+        "en": "Click the places on the main island from north to south."
+      }
+    },
+    {
+      "id": "mt-sequence-islands",
+      "type": "sequence",
+      "poiIds": ["city-victoria-rabat-gozo-extra", "city-mellieha-extra", "city-valletta-extra", "city-marsaxlokk-extra"],
+      "orderedPoiIds": ["city-victoria-rabat-gozo-extra", "city-mellieha-extra", "city-valletta-extra", "city-marsaxlokk-extra"],
+      "question": {
+        "de": "Klicke diese Orte im maltesischen Archipel von Norden nach Süden an.",
+        "hu": "Kattints ezekre a helyekre a máltai szigetvilágban északról délre.",
+        "ro": "Apasă aceste locuri din arhipelagul maltez de la nord la sud.",
+        "en": "Click these places in the Maltese archipelago from north to south."
+      }
+    }
+  ],
+  "cy": [
+    {
+      "id": "cy-find-nicosia",
+      "type": "find_poi",
+      "targetPoiId": "cy-nicosia",
+      "question": {
+        "de": "Wo liegt Nikosia? Klicke auf die Hauptstadt.",
+        "hu": "Hol található Nicosia? Kattints a fővárosra.",
+        "ro": "Unde se află Nicosia? Apasă pe capitală.",
+        "en": "Where is Nicosia? Click the capital."
+      }
+    },
+    {
+      "id": "cy-find-olympus",
+      "type": "find_poi",
+      "targetPoiId": "cy-mount-olympus",
+      "question": {
+        "de": "Finde den Olympos, den höchsten Berg Zyperns.",
+        "hu": "Keresd meg az Olymposzt, Ciprus legmagasabb hegyét.",
+        "ro": "Găsește Muntele Olimp, cel mai înalt vârf din Cipru.",
+        "en": "Find Mount Olympus, the highest mountain in Cyprus."
+      }
+    },
+    {
+      "id": "cy-find-cape-greco",
+      "type": "find_poi",
+      "targetPoiId": "cy-cape-greco",
+      "question": {
+        "de": "Finde Kap Greco an der Südostküste.",
+        "hu": "Keresd meg a Greco-fokot a délkeleti parton.",
+        "ro": "Găsește Capul Greco pe coasta de sud-est.",
+        "en": "Find Cape Greco on the southeastern coast."
+      }
+    },
+    {
+      "id": "cy-find-aphrodite-rock",
+      "type": "find_poi",
+      "targetPoiId": "cy-aphrodite-rock",
+      "question": {
+        "de": "Finde den Felsen der Aphrodite zwischen Paphos und Limassol.",
+        "hu": "Keresd meg Aphrodité szikláját Páfosz és Limassol között.",
+        "ro": "Găsește Stânca Afroditei între Paphos și Limassol.",
+        "en": "Find Aphrodite's Rock between Paphos and Limassol."
+      }
+    },
+    {
+      "id": "cy-region-nicosia",
+      "type": "find_region",
+      "targetRegionId": "CY-003",
+      "question": {
+        "de": "Klicke auf den Bezirk Nikosia im Zentrum der Insel.",
+        "hu": "Kattints Nicosia kerületére a sziget közepén.",
+        "ro": "Apasă pe districtul Nicosia din centrul insulei.",
+        "en": "Click the Nicosia district in the centre of the island."
+      }
+    },
+    {
+      "id": "cy-region-famagusta",
+      "type": "find_region",
+      "targetRegionId": "CY-002",
+      "question": {
+        "de": "Finde den Bezirk Famagusta im Osten.",
+        "hu": "Keresd meg Famagusta kerületét keleten.",
+        "ro": "Găsește districtul Famagusta în est.",
+        "en": "Find the Famagusta district in the east."
+      }
+    },
+    {
+      "id": "cy-region-paphos",
+      "type": "find_region",
+      "targetRegionId": "CY-005",
+      "question": {
+        "de": "Klicke auf den Bezirk Paphos im Westen.",
+        "hu": "Kattints Páfosz kerületére nyugaton.",
+        "ro": "Apasă pe districtul Paphos din vest.",
+        "en": "Click the Paphos district in the west."
+      }
+    },
+    {
+      "id": "cy-odd-west-coast",
+      "type": "odd_one_out",
+      "poiIds": ["cy-larnaca", "cy-limassol", "cy-ayianapa", "cy-paphos"],
+      "targetPoiId": "cy-paphos",
+      "question": {
+        "de": "Welcher dieser Orte liegt als einziger an der Westküste Zyperns?",
+        "hu": "Melyik település található egyedüliként Ciprus nyugati partján?",
+        "ro": "Care dintre aceste localități este singura aflată pe coasta vestică a Ciprului?",
+        "en": "Which of these places is the only one on Cyprus's west coast?"
+      }
+    },
+    {
+      "id": "cy-sequence-west-east",
+      "type": "sequence",
+      "poiIds": ["cy-paphos", "cy-limassol", "cy-larnaca", "cy-ayianapa"],
+      "orderedPoiIds": ["cy-paphos", "cy-limassol", "cy-larnaca", "cy-ayianapa"],
+      "question": {
+        "de": "Klicke die Küstenorte von Westen nach Osten an.",
+        "hu": "Kattints a tengerparti helyekre nyugatról keletre.",
+        "ro": "Apasă localitățile de coastă de la vest la est.",
+        "en": "Click the coastal places from west to east."
+      }
+    },
+    {
+      "id": "cy-sequence-city-route",
+      "type": "sequence",
+      "poiIds": ["cy-nicosia", "cy-larnaca", "cy-limassol"],
+      "orderedPoiIds": ["cy-nicosia", "cy-larnaca", "cy-limassol"],
+      "question": {
+        "de": "Klicke in dieser Reihenfolge: Nikosia, Larnaca, Limassol.",
+        "hu": "Kattints ebben a sorrendben: Nicosia, Lárnaka, Limassol.",
+        "ro": "Apasă în această ordine: Nicosia, Larnaca, Limassol.",
+        "en": "Click in this order: Nicosia, Larnaca, Limassol."
+      }
+    }
+  ]
+}

@@ -1,0 +1,440 @@
+{
+  "do": [
+    {
+      "id": "do-find-santo-domingo",
+      "type": "find_poi",
+      "targetPoiId": "do-santodomingo",
+      "question": {
+        "de": "Wo liegt Santo Domingo? Klicke auf die Hauptstadt.",
+        "hu": "Hol található Santo Domingo? Kattints a fővárosra.",
+        "ro": "Unde se află Santo Domingo? Apasă pe capitală.",
+        "en": "Where is Santo Domingo? Click the capital."
+      }
+    },
+    {
+      "id": "do-find-santiago",
+      "type": "find_poi",
+      "targetPoiId": "do-santiago",
+      "question": {
+        "de": "Finde Santiago de los Caballeros im Norden des Landes.",
+        "hu": "Keresd meg Santiago de los Caballerost az ország északi részén.",
+        "ro": "Găsește Santiago de los Caballeros în nordul țării.",
+        "en": "Find Santiago de los Caballeros in the north of the country."
+      }
+    },
+    {
+      "id": "do-find-puerto-plata",
+      "type": "find_poi",
+      "targetPoiId": "do-puertoplata",
+      "question": {
+        "de": "Finde Puerto Plata an der Atlantikküste.",
+        "hu": "Keresd meg Puerto Platát az Atlanti-óceán partján.",
+        "ro": "Găsește Puerto Plata pe coasta Atlanticului.",
+        "en": "Find Puerto Plata on the Atlantic coast."
+      }
+    },
+    {
+      "id": "do-find-punta-cana",
+      "type": "find_poi",
+      "targetPoiId": "do-puntacana",
+      "question": {
+        "de": "Finde Punta Cana am östlichen Ende der Dominikanischen Republik.",
+        "hu": "Keresd meg Punta Canát a Dominikai Köztársaság keleti végén.",
+        "ro": "Găsește Punta Cana la extremitatea estică a Republicii Dominicane.",
+        "en": "Find Punta Cana at the eastern end of the Dominican Republic."
+      }
+    },
+    {
+      "id": "do-find-pedernales",
+      "type": "find_poi",
+      "targetPoiId": "do-pedernales-cities-v2",
+      "question": {
+        "de": "Finde Pedernales nahe der Grenze zu Haiti im Südwesten.",
+        "hu": "Keresd meg Pedernalest a haiti határ közelében, délnyugaton.",
+        "ro": "Găsește Pedernales lângă granița cu Haiti, în sud-vest.",
+        "en": "Find Pedernales near the Haitian border in the southwest."
+      }
+    },
+    {
+      "id": "do-find-monte-cristi",
+      "type": "find_poi",
+      "targetPoiId": "do-monte-cristi-cities-v2",
+      "question": {
+        "de": "Finde San Fernando de Monte Cristi an der Nordwestküste.",
+        "hu": "Keresd meg San Fernando de Monte Cristit az északnyugati parton.",
+        "ro": "Găsește San Fernando de Monte Cristi pe coasta de nord-vest.",
+        "en": "Find San Fernando de Monte Cristi on the northwest coast."
+      }
+    },
+    {
+      "id": "do-odd-eastern-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "do-monte-cristi-cities-v2",
+        "do-puertoplata",
+        "do-barahona-cities-v2",
+        "do-puntacana"
+      ],
+      "targetPoiId": "do-puntacana",
+      "question": {
+        "de": "Welcher dieser Orte liegt als einziger im Osten des Landes?",
+        "hu": "Melyik település található egyedüliként az ország keleti részén?",
+        "ro": "Care dintre aceste localități este singura aflată în estul țării?",
+        "en": "Which of these places is the only one in the east of the country?"
+      }
+    },
+    {
+      "id": "do-odd-inland-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "do-santodomingo",
+        "do-puertoplata",
+        "do-puntacana",
+        "do-santiago"
+      ],
+      "targetPoiId": "do-santiago",
+      "question": {
+        "de": "Welche dieser Städte liegt als einzige im Landesinneren und nicht an der Küste?",
+        "hu": "Melyik város fekszik egyedüliként a szárazföld belsejében, nem a parton?",
+        "ro": "Care dintre aceste orașe este singurul aflat în interiorul țării, nu pe coastă?",
+        "en": "Which of these cities is the only one inland rather than on the coast?"
+      }
+    },
+    {
+      "id": "do-sequence-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "do-pedernales-cities-v2",
+        "do-barahona-cities-v2",
+        "do-santodomingo",
+        "do-puntacana"
+      ],
+      "orderedPoiIds": [
+        "do-pedernales-cities-v2",
+        "do-barahona-cities-v2",
+        "do-santodomingo",
+        "do-puntacana"
+      ],
+      "question": {
+        "de": "Klicke die Orte von Westen nach Osten an.",
+        "hu": "Kattints a településekre nyugatról keletre haladva.",
+        "ro": "Apasă localitățile de la vest la est.",
+        "en": "Click the places from west to east."
+      }
+    },
+    {
+      "id": "do-sequence-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "do-monte-cristi-cities-v2",
+        "do-santiago",
+        "do-santodomingo",
+        "do-pedernales-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "do-monte-cristi-cities-v2",
+        "do-santiago",
+        "do-santodomingo",
+        "do-pedernales-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die Orte von Norden nach Süden an.",
+        "hu": "Kattints a településekre északról délre haladva.",
+        "ro": "Apasă localitățile de la nord la sud.",
+        "en": "Click the places from north to south."
+      }
+    }
+  ],
+  "bs": [
+    {
+      "id": "bs-find-nassau",
+      "type": "find_poi",
+      "targetPoiId": "bs-nassau",
+      "question": {
+        "de": "Wo liegt Nassau? Klicke auf die Hauptstadt der Bahamas.",
+        "hu": "Hol található Nassau? Kattints a Bahama-szigetek fővárosára.",
+        "ro": "Unde se află Nassau? Apasă pe capitala Bahamasului.",
+        "en": "Where is Nassau? Click the capital of the Bahamas."
+      }
+    },
+    {
+      "id": "bs-find-freeport",
+      "type": "find_poi",
+      "targetPoiId": "bs-freeport",
+      "question": {
+        "de": "Finde Freeport auf Grand Bahama.",
+        "hu": "Keresd meg Freeportot Grand Bahama szigetén.",
+        "ro": "Găsește Freeport pe insula Grand Bahama.",
+        "en": "Find Freeport on Grand Bahama."
+      }
+    },
+    {
+      "id": "bs-find-marsh-harbour",
+      "type": "find_poi",
+      "targetPoiId": "bs-marshharbour",
+      "question": {
+        "de": "Finde Marsh Harbour auf den Abaco-Inseln.",
+        "hu": "Keresd meg Marsh Harbourt az Abaco-szigeteken.",
+        "ro": "Găsește Marsh Harbour în Insulele Abaco.",
+        "en": "Find Marsh Harbour in the Abaco Islands."
+      }
+    },
+    {
+      "id": "bs-find-george-town",
+      "type": "find_poi",
+      "targetPoiId": "bs-george-town-exuma-refill",
+      "question": {
+        "de": "Finde George Town auf Great Exuma.",
+        "hu": "Keresd meg George Townt Great Exuma szigetén.",
+        "ro": "Găsește George Town pe insula Great Exuma.",
+        "en": "Find George Town on Great Exuma."
+      }
+    },
+    {
+      "id": "bs-find-matthew-town",
+      "type": "find_poi",
+      "targetPoiId": "bs-matthew-town-refill",
+      "question": {
+        "de": "Finde Matthew Town auf Great Inagua im Südosten der Bahamas.",
+        "hu": "Keresd meg Matthew Townt Great Inaguán, a Bahama-szigetek délkeleti részén.",
+        "ro": "Găsește Matthew Town pe Great Inagua, în sud-estul Bahamasului.",
+        "en": "Find Matthew Town on Great Inagua in the southeastern Bahamas."
+      }
+    },
+    {
+      "id": "bs-find-alice-town",
+      "type": "find_poi",
+      "targetPoiId": "bs-alicetown",
+      "question": {
+        "de": "Finde Alice Town auf Bimini nahe Florida.",
+        "hu": "Keresd meg Alice Townt Biminin, Florida közelében.",
+        "ro": "Găsește Alice Town pe Bimini, aproape de Florida.",
+        "en": "Find Alice Town on Bimini near Florida."
+      }
+    },
+    {
+      "id": "bs-odd-grand-bahama",
+      "type": "odd_one_out",
+      "poiIds": [
+        "bs-nassau",
+        "bs-marshharbour",
+        "bs-george-town-exuma-refill",
+        "bs-freeport"
+      ],
+      "targetPoiId": "bs-freeport",
+      "question": {
+        "de": "Welcher dieser Orte liegt als einziger auf Grand Bahama?",
+        "hu": "Melyik település található egyedüliként Grand Bahama szigetén?",
+        "ro": "Care dintre aceste localități este singura aflată pe Grand Bahama?",
+        "en": "Which of these places is the only one on Grand Bahama?"
+      }
+    },
+    {
+      "id": "bs-odd-abaco",
+      "type": "odd_one_out",
+      "poiIds": [
+        "bs-nassau",
+        "bs-freeport",
+        "bs-george-town-exuma-refill",
+        "bs-marshharbour"
+      ],
+      "targetPoiId": "bs-marshharbour",
+      "question": {
+        "de": "Welcher dieser Orte liegt als einziger auf den Abaco-Inseln?",
+        "hu": "Melyik település található egyedüliként az Abaco-szigeteken?",
+        "ro": "Care dintre aceste localități este singura aflată în Insulele Abaco?",
+        "en": "Which of these places is the only one in the Abaco Islands?"
+      }
+    },
+    {
+      "id": "bs-sequence-northwest-southeast",
+      "type": "sequence",
+      "poiIds": [
+        "bs-freeport",
+        "bs-nassau",
+        "bs-george-town-exuma-refill",
+        "bs-matthew-town-refill"
+      ],
+      "orderedPoiIds": [
+        "bs-freeport",
+        "bs-nassau",
+        "bs-george-town-exuma-refill",
+        "bs-matthew-town-refill"
+      ],
+      "question": {
+        "de": "Folge dem Archipel von Nordwesten nach Südosten.",
+        "hu": "Kövesd a szigetvilágot északnyugatról délkelet felé.",
+        "ro": "Urmează arhipelagul de la nord-vest la sud-est.",
+        "en": "Follow the archipelago from northwest to southeast."
+      }
+    },
+    {
+      "id": "bs-sequence-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "bs-alicetown",
+        "bs-nassau",
+        "bs-george-town-exuma-refill",
+        "bs-matthew-town-refill"
+      ],
+      "orderedPoiIds": [
+        "bs-alicetown",
+        "bs-nassau",
+        "bs-george-town-exuma-refill",
+        "bs-matthew-town-refill"
+      ],
+      "question": {
+        "de": "Klicke diese Inselorte von Westen nach Osten an.",
+        "hu": "Kattints ezekre a szigeti településekre nyugatról keletre.",
+        "ro": "Apasă aceste localități insulare de la vest la est.",
+        "en": "Click these island settlements from west to east."
+      }
+    }
+  ],
+  "tt": [
+    {
+      "id": "tt-find-port-of-spain",
+      "type": "find_poi",
+      "targetPoiId": "tt-portofspain",
+      "question": {
+        "de": "Wo liegt Port of Spain? Klicke auf die Hauptstadt.",
+        "hu": "Hol található Port of Spain? Kattints a fővárosra.",
+        "ro": "Unde se află Port of Spain? Apasă pe capitală.",
+        "en": "Where is Port of Spain? Click the capital."
+      }
+    },
+    {
+      "id": "tt-find-scarborough",
+      "type": "find_poi",
+      "targetPoiId": "tt-scarborough",
+      "question": {
+        "de": "Finde Scarborough auf Tobago.",
+        "hu": "Keresd meg Scarborough-t Tobago szigetén.",
+        "ro": "Găsește Scarborough pe insula Tobago.",
+        "en": "Find Scarborough on Tobago."
+      }
+    },
+    {
+      "id": "tt-find-san-fernando",
+      "type": "find_poi",
+      "targetPoiId": "tt-sanfernando",
+      "question": {
+        "de": "Finde San Fernando im Südwesten Trinidads.",
+        "hu": "Keresd meg San Fernandót Trinidad délnyugati részén.",
+        "ro": "Găsește San Fernando în sud-vestul insulei Trinidad.",
+        "en": "Find San Fernando in southwestern Trinidad."
+      }
+    },
+    {
+      "id": "tt-find-arima",
+      "type": "find_poi",
+      "targetPoiId": "tt-arima",
+      "question": {
+        "de": "Finde Arima im Norden Trinidads.",
+        "hu": "Keresd meg Arimát Trinidad északi részén.",
+        "ro": "Găsește Arima în nordul insulei Trinidad.",
+        "en": "Find Arima in northern Trinidad."
+      }
+    },
+    {
+      "id": "tt-find-chaguanas",
+      "type": "find_poi",
+      "targetPoiId": "tt-chaguanas",
+      "question": {
+        "de": "Finde Chaguanas im Westen von Zentral-Trinidad.",
+        "hu": "Keresd meg Chaguanast Trinidad középső részének nyugati oldalán.",
+        "ro": "Găsește Chaguanas în partea vestică a centrului insulei Trinidad.",
+        "en": "Find Chaguanas in west-central Trinidad."
+      }
+    },
+    {
+      "id": "tt-find-point-fortin",
+      "type": "find_poi",
+      "targetPoiId": "tt-point-fortin-cities-v2",
+      "question": {
+        "de": "Finde Point Fortin an der Südwestküste Trinidads.",
+        "hu": "Keresd meg Point Fortint Trinidad délnyugati partján.",
+        "ro": "Găsește Point Fortin pe coasta de sud-vest a insulei Trinidad.",
+        "en": "Find Point Fortin on Trinidad's southwest coast."
+      }
+    },
+    {
+      "id": "tt-odd-tobago",
+      "type": "odd_one_out",
+      "poiIds": [
+        "tt-portofspain",
+        "tt-sanfernando",
+        "tt-arima",
+        "tt-scarborough"
+      ],
+      "targetPoiId": "tt-scarborough",
+      "question": {
+        "de": "Welcher dieser Orte liegt als einziger auf Tobago statt auf Trinidad?",
+        "hu": "Melyik település található egyedüliként Tobagón, nem Trinidadon?",
+        "ro": "Care dintre aceste localități este singura aflată pe Tobago, nu pe Trinidad?",
+        "en": "Which of these places is the only one on Tobago rather than Trinidad?"
+      }
+    },
+    {
+      "id": "tt-odd-farthest-south",
+      "type": "odd_one_out",
+      "poiIds": [
+        "tt-portofspain",
+        "tt-arima",
+        "tt-chaguanas",
+        "tt-point-fortin-cities-v2"
+      ],
+      "targetPoiId": "tt-point-fortin-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Süden?",
+        "hu": "Melyik település fekszik a legdélebbre?",
+        "ro": "Care dintre aceste localități se află cel mai la sud?",
+        "en": "Which of these places lies farthest south?"
+      }
+    },
+    {
+      "id": "tt-sequence-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "tt-portofspain",
+        "tt-chaguanas",
+        "tt-sanfernando",
+        "tt-siparia-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "tt-portofspain",
+        "tt-chaguanas",
+        "tt-sanfernando",
+        "tt-siparia-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die Orte auf Trinidad von Norden nach Süden an.",
+        "hu": "Kattints Trinidad településeire északról délre haladva.",
+        "ro": "Apasă localitățile de pe Trinidad de la nord la sud.",
+        "en": "Click the places on Trinidad from north to south."
+      }
+    },
+    {
+      "id": "tt-sequence-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "tt-portofspain",
+        "tt-chaguanas",
+        "tt-arima",
+        "tt-sangre-grande-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "tt-portofspain",
+        "tt-chaguanas",
+        "tt-arima",
+        "tt-sangre-grande-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke diese Orte auf Trinidad von Westen nach Osten an.",
+        "hu": "Kattints ezekre a trinidadi településekre nyugatról keletre.",
+        "ro": "Apasă aceste localități de pe Trinidad de la vest la est.",
+        "en": "Click these places on Trinidad from west to east."
+      }
+    }
+  ]
+}

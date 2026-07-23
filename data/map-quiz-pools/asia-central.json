@@ -1,0 +1,1122 @@
+{
+  "af": [
+    {
+      "id": "af-find-kabul",
+      "type": "find_poi",
+      "targetPoiId": "kabul-cities-v2",
+      "question": {
+        "de": "Finde Kabul auf der Karte.",
+        "hu": "Keresd meg Kabult a térképen.",
+        "ro": "Găsește Kabul pe hartă.",
+        "en": "Find Kabul on the map."
+      }
+    },
+    {
+      "id": "af-find-kandahar",
+      "type": "find_poi",
+      "targetPoiId": "kandahar-cities-v2",
+      "question": {
+        "de": "Finde Kandahar auf der Karte.",
+        "hu": "Keresd meg Kandahárt a térképen.",
+        "ro": "Găsește Kandahar pe hartă.",
+        "en": "Find Kandahar on the map."
+      }
+    },
+    {
+      "id": "af-find-herat",
+      "type": "find_poi",
+      "targetPoiId": "herat-cities-v2",
+      "question": {
+        "de": "Finde Herat auf der Karte.",
+        "hu": "Keresd meg Herátot a térképen.",
+        "ro": "Găsește Herat pe hartă.",
+        "en": "Find Herat on the map."
+      }
+    },
+    {
+      "id": "af-find-mazar",
+      "type": "find_poi",
+      "targetPoiId": "mazar-i-sharif-cities-v2",
+      "question": {
+        "de": "Finde Mazar-i-Sharif auf der Karte.",
+        "hu": "Keresd meg Mazár-e Sarífot a térképen.",
+        "ro": "Găsește Mazar-i-Sharif pe hartă.",
+        "en": "Find Mazar-i-Sharif on the map."
+      }
+    },
+    {
+      "id": "af-region-badakhshan",
+      "type": "find_region",
+      "targetRegionId": "AFG-1760",
+      "question": {
+        "de": "Klicke auf die Region Badakhshan.",
+        "hu": "Kattints Badahsán régiójára.",
+        "ro": "Apasă pe regiunea Badakhshan.",
+        "en": "Click the Badakhshan region."
+      }
+    },
+    {
+      "id": "af-region-balkh",
+      "type": "find_region",
+      "targetRegionId": "AFG-1744",
+      "question": {
+        "de": "Klicke auf die Region Balkh.",
+        "hu": "Kattints Balh régiójára.",
+        "ro": "Apasă pe regiunea Balkh.",
+        "en": "Click the Balkh region."
+      }
+    },
+    {
+      "id": "af-region-hirat",
+      "type": "find_region",
+      "targetRegionId": "AFG-1742",
+      "question": {
+        "de": "Klicke auf die Region Herat.",
+        "hu": "Kattints Herát régiójára.",
+        "ro": "Apasă pe regiunea Herat.",
+        "en": "Click the Herat region."
+      }
+    },
+    {
+      "id": "af-odd-south",
+      "type": "odd_one_out",
+      "poiIds": [
+        "mazar-i-sharif-cities-v2",
+        "herat-cities-v2",
+        "kabul-cities-v2",
+        "kandahar-cities-v2"
+      ],
+      "targetPoiId": "kandahar-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt am weitesten südlich?",
+        "hu": "Melyik város fekszik a legdélebbre?",
+        "ro": "Care oraș se află cel mai la sud?",
+        "en": "Which city lies furthest south?"
+      }
+    },
+    {
+      "id": "af-order-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "herat-cities-v2",
+        "mazar-i-sharif-cities-v2",
+        "kabul-cities-v2",
+        "jalalabad-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "herat-cities-v2",
+        "mazar-i-sharif-cities-v2",
+        "kabul-cities-v2",
+        "jalalabad-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die Städte von Westen nach Osten an: Herat, Mazar-i-Sharif, Kabul, Jalalabad.",
+        "hu": "Kattints a városokra nyugatról keletre: Herát, Mazár-e Saríf, Kabul, Dzsalálábád.",
+        "ro": "Apasă orașele de la vest la est: Herat, Mazar-i-Sharif, Kabul, Jalalabad.",
+        "en": "Click the cities from west to east: Herat, Mazar-i-Sharif, Kabul, Jalalabad."
+      }
+    },
+    {
+      "id": "af-order-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "mazar-i-sharif-cities-v2",
+        "kabul-cities-v2",
+        "ghazni-cities-v2",
+        "kandahar-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "mazar-i-sharif-cities-v2",
+        "kabul-cities-v2",
+        "ghazni-cities-v2",
+        "kandahar-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die Städte von Norden nach Süden an: Mazar-i-Sharif, Kabul, Ghazni, Kandahar.",
+        "hu": "Kattints a városokra északról délre: Mazár-e Saríf, Kabul, Gazni, Kandahár.",
+        "ro": "Apasă orașele de la nord la sud: Mazar-i-Sharif, Kabul, Ghazni, Kandahar.",
+        "en": "Click the cities from north to south: Mazar-i-Sharif, Kabul, Ghazni, Kandahar."
+      }
+    }
+  ],
+  "ir": [
+    {
+      "id": "ir-find-tehran",
+      "type": "find_poi",
+      "targetPoiId": "tehran-cities-v2",
+      "question": {
+        "de": "Finde Teheran auf der Karte.",
+        "hu": "Keresd meg Teheránt a térképen.",
+        "ro": "Găsește Teheran pe hartă.",
+        "en": "Find Tehran on the map."
+      }
+    },
+    {
+      "id": "ir-find-mashhad",
+      "type": "find_poi",
+      "targetPoiId": "mashhad-cities-v2",
+      "question": {
+        "de": "Finde Maschhad auf der Karte.",
+        "hu": "Keresd meg Mashhadot a térképen.",
+        "ro": "Găsește Mashhad pe hartă.",
+        "en": "Find Mashhad on the map."
+      }
+    },
+    {
+      "id": "ir-find-isfahan",
+      "type": "find_poi",
+      "targetPoiId": "isfahan-cities-v2",
+      "question": {
+        "de": "Finde Isfahan auf der Karte.",
+        "hu": "Keresd meg Iszfahánt a térképen.",
+        "ro": "Găsește Isfahan pe hartă.",
+        "en": "Find Isfahan on the map."
+      }
+    },
+    {
+      "id": "ir-find-shiraz",
+      "type": "find_poi",
+      "targetPoiId": "shiraz-cities-v2",
+      "question": {
+        "de": "Finde Schiras auf der Karte.",
+        "hu": "Keresd meg Sirázt a térképen.",
+        "ro": "Găsește Shiraz pe hartă.",
+        "en": "Find Shiraz on the map."
+      }
+    },
+    {
+      "id": "ir-region-west-azarbaijan",
+      "type": "find_region",
+      "targetRegionId": "IRN-3237",
+      "question": {
+        "de": "Klicke auf die Region West-Aserbaidschan.",
+        "hu": "Kattints Nyugat-Azerbajdzsán régiójára.",
+        "ro": "Apasă pe regiunea Azerbaidjanul de Vest.",
+        "en": "Click the West Azerbaijan region."
+      }
+    },
+    {
+      "id": "ir-region-khuzestan",
+      "type": "find_region",
+      "targetRegionId": "IRN-3219",
+      "question": {
+        "de": "Klicke auf die Region Chuzestan.",
+        "hu": "Kattints Huzesztán régiójára.",
+        "ro": "Apasă pe regiunea Khuzestan.",
+        "en": "Click the Khuzestan region."
+      }
+    },
+    {
+      "id": "ir-region-razavi",
+      "type": "find_region",
+      "targetRegionId": "IRN-3245",
+      "question": {
+        "de": "Klicke auf die Region Razavi-Chorasan.",
+        "hu": "Kattints Razavi Horaszán régiójára.",
+        "ro": "Apasă pe regiunea Khorasan Razavi.",
+        "en": "Click the Razavi Khorasan region."
+      }
+    },
+    {
+      "id": "ir-odd-east",
+      "type": "odd_one_out",
+      "poiIds": [
+        "tabriz-cities-v2",
+        "tehran-cities-v2",
+        "shiraz-cities-v2",
+        "mashhad-cities-v2"
+      ],
+      "targetPoiId": "mashhad-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt am weitesten östlich?",
+        "hu": "Melyik város fekszik a legkeletebbre?",
+        "ro": "Care oraș se află cel mai la est?",
+        "en": "Which city lies furthest east?"
+      }
+    },
+    {
+      "id": "ir-order-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "tabriz-cities-v2",
+        "tehran-cities-v2",
+        "yazd-cities-v2",
+        "mashhad-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "tabriz-cities-v2",
+        "tehran-cities-v2",
+        "yazd-cities-v2",
+        "mashhad-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die Städte von Westen nach Osten an: Täbris, Teheran, Yazd, Maschhad.",
+        "hu": "Kattints a városokra nyugatról keletre: Tebriz, Teherán, Jazd, Mashhad.",
+        "ro": "Apasă orașele de la vest la est: Tabriz, Teheran, Yazd, Mashhad.",
+        "en": "Click the cities from west to east: Tabriz, Tehran, Yazd, Mashhad."
+      }
+    },
+    {
+      "id": "ir-order-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "tabriz-cities-v2",
+        "tehran-cities-v2",
+        "isfahan-cities-v2",
+        "shiraz-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "tabriz-cities-v2",
+        "tehran-cities-v2",
+        "isfahan-cities-v2",
+        "shiraz-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die Städte von Norden nach Süden an: Täbris, Teheran, Isfahan, Schiras.",
+        "hu": "Kattints a városokra északról délre: Tebriz, Teherán, Iszfahán, Siráz.",
+        "ro": "Apasă orașele de la nord la sud: Tabriz, Teheran, Isfahan, Shiraz.",
+        "en": "Click the cities from north to south: Tabriz, Tehran, Isfahan, Shiraz."
+      }
+    }
+  ],
+  "kz": [
+    {
+      "id": "kz-find-astana",
+      "type": "find_poi",
+      "targetPoiId": "astana-cities-v2",
+      "question": {
+        "de": "Finde Astana auf der Karte.",
+        "hu": "Keresd meg Asztanát a térképen.",
+        "ro": "Găsește Astana pe hartă.",
+        "en": "Find Astana on the map."
+      }
+    },
+    {
+      "id": "kz-find-almaty",
+      "type": "find_poi",
+      "targetPoiId": "almaty-cities-v2",
+      "question": {
+        "de": "Finde Almaty auf der Karte.",
+        "hu": "Keresd meg Almatit a térképen.",
+        "ro": "Găsește Almaty pe hartă.",
+        "en": "Find Almaty on the map."
+      }
+    },
+    {
+      "id": "kz-find-shymkent",
+      "type": "find_poi",
+      "targetPoiId": "shymkent-cities-v2",
+      "question": {
+        "de": "Finde Schymkent auf der Karte.",
+        "hu": "Keresd meg Simkentet a térképen.",
+        "ro": "Găsește Shymkent pe hartă.",
+        "en": "Find Shymkent on the map."
+      }
+    },
+    {
+      "id": "kz-find-aktobe",
+      "type": "find_poi",
+      "targetPoiId": "aktobe-cities-v2",
+      "question": {
+        "de": "Finde Aqtöbe auf der Karte.",
+        "hu": "Keresd meg Aktöbét a térképen.",
+        "ro": "Găsește Aktobe pe hartă.",
+        "en": "Find Aktobe on the map."
+      }
+    },
+    {
+      "id": "kz-region-east",
+      "type": "find_region",
+      "targetRegionId": "KAZ-3206",
+      "question": {
+        "de": "Klicke auf die Region Ostkasachstan.",
+        "hu": "Kattints Kelet-Kazahsztán régiójára.",
+        "ro": "Apasă pe regiunea Kazahstanul de Est.",
+        "en": "Click the East Kazakhstan region."
+      }
+    },
+    {
+      "id": "kz-region-almaty",
+      "type": "find_region",
+      "targetRegionId": "KAZ-3207",
+      "question": {
+        "de": "Klicke auf die Region Almaty.",
+        "hu": "Kattints Almati régiójára.",
+        "ro": "Apasă pe regiunea Almaty.",
+        "en": "Click the Almaty region."
+      }
+    },
+    {
+      "id": "kz-region-mangghystau",
+      "type": "find_region",
+      "targetRegionId": "KAZ-3236",
+      "question": {
+        "de": "Klicke auf die Region Mangghystau.",
+        "hu": "Kattints Mangisztau régiójára.",
+        "ro": "Apasă pe regiunea Mangghystau.",
+        "en": "Click the Mangghystau region."
+      }
+    },
+    {
+      "id": "kz-odd-west",
+      "type": "odd_one_out",
+      "poiIds": [
+        "aktau-cities-v2",
+        "aktobe-cities-v2",
+        "astana-cities-v2",
+        "almaty-cities-v2"
+      ],
+      "targetPoiId": "aktau-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt am weitesten westlich?",
+        "hu": "Melyik város fekszik a legnyugatabbra?",
+        "ro": "Care oraș se află cel mai la vest?",
+        "en": "Which city lies furthest west?"
+      }
+    },
+    {
+      "id": "kz-order-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "aktau-cities-v2",
+        "aktobe-cities-v2",
+        "astana-cities-v2",
+        "oskemen-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "aktau-cities-v2",
+        "aktobe-cities-v2",
+        "astana-cities-v2",
+        "oskemen-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die Städte von Westen nach Osten an: Aktau, Aqtöbe, Astana, Öskemen.",
+        "hu": "Kattints a városokra nyugatról keletre: Aktau, Aktöbe, Asztana, Öszkemen.",
+        "ro": "Apasă orașele de la vest la est: Aktau, Aktobe, Astana, Oskemen.",
+        "en": "Click the cities from west to east: Aktau, Aktobe, Astana, Oskemen."
+      }
+    },
+    {
+      "id": "kz-order-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "petropavl-cities-v2",
+        "astana-cities-v2",
+        "kyzylorda-cities-v2",
+        "shymkent-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "petropavl-cities-v2",
+        "astana-cities-v2",
+        "kyzylorda-cities-v2",
+        "shymkent-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die Städte von Norden nach Süden an: Petropawl, Astana, Qysylorda, Schymkent.",
+        "hu": "Kattints a városokra északról délre: Petropavl, Asztana, Kizilorda, Simkent.",
+        "ro": "Apasă orașele de la nord la sud: Petropavl, Astana, Kyzylorda, Shymkent.",
+        "en": "Click the cities from north to south: Petropavl, Astana, Kyzylorda, Shymkent."
+      }
+    }
+  ],
+  "kg": [
+    {
+      "id": "kg-find-bishkek",
+      "type": "find_poi",
+      "targetPoiId": "bishkek-cities-v2",
+      "question": {
+        "de": "Finde Bischkek auf der Karte.",
+        "hu": "Keresd meg Biskeket a térképen.",
+        "ro": "Găsește Bișkek pe hartă.",
+        "en": "Find Bishkek on the map."
+      }
+    },
+    {
+      "id": "kg-find-osh",
+      "type": "find_poi",
+      "targetPoiId": "osh-cities-v2",
+      "question": {
+        "de": "Finde Osch auf der Karte.",
+        "hu": "Keresd meg Ost a térképen.",
+        "ro": "Găsește Oș pe hartă.",
+        "en": "Find Osh on the map."
+      }
+    },
+    {
+      "id": "kg-find-karakol",
+      "type": "find_poi",
+      "targetPoiId": "karakol-cities-v2",
+      "question": {
+        "de": "Finde Karakol auf der Karte.",
+        "hu": "Keresd meg Karakolt a térképen.",
+        "ro": "Găsește Karakol pe hartă.",
+        "en": "Find Karakol on the map."
+      }
+    },
+    {
+      "id": "kg-find-naryn",
+      "type": "find_poi",
+      "targetPoiId": "naryn-cities-v2",
+      "question": {
+        "de": "Finde Naryn auf der Karte.",
+        "hu": "Keresd meg Narint a térképen.",
+        "ro": "Găsește Naryn pe hartă.",
+        "en": "Find Naryn on the map."
+      }
+    },
+    {
+      "id": "kg-region-ysyk-kol",
+      "type": "find_region",
+      "targetRegionId": "KGZ-1117",
+      "question": {
+        "de": "Klicke auf die Region Yssyk-Köl.",
+        "hu": "Kattints Iszik-köl régiójára.",
+        "ro": "Apasă pe regiunea Issyk-Kul.",
+        "en": "Click the Ysyk-Kol region."
+      }
+    },
+    {
+      "id": "kg-region-naryn",
+      "type": "find_region",
+      "targetRegionId": "KGZ-1118",
+      "question": {
+        "de": "Klicke auf die Region Naryn.",
+        "hu": "Kattints Narin régiójára.",
+        "ro": "Apasă pe regiunea Naryn.",
+        "en": "Click the Naryn region."
+      }
+    },
+    {
+      "id": "kg-region-osh",
+      "type": "find_region",
+      "targetRegionId": "KGZ-1122",
+      "question": {
+        "de": "Klicke auf die Region Osch.",
+        "hu": "Kattints Os régiójára.",
+        "ro": "Apasă pe regiunea Oș.",
+        "en": "Click the Osh region."
+      }
+    },
+    {
+      "id": "kg-odd-west",
+      "type": "odd_one_out",
+      "poiIds": [
+        "batken-cities-v2",
+        "osh-cities-v2",
+        "bishkek-cities-v2",
+        "karakol-cities-v2"
+      ],
+      "targetPoiId": "batken-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt am weitesten westlich?",
+        "hu": "Melyik város fekszik a legnyugatabbra?",
+        "ro": "Care oraș se află cel mai la vest?",
+        "en": "Which city lies furthest west?"
+      }
+    },
+    {
+      "id": "kg-order-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "batken-cities-v2",
+        "osh-cities-v2",
+        "naryn-cities-v2",
+        "karakol-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "batken-cities-v2",
+        "osh-cities-v2",
+        "naryn-cities-v2",
+        "karakol-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die Städte von Westen nach Osten an: Batken, Osch, Naryn, Karakol.",
+        "hu": "Kattints a városokra nyugatról keletre: Batken, Os, Narin, Karakol.",
+        "ro": "Apasă orașele de la vest la est: Batken, Oș, Naryn, Karakol.",
+        "en": "Click the cities from west to east: Batken, Osh, Naryn, Karakol."
+      }
+    },
+    {
+      "id": "kg-order-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "bishkek-cities-v2",
+        "naryn-cities-v2",
+        "osh-cities-v2",
+        "batken-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "bishkek-cities-v2",
+        "naryn-cities-v2",
+        "osh-cities-v2",
+        "batken-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die Städte von Norden nach Süden an: Bischkek, Naryn, Osch, Batken.",
+        "hu": "Kattints a városokra északról délre: Biskek, Narin, Os, Batken.",
+        "ro": "Apasă orașele de la nord la sud: Bișkek, Naryn, Oș, Batken.",
+        "en": "Click the cities from north to south: Bishkek, Naryn, Osh, Batken."
+      }
+    }
+  ],
+  "tj": [
+    {
+      "id": "tj-find-dushanbe",
+      "type": "find_poi",
+      "targetPoiId": "dushanbe-cities-v2",
+      "question": {
+        "de": "Finde Duschanbe auf der Karte.",
+        "hu": "Keresd meg Dusanbét a térképen.",
+        "ro": "Găsește Dușanbe pe hartă.",
+        "en": "Find Dushanbe on the map."
+      }
+    },
+    {
+      "id": "tj-find-khujand",
+      "type": "find_poi",
+      "targetPoiId": "khujand-cities-v2",
+      "question": {
+        "de": "Finde Chudschand auf der Karte.",
+        "hu": "Keresd meg Hudzsandot a térképen.",
+        "ro": "Găsește Khujand pe hartă.",
+        "en": "Find Khujand on the map."
+      }
+    },
+    {
+      "id": "tj-find-kulob",
+      "type": "find_poi",
+      "targetPoiId": "kulob-cities-v2",
+      "question": {
+        "de": "Finde Kulob auf der Karte.",
+        "hu": "Keresd meg Kulobot a térképen.",
+        "ro": "Găsește Kulob pe hartă.",
+        "en": "Find Kulob on the map."
+      }
+    },
+    {
+      "id": "tj-find-khorugh",
+      "type": "find_poi",
+      "targetPoiId": "khorugh-cities-v2",
+      "question": {
+        "de": "Finde Chorugh auf der Karte.",
+        "hu": "Keresd meg Horogot a térképen.",
+        "ro": "Găsește Khorugh pe hartă.",
+        "en": "Find Khorugh on the map."
+      }
+    },
+    {
+      "id": "tj-region-leninabad",
+      "type": "find_region",
+      "targetRegionId": "TJK-369",
+      "question": {
+        "de": "Klicke auf die Region Leninabad.",
+        "hu": "Kattints Leninabad régiójára.",
+        "ro": "Apasă pe regiunea Leninabad.",
+        "en": "Click the Leninabad region."
+      }
+    },
+    {
+      "id": "tj-region-gorno-badakhshan",
+      "type": "find_region",
+      "targetRegionId": "TJK-366",
+      "question": {
+        "de": "Klicke auf die Region Berg-Badachschan.",
+        "hu": "Kattints Hegyi-Badahsán régiójára.",
+        "ro": "Apasă pe regiunea Gorno-Badakhshan.",
+        "en": "Click the Gorno-Badakhshan region."
+      }
+    },
+    {
+      "id": "tj-region-khatlon",
+      "type": "find_region",
+      "targetRegionId": "TJK-367",
+      "question": {
+        "de": "Klicke auf die Region Chatlon.",
+        "hu": "Kattints Hatlon régiójára.",
+        "ro": "Apasă pe regiunea Khatlon.",
+        "en": "Click the Khatlon region."
+      }
+    },
+    {
+      "id": "tj-odd-east",
+      "type": "odd_one_out",
+      "poiIds": [
+        "panjakent-cities-v2",
+        "dushanbe-cities-v2",
+        "khujand-cities-v2",
+        "khorugh-cities-v2"
+      ],
+      "targetPoiId": "khorugh-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt am weitesten östlich?",
+        "hu": "Melyik város fekszik a legkeletebbre?",
+        "ro": "Care oraș se află cel mai la est?",
+        "en": "Which city lies furthest east?"
+      }
+    },
+    {
+      "id": "tj-order-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "panjakent-cities-v2",
+        "dushanbe-cities-v2",
+        "khujand-cities-v2",
+        "khorugh-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "panjakent-cities-v2",
+        "dushanbe-cities-v2",
+        "khujand-cities-v2",
+        "khorugh-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die Städte von Westen nach Osten an: Pandschakent, Duschanbe, Chudschand, Chorugh.",
+        "hu": "Kattints a városokra nyugatról keletre: Pandzsakent, Dusanbe, Hudzsand, Horog.",
+        "ro": "Apasă orașele de la vest la est: Panjakent, Dușanbe, Khujand, Khorugh.",
+        "en": "Click the cities from west to east: Panjakent, Dushanbe, Khujand, Khorugh."
+      }
+    },
+    {
+      "id": "tj-order-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "khujand-cities-v2",
+        "panjakent-cities-v2",
+        "dushanbe-cities-v2",
+        "khorugh-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "khujand-cities-v2",
+        "panjakent-cities-v2",
+        "dushanbe-cities-v2",
+        "khorugh-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die Städte von Norden nach Süden an: Chudschand, Pandschakent, Duschanbe, Chorugh.",
+        "hu": "Kattints a városokra északról délre: Hudzsand, Pandzsakent, Dusanbe, Horog.",
+        "ro": "Apasă orașele de la nord la sud: Khujand, Panjakent, Dușanbe, Khorugh.",
+        "en": "Click the cities from north to south: Khujand, Panjakent, Dushanbe, Khorugh."
+      }
+    }
+  ],
+  "tm": [
+    {
+      "id": "tm-find-ashgabat",
+      "type": "find_poi",
+      "targetPoiId": "tm-ashgabat-cities-v2",
+      "question": {
+        "de": "Finde Aschgabat auf der Karte.",
+        "hu": "Keresd meg Asgabátot a térképen.",
+        "ro": "Găsește Așgabat pe hartă.",
+        "en": "Find Ashgabat on the map."
+      }
+    },
+    {
+      "id": "tm-find-turkmenabat",
+      "type": "find_poi",
+      "targetPoiId": "tm-turkmenabat-cities-v2",
+      "question": {
+        "de": "Finde Türkmenabat auf der Karte.",
+        "hu": "Keresd meg Türkmenabatot a térképen.",
+        "ro": "Găsește Turkmenabat pe hartă.",
+        "en": "Find Turkmenabat on the map."
+      }
+    },
+    {
+      "id": "tm-find-mary",
+      "type": "find_poi",
+      "targetPoiId": "tm-mary-cities-v2",
+      "question": {
+        "de": "Finde Mary auf der Karte.",
+        "hu": "Keresd meg Maryt a térképen.",
+        "ro": "Găsește Mary pe hartă.",
+        "en": "Find Mary on the map."
+      }
+    },
+    {
+      "id": "tm-find-balkanabat",
+      "type": "find_poi",
+      "targetPoiId": "tm-balkanabat-cities-v2",
+      "question": {
+        "de": "Finde Balkanabat auf der Karte.",
+        "hu": "Keresd meg Balkanabatot a térképen.",
+        "ro": "Găsește Balkanabat pe hartă.",
+        "en": "Find Balkanabat on the map."
+      }
+    },
+    {
+      "id": "tm-region-chardzhou",
+      "type": "find_region",
+      "targetRegionId": "TKM-359",
+      "question": {
+        "de": "Klicke auf die Region Chardzhou.",
+        "hu": "Kattints Chardzhou régiójára.",
+        "ro": "Apasă pe regiunea Chardzhou.",
+        "en": "Click the Chardzhou region."
+      }
+    },
+    {
+      "id": "tm-region-mary",
+      "type": "find_region",
+      "targetRegionId": "TKM-360",
+      "question": {
+        "de": "Klicke auf die Region Mary.",
+        "hu": "Kattints Mary régiójára.",
+        "ro": "Apasă pe regiunea Mary.",
+        "en": "Click the Mary region."
+      }
+    },
+    {
+      "id": "tm-region-ahal",
+      "type": "find_region",
+      "targetRegionId": "TKM-352",
+      "question": {
+        "de": "Klicke auf die Region Ahal.",
+        "hu": "Kattints Ahal régiójára.",
+        "ro": "Apasă pe regiunea Ahal.",
+        "en": "Click the Ahal region."
+      }
+    },
+    {
+      "id": "tm-odd-west",
+      "type": "odd_one_out",
+      "poiIds": [
+        "tm-turkmenbasy-cities-v2",
+        "tm-balkanabat-cities-v2",
+        "tm-ashgabat-cities-v2",
+        "tm-mary-cities-v2"
+      ],
+      "targetPoiId": "tm-turkmenbasy-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt am weitesten westlich?",
+        "hu": "Melyik város fekszik a legnyugatabbra?",
+        "ro": "Care oraș se află cel mai la vest?",
+        "en": "Which city lies furthest west?"
+      }
+    },
+    {
+      "id": "tm-order-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "tm-turkmenbasy-cities-v2",
+        "tm-balkanabat-cities-v2",
+        "tm-ashgabat-cities-v2",
+        "tm-turkmenabat-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "tm-turkmenbasy-cities-v2",
+        "tm-balkanabat-cities-v2",
+        "tm-ashgabat-cities-v2",
+        "tm-turkmenabat-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die Städte von Westen nach Osten an: Türkmenbaşy, Balkanabat, Aschgabat, Türkmenabat.",
+        "hu": "Kattints a városokra nyugatról keletre: Türkmenbaşy, Balkanabat, Asgabát, Türkmenabat.",
+        "ro": "Apasă orașele de la vest la est: Turkmenbașî, Balkanabat, Așgabat, Turkmenabat.",
+        "en": "Click the cities from west to east: Turkmenbasy, Balkanabat, Ashgabat, Turkmenabat."
+      }
+    },
+    {
+      "id": "tm-order-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "tm-dasoguz-cities-v2",
+        "tm-balkanabat-cities-v2",
+        "tm-ashgabat-cities-v2",
+        "tm-mary-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "tm-dasoguz-cities-v2",
+        "tm-balkanabat-cities-v2",
+        "tm-ashgabat-cities-v2",
+        "tm-mary-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die Städte von Norden nach Süden an: Daşoguz, Balkanabat, Aschgabat, Mary.",
+        "hu": "Kattints a városokra északról délre: Daşoguz, Balkanabat, Asgabát, Mary.",
+        "ro": "Apasă orașele de la nord la sud: Dașoguz, Balkanabat, Așgabat, Mary.",
+        "en": "Click the cities from north to south: Dasoguz, Balkanabat, Ashgabat, Mary."
+      }
+    }
+  ],
+  "uz": [
+    {
+      "id": "uz-find-tashkent",
+      "type": "find_poi",
+      "targetPoiId": "tashkent-cities-v2",
+      "question": {
+        "de": "Finde Taschkent auf der Karte.",
+        "hu": "Keresd meg Taskentet a térképen.",
+        "ro": "Găsește Tașkent pe hartă.",
+        "en": "Find Tashkent on the map."
+      }
+    },
+    {
+      "id": "uz-find-samarkand",
+      "type": "find_poi",
+      "targetPoiId": "samarkand-cities-v2",
+      "question": {
+        "de": "Finde Samarkand auf der Karte.",
+        "hu": "Keresd meg Szamarkandot a térképen.",
+        "ro": "Găsește Samarkand pe hartă.",
+        "en": "Find Samarkand on the map."
+      }
+    },
+    {
+      "id": "uz-find-bukhara",
+      "type": "find_poi",
+      "targetPoiId": "bukhara-cities-v2",
+      "question": {
+        "de": "Finde Buchara auf der Karte.",
+        "hu": "Keresd meg Buharát a térképen.",
+        "ro": "Găsește Buhara pe hartă.",
+        "en": "Find Bukhara on the map."
+      }
+    },
+    {
+      "id": "uz-find-nukus",
+      "type": "find_poi",
+      "targetPoiId": "nukus-cities-v2",
+      "question": {
+        "de": "Finde Nukus auf der Karte.",
+        "hu": "Keresd meg Nukuszt a térképen.",
+        "ro": "Găsește Nukus pe hartă.",
+        "en": "Find Nukus on the map."
+      }
+    },
+    {
+      "id": "uz-region-ferghana",
+      "type": "find_region",
+      "targetRegionId": "UZB-364",
+      "question": {
+        "de": "Klicke auf die Region Fergana.",
+        "hu": "Kattints Fergana régiójára.",
+        "ro": "Apasă pe regiunea Fergana.",
+        "en": "Click the Ferghana region."
+      }
+    },
+    {
+      "id": "uz-region-tashkent",
+      "type": "find_region",
+      "targetRegionId": "UZB-372",
+      "question": {
+        "de": "Klicke auf die Region Taschkent.",
+        "hu": "Kattints Taskent régiójára.",
+        "ro": "Apasă pe regiunea Tașkent.",
+        "en": "Click the Tashkent region."
+      }
+    },
+    {
+      "id": "uz-region-karakalpakstan",
+      "type": "find_region",
+      "targetRegionId": "UZB-356",
+      "question": {
+        "de": "Klicke auf die Region Karakalpakstan.",
+        "hu": "Kattints Karakalpaksztán régiójára.",
+        "ro": "Apasă pe regiunea Karakalpakstan.",
+        "en": "Click the Karakalpakstan region."
+      }
+    },
+    {
+      "id": "uz-odd-east",
+      "type": "odd_one_out",
+      "poiIds": [
+        "nukus-cities-v2",
+        "bukhara-cities-v2",
+        "tashkent-cities-v2",
+        "andijan-cities-v2"
+      ],
+      "targetPoiId": "andijan-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt am weitesten östlich?",
+        "hu": "Melyik város fekszik a legkeletebbre?",
+        "ro": "Care oraș se află cel mai la est?",
+        "en": "Which city lies furthest east?"
+      }
+    },
+    {
+      "id": "uz-order-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "nukus-cities-v2",
+        "bukhara-cities-v2",
+        "tashkent-cities-v2",
+        "andijan-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "nukus-cities-v2",
+        "bukhara-cities-v2",
+        "tashkent-cities-v2",
+        "andijan-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die Städte von Westen nach Osten an: Nukus, Buchara, Taschkent, Andijon.",
+        "hu": "Kattints a városokra nyugatról keletre: Nukusz, Buhara, Taskent, Andijon.",
+        "ro": "Apasă orașele de la vest la est: Nukus, Buhara, Tașkent, Andijan.",
+        "en": "Click the cities from west to east: Nukus, Bukhara, Tashkent, Andijan."
+      }
+    },
+    {
+      "id": "uz-order-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "nukus-cities-v2",
+        "tashkent-cities-v2",
+        "samarkand-cities-v2",
+        "termez-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "nukus-cities-v2",
+        "tashkent-cities-v2",
+        "samarkand-cities-v2",
+        "termez-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die Städte von Norden nach Süden an: Nukus, Taschkent, Samarkand, Termiz.",
+        "hu": "Kattints a városokra északról délre: Nukusz, Taskent, Szamarkand, Termiz.",
+        "ro": "Apasă orașele de la nord la sud: Nukus, Tașkent, Samarkand, Termez.",
+        "en": "Click the cities from north to south: Nukus, Tashkent, Samarkand, Termez."
+      }
+    }
+  ],
+  "pk": [
+    {
+      "id": "pk-find-islamabad",
+      "type": "find_poi",
+      "targetPoiId": "pakistan-islamabad-cities-v2",
+      "question": {
+        "de": "Finde Islamabad auf der Karte.",
+        "hu": "Keresd meg Iszlámábádot a térképen.",
+        "ro": "Găsește Islamabad pe hartă.",
+        "en": "Find Islamabad on the map."
+      }
+    },
+    {
+      "id": "pk-find-peshawar",
+      "type": "find_poi",
+      "targetPoiId": "pakistan-peshawar-cities-v2",
+      "question": {
+        "de": "Finde Peschawar auf der Karte.",
+        "hu": "Keresd meg Pesavart a térképen.",
+        "ro": "Găsește Peshawar pe hartă.",
+        "en": "Find Peshawar on the map."
+      }
+    },
+    {
+      "id": "pk-find-multan",
+      "type": "find_poi",
+      "targetPoiId": "pakistan-multan-cities-v2",
+      "question": {
+        "de": "Finde Multan auf der Karte.",
+        "hu": "Keresd meg Multánt a térképen.",
+        "ro": "Găsește Multan pe hartă.",
+        "en": "Find Multan on the map."
+      }
+    },
+    {
+      "id": "pk-find-sadiqabad",
+      "type": "find_poi",
+      "targetPoiId": "sadiqabad-cities-v2",
+      "question": {
+        "de": "Finde Sadiqabad auf der Karte.",
+        "hu": "Keresd meg Szadikábádot a térképen.",
+        "ro": "Găsește Sadiqabad pe hartă.",
+        "en": "Find Sadiqabad on the map."
+      }
+    },
+    {
+      "id": "pk-region-northern",
+      "type": "find_region",
+      "targetRegionId": "PAK-1111",
+      "question": {
+        "de": "Klicke auf die Region Northern Areas.",
+        "hu": "Kattints az Északi területek régiójára.",
+        "ro": "Apasă pe regiunea Teritoriile de Nord.",
+        "en": "Click the Northern Areas region."
+      }
+    },
+    {
+      "id": "pk-region-baluchistan",
+      "type": "find_region",
+      "targetRegionId": "PAK-1108",
+      "question": {
+        "de": "Klicke auf die Region Belutschistan.",
+        "hu": "Kattints Beludzsisztán régiójára.",
+        "ro": "Apasă pe regiunea Baluchistan.",
+        "en": "Click the Baluchistan region."
+      }
+    },
+    {
+      "id": "pk-region-punjab",
+      "type": "find_region",
+      "targetRegionId": "PAK-1113",
+      "question": {
+        "de": "Klicke auf die Region Punjab.",
+        "hu": "Kattints Pandzsáb régiójára.",
+        "ro": "Apasă pe regiunea Punjab.",
+        "en": "Click the Punjab region."
+      }
+    },
+    {
+      "id": "pk-odd-south",
+      "type": "odd_one_out",
+      "poiIds": [
+        "pakistan-islamabad-cities-v2",
+        "pakistan-multan-cities-v2",
+        "sadiqabad-cities-v2",
+        "mirpur-khas-cities-v2"
+      ],
+      "targetPoiId": "mirpur-khas-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt am weitesten südlich?",
+        "hu": "Melyik város fekszik a legdélebbre?",
+        "ro": "Care oraș se află cel mai la sud?",
+        "en": "Which city lies furthest south?"
+      }
+    },
+    {
+      "id": "pk-order-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "khuzdar-cities-v2",
+        "pakistan-peshawar-cities-v2",
+        "pakistan-islamabad-cities-v2",
+        "kamoke-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "khuzdar-cities-v2",
+        "pakistan-peshawar-cities-v2",
+        "pakistan-islamabad-cities-v2",
+        "kamoke-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die Städte von Westen nach Osten an: Khuzdar, Peschawar, Islamabad, Kamoke.",
+        "hu": "Kattints a városokra nyugatról keletre: Khuzdar, Pesavar, Iszlámábád, Kamoke.",
+        "ro": "Apasă orașele de la vest la est: Khuzdar, Peshawar, Islamabad, Kamoke.",
+        "en": "Click the cities from west to east: Khuzdar, Peshawar, Islamabad, Kamoke."
+      }
+    },
+    {
+      "id": "pk-order-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "mansehra-cities-v2",
+        "pakistan-islamabad-cities-v2",
+        "pakistan-multan-cities-v2",
+        "mirpur-khas-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "mansehra-cities-v2",
+        "pakistan-islamabad-cities-v2",
+        "pakistan-multan-cities-v2",
+        "mirpur-khas-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die Städte von Norden nach Süden an: Mansehra, Islamabad, Multan, Mirpur Khas.",
+        "hu": "Kattints a városokra északról délre: Manszehra, Iszlámábád, Multán, Mirpur Khas.",
+        "ro": "Apasă orașele de la nord la sud: Mansehra, Islamabad, Multan, Mirpur Khas.",
+        "en": "Click the cities from north to south: Mansehra, Islamabad, Multan, Mirpur Khas."
+      }
+    }
+  ]
+}

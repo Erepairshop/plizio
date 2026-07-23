@@ -1,0 +1,704 @@
+{
+  "md": [
+    {
+      "id": "md-find-chisinau",
+      "type": "find_poi",
+      "targetPoiId": "MD-031-chisinau-city",
+      "question": {
+        "de": "Wo liegt Chișinău? Klicke auf die Hauptstadt Moldaus.",
+        "hu": "Hol található Chișinău? Kattints Moldova fővárosára.",
+        "ro": "Unde se află Chișinău? Apasă pe capitala Republicii Moldova.",
+        "en": "Where is Chișinău? Click the capital of Moldova."
+      }
+    },
+    {
+      "id": "md-find-balti",
+      "type": "find_poi",
+      "targetPoiId": "moldova-balti-cities-v2",
+      "question": {
+        "de": "Finde Bălți im Norden Moldaus.",
+        "hu": "Keresd meg Bălți városát Moldova északi részén.",
+        "ro": "Găsește orașul Bălți din nordul Republicii Moldova.",
+        "en": "Find Bălți in northern Moldova."
+      }
+    },
+    {
+      "id": "md-find-soroca-fortress",
+      "type": "find_poi",
+      "targetPoiId": "moldova-soroca-fortress-history-v2",
+      "question": {
+        "de": "Finde die Festung Soroca am Dnister.",
+        "hu": "Keresd meg a Soroca-erődöt a Dnyeszter mellett.",
+        "ro": "Găsește Cetatea Soroca de pe Nistru.",
+        "en": "Find Soroca Fortress beside the Dniester."
+      }
+    },
+    {
+      "id": "md-find-old-orhei",
+      "type": "find_poi",
+      "targetPoiId": "moldova-orheiul-vechi-history-v2",
+      "question": {
+        "de": "Finde die historische Kulturlandschaft Orheiul Vechi.",
+        "hu": "Keresd meg az Orheiul Vechi történelmi kultúrtájat.",
+        "ro": "Găsește pe hartă complexul istorico-cultural Orheiul Vechi.",
+        "en": "Find the historic cultural landscape of Old Orhei."
+      }
+    },
+    {
+      "id": "md-find-cricova",
+      "type": "find_poi",
+      "targetPoiId": "moldova-cricova-winery-economic-v2",
+      "question": {
+        "de": "Finde das Weingut Cricova nördlich von Chișinău.",
+        "hu": "Keresd meg a Cricova pincészetet Chișinăutól északra.",
+        "ro": "Găsește vinăria Cricova, la nord de Chișinău.",
+        "en": "Find Cricova Winery north of Chișinău."
+      }
+    },
+    {
+      "id": "md-odd-southern-city",
+      "type": "odd_one_out",
+      "poiIds": ["moldova-balti-cities-v2", "moldova-ungheni-cities-v2", "moldova-cahul-cities-v2"],
+      "targetPoiId": "moldova-cahul-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten im Süden?",
+        "hu": "Melyik város fekszik a legdélebbre?",
+        "ro": "Care dintre aceste orașe se află cel mai la sud?",
+        "en": "Which of these cities lies farthest south?"
+      }
+    },
+    {
+      "id": "md-odd-eastern-city",
+      "type": "odd_one_out",
+      "poiIds": ["moldova-ungheni-cities-v2", "MD-031-chisinau-city", "moldova-bender-cities-v2"],
+      "targetPoiId": "moldova-bender-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten im Osten?",
+        "hu": "Melyik város fekszik a legkeletebbre?",
+        "ro": "Care dintre aceste orașe se află cel mai la est?",
+        "en": "Which of these cities lies farthest east?"
+      }
+    },
+    {
+      "id": "md-sequence-west-east",
+      "type": "sequence",
+      "poiIds": ["moldova-ungheni-cities-v2", "MD-031-chisinau-city", "moldova-bender-cities-v2"],
+      "orderedPoiIds": ["moldova-ungheni-cities-v2", "MD-031-chisinau-city", "moldova-bender-cities-v2"],
+      "question": {
+        "de": "Klicke Ungheni, Chișinău und Bender von Westen nach Osten an.",
+        "hu": "Kattints Ungheni, Chișinău és Bender városára nyugatról keletre.",
+        "ro": "Apasă pe Ungheni, Chișinău și Bender de la vest la est.",
+        "en": "Click Ungheni, Chișinău and Bender from west to east."
+      }
+    },
+    {
+      "id": "md-sequence-north-south",
+      "type": "sequence",
+      "poiIds": ["moldova-soroca-fortress-history-v2", "moldova-balti-cities-v2", "MD-031-chisinau-city", "moldova-cahul-cities-v2"],
+      "orderedPoiIds": ["moldova-soroca-fortress-history-v2", "moldova-balti-cities-v2", "MD-031-chisinau-city", "moldova-cahul-cities-v2"],
+      "question": {
+        "de": "Klicke Soroca, Bălți, Chișinău und Cahul von Norden nach Süden an.",
+        "hu": "Kattints Soroca, Bălți, Chișinău és Cahul helyére északról délre.",
+        "ro": "Apasă pe Soroca, Bălți, Chișinău și Cahul de la nord la sud.",
+        "en": "Click Soroca, Bălți, Chișinău and Cahul from north to south."
+      }
+    },
+    {
+      "id": "md-sequence-capital-south",
+      "type": "sequence",
+      "poiIds": ["MD-031-chisinau-city", "moldova-comrat-cities-v2", "moldova-cahul-cities-v2"],
+      "orderedPoiIds": ["MD-031-chisinau-city", "moldova-comrat-cities-v2", "moldova-cahul-cities-v2"],
+      "question": {
+        "de": "Klicke Chișinău, Comrat und Cahul von Norden nach Süden an.",
+        "hu": "Kattints Chișinău, Comrat és Cahul városára északról délre.",
+        "ro": "Apasă pe Chișinău, Comrat și Cahul de la nord la sud.",
+        "en": "Click Chișinău, Comrat and Cahul from north to south."
+      }
+    }
+  ],
+  "ua": [
+    {
+      "id": "ua-find-kyiv",
+      "type": "find_poi",
+      "targetPoiId": "ukraine-kyiv-cities-v2",
+      "question": {
+        "de": "Wo liegt Kyjiw? Klicke auf die Hauptstadt der Ukraine.",
+        "hu": "Hol található Kijev? Kattints Ukrajna fővárosára.",
+        "ro": "Unde se află Kiev? Apasă pe capitala Ucrainei.",
+        "en": "Where is Kyiv? Click the capital of Ukraine."
+      }
+    },
+    {
+      "id": "ua-find-lviv",
+      "type": "find_poi",
+      "targetPoiId": "ukraine-lviv-cities-v2",
+      "question": {
+        "de": "Finde Lwiw im Westen der Ukraine.",
+        "hu": "Keresd meg Lviv városát Nyugat-Ukrajnában.",
+        "ro": "Găsește orașul Liov în vestul Ucrainei.",
+        "en": "Find Lviv in western Ukraine."
+      }
+    },
+    {
+      "id": "ua-find-odesa",
+      "type": "find_poi",
+      "targetPoiId": "ukraine-odesa-cities-v2",
+      "question": {
+        "de": "Finde die Hafenstadt Odesa am Schwarzen Meer.",
+        "hu": "Keresd meg Odesza kikötővárosát a Fekete-tenger partján.",
+        "ro": "Găsește orașul-port Odesa de la Marea Neagră.",
+        "en": "Find the port city of Odesa on the Black Sea."
+      }
+    },
+    {
+      "id": "ua-find-kharkiv",
+      "type": "find_poi",
+      "targetPoiId": "ukraine-kharkiv-cities-v2",
+      "question": {
+        "de": "Finde Charkiw im Nordosten der Ukraine.",
+        "hu": "Keresd meg Harkiv városát Ukrajna északkeleti részén.",
+        "ro": "Găsește orașul Harkov în nord-estul Ucrainei.",
+        "en": "Find Kharkiv in northeastern Ukraine."
+      }
+    },
+    {
+      "id": "ua-find-dnipro",
+      "type": "find_poi",
+      "targetPoiId": "ukraine-dnipro-cities-v2",
+      "question": {
+        "de": "Finde die Stadt Dnipro am gleichnamigen Fluss.",
+        "hu": "Keresd meg Dnyipro városát az azonos nevű folyó mellett.",
+        "ro": "Găsește orașul Dnipro de pe fluviul cu același nume.",
+        "en": "Find the city of Dnipro on the river of the same name."
+      }
+    },
+    {
+      "id": "ua-odd-black-sea",
+      "type": "odd_one_out",
+      "poiIds": ["ukraine-kyiv-cities-v2", "ukraine-lviv-cities-v2", "ukraine-odesa-cities-v2"],
+      "targetPoiId": "ukraine-odesa-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt an der Schwarzmeerküste?",
+        "hu": "Melyik város fekszik a Fekete-tenger partján?",
+        "ro": "Care dintre aceste orașe se află pe coasta Mării Negre?",
+        "en": "Which of these cities is on the Black Sea coast?"
+      }
+    },
+    {
+      "id": "ua-odd-westernmost",
+      "type": "odd_one_out",
+      "poiIds": ["ukraine-lviv-cities-v2", "ukraine-kyiv-cities-v2", "ukraine-kharkiv-cities-v2"],
+      "targetPoiId": "ukraine-lviv-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten im Westen?",
+        "hu": "Melyik város fekszik a legnyugatabbra?",
+        "ro": "Care dintre aceste orașe se află cel mai la vest?",
+        "en": "Which of these cities lies farthest west?"
+      }
+    },
+    {
+      "id": "ua-sequence-west-east",
+      "type": "sequence",
+      "poiIds": ["ukraine-lviv-cities-v2", "ukraine-kyiv-cities-v2", "ukraine-kharkiv-cities-v2"],
+      "orderedPoiIds": ["ukraine-lviv-cities-v2", "ukraine-kyiv-cities-v2", "ukraine-kharkiv-cities-v2"],
+      "question": {
+        "de": "Klicke Lwiw, Kyjiw und Charkiw von Westen nach Osten an.",
+        "hu": "Kattints Lviv, Kijev és Harkiv városára nyugatról keletre.",
+        "ro": "Apasă pe Liov, Kiev și Harkov de la vest la est.",
+        "en": "Click Lviv, Kyiv and Kharkiv from west to east."
+      }
+    },
+    {
+      "id": "ua-sequence-north-south",
+      "type": "sequence",
+      "poiIds": ["ukraine-chernihiv-cities-v2", "ukraine-kyiv-cities-v2", "ukraine-odesa-cities-v2"],
+      "orderedPoiIds": ["ukraine-chernihiv-cities-v2", "ukraine-kyiv-cities-v2", "ukraine-odesa-cities-v2"],
+      "question": {
+        "de": "Klicke Tschernihiw, Kyjiw und Odesa von Norden nach Süden an.",
+        "hu": "Kattints Csernyihiv, Kijev és Odesza városára északról délre.",
+        "ro": "Apasă pe Cernihiv, Kiev și Odesa de la nord la sud.",
+        "en": "Click Chernihiv, Kyiv and Odesa from north to south."
+      }
+    },
+    {
+      "id": "ua-sequence-across-country",
+      "type": "sequence",
+      "poiIds": ["ukraine-uzhhorod-cities-v2", "ukraine-lviv-cities-v2", "ukraine-dnipro-cities-v2"],
+      "orderedPoiIds": ["ukraine-uzhhorod-cities-v2", "ukraine-lviv-cities-v2", "ukraine-dnipro-cities-v2"],
+      "question": {
+        "de": "Klicke Uschhorod, Lwiw und Dnipro von Westen nach Osten an.",
+        "hu": "Kattints Ungvár, Lviv és Dnyipro városára nyugatról keletre.",
+        "ro": "Apasă pe Ujhorod, Liov și Dnipro de la vest la est.",
+        "en": "Click Uzhhorod, Lviv and Dnipro from west to east."
+      }
+    }
+  ],
+  "by": [
+    {
+      "id": "by-find-minsk",
+      "type": "find_poi",
+      "targetPoiId": "belarus-minsk-cities-v2",
+      "question": {
+        "de": "Wo liegt Minsk? Klicke auf die Hauptstadt von Belarus.",
+        "hu": "Hol található Minszk? Kattints Belarusz fővárosára.",
+        "ro": "Unde se află Minsk? Apasă pe capitala Belarusului.",
+        "en": "Where is Minsk? Click the capital of Belarus."
+      }
+    },
+    {
+      "id": "by-find-grodno",
+      "type": "find_poi",
+      "targetPoiId": "belarus-grodno-cities-v2",
+      "question": {
+        "de": "Finde Hrodna im Westen von Belarus.",
+        "hu": "Keresd meg Hrodna városát Belarusz nyugati részén.",
+        "ro": "Găsește orașul Grodno în vestul Belarusului.",
+        "en": "Find Grodno in western Belarus."
+      }
+    },
+    {
+      "id": "by-find-vitebsk",
+      "type": "find_poi",
+      "targetPoiId": "belarus-vitebsk-cities-v2",
+      "question": {
+        "de": "Finde Wizebsk im Nordosten von Belarus.",
+        "hu": "Keresd meg Vicebszk városát Belarusz északkeleti részén.",
+        "ro": "Găsește orașul Vitebsk în nord-estul Belarusului.",
+        "en": "Find Vitebsk in northeastern Belarus."
+      }
+    },
+    {
+      "id": "by-find-brest-fortress",
+      "type": "find_poi",
+      "targetPoiId": "belarus-brest-fortress-history-v2",
+      "question": {
+        "de": "Finde die Festung Brest nahe der polnischen Grenze.",
+        "hu": "Keresd meg a breszti erődöt a lengyel határ közelében.",
+        "ro": "Găsește Fortăreața Brest, aproape de granița cu Polonia.",
+        "en": "Find Brest Fortress near the Polish border."
+      }
+    },
+    {
+      "id": "by-find-mir-castle",
+      "type": "find_poi",
+      "targetPoiId": "belarus-mir-castle-history-v2",
+      "question": {
+        "de": "Finde das historische Schloss Mir.",
+        "hu": "Keresd meg a történelmi miri várat.",
+        "ro": "Găsește castelul istoric Mir.",
+        "en": "Find historic Mir Castle."
+      }
+    },
+    {
+      "id": "by-odd-westernmost",
+      "type": "odd_one_out",
+      "poiIds": ["belarus-grodno-cities-v2", "belarus-minsk-cities-v2", "belarus-gomel-cities-v2"],
+      "targetPoiId": "belarus-grodno-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten im Westen?",
+        "hu": "Melyik város fekszik a legnyugatabbra?",
+        "ro": "Care dintre aceste orașe se află cel mai la vest?",
+        "en": "Which of these cities lies farthest west?"
+      }
+    },
+    {
+      "id": "by-odd-southernmost",
+      "type": "odd_one_out",
+      "poiIds": ["belarus-pinsk-cities-v2", "belarus-minsk-cities-v2", "belarus-vitebsk-cities-v2"],
+      "targetPoiId": "belarus-pinsk-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten im Süden?",
+        "hu": "Melyik város fekszik a legdélebbre?",
+        "ro": "Care dintre aceste orașe se află cel mai la sud?",
+        "en": "Which of these cities lies farthest south?"
+      }
+    },
+    {
+      "id": "by-sequence-west-east",
+      "type": "sequence",
+      "poiIds": ["belarus-grodno-cities-v2", "belarus-minsk-cities-v2", "belarus-mogilev-cities-v2"],
+      "orderedPoiIds": ["belarus-grodno-cities-v2", "belarus-minsk-cities-v2", "belarus-mogilev-cities-v2"],
+      "question": {
+        "de": "Klicke Hrodna, Minsk und Mahiljou von Westen nach Osten an.",
+        "hu": "Kattints Hrodna, Minszk és Mahiljov városára nyugatról keletre.",
+        "ro": "Apasă pe Grodno, Minsk și Moghilău de la vest la est.",
+        "en": "Click Grodno, Minsk and Mogilev from west to east."
+      }
+    },
+    {
+      "id": "by-sequence-north-south",
+      "type": "sequence",
+      "poiIds": ["belarus-vitebsk-cities-v2", "belarus-minsk-cities-v2", "belarus-pinsk-cities-v2"],
+      "orderedPoiIds": ["belarus-vitebsk-cities-v2", "belarus-minsk-cities-v2", "belarus-pinsk-cities-v2"],
+      "question": {
+        "de": "Klicke Wizebsk, Minsk und Pinsk von Norden nach Süden an.",
+        "hu": "Kattints Vicebszk, Minszk és Pinszk városára északról délre.",
+        "ro": "Apasă pe Vitebsk, Minsk și Pinsk de la nord la sud.",
+        "en": "Click Vitebsk, Minsk and Pinsk from north to south."
+      }
+    },
+    {
+      "id": "by-sequence-country-width",
+      "type": "sequence",
+      "poiIds": ["belarus-brest-fortress-history-v2", "belarus-minsk-cities-v2", "belarus-gomel-cities-v2"],
+      "orderedPoiIds": ["belarus-brest-fortress-history-v2", "belarus-minsk-cities-v2", "belarus-gomel-cities-v2"],
+      "question": {
+        "de": "Klicke die Festung Brest, Minsk und Homel von Westen nach Osten an.",
+        "hu": "Kattints a breszti erődre, Minszkre és Homelre nyugatról keletre.",
+        "ro": "Apasă pe Fortăreața Brest, Minsk și Gomel de la vest la est.",
+        "en": "Click Brest Fortress, Minsk and Gomel from west to east."
+      }
+    }
+  ],
+  "mc": [
+    {
+      "id": "mc-find-casino",
+      "type": "find_poi",
+      "targetPoiId": "landmark-casino-monte-carlo",
+      "question": {
+        "de": "Finde das Casino von Monte-Carlo.",
+        "hu": "Keresd meg a Monte-Carlo kaszinót.",
+        "ro": "Găsește Cazinoul Monte-Carlo.",
+        "en": "Find the Monte-Carlo Casino."
+      }
+    },
+    {
+      "id": "mc-find-oceanographic-museum",
+      "type": "find_poi",
+      "targetPoiId": "landmark-oceanographic-museum",
+      "question": {
+        "de": "Finde das Ozeanographische Museum an der Felsküste.",
+        "hu": "Keresd meg az Oceanográfiai Múzeumot a sziklás parton.",
+        "ro": "Găsește Muzeul Oceanografic de pe coasta stâncoasă.",
+        "en": "Find the Oceanographic Museum on the rocky coast."
+      }
+    },
+    {
+      "id": "mc-find-princes-palace",
+      "type": "find_poi",
+      "targetPoiId": "landmark-princes-palace",
+      "question": {
+        "de": "Finde den Fürstenpalast in Monaco-Ville.",
+        "hu": "Keresd meg a hercegi palotát Monaco-Ville-ben.",
+        "ro": "Găsește Palatul Princiar din Monaco-Ville.",
+        "en": "Find the Prince's Palace in Monaco-Ville."
+      }
+    },
+    {
+      "id": "mc-find-larvotto",
+      "type": "find_poi",
+      "targetPoiId": "landmark-larvotto-beach",
+      "question": {
+        "de": "Finde den Strand Larvotto im Osten Monacos.",
+        "hu": "Keresd meg a Larvotto strandot Monaco keleti részén.",
+        "ro": "Găsește plaja Larvotto în estul Principatului Monaco.",
+        "en": "Find Larvotto Beach in eastern Monaco."
+      }
+    },
+    {
+      "id": "mc-find-stadium",
+      "type": "find_poi",
+      "targetPoiId": "landmark-louis-ii-stadium",
+      "question": {
+        "de": "Finde das Stade Louis II in Fontvieille.",
+        "hu": "Keresd meg a II. Lajos Stadiont Fontvieille-ben.",
+        "ro": "Găsește Stadionul Louis II din Fontvieille.",
+        "en": "Find Stade Louis II in Fontvieille."
+      }
+    },
+    {
+      "id": "mc-odd-beach",
+      "type": "odd_one_out",
+      "poiIds": ["landmark-casino-monte-carlo", "landmark-oceanographic-museum", "landmark-larvotto-beach"],
+      "targetPoiId": "landmark-larvotto-beach",
+      "question": {
+        "de": "Welcher dieser Orte ist ein Strand?",
+        "hu": "Melyik hely egy strand?",
+        "ro": "Care dintre aceste locuri este o plajă?",
+        "en": "Which of these places is a beach?"
+      }
+    },
+    {
+      "id": "mc-odd-sports-venue",
+      "type": "odd_one_out",
+      "poiIds": ["landmark-princes-palace", "landmark-jardin-exotique", "landmark-louis-ii-stadium"],
+      "targetPoiId": "landmark-louis-ii-stadium",
+      "question": {
+        "de": "Welcher dieser Orte ist eine Sportstätte?",
+        "hu": "Melyik hely sportlétesítmény?",
+        "ro": "Care dintre aceste locuri este o arenă sportivă?",
+        "en": "Which of these places is a sports venue?"
+      }
+    },
+    {
+      "id": "mc-sequence-west-east",
+      "type": "sequence",
+      "poiIds": ["landmark-jardin-exotique", "landmark-casino-monte-carlo", "landmark-larvotto-beach"],
+      "orderedPoiIds": ["landmark-jardin-exotique", "landmark-casino-monte-carlo", "landmark-larvotto-beach"],
+      "question": {
+        "de": "Klicke Exotischer Garten, Casino und Larvotto-Strand von Westen nach Osten an.",
+        "hu": "Kattints az Egzotikus Kertre, a kaszinóra és a Larvotto strandra nyugatról keletre.",
+        "ro": "Apasă pe Grădina Exotică, cazinou și plaja Larvotto de la vest la est.",
+        "en": "Click the Exotic Garden, casino and Larvotto Beach from west to east."
+      }
+    },
+    {
+      "id": "mc-sequence-south-north",
+      "type": "sequence",
+      "poiIds": ["district-fontvieille", "district-monaco-ville", "district-monte-carlo"],
+      "orderedPoiIds": ["district-fontvieille", "district-monaco-ville", "district-monte-carlo"],
+      "question": {
+        "de": "Klicke Fontvieille, Monaco-Ville und Monte-Carlo von Süden nach Norden an.",
+        "hu": "Kattints Fontvieille, Monaco-Ville és Monte-Carlo városrészre délről északra.",
+        "ro": "Apasă pe Fontvieille, Monaco-Ville și Monte-Carlo de la sud la nord.",
+        "en": "Click Fontvieille, Monaco-Ville and Monte-Carlo from south to north."
+      }
+    },
+    {
+      "id": "mc-sequence-districts-west-east",
+      "type": "sequence",
+      "poiIds": ["district-fontvieille", "district-la-condamine", "district-monte-carlo"],
+      "orderedPoiIds": ["district-fontvieille", "district-la-condamine", "district-monte-carlo"],
+      "question": {
+        "de": "Klicke Fontvieille, La Condamine und Monte-Carlo von Westen nach Osten an.",
+        "hu": "Kattints Fontvieille, La Condamine és Monte-Carlo városrészre nyugatról keletre.",
+        "ro": "Apasă pe Fontvieille, La Condamine și Monte-Carlo de la vest la est.",
+        "en": "Click Fontvieille, La Condamine and Monte-Carlo from west to east."
+      }
+    }
+  ],
+  "sm": [
+    {
+      "id": "sm-find-capital",
+      "type": "find_poi",
+      "targetPoiId": "city-san-marino",
+      "question": {
+        "de": "Finde die Stadt San Marino, die Hauptstadt des Landes.",
+        "hu": "Keresd meg San Marino városát, az ország fővárosát.",
+        "ro": "Găsește orașul San Marino, capitala țării.",
+        "en": "Find the City of San Marino, the country's capital."
+      }
+    },
+    {
+      "id": "sm-find-guaita",
+      "type": "find_poi",
+      "targetPoiId": "cult-guaita",
+      "question": {
+        "de": "Finde Guaita, den ersten der drei Türme San Marinos.",
+        "hu": "Keresd meg Guaitát, San Marino három tornya közül az elsőt.",
+        "ro": "Găsește Guaita, primul dintre cele trei turnuri ale statului San Marino.",
+        "en": "Find Guaita, the first of San Marino's three towers."
+      }
+    },
+    {
+      "id": "sm-find-cesta",
+      "type": "find_poi",
+      "targetPoiId": "cult-cesta",
+      "question": {
+        "de": "Finde Cesta, den zweiten Turm auf dem Monte Titano.",
+        "hu": "Keresd meg Cestát, a Monte Titano második tornyát.",
+        "ro": "Găsește Cesta, al doilea turn de pe Monte Titano.",
+        "en": "Find Cesta, the second tower on Monte Titano."
+      }
+    },
+    {
+      "id": "sm-find-montale",
+      "type": "find_poi",
+      "targetPoiId": "cult-montale",
+      "question": {
+        "de": "Finde Montale, den südlichsten der drei Türme.",
+        "hu": "Keresd meg Montalét, a három torony legdélebbi tagját.",
+        "ro": "Găsește Montale, cel mai sudic dintre cele trei turnuri.",
+        "en": "Find Montale, the southernmost of the three towers."
+      }
+    },
+    {
+      "id": "sm-find-palazzo-pubblico",
+      "type": "find_poi",
+      "targetPoiId": "cult-palazzo-pubblico",
+      "question": {
+        "de": "Finde den Palazzo Pubblico, den Regierungspalast.",
+        "hu": "Keresd meg a Palazzo Pubblicót, a kormányzati palotát.",
+        "ro": "Găsește Palazzo Pubblico, palatul guvernamental.",
+        "en": "Find Palazzo Pubblico, the government palace."
+      }
+    },
+    {
+      "id": "sm-odd-tower",
+      "type": "odd_one_out",
+      "poiIds": ["cult-basilica-di-san-marino", "cult-palazzo-pubblico", "cult-guaita"],
+      "targetPoiId": "cult-guaita",
+      "question": {
+        "de": "Welcher dieser Orte ist einer der drei Türme San Marinos?",
+        "hu": "Melyik hely San Marino három tornyának egyike?",
+        "ro": "Care dintre aceste locuri este unul dintre cele trei turnuri ale statului San Marino?",
+        "en": "Which of these places is one of San Marino's three towers?"
+      }
+    },
+    {
+      "id": "sm-odd-northernmost",
+      "type": "odd_one_out",
+      "poiIds": ["city-san-marino", "sanmarino-dogana-cities-v2", "cult-montale"],
+      "targetPoiId": "sanmarino-dogana-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Norden?",
+        "hu": "Melyik hely fekszik a legészakabbra?",
+        "ro": "Care dintre aceste locuri se află cel mai la nord?",
+        "en": "Which of these places lies farthest north?"
+      }
+    },
+    {
+      "id": "sm-sequence-three-towers",
+      "type": "sequence",
+      "poiIds": ["cult-guaita", "cult-cesta", "cult-montale"],
+      "orderedPoiIds": ["cult-guaita", "cult-cesta", "cult-montale"],
+      "question": {
+        "de": "Klicke die drei Türme Guaita, Cesta und Montale von Norden nach Süden an.",
+        "hu": "Kattints a három toronyra, Guaitára, Cestára és Montaléra északról délre.",
+        "ro": "Apasă pe cele trei turnuri, Guaita, Cesta și Montale, de la nord la sud.",
+        "en": "Click the three towers, Guaita, Cesta and Montale, from north to south."
+      }
+    },
+    {
+      "id": "sm-sequence-south-north",
+      "type": "sequence",
+      "poiIds": ["city-san-marino", "landmark-borgo-maggiore-cable-car-extra", "sanmarino-dogana-cities-v2"],
+      "orderedPoiIds": ["city-san-marino", "landmark-borgo-maggiore-cable-car-extra", "sanmarino-dogana-cities-v2"],
+      "question": {
+        "de": "Klicke San Marino, Borgo Maggiore und Dogana von Süden nach Norden an.",
+        "hu": "Kattints San Marino, Borgo Maggiore és Dogana helyére délről északra.",
+        "ro": "Apasă pe San Marino, Borgo Maggiore și Dogana de la sud la nord.",
+        "en": "Click San Marino, Borgo Maggiore and Dogana from south to north."
+      }
+    },
+    {
+      "id": "sm-sequence-west-east",
+      "type": "sequence",
+      "poiIds": ["city-san-marino", "cult-guaita", "sanmarino-dogana-cities-v2"],
+      "orderedPoiIds": ["city-san-marino", "cult-guaita", "sanmarino-dogana-cities-v2"],
+      "question": {
+        "de": "Klicke San Marino, Guaita und Dogana von Westen nach Osten an.",
+        "hu": "Kattints San Marino, Guaita és Dogana helyére nyugatról keletre.",
+        "ro": "Apasă pe San Marino, Guaita și Dogana de la vest la est.",
+        "en": "Click San Marino, Guaita and Dogana from west to east."
+      }
+    }
+  ],
+  "va": [
+    {
+      "id": "va-find-candelabra-gallery",
+      "type": "find_poi",
+      "targetPoiId": "vatican-gallery-of-the-candelabra-history-v2",
+      "question": {
+        "de": "Finde die Galerie der Kandelaber in den Vatikanischen Museen.",
+        "hu": "Keresd meg a Kandeláberek galériáját a Vatikáni Múzeumokban.",
+        "ro": "Găsește Galeria Candelabrelor din Muzeele Vaticanului.",
+        "en": "Find the Gallery of the Candelabra in the Vatican Museums."
+      }
+    },
+    {
+      "id": "va-find-tapestries-gallery",
+      "type": "find_poi",
+      "targetPoiId": "vatican-gallery-of-tapestries-history-v2",
+      "question": {
+        "de": "Finde die Galerie der Wandteppiche.",
+        "hu": "Keresd meg a Gobelinek galériáját.",
+        "ro": "Găsește Galeria Tapițeriilor.",
+        "en": "Find the Gallery of Tapestries."
+      }
+    },
+    {
+      "id": "va-find-sala-rotonda",
+      "type": "find_poi",
+      "targetPoiId": "vatican-sala-rotonda-history-v2",
+      "question": {
+        "de": "Finde die Sala Rotonda im Museo Pio-Clementino.",
+        "hu": "Keresd meg a Sala Rotondát a Pio-Clementino Múzeumban.",
+        "ro": "Găsește Sala Rotonda din Muzeul Pio-Clementino.",
+        "en": "Find the Sala Rotonda in the Pio-Clementino Museum."
+      }
+    },
+    {
+      "id": "va-find-greek-cross-hall",
+      "type": "find_poi",
+      "targetPoiId": "vatican-greek-cross-hall-history-v2",
+      "question": {
+        "de": "Finde den Saal des Griechischen Kreuzes.",
+        "hu": "Keresd meg a Görög kereszt termet.",
+        "ro": "Găsește Sala Crucii Grecești.",
+        "en": "Find the Greek Cross Hall."
+      }
+    },
+    {
+      "id": "va-find-innocent-tower",
+      "type": "find_poi",
+      "targetPoiId": "vatican-tower-of-innocent-history-v2",
+      "question": {
+        "de": "Finde den Turm von Innozenz III.",
+        "hu": "Keresd meg III. Ince tornyát.",
+        "ro": "Găsește Turnul lui Inocențiu al III-lea.",
+        "en": "Find the Tower of Innocent III."
+      }
+    },
+    {
+      "id": "va-odd-administration",
+      "type": "odd_one_out",
+      "poiIds": ["vatican-gallery-of-the-candelabra-history-v2", "vatican-gallery-of-tapestries-history-v2", "vatican-secretariat-for-economy-economic-v2"],
+      "targetPoiId": "vatican-secretariat-for-economy-economic-v2",
+      "question": {
+        "de": "Welcher dieser Orte ist eine Verwaltungsinstitution und keine Museumsgalerie?",
+        "hu": "Melyik hely közigazgatási intézmény, nem pedig múzeumi galéria?",
+        "ro": "Care dintre aceste locuri este o instituție administrativă, nu o galerie de muzeu?",
+        "en": "Which of these places is an administrative institution rather than a museum gallery?"
+      }
+    },
+    {
+      "id": "va-odd-pond",
+      "type": "odd_one_out",
+      "poiIds": ["vatican-sala-rotonda-history-v2", "vatican-hall-of-animals-history-v2", "vatican-fountain-of-the-sacrament-pond-nature-v2"],
+      "targetPoiId": "vatican-fountain-of-the-sacrament-pond-nature-v2",
+      "question": {
+        "de": "Welcher dieser Orte ist ein Gartenteich und kein Museumssaal?",
+        "hu": "Melyik hely kerti tó, nem pedig múzeumi terem?",
+        "ro": "Care dintre aceste locuri este un iaz de grădină, nu o sală de muzeu?",
+        "en": "Which of these places is a garden pond rather than a museum hall?"
+      }
+    },
+    {
+      "id": "va-sequence-west-east",
+      "type": "sequence",
+      "poiIds": ["vatican-secretariat-for-economy-economic-v2", "vatican-bunker-access-cities-v2", "vatican-gallery-of-the-candelabra-history-v2", "vatican-sala-rotonda-history-v2"],
+      "orderedPoiIds": ["vatican-secretariat-for-economy-economic-v2", "vatican-bunker-access-cities-v2", "vatican-gallery-of-the-candelabra-history-v2", "vatican-sala-rotonda-history-v2"],
+      "question": {
+        "de": "Klicke Wirtschaftssekretariat, Bunkerzugang, Kandelabergalerie und Sala Rotonda von Westen nach Osten an.",
+        "hu": "Kattints a Gazdasági Titkárságra, a bunkerbejáratra, a Kandeláberek galériájára és a Sala Rotondára nyugatról keletre.",
+        "ro": "Apasă pe Secretariatul pentru Economie, accesul în buncăr, Galeria Candelabrelor și Sala Rotonda de la vest la est.",
+        "en": "Click the Secretariat for the Economy, Bunker Access, Gallery of the Candelabra and Sala Rotonda from west to east."
+      }
+    },
+    {
+      "id": "va-sequence-south-north",
+      "type": "sequence",
+      "poiIds": ["vatican-tower-of-innocent-history-v2", "vatican-sala-rotonda-history-v2", "vatican-gallery-of-tapestries-history-v2", "vatican-apartment-of-pius-v-history-v2"],
+      "orderedPoiIds": ["vatican-tower-of-innocent-history-v2", "vatican-sala-rotonda-history-v2", "vatican-gallery-of-tapestries-history-v2", "vatican-apartment-of-pius-v-history-v2"],
+      "question": {
+        "de": "Klicke Innozenz-Turm, Sala Rotonda, Teppichgalerie und Pius-V.-Apartment von Süden nach Norden an.",
+        "hu": "Kattints III. Ince tornyára, a Sala Rotondára, a Gobelinek galériájára és V. Piusz apartmanjára délről északra.",
+        "ro": "Apasă pe Turnul lui Inocențiu, Sala Rotonda, Galeria Tapițeriilor și Apartamentul lui Pius al V-lea de la sud la nord.",
+        "en": "Click the Tower of Innocent III, Sala Rotonda, Gallery of Tapestries and Apartment of Pius V from south to north."
+      }
+    },
+    {
+      "id": "va-sequence-relief-west-east",
+      "type": "sequence",
+      "poiIds": ["vatican-observatory-crest-relief-v2", "vatican-vatican-hill-eastern-face-relief-v2", "vatican-eastern-ridge-plateau-relief-v2"],
+      "orderedPoiIds": ["vatican-observatory-crest-relief-v2", "vatican-vatican-hill-eastern-face-relief-v2", "vatican-eastern-ridge-plateau-relief-v2"],
+      "question": {
+        "de": "Klicke Observatoriumskamm, Osthang des Vatikanhügels und östliches Kammplateau von Westen nach Osten an.",
+        "hu": "Kattints az Obszervatórium gerincére, a Vatikán-domb keleti oldalára és a Keleti gerinc-fennsíkra nyugatról keletre.",
+        "ro": "Apasă pe Culmea Observatorului, versantul estic al Dealului Vaticanului și Platoul Culmii Estice de la vest la est.",
+        "en": "Click Observatory Crest, Vatican Hill Eastern Face and Eastern Ridge Plateau from west to east."
+      }
+    }
+  ]
+}

@@ -1,0 +1,422 @@
+{
+  "cu": [
+    {
+      "id": "cu-find-havana",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Havanna? Klicke auf Kubas Hauptstadt.",
+        "hu": "Hol található Havanna? Kattints Kuba fővárosára.",
+        "ro": "Unde se află Havana? Apasă pe capitala Cubei.",
+        "en": "Where is Havana? Click Cuba's capital."
+      },
+      "targetPoiId": "cu-havana"
+    },
+    {
+      "id": "cu-find-santiago",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Santiago de Cuba im Südosten der Insel.",
+        "hu": "Keresd meg Santiago de Cubát a sziget délkeleti részén.",
+        "ro": "Găsește Santiago de Cuba în sud-estul insulei.",
+        "en": "Find Santiago de Cuba in the southeast of the island."
+      },
+      "targetPoiId": "cu-santiago"
+    },
+    {
+      "id": "cu-find-trinidad",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde die historische Stadt Trinidad an der Südküste.",
+        "hu": "Keresd meg Trinidad történelmi városát a déli parton.",
+        "ro": "Găsește orașul istoric Trinidad de pe coasta sudică.",
+        "en": "Find the historic city of Trinidad on the southern coast."
+      },
+      "targetPoiId": "cu-trinidad"
+    },
+    {
+      "id": "cu-find-turquino",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt der Pico Turquino, Kubas höchster Berg?",
+        "hu": "Hol található a Pico Turquino, Kuba legmagasabb hegye?",
+        "ro": "Unde se află Pico Turquino, cel mai înalt munte din Cuba?",
+        "en": "Where is Pico Turquino, Cuba's highest mountain?"
+      },
+      "targetPoiId": "cu-turquino"
+    },
+    {
+      "id": "cu-region-havana",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf die Provinz Ciudad de la Habana.",
+        "hu": "Kattints Ciudad de la Habana tartományra.",
+        "ro": "Apasă pe provincia Ciudad de la Habana.",
+        "en": "Click the Ciudad de la Habana province."
+      },
+      "targetRegionId": "CUB-1428"
+    },
+    {
+      "id": "cu-region-pinar",
+      "type": "find_region",
+      "question": {
+        "de": "Finde die westliche Provinz Pinar del Río.",
+        "hu": "Keresd meg a nyugati Pinar del Río tartományt.",
+        "ro": "Găsește provincia vestică Pinar del Río.",
+        "en": "Find the western province of Pinar del Río."
+      },
+      "targetRegionId": "CUB-1321"
+    },
+    {
+      "id": "cu-region-guantanamo",
+      "type": "find_region",
+      "question": {
+        "de": "Finde die östlichste Provinz Guantánamo.",
+        "hu": "Keresd meg a legkeletibb Guantánamo tartományt.",
+        "ro": "Găsește provincia Guantánamo din extremitatea estică.",
+        "en": "Find Guantánamo, Cuba's easternmost province."
+      },
+      "targetRegionId": "CUB-1365"
+    },
+    {
+      "id": "cu-odd-westernmost-city",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten im Westen?",
+        "hu": "Melyik város fekszik ezek közül a legnyugatabbra?",
+        "ro": "Care dintre aceste orașe se află cel mai la vest?",
+        "en": "Which of these cities lies furthest west?"
+      },
+      "poiIds": [
+        "cu-vinales",
+        "cu-havana",
+        "cu-camaguey",
+        "cu-santiago"
+      ],
+      "targetPoiId": "cu-vinales"
+    },
+    {
+      "id": "cu-sequence-cities-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Städte von Westen nach Osten an.",
+        "hu": "Kattints a városokra nyugatról keletre haladva.",
+        "ro": "Apasă pe orașe de la vest la est.",
+        "en": "Click the cities from west to east."
+      },
+      "poiIds": [
+        "cu-havana",
+        "cu-trinidad",
+        "cu-camaguey",
+        "cu-santiago"
+      ],
+      "orderedPoiIds": [
+        "cu-havana",
+        "cu-trinidad",
+        "cu-camaguey",
+        "cu-santiago"
+      ]
+    },
+    {
+      "id": "cu-sequence-landmarks-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Ordne diese Naturziele von Westen nach Osten.",
+        "hu": "Kattints ezekre a természeti helyekre nyugatról keletre.",
+        "ro": "Ordonează aceste obiective naturale de la vest la est.",
+        "en": "Click these natural landmarks from west to east."
+      },
+      "poiIds": [
+        "cu-vinales-valley",
+        "cu-zapata",
+        "cu-escambray",
+        "cu-baconao"
+      ],
+      "orderedPoiIds": [
+        "cu-vinales-valley",
+        "cu-zapata",
+        "cu-escambray",
+        "cu-baconao"
+      ]
+    }
+  ],
+  "jm": [
+    {
+      "id": "jm-find-kingston",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Kingston? Klicke auf Jamaikas Hauptstadt.",
+        "hu": "Hol található Kingston? Kattints Jamaica fővárosára.",
+        "ro": "Unde se află Kingston? Apasă pe capitala Jamaicăi.",
+        "en": "Where is Kingston? Click Jamaica's capital."
+      },
+      "targetPoiId": "jm-kingston"
+    },
+    {
+      "id": "jm-find-montego",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Montego Bay an der Nordwestküste.",
+        "hu": "Keresd meg Montego Bayt az északnyugati parton.",
+        "ro": "Găsește Montego Bay pe coasta de nord-vest.",
+        "en": "Find Montego Bay on the northwestern coast."
+      },
+      "targetPoiId": "jm-montego"
+    },
+    {
+      "id": "jm-find-dunns",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegen die berühmten Dunn's River Falls?",
+        "hu": "Hol található a híres Dunn's River-vízesés?",
+        "ro": "Unde se află faimoasa cascadă Dunn's River?",
+        "en": "Where are the famous Dunn's River Falls?"
+      },
+      "targetPoiId": "jm-dunns"
+    },
+    {
+      "id": "jm-find-blue-mountains",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde die Blue Mountains im Osten Jamaikas.",
+        "hu": "Keresd meg a Blue Mountains hegységet Jamaica keleti részén.",
+        "ro": "Găsește Munții Blue Mountains în estul Jamaicăi.",
+        "en": "Find the Blue Mountains in eastern Jamaica."
+      },
+      "targetPoiId": "jm-bluemountains"
+    },
+    {
+      "id": "jm-region-kingston",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf die Parish Kingston.",
+        "hu": "Kattints Kingston közigazgatási területére.",
+        "ro": "Apasă pe parohia Kingston.",
+        "en": "Click Kingston Parish."
+      },
+      "targetRegionId": "JAM-1377"
+    },
+    {
+      "id": "jm-region-westmoreland",
+      "type": "find_region",
+      "question": {
+        "de": "Finde Westmoreland im Westen der Insel.",
+        "hu": "Keresd meg Westmorelandet a sziget nyugati részén.",
+        "ro": "Găsește Westmoreland în vestul insulei.",
+        "en": "Find Westmoreland in the west of the island."
+      },
+      "targetRegionId": "JAM-1376"
+    },
+    {
+      "id": "jm-region-portland",
+      "type": "find_region",
+      "question": {
+        "de": "Finde Portland im Nordosten Jamaikas.",
+        "hu": "Keresd meg Portlandet Jamaica északkeleti részén.",
+        "ro": "Găsește Portland în nord-estul Jamaicăi.",
+        "en": "Find Portland in northeastern Jamaica."
+      },
+      "targetRegionId": "JAM-1378"
+    },
+    {
+      "id": "jm-odd-westernmost-town",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Westen?",
+        "hu": "Melyik település fekszik ezek közül a legnyugatabbra?",
+        "ro": "Care dintre aceste localități se află cel mai la vest?",
+        "en": "Which of these places lies furthest west?"
+      },
+      "poiIds": [
+        "jm-negril",
+        "jm-montego",
+        "jm-ochorios",
+        "jm-portantonio"
+      ],
+      "targetPoiId": "jm-negril"
+    },
+    {
+      "id": "jm-sequence-cities-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Küstenorte von Westen nach Osten an.",
+        "hu": "Kattints a parti településekre nyugatról keletre.",
+        "ro": "Apasă pe localitățile de coastă de la vest la est.",
+        "en": "Click the coastal towns from west to east."
+      },
+      "poiIds": [
+        "jm-negril",
+        "jm-montego",
+        "jm-ochorios",
+        "jm-portantonio"
+      ],
+      "orderedPoiIds": [
+        "jm-negril",
+        "jm-montego",
+        "jm-ochorios",
+        "jm-portantonio"
+      ]
+    },
+    {
+      "id": "jm-sequence-sights-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Ordne diese Sehenswürdigkeiten von Westen nach Osten.",
+        "hu": "Kattints ezekre a látnivalókra nyugatról keletre.",
+        "ro": "Ordonează aceste atracții de la vest la est.",
+        "en": "Click these sights from west to east."
+      },
+      "poiIds": [
+        "jm-sevenmile",
+        "jm-rosehall",
+        "jm-dunns",
+        "jm-bluemountains"
+      ],
+      "orderedPoiIds": [
+        "jm-sevenmile",
+        "jm-rosehall",
+        "jm-dunns",
+        "jm-bluemountains"
+      ]
+    }
+  ],
+  "ht": [
+    {
+      "id": "ht-find-port-au-prince",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Port-au-Prince? Klicke auf Haitis Hauptstadt.",
+        "hu": "Hol található Port-au-Prince? Kattints Haiti fővárosára.",
+        "ro": "Unde se află Port-au-Prince? Apasă pe capitala statului Haiti.",
+        "en": "Where is Port-au-Prince? Click Haiti's capital."
+      },
+      "targetPoiId": "ht-pap"
+    },
+    {
+      "id": "ht-find-cap-haitien",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Cap-Haïtien an der Nordküste.",
+        "hu": "Keresd meg Cap-Haïtient az északi parton.",
+        "ro": "Găsește Cap-Haïtien pe coasta nordică.",
+        "en": "Find Cap-Haïtien on the northern coast."
+      },
+      "targetPoiId": "ht-caphaitien"
+    },
+    {
+      "id": "ht-find-citadelle",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt die Festung Citadelle Laferrière?",
+        "hu": "Hol található a Citadelle Laferrière erőd?",
+        "ro": "Unde se află fortăreața Citadelle Laferrière?",
+        "en": "Where is the Citadelle Laferrière fortress?"
+      },
+      "targetPoiId": "ht-citadelle"
+    },
+    {
+      "id": "ht-find-pic-macaya",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde den Pic Macaya auf der südwestlichen Halbinsel.",
+        "hu": "Keresd meg a Pic Macayát a délnyugati félszigeten.",
+        "ro": "Găsește Pic Macaya în peninsula sud-vestică.",
+        "en": "Find Pic Macaya on the southwestern peninsula."
+      },
+      "targetPoiId": "ht-picmacaya"
+    },
+    {
+      "id": "ht-region-ouest",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf das Département Ouest mit Port-au-Prince.",
+        "hu": "Kattints az Ouest megyére, ahol Port-au-Prince található.",
+        "ro": "Apasă pe departamentul Ouest, unde se află Port-au-Prince.",
+        "en": "Click the Ouest department, home to Port-au-Prince."
+      },
+      "targetRegionId": "HTI-1388"
+    },
+    {
+      "id": "ht-region-nord",
+      "type": "find_region",
+      "question": {
+        "de": "Finde das Département Nord.",
+        "hu": "Keresd meg Nord megyét.",
+        "ro": "Găsește departamentul Nord.",
+        "en": "Find the Nord department."
+      },
+      "targetRegionId": "HTI-1387"
+    },
+    {
+      "id": "ht-region-grand-anse",
+      "type": "find_region",
+      "question": {
+        "de": "Finde Grand'Anse im Südwesten Haitis.",
+        "hu": "Keresd meg Grand'Anse megyét Haiti délnyugati részén.",
+        "ro": "Găsește departamentul Grand'Anse în sud-vestul statului Haiti.",
+        "en": "Find Grand'Anse in southwestern Haiti."
+      },
+      "targetRegionId": "HTI-1359"
+    },
+    {
+      "id": "ht-odd-westernmost-city",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten im Westen?",
+        "hu": "Melyik város fekszik ezek közül a legnyugatabbra?",
+        "ro": "Care dintre aceste orașe se află cel mai la vest?",
+        "en": "Which of these cities lies furthest west?"
+      },
+      "poiIds": [
+        "ht-lescayes",
+        "ht-gonaives",
+        "ht-pap",
+        "ht-caphaitien"
+      ],
+      "targetPoiId": "ht-lescayes"
+    },
+    {
+      "id": "ht-sequence-cities-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Städte von Westen nach Osten an.",
+        "hu": "Kattints a városokra nyugatról keletre haladva.",
+        "ro": "Apasă pe orașe de la vest la est.",
+        "en": "Click the cities from west to east."
+      },
+      "poiIds": [
+        "ht-lescayes",
+        "ht-gonaives",
+        "ht-jacmel",
+        "ht-pap"
+      ],
+      "orderedPoiIds": [
+        "ht-lescayes",
+        "ht-gonaives",
+        "ht-jacmel",
+        "ht-pap"
+      ]
+    },
+    {
+      "id": "ht-sequence-north-south",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Städte von Norden nach Süden an.",
+        "hu": "Kattints a városokra északról délre haladva.",
+        "ro": "Apasă pe orașe de la nord la sud.",
+        "en": "Click the cities from north to south."
+      },
+      "poiIds": [
+        "ht-caphaitien",
+        "ht-gonaives",
+        "ht-pap",
+        "ht-jacmel"
+      ],
+      "orderedPoiIds": [
+        "ht-caphaitien",
+        "ht-gonaives",
+        "ht-pap",
+        "ht-jacmel"
+      ]
+    }
+  ]
+}

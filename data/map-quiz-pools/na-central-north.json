@@ -1,0 +1,262 @@
+{
+  "gt": [
+    {
+      "id": "gt-find-guatemala-city",
+      "type": "find_poi",
+      "question": { "de": "Finde Guatemala-Stadt auf der Karte.", "hu": "Keresd meg Guatemalavárost a térképen.", "ro": "Găsește Ciudad de Guatemala pe hartă.", "en": "Find Guatemala City on the map." },
+      "targetPoiId": "gt-guatemalacity"
+    },
+    {
+      "id": "gt-find-tikal",
+      "type": "find_poi",
+      "question": { "de": "Wo liegt die Maya-Stätte Tikal?", "hu": "Hol található Tikal maja romvárosa?", "ro": "Unde se află situl mayaș Tikal?", "en": "Where is the Maya site of Tikal?" },
+      "targetPoiId": "gt-tikal"
+    },
+    {
+      "id": "gt-find-atitlan",
+      "type": "find_poi",
+      "question": { "de": "Finde den Atitlánsee im guatemaltekischen Hochland.", "hu": "Keresd meg az Atitlán-tavat a guatemalai felföldön.", "ro": "Găsește lacul Atitlán în ținuturile înalte ale Guatemalei.", "en": "Find Lake Atitlán in the Guatemalan Highlands." },
+      "targetPoiId": "gt-lakeatitlan"
+    },
+    {
+      "id": "gt-find-semuc-champey",
+      "type": "find_poi",
+      "question": { "de": "Zeige auf Semuc Champey.", "hu": "Mutasd meg Semuc Champeyt.", "ro": "Indică Semuc Champey.", "en": "Point to Semuc Champey." },
+      "targetPoiId": "gt-semucchampey"
+    },
+    {
+      "id": "gt-region-peten",
+      "type": "find_region",
+      "question": { "de": "Klicke auf Petén, das große nördliche Departamento.", "hu": "Kattints Peténre, a nagy északi megyére.", "ro": "Apasă pe Petén, marele departament din nord.", "en": "Click Petén, the large northern department." },
+      "targetRegionId": "GTM-1944"
+    },
+    {
+      "id": "gt-region-izabal",
+      "type": "find_region",
+      "question": { "de": "Finde das Departamento Izabal an der Karibikküste.", "hu": "Keresd meg Izabal megyét a Karib-tenger partján.", "ro": "Găsește departamentul Izabal de pe coasta Caraibilor.", "en": "Find Izabal Department on the Caribbean coast." },
+      "targetRegionId": "GTM-1959"
+    },
+    {
+      "id": "gt-region-guatemala",
+      "type": "find_region",
+      "question": { "de": "Klicke auf das Departamento Guatemala rund um die Hauptstadt.", "hu": "Kattints a fővárost körülvevő Guatemala megyére.", "ro": "Apasă pe departamentul Guatemala din jurul capitalei.", "en": "Click Guatemala Department around the capital." },
+      "targetRegionId": "GTM-1951"
+    },
+    {
+      "id": "gt-odd-maya-sites",
+      "type": "odd_one_out",
+      "question": { "de": "Welcher Ort ist keine präkolumbische Maya-Stätte?", "hu": "Melyik hely nem prekolumbiánus maja régészeti lelőhely?", "ro": "Care loc nu este un sit mayaș precolumbian?", "en": "Which place is not a pre-Columbian Maya site?" },
+      "poiIds": ["gt-tikal", "gt-yaxha", "gt-aguateca", "gt-zaculeu", "gt-antigua"],
+      "targetPoiId": "gt-antigua"
+    },
+    {
+      "id": "gt-sequence-west-east",
+      "type": "sequence",
+      "question": { "de": "Klicke von West nach Ost: Quetzaltenango, Antigua Guatemala, Guatemala-Stadt, Livingston.", "hu": "Kattints nyugatról keletre: Quetzaltenango, Antigua Guatemala, Guatemalaváros, Livingston.", "ro": "Apasă de la vest la est: Quetzaltenango, Antigua Guatemala, Ciudad de Guatemala, Livingston.", "en": "Click from west to east: Quetzaltenango, Antigua Guatemala, Guatemala City, Livingston." },
+      "poiIds": ["gt-xela", "gt-antigua", "gt-guatemalacity", "gt-livingston"],
+      "orderedPoiIds": ["gt-xela", "gt-antigua", "gt-guatemalacity", "gt-livingston"]
+    },
+    {
+      "id": "gt-sequence-north-south",
+      "type": "sequence",
+      "question": { "de": "Klicke von Nord nach Süd: Tikal, Cobán, Guatemala-Stadt, Escuintla.", "hu": "Kattints északról délre: Tikal, Cobán, Guatemalaváros, Escuintla.", "ro": "Apasă de la nord la sud: Tikal, Cobán, Ciudad de Guatemala, Escuintla.", "en": "Click from north to south: Tikal, Cobán, Guatemala City, Escuintla." },
+      "poiIds": ["gt-tikal", "gt-coban", "gt-guatemalacity", "gt-escuintla"],
+      "orderedPoiIds": ["gt-tikal", "gt-coban", "gt-guatemalacity", "gt-escuintla"]
+    }
+  ],
+  "hn": [
+    {
+      "id": "hn-find-tegucigalpa",
+      "type": "find_poi",
+      "question": { "de": "Finde Tegucigalpa, die Hauptstadt von Honduras.", "hu": "Keresd meg Tegucigalpát, Honduras fővárosát.", "ro": "Găsește Tegucigalpa, capitala Hondurasului.", "en": "Find Tegucigalpa, the capital of Honduras." },
+      "targetPoiId": "hn-tegucigalpa"
+    },
+    {
+      "id": "hn-find-copan",
+      "type": "find_poi",
+      "question": { "de": "Wo liegen die Maya-Ruinen von Copán?", "hu": "Hol találhatók Copán maja romjai?", "ro": "Unde se află ruinele mayașe de la Copán?", "en": "Where are the Maya ruins of Copán?" },
+      "targetPoiId": "hn-copan"
+    },
+    {
+      "id": "hn-find-roatan",
+      "type": "find_poi",
+      "question": { "de": "Finde die Karibikinsel Roatán.", "hu": "Keresd meg Roatán karibi szigetét.", "ro": "Găsește insula caraibiană Roatán.", "en": "Find the Caribbean island of Roatán." },
+      "targetPoiId": "hn-roatan"
+    },
+    {
+      "id": "hn-find-rio-platano",
+      "type": "find_poi",
+      "question": { "de": "Zeige auf das Biosphärenreservat Río Plátano.", "hu": "Mutasd meg a Río Plátano Bioszféra-rezervátumot.", "ro": "Indică Rezervația Biosferei Río Plátano.", "en": "Point to the Río Plátano Biosphere Reserve." },
+      "targetPoiId": "hn-rioplatano"
+    },
+    {
+      "id": "hn-region-cortes",
+      "type": "find_region",
+      "question": { "de": "Klicke auf Cortés, wo San Pedro Sula liegt.", "hu": "Kattints Cortés megyére, ahol San Pedro Sula található.", "ro": "Apasă pe Cortés, unde se află San Pedro Sula.", "en": "Click Cortés, where San Pedro Sula is located." },
+      "targetRegionId": "HND-647"
+    },
+    {
+      "id": "hn-region-olancho",
+      "type": "find_region",
+      "question": { "de": "Finde Olancho, das große Departamento im Landesinneren.", "hu": "Keresd meg Olanchót, a nagy belső megyét.", "ro": "Găsește Olancho, marele departament din interior.", "en": "Find Olancho, the large inland department." },
+      "targetRegionId": "HND-642"
+    },
+    {
+      "id": "hn-region-bay-islands",
+      "type": "find_region",
+      "question": { "de": "Klicke auf Islas de la Bahía vor der Nordküste.", "hu": "Kattints az északi part előtt fekvő Islas de la Bahía megyére.", "ro": "Apasă pe Islas de la Bahía, în largul coastei nordice.", "en": "Click Islas de la Bahía off the northern coast." },
+      "targetRegionId": "HND-641"
+    },
+    {
+      "id": "hn-odd-caribbean-islands",
+      "type": "odd_one_out",
+      "question": { "de": "Welcher Ort ist keine honduranische Karibikinsel?", "hu": "Melyik hely nem hondurasi karibi sziget?", "ro": "Care loc nu este o insulă caraibiană a Hondurasului?", "en": "Which place is not a Honduran Caribbean island?" },
+      "poiIds": ["hn-roatan", "hn-utila", "hn-guanaja-island", "hn-copan"],
+      "targetPoiId": "hn-copan"
+    },
+    {
+      "id": "hn-sequence-west-east",
+      "type": "sequence",
+      "question": { "de": "Klicke von West nach Ost: Copán, San Pedro Sula, Tegucigalpa, La Ceiba.", "hu": "Kattints nyugatról keletre: Copán, San Pedro Sula, Tegucigalpa, La Ceiba.", "ro": "Apasă de la vest la est: Copán, San Pedro Sula, Tegucigalpa, La Ceiba.", "en": "Click from west to east: Copán, San Pedro Sula, Tegucigalpa, La Ceiba." },
+      "poiIds": ["hn-copan", "hn-sanpedro", "hn-tegucigalpa", "hn-laceiba"],
+      "orderedPoiIds": ["hn-copan", "hn-sanpedro", "hn-tegucigalpa", "hn-laceiba"]
+    },
+    {
+      "id": "hn-sequence-north-south",
+      "type": "sequence",
+      "question": { "de": "Klicke von Nord nach Süd: Roatán, La Ceiba, Comayagua, Tegucigalpa.", "hu": "Kattints északról délre: Roatán, La Ceiba, Comayagua, Tegucigalpa.", "ro": "Apasă de la nord la sud: Roatán, La Ceiba, Comayagua, Tegucigalpa.", "en": "Click from north to south: Roatán, La Ceiba, Comayagua, Tegucigalpa." },
+      "poiIds": ["hn-roatan", "hn-laceiba", "hn-comayagua", "hn-tegucigalpa"],
+      "orderedPoiIds": ["hn-roatan", "hn-laceiba", "hn-comayagua", "hn-tegucigalpa"]
+    }
+  ],
+  "sv": [
+    {
+      "id": "sv-find-san-salvador",
+      "type": "find_poi",
+      "question": { "de": "Finde San Salvador, die Hauptstadt des Landes.", "hu": "Keresd meg San Salvadort, az ország fővárosát.", "ro": "Găsește San Salvador, capitala țării.", "en": "Find San Salvador, the country's capital." },
+      "targetPoiId": "sv-sansalvador"
+    },
+    {
+      "id": "sv-find-tazumal",
+      "type": "find_poi",
+      "question": { "de": "Wo liegt die Maya-Stätte Tazumal?", "hu": "Hol található Tazumal maja lelőhelye?", "ro": "Unde se află situl mayaș Tazumal?", "en": "Where is the Maya site of Tazumal?" },
+      "targetPoiId": "sv-tazumal"
+    },
+    {
+      "id": "sv-find-santa-ana-volcano",
+      "type": "find_poi",
+      "question": { "de": "Finde den Vulkan Santa Ana.", "hu": "Keresd meg a Santa Ana vulkánt.", "ro": "Găsește vulcanul Santa Ana.", "en": "Find Santa Ana Volcano." },
+      "targetPoiId": "sv-santaanavolcano"
+    },
+    {
+      "id": "sv-find-el-tunco",
+      "type": "find_poi",
+      "question": { "de": "Zeige auf den Strand El Tunco an der Pazifikküste.", "hu": "Mutasd meg az El Tunco strandot a Csendes-óceán partján.", "ro": "Indică plaja El Tunco de pe coasta Pacificului.", "en": "Point to El Tunco beach on the Pacific coast." },
+      "targetPoiId": "sv-eltunco"
+    },
+    {
+      "id": "sv-region-ahuachapan",
+      "type": "find_region",
+      "question": { "de": "Klicke auf Ahuachapán im Westen El Salvadors.", "hu": "Kattints Ahuachapánra Salvador nyugati részén.", "ro": "Apasă pe Ahuachapán, în vestul statului El Salvador.", "en": "Click Ahuachapán in western El Salvador." },
+      "targetRegionId": "SLV-1343"
+    },
+    {
+      "id": "sv-region-san-salvador",
+      "type": "find_region",
+      "question": { "de": "Finde das Departamento San Salvador.", "hu": "Keresd meg San Salvador megyét.", "ro": "Găsește departamentul San Salvador.", "en": "Find San Salvador Department." },
+      "targetRegionId": "SLV-1349"
+    },
+    {
+      "id": "sv-region-la-union",
+      "type": "find_region",
+      "question": { "de": "Klicke auf La Unión im äußersten Osten.", "hu": "Kattints La Uniónra a legkeletibb országrészben.", "ro": "Apasă pe La Unión, în extremitatea estică.", "en": "Click La Unión in the far east." },
+      "targetRegionId": "SLV-1350"
+    },
+    {
+      "id": "sv-odd-archaeological-sites",
+      "type": "odd_one_out",
+      "question": { "de": "Welcher Ort ist keine archäologische Stätte?", "hu": "Melyik hely nem régészeti lelőhely?", "ro": "Care loc nu este un sit arheologic?", "en": "Which place is not an archaeological site?" },
+      "poiIds": ["sv-tazumal", "sv-joyadeceren", "sv-cihuatan", "sv-san-andres", "sv-eltunco"],
+      "targetPoiId": "sv-eltunco"
+    },
+    {
+      "id": "sv-sequence-west-east",
+      "type": "sequence",
+      "question": { "de": "Klicke von West nach Ost: Santa Ana, San Salvador, San Miguel.", "hu": "Kattints nyugatról keletre: Santa Ana, San Salvador, San Miguel.", "ro": "Apasă de la vest la est: Santa Ana, San Salvador, San Miguel.", "en": "Click from west to east: Santa Ana, San Salvador, San Miguel." },
+      "poiIds": ["sv-santaana", "sv-sansalvador", "sv-sanmiguel"],
+      "orderedPoiIds": ["sv-santaana", "sv-sansalvador", "sv-sanmiguel"]
+    },
+    {
+      "id": "sv-sequence-north-south",
+      "type": "sequence",
+      "question": { "de": "Klicke von Nord nach Süd: Santa Ana, San Salvador, La Libertad.", "hu": "Kattints északról délre: Santa Ana, San Salvador, La Libertad.", "ro": "Apasă de la nord la sud: Santa Ana, San Salvador, La Libertad.", "en": "Click from north to south: Santa Ana, San Salvador, La Libertad." },
+      "poiIds": ["sv-santaana", "sv-sansalvador", "sv-lalibertad"],
+      "orderedPoiIds": ["sv-santaana", "sv-sansalvador", "sv-lalibertad"]
+    }
+  ],
+  "ni": [
+    {
+      "id": "ni-find-managua",
+      "type": "find_poi",
+      "question": { "de": "Finde Managua, die Hauptstadt von Nicaragua.", "hu": "Keresd meg Managuát, Nicaragua fővárosát.", "ro": "Găsește Managua, capitala statului Nicaragua.", "en": "Find Managua, the capital of Nicaragua." },
+      "targetPoiId": "ni-managua"
+    },
+    {
+      "id": "ni-find-ometepe",
+      "type": "find_poi",
+      "question": { "de": "Wo liegt die Vulkaninsel Ometepe im Nicaraguasee?", "hu": "Hol található Ometepe vulkáni szigete a Nicaragua-tóban?", "ro": "Unde se află insula vulcanică Ometepe din Lacul Nicaragua?", "en": "Where is the volcanic island of Ometepe in Lake Nicaragua?" },
+      "targetPoiId": "ni-ometepe"
+    },
+    {
+      "id": "ni-find-somoto",
+      "type": "find_poi",
+      "question": { "de": "Finde den Somoto-Canyon im Norden.", "hu": "Keresd meg a Somoto-kanyont északon.", "ro": "Găsește canionul Somoto în nord.", "en": "Find Somoto Canyon in the north." },
+      "targetPoiId": "ni-somoto"
+    },
+    {
+      "id": "ni-find-corn-islands",
+      "type": "find_poi",
+      "question": { "de": "Zeige auf die Corn Islands in der Karibik.", "hu": "Mutasd meg a Corn Islands szigeteit a Karib-tengeren.", "ro": "Indică Insulele Corn din Marea Caraibilor.", "en": "Point to the Corn Islands in the Caribbean Sea." },
+      "targetPoiId": "ni-cornislands"
+    },
+    {
+      "id": "ni-region-chinandega",
+      "type": "find_region",
+      "question": { "de": "Klicke auf Chinandega im Nordwesten Nicaraguas.", "hu": "Kattints Chinandegára Nicaragua északnyugati részén.", "ro": "Apasă pe Chinandega, în nord-vestul statului Nicaragua.", "en": "Click Chinandega in northwestern Nicaragua." },
+      "targetRegionId": "NIC-663"
+    },
+    {
+      "id": "ni-region-managua",
+      "type": "find_region",
+      "question": { "de": "Finde das Departamento Managua.", "hu": "Keresd meg Managua megyét.", "ro": "Găsește departamentul Managua.", "en": "Find Managua Department." },
+      "targetRegionId": "NIC-659"
+    },
+    {
+      "id": "ni-region-rio-san-juan",
+      "type": "find_region",
+      "question": { "de": "Klicke auf Río San Juan im Südosten.", "hu": "Kattints Río San Juanra délkeleten.", "ro": "Apasă pe Río San Juan, în sud-est.", "en": "Click Río San Juan in the southeast." },
+      "targetRegionId": "NIC-4800"
+    },
+    {
+      "id": "ni-odd-volcanoes",
+      "type": "odd_one_out",
+      "question": { "de": "Welcher Ort ist kein Vulkan?", "hu": "Melyik hely nem vulkán?", "ro": "Care loc nu este un vulcan?", "en": "Which place is not a volcano?" },
+      "poiIds": ["ni-cosiguina", "ni-san-cristobal", "ni-masayavolcano", "ni-mombacho", "ni-somoto"],
+      "targetPoiId": "ni-somoto"
+    },
+    {
+      "id": "ni-sequence-west-east",
+      "type": "sequence",
+      "question": { "de": "Klicke von West nach Ost: León, Managua, Granada, Corn Islands.", "hu": "Kattints nyugatról keletre: León, Managua, Granada, Corn Islands.", "ro": "Apasă de la vest la est: León, Managua, Granada, Insulele Corn.", "en": "Click from west to east: León, Managua, Granada, Corn Islands." },
+      "poiIds": ["ni-leon", "ni-managua", "ni-granada", "ni-cornislands"],
+      "orderedPoiIds": ["ni-leon", "ni-managua", "ni-granada", "ni-cornislands"]
+    },
+    {
+      "id": "ni-sequence-north-south",
+      "type": "sequence",
+      "question": { "de": "Klicke von Nord nach Süd: Estelí, León, Managua, San Juan del Sur.", "hu": "Kattints északról délre: Estelí, León, Managua, San Juan del Sur.", "ro": "Apasă de la nord la sud: Estelí, León, Managua, San Juan del Sur.", "en": "Click from north to south: Estelí, León, Managua, San Juan del Sur." },
+      "poiIds": ["ni-esteli", "ni-leon", "ni-managua", "ni-sanjuandelsur"],
+      "orderedPoiIds": ["ni-esteli", "ni-leon", "ni-managua", "ni-sanjuandelsur"]
+    }
+  ]
+}
