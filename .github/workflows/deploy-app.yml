@@ -163,6 +163,9 @@ jobs:
           CURRENT_TARGET=$(readlink -f "${{ env.RELEASE_BASE }}/current" 2>/dev/null || echo "")
           find "${{ env.RELEASE_BASE }}/releases" -mindepth 1 -maxdepth 1 -type d -mmin +1440 \
             ! -path "$CURRENT_TARGET" -print -exec rm -rf {} + || true
+          sudo install -d -o www-data -g www-data -m 0775 "${{ env.RELEASE_BASE }}/shared/poi-image-submissions"
+          sudo install -d -o www-data -g www-data -m 0775 "${{ env.RELEASE_BASE }}/shared/poi-user-images"
+          sudo install -o erik -g www-data -m 0644 deploy/php/poi-image.php "${{ env.RELEASE_BASE }}/endpoint/poi-image.php"
           if ! cmp -s deploy/nginx/plizio-static.conf /etc/nginx/sites-enabled/plizio.conf 2>/dev/null; then
             sudo cp deploy/nginx/plizio-static.conf /etc/nginx/sites-enabled/plizio.conf
             sudo nginx -t

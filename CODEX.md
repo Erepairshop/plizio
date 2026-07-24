@@ -243,6 +243,23 @@ Nem váltja ki a `CLAUDE.md`-t, hanem gyors képbehozásra szolgál.
 - A workflow 5 parhuzamos `gpt-5.4` workert hasznal, majd globalis validacio utan commitol,
   pushol es elinditja a `deploy-poi-full.yml` workflowt.
 
+## Kozossegi POI-kepek
+
+- Kep nelkuli statikus POI-oldalon a `scripts/lib/render-poi-image-contribution.mts`
+  rendereli a lokalizalt feltolto UI-t.
+- A backend endpoint: `deploy/php/poi-image.php`, eles URL: `/poi-image.php`.
+- A bekuldesek moderacioig itt vannak:
+  `/home/erik/plizio/shared/poi-image-submissions`.
+- A jovahagyott kepek stabil URL-je:
+  `/poi-user-images/<poi-id>.webp`, fizikai konyvtara:
+  `/home/erik/plizio/shared/poi-user-images`.
+- Uj bekuldeskor az ntfy ertesites kep-elonezetet es bearer-tokenes moderacios linket tartalmaz.
+  A link csak oldalt nyit; jovahagyni vagy elutasitani kulon POST gombbal lehet.
+- A hianyzo stabil kep-URL `404 + Cache-Control: no-store` valaszt ad, hogy jovahagyas
+  utan ugyanaz az URL azonnal kepet adhasson. Letezo kep 30 napig cachelheto.
+- Az endpointot es az irhato shared konyvtarakat a full/app/vps deploy workflowk
+  ujratelepitik; a POI delta deploy nem telepit szerverkonfiguraciot.
+
 ## Mikor mit olvass
 
 - Ha workflow vagy deploy kérdés: előbb ezt a fájlt.

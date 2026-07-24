@@ -26,6 +26,7 @@ try { _tzLookup = _tzRequire("tz-lookup"); } catch { _tzLookup = null; }
 import * as _slugsNs from "../lib/seo/slugs";
 import type { POI } from "../lib/visualLab/data/poi";
 import * as _loaderNs from "./_load-full-pois";
+import { renderPoiImageContribution } from "./lib/render-poi-image-contribution.mts";
 const _loader: any = (_loaderNs as any).default ?? _loaderNs;
 const loadFullPois: () => Promise<POI[]> = _loader.loadFullPois;
 const hasIndexableContent: (poi: POI) => boolean = _loader.hasIndexableContent;
@@ -3514,8 +3515,9 @@ function renderHtml(poi: POI, lang: Lang): string | null {
   if (heroImg) heroImages.push({ src: heroImg, alt: buildAlt(name) });
   let heroHtml: string;
   if (heroImages.length === 0) {
-    // No fetched photo → Claude-Design type placeholder SVG (not an empty/pin hero).
-    heroHtml = `<div class="plz-hero plz-hero-ph"><img src="${poiPlaceholderSvg(poi.type)}" alt="${escapeHtml(buildAlt(name))}" loading="eager" fetchpriority="high" decoding="async"/></div>`;
+    // Approved community images use a stable URL and become visible without a rebuild.
+    const fallback = poiPlaceholderSvg(poi.type);
+    heroHtml = `<div class="plz-hero plz-hero-ph"><img id="plz-user-hero" src="/poi-user-images/${encodeURIComponent(poi.id)}.webp" alt="${escapeHtml(buildAlt(name))}" loading="eager" fetchpriority="high" decoding="async" onload="if(this.currentSrc.indexOf('/poi-user-images/')>=0)this.dataset.userImageLoaded='1'" onerror="this.onerror=null;this.dataset.phf='1';this.src='${fallback}'"/></div>`;
   } else if (heroImages.length === 1) {
     heroHtml = `<div class="plz-hero"><img src="${escapeHtml(heroImages[0].src)}" alt="${escapeHtml(heroImages[0].alt)}" loading="eager" fetchpriority="high" decoding="async"/></div>`;
   } else {
@@ -3671,7 +3673,7 @@ ready();})();</script>
   ${renderStatsChips(poi, lang, richness, sightsArr.length, nearbyArr.length)}
   ${renderTabNav(lang, { hasItin: true, hasSights: sightsArr.length > 0 || nearbyArr.length > 0, hasNews: !!newsHtml, hasInfo: factsArr.length > 0 || geoItems.length > 0 || historyHtml })}
   <div class="plz-hero-grid" id="sec-overview">
-    <div class="plz-hero-grid-main">${heroHtml}${heroSvHtml}${flagBtnHtml}</div>
+    <div class="plz-hero-grid-main">${heroHtml}${heroImages.length === 0 ? renderPoiImageContribution(poi.id, name, lang) : ""}${heroSvHtml}${flagBtnHtml}</div>
     <div class="plz-hero-grid-side">${infoCardHtml || weatherHtml}${marineHtml}${officialLinksHtml}${yearlyHtml}${newsHtml}</div>
   </div>
   ${renderVisitInfo(poi, lang)}
