@@ -32,7 +32,7 @@ import { deployWeeklyUnits } from "./weekly/engine";
 import { establishRoute, abandonRoute } from "./supplyroute/index";
 import { markCodexRead } from "./codex/index";
 import { dismissNotification, markAllNotificationsRead, pushNotification } from "./notifications/engine";
-import { recruitOfficer, dismissOfficer } from "./officers/engine";
+import { recruitOfficer, dismissOfficer, assignOfficer, sendOnMission } from "./officers/engine";
 import { launchExpedition, recallExpedition } from "./expeditions/engine";
 import { pushArchiveEvent } from "./archive/manager";
 import { unlockStarChamberItem, activateStarChamberItem } from "./starchamber/engine";
@@ -166,6 +166,8 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
   if (command.type === "RECALL_FLEET") return withDerived(resolveRecallFleet(state, command.fleetId, command.useBoost));
   if (command.type === "RECRUIT_OFFICER") return withDerived(recruitOfficer(state, command.officerId));
   if (command.type === "DISMISS_OFFICER") return withDerived(dismissOfficer(state, command.officerId));
+  if (command.type === "ASSIGN_OFFICER") return withDerived(assignOfficer(state, command.officerId, command.assignmentId));
+  if (command.type === "SEND_OFFICER_MISSION") return withDerived(sendOnMission(state, command.officerId, command.missionType));
   if (command.type === "LAUNCH_EXPEDITION") return withDerived(updateTaskProgress(launchExpedition(state, command.durationMode, command.routeProfile, command.fleet), "expedition", 1));
   if (command.type === "RECALL_EXPEDITION") return withDerived(recallExpedition(state, command.expeditionId));
   if (command.type === "UNLOCK_STAR_CHAMBER_ITEM") return withDerived(unlockStarChamberItem(state, command.itemId));

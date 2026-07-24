@@ -1,6 +1,7 @@
 import type { StarholdState, StarholdDerivedState } from "./types";
 import { getReputationTier } from "./faction/reputation";
 import type { FactionId } from "./faction/types";
+import { getAssignedOfficer } from "./officers/engine";
 
 export function recalculateDerivedState(activeState: StarholdState): StarholdDerivedState {
   const isEmbargoed = activeState.endgame?.embargoedPlayers?.includes("local_player") || false;
@@ -30,11 +31,17 @@ export function recalculateDerivedState(activeState: StarholdState): StarholdDer
 
   // Global Multipliers
   let globalProduction = 1.0;
-  let globalResearch = isCurious ? 0.8 : 1.0; // 20% faster
+  // Avatar-specific research speed is applied by the research engine.
+  let globalResearch = 1.0;
   let globalRepair = 1.0;
   let globalExpRisk = 1.0;
   let globalTradeYield = 1.0;
   let globalIntelYield = 1.0;
+  if (getAssignedOfficer(activeState, "warroom")) globalProduction *= 1.1;
+  if (getAssignedOfficer(activeState, "research")) globalResearch *= 0.85;
+  if (getAssignedOfficer(activeState, "repair")) globalRepair *= 1.2;
+  if (getAssignedOfficer(activeState, "trade")) globalTradeYield *= 1.1;
+  if (getAssignedOfficer(activeState, "scout")) globalIntelYield *= 1.1;
 
   // Faction Effects
   const factionEffects: Record<string, { tradeRisk: number; expRisk: number; intelRisk: number; tradeYield: number }> = {};

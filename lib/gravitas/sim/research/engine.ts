@@ -104,6 +104,7 @@ export function startResearch(state: StarholdState, projectId: string): Starhold
   saveGalaxyInventory(inventory);
 
   let durationTicks = Math.floor((project.baseDurationMs ?? RESEARCH_CONFIG.tierDurationMs[project.tier - 1] ?? (240 * 3600000)) / 1000);
+  durationTicks = Math.ceil(durationTicks * (state.derived?.globalMultipliers.research ?? 1));
   
   if (isCurious) {
     durationTicks = Math.ceil(durationTicks * 0.8);

@@ -26,9 +26,18 @@ import type { RepairBayState } from "./repairbay/types";
 import { runMaintenance } from "./maintenance";
 import { recalculateDerivedState } from "./derived";
 
-const SAVE_KEY_PREFIX = "gravitas_save_v2";
+const SAVE_KEY_PREFIX = "gravitas_save_v3";
+const BASE_KEY_PREFIX = "gravitas_base_v3";
+const LEGACY_SAVE_KEY_PREFIX = "gravitas_save_v2";
 const FALLBACK_SAVE_KEY = "gravitas_save_v1";
 const MAX_JOURNAL_ENTRIES = 20;
+
+type GravitasSnapshot = {
+  version: 3;
+  kind: "snapshot";
+  savedAtTick: number;
+  payload: StarholdState;
+};
 
 /** Migrate old ±100 galaxy coords to new ±3 range by clearing stale nodes.
  *  Also backfill new meta fields on MapNode if missing. */
@@ -88,10 +97,56 @@ function migrateGalaxyCoords(galaxy: import("./map/types").GalaxyMapState): impo
   return galaxy;
 }
 
-function getSaveKey(): string {
-  if (typeof window === "undefined") return SAVE_KEY_PREFIX;
+function getStorageKey(prefix: string): string {
+  if (typeof window === "undefined") return prefix;
   const userKey = localStorage.getItem("plizio_username_id") || localStorage.getItem("plizio_username") || "anonymous";
-  return `${SAVE_KEY_PREFIX}_${userKey}`;
+  return `${prefix}_${userKey}`;
+}
+
+export function getGravitasSyncKeys(): string[] {
+  return [
+    getStorageKey(LEGACY_SAVE_KEY_PREFIX),
+    getStorageKey(SAVE_KEY_PREFIX),
+    getStorageKey(BASE_KEY_PREFIX),
+  ];
+}
+
+function isValidState(value: unknown): value is StarholdState {
+  if (!value || typeof value !== "object") return false;
+  const state = value as Partial<StarholdState>;
+  return (
+    typeof state.tick === "number" &&
+    Boolean(state.phase) &&
+    Boolean(state.resources) &&
+    Boolean(state.modules)
+  );
+}
+
+function readPersistedState(): StarholdState | null {
+  const keys = [
+    getStorageKey(SAVE_KEY_PREFIX),
+    getStorageKey(BASE_KEY_PREFIX),
+    getStorageKey(LEGACY_SAVE_KEY_PREFIX),
+    FALLBACK_SAVE_KEY,
+  ];
+
+  for (const key of keys) {
+    const raw = localStorage.getItem(key);
+    if (!raw) continue;
+
+    try {
+      const value = JSON.parse(raw) as StarholdState | GravitasSnapshot;
+      const state =
+        "version" in value && value.version === 3 && "payload" in value
+          ? value.payload
+          : value;
+      if (isValidState(state)) return state;
+    } catch {
+      // Fall back to the base snapshot or an older compatible save.
+    }
+  }
+
+  return null;
 }
 
 const CONTINUATION_DAILY_WAVE_TICKS = 24 * 60 * 60;
@@ -261,7 +316,15 @@ export function saveGravitasState(state: StarholdState): void {
       avatarImprintActive: false,
       avatarImprintProgress: 0,
     };
-    localStorage.setItem(getSaveKey(), JSON.stringify(toSave));
+    const snapshot: GravitasSnapshot = {
+      version: 3,
+      kind: "snapshot",
+      savedAtTick: toSave.tick,
+      payload: toSave,
+    };
+    const serialized = JSON.stringify(snapshot);
+    localStorage.setItem(getStorageKey(SAVE_KEY_PREFIX), serialized);
+    localStorage.setItem(getStorageKey(BASE_KEY_PREFIX), serialized);
   } catch {
     // localStorage may be full or unavailable — fail silently
   }
@@ -269,9 +332,8 @@ export function saveGravitasState(state: StarholdState): void {
 
 export function loadGravitasState(): StarholdState | null {
   try {
-    const raw = localStorage.getItem(getSaveKey()) || localStorage.getItem(FALLBACK_SAVE_KEY);
-    if (!raw) return null;
-    const parsed = JSON.parse(raw) as StarholdState;
+    const parsed = readPersistedState();
+    if (!parsed) return null;
     // Basic sanity check — ensure core fields exist
     if (
       typeof parsed.tick !== "number" ||
@@ -525,7 +587,31 @@ export function loadGravitasState(): StarholdState | null {
       } : createInitialSupplyRouteState(parsed.tick ?? 0),
       codex: parsed.codex ?? createInitialCodexState(),
       notifications: parsed.notifications ?? createInitialNotificationState(),
-      officers: parsed.officers ?? createInitialOfficerState().officerState,
+      officers: parsed.officers ? {
+        ...parsed.officers,
+        active: (parsed.officers.active ?? []).map((officer: any) => ({
+          ...officer,
+          personality: officer.personality ?? "stoic",
+          loyalty: officer.loyalty ?? 70,
+          mood: officer.mood ?? "content",
+          avatarAffinity: officer.avatarAffinity ?? [],
+          assignment: officer.assignment ?? null,
+          missionStatus: officer.missionStatus ?? "idle",
+          currentMission: officer.currentMission,
+          recentReports: officer.recentReports ?? [],
+        })),
+        recruits: (parsed.officers.recruits ?? []).map((officer: any) => ({
+          ...officer,
+          personality: officer.personality ?? "stoic",
+          loyalty: officer.loyalty ?? 70,
+          mood: officer.mood ?? "content",
+          avatarAffinity: officer.avatarAffinity ?? [],
+          assignment: officer.assignment ?? null,
+          missionStatus: officer.missionStatus ?? "idle",
+          currentMission: officer.currentMission,
+          recentReports: officer.recentReports ?? [],
+        })),
+      } : createInitialOfficerState().officerState,
       factionWars: parsed.factionWars ? {
         activeWars: (parsed.factionWars.activeWars || []).map((w: any) => ({
           ...w,
@@ -621,7 +707,9 @@ export function loadGravitasState(): StarholdState | null {
 
 export function clearGravitasSave(): void {
   try {
-    localStorage.removeItem(getSaveKey());
+    localStorage.removeItem(getStorageKey(SAVE_KEY_PREFIX));
+    localStorage.removeItem(getStorageKey(BASE_KEY_PREFIX));
+    localStorage.removeItem(getStorageKey(LEGACY_SAVE_KEY_PREFIX));
     localStorage.removeItem(FALLBACK_SAVE_KEY);
   } catch {
     // fail silently

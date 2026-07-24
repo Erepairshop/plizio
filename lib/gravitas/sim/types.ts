@@ -435,6 +435,8 @@ export type StarholdCommand =
   | { type: "MARK_NOTIFICATIONS_READ" }
   | { type: "RECRUIT_OFFICER"; officerId: string }
   | { type: "DISMISS_OFFICER"; officerId: string }
+  | { type: "ASSIGN_OFFICER"; officerId: string; assignmentId: import("./officers/types").OfficerAssignment | null }
+  | { type: "SEND_OFFICER_MISSION"; officerId: string; missionType: import("./officers/types").OfficerMissionType }
   | { type: "APPLY_FACTION_WAR_RESULT"; result: import("./battle/types").BattleResult; warId: string; side: "attacker" | "defender" }
   | { type: "LAUNCH_EXPEDITION"; durationMode: import("./expeditions/types").ExpeditionDurationType; routeProfile: import("./expeditions/types").ExpeditionRouteProfile; fleet: import("./expeditions/types").ExpeditionFleet }
   | { type: "RECALL_EXPEDITION"; expeditionId: string }

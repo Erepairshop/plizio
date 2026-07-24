@@ -41,7 +41,7 @@ export function getRouteYieldModifier(state: StarholdState): number {
     mod += 0.2; // Extra yield in trade phase
   }
 
-  return mod;
+  return mod * (state.derived?.globalMultipliers.tradeYield ?? 1);
 }
 
 export function establishRoute(state: StarholdState, factionId: FactionId, materialId: GalaxyMaterialId): StarholdState {

@@ -4,7 +4,8 @@ import { useState, useEffect } from "react";
 import { motion } from "framer-motion";
 import { X, Medal, Shield, Crosshair, Zap, ArrowRight, Skull, HeartPulse, UserPlus, Info } from "lucide-react";
 import type { StarholdState, StarholdCommand, LocalizedString } from "@/lib/gravitas/sim/types";
-import { OFFICER_TRAITS } from "@/lib/gravitas/sim/officers/engine";
+import { OFFICER_ASSIGNMENTS, OFFICER_MISSIONS, OFFICER_TRAITS } from "@/lib/gravitas/sim/officers/engine";
+import type { OfficerAssignment, OfficerMissionType } from "@/lib/gravitas/sim/officers/types";
 import { OFFICER_CONFIG } from "@/lib/gravitas/economy";
 import { GALAXY_FACTIONS } from "@/lib/gravitas/sim/battle/factions";
 import type { FactionId } from "@/lib/gravitas/sim/faction/types";
@@ -34,6 +35,14 @@ export default function OfficerLoungePanel({ state, doAction, onClose, lang }: O
 
   const handleDismiss = (officerId: string) => {
     doAction({ type: "DISMISS_OFFICER", officerId }, "rgba(244,63,94,0.15)");
+  };
+
+  const handleAssignment = (officerId: string, assignmentId: OfficerAssignment | null) => {
+    doAction({ type: "ASSIGN_OFFICER", officerId, assignmentId }, dispatchColor);
+  };
+
+  const handleMission = (officerId: string, missionType: OfficerMissionType) => {
+    doAction({ type: "SEND_OFFICER_MISSION", officerId, missionType }, "rgba(245,158,11,0.15)");
   };
 
   const refreshTicks = Math.floor(OFFICER_CONFIG.recruitRefreshMs / 1000);
@@ -94,8 +103,12 @@ export default function OfficerLoungePanel({ state, doAction, onClose, lang }: O
             ) : (
               state.officers.active.map(officer => {
                 const isWounded = officer.status === "wounded";
+                const isOnMission = officer.missionStatus === "on_mission";
                 const traitData = OFFICER_TRAITS[officer.trait];
                 const xpProgress = (officer.xp % 100) / 100;
+                const missionTicksRemaining = officer.currentMission
+                  ? Math.max(0, officer.currentMission.endTick - state.tick)
+                  : 0;
                 
                 let healTicksRemaining = 0;
                 if (isWounded) {
@@ -103,7 +116,7 @@ export default function OfficerLoungePanel({ state, doAction, onClose, lang }: O
                 }
 
                 return (
-                  <div key={officer.id} className={`p-4 rounded-xl border transition-all relative overflow-hidden ${isWounded ? "border-rose-500/30 bg-rose-950/20" : "border-purple-500/30 bg-purple-900/10"}`}>
+                  <div key={officer.id} className={`p-4 rounded-xl border transition-all relative overflow-hidden ${isWounded ? "border-rose-500/30 bg-rose-950/20" : isOnMission ? "border-amber-500/30 bg-amber-950/20" : "border-purple-500/30 bg-purple-900/10"}`}>
                     <div className="flex items-start gap-4 relative z-10">
                       <div className={`w-12 h-12 rounded-lg flex items-center justify-center font-black text-xl shrink-0 ${FACTION_COLORS[officer.factionId]}`}>
                         {officer.name.charAt(0)}
@@ -111,8 +124,12 @@ export default function OfficerLoungePanel({ state, doAction, onClose, lang }: O
                       <div className="flex-1 min-w-0">
                         <div className="flex justify-between items-start mb-1">
                           <h4 className="font-black text-white uppercase tracking-widest truncate">{officer.name}</h4>
-                          <span className={`text-[10px] font-black uppercase px-2 py-0.5 rounded ${isWounded ? "bg-rose-500/20 text-rose-400" : "bg-emerald-500/20 text-emerald-400"}`}>
-                            {isWounded ? "Wounded" : "Ready"}
+                          <span className={`text-[10px] font-black uppercase px-2 py-0.5 rounded ${isWounded ? "bg-rose-500/20 text-rose-400" : isOnMission ? "bg-amber-500/20 text-amber-300" : "bg-emerald-500/20 text-emerald-400"}`}>
+                            {isWounded
+                              ? localize({ en: "Wounded", hu: "Sérült", de: "Verwundet", ro: "Rănit" })
+                              : isOnMission
+                                ? `${Math.ceil(missionTicksRemaining / 60)}m`
+                                : localize({ en: "Ready", hu: "Kész", de: "Bereit", ro: "Pregătit" })}
                           </span>
                         </div>
                         <div className="text-[10px] text-white/50 uppercase tracking-widest mb-3">
@@ -146,6 +163,95 @@ export default function OfficerLoungePanel({ state, doAction, onClose, lang }: O
                             </span>
                           </div>
                         ) : null}
+
+                        {!isOnMission && (
+                          <div className="mb-3">
+                            <div className="mb-1 text-[9px] font-black uppercase tracking-widest text-white/40">
+                              {localize({ en: "Assignment", hu: "Beosztás", de: "Zuweisung", ro: "Alocare" })}
+                            </div>
+                            <div className="grid grid-cols-2 gap-1">
+                              {OFFICER_ASSIGNMENTS.map(assignment => {
+                                const selected = officer.assignment === assignment.id;
+                                const occupiedBy = state.officers.active.find(
+                                  candidate => candidate.id !== officer.id && candidate.assignment === assignment.id,
+                                );
+                                return (
+                                  <button
+                                    key={assignment.id}
+                                    type="button"
+                                    disabled={isWounded}
+                                    onClick={() => handleAssignment(officer.id, selected ? null : assignment.id)}
+                                    className={`rounded border px-2 py-1 text-left text-[9px] transition disabled:opacity-40 ${selected ? "border-violet-400/50 bg-violet-500/20 text-violet-100" : "border-white/10 bg-black/30 text-white/60 hover:bg-white/10"}`}
+                                  >
+                                    <span className="block font-bold">{localize(assignment.label)}</span>
+                                    <span className="block truncate font-mono text-[8px] opacity-60">
+                                      {occupiedBy ? occupiedBy.name : assignment.bonus}
+                                    </span>
+                                  </button>
+                                );
+                              })}
+                            </div>
+                          </div>
+                        )}
+
+                        {!isWounded && !isOnMission && (
+                          <div className="mb-3">
+                            <div className="mb-1 text-[9px] font-black uppercase tracking-widest text-white/40">
+                              {localize({ en: "Mission", hu: "Küldetés", de: "Mission", ro: "Misiune" })}
+                            </div>
+                            <div className="flex flex-wrap gap-1">
+                              {OFFICER_MISSIONS.map(mission => (
+                                <button
+                                  key={mission.id}
+                                  type="button"
+                                  onClick={() => handleMission(officer.id, mission.id)}
+                                  title={`${Math.ceil(mission.durationTicks / 60)}m · ${mission.risk}`}
+                                  className="rounded border border-amber-500/20 bg-amber-500/10 px-2 py-1 text-[9px] font-bold text-amber-200 transition hover:bg-amber-500/20"
+                                >
+                                  {localize(mission.label)} · {Math.ceil(mission.durationTicks / 60)}m
+                                </button>
+                              ))}
+                            </div>
+                          </div>
+                        )}
+
+                        {isOnMission && officer.currentMission && (
+                          <div className="mb-3 rounded border border-amber-500/20 bg-amber-500/10 p-2 text-[10px] text-amber-100">
+                            <div className="font-bold">
+                              {localize(OFFICER_MISSIONS.find(mission => mission.id === officer.currentMission?.type)!.label)}
+                            </div>
+                            <div className="mt-1 h-1.5 overflow-hidden rounded-full bg-black/40">
+                              <div
+                                className="h-full bg-amber-400 transition-all"
+                                style={{
+                                  width: `${Math.max(0, Math.min(100, (
+                                    (state.tick - officer.currentMission.startTick) /
+                                    (officer.currentMission.endTick - officer.currentMission.startTick)
+                                  ) * 100))}%`,
+                                }}
+                              />
+                            </div>
+                          </div>
+                        )}
+
+                        {officer.recentReports.length > 0 && (
+                          <div className="mb-3 space-y-1">
+                            <div className="text-[9px] font-black uppercase tracking-widest text-white/40">
+                              {localize({ en: "Recent reports", hu: "Legutóbbi jelentések", de: "Letzte Berichte", ro: "Rapoarte recente" })}
+                            </div>
+                            {officer.recentReports.map((report, index) => (
+                              <div key={`${report.tick}-${index}`} className="rounded border border-white/5 bg-black/30 p-2 text-[9px] text-white/60">
+                                <span className={report.outcome === "success" ? "text-emerald-300" : report.outcome === "wound" ? "text-rose-300" : "text-amber-300"}>
+                                  {report.outcome.toUpperCase()}
+                                </span>
+                                <span className="ml-2">{localize(report.note)}</span>
+                                {report.lootKey && report.lootAmount ? (
+                                  <span className="ml-2 font-mono text-cyan-300">+{report.lootAmount} {report.lootKey}</span>
+                                ) : null}
+                              </div>
+                            ))}
+                          </div>
+                        )}
 
                         <div className="flex justify-end">
                           <button

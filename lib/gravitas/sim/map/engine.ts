@@ -7,6 +7,7 @@ import { MISSION_DURATION } from "./actions";
 import { pushArchiveEvent } from "../archive/manager";
 import type { GalaxyMaterialId } from "../../world/mission";
 import type { WarRoomUnitId } from "../warroom/types";
+import { getAssignedOfficer } from "../officers/engine";
 
 export function createInitialGalaxyMap(): GalaxyMapState {
   return {
@@ -546,7 +547,7 @@ export function spawnTransientNodes(state: StarholdState): StarholdState {
     priority,
     risk,
     expectedYield,
-    intelDepth: 0,
+    intelDepth: getAssignedOfficer(state, "scout") ? 2 : 0,
     nodeSeed,
     harvestCount: 0,
     maxHarvests,
