@@ -1,0 +1,332 @@
+{
+  "gb": [
+    {
+      "id": "gb-find-giants-causeway-coast",
+      "type": "find_poi",
+      "targetPoiId": "uk-giants-causeway-nature-v2",
+      "question": {
+        "de": "Finde den Giant's Causeway an der Nordk?ste Nordirlands.",
+        "hu": "Keresd meg a Giant's Causewayt ?szak-?rorsz?g ?szaki partj?n.",
+        "ro": "G?se?te Giant's Causeway pe coasta nordic? a Irlandei de Nord.",
+        "en": "Find Giant's Causeway on the north coast of Northern Ireland."
+      }
+    },
+    {
+      "id": "gb-find-ben-nevis-highlands",
+      "type": "find_poi",
+      "targetPoiId": "uk-ben-nevis-nature-v2",
+      "question": {
+        "de": "Finde Ben Nevis in den westlichen Highlands Schottlands.",
+        "hu": "Keresd meg a Ben Nevist Sk?cia nyugati felf?ldj?n.",
+        "ro": "G?se?te Ben Nevis ?n Highlands, ?n vestul Sco?iei.",
+        "en": "Find Ben Nevis in the western Highlands of Scotland."
+      }
+    },
+    {
+      "id": "gb-find-loch-ness-highlands",
+      "type": "find_poi",
+      "targetPoiId": "uk-loch-ness-nature-v2",
+      "question": {
+        "de": "Finde Loch Ness s?dwestlich von Inverness.",
+        "hu": "Keresd meg a Loch Nesst Invernesst?l d?lnyugatra.",
+        "ro": "G?se?te Loch Ness la sud-vest de Inverness.",
+        "en": "Find Loch Ness southwest of Inverness."
+      }
+    },
+    {
+      "id": "gb-find-york-minster-northeast",
+      "type": "find_poi",
+      "targetPoiId": "uk-york-minster-landmarks-v2",
+      "question": {
+        "de": "Finde das York Minster in Nordengland.",
+        "hu": "Keresd meg a York Minstert ?szak-Angli?ban.",
+        "ro": "G?se?te York Minster ?n nordul Angliei.",
+        "en": "Find York Minster in northern England."
+      }
+    },
+    {
+      "id": "gb-find-roman-baths-bath",
+      "type": "find_poi",
+      "targetPoiId": "uk-roman-baths-history-v2",
+      "question": {
+        "de": "Finde die Roman Baths in Bath.",
+        "hu": "Keresd meg a r?mai f?rd?ket Bath v?ros?ban.",
+        "ro": "G?se?te b?ile romane din Bath.",
+        "en": "Find the Roman Baths in Bath."
+      }
+    },
+    {
+      "id": "gb-find-white-cliffs-dover",
+      "type": "find_poi",
+      "targetPoiId": "uk-white-cliffs-of-dover-nature-v2",
+      "question": {
+        "de": "Finde die White Cliffs of Dover an der ?rmelkanalk?ste.",
+        "hu": "Keresd meg a Dover feh?r szikl?it a La Manche csatorna partj?n.",
+        "ro": "G?se?te White Cliffs of Dover pe ??rmul Canalului M?necii.",
+        "en": "Find the White Cliffs of Dover on the English Channel coast."
+      }
+    },
+    {
+      "id": "gb-region-northern-ireland",
+      "type": "find_region",
+      "targetRegionId": "GB-NIR",
+      "question": {
+        "de": "Klicke auf Nordirland.",
+        "hu": "Kattints ?szak-?rorsz?gra.",
+        "ro": "Apas? pe Irlanda de Nord.",
+        "en": "Click Northern Ireland."
+      }
+    },
+    {
+      "id": "gb-odd-northern-ireland-causeway",
+      "type": "odd_one_out",
+      "poiIds": [
+        "uk-giants-causeway-nature-v2",
+        "uk-stonehenge-history-v2",
+        "uk-roman-baths-history-v2",
+        "uk-windsor-castle-landmarks-v2"
+      ],
+      "targetPoiId": "uk-giants-causeway-nature-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt in Nordirland?",
+        "hu": "Melyik hely tal?lhat? ezek k?z?l ?szak-?rorsz?gban?",
+        "ro": "Care dintre aceste locuri se afl? ?n Irlanda de Nord?",
+        "en": "Which of these places is in Northern Ireland?"
+      }
+    },
+    {
+      "id": "gb-odd-wales-snowdon",
+      "type": "odd_one_out",
+      "poiIds": [
+        "uk-snowdon-nature-v2",
+        "uk-stonehenge-history-v2",
+        "uk-roman-baths-history-v2",
+        "uk-canterbury-cathedral-history-v2"
+      ],
+      "targetPoiId": "uk-snowdon-nature-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt in Wales und nicht in England?",
+        "hu": "Melyik hely tal?lhat? Walesben, ?s nem Angli?ban?",
+        "ro": "Care dintre aceste locuri se afl? ?n ?ara Galilor ?i nu ?n Anglia?",
+        "en": "Which of these places is in Wales rather than England?"
+      }
+    },
+    {
+      "id": "gb-odd-farthest-north-aberdeen",
+      "type": "odd_one_out",
+      "poiIds": [
+        "uk-aberdeen-cities-v2",
+        "uk-york",
+        "uk-cambridge",
+        "uk-london"
+      ],
+      "targetPoiId": "uk-aberdeen-cities-v2",
+      "question": {
+        "de": "Welche dieser St?dte liegt am weitesten im Norden?",
+        "hu": "Melyik v?ros fekszik ezek k?z?l a leg?szakabbra?",
+        "ro": "Care dintre aceste ora?e se afl? cel mai la nord?",
+        "en": "Which of these cities lies furthest north?"
+      }
+    },
+    {
+      "id": "gb-odd-lake-loch-ness",
+      "type": "odd_one_out",
+      "poiIds": [
+        "uk-loch-ness-nature-v2",
+        "uk-edinburgh-castle-landmarks-v2",
+        "uk-york-minster-landmarks-v2",
+        "uk-windsor-castle-landmarks-v2"
+      ],
+      "targetPoiId": "uk-loch-ness-nature-v2",
+      "question": {
+        "de": "Welcher dieser Orte ist ein See und kein Bauwerk?",
+        "hu": "Melyik hely t?, ?s nem ?p?tett nevezetess?g?",
+        "ro": "Care dintre aceste locuri este un lac, nu un monument construit?",
+        "en": "Which of these places is a lake rather than a built landmark?"
+      }
+    },
+    {
+      "id": "gb-odd-channel-port-dover",
+      "type": "odd_one_out",
+      "poiIds": [
+        "uk-dover",
+        "uk-leeds-cities-v2",
+        "uk-birmingham-cities-v2",
+        "uk-inverness-cities-v2"
+      ],
+      "targetPoiId": "uk-dover",
+      "question": {
+        "de": "Welche dieser St?dte liegt direkt am ?rmelkanal?",
+        "hu": "Melyik v?ros fekszik k?zvetlen?l a La Manche csatorna partj?n?",
+        "ro": "Care dintre aceste ora?e se afl? direct la Canalul M?necii?",
+        "en": "Which of these towns lies directly on the English Channel?"
+      }
+    },
+    {
+      "id": "gb-odd-scotland-st-andrews",
+      "type": "odd_one_out",
+      "poiIds": [
+        "uk-st-andrews-cities-v2",
+        "uk-bath-cities-v2",
+        "uk-oxford",
+        "uk-canterbury-cities-v2"
+      ],
+      "targetPoiId": "uk-st-andrews-cities-v2",
+      "question": {
+        "de": "Welche dieser Orte liegt in Schottland?",
+        "hu": "Melyik hely tal?lhat? ezek k?z?l Sk?ci?ban?",
+        "ro": "Care dintre aceste locuri se afl? ?n Sco?ia?",
+        "en": "Which of these places is in Scotland?"
+      }
+    },
+    {
+      "id": "gb-odd-castle-windsor",
+      "type": "odd_one_out",
+      "poiIds": [
+        "uk-windsor-castle-landmarks-v2",
+        "uk-york",
+        "uk-snowdon-nature-v2",
+        "uk-roman-baths-history-v2"
+      ],
+      "targetPoiId": "uk-windsor-castle-landmarks-v2",
+      "question": {
+        "de": "Welcher dieser Orte ist ein Schloss?",
+        "hu": "Melyik hely kast?ly ezek k?z?l?",
+        "ro": "Care dintre aceste locuri este un castel?",
+        "en": "Which of these places is a castle?"
+      }
+    },
+    {
+      "id": "gb-sequence-north-south-aberdeen-london",
+      "type": "sequence",
+      "poiIds": [
+        "uk-aberdeen-cities-v2",
+        "uk-edinburgh",
+        "uk-york",
+        "uk-london"
+      ],
+      "orderedPoiIds": [
+        "uk-aberdeen-cities-v2",
+        "uk-edinburgh",
+        "uk-york",
+        "uk-london"
+      ],
+      "question": {
+        "de": "Klicke Aberdeen, Edinburgh, York und London von Norden nach S?den an.",
+        "hu": "Kattints Aberdeenre, Edinburghra, Yorkra ?s Londonra ?szakr?l d?lre.",
+        "ro": "Apas? pe Aberdeen, Edinburgh, York ?i London de la nord la sud.",
+        "en": "Click Aberdeen, Edinburgh, York, and London from north to south."
+      }
+    },
+    {
+      "id": "gb-sequence-south-north-plymouth-birmingham",
+      "type": "sequence",
+      "poiIds": [
+        "uk-plymouth-cities-v2",
+        "uk-exeter-cities-v2",
+        "uk-bristol-cities-v2",
+        "uk-birmingham-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "uk-plymouth-cities-v2",
+        "uk-exeter-cities-v2",
+        "uk-bristol-cities-v2",
+        "uk-birmingham-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Plymouth, Exeter, Bristol und Birmingham von S?den nach Norden an.",
+        "hu": "Kattints Plymouthra, Exeterre, Bristolra ?s Birminghamre d?lr?l ?szakra.",
+        "ro": "Apas? pe Plymouth, Exeter, Bristol ?i Birmingham de la sud la nord.",
+        "en": "Click Plymouth, Exeter, Bristol, and Birmingham from south to north."
+      }
+    },
+    {
+      "id": "gb-sequence-west-east-belfast-aberdeen",
+      "type": "sequence",
+      "poiIds": [
+        "uk-belfast",
+        "uk-glasgow-cities-v2",
+        "uk-edinburgh",
+        "uk-aberdeen-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "uk-belfast",
+        "uk-glasgow-cities-v2",
+        "uk-edinburgh",
+        "uk-aberdeen-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Belfast, Glasgow, Edinburgh und Aberdeen von Westen nach Osten an.",
+        "hu": "Kattints Belfastre, Glasgowra, Edinburghra ?s Aberdeenre nyugatr?l keletre.",
+        "ro": "Apas? pe Belfast, Glasgow, Edinburgh ?i Aberdeen de la vest la est.",
+        "en": "Click Belfast, Glasgow, Edinburgh, and Aberdeen from west to east."
+      }
+    },
+    {
+      "id": "gb-sequence-west-east-snowdon-dover",
+      "type": "sequence",
+      "poiIds": [
+        "uk-snowdon-nature-v2",
+        "uk-manchester-cities-v2",
+        "uk-york",
+        "uk-dover"
+      ],
+      "orderedPoiIds": [
+        "uk-snowdon-nature-v2",
+        "uk-manchester-cities-v2",
+        "uk-york",
+        "uk-dover"
+      ],
+      "question": {
+        "de": "Klicke Snowdon, Manchester, York und Dover von Westen nach Osten an.",
+        "hu": "Kattints Snowdonra, Manchesterre, Yorkra ?s Doverre nyugatr?l keletre.",
+        "ro": "Apas? pe Snowdon, Manchester, York ?i Dover de la vest la est.",
+        "en": "Click Snowdon, Manchester, York, and Dover from west to east."
+      }
+    },
+    {
+      "id": "gb-sequence-east-west-dover-bath",
+      "type": "sequence",
+      "poiIds": [
+        "uk-white-cliffs-of-dover-nature-v2",
+        "uk-canterbury-cathedral-history-v2",
+        "uk-tower-of-london-history-v2",
+        "uk-roman-baths-history-v2"
+      ],
+      "orderedPoiIds": [
+        "uk-white-cliffs-of-dover-nature-v2",
+        "uk-canterbury-cathedral-history-v2",
+        "uk-tower-of-london-history-v2",
+        "uk-roman-baths-history-v2"
+      ],
+      "question": {
+        "de": "Klicke die White Cliffs of Dover, Canterbury Cathedral, den Tower of London und die Roman Baths von Osten nach Westen an.",
+        "hu": "Kattints a White Cliffs of Doverre, a canterburyi katedr?lisra, a Tower of Londonra ?s a r?mai f?rd?kre keletr?l nyugatra.",
+        "ro": "Apas? pe White Cliffs of Dover, Canterbury Cathedral, Tower of London ?i Roman Baths de la est la vest.",
+        "en": "Click the White Cliffs of Dover, Canterbury Cathedral, the Tower of London, and the Roman Baths from east to west."
+      }
+    },
+    {
+      "id": "gb-sequence-south-north-cardiff-inverness",
+      "type": "sequence",
+      "poiIds": [
+        "uk-cardiff",
+        "uk-birmingham-cities-v2",
+        "uk-leeds-cities-v2",
+        "uk-inverness-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "uk-cardiff",
+        "uk-birmingham-cities-v2",
+        "uk-leeds-cities-v2",
+        "uk-inverness-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Cardiff, Birmingham, Leeds und Inverness von S?den nach Norden an.",
+        "hu": "Kattints Cardiffra, Birminghamre, Leedsre ?s Invernessre d?lr?l ?szakra.",
+        "ro": "Apas? pe Cardiff, Birmingham, Leeds ?i Inverness de la sud la nord.",
+        "en": "Click Cardiff, Birmingham, Leeds, and Inverness from south to north."
+      }
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "cy": [
+    {
+      "id": "cy-ext-region-larnaca",
+      "type": "find_region",
+      "targetRegionId": "CY-001",
+      "question": {
+        "de": "Klicke auf den Bezirk Larnaca mit dem Salzsee und dem wichtigsten Flughafen der Insel.",
+        "hu": "Kattints Larnaca körzetére, ahol a sós tó és a sziget legfontosabb repülőtere található.",
+        "ro": "Apasă pe districtul Larnaca, unde se află lacul sărat și principalul aeroport al insulei.",
+        "en": "Click the Larnaca district, home to the salt lake and the island's main airport."
+      }
+    },
+    {
+      "id": "cy-ext-region-limassol",
+      "type": "find_region",
+      "targetRegionId": "CY-004",
+      "question": {
+        "de": "Finde den Bezirk Limassol an der Südküste.",
+        "hu": "Keresd meg Limassol körzetét a déli parton.",
+        "ro": "Găsește districtul Limassol de pe coasta sudică.",
+        "en": "Find the Limassol district on the southern coast."
+      }
+    },
+    {
+      "id": "cy-ext-find-hala-sultan",
+      "type": "find_poi",
+      "targetPoiId": "cy-hala-sultan",
+      "question": {
+        "de": "Finde Hala Sultan Tekke am Ufer des Salzsees von Larnaca.",
+        "hu": "Keresd meg a Hala Sultan Tekkét a larnacai sós tó partján.",
+        "ro": "Găsește Hala Sultan Tekke pe malul lacului sărat din Larnaca.",
+        "en": "Find Hala Sultan Tekke on the shore of Larnaca Salt Lake."
+      }
+    },
+    {
+      "id": "cy-ext-find-choirokoitia",
+      "type": "find_poi",
+      "targetPoiId": "cy-choirokoitia",
+      "question": {
+        "de": "Finde Choirokoitia, die prähistorische Siedlung zwischen Larnaca und Limassol.",
+        "hu": "Keresd meg Choirokoitiát, a Larnaca és Limassol között fekvő őskori települést.",
+        "ro": "Găsește Choirokoitia, așezarea preistorică dintre Larnaca și Limassol.",
+        "en": "Find Choirokoitia, the prehistoric settlement between Larnaca and Limassol."
+      }
+    },
+    {
+      "id": "cy-ext-find-salamis",
+      "type": "find_poi",
+      "targetPoiId": "cy-salamis",
+      "question": {
+        "de": "Finde Salamis, die antike Stätte nördlich von Famagusta.",
+        "hu": "Keresd meg Szalamiszt, az ókori lelőhelyet Famagustától északra.",
+        "ro": "Găsește Salamina, situl antic aflat la nord de Famagusta.",
+        "en": "Find Salamis, the ancient site north of Famagusta."
+      }
+    },
+    {
+      "id": "cy-ext-find-akamas",
+      "type": "find_poi",
+      "targetPoiId": "cy-akamas",
+      "question": {
+        "de": "Finde die Akamas-Halbinsel im äußersten Nordwesten Zyperns.",
+        "hu": "Keresd meg az Akamas-félszigetet Ciprus legészaknyugatibb részén.",
+        "ro": "Găsește peninsula Akamas din extremul nord-vest al Ciprului.",
+        "en": "Find the Akamas Peninsula in the far northwest of Cyprus."
+      }
+    },
+    {
+      "id": "cy-ext-find-ledra-street",
+      "type": "find_poi",
+      "targetPoiId": "CY-003-ledra-street",
+      "question": {
+        "de": "Finde die Ledra Street in der Altstadt von Nikosia.",
+        "hu": "Keresd meg a Ledra Streetet Nicosia óvárosában.",
+        "ro": "Găsește strada Ledra din orașul vechi al Nicosiei.",
+        "en": "Find Ledra Street in the old city of Nicosia."
+      }
+    },
+    {
+      "id": "cy-ext-find-varosha",
+      "type": "find_poi",
+      "targetPoiId": "CY-002-varosha",
+      "question": {
+        "de": "Finde Varosha, das verlassene Viertel bei Famagusta.",
+        "hu": "Keresd meg Varoshát, az elhagyott negyedet Famagusta mellett.",
+        "ro": "Găsește Varosha, cartierul abandonat de lângă Famagusta.",
+        "en": "Find Varosha, the abandoned quarter near Famagusta."
+      }
+    },
+    {
+      "id": "cy-ext-find-paphos-castle",
+      "type": "find_poi",
+      "targetPoiId": "CY-005-paphos-castle",
+      "question": {
+        "de": "Finde das Kastell von Paphos am Hafen der Stadt.",
+        "hu": "Keresd meg a páfoszi várat a város kikötőjénél.",
+        "ro": "Găsește castelul din Paphos de lângă portul orașului.",
+        "en": "Find Paphos Castle by the city's harbour."
+      }
+    },
+    {
+      "id": "cy-ext-find-zenobia",
+      "type": "find_poi",
+      "targetPoiId": "CY-001-zenobia",
+      "question": {
+        "de": "Finde das Wrack der Zenobia vor der Küste von Larnaca.",
+        "hu": "Keresd meg a Zenobia roncsát Larnaca partjainál.",
+        "ro": "Găsește epava Zenobia din largul coastei Larnacăi.",
+        "en": "Find the Zenobia wreck off the coast of Larnaca."
+      }
+    },
+    {
+      "id": "cy-ext-odd-inland-capital",
+      "type": "odd_one_out",
+      "poiIds": ["cy-nicosia", "cy-larnaca", "cy-limassol", "cy-paphos"],
+      "targetPoiId": "cy-nicosia",
+      "question": {
+        "de": "Welche dieser großen Städte liegt als einzige nicht an der Küste?",
+        "hu": "E nagyvárosok közül melyik az egyetlen, amely nem a tengerparton fekszik?",
+        "ro": "Care dintre aceste orașe mari este singurul care nu se află pe coastă?",
+        "en": "Which of these major cities is the only one that is not on the coast?"
+      }
+    },
+    {
+      "id": "cy-ext-odd-larnaca-district",
+      "type": "odd_one_out",
+      "poiIds": ["cy-hala-sultan", "CY-001-zenobia", "cy-choirokoitia", "cy-salamis"],
+      "targetPoiId": "cy-salamis",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht im Bezirk Larnaca?",
+        "hu": "Melyik hely nem Larnaca körzetében található?",
+        "ro": "Care dintre aceste locuri nu se află în districtul Larnaca?",
+        "en": "Which of these places is not in the Larnaca district?"
+      }
+    },
+    {
+      "id": "cy-ext-odd-far-west",
+      "type": "odd_one_out",
+      "poiIds": ["cy-blue-lagoon", "cy-akamas", "CY-005-paphos-castle", "cy-salamis"],
+      "targetPoiId": "cy-salamis",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht im Westen Zyperns?",
+        "hu": "Melyik hely nem Ciprus nyugati részén található?",
+        "ro": "Care dintre aceste locuri nu se află în vestul Ciprului?",
+        "en": "Which of these places is not in western Cyprus?"
+      }
+    },
+    {
+      "id": "cy-ext-odd-troodos",
+      "type": "odd_one_out",
+      "poiIds": ["cy-mount-olympus", "cy-kykkos", "cyprus-kakopetria-cities-v2", "cy-cape-greco"],
+      "targetPoiId": "cy-cape-greco",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht im Troodos-Gebirge oder an seinem Rand?",
+        "hu": "Melyik hely nem a Troodos-hegységben vagy annak peremén található?",
+        "ro": "Care dintre aceste locuri nu se află în Munții Troodos sau la poalele lor?",
+        "en": "Which of these places is not in or around the Troodos Mountains?"
+      }
+    },
+    {
+      "id": "cy-ext-odd-southeast-cluster",
+      "type": "odd_one_out",
+      "poiIds": ["cy-famagusta", "CY-002-varosha", "cyprus-protaras-cities-v2", "cy-limassol"],
+      "targetPoiId": "cy-limassol",
+      "question": {
+        "de": "Welcher dieser Orte gehört nicht zum südöstlichen Küstenraum um Famagusta, Protaras und Ayia Napa?",
+        "hu": "Melyik hely nem a Famagusta, Protaras és Ajía Nápa körüli délkeleti partvidékhez tartozik?",
+        "ro": "Care dintre aceste locuri nu aparține coastei de sud-est din jurul Famagustei, Protarasului și Agiei Napa?",
+        "en": "Which of these places is not part of the southeastern coast around Famagusta, Protaras, and Ayia Napa?"
+      }
+    },
+    {
+      "id": "cy-ext-sequence-troodos-north-south",
+      "type": "sequence",
+      "poiIds": ["cyprus-kakopetria-cities-v2", "cyprus-pedoulas-cities-v2", "cy-mount-olympus", "cyprus-platres-cities-v2"],
+      "orderedPoiIds": ["cyprus-kakopetria-cities-v2", "cyprus-pedoulas-cities-v2", "cy-mount-olympus", "cyprus-platres-cities-v2"],
+      "question": {
+        "de": "Klicke diese Troodos-Orte von Norden nach Süden an.",
+        "hu": "Kattints ezekre a troodosi helyekre északról délre haladva.",
+        "ro": "Apasă aceste locuri din Troodos de la nord la sud.",
+        "en": "Click these Troodos places from north to south."
+      }
+    },
+    {
+      "id": "cy-ext-sequence-east-coast-north-south",
+      "type": "sequence",
+      "poiIds": ["cy-salamis", "CY-002-varosha", "cy-ayianapa", "cy-cape-greco"],
+      "orderedPoiIds": ["cy-salamis", "CY-002-varosha", "cy-ayianapa", "cy-cape-greco"],
+      "question": {
+        "de": "Klicke diese Orte an der Ostküste von Norden nach Süden an.",
+        "hu": "Kattints ezekre a keleti parti helyekre északról délre.",
+        "ro": "Apasă aceste locuri de pe coasta estică de la nord la sud.",
+        "en": "Click these places on the east coast from north to south."
+      }
+    },
+    {
+      "id": "cy-ext-sequence-heritage-west-east",
+      "type": "sequence",
+      "poiIds": ["cy-blue-lagoon", "CY-005-paphos-castle", "cy-kourion", "cy-hala-sultan", "cy-salamis"],
+      "orderedPoiIds": ["cy-blue-lagoon", "CY-005-paphos-castle", "cy-kourion", "cy-hala-sultan", "cy-salamis"],
+      "question": {
+        "de": "Klicke diese Reiseziele von Westen nach Osten an.",
+        "hu": "Kattints ezekre a helyekre nyugatról keletre haladva.",
+        "ro": "Apasă aceste destinații de la vest la est.",
+        "en": "Click these destinations from west to east."
+      }
+    },
+    {
+      "id": "cy-ext-sequence-coastal-sites-west-east",
+      "type": "sequence",
+      "poiIds": ["cy-kourion", "CY-004-amathus", "cy-larnaca", "CY-002-varosha"],
+      "orderedPoiIds": ["cy-kourion", "CY-004-amathus", "cy-larnaca", "CY-002-varosha"],
+      "question": {
+        "de": "Klicke diese Küstenorte und -stätten von Westen nach Osten an.",
+        "hu": "Kattints ezekre a part menti városokra és lelőhelyekre nyugatról keletre.",
+        "ro": "Apasă aceste orașe și situri de coastă de la vest la est.",
+        "en": "Click these coastal towns and sites from west to east."
+      }
+    },
+    {
+      "id": "cy-ext-sequence-from-nicosia-eastward",
+      "type": "sequence",
+      "poiIds": ["CY-003-cyprus-museum", "CY-003-ledra-street", "cy-famagusta", "cy-cape-greco"],
+      "orderedPoiIds": ["CY-003-cyprus-museum", "CY-003-ledra-street", "cy-famagusta", "cy-cape-greco"],
+      "question": {
+        "de": "Beginne in Nikosia: Klicke diese Orte von Westen nach Osten an.",
+        "hu": "Nicosiából indulva kattints ezekre a helyekre nyugatról keletre.",
+        "ro": "Pornind din Nicosia, apasă aceste locuri de la vest la est.",
+        "en": "Starting in Nicosia, click these places from west to east."
+      }
+    }
+  ]
+}

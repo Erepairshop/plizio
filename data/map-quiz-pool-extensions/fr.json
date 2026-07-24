@@ -1,0 +1,233 @@
+{
+  "fr": [
+    {
+      "id": "fr-find-nantes-extension",
+      "type": "find_poi",
+      "targetPoiId": "nantes",
+      "question": {
+        "de": "Finde Nantes an der Loire im Westen Frankreichs.",
+        "hu": "Keresd meg Nantes városát a Loire mentén, Franciaország nyugati részén.",
+        "ro": "Găsește Nantes pe fluviul Loara, în vestul Franței.",
+        "en": "Find Nantes on the Loire in western France."
+      }
+    },
+    {
+      "id": "fr-find-nice-extension",
+      "type": "find_poi",
+      "targetPoiId": "nice",
+      "question": {
+        "de": "Finde Nizza an der Côte d’Azur nahe der italienischen Grenze.",
+        "hu": "Keresd meg Nizzát az Azúr-parton, az olasz határ közelében.",
+        "ro": "Găsește Nisa pe Coasta de Azur, aproape de granița cu Italia.",
+        "en": "Find Nice on the French Riviera near the Italian border."
+      }
+    },
+    {
+      "id": "fr-find-caen-extension",
+      "type": "find_poi",
+      "targetPoiId": "caen",
+      "question": {
+        "de": "Finde Caen in der Normandie nördlich von Paris.",
+        "hu": "Keresd meg Caen városát Normandiában, Párizstól északra.",
+        "ro": "Găsește Caen în Normandia, la nord de Paris.",
+        "en": "Find Caen in Normandy, north of Paris."
+      }
+    },
+    {
+      "id": "fr-find-reims-extension",
+      "type": "find_poi",
+      "targetPoiId": "reims",
+      "question": {
+        "de": "Finde Reims im Nordosten Frankreichs, im Herzen der Champagne.",
+        "hu": "Keresd meg Reimst Franciaország északkeleti részén, Champagne szívében.",
+        "ro": "Găsește Reims în nord-estul Franței, în inima regiunii Champagne.",
+        "en": "Find Reims in northeastern France, in the heart of Champagne."
+      }
+    },
+    {
+      "id": "fr-find-perpignan-extension",
+      "type": "find_poi",
+      "targetPoiId": "perpignan",
+      "question": {
+        "de": "Finde Perpignan nahe der spanischen Grenze im äußersten Süden Frankreichs.",
+        "hu": "Keresd meg Perpignant a spanyol határ közelében, Franciaország legdélibb részén.",
+        "ro": "Găsește Perpignan aproape de granița cu Spania, în extremul sud al Franței.",
+        "en": "Find Perpignan near the Spanish border in far southern France."
+      }
+    },
+    {
+      "id": "fr-find-calanques-extension",
+      "type": "find_poi",
+      "targetPoiId": "fr-calanques",
+      "question": {
+        "de": "Finde den Nationalpark Calanques an der Mittelmeerküste bei Marseille.",
+        "hu": "Keresd meg a Calanques Nemzeti Parkot Marseille közelében, a Földközi-tenger partján.",
+        "ro": "Găsește Parcul Național Calanques pe coasta Mediteranei, lângă Marsilia.",
+        "en": "Find Calanques National Park on the Mediterranean coast near Marseille."
+      }
+    },
+    {
+      "id": "fr-region-normandy-extension",
+      "type": "find_region",
+      "targetRegionId": "FR-NOR",
+      "question": {
+        "de": "Klicke auf die Normandie an der Nordküste Frankreichs.",
+        "hu": "Kattints Normandiára Franciaország északi partvidékén.",
+        "ro": "Apasă pe Normandia de pe coasta nordică a Franței.",
+        "en": "Click Normandy on France's northern coast."
+      }
+    },
+    {
+      "id": "fr-region-occitanie-extension",
+      "type": "find_region",
+      "targetRegionId": "FR-OCC",
+      "question": {
+        "de": "Finde Okzitanien im Süden Frankreichs zwischen Atlantik und Mittelmeer.",
+        "hu": "Keresd meg Okcitániát Franciaország déli részén, az Atlanti-óceán és a Földközi-tenger között.",
+        "ro": "Găsește Occitania în sudul Franței, între Atlantic și Mediterană.",
+        "en": "Find Occitanie in southern France between the Atlantic and the Mediterranean."
+      }
+    },
+    {
+      "id": "fr-region-grand-est-extension",
+      "type": "find_region",
+      "targetRegionId": "FR-GES",
+      "question": {
+        "de": "Klicke auf Grand Est an den Grenzen zu Belgien, Luxemburg, Deutschland und der Schweiz.",
+        "hu": "Kattints Grand Est régióra Belgium, Luxemburg, Németország és Svájc határán.",
+        "ro": "Apasă pe Grand Est, la granița cu Belgia, Luxemburg, Germania și Elveția.",
+        "en": "Click Grand Est on the borders with Belgium, Luxembourg, Germany and Switzerland."
+      }
+    },
+    {
+      "id": "fr-region-paca-extension",
+      "type": "find_region",
+      "targetRegionId": "FR-PAC",
+      "question": {
+        "de": "Finde Provence-Alpes-Côte d’Azur im Südosten Frankreichs am Mittelmeer.",
+        "hu": "Keresd meg Provence-Alpes-Côte d’Azur régiót Franciaország délkeleti részén, a Földközi-tenger partján.",
+        "ro": "Găsește Provence-Alpes-Côte d’Azur în sud-estul Franței, pe țărmul Mediteranei.",
+        "en": "Find Provence-Alpes-Côte d’Azur in southeastern France on the Mediterranean."
+      }
+    },
+    {
+      "id": "fr-region-centre-val-de-loire-extension",
+      "type": "find_region",
+      "targetRegionId": "FR-CVL",
+      "question": {
+        "de": "Klicke auf Centre-Val de Loire südwestlich von Paris entlang der Loire.",
+        "hu": "Kattints Centre-Val de Loire régióra Párizstól délnyugatra, a Loire mentén.",
+        "ro": "Apasă pe Centre-Val de Loire, la sud-vest de Paris, de-a lungul Loarei.",
+        "en": "Click Centre-Val de Loire southwest of Paris along the Loire."
+      }
+    },
+    {
+      "id": "fr-odd-corsica-city-extension",
+      "type": "odd_one_out",
+      "poiIds": ["nantes", "reims", "ajaccio", "lyon"],
+      "targetPoiId": "ajaccio",
+      "question": {
+        "de": "Welche dieser Städte liegt auf Korsika statt auf dem französischen Festland?",
+        "hu": "Melyik város található Korzikán, nem pedig a francia szárazföldön?",
+        "ro": "Care dintre aceste orașe se află în Corsica, nu pe continentul francez?",
+        "en": "Which of these cities is on Corsica rather than mainland France?"
+      }
+    },
+    {
+      "id": "fr-odd-inland-vs-coast-extension",
+      "type": "odd_one_out",
+      "poiIds": ["caen", "le-havre", "brest", "nancy"],
+      "targetPoiId": "nancy",
+      "question": {
+        "de": "Welche dieser Städte liegt nicht an einer Küste?",
+        "hu": "Melyik város nem tengerparti fekvésű?",
+        "ro": "Care dintre aceste orașe nu se află pe coastă?",
+        "en": "Which of these cities is not on a coast?"
+      }
+    },
+    {
+      "id": "fr-odd-alps-city-extension",
+      "type": "odd_one_out",
+      "poiIds": ["nantes", "annecy", "poitiers", "tours"],
+      "targetPoiId": "annecy",
+      "question": {
+        "de": "Welche dieser Städte liegt in den Alpen?",
+        "hu": "Melyik város fekszik az Alpokban?",
+        "ro": "Care dintre aceste orașe se află în Alpi?",
+        "en": "Which of these cities lies in the Alps?"
+      }
+    },
+    {
+      "id": "fr-odd-not-grand-est-extension",
+      "type": "odd_one_out",
+      "poiIds": ["reims", "metz", "nancy", "tours"],
+      "targetPoiId": "tours",
+      "question": {
+        "de": "Welche dieser Städte liegt nicht in der Region Grand Est?",
+        "hu": "Melyik város nem a Grand Est régióban található?",
+        "ro": "Care dintre aceste orașe nu se află în regiunea Grand Est?",
+        "en": "Which of these cities is not in the Grand Est region?"
+      }
+    },
+    {
+      "id": "fr-sequence-west-east-north-extension",
+      "type": "sequence",
+      "poiIds": ["brest", "rennes", "caen", "reims"],
+      "orderedPoiIds": ["brest", "rennes", "caen", "reims"],
+      "question": {
+        "de": "Klicke diese Städte von West nach Ost an.",
+        "hu": "Kattints ezekre a városokra nyugatról keletre haladva.",
+        "ro": "Apasă aceste orașe de la vest la est.",
+        "en": "Click these cities from west to east."
+      }
+    },
+    {
+      "id": "fr-sequence-north-south-heartland-extension",
+      "type": "sequence",
+      "poiIds": ["amiens", "orleans", "limoges", "perpignan"],
+      "orderedPoiIds": ["amiens", "orleans", "limoges", "perpignan"],
+      "question": {
+        "de": "Ordne diese Städte von Norden nach Süden.",
+        "hu": "Rendezd ezeket a városokat északról délre.",
+        "ro": "Pune aceste orașe în ordine de la nord la sud.",
+        "en": "Order these cities from north to south."
+      }
+    },
+    {
+      "id": "fr-sequence-loire-to-alps-extension",
+      "type": "sequence",
+      "poiIds": ["nantes", "orleans", "lyon", "annecy"],
+      "orderedPoiIds": ["nantes", "orleans", "lyon", "annecy"],
+      "question": {
+        "de": "Klicke Nantes, Orléans, Lyon und Annecy von West nach Ost an.",
+        "hu": "Kattints Nantes-ra, Orléans-ra, Lyonra és Annecyre nyugatról keletre.",
+        "ro": "Apasă Nantes, Orléans, Lyon și Annecy de la vest la est.",
+        "en": "Click Nantes, Orléans, Lyon and Annecy from west to east."
+      }
+    },
+    {
+      "id": "fr-sequence-bayonne-to-grenoble-extension",
+      "type": "sequence",
+      "poiIds": ["bayonne", "bordeaux", "city-clermont-ferrand-extra", "city-grenoble-extra"],
+      "orderedPoiIds": ["bayonne", "bordeaux", "city-clermont-ferrand-extra", "city-grenoble-extra"],
+      "question": {
+        "de": "Folge dieser Route von Südwestfrankreich bis zu den Alpen von West nach Ost.",
+        "hu": "Kövesd ezt az útvonalat Délnyugat-Franciaországtól az Alpokig nyugatról keletre.",
+        "ro": "Urmează acest traseu din sud-vestul Franței spre Alpi, de la vest la est.",
+        "en": "Follow this route from southwestern France to the Alps from west to east."
+      }
+    },
+    {
+      "id": "fr-sequence-south-to-northeast-extension",
+      "type": "sequence",
+      "poiIds": ["perpignan", "city-montpellier-extra", "lyon", "metz"],
+      "orderedPoiIds": ["perpignan", "city-montpellier-extra", "lyon", "metz"],
+      "question": {
+        "de": "Klicke diese Städte von Süden nach Nordosten an.",
+        "hu": "Kattints ezekre a városokra délről északkelet felé haladva.",
+        "ro": "Apasă aceste orașe din sud spre nord-est.",
+        "en": "Click these cities going from the south toward the northeast."
+      }
+    }
+  ]
+}

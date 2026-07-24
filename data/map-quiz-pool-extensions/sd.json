@@ -1,0 +1,299 @@
+{
+  "sd": [
+    {
+      "id": "sd-find-omdurman",
+      "type": "find_poi",
+      "targetPoiId": "omdurman-cities-v2",
+      "question": {
+        "de": "Finde Omdurman westlich von Khartum auf der Karte.",
+        "hu": "Keresd meg Omdurmant Kartúmtól nyugatra a térképen.",
+        "ro": "Găsește Omdurman, la vest de Khartoum, pe hartă.",
+        "en": "Find Omdurman, west of Khartoum, on the map."
+      }
+    },
+    {
+      "id": "sd-find-wad-madani",
+      "type": "find_poi",
+      "targetPoiId": "wad-madani-cities-v2",
+      "question": {
+        "de": "Finde Wad Madani im zentralen Sudan.",
+        "hu": "Keresd meg Wad Madanit Szudán középső részén.",
+        "ro": "Găsește Wad Madani în centrul Sudanului.",
+        "en": "Find Wad Madani in central Sudan."
+      }
+    },
+    {
+      "id": "sd-find-dongola",
+      "type": "find_poi",
+      "targetPoiId": "dongola-cities-v2",
+      "question": {
+        "de": "Finde Dongola am Nil im Norden des Landes.",
+        "hu": "Keresd meg Dongolát a Nílus mentén, az ország északi részén.",
+        "ro": "Găsește Dongola pe Nil, în nordul țării.",
+        "en": "Find Dongola on the Nile in the north of the country."
+      }
+    },
+    {
+      "id": "sd-find-el-obeid",
+      "type": "find_poi",
+      "targetPoiId": "el-obeid-cities-v2",
+      "question": {
+        "de": "Finde El Obeid in Kordofan auf der Karte.",
+        "hu": "Keresd meg El Obeidet Kordofánban a térképen.",
+        "ro": "Găsește El Obeid în Kordofan pe hartă.",
+        "en": "Find El Obeid in Kordofan on the map."
+      }
+    },
+    {
+      "id": "sd-find-wadi-halfa",
+      "type": "find_poi",
+      "targetPoiId": "wadi-halfa-cities-v2",
+      "question": {
+        "de": "Finde Wadi Halfa nahe der ägyptischen Grenze.",
+        "hu": "Keresd meg Wadi Halfát az egyiptomi határ közelében.",
+        "ro": "Găsește Wadi Halfa aproape de granița cu Egiptul.",
+        "en": "Find Wadi Halfa near the Egyptian border."
+      }
+    },
+    {
+      "id": "sd-region-sdn-874",
+      "type": "find_region",
+      "targetRegionId": "SDN-874",
+      "question": {
+        "de": "Klicke auf die Region Khartoum.",
+        "hu": "Kattints Khartoum régiójára.",
+        "ro": "Apasă pe regiunea Khartoum.",
+        "en": "Click the Khartoum region."
+      }
+    },
+    {
+      "id": "sd-region-sdn-875",
+      "type": "find_region",
+      "targetRegionId": "SDN-875",
+      "question": {
+        "de": "Klicke auf die Region Gezira zwischen Blauem und Weißem Nil.",
+        "hu": "Kattints Gezira régiójára a Kék- és a Fehér-Nílus között.",
+        "ro": "Apasă pe regiunea Gezira dintre Nilul Albastru și Nilul Alb.",
+        "en": "Click the Gezira region between the Blue and White Nile."
+      }
+    },
+    {
+      "id": "sd-region-sdn-884",
+      "type": "find_region",
+      "targetRegionId": "SDN-884",
+      "question": {
+        "de": "Klicke auf die Region Kassala im Osten.",
+        "hu": "Kattints a keleti Kassala régióra.",
+        "ro": "Apasă pe regiunea estică Kassala.",
+        "en": "Click the eastern Kassala region."
+      }
+    },
+    {
+      "id": "sd-region-sdn-148",
+      "type": "find_region",
+      "targetRegionId": "SDN-148",
+      "question": {
+        "de": "Klicke auf die Region Blue Nile an der Grenze zu Äthiopien.",
+        "hu": "Kattints a Blue Nile régióra Etiópia határán.",
+        "ro": "Apasă pe regiunea Blue Nile de la granița cu Etiopia.",
+        "en": "Click the Blue Nile region on the border with Ethiopia."
+      }
+    },
+    {
+      "id": "sd-region-sdn-883",
+      "type": "find_region",
+      "targetRegionId": "SDN-883",
+      "question": {
+        "de": "Klicke auf die Region North Kordufan.",
+        "hu": "Kattints North Kordufan régiójára.",
+        "ro": "Apasă pe regiunea North Kordufan.",
+        "en": "Click the North Kordufan region."
+      }
+    },
+    {
+      "id": "sd-odd-northmost-nile",
+      "type": "odd_one_out",
+      "poiIds": [
+        "khartoum-cities-v2",
+        "dongola-cities-v2",
+        "wadi-halfa-cities-v2",
+        "karima-cities-v2"
+      ],
+      "targetPoiId": "wadi-halfa-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt am weitesten nördlich?",
+        "hu": "Melyik hely fekszik a legészakabbra?",
+        "ro": "Care loc se află cel mai la nord?",
+        "en": "Which place lies furthest north?"
+      }
+    },
+    {
+      "id": "sd-odd-eastmost-east",
+      "type": "odd_one_out",
+      "poiIds": [
+        "wad-madani-cities-v2",
+        "al-qadarif-cities-v2",
+        "kassala-cities-v2",
+        "port-sudan-cities-v2"
+      ],
+      "targetPoiId": "port-sudan-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt am weitesten östlich?",
+        "hu": "Melyik hely fekszik a legkeletebbre?",
+        "ro": "Care loc se află cel mai la est?",
+        "en": "Which place lies furthest east?"
+      }
+    },
+    {
+      "id": "sd-odd-westmost-darfur",
+      "type": "odd_one_out",
+      "poiIds": [
+        "geneina-cities-v2",
+        "nyala-cities-v2",
+        "el-obeid-cities-v2",
+        "kaduqli-cities-v2"
+      ],
+      "targetPoiId": "geneina-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt am weitesten westlich?",
+        "hu": "Melyik hely fekszik a legnyugatabbra?",
+        "ro": "Care loc se află cel mai la vest?",
+        "en": "Which place lies furthest west?"
+      }
+    },
+    {
+      "id": "sd-odd-southmost-southeast",
+      "type": "odd_one_out",
+      "poiIds": [
+        "port-sudan-cities-v2",
+        "ad-damazin-cities-v2",
+        "kaduqli-cities-v2",
+        "kurmuk-cities-v2"
+      ],
+      "targetPoiId": "kurmuk-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt am weitesten südlich?",
+        "hu": "Melyik hely fekszik a legdélebbre?",
+        "ro": "Care loc se află cel mai la sud?",
+        "en": "Which place lies furthest south?"
+      }
+    },
+    {
+      "id": "sd-odd-red-sea-coast",
+      "type": "odd_one_out",
+      "poiIds": [
+        "suakin-cities-v2",
+        "kassala-cities-v2",
+        "wad-madani-cities-v2",
+        "ad-damazin-cities-v2"
+      ],
+      "targetPoiId": "suakin-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt an der Küste des Roten Meeres?",
+        "hu": "Melyik hely fekszik a Vörös-tenger partján?",
+        "ro": "Care loc se află pe coasta Mării Roșii?",
+        "en": "Which place lies on the Red Sea coast?"
+      }
+    },
+    {
+      "id": "sd-sequence-north-south-nile",
+      "type": "sequence",
+      "poiIds": [
+        "wadi-halfa-cities-v2",
+        "dongola-cities-v2",
+        "khartoum-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "wadi-halfa-cities-v2",
+        "dongola-cities-v2",
+        "khartoum-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Wadi Halfa, Dongola, Khartoum von Norden nach Süden an.",
+        "hu": "Kattints ezekre északról délre: Wadi Halfa, Dongola, Khartoum.",
+        "ro": "Apasă în ordine de la nord la sud: Wadi Halfa, Dongola, Khartoum.",
+        "en": "Click from north to south: Wadi Halfa, Dongola, Khartoum."
+      }
+    },
+    {
+      "id": "sd-sequence-west-east-central",
+      "type": "sequence",
+      "poiIds": [
+        "nyala-cities-v2",
+        "el-obeid-cities-v2",
+        "khartoum-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "nyala-cities-v2",
+        "el-obeid-cities-v2",
+        "khartoum-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Nyala, El Obeid, Khartoum von Westen nach Osten an.",
+        "hu": "Kattints ezekre nyugatról keletre: Nyala, El Obeid, Khartoum.",
+        "ro": "Apasă în ordine de la vest la est: Nyala, El Obeid, Khartoum.",
+        "en": "Click from west to east: Nyala, El Obeid, Khartoum."
+      }
+    },
+    {
+      "id": "sd-sequence-west-east-darfur",
+      "type": "sequence",
+      "poiIds": [
+        "geneina-cities-v2",
+        "nyala-cities-v2",
+        "ed-daein-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "geneina-cities-v2",
+        "nyala-cities-v2",
+        "ed-daein-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Geneina, Nyala, Ed Daein von Westen nach Osten an.",
+        "hu": "Kattints ezekre nyugatról keletre: Geneina, Nyala, Ed Daein.",
+        "ro": "Apasă în ordine de la vest la est: Geneina, Nyala, Ed Daein.",
+        "en": "Click from west to east: Geneina, Nyala, Ed Daein."
+      }
+    },
+    {
+      "id": "sd-sequence-north-south-east",
+      "type": "sequence",
+      "poiIds": [
+        "port-sudan-cities-v2",
+        "kassala-cities-v2",
+        "al-qadarif-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "port-sudan-cities-v2",
+        "kassala-cities-v2",
+        "al-qadarif-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Port Sudan, Kassala, Al Qadarif von Norden nach Süden an.",
+        "hu": "Kattints ezekre északról délre: Port Sudan, Kassala, Al Qadarif.",
+        "ro": "Apasă în ordine de la nord la sud: Port Sudan, Kassala, Al Qadarif.",
+        "en": "Click from north to south: Port Sudan, Kassala, Al Qadarif."
+      }
+    },
+    {
+      "id": "sd-sequence-west-east-river-route",
+      "type": "sequence",
+      "poiIds": [
+        "omdurman-cities-v2",
+        "wad-madani-cities-v2",
+        "kassala-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "omdurman-cities-v2",
+        "wad-madani-cities-v2",
+        "kassala-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Omdurman, Wad Madani, Kassala von Westen nach Osten an.",
+        "hu": "Kattints ezekre nyugatról keletre: Omdurman, Wad Madani, Kassala.",
+        "ro": "Apasă în ordine de la vest la est: Omdurman, Wad Madani, Kassala.",
+        "en": "Click from west to east: Omdurman, Wad Madani, Kassala."
+      }
+    }
+  ]
+}

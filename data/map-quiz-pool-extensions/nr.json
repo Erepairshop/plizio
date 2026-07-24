@@ -1,0 +1,290 @@
+{
+  "nr": [
+    {
+      "id": "nr-find-boe-coast",
+      "type": "find_poi",
+      "targetPoiId": "nauru-boe-cities-v2",
+      "question": {
+        "de": "Finde Boe an der Südwestküste.",
+        "hu": "Keresd meg Boét a délnyugati parton.",
+        "ro": "Găsește Boe pe coasta de sud-vest.",
+        "en": "Find Boe on the southwest coast."
+      }
+    },
+    {
+      "id": "nr-find-anabar-northeast",
+      "type": "find_poi",
+      "targetPoiId": "nauru-anabar-cities-v2",
+      "question": {
+        "de": "Finde Anabar im Nordosten.",
+        "hu": "Keresd meg Anabart északkeleten.",
+        "ro": "Găsește Anabar în nord-est.",
+        "en": "Find Anabar in the northeast."
+      }
+    },
+    {
+      "id": "nr-find-buada-lagoon",
+      "type": "find_poi",
+      "targetPoiId": "nauru-buada-lagoon-life-v2",
+      "question": {
+        "de": "Finde die Buada-Lagune im Inselinneren.",
+        "hu": "Keresd meg a Buada-lagúnát a sziget belsejében.",
+        "ro": "Găsește Laguna Buada în interiorul insulei.",
+        "en": "Find Buada Lagoon in the island's interior."
+      }
+    },
+    {
+      "id": "nr-find-command-ridge",
+      "type": "find_poi",
+      "targetPoiId": "nauru-command-ridge-landmarks-v2",
+      "question": {
+        "de": "Finde Command Ridge.",
+        "hu": "Keresd meg a Command Ridge-et.",
+        "ro": "Găsește Command Ridge.",
+        "en": "Find Command Ridge."
+      }
+    },
+    {
+      "id": "nr-find-aiwo-port",
+      "type": "find_poi",
+      "targetPoiId": "nauru-aiwo-port-economic-v2",
+      "question": {
+        "de": "Finde den Hafen von Aiwo.",
+        "hu": "Keresd meg Aiwo kikötőjét.",
+        "ro": "Găsește portul din Aiwo.",
+        "en": "Find Aiwo Port."
+      }
+    },
+    {
+      "id": "nr-find-anibare-bay",
+      "type": "find_poi",
+      "targetPoiId": "nauru-anibare-bay-nature-v2",
+      "question": {
+        "de": "Finde die Anibare-Bucht an der Ostseite.",
+        "hu": "Keresd meg az Anibare-öblöt a keleti oldalon.",
+        "ro": "Găsește Golful Anibare pe partea estică.",
+        "en": "Find Anibare Bay on the eastern side."
+      }
+    },
+    {
+      "id": "nr-region-meneng-southeast",
+      "type": "find_region",
+      "targetRegionId": "NRU-4982",
+      "question": {
+        "de": "Finde den Distrikt Meneng im Südosten.",
+        "hu": "Keresd meg Meneng körzetét délkeleten.",
+        "ro": "Găsește districtul Meneng în sud-est.",
+        "en": "Find Meneng District in the southeast."
+      }
+    },
+    {
+      "id": "nr-region-yaren-south",
+      "type": "find_region",
+      "targetRegionId": "NRU-4983",
+      "question": {
+        "de": "Finde den Distrikt Yaren im Süden.",
+        "hu": "Keresd meg Yaren körzetét délen.",
+        "ro": "Găsește districtul Yaren în sud.",
+        "en": "Find Yaren District in the south."
+      }
+    },
+    {
+      "id": "nr-region-denigomodu-west",
+      "type": "find_region",
+      "targetRegionId": "NRU-4973",
+      "question": {
+        "de": "Finde den Distrikt Denigomodu an der Westseite.",
+        "hu": "Keresd meg Denigomodu körzetét a nyugati oldalon.",
+        "ro": "Găsește districtul Denigomodu pe partea vestică.",
+        "en": "Find Denigomodu District on the western side."
+      }
+    },
+    {
+      "id": "nr-region-anabar-northeast",
+      "type": "find_region",
+      "targetRegionId": "NRU-4979",
+      "question": {
+        "de": "Finde den Distrikt Anabar im Nordosten.",
+        "hu": "Keresd meg Anabar körzetét északkeleten.",
+        "ro": "Găsește districtul Anabar în nord-est.",
+        "en": "Find Anabar District in the northeast."
+      }
+    },
+    {
+      "id": "nr-region-ijuw-peninsula",
+      "type": "find_region",
+      "targetRegionId": "NRU-4980",
+      "question": {
+        "de": "Finde den Distrikt Ijuw an der östlichen Nordküste.",
+        "hu": "Keresd meg Ijuw körzetét az északi part keleti részén.",
+        "ro": "Găsește districtul Ijuw pe partea estică a coastei de nord.",
+        "en": "Find Ijuw District on the eastern part of the north coast."
+      }
+    },
+    {
+      "id": "nr-odd-landlocked-buada",
+      "type": "odd_one_out",
+      "poiIds": [
+        "nauru-buada-cities-v2",
+        "nauru-aiwo-cities-v2",
+        "nauru-ewa-cities-v2",
+        "nauru-anibare-cities-v2"
+      ],
+      "targetPoiId": "nauru-buada-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte ist kein Küstenort?",
+        "hu": "Melyik hely nem tengerparti település?",
+        "ro": "Care dintre aceste locuri nu este o așezare de coastă?",
+        "en": "Which of these places is not a coastal settlement?"
+      }
+    },
+    {
+      "id": "nr-odd-southwest-boe",
+      "type": "odd_one_out",
+      "poiIds": [
+        "nauru-anabar-cities-v2",
+        "nauru-anetan-cities-v2",
+        "nauru-baitsi-cities-v2",
+        "nauru-boe-cities-v2"
+      ],
+      "targetPoiId": "nauru-boe-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt im Südwesten statt an der Nordseite der Insel?",
+        "hu": "Melyik hely fekszik délnyugaton, nem pedig a sziget északi oldalán?",
+        "ro": "Care dintre aceste locuri se află în sud-vest, nu pe partea nordică a insulei?",
+        "en": "Which of these places lies in the southwest rather than on the island's north side?"
+      }
+    },
+    {
+      "id": "nr-odd-government-not-transport",
+      "type": "odd_one_out",
+      "poiIds": [
+        "nauru-aiwo-port-economic-v2",
+        "nauru-anibare-harbour-economic-v2",
+        "nauru-airport-terminal-landmarks-v2",
+        "nauru-parliament-house-landmarks-v2"
+      ],
+      "targetPoiId": "nauru-parliament-house-landmarks-v2",
+      "question": {
+        "de": "Welcher dieser Punkte ist ein Regierungsgebäude und kein Verkehrsort?",
+        "hu": "Melyik pont kormányzati épület, nem pedig közlekedési helyszín?",
+        "ro": "Care dintre aceste puncte este o clădire guvernamentală, nu un loc de transport?",
+        "en": "Which of these points is a government building rather than a transport site?"
+      }
+    },
+    {
+      "id": "nr-odd-south-point",
+      "type": "odd_one_out",
+      "poiIds": [
+        "nauru-anetan-cities-v2",
+        "nauru-ewa-cities-v2",
+        "nauru-baitsi-cities-v2",
+        "nauru-meneng-cities-v2"
+      ],
+      "targetPoiId": "nauru-meneng-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt im Süden statt im Norden der Insel?",
+        "hu": "Melyik hely fekszik délen, nem pedig a sziget északi részén?",
+        "ro": "Care dintre aceste locuri se află în sud, nu în partea nordică a insulei?",
+        "en": "Which of these places lies in the south rather than the northern part of the island?"
+      }
+    },
+    {
+      "id": "nr-odd-not-east-side",
+      "type": "odd_one_out",
+      "poiIds": [
+        "nauru-anibare-bay-nature-v2",
+        "nauru-anibare-escarpment-relief-v2",
+        "nauru-eastern-rim-relief-v2",
+        "nauru-yangor-cliffs-nature-v2"
+      ],
+      "targetPoiId": "nauru-yangor-cliffs-nature-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht auf der Ostseite von Nauru?",
+        "hu": "Melyik hely nem Nauru keleti oldalán található?",
+        "ro": "Care dintre aceste locuri nu se află pe partea estică a Naurului?",
+        "en": "Which of these places is not on the eastern side of Nauru?"
+      }
+    },
+    {
+      "id": "nr-order-west-east-transport",
+      "type": "sequence",
+      "poiIds": [
+        "nauru-aiwo-port-economic-v2",
+        "nauru-airport-terminal-landmarks-v2",
+        "nauru-anibare-harbour-economic-v2"
+      ],
+      "orderedPoiIds": [
+        "nauru-aiwo-port-economic-v2",
+        "nauru-airport-terminal-landmarks-v2",
+        "nauru-anibare-harbour-economic-v2"
+      ],
+      "question": {
+        "de": "Klicke den Hafen von Aiwo, den Flughafen-Terminal und den Bootshafen von Anibare von Westen nach Osten an.",
+        "hu": "Kattints Aiwo kikötőjére, a repülőtéri terminálra és Anibare kikötőjére nyugatról keletre.",
+        "ro": "Apasă portul din Aiwo, terminalul aeroportului și portul din Anibare de la vest la est.",
+        "en": "Click Aiwo Port, the airport terminal, and Anibare Boat Harbour from west to east."
+      }
+    },
+    {
+      "id": "nr-order-north-south-districts",
+      "type": "sequence",
+      "poiIds": [
+        "nauru-ewa-cities-v2",
+        "nauru-buada-cities-v2",
+        "nauru-meneng-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "nauru-ewa-cities-v2",
+        "nauru-buada-cities-v2",
+        "nauru-meneng-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Ewa, Buada und Meneng von Norden nach Süden an.",
+        "hu": "Kattints Ewára, Buadára és Menengre északról délre.",
+        "ro": "Apasă Ewa, Buada și Meneng de la nord la sud.",
+        "en": "Click Ewa, Buada, and Meneng from north to south."
+      }
+    },
+    {
+      "id": "nr-order-south-north-landmarks",
+      "type": "sequence",
+      "poiIds": [
+        "nauru-meneng-beach-nature-v2",
+        "nauru-command-ridge-landmarks-v2",
+        "nauru-anetan-frigatebird-nesting-life-v2"
+      ],
+      "orderedPoiIds": [
+        "nauru-meneng-beach-nature-v2",
+        "nauru-command-ridge-landmarks-v2",
+        "nauru-anetan-frigatebird-nesting-life-v2"
+      ],
+      "question": {
+        "de": "Klicke Meneng Beach, Command Ridge und die Vogelbrutstätte von Anetan von Süden nach Norden an.",
+        "hu": "Kattints a Meneng strandra, a Command Ridge-re és az anetani madárfészkelő helyre délről északra.",
+        "ro": "Apasă plaja Meneng, Command Ridge și locul de cuibărit din Anetan de la sud la nord.",
+        "en": "Click Meneng Beach, Command Ridge, and the Anetan bird nesting site from south to north."
+      }
+    },
+    {
+      "id": "nr-order-west-east-mixed",
+      "type": "sequence",
+      "poiIds": [
+        "nauru-yangor-cliffs-nature-v2",
+        "nauru-buada-lagoon-life-v2",
+        "nauru-museum-landmarks-v2"
+      ],
+      "orderedPoiIds": [
+        "nauru-yangor-cliffs-nature-v2",
+        "nauru-buada-lagoon-life-v2",
+        "nauru-museum-landmarks-v2"
+      ],
+      "question": {
+        "de": "Klicke die Yangor Cliffs, die Buada-Lagune und das Nauru Museum von Westen nach Osten an.",
+        "hu": "Kattints a Yangor-sziklákra, a Buada-lagúnára és a Nauru Múzeumra nyugatról keletre.",
+        "ro": "Apasă stâncile Yangor, Laguna Buada și Muzeul Nauru de la vest la est.",
+        "en": "Click Yangor Cliffs, Buada Lagoon, and the Nauru Museum from west to east."
+      }
+    }
+  ]
+}

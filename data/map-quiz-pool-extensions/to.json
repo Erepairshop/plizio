@@ -1,0 +1,296 @@
+{
+  "to": [
+    {
+      "id": "to-find-fuaamotu-airport",
+      "type": "find_poi",
+      "targetPoiId": "tonga-fuaamotu-cities-v2",
+      "question": {
+        "de": "Finde Fua'amotu auf Tongatapu.",
+        "hu": "Keresd meg Fua'amotut Tongatapu szigetén.",
+        "ro": "Găsește Fua'amotu pe insula Tongatapu.",
+        "en": "Find Fua'amotu on Tongatapu."
+      }
+    },
+    {
+      "id": "to-find-haveluloto",
+      "type": "find_poi",
+      "targetPoiId": "tonga-haveluloto-cities-v2",
+      "question": {
+        "de": "Finde Haveluloto westlich von Nuku'alofa.",
+        "hu": "Keresd meg Havelulotót Nuku'alofától nyugatra.",
+        "ro": "Găsește Haveluloto la vest de Nuku'alofa.",
+        "en": "Find Haveluloto west of Nuku'alofa."
+      }
+    },
+    {
+      "id": "to-find-lapaha",
+      "type": "find_poi",
+      "targetPoiId": "tonga-lapaha-cities-v2",
+      "question": {
+        "de": "Finde Lapaha auf Tongatapu.",
+        "hu": "Keresd meg Lapahát Tongatapu szigetén.",
+        "ro": "Găsește Lapaha pe insula Tongatapu.",
+        "en": "Find Lapaha on Tongatapu."
+      }
+    },
+    {
+      "id": "to-find-veitongo",
+      "type": "find_poi",
+      "targetPoiId": "tonga-veitongo-cities-v2",
+      "question": {
+        "de": "Finde Veitongo in der Nähe der Hauptstadtregion.",
+        "hu": "Keresd meg Veitongót a fővárosi térség közelében.",
+        "ro": "Găsește Veitongo în apropierea regiunii capitalei.",
+        "en": "Find Veitongo near the capital area."
+      }
+    },
+    {
+      "id": "to-find-falehau",
+      "type": "find_poi",
+      "targetPoiId": "tonga-falehau-cities-v2",
+      "question": {
+        "de": "Finde Falehau in den Niuas.",
+        "hu": "Keresd meg Falehaut a Niuas szigetcsoportban.",
+        "ro": "Găsește Falehau în grupul Niuas.",
+        "en": "Find Falehau in the Niuas."
+      }
+    },
+    {
+      "id": "to-find-vaipoa",
+      "type": "find_poi",
+      "targetPoiId": "tonga-vaipoa-cities-v2",
+      "question": {
+        "de": "Finde Vaipoa auf Niuatoputapu.",
+        "hu": "Keresd meg Vaipoát Niuatoputapu szigetén.",
+        "ro": "Găsește Vaipoa pe insula Niuatoputapu.",
+        "en": "Find Vaipoa on Niuatoputapu."
+      }
+    },
+    {
+      "id": "to-find-tufuvai",
+      "type": "find_poi",
+      "targetPoiId": "tonga-tufuvai-cities-v2",
+      "question": {
+        "de": "Finde Tufuvai auf 'Eua.",
+        "hu": "Keresd meg Tufuvait 'Eua szigetén.",
+        "ro": "Găsește Tufuvai pe 'Eua.",
+        "en": "Find Tufuvai on 'Eua."
+      }
+    },
+    {
+      "id": "to-find-feletoa",
+      "type": "find_poi",
+      "targetPoiId": "tonga-feletoa-cities-v2",
+      "question": {
+        "de": "Finde Feletoa in der Inselgruppe Vava'u.",
+        "hu": "Keresd meg Feletoát a Vava'u szigetcsoportban.",
+        "ro": "Găsește Feletoa în grupul de insule Vava'u.",
+        "en": "Find Feletoa in the Vava'u island group."
+      }
+    },
+    {
+      "id": "to-find-longomapu",
+      "type": "find_poi",
+      "targetPoiId": "tonga-longomapu-cities-v2",
+      "question": {
+        "de": "Finde Longomapu auf Vava'u.",
+        "hu": "Keresd meg Longomaput Vava'u szigetén.",
+        "ro": "Găsește Longomapu pe Vava'u.",
+        "en": "Find Longomapu on Vava'u."
+      }
+    },
+    {
+      "id": "to-find-fangaleounga",
+      "type": "find_poi",
+      "targetPoiId": "tonga-fangaleounga-cities-v2",
+      "question": {
+        "de": "Finde Fangale'ounga in Ha'apai.",
+        "hu": "Keresd meg Fangale'oungát Ha'apai szigetcsoportjában.",
+        "ro": "Găsește Fangale'ounga în Ha'apai.",
+        "en": "Find Fangale'ounga in Ha'apai."
+      }
+    },
+    {
+      "id": "to-region-niuas-far-north",
+      "type": "find_region",
+      "targetRegionId": "TON-4947",
+      "question": {
+        "de": "Finde die Niuas ganz im Norden des Königreichs.",
+        "hu": "Keresd meg a királyság legészakibb részén fekvő Niuas szigetcsoportot.",
+        "ro": "Găsește Niuas, grupul aflat în extremul nord al regatului.",
+        "en": "Find the Niuas in the far north of the kingdom."
+      }
+    },
+    {
+      "id": "to-region-eua-separate-island",
+      "type": "find_region",
+      "targetRegionId": "TON-4949",
+      "question": {
+        "de": "Finde 'Eua, die separate Insel südöstlich von Tongatapu.",
+        "hu": "Keresd meg 'Eua szigetét, amely Tongataputól délkeletre fekszik különálló egységként.",
+        "ro": "Găsește 'Eua, insula separată aflată la sud-est de Tongatapu.",
+        "en": "Find 'Eua, the separate island southeast of Tongatapu."
+      }
+    },
+    {
+      "id": "to-odd-niuas-vs-tongatapu",
+      "type": "odd_one_out",
+      "poiIds": [
+        "tonga-nukualofa-cities-v2",
+        "tonga-haveluloto-cities-v2",
+        "tonga-vaini-cities-v2",
+        "tonga-falehau-cities-v2"
+      ],
+      "targetPoiId": "tonga-falehau-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt in den Niuas statt auf Tongatapu?",
+        "hu": "Melyik hely fekszik a Niuas szigetcsoportban Tongatapu helyett?",
+        "ro": "Care loc se află în Niuas, nu pe Tongatapu?",
+        "en": "Which place is in the Niuas rather than on Tongatapu?"
+      }
+    },
+    {
+      "id": "to-odd-eua-vs-tongatapu",
+      "type": "odd_one_out",
+      "poiIds": [
+        "tonga-veitongo-cities-v2",
+        "tonga-lapaha-cities-v2",
+        "tonga-fuaamotu-cities-v2",
+        "tonga-tufuvai-cities-v2"
+      ],
+      "targetPoiId": "tonga-tufuvai-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt auf 'Eua statt auf Tongatapu?",
+        "hu": "Melyik hely fekszik 'Eua szigetén Tongatapu helyett?",
+        "ro": "Care loc se află pe 'Eua, nu pe Tongatapu?",
+        "en": "Which place is on 'Eua rather than on Tongatapu?"
+      }
+    },
+    {
+      "id": "to-odd-haapai-vs-vavau",
+      "type": "odd_one_out",
+      "poiIds": [
+        "tonga-neiafu-cities-v2",
+        "tonga-feletoa-cities-v2",
+        "tonga-vaimalo-cities-v2",
+        "tonga-fangaleounga-cities-v2"
+      ],
+      "targetPoiId": "tonga-fangaleounga-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt in Ha'apai statt in Vava'u?",
+        "hu": "Melyik hely fekszik Ha'apai szigetcsoportjában Vava'u helyett?",
+        "ro": "Care loc se află în Ha'apai, nu în Vava'u?",
+        "en": "Which place is in Ha'apai rather than in Vava'u?"
+      }
+    },
+    {
+      "id": "to-odd-vavau-vs-tongatapu",
+      "type": "odd_one_out",
+      "poiIds": [
+        "tonga-nukualofa-cities-v2",
+        "tonga-haveluloto-cities-v2",
+        "tonga-vaini-cities-v2",
+        "tonga-longomapu-cities-v2"
+      ],
+      "targetPoiId": "tonga-longomapu-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt in Vava'u statt auf Tongatapu?",
+        "hu": "Melyik hely fekszik Vava'u szigetcsoportjában Tongatapu helyett?",
+        "ro": "Care loc se află în Vava'u, nu pe Tongatapu?",
+        "en": "Which place is in Vava'u rather than on Tongatapu?"
+      }
+    },
+    {
+      "id": "to-sequence-north-south-four-groups",
+      "type": "sequence",
+      "poiIds": [
+        "tonga-falehau-cities-v2",
+        "tonga-neiafu-cities-v2",
+        "tonga-pangai-haapai-cities-v2",
+        "tonga-nukualofa-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "tonga-falehau-cities-v2",
+        "tonga-neiafu-cities-v2",
+        "tonga-pangai-haapai-cities-v2",
+        "tonga-nukualofa-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Falehau, Neiafu, Pangai und Nuku'alofa von Norden nach Süden an.",
+        "hu": "Kattints Falehaura, Neiafura, Pangaire és Nuku'alofára északról délre.",
+        "ro": "Apasă Falehau, Neiafu, Pangai și Nuku'alofa de la nord la sud.",
+        "en": "Click Falehau, Neiafu, Pangai and Nuku'alofa from north to south."
+      }
+    },
+    {
+      "id": "to-sequence-south-north-island-chain",
+      "type": "sequence",
+      "poiIds": [
+        "tonga-tufuvai-cities-v2",
+        "tonga-nukualofa-cities-v2",
+        "tonga-pangai-haapai-cities-v2",
+        "tonga-vaipoa-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "tonga-tufuvai-cities-v2",
+        "tonga-nukualofa-cities-v2",
+        "tonga-pangai-haapai-cities-v2",
+        "tonga-vaipoa-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Tufuvai, Nuku'alofa, Pangai und Vaipoa von Süden nach Norden an.",
+        "hu": "Kattints Tufuvaira, Nuku'alofára, Pangaire és Vaipoára délről északra.",
+        "ro": "Apasă Tufuvai, Nuku'alofa, Pangai și Vaipoa de la sud la nord.",
+        "en": "Click Tufuvai, Nuku'alofa, Pangai and Vaipoa from south to north."
+      }
+    },
+    {
+      "id": "to-sequence-north-south-five-groups",
+      "type": "sequence",
+      "poiIds": [
+        "tonga-vaipoa-cities-v2",
+        "tonga-neiafu-cities-v2",
+        "tonga-fangaleounga-cities-v2",
+        "tonga-nukualofa-cities-v2",
+        "tonga-ohonua-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "tonga-vaipoa-cities-v2",
+        "tonga-neiafu-cities-v2",
+        "tonga-fangaleounga-cities-v2",
+        "tonga-nukualofa-cities-v2",
+        "tonga-ohonua-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Vaipoa, Neiafu, Fangale'ounga, Nuku'alofa und 'Ohonua von Norden nach Süden an.",
+        "hu": "Kattints Vaipoára, Neiafura, Fangale'oungára, Nuku'alofára és 'Ohonuára északról délre.",
+        "ro": "Apasă Vaipoa, Neiafu, Fangale'ounga, Nuku'alofa și 'Ohonua de la nord la sud.",
+        "en": "Click Vaipoa, Neiafu, Fangale'ounga, Nuku'alofa and 'Ohonua from north to south."
+      }
+    },
+    {
+      "id": "to-sequence-south-north-capital-chain",
+      "type": "sequence",
+      "poiIds": [
+        "tonga-ohonua-cities-v2",
+        "tonga-nukualofa-cities-v2",
+        "tonga-pangai-haapai-cities-v2",
+        "tonga-neiafu-cities-v2",
+        "tonga-falehau-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "tonga-ohonua-cities-v2",
+        "tonga-nukualofa-cities-v2",
+        "tonga-pangai-haapai-cities-v2",
+        "tonga-neiafu-cities-v2",
+        "tonga-falehau-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke 'Ohonua, Nuku'alofa, Pangai, Neiafu und Falehau von Süden nach Norden an.",
+        "hu": "Kattints 'Ohonuára, Nuku'alofára, Pangaire, Neiafura és Falehaura délről északra.",
+        "ro": "Apasă 'Ohonua, Nuku'alofa, Pangai, Neiafu și Falehau de la sud la nord.",
+        "en": "Click 'Ohonua, Nuku'alofa, Pangai, Neiafu and Falehau from south to north."
+      }
+    }
+  ]
+}

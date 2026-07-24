@@ -1,0 +1,298 @@
+{
+  "hu": [
+    {
+      "id": "hu-find-miskolc",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Miskolc im Nordosten Ungarns.",
+        "hu": "Keresd meg Miskolcot Magyarország északkeleti részén.",
+        "ro": "Găsește Miskolc în nord-estul Ungariei.",
+        "en": "Find Miskolc in northeastern Hungary."
+      },
+      "targetPoiId": "miskolc"
+    },
+    {
+      "id": "hu-find-gyor",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Győr im Nordwesten des Landes?",
+        "hu": "Hol található Győr az ország északnyugati részén?",
+        "ro": "Unde se află Győr în nord-vestul țării?",
+        "en": "Where is Győr in the northwest of the country?"
+      },
+      "targetPoiId": "gyor"
+    },
+    {
+      "id": "hu-find-nyiregyhaza",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Nyíregyháza nahe der nordöstlichen Landesgrenze.",
+        "hu": "Keresd meg Nyíregyházát az északkeleti országhatár közelében.",
+        "ro": "Găsește Nyíregyháza aproape de granița din nord-est.",
+        "en": "Find Nyíregyháza near the northeastern border."
+      },
+      "targetPoiId": "nyiregyhaza"
+    },
+    {
+      "id": "hu-find-kecskemet",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Kecskemét in der Großen Ungarischen Tiefebene.",
+        "hu": "Keresd meg Kecskemétet az Alföldön.",
+        "ro": "Găsește Kecskemét în Câmpia Mare Ungară.",
+        "en": "Find Kecskemét in the Great Hungarian Plain."
+      },
+      "targetPoiId": "kecskemet"
+    },
+    {
+      "id": "hu-find-sopron",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Sopron an der österreichischen Grenze?",
+        "hu": "Hol található Sopron az osztrák határnál?",
+        "ro": "Unde se află Sopron la granița cu Austria?",
+        "en": "Where is Sopron on the Austrian border?"
+      },
+      "targetPoiId": "sopron"
+    },
+    {
+      "id": "hu-find-esztergom",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Esztergom an der Donau im Norden.",
+        "hu": "Keresd meg Esztergomot a Dunánál, északon.",
+        "ro": "Găsește Esztergom pe Dunăre, în nord.",
+        "en": "Find Esztergom on the Danube in the north."
+      },
+      "targetPoiId": "esztergom"
+    },
+    {
+      "id": "hu-region-borsod-abauj-zemplen",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf das Komitat Borsod-Abaúj-Zemplén mit Miskolc.",
+        "hu": "Kattints Borsod-Abaúj-Zemplén vármegyére, ahol Miskolc található.",
+        "ro": "Apasă pe județul Borsod-Abaúj-Zemplén, unde se află Miskolc.",
+        "en": "Click Borsod-Abaúj-Zemplén County, where Miskolc is located."
+      },
+      "targetRegionId": "HU-BZ"
+    },
+    {
+      "id": "hu-region-gyor-moson-sopron",
+      "type": "find_region",
+      "question": {
+        "de": "Finde das Komitat Győr-Moson-Sopron im äußersten Nordwesten.",
+        "hu": "Keresd meg a legészaknyugatibb Győr-Moson-Sopron vármegyét.",
+        "ro": "Găsește județul Győr-Moson-Sopron din extremul nord-vest.",
+        "en": "Find Győr-Moson-Sopron County in the far northwest."
+      },
+      "targetRegionId": "HU-GS"
+    },
+    {
+      "id": "hu-region-komarom-esztergom",
+      "type": "find_region",
+      "question": {
+        "de": "Wo liegt das Komitat Komárom-Esztergom mit Esztergom und Tatabánya?",
+        "hu": "Hol található Komárom-Esztergom vármegye Esztergommal és Tatabányával?",
+        "ro": "Unde se află județul Komárom-Esztergom, cu Esztergom și Tatabánya?",
+        "en": "Where is Komárom-Esztergom County, with Esztergom and Tatabánya?"
+      },
+      "targetRegionId": "HU-KE"
+    },
+    {
+      "id": "hu-region-veszprem",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf das Komitat Veszprém am Nordufer des Balaton.",
+        "hu": "Kattints Veszprém vármegyére a Balaton északi partján.",
+        "ro": "Apasă pe județul Veszprém de pe țărmul nordic al Balatonului.",
+        "en": "Click Veszprém County on the northern shore of Lake Balaton."
+      },
+      "targetRegionId": "HU-VE"
+    },
+    {
+      "id": "hu-region-zala",
+      "type": "find_region",
+      "question": {
+        "de": "Finde das südwestliche Komitat Zala mit Keszthely und Hévíz.",
+        "hu": "Keresd meg a délnyugati Zala vármegyét Keszthellyel és Hévízzel.",
+        "ro": "Găsește județul Zala din sud-vest, cu Keszthely și Hévíz.",
+        "en": "Find southwestern Zala County, with Keszthely and Hévíz."
+      },
+      "targetRegionId": "HU-ZA"
+    },
+    {
+      "id": "hu-odd-not-transdanubia",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Städte liegt nicht in Transdanubien?",
+        "hu": "Melyik város nem a Dunántúlon található?",
+        "ro": "Care dintre aceste orașe nu se află în Transdanubia?",
+        "en": "Which of these cities is not in Transdanubia?"
+      },
+      "poiIds": [
+        "gyor",
+        "sopron",
+        "szombathely",
+        "debrecen"
+      ],
+      "targetPoiId": "debrecen"
+    },
+    {
+      "id": "hu-odd-not-balaton",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Orte liegt nicht am Balaton oder in seiner unmittelbaren Nähe?",
+        "hu": "Melyik hely nem a Balatonnál vagy annak közvetlen közelében található?",
+        "ro": "Care dintre aceste locuri nu se află la Balaton sau foarte aproape de el?",
+        "en": "Which of these places is not on or immediately near Lake Balaton?"
+      },
+      "poiIds": [
+        "balatonfured",
+        "tihany",
+        "keszthely",
+        "eger"
+      ],
+      "targetPoiId": "eger"
+    },
+    {
+      "id": "hu-odd-not-borsod",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Städte liegt nicht im Komitat Borsod-Abaúj-Zemplén?",
+        "hu": "Melyik város nem Borsod-Abaúj-Zemplén vármegyében található?",
+        "ro": "Care dintre aceste orașe nu se află în județul Borsod-Abaúj-Zemplén?",
+        "en": "Which of these cities is not in Borsod-Abaúj-Zemplén County?"
+      },
+      "poiIds": [
+        "miskolc",
+        "tokaj",
+        "sarospatak",
+        "nyiregyhaza"
+      ],
+      "targetPoiId": "nyiregyhaza"
+    },
+    {
+      "id": "hu-odd-not-west-border",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Städte liegt nicht nahe der westlichen Landesgrenze?",
+        "hu": "Melyik város nem a nyugati országhatár közelében fekszik?",
+        "ro": "Care dintre aceste orașe nu se află aproape de granița vestică?",
+        "en": "Which of these cities is not near the western border?"
+      },
+      "poiIds": [
+        "sopron",
+        "koszeg",
+        "szentgotthard",
+        "szolnok"
+      ],
+      "targetPoiId": "szolnok"
+    },
+    {
+      "id": "hu-odd-not-bekes",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Städte liegt nicht im Komitat Békés?",
+        "hu": "Melyik város nem Békés vármegyében található?",
+        "ro": "Care dintre aceste orașe nu se află în județul Békés?",
+        "en": "Which of these cities is not in Békés County?"
+      },
+      "poiIds": [
+        "bekescsaba",
+        "gyula",
+        "oroshaza",
+        "szeged"
+      ],
+      "targetPoiId": "szeged"
+    },
+    {
+      "id": "hu-sequence-danube-north-south",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke diese Städte von Nord nach Süd an: Esztergom, Budapest, Dunaújváros, Baja.",
+        "hu": "Kattints ezekre a városokra északról délre: Esztergom, Budapest, Dunaújváros, Baja.",
+        "ro": "Apasă aceste orașe de la nord la sud: Esztergom, Budapesta, Dunaújváros, Baja.",
+        "en": "Click these cities from north to south: Esztergom, Budapest, Dunaújváros, Baja."
+      },
+      "poiIds": [
+        "esztergom",
+        "budapest-city",
+        "dunaujvaros",
+        "baja"
+      ],
+      "orderedPoiIds": [
+        "esztergom",
+        "budapest-city",
+        "dunaujvaros",
+        "baja"
+      ]
+    },
+    {
+      "id": "hu-sequence-southwest-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke diese Städte von West nach Ost an: Pécs, Szekszárd, Kecskemét, Békéscsaba.",
+        "hu": "Kattints ezekre a városokra nyugatról keletre: Pécs, Szekszárd, Kecskemét, Békéscsaba.",
+        "ro": "Apasă aceste orașe de la vest la est: Pécs, Szekszárd, Kecskemét, Békéscsaba.",
+        "en": "Click these cities from west to east: Pécs, Szekszárd, Kecskemét, Békéscsaba."
+      },
+      "poiIds": [
+        "pecs",
+        "szekszard",
+        "kecskemet",
+        "bekescsaba"
+      ],
+      "orderedPoiIds": [
+        "pecs",
+        "szekszard",
+        "kecskemet",
+        "bekescsaba"
+      ]
+    },
+    {
+      "id": "hu-sequence-northeast-north-south",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke diese Orte von Nord nach Süd an: Sárospatak, Tokaj, Tiszaújváros, Mezőkövesd.",
+        "hu": "Kattints ezekre a helyekre északról délre: Sárospatak, Tokaj, Tiszaújváros, Mezőkövesd.",
+        "ro": "Apasă aceste locuri de la nord la sud: Sárospatak, Tokaj, Tiszaújváros, Mezőkövesd.",
+        "en": "Click these places from north to south: Sárospatak, Tokaj, Tiszaújváros, Mezőkövesd."
+      },
+      "poiIds": [
+        "sarospatak",
+        "tokaj",
+        "tiszaujvaros",
+        "mezokovesd"
+      ],
+      "orderedPoiIds": [
+        "sarospatak",
+        "tokaj",
+        "tiszaujvaros",
+        "mezokovesd"
+      ]
+    },
+    {
+      "id": "hu-sequence-balaton-budapest-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke diese Orte von West nach Ost an: Keszthely, Balatonfüred, Székesfehérvár, Budapest.",
+        "hu": "Kattints ezekre a helyekre nyugatról keletre: Keszthely, Balatonfüred, Székesfehérvár, Budapest.",
+        "ro": "Apasă aceste locuri de la vest la est: Keszthely, Balatonfüred, Székesfehérvár, Budapesta.",
+        "en": "Click these places from west to east: Keszthely, Balatonfüred, Székesfehérvár, Budapest."
+      },
+      "poiIds": [
+        "keszthely",
+        "balatonfured",
+        "szekesfehervar",
+        "budapest-city"
+      ],
+      "orderedPoiIds": [
+        "keszthely",
+        "balatonfured",
+        "szekesfehervar",
+        "budapest-city"
+      ]
+    }
+  ]
+}

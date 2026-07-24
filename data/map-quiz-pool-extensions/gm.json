@@ -1,0 +1,309 @@
+{
+  "gm": [
+    {
+      "id": "gm-find-barra-ferry-port",
+      "type": "find_poi",
+      "targetPoiId": "barra-cities-v2",
+      "question": {
+        "de": "Finde Barra am Nordufer gegenüber von Banjul.",
+        "hu": "Keresd meg Barrát az északi parton, Banjullal szemben.",
+        "ro": "Găsește Barra pe malul de nord, vizavi de Banjul.",
+        "en": "Find Barra on the north bank opposite Banjul."
+      }
+    },
+    {
+      "id": "gm-find-gunjur-southern-coast",
+      "type": "find_poi",
+      "targetPoiId": "gunjur-cities-v2",
+      "question": {
+        "de": "Finde Gunjur an der südlichen Atlantikküste.",
+        "hu": "Keresd meg Gunjurt a déli atlanti parton.",
+        "ro": "Găsește Gunjur pe coasta sudică a Atlanticului.",
+        "en": "Find Gunjur on the southern Atlantic coast."
+      }
+    },
+    {
+      "id": "gm-find-kuntaur-river-town",
+      "type": "find_poi",
+      "targetPoiId": "kuntaur-cities-v2",
+      "question": {
+        "de": "Finde Kuntaur im zentralen Flusskorridor Gambias.",
+        "hu": "Keresd meg Kuntaurt Gambia középső folyami folyosójában.",
+        "ro": "Găsește Kuntaur în coridorul central al fluviului din Gambia.",
+        "en": "Find Kuntaur in The Gambia's central river corridor."
+      }
+    },
+    {
+      "id": "gm-find-wassu-stone-circles",
+      "type": "find_poi",
+      "targetPoiId": "wassu-stone-circles-history-v2",
+      "question": {
+        "de": "Finde die Steinkreise von Wassu im Landesinneren.",
+        "hu": "Keresd meg a wassui kőköröket az ország belsejében.",
+        "ro": "Găsește cercurile de piatră de la Wassu în interiorul țării.",
+        "en": "Find the Wassu Stone Circles in the interior."
+      }
+    },
+    {
+      "id": "gm-find-kunta-kinteh-island",
+      "type": "find_poi",
+      "targetPoiId": "kunta-kinteh-island-nature-v2",
+      "question": {
+        "de": "Finde Kunta Kinteh Island nahe der Flussmündung.",
+        "hu": "Keresd meg a Kunta Kinteh-szigetet a folyótorkolat közelében.",
+        "ro": "Găsește insula Kunta Kinteh aproape de estuar.",
+        "en": "Find Kunta Kinteh Island near the river estuary."
+      }
+    },
+    {
+      "id": "gm-find-abuko-nature-reserve",
+      "type": "find_poi",
+      "targetPoiId": "abuko-nature-reserve-nature-v2",
+      "question": {
+        "de": "Finde das Abuko-Naturschutzgebiet im Westen des Landes.",
+        "hu": "Keresd meg az Abuko természetvédelmi területet az ország nyugati részén.",
+        "ro": "Găsește rezervația naturală Abuko în vestul țării.",
+        "en": "Find Abuko Nature Reserve in the west of the country."
+      }
+    },
+    {
+      "id": "gm-region-west-coast",
+      "type": "find_region",
+      "targetRegionId": "GMB-5512",
+      "question": {
+        "de": "Klicke auf die Region West Coast im Westen und Südwesten des Landes.",
+        "hu": "Kattints a West Coast régióra az ország nyugati és délnyugati részén.",
+        "ro": "Apasă pe regiunea West Coast din vestul și sud-vestul țării.",
+        "en": "Click the West Coast region in the west and southwest of the country."
+      }
+    },
+    {
+      "id": "gm-region-north-bank",
+      "type": "find_region",
+      "targetRegionId": "GMB-5513",
+      "question": {
+        "de": "Finde die Region North Bank nördlich des Gambia-Flusses.",
+        "hu": "Keresd meg a North Bank régiót a Gambia folyótól északra.",
+        "ro": "Găsește regiunea North Bank la nord de fluviul Gambia.",
+        "en": "Find the North Bank region north of the Gambia River."
+      }
+    },
+    {
+      "id": "gm-region-central-river",
+      "type": "find_region",
+      "targetRegionId": "GMB-2151",
+      "question": {
+        "de": "Klicke auf die Region Central River im mittleren Osten des Landes.",
+        "hu": "Kattints a Central River régióra az ország középső-keleti részén.",
+        "ro": "Apasă pe regiunea Central River din partea central-estică a țării.",
+        "en": "Click the Central River region in the central-east of the country."
+      }
+    },
+    {
+      "id": "gm-region-lower-river",
+      "type": "find_region",
+      "targetRegionId": "GMB-2154",
+      "question": {
+        "de": "Finde die Region Lower River südlich des Flusses im Landeszentrum.",
+        "hu": "Keresd meg a Lower River régiót a folyótól délre, az ország középső részén.",
+        "ro": "Găsește regiunea Lower River la sud de fluviu, în partea centrală a țării.",
+        "en": "Find the Lower River region south of the river in the middle of the country."
+      }
+    },
+    {
+      "id": "gm-odd-atlantic-resorts-vs-east",
+      "type": "odd_one_out",
+      "poiIds": [
+        "bakau-cities-v2",
+        "kololi-beach-nature-v2",
+        "kotu-beach-nature-v2",
+        "koina-cities-v2"
+      ],
+      "targetPoiId": "koina-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht im westlichen Atlantik-Küstenraum?",
+        "hu": "Melyik hely nem a nyugati atlanti partvidéken található?",
+        "ro": "Care loc nu se află în zona atlantică vestică de coastă?",
+        "en": "Which place is not in the western Atlantic coastal zone?"
+      }
+    },
+    {
+      "id": "gm-odd-roots-heritage",
+      "type": "odd_one_out",
+      "poiIds": [
+        "kunta-kinteh-island-nature-v2",
+        "juffureh-village-landmarks-v2",
+        "albarda-historic-site-landmarks-v2",
+        "brikama-cities-v2"
+      ],
+      "targetPoiId": "brikama-cities-v2",
+      "question": {
+        "de": "Welcher Ort gehört nicht zur historischen Achse Albreda-Juffureh an der Flussmündung?",
+        "hu": "Melyik hely nem tartozik az albredai-juffurehi történelmi tengelyhez a torkolatnál?",
+        "ro": "Care loc nu aparține axei istorice Albreda-Juffureh de la estuar?",
+        "en": "Which place is not part of the Albreda-Juffureh historic axis at the estuary?"
+      }
+    },
+    {
+      "id": "gm-odd-central-river-corridor",
+      "type": "odd_one_out",
+      "poiIds": [
+        "janjanbureh-cities-v2",
+        "kuntaur-cities-v2",
+        "wassu-stone-circles-history-v2",
+        "kartong-cities-v2"
+      ],
+      "targetPoiId": "kartong-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht im zentralen Flusskorridor Gambias?",
+        "hu": "Melyik hely nem Gambia középső folyami folyosójában található?",
+        "ro": "Care loc nu se află în coridorul central al fluviului din Gambia?",
+        "en": "Which place is not in The Gambia's central river corridor?"
+      }
+    },
+    {
+      "id": "gm-odd-protected-areas-west",
+      "type": "odd_one_out",
+      "poiIds": [
+        "abuko-nature-reserve-nature-v2",
+        "bijilo-forest-park-nature-v2",
+        "tanji-bird-reserve-nature-v2",
+        "albert-market-landmarks-v2"
+      ],
+      "targetPoiId": "albert-market-landmarks-v2",
+      "question": {
+        "de": "Welcher Ort ist kein Schutzgebiet oder Naturpark im Westen Gambias?",
+        "hu": "Melyik hely nem természetvédelmi terület vagy natúrpark Nyugat-Gambiában?",
+        "ro": "Care loc nu este o arie protejată sau un parc natural din vestul Gambiei?",
+        "en": "Which place is not a protected area or nature park in western The Gambia?"
+      }
+    },
+    {
+      "id": "gm-odd-eastern-trade-centers",
+      "type": "odd_one_out",
+      "poiIds": [
+        "basse-santa-su-cities-v2",
+        "koina-cities-v2",
+        "garowol-cities-v2",
+        "barra-cities-v2"
+      ],
+      "targetPoiId": "barra-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht im Osten oder äußersten Nordosten des Landes?",
+        "hu": "Melyik város nem az ország keleti vagy legészakkeletibb részén fekszik?",
+        "ro": "Care oraș nu se află în estul sau extremul nord-est al țării?",
+        "en": "Which town is not in the east or far northeast of the country?"
+      }
+    },
+    {
+      "id": "gm-sequence-west-east-southern-coast",
+      "type": "sequence",
+      "poiIds": [
+        "sanyang-cities-v2",
+        "gunjur-cities-v2",
+        "brikama-cities-v2",
+        "banjul-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "sanyang-cities-v2",
+        "gunjur-cities-v2",
+        "brikama-cities-v2",
+        "banjul-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Sanyang, Gunjur, Brikama und Banjul von West nach Ost an.",
+        "hu": "Kattints Sanyangra, Gunjurra, Brikamára és Banjulra nyugatról keletre.",
+        "ro": "Apasă Sanyang, Gunjur, Brikama și Banjul de la vest la est.",
+        "en": "Click Sanyang, Gunjur, Brikama, and Banjul from west to east."
+      }
+    },
+    {
+      "id": "gm-sequence-north-south-middle-river",
+      "type": "sequence",
+      "poiIds": [
+        "kaur-cities-v2",
+        "kuntaur-cities-v2",
+        "janjanbureh-cities-v2",
+        "bansang-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "kaur-cities-v2",
+        "kuntaur-cities-v2",
+        "janjanbureh-cities-v2",
+        "bansang-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Kaur, Kuntaur, Janjanbureh und Bansang von Nord nach Süd an.",
+        "hu": "Kattints Kaurra, Kuntaurra, Janjanburehre és Bansangra északról délre.",
+        "ro": "Apasă Kaur, Kuntaur, Janjanbureh și Bansang de la nord la sud.",
+        "en": "Click Kaur, Kuntaur, Janjanbureh, and Bansang from north to south."
+      }
+    },
+    {
+      "id": "gm-sequence-west-east-upriver-towns",
+      "type": "sequence",
+      "poiIds": [
+        "kuntaur-cities-v2",
+        "janjanbureh-cities-v2",
+        "bansang-cities-v2",
+        "basse-santa-su-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "kuntaur-cities-v2",
+        "janjanbureh-cities-v2",
+        "bansang-cities-v2",
+        "basse-santa-su-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Kuntaur, Janjanbureh, Bansang und Basse Santa Su von West nach Ost an.",
+        "hu": "Kattints Kuntaurra, Janjanburehre, Bansangra és Basse Santa Sura nyugatról keletre.",
+        "ro": "Apasă Kuntaur, Janjanbureh, Bansang și Basse Santa Su de la vest la est.",
+        "en": "Click Kuntaur, Janjanbureh, Bansang, and Basse Santa Su from west to east."
+      }
+    },
+    {
+      "id": "gm-sequence-west-east-north-bank-route",
+      "type": "sequence",
+      "poiIds": [
+        "barra-cities-v2",
+        "kerewan-cities-v2",
+        "farafenni-cities-v2",
+        "kaur-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "barra-cities-v2",
+        "kerewan-cities-v2",
+        "farafenni-cities-v2",
+        "kaur-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Barra, Kerewan, Farafenni und Kaur von West nach Ost an.",
+        "hu": "Kattints Barrára, Kerewanra, Farafennire és Kaurra nyugatról keletre.",
+        "ro": "Apasă Barra, Kerewan, Farafenni și Kaur de la vest la est.",
+        "en": "Click Barra, Kerewan, Farafenni, and Kaur from west to east."
+      }
+    },
+    {
+      "id": "gm-sequence-north-south-western-side",
+      "type": "sequence",
+      "poiIds": [
+        "cape-point-nature-v2",
+        "kololi-beach-nature-v2",
+        "brikama-plateau-relief-v2",
+        "kartong-cliffs-relief-v2"
+      ],
+      "orderedPoiIds": [
+        "cape-point-nature-v2",
+        "kololi-beach-nature-v2",
+        "brikama-plateau-relief-v2",
+        "kartong-cliffs-relief-v2"
+      ],
+      "question": {
+        "de": "Klicke Cape Point, Kololi Beach, Brikama Plateau und Kartong Cliffs von Nord nach Süd an.",
+        "hu": "Kattints Cape Pointra, Kololi Beachre, a Brikama-fennsíkra és a Kartong-sziklákra északról délre.",
+        "ro": "Apasă Cape Point, Kololi Beach, Podișul Brikama și Stâncile Kartong de la nord la sud.",
+        "en": "Click Cape Point, Kololi Beach, Brikama Plateau, and Kartong Cliffs from north to south."
+      }
+    }
+  ]
+}

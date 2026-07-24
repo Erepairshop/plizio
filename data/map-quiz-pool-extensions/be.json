@@ -1,0 +1,309 @@
+{
+  "be": [
+    {
+      "id": "be-find-bruges-canals",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Br?gge, die ber?hmte Kanalstadt in Westflandern.",
+        "hu": "Keresd meg Brugge v?ros?t, a h?res csatornav?rost Nyugat-Flandri?ban.",
+        "ro": "G?se?te Bruges, faimosul ora? al canalelor din Flandra de Vest.",
+        "en": "Find Bruges, the famous canal city in West Flanders."
+      },
+      "targetPoiId": "belgium-bruges-cities-v2"
+    },
+    {
+      "id": "be-find-namur-confluence",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Namur, die Hauptstadt der Wallonie am Zusammenfluss von Maas und Sambre?",
+        "hu": "Hol tal?lhat? Namur, Vall?nia f?v?rosa a Meuse ?s a Sambre tal?lkoz?s?n?l?",
+        "ro": "Unde se afl? Namur, capitala Valoniei la confluen?a dintre Meuse ?i Sambre?",
+        "en": "Where is Namur, the capital of Wallonia at the confluence of the Meuse and Sambre?"
+      },
+      "targetPoiId": "belgium-namur-cities-v2"
+    },
+    {
+      "id": "be-find-ostend-coast",
+      "type": "find_poi",
+      "question": {
+        "de": "Klicke auf Ostende an der Nordseek?ste.",
+        "hu": "Kattints Oostende v?ros?ra az ?szaki-tenger partj?n.",
+        "ro": "Apas? pe Ostend de pe coasta M?rii Nordului.",
+        "en": "Click Ostend on the North Sea coast."
+      },
+      "targetPoiId": "belgium-ostend-cities-v2"
+    },
+    {
+      "id": "be-find-dinant-meuse",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Dinant an der Maas s?dlich von Namur.",
+        "hu": "Keresd meg Dinant v?ros?t a Meuse partj?n, Namurt?l d?lre.",
+        "ro": "G?se?te Dinant pe r?ul Meuse, la sud de Namur.",
+        "en": "Find Dinant on the Meuse, south of Namur."
+      },
+      "targetPoiId": "belgium-dinant-cities-v2"
+    },
+    {
+      "id": "be-find-eupen-east",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Eupen im Osten Belgiens nahe der deutschen Grenze?",
+        "hu": "Hol tal?lhat? Eupen Belgium keleti r?sz?n, a n?met hat?r k?zel?ben?",
+        "ro": "Unde se afl? Eupen ?n estul Belgiei, aproape de grani?a cu Germania?",
+        "en": "Where is Eupen in eastern Belgium near the German border?"
+      },
+      "targetPoiId": "belgium-eupen-cities-v2"
+    },
+    {
+      "id": "be-region-brussels-capital",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf die Region Br?ssel-Hauptstadt.",
+        "hu": "Kattints a Br?sszel-f?v?rosi r?gi?ra.",
+        "ro": "Apas? pe Regiunea Capitalei Bruxelles.",
+        "en": "Click the Brussels-Capital Region."
+      },
+      "targetRegionId": "BE-BRU"
+    },
+    {
+      "id": "be-region-hainaut",
+      "type": "find_region",
+      "question": {
+        "de": "Finde die Provinz Hennegau.",
+        "hu": "Keresd meg Hainaut tartom?nyt.",
+        "ro": "G?se?te provincia Hainaut.",
+        "en": "Find the province of Hainaut."
+      },
+      "targetRegionId": "BE-WHT"
+    },
+    {
+      "id": "be-region-liege",
+      "type": "find_region",
+      "question": {
+        "de": "Wo liegt die Provinz L?ttich?",
+        "hu": "Hol tal?lhat? Li?ge tartom?ny?",
+        "ro": "Unde se afl? provincia Li?ge?",
+        "en": "Where is the province of Li?ge?"
+      },
+      "targetRegionId": "BE-WLG"
+    },
+    {
+      "id": "be-region-limburg",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf die Provinz Limburg.",
+        "hu": "Kattints Limburg tartom?nyra.",
+        "ro": "Apas? pe provincia Limburg.",
+        "en": "Click the province of Limburg."
+      },
+      "targetRegionId": "BE-VLI"
+    },
+    {
+      "id": "be-region-luxembourg",
+      "type": "find_region",
+      "question": {
+        "de": "Finde die s?dliche Provinz Luxemburg.",
+        "hu": "Keresd meg a d?li Luxemburg tartom?nyt.",
+        "ro": "G?se?te provincia sudic? Luxemburg.",
+        "en": "Find the southern province of Luxembourg."
+      },
+      "targetRegionId": "BE-WLX"
+    },
+    {
+      "id": "be-odd-coast-inland",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser St?dte liegt nicht an der belgischen K?ste?",
+        "hu": "Melyik v?ros nem a belga tengerparton fekszik?",
+        "ro": "Care dintre aceste ora?e nu se afl? pe coasta belgian??",
+        "en": "Which of these cities is not on the Belgian coast?"
+      },
+      "poiIds": [
+        "belgium-de-panne-cities-v2",
+        "belgium-koksijde-cities-v2",
+        "belgium-ostend-cities-v2",
+        "belgium-ypres-cities-v2"
+      ],
+      "targetPoiId": "belgium-ypres-cities-v2"
+    },
+    {
+      "id": "be-odd-not-wallonia",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser St?dte liegt nicht in der Wallonie?",
+        "hu": "Melyik v?ros nem Vall?ni?ban tal?lhat??",
+        "ro": "Care dintre aceste ora?e nu se afl? ?n Valonia?",
+        "en": "Which of these cities is not in Wallonia?"
+      },
+      "poiIds": [
+        "belgium-mons-cities-v2",
+        "belgium-namur-cities-v2",
+        "belgium-dinant-cities-v2",
+        "belgium-leuven-cities-v2"
+      ],
+      "targetPoiId": "belgium-leuven-cities-v2"
+    },
+    {
+      "id": "be-odd-not-antwerp-province",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser St?dte liegt nicht in der Provinz Antwerpen?",
+        "hu": "Melyik v?ros nem Antwerpen tartom?nyban tal?lhat??",
+        "ro": "Care dintre aceste ora?e nu se afl? ?n provincia Anvers?",
+        "en": "Which of these cities is not in the province of Antwerp?"
+      },
+      "poiIds": [
+        "belgium-antwerp-cities-v2",
+        "belgium-mechelen-cities-v2",
+        "belgium-herentals-cities-v2",
+        "belgium-hasselt-cities-v2"
+      ],
+      "targetPoiId": "belgium-hasselt-cities-v2"
+    },
+    {
+      "id": "be-odd-not-east-flanders",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser St?dte liegt nicht in Ostflandern?",
+        "hu": "Melyik v?ros nem Kelet-Flandri?ban tal?lhat??",
+        "ro": "Care dintre aceste ora?e nu se afl? ?n Flandra de Est?",
+        "en": "Which of these cities is not in East Flanders?"
+      },
+      "poiIds": [
+        "belgium-ghent-cities-v2",
+        "belgium-aalst-cities-v2",
+        "belgium-dendermonde-cities-v2",
+        "belgium-bruges-cities-v2"
+      ],
+      "targetPoiId": "belgium-bruges-cities-v2"
+    },
+    {
+      "id": "be-odd-german-speaking-east",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser St?dte liegt im deutschsprachigen Osten Belgiens?",
+        "hu": "Melyik v?ros fekszik Belgium n?met nyelv? keleti r?sz?n?",
+        "ro": "Care dintre aceste ora?e se afl? ?n estul germanofon al Belgiei?",
+        "en": "Which of these cities lies in Belgium's German-speaking east?"
+      },
+      "poiIds": [
+        "belgium-eupen-cities-v2",
+        "belgium-charleroi-cities-v2",
+        "belgium-namur-cities-v2",
+        "belgium-mons-cities-v2"
+      ],
+      "targetPoiId": "belgium-eupen-cities-v2"
+    },
+    {
+      "id": "be-sequence-west-east-flanders",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke De Panne, Br?gge, Gent und Antwerpen von West nach Ost an.",
+        "hu": "Kattints De Panne-ra, Brugge-re, Gentre ?s Antwerpenre nyugatr?l keletre.",
+        "ro": "Apas? De Panne, Bruges, Gent ?i Anvers de la vest la est.",
+        "en": "Click De Panne, Bruges, Ghent, and Antwerp from west to east."
+      },
+      "poiIds": [
+        "belgium-de-panne-cities-v2",
+        "belgium-bruges-cities-v2",
+        "belgium-ghent-cities-v2",
+        "belgium-antwerp-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "belgium-de-panne-cities-v2",
+        "belgium-bruges-cities-v2",
+        "belgium-ghent-cities-v2",
+        "belgium-antwerp-cities-v2"
+      ]
+    },
+    {
+      "id": "be-sequence-west-east-wallonia",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Tournai, Mons, Namur und L?ttich von West nach Ost an.",
+        "hu": "Kattints Tournai-ra, Monsra, Namurra ?s Li?ge-re nyugatr?l keletre.",
+        "ro": "Apas? Tournai, Mons, Namur ?i Li?ge de la vest la est.",
+        "en": "Click Tournai, Mons, Namur, and Li?ge from west to east."
+      },
+      "poiIds": [
+        "belgium-tournai-cities-v2",
+        "belgium-mons-cities-v2",
+        "belgium-namur-cities-v2",
+        "belgium-liege-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "belgium-tournai-cities-v2",
+        "belgium-mons-cities-v2",
+        "belgium-namur-cities-v2",
+        "belgium-liege-cities-v2"
+      ]
+    },
+    {
+      "id": "be-sequence-north-south-central",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Antwerpen, Mechelen, Br?ssel und Charleroi von Nord nach S?d an.",
+        "hu": "Kattints Antwerpenre, Mechelenre, Br?sszelre ?s Charleroi-ra ?szakr?l d?lre.",
+        "ro": "Apas? Anvers, Mechelen, Bruxelles ?i Charleroi de la nord la sud.",
+        "en": "Click Antwerp, Mechelen, Brussels, and Charleroi from north to south."
+      },
+      "poiIds": [
+        "belgium-antwerp-cities-v2",
+        "belgium-mechelen-cities-v2",
+        "city-brussels",
+        "belgium-charleroi-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "belgium-antwerp-cities-v2",
+        "belgium-mechelen-cities-v2",
+        "city-brussels",
+        "belgium-charleroi-cities-v2"
+      ]
+    },
+    {
+      "id": "be-sequence-north-south-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Genk, L?ttich, Spa und Arlon von Nord nach S?d an.",
+        "hu": "Kattints Genkre, Li?ge-re, Spa-ra ?s Arlonra ?szakr?l d?lre.",
+        "ro": "Apas? Genk, Li?ge, Spa ?i Arlon de la nord la sud.",
+        "en": "Click Genk, Li?ge, Spa, and Arlon from north to south."
+      },
+      "poiIds": [
+        "belgium-genk-cities-v2",
+        "belgium-liege-cities-v2",
+        "belgium-spa-cities-v2",
+        "belgium-arlon-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "belgium-genk-cities-v2",
+        "belgium-liege-cities-v2",
+        "belgium-spa-cities-v2",
+        "belgium-arlon-cities-v2"
+      ]
+    },
+    {
+      "id": "be-sequence-north-south-interior",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Hasselt, L?wen, Namur und Dinant von Nord nach S?d an.",
+        "hu": "Kattints Hasseltre, Leuvenre, Namurra ?s Dinant-ra ?szakr?l d?lre.",
+        "ro": "Apas? Hasselt, Louvain, Namur ?i Dinant de la nord la sud.",
+        "en": "Click Hasselt, Leuven, Namur, and Dinant from north to south."
+      },
+      "poiIds": [
+        "belgium-hasselt-cities-v2",
+        "belgium-leuven-cities-v2",
+        "belgium-namur-cities-v2",
+        "belgium-dinant-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "belgium-hasselt-cities-v2",
+        "belgium-leuven-cities-v2",
+        "belgium-namur-cities-v2",
+        "belgium-dinant-cities-v2"
+      ]
+    }
+  ]
+}

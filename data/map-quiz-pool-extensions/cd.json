@@ -1,0 +1,302 @@
+{
+  "cd": [
+    {
+      "id": "cd-find-matadi",
+      "type": "find_poi",
+      "targetPoiId": "cd-matadi-cities-v2",
+      "question": {
+        "de": "Finde Matadi, den wichtigen Binnenhafen am unteren Kongo.",
+        "hu": "Keresd meg Matadit, az alsó-kongói fontos belvízi kikötőt.",
+        "ro": "Găsește Matadi, importantul port interior de pe Congo inferior.",
+        "en": "Find Matadi, the major inland port on the lower Congo."
+      }
+    },
+    {
+      "id": "cd-find-mbandaka",
+      "type": "find_poi",
+      "targetPoiId": "cd-mbandaka-cities-v2",
+      "question": {
+        "de": "Finde Mbandaka im Nordwesten am Kongo.",
+        "hu": "Keresd meg Mbandakát északnyugaton, a Kongó mentén.",
+        "ro": "Găsește Mbandaka în nord-vest, pe fluviul Congo.",
+        "en": "Find Mbandaka in the northwest on the Congo River."
+      }
+    },
+    {
+      "id": "cd-find-mbuji-mayi",
+      "type": "find_poi",
+      "targetPoiId": "cd-mbuji-mayi-cities-v2",
+      "question": {
+        "de": "Finde Mbuji-Mayi im südlichen Landesinneren.",
+        "hu": "Keresd meg Mbuji-Mayit az ország déli belső részén.",
+        "ro": "Găsește Mbuji-Mayi în interiorul sudic al țării.",
+        "en": "Find Mbuji-Mayi in the south-central interior of the country."
+      }
+    },
+    {
+      "id": "cd-find-kalemie",
+      "type": "find_poi",
+      "targetPoiId": "cd-kalemie-cities-v2",
+      "question": {
+        "de": "Finde Kalemie am Westufer des Tanganjikasees.",
+        "hu": "Keresd meg Kalemiét a Tanganyika-tó nyugati partján.",
+        "ro": "Găsește Kalemie pe țărmul vestic al lacului Tanganyika.",
+        "en": "Find Kalemie on the western shore of Lake Tanganyika."
+      }
+    },
+    {
+      "id": "cd-find-virunga-park",
+      "type": "find_poi",
+      "targetPoiId": "virunga-national-park-life-v2",
+      "question": {
+        "de": "Finde den Virunga-Nationalpark an der nordöstlichen Grenze.",
+        "hu": "Keresd meg a Virunga Nemzeti Parkot az északkeleti határnál.",
+        "ro": "Găsește Parcul Național Virunga la granița de nord-est.",
+        "en": "Find Virunga National Park on the northeastern border."
+      }
+    },
+    {
+      "id": "cd-find-inga-dams",
+      "type": "find_poi",
+      "targetPoiId": "cd-dam-inga-economic-v2",
+      "question": {
+        "de": "Finde die Inga-Staudämme westlich von Kinshasa am unteren Kongo.",
+        "hu": "Keresd meg az Inga-gátakat Kinshasától nyugatra, az alsó Kongón.",
+        "ro": "Găsește barajele Inga la vest de Kinshasa, pe Congo inferior.",
+        "en": "Find the Inga Dams west of Kinshasa on the lower Congo."
+      }
+    },
+    {
+      "id": "cd-region-bas-congo",
+      "type": "find_region",
+      "targetRegionId": "COD-1883",
+      "question": {
+        "de": "Klicke auf Bas-Congo im äußersten Westen.",
+        "hu": "Kattints Bas-Congo tartományra a legnyugatibb részen.",
+        "ro": "Apasă pe Bas-Congo în extremul vest.",
+        "en": "Click Bas-Congo in the far west."
+      }
+    },
+    {
+      "id": "cd-region-equateur",
+      "type": "find_region",
+      "targetRegionId": "COD-1461",
+      "question": {
+        "de": "Finde Équateur im Nordwesten.",
+        "hu": "Keresd meg Équateur tartományt északnyugaton.",
+        "ro": "Găsește provincia Équateur în nord-vest.",
+        "en": "Find Équateur in the northwest."
+      }
+    },
+    {
+      "id": "cd-region-bandundu",
+      "type": "find_region",
+      "targetRegionId": "COD-1871",
+      "question": {
+        "de": "Klicke auf Bandundu westlich der Landesmitte.",
+        "hu": "Kattints Bandundu tartományra az ország közepe nyugati oldalán.",
+        "ro": "Apasă pe Bandundu, la vest de centrul țării.",
+        "en": "Click Bandundu west of the country's center."
+      }
+    },
+    {
+      "id": "cd-region-maniema",
+      "type": "find_region",
+      "targetRegionId": "COD-1895",
+      "question": {
+        "de": "Finde Maniema im ostzentralen Teil der Karte.",
+        "hu": "Keresd meg Maniema tartományt a térkép kelet-középső részén.",
+        "ro": "Găsește Maniema în partea est-centrală a hărții.",
+        "en": "Find Maniema in the east-central part of the map."
+      }
+    },
+    {
+      "id": "cd-odd-farthest-north",
+      "type": "odd_one_out",
+      "poiIds": [
+        "cd-gbadolite-cities-v2",
+        "cd-mbandaka-cities-v2",
+        "cd-kananga-cities-v2",
+        "cd-lubumbashi-cities-v2"
+      ],
+      "targetPoiId": "cd-gbadolite-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt am weitesten nördlich?",
+        "hu": "Melyik város fekszik a legészakabbra?",
+        "ro": "Care oraș se află cel mai la nord?",
+        "en": "Which city lies farthest north?"
+      }
+    },
+    {
+      "id": "cd-odd-inland-lake-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "cd-goma-cities-v2",
+        "cd-bukavu-cities-v2",
+        "cd-kalemie-cities-v2",
+        "cd-kananga-cities-v2"
+      ],
+      "targetPoiId": "cd-kananga-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt im Inland statt an Kivu- oder Tanganjikasee?",
+        "hu": "Melyik város fekszik beljebb, nem a Kivu- vagy Tanganyika-tó partján?",
+        "ro": "Care oraș este în interior, nu pe lacul Kivu sau Tanganyika?",
+        "en": "Which city is inland rather than on Lake Kivu or Lake Tanganyika?"
+      }
+    },
+    {
+      "id": "cd-odd-lower-congo-corridor",
+      "type": "odd_one_out",
+      "poiIds": [
+        "cd-boma-cities-v2",
+        "cd-matadi-cities-v2",
+        "cd-muanda-cities-v2",
+        "cd-kolwezi-cities-v2"
+      ],
+      "targetPoiId": "cd-kolwezi-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht im westlichen Unter-Kongo-Korridor?",
+        "hu": "Melyik város nem a nyugati alsó-kongói folyosóban fekszik?",
+        "ro": "Care oraș nu se află în coridorul vestic al Congo-ului inferior?",
+        "en": "Which city is not in the western Lower Congo corridor?"
+      }
+    },
+    {
+      "id": "cd-odd-kasai-cluster",
+      "type": "odd_one_out",
+      "poiIds": [
+        "cd-tshikapa-cities-v2",
+        "cd-kananga-cities-v2",
+        "cd-mbuji-mayi-cities-v2",
+        "cd-bukavu-cities-v2"
+      ],
+      "targetPoiId": "cd-bukavu-cities-v2",
+      "question": {
+        "de": "Welche Stadt gehört nicht zur zentralen Kasaï-Gruppe?",
+        "hu": "Melyik város nem tartozik a középső Kasaï-csoporthoz?",
+        "ro": "Care oraș nu face parte din grupul central Kasaï?",
+        "en": "Which city is outside the central Kasaï cluster?"
+      }
+    },
+    {
+      "id": "cd-sequence-west-east-lower-river",
+      "type": "sequence",
+      "poiIds": [
+        "cd-matadi-cities-v2",
+        "cd-kinshasa-cities-v2",
+        "cd-mbandaka-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "cd-matadi-cities-v2",
+        "cd-kinshasa-cities-v2",
+        "cd-mbandaka-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Matadi, Kinshasa und Mbandaka von Westen nach Osten an.",
+        "hu": "Kattints Matadira, Kinshasára és Mbandakára nyugatról kelet felé.",
+        "ro": "Apasă Matadi, Kinshasa și Mbandaka de la vest la est.",
+        "en": "Click Matadi, Kinshasa, and Mbandaka from west to east."
+      }
+    },
+    {
+      "id": "cd-sequence-west-east-kasai",
+      "type": "sequence",
+      "poiIds": [
+        "cd-tshikapa-cities-v2",
+        "cd-kananga-cities-v2",
+        "cd-mbuji-mayi-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "cd-tshikapa-cities-v2",
+        "cd-kananga-cities-v2",
+        "cd-mbuji-mayi-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Tshikapa, Kananga und Mbuji-Mayi von Westen nach Osten an.",
+        "hu": "Kattints Tshikapára, Kanangára és Mbuji-Mayira nyugatról kelet felé.",
+        "ro": "Apasă Tshikapa, Kananga și Mbuji-Mayi de la vest la est.",
+        "en": "Click Tshikapa, Kananga, and Mbuji-Mayi from west to east."
+      }
+    },
+    {
+      "id": "cd-sequence-north-south-western-axis",
+      "type": "sequence",
+      "poiIds": [
+        "cd-gbadolite-cities-v2",
+        "cd-mbandaka-cities-v2",
+        "cd-kinshasa-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "cd-gbadolite-cities-v2",
+        "cd-mbandaka-cities-v2",
+        "cd-kinshasa-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Gbadolite, Mbandaka und Kinshasa von Norden nach Süden an.",
+        "hu": "Kattints Gbadolitéra, Mbandakára és Kinshasára északról dél felé.",
+        "ro": "Apasă Gbadolite, Mbandaka și Kinshasa de la nord la sud.",
+        "en": "Click Gbadolite, Mbandaka, and Kinshasa from north to south."
+      }
+    },
+    {
+      "id": "cd-sequence-north-south-eastern-axis",
+      "type": "sequence",
+      "poiIds": [
+        "cd-bunia-cities-v2",
+        "cd-goma-cities-v2",
+        "cd-kalemie-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "cd-bunia-cities-v2",
+        "cd-goma-cities-v2",
+        "cd-kalemie-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Bunia, Goma und Kalemie von Norden nach Süden an.",
+        "hu": "Kattints Buniára, Gomára és Kalemiére északról dél felé.",
+        "ro": "Apasă Bunia, Goma și Kalemie de la nord la sud.",
+        "en": "Click Bunia, Goma, and Kalemie from north to south."
+      }
+    },
+    {
+      "id": "cd-sequence-south-north-katanga-river",
+      "type": "sequence",
+      "poiIds": [
+        "cd-lubumbashi-cities-v2",
+        "cd-kamina-cities-v2",
+        "cd-kisangani-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "cd-lubumbashi-cities-v2",
+        "cd-kamina-cities-v2",
+        "cd-kisangani-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Lubumbashi, Kamina und Kisangani von Süden nach Norden an.",
+        "hu": "Kattints Lubumbashira, Kaminára és Kisanganira délről észak felé.",
+        "ro": "Apasă Lubumbashi, Kamina și Kisangani de la sud la nord.",
+        "en": "Click Lubumbashi, Kamina, and Kisangani from south to north."
+      }
+    },
+    {
+      "id": "cd-sequence-north-south-kivu-tanganyika",
+      "type": "sequence",
+      "poiIds": [
+        "cd-goma-cities-v2",
+        "cd-bukavu-cities-v2",
+        "cd-uvira-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "cd-goma-cities-v2",
+        "cd-bukavu-cities-v2",
+        "cd-uvira-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Goma, Bukavu und Uvira von Norden nach Süden an.",
+        "hu": "Kattints Gomára, Bukavura és Uvirára északról dél felé.",
+        "ro": "Apasă Goma, Bukavu și Uvira de la nord la sud.",
+        "en": "Click Goma, Bukavu, and Uvira from north to south."
+      }
+    }
+  ]
+}

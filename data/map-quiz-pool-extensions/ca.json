@@ -1,0 +1,311 @@
+{
+  "ca": [
+    {
+      "id": "ca-find-victoria",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Victoria an der Südspitze von Vancouver Island.",
+        "hu": "Keresd meg Victoriát Vancouver-sziget déli csücskén.",
+        "ro": "Găsește Victoria, la extremitatea sudică a Insulei Vancouver.",
+        "en": "Find Victoria at the southern tip of Vancouver Island."
+      },
+      "targetPoiId": "can_vic"
+    },
+    {
+      "id": "ca-find-quebec-city",
+      "type": "find_poi",
+      "question": {
+        "de": "Klicke auf Québec City am Sankt-Lorenz-Strom.",
+        "hu": "Kattints Québec városára a Szent Lőrinc-folyó partján.",
+        "ro": "Apasă pe Quebec City, de pe fluviul Sfântul Laurențiu.",
+        "en": "Click Quebec City on the St. Lawrence River."
+      },
+      "targetPoiId": "can_que"
+    },
+    {
+      "id": "ca-find-whitehorse",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Whitehorse im Yukon?",
+        "hu": "Hol található Whitehorse a Yukonban?",
+        "ro": "Unde se află Whitehorse în Yukon?",
+        "en": "Where is Whitehorse in Yukon?"
+      },
+      "targetPoiId": "can_whi"
+    },
+    {
+      "id": "ca-find-yellowknife",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Yellowknife am Großen Sklavensee.",
+        "hu": "Keresd meg Yellowknife-ot a Nagy-Rabszolga-tó mellett.",
+        "ro": "Găsește Yellowknife, lângă Marele Lac al Sclavilor.",
+        "en": "Find Yellowknife by Great Slave Lake."
+      },
+      "targetPoiId": "can_yel"
+    },
+    {
+      "id": "ca-find-st-johns",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde St. John's im äußersten Osten Kanadas.",
+        "hu": "Keresd meg St. John'st Kanada legkeletibb részén.",
+        "ro": "Găsește St. John's în extremul est al Canadei.",
+        "en": "Find St. John's in far eastern Canada."
+      },
+      "targetPoiId": "can_stj"
+    },
+    {
+      "id": "ca-region-alberta",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf Alberta östlich von British Columbia.",
+        "hu": "Kattints Albertára, British Columbiától keletre.",
+        "ro": "Apasă pe Alberta, la est de British Columbia.",
+        "en": "Click Alberta, east of British Columbia."
+      },
+      "targetRegionId": "CAN-632"
+    },
+    {
+      "id": "ca-region-manitoba",
+      "type": "find_region",
+      "question": {
+        "de": "Finde Manitoba zwischen Saskatchewan und Ontario.",
+        "hu": "Keresd meg Manitobát Saskatchewan és Ontario között.",
+        "ro": "Găsește Manitoba între Saskatchewan și Ontario.",
+        "en": "Find Manitoba between Saskatchewan and Ontario."
+      },
+      "targetRegionId": "CAN-630"
+    },
+    {
+      "id": "ca-region-yukon",
+      "type": "find_region",
+      "question": {
+        "de": "Wo liegt Yukon im Nordwesten Kanadas?",
+        "hu": "Hol található a Yukon Kanada északnyugati részén?",
+        "ro": "Unde se află Yukon în nord-vestul Canadei?",
+        "en": "Where is Yukon in northwestern Canada?"
+      },
+      "targetRegionId": "CAN-636"
+    },
+    {
+      "id": "ca-region-nunavut",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf Nunavut, das weite arktische Territorium.",
+        "hu": "Kattints Nunavutra, a hatalmas sarkvidéki területre.",
+        "ro": "Apasă pe Nunavut, vastul teritoriu arctic.",
+        "en": "Click Nunavut, the vast Arctic territory."
+      },
+      "targetRegionId": "CAN-634"
+    },
+    {
+      "id": "ca-region-newfoundland-labrador",
+      "type": "find_region",
+      "question": {
+        "de": "Finde Newfoundland and Labrador an der Atlantikküste.",
+        "hu": "Keresd meg Newfoundland and Labradort az atlanti partvidéken.",
+        "ro": "Găsește Newfoundland and Labrador pe coasta Atlanticului.",
+        "en": "Find Newfoundland and Labrador on the Atlantic coast."
+      },
+      "targetRegionId": "CAN-686"
+    },
+    {
+      "id": "ca-odd-not-territorial-capital",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Städte ist keine Hauptstadt eines kanadischen Territoriums?",
+        "hu": "Melyik város nem egy kanadai terület fővárosa?",
+        "ro": "Care dintre aceste orașe nu este capitala unui teritoriu canadian?",
+        "en": "Which of these cities is not the capital of a Canadian territory?"
+      },
+      "poiIds": [
+        "can_whi",
+        "can_yel",
+        "can_iqa",
+        "can_reg"
+      ],
+      "targetPoiId": "can_reg"
+    },
+    {
+      "id": "ca-odd-not-prairies",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Städte liegt nicht in den kanadischen Prärieprovinzen?",
+        "hu": "Melyik város nem a kanadai préritartományokban fekszik?",
+        "ro": "Care dintre aceste orașe nu se află în provinciile de preerie ale Canadei?",
+        "en": "Which of these cities is not in Canada's Prairie provinces?"
+      },
+      "poiIds": [
+        "can_reg",
+        "can_ss",
+        "can_win",
+        "can_cha"
+      ],
+      "targetPoiId": "can_cha"
+    },
+    {
+      "id": "ca-odd-island-capital",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Provinzhauptstädte liegt auf einer Insel?",
+        "hu": "Melyik tartományi főváros fekszik szigeten?",
+        "ro": "Care dintre aceste capitale provinciale se află pe o insulă?",
+        "en": "Which of these provincial capitals is on an island?"
+      },
+      "poiIds": [
+        "can_hal",
+        "can_fre",
+        "can_cha",
+        "can_que"
+      ],
+      "targetPoiId": "can_cha"
+    },
+    {
+      "id": "ca-odd-vancouver-island",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher dieser Orte liegt auf Vancouver Island?",
+        "hu": "Melyik hely található Vancouver-szigeten?",
+        "ro": "Care dintre aceste locuri se află pe Insula Vancouver?",
+        "en": "Which of these places is on Vancouver Island?"
+      },
+      "poiIds": [
+        "can_vic",
+        "can_van",
+        "surrey-cities-v2",
+        "richmond-cities-v2"
+      ],
+      "targetPoiId": "can_vic"
+    },
+    {
+      "id": "ca-odd-farthest-north",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Norden?",
+        "hu": "Melyik hely fekszik a legészakabbra?",
+        "ro": "Care dintre aceste locuri se află cel mai la nord?",
+        "en": "Which of these places lies farthest north?"
+      },
+      "poiIds": [
+        "can_iqa",
+        "can_fre",
+        "can_que",
+        "can_cha"
+      ],
+      "targetPoiId": "can_iqa"
+    },
+    {
+      "id": "ca-order-west-east-capitals",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Whitehorse, Yellowknife, Regina, Ottawa und St. John's von West nach Ost an.",
+        "hu": "Kattints Whitehorse-ra, Yellowknife-ra, Reginára, Ottawára és St. John'sra nyugatról keletre.",
+        "ro": "Apasă pe Whitehorse, Yellowknife, Regina, Ottawa și St. John's de la vest la est.",
+        "en": "Click Whitehorse, Yellowknife, Regina, Ottawa and St. John's from west to east."
+      },
+      "poiIds": [
+        "can_whi",
+        "can_yel",
+        "can_reg",
+        "can_cap",
+        "can_stj"
+      ],
+      "orderedPoiIds": [
+        "can_whi",
+        "can_yel",
+        "can_reg",
+        "can_cap",
+        "can_stj"
+      ]
+    },
+    {
+      "id": "ca-order-north-south-territories",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Iqaluit, Yellowknife, Whitehorse und Edmonton von Nord nach Süd an.",
+        "hu": "Kattints Iqaluitra, Yellowknife-ra, Whitehorse-ra és Edmontonra északról délre.",
+        "ro": "Apasă pe Iqaluit, Yellowknife, Whitehorse și Edmonton de la nord la sud.",
+        "en": "Click Iqaluit, Yellowknife, Whitehorse and Edmonton from north to south."
+      },
+      "poiIds": [
+        "can_iqa",
+        "can_yel",
+        "can_whi",
+        "can_edm"
+      ],
+      "orderedPoiIds": [
+        "can_iqa",
+        "can_yel",
+        "can_whi",
+        "can_edm"
+      ]
+    },
+    {
+      "id": "ca-order-west-east-western-cities",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Victoria, Calgary, Regina und Winnipeg von West nach Ost an.",
+        "hu": "Kattints Victoriára, Calgaryra, Reginára és Winnipegre nyugatról keletre.",
+        "ro": "Apasă pe Victoria, Calgary, Regina și Winnipeg de la vest la est.",
+        "en": "Click Victoria, Calgary, Regina and Winnipeg from west to east."
+      },
+      "poiIds": [
+        "can_vic",
+        "can_cal",
+        "can_reg",
+        "can_win"
+      ],
+      "orderedPoiIds": [
+        "can_vic",
+        "can_cal",
+        "can_reg",
+        "can_win"
+      ]
+    },
+    {
+      "id": "ca-order-north-south-atlantic-capitals",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke St. John's, Charlottetown, Fredericton und Halifax von Nord nach Süd an.",
+        "hu": "Kattints St. John'sra, Charlottetownra, Frederictonra és Halifaxra északról délre.",
+        "ro": "Apasă pe St. John's, Charlottetown, Fredericton și Halifax de la nord la sud.",
+        "en": "Click St. John's, Charlottetown, Fredericton and Halifax from north to south."
+      },
+      "poiIds": [
+        "can_stj",
+        "can_cha",
+        "can_fre",
+        "can_hal"
+      ],
+      "orderedPoiIds": [
+        "can_stj",
+        "can_cha",
+        "can_fre",
+        "can_hal"
+      ]
+    },
+    {
+      "id": "ca-order-west-east-atlantic",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Moncton, Halifax, Charlottetown und St. John's von West nach Ost an.",
+        "hu": "Kattints Monctonra, Halifaxra, Charlottetownra és St. John'sra nyugatról keletre.",
+        "ro": "Apasă pe Moncton, Halifax, Charlottetown și St. John's de la vest la est.",
+        "en": "Click Moncton, Halifax, Charlottetown and St. John's from west to east."
+      },
+      "poiIds": [
+        "moncton-cities-v2",
+        "can_hal",
+        "can_cha",
+        "can_stj"
+      ],
+      "orderedPoiIds": [
+        "moncton-cities-v2",
+        "can_hal",
+        "can_cha",
+        "can_stj"
+      ]
+    }
+  ]
+}

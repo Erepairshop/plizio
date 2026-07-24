@@ -1,0 +1,299 @@
+{
+  "bf": [
+    {
+      "id": "bf-find-koudougou-centre-ouest",
+      "type": "find_poi",
+      "targetPoiId": "koudougou-cities-v2",
+      "question": {
+        "de": "Finde Koudougou in der Region Centre-Ouest.",
+        "hu": "Keresd meg Koudougout a Centre-Ouest régióban.",
+        "ro": "Găsește Koudougou în regiunea Centre-Ouest.",
+        "en": "Find Koudougou in the Centre-Ouest region."
+      }
+    },
+    {
+      "id": "bf-find-fada-east-hub",
+      "type": "find_poi",
+      "targetPoiId": "fada-ngourma-cities-v2",
+      "question": {
+        "de": "Finde Fada N'Gourma, die wichtigste Stadt im Osten des Landes.",
+        "hu": "Keresd meg Fada N'Gourmát, a keleti országrész fontos városát.",
+        "ro": "Găsește Fada N'Gourma, principalul oraș din estul țării.",
+        "en": "Find Fada N'Gourma, the main city in the east of the country."
+      }
+    },
+    {
+      "id": "bf-find-ouahigouya-northwest",
+      "type": "find_poi",
+      "targetPoiId": "ouahigouya-cities-v2",
+      "question": {
+        "de": "Finde Ouahigouya im Nordwesten Burkina Fasos.",
+        "hu": "Keresd meg Ouahigouyát Burkina Faso északnyugati részén.",
+        "ro": "Găsește Ouahigouya în nord-vestul statului Burkina Faso.",
+        "en": "Find Ouahigouya in northwestern Burkina Faso."
+      }
+    },
+    {
+      "id": "bf-find-gaoua-southwest",
+      "type": "find_poi",
+      "targetPoiId": "gaoua-cities-v2",
+      "question": {
+        "de": "Finde Gaoua im äußersten Südwesten.",
+        "hu": "Keresd meg Gaouát a messzi délnyugaton.",
+        "ro": "Găsește Gaoua în extremul sud-vest.",
+        "en": "Find Gaoua in the far southwest."
+      }
+    },
+    {
+      "id": "bf-find-pama-southeast",
+      "type": "find_poi",
+      "targetPoiId": "pama-cities-v2",
+      "question": {
+        "de": "Finde Pama im Südosten nahe den Schutzgebieten.",
+        "hu": "Keresd meg Památ délkeleten, a védett területek közelében.",
+        "ro": "Găsește Pama în sud-est, aproape de ariile protejate.",
+        "en": "Find Pama in the southeast near the protected areas."
+      }
+    },
+    {
+      "id": "bf-region-oudalan-far-north",
+      "type": "find_region",
+      "targetRegionId": "BFA-2805",
+      "question": {
+        "de": "Klicke auf Oudalan im äußersten Norden.",
+        "hu": "Kattints a legészakibb Oudalan tartományra.",
+        "ro": "Apasă pe provincia Oudalan din extremul nord.",
+        "en": "Click Oudalan Province in the far north."
+      }
+    },
+    {
+      "id": "bf-region-kadiogo-capital",
+      "type": "find_region",
+      "targetRegionId": "BFA-2815",
+      "question": {
+        "de": "Klicke auf die Provinz Kadiogo rund um die Hauptstadt.",
+        "hu": "Kattints a főváros körüli Kadiogo tartományra.",
+        "ro": "Apasă pe provincia Kadiogo din jurul capitalei.",
+        "en": "Click Kadiogo Province around the capital."
+      }
+    },
+    {
+      "id": "bf-region-poni-southwest",
+      "type": "find_region",
+      "targetRegionId": "BFA-2837",
+      "question": {
+        "de": "Klicke auf die Provinz Poni im Südwesten.",
+        "hu": "Kattints a délnyugati Poni tartományra.",
+        "ro": "Apasă pe provincia Poni din sud-vest.",
+        "en": "Click Poni Province in the southwest."
+      }
+    },
+    {
+      "id": "bf-region-yatenga-northwest",
+      "type": "find_region",
+      "targetRegionId": "BFA-2823",
+      "question": {
+        "de": "Klicke auf Yatenga im Nordwesten.",
+        "hu": "Kattints az északnyugati Yatenga tartományra.",
+        "ro": "Apasă pe Yatenga în nord-vest.",
+        "en": "Click Yatenga in the northwest."
+      }
+    },
+    {
+      "id": "bf-region-kompienga-southeast",
+      "type": "find_region",
+      "targetRegionId": "BFA-2183",
+      "question": {
+        "de": "Klicke auf die Provinz Kompienga im Südosten.",
+        "hu": "Kattints a délkeleti Kompienga tartományra.",
+        "ro": "Apasă pe provincia Kompienga din sud-est.",
+        "en": "Click Kompienga Province in the southeast."
+      }
+    },
+    {
+      "id": "bf-odd-sahel-belt",
+      "type": "odd_one_out",
+      "poiIds": [
+        "gorom-gorom-cities-v2",
+        "djibo-cities-v2",
+        "sebba-cities-v2",
+        "banfora-cities-v2"
+      ],
+      "targetPoiId": "banfora-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht im Sahelgürtel des Nordens?",
+        "hu": "Melyik város nem az északi száhelövezetben fekszik?",
+        "ro": "Care oraș nu se află în centura saheliană din nord?",
+        "en": "Which city is not in the northern Sahel belt?"
+      }
+    },
+    {
+      "id": "bf-odd-southwest-cluster",
+      "type": "odd_one_out",
+      "poiIds": [
+        "gaoua-cities-v2",
+        "dano-cities-v2",
+        "diebougou-cities-v2",
+        "kaya-cities-v2"
+      ],
+      "targetPoiId": "kaya-cities-v2",
+      "question": {
+        "de": "Welche Stadt gehört nicht zum Südwesten Burkina Fasos?",
+        "hu": "Melyik város nem Burkina Faso délnyugati részéhez tartozik?",
+        "ro": "Care oraș nu aparține sud-vestului statului Burkina Faso?",
+        "en": "Which city does not belong to southwestern Burkina Faso?"
+      }
+    },
+    {
+      "id": "bf-odd-plateau-central-ring",
+      "type": "odd_one_out",
+      "poiIds": [
+        "ziniare-cities-v2",
+        "dapelogo-cities-v2",
+        "bingo-cities-v2",
+        "sindou-cities-v2"
+      ],
+      "targetPoiId": "sindou-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht im Umfeld des Plateau-Central?",
+        "hu": "Melyik város nem a Plateau-Central térségéhez tartozik?",
+        "ro": "Care oraș nu se află în zona Plateau-Central?",
+        "en": "Which city is not in the Plateau-Central area?"
+      }
+    },
+    {
+      "id": "bf-odd-eastern-half",
+      "type": "odd_one_out",
+      "poiIds": [
+        "gayeri-cities-v2",
+        "fada-ngourma-cities-v2",
+        "pama-cities-v2",
+        "koudougou-cities-v2"
+      ],
+      "targetPoiId": "koudougou-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht in der östlichen Hälfte des Landes?",
+        "hu": "Melyik város nem az ország keleti felében fekszik?",
+        "ro": "Care oraș nu se află în jumătatea estică a țării?",
+        "en": "Which city is not in the eastern half of the country?"
+      }
+    },
+    {
+      "id": "bf-odd-cascades-area",
+      "type": "odd_one_out",
+      "poiIds": [
+        "banfora-cities-v2",
+        "sindou-cities-v2",
+        "beregadougou-cities-v2",
+        "pouytenga-cities-v2"
+      ],
+      "targetPoiId": "pouytenga-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht im Raum Cascades im Südwesten?",
+        "hu": "Melyik város nem a délnyugati Cascades térségében fekszik?",
+        "ro": "Care oraș nu se află în zona Cascades din sud-vest?",
+        "en": "Which city is not in the Cascades area of the southwest?"
+      }
+    },
+    {
+      "id": "bf-sequence-west-east-sindou-banfora-bobo",
+      "type": "sequence",
+      "poiIds": [
+        "sindou-cities-v2",
+        "banfora-cities-v2",
+        "bobo-dioulasso-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "sindou-cities-v2",
+        "banfora-cities-v2",
+        "bobo-dioulasso-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Sindou, Banfora und Bobo-Dioulasso von Westen nach Osten an.",
+        "hu": "Kattints Sindoura, Banforára és Bobo-Dioulassóra nyugatról kelet felé.",
+        "ro": "Apasă Sindou, Banfora și Bobo-Dioulasso de la vest la est.",
+        "en": "Click Sindou, Banfora, and Bobo-Dioulasso from west to east."
+      }
+    },
+    {
+      "id": "bf-sequence-north-south-gorom-dori-kaya",
+      "type": "sequence",
+      "poiIds": [
+        "gorom-gorom-cities-v2",
+        "dori-cities-v2",
+        "kaya-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "gorom-gorom-cities-v2",
+        "dori-cities-v2",
+        "kaya-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Gorom-Gorom, Dori und Kaya von Norden nach Süden an.",
+        "hu": "Kattints Gorom-Goromra, Dorira és Kayára északról dél felé.",
+        "ro": "Apasă Gorom-Gorom, Dori și Kaya de la nord la sud.",
+        "en": "Click Gorom-Gorom, Dori, and Kaya from north to south."
+      }
+    },
+    {
+      "id": "bf-sequence-west-east-bobo-boromo-ouaga",
+      "type": "sequence",
+      "poiIds": [
+        "bobo-dioulasso-cities-v2",
+        "boromo-cities-v2",
+        "ouagadougou-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "bobo-dioulasso-cities-v2",
+        "boromo-cities-v2",
+        "ouagadougou-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Bobo-Dioulasso, Boromo und Ouagadougou von Westen nach Osten an.",
+        "hu": "Kattints Bobo-Dioulassóra, Boromóra és Ouagadougoura nyugatról kelet felé.",
+        "ro": "Apasă Bobo-Dioulasso, Boromo și Ouagadougou de la vest la est.",
+        "en": "Click Bobo-Dioulasso, Boromo, and Ouagadougou from west to east."
+      }
+    },
+    {
+      "id": "bf-sequence-north-south-ouahigouya-yako-koudougou",
+      "type": "sequence",
+      "poiIds": [
+        "ouahigouya-cities-v2",
+        "yako-cities-v2",
+        "koudougou-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "ouahigouya-cities-v2",
+        "yako-cities-v2",
+        "koudougou-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Ouahigouya, Yako und Koudougou von Norden nach Süden an.",
+        "hu": "Kattints Ouahigouyára, Yakóra és Koudougoura északról dél felé.",
+        "ro": "Apasă Ouahigouya, Yako și Koudougou de la nord la sud.",
+        "en": "Click Ouahigouya, Yako, and Koudougou from north to south."
+      }
+    },
+    {
+      "id": "bf-sequence-north-south-bogande-fada-pama",
+      "type": "sequence",
+      "poiIds": [
+        "bogande-cities-v2",
+        "fada-ngourma-cities-v2",
+        "pama-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "bogande-cities-v2",
+        "fada-ngourma-cities-v2",
+        "pama-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Bogandé, Fada N'Gourma und Pama von Norden nach Süden an.",
+        "hu": "Kattints Bogandéra, Fada N'Gourmára és Pamára északról dél felé.",
+        "ro": "Apasă Bogandé, Fada N'Gourma și Pama de la nord la sud.",
+        "en": "Click Bogandé, Fada N'Gourma, and Pama from north to south."
+      }
+    }
+  ]
+}

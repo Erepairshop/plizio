@@ -1,0 +1,323 @@
+{
+  "km": [
+    {
+      "id": "km-find-foumbouni-east-coast",
+      "type": "find_poi",
+      "targetPoiId": "foumbouni-cities-v2",
+      "question": {
+        "de": "Finde Foumbouni an der Ostküste von Grande Comore.",
+        "hu": "Keresd meg Foumbounit Grande Comore keleti partján.",
+        "ro": "Găsește Foumbouni pe coasta estică a insulei Grande Comore.",
+        "en": "Find Foumbouni on the east coast of Grande Comore."
+      }
+    },
+    {
+      "id": "km-find-nioumachoua-south-moheli",
+      "type": "find_poi",
+      "targetPoiId": "nioumachoua-cities-v2",
+      "question": {
+        "de": "Finde Nioumachoua im Süden von Mohéli.",
+        "hu": "Keresd meg Nioumachouát Mohéli déli részén.",
+        "ro": "Găsește Nioumachoua în sudul insulei Mohéli.",
+        "en": "Find Nioumachoua in southern Mohéli."
+      }
+    },
+    {
+      "id": "km-find-itsamia-east-moheli",
+      "type": "find_poi",
+      "targetPoiId": "itsamia-cities-v2",
+      "question": {
+        "de": "Finde Itsamia an der Ostseite von Mohéli.",
+        "hu": "Keresd meg Itsamiát Mohéli keleti oldalán.",
+        "ro": "Găsește Itsamia pe latura estică a insulei Mohéli.",
+        "en": "Find Itsamia on the eastern side of Mohéli."
+      }
+    },
+    {
+      "id": "km-find-pomoni-anjouan",
+      "type": "find_poi",
+      "targetPoiId": "pomoni-cities-v2",
+      "question": {
+        "de": "Finde Pomoni an der Ostküste von Anjouan.",
+        "hu": "Keresd meg Pomonit Anjouan keleti partján.",
+        "ro": "Găsește Pomoni pe coasta estică a insulei Anjouan.",
+        "en": "Find Pomoni on the east coast of Anjouan."
+      }
+    },
+    {
+      "id": "km-find-mount-karthala",
+      "type": "find_poi",
+      "targetPoiId": "mount-karthala-nature-v2",
+      "question": {
+        "de": "Finde den Vulkan Mount Karthala auf Grande Comore.",
+        "hu": "Keresd meg a Karthala-vulkánt Grande Comore szigetén.",
+        "ro": "Găsește vulcanul Mount Karthala de pe Grande Comore.",
+        "en": "Find Mount Karthala on Grande Comore."
+      }
+    },
+    {
+      "id": "km-find-lac-sale",
+      "type": "find_poi",
+      "targetPoiId": "lac-sale-nature-v2",
+      "question": {
+        "de": "Finde Lac Salé im Norden von Grande Comore.",
+        "hu": "Keresd meg a Lac Salé tavat Grande Comore északi részén.",
+        "ro": "Găsește Lac Salé în nordul insulei Grande Comore.",
+        "en": "Find Lac Salé in northern Grande Comore."
+      }
+    },
+    {
+      "id": "km-region-grande-comore",
+      "type": "find_region",
+      "targetRegionId": "COM-4935",
+      "question": {
+        "de": "Klicke auf Grande Comore, die westliche Hauptinsel.",
+        "hu": "Kattints Grande Comore-ra, a nyugati főszigetre.",
+        "ro": "Apasă pe Grande Comore, insula principală din vest.",
+        "en": "Click Grande Comore, the western main island."
+      }
+    },
+    {
+      "id": "km-odd-not-island-capital",
+      "type": "odd_one_out",
+      "poiIds": [
+        "moroni-cities-v2",
+        "mutsamudu-cities-v2",
+        "fomboni-cities-v2",
+        "ouani-cities-v2"
+      ],
+      "targetPoiId": "ouani-cities-v2",
+      "question": {
+        "de": "Welcher Ort ist keine Inselhauptstadt der Komoren?",
+        "hu": "Melyik hely nem a Comore-szigetek egyik szigetének fővárosa?",
+        "ro": "Care loc nu este capitală insulară în Comore?",
+        "en": "Which place is not an island capital in Comoros?"
+      }
+    },
+    {
+      "id": "km-odd-not-on-moheli",
+      "type": "odd_one_out",
+      "poiIds": [
+        "fomboni-cities-v2",
+        "nioumachoua-cities-v2",
+        "itsamia-cities-v2",
+        "mirontsi-cities-v2"
+      ],
+      "targetPoiId": "mirontsi-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht auf Mohéli?",
+        "hu": "Melyik település nem Mohéli szigetén fekszik?",
+        "ro": "Care localitate nu se află pe insula Mohéli?",
+        "en": "Which place is not on Mohéli?"
+      }
+    },
+    {
+      "id": "km-odd-not-on-anjouan",
+      "type": "odd_one_out",
+      "poiIds": [
+        "mutsamudu-cities-v2",
+        "ouani-cities-v2",
+        "tsembehou-cities-v2",
+        "hoani-cities-v2"
+      ],
+      "targetPoiId": "hoani-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht auf Anjouan?",
+        "hu": "Melyik település nem Anjouan szigetén fekszik?",
+        "ro": "Care localitate nu se află pe insula Anjouan?",
+        "en": "Which place is not on Anjouan?"
+      }
+    },
+    {
+      "id": "km-odd-not-on-grande-comore",
+      "type": "odd_one_out",
+      "poiIds": [
+        "iconi-cities-v2",
+        "itsandra-cities-v2",
+        "ntsoudjini-cities-v2",
+        "wanani-cities-v2"
+      ],
+      "targetPoiId": "wanani-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht auf Grande Comore?",
+        "hu": "Melyik település nem Grande Comore szigetén fekszik?",
+        "ro": "Care localitate nu se află pe insula Grande Comore?",
+        "en": "Which place is not on Grande Comore?"
+      }
+    },
+    {
+      "id": "km-odd-not-a-beach",
+      "type": "odd_one_out",
+      "poiIds": [
+        "hantsindzi-beach-nature-v2",
+        "maloudja-beach-nature-v2",
+        "galawa-beach-nature-v2",
+        "mount-karthala-nature-v2"
+      ],
+      "targetPoiId": "mount-karthala-nature-v2",
+      "question": {
+        "de": "Welcher Ort ist kein Strand auf Grande Comore?",
+        "hu": "Melyik hely nem strand Grande Comore szigetén?",
+        "ro": "Care loc nu este o plajă de pe Grande Comore?",
+        "en": "Which place is not a beach on Grande Comore?"
+      }
+    },
+    {
+      "id": "km-odd-anjouan-nature-set",
+      "type": "odd_one_out",
+  "poiIds": [
+    "mount-ntingui-nature-v2",
+    "lake-dzialandze-nature-v2",
+    "moya-beach-nature-v2",
+    "mount-karthala-nature-v2"
+  ],
+  "targetPoiId": "mount-karthala-nature-v2",
+  "question": {
+        "de": "Welcher Ort liegt nicht auf Anjouan?",
+        "hu": "Melyik hely nem Anjouan szigetén található?",
+        "ro": "Care loc nu se află pe insula Anjouan?",
+        "en": "Which place is not on Anjouan?"
+      }
+    },
+    {
+      "id": "km-sequence-grande-comore-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "moroni-cities-v2",
+        "mbeni-cities-v2",
+        "foumbouni-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "moroni-cities-v2",
+        "mbeni-cities-v2",
+        "foumbouni-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Moroni, Mbéni und Foumbouni von Westen nach Osten an.",
+        "hu": "Kattints Moronira, Mbénire és Foumbounira nyugatról kelet felé.",
+        "ro": "Apasă Moroni, Mbéni și Foumbouni de la vest la est.",
+        "en": "Click Moroni, Mbéni and Foumbouni from west to east."
+      }
+    },
+    {
+      "id": "km-sequence-grande-comore-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "mitsamiouli-cities-v2",
+        "moroni-cities-v2",
+        "chindini-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "mitsamiouli-cities-v2",
+        "moroni-cities-v2",
+        "chindini-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Mitsamiouli, Moroni und Chindini von Norden nach Süden an.",
+        "hu": "Kattints Mitsamioulira, Moronira és Chindinire északról dél felé.",
+        "ro": "Apasă Mitsamiouli, Moroni și Chindini de la nord la sud.",
+        "en": "Click Mitsamiouli, Moroni and Chindini from north to south."
+      }
+    },
+    {
+      "id": "km-sequence-anjouan-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "sima-cities-v2",
+        "mutsamudu-cities-v2",
+        "domoni-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "sima-cities-v2",
+        "mutsamudu-cities-v2",
+        "domoni-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Sima, Mutsamudu und Domoni von Westen nach Osten an.",
+        "hu": "Kattints Simára, Mutsamudura és Domonira nyugatról kelet felé.",
+        "ro": "Apasă Sima, Mutsamudu și Domoni de la vest la est.",
+        "en": "Click Sima, Mutsamudu and Domoni from west to east."
+      }
+    },
+    {
+      "id": "km-sequence-anjouan-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "ouani-cities-v2",
+        "tsembehou-cities-v2",
+        "pomoni-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "ouani-cities-v2",
+        "tsembehou-cities-v2",
+        "pomoni-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Ouani, Tsembehou und Pomoni von Norden nach Süden an.",
+        "hu": "Kattints Ouanira, Tsembehoura és Pomonira északról dél felé.",
+        "ro": "Apasă Ouani, Tsembehou și Pomoni de la nord la sud.",
+        "en": "Click Ouani, Tsembehou and Pomoni from north to south."
+      }
+    },
+    {
+      "id": "km-sequence-moheli-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "ouallah-cities-v2",
+        "fomboni-cities-v2",
+        "itsamia-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "ouallah-cities-v2",
+        "fomboni-cities-v2",
+        "itsamia-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Ouallah, Fomboni und Itsamia von Westen nach Osten an.",
+        "hu": "Kattints Ouallahra, Fombonira és Itsamiára nyugatról kelet felé.",
+        "ro": "Apasă Ouallah, Fomboni și Itsamia de la vest la est.",
+        "en": "Click Ouallah, Fomboni and Itsamia from west to east."
+      }
+    },
+    {
+      "id": "km-sequence-moheli-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "hoani-cities-v2",
+        "fomboni-cities-v2",
+        "nioumachoua-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "hoani-cities-v2",
+        "fomboni-cities-v2",
+        "nioumachoua-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Hoani, Fomboni und Nioumachoua von Norden nach Süden an.",
+        "hu": "Kattints Hoanira, Fombonira és Nioumachouára északról dél felé.",
+        "ro": "Apasă Hoani, Fomboni și Nioumachoua de la nord la sud.",
+        "en": "Click Hoani, Fomboni and Nioumachoua from north to south."
+      }
+    },
+    {
+      "id": "km-sequence-archipelago-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "mount-karthala-nature-v2",
+        "fomboni-cities-v2",
+        "domoni-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "mount-karthala-nature-v2",
+        "fomboni-cities-v2",
+        "domoni-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Mount Karthala, Fomboni und Domoni von Westen nach Osten an.",
+        "hu": "Kattints a Karthala-hegyre, Fombonira és Domonira nyugatról kelet felé.",
+        "ro": "Apasă Mount Karthala, Fomboni și Domoni de la vest la est.",
+        "en": "Click Mount Karthala, Fomboni and Domoni from west to east."
+      }
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "ma": [
+    {
+      "id": "ma-find-chefchaouen",
+      "type": "find_poi",
+      "targetPoiId": "ma-chefchaouen-cities-v2",
+      "question": {
+        "de": "Finde Chefchaouen im Rifgebirge im Norden Marokkos.",
+        "hu": "Keresd meg Chefchaouent a Rif-hegységben, Marokkó északi részén.",
+        "ro": "Găsește Chefchaouen în Munții Rif din nordul Marocului.",
+        "en": "Find Chefchaouen in the Rif Mountains of northern Morocco."
+      }
+    },
+    {
+      "id": "ma-find-ouarzazate",
+      "type": "find_poi",
+      "targetPoiId": "ma-ouarzazate-cities-v2",
+      "question": {
+        "de": "Finde Ouarzazate südlich des Hohen Atlas.",
+        "hu": "Keresd meg Ouarzazate városát a Magas-Atlasztól délre.",
+        "ro": "Găsește Ouarzazate la sud de Atlasul Înalt.",
+        "en": "Find Ouarzazate south of the High Atlas."
+      }
+    },
+    {
+      "id": "ma-find-dakhla",
+      "type": "find_poi",
+      "targetPoiId": "ma-dakhla-cities-v2",
+      "question": {
+        "de": "Finde Dakhla weit im Süden an der Atlantikküste.",
+        "hu": "Keresd meg Dakhlát délen, az Atlanti-óceán partján.",
+        "ro": "Găsește Dakhla în extremul sud, pe coasta Atlanticului.",
+        "en": "Find Dakhla far to the south on the Atlantic coast."
+      }
+    },
+    {
+      "id": "ma-find-hassan-tower",
+      "type": "find_poi",
+      "targetPoiId": "ma-hassan-tower-history-v2",
+      "question": {
+        "de": "Finde den Hassan-Turm in Rabat.",
+        "hu": "Keresd meg a Hasszán-tornyot Rabatban.",
+        "ro": "Găsește Turnul Hassan din Rabat.",
+        "en": "Find Hassan Tower in Rabat."
+      }
+    },
+    {
+      "id": "ma-find-volubilis",
+      "type": "find_poi",
+      "targetPoiId": "ma-volubilis-history-v2",
+      "question": {
+        "de": "Finde die römische Stadt Volubilis bei Meknès.",
+        "hu": "Keresd meg Volubilis római romvárosát Meknès közelében.",
+        "ro": "Găsește orașul roman Volubilis de lângă Meknès.",
+        "en": "Find the Roman city of Volubilis near Meknes."
+      }
+    },
+    {
+      "id": "ma-region-tanger-tetouan",
+      "type": "find_region",
+      "targetRegionId": "MAR-1445",
+      "question": {
+        "de": "Klicke auf die Region Tanger - Tétouan an der Straße von Gibraltar.",
+        "hu": "Kattints a Tanger - Tétouan régióra a Gibraltári-szorosnál.",
+        "ro": "Apasă pe regiunea Tanger - Tétouan de la Strâmtoarea Gibraltar.",
+        "en": "Click the Tanger - Tétouan region by the Strait of Gibraltar."
+      }
+    },
+    {
+      "id": "ma-region-souss-massa-draa",
+      "type": "find_region",
+      "targetRegionId": "MAR-1455",
+      "question": {
+        "de": "Finde die Region Souss - Massa - Draâ rund um Agadir im Südwesten.",
+        "hu": "Keresd meg az Agadir körüli Souss - Massa - Draâ régiót délnyugaton.",
+        "ro": "Găsește regiunea Souss - Massa - Draâ din sud-vest, în jurul orașului Agadir.",
+        "en": "Find the Souss - Massa - Draâ region around Agadir in the southwest."
+      }
+    },
+    {
+      "id": "ma-region-oued-el-dahab",
+      "type": "find_region",
+      "targetRegionId": "MAR-3469",
+      "question": {
+        "de": "Klicke auf Oued el Dahab im äußersten Süden.",
+        "hu": "Kattints a legdélibb Oued el Dahab régióra.",
+        "ro": "Apasă pe regiunea Oued el Dahab din extremul sud.",
+        "en": "Click the Oued el Dahab region in the far south."
+      }
+    },
+    {
+      "id": "ma-region-fes-boulemane",
+      "type": "find_region",
+      "targetRegionId": "MAR-1446",
+      "question": {
+        "de": "Finde die Region Fès - Boulemane im nördlichen Landesinneren.",
+        "hu": "Keresd meg a Fès - Boulemane régiót az ország északi belső részén.",
+        "ro": "Găsește regiunea Fès - Boulemane din nordul interior al țării.",
+        "en": "Find the Fès - Boulemane region in the northern interior."
+      }
+    },
+    {
+      "id": "ma-region-marrakech-tensift-al-haouz",
+      "type": "find_region",
+      "targetRegionId": "MAR-1456",
+      "question": {
+        "de": "Klicke auf die Region Marrakech - Tensift - Al Haouz am Fuß des Hohen Atlas.",
+        "hu": "Kattints a Marrakech - Tensift - Al Haouz régióra a Magas-Atlasz előterében.",
+        "ro": "Apasă pe regiunea Marrakech - Tensift - Al Haouz de la poalele Atlasului Înalt.",
+        "en": "Click the Marrakech - Tensift - Al Haouz region at the foot of the High Atlas."
+      }
+    },
+    {
+      "id": "ma-odd-imperial-cities",
+      "type": "odd_one_out",
+      "poiIds": [
+        "ma-fes-cities-v2",
+        "ma-meknes-cities-v2",
+        "ma-marrakech-cities-v2",
+        "ma-agadir-cities-v2"
+      ],
+      "targetPoiId": "ma-agadir-cities-v2",
+      "question": {
+        "de": "Welche Stadt gehört nicht zu Marokkos traditionellen Königsstädten?",
+        "hu": "Melyik város nem tartozik Marokkó hagyományos királyi városai közé?",
+        "ro": "Care oraș nu face parte din orașele imperiale tradiționale ale Marocului?",
+        "en": "Which city is not one of Morocco's traditional imperial cities?"
+      }
+    },
+    {
+      "id": "ma-odd-rif-vs-south",
+      "type": "odd_one_out",
+      "poiIds": [
+        "ma-chefchaouen-cities-v2",
+        "ma-tetouan-cities-v2",
+        "ma-al-hoceima-cities-v2",
+        "ma-ouarzazate-cities-v2"
+      ],
+      "targetPoiId": "ma-ouarzazate-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht im Norden Marokkos oder nahe dem Rif?",
+        "hu": "Melyik város nem Észak-Marokkóban vagy a Rif közelében fekszik?",
+        "ro": "Care oraș nu se află în nordul Marocului sau aproape de Rif?",
+        "en": "Which city is not in northern Morocco or near the Rif?"
+      }
+    },
+    {
+      "id": "ma-odd-port-vs-solar",
+      "type": "odd_one_out",
+      "poiIds": [
+        "ma-tanger-med-port-economic-v2",
+        "ma-casablanca-port-economic-v2",
+        "ma-agadir-port-economic-v2",
+        "ma-noor-ouarzazate-economic-v2"
+      ],
+      "targetPoiId": "ma-noor-ouarzazate-economic-v2",
+      "question": {
+        "de": "Welcher Ort ist kein Seehafen an der marokkanischen Küste?",
+        "hu": "Melyik hely nem tengeri kikötő a marokkói partvidéken?",
+        "ro": "Care loc nu este un port maritim de pe coasta Marocului?",
+        "en": "Which place is not a seaport on Morocco's coast?"
+      }
+    },
+    {
+      "id": "ma-odd-rabat-sites",
+      "type": "odd_one_out",
+      "poiIds": [
+        "ma-hassan-tower-history-v2",
+        "ma-chellah-history-v2",
+        "ma-kasbah-udayas-history-v2",
+        "ma-al-qarawiyyin-history-v2"
+      ],
+      "targetPoiId": "ma-al-qarawiyyin-history-v2",
+      "question": {
+        "de": "Welches historische Ziel liegt nicht in Rabat?",
+        "hu": "Melyik történelmi helyszín nem Rabatban található?",
+        "ro": "Care obiectiv istoric nu se află în Rabat?",
+        "en": "Which historic site is not in Rabat?"
+      }
+    },
+    {
+      "id": "ma-odd-east-vs-west",
+      "type": "odd_one_out",
+      "poiIds": [
+        "ma-oujda-cities-v2",
+        "ma-nador-cities-v2",
+        "ma-berkane-cities-v2",
+        "ma-marrakech-cities-v2"
+      ],
+      "targetPoiId": "ma-marrakech-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht im Osten Marokkos?",
+        "hu": "Melyik város nem Marokkó keleti részén található?",
+        "ro": "Care oraș nu se află în estul Marocului?",
+        "en": "Which city is not in eastern Morocco?"
+      }
+    },
+    {
+      "id": "ma-sequence-atlantic-cities-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "ma-kenitra-cities-v2",
+        "ma-casablanca-cities-v2",
+        "ma-safi-cities-v2",
+        "ma-agadir-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "ma-kenitra-cities-v2",
+        "ma-casablanca-cities-v2",
+        "ma-safi-cities-v2",
+        "ma-agadir-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Kenitra, Casablanca, Safi und Agadir von Nord nach Süd an.",
+        "hu": "Kattints Kenitrára, Casablancára, Safira és Agadirra északról délre.",
+        "ro": "Apasă Kenitra, Casablanca, Safi și Agadir de la nord la sud.",
+        "en": "Click Kenitra, Casablanca, Safi and Agadir from north to south."
+      }
+    },
+    {
+      "id": "ma-sequence-inland-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "ma-marrakech-cities-v2",
+        "ma-beni-mellal-cities-v2",
+        "ma-midelt-cities-v2",
+        "ma-errachidia-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "ma-marrakech-cities-v2",
+        "ma-beni-mellal-cities-v2",
+        "ma-midelt-cities-v2",
+        "ma-errachidia-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Marrakech, Beni Mellal, Midelt und Errachidia von West nach Ost an.",
+        "hu": "Kattints Marrakechre, Beni Mellalra, Mideltre és Errachidiára nyugatról keletre.",
+        "ro": "Apasă Marrakech, Beni Mellal, Midelt și Errachidia de la vest la est.",
+        "en": "Click Marrakech, Beni Mellal, Midelt and Errachidia from west to east."
+      }
+    },
+    {
+      "id": "ma-sequence-northern-cities-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "ma-larache-cities-v2",
+        "ma-fes-cities-v2",
+        "ma-taza-cities-v2",
+        "ma-oujda-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "ma-larache-cities-v2",
+        "ma-fes-cities-v2",
+        "ma-taza-cities-v2",
+        "ma-oujda-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Larache, Fès, Taza und Oujda von West nach Ost an.",
+        "hu": "Kattints Larache-ra, Fesre, Tazára és Oujdára nyugatról keletre.",
+        "ro": "Apasă Larache, Fes, Taza și Oujda de la vest la est.",
+        "en": "Click Larache, Fes, Taza and Oujda from west to east."
+      }
+    },
+    {
+      "id": "ma-sequence-historic-sites-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "ma-volubilis-history-v2",
+        "ma-hassan-tower-history-v2",
+        "ma-koutoubia-mosque-history-v2",
+        "ma-ait-benhaddou-history-v2"
+      ],
+      "orderedPoiIds": [
+        "ma-volubilis-history-v2",
+        "ma-hassan-tower-history-v2",
+        "ma-koutoubia-mosque-history-v2",
+        "ma-ait-benhaddou-history-v2"
+      ],
+      "question": {
+        "de": "Klicke Volubilis, den Hassan-Turm, die Koutoubia-Moschee und Aït Benhaddou von Nord nach Süd an.",
+        "hu": "Kattints Volubilisre, a Hasszán-toronyra, a Koutoubia mecsetre és Aït Benhaddoura északról délre.",
+        "ro": "Apasă Volubilis, Turnul Hassan, Moscheea Koutoubia și Aït Benhaddou de la nord la sud.",
+        "en": "Click Volubilis, Hassan Tower, Koutoubia Mosque and Aït Benhaddou from north to south."
+      }
+    },
+    {
+      "id": "ma-sequence-southern-cities-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "ma-agadir-cities-v2",
+        "ma-tiznit-cities-v2",
+        "ma-guelmim-cities-v2",
+        "ma-dakhla-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "ma-agadir-cities-v2",
+        "ma-tiznit-cities-v2",
+        "ma-guelmim-cities-v2",
+        "ma-dakhla-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Agadir, Tiznit, Guelmim und Dakhla von Nord nach Süd an.",
+        "hu": "Kattints Agadirra, Tiznitre, Guelmimre és Dakhlára északról délre.",
+        "ro": "Apasă Agadir, Tiznit, Guelmim și Dakhla de la nord la sud.",
+        "en": "Click Agadir, Tiznit, Guelmim and Dakhla from north to south."
+      }
+    }
+  ]
+}

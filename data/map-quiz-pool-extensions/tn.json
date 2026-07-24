@@ -1,0 +1,309 @@
+{
+  "tn": [
+    {
+      "id": "tn-find-gabes-gulf",
+      "type": "find_poi",
+      "targetPoiId": "gabes-cities-v2",
+      "question": {
+        "de": "Finde Gabès am Golf von Gabès im Südosten Tunesiens.",
+        "hu": "Keresd meg Gabèst a Gabèsi-öbölnél, Tunézia délkeleti részén.",
+        "ro": "Găsește Gabès la Golful Gabès, în sud-estul Tunisiei.",
+        "en": "Find Gabès on the Gulf of Gabès in southeastern Tunisia."
+      }
+    },
+    {
+      "id": "tn-find-tabarka-border-coast",
+      "type": "find_poi",
+      "targetPoiId": "tabarka-cities-v2",
+      "question": {
+        "de": "Finde Tabarka an der nordwestlichen Küste nahe der algerischen Grenze.",
+        "hu": "Keresd meg Tabarkát az északnyugati parton, az algériai határ közelében.",
+        "ro": "Găsește Tabarka pe coasta de nord-vest, aproape de granița cu Algeria.",
+        "en": "Find Tabarka on the northwestern coast near the Algerian border."
+      }
+    },
+    {
+      "id": "tn-find-douz-sahara",
+      "type": "find_poi",
+      "targetPoiId": "douz-cities-v2",
+      "question": {
+        "de": "Finde Douz am Rand der Sahara im Süden Tunesiens.",
+        "hu": "Keresd meg Douzt a Szahara peremén, Tunézia déli részén.",
+        "ro": "Găsește Douz la marginea Saharei, în sudul Tunisiei.",
+        "en": "Find Douz on the edge of the Sahara in southern Tunisia."
+      }
+    },
+    {
+      "id": "tn-find-carthage-ruins",
+      "type": "find_poi",
+      "targetPoiId": "carthage-ruins-history-v2",
+      "question": {
+        "de": "Finde die Ruinen von Karthago nordöstlich von Tunis.",
+        "hu": "Keresd meg Karthágó romjait Tunisz északkeleti részén.",
+        "ro": "Găsește ruinele Cartaginei la nord-est de Tunis.",
+        "en": "Find the ruins of Carthage northeast of Tunis."
+      }
+    },
+    {
+      "id": "tn-find-el-jem-amphitheatre",
+      "type": "find_poi",
+      "targetPoiId": "el-djem-amphitheatre-history-v2",
+      "question": {
+        "de": "Finde das Amphitheater von El Jem im östlichen Landesinneren.",
+        "hu": "Keresd meg az el jem-i amfiteátrumot a keleti belső területen.",
+        "ro": "Găsește amfiteatrul din El Jem în interiorul estic al țării.",
+        "en": "Find the amphitheatre of El Jem in the eastern interior."
+      }
+    },
+    {
+      "id": "tn-find-houmt-souk-djerba",
+      "type": "find_poi",
+      "targetPoiId": "houmt-souk-cities-v2",
+      "question": {
+        "de": "Finde Houmt Souk auf der Insel Djerba.",
+        "hu": "Keresd meg Houmt Soukot Dzserba szigetén.",
+        "ro": "Găsește Houmt Souk pe insula Djerba.",
+        "en": "Find Houmt Souk on the island of Djerba."
+      }
+    },
+    {
+      "id": "tn-region-sfax-coast",
+      "type": "find_region",
+      "targetRegionId": "TUN-114",
+      "question": {
+        "de": "Klicke auf die Region Sfax an der mittleren Ostküste.",
+        "hu": "Kattints Sfax régiójára a középső keleti partvidéken.",
+        "ro": "Apasă pe regiunea Sfax de pe coasta estică centrală.",
+        "en": "Click the Sfax region on the central eastern coast."
+      }
+    },
+    {
+      "id": "tn-region-jendouba-northwest",
+      "type": "find_region",
+      "targetRegionId": "TUN-106",
+      "question": {
+        "de": "Finde die Region Jendouba im Nordwesten nahe Algerien.",
+        "hu": "Keresd meg Jendouba régióját északnyugaton, Algéria közelében.",
+        "ro": "Găsește regiunea Jendouba în nord-vest, aproape de Algeria.",
+        "en": "Find the Jendouba region in the northwest near Algeria."
+      }
+    },
+    {
+      "id": "tn-region-nabeul-cap-bon",
+      "type": "find_region",
+      "targetRegionId": "TUN-107",
+      "question": {
+        "de": "Klicke auf die Region Nabeul auf der Halbinsel Cap Bon.",
+        "hu": "Kattints Nabeul régiójára a Cap Bon-félszigeten.",
+        "ro": "Apasă pe regiunea Nabeul de pe peninsula Cap Bon.",
+        "en": "Click the Nabeul region on the Cap Bon peninsula."
+      }
+    },
+    {
+      "id": "tn-region-gabes-southeast",
+      "type": "find_region",
+      "targetRegionId": "TUN-111",
+      "question": {
+        "de": "Finde die Region Gabès im Südosten am Golf von Gabès.",
+        "hu": "Keresd meg Gabès régióját délkeleten, a Gabèsi-öbölnél.",
+        "ro": "Găsește regiunea Gabès în sud-est, la Golful Gabès.",
+        "en": "Find the Gabès region in the southeast on the Gulf of Gabès."
+      }
+    },
+    {
+      "id": "tn-odd-not-eastern-coast",
+      "type": "odd_one_out",
+      "poiIds": [
+        "hammamet-cities-v2",
+        "monastir-cities-v2",
+        "zarzis-cities-v2",
+        "kasserine-cities-v2"
+      ],
+      "targetPoiId": "kasserine-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht an Tunesiens östlicher oder südöstlicher Küste?",
+        "hu": "Melyik város nem Tunézia keleti vagy délkeleti partján fekszik?",
+        "ro": "Care oraș nu se află pe coasta estică sau sud-estică a Tunisiei?",
+        "en": "Which city is not on Tunisia's eastern or southeastern coast?"
+      }
+    },
+    {
+      "id": "tn-odd-not-cap-bon",
+      "type": "odd_one_out",
+      "poiIds": [
+        "nabeul-cities-v2",
+        "kelibia-cities-v2",
+        "korba-cities-v2",
+        "gafsa-cities-v2"
+      ],
+      "targetPoiId": "gafsa-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht auf der Halbinsel Cap Bon?",
+        "hu": "Melyik város nem a Cap Bon-félszigeten található?",
+        "ro": "Care oraș nu se află pe peninsula Cap Bon?",
+        "en": "Which city is not on the Cap Bon peninsula?"
+      }
+    },
+    {
+      "id": "tn-odd-not-greater-tunis",
+      "type": "odd_one_out",
+      "poiIds": [
+        "ariana-cities-v2",
+        "ben-arous-cities-v2",
+        "manouba-cities-v2",
+        "tozeur-cities-v2"
+      ],
+      "targetPoiId": "tozeur-cities-v2",
+      "question": {
+        "de": "Welche Stadt gehört nicht zum Großraum Tunis?",
+        "hu": "Melyik város nem Tunisz nagyvárosi térségéhez tartozik?",
+        "ro": "Care oraș nu face parte din zona metropolitană Tunis?",
+        "en": "Which city is not part of Greater Tunis?"
+      }
+    },
+    {
+      "id": "tn-odd-not-ancient-site",
+      "type": "odd_one_out",
+      "poiIds": [
+        "dougga-archaeological-history-v2",
+        "bulla-regia-history-v2",
+        "chemtou-archaeological-history-v2",
+        "sidi-bou-said-cities-v2"
+      ],
+      "targetPoiId": "sidi-bou-said-cities-v2",
+      "question": {
+        "de": "Welcher Ort ist keine archäologische Stätte aus der Antike?",
+        "hu": "Melyik hely nem ókori régészeti lelőhely?",
+        "ro": "Care loc nu este un sit arheologic din Antichitate?",
+        "en": "Which place is not an archaeological site from antiquity?"
+      }
+    },
+    {
+      "id": "tn-odd-not-port",
+      "type": "odd_one_out",
+      "poiIds": [
+        "bizerte-commercial-port-economic-v2",
+        "rades-commercial-port-economic-v2",
+        "sfax-port-economic-v2",
+        "kairouan-cities-v2"
+      ],
+      "targetPoiId": "kairouan-cities-v2",
+      "question": {
+        "de": "Welcher Ort ist kein Hafen?",
+        "hu": "Melyik hely nem kikötő?",
+        "ro": "Care loc nu este un port?",
+        "en": "Which place is not a port?"
+      }
+    },
+    {
+      "id": "tn-sequence-northwest-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "tabarka-cities-v2",
+        "jendouba-cities-v2",
+        "beja-cities-v2",
+        "tunis-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "tabarka-cities-v2",
+        "jendouba-cities-v2",
+        "beja-cities-v2",
+        "tunis-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Tabarka, Jendouba, Béja und Tunis von West nach Ost an.",
+        "hu": "Kattints Tabarkára, Jendoubára, Bèjára és Tuniszra nyugatról keletre.",
+        "ro": "Apasă Tabarka, Jendouba, Béja și Tunis de la vest la est.",
+        "en": "Click Tabarka, Jendouba, Béja and Tunis from west to east."
+      }
+    },
+    {
+      "id": "tn-sequence-north-south-east-side",
+      "type": "sequence",
+      "poiIds": [
+        "kelibia-cities-v2",
+        "kairouan-cities-v2",
+        "gabes-cities-v2",
+        "tataouine-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "kelibia-cities-v2",
+        "kairouan-cities-v2",
+        "gabes-cities-v2",
+        "tataouine-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Kélibia, Kairouan, Gabès und Tataouine von Nord nach Süd an.",
+        "hu": "Kattints Kélibiára, Kairouanra, Gabèsre és Tataouine-ra északról délre.",
+        "ro": "Apasă Kélibia, Kairouan, Gabès și Tataouine de la nord la sud.",
+        "en": "Click Kélibia, Kairouan, Gabès and Tataouine from north to south."
+      }
+    },
+    {
+      "id": "tn-sequence-ancient-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "chemtou-archaeological-history-v2",
+        "dougga-archaeological-history-v2",
+        "thuburbo-majus-history-v2",
+        "carthage-ruins-history-v2"
+      ],
+      "orderedPoiIds": [
+        "chemtou-archaeological-history-v2",
+        "dougga-archaeological-history-v2",
+        "thuburbo-majus-history-v2",
+        "carthage-ruins-history-v2"
+      ],
+      "question": {
+        "de": "Klicke Chemtou, Dougga, Thuburbo Majus und die Ruinen von Karthago von West nach Ost an.",
+        "hu": "Kattints Chemtoura, Dougga romjaira, Thuburbo Majusra és Karthágó romjaira nyugatról keletre.",
+        "ro": "Apasă Chemtou, Dougga, Thuburbo Majus și ruinele Cartaginei de la vest la est.",
+        "en": "Click Chemtou, Dougga, Thuburbo Majus and the ruins of Carthage from west to east."
+      }
+    },
+    {
+      "id": "tn-sequence-south-north-to-south",
+      "type": "sequence",
+      "poiIds": [
+        "tozeur-cities-v2",
+        "kebili-cities-v2",
+        "medenine-cities-v2",
+        "tataouine-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "tozeur-cities-v2",
+        "kebili-cities-v2",
+        "medenine-cities-v2",
+        "tataouine-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Tozeur, Kebili, Médenine und Tataouine von Nord nach Süd an.",
+        "hu": "Kattints Tozeurra, Kebilire, Médenine-re és Tataouine-ra északról délre.",
+        "ro": "Apasă Tozeur, Kebili, Médenine și Tataouine de la nord la sud.",
+        "en": "Click Tozeur, Kebili, Médenine and Tataouine from north to south."
+      }
+    },
+    {
+      "id": "tn-sequence-ports-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "bizerte-commercial-port-economic-v2",
+        "rades-commercial-port-economic-v2",
+        "sousse-port-economic-v2",
+        "sfax-port-economic-v2"
+      ],
+      "orderedPoiIds": [
+        "bizerte-commercial-port-economic-v2",
+        "rades-commercial-port-economic-v2",
+        "sousse-port-economic-v2",
+        "sfax-port-economic-v2"
+      ],
+      "question": {
+        "de": "Klicke den Hafen von Bizerte, den Hafen von Radès, den Hafen von Sousse und den Hafen von Sfax von West nach Ost an.",
+        "hu": "Kattints Bizerte kikötőjére, Radès kikötőjére, Sousse kikötőjére és Sfax kikötőjére nyugatról keletre.",
+        "ro": "Apasă portul din Bizerte, portul din Radès, portul din Sousse și portul din Sfax de la vest la est.",
+        "en": "Click the Port of Bizerte, the Port of Radès, the Port of Sousse and the Port of Sfax from west to east."
+      }
+    }
+  ]
+}

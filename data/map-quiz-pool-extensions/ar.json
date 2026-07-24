@@ -1,0 +1,303 @@
+{
+  "ar": [
+    {
+      "id": "ar-ext-find-aconcagua",
+      "type": "find_poi",
+      "targetPoiId": "ar-aconcagua-nature-v2",
+      "question": {
+        "de": "Finde den Aconcagua an der Grenze zu Chile.",
+        "hu": "Keresd meg az Aconcaguát a chilei határnál.",
+        "ro": "Găsește Aconcagua la granița cu Chile.",
+        "en": "Find Aconcagua on the border with Chile."
+      }
+    },
+    {
+      "id": "ar-ext-find-san-ignacio-mini",
+      "type": "find_poi",
+      "targetPoiId": "san-ignacio-mini-landmarks-v2",
+      "question": {
+        "de": "Finde San Ignacio Miní in der Provinz Misiones.",
+        "hu": "Keresd meg San Ignacio Miní helyét Misiones tartományban.",
+        "ro": "Găsește San Ignacio Miní în provincia Misiones.",
+        "en": "Find San Ignacio Miní in Misiones Province."
+      }
+    },
+    {
+      "id": "ar-ext-find-valdes-peninsula",
+      "type": "find_poi",
+      "targetPoiId": "ar-peninsula-valdes-life-v2",
+      "question": {
+        "de": "Finde die Halbinsel Valdés an der Küste Patagoniens.",
+        "hu": "Keresd meg a Valdés-félszigetet Patagónia partvidékén.",
+        "ro": "Găsește Peninsula Valdés pe coasta Patagoniei.",
+        "en": "Find Valdés Peninsula on the Patagonian coast."
+      }
+    },
+    {
+      "id": "ar-ext-find-pucara-tilcara",
+      "type": "find_poi",
+      "targetPoiId": "pucara-de-tilcara-landmarks-v2",
+      "question": {
+        "de": "Finde Pucará de Tilcara in der Quebrada de Humahuaca.",
+        "hu": "Keresd meg a Pucará de Tilcarát a Quebrada de Humahuacában.",
+        "ro": "Găsește Pucará de Tilcara în Quebrada de Humahuaca.",
+        "en": "Find Pucará de Tilcara in the Quebrada de Humahuaca."
+      }
+    },
+    {
+      "id": "ar-ext-find-cueva-de-las-manos",
+      "type": "find_poi",
+      "targetPoiId": "ar-cueva-de-las-manos-history-v2",
+      "question": {
+        "de": "Finde Cueva de las Manos im Westen von Santa Cruz.",
+        "hu": "Keresd meg a Cueva de las Manos helyét Santa Cruz nyugati részén.",
+        "ro": "Găsește Cueva de las Manos în vestul provinciei Santa Cruz.",
+        "en": "Find Cueva de las Manos in western Santa Cruz Province."
+      }
+    },
+    {
+      "id": "ar-ext-find-obelisco",
+      "type": "find_poi",
+      "targetPoiId": "obelisco-buenos-aires-landmarks-v2",
+      "question": {
+        "de": "Finde den Obelisco de Buenos Aires im Zentrum der Hauptstadt.",
+        "hu": "Keresd meg a Buenos Aires-i obeliszket a főváros központjában.",
+        "ro": "Găsește Obeliscul din Buenos Aires în centrul capitalei.",
+        "en": "Find the Obelisco de Buenos Aires in the center of the capital."
+      }
+    },
+    {
+      "id": "ar-ext-region-jujuy",
+      "type": "find_region",
+      "targetRegionId": "ARG-1301",
+      "question": {
+        "de": "Klicke auf Jujuy im äußersten Nordwesten Argentiniens.",
+        "hu": "Kattints Jujuy tartományra Argentína legészaknyugatibb részén.",
+        "ro": "Apasă pe provincia Jujuy din extremul nord-vest al Argentinei.",
+        "en": "Click Jujuy Province in Argentina's far northwest."
+      }
+    },
+    {
+      "id": "ar-ext-region-chubut",
+      "type": "find_region",
+      "targetRegionId": "ARG-1274",
+      "question": {
+        "de": "Finde die Provinz Chubut in Zentralpatagonien.",
+        "hu": "Keresd meg Chubut tartományt Közép-Patagóniában.",
+        "ro": "Găsește provincia Chubut în Patagonia centrală.",
+        "en": "Find Chubut Province in central Patagonia."
+      }
+    },
+    {
+      "id": "ar-ext-region-santa-fe",
+      "type": "find_region",
+      "targetRegionId": "ARG-1310",
+      "question": {
+        "de": "Klicke auf die Provinz Santa Fe am Paraná.",
+        "hu": "Kattints Santa Fe tartományra a Paraná folyó mentén.",
+        "ro": "Apasă pe provincia Santa Fe de-a lungul fluviului Paraná.",
+        "en": "Click Santa Fe Province along the Paraná River."
+      }
+    },
+    {
+      "id": "ar-ext-region-neuquen",
+      "type": "find_region",
+      "targetRegionId": "ARG-1276",
+      "question": {
+        "de": "Finde die Provinz Neuquén an der Andengrenze.",
+        "hu": "Keresd meg Neuquén tartományt az Andok határvidékén.",
+        "ro": "Găsește provincia Neuquén la frontiera andină.",
+        "en": "Find Neuquén Province along the Andes."
+      }
+    },
+    {
+      "id": "ar-ext-region-corrientes",
+      "type": "find_region",
+      "targetRegionId": "ARG-1308",
+      "question": {
+        "de": "Klicke auf Corrientes im Nordosten Argentiniens.",
+        "hu": "Kattints Corrientes tartományra Argentína északkeleti részén.",
+        "ro": "Apasă pe Corrientes în nord-estul Argentinei.",
+        "en": "Click Corrientes Province in northeastern Argentina."
+      }
+    },
+    {
+      "id": "ar-ext-odd-not-cuyo-wine",
+      "type": "odd_one_out",
+      "poiIds": [
+        "ar-m-mendoza-cities-v2",
+        "ar-m-lujan-de-cuyo-cities-v2",
+        "ar-catena-zapata-life-v2",
+        "ar-s-rosario-cities-v2"
+      ],
+      "targetPoiId": "ar-s-rosario-cities-v2",
+      "question": {
+        "de": "Welche dieser Orte gehört nicht zur Weinregion von Mendoza?",
+        "hu": "Melyik hely nem Mendoza borvidékéhez tartozik?",
+        "ro": "Care dintre aceste locuri nu aparține regiunii viticole Mendoza?",
+        "en": "Which of these places is not part of the Mendoza wine region?"
+      }
+    },
+    {
+      "id": "ar-ext-odd-not-atlantic-resort",
+      "type": "odd_one_out",
+      "poiIds": [
+        "argentina-pinamar-cities-v2",
+        "argentina-villa-gesell-cities-v2",
+        "ar-b-mar-del-plata-cities-v2",
+        "ar-x-cordoba-cities-v2"
+      ],
+      "targetPoiId": "ar-x-cordoba-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte ist kein Badeort an der Atlantikküste?",
+        "hu": "Melyik város nem atlanti-parti üdülőhely?",
+        "ro": "Care dintre aceste orașe nu este o stațiune de pe coasta Atlanticului?",
+        "en": "Which of these cities is not a resort on the Atlantic coast?"
+      }
+    },
+    {
+      "id": "ar-ext-odd-not-misiones-reduction",
+      "type": "odd_one_out",
+      "poiIds": [
+        "san-ignacio-mini-landmarks-v2",
+        "ar-nuestra-senora-de-loreto-history-v2",
+        "ar-nuestra-senora-de-santa-ana-history-v2",
+        "ar-esteros-ibera-life-v2"
+      ],
+      "targetPoiId": "ar-esteros-ibera-life-v2",
+      "question": {
+        "de": "Welche dieser Stätten ist keine Jesuitenstätte in Misiones?",
+        "hu": "Melyik hely nem jezsuita emlékhely Misiones tartományban?",
+        "ro": "Care dintre aceste locuri nu este un sit iezuit din Misiones?",
+        "en": "Which of these places is not a Jesuit site in Misiones?"
+      }
+    },
+    {
+      "id": "ar-ext-odd-not-tierra-del-fuego",
+      "type": "odd_one_out",
+      "poiIds": [
+        "ar-canal-beagle-nature-v2",
+        "faro-les-eclaireurs-landmarks-v2",
+        "ushuaia-port-economic-v2",
+        "ar-z-rio-gallegos-cities-v2"
+      ],
+      "targetPoiId": "ar-z-rio-gallegos-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht in Tierra del Fuego?",
+        "hu": "Melyik hely nem a Tűzföldön található?",
+        "ro": "Care dintre aceste locuri nu se află în Țara de Foc?",
+        "en": "Which of these places is not in Tierra del Fuego?"
+      }
+    },
+    {
+      "id": "ar-ext-sequence-north-south-northwest-route",
+      "type": "sequence",
+      "poiIds": [
+        "argentina-la-quiaca-cities-v2",
+        "argentina-purmamarca-cities-v2",
+        "ar-a-salta-cities-v2",
+        "argentina-cafayate-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "argentina-la-quiaca-cities-v2",
+        "argentina-purmamarca-cities-v2",
+        "ar-a-salta-cities-v2",
+        "argentina-cafayate-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke La Quiaca, Purmamarca, Salta und Cafayate von Nord nach Süd an.",
+        "hu": "Kattints La Quiacára, Purmamarcára, Saltára és Cafayatéra északról délre.",
+        "ro": "Apasă La Quiaca, Purmamarca, Salta și Cafayate de la nord la sud.",
+        "en": "Click La Quiaca, Purmamarca, Salta, and Cafayate from north to south."
+      }
+    },
+    {
+      "id": "ar-ext-sequence-north-south-atlantic-resorts",
+      "type": "sequence",
+      "poiIds": [
+        "argentina-pinamar-cities-v2",
+        "argentina-villa-gesell-cities-v2",
+        "ar-b-mar-del-plata-cities-v2",
+        "argentina-necochea-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "argentina-pinamar-cities-v2",
+        "argentina-villa-gesell-cities-v2",
+        "ar-b-mar-del-plata-cities-v2",
+        "argentina-necochea-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Pinamar, Villa Gesell, Mar del Plata und Necochea von Nord nach Süd an.",
+        "hu": "Kattints Pinamarra, Villa Gesellre, Mar del Platára és Necocheára északról délre.",
+        "ro": "Apasă Pinamar, Villa Gesell, Mar del Plata și Necochea de la nord la sud.",
+        "en": "Click Pinamar, Villa Gesell, Mar del Plata, and Necochea from north to south."
+      }
+    },
+    {
+      "id": "ar-ext-sequence-north-south-patagonia",
+      "type": "sequence",
+      "poiIds": [
+        "ar-u-puerto-madryn-cities-v2",
+        "ar-u-rawson-cities-v2",
+        "argentina-perito-moreno-cities-v2",
+        "ar-z-rio-gallegos-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "ar-u-puerto-madryn-cities-v2",
+        "ar-u-rawson-cities-v2",
+        "argentina-perito-moreno-cities-v2",
+        "ar-z-rio-gallegos-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Puerto Madryn, Rawson, Perito Moreno und Río Gallegos von Nord nach Süd an.",
+        "hu": "Kattints Puerto Madrynra, Rawsonra, Perito Morenóra és Río Gallegosra északról délre.",
+        "ro": "Apasă Puerto Madryn, Rawson, Perito Moreno și Río Gallegos de la nord la sud.",
+        "en": "Click Puerto Madryn, Rawson, Perito Moreno, and Río Gallegos from north to south."
+      }
+    },
+    {
+      "id": "ar-ext-sequence-west-east-southern-patagonia",
+      "type": "sequence",
+      "poiIds": [
+        "argentina-el-chalten-cities-v2",
+        "argentina-el-calafate-cities-v2",
+        "ar-cueva-de-las-manos-history-v2",
+        "ar-z-rio-gallegos-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "argentina-el-chalten-cities-v2",
+        "argentina-el-calafate-cities-v2",
+        "ar-cueva-de-las-manos-history-v2",
+        "ar-z-rio-gallegos-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke El Chaltén, El Calafate, Cueva de las Manos und Río Gallegos von West nach Ost an.",
+        "hu": "Kattints El Chalténre, El Calafatéra, a Cueva de las Manosra és Río Gallegosra nyugatról keletre.",
+        "ro": "Apasă El Chaltén, El Calafate, Cueva de las Manos și Río Gallegos de la vest la est.",
+        "en": "Click El Chaltén, El Calafate, Cueva de las Manos, and Río Gallegos from west to east."
+      }
+    },
+    {
+      "id": "ar-ext-sequence-west-east-mendoza-corridor",
+      "type": "sequence",
+      "poiIds": [
+        "ar-aconcagua-nature-v2",
+        "argentina-potrerillos-cities-v2",
+        "ar-m-lujan-de-cuyo-cities-v2",
+        "ar-m-mendoza-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "ar-aconcagua-nature-v2",
+        "argentina-potrerillos-cities-v2",
+        "ar-m-lujan-de-cuyo-cities-v2",
+        "ar-m-mendoza-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Aconcagua, Potrerillos, Luján de Cuyo und Mendoza von West nach Ost an.",
+        "hu": "Kattints az Aconcaguára, Potrerillosra, Luján de Cuyóra és Mendozára nyugatról keletre.",
+        "ro": "Apasă Aconcagua, Potrerillos, Luján de Cuyo și Mendoza de la vest la est.",
+        "en": "Click Aconcagua, Potrerillos, Luján de Cuyo, and Mendoza from west to east."
+      }
+    }
+  ]
+}

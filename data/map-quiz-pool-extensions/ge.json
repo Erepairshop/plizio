@@ -1,0 +1,315 @@
+{
+  "ge": [
+    {
+      "id": "ge-find-rustavi",
+      "type": "find_poi",
+      "targetPoiId": "ge-rustavi-cities-v2",
+      "question": {
+        "de": "Finde Rustawi südöstlich von Tiflis.",
+        "hu": "Keresd meg Rusztavit Tbiliszitől délkeletre.",
+        "ro": "Găsește Rustavi, la sud-est de Tbilisi.",
+        "en": "Find Rustavi southeast of Tbilisi."
+      }
+    },
+    {
+      "id": "ge-find-zugdidi",
+      "type": "find_poi",
+      "targetPoiId": "ge-zugdidi-cities-v2",
+      "question": {
+        "de": "Finde Sugdidi im Westen Georgiens.",
+        "hu": "Keresd meg Zugdidit Nyugat-Grúziában.",
+        "ro": "Găsește Zugdidi în vestul Georgiei.",
+        "en": "Find Zugdidi in western Georgia."
+      }
+    },
+    {
+      "id": "ge-find-mtskheta",
+      "type": "find_poi",
+      "targetPoiId": "ge-mtskheta-cities-v2",
+      "question": {
+        "de": "Klicke auf Mzcheta nördlich von Tiflis.",
+        "hu": "Kattints Mchetára, Tbiliszitől északra.",
+        "ro": "Apasă pe Mtskheta, la nord de Tbilisi.",
+        "en": "Click Mtskheta north of Tbilisi."
+      }
+    },
+    {
+      "id": "ge-find-telavi",
+      "type": "find_poi",
+      "targetPoiId": "ge-telavi-cities-v2",
+      "question": {
+        "de": "Finde Telawi in der Weinregion Kachetien.",
+        "hu": "Keresd meg Télavit a borvidéki Kaheti régióban.",
+        "ro": "Găsește Telavi în regiunea viticolă Kakheti.",
+        "en": "Find Telavi in the wine region of Kakheti."
+      }
+    },
+    {
+      "id": "ge-find-borjomi",
+      "type": "find_poi",
+      "targetPoiId": "ge-borjomi-cities-v2",
+      "question": {
+        "de": "Finde Bordschomi im Süden Zentralgeorgiens.",
+        "hu": "Keresd meg Borzsomit Közép-Grúzia déli részén.",
+        "ro": "Găsește Borjomi în sudul Georgiei centrale.",
+        "en": "Find Borjomi in the south of central Georgia."
+      }
+    },
+    {
+      "id": "ge-region-kakheti",
+      "type": "find_region",
+      "targetRegionId": "GEO-3033",
+      "question": {
+        "de": "Klicke auf die Region Kachetien.",
+        "hu": "Kattints Kaheti régiójára.",
+        "ro": "Apasă pe regiunea Kakheti.",
+        "en": "Click the region of Kakheti."
+      }
+    },
+    {
+      "id": "ge-region-imereti",
+      "type": "find_region",
+      "targetRegionId": "GEO-3030",
+      "question": {
+        "de": "Klicke auf die Region Imeretien.",
+        "hu": "Kattints Imereti régiójára.",
+        "ro": "Apasă pe regiunea Imereti.",
+        "en": "Click the region of Imereti."
+      }
+    },
+    {
+      "id": "ge-region-samegrelo-zemo-svaneti",
+      "type": "find_region",
+      "targetRegionId": "GEO-3029",
+      "question": {
+        "de": "Klicke auf die Region Samegrelo-Semo Swanetien.",
+        "hu": "Kattints Samegrelo-Zemo Szvaneti régiójára.",
+        "ro": "Apasă pe regiunea Samegrelo-Zemo Svaneti.",
+        "en": "Click the region of Samegrelo-Zemo Svaneti."
+      }
+    },
+    {
+      "id": "ge-region-samtskhe-javakheti",
+      "type": "find_region",
+      "targetRegionId": "GEO-3038",
+      "question": {
+        "de": "Klicke auf die Region Samzche-Dschawachetien.",
+        "hu": "Kattints Samche-Dzsavaheti régiójára.",
+        "ro": "Apasă pe regiunea Samtskhe-Javakheti.",
+        "en": "Click the region of Samtskhe-Javakheti."
+      }
+    },
+    {
+      "id": "ge-odd-westmost-trio",
+      "type": "odd_one_out",
+      "poiIds": [
+        "ge-tbilisi-cities-v2",
+        "ge-kutaisi-cities-v2",
+        "ge-zugdidi-cities-v2"
+      ],
+      "targetPoiId": "ge-zugdidi-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten im Westen?",
+        "hu": "Melyik város fekszik a legnyugatabbra?",
+        "ro": "Care dintre aceste orașe se află cel mai la vest?",
+        "en": "Which of these cities lies farthest west?"
+      }
+    },
+    {
+      "id": "ge-odd-eastmost-trio",
+      "type": "odd_one_out",
+      "poiIds": [
+        "ge-rustavi-cities-v2",
+        "ge-tbilisi-cities-v2",
+        "ge-telavi-cities-v2"
+      ],
+      "targetPoiId": "ge-telavi-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten im Osten?",
+        "hu": "Melyik város fekszik a legkeletebbre?",
+        "ro": "Care dintre aceste orașe se află cel mai la est?",
+        "en": "Which of these cities lies farthest east?"
+      }
+    },
+    {
+      "id": "ge-odd-southmost-trio",
+      "type": "odd_one_out",
+      "poiIds": [
+        "ge-gori-cities-v2",
+        "ge-borjomi-cities-v2",
+        "ge-akhalkalaki-cities-v2"
+      ],
+      "targetPoiId": "ge-akhalkalaki-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten im Süden?",
+        "hu": "Melyik város fekszik a legdélebbre?",
+        "ro": "Care dintre aceste orașe se află cel mai la sud?",
+        "en": "Which of these cities lies farthest south?"
+      }
+    },
+    {
+      "id": "ge-odd-coast-port",
+      "type": "odd_one_out",
+      "poiIds": [
+        "ge-rustavi-cities-v2",
+        "ge-kutaisi-cities-v2",
+        "ge-poti-cities-v2"
+      ],
+      "targetPoiId": "ge-poti-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt an der Schwarzmeerküste?",
+        "hu": "Melyik város fekszik a Fekete-tenger partján?",
+        "ro": "Care dintre aceste orașe se află pe coasta Mării Negre?",
+        "en": "Which of these cities is on the Black Sea coast?"
+      }
+    },
+    {
+      "id": "ge-odd-northmost-trio",
+      "type": "odd_one_out",
+      "poiIds": [
+        "ge-batumi-cities-v2",
+        "ge-poti-cities-v2",
+        "ge-zugdidi-cities-v2"
+      ],
+      "targetPoiId": "ge-zugdidi-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten im Norden?",
+        "hu": "Melyik város fekszik a legészakabbra?",
+        "ro": "Care dintre aceste orașe se află cel mai la nord?",
+        "en": "Which of these cities lies farthest north?"
+      }
+    },
+    {
+      "id": "ge-sequence-west-east-lowlands",
+      "type": "sequence",
+      "poiIds": [
+        "ge-poti-cities-v2",
+        "ge-zugdidi-cities-v2",
+        "ge-kutaisi-cities-v2",
+        "ge-tbilisi-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "ge-poti-cities-v2",
+        "ge-zugdidi-cities-v2",
+        "ge-kutaisi-cities-v2",
+        "ge-tbilisi-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Poti, Sugdidi, Kutaissi und Tiflis von Westen nach Osten an.",
+        "hu": "Kattints Potira, Zugdidire, Kutaiszira és Tbiliszire nyugatról keletre.",
+        "ro": "Apasă pe Poti, Zugdidi, Kutaisi și Tbilisi de la vest la est.",
+        "en": "Click Poti, Zugdidi, Kutaisi and Tbilisi from west to east."
+      }
+    },
+    {
+      "id": "ge-sequence-north-south-western-corridor",
+      "type": "sequence",
+      "poiIds": [
+        "ge-sokhumi-cities-v2",
+        "ge-zugdidi-cities-v2",
+        "ge-kutaisi-cities-v2",
+        "ge-tbilisi-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "ge-sokhumi-cities-v2",
+        "ge-zugdidi-cities-v2",
+        "ge-kutaisi-cities-v2",
+        "ge-tbilisi-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Sochumi, Sugdidi, Kutaissi und Tiflis von Norden nach Süden an.",
+        "hu": "Kattints Szuhumira, Zugdidire, Kutaiszira és Tbiliszire északról délre.",
+        "ro": "Apasă pe Suhumi, Zugdidi, Kutaisi și Tbilisi de la nord la sud.",
+        "en": "Click Sokhumi, Zugdidi, Kutaisi and Tbilisi from north to south."
+      }
+    },
+    {
+      "id": "ge-sequence-west-east-ajaria-to-kartli",
+      "type": "sequence",
+      "poiIds": [
+        "ge-batumi-cities-v2",
+        "ge-ozurgeti-cities-v2",
+        "ge-kutaisi-cities-v2",
+        "ge-gori-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "ge-batumi-cities-v2",
+        "ge-ozurgeti-cities-v2",
+        "ge-kutaisi-cities-v2",
+        "ge-gori-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Batumi, Osurgeti, Kutaissi und Gori von Westen nach Osten an.",
+        "hu": "Kattints Batumira, Ozurgetire, Kutaiszira és Gorira nyugatról keletre.",
+        "ro": "Apasă pe Batumi, Ozurgeti, Kutaisi și Gori de la vest la est.",
+        "en": "Click Batumi, Ozurgeti, Kutaisi and Gori from west to east."
+      }
+    },
+    {
+      "id": "ge-sequence-south-north-southern-arc",
+      "type": "sequence",
+      "poiIds": [
+        "ge-akhalkalaki-cities-v2",
+        "ge-rustavi-cities-v2",
+        "ge-tbilisi-cities-v2",
+        "ge-telavi-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "ge-akhalkalaki-cities-v2",
+        "ge-rustavi-cities-v2",
+        "ge-tbilisi-cities-v2",
+        "ge-telavi-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Achalkalaki, Rustawi, Tiflis und Telawi von Süden nach Norden an.",
+        "hu": "Kattints Ahalkalakira, Rusztavira, Tbiliszire és Telavira délről északra.",
+        "ro": "Apasă pe Akhalkalaki, Rustavi, Tbilisi și Telavi de la sud la nord.",
+        "en": "Click Akhalkalaki, Rustavi, Tbilisi and Telavi from south to north."
+      }
+    },
+    {
+      "id": "ge-sequence-west-east-central-route",
+      "type": "sequence",
+      "poiIds": [
+        "ge-borjomi-cities-v2",
+        "ge-khashuri-cities-v2",
+        "ge-gori-cities-v2",
+        "ge-kaspi-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "ge-borjomi-cities-v2",
+        "ge-khashuri-cities-v2",
+        "ge-gori-cities-v2",
+        "ge-kaspi-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Bordschomi, Chaschuri, Gori und Kaspi von Westen nach Osten an.",
+        "hu": "Kattints Borzsomira, Hasurira, Gorira és Kaspira nyugatról keletre.",
+        "ro": "Apasă pe Borjomi, Khashuri, Gori și Kaspi de la vest la est.",
+        "en": "Click Borjomi, Khashuri, Gori and Kaspi from west to east."
+      }
+    },
+    {
+      "id": "ge-sequence-south-north-kazbegi-line",
+      "type": "sequence",
+      "poiIds": [
+        "udabno-desert-relief-v2",
+        "ge-tbilisi-cities-v2",
+        "georgia-tianeti-cities-v2",
+        "kazbek-nature-v2"
+      ],
+      "orderedPoiIds": [
+        "udabno-desert-relief-v2",
+        "ge-tbilisi-cities-v2",
+        "georgia-tianeti-cities-v2",
+        "kazbek-nature-v2"
+      ],
+      "question": {
+        "de": "Klicke die Udabno-Wüste, Tiflis, Tianeti und den Kasbek von Süden nach Norden an.",
+        "hu": "Kattints az Udabno-sivatagra, Tbiliszire, Tianetire és a Kazbekre délről északra.",
+        "ro": "Apasă pe deșertul Udabno, Tbilisi, Tianeti și Muntele Kazbek de la sud la nord.",
+        "en": "Click the Udabno Desert, Tbilisi, Tianeti and Mount Kazbek from south to north."
+      }
+    }
+  ]
+}

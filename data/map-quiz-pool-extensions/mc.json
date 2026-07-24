@@ -1,0 +1,309 @@
+{
+  "mc": [
+    {
+      "id": "mc-find-japanese-garden-new",
+      "type": "find_poi",
+      "targetPoiId": "landmark-japanese-garden",
+      "question": {
+        "de": "Finde den Japanischen Garten an der Ostseite Monacos.",
+        "hu": "Keresd meg a Japánkertet Monaco keleti oldalán.",
+        "ro": "Găsește Grădina Japoneză din partea estică a Monaco-ului.",
+        "en": "Find the Japanese Garden on Monaco's eastern side."
+      }
+    },
+    {
+      "id": "mc-find-grimaldi-forum-new",
+      "type": "find_poi",
+      "targetPoiId": "landmark-grimaldi-forum",
+      "question": {
+        "de": "Finde das Grimaldi Forum nahe der Küste von Monte-Carlo.",
+        "hu": "Keresd meg a Grimaldi Forumot Monte-Carlo tengerparti részén.",
+        "ro": "Găsește Grimaldi Forum aproape de țărmul din Monte-Carlo.",
+        "en": "Find the Grimaldi Forum near Monte-Carlo's shoreline."
+      }
+    },
+    {
+      "id": "mc-find-yacht-club-new",
+      "type": "find_poi",
+      "targetPoiId": "landmark-yacht-club",
+      "question": {
+        "de": "Finde den Yacht Club de Monaco am Hafen.",
+        "hu": "Keresd meg a Monaco Yacht Clubot a kikötő mellett.",
+        "ro": "Găsește Yacht Club de Monaco de lângă port.",
+        "en": "Find the Yacht Club de Monaco by the harbor."
+      }
+    },
+    {
+      "id": "mc-find-monaco-cathedral-new",
+      "type": "find_poi",
+      "targetPoiId": "landmark-monaco-cathedral",
+      "question": {
+        "de": "Finde die Kathedrale von Monaco auf dem Felsen von Monaco-Ville.",
+        "hu": "Keresd meg a monacói katedrálist Monaco-Ville szikláján.",
+        "ro": "Găsește Catedrala din Monaco pe stânca din Monaco-Ville.",
+        "en": "Find Monaco Cathedral on the rock of Monaco-Ville."
+      }
+    },
+    {
+      "id": "mc-find-sainte-devote-chapel-new",
+      "type": "find_poi",
+      "targetPoiId": "landmark-saint-devote-chapel",
+      "question": {
+        "de": "Finde die Kapelle Sainte-Dévote beim Tal von La Condamine.",
+        "hu": "Keresd meg a Sainte-Dévote-kápolnát La Condamine völgyénél.",
+        "ro": "Găsește Capela Sainte-Dévote lângă valea din La Condamine.",
+        "en": "Find Sainte-Dévote Chapel by the valley at La Condamine."
+      }
+    },
+    {
+      "id": "mc-find-top-cars-collection-new",
+      "type": "find_poi",
+      "targetPoiId": "landmark-top-cars-collection",
+      "question": {
+        "de": "Finde die Autosammlung von Monaco in Fontvieille.",
+        "hu": "Keresd meg a monacói autógyűjteményt Fontvieille-ben.",
+        "ro": "Găsește colecția de mașini din Monaco în Fontvieille.",
+        "en": "Find Monaco's car collection in Fontvieille."
+      }
+    },
+    {
+      "id": "mc-find-rose-garden-new",
+      "type": "find_poi",
+      "targetPoiId": "landmark-princess-grace-rose-garden",
+      "question": {
+        "de": "Finde den Rosengarten von Prinzessin Grace im Westen Monacos.",
+        "hu": "Keresd meg Grace hercegnő rózsakertjét Monaco nyugati részén.",
+        "ro": "Găsește Grădina de Trandafiri Princess Grace în vestul Monaco-ului.",
+        "en": "Find the Princess Grace Rose Garden in western Monaco."
+      }
+    },
+    {
+      "id": "mc-find-prehistoric-museum-new",
+      "type": "find_poi",
+      "targetPoiId": "landmark-museum-prehistoric",
+      "question": {
+        "de": "Finde das Museum für Prähistorische Anthropologie nahe dem Exotischen Garten.",
+        "hu": "Keresd meg az Őstörténeti Antropológiai Múzeumot az Egzotikus Kert közelében.",
+        "ro": "Găsește Muzeul de Antropologie Preistorică de lângă Grădina Exotică.",
+        "en": "Find the Museum of Prehistoric Anthropology near the Exotic Garden."
+      }
+    },
+    {
+      "id": "mc-find-region-monaco-new",
+      "type": "find_region",
+      "targetRegionId": "MC-001",
+      "question": {
+        "de": "Klicke auf die Region Monaco.",
+        "hu": "Kattints Monaco régiójára.",
+        "ro": "Apasă pe regiunea Monaco.",
+        "en": "Click the Monaco region."
+      }
+    },
+    {
+      "id": "mc-odd-easternmost-district-new",
+      "type": "odd_one_out",
+      "poiIds": [
+        "district-fontvieille",
+        "district-la-condamine",
+        "district-monte-carlo"
+      ],
+      "targetPoiId": "district-monte-carlo",
+      "question": {
+        "de": "Welcher dieser Stadtteile liegt am weitesten im Osten?",
+        "hu": "Melyik városrész fekszik a legkeletebbre?",
+        "ro": "Care dintre aceste cartiere se află cel mai la est?",
+        "en": "Which of these districts lies farthest east?"
+      }
+    },
+    {
+      "id": "mc-odd-southernmost-landmark-new",
+      "type": "odd_one_out",
+      "poiIds": [
+        "landmark-monaco-cathedral",
+        "MC-001-st-charles-church",
+        "landmark-princess-grace-rose-garden"
+      ],
+      "targetPoiId": "landmark-princess-grace-rose-garden",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Süden?",
+        "hu": "Melyik hely fekszik a legdélebbre?",
+        "ro": "Care dintre aceste locuri se află cel mai la sud?",
+        "en": "Which of these places lies farthest south?"
+      }
+    },
+    {
+      "id": "mc-odd-westernmost-landmark-new",
+      "type": "odd_one_out",
+      "poiIds": [
+        "landmark-jardin-exotique",
+        "landmark-museum-prehistoric",
+        "landmark-place-du-casino"
+      ],
+      "targetPoiId": "landmark-jardin-exotique",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Westen?",
+        "hu": "Melyik hely fekszik a legnyugatabbra?",
+        "ro": "Care dintre aceste locuri se află cel mai la vest?",
+        "en": "Which of these places lies farthest west?"
+      }
+    },
+    {
+      "id": "mc-odd-harbor-venue-new",
+      "type": "odd_one_out",
+      "poiIds": [
+        "landmark-monaco-cathedral",
+        "landmark-yacht-club",
+        "landmark-museum-prehistoric"
+      ],
+      "targetPoiId": "landmark-yacht-club",
+      "question": {
+        "de": "Welcher dieser Orte liegt direkt am Haupthafen?",
+        "hu": "Melyik hely fekszik közvetlenül a fő kikötő mellett?",
+        "ro": "Care dintre aceste locuri se află chiar lângă portul principal?",
+        "en": "Which of these places sits directly beside the main harbor?"
+      }
+    },
+    {
+      "id": "mc-odd-eastern-waterfront-new",
+      "type": "odd_one_out",
+      "poiIds": [
+        "landmark-japanese-garden",
+        "landmark-grimaldi-forum",
+        "landmark-princess-grace-rose-garden"
+      ],
+      "targetPoiId": "landmark-grimaldi-forum",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Osten an der Küste?",
+        "hu": "Melyik hely fekszik a legkeletebbre a tengerparton?",
+        "ro": "Care dintre aceste locuri se află cel mai la est pe litoral?",
+        "en": "Which of these places lies farthest east along the waterfront?"
+      }
+    },
+    {
+      "id": "mc-odd-northernmost-district-new",
+      "type": "odd_one_out",
+      "poiIds": [
+        "district-fontvieille",
+        "district-monaco-ville",
+        "district-monte-carlo"
+      ],
+      "targetPoiId": "district-monte-carlo",
+      "question": {
+        "de": "Welcher dieser Stadtteile liegt am weitesten im Norden?",
+        "hu": "Melyik városrész fekszik a legészakabbra?",
+        "ro": "Care dintre aceste cartiere se află cel mai la nord?",
+        "en": "Which of these districts lies farthest north?"
+      }
+    },
+    {
+      "id": "mc-sequence-west-east-landmarks-new",
+      "type": "sequence",
+      "poiIds": [
+        "landmark-museum-prehistoric",
+        "landmark-top-cars-collection",
+        "landmark-fort-antoine",
+        "landmark-grimaldi-forum"
+      ],
+      "orderedPoiIds": [
+        "landmark-museum-prehistoric",
+        "landmark-top-cars-collection",
+        "landmark-fort-antoine",
+        "landmark-grimaldi-forum"
+      ],
+      "question": {
+        "de": "Klicke das Museum für Prähistorische Anthropologie, die Autosammlung von Monaco, Fort Antoine und das Grimaldi Forum von Westen nach Osten an.",
+        "hu": "Kattints az Őstörténeti Antropológiai Múzeumra, a monacói autógyűjteményre, Fort Antoine-ra és a Grimaldi Forumra nyugatról keletre.",
+        "ro": "Apasă pe Muzeul de Antropologie Preistorică, colecția de mașini din Monaco, Fort Antoine și Grimaldi Forum de la vest la est.",
+        "en": "Click the Museum of Prehistoric Anthropology, Monaco's car collection, Fort Antoine, and the Grimaldi Forum from west to east."
+      }
+    },
+    {
+      "id": "mc-sequence-south-north-city-strip-new",
+      "type": "sequence",
+      "poiIds": [
+        "landmark-louis-ii-stadium",
+        "landmark-monaco-cathedral",
+        "landmark-yacht-club",
+        "landmark-japanese-garden"
+      ],
+      "orderedPoiIds": [
+        "landmark-louis-ii-stadium",
+        "landmark-monaco-cathedral",
+        "landmark-yacht-club",
+        "landmark-japanese-garden"
+      ],
+      "question": {
+        "de": "Klicke Stade Louis II, die Kathedrale von Monaco, den Yacht Club de Monaco und den Japanischen Garten von Süden nach Norden an.",
+        "hu": "Kattints a II. Lajos Stadionra, a monacói katedrálisra, a Monaco Yacht Clubra és a Japánkertre délről északra.",
+        "ro": "Apasă pe Stadionul Louis II, Catedrala din Monaco, Yacht Club de Monaco și Grădina Japoneză de la sud la nord.",
+        "en": "Click Louis II Stadium, Monaco Cathedral, the Yacht Club de Monaco, and the Japanese Garden from south to north."
+      }
+    },
+    {
+      "id": "mc-sequence-west-east-districts-new",
+      "type": "sequence",
+      "poiIds": [
+        "district-fontvieille",
+        "district-la-condamine",
+        "district-monaco-ville",
+        "district-monte-carlo"
+      ],
+      "orderedPoiIds": [
+        "district-fontvieille",
+        "district-la-condamine",
+        "district-monaco-ville",
+        "district-monte-carlo"
+      ],
+      "question": {
+        "de": "Klicke Fontvieille, La Condamine, Monaco-Ville und Monte-Carlo von Westen nach Osten an.",
+        "hu": "Kattints Fontvieille, La Condamine, Monaco-Ville és Monte-Carlo városrészre nyugatról keletre.",
+        "ro": "Apasă pe Fontvieille, La Condamine, Monaco-Ville și Monte-Carlo de la vest la est.",
+        "en": "Click Fontvieille, La Condamine, Monaco-Ville, and Monte-Carlo from west to east."
+      }
+    },
+    {
+      "id": "mc-sequence-west-east-waterfront-new",
+      "type": "sequence",
+      "poiIds": [
+        "mc-port-port-de-fontvieille-extra",
+        "mc-port-port-hercules-extra",
+        "landmark-grimaldi-forum",
+        "landmark-larvotto-beach"
+      ],
+      "orderedPoiIds": [
+        "mc-port-port-de-fontvieille-extra",
+        "mc-port-port-hercules-extra",
+        "landmark-grimaldi-forum",
+        "landmark-larvotto-beach"
+      ],
+      "question": {
+        "de": "Klicke den Hafen von Fontvieille, Port Hercules, das Grimaldi Forum und den Larvotto-Strand von Westen nach Osten an.",
+        "hu": "Kattints a Fontvieille kikötőre, Port Herculesre, a Grimaldi Forumra és a Larvotto strandra nyugatról keletre.",
+        "ro": "Apasă pe portul Fontvieille, Port Hercules, Grimaldi Forum și plaja Larvotto de la vest la est.",
+        "en": "Click the Port of Fontvieille, Port Hercules, the Grimaldi Forum, and Larvotto Beach from west to east."
+      }
+    },
+    {
+      "id": "mc-sequence-south-north-coastline-new",
+      "type": "sequence",
+      "poiIds": [
+        "monaco-pointe-de-fontvieille-nature-v2",
+        "landmark-saint-devote-chapel",
+        "landmark-japanese-garden",
+        "landmark-nmnm"
+      ],
+      "orderedPoiIds": [
+        "monaco-pointe-de-fontvieille-nature-v2",
+        "landmark-saint-devote-chapel",
+        "landmark-japanese-garden",
+        "landmark-nmnm"
+      ],
+      "question": {
+        "de": "Klicke die Landspitze von Fontvieille, die Kapelle Sainte-Dévote, den Japanischen Garten und das Nouveau Musée National de Monaco von Süden nach Norden an.",
+        "hu": "Kattints a Fontvieille-fokra, a Sainte-Dévote-kápolnára, a Japánkertre és a Nouveau Musée National de Monaco épületére délről északra.",
+        "ro": "Apasă pe capul Fontvieille, Capela Sainte-Dévote, Grădina Japoneză și Nouveau Musée National de Monaco de la sud la nord.",
+        "en": "Click Fontvieille Point, Sainte-Dévote Chapel, the Japanese Garden, and the Nouveau Musée National de Monaco from south to north."
+      }
+    }
+  ]
+}

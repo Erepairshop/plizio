@@ -1,0 +1,309 @@
+{
+  "uz": [
+    {
+      "id": "uz-find-khiva",
+      "type": "find_poi",
+      "targetPoiId": "khiva-cities-v2",
+      "question": {
+        "de": "Finde Chiwa auf der Karte.",
+        "hu": "Keresd meg Hívát a térképen.",
+        "ro": "Găsește Khiva pe hartă.",
+        "en": "Find Khiva on the map."
+      }
+    },
+    {
+      "id": "uz-find-namangan",
+      "type": "find_poi",
+      "targetPoiId": "namangan-cities-v2",
+      "question": {
+        "de": "Finde Namangan auf der Karte.",
+        "hu": "Keresd meg Namangant a térképen.",
+        "ro": "Găsește Namangan pe hartă.",
+        "en": "Find Namangan on the map."
+      }
+    },
+    {
+      "id": "uz-find-registan",
+      "type": "find_poi",
+      "targetPoiId": "registan-samarkand-history-v2",
+      "question": {
+        "de": "Finde den Registan in Samarkand auf der Karte.",
+        "hu": "Keresd meg a szamarkandi Regiszánt a térképen.",
+        "ro": "Găsește Registanul din Samarkand pe hartă.",
+        "en": "Find the Registan in Samarkand on the map."
+      }
+    },
+    {
+      "id": "uz-find-charvak",
+      "type": "find_poi",
+      "targetPoiId": "charvak-reservoir-nature-v2",
+      "question": {
+        "de": "Finde den Charvak-Stausee auf der Karte.",
+        "hu": "Keresd meg a Csarvak-víztározót a térképen.",
+        "ro": "Găsește lacul de acumulare Charvak pe hartă.",
+        "en": "Find the Charvak Reservoir on the map."
+      }
+    },
+    {
+      "id": "uz-find-moynaq",
+      "type": "find_poi",
+      "targetPoiId": "uzbekistan-moynaq-cities-v2",
+      "question": {
+        "de": "Finde Moynaq auf der Karte.",
+        "hu": "Keresd meg Moynaqot a térképen.",
+        "ro": "Găsește Moynaq pe hartă.",
+        "en": "Find Moynaq on the map."
+      }
+    },
+    {
+      "id": "uz-region-khorezm",
+      "type": "find_region",
+      "targetRegionId": "UZB-355",
+      "question": {
+        "de": "Klicke auf die Region Khorezm.",
+        "hu": "Kattints Horezm régiójára.",
+        "ro": "Apasă pe regiunea Khorezm.",
+        "en": "Click the Khorezm region."
+      }
+    },
+    {
+      "id": "uz-region-navoi",
+      "type": "find_region",
+      "targetRegionId": "UZB-357",
+      "question": {
+        "de": "Klicke auf die Region Navoi.",
+        "hu": "Kattints Navoi régiójára.",
+        "ro": "Apasă pe regiunea Navoi.",
+        "en": "Click the Navoi region."
+      }
+    },
+    {
+      "id": "uz-region-surkhandarya",
+      "type": "find_region",
+      "targetRegionId": "UZB-362",
+      "question": {
+        "de": "Klicke auf die Region Surkhandarya.",
+        "hu": "Kattints Szurchondarja régiójára.",
+        "ro": "Apasă pe regiunea Surkhandarya.",
+        "en": "Click the Surkhandarya region."
+      }
+    },
+    {
+      "id": "uz-region-namangan",
+      "type": "find_region",
+      "targetRegionId": "UZB-365",
+      "question": {
+        "de": "Klicke auf die Region Namangan.",
+        "hu": "Kattints Namangan régiójára.",
+        "ro": "Apasă pe regiunea Namangan.",
+        "en": "Click the Namangan region."
+      }
+    },
+    {
+      "id": "uz-region-kashkadarya",
+      "type": "find_region",
+      "targetRegionId": "UZB-361",
+      "question": {
+        "de": "Klicke auf die Region Kashkadarya.",
+        "hu": "Kattints Kaszkadarja régiójára.",
+        "ro": "Apasă pe regiunea Kashkadarya.",
+        "en": "Click the Kashkadarya region."
+      }
+    },
+    {
+      "id": "uz-odd-furthest-north-kungrad",
+      "type": "odd_one_out",
+      "poiIds": [
+        "kungrad-cities-v2",
+        "khiva-cities-v2",
+        "bukhara-cities-v2",
+        "karshi-cities-v2"
+      ],
+      "targetPoiId": "kungrad-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt am weitesten nördlich?",
+        "hu": "Melyik város fekszik a legészakabbra?",
+        "ro": "Care oraș se află cel mai la nord?",
+        "en": "Which city lies furthest north?"
+      }
+    },
+    {
+      "id": "uz-odd-furthest-south-termez",
+      "type": "odd_one_out",
+      "poiIds": [
+        "nukus-cities-v2",
+        "samarkand-cities-v2",
+        "karshi-cities-v2",
+        "termez-cities-v2"
+      ],
+      "targetPoiId": "termez-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt am weitesten südlich?",
+        "hu": "Melyik város fekszik a legdélebbre?",
+        "ro": "Care oraș se află cel mai la sud?",
+        "en": "Which city lies furthest south?"
+      }
+    },
+    {
+      "id": "uz-odd-furthest-east-margilan",
+      "type": "odd_one_out",
+      "poiIds": [
+        "kokand-cities-v2",
+        "namangan-cities-v2",
+        "margilan-cities-v2",
+        "jizzakh-cities-v2"
+      ],
+      "targetPoiId": "margilan-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt am weitesten östlich?",
+        "hu": "Melyik város fekszik a legkeletebbre?",
+        "ro": "Care oraș se află cel mai la est?",
+        "en": "Which city lies furthest east?"
+      }
+    },
+    {
+      "id": "uz-odd-not-ferghana-region",
+      "type": "odd_one_out",
+      "poiIds": [
+        "kokand-cities-v2",
+        "margilan-cities-v2",
+        "fergana-cities-v2",
+        "namangan-cities-v2"
+      ],
+      "targetPoiId": "namangan-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht in der Region Ferghana?",
+        "hu": "Melyik város nem Fergana régióban található?",
+        "ro": "Care oraș nu se află în regiunea Fergana?",
+        "en": "Which city is not in Ferghana Region?"
+      }
+    },
+    {
+      "id": "uz-odd-not-tashkent-region",
+      "type": "odd_one_out",
+      "poiIds": [
+        "chirchiq-cities-v2",
+        "angren-cities-v2",
+        "bekabad-cities-v2",
+        "guliston-cities-v2"
+      ],
+      "targetPoiId": "guliston-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht in der Region Taschkent?",
+        "hu": "Melyik város nem Taskent régióban található?",
+        "ro": "Care oraș nu se află în regiunea Tașkent?",
+        "en": "Which city is not in Tashkent Region?"
+      }
+    },
+    {
+      "id": "uz-sequence-west-east-silk-road",
+      "type": "sequence",
+      "poiIds": [
+        "khiva-cities-v2",
+        "bukhara-cities-v2",
+        "samarkand-cities-v2",
+        "tashkent-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "khiva-cities-v2",
+        "bukhara-cities-v2",
+        "samarkand-cities-v2",
+        "tashkent-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die Städte von Westen nach Osten an: Chiwa, Buchara, Samarkand, Taschkent.",
+        "hu": "Kattints a városokra nyugatról keletre: Híva, Buhara, Szamarkand, Taskent.",
+        "ro": "Apasă orașele de la vest la est: Khiva, Buhara, Samarkand, Tașkent.",
+        "en": "Click the cities from west to east: Khiva, Bukhara, Samarkand, Tashkent."
+      }
+    },
+    {
+      "id": "uz-sequence-north-south-aral-corridor",
+      "type": "sequence",
+      "poiIds": [
+        "uzbekistan-moynaq-cities-v2",
+        "nukus-cities-v2",
+        "khiva-cities-v2",
+        "bukhara-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "uzbekistan-moynaq-cities-v2",
+        "nukus-cities-v2",
+        "khiva-cities-v2",
+        "bukhara-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die Orte von Norden nach Süden an: Moynaq, Nukus, Chiwa, Buchara.",
+        "hu": "Kattints a helyekre északról délre: Moynaq, Nukusz, Híva, Buhara.",
+        "ro": "Apasă locurile de la nord la sud: Moynaq, Nukus, Khiva, Buhara.",
+        "en": "Click the places from north to south: Moynaq, Nukus, Khiva, Bukhara."
+      }
+    },
+    {
+      "id": "uz-sequence-west-east-ferghana-valley",
+      "type": "sequence",
+      "poiIds": [
+        "kokand-cities-v2",
+        "namangan-cities-v2",
+        "fergana-cities-v2",
+        "andijan-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "kokand-cities-v2",
+        "namangan-cities-v2",
+        "fergana-cities-v2",
+        "andijan-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die Städte von Westen nach Osten an: Kokand, Namangan, Fergana, Andischan.",
+        "hu": "Kattints a városokra nyugatról keletre: Kokand, Namangan, Fergana, Andizsán.",
+        "ro": "Apasă orașele de la vest la est: Kokand, Namangan, Fergana, Andijan.",
+        "en": "Click the cities from west to east: Kokand, Namangan, Fergana, Andijan."
+      }
+    },
+    {
+      "id": "uz-sequence-north-south-tashkent-corridor",
+      "type": "sequence",
+      "poiIds": [
+        "charvak-reservoir-nature-v2",
+        "chirchiq-cities-v2",
+        "tashkent-cities-v2",
+        "bekabad-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "charvak-reservoir-nature-v2",
+        "chirchiq-cities-v2",
+        "tashkent-cities-v2",
+        "bekabad-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die Orte von Norden nach Süden an: Charvak-Stausee, Chirchiq, Taschkent, Bekabad.",
+        "hu": "Kattints a helyekre északról délre: Csarvak-víztározó, Csircsik, Taskent, Bekobod.",
+        "ro": "Apasă locurile de la nord la sud: lacul de acumulare Charvak, Chirchiq, Tașkent, Bekabad.",
+        "en": "Click the places from north to south: Charvak Reservoir, Chirchiq, Tashkent, Bekabad."
+      }
+    },
+    {
+      "id": "uz-sequence-north-south-southern-route",
+      "type": "sequence",
+      "poiIds": [
+        "chust-cities-v2",
+        "jizzakh-cities-v2",
+        "shahrisabz-cities-v2",
+        "termez-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "chust-cities-v2",
+        "jizzakh-cities-v2",
+        "shahrisabz-cities-v2",
+        "termez-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die Städte von Norden nach Süden an: Tschust, Jizzakh, Schahrisabz, Termiz.",
+        "hu": "Kattints a városokra északról délre: Csuszt, Jizzax, Sahriszabz, Termiz.",
+        "ro": "Apasă orașele de la nord la sud: Chust, Jizzakh, Shahrisabz, Termez.",
+        "en": "Click the cities from north to south: Chust, Jizzakh, Shahrisabz, Termez."
+      }
+    }
+  ]
+}

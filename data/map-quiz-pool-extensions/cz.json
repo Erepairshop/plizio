@@ -1,0 +1,298 @@
+{
+  "cz": [
+    {
+      "id": "cz-exp-find-olomouc",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Olmütz in Mähren.",
+        "hu": "Keresd meg Olomoucot Morvaországban.",
+        "ro": "Găsește Olomouc în Moravia.",
+        "en": "Find Olomouc in Moravia."
+      },
+      "targetPoiId": "czechrepublic-olomouc-cities-v2"
+    },
+    {
+      "id": "cz-exp-find-karlovy-vary",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Karlsbad im Westen Tschechiens?",
+        "hu": "Hol található Karlovy Vary Csehország nyugati részén?",
+        "ro": "Unde se află Karlovy Vary în vestul Cehiei?",
+        "en": "Where is Karlovy Vary in western Czechia?"
+      },
+      "targetPoiId": "czechrepublic-karlovy-vary-cities-v2"
+    },
+    {
+      "id": "cz-exp-find-hradec-kralove",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Hradec Králové in Ostböhmen.",
+        "hu": "Keresd meg Hradec Královét Kelet-Csehországban.",
+        "ro": "Găsește Hradec Králové în Boemia de Est.",
+        "en": "Find Hradec Králové in eastern Bohemia."
+      },
+      "targetPoiId": "czechrepublic-hradec-kralove-cities-v2"
+    },
+    {
+      "id": "cz-exp-find-pardubice",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Pardubice an der Elbe.",
+        "hu": "Keresd meg Pardubicét az Elba közelében.",
+        "ro": "Găsește Pardubice pe Elba.",
+        "en": "Find Pardubice on the Elbe."
+      },
+      "targetPoiId": "czechrepublic-pardubice-cities-v2"
+    },
+    {
+      "id": "cz-exp-find-jihlava",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Iglau im böhmisch-mährischen Hochland?",
+        "hu": "Hol található Jihlava a Cseh-Morva-dombságon?",
+        "ro": "Unde se află Jihlava în Podișul Boemo-Morav?",
+        "en": "Where is Jihlava in the Bohemian-Moravian Highlands?"
+      },
+      "targetPoiId": "czechrepublic-jihlava-cities-v2"
+    },
+    {
+      "id": "cz-exp-find-kutna-hora",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Kuttenberg östlich von Prag.",
+        "hu": "Keresd meg Kutná Horát Prágától keletre.",
+        "ro": "Găsește Kutná Hora la est de Praga.",
+        "en": "Find Kutná Hora east of Prague."
+      },
+      "targetPoiId": "czechrepublic-kutna-hora-cities-v2"
+    },
+    {
+      "id": "cz-exp-region-central-bohemian",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf die Mittelböhmische Region, die Prag umgibt.",
+        "hu": "Kattints a Prágát körülvevő Közép-csehországi kerületre.",
+        "ro": "Apasă pe regiunea Boemia Centrală, care înconjoară Praga.",
+        "en": "Click the Central Bohemian Region surrounding Prague."
+      },
+      "targetRegionId": "CZ-ST"
+    },
+    {
+      "id": "cz-exp-region-south-bohemian",
+      "type": "find_region",
+      "question": {
+        "de": "Finde die Südböhmische Region an der österreichischen Grenze.",
+        "hu": "Keresd meg az osztrák határ menti Dél-csehországi kerületet.",
+        "ro": "Găsește regiunea Boemia de Sud de la granița cu Austria.",
+        "en": "Find the South Bohemian Region on the Austrian border."
+      },
+      "targetRegionId": "CZ-JC"
+    },
+    {
+      "id": "cz-exp-region-karlovy-vary",
+      "type": "find_region",
+      "question": {
+        "de": "Wo liegt die Region Karlsbad im äußersten Westen?",
+        "hu": "Hol található a legnyugatibb Karlovy Vary kerület?",
+        "ro": "Unde se află regiunea Karlovy Vary din extremul vest?",
+        "en": "Where is the Karlovy Vary Region in the far west?"
+      },
+      "targetRegionId": "CZ-KA"
+    },
+    {
+      "id": "cz-exp-region-olomouc",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf die Region Olomouc in Mittelmähren.",
+        "hu": "Kattints a Közép-Morvaországban fekvő Olomouc kerületre.",
+        "ro": "Apasă pe regiunea Olomouc din Moravia centrală.",
+        "en": "Click the Olomouc Region in central Moravia."
+      },
+      "targetRegionId": "CZ-OL"
+    },
+    {
+      "id": "cz-exp-region-zlin",
+      "type": "find_region",
+      "question": {
+        "de": "Finde die Region Zlín im Osten an der slowakischen Grenze.",
+        "hu": "Keresd meg a keleti, szlovák határ menti Zlín kerületet.",
+        "ro": "Găsește regiunea Zlín din est, la granița cu Slovacia.",
+        "en": "Find the Zlín Region in the east on the Slovak border."
+      },
+      "targetRegionId": "CZ-ZL"
+    },
+    {
+      "id": "cz-exp-odd-spa-triangle",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Orte gehört nicht zum böhmischen Bäderdreieck?",
+        "hu": "Melyik hely nem tartozik a cseh fürdőháromszöghöz?",
+        "ro": "Care dintre aceste locuri nu face parte din triunghiul stațiunilor balneare din Boemia?",
+        "en": "Which of these places is not part of the Bohemian spa triangle?"
+      },
+      "poiIds": [
+        "czechrepublic-karlovy-vary-cities-v2",
+        "czech-republic-frantiskovy-lazne-cities-v2",
+        "czechrepublic-marianske-lazne-cities-v2",
+        "czechrepublic-olomouc-cities-v2"
+      ],
+      "targetPoiId": "czechrepublic-olomouc-cities-v2"
+    },
+    {
+      "id": "cz-exp-odd-south-bohemia",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Städte liegt nicht in Südböhmen?",
+        "hu": "Melyik város nem Dél-Csehországban található?",
+        "ro": "Care dintre aceste orașe nu se află în Boemia de Sud?",
+        "en": "Which of these cities is not in South Bohemia?"
+      },
+      "poiIds": [
+        "czechrepublic-ceske-budejovice-cities-v2",
+        "czechrepublic-tabor-cities-v2",
+        "czechrepublic-jindrichuv-hradec-cities-v2",
+        "czechrepublic-pardubice-cities-v2"
+      ],
+      "targetPoiId": "czechrepublic-pardubice-cities-v2"
+    },
+    {
+      "id": "cz-exp-odd-central-bohemia",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Städte liegt nicht in der Mittelböhmischen Region?",
+        "hu": "Melyik város nem a Közép-csehországi kerületben fekszik?",
+        "ro": "Care dintre aceste orașe nu se află în regiunea Boemia Centrală?",
+        "en": "Which of these cities is not in the Central Bohemian Region?"
+      },
+      "poiIds": [
+        "czechrepublic-kladno-cities-v2",
+        "czechrepublic-kolin-cities-v2",
+        "czechrepublic-pribram-cities-v2",
+        "czechrepublic-liberec-cities-v2"
+      ],
+      "targetPoiId": "czechrepublic-liberec-cities-v2"
+    },
+    {
+      "id": "cz-exp-odd-east-moravia",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Städte liegt nicht im Osten Mährens?",
+        "hu": "Melyik város nem Kelet-Morvaországban található?",
+        "ro": "Care dintre aceste orașe nu se află în estul Moraviei?",
+        "en": "Which of these cities is not in eastern Moravia?"
+      },
+      "poiIds": [
+        "czechrepublic-zlin-cities-v2",
+        "czechrepublic-uherske-hradiste-cities-v2",
+        "czechrepublic-vsetin-cities-v2",
+        "czechrepublic-plzen-cities-v2"
+      ],
+      "targetPoiId": "czechrepublic-plzen-cities-v2"
+    },
+    {
+      "id": "cz-exp-odd-southwest-border",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Städte liegt nicht nahe der südwestlichen Grenze?",
+        "hu": "Melyik város nem a délnyugati határ közelében fekszik?",
+        "ro": "Care dintre aceste orașe nu se află aproape de granița sud-vestică?",
+        "en": "Which of these cities is not near the southwestern border?"
+      },
+      "poiIds": [
+        "czechrepublic-domazlice-cities-v2",
+        "czechrepublic-klatovy-cities-v2",
+        "czechrepublic-susice-cities-v2",
+        "czechrepublic-melnik-cities-v2"
+      ],
+      "targetPoiId": "czechrepublic-melnik-cities-v2"
+    },
+    {
+      "id": "cz-exp-sequence-west-east-bohemia-moravia",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke diese Städte von West nach Ost an: Karlsbad, Most, Mladá Boleslav, Olmütz.",
+        "hu": "Kattints ezekre a városokra nyugatról keletre: Karlovy Vary, Most, Mladá Boleslav, Olomouc.",
+        "ro": "Apasă aceste orașe de la vest la est: Karlovy Vary, Most, Mladá Boleslav, Olomouc.",
+        "en": "Click these cities from west to east: Karlovy Vary, Most, Mladá Boleslav, Olomouc."
+      },
+      "poiIds": [
+        "czechrepublic-karlovy-vary-cities-v2",
+        "czechrepublic-most-cities-v2",
+        "czechrepublic-mlada-boleslav-cities-v2",
+        "czechrepublic-olomouc-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "czechrepublic-karlovy-vary-cities-v2",
+        "czechrepublic-most-cities-v2",
+        "czechrepublic-mlada-boleslav-cities-v2",
+        "czechrepublic-olomouc-cities-v2"
+      ]
+    },
+    {
+      "id": "cz-exp-sequence-north-south-interior",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke diese Städte von Nord nach Süd an: Liberec, Hradec Králové, Jihlava, Břeclav.",
+        "hu": "Kattints ezekre a városokra északról délre: Liberec, Hradec Králové, Jihlava, Břeclav.",
+        "ro": "Apasă aceste orașe de la nord la sud: Liberec, Hradec Králové, Jihlava, Břeclav.",
+        "en": "Click these cities from north to south: Liberec, Hradec Králové, Jihlava, Břeclav."
+      },
+      "poiIds": [
+        "czechrepublic-liberec-cities-v2",
+        "czechrepublic-hradec-kralove-cities-v2",
+        "czechrepublic-jihlava-cities-v2",
+        "czechrepublic-breclav-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "czechrepublic-liberec-cities-v2",
+        "czechrepublic-hradec-kralove-cities-v2",
+        "czechrepublic-jihlava-cities-v2",
+        "czechrepublic-breclav-cities-v2"
+      ]
+    },
+    {
+      "id": "cz-exp-sequence-west-east-castles-cities",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke diese Orte von West nach Ost an: Loket, Karlštejn, Kuttenberg, Olmütz.",
+        "hu": "Kattints ezekre a helyekre nyugatról keletre: Loket, Karlštejn, Kutná Hora, Olomouc.",
+        "ro": "Apasă aceste locuri de la vest la est: Loket, Karlštejn, Kutná Hora, Olomouc.",
+        "en": "Click these places from west to east: Loket, Karlštejn, Kutná Hora, Olomouc."
+      },
+      "poiIds": [
+        "czech-republic-loket-cities-v2",
+        "czech-republic-karlstejn-cities-v2",
+        "czechrepublic-kutna-hora-cities-v2",
+        "czechrepublic-olomouc-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "czech-republic-loket-cities-v2",
+        "czech-republic-karlstejn-cities-v2",
+        "czechrepublic-kutna-hora-cities-v2",
+        "czechrepublic-olomouc-cities-v2"
+      ]
+    },
+    {
+      "id": "cz-exp-sequence-north-south-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke diese Städte von Nord nach Süd an: Bohumín, Nový Jičín, Zlín, Břeclav.",
+        "hu": "Kattints ezekre a városokra északról délre: Bohumín, Nový Jičín, Zlín, Břeclav.",
+        "ro": "Apasă aceste orașe de la nord la sud: Bohumín, Nový Jičín, Zlín, Břeclav.",
+        "en": "Click these cities from north to south: Bohumín, Nový Jičín, Zlín, Břeclav."
+      },
+      "poiIds": [
+        "czechrepublic-bohumin-cities-v2",
+        "czechrepublic-novy-jicin-cities-v2",
+        "czechrepublic-zlin-cities-v2",
+        "czechrepublic-breclav-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "czechrepublic-bohumin-cities-v2",
+        "czechrepublic-novy-jicin-cities-v2",
+        "czechrepublic-zlin-cities-v2",
+        "czechrepublic-breclav-cities-v2"
+      ]
+    }
+  ]
+}

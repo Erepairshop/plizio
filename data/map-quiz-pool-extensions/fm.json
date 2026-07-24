@@ -1,0 +1,299 @@
+{
+  "fm": [
+    {
+      "id": "fm-find-kolonia",
+      "type": "find_poi",
+      "targetPoiId": "micronesia-kolonia-cities-v2",
+      "question": {
+        "de": "Finde Kolonia auf Pohnpei.",
+        "hu": "Keresd meg Koloniát Pohnpei szigetén.",
+        "ro": "Găsește Kolonia pe insula Pohnpei.",
+        "en": "Find Kolonia on Pohnpei."
+      }
+    },
+    {
+      "id": "fm-find-nan-madol",
+      "type": "find_poi",
+      "targetPoiId": "micronesia-nan-madol-history-v2",
+      "question": {
+        "de": "Finde Nan Madol an der Ostküste von Pohnpei.",
+        "hu": "Keresd meg Nan Madolt Pohnpei keleti partján.",
+        "ro": "Găsește Nan Madol pe coasta estică a insulei Pohnpei.",
+        "en": "Find Nan Madol on the east coast of Pohnpei."
+      }
+    },
+    {
+      "id": "fm-find-sokehs-rock",
+      "type": "find_poi",
+      "targetPoiId": "micronesia-sokehs-rock-history-v2",
+      "question": {
+        "de": "Finde den Sokehs Rock bei Kolonia.",
+        "hu": "Keresd meg a Sokehs-sziklát Kolonia közelében.",
+        "ro": "Găsește Stânca Sokehs lângă Kolonia.",
+        "en": "Find Sokehs Rock near Kolonia."
+      }
+    },
+    {
+      "id": "fm-find-lelu-ruins",
+      "type": "find_poi",
+      "targetPoiId": "micronesia-lelu-ruins-history-v2",
+      "question": {
+        "de": "Finde die Ruinen von Lelu auf Kosrae.",
+        "hu": "Keresd meg Lelu romjait Kosrae szigetén.",
+        "ro": "Găsește ruinele din Lelu pe Kosrae.",
+        "en": "Find the Lelu Ruins on Kosrae."
+      }
+    },
+    {
+      "id": "fm-find-chuuk-wrecks",
+      "type": "find_poi",
+      "targetPoiId": "micronesia-chuuk-lagoon-wrecks-history-v2",
+      "question": {
+        "de": "Finde die Wracks in der Chuuk-Lagune.",
+        "hu": "Keresd meg a Chuuk-lagúna roncsait.",
+        "ro": "Găsește epavele din laguna Chuuk.",
+        "en": "Find the wrecks in Chuuk Lagoon."
+      }
+    },
+    {
+      "id": "fm-find-yap-stone-money",
+      "type": "find_poi",
+      "targetPoiId": "micronesia-yap-stone-money-banks-history-v2",
+      "question": {
+        "de": "Finde die Steingeldbänke auf Yap.",
+        "hu": "Keresd meg a yapi kőpénzpadokat.",
+        "ro": "Găsește băncile de bani de piatră din Yap.",
+        "en": "Find the stone money banks on Yap."
+      }
+    },
+    {
+      "id": "fm-find-kepirohi-waterfall",
+      "type": "find_poi",
+      "targetPoiId": "micronesia-kepirohi-waterfall-nature-v2",
+      "question": {
+        "de": "Finde den Kepirohi-Wasserfall auf Pohnpei.",
+        "hu": "Keresd meg a Kepirohi-vízesést Pohnpei szigetén.",
+        "ro": "Găsește cascada Kepirohi pe Pohnpei.",
+        "en": "Find Kepirohi Waterfall on Pohnpei."
+      }
+    },
+    {
+      "id": "fm-find-mount-winipot",
+      "type": "find_poi",
+      "targetPoiId": "micronesia-mount-winipot-nature-v2",
+      "question": {
+        "de": "Finde den Mount Winipot auf Tol.",
+        "hu": "Keresd meg a Winipot-hegyet Tol szigetén.",
+        "ro": "Găsește Muntele Winipot pe insula Tol.",
+        "en": "Find Mount Winipot on Tol."
+      }
+    },
+    {
+      "id": "fm-find-woleai-atoll",
+      "type": "find_poi",
+      "targetPoiId": "micronesia-woleai-atoll-nature-v2",
+      "question": {
+        "de": "Finde das Woleai-Atoll im Westen des Landes.",
+        "hu": "Keresd meg a Woleai-atollt az ország nyugati részén.",
+        "ro": "Găsește atolul Woleai în vestul țării.",
+        "en": "Find Woleai Atoll in the western part of the country."
+      }
+    },
+    {
+      "id": "fm-region-kosrae-east",
+      "type": "find_region",
+      "targetRegionId": "FSM-4944",
+      "question": {
+        "de": "Finde den östlichsten Bundesstaat, Kosrae.",
+        "hu": "Keresd meg a legkeletebbre fekvő államot, Kosrae-t.",
+        "ro": "Găsește cel mai estic stat, Kosrae.",
+        "en": "Find the easternmost state, Kosrae."
+      }
+    },
+    {
+      "id": "fm-odd-kosrae-site",
+      "type": "odd_one_out",
+      "poiIds": [
+        "micronesia-lelu-ruins-history-v2",
+        "micronesia-nan-madol-history-v2",
+        "micronesia-sokehs-rock-history-v2",
+        "micronesia-yap-stone-money-banks-history-v2"
+      ],
+      "targetPoiId": "micronesia-lelu-ruins-history-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt auf Kosrae?",
+        "hu": "Melyik hely található Kosrae szigetén?",
+        "ro": "Care dintre aceste locuri se află pe Kosrae?",
+        "en": "Which of these places is on Kosrae?"
+      }
+    },
+    {
+      "id": "fm-odd-yap-site",
+      "type": "odd_one_out",
+      "poiIds": [
+        "micronesia-bechiyal-cultural-village-history-v2",
+        "micronesia-nan-madol-history-v2",
+        "micronesia-chuuk-lagoon-wrecks-history-v2",
+        "micronesia-lelu-ruins-history-v2"
+      ],
+      "targetPoiId": "micronesia-bechiyal-cultural-village-history-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt im Bundesstaat Yap?",
+        "hu": "Melyik hely található Yap államban?",
+        "ro": "Care dintre aceste locuri se află în statul Yap?",
+        "en": "Which of these places is in Yap State?"
+      }
+    },
+    {
+      "id": "fm-odd-chuuk-site",
+      "type": "odd_one_out",
+      "poiIds": [
+        "micronesia-fsm-national-capitol-landmarks-v2",
+        "micronesia-xavier-high-school-landmarks-v2",
+        "micronesia-mount-finkol-life-v2",
+        "micronesia-yap-living-history-museum-landmarks-v2"
+      ],
+      "targetPoiId": "micronesia-xavier-high-school-landmarks-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt im Bundesstaat Chuuk?",
+        "hu": "Melyik hely található Chuuk államban?",
+        "ro": "Care dintre aceste locuri se află în statul Chuuk?",
+        "en": "Which of these places is in Chuuk State?"
+      }
+    },
+    {
+      "id": "fm-odd-pohnpei-site",
+      "type": "odd_one_out",
+      "poiIds": [
+        "micronesia-spanish-wall-history-v2",
+        "micronesia-lelu-ruins-history-v2",
+        "micronesia-yap-stone-money-banks-history-v2",
+        "micronesia-chuuk-lagoon-wrecks-history-v2"
+      ],
+      "targetPoiId": "micronesia-spanish-wall-history-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt auf Pohnpei?",
+        "hu": "Melyik hely található Pohnpei szigetén?",
+        "ro": "Care dintre aceste locuri se află pe Pohnpei?",
+        "en": "Which of these places is on Pohnpei?"
+      }
+    },
+    {
+      "id": "fm-odd-southmost",
+      "type": "odd_one_out",
+      "poiIds": [
+        "micronesia-kapingamarangi-marine-life-v2",
+        "micronesia-tofol-cities-v2",
+        "micronesia-weno-cities-v2",
+        "micronesia-colonia-yap-cities-v2"
+      ],
+      "targetPoiId": "micronesia-kapingamarangi-marine-life-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten südlich?",
+        "hu": "Melyik hely fekszik a legdélebbre?",
+        "ro": "Care dintre aceste locuri se află cel mai la sud?",
+        "en": "Which of these places lies farthest south?"
+      }
+    },
+    {
+      "id": "fm-sequence-west-east-states",
+      "type": "sequence",
+      "poiIds": [
+        "micronesia-colonia-yap-cities-v2",
+        "micronesia-weno-cities-v2",
+        "micronesia-kolonia-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "micronesia-colonia-yap-cities-v2",
+        "micronesia-weno-cities-v2",
+        "micronesia-kolonia-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Colonia (Yap), Weno und Kolonia von Westen nach Osten an.",
+        "hu": "Kattints Colonia (Yap), Weno és Kolonia helyére nyugatról keletre.",
+        "ro": "Apasă Colonia (Yap), Weno și Kolonia de la vest la est.",
+        "en": "Click Colonia (Yap), Weno, and Kolonia from west to east."
+      }
+    },
+    {
+      "id": "fm-sequence-north-south-remote",
+      "type": "sequence",
+      "poiIds": [
+        "micronesia-colonia-yap-cities-v2",
+        "micronesia-woleai-atoll-nature-v2",
+        "micronesia-tofol-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "micronesia-colonia-yap-cities-v2",
+        "micronesia-woleai-atoll-nature-v2",
+        "micronesia-tofol-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Colonia (Yap), Woleai und Tofol von Norden nach Süden an.",
+        "hu": "Kattints Colonia (Yap), Woleai és Tofol helyére északról délre.",
+        "ro": "Apasă Colonia (Yap), Woleai și Tofol de la nord la sud.",
+        "en": "Click Colonia (Yap), Woleai, and Tofol from north to south."
+      }
+    },
+    {
+      "id": "fm-sequence-west-east-lagoon-pacific",
+      "type": "sequence",
+      "poiIds": [
+        "micronesia-chuuk-lagoon-wrecks-history-v2",
+        "micronesia-nan-madol-history-v2",
+        "micronesia-lelu-ruins-history-v2"
+      ],
+      "orderedPoiIds": [
+        "micronesia-chuuk-lagoon-wrecks-history-v2",
+        "micronesia-nan-madol-history-v2",
+        "micronesia-lelu-ruins-history-v2"
+      ],
+      "question": {
+        "de": "Klicke die Wracks der Chuuk-Lagune, Nan Madol und die Ruinen von Lelu von Westen nach Osten an.",
+        "hu": "Kattints a Chuuk-lagúna roncsaira, Nan Madolra és Lelu romjaira nyugatról keletre.",
+        "ro": "Apasă epavele din laguna Chuuk, Nan Madol și ruinele din Lelu de la vest la est.",
+        "en": "Click the Chuuk Lagoon Wrecks, Nan Madol, and the Lelu Ruins from west to east."
+      }
+    },
+    {
+      "id": "fm-sequence-north-south-pohnpei",
+      "type": "sequence",
+      "poiIds": [
+        "micronesia-sokehs-rock-history-v2",
+        "micronesia-palikir-cities-v2",
+        "micronesia-nan-madol-history-v2"
+      ],
+      "orderedPoiIds": [
+        "micronesia-sokehs-rock-history-v2",
+        "micronesia-palikir-cities-v2",
+        "micronesia-nan-madol-history-v2"
+      ],
+      "question": {
+        "de": "Klicke Sokehs Rock, Palikir und Nan Madol von Norden nach Süden an.",
+        "hu": "Kattints a Sokehs-sziklára, Palikirre és Nan Madolra északról délre.",
+        "ro": "Apasă Stânca Sokehs, Palikir și Nan Madol de la nord la sud.",
+        "en": "Click Sokehs Rock, Palikir, and Nan Madol from north to south."
+      }
+    },
+    {
+      "id": "fm-sequence-north-south-southern-atolls",
+      "type": "sequence",
+      "poiIds": [
+        "micronesia-oroluk-atoll-life-v2",
+        "micronesia-nukuoro-atoll-life-v2",
+        "micronesia-kapingamarangi-marine-life-v2"
+      ],
+      "orderedPoiIds": [
+        "micronesia-oroluk-atoll-life-v2",
+        "micronesia-nukuoro-atoll-life-v2",
+        "micronesia-kapingamarangi-marine-life-v2"
+      ],
+      "question": {
+        "de": "Klicke Oroluk, Nukuoro und Kapingamarangi von Norden nach Süden an.",
+        "hu": "Kattints Oroluk, Nukuoro és Kapingamarangi helyére északról délre.",
+        "ro": "Apasă Oroluk, Nukuoro și Kapingamarangi de la nord la sud.",
+        "en": "Click Oroluk, Nukuoro, and Kapingamarangi from north to south."
+      }
+    }
+  ]
+}

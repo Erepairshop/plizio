@@ -1,0 +1,289 @@
+{
+  "sm": [
+    {
+      "id": "sm-find-basilica",
+      "type": "find_poi",
+      "targetPoiId": "cult-basilica-di-san-marino",
+      "question": {
+        "de": "Finde die Basilika di San Marino nahe dem Palazzo Pubblico.",
+        "hu": "Keresd meg a San Marino-bazilikát a Palazzo Pubblico közelében.",
+        "ro": "Găsește Bazilica San Marino de lângă Palazzo Pubblico.",
+        "en": "Find the Basilica di San Marino near Palazzo Pubblico."
+      }
+    },
+    {
+      "id": "sm-find-cable-car",
+      "type": "find_poi",
+      "targetPoiId": "landmark-borgo-maggiore-cable-car-extra",
+      "question": {
+        "de": "Finde die Seilbahn von Borgo Maggiore, die zur Altstadt hinaufführt.",
+        "hu": "Keresd meg a Borgo Maggiore-i libegőt, amely felvisz az óvárosba.",
+        "ro": "Găsește telecabina din Borgo Maggiore care urcă spre orașul vechi.",
+        "en": "Find the Borgo Maggiore cable car that climbs toward the old town."
+      }
+    },
+    {
+      "id": "sm-find-mount-titano",
+      "type": "find_poi",
+      "targetPoiId": "nat-monte-titano",
+      "question": {
+        "de": "Finde den Monte Titano, den Berg mit den drei Türmen.",
+        "hu": "Keresd meg a Titano-hegyet, a három torony hegyét.",
+        "ro": "Găsește Muntele Titano, muntele celor trei turnuri.",
+        "en": "Find Mount Titano, the mountain of the three towers."
+      }
+    },
+    {
+      "id": "sm-find-olympic-stadium",
+      "type": "find_poi",
+      "targetPoiId": "landmark-olympic-stadium-serravalle-extra",
+      "question": {
+        "de": "Finde das Olympiastadion von Serravalle im Norden des Landes.",
+        "hu": "Keresd meg a serravallei olimpiai stadiont az ország északi részén.",
+        "ro": "Găsește Stadionul Olimpic din Serravalle din nordul țării.",
+        "en": "Find the Serravalle Olympic Stadium in the north of the country."
+      }
+    },
+    {
+      "id": "sm-find-ausa-park",
+      "type": "find_poi",
+      "targetPoiId": "nat-parco-ausa",
+      "question": {
+        "de": "Finde den Ausa-Park bei Serravalle.",
+        "hu": "Keresd meg az Ausa parkot Serravalle közelében.",
+        "ro": "Găsește Parcul Ausa de lângă Serravalle.",
+        "en": "Find Ausa Park near Serravalle."
+      }
+    },
+    {
+      "id": "sm-find-baldasserona-cliff",
+      "type": "find_poi",
+      "targetPoiId": "nat-rupe-baldasserona",
+      "question": {
+        "de": "Finde die Baldasserona-Klippe im Westen San Marinos.",
+        "hu": "Keresd meg a Baldasserona-sziklát San Marino nyugati részén.",
+        "ro": "Găsește stânca Baldasserona din vestul statului San Marino.",
+        "en": "Find Baldasserona Cliff in western San Marino."
+      }
+    },
+    {
+      "id": "sm-region-serravalle",
+      "type": "find_region",
+      "targetRegionId": "SM-001",
+      "question": {
+        "de": "Finde Serravalle, den nordöstlichen Castello mit Dogana.",
+        "hu": "Keresd meg Serravallét, az északkeleti castellót, ahol Dogana található.",
+        "ro": "Găsește Serravalle, castelul din nord-est în care se află Dogana.",
+        "en": "Find Serravalle, the northeastern castello that contains Dogana."
+      }
+    },
+    {
+      "id": "sm-region-borgo-maggiore",
+      "type": "find_region",
+      "targetRegionId": "SM-009",
+      "question": {
+        "de": "Finde Borgo Maggiore, den Castello direkt nördlich der Hauptstadt.",
+        "hu": "Keresd meg Borgo Maggiorét, a fővárostól közvetlenül északra fekvő castellót.",
+        "ro": "Găsește Borgo Maggiore, castelul aflat imediat la nord de capitală.",
+        "en": "Find Borgo Maggiore, the castello directly north of the capital."
+      }
+    },
+    {
+      "id": "sm-region-acquaviva",
+      "type": "find_region",
+      "targetRegionId": "SM-008",
+      "question": {
+        "de": "Finde Acquaviva im Westen, wo Gualdicciolo liegt.",
+        "hu": "Keresd meg Acquavivát nyugaton, ahol Gualdicciolo található.",
+        "ro": "Găsește Acquaviva în vest, unde se află Gualdicciolo.",
+        "en": "Find Acquaviva in the west, where Gualdicciolo is located."
+      }
+    },
+    {
+      "id": "sm-region-faetano",
+      "type": "find_region",
+      "targetRegionId": "SM-003",
+      "question": {
+        "de": "Finde Faetano, den südöstlichen Castello mit dem See von Faetano.",
+        "hu": "Keresd meg Faetanót, a délkeleti castellót a Faetano-tóval.",
+        "ro": "Găsește Faetano, castelul din sud-est cu Lacul Faetano.",
+        "en": "Find Faetano, the southeastern castello with Faetano Lake."
+      }
+    },
+    {
+      "id": "sm-region-chiesanuova",
+      "type": "find_region",
+      "targetRegionId": "SM-006",
+      "question": {
+        "de": "Finde Chiesanuova, den südwestlichen Castello nahe dem Pinienwald.",
+        "hu": "Keresd meg Chiesanuovát, a délnyugati castellót a fenyőerdő közelében.",
+        "ro": "Găsește Chiesanuova, castelul din sud-vest aflat lângă pădurea de pini.",
+        "en": "Find Chiesanuova, the southwestern castello near the pine forest."
+      }
+    },
+    {
+      "id": "sm-odd-easternmost-settlement",
+      "type": "odd_one_out",
+      "poiIds": [
+        "san-marino-chiesanuova-cities-v2",
+        "city-san-marino",
+        "sanmarino-falciano-cities-v2"
+      ],
+      "targetPoiId": "sanmarino-falciano-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Osten?",
+        "hu": "Melyik hely fekszik a legkeletebbre?",
+        "ro": "Care dintre aceste locuri se află cel mai la est?",
+        "en": "Which of these places lies farthest east?"
+      }
+    },
+    {
+      "id": "sm-odd-mountain",
+      "type": "odd_one_out",
+      "poiIds": [
+        "nat-monte-titano",
+        "cult-guaita",
+        "cult-basilica-di-san-marino"
+      ],
+      "targetPoiId": "nat-monte-titano",
+      "question": {
+        "de": "Welcher dieser Orte ist ein Berg und kein Bauwerk?",
+        "hu": "Melyik hely hegy, és nem építmény?",
+        "ro": "Care dintre aceste locuri este un munte, nu o construcție?",
+        "en": "Which of these places is a mountain rather than a building?"
+      }
+    },
+    {
+      "id": "sm-odd-capital-vs-border",
+      "type": "odd_one_out",
+      "poiIds": [
+        "sanmarino-dogana-cities-v2",
+        "sanmarino-rovereta-cities-v2",
+        "city-san-marino"
+      ],
+      "targetPoiId": "city-san-marino",
+      "question": {
+        "de": "Welcher dieser Orte ist die Hügellandeshauptstadt und keine Grenzortschaft?",
+        "hu": "Melyik hely a hegytetőn fekvő főváros, és nem határ menti település?",
+        "ro": "Care dintre aceste locuri este capitala de pe deal, nu o localitate de frontieră?",
+        "en": "Which of these places is the hilltop capital rather than a border settlement?"
+      }
+    },
+    {
+      "id": "sm-odd-westernmost-place",
+      "type": "odd_one_out",
+      "poiIds": [
+        "sanmarino-dogana-cities-v2",
+        "city-gualdicciolo-extra",
+        "san-marino-fiorentino-cities-v2"
+      ],
+      "targetPoiId": "city-gualdicciolo-extra",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Westen?",
+        "hu": "Melyik hely fekszik a legnyugatabbra?",
+        "ro": "Care dintre aceste locuri se află cel mai la vest?",
+        "en": "Which of these places lies farthest west?"
+      }
+    },
+    {
+      "id": "sm-sequence-west-east-country",
+      "type": "sequence",
+      "poiIds": [
+        "city-gualdicciolo-extra",
+        "city-san-marino",
+        "sanmarino-dogana-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "city-gualdicciolo-extra",
+        "city-san-marino",
+        "sanmarino-dogana-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Gualdicciolo, die Stadt San Marino und Dogana von Westen nach Osten an.",
+        "hu": "Kattints Gualdicciolo, San Marino városa és Dogana helyére nyugatról keletre.",
+        "ro": "Apasă pe Gualdicciolo, Orașul San Marino și Dogana de la vest la est.",
+        "en": "Click Gualdicciolo, the City of San Marino and Dogana from west to east."
+      }
+    },
+    {
+      "id": "sm-sequence-north-south-border-to-woods",
+      "type": "sequence",
+      "poiIds": [
+        "sanmarino-dogana-cities-v2",
+        "landmark-borgo-maggiore-cable-car-extra",
+        "nat-pineta-chiesanuova"
+      ],
+      "orderedPoiIds": [
+        "sanmarino-dogana-cities-v2",
+        "landmark-borgo-maggiore-cable-car-extra",
+        "nat-pineta-chiesanuova"
+      ],
+      "question": {
+        "de": "Klicke Dogana, die Seilbahn von Borgo Maggiore und den Pinienwald von Chiesanuova von Norden nach Süden an.",
+        "hu": "Kattints Dogana, a Borgo Maggiore-i libegő és a chiesanuovai fenyőerdő helyére északról délre.",
+        "ro": "Apasă pe Dogana, telecabina din Borgo Maggiore și pădurea de pini din Chiesanuova de la nord la sud.",
+        "en": "Click Dogana, the Borgo Maggiore cable car and the Chiesanuova pine forest from north to south."
+      }
+    },
+    {
+      "id": "sm-sequence-north-south-castles-square",
+      "type": "sequence",
+      "poiIds": [
+        "historical-serravalle-castle-extra",
+        "historical-domagnano-fortress-extra",
+        "landmark-piazza-della-liberta-extra"
+      ],
+      "orderedPoiIds": [
+        "historical-serravalle-castle-extra",
+        "historical-domagnano-fortress-extra",
+        "landmark-piazza-della-liberta-extra"
+      ],
+      "question": {
+        "de": "Klicke die Burg von Serravalle, die Festung von Domagnano und die Piazza della Libertà von Norden nach Süden an.",
+        "hu": "Kattints a serravallei várra, a domagnanói erődre és a Piazza della Libertàra északról délre.",
+        "ro": "Apasă pe Castelul Serravalle, Fortăreața din Domagnano și Piazza della Libertà de la nord la sud.",
+        "en": "Click Serravalle Castle, Domagnano Fortress and Liberty Square from north to south."
+      }
+    },
+    {
+      "id": "sm-sequence-west-east-landscape",
+      "type": "sequence",
+      "poiIds": [
+        "nat-rupe-baldasserona",
+        "city-san-marino",
+        "historical-domagnano-fortress-extra"
+      ],
+      "orderedPoiIds": [
+        "nat-rupe-baldasserona",
+        "city-san-marino",
+        "historical-domagnano-fortress-extra"
+      ],
+      "question": {
+        "de": "Klicke die Baldasserona-Klippe, die Stadt San Marino und die Festung von Domagnano von Westen nach Osten an.",
+        "hu": "Kattints a Baldasserona-sziklára, San Marino városára és a domagnanói erődre nyugatról keletre.",
+        "ro": "Apasă pe stânca Baldasserona, Orașul San Marino și Fortăreața din Domagnano de la vest la est.",
+        "en": "Click Baldasserona Cliff, the City of San Marino and Domagnano Fortress from west to east."
+      }
+    },
+    {
+      "id": "sm-sequence-north-south-park-mountain-town",
+      "type": "sequence",
+      "poiIds": [
+        "nat-parco-ausa",
+        "nat-monte-titano",
+        "san-marino-fiorentino-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "nat-parco-ausa",
+        "nat-monte-titano",
+        "san-marino-fiorentino-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke den Ausa-Park, den Monte Titano und Fiorentino von Norden nach Süden an.",
+        "hu": "Kattints az Ausa parkra, a Titano-hegyre és Fiorentinóra északról délre.",
+        "ro": "Apasă pe Parcul Ausa, Muntele Titano și Fiorentino de la nord la sud.",
+        "en": "Click Ausa Park, Mount Titano and Fiorentino from north to south."
+      }
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "ae": [
+    {
+      "id": "ae-find-ajman-city",
+      "type": "find_poi",
+      "targetPoiId": "uae-ajman-cities-v2",
+      "question": {
+        "de": "Finde Ajman auf der Karte.",
+        "hu": "Keresd meg Adzsmánt a térképen.",
+        "ro": "Găsește Ajman pe hartă.",
+        "en": "Find Ajman on the map."
+      }
+    },
+    {
+      "id": "ae-find-umm-al-quwain-city",
+      "type": "find_poi",
+      "targetPoiId": "uae-umm-al-quwain-cities-v2",
+      "question": {
+        "de": "Finde Umm al-Qaiwain auf der Karte.",
+        "hu": "Keresd meg Umm al-Kuvajnt a térképen.",
+        "ro": "Găsește Umm Al Quwain pe hartă.",
+        "en": "Find Umm Al Quwain on the map."
+      }
+    },
+    {
+      "id": "ae-find-hatta-town",
+      "type": "find_poi",
+      "targetPoiId": "uae-hatta-cities-v2",
+      "question": {
+        "de": "Finde Hatta auf der Karte.",
+        "hu": "Keresd meg Hattát a térképen.",
+        "ro": "Găsește Hatta pe hartă.",
+        "en": "Find Hatta on the map."
+      }
+    },
+    {
+      "id": "ae-find-khor-fakkan-city",
+      "type": "find_poi",
+      "targetPoiId": "uae-khor-fakkan-cities-v2",
+      "question": {
+        "de": "Finde Khor Fakkan auf der Karte.",
+        "hu": "Keresd meg Khor Fakkant a térképen.",
+        "ro": "Găsește Khor Fakkan pe hartă.",
+        "en": "Find Khor Fakkan on the map."
+      }
+    },
+    {
+      "id": "ae-find-jebel-jais",
+      "type": "find_poi",
+      "targetPoiId": "jebel-jais-nature-v2",
+      "question": {
+        "de": "Finde Jebel Jais auf der Karte.",
+        "hu": "Keresd meg a Dzsebel Dzsaiszt a térképen.",
+        "ro": "Găsește Jebel Jais pe hartă.",
+        "en": "Find Jebel Jais on the map."
+      }
+    },
+    {
+      "id": "ae-find-sheikh-zayed-grand-mosque",
+      "type": "find_poi",
+      "targetPoiId": "sheikh-zayed-grand-mosque-landmarks-v2",
+      "question": {
+        "de": "Finde die Scheich-Zayid-Moschee auf der Karte.",
+        "hu": "Keresd meg a Zájed sejk nagymecsetet a térképen.",
+        "ro": "Găsește Marea Moschee Sheikh Zayed pe hartă.",
+        "en": "Find the Sheikh Zayed Grand Mosque on the map."
+      }
+    },
+    {
+      "id": "ae-region-dubai-emirate",
+      "type": "find_region",
+      "targetRegionId": "ARE-350",
+      "question": {
+        "de": "Klicke auf die Region Dubai.",
+        "hu": "Kattints Dubaj régiójára.",
+        "ro": "Apasă pe regiunea Dubai.",
+        "en": "Click the Dubai region."
+      }
+    },
+    {
+      "id": "ae-region-abu-dhabi-emirate",
+      "type": "find_region",
+      "targetRegionId": "ARE-349",
+      "question": {
+        "de": "Klicke auf die Region Abu Dhabi.",
+        "hu": "Kattints Abu-Dzabi régiójára.",
+        "ro": "Apasă pe regiunea Abu Dhabi.",
+        "en": "Click the Abu Dhabi region."
+      }
+    },
+    {
+      "id": "ae-region-ajman-emirate",
+      "type": "find_region",
+      "targetRegionId": "ARE-346",
+      "question": {
+        "de": "Klicke auf die Region Ajman.",
+        "hu": "Kattints Adzsman régiójára.",
+        "ro": "Apasă pe regiunea Ajman.",
+        "en": "Click the Ajman region."
+      }
+    },
+    {
+      "id": "ae-region-umm-al-quwain-emirate",
+      "type": "find_region",
+      "targetRegionId": "ARE-339",
+      "question": {
+        "de": "Klicke auf die Region Umm al-Qaiwain.",
+        "hu": "Kattints Umm al-Kuvajn régiójára.",
+        "ro": "Apasă pe regiunea Umm Al Quwain.",
+        "en": "Click the Umm Al Quwain region."
+      }
+    },
+    {
+      "id": "ae-odd-furthest-east-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "uae-abu-dhabi-cities-v2",
+        "uae-dubai-cities-v2",
+        "uae-ajman-cities-v2",
+        "uae-fujairah-cities-v2"
+      ],
+      "targetPoiId": "uae-fujairah-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten im Osten?",
+        "hu": "E városok közül melyik fekszik a legkeletebbre?",
+        "ro": "Care dintre aceste orașe se află cel mai la est?",
+        "en": "Which of these cities lies furthest east?"
+      }
+    },
+    {
+      "id": "ae-odd-furthest-north-capital",
+      "type": "odd_one_out",
+      "poiIds": [
+        "uae-abu-dhabi-cities-v2",
+        "uae-dubai-cities-v2",
+        "uae-umm-al-quwain-cities-v2",
+        "uae-ras-al-khaimah-cities-v2"
+      ],
+      "targetPoiId": "uae-ras-al-khaimah-cities-v2",
+      "question": {
+        "de": "Welche dieser Emiratshauptstädte liegt am weitesten nördlich?",
+        "hu": "E fővárosok közül melyik fekszik a legészakabbra?",
+        "ro": "Care dintre aceste capitale de emirat se află cel mai la nord?",
+        "en": "Which of these emirate capitals lies furthest north?"
+      }
+    },
+    {
+      "id": "ae-odd-inland-oasis-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "uae-ajman-cities-v2",
+        "uae-dubai-cities-v2",
+        "uae-al-ain-cities-v2",
+        "uae-fujairah-cities-v2"
+      ],
+      "targetPoiId": "uae-al-ain-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte ist eine Oasenstadt im Landesinneren?",
+        "hu": "E városok közül melyik egy belső-oázis város?",
+        "ro": "Care dintre aceste orașe este un oraș-oază din interior?",
+        "en": "Which of these cities is an inland oasis city?"
+      }
+    },
+    {
+      "id": "ae-odd-westernmost-settlement",
+      "type": "odd_one_out",
+      "poiIds": [
+        "uae-sila-cities-v2",
+        "uae-ruwais-cities-v2",
+        "uae-abu-dhabi-cities-v2",
+        "uae-dubai-cities-v2"
+      ],
+      "targetPoiId": "uae-sila-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Westen?",
+        "hu": "E helyek közül melyik fekszik a legnyugatabbra?",
+        "ro": "Care dintre aceste locuri se află cel mai la vest?",
+        "en": "Which of these places lies furthest west?"
+      }
+    },
+    {
+      "id": "ae-odd-gulf-of-oman-port",
+      "type": "odd_one_out",
+      "poiIds": [
+        "zayed-port-economic-v2",
+        "port-rashid-economic-v2",
+        "port-khalid-economic-v2",
+        "port-of-fujairah-economic-v2"
+      ],
+      "targetPoiId": "port-of-fujairah-economic-v2",
+      "question": {
+        "de": "Welcher dieser Häfen liegt am Golf von Oman?",
+        "hu": "E kikötők közül melyik fekszik az Ománi-öböl partján?",
+        "ro": "Care dintre aceste porturi se află la Golful Oman?",
+        "en": "Which of these ports lies on the Gulf of Oman?"
+      }
+    },
+    {
+      "id": "ae-sequence-capitals-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "uae-abu-dhabi-cities-v2",
+        "uae-dubai-cities-v2",
+        "uae-ajman-cities-v2",
+        "uae-ras-al-khaimah-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "uae-abu-dhabi-cities-v2",
+        "uae-dubai-cities-v2",
+        "uae-ajman-cities-v2",
+        "uae-ras-al-khaimah-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Abu Dhabi, Dubai, Ajman und Ras Al Khaimah von Westen nach Osten an.",
+        "hu": "Kattints nyugatról keletre: Abu-Dzabi, Dubaj, Adzsmán és Rasz al-Haima.",
+        "ro": "Apasă de la vest la est: Abu Dhabi, Dubai, Ajman și Ras Al Khaimah.",
+        "en": "Click Abu Dhabi, Dubai, Ajman and Ras Al Khaimah from west to east."
+      }
+    },
+    {
+      "id": "ae-sequence-capitals-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "uae-ras-al-khaimah-cities-v2",
+        "uae-umm-al-quwain-cities-v2",
+        "uae-dubai-cities-v2",
+        "uae-abu-dhabi-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "uae-ras-al-khaimah-cities-v2",
+        "uae-umm-al-quwain-cities-v2",
+        "uae-dubai-cities-v2",
+        "uae-abu-dhabi-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Ras Al Khaimah, Umm al-Qaiwain, Dubai und Abu Dhabi von Norden nach Süden an.",
+        "hu": "Kattints északról délre: Rasz al-Haima, Umm al-Kuvajn, Dubaj és Abu-Dzabi.",
+        "ro": "Apasă de la nord la sud: Ras Al Khaimah, Umm Al Quwain, Dubai și Abu Dhabi.",
+        "en": "Click Ras Al Khaimah, Umm Al Quwain, Dubai and Abu Dhabi from north to south."
+      }
+    },
+    {
+      "id": "ae-sequence-western-desert-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "uae-sila-cities-v2",
+        "uae-ghayathi-cities-v2",
+        "uae-madinat-zayed-cities-v2",
+        "uae-liwa-oasis-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "uae-sila-cities-v2",
+        "uae-ghayathi-cities-v2",
+        "uae-madinat-zayed-cities-v2",
+        "uae-liwa-oasis-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Sila, Ghayathi, Madinat Zayed und Liwa von Westen nach Osten an.",
+        "hu": "Kattints nyugatról keletre: Szila, Ghajáthi, Madínat Zájed és Liwa.",
+        "ro": "Apasă de la vest la est: Sila, Ghayathi, Madinat Zayed și Liwa.",
+        "en": "Click Sila, Ghayathi, Madinat Zayed and Liwa from west to east."
+      }
+    },
+    {
+      "id": "ae-sequence-east-coast-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "uae-dibba-al-fujairah-cities-v2",
+        "uae-khor-fakkan-cities-v2",
+        "uae-kalba-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "uae-dibba-al-fujairah-cities-v2",
+        "uae-khor-fakkan-cities-v2",
+        "uae-kalba-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Dibba Al-Fujairah, Khor Fakkan und Kalba von Norden nach Süden an.",
+        "hu": "Kattints északról délre: Dibba al-Fudzsejra, Khor Fakkan és Kalba.",
+        "ro": "Apasă de la nord la sud: Dibba Al-Fujairah, Khor Fakkan și Kalba.",
+        "en": "Click Dibba Al-Fujairah, Khor Fakkan and Kalba from north to south."
+      }
+    },
+    {
+      "id": "ae-sequence-major-ports-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "zayed-port-economic-v2",
+        "jebel-ali-port-economic-v2",
+        "port-of-fujairah-economic-v2"
+      ],
+      "orderedPoiIds": [
+        "zayed-port-economic-v2",
+        "jebel-ali-port-economic-v2",
+        "port-of-fujairah-economic-v2"
+      ],
+      "question": {
+        "de": "Klicke Zayed Port, Jebel Ali Port und den Port of Fujairah von Westen nach Osten an.",
+        "hu": "Kattints nyugatról keletre: Zayed Port, Jebel Ali Port és Fujairah kikötője.",
+        "ro": "Apasă de la vest la est: Zayed Port, Jebel Ali Port și Port of Fujairah.",
+        "en": "Click Zayed Port, Jebel Ali Port and the Port of Fujairah from west to east."
+      }
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "ve": [
+    {
+      "id": "ve-find-coro",
+      "type": "find_poi",
+      "targetPoiId": "venezuela-historic-center-coro-history-v2",
+      "question": {
+        "de": "Finde das historische Zentrum von Coro im trockenen Nordwesten Venezuelas.",
+        "hu": "Keresd meg Coro történelmi központját Venezuela száraz északnyugati részén.",
+        "ro": "Găsește centrul istoric din Coro în nord-vestul arid al Venezuelei.",
+        "en": "Find the historic center of Coro in Venezuela's arid northwest."
+      }
+    },
+    {
+      "id": "ve-find-morrocoy",
+      "type": "find_poi",
+      "targetPoiId": "venezuela-parque-nacional-morrocoy-life-v2",
+      "question": {
+        "de": "Finde den Morrocoy-Nationalpark an der Karibikküste westlich von Caracas.",
+        "hu": "Keresd meg a Morrocoy Nemzeti Parkot a Karib-tenger partján, Caracastól nyugatra.",
+        "ro": "Găsește Parcul Național Morrocoy pe coasta Caraibelor, la vest de Caracas.",
+        "en": "Find Morrocoy National Park on the Caribbean coast west of Caracas."
+      }
+    },
+    {
+      "id": "ve-find-pico-bolivar",
+      "type": "find_poi",
+      "targetPoiId": "venezuela-pico-bolivar-nature-v2",
+      "question": {
+        "de": "Finde den Pico Bolívar, den höchsten Gipfel Venezuelas, in den Anden.",
+        "hu": "Keresd meg a Pico Bolívar csúcsot, Venezuela legmagasabb hegyét az Andokban.",
+        "ro": "Găsește Pico Bolívar, cel mai înalt vârf din Venezuela, în Anzi.",
+        "en": "Find Pico Bolívar, Venezuela's highest summit, in the Andes."
+      }
+    },
+    {
+      "id": "ve-find-los-roques",
+      "type": "find_poi",
+      "targetPoiId": "venezuela-los-roques-nature-v2",
+      "question": {
+        "de": "Finde Los Roques, das Inselgebiet weit vor der Nordküste.",
+        "hu": "Keresd meg Los Roques szigetcsoportját, jóval az északi partok előtt.",
+        "ro": "Găsește Los Roques, arhipelagul aflat departe în largul coastei de nord.",
+        "en": "Find Los Roques, the island group far off the northern coast."
+      }
+    },
+    {
+      "id": "ve-find-orinoco-delta",
+      "type": "find_poi",
+      "targetPoiId": "venezuela-delta-del-orinoco-life-v2",
+      "question": {
+        "de": "Finde das Orinoco-Delta im Osten Venezuelas.",
+        "hu": "Keresd meg az Orinoco-deltát Venezuela keleti részén.",
+        "ro": "Găsește Delta Orinoco în estul Venezuelei.",
+        "en": "Find the Orinoco Delta in eastern Venezuela."
+      }
+    },
+    {
+      "id": "ve-region-amazonas",
+      "type": "find_region",
+      "targetRegionId": "VEN-38",
+      "question": {
+        "de": "Klicke auf Amazonas, den großen südlichen Bundesstaat an der Grenze zu Brasilien.",
+        "hu": "Kattints Amazonas államra, a Brazíliával határos nagy déli szövetségi államra.",
+        "ro": "Apasă pe Amazonas, marele stat sudic de la granița cu Brazilia.",
+        "en": "Click Amazonas, the large southern state on the border with Brazil."
+      }
+    },
+    {
+      "id": "ve-region-delta-amacuro",
+      "type": "find_region",
+      "targetRegionId": "VEN-65",
+      "question": {
+        "de": "Finde Delta Amacuro an der Mündung des Orinoco im Osten.",
+        "hu": "Keresd meg Delta Amacuro államot keleten, az Orinoco torkolatánál.",
+        "ro": "Găsește Delta Amacuro la vărsarea fluviului Orinoco, în est.",
+        "en": "Find Delta Amacuro at the mouth of the Orinoco in the east."
+      }
+    },
+    {
+      "id": "ve-region-falcon",
+      "type": "find_region",
+      "targetRegionId": "VEN-23",
+      "question": {
+        "de": "Klicke auf Falcón, den nordwestlichen Küstenstaat mit Coro und den Dünen von Médanos.",
+        "hu": "Kattints Falcón államra, az északnyugati tengerparti államra Coróval és a Médanos dűnéivel.",
+        "ro": "Apasă pe Falcón, statul de coastă din nord-vest cu Coro și dunele Médanos.",
+        "en": "Click Falcón, the northwestern coastal state with Coro and the Médanos dunes."
+      }
+    },
+    {
+      "id": "ve-region-amzo-merida",
+      "type": "find_region",
+      "targetRegionId": "VEN-27",
+      "question": {
+        "de": "Finde Mérida, den Andenstaat mit hohen Gipfeln im Westen.",
+        "hu": "Keresd meg Mérida államot, a nyugati Andok magas csúcsaival.",
+        "ro": "Găsește Mérida, statul andin cu vârfuri înalte din vest.",
+        "en": "Find Mérida, the Andean state with high peaks in the west."
+      }
+    },
+    {
+      "id": "ve-odd-andes",
+      "type": "odd_one_out",
+      "poiIds": [
+        "venezuela-pico-bolivar-nature-v2",
+        "venezuela-pico-humboldt-nature-v2",
+        "venezuela-pico-el-aguila-relief-v2",
+        "venezuela-salto-angel-nature-v2"
+      ],
+      "targetPoiId": "venezuela-salto-angel-nature-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht in den venezolanischen Anden?",
+        "hu": "Melyik hely nem a venezuelai Andokban található?",
+        "ro": "Care loc nu se află în Anzii venezueleni?",
+        "en": "Which place is not in the Venezuelan Andes?"
+      }
+    },
+    {
+      "id": "ve-odd-island",
+      "type": "odd_one_out",
+      "poiIds": [
+        "venezuela-los-roques-nature-v2",
+        "venezuela-isla-margarita-nature-v2",
+        "el-guamache-port-economic-v2",
+        "venezuela-pico-bolivar-nature-v2"
+      ],
+      "targetPoiId": "venezuela-pico-bolivar-nature-v2",
+      "question": {
+        "de": "Welches Ziel gehört nicht zur Insel- oder Küstenwelt der Karibik?",
+        "hu": "Melyik célpont nem a karibi szigeti vagy parti világ része?",
+        "ro": "Care destinație nu ține de spațiul insular sau litoral caraibian?",
+        "en": "Which destination is not part of the Caribbean island or coastal world?"
+      }
+    },
+    {
+      "id": "ve-odd-orinoco-bridge",
+      "type": "odd_one_out",
+      "poiIds": [
+        "venezuela-puente-angostura-landmark-v2",
+        "venezuela-puente-orinokia-landmark-v2",
+        "venezuela-casa-del-congreso-angostura-history-v2",
+        "venezuela-puente-rafael-urdaneta-landmark-v2"
+      ],
+      "targetPoiId": "venezuela-puente-rafael-urdaneta-landmark-v2",
+      "question": {
+        "de": "Welcher Ort gehört nicht zum Raum Ciudad Bolívar und Orinoco-Brücken?",
+        "hu": "Melyik hely nem Ciudad Bolívar és az Orinoco-hidak térségéhez tartozik?",
+        "ro": "Care loc nu aparține zonei Ciudad Bolívar și podurilor peste Orinoco?",
+        "en": "Which place does not belong to the Ciudad Bolívar and Orinoco bridge area?"
+      }
+    },
+    {
+      "id": "ve-odd-capital-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "caracas-cities-v2",
+        "maracaibo-cities-v2",
+        "barquisimeto-cities-v2",
+        "venezuela-rio-orinoco-nature-v2"
+      ],
+      "targetPoiId": "venezuela-rio-orinoco-nature-v2",
+      "question": {
+        "de": "Welches Ziel ist ein Fluss und keine Großstadt?",
+        "hu": "Melyik célpont folyó, nem pedig nagyváros?",
+        "ro": "Care destinație este un fluviu, nu un oraș mare?",
+        "en": "Which destination is a river rather than a major city?"
+      }
+    },
+    {
+      "id": "ve-sequence-coro-caracas-barcelona-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "venezuela-historic-center-coro-history-v2",
+        "caracas-cities-v2",
+        "venezuela-casa-fuerte-barcelona-history-v2"
+      ],
+      "orderedPoiIds": [
+        "venezuela-historic-center-coro-history-v2",
+        "caracas-cities-v2",
+        "venezuela-casa-fuerte-barcelona-history-v2"
+      ],
+      "question": {
+        "de": "Klicke Coro, Caracas und die Ruinen der Casa Fuerte in Barcelona von Westen nach Osten an.",
+        "hu": "Kattints Coróra, Caracasra és a barcelonai Casa Fuerte romjaira nyugatról kelet felé.",
+        "ro": "Apasă Coro, Caracas și ruinele Casa Fuerte din Barcelona de la vest la est.",
+        "en": "Click Coro, Caracas, and the Casa Fuerte ruins in Barcelona from west to east."
+      }
+    },
+    {
+      "id": "ve-sequence-roques-margarita-delta-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "venezuela-los-roques-nature-v2",
+        "venezuela-isla-margarita-nature-v2",
+        "venezuela-delta-del-orinoco-life-v2"
+      ],
+      "orderedPoiIds": [
+        "venezuela-los-roques-nature-v2",
+        "venezuela-isla-margarita-nature-v2",
+        "venezuela-delta-del-orinoco-life-v2"
+      ],
+      "question": {
+        "de": "Klicke Los Roques, Isla Margarita und das Orinoco-Delta von Norden nach Süden an.",
+        "hu": "Kattints Los Roquesre, Margarita szigetére és az Orinoco-deltára északról dél felé.",
+        "ro": "Apasă Los Roques, Isla Margarita și Delta Orinoco de la nord la sud.",
+        "en": "Click Los Roques, Isla Margarita, and the Orinoco Delta from north to south."
+      }
+    },
+    {
+      "id": "ve-sequence-perija-maracaibo-merida-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "venezuela-sierra-de-perija-relief-v2",
+        "venezuela-lago-de-maracaibo-nature-v2",
+        "venezuela-teleferico-mukumbari-landmark-v2"
+      ],
+      "orderedPoiIds": [
+        "venezuela-sierra-de-perija-relief-v2",
+        "venezuela-lago-de-maracaibo-nature-v2",
+        "venezuela-teleferico-mukumbari-landmark-v2"
+      ],
+      "question": {
+        "de": "Klicke Sierra de Perijá, den Maracaibo-See und die Mukumbarí-Seilbahn von Westen nach Osten an.",
+        "hu": "Kattints a Sierra de Perijára, a Maracaibo-tóra és a Mukumbarí felvonóra nyugatról kelet felé.",
+        "ro": "Apasă Sierra de Perijá, Lacul Maracaibo și telecabina Mukumbarí de la vest la est.",
+        "en": "Click Sierra de Perijá, Lake Maracaibo, and the Mukumbarí cable car from west to east."
+      }
+    },
+    {
+      "id": "ve-sequence-guaranao-coro-paz-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "guaranao-port-economic-v2",
+        "venezuela-historic-center-coro-history-v2",
+        "venezuela-monumento-a-la-paz-landmark-v2"
+      ],
+      "orderedPoiIds": [
+        "guaranao-port-economic-v2",
+        "venezuela-historic-center-coro-history-v2",
+        "venezuela-monumento-a-la-paz-landmark-v2"
+      ],
+      "question": {
+        "de": "Klicke den Hafen von Guaranao, Coro und das Friedensdenkmal von Norden nach Süden an.",
+        "hu": "Kattints Guaranao kikötőjére, Coróra és a Béke-emlékműre északról dél felé.",
+        "ro": "Apasă Portul Guaranao, Coro și Monumentul Păcii de la nord la sud.",
+        "en": "Click the Port of Guaranao, Coro, and the Peace Monument from north to south."
+      }
+    },
+    {
+      "id": "ve-sequence-neblina-angel-kukenan-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "venezuela-mount-neblina-relief-v2",
+        "venezuela-salto-angel-nature-v2",
+        "venezuela-kukenan-tepui-relief-v2"
+      ],
+      "orderedPoiIds": [
+        "venezuela-mount-neblina-relief-v2",
+        "venezuela-salto-angel-nature-v2",
+        "venezuela-kukenan-tepui-relief-v2"
+      ],
+      "question": {
+        "de": "Klicke den Mount Neblina, den Salto Ángel und den Kukenán-Tepui von Westen nach Osten an.",
+        "hu": "Kattints a Neblina-hegyre, az Angel-vízesésre és a Kukenán-tepuira nyugatról kelet felé.",
+        "ro": "Apasă Muntele Neblina, Cascada Angel și Kukenán-Tepui de la vest la est.",
+        "en": "Click Mount Neblina, Angel Falls, and Kukenán-Tepui from west to east."
+      }
+    },
+    {
+      "id": "ve-sequence-autana-canaima-bolivar-south-north",
+      "type": "sequence",
+      "poiIds": [
+        "venezuela-mount-autana-relief-v2",
+        "venezuela-parque-nacional-canaima-life-v2",
+        "venezuela-pico-bolivar-nature-v2"
+      ],
+      "orderedPoiIds": [
+        "venezuela-mount-autana-relief-v2",
+        "venezuela-parque-nacional-canaima-life-v2",
+        "venezuela-pico-bolivar-nature-v2"
+      ],
+      "question": {
+        "de": "Klicke den Mount Autana, den Canaima-Nationalpark und den Pico Bolívar von Süden nach Norden an.",
+        "hu": "Kattints az Autana-hegyre, a Canaima Nemzeti Parkra és a Pico Bolívarra délről észak felé.",
+        "ro": "Apasă Muntele Autana, Parcul Național Canaima și Pico Bolívar de la sud la nord.",
+        "en": "Click Mount Autana, Canaima National Park, and Pico Bolívar from south to north."
+      }
+    },
+    {
+      "id": "ve-odd-western-border",
+      "type": "odd_one_out",
+      "poiIds": [
+        "venezuela-pico-bolivar-nature-v2",
+        "venezuela-monumento-a-la-paz-landmark-v2",
+        "venezuela-parque-nacional-chorro-el-indio-life-v2",
+        "venezuela-los-roques-nature-v2"
+      ],
+      "targetPoiId": "venezuela-los-roques-nature-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht im westlichen Grenz- und Andenraum Venezuelas?",
+        "hu": "Melyik hely nem Venezuela nyugati határ- és andoki térségében fekszik?",
+        "ro": "Care loc nu se află în spațiul vestic de graniță și andin al Venezuelei?",
+        "en": "Which place is not in Venezuela's western border and Andean zone?"
+      }
+    }
+  ]
+}

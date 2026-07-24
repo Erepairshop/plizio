@@ -1,0 +1,299 @@
+{
+  "ng": [
+    {
+      "id": "ng-find-ikeja-state-capital",
+      "type": "find_poi",
+      "targetPoiId": "ng-lagos-ikeja-cities-v2",
+      "question": {
+        "de": "Finde Ikeja, die Hauptstadt des Bundesstaates Lagos.",
+        "hu": "Keresd meg Ikeját, Lagos állam fővárosát.",
+        "ro": "Găsește Ikeja, capitala statului Lagos.",
+        "en": "Find Ikeja, the capital of Lagos State."
+      }
+    },
+    {
+      "id": "ng-find-benin-city",
+      "type": "find_poi",
+      "targetPoiId": "ng-benin-city-cities-v2",
+      "question": {
+        "de": "Finde Benin City westlich des Nigerdeltas.",
+        "hu": "Keresd meg Benin Cityt a Niger-deltától nyugatra.",
+        "ro": "Găsește Benin City la vest de Delta Nigerului.",
+        "en": "Find Benin City west of the Niger Delta."
+      }
+    },
+    {
+      "id": "ng-find-calabar",
+      "type": "find_poi",
+      "targetPoiId": "ng-calabar-cities-v2",
+      "question": {
+        "de": "Finde Calabar an der südöstlichen Küste Nigerias.",
+        "hu": "Keresd meg Calabart Nigéria délkeleti partvidékén.",
+        "ro": "Găsește Calabar pe coasta sud-estică a Nigeriei.",
+        "en": "Find Calabar on Nigeria's southeastern coast."
+      }
+    },
+    {
+      "id": "ng-find-kainji-lake",
+      "type": "find_poi",
+      "targetPoiId": "kainji-lake-nature-v2",
+      "question": {
+        "de": "Finde den Kainji-See im westlich-zentralen Teil des Landes.",
+        "hu": "Keresd meg a Kainji-tavat az ország nyugati-középső részén.",
+        "ro": "Găsește lacul Kainji în partea vestic-centrală a țării.",
+        "en": "Find Kainji Lake in the west-central part of the country."
+      }
+    },
+    {
+      "id": "ng-find-chappal-waddi",
+      "type": "find_poi",
+      "targetPoiId": "chappal-waddi-mountain-nature-v2",
+      "question": {
+        "de": "Finde Chappal Waddi im Grenzhochland zu Kamerun.",
+        "hu": "Keresd meg a Chappal Waddit a Kamerunnal határos hegyvidéken.",
+        "ro": "Găsește Chappal Waddi în înălțimile de la granița cu Camerunul.",
+        "en": "Find Chappal Waddi in the highlands along the Cameroon border."
+      }
+    },
+    {
+      "id": "ng-region-niger",
+      "type": "find_region",
+      "targetRegionId": "NGA-2851",
+      "question": {
+        "de": "Klicke auf den Bundesstaat Niger im westlichen Zentrum Nigerias.",
+        "hu": "Kattints Niger államra Nigéria nyugati-középső részén.",
+        "ro": "Apasă pe statul Niger din partea vestic-centrală a Nigeriei.",
+        "en": "Click Niger State in west-central Nigeria."
+      }
+    },
+    {
+      "id": "ng-region-oyo",
+      "type": "find_region",
+      "targetRegionId": "NGA-2856",
+      "question": {
+        "de": "Finde den Bundesstaat Oyo im Südwesten, wo Ibadan liegt.",
+        "hu": "Keresd meg Oyo államot délnyugaton, ahol Ibadan található.",
+        "ro": "Găsește statul Oyo din sud-vest, unde se află Ibadan.",
+        "en": "Find Oyo State in the southwest, where Ibadan is located."
+      }
+    },
+    {
+      "id": "ng-region-fct",
+      "type": "find_region",
+      "targetRegionId": "NGA-3470",
+      "question": {
+        "de": "Klicke auf das Federal Capital Territory rund um Abuja.",
+        "hu": "Kattints az Abuja körüli Szövetségi Fővárosi Területre.",
+        "ro": "Apasă pe Teritoriul Capitalei Federale din jurul orașului Abuja.",
+        "en": "Click the Federal Capital Territory around Abuja."
+      }
+    },
+    {
+      "id": "ng-region-plateau",
+      "type": "find_region",
+      "targetRegionId": "NGA-2866",
+      "question": {
+        "de": "Finde den Bundesstaat Plateau im zentralen Hochland.",
+        "hu": "Keresd meg Plateau államot a központi fennsíkon.",
+        "ro": "Găsește statul Plateau din podișul central.",
+        "en": "Find Plateau State in the central highlands."
+      }
+    },
+    {
+      "id": "ng-region-kano",
+      "type": "find_region",
+      "targetRegionId": "NGA-2869",
+      "question": {
+        "de": "Klicke auf den Bundesstaat Kano im Norden des Landes.",
+        "hu": "Kattints Kano államra az ország északi részén.",
+        "ro": "Apasă pe statul Kano din nordul țării.",
+        "en": "Click Kano State in the north of the country."
+      }
+    },
+    {
+      "id": "ng-odd-far-northwest-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "ng-abuja-cities-v2",
+        "ng-jos-cities-v2",
+        "ng-lafia-cities-v2",
+        "ng-sokoto-city-cities-v2"
+      ],
+      "targetPoiId": "ng-sokoto-city-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt weit im Nordwesten statt im zentralen Teil Nigerias?",
+        "hu": "Melyik város fekszik messze északnyugaton, nem pedig Nigéria középső részén?",
+        "ro": "Care oraș se află departe în nord-vest, nu în partea centrală a Nigeriei?",
+        "en": "Which city lies far to the northwest rather than in central Nigeria?"
+      }
+    },
+    {
+      "id": "ng-odd-east-coast-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "ng-lagos-city-cities-v2",
+        "ng-port-harcourt-cities-v2",
+        "ng-warri-cities-v2",
+        "ng-calabar-cities-v2"
+      ],
+      "targetPoiId": "ng-calabar-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt am weitesten im Osten unter diesen Küstenstädten?",
+        "hu": "Melyik város fekszik a legkeletebbre ezek közül a tengerparti városok közül?",
+        "ro": "Care oraș se află cel mai la est dintre aceste orașe de coastă?",
+        "en": "Which city lies farthest east among these coastal cities?"
+      }
+    },
+    {
+      "id": "ng-odd-inland-capital",
+      "type": "odd_one_out",
+      "poiIds": [
+        "ng-lagos-city-cities-v2",
+        "ng-ibadan-cities-v2",
+        "ng-abeokuta-cities-v2",
+        "ng-abuja-cities-v2"
+      ],
+      "targetPoiId": "ng-abuja-cities-v2",
+      "question": {
+        "de": "Welche Stadt ist die nationale Hauptstadt im Landesinneren statt eine Stadt des Südwestens?",
+        "hu": "Melyik város a belső területen fekvő nemzeti főváros, nem pedig egy délnyugati város?",
+        "ro": "Care oraș este capitala națională din interior, nu un oraș din sud-vest?",
+        "en": "Which city is the inland national capital rather than a southwestern city?"
+      }
+    },
+    {
+      "id": "ng-odd-only-mountain",
+      "type": "odd_one_out",
+      "poiIds": [
+        "kainji-lake-nature-v2",
+        "lekki-lagoon-nature-v2",
+        "chad-lake-nature-v2",
+        "chappal-waddi-mountain-nature-v2"
+      ],
+      "targetPoiId": "chappal-waddi-mountain-nature-v2",
+      "question": {
+        "de": "Welcher Ort ist ein Berg und kein Gewässer?",
+        "hu": "Melyik hely hegy, és nem vízfelület?",
+        "ro": "Care loc este un munte, nu o întindere de apă?",
+        "en": "Which place is a mountain rather than a body of water?"
+      }
+    },
+    {
+      "id": "ng-odd-farthest-east-adamawa",
+      "type": "odd_one_out",
+      "poiIds": [
+        "ng-gombe-city-cities-v2",
+        "ng-jalingo-cities-v2",
+        "ng-yola-cities-v2",
+        "ng-mubi-cities-v2"
+      ],
+      "targetPoiId": "ng-mubi-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt am weitesten im Osten nahe der Grenze zu Kamerun?",
+        "hu": "Melyik város fekszik a legkeletebbre, Kamerun határához közel?",
+        "ro": "Care oraș se află cel mai la est, aproape de granița cu Camerunul?",
+        "en": "Which city lies farthest east, close to the Cameroon border?"
+      }
+    },
+    {
+      "id": "ng-sequence-southwest-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "ng-abeokuta-cities-v2",
+        "ng-ibadan-cities-v2",
+        "ng-ilorin-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "ng-abeokuta-cities-v2",
+        "ng-ibadan-cities-v2",
+        "ng-ilorin-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Abeokuta, Ibadan und Ilorin von Westen nach Osten an.",
+        "hu": "Kattints Abeokutára, Ibadanra és Ilorinra nyugatról kelet felé.",
+        "ro": "Apasă Abeokuta, Ibadan și Ilorin de la vest la est.",
+        "en": "Click Abeokuta, Ibadan, and Ilorin from west to east."
+      }
+    },
+    {
+      "id": "ng-sequence-central-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "ng-kaduna-city-cities-v2",
+        "ng-abuja-cities-v2",
+        "ng-lokoja-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "ng-kaduna-city-cities-v2",
+        "ng-abuja-cities-v2",
+        "ng-lokoja-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Kaduna, Abuja und Lokoja von Norden nach Süden an.",
+        "hu": "Kattints Kadunára, Abujára és Lokojára északról dél felé.",
+        "ro": "Apasă Kaduna, Abuja și Lokoja de la nord la sud.",
+        "en": "Click Kaduna, Abuja, and Lokoja from north to south."
+      }
+    },
+    {
+      "id": "ng-sequence-north-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "ng-sokoto-city-cities-v2",
+        "ng-kano-city-cities-v2",
+        "ng-maiduguri-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "ng-sokoto-city-cities-v2",
+        "ng-kano-city-cities-v2",
+        "ng-maiduguri-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Sokoto, Kano und Maiduguri von Westen nach Osten an.",
+        "hu": "Kattints Sokotóra, Kanóra és Maidugurira nyugatról kelet felé.",
+        "ro": "Apasă Sokoto, Kano și Maiduguri de la vest la est.",
+        "en": "Click Sokoto, Kano, and Maiduguri from west to east."
+      }
+    },
+    {
+      "id": "ng-sequence-east-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "ng-jos-cities-v2",
+        "ng-enugu-city-cities-v2",
+        "ng-calabar-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "ng-jos-cities-v2",
+        "ng-enugu-city-cities-v2",
+        "ng-calabar-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Jos, Enugu und Calabar von Norden nach Süden an.",
+        "hu": "Kattints Josra, Enugura és Calabarra északról dél felé.",
+        "ro": "Apasă Jos, Enugu și Calabar de la nord la sud.",
+        "en": "Click Jos, Enugu, and Calabar from north to south."
+      }
+    },
+    {
+      "id": "ng-sequence-central-east-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "ng-jos-cities-v2",
+        "ng-gombe-city-cities-v2",
+        "ng-yola-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "ng-jos-cities-v2",
+        "ng-gombe-city-cities-v2",
+        "ng-yola-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Jos, Gombe und Yola von Westen nach Osten an.",
+        "hu": "Kattints Josra, Gombéra és Yolára nyugatról kelet felé.",
+        "ro": "Apasă Jos, Gombe și Yola de la vest la est.",
+        "en": "Click Jos, Gombe, and Yola from west to east."
+      }
+    }
+  ]
+}

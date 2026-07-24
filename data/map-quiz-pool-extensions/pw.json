@@ -1,0 +1,309 @@
+{
+  "pw": [
+    {
+      "id": "pw-find-airai-town",
+      "type": "find_poi",
+      "targetPoiId": "palau-airai-cities-v2",
+      "question": {
+        "de": "Finde Airai auf Babeldaob.",
+        "hu": "Keresd meg Airait Babeldaob szigetén.",
+        "ro": "Găsește Airai pe insula Babeldaob.",
+        "en": "Find Airai on Babeldaob."
+      }
+    },
+    {
+      "id": "pw-find-melekeok-village",
+      "type": "find_poi",
+      "targetPoiId": "palau-melekeok-cities-v2",
+      "question": {
+        "de": "Finde Melekeok an der Ostküste von Babeldaob.",
+        "hu": "Keresd meg Melekeokot Babeldaob keleti partján.",
+        "ro": "Găsește Melekeok pe coasta estică a insulei Babeldaob.",
+        "en": "Find Melekeok on Babeldaob's east coast."
+      }
+    },
+    {
+      "id": "pw-find-ngardmau-falls",
+      "type": "find_poi",
+      "targetPoiId": "palau-ngardmau-falls-life-v2",
+      "question": {
+        "de": "Finde den Ngardmau-Wasserfall.",
+        "hu": "Keresd meg a Ngardmau-vízesést.",
+        "ro": "Găsește cascada Ngardmau.",
+        "en": "Find Ngardmau Waterfall."
+      }
+    },
+    {
+      "id": "pw-find-jellyfish-lake",
+      "type": "find_poi",
+      "targetPoiId": "palau-jellyfish-lake-life-v2",
+      "question": {
+        "de": "Finde den Quallensee in den Rock Islands.",
+        "hu": "Keresd meg a Medúza-tavat a Rock-szigeteken.",
+        "ro": "Găsește Lacul Meduzelor din Rock Islands.",
+        "en": "Find Jellyfish Lake in the Rock Islands."
+      }
+    },
+    {
+      "id": "pw-find-tobi-island",
+      "type": "find_poi",
+      "targetPoiId": "palau-tobi-island-nature-v2",
+      "question": {
+        "de": "Finde die Insel Tobi weit im Südwesten.",
+        "hu": "Keresd meg Tobi szigetét a távoli délnyugaton.",
+        "ro": "Găsește insula Tobi, departe în sud-vest.",
+        "en": "Find Tobi Island far to the southwest."
+      }
+    },
+    {
+      "id": "pw-region-melekeok-state",
+      "type": "find_region",
+      "targetRegionId": "PLW-5250",
+      "question": {
+        "de": "Finde den Staat Melekeok.",
+        "hu": "Keresd meg Melekeok államot.",
+        "ro": "Găsește statul Melekeok.",
+        "en": "Find the state of Melekeok."
+      }
+    },
+    {
+      "id": "pw-region-ngardmau-state",
+      "type": "find_region",
+      "targetRegionId": "PLW-5253",
+      "question": {
+        "de": "Finde den Staat Ngardmau.",
+        "hu": "Keresd meg Ngardmau államot.",
+        "ro": "Găsește statul Ngardmau.",
+        "en": "Find the state of Ngardmau."
+      }
+    },
+    {
+      "id": "pw-region-ngatpang-state",
+      "type": "find_region",
+      "targetRegionId": "PLW-5254",
+      "question": {
+        "de": "Finde den Staat Ngatpang.",
+        "hu": "Keresd meg Ngatpang államot.",
+        "ro": "Găsește statul Ngatpang.",
+        "en": "Find the state of Ngatpang."
+      }
+    },
+    {
+      "id": "pw-region-sonsorol-state",
+      "type": "find_region",
+      "targetRegionId": "PLW-5259",
+      "question": {
+        "de": "Finde den Staat Sonsorol.",
+        "hu": "Keresd meg Sonsorol államot.",
+        "ro": "Găsește statul Sonsorol.",
+        "en": "Find the state of Sonsorol."
+      }
+    },
+    {
+      "id": "pw-region-hatobohei-state",
+      "type": "find_region",
+      "targetRegionId": "PLW-5247",
+      "question": {
+        "de": "Finde den Staat Hatobohei.",
+        "hu": "Keresd meg Hatobohei államot.",
+        "ro": "Găsește statul Hatobohei.",
+        "en": "Find the state of Hatobohei."
+      }
+    },
+    {
+      "id": "pw-odd-farthest-south-remote",
+      "type": "odd_one_out",
+      "poiIds": [
+        "palau-koror-cities-v2",
+        "palau-peleliu-island-nature-v2",
+        "palau-angaur-island-nature-v2",
+        "palau-tobi-island-nature-v2"
+      ],
+      "targetPoiId": "palau-tobi-island-nature-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten südlich?",
+        "hu": "Melyik hely fekszik a legdélebbre?",
+        "ro": "Care dintre aceste locuri se află cel mai la sud?",
+        "en": "Which of these places lies farthest south?"
+      }
+    },
+    {
+      "id": "pw-odd-east-side-babeldaob",
+      "type": "odd_one_out",
+      "poiIds": [
+        "palau-ngardmau-cities-v2",
+        "palau-ngatpang-cities-v2",
+        "palau-aimeliik-cities-v2",
+        "palau-ngiwal-cities-v2"
+      ],
+      "targetPoiId": "palau-ngiwal-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt auf der Ostseite von Babeldaob?",
+        "hu": "Melyik hely fekszik Babeldaob keleti oldalán?",
+        "ro": "Care dintre aceste locuri se află pe partea estică a insulei Babeldaob?",
+        "en": "Which of these places lies on the east side of Babeldaob?"
+      }
+    },
+    {
+      "id": "pw-odd-not-koror-cluster",
+      "type": "odd_one_out",
+      "poiIds": [
+        "palau-belau-national-museum-landmarks-v2",
+        "palau-etpison-museum-landmarks-v2",
+        "palau-capitol-building-landmarks-v2",
+        "palau-national-stadium-landmarks-v2"
+      ],
+      "targetPoiId": "palau-capitol-building-landmarks-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt in Ngerulmud und nicht im Raum Koror?",
+        "hu": "Melyik hely található Ngerulmudban, és nem Koror térségében?",
+        "ro": "Care dintre aceste locuri se află în Ngerulmud, nu în zona Koror?",
+        "en": "Which of these places is in Ngerulmud rather than the Koror area?"
+      }
+    },
+    {
+      "id": "pw-odd-on-peleliu",
+      "type": "odd_one_out",
+      "poiIds": [
+        "palau-peleliu-wwii-memorial-landmarks-v2",
+        "palau-airai-bai-landmarks-v2",
+        "palau-ngardmau-falls-life-v2",
+        "palau-badrulchau-monoliths-landmarks-v2"
+      ],
+      "targetPoiId": "palau-peleliu-wwii-memorial-landmarks-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt auf Peleliu?",
+        "hu": "Melyik hely található Peleliu szigetén?",
+        "ro": "Care dintre aceste locuri se află pe insula Peleliu?",
+        "en": "Which of these places is on Peleliu Island?"
+      }
+    },
+    {
+      "id": "pw-odd-not-rock-islands",
+      "type": "odd_one_out",
+      "poiIds": [
+        "palau-jellyfish-lake-life-v2",
+        "palau-ulong-island-life-v2",
+        "palau-carp-island-life-v2",
+        "palau-lake-ngardok-nature-v2"
+      ],
+      "targetPoiId": "palau-lake-ngardok-nature-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht bei den Rock Islands, sondern auf Babeldaob?",
+        "hu": "Melyik hely nem a Rock-szigeteknél, hanem Babeldaobon található?",
+        "ro": "Care dintre aceste locuri nu este în Rock Islands, ci pe Babeldaob?",
+        "en": "Which of these places is not in the Rock Islands but on Babeldaob?"
+      }
+    },
+    {
+      "id": "pw-sequence-southwest-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "palau-tobi-island-nature-v2",
+        "palau-helen-reef-nature-v2",
+        "palau-sonsorol-island-nature-v2",
+        "palau-merir-island-nature-v2"
+      ],
+      "orderedPoiIds": [
+        "palau-tobi-island-nature-v2",
+        "palau-helen-reef-nature-v2",
+        "palau-sonsorol-island-nature-v2",
+        "palau-merir-island-nature-v2"
+      ],
+      "question": {
+        "de": "Klicke Tobi, Helen Reef, Sonsorol und Merir von Westen nach Osten an.",
+        "hu": "Kattints Tobira, a Helen-zátonyra, Sonsorolra és Merirre nyugatról keletre.",
+        "ro": "Apasă Tobi, Helen Reef, Sonsorol și Merir de la vest la est.",
+        "en": "Click Tobi, Helen Reef, Sonsorol and Merir from west to east."
+      }
+    },
+    {
+      "id": "pw-sequence-southwest-south-north",
+      "type": "sequence",
+      "poiIds": [
+        "palau-tobi-island-nature-v2",
+        "palau-merir-island-nature-v2",
+        "palau-pulo-anna-nature-v2",
+        "palau-sonsorol-island-nature-v2"
+      ],
+      "orderedPoiIds": [
+        "palau-tobi-island-nature-v2",
+        "palau-merir-island-nature-v2",
+        "palau-pulo-anna-nature-v2",
+        "palau-sonsorol-island-nature-v2"
+      ],
+      "question": {
+        "de": "Klicke Tobi, Merir, Pulo Anna und Sonsorol von Süden nach Norden an.",
+        "hu": "Kattints Tobira, Merirre, Pulo Annára és Sonsorolra délről északra.",
+        "ro": "Apasă Tobi, Merir, Pulo Anna și Sonsorol de la sud la nord.",
+        "en": "Click Tobi, Merir, Pulo Anna and Sonsorol from south to north."
+      }
+    },
+    {
+      "id": "pw-sequence-main-settlements-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "palau-angaur-cities-v2",
+        "palau-kloulklubed-cities-v2",
+        "palau-koror-cities-v2",
+        "palau-ngerulmud-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "palau-angaur-cities-v2",
+        "palau-kloulklubed-cities-v2",
+        "palau-koror-cities-v2",
+        "palau-ngerulmud-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Angaur, Kloulklubed, Koror und Ngerulmud von Westen nach Osten an.",
+        "hu": "Kattints Angaurra, Kloulklubedre, Kororra és Ngerulmudra nyugatról keletre.",
+        "ro": "Apasă Angaur, Kloulklubed, Koror și Ngerulmud de la vest la est.",
+        "en": "Click Angaur, Kloulklubed, Koror and Ngerulmud from west to east."
+      }
+    },
+    {
+      "id": "pw-sequence-babeldaob-south-north",
+      "type": "sequence",
+      "poiIds": [
+        "palau-airai-cities-v2",
+        "palau-ngchesar-cities-v2",
+        "palau-melekeok-cities-v2",
+        "palau-ulimang-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "palau-airai-cities-v2",
+        "palau-ngchesar-cities-v2",
+        "palau-melekeok-cities-v2",
+        "palau-ulimang-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Airai, Ngchesar, Melekeok und Ulimang von Süden nach Norden an.",
+        "hu": "Kattints Airaira, Ngchesarra, Melekeokra és Ulimangra délről északra.",
+        "ro": "Apasă Airai, Ngchesar, Melekeok și Ulimang de la sud la nord.",
+        "en": "Click Airai, Ngchesar, Melekeok and Ulimang from south to north."
+      }
+    },
+    {
+      "id": "pw-sequence-babeldaob-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "palau-aimeliik-cities-v2",
+        "palau-airai-cities-v2",
+        "palau-ngchesar-cities-v2",
+        "palau-melekeok-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "palau-aimeliik-cities-v2",
+        "palau-airai-cities-v2",
+        "palau-ngchesar-cities-v2",
+        "palau-melekeok-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Aimeliik, Airai, Ngchesar und Melekeok von Westen nach Osten an.",
+        "hu": "Kattints Aimeliikre, Airaira, Ngchesarra és Melekeokra nyugatról keletre.",
+        "ro": "Apasă Aimeliik, Airai, Ngchesar și Melekeok de la vest la est.",
+        "en": "Click Aimeliik, Airai, Ngchesar and Melekeok from west to east."
+      }
+    }
+  ]
+}

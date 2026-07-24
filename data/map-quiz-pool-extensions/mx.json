@@ -1,0 +1,309 @@
+{
+  "mx": [
+    {
+      "id": "mxx-find-puebla",
+      "type": "find_poi",
+      "targetPoiId": "puebla-cities-v2",
+      "question": {
+        "de": "Finde Puebla im zentralen Hochland Mexikos.",
+        "hu": "Keresd meg Pueblát Mexikó középső fennsíkján.",
+        "ro": "Găsește Puebla în podișul central al Mexicului.",
+        "en": "Find Puebla in Mexico's central highlands."
+      }
+    },
+    {
+      "id": "mxx-find-cancun",
+      "type": "find_poi",
+      "targetPoiId": "cancun-cities-v2",
+      "question": {
+        "de": "Klicke auf Cancún an der Karibikküste.",
+        "hu": "Kattints Cancúnra a karibi parton.",
+        "ro": "Apasă pe Cancún, pe coasta Caraibelor.",
+        "en": "Click Cancún on the Caribbean coast."
+      }
+    },
+    {
+      "id": "mxx-find-oaxaca-city",
+      "type": "find_poi",
+      "targetPoiId": "oaxaca-city-cities-v2",
+      "question": {
+        "de": "Finde Oaxaca de Juárez im Süden Mexikos.",
+        "hu": "Keresd meg Oaxaca de Juárezt Dél-Mexikóban.",
+        "ro": "Găsește Oaxaca de Juárez în sudul Mexicului.",
+        "en": "Find Oaxaca de Juárez in southern Mexico."
+      }
+    },
+    {
+      "id": "mxx-find-hermosillo",
+      "type": "find_poi",
+      "targetPoiId": "hermosillo-cities-v2",
+      "question": {
+        "de": "Wo liegt Hermosillo im Nordwesten?",
+        "hu": "Hol található Hermosillo északnyugaton?",
+        "ro": "Unde se află Hermosillo în nord-vest?",
+        "en": "Where is Hermosillo in the northwest?"
+      }
+    },
+    {
+      "id": "mxx-find-uxmal",
+      "type": "find_poi",
+      "targetPoiId": "uxmal-history-v2",
+      "question": {
+        "de": "Finde die Maya-Stätte Uxmal in Yucatán.",
+        "hu": "Keresd meg Uxmal maja lelőhelyét Yucatánban.",
+        "ro": "Găsește situl mayaș Uxmal din Yucatán.",
+        "en": "Find the Maya site of Uxmal in Yucatán."
+      }
+    },
+    {
+      "id": "mxx-find-copper-canyon",
+      "type": "find_poi",
+      "targetPoiId": "mexico-copper-canyon-cities-v2",
+      "question": {
+        "de": "Klicke auf den Kupfercanyon in Nordmexiko.",
+        "hu": "Kattints a Réz-kanyonra Észak-Mexikóban.",
+        "ro": "Apasă pe Copper Canyon din nordul Mexicului.",
+        "en": "Click Copper Canyon in northern Mexico."
+      }
+    },
+    {
+      "id": "mxx-region-sonora",
+      "type": "find_region",
+      "targetRegionId": "MEX-2712",
+      "question": {
+        "de": "Finde den Bundesstaat Sonora.",
+        "hu": "Keresd meg Sonora államot.",
+        "ro": "Găsește statul Sonora.",
+        "en": "Find the state of Sonora."
+      }
+    },
+    {
+      "id": "mxx-region-chiapas",
+      "type": "find_region",
+      "targetRegionId": "MEX-2735",
+      "question": {
+        "de": "Klicke auf Chiapas im Südosten.",
+        "hu": "Kattints Chiapasra délkeleten.",
+        "ro": "Apasă pe Chiapas în sud-est.",
+        "en": "Click Chiapas in the southeast."
+      }
+    },
+    {
+      "id": "mxx-region-veracruz",
+      "type": "find_region",
+      "targetRegionId": "MEX-2734",
+      "question": {
+        "de": "Wo liegt der lange Golfstaat Veracruz?",
+        "hu": "Hol található a hosszú, öbölparti Veracruz állam?",
+        "ro": "Unde se află lungul stat Veracruz de pe Golful Mexic?",
+        "en": "Where is the long Gulf state of Veracruz?"
+      }
+    },
+    {
+      "id": "mxx-region-guanajuato",
+      "type": "find_region",
+      "targetRegionId": "MEX-2728",
+      "question": {
+        "de": "Finde den Binnenstaat Guanajuato im Bajío.",
+        "hu": "Keresd meg a Bajío térségében fekvő Guanajuato államot.",
+        "ro": "Găsește statul interior Guanajuato din regiunea Bajío.",
+        "en": "Find the inland state of Guanajuato in the Bajío."
+      }
+    },
+    {
+      "id": "mxx-odd-farthest-north-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "tijuana-cities-v2",
+        "ciudad-juarez-cities-v2",
+        "hermosillo-cities-v2",
+        "puebla-cities-v2"
+      ],
+      "targetPoiId": "tijuana-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten nördlich?",
+        "hu": "Melyik város fekszik ezek közül a legészakabbra?",
+        "ro": "Care dintre aceste orașe se află cel mai la nord?",
+        "en": "Which of these cities lies farthest north?"
+      }
+    },
+    {
+      "id": "mxx-odd-caribbean-coast",
+      "type": "odd_one_out",
+      "poiIds": [
+        "veracruz-city-cities-v2",
+        "acapulco-cities-v2",
+        "mazatlan-cities-v2",
+        "cancun-cities-v2"
+      ],
+      "targetPoiId": "cancun-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt an der Karibikküste?",
+        "hu": "Ezek közül melyik város fekszik a Karib-tenger partján?",
+        "ro": "Care dintre aceste orașe se află pe coasta Caraibelor?",
+        "en": "Which of these cities is on the Caribbean coast?"
+      }
+    },
+    {
+      "id": "mxx-odd-oaxaca-archaeology",
+      "type": "odd_one_out",
+      "poiIds": [
+        "monte-alban-history-v2",
+        "uxmal-history-v2",
+        "el-tajn-history-v2",
+        "tula-history-v2"
+      ],
+      "targetPoiId": "monte-alban-history-v2",
+      "question": {
+        "de": "Welche dieser archäologischen Stätten liegt in Oaxaca?",
+        "hu": "Ezek közül melyik régészeti lelőhely található Oaxacában?",
+        "ro": "Care dintre aceste situri arheologice se află în Oaxaca?",
+        "en": "Which of these archaeological sites is in Oaxaca?"
+      }
+    },
+    {
+      "id": "mxx-odd-guanajuato-state",
+      "type": "odd_one_out",
+      "poiIds": [
+        "guanajuato-city-cities-v2",
+        "morelia-cities-v2",
+        "queretaro-city-cities-v2",
+        "aguascalientes-cities-v2"
+      ],
+      "targetPoiId": "guanajuato-city-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt im Bundesstaat Guanajuato?",
+        "hu": "Ezek közül melyik város található Guanajuato államban?",
+        "ro": "Care dintre aceste orașe se află în statul Guanajuato?",
+        "en": "Which of these cities is in the state of Guanajuato?"
+      }
+    },
+    {
+      "id": "mxx-odd-rainforest",
+      "type": "odd_one_out",
+      "poiIds": [
+        "selva-lacandona-relief-v2",
+        "sierra-tarahumara-relief-v2",
+        "llanura-costera-del-golfo-relief-v2",
+        "valle-de-mexico-relief-v2"
+      ],
+      "targetPoiId": "selva-lacandona-relief-v2",
+      "question": {
+        "de": "Welcher dieser Orte ist ein Regenwaldgebiet?",
+        "hu": "Ezek közül melyik hely esőerdővidék?",
+        "ro": "Care dintre aceste locuri este o regiune de pădure tropicală?",
+        "en": "Which of these places is a rainforest region?"
+      }
+    },
+    {
+      "id": "mxx-sequence-pacific-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "tijuana-cities-v2",
+        "mazatlan-cities-v2",
+        "puerto-vallarta-cities-v2",
+        "acapulco-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "tijuana-cities-v2",
+        "mazatlan-cities-v2",
+        "puerto-vallarta-cities-v2",
+        "acapulco-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Tijuana, Mazatlán, Puerto Vallarta und Acapulco von Norden nach Süden an.",
+        "hu": "Kattints Tijuanára, Mazatlánra, Puerto Vallartára és Acapulcóra északról délre.",
+        "ro": "Apasă pe Tijuana, Mazatlán, Puerto Vallarta și Acapulco de la nord la sud.",
+        "en": "Click Tijuana, Mazatlán, Puerto Vallarta, and Acapulco from north to south."
+      }
+    },
+    {
+      "id": "mxx-sequence-bajio-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "mex_gua",
+        "guanajuato-city-cities-v2",
+        "queretaro-city-cities-v2",
+        "puebla-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "mex_gua",
+        "guanajuato-city-cities-v2",
+        "queretaro-city-cities-v2",
+        "puebla-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Guadalajara, Guanajuato, Querétaro und Puebla von West nach Ost an.",
+        "hu": "Kattints Guadalajarára, Guanajuatóra, Querétaróra és Pueblára nyugatról keletre.",
+        "ro": "Apasă pe Guadalajara, Guanajuato, Querétaro și Puebla de la vest la est.",
+        "en": "Click Guadalajara, Guanajuato, Querétaro, and Puebla from west to east."
+      }
+    },
+    {
+      "id": "mxx-sequence-maya-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "uxmal-history-v2",
+        "merida-cities-v2",
+        "coba-history-v2",
+        "cancun-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "uxmal-history-v2",
+        "merida-cities-v2",
+        "coba-history-v2",
+        "cancun-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Uxmal, Mérida, Cobá und Cancún von West nach Ost an.",
+        "hu": "Kattints Uxmalra, Méridára, Cobára és Cancúnra nyugatról keletre.",
+        "ro": "Apasă pe Uxmal, Mérida, Cobá și Cancún de la vest la est.",
+        "en": "Click Uxmal, Mérida, Cobá, and Cancún from west to east."
+      }
+    },
+    {
+      "id": "mxx-sequence-south-highlands",
+      "type": "sequence",
+      "poiIds": [
+        "puebla-cities-v2",
+        "oaxaca-city-cities-v2",
+        "tuxtla-gutierrez-cities-v2",
+        "volcan-tacan-relief-v2"
+      ],
+      "orderedPoiIds": [
+        "puebla-cities-v2",
+        "oaxaca-city-cities-v2",
+        "tuxtla-gutierrez-cities-v2",
+        "volcan-tacan-relief-v2"
+      ],
+      "question": {
+        "de": "Klicke Puebla, Oaxaca de Juárez, Tuxtla Gutiérrez und den Vulkan Tacaná von Norden nach Süden an.",
+        "hu": "Kattints Pueblára, Oaxaca de Juárezre, Tuxtla Gutiérrezre és a Tacaná-vulkánra északról délre.",
+        "ro": "Apasă pe Puebla, Oaxaca de Juárez, Tuxtla Gutiérrez și vulcanul Tacaná de la nord la sud.",
+        "en": "Click Puebla, Oaxaca de Juárez, Tuxtla Gutiérrez, and Tacaná Volcano from north to south."
+      }
+    },
+    {
+      "id": "mxx-sequence-archaeology-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "paquime-casas-grandes-history-v2",
+        "tula-history-v2",
+        "monte-alban-history-v2",
+        "bonampak-history-v2"
+      ],
+      "orderedPoiIds": [
+        "paquime-casas-grandes-history-v2",
+        "tula-history-v2",
+        "monte-alban-history-v2",
+        "bonampak-history-v2"
+      ],
+      "question": {
+        "de": "Klicke Paquimé, Tula, Monte Albán und Bonampak von Norden nach Süden an.",
+        "hu": "Kattints Paquimére, Tulára, Monte Albánra és Bonampakra északról délre.",
+        "ro": "Apasă pe Paquimé, Tula, Monte Albán și Bonampak de la nord la sud.",
+        "en": "Click Paquimé, Tula, Monte Albán, and Bonampak from north to south."
+      }
+    }
+  ]
+}

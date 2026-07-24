@@ -1,0 +1,317 @@
+{
+  "xk": [
+    {
+      "id": "xk-find-pristina-capital",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde die Hauptstadt Pristina.",
+        "hu": "Keresd meg a fővárost, Pristinát.",
+        "ro": "Găsește capitala Priștina.",
+        "en": "Find the capital, Pristina."
+      },
+      "targetPoiId": "kosovo-pristina-cities-v2"
+    },
+    {
+      "id": "xk-find-peja",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Peja am Fuß der Rugova-Berge.",
+        "hu": "Keresd meg Peját a Rugova-hegység lábánál.",
+        "ro": "Găsește Peja de la poalele Munților Rugova.",
+        "en": "Find Peja at the foot of the Rugova Mountains."
+      },
+      "targetPoiId": "kosovo-peja-cities-v2"
+    },
+    {
+      "id": "xk-find-rugova-canyon",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde die Rugova-Schlucht westlich von Peja.",
+        "hu": "Keresd meg a Pejától nyugatra fekvő Rugova-szurdokot.",
+        "ro": "Găsește Canionul Rugova la vest de Peja.",
+        "en": "Find Rugova Canyon west of Peja."
+      },
+      "targetPoiId": "kosovo-rugova-canyon-cities-v2"
+    },
+    {
+      "id": "xk-find-gracanica-monastery",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde das Kloster Gračanica nahe Pristina.",
+        "hu": "Keresd meg a Pristina közelében álló Gračanica kolostort.",
+        "ro": "Găsește Mănăstirea Gračanica de lângă Priștina.",
+        "en": "Find Gračanica Monastery near Pristina."
+      },
+      "targetPoiId": "kosovo-gracanica-cities-v2"
+    },
+    {
+      "id": "xk-find-gjeravica",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde den Gjeravica, den höchsten Gipfel des Kosovo.",
+        "hu": "Keresd meg a Gjeravicát, Koszovó legmagasabb csúcsát.",
+        "ro": "Găsește Gjeravica, cel mai înalt vârf din Kosovo.",
+        "en": "Find Gjeravica, Kosovo's highest peak."
+      },
+      "targetPoiId": "kosovo-gjeravica-cities-v2"
+    },
+    {
+      "id": "xk-region-pec",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf die Region Peć im Westen.",
+        "hu": "Kattints a nyugati Peć régióra.",
+        "ro": "Apasă pe regiunea Peć din vest.",
+        "en": "Click the Peć region in the west."
+      },
+      "targetRegionId": "XK-016"
+    },
+    {
+      "id": "xk-region-podujevo",
+      "type": "find_region",
+      "question": {
+        "de": "Finde die Region Podujevo im Norden des Landes.",
+        "hu": "Keresd meg az ország északi részén fekvő Podujevo régiót.",
+        "ro": "Găsește regiunea Podujevo din nordul țării.",
+        "en": "Find the Podujevo region in the north of the country."
+      },
+      "targetRegionId": "XK-010"
+    },
+    {
+      "id": "xk-region-mitrovica",
+      "type": "find_region",
+      "question": {
+        "de": "Finde die Region Kosovska Mitrovica.",
+        "hu": "Keresd meg a Kosovska Mitrovica régiót.",
+        "ro": "Găsește regiunea Kosovska Mitrovica.",
+        "en": "Find the Kosovska Mitrovica region."
+      },
+      "targetRegionId": "XK-020"
+    },
+    {
+      "id": "xk-region-urosevac",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf die Region Uroševac im südöstlichen Zentrum.",
+        "hu": "Kattints a délkeleti középső részen fekvő Uroševac régióra.",
+        "ro": "Apasă pe regiunea Uroševac din partea central-sud-estică.",
+        "en": "Click the Uroševac region in the south-central east."
+      },
+      "targetRegionId": "XK-024"
+    },
+    {
+      "id": "xk-region-novo-brdo",
+      "type": "find_region",
+      "question": {
+        "de": "Finde die Region Novo Brdo östlich von Pristina.",
+        "hu": "Keresd meg a Pristinától keletre fekvő Novo Brdo régiót.",
+        "ro": "Găsește regiunea Novo Brdo la est de Priștina.",
+        "en": "Find the Novo Brdo region east of Pristina."
+      },
+      "targetRegionId": "XK-025"
+    },
+    {
+      "id": "xk-odd-not-east",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort liegt nicht in der östlichen Region Gnjilane?",
+        "hu": "Melyik hely nem a keleti Gnjilane régióban található?",
+        "ro": "Care loc nu se află în regiunea estică Gnjilane?",
+        "en": "Which place is not in the eastern Gnjilane region?"
+      },
+      "poiIds": [
+        "kosovo-pristina-cities-v2",
+        "kosovo-ferizaj-cities-v2",
+        "kosovo-gracanica-cities-v2",
+        "kosovo-peja-cities-v2"
+      ],
+      "targetPoiId": "kosovo-peja-cities-v2"
+    },
+    {
+      "id": "xk-odd-not-djakovica",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort liegt nicht in der Region Đakovica?",
+        "hu": "Melyik hely nem a Đakovica régióban található?",
+        "ro": "Care loc nu se află în regiunea Đakovica?",
+        "en": "Which place is not in the Đakovica region?"
+      },
+      "poiIds": [
+        "kosovo-peja-cities-v2",
+        "xk-gjakova",
+        "kosovo-rugova-canyon-cities-v2",
+        "xk-prizren"
+      ],
+      "targetPoiId": "xk-prizren"
+    },
+    {
+      "id": "xk-odd-not-south",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht im Süden des Kosovo?",
+        "hu": "Ezek közül melyik hely nem Koszovó déli részén fekszik?",
+        "ro": "Care dintre aceste locuri nu se află în sudul Kosovo?",
+        "en": "Which of these places is not in southern Kosovo?"
+      },
+      "poiIds": [
+        "xk-dragash",
+        "xk-restelica",
+        "kosovo-brod-cities-v2",
+        "kosovo-mitrovica-cities-v2"
+      ],
+      "targetPoiId": "kosovo-mitrovica-cities-v2"
+    },
+    {
+      "id": "xk-odd-not-prizren-area",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort gehört nicht zur Region Prizren oder ihrer unmittelbaren Umgebung?",
+        "hu": "Melyik hely nem Prizren régiójához vagy közvetlen környékéhez tartozik?",
+        "ro": "Care loc nu aparține regiunii Prizren sau împrejurimilor ei imediate?",
+        "en": "Which place does not belong to the Prizren region or its immediate surroundings?"
+      },
+      "poiIds": [
+        "xk-prizren",
+        "kosovo-brezovica-cities-v2",
+        "kosovo-prevalla-cities-v2",
+        "xk-gjilan"
+      ],
+      "targetPoiId": "xk-gjilan"
+    },
+    {
+      "id": "xk-odd-not-natural",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort ist kein Naturziel?",
+        "hu": "Melyik hely nem természeti látnivaló?",
+        "ro": "Care loc nu este un obiectiv natural?",
+        "en": "Which place is not a natural attraction?"
+      },
+      "poiIds": [
+        "kosovo-rugova-canyon-cities-v2",
+        "kosovo-gjeravica-cities-v2",
+        "kosovo-batlava-lake-cities-v2",
+        "xk-hadum-mosque"
+      ],
+      "targetPoiId": "xk-hadum-mosque"
+    },
+    {
+      "id": "xk-sequence-west-east-cities",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke diese Orte von West nach Ost an.",
+        "hu": "Kattints ezekre a helyekre nyugatról keletre.",
+        "ro": "Apasă aceste locuri de la vest la est.",
+        "en": "Click these places from west to east."
+      },
+      "poiIds": [
+        "kosovo-boge-cities-v2",
+        "kosovo-peja-cities-v2",
+        "kosovo-mitrovica-cities-v2",
+        "kosovo-pristina-cities-v2",
+        "xk-gjilan"
+      ],
+      "orderedPoiIds": [
+        "kosovo-boge-cities-v2",
+        "kosovo-peja-cities-v2",
+        "kosovo-mitrovica-cities-v2",
+        "kosovo-pristina-cities-v2",
+        "xk-gjilan"
+      ]
+    },
+    {
+      "id": "xk-sequence-north-south-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke diese Orte von Nord nach Süd an.",
+        "hu": "Kattints ezekre a helyekre északról délre.",
+        "ro": "Apasă aceste locuri de la nord la sud.",
+        "en": "Click these places from north to south."
+      },
+      "poiIds": [
+        "kosovo-gazivoda-lake-cities-v2",
+        "kosovo-batlava-lake-cities-v2",
+        "kosovo-gracanica-cities-v2",
+        "kosovo-gadime-cave-cities-v2",
+        "kosovo-ferizaj-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "kosovo-gazivoda-lake-cities-v2",
+        "kosovo-batlava-lake-cities-v2",
+        "kosovo-gracanica-cities-v2",
+        "kosovo-gadime-cave-cities-v2",
+        "kosovo-ferizaj-cities-v2"
+      ]
+    },
+    {
+      "id": "xk-sequence-west-east-rugova-to-prizren",
+      "type": "sequence",
+      "question": {
+        "de": "Ordne diese Orte von West nach Ost.",
+        "hu": "Rendezd ezeket a helyeket nyugatról keletre.",
+        "ro": "Ordonează aceste locuri de la vest la est.",
+        "en": "Order these places from west to east."
+      },
+      "poiIds": [
+        "kosovo-rugova-canyon-cities-v2",
+        "xk-decan-mountains",
+        "xk-gjakova",
+        "xk-prizren"
+      ],
+      "orderedPoiIds": [
+        "kosovo-rugova-canyon-cities-v2",
+        "xk-decan-mountains",
+        "xk-gjakova",
+        "xk-prizren"
+      ]
+    },
+    {
+      "id": "xk-sequence-north-south-west",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke diese Orte von Nord nach Süd an.",
+        "hu": "Kattints ezekre a helyekre északról délre.",
+        "ro": "Apasă aceste locuri de la nord la sud.",
+        "en": "Click these places from north to south."
+      },
+      "poiIds": [
+        "kosovo-gjeravica-cities-v2",
+        "xk-gjakova",
+        "xk-prizren",
+        "kosovo-prevalla-cities-v2",
+        "kosovo-brod-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "kosovo-gjeravica-cities-v2",
+        "xk-gjakova",
+        "xk-prizren",
+        "kosovo-prevalla-cities-v2",
+        "kosovo-brod-cities-v2"
+      ]
+    },
+    {
+      "id": "xk-sequence-west-east-south",
+      "type": "sequence",
+      "question": {
+        "de": "Ordne diese südlichen Orte von West nach Ost.",
+        "hu": "Rendezd ezeket a déli helyeket nyugatról keletre.",
+        "ro": "Ordonează aceste locuri sudice de la vest la est.",
+        "en": "Order these southern places from west to east."
+      },
+      "poiIds": [
+        "xk-dragash",
+        "kosovo-brod-cities-v2",
+        "kosovo-prevalla-cities-v2",
+        "kosovo-ferizaj-cities-v2",
+        "xk-pogragja-castle"
+      ],
+      "orderedPoiIds": [
+        "xk-dragash",
+        "kosovo-brod-cities-v2",
+        "kosovo-prevalla-cities-v2",
+        "kosovo-ferizaj-cities-v2",
+        "xk-pogragja-castle"
+      ]
+    }
+  ]
+}

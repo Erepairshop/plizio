@@ -1,0 +1,309 @@
+{
+  "tz": [
+    {
+      "id": "tz-find-moshi-kilimanjaro",
+      "type": "find_poi",
+      "targetPoiId": "tz-moshi-cities-v2",
+      "question": {
+        "de": "Finde Moshi am Fuß des Kilimandscharo.",
+        "hu": "Keresd meg Moshit a Kilimandzsáró lábánál.",
+        "ro": "Găsește Moshi la poalele Kilimanjaro.",
+        "en": "Find Moshi at the foot of Mount Kilimanjaro."
+      }
+    },
+    {
+      "id": "tz-find-stone-town-zanzibar",
+      "type": "find_poi",
+      "targetPoiId": "tz-stone-town-history-v2",
+      "question": {
+        "de": "Finde Stone Town, das historische Herz von Sansibar.",
+        "hu": "Keresd meg Stone Townt, Zanzibár történelmi szívét.",
+        "ro": "Găsește Stone Town, centrul istoric al Zanzibarului.",
+        "en": "Find Stone Town, the historic heart of Zanzibar."
+      }
+    },
+    {
+      "id": "tz-find-kilwa-kisiwani-ruins",
+      "type": "find_poi",
+      "targetPoiId": "tz-kilwa-kisiwani-history-v2",
+      "question": {
+        "de": "Finde die Ruinen von Kilwa Kisiwani an der Südküste.",
+        "hu": "Keresd meg Kilwa Kisiwani romjait a déli partvidéken.",
+        "ro": "Găsește ruinele din Kilwa Kisiwani pe coasta sudică.",
+        "en": "Find the ruins of Kilwa Kisiwani on the southern coast."
+      }
+    },
+    {
+      "id": "tz-find-serengeti-park",
+      "type": "find_poi",
+      "targetPoiId": "tanzania-serengeti-national-park-cities-v2",
+      "question": {
+        "de": "Finde den Serengeti-Nationalpark im Norden Tansanias.",
+        "hu": "Keresd meg a Serengeti Nemzeti Parkot Tanzánia északi részén.",
+        "ro": "Găsește Parcul Național Serengeti în nordul Tanzaniei.",
+        "en": "Find Serengeti National Park in northern Tanzania."
+      }
+    },
+    {
+      "id": "tz-find-ruaha-park",
+      "type": "find_poi",
+      "targetPoiId": "tanzania-ruaha-national-park-cities-v2",
+      "question": {
+        "de": "Finde den Ruaha-Nationalpark im südlichen Binnenland.",
+        "hu": "Keresd meg a Ruaha Nemzeti Parkot a déli belső területen.",
+        "ro": "Găsește Parcul Național Ruaha în interiorul sudic al țării.",
+        "en": "Find Ruaha National Park in the southern interior."
+      }
+    },
+    {
+      "id": "tz-region-kagera-northwest",
+      "type": "find_region",
+      "targetRegionId": "TZA-3360",
+      "question": {
+        "de": "Klicke auf die Region Kagera im äußersten Nordwesten.",
+        "hu": "Kattints a legészaknyugatibb Kagera régióra.",
+        "ro": "Apasă pe regiunea Kagera din extremitatea nord-vestică.",
+        "en": "Click Kagera Region in the far northwest."
+      }
+    },
+    {
+      "id": "tz-region-manyara-north-central",
+      "type": "find_region",
+      "targetRegionId": "TZA-3392",
+      "question": {
+        "de": "Finde die Region Manyara im nördlichen Zentrum.",
+        "hu": "Keresd meg a közép-északi Manyara régiót.",
+        "ro": "Găsește regiunea Manyara din partea central-nordică.",
+        "en": "Find the Manyara Region in the north-central part of the country."
+      }
+    },
+    {
+      "id": "tz-region-dar-es-salaam-coast",
+      "type": "find_region",
+      "targetRegionId": "TZA-3378",
+      "question": {
+        "de": "Klicke auf die Region Dar-es-Salaam an der Ostküste.",
+        "hu": "Kattints a keleti parton fekvő Dar-es-Salaam régióra.",
+        "ro": "Apasă pe regiunea Dar-es-Salaam de pe coasta estică.",
+        "en": "Click the Dar-es-Salaam Region on the eastern coast."
+      }
+    },
+    {
+      "id": "tz-region-kilimanjaro-northeast",
+      "type": "find_region",
+      "targetRegionId": "TZA-3393",
+      "question": {
+        "de": "Finde die Region Kilimanjaro an der nordöstlichen Grenze.",
+        "hu": "Keresd meg a Kilimanjaro régiót az északkeleti határnál.",
+        "ro": "Găsește regiunea Kilimanjaro de la granița nord-estică.",
+        "en": "Find Kilimanjaro Region along the northeastern border."
+      }
+    },
+    {
+      "id": "tz-region-ruvuma-south",
+      "type": "find_region",
+      "targetRegionId": "TZA-3389",
+      "question": {
+        "de": "Klicke auf die Region Ruvuma im äußersten Süden.",
+        "hu": "Kattints a legdélibb Ruvuma régióra.",
+        "ro": "Apasă pe regiunea Ruvuma din extremitatea sudică.",
+        "en": "Click Ruvuma Region in the far south."
+      }
+    },
+    {
+      "id": "tz-odd-not-lake-victoria-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "tz-mwanza-cities-v2",
+        "tz-musoma-cities-v2",
+        "tz-bukoba-cities-v2",
+        "tz-dodoma-cities-v2"
+      ],
+      "targetPoiId": "tz-dodoma-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt nicht am Viktoriasee?",
+        "hu": "Melyik város nem a Viktória-tó partján fekszik?",
+        "ro": "Care dintre aceste orașe nu se află pe Lacul Victoria?",
+        "en": "Which of these cities is not on Lake Victoria?"
+      }
+    },
+    {
+      "id": "tz-odd-not-zanzibar-archipelago",
+      "type": "odd_one_out",
+      "poiIds": [
+        "tz-stone-town-history-v2",
+        "pemba-insel-nature-v2",
+        "mafia-insel-nature-v2",
+        "tz-olduvai-gorge-history-v2"
+      ],
+      "targetPoiId": "tz-olduvai-gorge-history-v2",
+      "question": {
+        "de": "Welcher Ort gehört nicht zur Inselwelt Tansanias im Indischen Ozean?",
+        "hu": "Melyik hely nem Tanzánia Indiai-óceáni szigetvilágához tartozik?",
+        "ro": "Care loc nu aparține lumii insulare a Tanzaniei din Oceanul Indian?",
+        "en": "Which place does not belong to Tanzania's Indian Ocean island world?"
+      }
+    },
+    {
+      "id": "tz-odd-not-western-park",
+      "type": "odd_one_out",
+      "poiIds": [
+        "tanzania-gombe-national-park-cities-v2",
+        "tanzania-katavi-national-park-cities-v2",
+        "tanzania-serengeti-national-park-cities-v2",
+        "tz-tanga-cities-v2"
+      ],
+      "targetPoiId": "tz-tanga-cities-v2",
+      "question": {
+        "de": "Welcher Ort ist kein Nationalpark im Westen oder Nordwesten Tansanias?",
+        "hu": "Melyik hely nem nemzeti park Tanzánia nyugati vagy északnyugati részén?",
+        "ro": "Care loc nu este un parc național din vestul sau nord-vestul Tanzaniei?",
+        "en": "Which place is not a national park in western or northwestern Tanzania?"
+      }
+    },
+    {
+      "id": "tz-odd-not-southern-coast",
+      "type": "odd_one_out",
+      "poiIds": [
+        "tz-lindi-cities-v2",
+        "tz-mtwara-cities-v2",
+        "tz-kilwa-kisiwani-history-v2",
+        "tz-tanga-cities-v2"
+      ],
+      "targetPoiId": "tz-tanga-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht an Tansanias Südküste?",
+        "hu": "Melyik hely nem Tanzánia déli partvidékén található?",
+        "ro": "Care dintre aceste locuri nu se află pe coasta sudică a Tanzaniei?",
+        "en": "Which of these places is not on Tanzania's southern coast?"
+      }
+    },
+    {
+      "id": "tz-odd-not-tanganyika-basin",
+      "type": "odd_one_out",
+      "poiIds": [
+        "tz-kigoma-cities-v2",
+        "tanzania-gombe-national-park-cities-v2",
+        "tanganyika-see-nature-v2",
+        "tz-mwanza-cities-v2"
+      ],
+      "targetPoiId": "tz-mwanza-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht am Tanganjikasee oder an seinem Ufer?",
+        "hu": "Melyik hely nem a Tanganyika-tónál vagy annak partján fekszik?",
+        "ro": "Care loc nu se află pe Lacul Tanganyika sau pe malul lui?",
+        "en": "Which place is not on Lake Tanganyika or its shore?"
+      }
+    },
+    {
+      "id": "tz-sequence-west-east-kigoma-tabora-dodoma-dar",
+      "type": "sequence",
+      "poiIds": [
+        "tz-kigoma-cities-v2",
+        "tz-tabora-cities-v2",
+        "tz-dodoma-cities-v2",
+        "tz-dar-es-salaam-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "tz-kigoma-cities-v2",
+        "tz-tabora-cities-v2",
+        "tz-dodoma-cities-v2",
+        "tz-dar-es-salaam-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Kigoma, Tabora, Dodoma und Dar es Salaam von Westen nach Osten an.",
+        "hu": "Kattints Kigomára, Taborára, Dodomára és Dar es Salaamra nyugatról keletre.",
+        "ro": "Apasă Kigoma, Tabora, Dodoma și Dar es Salaam de la vest la est.",
+        "en": "Click Kigoma, Tabora, Dodoma and Dar es Salaam from west to east."
+      }
+    },
+    {
+      "id": "tz-sequence-north-south-bukoba-mwanza-dodoma-mbeya",
+      "type": "sequence",
+      "poiIds": [
+        "tz-bukoba-cities-v2",
+        "tz-mwanza-cities-v2",
+        "tz-dodoma-cities-v2",
+        "tz-mbeya-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "tz-bukoba-cities-v2",
+        "tz-mwanza-cities-v2",
+        "tz-dodoma-cities-v2",
+        "tz-mbeya-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Bukoba, Mwanza, Dodoma und Mbeya von Norden nach Süden an.",
+        "hu": "Kattints Bukobára, Mwanzára, Dodomára és Mbeyára északról délre.",
+        "ro": "Apasă Bukoba, Mwanza, Dodoma și Mbeya de la nord la sud.",
+        "en": "Click Bukoba, Mwanza, Dodoma and Mbeya from north to south."
+      }
+    },
+    {
+      "id": "tz-sequence-west-east-katavi-mbeya-iringa-morogoro",
+      "type": "sequence",
+      "poiIds": [
+        "tanzania-katavi-national-park-cities-v2",
+        "tz-mbeya-cities-v2",
+        "tz-iringa-cities-v2",
+        "tz-morogoro-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "tanzania-katavi-national-park-cities-v2",
+        "tz-mbeya-cities-v2",
+        "tz-iringa-cities-v2",
+        "tz-morogoro-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke den Katavi-Nationalpark, Mbeya, Iringa und Morogoro von Westen nach Osten an.",
+        "hu": "Kattints a Katavi Nemzeti Parkra, Mbeyára, Iringára és Morogoróra nyugatról keletre.",
+        "ro": "Apasă Parcul Național Katavi, Mbeya, Iringa și Morogoro de la vest la est.",
+        "en": "Click Katavi National Park, Mbeya, Iringa and Morogoro from west to east."
+      }
+    },
+    {
+      "id": "tz-sequence-north-south-kilimanjaro-arusha-babati-dodoma",
+      "type": "sequence",
+      "poiIds": [
+        "kilimanjaro-relief-v2",
+        "tz-arusha-cities-v2",
+        "tz-babati-cities-v2",
+        "tz-dodoma-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "kilimanjaro-relief-v2",
+        "tz-arusha-cities-v2",
+        "tz-babati-cities-v2",
+        "tz-dodoma-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Kilimandscharo, Arusha, Babati und Dodoma von Norden nach Süden an.",
+        "hu": "Kattints a Kilimandzsáróra, Arushára, Babatira és Dodomára északról délre.",
+        "ro": "Apasă Kilimanjaro, Arusha, Babati și Dodoma de la nord la sud.",
+        "en": "Click Kilimanjaro, Arusha, Babati and Dodoma from north to south."
+      }
+    },
+    {
+      "id": "tz-sequence-north-south-pemba-stone-town-mafia-mtwara",
+      "type": "sequence",
+      "poiIds": [
+        "pemba-insel-nature-v2",
+        "tz-stone-town-history-v2",
+        "mafia-insel-nature-v2",
+        "tz-mtwara-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "pemba-insel-nature-v2",
+        "tz-stone-town-history-v2",
+        "mafia-insel-nature-v2",
+        "tz-mtwara-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Pemba, Stone Town, Mafia Island und Mtwara von Norden nach Süden an.",
+        "hu": "Kattints Pembára, Stone Townra, Mafia-szigetre és Mtwarára északról délre.",
+        "ro": "Apasă Pemba, Stone Town, Insula Mafia și Mtwara de la nord la sud.",
+        "en": "Click Pemba, Stone Town, Mafia Island and Mtwara from north to south."
+      }
+    }
+  ]
+}

@@ -1,0 +1,292 @@
+{
+  "ss": [
+    {
+      "id": "ss-find-yei-southwest",
+      "type": "find_poi",
+      "targetPoiId": "yei-cities-v2",
+      "question": {
+        "de": "Finde Yei im S?dwesten nahe der Grenze zu Uganda.",
+        "hu": "Keresd meg Yei v?ros?t d?lnyugaton, Uganda hat?r?nak k?zel?ben.",
+        "ro": "G?se?te Yei ?n sud-vest, aproape de grani?a cu Uganda.",
+        "en": "Find Yei in the southwest near the border with Uganda."
+      }
+    },
+    {
+      "id": "ss-find-renk-far-north",
+      "type": "find_poi",
+      "targetPoiId": "renk-cities-v2",
+      "question": {
+        "de": "Finde Renk ganz im Norden an der Grenze zum Sudan.",
+        "hu": "Keresd meg Renk v?ros?t eg?szen ?szakon, Szud?n hat?r?n.",
+        "ro": "G?se?te Renk ?n extremul nord, la grani?a cu Sudanul.",
+        "en": "Find Renk in the far north on the border with Sudan."
+      }
+    },
+    {
+      "id": "ss-find-rumbek-lakes",
+      "type": "find_poi",
+      "targetPoiId": "rumbek-cities-v2",
+      "question": {
+        "de": "Finde Rumbek in der Lakes-Region.",
+        "hu": "Keresd meg Rumbek v?ros?t a Lakes r?gi?ban.",
+        "ro": "G?se?te Rumbek ?n regiunea Lakes.",
+        "en": "Find Rumbek in the Lakes region."
+      }
+    },
+    {
+      "id": "ss-find-boma-national-park",
+      "type": "find_poi",
+      "targetPoiId": "boma-nationalpark-life-v2",
+      "question": {
+        "de": "Finde den Boma-Nationalpark im Osten des Landes.",
+        "hu": "Keresd meg a Boma Nemzeti Parkot az orsz?g keleti r?sz?n.",
+        "ro": "G?se?te Parcul Na?ional Boma ?n estul ??rii.",
+        "en": "Find Boma National Park in the east of the country."
+      }
+    },
+    {
+      "id": "ss-find-mount-kinyeti",
+      "type": "find_poi",
+      "targetPoiId": "mount-kinyeti-nature-v2",
+      "question": {
+        "de": "Finde Mount Kinyeti im Imatong-Gebirge.",
+        "hu": "Keresd meg a Kinyeti-hegyet az Imatong-hegys?gben.",
+        "ro": "G?se?te Muntele Kinyeti ?n Mun?ii Imatong.",
+        "en": "Find Mount Kinyeti in the Imatong Mountains."
+      }
+    },
+    {
+      "id": "ss-find-white-nile",
+      "type": "find_poi",
+      "targetPoiId": "white-nile-southsudan-nature-v2",
+      "question": {
+        "de": "Finde den Wei?en Nil auf der Karte.",
+        "hu": "Keresd meg a Feh?r-N?lust a t?rk?pen.",
+        "ro": "G?se?te Nilul Alb pe hart?.",
+        "en": "Find the White Nile on the map."
+      }
+    },
+    {
+      "id": "ss-find-bentiu-oil-refinery",
+      "type": "find_poi",
+      "targetPoiId": "bentiu-oil-refinery-economic-v2",
+      "question": {
+        "de": "Finde die Raffinerie von Bentiu im ?lreichen Norden.",
+        "hu": "Keresd meg a bentiui olajfinom?t?t az olajban gazdag ?szaki vid?ken.",
+        "ro": "G?se?te rafin?ria din Bentiu ?n nordul bogat ?n petrol.",
+        "en": "Find the Bentiu oil refinery in the oil-rich north."
+      }
+    },
+    {
+      "id": "ss-region-sds-871-unity",
+      "type": "find_region",
+      "targetRegionId": "SDS-871",
+      "question": {
+        "de": "Klicke auf die Region Unity rund um Bentiu.",
+        "hu": "Kattints Unity r?gi?j?ra Bentiu k?rny?k?n.",
+        "ro": "Apas? pe regiunea Unity din jurul ora?ului Bentiu.",
+        "en": "Click the Unity region around Bentiu."
+      }
+    },
+    {
+      "id": "ss-region-sds-870-jonglei",
+      "type": "find_region",
+      "targetRegionId": "SDS-870",
+      "question": {
+        "de": "Klicke auf die Region Jonglei mit Bor.",
+        "hu": "Kattints Jonglei r?gi?j?ra, ahol Bor is tal?lhat?.",
+        "ro": "Apas? pe regiunea Jonglei, unde se afl? Bor.",
+        "en": "Click the Jonglei region with Bor."
+      }
+    },
+    {
+      "id": "ss-region-sds-863-lakes",
+      "type": "find_region",
+      "targetRegionId": "SDS-863",
+      "question": {
+        "de": "Klicke auf die Region Lakes mit Rumbek.",
+        "hu": "Kattints a Lakes r?gi?ra Rumbek v?ros?val.",
+        "ro": "Apas? pe regiunea Lakes, cu ora?ul Rumbek.",
+        "en": "Click the Lakes region with Rumbek."
+      }
+    },
+    {
+      "id": "ss-region-sds-872-warrap",
+      "type": "find_region",
+      "targetRegionId": "SDS-872",
+      "question": {
+        "de": "Klicke auf die Region Warrap mit Kuajok.",
+        "hu": "Kattints Warrap r?gi?j?ra Kuajok v?ros?val.",
+        "ro": "Apas? pe regiunea Warrap, unde se afl? Kuajok.",
+        "en": "Click the Warrap region with Kuajok."
+      }
+    },
+    {
+      "id": "ss-region-sds-147-northern-bahr-el-ghazal",
+      "type": "find_region",
+      "targetRegionId": "SDS-147",
+      "question": {
+        "de": "Klicke auf die Region Northern Bahr el Ghazal mit Aweil.",
+        "hu": "Kattints Northern Bahr el Ghazal r?gi?j?ra Aweil v?ros?val.",
+        "ro": "Apas? pe regiunea Northern Bahr el Ghazal, unde se afl? Aweil.",
+        "en": "Click the Northern Bahr el Ghazal region with Aweil."
+      }
+    },
+    {
+      "id": "ss-odd-north-renk",
+      "type": "odd_one_out",
+      "poiIds": [
+        "renk-cities-v2",
+        "aweil-cities-v2",
+        "bor-cities-v2",
+        "nimule-cities-v2"
+      ],
+      "targetPoiId": "renk-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten n?rdlich?",
+        "hu": "Ezek k?z?l melyik hely fekszik a leg?szakabbra?",
+        "ro": "Care dintre aceste locuri se afl? cel mai la nord?",
+        "en": "Which of these places lies furthest north?"
+      }
+    },
+    {
+      "id": "ss-odd-east-kapoeta",
+      "type": "odd_one_out",
+      "poiIds": [
+        "yei-cities-v2",
+        "bentiu-cities-v2",
+        "raja-cities-v2",
+        "kapoeta-cities-v2"
+      ],
+      "targetPoiId": "kapoeta-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten ?stlich?",
+        "hu": "Ezek k?z?l melyik hely fekszik a legkeletebbre?",
+        "ro": "Care dintre aceste locuri se afl? cel mai la est?",
+        "en": "Which of these places lies furthest east?"
+      }
+    },
+    {
+      "id": "ss-odd-west-raja",
+      "type": "odd_one_out",
+      "poiIds": [
+        "raja-cities-v2",
+        "aweil-cities-v2",
+        "rumbek-cities-v2",
+        "bor-cities-v2"
+      ],
+      "targetPoiId": "raja-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten westlich?",
+        "hu": "Ezek k?z?l melyik hely fekszik a legnyugatabbra?",
+        "ro": "Care dintre aceste locuri se afl? cel mai la vest?",
+        "en": "Which of these places lies furthest west?"
+      }
+    },
+    {
+      "id": "ss-odd-south-nimule",
+      "type": "odd_one_out",
+      "poiIds": [
+        "kapoeta-cities-v2",
+        "yei-cities-v2",
+        "nimule-cities-v2",
+        "torit-cities-v2"
+      ],
+      "targetPoiId": "nimule-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten s?dlich?",
+        "hu": "Ezek k?z?l melyik hely fekszik a legd?lebbre?",
+        "ro": "Care dintre aceste locuri se afl? cel mai la sud?",
+        "en": "Which of these places lies furthest south?"
+      }
+    },
+    {
+      "id": "ss-sequence-west-east-towns",
+      "type": "sequence",
+      "poiIds": [
+        "raja-cities-v2",
+        "aweil-cities-v2",
+        "kuajok-cities-v2",
+        "bor-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "raja-cities-v2",
+        "aweil-cities-v2",
+        "kuajok-cities-v2",
+        "bor-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Raja, Aweil, Kuajok, Bor von Westen nach Osten an.",
+        "hu": "Kattints ezekre nyugatr?l keletre: Raja, Aweil, Kuajok, Bor.",
+        "ro": "Apas? ?n ordine de la vest la est: Raja, Aweil, Kuajok, Bor.",
+        "en": "Click from west to east: Raja, Aweil, Kuajok, Bor."
+      }
+    },
+    {
+      "id": "ss-sequence-south-north-cities",
+      "type": "sequence",
+      "poiIds": [
+        "nimule-cities-v2",
+        "torit-cities-v2",
+        "yirol-cities-v2",
+        "renk-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "nimule-cities-v2",
+        "torit-cities-v2",
+        "yirol-cities-v2",
+        "renk-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Nimule, Torit, Yirol, Renk von S?den nach Norden an.",
+        "hu": "Kattints ezekre d?lr?l ?szakra: Nimule, Torit, Yirol, Renk.",
+        "ro": "Apas? ?n ordine de la sud la nord: Nimule, Torit, Yirol, Renk.",
+        "en": "Click from south to north: Nimule, Torit, Yirol, Renk."
+      }
+    },
+    {
+      "id": "ss-sequence-west-east-nature",
+      "type": "sequence",
+      "poiIds": [
+        "lantoto-nationalpark-life-v2",
+        "white-nile-southsudan-nature-v2",
+        "mount-kinyeti-nature-v2",
+        "boma-nationalpark-life-v2"
+      ],
+      "orderedPoiIds": [
+        "lantoto-nationalpark-life-v2",
+        "white-nile-southsudan-nature-v2",
+        "mount-kinyeti-nature-v2",
+        "boma-nationalpark-life-v2"
+      ],
+      "question": {
+        "de": "Klicke Lantoto-Nationalpark, Wei?er Nil, Mount Kinyeti, Boma-Nationalpark von Westen nach Osten an.",
+        "hu": "Kattints ezekre nyugatr?l keletre: Lantoto Nemzeti Park, Feh?r-N?lus, Kinyeti-hegy, Boma Nemzeti Park.",
+        "ro": "Apas? ?n ordine de la vest la est: Parcul Na?ional Lantoto, Nilul Alb, Muntele Kinyeti, Parcul Na?ional Boma.",
+        "en": "Click from west to east: Lantoto National Park, White Nile, Mount Kinyeti, Boma National Park."
+      }
+    },
+    {
+      "id": "ss-sequence-south-north-east-corridor",
+      "type": "sequence",
+      "poiIds": [
+        "south-sudan-fula-rapids-cities-v2",
+        "torit-cities-v2",
+        "kapoeta-cities-v2",
+        "pibor-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "south-sudan-fula-rapids-cities-v2",
+        "torit-cities-v2",
+        "kapoeta-cities-v2",
+        "pibor-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Fula Rapids, Torit, Kapoeta, Pibor von S?den nach Norden an.",
+        "hu": "Kattints ezekre d?lr?l ?szakra: Fula Rapids, Torit, Kapoeta, Pibor.",
+        "ro": "Apas? ?n ordine de la sud la nord: Fula Rapids, Torit, Kapoeta, Pibor.",
+        "en": "Click from south to north: Fula Rapids, Torit, Kapoeta, Pibor."
+      }
+    }
+  ]
+}

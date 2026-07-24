@@ -1,0 +1,324 @@
+{
+  "gt": [
+    {
+      "id": "gt-find-quirigua",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde die Maya-Stätte Quiriguá im Motagua-Tal.",
+        "hu": "Keresd meg a Motagua-völgyben fekvő Quiriguá maja lelőhelyet.",
+        "ro": "Găsește situl mayaș Quiriguá din valea Motagua.",
+        "en": "Find the Maya site of Quiriguá in the Motagua Valley."
+      },
+      "targetPoiId": "gt-quirigua"
+    },
+    {
+      "id": "gt-find-pacaya",
+      "type": "find_poi",
+      "question": {
+        "de": "Zeige den Vulkan Pacaya südlich der Hauptstadt.",
+        "hu": "Mutasd meg a fővárostól délre fekvő Pacaya vulkánt.",
+        "ro": "Arată vulcanul Pacaya aflat la sud de capitală.",
+        "en": "Point to Pacaya Volcano south of the capital."
+      },
+      "targetPoiId": "gt-pacaya"
+    },
+    {
+      "id": "gt-find-el-mirador",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde El Mirador tief im Norden von Petén.",
+        "hu": "Keresd meg El Miradort Petén legészakibb részén.",
+        "ro": "Găsește El Mirador adânc în nordul departamentului Petén.",
+        "en": "Find El Mirador deep in northern Petén."
+      },
+      "targetPoiId": "gt-el-mirador"
+    },
+    {
+      "id": "gt-find-esquipulas",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Esquipulas nahe der Grenze zu Honduras?",
+        "hu": "Hol található Esquipulas Honduras határának közelében?",
+        "ro": "Unde se află Esquipulas, aproape de granița cu Honduras?",
+        "en": "Where is Esquipulas near the Honduran border?"
+      },
+      "targetPoiId": "gt-esquipulas-cities-v2"
+    },
+    {
+      "id": "gt-find-puerto-quetzal",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde den Pazifikhafen Puerto Quetzal.",
+        "hu": "Keresd meg a Csendes-óceán partján fekvő Puerto Quetzal kikötőt.",
+        "ro": "Găsește portul de la Pacific Puerto Quetzal.",
+        "en": "Find Puerto Quetzal on the Pacific coast."
+      },
+      "targetPoiId": "gt-puerto-quetzal-port-economic-v2"
+    },
+    {
+      "id": "gt-region-sacatepequez",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf Sacatepéquez, wo Antigua Guatemala liegt.",
+        "hu": "Kattints Sacatepéquez megyére, ahol Antigua Guatemala található.",
+        "ro": "Apasă pe Sacatepéquez, unde se află Antigua Guatemala.",
+        "en": "Click Sacatepéquez, where Antigua Guatemala is located."
+      },
+      "targetRegionId": "GTM-1953"
+    },
+    {
+      "id": "gt-region-solola",
+      "type": "find_region",
+      "question": {
+        "de": "Finde Sololá, das Departamento am Atitlánsee.",
+        "hu": "Keresd meg Sololá megyét az Atitlán-tó mellett.",
+        "ro": "Găsește Sololá, departamentul de lângă lacul Atitlán.",
+        "en": "Find Sololá, the department by Lake Atitlán."
+      },
+      "targetRegionId": "GTM-1954"
+    },
+    {
+      "id": "gt-region-san-marcos",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf San Marcos im äußersten Westen Guatemalas.",
+        "hu": "Kattints San Marcos megyére Guatemala legnyugatibb részén.",
+        "ro": "Apasă pe San Marcos din extremul vest al Guatemalei.",
+        "en": "Click San Marcos in far western Guatemala."
+      },
+      "targetRegionId": "GTM-1947"
+    },
+    {
+      "id": "gt-region-santa-rosa",
+      "type": "find_region",
+      "question": {
+        "de": "Finde Santa Rosa an der südöstlichen Pazifikküste.",
+        "hu": "Keresd meg Santa Rosa megyét a délkeleti csendes-óceáni partvidéken.",
+        "ro": "Găsește Santa Rosa de pe coasta Pacificului din sud-est.",
+        "en": "Find Santa Rosa on the southeastern Pacific side."
+      },
+      "targetRegionId": "GTM-1957"
+    },
+    {
+      "id": "gt-region-quiche",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf Quiché im zentralen Hochland.",
+        "hu": "Kattints Quiché megyére a középső felföldön.",
+        "ro": "Apasă pe Quiché din zona înaltă centrală.",
+        "en": "Click Quiché in the central highlands."
+      },
+      "targetRegionId": "GTM-3467"
+    },
+    {
+      "id": "gt-odd-eastern-capitals",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort ist keine Departamento-Hauptstadt im Osten oder Nordosten Guatemalas?",
+        "hu": "Melyik hely nem megyei székhely Guatemala keleti vagy északkeleti részén?",
+        "ro": "Care loc nu este capitală de departament din estul sau nord-estul Guatemalei?",
+        "en": "Which place is not a department capital in eastern or northeastern Guatemala?"
+      },
+      "poiIds": [
+        "gt-puerto-barrios-cities-v2",
+        "gt-zacapa-cities-v2",
+        "gt-chiquimula-cities-v2",
+        "gt-jutiapa-cities-v2",
+        "gt-quirigua"
+      ],
+      "targetPoiId": "gt-quirigua"
+    },
+    {
+      "id": "gt-odd-maya-vs-pilgrimage",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort ist keine Maya-Stätte?",
+        "hu": "Melyik hely nem maja régészeti lelőhely?",
+        "ro": "Care loc nu este un sit arheologic mayaș?",
+        "en": "Which place is not a Maya archaeological site?"
+      },
+      "poiIds": [
+        "gt-tikal",
+        "gt-yaxha",
+        "gt-quirigua",
+        "gt-iximche",
+        "gt-esquipulas-cities-v2"
+      ],
+      "targetPoiId": "gt-esquipulas-cities-v2"
+    },
+    {
+      "id": "gt-odd-volcanoes-and-lake",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort ist kein Vulkan?",
+        "hu": "Melyik hely nem vulkán?",
+        "ro": "Care loc nu este un vulcan?",
+        "en": "Which place is not a volcano?"
+      },
+      "poiIds": [
+        "gt-pacaya",
+        "gt-acatenango",
+        "gt-fuego",
+        "gt-volcan-tajumulco",
+        "gt-lakeatitlan"
+      ],
+      "targetPoiId": "gt-lakeatitlan"
+    },
+    {
+      "id": "gt-odd-atitlan-shore",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort liegt nicht direkt am Atitlánsee?",
+        "hu": "Melyik hely nem közvetlenül az Atitlán-tó partján fekszik?",
+        "ro": "Care loc nu se află direct pe malul lacului Atitlán?",
+        "en": "Which place is not directly on the shore of Lake Atitlán?"
+      },
+      "poiIds": [
+        "gt-panajachel-cities-v2",
+        "gt-santiago-atitlan-cities-v2",
+        "gt-san-pedro-la-laguna-cities-v2",
+        "gt-solola-cities-v2",
+        "gt-chichicastenango"
+      ],
+      "targetPoiId": "gt-chichicastenango"
+    },
+    {
+      "id": "gt-odd-peten-vs-pacific",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort gehört nicht zu den archäologischen oder natürlichen Zielen von Petén?",
+        "hu": "Melyik hely nem Petén régészeti vagy természeti látnivalói közé tartozik?",
+        "ro": "Care loc nu aparține obiectivelor arheologice sau naturale din Petén?",
+        "en": "Which place is not one of Petén's archaeological or natural destinations?"
+      },
+      "poiIds": [
+        "gt-tikal",
+        "gt-yaxha",
+        "gt-el-mirador",
+        "gt-peten-forest",
+        "gt-puerto-quetzal-port-economic-v2"
+      ],
+      "targetPoiId": "gt-puerto-quetzal-port-economic-v2"
+    },
+    {
+      "id": "gt-sequence-west-east-highlands-caribbean",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke von West nach Ost: Tajumulco, Antigua Guatemala, Guatemala-Stadt, Quiriguá, Livingston.",
+        "hu": "Kattints nyugatról keletre: Tajumulco, Antigua Guatemala, Guatemalaváros, Quiriguá, Livingston.",
+        "ro": "Apasă de la vest la est: Tajumulco, Antigua Guatemala, Ciudad de Guatemala, Quiriguá, Livingston.",
+        "en": "Click from west to east: Tajumulco, Antigua Guatemala, Guatemala City, Quiriguá, Livingston."
+      },
+      "poiIds": [
+        "gt-volcan-tajumulco",
+        "gt-antigua",
+        "gt-guatemalacity",
+        "gt-quirigua",
+        "gt-livingston"
+      ],
+      "orderedPoiIds": [
+        "gt-volcan-tajumulco",
+        "gt-antigua",
+        "gt-guatemalacity",
+        "gt-quirigua",
+        "gt-livingston"
+      ]
+    },
+    {
+      "id": "gt-sequence-north-south-peten-to-pacific",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke von Nord nach Süd: El Mirador, Tikal, Flores, Cobán, Escuintla.",
+        "hu": "Kattints északról délre: El Mirador, Tikal, Flores, Cobán, Escuintla.",
+        "ro": "Apasă de la nord la sud: El Mirador, Tikal, Flores, Cobán, Escuintla.",
+        "en": "Click from north to south: El Mirador, Tikal, Flores, Cobán, Escuintla."
+      },
+      "poiIds": [
+        "gt-el-mirador",
+        "gt-tikal",
+        "gt-flores-cities-v2",
+        "gt-coban",
+        "gt-escuintla"
+      ],
+      "orderedPoiIds": [
+        "gt-el-mirador",
+        "gt-tikal",
+        "gt-flores-cities-v2",
+        "gt-coban",
+        "gt-escuintla"
+      ]
+    },
+    {
+      "id": "gt-sequence-west-east-capitals-corridor",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke von West nach Ost: Huehuetenango, Chichicastenango, Guatemala-Stadt, Zacapa, Puerto Barrios.",
+        "hu": "Kattints nyugatról keletre: Huehuetenango, Chichicastenango, Guatemalaváros, Zacapa, Puerto Barrios.",
+        "ro": "Apasă de la vest la est: Huehuetenango, Chichicastenango, Ciudad de Guatemala, Zacapa, Puerto Barrios.",
+        "en": "Click from west to east: Huehuetenango, Chichicastenango, Guatemala City, Zacapa, Puerto Barrios."
+      },
+      "poiIds": [
+        "gt-huehuetenango-cities-v2",
+        "gt-chichicastenango",
+        "gt-guatemalacity",
+        "gt-zacapa-cities-v2",
+        "gt-puerto-barrios-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "gt-huehuetenango-cities-v2",
+        "gt-chichicastenango",
+        "gt-guatemalacity",
+        "gt-zacapa-cities-v2",
+        "gt-puerto-barrios-cities-v2"
+      ]
+    },
+    {
+      "id": "gt-sequence-north-south-caribbean-to-port",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke von Nord nach Süd: Puerto Barrios, Guatemala-Stadt, Antigua Guatemala, Escuintla, Puerto Quetzal.",
+        "hu": "Kattints északról délre: Puerto Barrios, Guatemalaváros, Antigua Guatemala, Escuintla, Puerto Quetzal.",
+        "ro": "Apasă de la nord la sud: Puerto Barrios, Ciudad de Guatemala, Antigua Guatemala, Escuintla, Puerto Quetzal.",
+        "en": "Click from north to south: Puerto Barrios, Guatemala City, Antigua Guatemala, Escuintla, Puerto Quetzal."
+      },
+      "poiIds": [
+        "gt-puerto-barrios-cities-v2",
+        "gt-guatemalacity",
+        "gt-antigua",
+        "gt-escuintla",
+        "gt-puerto-quetzal-port-economic-v2"
+      ],
+      "orderedPoiIds": [
+        "gt-puerto-barrios-cities-v2",
+        "gt-guatemalacity",
+        "gt-antigua",
+        "gt-escuintla",
+        "gt-puerto-quetzal-port-economic-v2"
+      ]
+    },
+    {
+      "id": "gt-sequence-west-east-atitlan-to-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke von West nach Ost: Santiago Atitlán, Sololá, Chichicastenango, Guatemala-Stadt, Chiquimula.",
+        "hu": "Kattints nyugatról keletre: Santiago Atitlán, Sololá, Chichicastenango, Guatemalaváros, Chiquimula.",
+        "ro": "Apasă de la vest la est: Santiago Atitlán, Sololá, Chichicastenango, Ciudad de Guatemala, Chiquimula.",
+        "en": "Click from west to east: Santiago Atitlán, Sololá, Chichicastenango, Guatemala City, Chiquimula."
+      },
+      "poiIds": [
+        "gt-santiago-atitlan-cities-v2",
+        "gt-solola-cities-v2",
+        "gt-chichicastenango",
+        "gt-guatemalacity",
+        "gt-chiquimula-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "gt-santiago-atitlan-cities-v2",
+        "gt-solola-cities-v2",
+        "gt-chichicastenango",
+        "gt-guatemalacity",
+        "gt-chiquimula-cities-v2"
+      ]
+    }
+  ]
+}

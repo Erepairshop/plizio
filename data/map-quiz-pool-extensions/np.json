@@ -1,0 +1,300 @@
+{
+  "np": [
+    {
+      "id": "np-find-everest-base-camp",
+      "type": "find_poi",
+      "targetPoiId": "np-everest-base-camp-landmarks-v2",
+      "question": {
+        "de": "Finde das Everest Base Camp im Khumbu-Gebiet.",
+        "hu": "Keresd meg az Everest alaptábort a Khumbu térségében.",
+        "ro": "Găsește tabăra de bază Everest din regiunea Khumbu.",
+        "en": "Find Everest Base Camp in the Khumbu region."
+      }
+    },
+    {
+      "id": "np-find-bhimdatta",
+      "type": "find_poi",
+      "targetPoiId": "bhimdatta-cities-v2",
+      "question": {
+        "de": "Klicke auf Bhimdatta im äußersten Westen Nepals.",
+        "hu": "Kattints Bhimdattára Nepál legnyugatibb részén.",
+        "ro": "Apasă pe Bhimdatta, în extremul vest al Nepalului.",
+        "en": "Click Bhimdatta in far western Nepal."
+      }
+    },
+    {
+      "id": "np-find-lo-manthang",
+      "type": "find_poi",
+      "targetPoiId": "nepal-lo-manthang-cities-v2",
+      "question": {
+        "de": "Finde Lo Manthang im oberen Mustang.",
+        "hu": "Keresd meg Lo Manthangot Felső-Mustangban.",
+        "ro": "Găsește Lo Manthang în Upper Mustang.",
+        "en": "Find Lo Manthang in Upper Mustang."
+      }
+    },
+    {
+      "id": "np-find-gosaikunda",
+      "type": "find_poi",
+      "targetPoiId": "nepal-gosaikunda-cities-v2",
+      "question": {
+        "de": "Finde Gosaikunda nördlich des Kathmandu-Tals.",
+        "hu": "Keresd meg Gosaikundát a Katmandu-völgytől északra.",
+        "ro": "Găsește Gosaikunda la nord de Valea Kathmandu.",
+        "en": "Find Gosaikunda north of the Kathmandu Valley."
+      }
+    },
+    {
+      "id": "np-find-ilam-tea-gardens",
+      "type": "find_poi",
+      "targetPoiId": "ilam-tea-gardens-life-v2",
+      "question": {
+        "de": "Finde die Teegärten von Ilam im Osten Nepals.",
+        "hu": "Keresd meg az ilami teakerteket Nepál keleti részén.",
+        "ro": "Găsește grădinile de ceai din Ilam, în estul Nepalului.",
+        "en": "Find the Ilam Tea Gardens in eastern Nepal."
+      }
+    },
+    {
+      "id": "np-region-karnali",
+      "type": "find_region",
+      "targetRegionId": "NPL-1126",
+      "question": {
+        "de": "Klicke auf die Region Karnali.",
+        "hu": "Kattints Karnali régiójára.",
+        "ro": "Apasă pe regiunea Karnali.",
+        "en": "Click the Karnali region."
+      }
+    },
+    {
+      "id": "np-region-mechi",
+      "type": "find_region",
+      "targetRegionId": "NPL-1135",
+      "question": {
+        "de": "Klicke auf die Region Mechi im äußersten Osten.",
+        "hu": "Kattints a legkeletibb Mechi régióra.",
+        "ro": "Apasă pe regiunea Mechi din extremul est.",
+        "en": "Click the Mechi region in the far east."
+      }
+    },
+    {
+      "id": "np-region-lumbini",
+      "type": "find_region",
+      "targetRegionId": "NPL-1127",
+      "question": {
+        "de": "Finde die Region Lumbini im südwestlichen Nepal.",
+        "hu": "Keresd meg a Lumbini régiót Nepál délnyugati részén.",
+        "ro": "Găsește regiunea Lumbini din sud-vestul Nepalului.",
+        "en": "Find the Lumbini region in southwestern Nepal."
+      }
+    },
+    {
+      "id": "np-region-narayani",
+      "type": "find_region",
+      "targetRegionId": "NPL-1132",
+      "question": {
+        "de": "Klicke auf die Region Narayani.",
+        "hu": "Kattints Narayani régiójára.",
+        "ro": "Apasă pe regiunea Narayani.",
+        "en": "Click the Narayani region."
+      }
+    },
+    {
+      "id": "np-region-sagarmatha",
+      "type": "find_region",
+      "targetRegionId": "NPL-1133",
+      "question": {
+        "de": "Klicke auf die Region Sagarmatha.",
+        "hu": "Kattints Sagarmatha régiójára.",
+        "ro": "Apasă pe regiunea Sagarmatha.",
+        "en": "Click the Sagarmatha region."
+      }
+    },
+    {
+      "id": "np-odd-northern-lake",
+      "type": "odd_one_out",
+      "poiIds": [
+        "bhadrapur-cities-v2",
+        "ghorahi-cities-v2",
+        "nepal-gosaikunda-cities-v2"
+      ],
+      "targetPoiId": "nepal-gosaikunda-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Norden?",
+        "hu": "Melyik hely fekszik a legészakabbra?",
+        "ro": "Care dintre aceste locuri se află cel mai la nord?",
+        "en": "Which of these places lies farthest north?"
+      }
+    },
+    {
+      "id": "np-odd-eastern-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "nepal-bandipur-cities-v2",
+        "birtamod-cities-v2",
+        "kalaiya-cities-v2"
+      ],
+      "targetPoiId": "birtamod-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten im Osten?",
+        "hu": "Melyik város fekszik a legkeletebbre?",
+        "ro": "Care dintre aceste orașe se află cel mai la est?",
+        "en": "Which of these cities lies farthest east?"
+      }
+    },
+    {
+      "id": "np-odd-western-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "bhimdatta-cities-v2",
+        "tikapur-cities-v2",
+        "gulariya-cities-v2"
+      ],
+      "targetPoiId": "bhimdatta-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten im Westen?",
+        "hu": "Melyik város fekszik a legnyugatabbra?",
+        "ro": "Care dintre aceste orașe se află cel mai la vest?",
+        "en": "Which of these cities lies farthest west?"
+      }
+    },
+    {
+      "id": "np-odd-southern-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "np-pathibhara-devi-temple-landmarks-v2",
+        "kalaiya-cities-v2",
+        "nepal-lukla-cities-v2"
+      ],
+      "targetPoiId": "kalaiya-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Süden?",
+        "hu": "Melyik hely fekszik a legdélebbre?",
+        "ro": "Care dintre aceste locuri se află cel mai la sud?",
+        "en": "Which of these places lies farthest south?"
+      }
+    },
+    {
+      "id": "np-odd-northwest-highland",
+      "type": "odd_one_out",
+      "poiIds": [
+        "nepal-lo-manthang-cities-v2",
+        "nepal-namche-bazaar-cities-v2",
+        "nepal-kalinchowk-cities-v2"
+      ],
+      "targetPoiId": "nepal-lo-manthang-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Norden?",
+        "hu": "Melyik hely fekszik a legészakabbra?",
+        "ro": "Care dintre aceste locuri se află cel mai la nord?",
+        "en": "Which of these places lies farthest north?"
+      }
+    },
+    {
+      "id": "np-sequence-farwest-terai-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "bhimdatta-cities-v2",
+        "tikapur-cities-v2",
+        "kohalpur-cities-v2",
+        "ghorahi-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "bhimdatta-cities-v2",
+        "tikapur-cities-v2",
+        "kohalpur-cities-v2",
+        "ghorahi-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Bhimdatta, Tikapur, Kohalpur und Ghorahi von Westen nach Osten an.",
+        "hu": "Kattints Bhimdattára, Tikapurra, Kohalpurra és Ghorahira nyugatról keletre.",
+        "ro": "Apasă pe Bhimdatta, Tikapur, Kohalpur și Ghorahi de la vest la est.",
+        "en": "Click Bhimdatta, Tikapur, Kohalpur and Ghorahi from west to east."
+      }
+    },
+    {
+      "id": "np-sequence-khumbu-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "gokyo-lakes-nature-v2",
+        "nepal-namche-bazaar-cities-v2",
+        "nepal-lukla-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "gokyo-lakes-nature-v2",
+        "nepal-namche-bazaar-cities-v2",
+        "nepal-lukla-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die Gokyo-Seen, Namche Bazaar und Lukla von Norden nach Süden an.",
+        "hu": "Kattints a Gokyo-tavakra, Namche Bazaarra és Luklára északról délre.",
+        "ro": "Apasă pe Lacurile Gokyo, Namche Bazaar și Lukla de la nord la sud.",
+        "en": "Click Gokyo Lakes, Namche Bazaar and Lukla from north to south."
+      }
+    },
+    {
+      "id": "np-sequence-central-hills-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "nepal-bandipur-cities-v2",
+        "np-manakamana-temple-landmarks-v2",
+        "nepal-kathmandu-valley-relief-v2",
+        "nepal-nagarkot-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "nepal-bandipur-cities-v2",
+        "np-manakamana-temple-landmarks-v2",
+        "nepal-kathmandu-valley-relief-v2",
+        "nepal-nagarkot-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Bandipur, den Manakamana-Tempel, das Kathmandu-Tal und Nagarkot von Westen nach Osten an.",
+        "hu": "Kattints Bandipurra, a Manakamana templomra, a Katmandu-völgyre és Nagarkotra nyugatról keletre.",
+        "ro": "Apasă pe Bandipur, Templul Manakamana, Valea Kathmandu și Nagarkot de la vest la est.",
+        "en": "Click Bandipur, Manakamana Temple, Kathmandu Valley and Nagarkot from west to east."
+      }
+    },
+    {
+      "id": "np-sequence-western-highlands-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "rara-lake-nature-v2",
+        "baglung-cities-v2",
+        "nepal-kapilvastu-tilaurakot-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "rara-lake-nature-v2",
+        "baglung-cities-v2",
+        "nepal-kapilvastu-tilaurakot-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke den Rara-See, Baglung und Kapilvastu (Tilaurakot) von Norden nach Süden an.",
+        "hu": "Kattints a Rara-tóra, Baglungra és Kapilvasztura (Tilaurakot) északról délre.",
+        "ro": "Apasă pe Lacul Rara, Baglung și Kapilvastu (Tilaurakot) de la nord la sud.",
+        "en": "Click Rara Lake, Baglung and Kapilvastu (Tilaurakot) from north to south."
+      }
+    },
+    {
+      "id": "np-sequence-eastern-terai-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "siraha-cities-v2",
+        "rajbiraj-cities-v2",
+        "inaruwa-cities-v2",
+        "bhadrapur-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "siraha-cities-v2",
+        "rajbiraj-cities-v2",
+        "inaruwa-cities-v2",
+        "bhadrapur-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Siraha, Rajbiraj, Inaruwa und Bhadrapur von Westen nach Osten an.",
+        "hu": "Kattints Sirahára, Rajbirajra, Inaruwára és Bhadrapurra nyugatról keletre.",
+        "ro": "Apasă pe Siraha, Rajbiraj, Inaruwa și Bhadrapur de la vest la est.",
+        "en": "Click Siraha, Rajbiraj, Inaruwa and Bhadrapur from west to east."
+      }
+    }
+  ]
+}

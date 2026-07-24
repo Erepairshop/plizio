@@ -1,0 +1,304 @@
+{
+  "kh": [
+    {
+      "id": "kh-find-banlung",
+      "type": "find_poi",
+      "targetPoiId": "cambodia-banlung-cities-v2",
+      "question": {
+        "de": "Finde Banlung im Nordosten Kambodschas.",
+        "hu": "Keresd meg Banlungot Kambodzsa északkeleti részén.",
+        "ro": "Găsește Banlung în nord-estul Cambodgiei.",
+        "en": "Find Banlung in northeastern Cambodia."
+      }
+    },
+    {
+      "id": "kh-find-kampot",
+      "type": "find_poi",
+      "targetPoiId": "cambodia-kampot-cities-v2",
+      "question": {
+        "de": "Finde Kampot nahe der Südküste.",
+        "hu": "Keresd meg Kampot városát a déli part közelében.",
+        "ro": "Găsește Kampot aproape de coasta sudică.",
+        "en": "Find Kampot near the southern coast."
+      }
+    },
+    {
+      "id": "kh-find-kratie",
+      "type": "find_poi",
+      "targetPoiId": "cambodia-kratie-cities-v2",
+      "question": {
+        "de": "Finde Kratie am Mekong im Osten des Landes.",
+        "hu": "Keresd meg Kratiét a Mekong mentén, az ország keleti részén.",
+        "ro": "Găsește Kratie pe Mekong, în estul țării.",
+        "en": "Find Kratie on the Mekong in the eastern part of the country."
+      }
+    },
+    {
+      "id": "kh-find-koh-kong",
+      "type": "find_poi",
+      "targetPoiId": "cambodia-koh-kong-cities-v2",
+      "question": {
+        "de": "Finde Koh Kong im Südwesten nahe der thailändischen Grenze.",
+        "hu": "Keresd meg Koh Kongot délnyugaton, a thaiföldi határ közelében.",
+        "ro": "Găsește Koh Kong în sud-vest, aproape de granița cu Thailanda.",
+        "en": "Find Koh Kong in the southwest near the Thai border."
+      }
+    },
+    {
+      "id": "kh-find-bavet",
+      "type": "find_poi",
+      "targetPoiId": "cambodia-bavet-cities-v2",
+      "question": {
+        "de": "Finde Bavet an der Grenze zu Vietnam.",
+        "hu": "Keresd meg Bavetet a vietnámi határnál.",
+        "ro": "Găsește Bavet la granița cu Vietnamul.",
+        "en": "Find Bavet on the border with Vietnam."
+      }
+    },
+    {
+      "id": "kh-find-angkor-wat",
+      "type": "find_poi",
+      "targetPoiId": "angkor-wat-history-v2",
+      "question": {
+        "de": "Finde Angkor Wat bei Siem Reap.",
+        "hu": "Keresd meg Angkorvatot Sziemreap közelében.",
+        "ro": "Găsește Angkor Wat lângă Siem Reap.",
+        "en": "Find Angkor Wat near Siem Reap."
+      }
+    },
+    {
+      "id": "kh-region-phnom-penh",
+      "type": "find_region",
+      "targetRegionId": "KHM-1789",
+      "question": {
+        "de": "Klicke auf Phnom Penh.",
+        "hu": "Kattints Phnompenre.",
+        "ro": "Apasă pe Phnom Penh.",
+        "en": "Click Phnom Penh."
+      }
+    },
+    {
+      "id": "kh-region-kandal",
+      "type": "find_region",
+      "targetRegionId": "KHM-1786",
+      "question": {
+        "de": "Klicke auf die Provinz Kandal.",
+        "hu": "Kattints Kandal tartományra.",
+        "ro": "Apasă pe provincia Kandal.",
+        "en": "Click Kandal Province."
+      }
+    },
+    {
+      "id": "kh-region-kampot",
+      "type": "find_region",
+      "targetRegionId": "KHM-1797",
+      "question": {
+        "de": "Klicke auf die Provinz Kampot.",
+        "hu": "Kattints Kampot tartományra.",
+        "ro": "Apasă pe provincia Kampot.",
+        "en": "Click Kampot Province."
+      }
+    },
+    {
+      "id": "kh-region-banteay-meanchey",
+      "type": "find_region",
+      "targetRegionId": "KHM-1777",
+      "question": {
+        "de": "Klicke auf die Provinz Banteay Meanchey.",
+        "hu": "Kattints Banteay Meanchey tartományra.",
+        "ro": "Apasă pe provincia Banteay Meanchey.",
+        "en": "Click Banteay Meanchey Province."
+      }
+    },
+    {
+      "id": "kh-odd-northern-site",
+      "type": "odd_one_out",
+      "poiIds": [
+        "preah-vihear-history-v2",
+        "cambodia-siem-reap-cities-v2",
+        "cambodia-kampong-cham-cities-v2"
+      ],
+      "targetPoiId": "preah-vihear-history-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Norden?",
+        "hu": "Melyik hely fekszik a legészakabbra?",
+        "ro": "Care dintre aceste locuri se află cel mai la nord?",
+        "en": "Which of these places lies farthest north?"
+      }
+    },
+    {
+      "id": "kh-odd-southern-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "cambodia-kep-cities-v2",
+        "cambodia-phnom-penh-cities-v2",
+        "cambodia-kratie-cities-v2"
+      ],
+      "targetPoiId": "cambodia-kep-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten im Süden?",
+        "hu": "Melyik város fekszik a legdélebbre?",
+        "ro": "Care dintre aceste orașe se află cel mai la sud?",
+        "en": "Which of these cities lies farthest south?"
+      }
+    },
+    {
+      "id": "kh-odd-western-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "cambodia-koh-kong-cities-v2",
+        "cambodia-phnom-penh-cities-v2",
+        "cambodia-bavet-cities-v2"
+      ],
+      "targetPoiId": "cambodia-koh-kong-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten im Westen?",
+        "hu": "Melyik város fekszik a legnyugatabbra?",
+        "ro": "Care dintre aceste orașe se află cel mai la vest?",
+        "en": "Which of these cities lies farthest west?"
+      }
+    },
+    {
+      "id": "kh-odd-eastern-place",
+      "type": "odd_one_out",
+      "poiIds": [
+        "cambodia-banlung-cities-v2",
+        "cambodia-kampong-thom-cities-v2",
+        "cambodia-sihanoukville-cities-v2"
+      ],
+      "targetPoiId": "cambodia-banlung-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Osten?",
+        "hu": "Melyik hely fekszik a legkeletebbre?",
+        "ro": "Care dintre aceste locuri se află cel mai la est?",
+        "en": "Which of these places lies farthest east?"
+      }
+    },
+    {
+      "id": "kh-odd-island-place",
+      "type": "odd_one_out",
+      "poiIds": [
+        "cambodia-koh-rong-cities-v2",
+        "cambodia-kampot-cities-v2",
+        "cambodia-sihanoukville-cities-v2"
+      ],
+      "targetPoiId": "cambodia-koh-rong-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt auf einer Insel?",
+        "hu": "Melyik hely fekszik szigeten?",
+        "ro": "Care dintre aceste locuri se află pe o insulă?",
+        "en": "Which of these places is on an island?"
+      }
+    },
+    {
+      "id": "kh-sequence-northeast-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "cambodia-banlung-cities-v2",
+        "cambodia-stung-treng-cities-v2",
+        "cambodia-kratie-cities-v2",
+        "cambodia-phnom-penh-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "cambodia-banlung-cities-v2",
+        "cambodia-stung-treng-cities-v2",
+        "cambodia-kratie-cities-v2",
+        "cambodia-phnom-penh-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Banlung, Stung Treng, Kratie und Phnom Penh von Norden nach Süden an.",
+        "hu": "Kattints Banlungra, Stung Trengre, Kratiéra és Phnompenre északról délre.",
+        "ro": "Apasă pe Banlung, Stung Treng, Kratie și Phnom Penh de la nord la sud.",
+        "en": "Click Banlung, Stung Treng, Kratie and Phnom Penh from north to south."
+      }
+    },
+    {
+      "id": "kh-sequence-southwest-east",
+      "type": "sequence",
+      "poiIds": [
+        "cambodia-koh-kong-cities-v2",
+        "cambodia-kampong-speu-cities-v2",
+        "cambodia-phnom-penh-cities-v2",
+        "cambodia-bavet-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "cambodia-koh-kong-cities-v2",
+        "cambodia-kampong-speu-cities-v2",
+        "cambodia-phnom-penh-cities-v2",
+        "cambodia-bavet-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Koh Kong, Kampong Speu, Phnom Penh und Bavet von Westen nach Osten an.",
+        "hu": "Kattints Koh Kongra, Kampong Speura, Phnompenre és Bavetre nyugatról keletre.",
+        "ro": "Apasă pe Koh Kong, Kampong Speu, Phnom Penh și Bavet de la vest la est.",
+        "en": "Click Koh Kong, Kampong Speu, Phnom Penh and Bavet from west to east."
+      }
+    },
+    {
+      "id": "kh-sequence-mekong-corridor",
+      "type": "sequence",
+      "poiIds": [
+        "cambodia-stung-treng-cities-v2",
+        "cambodia-kratie-cities-v2",
+        "cambodia-kampong-cham-cities-v2",
+        "cambodia-neak-loeung-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "cambodia-stung-treng-cities-v2",
+        "cambodia-kratie-cities-v2",
+        "cambodia-kampong-cham-cities-v2",
+        "cambodia-neak-loeung-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Stung Treng, Kratie, Kampong Cham und Neak Loeung von Norden nach Süden an.",
+        "hu": "Kattints Stung Trengre, Kratiéra, Kampong Chamra és Neak Loeungra északról délre.",
+        "ro": "Apasă pe Stung Treng, Kratie, Kampong Cham și Neak Loeung de la nord la sud.",
+        "en": "Click Stung Treng, Kratie, Kampong Cham and Neak Loeung from north to south."
+      }
+    },
+    {
+      "id": "kh-sequence-gulf-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "cambodia-koh-rong-cities-v2",
+        "cambodia-sihanoukville-cities-v2",
+        "cambodia-kampot-cities-v2",
+        "cambodia-kep-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "cambodia-koh-rong-cities-v2",
+        "cambodia-sihanoukville-cities-v2",
+        "cambodia-kampot-cities-v2",
+        "cambodia-kep-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Koh Rong, Sihanoukville, Kampot und Kep von Westen nach Osten an.",
+        "hu": "Kattints Koh Rongra, Sihanoukville-re, Kampotra és Kepre nyugatról keletre.",
+        "ro": "Apasă pe Koh Rong, Sihanoukville, Kampot și Kep de la vest la est.",
+        "en": "Click Koh Rong, Sihanoukville, Kampot and Kep from west to east."
+      }
+    },
+    {
+      "id": "kh-sequence-angkor-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "bayon-temple-history-v2",
+        "ta-prohm-history-v2",
+        "banteay-srei-history-v2",
+        "beng-mealea-history-v2"
+      ],
+      "orderedPoiIds": [
+        "bayon-temple-history-v2",
+        "ta-prohm-history-v2",
+        "banteay-srei-history-v2",
+        "beng-mealea-history-v2"
+      ],
+      "question": {
+        "de": "Klicke Bayon-Tempel, Ta Prohm, Banteay Srei und Beng Mealea von Westen nach Osten an.",
+        "hu": "Kattints a Bayon-templomra, Ta Prohmra, Banteay Sreire és Beng Mealeára nyugatról keletre.",
+        "ro": "Apasă pe templul Bayon, Ta Prohm, Banteay Srei și Beng Mealea de la vest la est.",
+        "en": "Click Bayon Temple, Ta Prohm, Banteay Srei and Beng Mealea from west to east."
+      }
+    }
+  ]
+}

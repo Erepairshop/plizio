@@ -1,0 +1,320 @@
+{
+  "bn": [
+    {
+      "id": "bnx-find-muara",
+      "type": "find_poi",
+      "targetPoiId": "muara-cities-v2",
+      "question": {
+        "de": "Finde Muara an der nordöstlichen Küste Bruneis.",
+        "hu": "Keresd meg Muarát Brunei északkeleti partján.",
+        "ro": "Găsește Muara pe coasta de nord-est a Bruneiului.",
+        "en": "Find Muara on Brunei's northeastern coast."
+      }
+    },
+    {
+      "id": "bnx-find-jerudong-park",
+      "type": "find_poi",
+      "targetPoiId": "jerudong-park-landmarks-v2",
+      "question": {
+        "de": "Klicke auf den Jerudong Park westlich der Hauptstadtregion.",
+        "hu": "Kattints a fővárosi térségtől nyugatra fekvő Jerudong Parkra.",
+        "ro": "Apasă pe Jerudong Park, la vest de regiunea capitalei.",
+        "en": "Click Jerudong Park west of the capital region."
+      }
+    },
+    {
+      "id": "bnx-find-tasek-merimbun",
+      "type": "find_poi",
+      "targetPoiId": "tasek-merimbun-landmarks-v2",
+      "question": {
+        "de": "Finde Tasek Merimbun im Landesinneren des Distrikts Tutong.",
+        "hu": "Keresd meg a Tutong körzet belsejében fekvő Tasek Merimbunt.",
+        "ro": "Găsește Tasek Merimbun în interiorul districtului Tutong.",
+        "en": "Find Tasek Merimbun in the interior of Tutong District."
+      }
+    },
+    {
+      "id": "bnx-find-ulu-temburong",
+      "type": "find_poi",
+      "targetPoiId": "bn-ulu-temburong-national-park-nature-v2",
+      "question": {
+        "de": "Finde den Ulu-Temburong-Nationalpark im südöstlichen Teil Bruneis.",
+        "hu": "Keresd meg az Ulu Temburong Nemzeti Parkot Brunei délkeleti részén.",
+        "ro": "Găsește Parcul Național Ulu Temburong în partea de sud-est a Bruneiului.",
+        "en": "Find Ulu Temburong National Park in southeastern Brunei."
+      }
+    },
+    {
+      "id": "bnx-find-billionth-barrel-monument",
+      "type": "find_poi",
+      "targetPoiId": "billionth-barrel-monument-history-v2",
+      "question": {
+        "de": "Klicke auf das Billionth Barrel Monument bei Seria.",
+        "hu": "Kattints a Seria közelében álló Billionth Barrel Monumentre.",
+        "ro": "Apasă pe Billionth Barrel Monument de lângă Seria.",
+        "en": "Click the Billionth Barrel Monument near Seria."
+      }
+    },
+    {
+      "id": "bnx-find-pantai-seri-kenangan",
+      "type": "find_poi",
+      "targetPoiId": "pantai-seri-kenangan-landmarks-v2",
+      "question": {
+        "de": "Finde Pantai Seri Kenangan an der Küste des Distrikts Tutong.",
+        "hu": "Keresd meg a Tutong körzet partján fekvő Pantai Seri Kenangant.",
+        "ro": "Găsește Pantai Seri Kenangan pe coasta districtului Tutong.",
+        "en": "Find Pantai Seri Kenangan on the coast of Tutong District."
+      }
+    },
+    {
+      "id": "bnx-region-brunei-muara",
+      "type": "find_region",
+      "targetRegionId": "BRN-1182",
+      "question": {
+        "de": "Klicke auf den Distrikt Brunei-Muara im Nordosten.",
+        "hu": "Kattints az északkeleten fekvő Brunei–Muara körzetre.",
+        "ro": "Apasă pe districtul Brunei-Muara din nord-est.",
+        "en": "Click Brunei-Muara District in the northeast."
+      }
+    },
+    {
+      "id": "bnx-region-tutong",
+      "type": "find_region",
+      "targetRegionId": "BRN-1184",
+      "question": {
+        "de": "Finde den Distrikt Tutong zwischen Belait und Brunei-Muara.",
+        "hu": "Keresd meg a Belait és Brunei–Muara között fekvő Tutong körzetet.",
+        "ro": "Găsește districtul Tutong dintre Belait și Brunei-Muara.",
+        "en": "Find Tutong District between Belait and Brunei-Muara."
+      }
+    },
+    {
+      "id": "bnx-odd-farthest-west-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "muara-cities-v2",
+        "tutong-cities-v2",
+        "kuala-belait-cities-v2"
+      ],
+      "targetPoiId": "kuala-belait-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten im Westen?",
+        "hu": "Melyik város fekszik a legnyugatabbra?",
+        "ro": "Care dintre aceste orașe se află cel mai la vest?",
+        "en": "Which of these towns lies farthest west?"
+      }
+    },
+    {
+      "id": "bnx-odd-temburong-town",
+      "type": "odd_one_out",
+      "poiIds": [
+        "seria-cities-v2",
+        "bangar-cities-v2",
+        "kiudang-cities-v2"
+      ],
+      "targetPoiId": "bangar-cities-v2",
+      "question": {
+        "de": "Welche dieser Siedlungen liegt im Distrikt Temburong?",
+        "hu": "Melyik település található a Temburong körzetben?",
+        "ro": "Care dintre aceste așezări se află în districtul Temburong?",
+        "en": "Which of these settlements is in Temburong District?"
+      }
+    },
+    {
+      "id": "bnx-odd-beach-in-tutong",
+      "type": "odd_one_out",
+      "poiIds": [
+        "pantai-seri-kenangan-landmarks-v2",
+        "tasek-merimbun-landmarks-v2",
+        "jerudong-park-landmarks-v2"
+      ],
+      "targetPoiId": "pantai-seri-kenangan-landmarks-v2",
+      "question": {
+        "de": "Welcher dieser Orte ist ein Strand im Distrikt Tutong?",
+        "hu": "Ezek közül melyik hely egy tengerpart a Tutong körzetben?",
+        "ro": "Care dintre aceste locuri este o plajă din districtul Tutong?",
+        "en": "Which of these places is a beach in Tutong District?"
+      }
+    },
+    {
+      "id": "bnx-odd-belait-place",
+      "type": "odd_one_out",
+      "poiIds": [
+        "billionth-barrel-monument-history-v2",
+        "royal-regalia-museum-history-v2",
+        "ulu-temburong-canopy-walkway-landmarks-v2"
+      ],
+      "targetPoiId": "billionth-barrel-monument-history-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt im Distrikt Belait?",
+        "hu": "Ezek közül melyik hely található a Belait körzetben?",
+        "ro": "Care dintre aceste locuri se află în districtul Belait?",
+        "en": "Which of these places is in Belait District?"
+      }
+    },
+    {
+      "id": "bnx-odd-farthest-south",
+      "type": "odd_one_out",
+      "poiIds": [
+        "muara-cities-v2",
+        "bandar-seri-begawan-cities-v2",
+        "labi-cities-v2"
+      ],
+      "targetPoiId": "labi-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten im Süden?",
+        "hu": "Melyik város fekszik a legdélebbre?",
+        "ro": "Care dintre aceste orașe se află cel mai la sud?",
+        "en": "Which of these towns lies farthest south?"
+      }
+    },
+    {
+      "id": "bnx-odd-lake",
+      "type": "odd_one_out",
+      "poiIds": [
+        "bn-luagan-lalak-nature-v2",
+        "bn-belait-river-nature-v2",
+        "bukit-pagon-relief-v2"
+      ],
+      "targetPoiId": "bn-luagan-lalak-nature-v2",
+      "question": {
+        "de": "Welcher dieser Orte ist ein See?",
+        "hu": "Ezek közül melyik hely egy tó?",
+        "ro": "Care dintre aceste locuri este un lac?",
+        "en": "Which of these places is a lake?"
+      }
+    },
+    {
+      "id": "bnx-sequence-west-east-main-towns",
+      "type": "sequence",
+      "poiIds": [
+        "kuala-belait-cities-v2",
+        "tutong-cities-v2",
+        "bandar-seri-begawan-cities-v2",
+        "muara-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "kuala-belait-cities-v2",
+        "tutong-cities-v2",
+        "bandar-seri-begawan-cities-v2",
+        "muara-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Kuala Belait, Tutong, Bandar Seri Begawan und Muara von Westen nach Osten an.",
+        "hu": "Kattints Kuala Belaitra, Tutongra, Bandar Seri Begawanra és Muarára nyugatról keletre.",
+        "ro": "Apasă pe Kuala Belait, Tutong, Bandar Seri Begawan și Muara de la vest la est.",
+        "en": "Click Kuala Belait, Tutong, Bandar Seri Begawan, and Muara from west to east."
+      }
+    },
+    {
+      "id": "bnx-sequence-north-south-capital-corridor",
+      "type": "sequence",
+      "poiIds": [
+        "muara-cities-v2",
+        "berakas-cities-v2",
+        "bandar-seri-begawan-cities-v2",
+        "lumapas-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "muara-cities-v2",
+        "berakas-cities-v2",
+        "bandar-seri-begawan-cities-v2",
+        "lumapas-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Muara, Berakas, Bandar Seri Begawan und Lumapas von Norden nach Süden an.",
+        "hu": "Kattints Muarára, Berakasra, Bandar Seri Begawanra és Lumapasra északról délre.",
+        "ro": "Apasă pe Muara, Berakas, Bandar Seri Begawan și Lumapas de la nord la sud.",
+        "en": "Click Muara, Berakas, Bandar Seri Begawan, and Lumapas from north to south."
+      }
+    },
+    {
+      "id": "bnx-sequence-west-east-capital-to-exclave",
+      "type": "sequence",
+      "poiIds": [
+        "jerudong-cities-v2",
+        "bandar-seri-begawan-cities-v2",
+        "mentiri-cities-v2",
+        "labu-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "jerudong-cities-v2",
+        "bandar-seri-begawan-cities-v2",
+        "mentiri-cities-v2",
+        "labu-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Jerudong, Bandar Seri Begawan, Mentiri und Labu von Westen nach Osten an.",
+        "hu": "Kattints Jerudongra, Bandar Seri Begawanra, Mentirire és Labura nyugatról keletre.",
+        "ro": "Apasă pe Jerudong, Bandar Seri Begawan, Mentiri și Labu de la vest la est.",
+        "en": "Click Jerudong, Bandar Seri Begawan, Mentiri, and Labu from west to east."
+      }
+    },
+    {
+      "id": "bnx-sequence-north-south-temburong-highlands",
+      "type": "sequence",
+      "poiIds": [
+        "labu-cities-v2",
+        "bangar-cities-v2",
+        "ulu-temburong-canopy-walkway-landmarks-v2",
+        "bukit-pagon-relief-v2"
+      ],
+      "orderedPoiIds": [
+        "labu-cities-v2",
+        "bangar-cities-v2",
+        "ulu-temburong-canopy-walkway-landmarks-v2",
+        "bukit-pagon-relief-v2"
+      ],
+      "question": {
+        "de": "Klicke Labu, Bangar, den Ulu-Temburong-Canopy-Walkway und Bukit Pagon von Norden nach Süden an.",
+        "hu": "Kattints Labura, Bangarra, az Ulu Temburong Canopy Walkwayre és Bukit Pagonra északról délre.",
+        "ro": "Apasă pe Labu, Bangar, Ulu Temburong Canopy Walkway și Bukit Pagon de la nord la sud.",
+        "en": "Click Labu, Bangar, the Ulu Temburong Canopy Walkway, and Bukit Pagon from north to south."
+      }
+    },
+    {
+      "id": "bnx-sequence-west-east-interior",
+      "type": "sequence",
+      "poiIds": [
+        "labi-cities-v2",
+        "tutong-cities-v2",
+        "kiudang-cities-v2",
+        "bangar-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "labi-cities-v2",
+        "tutong-cities-v2",
+        "kiudang-cities-v2",
+        "bangar-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Labi, Tutong, Kiudang und Bangar von Westen nach Osten an.",
+        "hu": "Kattints Labira, Tutongra, Kiudangra és Bangarra nyugatról keletre.",
+        "ro": "Apasă pe Labi, Tutong, Kiudang și Bangar de la vest la est.",
+        "en": "Click Labi, Tutong, Kiudang, and Bangar from west to east."
+      }
+    },
+    {
+      "id": "bnx-sequence-west-east-belait-strip",
+      "type": "sequence",
+      "poiIds": [
+        "kuala-belait-cities-v2",
+        "seria-cities-v2",
+        "lumut-cities-v2",
+        "sungai-liang-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "kuala-belait-cities-v2",
+        "seria-cities-v2",
+        "lumut-cities-v2",
+        "sungai-liang-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Kuala Belait, Seria, Lumut und Sungai Liang von Westen nach Osten an.",
+        "hu": "Kattints Kuala Belaitra, Seriára, Lumutra és Sungai Liangra nyugatról keletre.",
+        "ro": "Apasă pe Kuala Belait, Seria, Lumut și Sungai Liang de la vest la est.",
+        "en": "Click Kuala Belait, Seria, Lumut, and Sungai Liang from west to east."
+      }
+    }
+  ]
+}

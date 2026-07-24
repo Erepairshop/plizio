@@ -1,0 +1,301 @@
+{
+  "ec": [
+    {
+      "id": "ec-find-machala",
+      "type": "find_poi",
+      "targetPoiId": "machala-cities-v2",
+      "question": {
+        "de": "Finde Machala im S?dwesten Ecuadors nahe der peruanischen Grenze.",
+        "hu": "Keresd meg Machal?t Ecuador d?lnyugati r?sz?n, a perui hat?r k?zel?ben.",
+        "ro": "G?se?te Machala ?n sud-vestul Ecuadorului, aproape de grani?a cu Peru.",
+        "en": "Find Machala in southwestern Ecuador near the Peruvian border."
+      }
+    },
+    {
+      "id": "ec-find-ibarra",
+      "type": "find_poi",
+      "targetPoiId": "ibarra-cities-v2",
+      "question": {
+        "de": "Finde Ibarra n?rdlich von Quito.",
+        "hu": "Keresd meg Ibarr?t Quit?t?l ?szakra.",
+        "ro": "G?se?te Ibarra la nord de Quito.",
+        "en": "Find Ibarra north of Quito."
+      }
+    },
+    {
+      "id": "ec-find-tena",
+      "type": "find_poi",
+      "targetPoiId": "tena-cities-v2",
+      "question": {
+        "de": "Finde Tena am Ostrand der Anden.",
+        "hu": "Keresd meg Ten?t az Andok keleti perem?n.",
+        "ro": "G?se?te Tena la marginea estic? a Anzilor.",
+        "en": "Find Tena on the eastern edge of the Andes."
+      }
+    },
+    {
+      "id": "ec-find-cotopaxi",
+      "type": "find_poi",
+      "targetPoiId": "cotopaxi-nature-v2",
+      "question": {
+        "de": "Finde den Vulkan Cotopaxi s?dlich von Quito.",
+        "hu": "Keresd meg a Cotopaxi vulk?nt Quit?t?l d?lre.",
+        "ro": "G?se?te vulcanul Cotopaxi la sud de Quito.",
+        "en": "Find Cotopaxi Volcano south of Quito."
+      }
+    },
+    {
+      "id": "ec-find-galapagos-capital",
+      "type": "find_poi",
+      "targetPoiId": "puerto-baquerizo-moreno-cities-v2",
+      "question": {
+        "de": "Finde Puerto Baquerizo Moreno auf den Gal?pagosinseln.",
+        "hu": "Keresd meg Puerto Baquerizo Moren?t a Gal?pagos-szigeteken.",
+        "ro": "G?se?te Puerto Baquerizo Moreno ?n Insulele Gal?pagos.",
+        "en": "Find Puerto Baquerizo Moreno in the Gal?pagos Islands."
+      }
+    },
+    {
+      "id": "ec-find-cuyabeno",
+      "type": "find_poi",
+      "targetPoiId": "cuyabeno-forest-nature-v2",
+      "question": {
+        "de": "Finde das Cuyabeno-Wildreservat im nord?stlichen Amazonasgebiet.",
+        "hu": "Keresd meg a Cuyabeno vadrezerv?tumot az ?szakkeleti Amaz?ni?ban.",
+        "ro": "G?se?te rezerva?ia Cuyabeno ?n nord-estul Amazoniei.",
+        "en": "Find the Cuyabeno Wildlife Reserve in the northeastern Amazon."
+      }
+    },
+    {
+      "id": "ec-region-manabi",
+      "type": "find_region",
+      "targetRegionId": "ECU-1282",
+      "question": {
+        "de": "Klicke auf die K?stenprovinz Manab? mit Manta und Portoviejo.",
+        "hu": "Kattints Manab? tengerparti tartom?nyra, ahol Manta ?s Portoviejo tal?lhat?.",
+        "ro": "Apas? pe provincia de coast? Manab?, unde se afl? Manta ?i Portoviejo.",
+        "en": "Click Manab? Province on the coast, home to Manta and Portoviejo."
+      }
+    },
+    {
+      "id": "ec-region-el-oro",
+      "type": "find_region",
+      "targetRegionId": "ECU-1267",
+      "question": {
+        "de": "Finde die s?dwestliche Provinz El Oro an der Grenze zu Peru.",
+        "hu": "Keresd meg a d?lnyugati El Oro tartom?nyt Peru hat?r?n?l.",
+        "ro": "G?se?te provincia sud-vestic? El Oro de la grani?a cu Peru.",
+        "en": "Find El Oro, the southwestern province on the border with Peru."
+      }
+    },
+    {
+      "id": "ec-region-sucumbios",
+      "type": "find_region",
+      "targetRegionId": "ECU-1411",
+      "question": {
+        "de": "Finde Sucumb?os im Nordosten des Amazonasgebiets.",
+        "hu": "Keresd meg Sucumb?ost az amaz?niai t?rs?g ?szakkeleti r?sz?n.",
+        "ro": "G?se?te Sucumb?os ?n nord-estul regiunii amazoniene.",
+        "en": "Find Sucumb?os in the northeastern Amazon region."
+      }
+    },
+    {
+      "id": "ec-region-tungurahua",
+      "type": "find_region",
+      "targetRegionId": "ECU-1290",
+      "question": {
+        "de": "Klicke auf Tungurahua, die Provinz mit Ambato.",
+        "hu": "Kattints Tungurahua tartom?nyra, amelynek k?zpontja Ambato.",
+        "ro": "Apas? pe Tungurahua, provincia cu ora?ul Ambato.",
+        "en": "Click Tungurahua, the province with Ambato."
+      }
+    },
+    {
+      "id": "ec-region-imbabura",
+      "type": "find_region",
+      "targetRegionId": "ECU-1410",
+      "question": {
+        "de": "Finde Imbabura, die Provinz mit Ibarra und Otavalo.",
+        "hu": "Keresd meg Imbabura tartom?nyt, ahol Ibarra ?s Otavalo tal?lhat?.",
+        "ro": "G?se?te provincia Imbabura, unde se afl? Ibarra ?i Otavalo.",
+        "en": "Find Imbabura, the province with Ibarra and Otavalo."
+      }
+    },
+    {
+      "id": "ec-odd-andean-capitals",
+      "type": "odd_one_out",
+      "poiIds": [
+        "quito-cities-v2",
+        "ibarra-cities-v2",
+        "latacunga-cities-v2",
+        "guayaquil-cities-v2"
+      ],
+      "targetPoiId": "guayaquil-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht im ecuadorianischen Andenhochland?",
+        "hu": "Melyik hely nem az ecuadori Andok fenns?kj?n tal?lhat??",
+        "ro": "Care dintre aceste locuri nu se afl? ?n zona andin? ?nalt? a Ecuadorului?",
+        "en": "Which of these places is not in Ecuador?s Andean highlands?"
+      }
+    },
+    {
+      "id": "ec-odd-galapagos",
+      "type": "odd_one_out",
+      "poiIds": [
+        "puerto-ayora-cities-v2",
+        "puerto-baquerizo-moreno-cities-v2",
+        "darwin-station-life-v2",
+        "manta-cities-v2"
+      ],
+      "targetPoiId": "manta-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht auf den Gal?pagosinseln?",
+        "hu": "Melyik hely nem a Gal?pagos-szigeteken tal?lhat??",
+        "ro": "Care dintre aceste locuri nu se afl? ?n Insulele Gal?pagos?",
+        "en": "Which of these places is not in the Gal?pagos Islands?"
+      }
+    },
+    {
+      "id": "ec-odd-amazon",
+      "type": "odd_one_out",
+      "poiIds": [
+        "tena-cities-v2",
+        "puyo-cities-v2",
+        "nueva-loja-cities-v2",
+        "cuenca-cities-v2"
+      ],
+      "targetPoiId": "cuenca-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht im ecuadorianischen Amazonasraum?",
+        "hu": "Melyik hely nem Ecuador amaz?niai t?rs?g?ben tal?lhat??",
+        "ro": "Care dintre aceste locuri nu se afl? ?n Amazonia ecuadorian??",
+        "en": "Which of these places is not in Ecuador?s Amazon region?"
+      }
+    },
+    {
+      "id": "ec-odd-volcano-belt",
+      "type": "odd_one_out",
+      "poiIds": [
+        "cotopaxi-nature-v2",
+        "chimborazo-nature-v2",
+        "tungurahua-nature-v2",
+        "puerto-ayora-cities-v2"
+      ],
+      "targetPoiId": "puerto-ayora-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte geh?rt nicht zur Andenvulkanzone auf dem Festland?",
+        "hu": "Melyik hely nem a sz?razf?ldi andoki vulk?ni ?vezethez tartozik?",
+        "ro": "Care dintre aceste locuri nu apar?ine zonei vulcanice andine de pe continent?",
+        "en": "Which of these places is not part of the mainland Andean volcanic zone?"
+      }
+    },
+    {
+      "id": "ec-order-mainland-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "manta-cities-v2",
+        "quito-cities-v2",
+        "tena-cities-v2",
+        "nueva-loja-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "manta-cities-v2",
+        "quito-cities-v2",
+        "tena-cities-v2",
+        "nueva-loja-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Manta, Quito, Tena und Nueva Loja von West nach Ost an.",
+        "hu": "Kattints Mant?ra, Quit?ra, Ten?ra ?s Nueva Loj?ra nyugatr?l keletre.",
+        "ro": "Apas? Manta, Quito, Tena ?i Nueva Loja de la vest la est.",
+        "en": "Click Manta, Quito, Tena, and Nueva Loja from west to east."
+      }
+    },
+    {
+      "id": "ec-order-andean-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "tulcan-cities-v2",
+        "ibarra-cities-v2",
+        "quito-cities-v2",
+        "latacunga-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "tulcan-cities-v2",
+        "ibarra-cities-v2",
+        "quito-cities-v2",
+        "latacunga-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Tulc?n, Ibarra, Quito und Latacunga von Nord nach S?d an.",
+        "hu": "Kattints Tulc?nra, Ibarr?ra, Quit?ra ?s Latacung?ra ?szakr?l d?lre.",
+        "ro": "Apas? Tulc?n, Ibarra, Quito ?i Latacunga de la nord la sud.",
+        "en": "Click Tulc?n, Ibarra, Quito, and Latacunga from north to south."
+      }
+    },
+    {
+      "id": "ec-order-south-cities",
+      "type": "sequence",
+      "poiIds": [
+        "machala-cities-v2",
+        "loja-cities-v2",
+        "cuenca-cities-v2",
+        "zamora-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "machala-cities-v2",
+        "loja-cities-v2",
+        "cuenca-cities-v2",
+        "zamora-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Machala, Loja, Cuenca und Zamora von West nach Ost an.",
+        "hu": "Kattints Machal?ra, Loj?ra, Cuenc?ra ?s Zamor?ra nyugatr?l keletre.",
+        "ro": "Apas? Machala, Loja, Cuenca ?i Zamora de la vest la est.",
+        "en": "Click Machala, Loja, Cuenca, and Zamora from west to east."
+      }
+    },
+    {
+      "id": "ec-order-mainland-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "esmeraldas-cities-v2",
+        "quito-cities-v2",
+        "riobamba-cities-v2",
+        "loja-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "esmeraldas-cities-v2",
+        "quito-cities-v2",
+        "riobamba-cities-v2",
+        "loja-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Esmeraldas, Quito, Riobamba und Loja von Nord nach S?d an.",
+        "hu": "Kattints Esmeraldasra, Quit?ra, Riobamb?ra ?s Loj?ra ?szakr?l d?lre.",
+        "ro": "Apas? Esmeraldas, Quito, Riobamba ?i Loja de la nord la sud.",
+        "en": "Click Esmeraldas, Quito, Riobamba, and Loja from north to south."
+      }
+    },
+    {
+      "id": "ec-order-galapagos-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "isabela-island-nature-v2",
+        "santa-cruz-island-nature-v2",
+        "puerto-baquerizo-moreno-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "isabela-island-nature-v2",
+        "santa-cruz-island-nature-v2",
+        "puerto-baquerizo-moreno-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Isabela, Santa Cruz und Puerto Baquerizo Moreno von West nach Ost an.",
+        "hu": "Kattints Isabel?ra, Santa Cruzra ?s Puerto Baquerizo Moren?ra nyugatr?l keletre.",
+        "ro": "Apas? Isabela, Santa Cruz ?i Puerto Baquerizo Moreno de la vest la est.",
+        "en": "Click Isabela, Santa Cruz, and Puerto Baquerizo Moreno from west to east."
+      }
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "cv": [
+    {
+      "id": "cv-find-cidade-velha",
+      "type": "find_poi",
+      "targetPoiId": "cidade-velha-cities-v2",
+      "question": {
+        "de": "Finde Cidade Velha, die ehemalige Hauptstadt auf Santiago.",
+        "hu": "Keresd meg Cidade Velhát, az egykori fővárost Santiago szigetén.",
+        "ro": "Găsește Cidade Velha, fosta capitală de pe insula Santiago.",
+        "en": "Find Cidade Velha, the former capital on Santiago island."
+      }
+    },
+    {
+      "id": "cv-find-espargos",
+      "type": "find_poi",
+      "targetPoiId": "espargos-cities-v2",
+      "question": {
+        "de": "Finde Espargos im Inneren der Insel Sal.",
+        "hu": "Keresd meg Espargost Sal szigetének belsejében.",
+        "ro": "Găsește Espargos în interiorul insulei Sal.",
+        "en": "Find Espargos in the interior of Sal island."
+      }
+    },
+    {
+      "id": "cv-find-ribeira-brava",
+      "type": "find_poi",
+      "targetPoiId": "ribeira-brava-cities-v2",
+      "question": {
+        "de": "Finde Ribeira Brava auf der Insel São Nicolau.",
+        "hu": "Keresd meg Ribeira Bravát São Nicolau szigetén.",
+        "ro": "Găsește Ribeira Brava pe insula São Nicolau.",
+        "en": "Find Ribeira Brava on São Nicolau island."
+      }
+    },
+    {
+      "id": "cv-find-sal-rei",
+      "type": "find_poi",
+      "targetPoiId": "sal-rei-cities-v2",
+      "question": {
+        "de": "Finde Sal Rei auf der Insel Boa Vista.",
+        "hu": "Keresd meg Sal Reit Boa Vista szigetén.",
+        "ro": "Găsește Sal Rei pe insula Boa Vista.",
+        "en": "Find Sal Rei on Boa Vista island."
+      }
+    },
+    {
+      "id": "cv-find-pico-do-fogo",
+      "type": "find_poi",
+      "targetPoiId": "pico-do-fogo-nature-v2",
+      "question": {
+        "de": "Finde den Vulkan Pico do Fogo auf der Insel Fogo.",
+        "hu": "Keresd meg a Pico do Fogo vulkánt Fogo szigetén.",
+        "ro": "Găsește vulcanul Pico do Fogo de pe insula Fogo.",
+        "en": "Find Pico do Fogo volcano on Fogo island."
+      }
+    },
+    {
+      "id": "cv-region-boa-vista",
+      "type": "find_region",
+      "targetRegionId": "CPV-5055",
+      "question": {
+        "de": "Klicke auf Boa Vista, die Insel mit Sal Rei.",
+        "hu": "Kattints Boa Vistára, Sal Rei szigetére.",
+        "ro": "Apasă pe Boa Vista, insula orașului Sal Rei.",
+        "en": "Click Boa Vista, the island of Sal Rei."
+      }
+    },
+    {
+      "id": "cv-region-maio",
+      "type": "find_region",
+      "targetRegionId": "CPV-5054",
+      "question": {
+        "de": "Finde die Inselgemeinde Maio östlich von Santiago.",
+        "hu": "Keresd meg Santiago szigetétől keletre Maio szigeti önkormányzatát.",
+        "ro": "Găsește municipalitatea insulară Maio, la est de Santiago.",
+        "en": "Find the island municipality of Maio east of Santiago."
+      }
+    },
+    {
+      "id": "cv-region-porto-novo",
+      "type": "find_region",
+      "targetRegionId": "CPV-5060",
+      "question": {
+        "de": "Klicke auf Porto Novo im Süden von Santo Antão.",
+        "hu": "Kattints Porto Novóra Santo Antão déli részén.",
+        "ro": "Apasă pe Porto Novo din sudul insulei Santo Antão.",
+        "en": "Click Porto Novo in the south of Santo Antão."
+      }
+    },
+    {
+      "id": "cv-region-paul",
+      "type": "find_region",
+      "targetRegionId": "CPV-5062",
+      "question": {
+        "de": "Finde die kleine Gemeinde Paul auf Santo Antão.",
+        "hu": "Keresd meg Paul kis önkormányzatát Santo Antão szigetén.",
+        "ro": "Găsește mica municipalitate Paul de pe Santo Antão.",
+        "en": "Find the small municipality of Paul on Santo Antão."
+      }
+    },
+    {
+      "id": "cv-region-santa-catarina-do-fogo",
+      "type": "find_region",
+      "targetRegionId": "CPV-5044",
+      "question": {
+        "de": "Klicke auf Santa Catarina do Fogo auf der Insel Fogo.",
+        "hu": "Kattints Santa Catarina do Fogóra Fogo szigetén.",
+        "ro": "Apasă pe Santa Catarina do Fogo de pe insula Fogo.",
+        "en": "Click Santa Catarina do Fogo on Fogo island."
+      }
+    },
+    {
+      "id": "cv-odd-fogo-island",
+      "type": "odd_one_out",
+      "poiIds": [
+        "sao-filipe-cities-v2",
+        "mosteiros-cities-v2",
+        "cova-figueira-cities-v2",
+        "sal-rei-cities-v2"
+      ],
+      "targetPoiId": "sal-rei-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht auf der Insel Fogo?",
+        "hu": "Melyik hely nem Fogo szigetén található?",
+        "ro": "Care loc nu se află pe insula Fogo?",
+        "en": "Which place is not on Fogo island?"
+      }
+    },
+    {
+      "id": "cv-odd-sao-nicolau",
+      "type": "odd_one_out",
+      "poiIds": [
+        "ribeira-brava-cities-v2",
+        "tarrafal-de-sao-nicolau-cities-v2",
+        "juncalinho-cities-v2",
+        "sal-rei-cities-v2"
+      ],
+      "targetPoiId": "sal-rei-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht auf der Insel São Nicolau?",
+        "hu": "Melyik település nem São Nicolau szigetén fekszik?",
+        "ro": "Care localitate nu se află pe insula São Nicolau?",
+        "en": "Which settlement is not on São Nicolau island?"
+      }
+    },
+    {
+      "id": "cv-odd-sal-island",
+      "type": "odd_one_out",
+      "poiIds": [
+        "espargos-cities-v2",
+        "santa-maria-cities-v2",
+        "palmeira-cities-v2",
+        "nova-sintra-cities-v2"
+      ],
+      "targetPoiId": "nova-sintra-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht auf der Insel Sal?",
+        "hu": "Melyik hely nem Sal szigetén van?",
+        "ro": "Care loc nu se află pe insula Sal?",
+        "en": "Which place is not on Sal island?"
+      }
+    },
+    {
+      "id": "cv-odd-santiago-island",
+      "type": "odd_one_out",
+      "poiIds": [
+        "picos-cities-v2",
+        "joao-teves-cities-v2",
+        "cidade-velha-cities-v2",
+        "ribeira-brava-cities-v2"
+      ],
+      "targetPoiId": "ribeira-brava-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht auf der Insel Santiago?",
+        "hu": "Melyik település nem Santiago szigetén található?",
+        "ro": "Care localitate nu se află pe insula Santiago?",
+        "en": "Which settlement is not on Santiago island?"
+      }
+    },
+    {
+      "id": "cv-odd-boa-vista",
+      "type": "odd_one_out",
+      "poiIds": [
+        "sal-rei-cities-v2",
+        "rabil-cities-v2",
+        "joao-galego-cities-v2",
+        "porto-ingles-cities-v2"
+      ],
+      "targetPoiId": "porto-ingles-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht auf Boa Vista?",
+        "hu": "Melyik hely nem Boa Vista szigetén fekszik?",
+        "ro": "Care loc nu se află pe Boa Vista?",
+        "en": "Which place is not on Boa Vista?"
+      }
+    },
+    {
+      "id": "cv-sequence-brava-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "calheta-cities-v2",
+        "figueira-da-horta-cities-v2",
+        "barreiro-cities-v2",
+        "nova-sintra-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "calheta-cities-v2",
+        "figueira-da-horta-cities-v2",
+        "barreiro-cities-v2",
+        "nova-sintra-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Calheta, Figueira da Horta, Barreiro und Nova Sintra von Norden nach Süden an.",
+        "hu": "Kattints Calhetára, Figueira da Hortára, Barreiróra és Nova Sintrára északról dél felé.",
+        "ro": "Apasă Calheta, Figueira da Horta, Barreiro și Nova Sintra de la nord la sud.",
+        "en": "Click Calheta, Figueira da Horta, Barreiro and Nova Sintra from north to south."
+      }
+    },
+    {
+      "id": "cv-sequence-sal-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "palmeira-cities-v2",
+        "pedra-de-lume-salt-lake-nature-v2",
+        "espargos-cities-v2",
+        "santa-maria-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "palmeira-cities-v2",
+        "pedra-de-lume-salt-lake-nature-v2",
+        "espargos-cities-v2",
+        "santa-maria-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Palmeira, den Salzsee von Pedra de Lume, Espargos und Santa Maria von Norden nach Süden an.",
+        "hu": "Kattints Palmeirára, a Pedra de Lume-i sós tóra, Espargosra és Santa Mariára északról dél felé.",
+        "ro": "Apasă Palmeira, lacul sărat Pedra de Lume, Espargos și Santa Maria de la nord la sud.",
+        "en": "Click Palmeira, Pedra de Lume Salt Lake, Espargos and Santa Maria from north to south."
+      }
+    },
+    {
+      "id": "cv-sequence-boa-vista-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "povoacao-velha-cities-v2",
+        "sal-rei-cities-v2",
+        "rabil-cities-v2",
+        "joao-galego-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "povoacao-velha-cities-v2",
+        "sal-rei-cities-v2",
+        "rabil-cities-v2",
+        "joao-galego-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Povoação Velha, Sal Rei, Rabil und João Galego von Westen nach Osten an.",
+        "hu": "Kattints Povoação Velhára, Sal Reire, Rabilra és João Galegóra nyugatról kelet felé.",
+        "ro": "Apasă Povoação Velha, Sal Rei, Rabil și João Galego de la vest la est.",
+        "en": "Click Povoação Velha, Sal Rei, Rabil and João Galego from west to east."
+      }
+    },
+    {
+      "id": "cv-sequence-santiago-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "assomada-cities-v2",
+        "joao-teves-cities-v2",
+        "pedra-badejo-cities-v2",
+        "praia-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "assomada-cities-v2",
+        "joao-teves-cities-v2",
+        "pedra-badejo-cities-v2",
+        "praia-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Assomada, João Teves, Pedra Badejo und Praia von Westen nach Osten an.",
+        "hu": "Kattints Assomadára, João Tevesre, Pedra Badejórа és Praiára nyugatról kelet felé.",
+        "ro": "Apasă Assomada, João Teves, Pedra Badejo și Praia de la vest la est.",
+        "en": "Click Assomada, João Teves, Pedra Badejo and Praia from west to east."
+      }
+    },
+    {
+      "id": "cv-sequence-fogo-south-north",
+      "type": "sequence",
+      "poiIds": [
+        "cova-figueira-cities-v2",
+        "sao-filipe-cities-v2",
+        "pico-do-fogo-nature-v2",
+        "mosteiros-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "cova-figueira-cities-v2",
+        "sao-filipe-cities-v2",
+        "pico-do-fogo-nature-v2",
+        "mosteiros-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Cova Figueira, São Filipe, Pico do Fogo und Mosteiros von Süden nach Norden an.",
+        "hu": "Kattints Cova Figueirára, São Filipére, Pico do Fogóra és Mosteirosra délről észak felé.",
+        "ro": "Apasă Cova Figueira, São Filipe, Pico do Fogo și Mosteiros de la sud la nord.",
+        "en": "Click Cova Figueira, São Filipe, Pico do Fogo and Mosteiros from south to north."
+      }
+    }
+  ]
+}

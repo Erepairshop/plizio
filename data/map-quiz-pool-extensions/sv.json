@@ -1,0 +1,313 @@
+{
+  "sv": [
+    {
+      "id": "sv-find-montecristo-cloud-forest",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde den Montecristo-Nebelwald im Nordwesten an der Dreiländergrenze.",
+        "hu": "Keresd meg a Montecristo-felhőerdőt az északnyugati hármashatárnál.",
+        "ro": "Găsește pădurea de nori Montecristo din nord-vest, la tripla frontieră.",
+        "en": "Find the Montecristo Cloud Forest in the northwest at the tri-border."
+      },
+      "targetPoiId": "sv-montecristo"
+    },
+    {
+      "id": "sv-find-lake-ilopango",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt der Ilopango-See östlich von San Salvador?",
+        "hu": "Hol található az Ilopango-tó San Salvadortól keletre?",
+        "ro": "Unde se află lacul Ilopango, la est de San Salvador?",
+        "en": "Where is Lake Ilopango, east of San Salvador?"
+      },
+      "targetPoiId": "sv-ilopango"
+    },
+    {
+      "id": "sv-find-cihuatan",
+      "type": "find_poi",
+      "question": {
+        "de": "Zeige auf die archäologische Stätte Cihuatán nördlich der Hauptstadt.",
+        "hu": "Mutasd meg a fővárostól északra fekvő Cihuatán régészeti lelőhelyet.",
+        "ro": "Indicǎ situl arheologic Cihuatán aflat la nord de capitală.",
+        "en": "Point to the archaeological site of Cihuatán north of the capital."
+      },
+      "targetPoiId": "sv-cihuatan"
+    },
+    {
+      "id": "sv-find-los-cobanos",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Los Cóbanos an der Pazifikküste.",
+        "hu": "Keresd meg Los Cóbanost a Csendes-óceán partján.",
+        "ro": "Găsește Los Cóbanos pe coasta Pacificului.",
+        "en": "Find Los Cóbanos on the Pacific coast."
+      },
+      "targetPoiId": "sv-los-cobanos"
+    },
+    {
+      "id": "sv-find-divino-salvador",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo steht das Monumento al Divino Salvador del Mundo?",
+        "hu": "Hol áll a Monumento al Divino Salvador del Mundo emlékmű?",
+        "ro": "Unde se află Monumento al Divino Salvador del Mundo?",
+        "en": "Where is the Monumento al Divino Salvador del Mundo?"
+      },
+      "targetPoiId": "sv-divinosalvador"
+    },
+    {
+      "id": "sv-region-santa-ana",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf das Departamento Santa Ana im Nordwesten.",
+        "hu": "Kattints az északnyugati Santa Ana megyére.",
+        "ro": "Apasă pe departamentul Santa Ana din nord-vest.",
+        "en": "Click Santa Ana Department in the northwest."
+      },
+      "targetRegionId": "SLV-1358"
+    },
+    {
+      "id": "sv-region-chalatenango",
+      "type": "find_region",
+      "question": {
+        "de": "Finde Chalatenango an der Grenze zu Honduras.",
+        "hu": "Keresd meg a Honduras határán fekvő Chalatenangót.",
+        "ro": "Găsește Chalatenango, de-a lungul graniței cu Honduras.",
+        "en": "Find Chalatenango along the border with Honduras."
+      },
+      "targetRegionId": "SLV-1357"
+    },
+    {
+      "id": "sv-region-la-libertad",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf La Libertad westlich von San Salvador an der Küste.",
+        "hu": "Kattints a San Salvadortól nyugatra, a tengerparton fekvő La Libertadra.",
+        "ro": "Apasă pe La Libertad, la vest de San Salvador, pe coastă.",
+        "en": "Click La Libertad west of San Salvador on the coast."
+      },
+      "targetRegionId": "SLV-1346"
+    },
+    {
+      "id": "sv-region-usulutan",
+      "type": "find_region",
+      "question": {
+        "de": "Finde Usulután im Südosten des Landes.",
+        "hu": "Keresd meg Usulutánt az ország délkeleti részén.",
+        "ro": "Găsește Usulután în sud-estul țării.",
+        "en": "Find Usulután in the southeast of the country."
+      },
+      "targetRegionId": "SLV-1354"
+    },
+    {
+      "id": "sv-region-morazan",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf Morazán im gebirgigen Osten.",
+        "hu": "Kattints a hegyvidéki keleti Morazánra.",
+        "ro": "Apasă pe Morazán, în estul muntos.",
+        "en": "Click Morazán in the mountainous east."
+      },
+      "targetRegionId": "SLV-1351"
+    },
+    {
+      "id": "sv-odd-volcanic-peaks",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Gipfel ist kein Vulkan?",
+        "hu": "Melyik csúcs nem vulkán?",
+        "ro": "Care vârf nu este un vulcan?",
+        "en": "Which peak is not a volcano?"
+      },
+      "poiIds": [
+        "sv-santaanavolcano",
+        "sv-izalco",
+        "sv-volcan-san-vicente-relief-v2",
+        "sv-pital"
+      ],
+      "targetPoiId": "sv-pital"
+    },
+    {
+      "id": "sv-odd-archaeology-vs-lake",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort ist keine archäologische Stätte?",
+        "hu": "Melyik hely nem régészeti lelőhely?",
+        "ro": "Care loc nu este un sit arheologic?",
+        "en": "Which place is not an archaeological site?"
+      },
+      "poiIds": [
+        "sv-tazumal",
+        "sv-joyadeceren",
+        "sv-cihuatan",
+        "sv-san-andres",
+        "sv-ilopango"
+      ],
+      "targetPoiId": "sv-ilopango"
+    },
+    {
+      "id": "sv-odd-department-capitals",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort ist keine salvadorianische Departamento-Hauptstadt?",
+        "hu": "Melyik hely nem salvadori megyeszékhely?",
+        "ro": "Care loc nu este reședință de departament în El Salvador?",
+        "en": "Which place is not a departmental capital in El Salvador?"
+      },
+      "poiIds": [
+        "sv-sansalvador",
+        "sv-santaana",
+        "usulutan-cities-v2",
+        "gotera-cities-v2",
+        "el-salvador-el-zonte-cities-v2"
+      ],
+      "targetPoiId": "el-salvador-el-zonte-cities-v2"
+    },
+    {
+      "id": "sv-odd-pacific-beaches",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort ist kein Strand an der Pazifikküste?",
+        "hu": "Melyik hely nem csendes-óceáni strand?",
+        "ro": "Care loc nu este o plajă de pe coasta Pacificului?",
+        "en": "Which place is not a beach on the Pacific coast?"
+      },
+      "poiIds": [
+        "el-salvador-playa-el-tamarindo-cities-v2",
+        "el-salvador-costa-del-sol-cities-v2",
+        "sv-eltunco",
+        "el-salvador-el-espino-cities-v2",
+        "sv-montecristo"
+      ],
+      "targetPoiId": "sv-montecristo"
+    },
+    {
+      "id": "sv-odd-capital-metro-landmarks",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort liegt nicht im Großraum San Salvador?",
+        "hu": "Melyik hely nem San Salvador nagyvárosi térségében található?",
+        "ro": "Care loc nu se află în zona metropolitană San Salvador?",
+        "en": "Which place is not in the San Salvador metropolitan area?"
+      },
+      "poiIds": [
+        "sv-cathedral",
+        "sv-divinosalvador",
+        "sv-boqueron",
+        "sv-puerta-diablo",
+        "sv-cathedral-santa-ana"
+      ],
+      "targetPoiId": "sv-cathedral-santa-ana"
+    },
+    {
+      "id": "sv-sequence-west-east-country",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke von West nach Ost: Barra de Santiago, Santa Ana, San Salvador, La Unión.",
+        "hu": "Kattints nyugatról keletre: Barra de Santiago, Santa Ana, San Salvador, La Unión.",
+        "ro": "Apasă de la vest la est: Barra de Santiago, Santa Ana, San Salvador, La Unión.",
+        "en": "Click from west to east: Barra de Santiago, Santa Ana, San Salvador, La Unión."
+      },
+      "poiIds": [
+        "el-salvador-barra-de-santiago-cities-v2",
+        "sv-santaana",
+        "sv-sansalvador",
+        "la-union-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "el-salvador-barra-de-santiago-cities-v2",
+        "sv-santaana",
+        "sv-sansalvador",
+        "la-union-cities-v2"
+      ]
+    },
+    {
+      "id": "sv-sequence-north-south-highlands-coast",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke von Nord nach Süd: Cerro El Pital, Sensuntepeque, San Vicente, El Espino.",
+        "hu": "Kattints északról délre: Cerro El Pital, Sensuntepeque, San Vicente, El Espino.",
+        "ro": "Apasă de la nord la sud: Cerro El Pital, Sensuntepeque, San Vicente, El Espino.",
+        "en": "Click from north to south: Cerro El Pital, Sensuntepeque, San Vicente, El Espino."
+      },
+      "poiIds": [
+        "sv-pital",
+        "sensuntepeque-cities-v2",
+        "san-vicente-cities-v2",
+        "el-salvador-el-espino-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "sv-pital",
+        "sensuntepeque-cities-v2",
+        "san-vicente-cities-v2",
+        "el-salvador-el-espino-cities-v2"
+      ]
+    },
+    {
+      "id": "sv-sequence-west-east-beaches",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke von West nach Ost: Barra de Santiago, Los Cóbanos, El Tunco, Playa El Tamarindo.",
+        "hu": "Kattints nyugatról keletre: Barra de Santiago, Los Cóbanos, El Tunco, Playa El Tamarindo.",
+        "ro": "Apasă de la vest la est: Barra de Santiago, Los Cóbanos, El Tunco, Playa El Tamarindo.",
+        "en": "Click from west to east: Barra de Santiago, Los Cóbanos, El Tunco, Playa El Tamarindo."
+      },
+      "poiIds": [
+        "el-salvador-barra-de-santiago-cities-v2",
+        "sv-los-cobanos",
+        "sv-eltunco",
+        "el-salvador-playa-el-tamarindo-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "el-salvador-barra-de-santiago-cities-v2",
+        "sv-los-cobanos",
+        "sv-eltunco",
+        "el-salvador-playa-el-tamarindo-cities-v2"
+      ]
+    },
+    {
+      "id": "sv-sequence-north-south-lakes-capital-coast",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke von Nord nach Süd: Suchitlán-See, Ilopango-See, San Miguel, Costa del Sol.",
+        "hu": "Kattints északról délre: Suchitlán-tó, Ilopango-tó, San Miguel, Costa del Sol.",
+        "ro": "Apasă de la nord la sud: Lacul Suchitlán, lacul Ilopango, San Miguel, Costa del Sol.",
+        "en": "Click from north to south: Lake Suchitlán, Lake Ilopango, San Miguel, Costa del Sol."
+      },
+      "poiIds": [
+        "el-salvador-lake-suchitlan-cities-v2",
+        "sv-ilopango",
+        "sv-sanmiguel",
+        "el-salvador-costa-del-sol-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "el-salvador-lake-suchitlan-cities-v2",
+        "sv-ilopango",
+        "sv-sanmiguel",
+        "el-salvador-costa-del-sol-cities-v2"
+      ]
+    },
+    {
+      "id": "sv-sequence-west-east-volcanoes",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke von West nach Ost: Vulkan Santa Ana, El Boquerón, Vulkan San Vicente, Vulkan Chaparrastique.",
+        "hu": "Kattints nyugatról keletre: Santa Ana vulkán, El Boquerón, San Vicente vulkán, Chaparrastique vulkán.",
+        "ro": "Apasă de la vest la est: vulcanul Santa Ana, El Boquerón, vulcanul San Vicente, vulcanul Chaparrastique.",
+        "en": "Click from west to east: Santa Ana Volcano, El Boquerón, San Vicente Volcano, Chaparrastique Volcano."
+      },
+      "poiIds": [
+        "sv-santaanavolcano",
+        "sv-boqueron",
+        "sv-volcan-san-vicente-relief-v2",
+        "sv-volcan-chaparrastique-relief-v2"
+      ],
+      "orderedPoiIds": [
+        "sv-santaanavolcano",
+        "sv-boqueron",
+        "sv-volcan-san-vicente-relief-v2",
+        "sv-volcan-chaparrastique-relief-v2"
+      ]
+    }
+  ]
+}

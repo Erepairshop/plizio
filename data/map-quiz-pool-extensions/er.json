@@ -1,0 +1,314 @@
+{
+  "er": [
+    {
+      "id": "er-find-mendefera",
+      "type": "find_poi",
+      "targetPoiId": "mendefera-cities-v2",
+      "question": {
+        "de": "Finde Mendefera auf der Karte.",
+        "hu": "Keresd meg Mendefera helyét a térképen.",
+        "ro": "Găsește Mendefera pe hartă.",
+        "en": "Find Mendefera on the map."
+      }
+    },
+    {
+      "id": "er-find-adi-keyh",
+      "type": "find_poi",
+      "targetPoiId": "adi-keyh-cities-v2",
+      "question": {
+        "de": "Finde Adi Keyh auf der Karte.",
+        "hu": "Keresd meg Adi Keyh helyét a térképen.",
+        "ro": "Găsește Adi Keyh pe hartă.",
+        "en": "Find Adi Keyh on the map."
+      }
+    },
+    {
+      "id": "er-find-edd",
+      "type": "find_poi",
+      "targetPoiId": "edd-cities-v2",
+      "question": {
+        "de": "Finde Edd auf der Karte.",
+        "hu": "Keresd meg Edd helyét a térképen.",
+        "ro": "Găsește Edd pe hartă.",
+        "en": "Find Edd on the map."
+      }
+    },
+    {
+      "id": "er-find-dahlak-kebir",
+      "type": "find_poi",
+      "targetPoiId": "eritrea-dahlak-kebir-cities-v2",
+      "question": {
+        "de": "Finde Dahlak Kebir auf der Karte.",
+        "hu": "Keresd meg Dahlak Kebir helyét a térképen.",
+        "ro": "Găsește Dahlak Kebir pe hartă.",
+        "en": "Find Dahlak Kebir on the map."
+      }
+    },
+    {
+      "id": "er-find-qohaito",
+      "type": "find_poi",
+      "targetPoiId": "qohaito-ancient-city-history-v2",
+      "question": {
+        "de": "Finde die antike Stadt Qohaito auf der Karte.",
+        "hu": "Keresd meg az ősi Qohaito városát a térképen.",
+        "ro": "Găsește orașul antic Qohaito pe hartă.",
+        "en": "Find the ancient city of Qohaito on the map."
+      }
+    },
+    {
+      "id": "er-region-eri-1561",
+      "type": "find_region",
+      "targetRegionId": "ERI-1561",
+      "question": {
+        "de": "Klicke auf die Region Anseba.",
+        "hu": "Kattints Anseba régiójára.",
+        "ro": "Apasă pe regiunea Anseba.",
+        "en": "Click the Anseba region."
+      }
+    },
+    {
+      "id": "er-region-eri-1562",
+      "type": "find_region",
+      "targetRegionId": "ERI-1562",
+      "question": {
+        "de": "Klicke auf die Region Debub.",
+        "hu": "Kattints Debub régiójára.",
+        "ro": "Apasă pe regiunea Debub.",
+        "en": "Click the Debub region."
+      }
+    },
+    {
+      "id": "er-region-eri-1563",
+      "type": "find_region",
+      "targetRegionId": "ERI-1563",
+      "question": {
+        "de": "Klicke auf die Region Semenawi Keyih Bahri.",
+        "hu": "Kattints Semenawi Keyih Bahri régiójára.",
+        "ro": "Apasă pe regiunea Semenawi Keyih Bahri.",
+        "en": "Click the Semenawi Keyih Bahri region."
+      }
+    },
+    {
+      "id": "er-odd-north-nakfa",
+      "type": "odd_one_out",
+      "poiIds": [
+        "assab-cities-v2",
+        "mendefera-cities-v2",
+        "massawa-cities-v2",
+        "nakfa-trenches-history-v2"
+      ],
+      "targetPoiId": "nakfa-trenches-history-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten nördlich?",
+        "hu": "Melyik hely fekszik ezek közül a legészakabbra?",
+        "ro": "Care dintre aceste locuri se află cel mai la nord?",
+        "en": "Which of these places lies furthest north?"
+      }
+    },
+    {
+      "id": "er-odd-east-assab",
+      "type": "odd_one_out",
+      "poiIds": [
+        "barentu-cities-v2",
+        "asmara-cities-v2",
+        "adi-keyh-cities-v2",
+        "assab-cities-v2"
+      ],
+      "targetPoiId": "assab-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten östlich?",
+        "hu": "Melyik hely fekszik ezek közül a legkeletebbre?",
+        "ro": "Care dintre aceste locuri se află cel mai la est?",
+        "en": "Which of these places lies furthest east?"
+      }
+    },
+    {
+      "id": "er-odd-west-barentu",
+      "type": "odd_one_out",
+      "poiIds": [
+        "massawa-cities-v2",
+        "keren-cities-v2",
+        "asmara-cities-v2",
+        "barentu-cities-v2"
+      ],
+      "targetPoiId": "barentu-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten westlich?",
+        "hu": "Melyik hely fekszik ezek közül a legnyugatabbra?",
+        "ro": "Care dintre aceste locuri se află cel mai la vest?",
+        "en": "Which of these places lies furthest west?"
+      }
+    },
+    {
+      "id": "er-odd-dahlak-kebir",
+      "type": "odd_one_out",
+      "poiIds": [
+        "massawa-cities-v2",
+        "barentu-cities-v2",
+        "asmara-cities-v2",
+        "eritrea-dahlak-kebir-cities-v2"
+      ],
+      "targetPoiId": "eritrea-dahlak-kebir-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt im Dahlak-Archipel?",
+        "hu": "Melyik hely található ezek közül a Dahlak-szigetcsoportban?",
+        "ro": "Care dintre aceste locuri se află în arhipelagul Dahlak?",
+        "en": "Which of these places is in the Dahlak Archipelago?"
+      }
+    },
+    {
+      "id": "er-odd-south-senafe",
+      "type": "odd_one_out",
+      "poiIds": [
+        "keren-cities-v2",
+        "mendefera-cities-v2",
+        "adi-keyh-cities-v2",
+        "eritrea-senafe-cities-v2"
+      ],
+      "targetPoiId": "eritrea-senafe-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten südlich?",
+        "hu": "Melyik hely fekszik ezek közül a legdélebbre?",
+        "ro": "Care dintre aceste locuri se află cel mai la sud?",
+        "en": "Which of these places lies furthest south?"
+      }
+    },
+    {
+      "id": "er-odd-north-keren",
+      "type": "odd_one_out",
+      "poiIds": [
+        "asmara-cities-v2",
+        "massawa-cities-v2",
+        "mendefera-cities-v2",
+        "keren-cities-v2"
+      ],
+      "targetPoiId": "keren-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt weiter nördlich als die anderen?",
+        "hu": "Melyik hely fekszik ezek közül északabbra a többinél?",
+        "ro": "Care dintre aceste locuri se află mai la nord decât celelalte?",
+        "en": "Which of these places lies farther north than the others?"
+      }
+    },
+    {
+      "id": "er-sequence-north-south-nakfa-keren-asmara",
+      "type": "sequence",
+      "poiIds": [
+        "nakfa-trenches-history-v2",
+        "keren-cities-v2",
+        "asmara-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "nakfa-trenches-history-v2",
+        "keren-cities-v2",
+        "asmara-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die Schützengräben von Nakfa, Keren und Asmara von Norden nach Süden an.",
+        "hu": "Kattints ezekre északról délre: Nakfa lövészárkai, Keren, Asmara.",
+        "ro": "Apasă în ordine de la nord la sud: tranșeele din Nakfa, Keren, Asmara.",
+        "en": "Click the Trenches of Nakfa, Keren, and Asmara from north to south."
+      }
+    },
+    {
+      "id": "er-sequence-west-east-bisha-asmara-assab",
+      "type": "sequence",
+      "poiIds": [
+        "er-gash-barka-bisha-mine-economic-v2",
+        "asmara-cities-v2",
+        "assab-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "er-gash-barka-bisha-mine-economic-v2",
+        "asmara-cities-v2",
+        "assab-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die Bisha-Mine, Asmara und Assab von Westen nach Osten an.",
+        "hu": "Kattints ezekre nyugatról keletre: Bisha bánya, Asmara, Assab.",
+        "ro": "Apasă în ordine de la vest la est: mina Bisha, Asmara, Assab.",
+        "en": "Click Bisha Mine, Asmara, and Assab from west to east."
+      }
+    },
+    {
+      "id": "er-sequence-north-south-massawa-asmara-mendefera",
+      "type": "sequence",
+      "poiIds": [
+        "massawa-cities-v2",
+        "asmara-cities-v2",
+        "mendefera-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "massawa-cities-v2",
+        "asmara-cities-v2",
+        "mendefera-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Massawa, Asmara und Mendefera von Norden nach Süden an.",
+        "hu": "Kattints ezekre északról délre: Massawa, Asmara, Mendefera.",
+        "ro": "Apasă în ordine de la nord la sud: Massawa, Asmara, Mendefera.",
+        "en": "Click Massawa, Asmara, and Mendefera from north to south."
+      }
+    },
+    {
+      "id": "er-sequence-west-east-barentu-keren-massawa",
+      "type": "sequence",
+      "poiIds": [
+        "barentu-cities-v2",
+        "keren-cities-v2",
+        "massawa-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "barentu-cities-v2",
+        "keren-cities-v2",
+        "massawa-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Barentu, Keren und Massawa von Westen nach Osten an.",
+        "hu": "Kattints ezekre nyugatról keletre: Barentu, Keren, Massawa.",
+        "ro": "Apasă în ordine de la vest la est: Barentu, Keren, Massawa.",
+        "en": "Click Barentu, Keren, and Massawa from west to east."
+      }
+    },
+    {
+      "id": "er-sequence-north-south-dahlak-massawa-assab",
+      "type": "sequence",
+      "poiIds": [
+        "eritrea-dahlak-kebir-cities-v2",
+        "massawa-cities-v2",
+        "assab-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "eritrea-dahlak-kebir-cities-v2",
+        "massawa-cities-v2",
+        "assab-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Dahlak Kebir, Massawa und Assab von Norden nach Süden an.",
+        "hu": "Kattints ezekre északról délre: Dahlak Kebir, Massawa, Assab.",
+        "ro": "Apasă în ordine de la nord la sud: Dahlak Kebir, Massawa, Assab.",
+        "en": "Click Dahlak Kebir, Massawa, and Assab from north to south."
+      }
+    },
+    {
+      "id": "er-sequence-west-east-mendefera-adi-keyh-qohaito",
+      "type": "sequence",
+      "poiIds": [
+        "mendefera-cities-v2",
+        "adi-keyh-cities-v2",
+        "qohaito-ancient-city-history-v2"
+      ],
+      "orderedPoiIds": [
+        "mendefera-cities-v2",
+        "adi-keyh-cities-v2",
+        "qohaito-ancient-city-history-v2"
+      ],
+      "question": {
+        "de": "Klicke Mendefera, Adi Keyh und Qohaito von Westen nach Osten an.",
+        "hu": "Kattints ezekre nyugatról keletre: Mendefera, Adi Keyh, Qohaito.",
+        "ro": "Apasă în ordine de la vest la est: Mendefera, Adi Keyh, Qohaito.",
+        "en": "Click Mendefera, Adi Keyh, and Qohaito from west to east."
+      }
+    }
+  ]
+}

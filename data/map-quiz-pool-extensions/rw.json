@@ -1,0 +1,314 @@
+{
+  "rw": [
+    {
+      "id": "rw-extra-find-muhanga",
+      "type": "find_poi",
+      "targetPoiId": "rwanda-muhanga-cities-v2",
+      "question": {
+        "de": "Finde Muhanga auf der Karte.",
+        "hu": "Keresd meg Muhanga helyét a térképen.",
+        "ro": "Găsește Muhanga pe hartă.",
+        "en": "Find Muhanga on the map."
+      }
+    },
+    {
+      "id": "rw-extra-find-rusizi",
+      "type": "find_poi",
+      "targetPoiId": "rwanda-rusizi-cities-v2",
+      "question": {
+        "de": "Finde Rusizi auf der Karte.",
+        "hu": "Keresd meg Rusizi helyét a térképen.",
+        "ro": "Găsește Rusizi pe hartă.",
+        "en": "Find Rusizi on the map."
+      }
+    },
+    {
+      "id": "rw-extra-find-nyagatare",
+      "type": "find_poi",
+      "targetPoiId": "rwanda-nyagatare-cities-v2",
+      "question": {
+        "de": "Finde Nyagatare auf der Karte.",
+        "hu": "Keresd meg Nyagatare helyét a térképen.",
+        "ro": "Găsește Nyagatare pe hartă.",
+        "en": "Find Nyagatare on the map."
+      }
+    },
+    {
+      "id": "rw-extra-find-kayonza",
+      "type": "find_poi",
+      "targetPoiId": "rwanda-kayonza-cities-v2",
+      "question": {
+        "de": "Finde Kayonza auf der Karte.",
+        "hu": "Keresd meg Kayonza helyét a térképen.",
+        "ro": "Găsește Kayonza pe hartă.",
+        "en": "Find Kayonza on the map."
+      }
+    },
+    {
+      "id": "rw-extra-find-kings-palace-museum",
+      "type": "find_poi",
+      "targetPoiId": "rw-kings-palace-museum-landmarks-v2",
+      "question": {
+        "de": "Finde das King's Palace Museum in Nyanza auf der Karte.",
+        "hu": "Keresd meg a nyanzai King's Palace Museumot a térképen.",
+        "ro": "Găsește King's Palace Museum din Nyanza pe hartă.",
+        "en": "Find the King's Palace Museum in Nyanza on the map."
+      }
+    },
+    {
+      "id": "rw-extra-find-akagera-national-park",
+      "type": "find_poi",
+      "targetPoiId": "rwanda-akagera-national-park-cities-v2",
+      "question": {
+        "de": "Finde den Akagera-Nationalpark auf der Karte.",
+        "hu": "Keresd meg az Akagera Nemzeti Parkot a térképen.",
+        "ro": "Găsește Parcul Național Akagera pe hartă.",
+        "en": "Find Akagera National Park on the map."
+      }
+    },
+    {
+      "id": "rw-extra-region-rwa-3494",
+      "type": "find_region",
+      "targetRegionId": "RWA-3494",
+      "question": {
+        "de": "Klicke auf die Region Northern.",
+        "hu": "Kattints Northern régiójára.",
+        "ro": "Apasă pe regiunea Northern.",
+        "en": "Click the Northern region."
+      }
+    },
+    {
+      "id": "rw-extra-region-rwa-3495",
+      "type": "find_region",
+      "targetRegionId": "RWA-3495",
+      "question": {
+        "de": "Klicke auf die Region Kigali City.",
+        "hu": "Kattints Kigali City régiójára.",
+        "ro": "Apasă pe regiunea Kigali City.",
+        "en": "Click the Kigali City region."
+      }
+    },
+    {
+      "id": "rw-extra-odd-north-gicumbi",
+      "type": "odd_one_out",
+      "poiIds": [
+        "rwanda-gicumbi-cities-v2",
+        "rwanda-muhanga-cities-v2",
+        "rwanda-nyanza-cities-v2",
+        "rwanda-huye-cities-v2"
+      ],
+      "targetPoiId": "rwanda-gicumbi-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt am weitesten nördlich?",
+        "hu": "Melyik hely fekszik a legészakabbra?",
+        "ro": "Care loc se află cel mai la nord?",
+        "en": "Which place lies furthest north?"
+      }
+    },
+    {
+      "id": "rw-extra-odd-east-kayonza",
+      "type": "odd_one_out",
+      "poiIds": [
+        "rwanda-rubavu-cities-v2",
+        "rwanda-karongi-cities-v2",
+        "rwanda-muhanga-cities-v2",
+        "rwanda-kayonza-cities-v2"
+      ],
+      "targetPoiId": "rwanda-kayonza-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt am weitesten östlich?",
+        "hu": "Melyik hely fekszik a legkeletebbre?",
+        "ro": "Care loc se află cel mai la est?",
+        "en": "Which place lies furthest east?"
+      }
+    },
+    {
+      "id": "rw-extra-odd-west-rusizi",
+      "type": "odd_one_out",
+      "poiIds": [
+        "rwanda-kigali-cities-v2",
+        "rwanda-nyanza-cities-v2",
+        "rwanda-kayonza-cities-v2",
+        "rwanda-rusizi-cities-v2"
+      ],
+      "targetPoiId": "rwanda-rusizi-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt am weitesten westlich?",
+        "hu": "Melyik hely fekszik a legnyugatabbra?",
+        "ro": "Care loc se află cel mai la vest?",
+        "en": "Which place lies furthest west?"
+      }
+    },
+    {
+      "id": "rw-extra-odd-lake-kivu-karongi",
+      "type": "odd_one_out",
+      "poiIds": [
+        "rwanda-karongi-cities-v2",
+        "rwanda-gicumbi-cities-v2",
+        "rwanda-kayonza-cities-v2",
+        "rwanda-nyanza-cities-v2"
+      ],
+      "targetPoiId": "rwanda-karongi-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt am Ufer des Kiwusees?",
+        "hu": "Melyik hely fekszik a Kivu-tó partján?",
+        "ro": "Care loc se află pe malul Lacului Kivu?",
+        "en": "Which place lies on the shore of Lake Kivu?"
+      }
+    },
+    {
+      "id": "rw-extra-odd-kigali-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "rwanda-kigali-cities-v2",
+        "rwanda-musanze-cities-v2",
+        "rwanda-rusizi-cities-v2",
+        "rwanda-nyagatare-cities-v2"
+      ],
+      "targetPoiId": "rwanda-kigali-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt in Kigali City?",
+        "hu": "Melyik hely található Kigali City területén?",
+        "ro": "Care loc se află în Kigali City?",
+        "en": "Which place is located in Kigali City?"
+      }
+    },
+    {
+      "id": "rw-extra-odd-museum-nyanza",
+      "type": "odd_one_out",
+      "poiIds": [
+        "rw-kings-palace-museum-landmarks-v2",
+        "rwanda-kayonza-cities-v2",
+        "rwanda-rusizi-cities-v2",
+        "rwanda-gicumbi-cities-v2"
+      ],
+      "targetPoiId": "rw-kings-palace-museum-landmarks-v2",
+      "question": {
+        "de": "Welcher Ort ist ein Museum und keine Stadt?",
+        "hu": "Melyik hely múzeum, nem pedig város?",
+        "ro": "Care loc este un muzeu, nu un oraș?",
+        "en": "Which place is a museum rather than a town?"
+      }
+    },
+    {
+      "id": "rw-extra-order-west-east-rusizi-karongi-kigali",
+      "type": "sequence",
+      "poiIds": [
+        "rwanda-rusizi-cities-v2",
+        "rwanda-karongi-cities-v2",
+        "rwanda-kigali-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "rwanda-rusizi-cities-v2",
+        "rwanda-karongi-cities-v2",
+        "rwanda-kigali-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Rusizi, Karongi, Kigali von Westen nach Osten an.",
+        "hu": "Kattints ezekre nyugatról keletre: Rusizi, Karongi, Kigali.",
+        "ro": "Apasă în ordine de la vest la est: Rusizi, Karongi, Kigali.",
+        "en": "Click from west to east: Rusizi, Karongi, Kigali."
+      }
+    },
+    {
+      "id": "rw-extra-order-west-east-rubavu-muhanga-kayonza",
+      "type": "sequence",
+      "poiIds": [
+        "rwanda-rubavu-cities-v2",
+        "rwanda-muhanga-cities-v2",
+        "rwanda-kayonza-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "rwanda-rubavu-cities-v2",
+        "rwanda-muhanga-cities-v2",
+        "rwanda-kayonza-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Rubavu, Muhanga, Kayonza von Westen nach Osten an.",
+        "hu": "Kattints ezekre nyugatról keletre: Rubavu, Muhanga, Kayonza.",
+        "ro": "Apasă în ordine de la vest la est: Rubavu, Muhanga, Kayonza.",
+        "en": "Click from west to east: Rubavu, Muhanga, Kayonza."
+      }
+    },
+    {
+      "id": "rw-extra-order-west-east-lake-kivu-kigali-akagera",
+      "type": "sequence",
+      "poiIds": [
+        "rwanda-lake-kivu-cities-v2",
+        "kigali-hills-nature-v2",
+        "rwanda-akagera-national-park-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "rwanda-lake-kivu-cities-v2",
+        "kigali-hills-nature-v2",
+        "rwanda-akagera-national-park-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Lake Kivu, Kigali Hills, Akagera National Park von Westen nach Osten an.",
+        "hu": "Kattints ezekre nyugatról keletre: Lake Kivu, Kigali Hills, Akagera National Park.",
+        "ro": "Apasă în ordine de la vest la est: Lake Kivu, Kigali Hills, Akagera National Park.",
+        "en": "Click from west to east: Lake Kivu, Kigali Hills, Akagera National Park."
+      }
+    },
+    {
+      "id": "rw-extra-order-north-south-nyagatare-kayonza-kirehe",
+      "type": "sequence",
+      "poiIds": [
+        "rwanda-nyagatare-cities-v2",
+        "rwanda-kayonza-cities-v2",
+        "rwanda-kirehe-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "rwanda-nyagatare-cities-v2",
+        "rwanda-kayonza-cities-v2",
+        "rwanda-kirehe-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Nyagatare, Kayonza, Kirehe von Norden nach Süden an.",
+        "hu": "Kattints ezekre északról délre: Nyagatare, Kayonza, Kirehe.",
+        "ro": "Apasă în ordine de la nord la sud: Nyagatare, Kayonza, Kirehe.",
+        "en": "Click from north to south: Nyagatare, Kayonza, Kirehe."
+      }
+    },
+    {
+      "id": "rw-extra-order-north-south-musanze-muhanga-huye",
+      "type": "sequence",
+      "poiIds": [
+        "rwanda-musanze-cities-v2",
+        "rwanda-muhanga-cities-v2",
+        "rwanda-huye-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "rwanda-musanze-cities-v2",
+        "rwanda-muhanga-cities-v2",
+        "rwanda-huye-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Musanze, Muhanga, Huye von Norden nach Süden an.",
+        "hu": "Kattints ezekre északról délre: Musanze, Muhanga, Huye.",
+        "ro": "Apasă în ordine de la nord la sud: Musanze, Muhanga, Huye.",
+        "en": "Click from north to south: Musanze, Muhanga, Huye."
+      }
+    },
+    {
+      "id": "rw-extra-order-north-south-rubavu-karongi-rusizi",
+      "type": "sequence",
+      "poiIds": [
+        "rwanda-rubavu-cities-v2",
+        "rwanda-karongi-cities-v2",
+        "rwanda-rusizi-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "rwanda-rubavu-cities-v2",
+        "rwanda-karongi-cities-v2",
+        "rwanda-rusizi-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Rubavu, Karongi, Rusizi von Norden nach Süden an.",
+        "hu": "Kattints ezekre északról délre: Rubavu, Karongi, Rusizi.",
+        "ro": "Apasă în ordine de la nord la sud: Rubavu, Karongi, Rusizi.",
+        "en": "Click from north to south: Rubavu, Karongi, Rusizi."
+      }
+    }
+  ]
+}

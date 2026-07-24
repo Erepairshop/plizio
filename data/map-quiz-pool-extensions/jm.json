@@ -1,0 +1,292 @@
+{
+  "jm": [
+    {
+      "id": "jm-find-port-royal",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Port Royal auf der schmalen Landzunge südlich von Kingston?",
+        "hu": "Hol található Port Royal a Kingstontól délre fekvő keskeny földnyelven?",
+        "ro": "Unde se află Port Royal pe limba îngustă de pământ la sud de Kingston?",
+        "en": "Where is Port Royal on the narrow spit south of Kingston?"
+      },
+      "targetPoiId": "jm-portroyal"
+    },
+    {
+      "id": "jm-find-spanish-town-square",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde den Spanish Town Square westlich von Kingston.",
+        "hu": "Keresd meg a Spanish Town Square teret Kingstontól nyugatra.",
+        "ro": "Găsește Spanish Town Square la vest de Kingston.",
+        "en": "Find Spanish Town Square west of Kingston."
+      },
+      "targetPoiId": "jm-spanishtown"
+    },
+    {
+      "id": "jm-find-reach-falls",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Reach Falls im äußersten Osten Jamaikas.",
+        "hu": "Keresd meg a Reach Falls vízesést Jamaica legkeletibb részén.",
+        "ro": "Găsește Reach Falls în extremitatea estică a Jamaicăi.",
+        "en": "Find Reach Falls in far eastern Jamaica."
+      },
+      "targetPoiId": "jm-reachfalls"
+    },
+    {
+      "id": "jm-find-green-grotto-caves",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegen die Green Grotto Caves an der Nordküste?",
+        "hu": "Hol találhatók a Green Grotto Caves barlangok az északi parton?",
+        "ro": "Unde se află peșterile Green Grotto de pe coasta nordică?",
+        "en": "Where are the Green Grotto Caves on the north coast?"
+      },
+      "targetPoiId": "jm-greengrotto"
+    },
+    {
+      "id": "jm-find-doctors-cave",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Doctor's Cave Beach in Montego Bay.",
+        "hu": "Keresd meg a Doctor's Cave Beachet Montego Bayben.",
+        "ro": "Găsește plaja Doctor's Cave din Montego Bay.",
+        "en": "Find Doctor's Cave Beach in Montego Bay."
+      },
+      "targetPoiId": "jm-doctorscave"
+    },
+    {
+      "id": "jm-find-bob-marley-museum",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt das Bob Marley Museum in Kingston?",
+        "hu": "Hol található a Bob Marley Museum Kingstonban?",
+        "ro": "Unde se află Muzeul Bob Marley din Kingston?",
+        "en": "Where is the Bob Marley Museum in Kingston?"
+      },
+      "targetPoiId": "jm-bobmarley"
+    },
+    {
+      "id": "jm-region-saint-james",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf die Parish Saint James mit Montego Bay.",
+        "hu": "Kattints Saint James közigazgatási területére, ahol Montego Bay található.",
+        "ro": "Apasă pe parohia Saint James, unde se află Montego Bay.",
+        "en": "Click Saint James Parish, home to Montego Bay."
+      },
+      "targetRegionId": "JAM-1374"
+    },
+    {
+      "id": "jm-region-saint-ann",
+      "type": "find_region",
+      "question": {
+        "de": "Finde die Parish Saint Ann an der Nordküste.",
+        "hu": "Keresd meg Saint Ann közigazgatási területét az északi parton.",
+        "ro": "Găsește parohia Saint Ann de pe coasta nordică.",
+        "en": "Find Saint Ann Parish on the north coast."
+      },
+      "targetRegionId": "JAM-1379"
+    },
+    {
+      "id": "jm-region-saint-elizabeth",
+      "type": "find_region",
+      "question": {
+        "de": "Finde Saint Elizabeth im Südwesten Jamaikas.",
+        "hu": "Keresd meg Saint Elizabeth közigazgatási területét Jamaica délnyugati részén.",
+        "ro": "Găsește Saint Elizabeth în sud-vestul Jamaicăi.",
+        "en": "Find Saint Elizabeth in southwestern Jamaica."
+      },
+      "targetRegionId": "JAM-1373"
+    },
+    {
+      "id": "jm-region-saint-catherine",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf Saint Catherine westlich von Kingston.",
+        "hu": "Kattints Saint Catherine közigazgatási területére Kingstontól nyugatra.",
+        "ro": "Apasă pe Saint Catherine, la vest de Kingston.",
+        "en": "Click Saint Catherine west of Kingston."
+      },
+      "targetRegionId": "JAM-1380"
+    },
+    {
+      "id": "jm-region-saint-thomas",
+      "type": "find_region",
+      "question": {
+        "de": "Finde Saint Thomas im Südosten der Insel.",
+        "hu": "Keresd meg Saint Thomas közigazgatási területét a sziget délkeleti részén.",
+        "ro": "Găsește Saint Thomas în sud-estul insulei.",
+        "en": "Find Saint Thomas in the southeast of the island."
+      },
+      "targetRegionId": "JAM-1383"
+    },
+    {
+      "id": "jm-region-saint-andrew",
+      "type": "find_region",
+      "question": {
+        "de": "Finde die Parish Saint Andrew rund um Kingston.",
+        "hu": "Keresd meg Saint Andrew közigazgatási területét Kingston körül.",
+        "ro": "Găsește parohia Saint Andrew din jurul orașului Kingston.",
+        "en": "Find Saint Andrew Parish around Kingston."
+      },
+      "targetRegionId": "JAM-1382"
+    },
+    {
+      "id": "jm-odd-southernmost-place",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Süden?",
+        "hu": "Melyik hely fekszik ezek közül a legdélebbre?",
+        "ro": "Care dintre aceste locuri se află cel mai la sud?",
+        "en": "Which of these places lies furthest south?"
+      },
+      "poiIds": [
+        "jamaica-hellshire-beach-cities-v2",
+        "jm-kingston",
+        "jm-ochorios",
+        "jm-montego"
+      ],
+      "targetPoiId": "jamaica-hellshire-beach-cities-v2"
+    },
+    {
+      "id": "jm-odd-easternmost-landmark",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Sehenswürdigkeiten liegt am weitesten im Osten?",
+        "hu": "Melyik látnivaló található ezek közül a legkeletebbre?",
+        "ro": "Care dintre aceste atracții se află cel mai la est?",
+        "en": "Which of these sights lies furthest east?"
+      },
+      "poiIds": [
+        "jm-bluehole",
+        "jm-bobmarley",
+        "jm-reachfalls",
+        "jm-greengrotto"
+      ],
+      "targetPoiId": "jm-reachfalls"
+    },
+    {
+      "id": "jm-odd-northernmost-town",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten im Norden?",
+        "hu": "Melyik város fekszik ezek közül a legészakabbra?",
+        "ro": "Care dintre aceste orașe se află cel mai la nord?",
+        "en": "Which of these towns lies furthest north?"
+      },
+      "poiIds": [
+        "jm-negril",
+        "jm-ochorios",
+        "jm-portantonio",
+        "jm-montego"
+      ],
+      "targetPoiId": "jm-montego"
+    },
+    {
+      "id": "jm-odd-westernmost-historic-site",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser historischen Orte liegt am weitesten im Westen?",
+        "hu": "Melyik történelmi hely található ezek közül a legnyugatabbra?",
+        "ro": "Care dintre aceste locuri istorice se află cel mai la vest?",
+        "en": "Which of these historic places lies furthest west?"
+      },
+      "poiIds": [
+        "jm-rosehall",
+        "jm-seville",
+        "jm-spanishtown",
+        "jm-portroyal"
+      ],
+      "targetPoiId": "jm-rosehall"
+    },
+    {
+      "id": "jm-sequence-beaches-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke diese Küstenziele von Westen nach Osten an.",
+        "hu": "Kattints ezekre a tengerparti helyekre nyugatról keletre haladva.",
+        "ro": "Apasă pe aceste locuri de coastă de la vest la est.",
+        "en": "Click these coastal spots from west to east."
+      },
+      "poiIds": [
+        "jm-sevenmile",
+        "jm-doctorscave",
+        "jm-dunns",
+        "jm-frenchmanscove"
+      ],
+      "orderedPoiIds": [
+        "jm-sevenmile",
+        "jm-doctorscave",
+        "jm-dunns",
+        "jm-frenchmanscove"
+      ]
+    },
+    {
+      "id": "jm-sequence-historic-sites-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Ordne diese historischen Orte von Westen nach Osten.",
+        "hu": "Kattints ezekre a történelmi helyekre nyugatról keletre.",
+        "ro": "Ordonează aceste locuri istorice de la vest la est.",
+        "en": "Click these historic sites from west to east."
+      },
+      "poiIds": [
+        "jm-rosehall",
+        "jm-seville",
+        "jm-spanishtown",
+        "jm-portroyal"
+      ],
+      "orderedPoiIds": [
+        "jm-rosehall",
+        "jm-seville",
+        "jm-spanishtown",
+        "jm-portroyal"
+      ]
+    },
+    {
+      "id": "jm-sequence-south-north-capital-corridor",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke diese Orte von Süden nach Norden an.",
+        "hu": "Kattints ezekre a helyekre délről északra haladva.",
+        "ro": "Apasă pe aceste locuri de la sud la nord.",
+        "en": "Click these places from south to north."
+      },
+      "poiIds": [
+        "jm-portroyal",
+        "jm-spanishtown",
+        "jm-bobmarley",
+        "jm-bluemountains"
+      ],
+      "orderedPoiIds": [
+        "jm-portroyal",
+        "jm-spanishtown",
+        "jm-bobmarley",
+        "jm-bluemountains"
+      ]
+    },
+    {
+      "id": "jm-sequence-south-coast-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Ordne diese Orte an der Südküste von Westen nach Osten.",
+        "hu": "Kattints ezekre a déli parti helyekre nyugatról keletre.",
+        "ro": "Ordonează aceste locuri de pe coasta sudică de la vest la est.",
+        "en": "Click these south-coast places from west to east."
+      },
+      "poiIds": [
+        "jamaica-bluefields-cities-v2",
+        "jm-blackriver",
+        "jamaica-hellshire-beach-cities-v2",
+        "jm-portroyal"
+      ],
+      "orderedPoiIds": [
+        "jamaica-bluefields-cities-v2",
+        "jm-blackriver",
+        "jamaica-hellshire-beach-cities-v2",
+        "jm-portroyal"
+      ]
+    }
+  ]
+}

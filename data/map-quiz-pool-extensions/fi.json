@@ -1,0 +1,305 @@
+{
+  "fi": [
+    {
+      "id": "fi-find-tampere",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Tampere zwischen zwei großen Seen.",
+        "hu": "Keresd meg Tamperét a két nagy tó között.",
+        "ro": "Găsește Tampere între două lacuri mari.",
+        "en": "Find Tampere between two large lakes."
+      },
+      "targetPoiId": "city-tampere"
+    },
+    {
+      "id": "fi-find-vaasa",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Vaasa an der Westküste Finnlands?",
+        "hu": "Hol található Vaasa Finnország nyugati partján?",
+        "ro": "Unde se află Vaasa pe coasta de vest a Finlandei?",
+        "en": "Where is Vaasa on Finland's west coast?"
+      },
+      "targetPoiId": "city-vaasa"
+    },
+    {
+      "id": "fi-find-kuopio",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Kuopio im finnischen Seengebiet.",
+        "hu": "Keresd meg Kuopiót a finn tóvidéken.",
+        "ro": "Găsește Kuopio în regiunea lacurilor finlandeze.",
+        "en": "Find Kuopio in the Finnish Lakeland."
+      },
+      "targetPoiId": "city-kuopio"
+    },
+    {
+      "id": "fi-find-old-rauma",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Alt-Rauma an der Westküste Finnlands.",
+        "hu": "Keresd meg Ó-Raumát Finnország nyugati partján.",
+        "ro": "Găsește centrul vechi din Rauma pe coasta de vest a Finlandei.",
+        "en": "Find Old Rauma on Finland's west coast."
+      },
+      "targetPoiId": "hist-old-rauma"
+    },
+    {
+      "id": "fi-find-olavinlinna",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt die Burg Olavinlinna in Savonlinna?",
+        "hu": "Hol található az olavinlinnai vár Savonlinnában?",
+        "ro": "Unde se află castelul Olavinlinna din Savonlinna?",
+        "en": "Where is Olavinlinna Castle in Savonlinna?"
+      },
+      "targetPoiId": "cult-olavinlinna"
+    },
+    {
+      "id": "fi-region-finland-proper",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf die Region Varsinais-Suomi (Finland Proper).",
+        "hu": "Kattints Varsinais-Suomi régióra.",
+        "ro": "Apasă pe regiunea Finland Proper (Varsinais-Suomi).",
+        "en": "Click the Finland Proper region."
+      },
+      "targetRegionId": "FI-19"
+    },
+    {
+      "id": "fi-region-ostrobothnia",
+      "type": "find_region",
+      "question": {
+        "de": "Finde die Region Ostrobothnia an der Westküste.",
+        "hu": "Keresd meg a nyugati parton fekvő Ostrobothnia régiót.",
+        "ro": "Găsește regiunea Ostrobothnia de pe coasta de vest.",
+        "en": "Find the Ostrobothnia region on the west coast."
+      },
+      "targetRegionId": "FI-12"
+    },
+    {
+      "id": "fi-region-north-karelia",
+      "type": "find_region",
+      "question": {
+        "de": "Wo liegt North Karelia im Osten Finnlands?",
+        "hu": "Hol található North Karelia Finnország keleti részén?",
+        "ro": "Unde se află North Karelia în estul Finlandei?",
+        "en": "Where is North Karelia in eastern Finland?"
+      },
+      "targetRegionId": "FI-13"
+    },
+    {
+      "id": "fi-region-northern-savonia",
+      "type": "find_region",
+      "question": {
+        "de": "Finde die Region Northern Savonia mit Kuopio.",
+        "hu": "Keresd meg Northern Savonia régióját Kuopióval.",
+        "ro": "Găsește regiunea Northern Savonia cu orașul Kuopio.",
+        "en": "Find the Northern Savonia region with Kuopio."
+      },
+      "targetRegionId": "FI-15"
+    },
+    {
+      "id": "fi-region-paijanne-tavastia",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf Päijänne Tavastia rund um Lahti.",
+        "hu": "Kattints Päijänne Tavastia régióra Lahti körül.",
+        "ro": "Apasă pe Päijänne Tavastia din jurul orașului Lahti.",
+        "en": "Click Päijänne Tavastia around Lahti."
+      },
+      "targetRegionId": "FI-16"
+    },
+    {
+      "id": "fi-odd-not-lapland",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Orte liegt nicht in Lappland?",
+        "hu": "Melyik hely nem Lappföldön található?",
+        "ro": "Care dintre aceste locuri nu se află în Laponia?",
+        "en": "Which of these places is not in Lapland?"
+      },
+      "poiIds": [
+        "finland-ivalo-cities-v2",
+        "finland-kittila-cities-v2",
+        "city-rovaniemi",
+        "finland-kuusamo-cities-v2"
+      ],
+      "targetPoiId": "finland-kuusamo-cities-v2"
+    },
+    {
+      "id": "fi-odd-gulf-of-finland",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Städte liegt direkt am Golf von Finnland?",
+        "hu": "Melyik város fekszik közvetlenül a Finn-öböl partján?",
+        "ro": "Care dintre aceste orașe se află direct pe Golful Finlandei?",
+        "en": "Which of these cities lies directly on the Gulf of Finland?"
+      },
+      "poiIds": [
+        "city-kotka",
+        "city-lahti",
+        "city-jyvaskyla",
+        "city-kuopio"
+      ],
+      "targetPoiId": "city-kotka"
+    },
+    {
+      "id": "fi-odd-saimaa",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Städte liegt am Saimaa-Seensystem?",
+        "hu": "Melyik város fekszik a Saimaa-tórendszernél?",
+        "ro": "Care dintre aceste orașe se află pe sistemul de lacuri Saimaa?",
+        "en": "Which of these cities lies on the Saimaa lake system?"
+      },
+      "poiIds": [
+        "city-lappeenranta",
+        "city-tampere",
+        "city-lahti",
+        "city-pori"
+      ],
+      "targetPoiId": "city-lappeenranta"
+    },
+    {
+      "id": "fi-odd-west-coast",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Städte liegt direkt an der Küste des Bottnischen Meerbusens?",
+        "hu": "Melyik város fekszik közvetlenül a Botteni-öböl partján?",
+        "ro": "Care dintre aceste orașe se află direct pe coasta Golfului Botnic?",
+        "en": "Which of these cities lies directly on the coast of the Gulf of Bothnia?"
+      },
+      "poiIds": [
+        "city-vaasa",
+        "city-kuopio",
+        "city-jyvaskyla",
+        "city-lahti"
+      ],
+      "targetPoiId": "city-vaasa"
+    },
+    {
+      "id": "fi-odd-russian-border",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Städte liegt am nächsten an der russischen Grenze?",
+        "hu": "Melyik város van a legközelebb az orosz határhoz?",
+        "ro": "Care dintre aceste orașe este cel mai aproape de granița cu Rusia?",
+        "en": "Which of these cities is closest to the Russian border?"
+      },
+      "poiIds": [
+        "city-lappeenranta",
+        "city-tampere",
+        "city-vaasa",
+        "city-rauma"
+      ],
+      "targetPoiId": "city-lappeenranta"
+    },
+    {
+      "id": "fi-sequence-south-north-gulf-finland",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke diese Orte von Süden nach Norden an.",
+        "hu": "Kattints ezekre a helyekre délről északra haladva.",
+        "ro": "Apasă aceste locuri de la sud la nord.",
+        "en": "Click these places from south to north."
+      },
+      "poiIds": [
+        "finland-hanko-cities-v2",
+        "city-helsinki",
+        "city-porvoo",
+        "finland-loviisa-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "finland-hanko-cities-v2",
+        "city-helsinki",
+        "city-porvoo",
+        "finland-loviisa-cities-v2"
+      ]
+    },
+    {
+      "id": "fi-sequence-west-east-south-coast",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Städte an der Südküste von Westen nach Osten an.",
+        "hu": "Kattints a déli part városaira nyugatról keletre haladva.",
+        "ro": "Apasă orașele de pe coasta sudică de la vest la est.",
+        "en": "Click the south-coast cities from west to east."
+      },
+      "poiIds": [
+        "city-turku",
+        "city-helsinki",
+        "city-kotka"
+      ],
+      "orderedPoiIds": [
+        "city-turku",
+        "city-helsinki",
+        "city-kotka"
+      ]
+    },
+    {
+      "id": "fi-sequence-west-east-inland",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke diese Städte von Westen nach Osten an.",
+        "hu": "Kattints ezekre a városokra nyugatról keletre haladva.",
+        "ro": "Apasă aceste orașe de la vest la est.",
+        "en": "Click these cities from west to east."
+      },
+      "poiIds": [
+        "city-vaasa",
+        "city-tampere",
+        "city-jyvaskyla",
+        "city-kuopio"
+      ],
+      "orderedPoiIds": [
+        "city-vaasa",
+        "city-tampere",
+        "city-jyvaskyla",
+        "city-kuopio"
+      ]
+    },
+    {
+      "id": "fi-sequence-south-north-lakeland",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Städte im Binnenland von Süden nach Norden an.",
+        "hu": "Kattints a belső-finnországi városokra délről északra haladva.",
+        "ro": "Apasă orașele din interiorul țării de la sud la nord.",
+        "en": "Click the inland cities from south to north."
+      },
+      "poiIds": [
+        "city-lahti",
+        "city-jyvaskyla",
+        "city-kuopio",
+        "city-iisalmi"
+      ],
+      "orderedPoiIds": [
+        "city-lahti",
+        "city-jyvaskyla",
+        "city-kuopio",
+        "city-iisalmi"
+      ]
+    },
+    {
+      "id": "fi-sequence-west-east-north",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die nördlichen Orte von Westen nach Osten an.",
+        "hu": "Kattints az északi helyekre nyugatról keletre haladva.",
+        "ro": "Apasă locurile nordice de la vest la est.",
+        "en": "Click the northern places from west to east."
+      },
+      "poiIds": [
+        "finland-hetta-cities-v2",
+        "city-rovaniemi",
+        "finland-kuusamo-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "finland-hetta-cities-v2",
+        "city-rovaniemi",
+        "finland-kuusamo-cities-v2"
+      ]
+    }
+  ]
+}

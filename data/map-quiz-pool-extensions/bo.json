@@ -1,0 +1,309 @@
+{
+  "bo": [
+    {
+      "id": "bo-find-casa-libertad",
+      "type": "find_poi",
+      "targetPoiId": "bo-casa-libertad-history-v2",
+      "question": {
+        "de": "Finde die Casa de la Libertad in Sucre.",
+        "hu": "Keresd meg a Casa de la Libertad épületét Sucre városában.",
+        "ro": "Găsește Casa de la Libertad din Sucre.",
+        "en": "Find the Casa de la Libertad in Sucre."
+      }
+    },
+    {
+      "id": "bo-find-incallajta",
+      "type": "find_poi",
+      "targetPoiId": "bo-incallajta-history-v2",
+      "question": {
+        "de": "Klicke auf Incallajta, die Inka-Festung östlich von Cochabamba.",
+        "hu": "Kattints Incallajtára, az inkák erődjére Cochabambától keletre.",
+        "ro": "Apasă pe Incallajta, fortăreața incașă de la est de Cochabamba.",
+        "en": "Click Incallajta, the Inca fortress east of Cochabamba."
+      }
+    },
+    {
+      "id": "bo-find-illimani",
+      "type": "find_poi",
+      "targetPoiId": "bo-illimani-nature-v2",
+      "question": {
+        "de": "Finde den Berg Illimani bei La Paz.",
+        "hu": "Keresd meg az Illimani hegyet La Paz közelében.",
+        "ro": "Găsește muntele Illimani de lângă La Paz.",
+        "en": "Find Mount Illimani near La Paz."
+      }
+    },
+    {
+      "id": "bo-find-isla-del-sol",
+      "type": "find_poi",
+      "targetPoiId": "bo-isla-del-sol-nature-v2",
+      "question": {
+        "de": "Finde die Isla del Sol im Titicacasee.",
+        "hu": "Keresd meg az Isla del Sol szigetet a Titicaca-tóban.",
+        "ro": "Găsește Isla del Sol din Lacul Titicaca.",
+        "en": "Find Isla del Sol in Lake Titicaca."
+      }
+    },
+    {
+      "id": "bo-find-amboro",
+      "type": "find_poi",
+      "targetPoiId": "bo-amboro-national-park-nature-v2",
+      "question": {
+        "de": "Wo liegt der Nationalpark Amboró westlich von Santa Cruz?",
+        "hu": "Hol található az Amboró Nemzeti Park Santa Cruztól nyugatra?",
+        "ro": "Unde se află Parcul Național Amboró, la vest de Santa Cruz?",
+        "en": "Where is Amboró National Park west of Santa Cruz?"
+      }
+    },
+    {
+      "id": "bo-region-oruro",
+      "type": "find_region",
+      "targetRegionId": "BOL-1937",
+      "question": {
+        "de": "Klicke auf das Departamento Oruro im westlichen Hochland.",
+        "hu": "Kattints a nyugati fennsíkon fekvő Oruro megyére.",
+        "ro": "Apasă pe departamentul Oruro din înălțimile vestice.",
+        "en": "Click Oruro Department in the western highlands."
+      }
+    },
+    {
+      "id": "bo-region-tarija",
+      "type": "find_region",
+      "targetRegionId": "BOL-1941",
+      "question": {
+        "de": "Finde das Departamento Tarija im äußersten Süden.",
+        "hu": "Keresd meg Tarija megyét a legdélibb részen.",
+        "ro": "Găsește departamentul Tarija din extremul sud.",
+        "en": "Find Tarija Department in the far south."
+      }
+    },
+    {
+      "id": "bo-region-chuquisaca",
+      "type": "find_region",
+      "targetRegionId": "BOL-1292",
+      "question": {
+        "de": "Klicke auf Chuquisaca, das Departamento von Sucre.",
+        "hu": "Kattints Chuquisaca megyére, ahol Sucre található.",
+        "ro": "Apasă pe Chuquisaca, departamentul în care se află Sucre.",
+        "en": "Click Chuquisaca, the department that contains Sucre."
+      }
+    },
+    {
+      "id": "bo-region-pando",
+      "type": "find_region",
+      "targetRegionId": "BOL-1938",
+      "question": {
+        "de": "Finde Pando im amazonischen Norden Boliviens.",
+        "hu": "Keresd meg Pandót Bolívia amazóniai északi részén.",
+        "ro": "Găsește Pando în nordul amazonian al Boliviei.",
+        "en": "Find Pando in Bolivia's Amazonian north."
+      }
+    },
+    {
+      "id": "bo-region-cochabamba",
+      "type": "find_region",
+      "targetRegionId": "BOL-1291",
+      "question": {
+        "de": "Klicke auf das zentrale Departamento Cochabamba.",
+        "hu": "Kattints a középső Cochabamba megyére.",
+        "ro": "Apasă pe departamentul central Cochabamba.",
+        "en": "Click the central department of Cochabamba."
+      }
+    },
+    {
+      "id": "bo-odd-tiwanaku-vs-sucre",
+      "type": "odd_one_out",
+      "poiIds": [
+        "bo-puma-punku-history-v2",
+        "bo-puerta-del-sol-history-v2",
+        "bo-kalasasaya-history-v2",
+        "bo-casa-libertad-history-v2"
+      ],
+      "targetPoiId": "bo-casa-libertad-history-v2",
+      "question": {
+        "de": "Welche dieser Stätten gehört nicht zum Raum Tiwanaku bei La Paz?",
+        "hu": "Melyik helyszín nem a La Paz melletti Tiwanaku körzetéhez tartozik?",
+        "ro": "Care dintre aceste situri nu aparține zonei Tiwanaku de lângă La Paz?",
+        "en": "Which of these sites is not part of the Tiwanaku area near La Paz?"
+      }
+    },
+    {
+      "id": "bo-odd-not-in-potosi-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "bo-casa-moneda-history-v2",
+        "catedral-potosi-landmarks-v2",
+        "iglesia-san-lorenzo-landmarks-v2",
+        "bo-fuerte-samaipata-history-v2"
+      ],
+      "targetPoiId": "bo-fuerte-samaipata-history-v2",
+      "question": {
+        "de": "Welche dieser Sehenswürdigkeiten liegt nicht in der Stadt Potosí?",
+        "hu": "Melyik látnivaló nem Potosí városában található?",
+        "ro": "Care dintre aceste obiective nu se află în orașul Potosí?",
+        "en": "Which of these sights is not in the city of Potosí?"
+      }
+    },
+    {
+      "id": "bo-odd-island-in-lake",
+      "type": "odd_one_out",
+      "poiIds": [
+        "bo-isla-del-sol-nature-v2",
+        "bo-sajama-nature-v2",
+        "bo-illimani-nature-v2",
+        "bo-cerro-tunari-nature-v2"
+      ],
+      "targetPoiId": "bo-isla-del-sol-nature-v2",
+      "question": {
+        "de": "Welcher dieser Orte ist eine Insel und kein Berg?",
+        "hu": "Melyik hely sziget, és nem hegy?",
+        "ro": "Care dintre aceste locuri este o insulă și nu un munte?",
+        "en": "Which of these places is an island rather than a mountain?"
+      }
+    },
+    {
+      "id": "bo-odd-farthest-north-reserve",
+      "type": "odd_one_out",
+      "poiIds": [
+        "manuripi-heath-reservat-life-v2",
+        "beni-biostation-life-v2",
+        "bo-madidi-national-park-nature-v2",
+        "carrasco-nationalpark-life-v2"
+      ],
+      "targetPoiId": "manuripi-heath-reservat-life-v2",
+      "question": {
+        "de": "Welches dieser Schutzgebiete liegt am weitesten nördlich?",
+        "hu": "Melyik védett terület fekszik a legészakabbra?",
+        "ro": "Care dintre aceste arii protejate se află cel mai la nord?",
+        "en": "Which of these protected areas lies farthest north?"
+      }
+    },
+    {
+      "id": "bo-odd-only-in-tarija",
+      "type": "odd_one_out",
+      "poiIds": [
+        "valle-de-la-concepcion-wein-life-v2",
+        "bo-cerro-rico-nature-v2",
+        "parque-cretacico-sucre-life-v2",
+        "pando-paranuss-life-v2"
+      ],
+      "targetPoiId": "valle-de-la-concepcion-wein-life-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt im Departamento Tarija?",
+        "hu": "Melyik hely található Tarija megyében?",
+        "ro": "Care dintre aceste locuri se află în departamentul Tarija?",
+        "en": "Which of these places is in Tarija Department?"
+      }
+    },
+    {
+      "id": "bo-sequence-west-east-southern-highlands",
+      "type": "sequence",
+      "poiIds": [
+        "bo-uturuncu-nature-v2",
+        "bo-cerro-rico-nature-v2",
+        "bo-casa-libertad-history-v2",
+        "bo-fuerte-samaipata-history-v2"
+      ],
+      "orderedPoiIds": [
+        "bo-uturuncu-nature-v2",
+        "bo-cerro-rico-nature-v2",
+        "bo-casa-libertad-history-v2",
+        "bo-fuerte-samaipata-history-v2"
+      ],
+      "question": {
+        "de": "Klicke Uturuncu, Cerro Rico, Casa de la Libertad und El Fuerte de Samaipata von West nach Ost an.",
+        "hu": "Kattints Uturuncura, Cerro Ricóra, a Casa de la Libertadra és El Fuerte de Samaipatára nyugatról keletre.",
+        "ro": "Apasă Uturuncu, Cerro Rico, Casa de la Libertad și El Fuerte de Samaipata de la vest la est.",
+        "en": "Click Uturuncu, Cerro Rico, Casa de la Libertad, and El Fuerte de Samaipata from west to east."
+      }
+    },
+    {
+      "id": "bo-sequence-north-south-lake-and-peaks",
+      "type": "sequence",
+      "poiIds": [
+        "bo-illampu-nature-v2",
+        "bo-ancohuma-nature-v2",
+        "bo-isla-del-sol-nature-v2",
+        "bo-illimani-nature-v2"
+      ],
+      "orderedPoiIds": [
+        "bo-illampu-nature-v2",
+        "bo-ancohuma-nature-v2",
+        "bo-isla-del-sol-nature-v2",
+        "bo-illimani-nature-v2"
+      ],
+      "question": {
+        "de": "Klicke Illampu, Ancohuma, Isla del Sol und Illimani von Nord nach Süd an.",
+        "hu": "Kattints Illampura, Ancohumára, Isla del Solra és Illimanira északról délre.",
+        "ro": "Apasă Illampu, Ancohuma, Isla del Sol și Illimani de la nord la sud.",
+        "en": "Click Illampu, Ancohuma, Isla del Sol, and Illimani from north to south."
+      }
+    },
+    {
+      "id": "bo-sequence-west-east-altiplano-lowlands",
+      "type": "sequence",
+      "poiIds": [
+        "bo-sajama-nature-v2",
+        "bo-cerro-tunari-nature-v2",
+        "bo-incallajta-history-v2",
+        "bo-amboro-national-park-nature-v2"
+      ],
+      "orderedPoiIds": [
+        "bo-sajama-nature-v2",
+        "bo-cerro-tunari-nature-v2",
+        "bo-incallajta-history-v2",
+        "bo-amboro-national-park-nature-v2"
+      ],
+      "question": {
+        "de": "Klicke Nevado Sajama, Cerro Tunari, Incallajta und den Nationalpark Amboró von West nach Ost an.",
+        "hu": "Kattints a Nevado Sajamára, a Cerro Tunarira, Incallajtára és az Amboró Nemzeti Parkra nyugatról keletre.",
+        "ro": "Apasă Nevado Sajama, Cerro Tunari, Incallajta și Parcul Național Amboró de la vest la est.",
+        "en": "Click Nevado Sajama, Cerro Tunari, Incallajta, and Amboró National Park from west to east."
+      }
+    },
+    {
+      "id": "bo-sequence-north-south-eastern-lowlands",
+      "type": "sequence",
+      "poiIds": [
+        "bo-noel-kempff-mercado-nature-v2",
+        "mision-concepcion-landmarks-v2",
+        "plaza-24-septiembre-landmarks-v2",
+        "otuquis-pantanal-life-v2"
+      ],
+      "orderedPoiIds": [
+        "bo-noel-kempff-mercado-nature-v2",
+        "mision-concepcion-landmarks-v2",
+        "plaza-24-septiembre-landmarks-v2",
+        "otuquis-pantanal-life-v2"
+      ],
+      "question": {
+        "de": "Klicke Noel-Kempff-Mercado-Nationalpark, die Mission von Concepción, Plaza 24 de Septiembre und den Nationalpark Otuquis von Nord nach Süd an.",
+        "hu": "Kattints a Noel Kempff Mercado Nemzeti Parkra, a concepcióni misszióra, a Plaza 24 de Septiembrére és az Otuquis Nemzeti Parkra északról délre.",
+        "ro": "Apasă Parcul Național Noel Kempff Mercado, misiunea din Concepción, Plaza 24 de Septiembre și Parcul Național Otuquis de la nord la sud.",
+        "en": "Click Noel Kempff Mercado National Park, the mission at Concepción, Plaza 24 de Septiembre, and Otuquis National Park from north to south."
+      }
+    },
+    {
+      "id": "bo-sequence-north-south-amazon-to-south",
+      "type": "sequence",
+      "poiIds": [
+        "pando-paranuss-life-v2",
+        "beni-biostation-life-v2",
+        "bo-amboro-national-park-nature-v2",
+        "tariquia-reservat-life-v2"
+      ],
+      "orderedPoiIds": [
+        "pando-paranuss-life-v2",
+        "beni-biostation-life-v2",
+        "bo-amboro-national-park-nature-v2",
+        "tariquia-reservat-life-v2"
+      ],
+      "question": {
+        "de": "Klicke die Orte von Nord nach Süd an: Pando-Paranussregion, Biologische Station Beni, Nationalpark Amboró, Tariquía-Naturreservat.",
+        "hu": "Kattints ezekre a helyekre északról délre: Pando brazilidió-régió, Beni Biológiai Állomás, Amboró Nemzeti Park, Tariquía természetvédelmi terület.",
+        "ro": "Apasă aceste locuri de la nord la sud: regiunea nucilor de Brazilia din Pando, Stațiunea Biologică Beni, Parcul Național Amboró, Rezervația naturală Tariquía.",
+        "en": "Click these places from north to south: Pando Brazil Nut Region, Beni Biological Station, Amboró National Park, Tariquía Nature Reserve."
+      }
+    }
+  ]
+}

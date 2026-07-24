@@ -1,0 +1,304 @@
+{
+  "la": [
+    {
+      "id": "la-find-thakhek-new",
+      "type": "find_poi",
+      "targetPoiId": "thakhek-cities-v2",
+      "question": {
+        "de": "Finde Thakhek am Mekong in Zentrallaos.",
+        "hu": "Keresd meg Thakheket a Mekong partjan, Kozep-Laoszban.",
+        "ro": "Gaseste Thakhek pe Mekong, in centrul Laosului.",
+        "en": "Find Thakhek on the Mekong in central Laos."
+      }
+    },
+    {
+      "id": "la-find-vang-vieng-new",
+      "type": "find_poi",
+      "targetPoiId": "vang-vieng-cities-v2",
+      "question": {
+        "de": "Finde Vang Vieng noerdlich von Vientiane.",
+        "hu": "Keresd meg Vang Vienget Vientiantol eszakra.",
+        "ro": "Gaseste Vang Vieng la nord de Vientiane.",
+        "en": "Find Vang Vieng north of Vientiane."
+      }
+    },
+    {
+      "id": "la-find-phongsaly-new",
+      "type": "find_poi",
+      "targetPoiId": "phongsaly-cities-v2",
+      "question": {
+        "de": "Finde Phongsaly im aeussersten Norden von Laos.",
+        "hu": "Keresd meg Phongsalyt Laosz legeszakibb reszen.",
+        "ro": "Gaseste Phongsaly in extremul nord al Laosului.",
+        "en": "Find Phongsaly in the far north of Laos."
+      }
+    },
+    {
+      "id": "la-find-viengxay-caves-new",
+      "type": "find_poi",
+      "targetPoiId": "viengxay-caves-landmarks-v2",
+      "question": {
+        "de": "Finde die Viengxay-Hoehlen im Nordosten von Laos.",
+        "hu": "Keresd meg a Viengxay-barlangokat Laosz eszakkeleti reszen.",
+        "ro": "Gaseste pesterile Viengxay in nord-estul Laosului.",
+        "en": "Find the Viengxay Caves in northeastern Laos."
+      }
+    },
+    {
+      "id": "la-find-vat-phou-new",
+      "type": "find_poi",
+      "targetPoiId": "vat-phou-landmarks-v2",
+      "question": {
+        "de": "Finde Vat Phou im Sueden bei Champasak.",
+        "hu": "Keresd meg Vat Phout delen, Champasak kozeleben.",
+        "ro": "Gaseste Vat Phou in sud, langa Champasak.",
+        "en": "Find Vat Phou in the south near Champasak."
+      }
+    },
+    {
+      "id": "la-region-bokeo-new",
+      "type": "find_region",
+      "targetRegionId": "LAO-3271",
+      "question": {
+        "de": "Klicke auf die Provinz Bokeo.",
+        "hu": "Kattints Bokeo tartomanyra.",
+        "ro": "Apasa pe provincia Bokeo.",
+        "en": "Click Bokeo Province."
+      }
+    },
+    {
+      "id": "la-region-khammouane-new",
+      "type": "find_region",
+      "targetRegionId": "LAO-3293",
+      "question": {
+        "de": "Klicke auf die Provinz Khammouane.",
+        "hu": "Kattints Khammouane tartomanyra.",
+        "ro": "Apasa pe provincia Khammouane.",
+        "en": "Click Khammouane Province."
+      }
+    },
+    {
+      "id": "la-region-houaphan-new",
+      "type": "find_region",
+      "targetRegionId": "LAO-3288",
+      "question": {
+        "de": "Klicke auf die Provinz Houaphan.",
+        "hu": "Kattints Houaphan tartomanyra.",
+        "ro": "Apasa pe provincia Houaphan.",
+        "en": "Click Houaphan Province."
+      }
+    },
+    {
+      "id": "la-region-xiangkhoang-new",
+      "type": "find_region",
+      "targetRegionId": "LAO-3286",
+      "question": {
+        "de": "Klicke auf die Provinz Xiangkhoang.",
+        "hu": "Kattints Xiangkhoang tartomanyra.",
+        "ro": "Apasa pe provincia Xiangkhoang.",
+        "en": "Click Xiangkhoang Province."
+      }
+    },
+    {
+      "id": "la-region-attapeu-new",
+      "type": "find_region",
+      "targetRegionId": "LAO-3294",
+      "question": {
+        "de": "Klicke auf die Provinz Attapeu.",
+        "hu": "Kattints Attapeu tartomanyra.",
+        "ro": "Apasa pe provincia Attapeu.",
+        "en": "Click Attapeu Province."
+      }
+    },
+    {
+      "id": "la-odd-north-phongsaly-new",
+      "type": "odd_one_out",
+      "poiIds": [
+        "pakse-cities-v2",
+        "vientiane-cities-v2",
+        "phongsaly-cities-v2"
+      ],
+      "targetPoiId": "phongsaly-cities-v2",
+      "question": {
+        "de": "Welche dieser Orte liegt am weitesten im Norden?",
+        "hu": "Melyik hely fekszik a legeszakabbra?",
+        "ro": "Care dintre aceste locuri se afla cel mai la nord?",
+        "en": "Which of these places lies farthest north?"
+      }
+    },
+    {
+      "id": "la-odd-east-attapeu-new",
+      "type": "odd_one_out",
+      "poiIds": [
+        "luang-namtha-cities-v2",
+        "xam-neua-cities-v2",
+        "attapeu-cities-v2"
+      ],
+      "targetPoiId": "attapeu-cities-v2",
+      "question": {
+        "de": "Welche dieser Orte liegt am weitesten im Osten?",
+        "hu": "Melyik hely fekszik a legkeletebbre?",
+        "ro": "Care dintre aceste locuri se afla cel mai la est?",
+        "en": "Which of these places lies farthest east?"
+      }
+    },
+    {
+      "id": "la-odd-south-don-det-new",
+      "type": "odd_one_out",
+      "poiIds": [
+        "champasak-cities-v2",
+        "savannakhet-cities-v2",
+        "laos-don-det-cities-v2"
+      ],
+      "targetPoiId": "laos-don-det-cities-v2",
+      "question": {
+        "de": "Welche dieser Orte liegt am weitesten im Sueden?",
+        "hu": "Melyik hely fekszik a legdelebbre?",
+        "ro": "Care dintre aceste locuri se afla cel mai la sud?",
+        "en": "Which of these places lies farthest south?"
+      }
+    },
+    {
+      "id": "la-odd-west-huay-xai-new",
+      "type": "odd_one_out",
+      "poiIds": [
+        "huay-xai-cities-v2",
+        "vientiane-cities-v2",
+        "thakhek-cities-v2"
+      ],
+      "targetPoiId": "huay-xai-cities-v2",
+      "question": {
+        "de": "Welche dieser Orte liegt am weitesten im Westen?",
+        "hu": "Melyik hely fekszik a legnyugatabbra?",
+        "ro": "Care dintre aceste locuri se afla cel mai la vest?",
+        "en": "Which of these places lies farthest west?"
+      }
+    },
+    {
+      "id": "la-odd-north-vang-vieng-new",
+      "type": "odd_one_out",
+      "poiIds": [
+        "pakxan-cities-v2",
+        "vang-vieng-cities-v2",
+        "xaisomboun-cities-v2"
+      ],
+      "targetPoiId": "vang-vieng-cities-v2",
+      "question": {
+        "de": "Welche dieser Orte liegt am weitesten im Norden?",
+        "hu": "Melyik hely fekszik a legeszakabbra?",
+        "ro": "Care dintre aceste locuri se afla cel mai la nord?",
+        "en": "Which of these places lies farthest north?"
+      }
+    },
+    {
+      "id": "la-sequence-west-east-north-new",
+      "type": "sequence",
+      "poiIds": [
+        "muang-sing-cities-v2",
+        "luang-namtha-cities-v2",
+        "muang-xay-cities-v2",
+        "phongsaly-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "muang-sing-cities-v2",
+        "luang-namtha-cities-v2",
+        "muang-xay-cities-v2",
+        "phongsaly-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Muang Sing, Luang Namtha, Muang Xay und Phongsaly von Westen nach Osten an.",
+        "hu": "Kattints Muang Singre, Luang Namthara, Muang Xayra es Phongsalyra nyugatrol keletre.",
+        "ro": "Apasa pe Muang Sing, Luang Namtha, Muang Xay si Phongsaly de la vest la est.",
+        "en": "Click Muang Sing, Luang Namtha, Muang Xay and Phongsaly from west to east."
+      }
+    },
+    {
+      "id": "la-sequence-north-south-east-new",
+      "type": "sequence",
+      "poiIds": [
+        "xam-neua-cities-v2",
+        "phonsavan-cities-v2",
+        "pakxan-cities-v2",
+        "attapeu-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "xam-neua-cities-v2",
+        "phonsavan-cities-v2",
+        "pakxan-cities-v2",
+        "attapeu-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Xam Neua, Phonsavan, Pakxan und Attapeu von Norden nach Sueden an.",
+        "hu": "Kattints Xam Neuara, Phonsavanra, Pakxanra es Attapeura eszakrol delre.",
+        "ro": "Apasa pe Xam Neua, Phonsavan, Pakxan si Attapeu de la nord la sud.",
+        "en": "Click Xam Neua, Phonsavan, Pakxan and Attapeu from north to south."
+      }
+    },
+    {
+      "id": "la-sequence-north-south-west-new",
+      "type": "sequence",
+      "poiIds": [
+        "boun-neua-cities-v2",
+        "luang-namtha-cities-v2",
+        "sainyabuli-cities-v2",
+        "pak-lay-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "boun-neua-cities-v2",
+        "luang-namtha-cities-v2",
+        "sainyabuli-cities-v2",
+        "pak-lay-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Boun Neua, Luang Namtha, Sainyabuli und Pak Lay von Norden nach Sueden an.",
+        "hu": "Kattints Boun Neuara, Luang Namthara, Sainyabulira es Pak Layre eszakrol delre.",
+        "ro": "Apasa pe Boun Neua, Luang Namtha, Sainyabuli si Pak Lay de la nord la sud.",
+        "en": "Click Boun Neua, Luang Namtha, Sainyabuli and Pak Lay from north to south."
+      }
+    },
+    {
+      "id": "la-sequence-west-east-south-new",
+      "type": "sequence",
+      "poiIds": [
+        "pakse-cities-v2",
+        "laos-tad-fane-cities-v2",
+        "salavan-cities-v2",
+        "sekong-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "pakse-cities-v2",
+        "laos-tad-fane-cities-v2",
+        "salavan-cities-v2",
+        "sekong-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Pakse, Tad Fane, Salavan und Sekong von Westen nach Osten an.",
+        "hu": "Kattints Paksera, Tad Fanera, Salavanra es Sekongra nyugatrol keletre.",
+        "ro": "Apasa pe Pakse, Tad Fane, Salavan si Sekong de la vest la est.",
+        "en": "Click Pakse, Tad Fane, Salavan and Sekong from west to east."
+      }
+    },
+    {
+      "id": "la-sequence-north-south-southwest-new",
+      "type": "sequence",
+      "poiIds": [
+        "savannakhet-cities-v2",
+        "pakse-cities-v2",
+        "champasak-cities-v2",
+        "muang-khong-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "savannakhet-cities-v2",
+        "pakse-cities-v2",
+        "champasak-cities-v2",
+        "muang-khong-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Savannakhet, Pakse, Champasak und Muang Khong von Norden nach Sueden an.",
+        "hu": "Kattints Savannakhetre, Paksera, Champasakra es Muang Khongra eszakrol delre.",
+        "ro": "Apasa pe Savannakhet, Pakse, Champasak si Muang Khong de la nord la sud.",
+        "en": "Click Savannakhet, Pakse, Champasak and Muang Khong from north to south."
+      }
+    }
+  ]
+}

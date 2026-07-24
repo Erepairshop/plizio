@@ -1,0 +1,232 @@
+{
+  "de": [
+    {
+      "id": "de-region-berlin-city-state",
+      "type": "find_region",
+      "targetRegionId": "DE-BE",
+      "question": {
+        "de": "Klicke auf den Stadtstaat Berlin.",
+        "hu": "Kattints Berlin városállamára.",
+        "ro": "Apasă pe landul-oraș Berlin.",
+        "en": "Click the city-state of Berlin."
+      }
+    },
+    {
+      "id": "de-region-baden-wuerttemberg-southwest",
+      "type": "find_region",
+      "targetRegionId": "DE-BW",
+      "question": {
+        "de": "Wo liegt Baden-Württemberg im Südwesten Deutschlands?",
+        "hu": "Hol van Baden-Württemberg Németország délnyugati részén?",
+        "ro": "Unde se află Baden-Württemberg în sud-vestul Germaniei?",
+        "en": "Where is Baden-Württemberg in southwestern Germany?"
+      }
+    },
+    {
+      "id": "de-region-hessen-capital",
+      "type": "find_region",
+      "targetRegionId": "DE-HE",
+      "question": {
+        "de": "Welches Bundesland hat Wiesbaden als Hauptstadt?",
+        "hu": "Melyik tartomány fővárosa Wiesbaden?",
+        "ro": "Care land are capitala la Wiesbaden?",
+        "en": "Which state has Wiesbaden as its capital?"
+      }
+    },
+    {
+      "id": "de-region-schleswig-holstein-seas",
+      "type": "find_region",
+      "targetRegionId": "DE-SH",
+      "question": {
+        "de": "Finde das Bundesland zwischen Nordsee und Ostsee.",
+        "hu": "Keresd meg azt a tartományt, amely az Északi-tenger és a Balti-tenger között fekszik.",
+        "ro": "Găsește landul dintre Marea Nordului și Marea Baltică.",
+        "en": "Find the state between the North Sea and the Baltic Sea."
+      }
+    },
+    {
+      "id": "de-region-brandenburg-around-berlin",
+      "type": "find_region",
+      "targetRegionId": "DE-BB",
+      "question": {
+        "de": "Welches Bundesland umgibt Berlin auf der Karte?",
+        "hu": "Melyik tartomány veszi körül Berlint a térképen?",
+        "ro": "Ce land înconjoară Berlinul pe hartă?",
+        "en": "Which state surrounds Berlin on the map?"
+      }
+    },
+    {
+      "id": "de-region-mecklenburg-vorpommern-islands",
+      "type": "find_region",
+      "targetRegionId": "DE-MV",
+      "question": {
+        "de": "Klicke auf das Bundesland mit Rügen und Usedom.",
+        "hu": "Kattints arra a tartományra, amelyhez Rügen és Usedom tartozik.",
+        "ro": "Apasă pe landul care include insulele Rügen și Usedom.",
+        "en": "Click the state that includes the islands of Rügen and Usedom."
+      }
+    },
+    {
+      "id": "de-find-kiel",
+      "type": "find_poi",
+      "targetPoiId": "city-kiel",
+      "question": {
+        "de": "Finde Kiel, die Landeshauptstadt von Schleswig-Holstein.",
+        "hu": "Keresd meg Kielt, Schleswig-Holstein fővárosát.",
+        "ro": "Găsește Kiel, capitala landului Schleswig-Holstein.",
+        "en": "Find Kiel, the capital of Schleswig-Holstein."
+      }
+    },
+    {
+      "id": "de-find-potsdam",
+      "type": "find_poi",
+      "targetPoiId": "city-potsdam",
+      "question": {
+        "de": "Wo liegt Potsdam direkt westlich von Berlin?",
+        "hu": "Hol található Potsdam, közvetlenül Berlintől nyugatra?",
+        "ro": "Unde se află Potsdam, chiar la vest de Berlin?",
+        "en": "Where is Potsdam, directly west of Berlin?"
+      }
+    },
+    {
+      "id": "de-find-mainz",
+      "type": "find_poi",
+      "targetPoiId": "city-mainz",
+      "question": {
+        "de": "Finde Mainz am Rhein.",
+        "hu": "Keresd meg Mainzt a Rajna partján.",
+        "ro": "Găsește Mainz pe Rin.",
+        "en": "Find Mainz on the Rhine."
+      }
+    },
+    {
+      "id": "de-find-cologne-cathedral",
+      "type": "find_poi",
+      "targetPoiId": "landmark-cologne-cathedral",
+      "question": {
+        "de": "Wo steht der Kölner Dom?",
+        "hu": "Hol áll a kölni dóm?",
+        "ro": "Unde se află Catedrala din Köln?",
+        "en": "Where is Cologne Cathedral?"
+      }
+    },
+    {
+      "id": "de-find-bavarian-forest",
+      "type": "find_poi",
+      "targetPoiId": "forest-bayerischer-wald",
+      "question": {
+        "de": "Klicke auf den Bayerischen Wald.",
+        "hu": "Kattints a Bajor-erdőre.",
+        "ro": "Apasă pe Pădurea Bavareză.",
+        "en": "Click the Bavarian Forest."
+      }
+    },
+    {
+      "id": "de-find-bastei",
+      "type": "find_poi",
+      "targetPoiId": "mnt-bastei-saechsische-schweiz",
+      "question": {
+        "de": "Finde die Bastei in der Sächsischen Schweiz.",
+        "hu": "Keresd meg a Basteit a Szász-Svájcban.",
+        "ro": "Găsește Bastei din Elveția Saxonă.",
+        "en": "Find the Bastei in Saxon Switzerland."
+      }
+    },
+    {
+      "id": "de-odd-not-capital",
+      "type": "odd_one_out",
+      "poiIds": ["city-kiel", "city-mainz", "city-erfurt", "city-leipzig"],
+      "targetPoiId": "city-leipzig",
+      "question": {
+        "de": "Welche dieser Städte ist keine Landeshauptstadt?",
+        "hu": "Melyik város nem tartományi főváros?",
+        "ro": "Care dintre aceste orașe nu este capitală de land?",
+        "en": "Which of these cities is not a state capital?"
+      }
+    },
+    {
+      "id": "de-odd-not-north",
+      "type": "odd_one_out",
+      "poiIds": ["city-kiel", "city-rostock", "city-schwerin", "city-freiburg"],
+      "targetPoiId": "city-freiburg",
+      "question": {
+        "de": "Welche dieser Orte liegt nicht in Norddeutschland?",
+        "hu": "Melyik hely nem Észak-Németországban található?",
+        "ro": "Care dintre aceste locuri nu se află în nordul Germaniei?",
+        "en": "Which of these places is not in northern Germany?"
+      }
+    },
+    {
+      "id": "de-odd-not-rhine",
+      "type": "odd_one_out",
+      "poiIds": ["city-koeln", "city-bonn", "city-mainz", "city-erfurt"],
+      "targetPoiId": "city-erfurt",
+      "question": {
+        "de": "Welche dieser Städte liegt nicht am Rhein?",
+        "hu": "Melyik város nem a Rajna mentén fekszik?",
+        "ro": "Care dintre aceste orașe nu se află pe Rin?",
+        "en": "Which of these cities is not on the Rhine?"
+      }
+    },
+    {
+      "id": "de-odd-not-water",
+      "type": "odd_one_out",
+      "poiIds": ["lake-ammersee", "lake-schweriner-see", "river-mosel-rp-extra", "forest-bayerischer-wald"],
+      "targetPoiId": "forest-bayerischer-wald",
+      "question": {
+        "de": "Welcher dieser Orte ist kein Gewässer?",
+        "hu": "Melyik ezek közül nem vízfelület?",
+        "ro": "Care dintre acestea nu este o apă?",
+        "en": "Which of these is not a body of water?"
+      }
+    },
+    {
+      "id": "de-sequence-west-east-cities",
+      "type": "sequence",
+      "poiIds": ["city-bonn", "city-mainz", "city-erfurt", "city-dresden"],
+      "orderedPoiIds": ["city-bonn", "city-mainz", "city-erfurt", "city-dresden"],
+      "question": {
+        "de": "Klicke diese Städte von West nach Ost an.",
+        "hu": "Kattints ezekre a városokra nyugatról keletre haladva.",
+        "ro": "Apasă aceste orașe de la vest la est.",
+        "en": "Click these cities from west to east."
+      }
+    },
+    {
+      "id": "de-sequence-north-south-cities",
+      "type": "sequence",
+      "poiIds": ["city-rostock", "city-hannover", "city-frankfurt", "city-freiburg"],
+      "orderedPoiIds": ["city-rostock", "city-hannover", "city-frankfurt", "city-freiburg"],
+      "question": {
+        "de": "Ordne diese Städte von Nord nach Süd.",
+        "hu": "Rendezd ezeket a városokat északról délre.",
+        "ro": "Ordonează aceste orașe de la nord la sud.",
+        "en": "Order these cities from north to south."
+      }
+    },
+    {
+      "id": "de-sequence-west-east-landmarks",
+      "type": "sequence",
+      "poiIds": ["landmark-cologne-cathedral", "city-erfurt", "landmark-fernsehturm", "mnt-bastei-saechsische-schweiz"],
+      "orderedPoiIds": ["landmark-cologne-cathedral", "city-erfurt", "landmark-fernsehturm", "mnt-bastei-saechsische-schweiz"],
+      "question": {
+        "de": "Klicke diese Orte von West nach Ost an: Dom, Stadt, Fernsehturm, Felsen.",
+        "hu": "Kattints ezekre a helyekre nyugatról keletre: dóm, város, tévétorony, szikla.",
+        "ro": "Apasă aceste locuri de la vest la est: catedrală, oraș, turn TV, stâncă.",
+        "en": "Click these places from west to east: cathedral, city, TV tower, rock formation."
+      }
+    },
+    {
+      "id": "de-sequence-north-south-capitals",
+      "type": "sequence",
+      "poiIds": ["city-schwerin", "city-berlin", "city-potsdam", "city-mainz"],
+      "orderedPoiIds": ["city-schwerin", "city-berlin", "city-potsdam", "city-mainz"],
+      "question": {
+        "de": "Klicke diese Landeshauptstädte von Nord nach Süd.",
+        "hu": "Kattints ezekre a tartományi fővárosokra északról délre.",
+        "ro": "Apasă aceste capitale de land de la nord la sud.",
+        "en": "Click these state capitals from north to south."
+      }
+    }
+  ]
+}

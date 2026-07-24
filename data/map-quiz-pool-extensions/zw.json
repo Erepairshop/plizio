@@ -1,0 +1,309 @@
+{
+  "zw": [
+    {
+      "id": "zw-find-kariba-extra",
+      "type": "find_poi",
+      "targetPoiId": "kariba-cities-v2",
+      "question": {
+        "de": "Finde Kariba am Ufer des Karibasees im Nordwesten Simbabwes.",
+        "hu": "Keresd meg Karibát a Kariba-tó partján, Zimbabwe északnyugati részén.",
+        "ro": "Găsește Kariba pe malul lacului Kariba, în nord-vestul statului Zimbabwe.",
+        "en": "Find Kariba on the shore of Lake Kariba in northwestern Zimbabwe."
+      }
+    },
+    {
+      "id": "zw-find-chiredzi-extra",
+      "type": "find_poi",
+      "targetPoiId": "chiredzi-cities-v2",
+      "question": {
+        "de": "Finde Chiredzi im südöstlichen Lowveld.",
+        "hu": "Keresd meg Chiredzit a délkeleti Lowvelden.",
+        "ro": "Găsește Chiredzi în Lowveldul din sud-est.",
+        "en": "Find Chiredzi in the southeastern Lowveld."
+      }
+    },
+    {
+      "id": "zw-find-great-zimbabwe-extra",
+      "type": "find_poi",
+      "targetPoiId": "great-zimbabwe-history-v2",
+      "question": {
+        "de": "Finde die Ruinen von Great Zimbabwe nahe Masvingo.",
+        "hu": "Keresd meg Nagy-Zimbabwe romjait Masvingo közelében.",
+        "ro": "Găsește ruinele Great Zimbabwe de lângă Masvingo.",
+        "en": "Find the Great Zimbabwe ruins near Masvingo."
+      }
+    },
+    {
+      "id": "zw-find-chinhoyi-caves-extra",
+      "type": "find_poi",
+      "targetPoiId": "chinhoyi-caves-history-v2",
+      "question": {
+        "de": "Finde die Chinhoyi-Höhlen nordwestlich von Harare.",
+        "hu": "Keresd meg a Chinhoyi-barlangokat Hararétól északnyugatra.",
+        "ro": "Găsește peșterile Chinhoyi la nord-vest de Harare.",
+        "en": "Find the Chinhoyi Caves northwest of Harare."
+      }
+    },
+    {
+      "id": "zw-find-inyangani-extra",
+      "type": "find_poi",
+      "targetPoiId": "in-yangani-nature-v2",
+      "question": {
+        "de": "Finde den Mount Inyangani in den Eastern Highlands.",
+        "hu": "Keresd meg az Inyangani-hegyet a Keleti-felföldön.",
+        "ro": "Găsește Muntele Inyangani în Eastern Highlands.",
+        "en": "Find Mount Inyangani in the Eastern Highlands."
+      }
+    },
+    {
+      "id": "zw-region-matabeleland-south-extra",
+      "type": "find_region",
+      "targetRegionId": "ZWE-530",
+      "question": {
+        "de": "Klicke auf Matabeleland South im Südwesten.",
+        "hu": "Kattints Matabeleland South tartományra délnyugaton.",
+        "ro": "Apasă pe provincia Matabeleland South din sud-vest.",
+        "en": "Click Matabeleland South in the southwest."
+      }
+    },
+    {
+      "id": "zw-region-midlands-extra",
+      "type": "find_region",
+      "targetRegionId": "ZWE-527",
+      "question": {
+        "de": "Finde die Provinz Midlands im Zentrum des Landes.",
+        "hu": "Keresd meg a Midlands tartományt az ország közepén.",
+        "ro": "Găsește provincia Midlands din centrul țării.",
+        "en": "Find Midlands Province in the center of the country."
+      }
+    },
+    {
+      "id": "zw-region-mashonaland-east-extra",
+      "type": "find_region",
+      "targetRegionId": "ZWE-528",
+      "question": {
+        "de": "Klicke auf Mashonaland East östlich von Harare.",
+        "hu": "Kattints Mashonaland East tartományra Hararétól keletre.",
+        "ro": "Apasă pe Mashonaland East, la est de Harare.",
+        "en": "Click Mashonaland East east of Harare."
+      }
+    },
+    {
+      "id": "zw-region-mashonaland-central-extra",
+      "type": "find_region",
+      "targetRegionId": "ZWE-524",
+      "question": {
+        "de": "Finde Mashonaland Central im Norden Simbabwes.",
+        "hu": "Keresd meg Mashonaland Central tartományt Zimbabwe északi részén.",
+        "ro": "Găsește provincia Mashonaland Central din nordul statului Zimbabwe.",
+        "en": "Find Mashonaland Central in northern Zimbabwe."
+      }
+    },
+    {
+      "id": "zw-region-bulawayo-extra",
+      "type": "find_region",
+      "targetRegionId": "ZWE-531",
+      "question": {
+        "de": "Klicke auf die Provinz Bulawayo rund um die Großstadt im Südwesten.",
+        "hu": "Kattints Bulawayo tartományra a délnyugati nagyváros körül.",
+        "ro": "Apasă pe provincia Bulawayo din jurul marelui oraș din sud-vest.",
+        "en": "Click Bulawayo Province around the major city in the southwest."
+      }
+    },
+    {
+      "id": "zw-odd-farthest-north-extra",
+      "type": "odd_one_out",
+      "poiIds": [
+        "beitbridge-cities-v2",
+        "gweru-cities-v2",
+        "masvingo-cities-v2",
+        "kariba-cities-v2"
+      ],
+      "targetPoiId": "kariba-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten nördlich?",
+        "hu": "Ezek közül melyik város fekszik a legészakabbra?",
+        "ro": "Care dintre aceste orașe se află cel mai la nord?",
+        "en": "Which of these towns lies furthest north?"
+      }
+    },
+    {
+      "id": "zw-odd-farthest-east-extra",
+      "type": "odd_one_out",
+      "poiIds": [
+        "kwekwe-cities-v2",
+        "harare-cities-v2",
+        "marondera-cities-v2",
+        "mutoko-cities-v2"
+      ],
+      "targetPoiId": "mutoko-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten östlich?",
+        "hu": "Ezek közül melyik város fekszik a legkeletebbre?",
+        "ro": "Care dintre aceste orașe se află cel mai la est?",
+        "en": "Which of these towns lies furthest east?"
+      }
+    },
+    {
+      "id": "zw-odd-eastern-highlands-extra",
+      "type": "odd_one_out",
+      "poiIds": [
+        "kariba-cities-v2",
+        "kadoma-cities-v2",
+        "nyanga-cities-v2",
+        "gweru-cities-v2"
+      ],
+      "targetPoiId": "nyanga-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt in den Eastern Highlands?",
+        "hu": "Ezek közül melyik város fekszik a Keleti-felföldön?",
+        "ro": "Care dintre aceste orașe se află în Eastern Highlands?",
+        "en": "Which of these towns is in the Eastern Highlands?"
+      }
+    },
+    {
+      "id": "zw-odd-lake-kariba-extra",
+      "type": "odd_one_out",
+      "poiIds": [
+        "karoi-cities-v2",
+        "kadoma-cities-v2",
+        "kariba-cities-v2",
+        "chinhoyi-cities-v2"
+      ],
+      "targetPoiId": "kariba-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt direkt am Karibasee?",
+        "hu": "Ezek közül melyik város fekszik közvetlenül a Kariba-tó partján?",
+        "ro": "Care dintre aceste orașe se află chiar pe malul lacului Kariba?",
+        "en": "Which of these towns sits directly on Lake Kariba?"
+      }
+    },
+    {
+      "id": "zw-odd-unesco-ruins-extra",
+      "type": "odd_one_out",
+      "poiIds": [
+        "great-zimbabwe-history-v2",
+        "kariba-dam-landmarks-v2",
+        "mutare-civic-centre-landmarks-v2",
+        "gweru-theatre-landmarks-v2"
+      ],
+      "targetPoiId": "great-zimbabwe-history-v2",
+      "question": {
+        "de": "Welcher dieser Orte ist eine berühmte Ruinenstätte aus der vorkolonialen Zeit?",
+        "hu": "Ezek közül melyik hely híres, gyarmatosítás előtti romterület?",
+        "ro": "Care dintre aceste locuri este un faimos sit de ruine din perioada precolonială?",
+        "en": "Which of these places is a famous precolonial ruins site?"
+      }
+    },
+    {
+      "id": "zw-sequence-west-east-binga-mutoko-extra",
+      "type": "sequence",
+      "poiIds": [
+        "binga-cities-v2",
+        "kariba-cities-v2",
+        "harare-cities-v2",
+        "mutoko-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "binga-cities-v2",
+        "kariba-cities-v2",
+        "harare-cities-v2",
+        "mutoko-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Binga, Kariba, Harare und Mutoko von West nach Ost an.",
+        "hu": "Kattints Bingára, Karibára, Hararéra és Mutokóra nyugatról keletre.",
+        "ro": "Apasă Binga, Kariba, Harare și Mutoko de la vest la est.",
+        "en": "Click Binga, Kariba, Harare and Mutoko from west to east."
+      }
+    },
+    {
+      "id": "zw-sequence-west-east-hwange-rusape-extra",
+      "type": "sequence",
+      "poiIds": [
+        "hwange-cities-v2",
+        "lupane-cities-v2",
+        "gweru-cities-v2",
+        "rusape-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "hwange-cities-v2",
+        "lupane-cities-v2",
+        "gweru-cities-v2",
+        "rusape-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Hwange, Lupane, Gweru und Rusape von West nach Ost an.",
+        "hu": "Kattints Hwange-ra, Lupanéra, Gwerura és Rusapéra nyugatról keletre.",
+        "ro": "Apasă Hwange, Lupane, Gweru și Rusape de la vest la est.",
+        "en": "Click Hwange, Lupane, Gweru and Rusape from west to east."
+      }
+    },
+    {
+      "id": "zw-sequence-north-south-kariba-zvishavane-extra",
+      "type": "sequence",
+      "poiIds": [
+        "kariba-cities-v2",
+        "karoi-cities-v2",
+        "kadoma-cities-v2",
+        "zvishavane-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "kariba-cities-v2",
+        "karoi-cities-v2",
+        "kadoma-cities-v2",
+        "zvishavane-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Kariba, Karoi, Kadoma und Zvishavane von Nord nach Süd an.",
+        "hu": "Kattints Karibára, Karoira, Kadomára és Zvishavanéra északról délre.",
+        "ro": "Apasă Kariba, Karoi, Kadoma și Zvishavane de la nord la sud.",
+        "en": "Click Kariba, Karoi, Kadoma and Zvishavane from north to south."
+      }
+    },
+    {
+      "id": "zw-sequence-north-south-guruve-chiredzi-extra",
+      "type": "sequence",
+      "poiIds": [
+        "guruve-cities-v2",
+        "chinhoyi-cities-v2",
+        "kwekwe-cities-v2",
+        "chiredzi-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "guruve-cities-v2",
+        "chinhoyi-cities-v2",
+        "kwekwe-cities-v2",
+        "chiredzi-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Guruve, Chinhoyi, Kwekwe und Chiredzi von Nord nach Süd an.",
+        "hu": "Kattints Guruvéra, Chinhoyira, Kwekwére és Chiredzire északról délre.",
+        "ro": "Apasă Guruve, Chinhoyi, Kwekwe și Chiredzi de la nord la sud.",
+        "en": "Click Guruve, Chinhoyi, Kwekwe and Chiredzi from north to south."
+      }
+    },
+    {
+      "id": "zw-sequence-west-east-plumtree-chimanimani-extra",
+      "type": "sequence",
+      "poiIds": [
+        "plumtree-cities-v2",
+        "gwanda-cities-v2",
+        "masvingo-cities-v2",
+        "chimanimani-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "plumtree-cities-v2",
+        "gwanda-cities-v2",
+        "masvingo-cities-v2",
+        "chimanimani-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Plumtree, Gwanda, Masvingo und Chimanimani von West nach Ost an.",
+        "hu": "Kattints Plumtree-re, Gwandára, Masvingóra és Chimanimanira nyugatról keletre.",
+        "ro": "Apasă Plumtree, Gwanda, Masvingo și Chimanimani de la vest la est.",
+        "en": "Click Plumtree, Gwanda, Masvingo and Chimanimani from west to east."
+      }
+    }
+  ]
+}

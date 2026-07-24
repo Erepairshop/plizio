@@ -1,0 +1,314 @@
+{
+  "bg": [
+    {
+      "id": "bg-ext-find-boyana-church",
+      "type": "find_poi",
+      "targetPoiId": "cult-boyana",
+      "question": {
+        "de": "Finde die Bojana-Kirche am Fuß des Witoscha-Gebirges.",
+        "hu": "Keresd meg a Vitosa lábánál álló bojánai templomot.",
+        "ro": "Găsește Biserica Boyana de la poalele muntelui Vitoșa.",
+        "en": "Find Boyana Church at the foot of Vitosha."
+      }
+    },
+    {
+      "id": "bg-ext-find-tsarevets-fortress",
+      "type": "find_poi",
+      "targetPoiId": "hist-tsarevets-fortress",
+      "question": {
+        "de": "Finde die Festung Zarewez in Weliko Tarnowo.",
+        "hu": "Keresd meg a careveci erődöt Veliko Tarnovóban.",
+        "ro": "Găsește Cetatea Țareveț din Veliko Târnovo.",
+        "en": "Find Tsarevets Fortress in Veliko Tarnovo."
+      }
+    },
+    {
+      "id": "bg-ext-find-baba-vida",
+      "type": "find_poi",
+      "targetPoiId": "hist-baba-vida",
+      "question": {
+        "de": "Wo liegt die Festung Baba Vida an der Donau?",
+        "hu": "Hol található a Duna menti Baba Vida erőd?",
+        "ro": "Unde se află Cetatea Baba Vida de pe Dunăre?",
+        "en": "Where is Baba Vida Fortress on the Danube?"
+      }
+    },
+    {
+      "id": "bg-ext-find-madara-rider",
+      "type": "find_poi",
+      "targetPoiId": "cult-madara",
+      "question": {
+        "de": "Finde den Felsenrelief Madara-Reiter.",
+        "hu": "Keresd meg a madarai lovas szikladomborművét.",
+        "ro": "Găsește basorelieful Călărețul de la Madara.",
+        "en": "Find the Madara Rider rock relief."
+      }
+    },
+    {
+      "id": "bg-ext-find-perperikon",
+      "type": "find_poi",
+      "targetPoiId": "hist-perperikon",
+      "question": {
+        "de": "Finde die antike Felsenstadt Perperikon.",
+        "hu": "Keresd meg Perperikon ősi sziklavárosát.",
+        "ro": "Găsește vechiul oraș rupestru Perperikon.",
+        "en": "Find the ancient rock city of Perperikon."
+      }
+    },
+    {
+      "id": "bg-ext-find-srebarna-lake",
+      "type": "find_poi",
+      "targetPoiId": "nat-srebarna-lake",
+      "question": {
+        "de": "Finde den Srebarna-See nahe der Donau.",
+        "hu": "Keresd meg a Duna közelében fekvő Srebarna-tavat.",
+        "ro": "Găsește Lacul Srebarna de lângă Dunăre.",
+        "en": "Find Srebarna Lake near the Danube."
+      }
+    },
+    {
+      "id": "bg-ext-region-varna",
+      "type": "find_region",
+      "targetRegionId": "BG-03",
+      "question": {
+        "de": "Klicke auf die Region Varna an der Nordküste des Schwarzen Meeres.",
+        "hu": "Kattints a Fekete-tenger északi partján fekvő Várna régióra.",
+        "ro": "Apasă pe regiunea Varna de pe coasta nordică a Mării Negre.",
+        "en": "Click the Varna region on the northern Black Sea coast."
+      }
+    },
+    {
+      "id": "bg-ext-region-blagoevgrad",
+      "type": "find_region",
+      "targetRegionId": "BG-01",
+      "question": {
+        "de": "Finde die Region Blagoewgrad im Südwesten Bulgariens.",
+        "hu": "Keresd meg Bulgária délnyugati részén Blagoevgrad régióját.",
+        "ro": "Găsește regiunea Blagoevgrad din sud-vestul Bulgariei.",
+        "en": "Find the Blagoevgrad region in southwestern Bulgaria."
+      }
+    },
+    {
+      "id": "bg-ext-region-vidin",
+      "type": "find_region",
+      "targetRegionId": "BG-05",
+      "question": {
+        "de": "Klicke auf die Region Widin am nordwestlichen Donauufer.",
+        "hu": "Kattints az északnyugati Duna-parton fekvő Vidin régióra.",
+        "ro": "Apasă pe regiunea Vidin de pe malul dunărean din nord-vest.",
+        "en": "Click the Vidin region on the northwestern Danube."
+      }
+    },
+    {
+      "id": "bg-ext-region-smolyan",
+      "type": "find_region",
+      "targetRegionId": "BG-21",
+      "question": {
+        "de": "Finde die Region Smoljan tief im Rhodopengebirge.",
+        "hu": "Keresd meg a Rodopok mélyén fekvő Szmoljan régiót.",
+        "ro": "Găsește regiunea Smolian din inima Munților Rodopi.",
+        "en": "Find the Smolyan region deep in the Rhodope Mountains."
+      }
+    },
+    {
+      "id": "bg-ext-odd-danube-cities",
+      "type": "odd_one_out",
+      "poiIds": [
+        "city-vidin",
+        "bulgaria-ruse-cities-v2",
+        "bulgaria-silistra-cities-v2",
+        "bulgaria-gabrovo-cities-v2"
+      ],
+      "targetPoiId": "bulgaria-gabrovo-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht an der Donau?",
+        "hu": "Melyik város nem a Duna mentén fekszik?",
+        "ro": "Care oraș nu se află pe Dunăre?",
+        "en": "Which city is not on the Danube?"
+      }
+    },
+    {
+      "id": "bg-ext-odd-black-sea-places",
+      "type": "odd_one_out",
+      "poiIds": [
+        "bulgaria-golden-sands-cities-v2",
+        "bulgaria-pomorie-cities-v2",
+        "bulgaria-sozopol-cities-v2",
+        "bulgaria-smolyan-cities-v2"
+      ],
+      "targetPoiId": "bulgaria-smolyan-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht an der Schwarzmeerküste?",
+        "hu": "Melyik hely nem a Fekete-tenger partján található?",
+        "ro": "Care loc nu se află pe litoralul Mării Negre?",
+        "en": "Which place is not on the Black Sea coast?"
+      }
+    },
+    {
+      "id": "bg-ext-odd-rhodope-cluster",
+      "type": "odd_one_out",
+      "poiIds": [
+        "bulgaria-smolyan-cities-v2",
+        "bulgaria-pamporovo-cities-v2",
+        "hist-perperikon",
+        "bulgaria-ruse-cities-v2"
+      ],
+      "targetPoiId": "bulgaria-ruse-cities-v2",
+      "question": {
+        "de": "Welcher Ort gehört nicht zum südlichen Rhodopenraum?",
+        "hu": "Melyik hely nem a déli rodopéi térséghez tartozik?",
+        "ro": "Care loc nu aparține zonei sudice a Rodopilor?",
+        "en": "Which place does not belong to the southern Rhodope area?"
+      }
+    },
+    {
+      "id": "bg-ext-odd-fortified-sites",
+      "type": "odd_one_out",
+      "poiIds": [
+        "hist-tsarevets-fortress",
+        "hist-baba-vida",
+        "hist-belogradchik-fortress",
+        "cult-boyana"
+      ],
+      "targetPoiId": "cult-boyana",
+      "question": {
+        "de": "Welcher Ort ist keine Festung oder befestigte Burganlage?",
+        "hu": "Melyik hely nem erőd vagy megerősített vár?",
+        "ro": "Care loc nu este o cetate sau o fortificație?",
+        "en": "Which place is not a fortress or fortified site?"
+      }
+    },
+    {
+      "id": "bg-ext-sequence-west-east-cities",
+      "type": "sequence",
+      "poiIds": [
+        "city-vidin",
+        "city-sofia",
+        "city-plovdiv",
+        "city-burgas"
+      ],
+      "orderedPoiIds": [
+        "city-vidin",
+        "city-sofia",
+        "city-plovdiv",
+        "city-burgas"
+      ],
+      "question": {
+        "de": "Klicke die Städte von West nach Ost an.",
+        "hu": "Kattints a városokra nyugatról keletre.",
+        "ro": "Apasă orașele de la vest la est.",
+        "en": "Click the cities from west to east."
+      }
+    },
+    {
+      "id": "bg-ext-sequence-north-south-coast",
+      "type": "sequence",
+      "poiIds": [
+        "bulgaria-golden-sands-cities-v2",
+        "city-varna",
+        "bulgaria-sunny-beach-cities-v2",
+        "city-burgas",
+        "bulgaria-sozopol-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "bulgaria-golden-sands-cities-v2",
+        "city-varna",
+        "bulgaria-sunny-beach-cities-v2",
+        "city-burgas",
+        "bulgaria-sozopol-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke diese Küstenorte von Nord nach Süd an.",
+        "hu": "Kattints ezekre a tengerparti helyekre északról délre.",
+        "ro": "Apasă aceste locuri de pe coastă de la nord la sud.",
+        "en": "Click these coastal places from north to south."
+      }
+    },
+    {
+      "id": "bg-ext-sequence-north-south-east-bulgaria",
+      "type": "sequence",
+      "poiIds": [
+        "bulgaria-ruse-cities-v2",
+        "city-veliko-tarnovo",
+        "city-stara-zagora",
+        "city-haskovo"
+      ],
+      "orderedPoiIds": [
+        "bulgaria-ruse-cities-v2",
+        "city-veliko-tarnovo",
+        "city-stara-zagora",
+        "city-haskovo"
+      ],
+      "question": {
+        "de": "Klicke die Orte im Osten Bulgariens von Nord nach Süd an.",
+        "hu": "Kattints a kelet-bulgáriai helyekre északról délre.",
+        "ro": "Apasă locurile din estul Bulgariei de la nord la sud.",
+        "en": "Click the places in eastern Bulgaria from north to south."
+      }
+    },
+    {
+      "id": "bg-ext-sequence-west-east-mountain-towns",
+      "type": "sequence",
+      "poiIds": [
+        "cult-rila-monastery",
+        "bulgaria-borovets-cities-v2",
+        "bulgaria-velingrad-cities-v2",
+        "bulgaria-pamporovo-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "cult-rila-monastery",
+        "bulgaria-borovets-cities-v2",
+        "bulgaria-velingrad-cities-v2",
+        "bulgaria-pamporovo-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke diese Bergorte von West nach Ost an.",
+        "hu": "Kattints ezekre a hegyi helyekre nyugatról keletre.",
+        "ro": "Apasă aceste locuri montane de la vest la est.",
+        "en": "Click these mountain places from west to east."
+      }
+    },
+    {
+      "id": "bg-ext-sequence-north-south-peaks",
+      "type": "sequence",
+      "poiIds": [
+        "nat-botev-peak",
+        "nat-musala",
+        "nat-vihren"
+      ],
+      "orderedPoiIds": [
+        "nat-botev-peak",
+        "nat-musala",
+        "nat-vihren"
+      ],
+      "question": {
+        "de": "Klicke die Gipfel von Nord nach Süd an.",
+        "hu": "Kattints a csúcsokra északról délre.",
+        "ro": "Apasă vârfurile de la nord la sud.",
+        "en": "Click the peaks from north to south."
+      }
+    },
+    {
+      "id": "bg-ext-sequence-west-east-historic-sites",
+      "type": "sequence",
+      "poiIds": [
+        "hist-belogradchik-fortress",
+        "cult-boyana",
+        "hist-tsarevets-fortress",
+        "cult-madara"
+      ],
+      "orderedPoiIds": [
+        "hist-belogradchik-fortress",
+        "cult-boyana",
+        "hist-tsarevets-fortress",
+        "cult-madara"
+      ],
+      "question": {
+        "de": "Klicke die historischen Orte von West nach Ost an.",
+        "hu": "Kattints a történelmi helyekre nyugatról keletre.",
+        "ro": "Apasă locurile istorice de la vest la est.",
+        "en": "Click the historic places from west to east."
+      }
+    }
+  ]
+}

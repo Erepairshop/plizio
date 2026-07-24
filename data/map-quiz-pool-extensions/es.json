@@ -1,0 +1,290 @@
+{
+  "es": [
+    {
+      "id": "es-find-seville",
+      "type": "find_poi",
+      "targetPoiId": "spain-seville-cities-v2",
+      "question": {
+        "de": "Finde Sevilla, die Hauptstadt Andalusiens am Guadalquivir.",
+        "hu": "Keresd meg Sevillát, Andalúzia Guadalquivir-parti fővárosát.",
+        "ro": "Găsește Sevilla, capitala Andaluziei de pe râul Guadalquivir.",
+        "en": "Find Seville, the capital of Andalusia on the Guadalquivir."
+      }
+    },
+    {
+      "id": "es-find-zaragoza",
+      "type": "find_poi",
+      "targetPoiId": "spain-zaragoza-cities-v2",
+      "question": {
+        "de": "Finde Saragossa im Ebrotal im Nordosten Spaniens.",
+        "hu": "Keresd meg Zaragozát az Ebro-völgyben, Spanyolország északkeleti részén.",
+        "ro": "Găsește Zaragoza în valea Ebrului, în nord-estul Spaniei.",
+        "en": "Find Zaragoza in the Ebro valley in northeastern Spain."
+      }
+    },
+    {
+      "id": "es-find-salamanca",
+      "type": "find_poi",
+      "targetPoiId": "salamanca",
+      "question": {
+        "de": "Finde Salamanca, die berühmte Universitätsstadt im Westen des Landes.",
+        "hu": "Keresd meg Salamancát, a híres egyetemi várost az ország nyugati részén.",
+        "ro": "Găsește Salamanca, celebrul oraș universitar din vestul țării.",
+        "en": "Find Salamanca, the famous university city in the west of the country."
+      }
+    },
+    {
+      "id": "es-find-ibiza-town",
+      "type": "find_poi",
+      "targetPoiId": "ibiza-town",
+      "question": {
+        "de": "Finde Ibiza-Stadt auf den Balearen.",
+        "hu": "Keresd meg Ibiza városát a Baleár-szigeteken.",
+        "ro": "Găsește orașul Ibiza din Insulele Baleare.",
+        "en": "Find Ibiza Town in the Balearic Islands."
+      }
+    },
+    {
+      "id": "es-find-las-palmas",
+      "type": "find_poi",
+      "targetPoiId": "spain-las-palmas-cities-v2",
+      "question": {
+        "de": "Finde Las Palmas de Gran Canaria auf den Kanarischen Inseln.",
+        "hu": "Keresd meg Las Palmas de Gran Canariát a Kanári-szigeteken.",
+        "ro": "Găsește Las Palmas de Gran Canaria în Insulele Canare.",
+        "en": "Find Las Palmas de Gran Canaria in the Canary Islands."
+      }
+    },
+    {
+      "id": "es-find-alhambra",
+      "type": "find_poi",
+      "targetPoiId": "ES-ALH",
+      "question": {
+        "de": "Finde die Alhambra in Granada.",
+        "hu": "Keresd meg az Alhambrát Granadában.",
+        "ro": "Găsește Alhambra din Granada.",
+        "en": "Find the Alhambra in Granada."
+      }
+    },
+    {
+      "id": "es-find-segovia-aqueduct",
+      "type": "find_poi",
+      "targetPoiId": "spain-aqueduct-segovia-landmarks-v2",
+      "question": {
+        "de": "Finde das römische Aquädukt von Segovia nördlich von Madrid.",
+        "hu": "Keresd meg Segovia római vízvezetékét Madridtól északra.",
+        "ro": "Găsește apeductul roman din Segovia, la nord de Madrid.",
+        "en": "Find the Roman Aqueduct of Segovia north of Madrid."
+      }
+    },
+    {
+      "id": "es-region-galicia",
+      "type": "find_region",
+      "targetRegionId": "ES-GA",
+      "question": {
+        "de": "Klicke auf Galicien im äußersten Nordwesten Spaniens.",
+        "hu": "Kattints Galíciára Spanyolország legészaknyugatibb részén.",
+        "ro": "Apasă pe Galicia din extremul nord-vest al Spaniei.",
+        "en": "Click Galicia in the far northwest of Spain."
+      }
+    },
+    {
+      "id": "es-region-valencian-community",
+      "type": "find_region",
+      "targetRegionId": "ES-VC",
+      "question": {
+        "de": "Finde die Valencianische Gemeinschaft an der Ostküste.",
+        "hu": "Keresd meg a Valenciai Közösséget a keleti tengerparton.",
+        "ro": "Găsește Comunitatea Valenciană de pe coasta estică.",
+        "en": "Find the Valencian Community on the eastern coast."
+      }
+    },
+    {
+      "id": "es-region-castile-leon",
+      "type": "find_region",
+      "targetRegionId": "ES-CL",
+      "question": {
+        "de": "Klicke auf Kastilien und León im Norden der Meseta.",
+        "hu": "Kattints Kasztília és León tartományközösségére a Mezeta északi részén.",
+        "ro": "Apasă pe Castilia și León din partea nordică a Mesetei.",
+        "en": "Click Castile and León in the northern part of the Meseta."
+      }
+    },
+    {
+      "id": "es-region-canary-islands",
+      "type": "find_region",
+      "targetRegionId": "ES-CN",
+      "question": {
+        "de": "Finde die Kanarischen Inseln im Karteninset unten links.",
+        "hu": "Keresd meg a Kanári-szigeteket a bal alsó térképi betétben.",
+        "ro": "Găsește Insulele Canare în inserția de hartă din stânga jos.",
+        "en": "Find the Canary Islands in the bottom-left map inset."
+      }
+    },
+    {
+      "id": "es-region-balearic-islands",
+      "type": "find_region",
+      "targetRegionId": "ES-IB",
+      "question": {
+        "de": "Klicke auf die Balearen im Mittelmeer östlich des Festlands.",
+        "hu": "Kattints a Baleár-szigetekre a szárazföldtől keletre, a Földközi-tengeren.",
+        "ro": "Apasă pe Insulele Baleare din Marea Mediterană, la est de continent.",
+        "en": "Click the Balearic Islands in the Mediterranean east of the mainland."
+      }
+    },
+    {
+      "id": "es-odd-island-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "salamanca",
+        "spain-zaragoza-cities-v2",
+        "spain-seville-cities-v2",
+        "ibiza-town"
+      ],
+      "targetPoiId": "ibiza-town",
+      "question": {
+        "de": "Welche dieser Städte liegt auf einer Insel statt auf dem spanischen Festland?",
+        "hu": "Melyik város fekszik szigeten, nem pedig a spanyol szárazföldön?",
+        "ro": "Care dintre aceste orașe se află pe o insulă, nu pe continentul spaniol?",
+        "en": "Which of these cities is on an island rather than mainland Spain?"
+      }
+    },
+    {
+      "id": "es-odd-canary-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "barcelona",
+        "spain-zaragoza-cities-v2",
+        "spain-las-palmas-cities-v2",
+        "salamanca"
+      ],
+      "targetPoiId": "spain-las-palmas-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt auf den Kanarischen Inseln?",
+        "hu": "Melyik város található a Kanári-szigeteken?",
+        "ro": "Care dintre aceste orașe se află în Insulele Canare?",
+        "en": "Which of these cities is in the Canary Islands?"
+      }
+    },
+    {
+      "id": "es-odd-north-coast",
+      "type": "odd_one_out",
+      "poiIds": [
+        "madrid",
+        "toledo",
+        "spain-zaragoza-cities-v2",
+        "spain-santander-cities-v2"
+      ],
+      "targetPoiId": "spain-santander-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt an Spaniens Nordküste?",
+        "hu": "Melyik város fekszik Spanyolország északi partján?",
+        "ro": "Care dintre aceste orașe se află pe coasta nordică a Spaniei?",
+        "en": "Which of these cities lies on Spain's northern coast?"
+      }
+    },
+    {
+      "id": "es-odd-not-andalusia",
+      "type": "odd_one_out",
+      "poiIds": [
+        "spain-seville-cities-v2",
+        "granada",
+        "ronda",
+        "spain-pamplona-cities-v2"
+      ],
+      "targetPoiId": "spain-pamplona-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt nicht in Andalusien?",
+        "hu": "Melyik város nem Andalúziában található?",
+        "ro": "Care dintre aceste orașe nu se află în Andaluzia?",
+        "en": "Which of these cities is not in Andalusia?"
+      }
+    },
+    {
+      "id": "es-sequence-west-east-northern-belt",
+      "type": "sequence",
+      "poiIds": [
+        "spain-santiago-de-compostela-cities-v2",
+        "spain-valladolid-cities-v2",
+        "spain-zaragoza-cities-v2",
+        "barcelona"
+      ],
+      "orderedPoiIds": [
+        "spain-santiago-de-compostela-cities-v2",
+        "spain-valladolid-cities-v2",
+        "spain-zaragoza-cities-v2",
+        "barcelona"
+      ],
+      "question": {
+        "de": "Klicke diese Städte von Westen nach Osten an.",
+        "hu": "Kattints ezekre a városokra nyugatról keletre haladva.",
+        "ro": "Apasă aceste orașe de la vest la est.",
+        "en": "Click these cities from west to east."
+      }
+    },
+    {
+      "id": "es-sequence-north-south-central",
+      "type": "sequence",
+      "poiIds": [
+        "spain-santander-cities-v2",
+        "madrid",
+        "granada",
+        "spain-malaga-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "spain-santander-cities-v2",
+        "madrid",
+        "granada",
+        "spain-malaga-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Santander, Madrid, Granada und Málaga von Norden nach Süden an.",
+        "hu": "Kattints Santanderre, Madridra, Granadára és Málagára északról délre.",
+        "ro": "Apasă Santander, Madrid, Granada și Málaga de la nord la sud.",
+        "en": "Click Santander, Madrid, Granada, and Málaga from north to south."
+      }
+    },
+    {
+      "id": "es-sequence-canaries-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "spain-santa-cruz-cities-v2",
+        "spain-las-palmas-cities-v2",
+        "arrecife"
+      ],
+      "orderedPoiIds": [
+        "spain-santa-cruz-cities-v2",
+        "spain-las-palmas-cities-v2",
+        "arrecife"
+      ],
+      "question": {
+        "de": "Klicke diese kanarischen Städte von Westen nach Osten an.",
+        "hu": "Kattints ezekre a kanári-szigeteki városokra nyugatról keletre.",
+        "ro": "Apasă aceste orașe din Canare de la vest la est.",
+        "en": "Click these Canary Islands cities from west to east."
+      }
+    },
+    {
+      "id": "es-sequence-north-south-east",
+      "type": "sequence",
+      "poiIds": [
+        "spain-bilbao-cities-v2",
+        "spain-zaragoza-cities-v2",
+        "spain-murcia-cities-v2",
+        "granada"
+      ],
+      "orderedPoiIds": [
+        "spain-bilbao-cities-v2",
+        "spain-zaragoza-cities-v2",
+        "spain-murcia-cities-v2",
+        "granada"
+      ],
+      "question": {
+        "de": "Klicke Bilbao, Saragossa, Murcia und Granada von Norden nach Süden an.",
+        "hu": "Kattints Bilbaóra, Zaragozára, Murciára és Granadára északról délre.",
+        "ro": "Apasă Bilbao, Zaragoza, Murcia și Granada de la nord la sud.",
+        "en": "Click Bilbao, Zaragoza, Murcia, and Granada from north to south."
+      }
+    }
+  ]
+}

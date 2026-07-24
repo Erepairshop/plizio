@@ -1,0 +1,309 @@
+{
+  "pk": [
+    {
+      "id": "pk-find-gwadar-port",
+      "type": "find_poi",
+      "targetPoiId": "gwadar-cities-v2",
+      "question": {
+        "de": "Finde Gwadar auf der Karte.",
+        "hu": "Keresd meg Gwadart a térképen.",
+        "ro": "Găsește Gwadar pe hartă.",
+        "en": "Find Gwadar on the map."
+      }
+    },
+    {
+      "id": "pk-find-gilgit-city",
+      "type": "find_poi",
+      "targetPoiId": "pakistan-gilgit-cities-v2",
+      "question": {
+        "de": "Finde Gilgit auf der Karte.",
+        "hu": "Keresd meg Gilgitet a térképen.",
+        "ro": "Găsește Gilgit pe hartă.",
+        "en": "Find Gilgit on the map."
+      }
+    },
+    {
+      "id": "pk-find-muzaffarabad-city",
+      "type": "find_poi",
+      "targetPoiId": "pakistan-muzaffarabad-cities-v2",
+      "question": {
+        "de": "Finde Muzaffarabad auf der Karte.",
+        "hu": "Keresd meg Muzaffarábádot a térképen.",
+        "ro": "Găsește Muzaffarabad pe hartă.",
+        "en": "Find Muzaffarabad on the map."
+      }
+    },
+    {
+      "id": "pk-find-chitral-city",
+      "type": "find_poi",
+      "targetPoiId": "pakistan-chitral-cities-v2",
+      "question": {
+        "de": "Finde Chitral auf der Karte.",
+        "hu": "Keresd meg Chitrált a térképen.",
+        "ro": "Găsește Chitral pe hartă.",
+        "en": "Find Chitral on the map."
+      }
+    },
+    {
+      "id": "pk-find-saif-ul-maluk-lake",
+      "type": "find_poi",
+      "targetPoiId": "saif-ul-maluk-lake-nature-v2",
+      "question": {
+        "de": "Finde den Saif-ul-Maluk-See auf der Karte.",
+        "hu": "Keresd meg a Szaif-ul-Maluk-tavat a térképen.",
+        "ro": "Găsește lacul Saif-ul-Maluk pe hartă.",
+        "en": "Find Saif-ul-Maluk Lake on the map."
+      }
+    },
+    {
+      "id": "pk-region-kp",
+      "type": "find_region",
+      "targetRegionId": "PAK-1123",
+      "question": {
+        "de": "Klicke auf die Region K.P.",
+        "hu": "Kattints a K.P. régióra.",
+        "ro": "Apasă pe regiunea K.P.",
+        "en": "Click the K.P. region."
+      }
+    },
+    {
+      "id": "pk-region-fata",
+      "type": "find_region",
+      "targetRegionId": "PAK-1112",
+      "question": {
+        "de": "Klicke auf die Region F.A.T.A.",
+        "hu": "Kattints a F.A.T.A. régióra.",
+        "ro": "Apasă pe regiunea F.A.T.A.",
+        "en": "Click the F.A.T.A. region."
+      }
+    },
+    {
+      "id": "pk-region-sind",
+      "type": "find_region",
+      "targetRegionId": "PAK-1114",
+      "question": {
+        "de": "Klicke auf die Region Sind.",
+        "hu": "Kattints Szind régiójára.",
+        "ro": "Apasă pe regiunea Sind.",
+        "en": "Click the Sind region."
+      }
+    },
+    {
+      "id": "pk-region-azad-kashmir",
+      "type": "find_region",
+      "targetRegionId": "PAK-1109",
+      "question": {
+        "de": "Klicke auf die Region Azad Kashmir.",
+        "hu": "Kattints Azad Kashmir régiójára.",
+        "ro": "Apasă pe regiunea Azad Kashmir.",
+        "en": "Click the Azad Kashmir region."
+      }
+    },
+    {
+      "id": "pk-region-fct",
+      "type": "find_region",
+      "targetRegionId": "PAK-1110",
+      "question": {
+        "de": "Klicke auf die Region F.C.T.",
+        "hu": "Kattints a F.C.T. régióra.",
+        "ro": "Apasă pe regiunea F.C.T.",
+        "en": "Click the F.C.T. region."
+      }
+    },
+    {
+      "id": "pk-odd-west-makran-route",
+      "type": "odd_one_out",
+      "poiIds": [
+        "gwadar-cities-v2",
+        "turbat-cities-v2",
+        "khuzdar-cities-v2",
+        "pakistan-sukkur-cities-v2"
+      ],
+      "targetPoiId": "gwadar-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt am weitesten westlich?",
+        "hu": "Melyik hely fekszik a legnyugatabbra?",
+        "ro": "Care loc se află cel mai la vest?",
+        "en": "Which place lies furthest west?"
+      }
+    },
+    {
+      "id": "pk-odd-east-punjab-corridor",
+      "type": "odd_one_out",
+      "poiIds": [
+        "pakistan-dera-ghazi-khan-cities-v2",
+        "pakistan-bahawalpur-cities-v2",
+        "pk-bagh-e-jinnah-life-v2",
+        "pakistan-gujranwala-cities-v2"
+      ],
+      "targetPoiId": "pk-bagh-e-jinnah-life-v2",
+      "question": {
+        "de": "Welcher Ort liegt am weitesten östlich?",
+        "hu": "Melyik hely fekszik a legkeletebbre?",
+        "ro": "Care loc se află cel mai la est?",
+        "en": "Which place lies furthest east?"
+      }
+    },
+    {
+      "id": "pk-odd-north-highlands",
+      "type": "odd_one_out",
+      "poiIds": [
+        "pakistan-murree-cities-v2",
+        "pakistan-abbottabad-cities-v2",
+        "pakistan-naran-cities-v2",
+        "pakistan-gilgit-cities-v2"
+      ],
+      "targetPoiId": "pakistan-gilgit-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt am weitesten nördlich?",
+        "hu": "Melyik hely fekszik a legészakabbra?",
+        "ro": "Care loc se află cel mai la nord?",
+        "en": "Which place lies furthest north?"
+      }
+    },
+    {
+      "id": "pk-odd-south-coast",
+      "type": "odd_one_out",
+      "poiIds": [
+        "gwadar-cities-v2",
+        "pakistan-kund-malir-cities-v2",
+        "pakistan-ormara-cities-v2",
+        "pakistan-pasni-cities-v2"
+      ],
+      "targetPoiId": "gwadar-cities-v2",
+      "question": {
+        "de": "Welcher Küstenort liegt am weitesten südlich?",
+        "hu": "Melyik tengerparti hely fekszik a legdélebbre?",
+        "ro": "Care loc de pe coastă se află cel mai la sud?",
+        "en": "Which coastal place lies furthest south?"
+      }
+    },
+    {
+      "id": "pk-odd-east-karakoram",
+      "type": "odd_one_out",
+      "poiIds": [
+        "attabad-lake-nature-v2",
+        "satpara-lake-nature-v2",
+        "nangma-valley-nature-v2",
+        "pakistan-khaplu-cities-v2"
+      ],
+      "targetPoiId": "pakistan-khaplu-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt am weitesten östlich im Norden Pakistans?",
+        "hu": "Melyik hely fekszik a legkeletebbre Pakisztán északi részén?",
+        "ro": "Care loc se află cel mai la est în nordul Pakistanului?",
+        "en": "Which place lies furthest east in northern Pakistan?"
+      }
+    },
+    {
+      "id": "pk-sequence-north-south-mountains",
+      "type": "sequence",
+      "poiIds": [
+        "pakistan-gilgit-cities-v2",
+        "pakistan-chitral-cities-v2",
+        "pakistan-naran-cities-v2",
+        "pakistan-rawalpindi-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "pakistan-gilgit-cities-v2",
+        "pakistan-chitral-cities-v2",
+        "pakistan-naran-cities-v2",
+        "pakistan-rawalpindi-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke diese Orte von Norden nach Süden an: Gilgit, Chitral, Naran, Rawalpindi.",
+        "hu": "Kattints ezekre a helyekre északról délre: Gilgit, Chitrál, Naran, Ravalpindi.",
+        "ro": "Apasă aceste locuri de la nord la sud: Gilgit, Chitral, Naran, Rawalpindi.",
+        "en": "Click these places from north to south: Gilgit, Chitral, Naran, Rawalpindi."
+      }
+    },
+    {
+      "id": "pk-sequence-west-east-south-belt",
+      "type": "sequence",
+      "poiIds": [
+        "gwadar-cities-v2",
+        "khuzdar-cities-v2",
+        "pakistan-sukkur-cities-v2",
+        "mirpur-khas-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "gwadar-cities-v2",
+        "khuzdar-cities-v2",
+        "pakistan-sukkur-cities-v2",
+        "mirpur-khas-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke diese Orte von Westen nach Osten an: Gwadar, Khuzdar, Sukkur, Mirpur Khas.",
+        "hu": "Kattints ezekre a helyekre nyugatról keletre: Gwadar, Khuzdar, Sukkur, Mirpur Khas.",
+        "ro": "Apasă aceste locuri de la vest la est: Gwadar, Khuzdar, Sukkur, Mirpur Khas.",
+        "en": "Click these places from west to east: Gwadar, Khuzdar, Sukkur, Mirpur Khas."
+      }
+    },
+    {
+      "id": "pk-sequence-south-north-punjab",
+      "type": "sequence",
+      "poiIds": [
+        "pakistan-bahawalpur-cities-v2",
+        "pakistan-multan-cities-v2",
+        "sahiwal-cities-v2",
+        "pakistan-gujranwala-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "pakistan-bahawalpur-cities-v2",
+        "pakistan-multan-cities-v2",
+        "sahiwal-cities-v2",
+        "pakistan-gujranwala-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke diese Orte von Süden nach Norden an: Bahawalpur, Multan, Sahiwal, Gujranwala.",
+        "hu": "Kattints ezekre a helyekre délről északra: Bahavalpur, Multán, Sahiwal, Gudzsránválá.",
+        "ro": "Apasă aceste locuri de la sud la nord: Bahawalpur, Multan, Sahiwal, Gujranwala.",
+        "en": "Click these places from south to north: Bahawalpur, Multan, Sahiwal, Gujranwala."
+      }
+    },
+    {
+      "id": "pk-sequence-west-east-neelum-arc",
+      "type": "sequence",
+      "poiIds": [
+        "pakistan-murree-cities-v2",
+        "pakistan-muzaffarabad-cities-v2",
+        "pakistan-keran-cities-v2",
+        "pakistan-ratti-gali-lake-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "pakistan-murree-cities-v2",
+        "pakistan-muzaffarabad-cities-v2",
+        "pakistan-keran-cities-v2",
+        "pakistan-ratti-gali-lake-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke diese Orte von Westen nach Osten an: Murree, Muzaffarabad, Keran, Ratti Gali Lake.",
+        "hu": "Kattints ezekre a helyekre nyugatról keletre: Murree, Muzaffarábád, Keran, Ratti Gali-tó.",
+        "ro": "Apasă aceste locuri de la vest la est: Murree, Muzaffarabad, Keran, lacul Ratti Gali.",
+        "en": "Click these places from west to east: Murree, Muzaffarabad, Keran, Ratti Gali Lake."
+      }
+    },
+    {
+      "id": "pk-sequence-south-north-balochistan",
+      "type": "sequence",
+      "poiIds": [
+        "pakistan-kund-malir-cities-v2",
+        "turbat-cities-v2",
+        "khuzdar-cities-v2",
+        "pakistan-ziarat-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "pakistan-kund-malir-cities-v2",
+        "turbat-cities-v2",
+        "khuzdar-cities-v2",
+        "pakistan-ziarat-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke diese Orte von Süden nach Norden an: Kund Malir, Turbat, Khuzdar, Ziarat.",
+        "hu": "Kattints ezekre a helyekre délről északra: Kund Malir, Turbat, Khuzdar, Ziarat.",
+        "ro": "Apasă aceste locuri de la sud la nord: Kund Malir, Turbat, Khuzdar, Ziarat.",
+        "en": "Click these places from south to north: Kund Malir, Turbat, Khuzdar, Ziarat."
+      }
+    }
+  ]
+}

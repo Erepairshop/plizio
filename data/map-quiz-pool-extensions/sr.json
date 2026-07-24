@@ -1,0 +1,292 @@
+{
+  "sr": [
+    {
+      "id": "sr-region-marowijne-east-border",
+      "type": "find_region",
+      "targetRegionId": "SUR-67",
+      "question": {
+        "de": "Klicke auf Marowijne, den östlichen Grenzdistrikt zu Französisch-Guayana.",
+        "hu": "Kattints Marowijne körzetre, a Francia Guyanával határos keleti körzetre.",
+        "ro": "Apasă pe Marowijne, districtul estic de frontieră cu Guyana Franceză.",
+        "en": "Click Marowijne, the eastern border district next to French Guiana."
+      }
+    },
+    {
+      "id": "sr-region-coronie-coast",
+      "type": "find_region",
+      "targetRegionId": "SUR-71",
+      "question": {
+        "de": "Finde Coronie, den schmalen Küstendistrikt westlich des Zentrums von Suriname.",
+        "hu": "Keresd meg Coronie-t, Suriname középső részétől nyugatra fekvő keskeny partvidéki körzetet.",
+        "ro": "Găsește Coronie, districtul îngust de coastă aflat la vest de zona centrală a Surinamului.",
+        "en": "Find Coronie, the narrow coastal district west of Suriname's center."
+      }
+    },
+    {
+      "id": "sr-region-saramacca-central-coast",
+      "type": "find_region",
+      "targetRegionId": "SUR-73",
+      "question": {
+        "de": "Klicke auf Saramacca an der nördlichen Küste westlich von Paramaribo.",
+        "hu": "Kattints Saramacca körzetre az északi parton, Paramaribótól nyugatra.",
+        "ro": "Apasă pe Saramacca, pe coasta nordică la vest de Paramaribo.",
+        "en": "Click Saramacca on the northern coast west of Paramaribo."
+      }
+    },
+    {
+      "id": "sr-region-wanica-around-capital",
+      "type": "find_region",
+      "targetRegionId": "SUR-74",
+      "question": {
+        "de": "Finde Wanica, den dicht besiedelten Distrikt rund um die Hauptstadt.",
+        "hu": "Keresd meg Wanicát, a fővárost körülvevő sűrűn lakott körzetet.",
+        "ro": "Găsește Wanica, districtul dens populat care înconjoară capitala.",
+        "en": "Find Wanica, the densely populated district surrounding the capital."
+      }
+    },
+    {
+      "id": "sr-region-commewijne-east-of-river",
+      "type": "find_region",
+      "targetRegionId": "SUR-70",
+      "question": {
+        "de": "Klicke auf Commewijne östlich des Suriname-Flusses gegenüber von Paramaribo.",
+        "hu": "Kattints Commewijne körzetre a Suriname folyótól keletre, Paramaribóval szemben.",
+        "ro": "Apasă pe Commewijne, la est de râul Suriname, vizavi de Paramaribo.",
+        "en": "Click Commewijne east of the Suriname River opposite Paramaribo."
+      }
+    },
+    {
+      "id": "sr-region-para-airport-belt",
+      "type": "find_region",
+      "targetRegionId": "SUR-68",
+      "question": {
+        "de": "Finde Para, den Distrikt südlich der Hauptstadt im Savannen- und Flughafengebiet.",
+        "hu": "Keresd meg Parát, a fővárostól délre fekvő szavannás és repülőtéri körzetet.",
+        "ro": "Găsește Para, districtul la sud de capitală, în zona savanei și a aeroportului.",
+        "en": "Find Para, the district south of the capital in the savanna and airport zone."
+      }
+    },
+    {
+      "id": "sr-region-brokopondo-reservoir",
+      "type": "find_region",
+      "targetRegionId": "SUR-66",
+      "question": {
+        "de": "Klicke auf Brokopondo, den Distrikt des großen Stausees im Süden der Küstenzone.",
+        "hu": "Kattints Brokopondo körzetre, a nagy víztározó körzetére a partvidéktől délre.",
+        "ro": "Apasă pe Brokopondo, districtul marelui lac de acumulare aflat la sud de zona de coastă.",
+        "en": "Click Brokopondo, the district of the large reservoir south of the coastal zone."
+      }
+    },
+    {
+      "id": "sr-find-cathedral-wooden",
+      "type": "find_poi",
+      "targetPoiId": "st-peter-paul-cathedral-landmarks-v2",
+      "question": {
+        "de": "Finde die St.-Peter-und-Paul-Kathedrale im Zentrum von Paramaribo.",
+        "hu": "Keresd meg a Szent Péter és Pál-székesegyházat Paramaribo központjában.",
+        "ro": "Găsește Catedrala Sf. Petru și Pavel din centrul Paramariboului.",
+        "en": "Find Saint Peter and Paul Cathedral in central Paramaribo."
+      }
+    },
+    {
+      "id": "sr-find-central-market-waterfront",
+      "type": "find_poi",
+      "targetPoiId": "centrale-markt-paramaribo-landmarks-v2",
+      "question": {
+        "de": "Finde den Zentralmarkt von Paramaribo am Flussufer.",
+        "hu": "Keresd meg Paramaribo központi piacát a folyóparton.",
+        "ro": "Găsește Piața Centrală din Paramaribo, pe malul râului.",
+        "en": "Find Paramaribo Central Market on the riverfront."
+      }
+    },
+    {
+      "id": "sr-find-cola-creek-blackwater",
+      "type": "find_poi",
+      "targetPoiId": "suriname-cola-creek-cities-v2",
+      "question": {
+        "de": "Finde Cola Creek, den beliebten Schwarzwasser-Badeort südlich von Paramaribo.",
+        "hu": "Keresd meg Cola Creeket, a Paramaribótól délre fekvő népszerű feketevizű fürdőhelyet.",
+        "ro": "Găsește Cola Creek, popularul loc de baie cu apă neagră la sud de Paramaribo.",
+        "en": "Find Cola Creek, the popular blackwater swimming spot south of Paramaribo."
+      }
+    },
+    {
+      "id": "sr-find-atjoni-road-end",
+      "type": "find_poi",
+      "targetPoiId": "suriname-atjoni-cities-v2",
+      "question": {
+        "de": "Finde Atjoni, den Straßenendpunkt und Bootsanleger für das obere Suriname-Gebiet.",
+        "hu": "Keresd meg Atjonit, az út végpontját és a Felső-Suriname vidékre induló csónakok kiindulóhelyét.",
+        "ro": "Găsește Atjoni, capătul drumului și debarcaderul pentru zona superioară a râului Suriname.",
+        "en": "Find Atjoni, the road's end and boat departure point for the Upper Suriname region."
+      }
+    },
+    {
+      "id": "sr-find-commewijne-plantations",
+      "type": "find_poi",
+      "targetPoiId": "suriname-commewijne-plantations-cities-v2",
+      "question": {
+        "de": "Finde die Commewijne-Plantagen östlich von Paramaribo.",
+        "hu": "Keresd meg a Commewijne ültetvényeket Paramaribótól keletre.",
+        "ro": "Găsește plantațiile Commewijne, la est de Paramaribo.",
+        "en": "Find the Commewijne plantations east of Paramaribo."
+      }
+    },
+    {
+      "id": "sr-odd-not-capital-area",
+      "type": "odd_one_out",
+      "poiIds": [
+        "paramaribo-cities-v2",
+        "st-peter-paul-cathedral-landmarks-v2",
+        "centrale-markt-paramaribo-landmarks-v2",
+        "suriname-palumeu-cities-v2"
+      ],
+      "targetPoiId": "suriname-palumeu-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht in oder nahe dem Hauptstadtgebiet von Paramaribo?",
+        "hu": "Melyik hely nem Paramaribo fővárosi térségében vagy annak közelében található?",
+        "ro": "Care loc nu se află în sau lângă zona capitalei Paramaribo?",
+        "en": "Which place is not in or near the capital area of Paramaribo?"
+      }
+    },
+    {
+      "id": "sr-odd-coastal-wetland",
+      "type": "odd_one_out",
+      "poiIds": [
+        "suriname-cola-creek-cities-v2",
+        "suriname-brownsweg-cities-v2",
+        "suriname-atjoni-cities-v2",
+        "suriname-bigi-pan-cities-v2"
+      ],
+      "targetPoiId": "suriname-bigi-pan-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt in einem nördlichen Küstenfeuchtgebiet statt auf der Route ins Landesinnere?",
+        "hu": "Melyik hely fekszik északi parti vizes élőhelyen, nem pedig a belső országrész felé vezető útvonalon?",
+        "ro": "Care loc se află într-o zonă umedă de coastă din nord, nu pe ruta spre interiorul țării?",
+        "en": "Which place lies in a northern coastal wetland rather than on the route into the interior?"
+      }
+    },
+    {
+      "id": "sr-odd-far-from-coast",
+      "type": "odd_one_out",
+      "poiIds": [
+        "suriname-galibi-nature-reserve-cities-v2",
+        "suriname-bigi-pan-cities-v2",
+        "suriname-commewijne-plantations-cities-v2",
+        "suriname-palumeu-cities-v2"
+      ],
+      "targetPoiId": "suriname-palumeu-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt weit weg von der Atlantikküste?",
+        "hu": "Melyik hely fekszik messze az Atlanti-óceán partjától?",
+        "ro": "Care loc se află departe de coasta Atlanticului?",
+        "en": "Which place lies far from the Atlantic coast?"
+      }
+    },
+    {
+      "id": "sr-odd-east-of-river",
+      "type": "odd_one_out",
+      "poiIds": [
+        "paramaribo-cities-v2",
+        "st-peter-paul-cathedral-landmarks-v2",
+        "centrale-markt-paramaribo-landmarks-v2",
+        "suriname-commewijne-plantations-cities-v2"
+      ],
+      "targetPoiId": "suriname-commewijne-plantations-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt östlich des Suriname-Flusses statt im Hauptstadtkern westlich des Flusses?",
+        "hu": "Melyik hely fekszik a Suriname folyótól keletre, nem pedig a folyótól nyugatra fekvő fővárosi magterületen?",
+        "ro": "Care loc se află la est de râul Suriname, nu în nucleul capitalei de pe malul vestic?",
+        "en": "Which place lies east of the Suriname River rather than in the capital core on the west bank?"
+      }
+    },
+    {
+      "id": "sr-sequence-north-south-coast-to-river",
+      "type": "sequence",
+      "poiIds": [
+        "suriname-commewijne-plantations-cities-v2",
+        "paramaribo-cities-v2",
+        "suriname-cola-creek-cities-v2",
+        "suriname-atjoni-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "suriname-commewijne-plantations-cities-v2",
+        "paramaribo-cities-v2",
+        "suriname-cola-creek-cities-v2",
+        "suriname-atjoni-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die Commewijne-Plantagen, Paramaribo, Cola Creek und Atjoni von Norden nach Süden an.",
+        "hu": "Kattints a Commewijne ültetvényekre, Paramaribóra, Cola Creekre és Atjonira északról dél felé.",
+        "ro": "Apasă Commewijne plantations, Paramaribo, Cola Creek și Atjoni de la nord la sud.",
+        "en": "Click Commewijne plantations, Paramaribo, Cola Creek, and Atjoni from north to south."
+      }
+    },
+    {
+      "id": "sr-sequence-west-east-wetland-to-border",
+      "type": "sequence",
+      "poiIds": [
+        "suriname-bigi-pan-cities-v2",
+        "suriname-palumeu-cities-v2",
+        "paramaribo-cities-v2",
+        "suriname-galibi-nature-reserve-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "suriname-bigi-pan-cities-v2",
+        "suriname-palumeu-cities-v2",
+        "paramaribo-cities-v2",
+        "suriname-galibi-nature-reserve-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Bigi Pan, Palumeu, Paramaribo und das Galibi-Naturreservat von Westen nach Osten an.",
+        "hu": "Kattints Bigi Panra, Palumeura, Paramaribóra és a Galibi Természetvédelmi Területre nyugatról kelet felé.",
+        "ro": "Apasă Bigi Pan, Palumeu, Paramaribo și Rezervația Naturală Galibi de la vest la est.",
+        "en": "Click Bigi Pan, Palumeu, Paramaribo, and Galibi Nature Reserve from west to east."
+      }
+    },
+    {
+      "id": "sr-sequence-north-south-interior-river",
+      "type": "sequence",
+      "poiIds": [
+        "suriname-cola-creek-cities-v2",
+        "suriname-atjoni-cities-v2",
+        "suriname-danpaati-cities-v2",
+        "suriname-palumeu-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "suriname-cola-creek-cities-v2",
+        "suriname-atjoni-cities-v2",
+        "suriname-danpaati-cities-v2",
+        "suriname-palumeu-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Cola Creek, Atjoni, Danpaati und Palumeu von Norden nach Süden an.",
+        "hu": "Kattints Cola Creekre, Atjonira, Danpaatira és Palumeura északról dél felé.",
+        "ro": "Apasă Cola Creek, Atjoni, Danpaati și Palumeu de la nord la sud.",
+        "en": "Click Cola Creek, Atjoni, Danpaati, and Palumeu from north to south."
+      }
+    },
+    {
+      "id": "sr-sequence-west-east-coast-and-river",
+      "type": "sequence",
+      "poiIds": [
+        "suriname-bigi-pan-cities-v2",
+        "suriname-cola-creek-cities-v2",
+        "suriname-commewijne-plantations-cities-v2",
+        "suriname-bergendal-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "suriname-bigi-pan-cities-v2",
+        "suriname-cola-creek-cities-v2",
+        "suriname-commewijne-plantations-cities-v2",
+        "suriname-bergendal-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Bigi Pan, Cola Creek, die Commewijne-Plantagen und Bergendal von Westen nach Osten an.",
+        "hu": "Kattints Bigi Panra, Cola Creekre, a Commewijne ültetvényekre és Bergendalra nyugatról kelet felé.",
+        "ro": "Apasă Bigi Pan, Cola Creek, plantațiile Commewijne și Bergendal de la vest la est.",
+        "en": "Click Bigi Pan, Cola Creek, Commewijne plantations, and Bergendal from west to east."
+      }
+    }
+  ]
+}

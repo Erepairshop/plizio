@@ -1,0 +1,299 @@
+{
+  "mg": [
+    {
+      "id": "mg-find-antsirabe-thermal",
+      "type": "find_poi",
+      "targetPoiId": "antsirabe-cities-v2",
+      "question": {
+        "de": "Finde Antsirabe im zentralen Hochland südlich der Hauptstadt.",
+        "hu": "Keresd meg Antsirabét a központi fennsíkon, a fővárostól délre.",
+        "ro": "Găsește Antsirabe în podișul central, la sud de capitală.",
+        "en": "Find Antsirabe in the central highlands south of the capital."
+      }
+    },
+    {
+      "id": "mg-find-fianarantsoa-highlands",
+      "type": "find_poi",
+      "targetPoiId": "fianarantsoa-cities-v2",
+      "question": {
+        "de": "Finde Fianarantsoa im südzentralen Hochland.",
+        "hu": "Keresd meg Fianarantsoát a dél-középső felföldön.",
+        "ro": "Găsește Fianarantsoa în zona înaltă din sudul centrului insulei.",
+        "en": "Find Fianarantsoa in the south-central highlands."
+      }
+    },
+    {
+      "id": "mg-find-morondava-west",
+      "type": "find_poi",
+      "targetPoiId": "morondava-cities-v2",
+      "question": {
+        "de": "Finde Morondava an der Westküste Madagaskars.",
+        "hu": "Keresd meg Morondavát Madagaszkár nyugati partján.",
+        "ro": "Găsește Morondava pe coasta de vest a Madagascarului.",
+        "en": "Find Morondava on Madagascar's west coast."
+      }
+    },
+    {
+      "id": "mg-find-sambava-northeast",
+      "type": "find_poi",
+      "targetPoiId": "sambava-cities-v2",
+      "question": {
+        "de": "Finde Sambava an der Nordostküste.",
+        "hu": "Keresd meg Sambavát az északkeleti parton.",
+        "ro": "Găsește Sambava pe coasta de nord-est.",
+        "en": "Find Sambava on the northeast coast."
+      }
+    },
+    {
+      "id": "mg-find-ambatondrazaka-alaotra",
+      "type": "find_poi",
+      "targetPoiId": "ambatondrazaka-cities-v2",
+      "question": {
+        "de": "Finde Ambatondrazaka nahe dem Alaotra-See im Osten des Hochlands.",
+        "hu": "Keresd meg Ambatondrazakát az Alaotra-tó közelében, a fennsík keleti részén.",
+        "ro": "Găsește Ambatondrazaka lângă lacul Alaotra, în estul podișului.",
+        "en": "Find Ambatondrazaka near Lake Alaotra in the eastern highlands."
+      }
+    },
+    {
+      "id": "mg-region-sava-northeast",
+      "type": "find_region",
+      "targetRegionId": "MDG-5879",
+      "question": {
+        "de": "Klicke auf die Region Sava im Nordosten.",
+        "hu": "Kattints az északkeleti Sava régióra.",
+        "ro": "Apasă pe regiunea Sava din nord-est.",
+        "en": "Click the Sava region in the northeast."
+      }
+    },
+    {
+      "id": "mg-region-atsinanana-east",
+      "type": "find_region",
+      "targetRegionId": "MDG-5868",
+      "question": {
+        "de": "Klicke auf Atsinanana an der mittleren Ostküste.",
+        "hu": "Kattints Atsinanana régióra a középső keleti parton.",
+        "ro": "Apasă pe Atsinanana de pe coasta central-estică.",
+        "en": "Click Atsinanana on the central east coast."
+      }
+    },
+    {
+      "id": "mg-region-anosy-southeast",
+      "type": "find_region",
+      "targetRegionId": "MDG-5865",
+      "question": {
+        "de": "Klicke auf die Region Anosy im Südosten.",
+        "hu": "Kattints a délkeleti Anosy régióra.",
+        "ro": "Apasă pe regiunea Anosy din sud-est.",
+        "en": "Click the Anosy region in the southeast."
+      }
+    },
+    {
+      "id": "mg-region-menabe-west",
+      "type": "find_region",
+      "targetRegionId": "MDG-5878",
+      "question": {
+        "de": "Klicke auf Menabe an der Westküste.",
+        "hu": "Kattints a nyugati parton fekvő Menabe régióra.",
+        "ro": "Apasă pe Menabe de pe coasta vestică.",
+        "en": "Click Menabe on the west coast."
+      }
+    },
+    {
+      "id": "mg-region-vakinankaratra-highlands",
+      "type": "find_region",
+      "targetRegionId": "MDG-5881",
+      "question": {
+        "de": "Klicke auf Vakinankaratra im zentralen Hochland.",
+        "hu": "Kattints a központi fennsíkon fekvő Vakinankaratra régióra.",
+        "ro": "Apasă pe Vakinankaratra din podișul central.",
+        "en": "Click Vakinankaratra in the central highlands."
+      }
+    },
+    {
+      "id": "mg-odd-not-far-north",
+      "type": "odd_one_out",
+      "poiIds": [
+        "antsiranana-cities-v2",
+        "sambava-cities-v2",
+        "vohemar-cities-v2",
+        "fianarantsoa-cities-v2"
+      ],
+      "targetPoiId": "fianarantsoa-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht im hohen Norden oder Nordosten Madagaskars?",
+        "hu": "Melyik város nem Madagaszkár északi vagy északkeleti részén fekszik?",
+        "ro": "Care oraș nu se află în nordul sau nord-estul Madagascarului?",
+        "en": "Which city is not in northern or northeastern Madagascar?"
+      }
+    },
+    {
+      "id": "mg-odd-not-highlands",
+      "type": "odd_one_out",
+      "poiIds": [
+        "antananarivo-cities-v2",
+        "antsirabe-cities-v2",
+        "ambatolampy-cities-v2",
+        "morondava-cities-v2"
+      ],
+      "targetPoiId": "morondava-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht im zentralen Hochland?",
+        "hu": "Melyik város nem a központi fennsíkon található?",
+        "ro": "Care oraș nu se află în podișul central?",
+        "en": "Which city is not in the central highlands?"
+      }
+    },
+    {
+      "id": "mg-odd-not-southeast-coast",
+      "type": "odd_one_out",
+      "poiIds": [
+        "tolanaro-cities-v2",
+        "farafangana-cities-v2",
+        "vangaindrano-cities-v2",
+        "mahajanga-cities-v2"
+      ],
+      "targetPoiId": "mahajanga-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht an der Südostküste Madagaskars?",
+        "hu": "Melyik város nem Madagaszkár délkeleti partvidékén fekszik?",
+        "ro": "Care oraș nu se află pe coasta de sud-est a Madagascarului?",
+        "en": "Which city is not on Madagascar's southeast coast?"
+      }
+    },
+    {
+      "id": "mg-odd-not-east-coast",
+      "type": "odd_one_out",
+      "poiIds": [
+        "toamasina-cities-v2",
+        "vatomandry-cities-v2",
+        "mahanoro-cities-v2",
+        "tsiroanomandidy-cities-v2"
+      ],
+      "targetPoiId": "tsiroanomandidy-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht an der Ostküste?",
+        "hu": "Melyik város nem a keleti parton található?",
+        "ro": "Care oraș nu se află pe coasta de est?",
+        "en": "Which city is not on the east coast?"
+      }
+    },
+    {
+      "id": "mg-odd-not-northwest",
+      "type": "odd_one_out",
+      "poiIds": [
+        "mahajanga-cities-v2",
+        "ambanja-cities-v2",
+        "ambilobe-cities-v2",
+        "manakara-cities-v2"
+      ],
+      "targetPoiId": "manakara-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht in der nordwestlichen Hälfte Madagaskars?",
+        "hu": "Melyik város nem Madagaszkár északnyugati felében fekszik?",
+        "ro": "Care oraș nu se află în jumătatea nord-vestică a Madagascarului?",
+        "en": "Which city is not in the northwestern half of Madagascar?"
+      }
+    },
+    {
+      "id": "mg-sequence-west-east-morondava-antsirabe-toamasina",
+      "type": "sequence",
+      "poiIds": [
+        "morondava-cities-v2",
+        "antsirabe-cities-v2",
+        "toamasina-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "morondava-cities-v2",
+        "antsirabe-cities-v2",
+        "toamasina-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Morondava, Antsirabe und Toamasina von Westen nach Osten an.",
+        "hu": "Kattints Morondavára, Antsirabéra és Toamasinára nyugatról kelet felé.",
+        "ro": "Apasă Morondava, Antsirabe și Toamasina de la vest la est.",
+        "en": "Click Morondava, Antsirabe and Toamasina from west to east."
+      }
+    },
+    {
+      "id": "mg-sequence-north-south-vohemar-antsirabe-ambovombe",
+      "type": "sequence",
+      "poiIds": [
+        "vohemar-cities-v2",
+        "antsirabe-cities-v2",
+        "ambovombe-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "vohemar-cities-v2",
+        "antsirabe-cities-v2",
+        "ambovombe-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Vohemar, Antsirabe und Ambovombe von Norden nach Süden an.",
+        "hu": "Kattints Vohemarra, Antsirabéra és Ambovombéra északról dél felé.",
+        "ro": "Apasă Vohemar, Antsirabe și Ambovombe de la nord la sud.",
+        "en": "Click Vohemar, Antsirabe and Ambovombe from north to south."
+      }
+    },
+    {
+      "id": "mg-sequence-north-south-east-coast",
+      "type": "sequence",
+      "poiIds": [
+        "sambava-cities-v2",
+        "toamasina-cities-v2",
+        "manakara-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "sambava-cities-v2",
+        "toamasina-cities-v2",
+        "manakara-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Sambava, Toamasina und Manakara von Norden nach Süden an.",
+        "hu": "Kattints Sambavára, Toamasinára és Manakarára északról dél felé.",
+        "ro": "Apasă Sambava, Toamasina și Manakara de la nord la sud.",
+        "en": "Click Sambava, Toamasina and Manakara from north to south."
+      }
+    },
+    {
+      "id": "mg-sequence-west-east-south-belt",
+      "type": "sequence",
+      "poiIds": [
+        "madagascar-morombe-cities-v2",
+        "betroka-cities-v2",
+        "tolanaro-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "madagascar-morombe-cities-v2",
+        "betroka-cities-v2",
+        "tolanaro-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Morombe, Betroka und Tolanaro von Westen nach Osten an.",
+        "hu": "Kattints Morombére, Betrokára és Tolanaróra nyugatról kelet felé.",
+        "ro": "Apasă Morombe, Betroka și Tolanaro de la vest la est.",
+        "en": "Click Morombe, Betroka and Tolanaro from west to east."
+      }
+    },
+    {
+      "id": "mg-sequence-north-south-west-coast",
+      "type": "sequence",
+      "poiIds": [
+        "mahajanga-cities-v2",
+        "morondava-cities-v2",
+        "toliara-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "mahajanga-cities-v2",
+        "morondava-cities-v2",
+        "toliara-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Mahajanga, Morondava und Toliara von Norden nach Süden an.",
+        "hu": "Kattints Mahajangára, Morondavára és Toliarára északról dél felé.",
+        "ro": "Apasă Mahajanga, Morondava și Toliara de la nord la sud.",
+        "en": "Click Mahajanga, Morondava and Toliara from north to south."
+      }
+    }
+  ]
+}

@@ -1,0 +1,303 @@
+{
+  "ro": [
+    {
+      "id": "ro-find-peles-castle",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Schloss Pele? in Sinaia.",
+        "hu": "Keresd meg a Pele?-kast?lyt Sinaia v?ros?ban.",
+        "ro": "G?se?te Castelul Pele? din Sinaia.",
+        "en": "Find Pele? Castle in Sinaia."
+      },
+      "targetPoiId": "hist-peles-castle"
+    },
+    {
+      "id": "ro-find-corvin-castle",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt die Burg Corvin in Hunedoara?",
+        "hu": "Hol tal?lhat? a vajdahunyadi Corvin-kast?ly?",
+        "ro": "Unde se afl? Castelul Corvinilor din Hunedoara?",
+        "en": "Where is Corvin Castle in Hunedoara?"
+      },
+      "targetPoiId": "hist-corvin-castle"
+    },
+    {
+      "id": "ro-find-sighisoara-citadel",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde die Burg von Sighi?oara.",
+        "hu": "Keresd meg Segesv?r v?r?t.",
+        "ro": "G?se?te cetatea din Sighi?oara.",
+        "en": "Find the Sighi?oara Citadel."
+      },
+      "targetPoiId": "hist-sighisoara-citadel"
+    },
+    {
+      "id": "ro-find-turda-salt-mine",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde das Salzbergwerk von Turda.",
+        "hu": "Keresd meg a tordai s?b?ny?t.",
+        "ro": "G?se?te Salina Turda.",
+        "en": "Find Turda Salt Mine."
+      },
+      "targetPoiId": "landmark-salina-turda"
+    },
+    {
+      "id": "ro-find-merry-cemetery",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt der Fr?hliche Friedhof von S?p?n?a?",
+        "hu": "Hol tal?lhat? a szaploncai Vid?m Temet??",
+        "ro": "Unde se afl? Cimitirul Vesel din S?p?n?a?",
+        "en": "Where is the Merry Cemetery of S?p?n?a?"
+      },
+      "targetPoiId": "landmark-merry-cemetery"
+    },
+    {
+      "id": "ro-region-timis",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf den Kreis Timi? im Westen Rum?niens.",
+        "hu": "Kattints a Rom?nia nyugati r?sz?n fekv? Temes megy?re.",
+        "ro": "Apas? pe jude?ul Timi? din vestul Rom?niei.",
+        "en": "Click Timi? County in western Romania."
+      },
+      "targetRegionId": "RO-TM"
+    },
+    {
+      "id": "ro-region-tulcea",
+      "type": "find_region",
+      "question": {
+        "de": "Finde den Kreis Tulcea im Donaudelta-Gebiet.",
+        "hu": "Keresd meg a Duna-delta vid?k?n fekv? Tulcea megy?t.",
+        "ro": "G?se?te jude?ul Tulcea din zona Deltei Dun?rii.",
+        "en": "Find Tulcea County in the Danube Delta area."
+      },
+      "targetRegionId": "RO-TL"
+    },
+    {
+      "id": "ro-region-brasov",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf den Kreis Bra?ov im s?d?stlichen Siebenb?rgen.",
+        "hu": "Kattints a d?lkelet-erd?lyi Brass? megy?re.",
+        "ro": "Apas? pe jude?ul Bra?ov din sud-estul Transilvaniei.",
+        "en": "Click Bra?ov County in southeastern Transylvania."
+      },
+      "targetRegionId": "RO-BV"
+    },
+    {
+      "id": "ro-region-maramures",
+      "type": "find_region",
+      "question": {
+        "de": "Finde den Kreis Maramure? im ?u?ersten Norden.",
+        "hu": "Keresd meg a leg?szakibb M?ramaros megy?t.",
+        "ro": "G?se?te jude?ul Maramure? din extremul nord.",
+        "en": "Find Maramure? County in the far north."
+      },
+      "targetRegionId": "RO-MM"
+    },
+    {
+      "id": "ro-region-constanta-county",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf den Kreis Constan?a an der Schwarzmeerk?ste.",
+        "hu": "Kattints a Fekete-tenger partj?n fekv? Konstanca megy?re.",
+        "ro": "Apas? pe jude?ul Constan?a de la Marea Neagr?.",
+        "en": "Click Constan?a County on the Black Sea coast."
+      },
+      "targetRegionId": "RO-CT"
+    },
+    {
+      "id": "ro-odd-westernmost-city",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser St?dte liegt am weitesten im Westen?",
+        "hu": "Melyik v?ros fekszik a legnyugatabbra?",
+        "ro": "Care dintre aceste ora?e se afl? cel mai la vest?",
+        "en": "Which of these cities lies farthest west?"
+      },
+      "poiIds": [
+        "city-oradea",
+        "city-cluj-napoca",
+        "bucuresti",
+        "iasi"
+      ],
+      "targetPoiId": "city-oradea"
+    },
+    {
+      "id": "ro-odd-black-sea-site",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort liegt direkt an der Schwarzmeerk?ste?",
+        "hu": "Melyik hely fekszik k?zvetlen?l a Fekete-tenger partj?n?",
+        "ro": "Care loc se afl? direct pe litoralul M?rii Negre?",
+        "en": "Which place lies directly on the Black Sea coast?"
+      },
+      "poiIds": [
+        "ro-poi-constanta-casino",
+        "hist-peles-castle",
+        "hist-corvin-castle",
+        "hist-biertan"
+      ],
+      "targetPoiId": "ro-poi-constanta-casino"
+    },
+    {
+      "id": "ro-odd-not-transylvania-landmark",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht in Siebenb?rgen?",
+        "hu": "Melyik hely nem Erd?lyben tal?lhat??",
+        "ro": "Care dintre aceste locuri nu se afl? ?n Transilvania?",
+        "en": "Which of these places is not in Transylvania?"
+      },
+      "poiIds": [
+        "hist-biertan",
+        "hist-sighisoara-citadel",
+        "romania-viscri-cities-v2",
+        "ro-poi-sinaia-pelisor"
+      ],
+      "targetPoiId": "ro-poi-sinaia-pelisor"
+    },
+    {
+      "id": "ro-odd-northernmost-place",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Norden?",
+        "hu": "Melyik hely fekszik a leg?szakabbra?",
+        "ro": "Care dintre aceste locuri se afl? cel mai la nord?",
+        "en": "Which of these places lies farthest north?"
+      },
+      "poiIds": [
+        "landmark-merry-cemetery",
+        "city-cluj-napoca",
+        "city-alba-iulia",
+        "bucuresti"
+      ],
+      "targetPoiId": "landmark-merry-cemetery"
+    },
+    {
+      "id": "ro-odd-banat-place",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher dieser Orte liegt im Banat?",
+        "hu": "Melyik hely tal?lhat? a B?ns?gban?",
+        "ro": "Care dintre aceste locuri se afl? ?n Banat?",
+        "en": "Which of these places is in Banat?"
+      },
+      "poiIds": [
+        "ro-poi-timisoara-unirii",
+        "city-cluj-napoca",
+        "city-alba-iulia",
+        "city-sighisoara"
+      ],
+      "targetPoiId": "ro-poi-timisoara-unirii"
+    },
+    {
+      "id": "ro-sequence-west-east-northbelt",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die St?dte von West nach Ost an: Oradea, Cluj-Napoca, Sighi?oara, Ia?i.",
+        "hu": "Kattints a v?rosokra nyugatr?l keletre: Nagyv?rad, Kolozsv?r, Segesv?r, Ia?i.",
+        "ro": "Apas? ora?ele de la vest la est: Oradea, Cluj-Napoca, Sighi?oara, Ia?i.",
+        "en": "Click the cities from west to east: Oradea, Cluj-Napoca, Sighi?oara, Ia?i."
+      },
+      "poiIds": [
+        "city-oradea",
+        "city-cluj-napoca",
+        "city-sighisoara",
+        "iasi"
+      ],
+      "orderedPoiIds": [
+        "city-oradea",
+        "city-cluj-napoca",
+        "city-sighisoara",
+        "iasi"
+      ]
+    },
+    {
+      "id": "ro-sequence-north-south-line",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Orte von Nord nach S?d an.",
+        "hu": "Kattints a helyekre ?szakr?l d?lre.",
+        "ro": "Apas? locurile de la nord la sud.",
+        "en": "Click the places from north to south."
+      },
+      "poiIds": [
+        "landmark-merry-cemetery",
+        "city-cluj-napoca",
+        "bucuresti",
+        "constanta"
+      ],
+      "orderedPoiIds": [
+        "landmark-merry-cemetery",
+        "city-cluj-napoca",
+        "bucuresti",
+        "constanta"
+      ]
+    },
+    {
+      "id": "ro-sequence-transylvania-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Alba Iulia, Sibiu und Bra?ov von West nach Ost an.",
+        "hu": "Kattints Gyulafeh?rv?r, Nagyszeben ?s Brass? hely?re nyugatr?l keletre.",
+        "ro": "Apas? Alba Iulia, Sibiu ?i Bra?ov de la vest la est.",
+        "en": "Click Alba Iulia, Sibiu, and Bra?ov from west to east."
+      },
+      "poiIds": [
+        "city-alba-iulia",
+        "sibiu",
+        "brasov"
+      ],
+      "orderedPoiIds": [
+        "city-alba-iulia",
+        "sibiu",
+        "brasov"
+      ]
+    },
+    {
+      "id": "ro-sequence-castles-north-south",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die historischen Festungsorte von Nord nach S?d an: Sighi?oara, Bran, Pele?.",
+        "hu": "Kattints a t?rt?nelmi er?d?tett helyekre ?szakr?l d?lre: Segesv?r, T?rcsv?r, Pele?.",
+        "ro": "Apas? obiectivele istorice fortificate de la nord la sud: Sighi?oara, Bran, Pele?.",
+        "en": "Click the fortified historic sites from north to south: Sighi?oara, Bran, Pele?."
+      },
+      "poiIds": [
+        "hist-sighisoara-citadel",
+        "hist-bran-castle",
+        "hist-peles-castle"
+      ],
+      "orderedPoiIds": [
+        "hist-sighisoara-citadel",
+        "hist-bran-castle",
+        "hist-peles-castle"
+      ]
+    },
+    {
+      "id": "ro-sequence-danube-to-delta",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke der Reihe nach: Donaukessel, Bukarest, Donaudelta.",
+        "hu": "Kattints sorrendben: Kaz?n-szoros, Bukarest, Duna-delta.",
+        "ro": "Apas? ?n ordine: Cazanele Dun?rii, Bucure?ti, Delta Dun?rii.",
+        "en": "Click in order: Danube Gorges, Bucharest, Danube Delta."
+      },
+      "poiIds": [
+        "romania-cazanele-dunarii-cities-v2",
+        "bucuresti",
+        "landmark-delta-dunarii"
+      ],
+      "orderedPoiIds": [
+        "romania-cazanele-dunarii-cities-v2",
+        "bucuresti",
+        "landmark-delta-dunarii"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,302 @@
+{
+  "bt": [
+    {
+      "id": "btx-find-phuntsholing-border",
+      "type": "find_poi",
+      "targetPoiId": "phuntsholing-cities-v2",
+      "question": {
+        "de": "Finde Phuntsholing an der südwestlichen Grenze zu Indien.",
+        "hu": "Keresd meg Phuntsholingot az India felé nyíló délnyugati határnál.",
+        "ro": "Găsește Phuntsholing la granița de sud-vest cu India.",
+        "en": "Find Phuntsholing on the southwestern border with India."
+      }
+    },
+    {
+      "id": "btx-find-jakar-heartland",
+      "type": "find_poi",
+      "targetPoiId": "jakar-cities-v2",
+      "question": {
+        "de": "Finde Jakar im zentralen Hochland von Bhutan.",
+        "hu": "Keresd meg Jakart Bhután középső hegyvidékén.",
+        "ro": "Găsește Jakar în zona montană centrală a Bhutanului.",
+        "en": "Find Jakar in Bhutan's central highlands."
+      }
+    },
+    {
+      "id": "btx-find-trashigang-east",
+      "type": "find_poi",
+      "targetPoiId": "trashigang-cities-v2",
+      "question": {
+        "de": "Klicke auf Trashigang im Osten Bhutans.",
+        "hu": "Kattints a Kelet-Bhutánban fekvő Trashigangra.",
+        "ro": "Apasă pe Trashigang din estul Bhutanului.",
+        "en": "Click Trashigang in eastern Bhutan."
+      }
+    },
+    {
+      "id": "btx-find-gasa-highlands",
+      "type": "find_poi",
+      "targetPoiId": "gasa-cities-v2",
+      "question": {
+        "de": "Finde Gasa im nördlichen Hochgebirge.",
+        "hu": "Keresd meg Gasát az északi magashegységben.",
+        "ro": "Găsește Gasa în înălțimile nordice.",
+        "en": "Find Gasa in the northern high mountains."
+      }
+    },
+    {
+      "id": "btx-find-dochula-pass",
+      "type": "find_poi",
+      "targetPoiId": "dochula-pass-landmarks-v2",
+      "question": {
+        "de": "Finde den Dochula-Pass zwischen Thimphu und Punakha.",
+        "hu": "Keresd meg a Thimphu és Punakha közötti Dochula-hágót.",
+        "ro": "Găsește trecătoarea Dochula dintre Thimphu și Punakha.",
+        "en": "Find Dochula Pass between Thimphu and Punakha."
+      }
+    },
+    {
+      "id": "btx-find-taktsang",
+      "type": "find_poi",
+      "targetPoiId": "taktsang-palphug-landmarks-v2",
+      "question": {
+        "de": "Klicke auf das Taktsang-Kloster bei Paro.",
+        "hu": "Kattints a Paro közelében fekvő Taktsang kolostorra.",
+        "ro": "Apasă pe Mănăstirea Taktsang de lângă Paro.",
+        "en": "Click Taktsang Monastery near Paro."
+      }
+    },
+    {
+      "id": "btx-region-paro",
+      "type": "find_region",
+      "targetRegionId": "BTN-2436",
+      "question": {
+        "de": "Klicke auf den Distrikt Paro im Westen.",
+        "hu": "Kattints a nyugati Paro körzetre.",
+        "ro": "Apasă pe districtul Paro din vest.",
+        "en": "Click Paro District in the west."
+      }
+    },
+    {
+      "id": "btx-region-chhukha",
+      "type": "find_region",
+      "targetRegionId": "BTN-2433",
+      "question": {
+        "de": "Finde den Distrikt Chhukha im Südwesten.",
+        "hu": "Keresd meg a délnyugati Chhukha körzetet.",
+        "ro": "Găsește districtul Chhukha din sud-vest.",
+        "en": "Find Chhukha District in the southwest."
+      }
+    },
+    {
+      "id": "btx-region-wangdue-phodrang",
+      "type": "find_region",
+      "targetRegionId": "BTN-2487",
+      "question": {
+        "de": "Klicke auf den Distrikt Wangdue Phodrang im Zentrum des Landes.",
+        "hu": "Kattints az ország közepén fekvő Wangdue Phodrang körzetre.",
+        "ro": "Apasă pe districtul Wangdue Phodrang din partea centrală a țării.",
+        "en": "Click Wangdue Phodrang District in the center of the country."
+      }
+    },
+    {
+      "id": "btx-region-mongar",
+      "type": "find_region",
+      "targetRegionId": "BTN-2490",
+      "question": {
+        "de": "Finde den Distrikt Mongar in Ostbhutan.",
+        "hu": "Keresd meg a kelet-bhutáni Mongar körzetet.",
+        "ro": "Găsește districtul Mongar din estul Bhutanului.",
+        "en": "Find Mongar District in eastern Bhutan."
+      }
+    },
+    {
+      "id": "btx-odd-farthest-east",
+      "type": "odd_one_out",
+      "poiIds": [
+        "wangdue-phodrang-cities-v2",
+        "trongsa-cities-v2",
+        "trashigang-cities-v2"
+      ],
+      "targetPoiId": "trashigang-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten im Osten?",
+        "hu": "Melyik város fekszik a legkeletebbre?",
+        "ro": "Care dintre aceste orașe se află cel mai la est?",
+        "en": "Which of these towns lies farthest east?"
+      }
+    },
+    {
+      "id": "btx-odd-farthest-west",
+      "type": "odd_one_out",
+      "poiIds": [
+        "phuntsholing-cities-v2",
+        "mongar-cities-v2",
+        "samdrup-jongkhar-cities-v2"
+      ],
+      "targetPoiId": "phuntsholing-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten im Westen?",
+        "hu": "Melyik város fekszik a legnyugatabbra?",
+        "ro": "Care dintre aceste orașe se află cel mai la vest?",
+        "en": "Which of these towns lies farthest west?"
+      }
+    },
+    {
+      "id": "btx-odd-farthest-north",
+      "type": "odd_one_out",
+      "poiIds": [
+        "gelephu-cities-v2",
+        "punakha-cities-v2",
+        "gasa-cities-v2"
+      ],
+      "targetPoiId": "gasa-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Norden?",
+        "hu": "Melyik hely fekszik a legészakabbra?",
+        "ro": "Care dintre aceste locuri se află cel mai la nord?",
+        "en": "Which of these places lies farthest north?"
+      }
+    },
+    {
+      "id": "btx-odd-bumthang-town",
+      "type": "odd_one_out",
+      "poiIds": [
+        "jakar-cities-v2",
+        "trongsa-cities-v2",
+        "mongar-cities-v2"
+      ],
+      "targetPoiId": "jakar-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt in der Region Bumthang?",
+        "hu": "Melyik város található Bumthang térségében?",
+        "ro": "Care dintre aceste orașe se află în regiunea Bumthang?",
+        "en": "Which of these towns is in the Bumthang region?"
+      }
+    },
+    {
+      "id": "btx-odd-easternmost-settlement",
+      "type": "odd_one_out",
+      "poiIds": [
+        "kanglung-cities-v2",
+        "rangjung-cities-v2",
+        "bhutan-sakteng-cities-v2"
+      ],
+      "targetPoiId": "bhutan-sakteng-cities-v2",
+      "question": {
+        "de": "Welche dieser Siedlungen liegt am weitesten im Osten?",
+        "hu": "Melyik település fekszik a legkeletebbre?",
+        "ro": "Care dintre aceste așezări se află cel mai la est?",
+        "en": "Which of these settlements lies farthest east?"
+      }
+    },
+    {
+      "id": "btx-sequence-west-east-south-border",
+      "type": "sequence",
+      "poiIds": [
+        "phuntsholing-cities-v2",
+        "gelephu-cities-v2",
+        "samdrup-jongkhar-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "phuntsholing-cities-v2",
+        "gelephu-cities-v2",
+        "samdrup-jongkhar-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Phuntsholing, Gelephu und Samdrup Jongkhar von Westen nach Osten an.",
+        "hu": "Kattints Phuntsholingra, Gelephura és Samdrup Jongkharra nyugatról keletre.",
+        "ro": "Apasă pe Phuntsholing, Gelephu și Samdrup Jongkhar de la vest la est.",
+        "en": "Click Phuntsholing, Gelephu, and Samdrup Jongkhar from west to east."
+      }
+    },
+    {
+      "id": "btx-sequence-north-south-eastern-descent",
+      "type": "sequence",
+      "poiIds": [
+        "lhuntse-cities-v2",
+        "mongar-cities-v2",
+        "pemagatshel-cities-v2",
+        "samdrup-jongkhar-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "lhuntse-cities-v2",
+        "mongar-cities-v2",
+        "pemagatshel-cities-v2",
+        "samdrup-jongkhar-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Lhuntse, Mongar, Pemagatshel und Samdrup Jongkhar von Norden nach Süden an.",
+        "hu": "Kattints Lhuntsére, Mongarra, Pemagatshelre és Samdrup Jongkharra északról délre.",
+        "ro": "Apasă pe Lhuntse, Mongar, Pemagatshel și Samdrup Jongkhar de la nord la sud.",
+        "en": "Click Lhuntse, Mongar, Pemagatshel, and Samdrup Jongkhar from north to south."
+      }
+    },
+    {
+      "id": "btx-sequence-west-east-central-axis",
+      "type": "sequence",
+      "poiIds": [
+        "thimphu-cities-v2",
+        "wangdue-phodrang-cities-v2",
+        "trongsa-cities-v2",
+        "jakar-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "thimphu-cities-v2",
+        "wangdue-phodrang-cities-v2",
+        "trongsa-cities-v2",
+        "jakar-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Thimphu, Wangdue Phodrang, Trongsa und Jakar von Westen nach Osten an.",
+        "hu": "Kattints Thimphura, Wangdue Phodrangra, Trongsára és Jakarra nyugatról keletre.",
+        "ro": "Apasă pe Thimphu, Wangdue Phodrang, Trongsa și Jakar de la vest la est.",
+        "en": "Click Thimphu, Wangdue Phodrang, Trongsa, and Jakar from west to east."
+      }
+    },
+    {
+      "id": "btx-sequence-west-east-eastern-chain",
+      "type": "sequence",
+      "poiIds": [
+        "gyalpozhing-cities-v2",
+        "mongar-cities-v2",
+        "trashigang-cities-v2",
+        "rangjung-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "gyalpozhing-cities-v2",
+        "mongar-cities-v2",
+        "trashigang-cities-v2",
+        "rangjung-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Gyalpozhing, Mongar, Trashigang und Rangjung von Westen nach Osten an.",
+        "hu": "Kattints Gyalpozhingra, Mongarra, Trashigangra és Rangjungra nyugatról keletre.",
+        "ro": "Apasă pe Gyalpozhing, Mongar, Trashigang și Rangjung de la vest la est.",
+        "en": "Click Gyalpozhing, Mongar, Trashigang, and Rangjung from west to east."
+      }
+    },
+    {
+      "id": "btx-sequence-north-south-highlands-to-border",
+      "type": "sequence",
+      "poiIds": [
+        "gasa-cities-v2",
+        "punakha-cities-v2",
+        "zhemgang-cities-v2",
+        "sarpang-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "gasa-cities-v2",
+        "punakha-cities-v2",
+        "zhemgang-cities-v2",
+        "sarpang-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Gasa, Punakha, Zhemgang und Sarpang von Norden nach Süden an.",
+        "hu": "Kattints Gasára, Punakhára, Zhemgangra és Sarpangra északról délre.",
+        "ro": "Apasă pe Gasa, Punakha, Zhemgang și Sarpang de la nord la sud.",
+        "en": "Click Gasa, Punakha, Zhemgang, and Sarpang from north to south."
+      }
+    }
+  ]
+}

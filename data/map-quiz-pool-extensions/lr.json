@@ -1,0 +1,309 @@
+{
+  "lr": [
+    {
+      "id": "lr-find-buchanan-port",
+      "type": "find_poi",
+      "targetPoiId": "liberia-buchanan-port-economic-v2",
+      "question": {
+        "de": "Finde den Hafen von Buchanan an der zentralen Atlantikküste.",
+        "hu": "Keresd meg Buchanan kikötőjét a középső atlanti parton.",
+        "ro": "Găsește portul Buchanan de pe coasta atlantică centrală.",
+        "en": "Find the Port of Buchanan on the central Atlantic coast."
+      }
+    },
+    {
+      "id": "lr-find-kpatawee-waterfall",
+      "type": "find_poi",
+      "targetPoiId": "liberia-kpatawee-waterfall-cities-v2",
+      "question": {
+        "de": "Finde den Kpatawee-Wasserfall im Landesinneren von Bong.",
+        "hu": "Keresd meg a Kpatawee-vízesést Bong megye belsejében.",
+        "ro": "Găsește cascada Kpatawee în interiorul comitatului Bong.",
+        "en": "Find Kpatawee Waterfall in the interior of Bong County."
+      }
+    },
+    {
+      "id": "lr-find-providence-island",
+      "type": "find_poi",
+      "targetPoiId": "liberia-providence-island-history-v2",
+      "question": {
+        "de": "Finde Providence Island im Raum Monrovia.",
+        "hu": "Keresd meg a Providence-szigetet Monrovia térségében.",
+        "ro": "Găsește Providence Island în zona Monrovia.",
+        "en": "Find Providence Island in the Monrovia area."
+      }
+    },
+    {
+      "id": "lr-find-yekepa-mine",
+      "type": "find_poi",
+      "targetPoiId": "liberia-yekepa-mine-economic-v2",
+      "question": {
+        "de": "Finde die Yekepa-Eisenerzmine im äußersten Nordosten Liberias.",
+        "hu": "Keresd meg a yekepai vasércbányát Libéria legészakkeletibb részén.",
+        "ro": "Găsește mina de fier Yekepa din extremul nord-est al Liberiei.",
+        "en": "Find the Yekepa Iron Mine in far northeastern Liberia."
+      }
+    },
+    {
+      "id": "lr-find-sapo-national-park",
+      "type": "find_poi",
+      "targetPoiId": "liberia-sapo-national-park-life-v2",
+      "question": {
+        "de": "Finde den Sapo-Nationalpark im südöstlichen Regenwald.",
+        "hu": "Keresd meg a Sapo Nemzeti Parkot a délkeleti esőerdőben.",
+        "ro": "Găsește Parcul Național Sapo în pădurea tropicală din sud-est.",
+        "en": "Find Sapo National Park in the southeastern rainforest."
+      }
+    },
+    {
+      "id": "lr-region-grand-cape-mount",
+      "type": "find_region",
+      "targetRegionId": "LBR-786",
+      "question": {
+        "de": "Klicke auf Grand Cape Mount im äußersten Westen an der Küste.",
+        "hu": "Kattints Grand Cape Mountra a szélső nyugati partvidéken.",
+        "ro": "Apasă pe Grand Cape Mount din extremul vestic al coastei.",
+        "en": "Click Grand Cape Mount on the far western coast."
+      }
+    },
+    {
+      "id": "lr-region-bong",
+      "type": "find_region",
+      "targetRegionId": "LBR-784",
+      "question": {
+        "de": "Finde Bong im zentralen Landesinneren.",
+        "hu": "Keresd meg Bong megyét a központi szárazföldi területen.",
+        "ro": "Găsește Bong în interiorul central al țării.",
+        "en": "Find Bong in the central interior."
+      }
+    },
+    {
+      "id": "lr-region-lofa",
+      "type": "find_region",
+      "targetRegionId": "LBR-787",
+      "question": {
+        "de": "Klicke auf Lofa im Norden an der Grenze zu Guinea und Sierra Leone.",
+        "hu": "Kattints Lofára északon, Guinea és Sierra Leone határán.",
+        "ro": "Apasă pe Lofa în nord, la granița cu Guineea și Sierra Leone.",
+        "en": "Click Lofa in the north along the borders with Guinea and Sierra Leone."
+      }
+    },
+    {
+      "id": "lr-region-sinoe",
+      "type": "find_region",
+      "targetRegionId": "LBR-782",
+      "question": {
+        "de": "Finde Sinoe an der südöstlichen Küste.",
+        "hu": "Keresd meg Sinoe megyét a délkeleti partvidéken.",
+        "ro": "Găsește Sinoe pe coasta sud-estică.",
+        "en": "Find Sinoe on the southeastern coast."
+      }
+    },
+    {
+      "id": "lr-region-river-gee",
+      "type": "find_region",
+      "targetRegionId": "LBR-1458",
+      "question": {
+        "de": "Klicke auf River Gee im äußersten Südosten nahe der Elfenbeinküste.",
+        "hu": "Kattints River Gee megyére a legdélkeletibb részen, Elefántcsontpart közelében.",
+        "ro": "Apasă pe River Gee în extremul sud-est, aproape de Coasta de Fildeș.",
+        "en": "Click River Gee in the far southeast near Ivory Coast."
+      }
+    },
+    {
+      "id": "lr-odd-ganta-not-coast",
+      "type": "odd_one_out",
+      "poiIds": [
+        "liberia-harper-port-v2",
+        "liberia-buchanan-port-economic-v2",
+        "liberia-greenville-port-economic-v2",
+        "liberia-ganta-trade-v2"
+      ],
+      "targetPoiId": "liberia-ganta-trade-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht an oder nahe der Atlantikküste?",
+        "hu": "Melyik hely nem az Atlanti-óceán partján vagy annak közelében fekszik?",
+        "ro": "Care loc nu se află pe coasta Atlanticului sau aproape de ea?",
+        "en": "Which place is not on or near the Atlantic coast?"
+      }
+    },
+    {
+      "id": "lr-odd-pleebo-not-far-north",
+      "type": "odd_one_out",
+      "poiIds": [
+        "liberia-voinjama-cities-v2",
+        "liberia-foya-cities-v2",
+        "liberia-bolahun-cities-v2",
+        "liberia-pleebo-cities-v2"
+      ],
+      "targetPoiId": "liberia-pleebo-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht im hohen Norden Liberias?",
+        "hu": "Melyik hely nem Libéria messzi északi részén található?",
+        "ro": "Care loc nu se află în nordul îndepărtat al Liberiei?",
+        "en": "Which place is not in far northern Liberia?"
+      }
+    },
+    {
+      "id": "lr-odd-lake-piso-not-monrovia",
+      "type": "odd_one_out",
+      "poiIds": [
+        "liberia-providence-island-history-v2",
+        "liberia-freeport-monrovia-economic-v2",
+        "liberia-executive-mansion-landmarks-v2",
+        "liberia-lake-piso-cities-v2"
+      ],
+      "targetPoiId": "liberia-lake-piso-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht im Großraum Monrovia?",
+        "hu": "Melyik hely nem Monrovia nagyvárosi térségében található?",
+        "ro": "Care loc nu se află în zona metropolitană Monrovia?",
+        "en": "Which place is not in the Greater Monrovia area?"
+      }
+    },
+    {
+      "id": "lr-odd-kpatawee-not-nimba",
+      "type": "odd_one_out",
+      "poiIds": [
+        "liberia-yekepa-mine-economic-v2",
+        "liberia-east-nimba-nature-reserve-life-v2",
+        "liberia-mount-nimba-reserve-life-v2",
+        "liberia-kpatawee-waterfall-cities-v2"
+      ],
+      "targetPoiId": "liberia-kpatawee-waterfall-cities-v2",
+      "question": {
+        "de": "Welcher Ort gehört nicht zum Nimba-Gebiet im Nordosten?",
+        "hu": "Melyik hely nem az északkeleti Nimba-térséghez tartozik?",
+        "ro": "Care loc nu aparține zonei Nimba din nord-est?",
+        "en": "Which place is not part of the Nimba area in the northeast?"
+      }
+    },
+    {
+      "id": "lr-odd-mesurado-not-southeast-forest",
+      "type": "odd_one_out",
+      "poiIds": [
+        "liberia-sapo-national-park-life-v2",
+        "liberia-putu-forest-nature-v2",
+        "liberia-cestos-river-valley-life-v2",
+        "liberia-mesurado-wetlands-life-v2"
+      ],
+      "targetPoiId": "liberia-mesurado-wetlands-life-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht im südöstlichen Wald- und Flussraum Liberias?",
+        "hu": "Melyik hely nem Libéria délkeleti erdős és folyóvölgyi övezetében található?",
+        "ro": "Care loc nu se află în zona împădurită și fluvială din sud-estul Liberiei?",
+        "en": "Which place is not in Liberia's southeastern forest and river zone?"
+      }
+    },
+    {
+      "id": "lr-sequence-west-east-robertsport-ganta",
+      "type": "sequence",
+      "poiIds": [
+        "liberia-robertsport-cities-v2",
+        "liberia-monrovia-cities-v2",
+        "liberia-kakata-cities-v2",
+        "liberia-ganta-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "liberia-robertsport-cities-v2",
+        "liberia-monrovia-cities-v2",
+        "liberia-kakata-cities-v2",
+        "liberia-ganta-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Robertsport, Monrovia, Kakata und Ganta von Westen nach Osten an.",
+        "hu": "Kattints Robertsport, Monrovia, Kakata és Ganta helyére nyugatról kelet felé.",
+        "ro": "Apasă Robertsport, Monrovia, Kakata și Ganta de la vest la est.",
+        "en": "Click Robertsport, Monrovia, Kakata and Ganta from west to east."
+      }
+    },
+    {
+      "id": "lr-sequence-south-north-harper-monrovia",
+      "type": "sequence",
+      "poiIds": [
+        "liberia-harper-cities-v2",
+        "liberia-greenville-cities-v2",
+        "liberia-buchanan-cities-v2",
+        "liberia-monrovia-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "liberia-harper-cities-v2",
+        "liberia-greenville-cities-v2",
+        "liberia-buchanan-cities-v2",
+        "liberia-monrovia-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Harper, Greenville, Buchanan und Monrovia von Süden nach Norden an.",
+        "hu": "Kattints Harperre, Greenville-re, Buchananra és Monroviára délről észak felé.",
+        "ro": "Apasă Harper, Greenville, Buchanan și Monrovia de la sud la nord.",
+        "en": "Click Harper, Greenville, Buchanan and Monrovia from south to north."
+      }
+    },
+    {
+      "id": "lr-sequence-north-south-voinjama-gbarnga",
+      "type": "sequence",
+      "poiIds": [
+        "liberia-voinjama-cities-v2",
+        "liberia-foya-cities-v2",
+        "liberia-zorzor-cities-v2",
+        "liberia-gbanga-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "liberia-voinjama-cities-v2",
+        "liberia-foya-cities-v2",
+        "liberia-zorzor-cities-v2",
+        "liberia-gbanga-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Voinjama, Foya, Zorzor und Gbarnga von Norden nach Süden an.",
+        "hu": "Kattints Voinjamára, Foyára, Zorzorra és Gbarngára északról dél felé.",
+        "ro": "Apasă Voinjama, Foya, Zorzor și Gbarnga de la nord la sud.",
+        "en": "Click Voinjama, Foya, Zorzor and Gbarnga from north to south."
+      }
+    },
+    {
+      "id": "lr-sequence-west-east-lake-piso-buchanan",
+      "type": "sequence",
+      "poiIds": [
+        "liberia-robertsport-cities-v2",
+        "liberia-lake-piso-cities-v2",
+        "liberia-monrovia-cities-v2",
+        "liberia-buchanan-coastline-nature-v2"
+      ],
+      "orderedPoiIds": [
+        "liberia-robertsport-cities-v2",
+        "liberia-lake-piso-cities-v2",
+        "liberia-monrovia-cities-v2",
+        "liberia-buchanan-coastline-nature-v2"
+      ],
+      "question": {
+        "de": "Klicke Robertsport, den Piso-See, Monrovia und die Küste von Buchanan von Westen nach Osten an.",
+        "hu": "Kattints Robertsport, a Piso-tó, Monrovia és Buchanan partvidéke helyére nyugatról kelet felé.",
+        "ro": "Apasă Robertsport, Lacul Piso, Monrovia și coasta Buchanan de la vest la est.",
+        "en": "Click Robertsport, Lake Piso, Monrovia and the Buchanan Coastline from west to east."
+      }
+    },
+    {
+      "id": "lr-sequence-south-north-cavalla-sanniquellie",
+      "type": "sequence",
+      "poiIds": [
+        "liberia-cavalla-river-nature-v2",
+        "liberia-harper-cities-v2",
+        "liberia-pleebo-cities-v2",
+        "liberia-sanniquellie-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "liberia-cavalla-river-nature-v2",
+        "liberia-harper-cities-v2",
+        "liberia-pleebo-cities-v2",
+        "liberia-sanniquellie-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke den Cavalla-Fluss, Harper, Pleebo und Sanniquellie von Süden nach Norden an.",
+        "hu": "Kattints a Cavalla folyóra, Harperre, Pleebóra és Sanniquellie-re délről észak felé.",
+        "ro": "Apasă râul Cavalla, Harper, Pleebo și Sanniquellie de la sud la nord.",
+        "en": "Click the Cavalla River, Harper, Pleebo and Sanniquellie from south to north."
+      }
+    }
+  ]
+}

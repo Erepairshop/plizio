@@ -1,0 +1,309 @@
+{
+  "fj": [
+    {
+      "id": "fj-find-nasinu-extra",
+      "type": "find_poi",
+      "targetPoiId": "fiji-nasinu-cities-v2",
+      "question": {
+        "de": "Finde Nasinu östlich von Suva auf Viti Levu.",
+        "hu": "Keresd meg Nasinut Suvától keletre, Viti Levu szigetén.",
+        "ro": "Găsește Nasinu la est de Suva, pe insula Viti Levu.",
+        "en": "Find Nasinu east of Suva on Viti Levu."
+      }
+    },
+    {
+      "id": "fj-find-nausori-extra",
+      "type": "find_poi",
+      "targetPoiId": "fiji-nausori-cities-v2",
+      "question": {
+        "de": "Finde Nausori am Rewa River nahe Suva.",
+        "hu": "Keresd meg Nausorit a Rewa folyónál, Suva közelében.",
+        "ro": "Găsește Nausori pe râul Rewa, aproape de Suva.",
+        "en": "Find Nausori on the Rewa River near Suva."
+      }
+    },
+    {
+      "id": "fj-find-lami-extra",
+      "type": "find_poi",
+      "targetPoiId": "fiji-lami-cities-v2",
+      "question": {
+        "de": "Finde Lami direkt westlich von Suva an der Küste.",
+        "hu": "Keresd meg Lamit közvetlenül Suvától nyugatra, a parton.",
+        "ro": "Găsește Lami chiar la vest de Suva, pe coastă.",
+        "en": "Find Lami directly west of Suva on the coast."
+      }
+    },
+    {
+      "id": "fj-find-matei-extra",
+      "type": "find_poi",
+      "targetPoiId": "fiji-matei-cities-v2",
+      "question": {
+        "de": "Finde Matei auf der Insel Taveuni.",
+        "hu": "Keresd meg Mateit Taveuni szigetén.",
+        "ro": "Găsește Matei pe insula Taveuni.",
+        "en": "Find Matei on Taveuni island."
+      }
+    },
+    {
+      "id": "fj-find-naduri-extra",
+      "type": "find_poi",
+      "targetPoiId": "fiji-naduri-cities-v2",
+      "question": {
+        "de": "Finde Naduri an der Nordküste von Vanua Levu.",
+        "hu": "Keresd meg Nadurit Vanua Levu északi partján.",
+        "ro": "Găsește Naduri pe coasta de nord a insulei Vanua Levu.",
+        "en": "Find Naduri on the northern coast of Vanua Levu."
+      }
+    },
+    {
+      "id": "fj-region-eastern-lau-extra",
+      "type": "find_region",
+      "targetRegionId": "FJI-2618",
+      "question": {
+        "de": "Klicke auf die Eastern Division mit den Lau-Inseln.",
+        "hu": "Kattints a keleti körzetre, amelyhez a Lau-szigetek is tartoznak.",
+        "ro": "Apasă pe diviziunea estică, care include și insulele Lau.",
+        "en": "Click the Eastern Division, which includes the Lau Islands."
+      }
+    },
+    {
+      "id": "fj-region-rotuma-far-north-extra",
+      "type": "find_region",
+      "targetRegionId": "FJI-2658",
+      "question": {
+        "de": "Finde Rotuma, das abgelegene Gebiet weit im Norden.",
+        "hu": "Keresd meg Rotumát, a távoli északi területet.",
+        "ro": "Găsește Rotuma, teritoriul izolat aflat mult în nord.",
+        "en": "Find Rotuma, the remote territory far to the north."
+      }
+    },
+    {
+      "id": "fj-region-western-nadi-lautoka-extra",
+      "type": "find_region",
+      "targetRegionId": "FJI-2620",
+      "question": {
+        "de": "Klicke auf die Western Division mit Nadi und Lautoka.",
+        "hu": "Kattints a nyugati körzetre, ahol Nadi és Lautoka található.",
+        "ro": "Apasă pe diviziunea vestică, unde se află Nadi și Lautoka.",
+        "en": "Click the Western Division, home to Nadi and Lautoka."
+      }
+    },
+    {
+      "id": "fj-region-central-southeast-viti-levu-extra",
+      "type": "find_region",
+      "targetRegionId": "FJI-2617",
+      "question": {
+        "de": "Finde die Central Division im Südosten von Viti Levu.",
+        "hu": "Keresd meg a központi körzetet Viti Levu délkeleti részén.",
+        "ro": "Găsește diviziunea centrală din sud-estul insulei Viti Levu.",
+        "en": "Find the Central Division in southeastern Viti Levu."
+      }
+    },
+    {
+      "id": "fj-region-northern-labasa-taveuni-extra",
+      "type": "find_region",
+      "targetRegionId": "FJI-2619",
+      "question": {
+        "de": "Klicke auf die Northern Division mit Labasa und Taveuni.",
+        "hu": "Kattints az északi körzetre, amelyhez Labasa és Taveuni tartozik.",
+        "ro": "Apasă pe diviziunea nordică, care include Labasa și Taveuni.",
+        "en": "Click the Northern Division, which includes Labasa and Taveuni."
+      }
+    },
+    {
+      "id": "fj-odd-westernmost-town-extra",
+      "type": "odd_one_out",
+      "poiIds": [
+        "fiji-nadi-cities-v2",
+        "fiji-lautoka-cities-v2",
+        "fiji-suva-cities-v2",
+        "fiji-labasa-cities-v2"
+      ],
+      "targetPoiId": "fiji-nadi-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Westen?",
+        "hu": "Melyik hely fekszik a legnyugatabbra?",
+        "ro": "Care dintre aceste locuri se află cel mai la vest?",
+        "en": "Which of these places lies farthest west?"
+      }
+    },
+    {
+      "id": "fj-odd-central-division-place-extra",
+      "type": "odd_one_out",
+      "poiIds": [
+        "fiji-nasinu-cities-v2",
+        "fiji-labasa-cities-v2",
+        "fiji-matei-cities-v2",
+        "fiji-tubou-cities-v2"
+      ],
+      "targetPoiId": "fiji-nasinu-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt in der Central Division?",
+        "hu": "Ezek közül melyik hely a központi körzetben található?",
+        "ro": "Care dintre aceste locuri se află în diviziunea centrală?",
+        "en": "Which of these places is in the Central Division?"
+      }
+    },
+    {
+      "id": "fj-odd-taveuni-place-extra",
+      "type": "odd_one_out",
+      "poiIds": [
+        "fiji-matei-cities-v2",
+        "fiji-labasa-cities-v2",
+        "fiji-lautoka-cities-v2",
+        "fiji-lami-cities-v2"
+      ],
+      "targetPoiId": "fiji-matei-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt auf der Insel Taveuni?",
+        "hu": "Ezek közül melyik hely fekszik Taveuni szigetén?",
+        "ro": "Care dintre aceste locuri se află pe insula Taveuni?",
+        "en": "Which of these places is on Taveuni island?"
+      }
+    },
+    {
+      "id": "fj-odd-vanua-levu-north-coast-extra",
+      "type": "odd_one_out",
+      "poiIds": [
+        "fiji-naduri-cities-v2",
+        "fiji-nausori-cities-v2",
+        "fiji-lami-cities-v2",
+        "fiji-tubou-cities-v2"
+      ],
+      "targetPoiId": "fiji-naduri-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt an der Nordküste von Vanua Levu?",
+        "hu": "Ezek közül melyik hely fekszik Vanua Levu északi partján?",
+        "ro": "Care dintre aceste locuri se află pe coasta de nord a insulei Vanua Levu?",
+        "en": "Which of these places lies on the northern coast of Vanua Levu?"
+      }
+    },
+    {
+      "id": "fj-odd-southernmost-place-extra",
+      "type": "odd_one_out",
+      "poiIds": [
+        "fiji-labasa-cities-v2",
+        "fiji-nadi-cities-v2",
+        "fiji-suva-cities-v2",
+        "fiji-tubou-cities-v2"
+      ],
+      "targetPoiId": "fiji-tubou-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Süden?",
+        "hu": "Melyik hely fekszik a legdélebbre?",
+        "ro": "Care dintre aceste locuri se află cel mai la sud?",
+        "en": "Which of these places lies farthest south?"
+      }
+    },
+    {
+      "id": "fj-sequence-west-east-viti-levu-corridor-extra",
+      "type": "sequence",
+      "poiIds": [
+        "fiji-nadi-cities-v2",
+        "fiji-lautoka-cities-v2",
+        "fiji-lami-cities-v2",
+        "fiji-suva-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "fiji-nadi-cities-v2",
+        "fiji-lautoka-cities-v2",
+        "fiji-lami-cities-v2",
+        "fiji-suva-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Nadi, Lautoka, Lami und Suva von West nach Ost an.",
+        "hu": "Kattints Nadira, Lautokára, Lamira és Suvára nyugatról keletre.",
+        "ro": "Apasă pe Nadi, Lautoka, Lami și Suva de la vest la est.",
+        "en": "Click Nadi, Lautoka, Lami, and Suva from west to east."
+      }
+    },
+    {
+      "id": "fj-sequence-west-east-north-and-east-extra",
+      "type": "sequence",
+      "poiIds": [
+        "fiji-nasinu-cities-v2",
+        "fiji-nausori-cities-v2",
+        "fiji-naduri-cities-v2",
+        "fiji-labasa-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "fiji-nasinu-cities-v2",
+        "fiji-nausori-cities-v2",
+        "fiji-naduri-cities-v2",
+        "fiji-labasa-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Nasinu, Nausori, Naduri und Labasa von West nach Ost an.",
+        "hu": "Kattints Nasinura, Nausorira, Nadurira és Labasára nyugatról keletre.",
+        "ro": "Apasă pe Nasinu, Nausori, Naduri și Labasa de la vest la est.",
+        "en": "Click Nasinu, Nausori, Naduri, and Labasa from west to east."
+      }
+    },
+    {
+      "id": "fj-sequence-north-south-island-chain-extra",
+      "type": "sequence",
+      "poiIds": [
+        "fiji-labasa-cities-v2",
+        "fiji-matei-cities-v2",
+        "fiji-lautoka-cities-v2",
+        "fiji-tubou-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "fiji-labasa-cities-v2",
+        "fiji-matei-cities-v2",
+        "fiji-lautoka-cities-v2",
+        "fiji-tubou-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Labasa, Matei, Lautoka und Tubou von Norden nach Süden an.",
+        "hu": "Kattints Labasára, Mateire, Lautokára és Tuboura északról délre.",
+        "ro": "Apasă pe Labasa, Matei, Lautoka și Tubou de la nord la sud.",
+        "en": "Click Labasa, Matei, Lautoka, and Tubou from north to south."
+      }
+    },
+    {
+      "id": "fj-sequence-north-south-suva-area-extra",
+      "type": "sequence",
+      "poiIds": [
+        "fiji-nausori-cities-v2",
+        "fiji-nasinu-cities-v2",
+        "fiji-lami-cities-v2",
+        "fiji-suva-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "fiji-nausori-cities-v2",
+        "fiji-nasinu-cities-v2",
+        "fiji-lami-cities-v2",
+        "fiji-suva-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Nausori, Nasinu, Lami und Suva von Norden nach Süden an.",
+        "hu": "Kattints Nausorira, Nasinura, Lamira és Suvára északról délre.",
+        "ro": "Apasă pe Nausori, Nasinu, Lami și Suva de la nord la sud.",
+        "en": "Click Nausori, Nasinu, Lami, and Suva from north to south."
+      }
+    },
+    {
+      "id": "fj-sequence-west-east-cross-country-extra",
+      "type": "sequence",
+      "poiIds": [
+        "fiji-nadi-cities-v2",
+        "fiji-suva-cities-v2",
+        "fiji-matei-cities-v2",
+        "fiji-tubou-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "fiji-nadi-cities-v2",
+        "fiji-suva-cities-v2",
+        "fiji-matei-cities-v2",
+        "fiji-tubou-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Nadi, Suva, Matei und Tubou von West nach Ost an.",
+        "hu": "Kattints Nadira, Suvára, Mateire és Tuboura nyugatról keletre.",
+        "ro": "Apasă pe Nadi, Suva, Matei și Tubou de la vest la est.",
+        "en": "Click Nadi, Suva, Matei, and Tubou from west to east."
+      }
+    }
+  ]
+}

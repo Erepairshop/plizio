@@ -1,0 +1,299 @@
+{
+  "et": [
+    {
+      "id": "et-find-bahir-dar-extra",
+      "type": "find_poi",
+      "targetPoiId": "bahir-dar-cities-v2",
+      "question": {
+        "de": "Finde Bahir Dar auf der Karte.",
+        "hu": "Keresd meg Bahir Dar helyét a térképen.",
+        "ro": "Găsește Bahir Dar pe hartă.",
+        "en": "Find Bahir Dar on the map."
+      }
+    },
+    {
+      "id": "et-find-harar-extra",
+      "type": "find_poi",
+      "targetPoiId": "harar-cities-v2",
+      "question": {
+        "de": "Finde Harar auf der Karte.",
+        "hu": "Keresd meg Harar helyét a térképen.",
+        "ro": "Găsește Harar pe hartă.",
+        "en": "Find Harar on the map."
+      }
+    },
+    {
+      "id": "et-find-semera-extra",
+      "type": "find_poi",
+      "targetPoiId": "semera-cities-v2",
+      "question": {
+        "de": "Finde Semera auf der Karte.",
+        "hu": "Keresd meg Semera helyét a térképen.",
+        "ro": "Găsește Semera pe hartă.",
+        "en": "Find Semera on the map."
+      }
+    },
+    {
+      "id": "et-find-gambela-extra",
+      "type": "find_poi",
+      "targetPoiId": "gambela-cities-v2",
+      "question": {
+        "de": "Finde Gambela auf der Karte.",
+        "hu": "Keresd meg Gambela helyét a térképen.",
+        "ro": "Găsește Gambela pe hartă.",
+        "en": "Find Gambela on the map."
+      }
+    },
+    {
+      "id": "et-find-arba-minch-extra",
+      "type": "find_poi",
+      "targetPoiId": "arba-minch-cities-v2",
+      "question": {
+        "de": "Finde Arba Minch auf der Karte.",
+        "hu": "Keresd meg Arba Minch helyét a térképen.",
+        "ro": "Găsește Arba Minch pe hartă.",
+        "en": "Find Arba Minch on the map."
+      }
+    },
+    {
+      "id": "et-region-tigray-extra",
+      "type": "find_region",
+      "targetRegionId": "ETH-3110",
+      "question": {
+        "de": "Klicke auf die Region Tigray.",
+        "hu": "Kattints Tigray régiójára.",
+        "ro": "Apasă pe regiunea Tigray.",
+        "en": "Click the Tigray region."
+      }
+    },
+    {
+      "id": "et-region-afar-extra",
+      "type": "find_region",
+      "targetRegionId": "ETH-3111",
+      "question": {
+        "de": "Klicke auf die Region Afar.",
+        "hu": "Kattints Afar régiójára.",
+        "ro": "Apasă pe regiunea Afar.",
+        "en": "Click the Afar region."
+      }
+    },
+    {
+      "id": "et-region-addis-ababa-extra",
+      "type": "find_region",
+      "targetRegionId": "ETH-3133",
+      "question": {
+        "de": "Klicke auf die Region Addis Ababa.",
+        "hu": "Kattints Addis Ababa régiójára.",
+        "ro": "Apasă pe regiunea Addis Ababa.",
+        "en": "Click the Addis Ababa region."
+      }
+    },
+    {
+      "id": "et-region-harari-extra",
+      "type": "find_region",
+      "targetRegionId": "ETH-3136",
+      "question": {
+        "de": "Klicke auf die Region Harari People.",
+        "hu": "Kattints a Harari People régióra.",
+        "ro": "Apasă pe regiunea Harari People.",
+        "en": "Click the Harari People region."
+      }
+    },
+    {
+      "id": "et-region-gambela-extra",
+      "type": "find_region",
+      "targetRegionId": "ETH-3130",
+      "question": {
+        "de": "Klicke auf die Region Gambela Peoples.",
+        "hu": "Kattints a Gambela Peoples régióra.",
+        "ro": "Apasă pe regiunea Gambela Peoples.",
+        "en": "Click the Gambela Peoples region."
+      }
+    },
+    {
+      "id": "et-odd-somali-region-extra",
+      "type": "odd_one_out",
+      "poiIds": [
+        "bahir-dar-cities-v2",
+        "addis-ababa-cities-v2",
+        "harar-cities-v2",
+        "jigjiga-cities-v2"
+      ],
+      "targetPoiId": "jigjiga-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt in der Region Somali?",
+        "hu": "Melyik hely található a Somali régióban?",
+        "ro": "Care loc se află în regiunea Somali?",
+        "en": "Which place is in the Somali region?"
+      }
+    },
+    {
+      "id": "et-odd-west-extra",
+      "type": "odd_one_out",
+      "poiIds": [
+        "gambela-cities-v2",
+        "addis-ababa-cities-v2",
+        "bahir-dar-cities-v2",
+        "dire-dawa-cities-v2"
+      ],
+      "targetPoiId": "gambela-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt am weitesten westlich?",
+        "hu": "Melyik hely fekszik a legnyugatabbra?",
+        "ro": "Care loc se află cel mai la vest?",
+        "en": "Which place lies furthest west?"
+      }
+    },
+    {
+      "id": "et-odd-south-extra",
+      "type": "odd_one_out",
+      "poiIds": [
+        "mekelle-cities-v2",
+        "gondar-cities-v2",
+        "bahir-dar-cities-v2",
+        "yabelo-cities-v2"
+      ],
+      "targetPoiId": "yabelo-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt am weitesten südlich?",
+        "hu": "Melyik hely fekszik a legdélebbre?",
+        "ro": "Care loc se află cel mai la sud?",
+        "en": "Which place lies furthest south?"
+      }
+    },
+    {
+      "id": "et-odd-north-extra",
+      "type": "odd_one_out",
+      "poiIds": [
+        "adama-cities-v2",
+        "hawassa-cities-v2",
+        "bishoftu-cities-v2",
+        "semera-cities-v2"
+      ],
+      "targetPoiId": "semera-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt am weitesten nördlich?",
+        "hu": "Melyik hely fekszik a legészakabbra?",
+        "ro": "Care loc se află cel mai la nord?",
+        "en": "Which place lies furthest north?"
+      }
+    },
+    {
+      "id": "et-odd-tigray-extra",
+      "type": "odd_one_out",
+      "poiIds": [
+        "bahir-dar-cities-v2",
+        "hawassa-cities-v2",
+        "aksum-cities-v2",
+        "harar-cities-v2"
+      ],
+      "targetPoiId": "aksum-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt in der Region Tigray?",
+        "hu": "Melyik hely található a Tigray régióban?",
+        "ro": "Care loc se află în regiunea Tigray?",
+        "en": "Which place is in the Tigray region?"
+      }
+    },
+    {
+      "id": "et-sequence-aksum-gondar-bahir-dar-extra",
+      "type": "sequence",
+      "poiIds": [
+        "aksum-cities-v2",
+        "gondar-cities-v2",
+        "bahir-dar-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "aksum-cities-v2",
+        "gondar-cities-v2",
+        "bahir-dar-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Aksum, Gondar, Bahir Dar von Norden nach Süden an.",
+        "hu": "Kattints ezekre északról délre: Aksum, Gondar, Bahir Dar.",
+        "ro": "Apasă în ordine de la nord la sud: Aksum, Gondar, Bahir Dar.",
+        "en": "Click from north to south: Aksum, Gondar, Bahir Dar."
+      }
+    },
+    {
+      "id": "et-sequence-gambela-addis-dire-dawa-extra",
+      "type": "sequence",
+      "poiIds": [
+        "gambela-cities-v2",
+        "addis-ababa-cities-v2",
+        "dire-dawa-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "gambela-cities-v2",
+        "addis-ababa-cities-v2",
+        "dire-dawa-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Gambela, Addis Ababa, Dire Dawa von Westen nach Osten an.",
+        "hu": "Kattints ezekre nyugatról keletre: Gambela, Addis Ababa, Dire Dawa.",
+        "ro": "Apasă în ordine de la vest la est: Gambela, Addis Ababa, Dire Dawa.",
+        "en": "Click from west to east: Gambela, Addis Ababa, Dire Dawa."
+      }
+    },
+    {
+      "id": "et-sequence-bahir-dar-addis-harar-extra",
+      "type": "sequence",
+      "poiIds": [
+        "bahir-dar-cities-v2",
+        "addis-ababa-cities-v2",
+        "harar-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "bahir-dar-cities-v2",
+        "addis-ababa-cities-v2",
+        "harar-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Bahir Dar, Addis Ababa, Harar von Westen nach Osten an.",
+        "hu": "Kattints ezekre nyugatról keletre: Bahir Dar, Addis Ababa, Harar.",
+        "ro": "Apasă în ordine de la vest la est: Bahir Dar, Addis Ababa, Harar.",
+        "en": "Click from west to east: Bahir Dar, Addis Ababa, Harar."
+      }
+    },
+    {
+      "id": "et-sequence-dire-dawa-adama-shashamane-extra",
+      "type": "sequence",
+      "poiIds": [
+        "dire-dawa-cities-v2",
+        "adama-cities-v2",
+        "shashamane-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "dire-dawa-cities-v2",
+        "adama-cities-v2",
+        "shashamane-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Dire Dawa, Adama, Shashamane von Norden nach Süden an.",
+        "hu": "Kattints ezekre északról délre: Dire Dawa, Adama, Shashamane.",
+        "ro": "Apasă în ordine de la nord la sud: Dire Dawa, Adama, Shashamane.",
+        "en": "Click from north to south: Dire Dawa, Adama, Shashamane."
+      }
+    },
+    {
+      "id": "et-sequence-jimma-hawassa-jigjiga-extra",
+      "type": "sequence",
+      "poiIds": [
+        "jimma-cities-v2",
+        "hawassa-cities-v2",
+        "jigjiga-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "jimma-cities-v2",
+        "hawassa-cities-v2",
+        "jigjiga-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Jimma, Hawassa, Jijiga von Westen nach Osten an.",
+        "hu": "Kattints ezekre nyugatról keletre: Jimma, Hawassa, Jijiga.",
+        "ro": "Apasă în ordine de la vest la est: Jimma, Hawassa, Jijiga.",
+        "en": "Click from west to east: Jimma, Hawassa, Jigjiga."
+      }
+    }
+  ]
+}

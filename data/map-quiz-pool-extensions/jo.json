@@ -1,0 +1,299 @@
+{
+  "jo": [
+    {
+      "id": "jo-find-petra",
+      "type": "find_poi",
+      "targetPoiId": "petra-history-v2",
+      "question": {
+        "de": "Finde Petra auf der Karte.",
+        "hu": "Keresd meg Petrát a térképen.",
+        "ro": "Găsește Petra pe hartă.",
+        "en": "Find Petra on the map."
+      }
+    },
+    {
+      "id": "jo-find-jerash",
+      "type": "find_poi",
+      "targetPoiId": "jerash-history-v2",
+      "question": {
+        "de": "Finde Jerash auf der Karte.",
+        "hu": "Keresd meg Jerasht a térképen.",
+        "ro": "Găsește Jerash pe hartă.",
+        "en": "Find Jerash on the map."
+      }
+    },
+    {
+      "id": "jo-find-mafraq",
+      "type": "find_poi",
+      "targetPoiId": "mafraq-cities-v2",
+      "question": {
+        "de": "Finde Mafraq auf der Karte.",
+        "hu": "Keresd meg Mafrakot a térképen.",
+        "ro": "Găsește Mafraq pe hartă.",
+        "en": "Find Mafraq on the map."
+      }
+    },
+    {
+      "id": "jo-find-madaba",
+      "type": "find_poi",
+      "targetPoiId": "madaba-cities-v2",
+      "question": {
+        "de": "Finde Madaba auf der Karte.",
+        "hu": "Keresd meg Madabát a térképen.",
+        "ro": "Găsește Madaba pe hartă.",
+        "en": "Find Madaba on the map."
+      }
+    },
+    {
+      "id": "jo-find-azraq",
+      "type": "find_poi",
+      "targetPoiId": "azraq-cities-v2",
+      "question": {
+        "de": "Finde Azraq auf der Karte.",
+        "hu": "Keresd meg Azraqot a térképen.",
+        "ro": "Găsește Azraq pe hartă.",
+        "en": "Find Azraq on the map."
+      }
+    },
+    {
+      "id": "jo-region-aqaba",
+      "type": "find_region",
+      "targetRegionId": "JOR-849",
+      "question": {
+        "de": "Klicke auf die Region Aqaba.",
+        "hu": "Kattints Aqaba régiójára.",
+        "ro": "Apasă pe regiunea Aqaba.",
+        "en": "Click the Aqaba region."
+      }
+    },
+    {
+      "id": "jo-region-balqa",
+      "type": "find_region",
+      "targetRegionId": "JOR-857",
+      "question": {
+        "de": "Klicke auf die Region Balqa.",
+        "hu": "Kattints Balqa régiójára.",
+        "ro": "Apasă pe regiunea Balqa.",
+        "en": "Click the Balqa region."
+      }
+    },
+    {
+      "id": "jo-region-mafraq",
+      "type": "find_region",
+      "targetRegionId": "JOR-850",
+      "question": {
+        "de": "Klicke auf die Region Mafraq.",
+        "hu": "Kattints Mafraq régiójára.",
+        "ro": "Apasă pe regiunea Mafraq.",
+        "en": "Click the Mafraq region."
+      }
+    },
+    {
+      "id": "jo-region-ajlun",
+      "type": "find_region",
+      "targetRegionId": "JOR-855",
+      "question": {
+        "de": "Klicke auf die Region Ajlun.",
+        "hu": "Kattints Ajlun régiójára.",
+        "ro": "Apasă pe regiunea Ajlun.",
+        "en": "Click the Ajlun region."
+      }
+    },
+    {
+      "id": "jo-region-jarash",
+      "type": "find_region",
+      "targetRegionId": "JOR-856",
+      "question": {
+        "de": "Klicke auf die Region Jarash.",
+        "hu": "Kattints Jarash régiójára.",
+        "ro": "Apasă pe regiunea Jarash.",
+        "en": "Click the Jarash region."
+      }
+    },
+    {
+      "id": "jo-odd-north-highlands",
+      "type": "odd_one_out",
+      "poiIds": [
+        "aqaba-cities-v2",
+        "maan-cities-v2",
+        "karak-cities-v2",
+        "tafilah-cities-v2"
+      ],
+      "targetPoiId": "karak-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt am weitesten nördlich?",
+        "hu": "Melyik város fekszik a legészakabbra?",
+        "ro": "Care oraș se află cel mai la nord?",
+        "en": "Which city lies furthest north?"
+      }
+    },
+    {
+      "id": "jo-odd-east-desert",
+      "type": "odd_one_out",
+      "poiIds": [
+        "petra-history-v2",
+        "karak-cities-v2",
+        "azraq-cities-v2",
+        "as-salt-cities-v2"
+      ],
+      "targetPoiId": "azraq-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt am weitesten östlich?",
+        "hu": "Melyik hely fekszik a legkeletebbre?",
+        "ro": "Care loc se află cel mai la est?",
+        "en": "Which place lies furthest east?"
+      }
+    },
+    {
+      "id": "jo-odd-west-lowlands",
+      "type": "odd_one_out",
+      "poiIds": [
+        "amman-citadel-history-v2",
+        "qasr-kharana-history-v2",
+        "totes-meer-nature-v2",
+        "azraq-wetland-nature-v2"
+      ],
+      "targetPoiId": "totes-meer-nature-v2",
+      "question": {
+        "de": "Welcher Ort liegt am weitesten westlich?",
+        "hu": "Melyik hely fekszik a legnyugatabbra?",
+        "ro": "Care loc se află cel mai la vest?",
+        "en": "Which place lies furthest west?"
+      }
+    },
+    {
+      "id": "jo-odd-south-ruins",
+      "type": "odd_one_out",
+      "poiIds": [
+        "jerash-history-v2",
+        "ajloun-castle-history-v2",
+        "umm-qais-history-v2",
+        "yarmouk-river-nature-v2"
+      ],
+      "targetPoiId": "jerash-history-v2",
+      "question": {
+        "de": "Welcher Ort liegt am weitesten südlich?",
+        "hu": "Melyik hely fekszik a legdélebbre?",
+        "ro": "Care loc se află cel mai la sud?",
+        "en": "Which place lies furthest south?"
+      }
+    },
+    {
+      "id": "jo-odd-gulf-coast",
+      "type": "odd_one_out",
+      "poiIds": [
+        "aqaba-marine-park-life-v2",
+        "petra-history-v2",
+        "wadi-rum-nature-v2",
+        "jabal-ram-nature-v2"
+      ],
+      "targetPoiId": "aqaba-marine-park-life-v2",
+      "question": {
+        "de": "Welcher Ort liegt an der Küste des Golfs von Aqaba?",
+        "hu": "Melyik hely fekszik az Akabai-öböl partján?",
+        "ro": "Care loc se află pe coasta Golfului Aqaba?",
+        "en": "Which place lies on the coast of the Gulf of Aqaba?"
+      }
+    },
+    {
+      "id": "jo-order-north-south-ummqais-aqaba",
+      "type": "sequence",
+      "poiIds": [
+        "umm-qais-history-v2",
+        "amman-cities-v2",
+        "aqaba-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "umm-qais-history-v2",
+        "amman-cities-v2",
+        "aqaba-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Umm Qais, Amman und Aqaba von Norden nach Süden an.",
+        "hu": "Kattints északról délre: Umm Qais, Ammán, Akaba.",
+        "ro": "Apasă de la nord la sud: Umm Qais, Amman, Aqaba.",
+        "en": "Click north to south: Umm Qais, Amman, Aqaba."
+      }
+    },
+    {
+      "id": "jo-order-west-east-deadsea-azraq",
+      "type": "sequence",
+      "poiIds": [
+        "totes-meer-nature-v2",
+        "amman-cities-v2",
+        "azraq-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "totes-meer-nature-v2",
+        "amman-cities-v2",
+        "azraq-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Totes Meer, Amman und Azraq von Westen nach Osten an.",
+        "hu": "Kattints nyugatról keletre: Holt-tenger, Ammán, Azraq.",
+        "ro": "Apasă de la vest la est: Marea Moartă, Amman, Azraq.",
+        "en": "Click west to east: Dead Sea, Amman, Azraq."
+      }
+    },
+    {
+      "id": "jo-order-north-south-ramtha-maan",
+      "type": "sequence",
+      "poiIds": [
+        "ar-ramtha-cities-v2",
+        "amman-cities-v2",
+        "maan-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "ar-ramtha-cities-v2",
+        "amman-cities-v2",
+        "maan-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Ar-Ramtha, Amman und Ma'an von Norden nach Süden an.",
+        "hu": "Kattints északról délre: Ar-Ramtha, Ammán, Ma'an.",
+        "ro": "Apasă de la nord la sud: Ar-Ramtha, Amman, Ma'an.",
+        "en": "Click north to south: Ar-Ramtha, Amman, Ma'an."
+      }
+    },
+    {
+      "id": "jo-order-west-east-petra-eshidiya",
+      "type": "sequence",
+      "poiIds": [
+        "petra-history-v2",
+        "shams-maan-solar-plant-economic-v2",
+        "eshidiya-phosphate-mine-economic-v2"
+      ],
+      "orderedPoiIds": [
+        "petra-history-v2",
+        "shams-maan-solar-plant-economic-v2",
+        "eshidiya-phosphate-mine-economic-v2"
+      ],
+      "question": {
+        "de": "Klicke Petra, das Shams-Ma'an-Solarkraftwerk und die Eshidiya-Phosphatmine von Westen nach Osten an.",
+        "hu": "Kattints nyugatról keletre: Petra, a Shams Ma'an naperőmű, Eshidiya foszfátbánya.",
+        "ro": "Apasă de la vest la est: Petra, centrala solară Shams Ma'an, mina de fosfați Eshidiya.",
+        "en": "Click west to east: Petra, the Shams Ma'an Solar Power Plant, Eshidiya Phosphate Mine."
+      }
+    },
+    {
+      "id": "jo-order-north-south-ajloun-deadsea",
+      "type": "sequence",
+      "poiIds": [
+        "ajloun-castle-history-v2",
+        "madaba-cities-v2",
+        "totes-meer-nature-v2"
+      ],
+      "orderedPoiIds": [
+        "ajloun-castle-history-v2",
+        "madaba-cities-v2",
+        "totes-meer-nature-v2"
+      ],
+      "question": {
+        "de": "Klicke die Burg von Ajloun, Madaba und das Tote Meer von Norden nach Süden an.",
+        "hu": "Kattints északról délre: Adzslún vára, Madaba, Holt-tenger.",
+        "ro": "Apasă de la nord la sud: Castelul Ajloun, Madaba, Marea Moartă.",
+        "en": "Click north to south: Ajloun Castle, Madaba, Dead Sea."
+      }
+    }
+  ]
+}

@@ -1,0 +1,299 @@
+{
+    "so":  [
+               {
+                   "id":  "so-find-burao",
+                   "type":  "find_poi",
+                   "targetPoiId":  "burao-cities-v2",
+                   "question":  {
+                                    "de":  "Finde Burao auf der Karte.",
+                                    "hu":  "Keresd meg Burao hely?t a t?rk?pen.",
+                                    "ro":  "G?se?te Burao pe hart?.",
+                                    "en":  "Find Burao on the map."
+                                }
+               },
+               {
+                   "id":  "so-find-beledweyne",
+                   "type":  "find_poi",
+                   "targetPoiId":  "beledweyne-cities-v2",
+                   "question":  {
+                                    "de":  "Finde Beledweyne auf der Karte.",
+                                    "hu":  "Keresd meg Beledweyne hely?t a t?rk?pen.",
+                                    "ro":  "G?se?te Beledweyne pe hart?.",
+                                    "en":  "Find Beledweyne on the map."
+                                }
+               },
+               {
+                   "id":  "so-find-baidoa",
+                   "type":  "find_poi",
+                   "targetPoiId":  "baidoa-cities-v2",
+                   "question":  {
+                                    "de":  "Finde Baidoa auf der Karte.",
+                                    "hu":  "Keresd meg Baidoa hely?t a t?rk?pen.",
+                                    "ro":  "G?se?te Baidoa pe hart?.",
+                                    "en":  "Find Baidoa on the map."
+                                }
+               },
+               {
+                   "id":  "so-find-jowhar",
+                   "type":  "find_poi",
+                   "targetPoiId":  "jowhar-cities-v2",
+                   "question":  {
+                                    "de":  "Finde Jowhar auf der Karte.",
+                                    "hu":  "Keresd meg Jowhar hely?t a t?rk?pen.",
+                                    "ro":  "G?se?te Jowhar pe hart?.",
+                                    "en":  "Find Jowhar on the map."
+                                }
+               },
+               {
+                   "id":  "so-find-garowe",
+                   "type":  "find_poi",
+                   "targetPoiId":  "garowe-cities-v2",
+                   "question":  {
+                                    "de":  "Finde Garoowe auf der Karte.",
+                                    "hu":  "Keresd meg Garoowe hely?t a t?rk?pen.",
+                                    "ro":  "G?se?te Garoowe pe hart?.",
+                                    "en":  "Find Garoowe on the map."
+                                }
+               },
+               {
+                   "id":  "so-region-som-2413",
+                   "type":  "find_region",
+                   "targetRegionId":  "SOM-2413",
+                   "question":  {
+                                    "de":  "Klicke auf die Region Nugaal.",
+                                    "hu":  "Kattints Nugaal r?gi?j?ra.",
+                                    "ro":  "Apas? pe regiunea Nugaal.",
+                                    "en":  "Click the Nugaal region."
+                                }
+               },
+               {
+                   "id":  "so-region-som-2412",
+                   "type":  "find_region",
+                   "targetRegionId":  "SOM-2412",
+                   "question":  {
+                                    "de":  "Klicke auf die Region Mudug.",
+                                    "hu":  "Kattints Mudug r?gi?j?ra.",
+                                    "ro":  "Apas? pe regiunea Mudug.",
+                                    "en":  "Click the Mudug region."
+                                }
+               },
+               {
+                   "id":  "so-region-som-2409",
+                   "type":  "find_region",
+                   "targetRegionId":  "SOM-2409",
+                   "question":  {
+                                    "de":  "Klicke auf die Region Hiiraan.",
+                                    "hu":  "Kattints Hiiraan r?gi?j?ra.",
+                                    "ro":  "Apas? pe regiunea Hiiraan.",
+                                    "en":  "Click the Hiiraan region."
+                                }
+               },
+               {
+                   "id":  "so-region-som-2313",
+                   "type":  "find_region",
+                   "targetRegionId":  "SOM-2313",
+                   "question":  {
+                                    "de":  "Klicke auf die Region Bay.",
+                                    "hu":  "Kattints Bay r?gi?j?ra.",
+                                    "ro":  "Apas? pe regiunea Bay.",
+                                    "en":  "Click the Bay region."
+                                }
+               },
+               {
+                   "id":  "so-region-som-2410",
+                   "type":  "find_region",
+                   "targetRegionId":  "SOM-2410",
+                   "question":  {
+                                    "de":  "Klicke auf die Region Shabeellaha Dhexe.",
+                                    "hu":  "Kattints Shabeellaha Dhexe r?gi?j?ra.",
+                                    "ro":  "Apas? pe regiunea Shabeellaha Dhexe.",
+                                    "en":  "Click the Shabeellaha Dhexe region."
+                                }
+               },
+               {
+                   "id":  "so-odd-north-bossaso",
+                   "type":  "odd_one_out",
+                   "targetPoiId":  "bossaso-cities-v2",
+                   "poiIds":  [
+                                  "baidoa-cities-v2",
+                                  "jowhar-cities-v2",
+                                  "galkayo-cities-v2",
+                                  "bossaso-cities-v2"
+                              ],
+                   "question":  {
+                                    "de":  "Welcher Ort liegt am weitesten n?rdlich?",
+                                    "hu":  "Melyik hely fekszik a leg?szakabbra?",
+                                    "ro":  "Care loc se afl? cel mai la nord?",
+                                    "en":  "Which place lies furthest north?"
+                                }
+               },
+               {
+                   "id":  "so-odd-west-baidoa",
+                   "type":  "odd_one_out",
+                   "targetPoiId":  "baidoa-cities-v2",
+                   "poiIds":  [
+                                  "mogadishu-cities-v2",
+                                  "jowhar-cities-v2",
+                                  "baidoa-cities-v2",
+                                  "garowe-cities-v2"
+                              ],
+                   "question":  {
+                                    "de":  "Welcher Ort liegt am weitesten westlich?",
+                                    "hu":  "Melyik hely fekszik a legnyugatabbra?",
+                                    "ro":  "Care loc se afl? cel mai la vest?",
+                                    "en":  "Which place lies furthest west?"
+                                }
+               },
+               {
+                   "id":  "so-odd-coast-kismayo",
+                   "type":  "odd_one_out",
+                   "targetPoiId":  "kismayo-cities-v2",
+                   "poiIds":  [
+                                  "hargeisa-cities-v2",
+                                  "galkayo-cities-v2",
+                                  "kismayo-cities-v2",
+                                  "baidoa-cities-v2"
+                              ],
+                   "question":  {
+                                    "de":  "Welcher Ort liegt an der K?ste des Indischen Ozeans?",
+                                    "hu":  "Melyik hely fekszik az Indiai-?ce?n partj?n?",
+                                    "ro":  "Care loc se afl? pe coasta Oceanului Indian?",
+                                    "en":  "Which place lies on the Indian Ocean coast?"
+                                }
+               },
+               {
+                   "id":  "so-odd-east-bossaso",
+                   "type":  "odd_one_out",
+                   "targetPoiId":  "bossaso-cities-v2",
+                   "poiIds":  [
+                                  "borama-cities-v2",
+                                  "hargeisa-cities-v2",
+                                  "burao-cities-v2",
+                                  "bossaso-cities-v2"
+                              ],
+                   "question":  {
+                                    "de":  "Welcher Ort liegt am weitesten ?stlich?",
+                                    "hu":  "Melyik hely fekszik a legkeletebbre?",
+                                    "ro":  "Care loc se afl? cel mai la est?",
+                                    "en":  "Which place lies furthest east?"
+                                }
+               },
+               {
+                   "id":  "so-odd-south-mogadishu",
+                   "type":  "odd_one_out",
+                   "targetPoiId":  "mogadishu-cities-v2",
+                   "poiIds":  [
+                                  "borama-cities-v2",
+                                  "hargeisa-cities-v2",
+                                  "beledweyne-cities-v2",
+                                  "mogadishu-cities-v2"
+                              ],
+                   "question":  {
+                                    "de":  "Welcher Ort liegt am weitesten s?dlich?",
+                                    "hu":  "Melyik hely fekszik a legd?lebbre?",
+                                    "ro":  "Care loc se afl? cel mai la sud?",
+                                    "en":  "Which place lies furthest south?"
+                                }
+               },
+               {
+                   "id":  "so-order-west-east-northwest",
+                   "type":  "sequence",
+                   "poiIds":  [
+                                  "borama-cities-v2",
+                                  "hargeisa-cities-v2",
+                                  "burao-cities-v2"
+                              ],
+                   "orderedPoiIds":  [
+                                         "borama-cities-v2",
+                                         "hargeisa-cities-v2",
+                                         "burao-cities-v2"
+                                     ],
+                   "question":  {
+                                    "de":  "Klicke Borama, Hargeysa, Burao von Westen nach Osten an.",
+                                    "hu":  "Kattints ezekre nyugatr?l keletre: Borama, Hargeysa, Burao.",
+                                    "ro":  "Apas? ?n ordine de la vest la est: Borama, Hargeysa, Burao.",
+                                    "en":  "Click from west to east: Borama, Hargeysa, Burao."
+                                }
+               },
+               {
+                   "id":  "so-order-south-north-jubba-shabelle",
+                   "type":  "sequence",
+                   "poiIds":  [
+                                  "kismayo-cities-v2",
+                                  "mogadishu-cities-v2",
+                                  "beledweyne-cities-v2"
+                              ],
+                   "orderedPoiIds":  [
+                                         "kismayo-cities-v2",
+                                         "mogadishu-cities-v2",
+                                         "beledweyne-cities-v2"
+                                     ],
+                   "question":  {
+                                    "de":  "Klicke Kismaayo, Mogadishu, Beledweyne von S?den nach Norden an.",
+                                    "hu":  "Kattints ezekre d?lr?l ?szakra: Kismaayo, Mogadishu, Beledweyne.",
+                                    "ro":  "Apas? ?n ordine de la sud la nord: Kismayo, Mogadishu, Beledweyne.",
+                                    "en":  "Click from south to north: Kismayo, Mogadishu, Beledweyne."
+                                }
+               },
+               {
+                   "id":  "so-order-west-east-central",
+                   "type":  "sequence",
+                   "poiIds":  [
+                                  "baidoa-cities-v2",
+                                  "jowhar-cities-v2",
+                                  "galkayo-cities-v2"
+                              ],
+                   "orderedPoiIds":  [
+                                         "baidoa-cities-v2",
+                                         "jowhar-cities-v2",
+                                         "galkayo-cities-v2"
+                                     ],
+                   "question":  {
+                                    "de":  "Klicke Baidoa, Jowhar, Galkayo von Westen nach Osten an.",
+                                    "hu":  "Kattints ezekre nyugatr?l keletre: Baidoa, Jowhar, Galkayo.",
+                                    "ro":  "Apas? ?n ordine de la vest la est: Baidoa, Jowhar, Galkayo.",
+                                    "en":  "Click from west to east: Baidoa, Jowhar, Galkayo."
+                                }
+               },
+               {
+                   "id":  "so-order-north-south-northeast",
+                   "type":  "sequence",
+                   "poiIds":  [
+                                  "bossaso-cities-v2",
+                                  "garowe-cities-v2",
+                                  "galkayo-cities-v2"
+                              ],
+                   "orderedPoiIds":  [
+                                         "bossaso-cities-v2",
+                                         "garowe-cities-v2",
+                                         "galkayo-cities-v2"
+                                     ],
+                   "question":  {
+                                    "de":  "Klicke Boosaaso, Garoowe, Galkayo von Norden nach S?den an.",
+                                    "hu":  "Kattints ezekre ?szakr?l d?lre: Boosaaso, Garoowe, Galkayo.",
+                                    "ro":  "Apas? ?n ordine de la nord la sud: Boosaaso, Garoowe, Galkayo.",
+                                    "en":  "Click from north to south: Boosaaso, Garoowe, Galkayo."
+                                }
+               },
+               {
+                   "id":  "so-order-north-south-somaliland",
+                   "type":  "sequence",
+                   "poiIds":  [
+                                  "hargeisa-cities-v2",
+                                  "burao-cities-v2",
+                                  "garowe-cities-v2"
+                              ],
+                   "orderedPoiIds":  [
+                                         "hargeisa-cities-v2",
+                                         "burao-cities-v2",
+                                         "garowe-cities-v2"
+                                     ],
+                   "question":  {
+                                    "de":  "Klicke Hargeysa, Burao, Garoowe von Norden nach S?den an.",
+                                    "hu":  "Kattints ezekre ?szakr?l d?lre: Hargeysa, Burao, Garoowe.",
+                                    "ro":  "Apas? ?n ordine de la nord la sud: Hargeysa, Burao, Garoowe.",
+                                    "en":  "Click from north to south: Hargeysa, Burao, Garoowe."
+                                }
+               }
+           ]
+}

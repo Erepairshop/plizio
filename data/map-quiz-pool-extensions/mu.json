@@ -1,0 +1,290 @@
+{
+  "mu": [
+    {
+      "id": "mu-find-grand-baie",
+      "type": "find_poi",
+      "targetPoiId": "mauritius-grand-baie-cities-v2",
+      "question": {
+        "de": "Finde Grand Baie im Norden von Mauritius.",
+        "hu": "Keresd meg Grand Baie telep?l?st Mauritius ?szaki r?sz?n.",
+        "ro": "G?se?te Grand Baie ?n nordul insulei Mauritius.",
+        "en": "Find Grand Baie in northern Mauritius."
+      }
+    },
+    {
+      "id": "mu-find-centre-flacq",
+      "type": "find_poi",
+      "targetPoiId": "mauritius-centre-de-flacq-cities-v2",
+      "question": {
+        "de": "Finde Centre de Flacq im Osten der Insel.",
+        "hu": "Keresd meg Centre de Flacq telep?l?st a sziget keleti r?sz?n.",
+        "ro": "G?se?te Centre de Flacq ?n estul insulei.",
+        "en": "Find Centre de Flacq in the east of the island."
+      }
+    },
+    {
+      "id": "mu-find-souillac",
+      "type": "find_poi",
+      "targetPoiId": "mauritius-souillac-cities-v2",
+      "question": {
+        "de": "Finde Souillac an der S?dk?ste von Mauritius.",
+        "hu": "Keresd meg Souillac telep?l?st Mauritius d?li partj?n.",
+        "ro": "G?se?te Souillac pe coasta sudic? a insulei Mauritius.",
+        "en": "Find Souillac on the south coast of Mauritius."
+      }
+    },
+    {
+      "id": "mu-find-flic-en-flac",
+      "type": "find_poi",
+      "targetPoiId": "mauritius-flic-en-flac-village-cities-v2",
+      "question": {
+        "de": "Finde Flic en Flac an der Westk?ste.",
+        "hu": "Keresd meg Flic en Flac telep?l?st a nyugati parton.",
+        "ro": "G?se?te Flic en Flac pe coasta de vest.",
+        "en": "Find Flic en Flac on the west coast."
+      }
+    },
+    {
+      "id": "mu-find-le-morne-brabant",
+      "type": "find_poi",
+      "targetPoiId": "le-morne-brabant-relief-v2",
+      "question": {
+        "de": "Finde Le Morne Brabant im S?dwesten.",
+        "hu": "Keresd meg Le Morne Brabant hegy?t d?lnyugaton.",
+        "ro": "G?se?te Le Morne Brabant ?n sud-vest.",
+        "en": "Find Le Morne Brabant in the southwest."
+      }
+    },
+    {
+      "id": "mu-find-trou-aux-cerfs",
+      "type": "find_poi",
+      "targetPoiId": "trou-aux-cerfs-relief-v2",
+      "question": {
+        "de": "Finde Trou aux Cerfs beim zentralen Hochland.",
+        "hu": "Keresd meg a Trou aux Cerfs kr?tert a k?zponti fenns?kon.",
+        "ro": "G?se?te craterul Trou aux Cerfs pe platoul central.",
+        "en": "Find Trou aux Cerfs in the central highlands."
+      }
+    },
+    {
+      "id": "mu-region-flacq",
+      "type": "find_region",
+      "targetRegionId": "MUS-5184",
+      "question": {
+        "de": "Klicke auf den Distrikt Flacq im Osten.",
+        "hu": "Kattints a keleti Flacq k?rzetre.",
+        "ro": "Apas? pe districtul Flacq din est.",
+        "en": "Click Flacq District in the east."
+      }
+    },
+    {
+      "id": "mu-region-riviere-noire",
+      "type": "find_region",
+      "targetRegionId": "MUS-5193",
+      "question": {
+        "de": "Klicke auf den Distrikt Rivi?re Noire im S?dwesten.",
+        "hu": "Kattints a d?lnyugati Rivi?re Noire k?rzetre.",
+        "ro": "Apas? pe districtul Rivi?re Noire din sud-vest.",
+        "en": "Click Rivi?re Noire District in the southwest."
+      }
+    },
+    {
+      "id": "mu-region-savanne",
+      "type": "find_region",
+      "targetRegionId": "MUS-5195",
+      "question": {
+        "de": "Klicke auf den s?dlichen Distrikt Savanne.",
+        "hu": "Kattints a d?li Savanne k?rzetre.",
+        "ro": "Apas? pe districtul sudic Savanne.",
+        "en": "Click the southern district of Savanne."
+      }
+    },
+    {
+      "id": "mu-region-moka",
+      "type": "find_region",
+      "targetRegionId": "MUS-5186",
+      "question": {
+        "de": "Klicke auf den zentralen Distrikt Moka.",
+        "hu": "Kattints a k?zponti Moka k?rzetre.",
+        "ro": "Apas? pe districtul central Moka.",
+        "en": "Click the central district of Moka."
+      }
+    },
+    {
+      "id": "mu-region-riviere-du-rempart",
+      "type": "find_region",
+      "targetRegionId": "MUS-5192",
+      "question": {
+        "de": "Klicke auf den Distrikt Rivi?re du Rempart im Nordosten.",
+        "hu": "Kattints az ?szakkeleti Rivi?re du Rempart k?rzetre.",
+        "ro": "Apas? pe districtul Rivi?re du Rempart din nord-est.",
+        "en": "Click Rivi?re du Rempart District in the northeast."
+      }
+    },
+    {
+      "id": "mu-odd-west-coast",
+      "type": "odd_one_out",
+      "poiIds": [
+        "mauritius-flic-en-flac-village-cities-v2",
+        "mauritius-tamarin-cities-v2",
+        "mauritius-riviere-noire-cities-v2",
+        "mauritius-centre-de-flacq-cities-v2"
+      ],
+      "targetPoiId": "mauritius-centre-de-flacq-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht an der Westk?ste von Mauritius?",
+        "hu": "Melyik telep?l?s nem Mauritius nyugati partj?n fekszik?",
+        "ro": "Care localitate nu se afl? pe coasta de vest a insulei Mauritius?",
+        "en": "Which place is not on the west coast of Mauritius?"
+      }
+    },
+    {
+      "id": "mu-odd-east-coast",
+      "type": "odd_one_out",
+      "poiIds": [
+        "mauritius-poste-lafayette-cities-v2",
+        "mauritius-trou-deau-douce-cities-v2",
+        "mauritius-mahebourg-cities-v2",
+        "mauritius-grand-baie-cities-v2"
+      ],
+      "targetPoiId": "mauritius-grand-baie-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht an der Ostk?ste von Mauritius?",
+        "hu": "Melyik telep?l?s nem Mauritius keleti partj?n fekszik?",
+        "ro": "Care localitate nu se afl? pe coasta de est a insulei Mauritius?",
+        "en": "Which place is not on the east coast of Mauritius?"
+      }
+    },
+    {
+      "id": "mu-odd-central-plateau",
+      "type": "odd_one_out",
+      "poiIds": [
+        "mauritius-curepipe-cities-v2",
+        "mauritius-vacoas-cities-v2",
+        "mauritius-rose-hill-cities-v2",
+        "mauritius-cap-malheureux-cities-v2"
+      ],
+      "targetPoiId": "mauritius-cap-malheureux-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht im zentralen Hochland von Mauritius?",
+        "hu": "Melyik telep?l?s nem Mauritius k?zponti fenns?kj?n fekszik?",
+        "ro": "Care localitate nu se afl? pe platoul central al insulei Mauritius?",
+        "en": "Which place is not in the central highlands of Mauritius?"
+      }
+    },
+    {
+      "id": "mu-odd-south-coast",
+      "type": "odd_one_out",
+      "poiIds": [
+        "mauritius-souillac-cities-v2",
+        "mauritius-surinam-cities-v2",
+        "mauritius-baie-du-cap-cities-v2",
+        "mauritius-pamplemousses-village-cities-v2"
+      ],
+      "targetPoiId": "mauritius-pamplemousses-village-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht an oder nahe der S?dk?ste von Mauritius?",
+        "hu": "Melyik telep?l?s nem Mauritius d?li partj?n vagy annak k?zel?ben fekszik?",
+        "ro": "Care localitate nu se afl? pe sau l?ng? coasta sudic? a insulei Mauritius?",
+        "en": "Which place is not on or near the south coast of Mauritius?"
+      }
+    },
+    {
+      "id": "mu-odd-southeast",
+      "type": "odd_one_out",
+      "poiIds": [
+        "mauritius-mahebourg-cities-v2",
+        "mauritius-plaine-magnien-cities-v2",
+        "mauritius-bel-air-riviere-seche-cities-v2",
+        "mauritius-grand-baie-cities-v2"
+      ],
+      "targetPoiId": "mauritius-grand-baie-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht im S?dosten oder Osten von Mauritius?",
+        "hu": "Melyik telep?l?s nem Mauritius d?lkeleti vagy keleti r?sz?n fekszik?",
+        "ro": "Care localitate nu se afl? ?n sud-estul sau estul insulei Mauritius?",
+        "en": "Which place is not in the southeast or east of Mauritius?"
+      }
+    },
+    {
+      "id": "mu-order-west-east-le-morne-flacq",
+      "type": "sequence",
+      "poiIds": [
+        "le-morne-brabant-relief-v2",
+        "mauritius-curepipe-cities-v2",
+        "mauritius-centre-de-flacq-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "le-morne-brabant-relief-v2",
+        "mauritius-curepipe-cities-v2",
+        "mauritius-centre-de-flacq-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Le Morne Brabant, Curepipe und Centre de Flacq von Westen nach Osten an.",
+        "hu": "Kattints Le Morne Brabantra, Curepipe-ra ?s Centre de Flacqra nyugatr?l kelet fel?.",
+        "ro": "Apas? Le Morne Brabant, Curepipe ?i Centre de Flacq de la vest la est.",
+        "en": "Click Le Morne Brabant, Curepipe, and Centre de Flacq from west to east."
+      }
+    },
+    {
+      "id": "mu-order-north-south-cap-rosehill-souillac",
+      "type": "sequence",
+      "poiIds": [
+        "mauritius-cap-malheureux-cities-v2",
+        "mauritius-rose-hill-cities-v2",
+        "mauritius-souillac-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "mauritius-cap-malheureux-cities-v2",
+        "mauritius-rose-hill-cities-v2",
+        "mauritius-souillac-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Cap Malheureux, Rose Hill und Souillac von Norden nach S?den an.",
+        "hu": "Kattints Cap Malheureux-re, Rose Hillre ?s Souillacra ?szakr?l d?l fel?.",
+        "ro": "Apas? Cap Malheureux, Rose Hill ?i Souillac de la nord la sud.",
+        "en": "Click Cap Malheureux, Rose Hill, and Souillac from north to south."
+      }
+    },
+    {
+      "id": "mu-order-east-coast-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "mauritius-poste-lafayette-cities-v2",
+        "mauritius-trou-deau-douce-cities-v2",
+        "mauritius-mahebourg-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "mauritius-poste-lafayette-cities-v2",
+        "mauritius-trou-deau-douce-cities-v2",
+        "mauritius-mahebourg-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Poste Lafayette, Trou d'Eau Douce und Mah?bourg von Norden nach S?den an.",
+        "hu": "Kattints Poste Lafayette-re, Trou d'Eau Douce-ra ?s Mah?bourgra ?szakr?l d?l fel?.",
+        "ro": "Apas? Poste Lafayette, Trou d'Eau Douce ?i Mah?bourg de la nord la sud.",
+        "en": "Click Poste Lafayette, Trou d'Eau Douce, and Mah?bourg from north to south."
+      }
+    },
+    {
+      "id": "mu-order-west-east-flic-belair",
+      "type": "sequence",
+      "poiIds": [
+        "mauritius-flic-en-flac-village-cities-v2",
+        "mauritius-port-louis-cities-v2",
+        "mauritius-bel-air-riviere-seche-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "mauritius-flic-en-flac-village-cities-v2",
+        "mauritius-port-louis-cities-v2",
+        "mauritius-bel-air-riviere-seche-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Flic en Flac, Port Louis und Bel Air Rivi?re S?che von Westen nach Osten an.",
+        "hu": "Kattints Flic en Flacra, Port Louisra ?s Bel Air Rivi?re S?che-re nyugatr?l kelet fel?.",
+        "ro": "Apas? Flic en Flac, Port Louis ?i Bel Air Rivi?re S?che de la vest la est.",
+        "en": "Click Flic en Flac, Port Louis, and Bel Air Rivi?re S?che from west to east."
+      }
+    }
+  ]
+}

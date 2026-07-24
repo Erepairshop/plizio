@@ -1,0 +1,269 @@
+{
+  "cn": [
+    {
+      "id": "cn-find-forbidden-city",
+      "type": "find_poi",
+      "targetPoiId": "forbidden-city-landmarks-v2",
+      "question": {
+        "de": "Finde die Verbotene Stadt in Beijing.",
+        "hu": "Keresd meg a Tiltott Várost Pekingben.",
+        "ro": "Găsește Orașul Interzis din Beijing.",
+        "en": "Find the Forbidden City in Beijing."
+      }
+    },
+    {
+      "id": "cn-find-terracotta-army",
+      "type": "find_poi",
+      "targetPoiId": "terracotta-army-landmarks-v2",
+      "question": {
+        "de": "Finde die Terrakotta-Armee bei Xi'an.",
+        "hu": "Keresd meg az agyaghadsereget Hszian közelében.",
+        "ro": "Găsește Armata de Teracotă de lângă Xi'an.",
+        "en": "Find the Terracotta Army near Xi'an."
+      }
+    },
+    {
+      "id": "cn-find-qinghai-lake",
+      "type": "find_poi",
+      "targetPoiId": "qinghai-lake-nature-v2",
+      "question": {
+        "de": "Finde den Qinghai-See.",
+        "hu": "Keresd meg a Csinghaj-tavat.",
+        "ro": "Găsește lacul Qinghai.",
+        "en": "Find Qinghai Lake."
+      }
+    },
+    {
+      "id": "cn-find-jiuzhaigou",
+      "type": "find_poi",
+      "targetPoiId": "jiuzhaigou-valley-nature-v2",
+      "question": {
+        "de": "Finde das Jiuzhaigou-Tal in Sichuan.",
+        "hu": "Keresd meg a Jiuzhaigou-völgyet Szecsuanban.",
+        "ro": "Găsește valea Jiuzhaigou din Sichuan.",
+        "en": "Find Jiuzhaigou Valley in Sichuan."
+      }
+    },
+    {
+      "id": "cn-find-guangzhou",
+      "type": "find_poi",
+      "targetPoiId": "china-guangzhou-cities-v2",
+      "question": {
+        "de": "Finde Guangzhou im Süden.",
+        "hu": "Keresd meg Kuangcsout délen.",
+        "ro": "Găsește Guangzhou în sud.",
+        "en": "Find Guangzhou in the south."
+      }
+    },
+    {
+      "id": "cn-find-kashgar",
+      "type": "find_poi",
+      "targetPoiId": "china-kashgar-cities-v2",
+      "question": {
+        "de": "Finde Kashgar im äußersten Westen.",
+        "hu": "Keresd meg Kasgart a legnyugatibb részen.",
+        "ro": "Găsește Kashgar în extremul vest.",
+        "en": "Find Kashgar in the far west."
+      }
+    },
+    {
+      "id": "cn-find-mount-everest",
+      "type": "find_poi",
+      "targetPoiId": "mount-everest-nature-v2",
+      "question": {
+        "de": "Finde den Mount Everest an der Himalaya-Grenze.",
+        "hu": "Keresd meg a Mount Everestet a Himalája határvidékén.",
+        "ro": "Găsește Muntele Everest la granița Himalayei.",
+        "en": "Find Mount Everest on the Himalayan border."
+      }
+    },
+    {
+      "id": "cn-find-the-bund",
+      "type": "find_poi",
+      "targetPoiId": "the-bund-landmarks-v2",
+      "question": {
+        "de": "Finde The Bund in Shanghai.",
+        "hu": "Keresd meg a Bundot Sanghajban.",
+        "ro": "Găsește Bundul din Shanghai.",
+        "en": "Find the Bund in Shanghai."
+      }
+    },
+    {
+      "id": "cn-region-hainan",
+      "type": "find_region",
+      "targetRegionId": "CHN-1775",
+      "question": {
+        "de": "Finde Hainan, die Inselprovinz im Süden.",
+        "hu": "Keresd meg Hajnant, a déli szigettartományt.",
+        "ro": "Găsește Hainan, provincia-insulă din sud.",
+        "en": "Find Hainan, the island province in the south."
+      }
+    },
+    {
+      "id": "cn-region-heilongjiang",
+      "type": "find_region",
+      "targetRegionId": "CHN-1839",
+      "question": {
+        "de": "Finde Heilongjiang im Nordosten.",
+        "hu": "Keresd meg Heilongjiangot északkeleten.",
+        "ro": "Găsește Heilongjiang în nord-est.",
+        "en": "Find Heilongjiang in the northeast."
+      }
+    },
+    {
+      "id": "cn-region-qinghai",
+      "type": "find_region",
+      "targetRegionId": "CHN-1151",
+      "question": {
+        "de": "Finde Qinghai auf dem Hochland im Westen.",
+        "hu": "Keresd meg Csinghajt a nyugati fennsíkon.",
+        "ro": "Găsește Qinghai pe platoul din vest.",
+        "en": "Find Qinghai on the western plateau."
+      }
+    },
+    {
+      "id": "cn-region-fujian",
+      "type": "find_region",
+      "targetRegionId": "CHN-1178",
+      "question": {
+        "de": "Finde Fujian an der Südostküste.",
+        "hu": "Keresd meg Fujiant a délkeleti parton.",
+        "ro": "Găsește Fujian pe coasta de sud-est.",
+        "en": "Find Fujian on the southeast coast."
+      }
+    },
+    {
+      "id": "cn-region-sichuan",
+      "type": "find_region",
+      "targetRegionId": "CHN-1809",
+      "question": {
+        "de": "Finde Sichuan im Südwesten.",
+        "hu": "Keresd meg Szecsuánt délnyugaton.",
+        "ro": "Găsește Sichuan în sud-vest.",
+        "en": "Find Sichuan in the southwest."
+      }
+    },
+    {
+      "id": "cn-region-shanghai",
+      "type": "find_region",
+      "targetRegionId": "CHN-1819",
+      "question": {
+        "de": "Finde die Metropole Shanghai an der Ostküste.",
+        "hu": "Keresd meg Sanghajt a keleti parton.",
+        "ro": "Găsește metropola Shanghai de pe coasta estică.",
+        "en": "Find the Shanghai municipality on the east coast."
+      }
+    },
+    {
+      "id": "cn-odd-island-haikou",
+      "type": "odd_one_out",
+      "poiIds": [
+        "china-haikou-cities-v2",
+        "china-guangzhou-cities-v2",
+        "fuzhou-cities-v2",
+        "ningbo-cities-v2"
+      ],
+      "targetPoiId": "china-haikou-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt auf Hainan statt auf dem Festland?",
+        "hu": "Melyik hely fekszik Hajnan szigetén, nem pedig a szárazföldön?",
+        "ro": "Care loc se află pe insula Hainan, nu pe continent?",
+        "en": "Which place lies on Hainan Island rather than on the mainland?"
+      }
+    },
+    {
+      "id": "cn-odd-far-west-kashgar",
+      "type": "odd_one_out",
+      "poiIds": [
+        "china-kashgar-cities-v2",
+        "shijiazhuang-cities-v2",
+        "the-bund-landmarks-v2",
+        "fuzhou-cities-v2"
+      ],
+      "targetPoiId": "china-kashgar-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt weit im äußersten Westen Chinas?",
+        "hu": "Melyik hely fekszik messze Kína legnyugatibb részén?",
+        "ro": "Care loc se află departe în extremul vest al Chinei?",
+        "en": "Which place lies far in China's extreme west?"
+      }
+    },
+    {
+      "id": "cn-odd-tibet-potala",
+      "type": "odd_one_out",
+      "poiIds": [
+        "potala-palace-landmarks-v2",
+        "forbidden-city-landmarks-v2",
+        "summer-palace-landmarks-v2",
+        "temple-of-heaven-landmarks-v2"
+      ],
+      "targetPoiId": "potala-palace-landmarks-v2",
+      "question": {
+        "de": "Welche Sehenswürdigkeit liegt in Tibet statt in Beijing?",
+        "hu": "Melyik nevezetesség található Tibetben, nem pedig Pekingben?",
+        "ro": "Care obiectiv se află în Tibet, nu în Beijing?",
+        "en": "Which landmark is in Tibet rather than in Beijing?"
+      }
+    },
+    {
+      "id": "cn-sequence-west-east-kashgar-lanzhou-bund",
+      "type": "sequence",
+      "poiIds": [
+        "china-kashgar-cities-v2",
+        "lanzhou-cities-v2",
+        "the-bund-landmarks-v2"
+      ],
+      "orderedPoiIds": [
+        "china-kashgar-cities-v2",
+        "lanzhou-cities-v2",
+        "the-bund-landmarks-v2"
+      ],
+      "question": {
+        "de": "Klicke Kashgar, Lanzhou und The Bund von Westen nach Osten an.",
+        "hu": "Kattints Kasgarra, Lancsoura és a Bundra nyugatról keletre.",
+        "ro": "Apasă Kashgar, Lanzhou și Bundul de la vest la est.",
+        "en": "Click Kashgar, Lanzhou and the Bund from west to east."
+      }
+    },
+    {
+      "id": "cn-sequence-north-south-qiqihar-beijing-guangzhou",
+      "type": "sequence",
+      "poiIds": [
+        "qiqihar-cities-v2",
+        "forbidden-city-landmarks-v2",
+        "china-guangzhou-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "qiqihar-cities-v2",
+        "forbidden-city-landmarks-v2",
+        "china-guangzhou-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Qiqihar, die Verbotene Stadt und Guangzhou von Norden nach Süden an.",
+        "hu": "Kattints Csicsiharra, a Tiltott Városra és Kuangcsoura északról délre.",
+        "ro": "Apasă Qiqihar, Orașul Interzis și Guangzhou de la nord la sud.",
+        "en": "Click Qiqihar, the Forbidden City and Guangzhou from north to south."
+      }
+    },
+    {
+      "id": "cn-sequence-west-east-jiuzhaigou-xian-shanghai",
+      "type": "sequence",
+      "poiIds": [
+        "jiuzhaigou-valley-nature-v2",
+        "terracotta-army-landmarks-v2",
+        "the-bund-landmarks-v2"
+      ],
+      "orderedPoiIds": [
+        "jiuzhaigou-valley-nature-v2",
+        "terracotta-army-landmarks-v2",
+        "the-bund-landmarks-v2"
+      ],
+      "question": {
+        "de": "Klicke Jiuzhaigou, die Terrakotta-Armee und The Bund von Westen nach Osten an.",
+        "hu": "Kattints a Jiuzhaigou-völgyre, az agyaghadseregre és a Bundra nyugatról keletre.",
+        "ro": "Apasă valea Jiuzhaigou, Armata de Teracotă și Bundul de la vest la est.",
+        "en": "Click Jiuzhaigou Valley, the Terracotta Army and the Bund from west to east."
+      }
+    }
+  ]
+}

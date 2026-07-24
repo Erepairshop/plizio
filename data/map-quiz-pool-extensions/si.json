@@ -1,0 +1,312 @@
+{
+  "si": [
+    {
+      "id": "si-find-piran-walls",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde die Stadtmauern von Piran.",
+        "hu": "Keresd meg Piran városfalait.",
+        "ro": "Găsește zidurile orașului Piran.",
+        "en": "Find the Piran City Walls."
+      },
+      "targetPoiId": "slovenia-piran-walls-history-v2"
+    },
+    {
+      "id": "si-find-vrsic-pass",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt der Vršič-Pass?",
+        "hu": "Hol található a Vršič-hágó?",
+        "ro": "Unde se află Pasul Vršič?",
+        "en": "Where is Vršič Pass?"
+      },
+      "targetPoiId": "slovenia-vrsic-pass-nature-v2"
+    },
+    {
+      "id": "si-find-ptuj-castle",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde das Schloss von Ptuj.",
+        "hu": "Keresd meg a ptuji várat.",
+        "ro": "Găsește Castelul Ptuj.",
+        "en": "Find Ptuj Castle."
+      },
+      "targetPoiId": "slovenia-ptuj-castle-history-v2"
+    },
+    {
+      "id": "si-find-lipica",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt das Lipica-Gestüt?",
+        "hu": "Hol található a lipicai ménesbirtok?",
+        "ro": "Unde se află herghelia Lipica?",
+        "en": "Where is the Lipica Stud Farm?"
+      },
+      "targetPoiId": "slovenia-lipica-stud-farm-life-v2"
+    },
+    {
+      "id": "si-find-vinarium",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde den Vinarium-Turm im äußersten Osten.",
+        "hu": "Keresd meg a Vinarium-kilátót a legkeletibb országrészben.",
+        "ro": "Găsește Turnul Vinarium din extremul est.",
+        "en": "Find the Vinarium Tower in the far east."
+      },
+      "targetPoiId": "slovenia-vinarium-tower-landmarks-v2"
+    },
+    {
+      "id": "si-find-kozjak-waterfall",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde den Kozjak-Wasserfall nahe Kobarid.",
+        "hu": "Keresd meg a Kozjak-vízesést Kobarid közelében.",
+        "ro": "Găsește Cascada Kozjak, lângă Kobarid.",
+        "en": "Find Kozjak Waterfall near Kobarid."
+      },
+      "targetPoiId": "slovenia-kozjak-waterfall-nature-v2"
+    },
+    {
+      "id": "si-region-koper",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf die Gemeinde Koper an der Küste.",
+        "hu": "Kattints a tengerparti Koper községre.",
+        "ro": "Apasă pe municipalitatea Koper de pe coastă.",
+        "en": "Click the coastal Municipality of Koper."
+      },
+      "targetRegionId": "SI-050"
+    },
+    {
+      "id": "si-region-bovec",
+      "type": "find_region",
+      "question": {
+        "de": "Finde die Gemeinde Bovec im Nordwesten.",
+        "hu": "Keresd meg Bovec községet északnyugaton.",
+        "ro": "Găsește municipalitatea Bovec din nord-vest.",
+        "en": "Find the Municipality of Bovec in the northwest."
+      },
+      "targetRegionId": "SI-006"
+    },
+    {
+      "id": "si-region-murska-sobota",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf die Gemeinde Murska Sobota im Nordosten.",
+        "hu": "Kattints az északkeleti Murska Sobota községre.",
+        "ro": "Apasă pe municipalitatea Murska Sobota din nord-est.",
+        "en": "Click the Municipality of Murska Sobota in the northeast."
+      },
+      "targetRegionId": "SI-080"
+    },
+    {
+      "id": "si-odd-not-alpine-lake",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort ist kein See in den Julischen Alpen?",
+        "hu": "Melyik hely nem a Júliai-Alpok tavai közé tartozik?",
+        "ro": "Care loc nu este un lac din Alpii Iulieni?",
+        "en": "Which place is not a lake in the Julian Alps?"
+      },
+      "poiIds": [
+        "slovenia-lake-bled-nature-v2",
+        "slovenia-lake-bohinj-nature-v2",
+        "slovenia-lake-jasna-nature-v2",
+        "slovenia-piran-walls-history-v2"
+      ],
+      "targetPoiId": "slovenia-piran-walls-history-v2"
+    },
+    {
+      "id": "si-odd-not-karst-classic",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort gehört nicht zu den klassischen Karstzielen im Südwesten?",
+        "hu": "Melyik hely nem a délnyugati karsztvidék klasszikus célpontja?",
+        "ro": "Care loc nu aparține obiectivelor carstice clasice din sud-vest?",
+        "en": "Which place does not belong to the classic karst sights in the southwest?"
+      },
+      "poiIds": [
+        "slovenia-postojna-cave-nature-v2",
+        "slovenia-skocjan-caves-nature-v2",
+        "slovenia-predjama-castle-history-v2",
+        "slovenia-vinarium-tower-landmarks-v2"
+      ],
+      "targetPoiId": "slovenia-vinarium-tower-landmarks-v2"
+    },
+    {
+      "id": "si-odd-not-soca-valley",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort liegt nicht im Soča-Gebiet?",
+        "hu": "Melyik hely nem a Soča vidékén található?",
+        "ro": "Care loc nu se află în zona Soča?",
+        "en": "Which place is not in the Soča area?"
+      },
+      "poiIds": [
+        "slovenia-bovec-cities-v2",
+        "slovenia-kobarid-ossuary-history-v2",
+        "slovenia-tolmin-gorges-nature-v2",
+        "slovenia-lake-cerknica-nature-v2"
+      ],
+      "targetPoiId": "slovenia-lake-cerknica-nature-v2"
+    },
+    {
+      "id": "si-odd-not-coastal",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort liegt nicht an oder nahe der slowenischen Küste?",
+        "hu": "Melyik hely nem a szlovén tengerparton vagy annak közelében található?",
+        "ro": "Care loc nu se află pe sau lângă coasta slovenă?",
+        "en": "Which place is not on or near Slovenia's coast?"
+      },
+      "poiIds": [
+        "slovenia-piran-walls-history-v2",
+        "slovenia-secovlje-salina-nature-v2",
+        "slovenia-lipica-stud-farm-life-v2",
+        "slovenia-ptuj-castle-history-v2"
+      ],
+      "targetPoiId": "slovenia-ptuj-castle-history-v2"
+    },
+    {
+      "id": "si-odd-not-northeast",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort liegt nicht im Nordosten Sloweniens?",
+        "hu": "Melyik hely nem Szlovénia északkeleti részén található?",
+        "ro": "Care loc nu se află în nord-estul Sloveniei?",
+        "en": "Which place is not in northeastern Slovenia?"
+      },
+      "poiIds": [
+        "slovenia-murska-sobota-cities-v2",
+        "slovenia-vinarium-tower-landmarks-v2",
+        "slovenia-ptuj-castle-history-v2",
+        "slovenia-sneznik-castle-history-v2"
+      ],
+      "targetPoiId": "slovenia-sneznik-castle-history-v2"
+    },
+    {
+      "id": "si-order-west-east-landmarks",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke diese Orte von West nach Ost an.",
+        "hu": "Kattints ezekre a helyekre nyugatról keletre.",
+        "ro": "Apasă aceste locuri de la vest la est.",
+        "en": "Click these places from west to east."
+      },
+      "poiIds": [
+        "slovenia-piran-walls-history-v2",
+        "slovenia-ljubljana-castle-history-v2",
+        "slovenia-ptuj-castle-history-v2",
+        "slovenia-vinarium-tower-landmarks-v2"
+      ],
+      "orderedPoiIds": [
+        "slovenia-piran-walls-history-v2",
+        "slovenia-ljubljana-castle-history-v2",
+        "slovenia-ptuj-castle-history-v2",
+        "slovenia-vinarium-tower-landmarks-v2"
+      ]
+    },
+    {
+      "id": "si-order-north-south-country",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke diese Orte von Nord nach Süd an.",
+        "hu": "Kattints ezekre a helyekre északról délre.",
+        "ro": "Apasă aceste locuri de la nord la sud.",
+        "en": "Click these places from north to south."
+      },
+      "poiIds": [
+        "slovenia-grad-castle-goricko-landmarks-v2",
+        "slovenia-murska-sobota-cities-v2",
+        "slovenia-ljubljana-castle-history-v2",
+        "slovenia-piran-walls-history-v2"
+      ],
+      "orderedPoiIds": [
+        "slovenia-grad-castle-goricko-landmarks-v2",
+        "slovenia-murska-sobota-cities-v2",
+        "slovenia-ljubljana-castle-history-v2",
+        "slovenia-piran-walls-history-v2"
+      ]
+    },
+    {
+      "id": "si-route-karst-trio",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke der Reihe nach: Burg Predjama, Höhle von Postojna, Höhlen von Škocjan.",
+        "hu": "Kattints sorrendben: Predjama vára, Postojnai-cseppkőbarlang, Škocjan-barlangrendszer.",
+        "ro": "Apasă în ordine: Castelul Predjama, Peștera Postojna, Peșterile Škocjan.",
+        "en": "Click in order: Predjama Castle, Postojna Cave, Škocjan Caves."
+      },
+      "poiIds": [
+        "slovenia-predjama-castle-history-v2",
+        "slovenia-postojna-cave-nature-v2",
+        "slovenia-skocjan-caves-nature-v2"
+      ],
+      "orderedPoiIds": [
+        "slovenia-predjama-castle-history-v2",
+        "slovenia-postojna-cave-nature-v2",
+        "slovenia-skocjan-caves-nature-v2"
+      ]
+    },
+    {
+      "id": "si-route-soca-valley",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke der Reihe nach: Bovec, Kobarid-Ossarium, Tolminer Klammen.",
+        "hu": "Kattints sorrendben: Bovec, kobaridi osszárium, Tolmin-szurdok.",
+        "ro": "Apasă în ordine: Bovec, Osuarul din Kobarid, Cheile Tolmin.",
+        "en": "Click in order: Bovec, Kobarid Ossuary, Tolmin Gorges."
+      },
+      "poiIds": [
+        "slovenia-bovec-cities-v2",
+        "slovenia-kobarid-ossuary-history-v2",
+        "slovenia-tolmin-gorges-nature-v2"
+      ],
+      "orderedPoiIds": [
+        "slovenia-bovec-cities-v2",
+        "slovenia-kobarid-ossuary-history-v2",
+        "slovenia-tolmin-gorges-nature-v2"
+      ]
+    },
+    {
+      "id": "si-route-bohinj-highlands",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke der Reihe nach: Bohinjer See, Savica-Wasserfall, Vogel.",
+        "hu": "Kattints sorrendben: Bohinji-tó, Savica-vízesés, Vogel.",
+        "ro": "Apasă în ordine: Lacul Bohinj, Cascada Savica, Vogel.",
+        "en": "Click in order: Lake Bohinj, Savica Waterfall, Vogel."
+      },
+      "poiIds": [
+        "slovenia-lake-bohinj-nature-v2",
+        "slovenia-savica-waterfall-nature-v2",
+        "slovenia-vogel-relief-v2"
+      ],
+      "orderedPoiIds": [
+        "slovenia-lake-bohinj-nature-v2",
+        "slovenia-savica-waterfall-nature-v2",
+        "slovenia-vogel-relief-v2"
+      ]
+    },
+    {
+      "id": "si-route-coastal-line",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke der Reihe nach: Hafen von Koper, Naturpark Strunjan, Stadtmauern von Piran.",
+        "hu": "Kattints sorrendben: Koper kikötője, Strunjan Természetvédelmi Park, Piran városfalai.",
+        "ro": "Apasă în ordine: Portul Koper, Parcul Natural Strunjan, Zidurile orașului Piran.",
+        "en": "Click in order: Port of Koper, Strunjan Nature Park, Piran City Walls."
+      },
+      "poiIds": [
+        "slovenia-luka-koper-economic-v2",
+        "slovenia-strunjan-nature-park-life-v2",
+        "slovenia-piran-walls-history-v2"
+      ],
+      "orderedPoiIds": [
+        "slovenia-luka-koper-economic-v2",
+        "slovenia-strunjan-nature-park-life-v2",
+        "slovenia-piran-walls-history-v2"
+      ]
+    }
+  ]
+}

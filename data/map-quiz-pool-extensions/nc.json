@@ -1,0 +1,309 @@
+{
+  "nc": [
+    {
+      "id": "nc-find-dumbea",
+      "type": "find_poi",
+      "targetPoiId": "newcaledonia-dumbea-cities-v2",
+      "question": {
+        "de": "Finde Dumbéa nördlich von Nouméa.",
+        "hu": "Keresd meg Dumbéát Nouméától északra.",
+        "ro": "Găsește Dumbéa la nord de Nouméa.",
+        "en": "Find Dumbéa north of Nouméa."
+      }
+    },
+    {
+      "id": "nc-find-paita",
+      "type": "find_poi",
+      "targetPoiId": "newcaledonia-paita-cities-v2",
+      "question": {
+        "de": "Finde Païta westlich von Nouméa.",
+        "hu": "Keresd meg Païtát Nouméától nyugatra.",
+        "ro": "Găsește Païta la vest de Nouméa.",
+        "en": "Find Païta west of Nouméa."
+      }
+    },
+    {
+      "id": "nc-find-poindimie",
+      "type": "find_poi",
+      "targetPoiId": "newcaledonia-poindimie-cities-v2",
+      "question": {
+        "de": "Finde Poindimié an der Ostküste.",
+        "hu": "Keresd meg Poindimiét a keleti parton.",
+        "ro": "Găsește Poindimié pe coasta de est.",
+        "en": "Find Poindimié on the east coast."
+      }
+    },
+    {
+      "id": "nc-find-hienghene",
+      "type": "find_poi",
+      "targetPoiId": "newcaledonia-hienghene-cities-v2",
+      "question": {
+        "de": "Finde Hienghène im Nordosten der Hauptinsel.",
+        "hu": "Keresd meg Hienghène-t a fősziget északkeleti részén.",
+        "ro": "Găsește Hienghène în nord-estul insulei principale.",
+        "en": "Find Hienghène in the northeast of the main island."
+      }
+    },
+    {
+      "id": "nc-find-lifou",
+      "type": "find_poi",
+      "targetPoiId": "newcaledonia-lifou-cities-v2",
+      "question": {
+        "de": "Finde Lifou in den Loyalitätsinseln.",
+        "hu": "Keresd meg Lifout a Loyalty-szigeteken.",
+        "ro": "Găsește Lifou în Insulele Loialității.",
+        "en": "Find Lifou in the Loyalty Islands."
+      }
+    },
+    {
+      "id": "nc-find-ouvea",
+      "type": "find_poi",
+      "targetPoiId": "newcaledonia-ouvea-cities-v2",
+      "question": {
+        "de": "Finde Ouvéa nördlich von Lifou.",
+        "hu": "Keresd meg Ouvéát Lifoutól északra.",
+        "ro": "Găsește Ouvéa la nord de Lifou.",
+        "en": "Find Ouvéa north of Lifou."
+      }
+    },
+    {
+      "id": "nc-find-ile-des-pins",
+      "type": "find_poi",
+      "targetPoiId": "newcaledonia-ile-des-pins-cities-v2",
+      "question": {
+        "de": "Finde die Île des Pins südöstlich von Grande Terre.",
+        "hu": "Keresd meg az Île des Pins szigetét Grande Terre délkeleti oldalánál.",
+        "ro": "Găsește Insula Pinilor la sud-est de Grande Terre.",
+        "en": "Find the Isle of Pines southeast of Grande Terre."
+      }
+    },
+    {
+      "id": "nc-region-south-clue",
+      "type": "find_region",
+      "targetRegionId": "NCL-1259",
+      "question": {
+        "de": "Finde die Provinz mit Nouméa und der Île des Pins.",
+        "hu": "Keresd meg azt a tartományt, amelyhez Nouméa és az Île des Pins tartozik.",
+        "ro": "Găsește provincia care include Nouméa și Insula Pinilor.",
+        "en": "Find the province that includes Nouméa and the Isle of Pines."
+      }
+    },
+    {
+      "id": "nc-region-north-clue",
+      "type": "find_region",
+      "targetRegionId": "NCL-559",
+      "question": {
+        "de": "Finde die Provinz, zu der Koné und Koumac gehören.",
+        "hu": "Keresd meg azt a tartományt, amelyhez Koné és Koumac tartozik.",
+        "ro": "Găsește provincia din care fac parte Koné și Koumac.",
+        "en": "Find the province where Koné and Koumac are located."
+      }
+    },
+    {
+      "id": "nc-region-loyalty-clue",
+      "type": "find_region",
+      "targetRegionId": "NCL-1258",
+      "question": {
+        "de": "Finde die Provinz aus Lifou, Maré und Ouvéa.",
+        "hu": "Keresd meg a Lifou, Maré és Ouvéa szigeteiből álló tartományt.",
+        "ro": "Găsește provincia formată din Lifou, Maré și Ouvéa.",
+        "en": "Find the province made up of Lifou, Maré, and Ouvéa."
+      }
+    },
+    {
+      "id": "nc-odd-island-lifou",
+      "type": "odd_one_out",
+      "poiIds": [
+        "newcaledonia-lifou-cities-v2",
+        "newcaledonia-kone-cities-v2",
+        "newcaledonia-bourail-cities-v2",
+        "newcaledonia-poindimie-cities-v2"
+      ],
+      "targetPoiId": "newcaledonia-lifou-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte ist eine Insel und kein Ort auf Grande Terre?",
+        "hu": "Melyik ezek közül egy sziget, és nem Grande Terre főszigetén fekszik?",
+        "ro": "Care dintre aceste locuri este o insulă și nu se află pe Grande Terre?",
+        "en": "Which of these places is an island rather than a place on Grande Terre?"
+      }
+    },
+    {
+      "id": "nc-odd-east-coast-hienghene",
+      "type": "odd_one_out",
+      "poiIds": [
+        "newcaledonia-hienghene-cities-v2",
+        "newcaledonia-koumac-cities-v2",
+        "newcaledonia-bourail-cities-v2",
+        "newcaledonia-la-foa-cities-v2"
+      ],
+      "targetPoiId": "newcaledonia-hienghene-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt an der Ostküste?",
+        "hu": "Melyik hely fekszik a keleti parton?",
+        "ro": "Care dintre aceste locuri se află pe coasta de est?",
+        "en": "Which of these places lies on the east coast?"
+      }
+    },
+    {
+      "id": "nc-odd-farthest-south-isle-pines",
+      "type": "odd_one_out",
+      "poiIds": [
+        "newcaledonia-ile-des-pins-cities-v2",
+        "newcaledonia-koumac-cities-v2",
+        "newcaledonia-noumea-cities-v2",
+        "newcaledonia-mare-cities-v2"
+      ],
+      "targetPoiId": "newcaledonia-ile-des-pins-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten südlich?",
+        "hu": "Melyik hely fekszik a legdélebbre?",
+        "ro": "Care dintre aceste locuri se află cel mai la sud?",
+        "en": "Which of these places lies farthest south?"
+      }
+    },
+    {
+      "id": "nc-odd-farthest-north-belep",
+      "type": "odd_one_out",
+      "poiIds": [
+        "newcaledonia-belep-cities-v2",
+        "newcaledonia-bourail-cities-v2",
+        "newcaledonia-yate-cities-v2",
+        "newcaledonia-la-foa-cities-v2"
+      ],
+      "targetPoiId": "newcaledonia-belep-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten nördlich?",
+        "hu": "Melyik hely fekszik a legészakabbra?",
+        "ro": "Care dintre aceste locuri se află cel mai la nord?",
+        "en": "Which of these places lies farthest north?"
+      }
+    },
+    {
+      "id": "nc-odd-loyalty-fayaoue",
+      "type": "odd_one_out",
+      "poiIds": [
+        "newcaledonia-fayaoue-cities-v2",
+        "newcaledonia-bourail-cities-v2",
+        "newcaledonia-kone-cities-v2",
+        "newcaledonia-yate-cities-v2"
+      ],
+      "targetPoiId": "newcaledonia-fayaoue-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt auf den Loyalitätsinseln?",
+        "hu": "Melyik hely található a Loyalty-szigeteken?",
+        "ro": "Care dintre aceste locuri se află în Insulele Loialității?",
+        "en": "Which of these places is in the Loyalty Islands?"
+      }
+    },
+    {
+      "id": "nc-order-west-east-north-arc",
+      "type": "sequence",
+      "poiIds": [
+        "newcaledonia-belep-cities-v2",
+        "newcaledonia-koumac-cities-v2",
+        "newcaledonia-kone-cities-v2",
+        "newcaledonia-poindimie-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "newcaledonia-belep-cities-v2",
+        "newcaledonia-koumac-cities-v2",
+        "newcaledonia-kone-cities-v2",
+        "newcaledonia-poindimie-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Bélep, Koumac, Koné und Poindimié von Westen nach Osten an.",
+        "hu": "Kattints Bélepre, Koumacra, Konéra és Poindimiére nyugatról keletre.",
+        "ro": "Apasă Bélep, Koumac, Koné și Poindimié de la vest la est.",
+        "en": "Click Bélep, Koumac, Koné, and Poindimié from west to east."
+      }
+    },
+    {
+      "id": "nc-order-north-south-west-coast",
+      "type": "sequence",
+      "poiIds": [
+        "newcaledonia-poum-cities-v2",
+        "newcaledonia-koumac-cities-v2",
+        "newcaledonia-kone-cities-v2",
+        "newcaledonia-bourail-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "newcaledonia-poum-cities-v2",
+        "newcaledonia-koumac-cities-v2",
+        "newcaledonia-kone-cities-v2",
+        "newcaledonia-bourail-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Poum, Koumac, Koné und Bourail von Norden nach Süden an.",
+        "hu": "Kattints Poumra, Koumacra, Konéra és Bourailra északról délre.",
+        "ro": "Apasă Poum, Koumac, Koné și Bourail de la nord la sud.",
+        "en": "Click Poum, Koumac, Koné, and Bourail from north to south."
+      }
+    },
+    {
+      "id": "nc-order-north-south-east-coast",
+      "type": "sequence",
+      "poiIds": [
+        "newcaledonia-hienghene-cities-v2",
+        "newcaledonia-poindimie-cities-v2",
+        "newcaledonia-houailou-cities-v2",
+        "newcaledonia-thio-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "newcaledonia-hienghene-cities-v2",
+        "newcaledonia-poindimie-cities-v2",
+        "newcaledonia-houailou-cities-v2",
+        "newcaledonia-thio-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Hienghène, Poindimié, Houaïlou und Thio von Norden nach Süden an.",
+        "hu": "Kattints Hienghène-re, Poindimiére, Houaïloura és Thióra északról délre.",
+        "ro": "Apasă Hienghène, Poindimié, Houaïlou și Thio de la nord la sud.",
+        "en": "Click Hienghène, Poindimié, Houaïlou, and Thio from north to south."
+      }
+    },
+    {
+      "id": "nc-order-north-south-islands",
+      "type": "sequence",
+      "poiIds": [
+        "newcaledonia-ouvea-cities-v2",
+        "newcaledonia-lifou-cities-v2",
+        "newcaledonia-mare-cities-v2",
+        "newcaledonia-ile-des-pins-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "newcaledonia-ouvea-cities-v2",
+        "newcaledonia-lifou-cities-v2",
+        "newcaledonia-mare-cities-v2",
+        "newcaledonia-ile-des-pins-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Ouvéa, Lifou, Maré und die Île des Pins von Norden nach Süden an.",
+        "hu": "Kattints Ouvéára, Lifoura, Maréra és az Île des Pins szigetére északról délre.",
+        "ro": "Apasă Ouvéa, Lifou, Maré și Insula Pinilor de la nord la sud.",
+        "en": "Click Ouvéa, Lifou, Maré, and the Isle of Pines from north to south."
+      }
+    },
+    {
+      "id": "nc-order-west-east-southern-mainland",
+      "type": "sequence",
+      "poiIds": [
+        "newcaledonia-paita-cities-v2",
+        "newcaledonia-noumea-cities-v2",
+        "newcaledonia-plum-cities-v2",
+        "newcaledonia-yate-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "newcaledonia-paita-cities-v2",
+        "newcaledonia-noumea-cities-v2",
+        "newcaledonia-plum-cities-v2",
+        "newcaledonia-yate-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Païta, Nouméa, Plum und Yaté von Westen nach Osten an.",
+        "hu": "Kattints Païtára, Nouméára, Plumra és Yatéra nyugatról keletre.",
+        "ro": "Apasă Païta, Nouméa, Plum și Yaté de la vest la est.",
+        "en": "Click Païta, Nouméa, Plum, and Yaté from west to east."
+      }
+    }
+  ]
+}

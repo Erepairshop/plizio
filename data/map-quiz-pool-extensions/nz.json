@@ -1,0 +1,304 @@
+{
+  "nz": [
+    {
+      "id": "nz-find-hamilton",
+      "type": "find_poi",
+      "targetPoiId": "new-zealand-hamilton-cities-v2",
+      "question": {
+        "de": "Finde Hamilton im Landesinneren der Waikato-Region.",
+        "hu": "Keresd meg Hamiltont a Waikato régió belső részén.",
+        "ro": "Găsește Hamilton în interiorul regiunii Waikato.",
+        "en": "Find Hamilton in the inland Waikato region."
+      }
+    },
+    {
+      "id": "nz-find-rotorua",
+      "type": "find_poi",
+      "targetPoiId": "new-zealand-rotorua-cities-v2",
+      "question": {
+        "de": "Klicke auf Rotorua südlich der Bay of Plenty.",
+        "hu": "Kattints Rotoruára a Bay of Plentytől délre.",
+        "ro": "Apasă pe Rotorua, la sud de Bay of Plenty.",
+        "en": "Click Rotorua south of the Bay of Plenty."
+      }
+    },
+    {
+      "id": "nz-find-dunedin",
+      "type": "find_poi",
+      "targetPoiId": "new-zealand-dunedin-cities-v2",
+      "question": {
+        "de": "Finde Dunedin an der Südostküste der Südinsel.",
+        "hu": "Keresd meg Dunedint a Déli-sziget délkeleti partján.",
+        "ro": "Găsește Dunedin pe coasta de sud-est a Insulei de Sud.",
+        "en": "Find Dunedin on the southeastern coast of the South Island."
+      }
+    },
+    {
+      "id": "nz-find-nelson",
+      "type": "find_poi",
+      "targetPoiId": "new-zealand-nelson-cities-v2",
+      "question": {
+        "de": "Finde Nelson an der Nordspitze der Südinsel.",
+        "hu": "Keresd meg Nelsont a Déli-sziget északi csücskén.",
+        "ro": "Găsește Nelson la vârful nordic al Insulei de Sud.",
+        "en": "Find Nelson at the northern tip of the South Island."
+      }
+    },
+    {
+      "id": "nz-find-invercargill",
+      "type": "find_poi",
+      "targetPoiId": "new-zealand-invercargill-cities-v2",
+      "question": {
+        "de": "Klicke auf Invercargill im tiefen Süden Neuseelands.",
+        "hu": "Kattints Invercargillre Új-Zéland legdélibb nagyvárosi térségében.",
+        "ro": "Apasă pe Invercargill în extremul sud al Noii Zeelande.",
+        "en": "Click Invercargill in the deep south of New Zealand."
+      }
+    },
+    {
+      "id": "nz-region-waikato",
+      "type": "find_region",
+      "targetRegionId": "NZL-5468",
+      "question": {
+        "de": "Klicke auf Waikato südlich der Region Auckland.",
+        "hu": "Kattints Waikato régiójára Aucklandtől délre.",
+        "ro": "Apasă pe Waikato, la sud de regiunea Auckland.",
+        "en": "Click Waikato south of the Auckland region."
+      }
+    },
+    {
+      "id": "nz-region-wellington",
+      "type": "find_region",
+      "targetRegionId": "NZL-5469",
+      "question": {
+        "de": "Finde die Region Wellington an der Südspitze der Nordinsel.",
+        "hu": "Keresd meg Wellington régióját az Északi-sziget déli csücskén.",
+        "ro": "Găsește regiunea Wellington la capătul sudic al Insulei de Nord.",
+        "en": "Find the Wellington region at the southern tip of the North Island."
+      }
+    },
+    {
+      "id": "nz-region-northland",
+      "type": "find_region",
+      "targetRegionId": "NZL-3404",
+      "question": {
+        "de": "Klicke auf Northland im äußersten Norden des Landes.",
+        "hu": "Kattints Northland régiójára az ország legészakibb részén.",
+        "ro": "Apasă pe Northland, în extremul nord al țării.",
+        "en": "Click Northland in the far north of the country."
+      }
+    },
+    {
+      "id": "nz-region-otago",
+      "type": "find_region",
+      "targetRegionId": "NZL-3407",
+      "question": {
+        "de": "Finde Otago auf der südlichen Hälfte der Südinsel.",
+        "hu": "Keresd meg Otagót a Déli-sziget déli felén.",
+        "ro": "Găsește Otago în jumătatea sudică a Insulei de Sud.",
+        "en": "Find Otago on the southern half of the South Island."
+      }
+    },
+    {
+      "id": "nz-region-west-coast",
+      "type": "find_region",
+      "targetRegionId": "NZL-3406",
+      "question": {
+        "de": "Klicke auf die West Coast an der Tasmansee.",
+        "hu": "Kattints a West Coast régióra a Tasman-tenger partján.",
+        "ro": "Apasă pe regiunea West Coast de la Marea Tasmaniei.",
+        "en": "Click the West Coast region on the Tasman Sea."
+      }
+    },
+    {
+      "id": "nz-odd-south-island-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "new-zealand-hamilton-cities-v2",
+        "new-zealand-rotorua-cities-v2",
+        "new-zealand-nelson-cities-v2"
+      ],
+      "targetPoiId": "new-zealand-nelson-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt auf der Südinsel?",
+        "hu": "E városok közül melyik fekszik a Déli-szigeten?",
+        "ro": "Care dintre aceste orașe se află pe Insula de Sud?",
+        "en": "Which of these cities is on the South Island?"
+      }
+    },
+    {
+      "id": "nz-odd-farthest-north",
+      "type": "odd_one_out",
+      "poiIds": [
+        "new-zealand-whangarei-cities-v2",
+        "new-zealand-auckland-cities-v2",
+        "new-zealand-wellington-cities-v2"
+      ],
+      "targetPoiId": "new-zealand-whangarei-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten im Norden?",
+        "hu": "E városok közül melyik fekszik a legészakabbra?",
+        "ro": "Care dintre aceste orașe se află cel mai la nord?",
+        "en": "Which of these cities lies farthest north?"
+      }
+    },
+    {
+      "id": "nz-odd-southland-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "new-zealand-queenstown-cities-v2",
+        "new-zealand-dunedin-cities-v2",
+        "new-zealand-invercargill-cities-v2"
+      ],
+      "targetPoiId": "new-zealand-invercargill-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt in Southland?",
+        "hu": "E városok közül melyik található Southland régióban?",
+        "ro": "Care dintre aceste orașe se află în Southland?",
+        "en": "Which of these cities is in Southland?"
+      }
+    },
+    {
+      "id": "nz-odd-cook-strait-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "new-zealand-nelson-cities-v2",
+        "new-zealand-wellington-cities-v2",
+        "new-zealand-hamilton-cities-v2"
+      ],
+      "targetPoiId": "new-zealand-wellington-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt direkt an der Cookstraße?",
+        "hu": "E városok közül melyik fekszik közvetlenül a Cook-szorosnál?",
+        "ro": "Care dintre aceste orașe se află direct la strâmtoarea Cook?",
+        "en": "Which of these cities lies directly on Cook Strait?"
+      }
+    },
+    {
+      "id": "nz-odd-west-coast-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "new-zealand-greymouth-cities-v2",
+        "new-zealand-christchurch-cities-v2",
+        "new-zealand-blenheim-cities-v2"
+      ],
+      "targetPoiId": "new-zealand-greymouth-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt an der Westküste der Südinsel?",
+        "hu": "E városok közül melyik fekszik a Déli-sziget nyugati partján?",
+        "ro": "Care dintre aceste orașe se află pe coasta vestică a Insulei de Sud?",
+        "en": "Which of these cities is on the west coast of the South Island?"
+      }
+    },
+    {
+      "id": "nz-sequence-northland-to-bay-of-plenty",
+      "type": "sequence",
+      "poiIds": [
+        "new-zealand-whangarei-cities-v2",
+        "new-zealand-auckland-cities-v2",
+        "new-zealand-hamilton-cities-v2",
+        "new-zealand-tauranga-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "new-zealand-whangarei-cities-v2",
+        "new-zealand-auckland-cities-v2",
+        "new-zealand-hamilton-cities-v2",
+        "new-zealand-tauranga-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Whangārei, Auckland, Hamilton und Tauranga von Norden nach Süden an.",
+        "hu": "Kattints Whangāreire, Aucklandre, Hamiltonra és Taurangára északról délre.",
+        "ro": "Apasă pe Whangārei, Auckland, Hamilton și Tauranga de la nord la sud.",
+        "en": "Click Whangārei, Auckland, Hamilton and Tauranga from north to south."
+      }
+    },
+    {
+      "id": "nz-sequence-upper-north-island-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "new-zealand-whangarei-cities-v2",
+        "new-zealand-auckland-cities-v2",
+        "new-zealand-hamilton-cities-v2",
+        "new-zealand-rotorua-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "new-zealand-whangarei-cities-v2",
+        "new-zealand-auckland-cities-v2",
+        "new-zealand-hamilton-cities-v2",
+        "new-zealand-rotorua-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Whangārei, Auckland, Hamilton und Rotorua von Westen nach Osten an.",
+        "hu": "Kattints Whangāreire, Aucklandre, Hamiltonra és Rotoruára nyugatról keletre.",
+        "ro": "Apasă pe Whangārei, Auckland, Hamilton și Rotorua de la vest la est.",
+        "en": "Click Whangārei, Auckland, Hamilton and Rotorua from west to east."
+      }
+    },
+    {
+      "id": "nz-sequence-south-island-south-north",
+      "type": "sequence",
+      "poiIds": [
+        "new-zealand-invercargill-cities-v2",
+        "new-zealand-dunedin-cities-v2",
+        "new-zealand-christchurch-cities-v2",
+        "new-zealand-nelson-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "new-zealand-invercargill-cities-v2",
+        "new-zealand-dunedin-cities-v2",
+        "new-zealand-christchurch-cities-v2",
+        "new-zealand-nelson-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Invercargill, Dunedin, Christchurch und Nelson von Süden nach Norden an.",
+        "hu": "Kattints Invercargillre, Dunedinre, Christchurchre és Nelsonra délről északra.",
+        "ro": "Apasă pe Invercargill, Dunedin, Christchurch și Nelson de la sud la nord.",
+        "en": "Click Invercargill, Dunedin, Christchurch and Nelson from south to north."
+      }
+    },
+    {
+      "id": "nz-sequence-south-island-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "new-zealand-greymouth-cities-v2",
+        "new-zealand-christchurch-cities-v2",
+        "new-zealand-kaikoura-cities-v2",
+        "new-zealand-blenheim-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "new-zealand-greymouth-cities-v2",
+        "new-zealand-christchurch-cities-v2",
+        "new-zealand-kaikoura-cities-v2",
+        "new-zealand-blenheim-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Greymouth, Christchurch, Kaikōura und Blenheim von Westen nach Osten an.",
+        "hu": "Kattints Greymouthra, Christchurchre, Kaikōurára és Blenheimre nyugatról keletre.",
+        "ro": "Apasă pe Greymouth, Christchurch, Kaikōura și Blenheim de la vest la est.",
+        "en": "Click Greymouth, Christchurch, Kaikōura and Blenheim from west to east."
+      }
+    },
+    {
+      "id": "nz-sequence-east-side-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "new-zealand-gisborne-cities-v2",
+        "new-zealand-hastings-cities-v2",
+        "new-zealand-wellington-cities-v2",
+        "new-zealand-timaru-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "new-zealand-gisborne-cities-v2",
+        "new-zealand-hastings-cities-v2",
+        "new-zealand-wellington-cities-v2",
+        "new-zealand-timaru-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Gisborne, Hastings, Wellington und Timaru von Norden nach Süden an.",
+        "hu": "Kattints Gisborne-ra, Hastingsre, Wellingtonra és Timarura északról délre.",
+        "ro": "Apasă pe Gisborne, Hastings, Wellington și Timaru de la nord la sud.",
+        "en": "Click Gisborne, Hastings, Wellington and Timaru from north to south."
+      }
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "is": [
+    {
+      "id": "is-find-isafjordur-extra",
+      "type": "find_poi",
+      "targetPoiId": "iceland-isafjordur-cities-v2",
+      "question": {
+        "de": "Finde Ísafjörður, die wichtigste Stadt der Westfjorde.",
+        "hu": "Keresd meg Ísafjörðurt, a Nyugati-fjordok legfontosabb városát.",
+        "ro": "Găsește Ísafjörður, principalul oraș din Fiordurile de Vest.",
+        "en": "Find Ísafjörður, the main town of the Westfjords."
+      }
+    },
+    {
+      "id": "is-find-egilsstadir-extra",
+      "type": "find_poi",
+      "targetPoiId": "city-egilsstadir-extra",
+      "question": {
+        "de": "Finde Egilsstaðir im Osten Islands.",
+        "hu": "Keresd meg Egilsstaðirt Izland keleti részén.",
+        "ro": "Găsește Egilsstaðir în estul Islandei.",
+        "en": "Find Egilsstaðir in eastern Iceland."
+      }
+    },
+    {
+      "id": "is-find-vik-extra",
+      "type": "find_poi",
+      "targetPoiId": "iceland-vik-i-myrdal-cities-v2",
+      "question": {
+        "de": "Finde Vík í Mýrdal an der Südküste.",
+        "hu": "Keresd meg Vík í Mýrdalt a déli parton.",
+        "ro": "Găsește Vík í Mýrdal pe coasta de sud.",
+        "en": "Find Vík í Mýrdal on the south coast."
+      }
+    },
+    {
+      "id": "is-find-dettifoss-extra",
+      "type": "find_poi",
+      "targetPoiId": "iceland-dettifoss-nature-v2",
+      "question": {
+        "de": "Finde den Wasserfall Dettifoss im Nordosten.",
+        "hu": "Keresd meg az északkeleti Dettifoss-vízesést.",
+        "ro": "Găsește cascada Dettifoss din nord-est.",
+        "en": "Find Dettifoss waterfall in the northeast."
+      }
+    },
+    {
+      "id": "is-find-thingvellir-extra",
+      "type": "find_poi",
+      "targetPoiId": "iceland-thingvellir-history-v2",
+      "question": {
+        "de": "Finde Þingvellir, den historischen Versammlungsort im Südwesten.",
+        "hu": "Keresd meg Þingvellirt, a történelmi gyűléshelyet délnyugaton.",
+        "ro": "Găsește Þingvellir, locul istoric de adunare din sud-vest.",
+        "en": "Find Þingvellir, the historic assembly site in the southwest."
+      }
+    },
+    {
+      "id": "is-find-blue-lagoon-extra",
+      "type": "find_poi",
+      "targetPoiId": "iceland-blue-lagoon-grindavik-cities-v2",
+      "question": {
+        "de": "Finde die Blaue Lagune bei Grindavík auf der Reykjanes-Halbinsel.",
+        "hu": "Keresd meg a Kék Lagúnát Grindavík mellett, a Reykjanes-félszigeten.",
+        "ro": "Găsește Laguna Albastră de lângă Grindavík, în peninsula Reykjanes.",
+        "en": "Find the Blue Lagoon near Grindavík on the Reykjanes Peninsula."
+      }
+    },
+    {
+      "id": "is-region-sudurnes-extra",
+      "type": "find_region",
+      "targetRegionId": "IS-003",
+      "question": {
+        "de": "Klicke auf Suðurnes im Südwesten Islands.",
+        "hu": "Kattints Suðurnes régióra Izland délnyugati részén.",
+        "ro": "Apasă pe Suðurnes, în sud-vestul Islandei.",
+        "en": "Click Suðurnes in southwestern Iceland."
+      }
+    },
+    {
+      "id": "is-region-vesturland-extra",
+      "type": "find_region",
+      "targetRegionId": "IS-006",
+      "question": {
+        "de": "Finde die Region Vesturland westlich des Landesinneren.",
+        "hu": "Keresd meg Vesturland régiót a belső területektől nyugatra.",
+        "ro": "Găsește regiunea Vesturland, la vest de interiorul țării.",
+        "en": "Find the Vesturland region west of Iceland's interior."
+      }
+    },
+    {
+      "id": "is-region-northeast-extra",
+      "type": "find_region",
+      "targetRegionId": "IS-009",
+      "question": {
+        "de": "Klicke auf Norðurland eystra im Nordosten.",
+        "hu": "Kattints Norðurland eystra régióra északkeleten.",
+        "ro": "Apasă pe Norðurland eystra din nord-est.",
+        "en": "Click Norðurland eystra in the northeast."
+      }
+    },
+    {
+      "id": "is-region-south-extra",
+      "type": "find_region",
+      "targetRegionId": "IS-002",
+      "question": {
+        "de": "Finde Suðurland entlang eines großen Teils der Südküste.",
+        "hu": "Keresd meg Suðurland régiót, amely a déli part nagy részén fekszik.",
+        "ro": "Găsește Suðurland, întins de-a lungul unei mari părți a coastei sudice.",
+        "en": "Find Suðurland along much of the south coast."
+      }
+    },
+    {
+      "id": "is-odd-westfjords-town-extra",
+      "type": "odd_one_out",
+      "poiIds": [
+        "iceland-patreksfjordur-cities-v2",
+        "iceland-borgarnes-cities-v2",
+        "iceland-selfoss-cities-v2",
+        "iceland-hella-cities-v2"
+      ],
+      "targetPoiId": "iceland-patreksfjordur-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt in den Westfjorden?",
+        "hu": "Ezek közül melyik hely fekszik a Nyugati-fjordokban?",
+        "ro": "Care dintre aceste locuri se află în Fiordurile de Vest?",
+        "en": "Which of these places is in the Westfjords?"
+      }
+    },
+    {
+      "id": "is-odd-waterfall-extra",
+      "type": "odd_one_out",
+      "poiIds": [
+        "iceland-dettifoss-nature-v2",
+        "iceland-myvatn-nature-v2",
+        "iceland-hekla-nature-v2",
+        "iceland-thingvallavatn-nature-v2"
+      ],
+      "targetPoiId": "iceland-dettifoss-nature-v2",
+      "question": {
+        "de": "Welcher dieser Orte ist ein Wasserfall?",
+        "hu": "Ezek közül melyik hely vízesés?",
+        "ro": "Care dintre aceste locuri este o cascadă?",
+        "en": "Which of these places is a waterfall?"
+      }
+    },
+    {
+      "id": "is-odd-reykjanes-extra",
+      "type": "odd_one_out",
+      "poiIds": [
+        "iceland-grindavik-cities-v2",
+        "iceland-borgarnes-cities-v2",
+        "iceland-hvolsvollur-cities-v2",
+        "iceland-hofn-cities-v2"
+      ],
+      "targetPoiId": "iceland-grindavik-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt auf der Reykjanes-Halbinsel?",
+        "hu": "Ezek közül melyik hely fekszik a Reykjanes-félszigeten?",
+        "ro": "Care dintre aceste locuri se află în peninsula Reykjanes?",
+        "en": "Which of these places lies on the Reykjanes Peninsula?"
+      }
+    },
+    {
+      "id": "is-odd-east-iceland-extra",
+      "type": "odd_one_out",
+      "poiIds": [
+        "iceland-seydisfjordur-cities-v2",
+        "iceland-selfoss-cities-v2",
+        "iceland-borgarnes-cities-v2",
+        "iceland-patreksfjordur-cities-v2"
+      ],
+      "targetPoiId": "iceland-seydisfjordur-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt in Ostisland?",
+        "hu": "Ezek közül melyik hely fekszik Kelet-Izlandon?",
+        "ro": "Care dintre aceste locuri se află în estul Islandei?",
+        "en": "Which of these places is in East Iceland?"
+      }
+    },
+    {
+      "id": "is-odd-furthest-north-extra",
+      "type": "odd_one_out",
+      "poiIds": [
+        "iceland-husavik-cities-v2",
+        "iceland-borgarnes-cities-v2",
+        "iceland-stykkisholmur-cities-v2",
+        "iceland-siglufjordur-cities-v2"
+      ],
+      "targetPoiId": "iceland-siglufjordur-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten nördlich?",
+        "hu": "Ezek közül melyik hely fekszik a legészakabbra?",
+        "ro": "Care dintre aceste locuri se află cel mai la nord?",
+        "en": "Which of these places lies furthest north?"
+      }
+    },
+    {
+      "id": "is-sequence-west-east-westfjords-north-extra",
+      "type": "sequence",
+      "poiIds": [
+        "iceland-patreksfjordur-cities-v2",
+        "iceland-isafjordur-cities-v2",
+        "iceland-holmavik-cities-v2",
+        "iceland-blonduos-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "iceland-patreksfjordur-cities-v2",
+        "iceland-isafjordur-cities-v2",
+        "iceland-holmavik-cities-v2",
+        "iceland-blonduos-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Patreksfjörður, Ísafjörður, Hólmavík und Blönduós von West nach Ost an.",
+        "hu": "Kattints Patreksfjörðurre, Ísafjörðurre, Hólmavíkra és Blönduósra nyugatról keletre.",
+        "ro": "Apasă Patreksfjörður, Ísafjörður, Hólmavík și Blönduós de la vest la est.",
+        "en": "Click Patreksfjörður, Ísafjörður, Hólmavík, and Blönduós from west to east."
+      }
+    },
+    {
+      "id": "is-sequence-west-east-south-coast-extra",
+      "type": "sequence",
+      "poiIds": [
+        "iceland-vestmannaeyjar-cities-v2",
+        "iceland-hvolsvollur-cities-v2",
+        "iceland-vik-i-myrdal-cities-v2",
+        "iceland-hofn-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "iceland-vestmannaeyjar-cities-v2",
+        "iceland-hvolsvollur-cities-v2",
+        "iceland-vik-i-myrdal-cities-v2",
+        "iceland-hofn-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Vestmannaeyjar, Hvolsvöllur, Vík í Mýrdal und Höfn von West nach Ost an.",
+        "hu": "Kattints Vestmannaeyjarra, Hvolsvöllurre, Vík í Mýrdalra és Höfnre nyugatról keletre.",
+        "ro": "Apasă Vestmannaeyjar, Hvolsvöllur, Vík í Mýrdal și Höfn de la vest la est.",
+        "en": "Click Vestmannaeyjar, Hvolsvöllur, Vík í Mýrdal, and Höfn from west to east."
+      }
+    },
+    {
+      "id": "is-sequence-north-south-eastfjords-extra",
+      "type": "sequence",
+      "poiIds": [
+        "iceland-vopnafjordur-cities-v2",
+        "city-egilsstadir-extra",
+        "iceland-djupivogur-cities-v2",
+        "iceland-hofn-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "iceland-vopnafjordur-cities-v2",
+        "city-egilsstadir-extra",
+        "iceland-djupivogur-cities-v2",
+        "iceland-hofn-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Vopnafjörður, Egilsstaðir, Djúpivogur und Höfn von Nord nach Süd an.",
+        "hu": "Kattints Vopnafjörðurre, Egilsstaðirra, Djúpivogurra és Höfnre északról délre.",
+        "ro": "Apasă Vopnafjörður, Egilsstaðir, Djúpivogur și Höfn de la nord la sud.",
+        "en": "Click Vopnafjörður, Egilsstaðir, Djúpivogur, and Höfn from north to south."
+      }
+    },
+    {
+      "id": "is-sequence-north-south-west-iceland-extra",
+      "type": "sequence",
+      "poiIds": [
+        "iceland-stykkisholmur-cities-v2",
+        "iceland-borgarnes-cities-v2",
+        "iceland-reykjavik-cities-v2",
+        "iceland-grindavik-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "iceland-stykkisholmur-cities-v2",
+        "iceland-borgarnes-cities-v2",
+        "iceland-reykjavik-cities-v2",
+        "iceland-grindavik-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Stykkishólmur, Borgarnes, Reykjavík und Grindavík von Nord nach Süd an.",
+        "hu": "Kattints Stykkishólmurra, Borgarnesre, Reykjavíkra és Grindavíkra északról délre.",
+        "ro": "Apasă Stykkishólmur, Borgarnes, Reykjavík și Grindavík de la nord la sud.",
+        "en": "Click Stykkishólmur, Borgarnes, Reykjavík, and Grindavík from north to south."
+      }
+    },
+    {
+      "id": "is-sequence-west-east-golden-circle-extra",
+      "type": "sequence",
+      "poiIds": [
+        "iceland-blue-lagoon-grindavik-cities-v2",
+        "iceland-thingvellir-history-v2",
+        "iceland-geysir-cities-v2",
+        "iceland-gullfoss-nature-v2"
+      ],
+      "orderedPoiIds": [
+        "iceland-blue-lagoon-grindavik-cities-v2",
+        "iceland-thingvellir-history-v2",
+        "iceland-geysir-cities-v2",
+        "iceland-gullfoss-nature-v2"
+      ],
+      "question": {
+        "de": "Klicke Blaue Lagune, Þingvellir, Geysir und Gullfoss von West nach Ost an.",
+        "hu": "Kattints a Kék Lagúnára, Þingvellirre, Geysirre és Gullfossra nyugatról keletre.",
+        "ro": "Apasă Laguna Albastră, Þingvellir, Geysir și Gullfoss de la vest la est.",
+        "en": "Click the Blue Lagoon, Þingvellir, Geysir, and Gullfoss from west to east."
+      }
+    }
+  ]
+}

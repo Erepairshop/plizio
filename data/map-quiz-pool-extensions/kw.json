@@ -1,0 +1,323 @@
+{
+  "kw": [
+    {
+      "id": "kw-find-hawally-extra",
+      "type": "find_poi",
+      "targetPoiId": "kw-hawally-cities-v2",
+      "question": {
+        "de": "Finde Hawalli auf der Karte.",
+        "hu": "Keresd meg Hawallit a térképen.",
+        "ro": "Găsește Hawalli pe hartă.",
+        "en": "Find Hawally on the map."
+      }
+    },
+    {
+      "id": "kw-find-bayan-extra",
+      "type": "find_poi",
+      "targetPoiId": "kw-bayan-cities-v2",
+      "question": {
+        "de": "Finde Bayan auf der Karte.",
+        "hu": "Keresd meg Bayant a térképen.",
+        "ro": "Găsește Bayan pe hartă.",
+        "en": "Find Bayan on the map."
+      }
+    },
+    {
+      "id": "kw-find-scientific-center-extra",
+      "type": "find_poi",
+      "targetPoiId": "scientific-center-landmarks-v2",
+      "question": {
+        "de": "Finde das Scientific Center auf der Küste.",
+        "hu": "Keresd meg a Scientific Centert a parton.",
+        "ro": "Găsește Scientific Center de pe coastă.",
+        "en": "Find the Scientific Center on the coast."
+      }
+    },
+    {
+      "id": "kw-find-mutla-battlefield-extra",
+      "type": "find_poi",
+      "targetPoiId": "mutla-ridge-battlefield-history-v2",
+      "question": {
+        "de": "Finde das Schlachtfeld am Mutla Ridge auf der Karte.",
+        "hu": "Keresd meg a Mutla-gerinc csataterét a térképen.",
+        "ro": "Găsește câmpul de luptă de la creasta Mutla pe hartă.",
+        "en": "Find the Mutla Ridge battlefield on the map."
+      }
+    },
+    {
+      "id": "kw-region-asimah-extra",
+      "type": "find_region",
+      "targetRegionId": "KWT-1663",
+      "question": {
+        "de": "Klicke auf die Region Al Asimah.",
+        "hu": "Kattints Al Asimah régiójára.",
+        "ro": "Apasă pe regiunea Al Asimah.",
+        "en": "Click the Al Asimah region."
+      }
+    },
+    {
+      "id": "kw-region-farwaniyah-extra",
+      "type": "find_region",
+      "targetRegionId": "KWT-1664",
+      "question": {
+        "de": "Klicke auf die Region Al Farwaniyah.",
+        "hu": "Kattints Al Farwaniyah régiójára.",
+        "ro": "Apasă pe regiunea Al Farwaniyah.",
+        "en": "Click the Al Farwaniyah region."
+      }
+    },
+    {
+      "id": "kw-region-hawalli-extra",
+      "type": "find_region",
+      "targetRegionId": "KWT-3506",
+      "question": {
+        "de": "Klicke auf die Region Hawalli.",
+        "hu": "Kattints Hawalli régiójára.",
+        "ro": "Apasă pe regiunea Hawalli.",
+        "en": "Click the Hawalli region."
+      }
+    },
+    {
+      "id": "kw-odd-northmost-city-extra",
+      "type": "odd_one_out",
+      "poiIds": [
+        "kw-al-jahra-cities-v2",
+        "kw-kuwait-city-cities-v2",
+        "kw-salmiya-cities-v2",
+        "kw-al-ahmadi-cities-v2"
+      ],
+      "targetPoiId": "kw-al-jahra-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt am weitesten nördlich?",
+        "hu": "Melyik város fekszik a legészakabbra?",
+        "ro": "Care oraș se află cel mai la nord?",
+        "en": "Which city lies furthest north?"
+      }
+    },
+    {
+      "id": "kw-odd-southmost-settlement-extra",
+      "type": "odd_one_out",
+      "poiIds": [
+        "kw-sabah-al-salem-cities-v2",
+        "kw-fintas-cities-v2",
+        "kw-al-ahmadi-cities-v2",
+        "kw-ali-sabah-al-salem-cities-v2"
+      ],
+      "targetPoiId": "kw-ali-sabah-al-salem-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt am weitesten südlich?",
+        "hu": "Melyik hely fekszik a legdélebbre?",
+        "ro": "Care loc se află cel mai la sud?",
+        "en": "Which place lies furthest south?"
+      }
+    },
+    {
+      "id": "kw-odd-westmost-city-extra",
+      "type": "odd_one_out",
+      "poiIds": [
+        "kw-farwaniya-cities-v2",
+        "kw-hawally-cities-v2",
+        "kw-salmiya-cities-v2",
+        "kw-al-jahra-cities-v2"
+      ],
+      "targetPoiId": "kw-al-jahra-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt am weitesten westlich?",
+        "hu": "Melyik város fekszik a legnyugatabbra?",
+        "ro": "Care oraș se află cel mai la vest?",
+        "en": "Which city lies furthest west?"
+      }
+    },
+    {
+      "id": "kw-odd-failaka-island-extra",
+      "type": "odd_one_out",
+      "poiIds": [
+        "failaka-hellenistic-ruins-history-v2",
+        "grand-mosque-landmarks-v2",
+        "scientific-center-landmarks-v2",
+        "jahra-red-fort-history-v2"
+      ],
+      "targetPoiId": "failaka-hellenistic-ruins-history-v2",
+      "question": {
+        "de": "Welcher Ort liegt auf der Insel Failaka statt auf dem Festland?",
+        "hu": "Melyik hely található Failaka szigetén, nem pedig a szárazföldön?",
+        "ro": "Care loc se află pe insula Failaka, nu pe continent?",
+        "en": "Which place is on Failaka Island rather than the mainland?"
+      }
+    },
+    {
+      "id": "kw-odd-mubarak-governorate-extra",
+      "type": "odd_one_out",
+      "poiIds": [
+        "kw-sabah-al-salem-cities-v2",
+        "kw-salmiya-cities-v2",
+        "kw-hawally-cities-v2",
+        "kw-bayan-cities-v2"
+      ],
+      "targetPoiId": "kw-sabah-al-salem-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt im Gouvernement Mubarak Al-Kabeer statt im Gouvernement Hawalli?",
+        "hu": "Melyik hely Mubarak Al-Kabeer kormányzóságban található Hawalli helyett?",
+        "ro": "Care loc se află în guvernoratul Mubarak Al-Kabeer, nu în guvernoratul Hawalli?",
+        "en": "Which place is in Mubarak Al-Kabeer Governorate rather than Hawalli Governorate?"
+      }
+    },
+    {
+      "id": "kw-odd-jahra-governorate-extra",
+      "type": "odd_one_out",
+      "poiIds": [
+        "jahra-red-fort-history-v2",
+        "souq-al-mubarakiya-landmarks-v2",
+        "kuwait-national-museum-landmarks-v2",
+        "shuwaikh-port-economic-v2"
+      ],
+      "targetPoiId": "jahra-red-fort-history-v2",
+      "question": {
+        "de": "Welcher Ort liegt im Gouvernement Al Jahrah statt im Gouvernement Al Asimah?",
+        "hu": "Melyik hely található Al Jahrah kormányzóságban Al Asimah helyett?",
+        "ro": "Care loc se află în guvernoratul Al Jahrah, nu în guvernoratul Al Asimah?",
+        "en": "Which place is in Al Jahrah Governorate rather than Al Asimah Governorate?"
+      }
+    },
+    {
+      "id": "kw-sequence-west-east-cities-coast-extra",
+      "type": "sequence",
+      "poiIds": [
+        "kw-al-jahra-cities-v2",
+        "kw-kuwait-city-cities-v2",
+        "kw-salmiya-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "kw-al-jahra-cities-v2",
+        "kw-kuwait-city-cities-v2",
+        "kw-salmiya-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Al Jahra, Kuwait-Stadt und Salmiya von Westen nach Osten an.",
+        "hu": "Kattints nyugatról keletre: Al Jahra, Kuvaitváros, Salmiya.",
+        "ro": "Apasă de la vest la est: Al Jahra, orașul Kuweit, Salmiya.",
+        "en": "Click Al Jahra, Kuwait City and Salmiya from west to east."
+      }
+    },
+    {
+      "id": "kw-sequence-north-south-urban-belt-extra",
+      "type": "sequence",
+      "poiIds": [
+        "kw-shuwaikh-cities-v2",
+        "kw-rawda-cities-v2",
+        "kw-khaitan-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "kw-shuwaikh-cities-v2",
+        "kw-rawda-cities-v2",
+        "kw-khaitan-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Shuwaikh, Rawda und Khaitan von Norden nach Süden an.",
+        "hu": "Kattints északról délre: Shuwaikh, Rawda, Khaitan.",
+        "ro": "Apasă de la nord la sud: Shuwaikh, Rawda, Khaitan.",
+        "en": "Click Shuwaikh, Rawda and Khaitan from north to south."
+      }
+    },
+    {
+      "id": "kw-sequence-west-east-farwaniya-hawalli-extra",
+      "type": "sequence",
+      "poiIds": [
+        "kw-ardhiya-cities-v2",
+        "kw-farwaniya-cities-v2",
+        "kw-bayan-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "kw-ardhiya-cities-v2",
+        "kw-farwaniya-cities-v2",
+        "kw-bayan-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Ardhiya, Farwaniya und Bayan von Westen nach Osten an.",
+        "hu": "Kattints nyugatról keletre: Ardhiya, Farwaniya, Bayan.",
+        "ro": "Apasă de la vest la est: Ardhiya, Farwaniya, Bayan.",
+        "en": "Click Ardhiya, Farwaniya and Bayan from west to east."
+      }
+    },
+    {
+      "id": "kw-sequence-north-south-hawalli-mubarak-extra",
+      "type": "sequence",
+      "poiIds": [
+        "kw-salmiya-cities-v2",
+        "kw-jabriya-cities-v2",
+        "kw-sabah-al-salem-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "kw-salmiya-cities-v2",
+        "kw-jabriya-cities-v2",
+        "kw-sabah-al-salem-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Salmiya, Jabriya und Sabah Al-Salem von Norden nach Süden an.",
+        "hu": "Kattints északról délre: Salmiya, Jabriya, Sabah Al-Salem.",
+        "ro": "Apasă de la nord la sud: Salmiya, Jabriya, Sabah Al-Salem.",
+        "en": "Click Salmiya, Jabriya and Sabah Al-Salem from north to south."
+      }
+    },
+    {
+      "id": "kw-sequence-west-east-coastal-landmarks-extra",
+      "type": "sequence",
+      "poiIds": [
+        "souq-al-mubarakiya-landmarks-v2",
+        "marina-crescent-landmarks-v2",
+        "scientific-center-landmarks-v2"
+      ],
+      "orderedPoiIds": [
+        "souq-al-mubarakiya-landmarks-v2",
+        "marina-crescent-landmarks-v2",
+        "scientific-center-landmarks-v2"
+      ],
+      "question": {
+        "de": "Klicke Souq Al Mubarakiya, Marina Crescent und das Scientific Center von Westen nach Osten an.",
+        "hu": "Kattints nyugatról keletre: Souq Al Mubarakiya, Marina Crescent, Scientific Center.",
+        "ro": "Apasă de la vest la est: Souq Al Mubarakiya, Marina Crescent, Scientific Center.",
+        "en": "Click Souq Al Mubarakiya, Marina Crescent and the Scientific Center from west to east."
+      }
+    },
+    {
+      "id": "kw-sequence-north-south-ridge-to-border-extra",
+      "type": "sequence",
+      "poiIds": [
+        "kuwait-al-mutla-ridge-cities-v2",
+        "kw-kuwait-city-cities-v2",
+        "kuwait-al-wafrah-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "kuwait-al-mutla-ridge-cities-v2",
+        "kw-kuwait-city-cities-v2",
+        "kuwait-al-wafrah-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Al Mutla Ridge, Kuwait-Stadt und Al Wafrah von Norden nach Süden an.",
+        "hu": "Kattints északról délre: Al Mutla Ridge, Kuvaitváros, Al Wafrah.",
+        "ro": "Apasă de la nord la sud: Al Mutla Ridge, orașul Kuweit, Al Wafrah.",
+        "en": "Click Al Mutla Ridge, Kuwait City and Al Wafrah from north to south."
+      }
+    },
+    {
+      "id": "kw-sequence-west-east-industrial-south-extra",
+      "type": "sequence",
+      "poiIds": [
+        "burgan-field-economic-v2",
+        "shuaiba-port-economic-v2",
+        "al-zour-refinery-economic-v2"
+      ],
+      "orderedPoiIds": [
+        "burgan-field-economic-v2",
+        "shuaiba-port-economic-v2",
+        "al-zour-refinery-economic-v2"
+      ],
+      "question": {
+        "de": "Klicke Burgan Field, Shuaiba Port und die Al Zour Raffinerie von Westen nach Osten an.",
+        "hu": "Kattints nyugatról keletre: Burgan Field, Shuaiba Port, Al Zour Refinery.",
+        "ro": "Apasă de la vest la est: Burgan Field, Shuaiba Port, rafinăria Al Zour.",
+        "en": "Click Burgan Field, Shuaiba Port and Al Zour Refinery from west to east."
+      }
+    }
+  ]
+}

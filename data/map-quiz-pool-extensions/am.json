@@ -1,0 +1,288 @@
+{
+  "am": [
+    {
+      "id": "am-find-vagharshapat",
+      "type": "find_poi",
+      "targetPoiId": "armenia-vagharshapat-cities-v2",
+      "question": {
+        "de": "Finde Wagharschapat westlich von Jerewan.",
+        "hu": "Keresd meg Vagarsapatot Jerevántól nyugatra.",
+        "ro": "Găsește Vagharshapat la vest de Erevan.",
+        "en": "Find Vagharshapat west of Yerevan."
+      }
+    },
+    {
+      "id": "am-find-dilijan",
+      "type": "find_poi",
+      "targetPoiId": "armenia-dilijan-cities-v2",
+      "question": {
+        "de": "Klicke auf Dilidschan im waldreichen Nordosten Armeniens.",
+        "hu": "Kattints Dilidzsánra Örményország erdős északkeleti részén.",
+        "ro": "Apasă pe Dilijan, în nord-estul împădurit al Armeniei.",
+        "en": "Click Dilijan in the forested northeast of Armenia."
+      }
+    },
+    {
+      "id": "am-find-goris",
+      "type": "find_poi",
+      "targetPoiId": "armenia-goris-cities-v2",
+      "question": {
+        "de": "Finde Goris in der südöstlichen Provinz Sjunik.",
+        "hu": "Keresd meg Goriszt a délkeleti Szjunik tartományban.",
+        "ro": "Găsește Goris în provincia sud-estică Syunik.",
+        "en": "Find Goris in the southeastern province of Syunik."
+      }
+    },
+    {
+      "id": "am-find-sevan",
+      "type": "find_poi",
+      "targetPoiId": "armenia-sevan-cities-v2",
+      "question": {
+        "de": "Finde Sewan am Nordwestufer des Sewansees.",
+        "hu": "Keresd meg Szevánt a Szeván-tó északnyugati partján.",
+        "ro": "Găsește Sevan pe țărmul nord-vestic al lacului Sevan.",
+        "en": "Find Sevan on the northwestern shore of Lake Sevan."
+      }
+    },
+    {
+      "id": "am-find-artashat",
+      "type": "find_poi",
+      "targetPoiId": "armenia-artashat-cities-v2",
+      "question": {
+        "de": "Klicke auf Artaschat südlich von Jerewan.",
+        "hu": "Kattints Artasatra Jerevántól délre.",
+        "ro": "Apasă pe Artașat, la sud de Erevan.",
+        "en": "Click Artashat south of Yerevan."
+      }
+    },
+    {
+      "id": "am-find-hrazdan",
+      "type": "find_poi",
+      "targetPoiId": "armenia-hrazdan-cities-v2",
+      "question": {
+        "de": "Finde Hrasdan zwischen Jerewan und dem Sewansee.",
+        "hu": "Keresd meg Hrazdant Jereván és a Szeván-tó között.",
+        "ro": "Găsește Hrazdan între Erevan și lacul Sevan.",
+        "en": "Find Hrazdan between Yerevan and Lake Sevan."
+      }
+    },
+    {
+      "id": "am-find-ashtarak",
+      "type": "find_poi",
+      "targetPoiId": "armenia-ashtarak-cities-v2",
+      "question": {
+        "de": "Finde Aschtarak nordwestlich von Jerewan.",
+        "hu": "Keresd meg Ashtarakot Jerevántól északnyugatra.",
+        "ro": "Găsește Aștarak la nord-vest de Erevan.",
+        "en": "Find Ashtarak northwest of Yerevan."
+      }
+    },
+    {
+      "id": "am-find-yeghegnadzor",
+      "type": "find_poi",
+      "targetPoiId": "armenia-yeghegnadzor-cities-v2",
+      "question": {
+        "de": "Klicke auf Jeghegnadsor in Vayots Dzor.",
+        "hu": "Kattints Jeghegnadzorra Vajoc Dzorban.",
+        "ro": "Apasă pe Yeghegnadzor în Vayots Dzor.",
+        "en": "Click Yeghegnadzor in Vayots Dzor."
+      }
+    },
+    {
+      "id": "am-region-tavush",
+      "type": "find_region",
+      "targetRegionId": "ARM-1670",
+      "question": {
+        "de": "Klicke auf die Provinz Tawusch.",
+        "hu": "Kattints a Tavus tartományra.",
+        "ro": "Apasă pe provincia Tavush.",
+        "en": "Click Tavush Province."
+      }
+    },
+    {
+      "id": "am-region-ararat",
+      "type": "find_region",
+      "targetRegionId": "ARM-1671",
+      "question": {
+        "de": "Klicke auf die Provinz Ararat.",
+        "hu": "Kattints az Ararat tartományra.",
+        "ro": "Apasă pe provincia Ararat.",
+        "en": "Click Ararat Province."
+      }
+    },
+    {
+      "id": "am-region-gegharkunik",
+      "type": "find_region",
+      "targetRegionId": "ARM-1672",
+      "question": {
+        "de": "Klicke auf die Provinz Gegharkunik.",
+        "hu": "Kattints a Gegarkunik tartományra.",
+        "ro": "Apasă pe provincia Gegharkunik.",
+        "en": "Click Gegharkunik Province."
+      }
+    },
+    {
+      "id": "am-region-aragatsotn",
+      "type": "find_region",
+      "targetRegionId": "ARM-1553",
+      "question": {
+        "de": "Klicke auf die Provinz Aragazotn.",
+        "hu": "Kattints az Aragacotn tartományra.",
+        "ro": "Apasă pe provincia Aragatsotn.",
+        "en": "Click Aragatsotn Province."
+      }
+    },
+    {
+      "id": "am-odd-not-sevan-basin",
+      "type": "odd_one_out",
+      "poiIds": [
+        "armenia-sevan-cities-v2",
+        "armenia-gavar-cities-v2",
+        "armenia-dilijan-cities-v2"
+      ],
+      "targetPoiId": "armenia-dilijan-cities-v2",
+      "question": {
+        "de": "Welche dieser Orte liegt nicht am Sewansee oder in seiner unmittelbaren Umgebung?",
+        "hu": "Melyik hely nem a Szeván-tónál vagy annak közvetlen környékén fekszik?",
+        "ro": "Care dintre aceste locuri nu se află pe lacul Sevan sau în imediata lui apropiere?",
+        "en": "Which of these places is not on Lake Sevan or in its immediate surroundings?"
+      }
+    },
+    {
+      "id": "am-odd-northmost",
+      "type": "odd_one_out",
+      "poiIds": [
+        "armenia-goris-cities-v2",
+        "armenia-yeghegnadzor-cities-v2",
+        "armenia-ijevan-cities-v2"
+      ],
+      "targetPoiId": "armenia-ijevan-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten im Norden?",
+        "hu": "Melyik város fekszik a legészakabbra?",
+        "ro": "Care dintre aceste orașe se află cel mai la nord?",
+        "en": "Which of these cities lies farthest north?"
+      }
+    },
+    {
+      "id": "am-odd-eastmost",
+      "type": "odd_one_out",
+      "poiIds": [
+        "armenia-gyumri-cities-v2",
+        "armenia-ashtarak-cities-v2",
+        "armenia-gavar-cities-v2"
+      ],
+      "targetPoiId": "armenia-gavar-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten im Osten?",
+        "hu": "Melyik város fekszik a legkeletebbre?",
+        "ro": "Care dintre aceste orașe se află cel mai la est?",
+        "en": "Which of these cities lies farthest east?"
+      }
+    },
+    {
+      "id": "am-odd-syunik-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "armenia-goris-cities-v2",
+        "armenia-hrazdan-cities-v2",
+        "armenia-gyumri-cities-v2"
+      ],
+      "targetPoiId": "armenia-goris-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt in der Provinz Sjunik?",
+        "hu": "Melyik város található Szjunik tartományban?",
+        "ro": "Care dintre aceste orașe se află în provincia Syunik?",
+        "en": "Which of these cities is in Syunik Province?"
+      }
+    },
+    {
+      "id": "am-sequence-north-south-corridor",
+      "type": "sequence",
+      "poiIds": [
+        "armenia-ijevan-cities-v2",
+        "armenia-vanadzor-cities-v2",
+        "armenia-yerevan-cities-v2",
+        "armenia-artashat-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "armenia-ijevan-cities-v2",
+        "armenia-vanadzor-cities-v2",
+        "armenia-yerevan-cities-v2",
+        "armenia-artashat-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Idschewan, Wanadsor, Jerewan und Artaschat von Norden nach Süden an.",
+        "hu": "Kattints Ijevánra, Vanadzorra, Jerevánra és Artasatra északról délre.",
+        "ro": "Apasă pe Ijevan, Vanadzor, Erevan și Artașat de la nord la sud.",
+        "en": "Click Ijevan, Vanadzor, Yerevan and Artashat from north to south."
+      }
+    },
+    {
+      "id": "am-sequence-capital-to-lake",
+      "type": "sequence",
+      "poiIds": [
+        "armenia-vagharshapat-cities-v2",
+        "armenia-yerevan-cities-v2",
+        "armenia-hrazdan-cities-v2",
+        "armenia-sevan-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "armenia-vagharshapat-cities-v2",
+        "armenia-yerevan-cities-v2",
+        "armenia-hrazdan-cities-v2",
+        "armenia-sevan-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Wagharschapat, Jerewan, Hrasdan und Sewan von Westen nach Osten an.",
+        "hu": "Kattints Vagarsapatra, Jerevánra, Hrazdanra és Szevánra nyugatról keletre.",
+        "ro": "Apasă pe Vagharshapat, Erevan, Hrazdan și Sevan de la vest la est.",
+        "en": "Click Vagharshapat, Yerevan, Hrazdan and Sevan from west to east."
+      }
+    },
+    {
+      "id": "am-sequence-west-east-highland",
+      "type": "sequence",
+      "poiIds": [
+        "armenia-gyumri-cities-v2",
+        "armenia-ashtarak-cities-v2",
+        "armenia-abovyan-cities-v2",
+        "armenia-gavar-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "armenia-gyumri-cities-v2",
+        "armenia-ashtarak-cities-v2",
+        "armenia-abovyan-cities-v2",
+        "armenia-gavar-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Gjumri, Aschtarak, Abowjan und Gawar von Westen nach Osten an.",
+        "hu": "Kattints Gjumrira, Ashtarakra, Abovjanra és Gavarra nyugatról keletre.",
+        "ro": "Apasă pe Gyumri, Aștarak, Abovian și Gavar de la vest la est.",
+        "en": "Click Gyumri, Ashtarak, Abovyan and Gavar from west to east."
+      }
+    },
+    {
+      "id": "am-sequence-north-south-lake-axis",
+      "type": "sequence",
+      "poiIds": [
+        "armenia-dilijan-cities-v2",
+        "armenia-sevan-cities-v2",
+        "armenia-hrazdan-cities-v2",
+        "armenia-yerevan-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "armenia-dilijan-cities-v2",
+        "armenia-sevan-cities-v2",
+        "armenia-hrazdan-cities-v2",
+        "armenia-yerevan-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Dilidschan, Sewan, Hrasdan und Jerewan von Norden nach Süden an.",
+        "hu": "Kattints Dilidzsánra, Szevánra, Hrazdanra és Jerevánra északról délre.",
+        "ro": "Apasă pe Dilijan, Sevan, Hrazdan și Erevan de la nord la sud.",
+        "en": "Click Dilijan, Sevan, Hrazdan and Yerevan from north to south."
+      }
+    }
+  ]
+}

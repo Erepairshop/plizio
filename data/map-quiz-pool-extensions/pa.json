@@ -1,0 +1,298 @@
+{
+  "pa": [
+    {
+      "id": "pa-find-casco-viejo",
+      "type": "find_poi",
+      "targetPoiId": "pa-cascoviejo",
+      "question": {
+        "de": "Finde Casco Viejo, die historische Altstadt von Panama-Stadt.",
+        "hu": "Keresd meg Casco Viejo városrészt, Panamaváros történelmi óvárosát.",
+        "ro": "Găsește Casco Viejo, centrul istoric al orașului Panama.",
+        "en": "Find Casco Viejo, the historic old quarter of Panama City."
+      }
+    },
+    {
+      "id": "pa-find-coiba",
+      "type": "find_poi",
+      "targetPoiId": "pa-coiba",
+      "question": {
+        "de": "Finde den Coiba-Nationalpark vor der Pazifikküste.",
+        "hu": "Keresd meg a Csendes-óceán partja előtt fekvő Coiba Nemzeti Parkot.",
+        "ro": "Găsește Parcul Național Coiba din largul coastei Pacificului.",
+        "en": "Find Coiba National Park off the Pacific coast."
+      }
+    },
+    {
+      "id": "pa-find-portobelo-fortifications",
+      "type": "find_poi",
+      "targetPoiId": "pa-portobelo-historic",
+      "question": {
+        "de": "Finde die Festungsanlagen von Portobelo an der Karibikküste.",
+        "hu": "Keresd meg Portobelo erődítményeit a karibi partvidéken.",
+        "ro": "Găsește fortificațiile din Portobelo de pe coasta caraibiană.",
+        "en": "Find the fortifications of Portobelo on the Caribbean coast."
+      }
+    },
+    {
+      "id": "pa-find-el-valle-de-anton",
+      "type": "find_poi",
+      "targetPoiId": "pa-anton-valley",
+      "question": {
+        "de": "Finde El Valle de Antón im Vulkankrater von Coclé.",
+        "hu": "Keresd meg El Valle de Antónt Coclé vulkáni kráterében.",
+        "ro": "Găsește El Valle de Antón din craterul vulcanic al provinciei Coclé.",
+        "en": "Find El Valle de Anton in Coclé's volcanic crater."
+      }
+    },
+    {
+      "id": "pa-find-taboga-island",
+      "type": "find_poi",
+      "targetPoiId": "pa-taboga",
+      "question": {
+        "de": "Finde die Insel Taboga im Golf von Panama.",
+        "hu": "Keresd meg Taboga szigetét a Panamai-öbölben.",
+        "ro": "Găsește insula Taboga din Golful Panama.",
+        "en": "Find Taboga Island in the Gulf of Panama."
+      }
+    },
+    {
+      "id": "pa-find-biomuseo",
+      "type": "find_poi",
+      "targetPoiId": "pa-biomuseo",
+      "question": {
+        "de": "Finde das Biomuseo nahe der Pazifikeinfahrt des Kanals.",
+        "hu": "Keresd meg a Biomuseót a csatorna csendes-óceáni bejárata közelében.",
+        "ro": "Găsește Biomuseo de lângă intrarea pacifică a canalului.",
+        "en": "Find the Biomuseo near the canal's Pacific entrance."
+      }
+    },
+    {
+      "id": "pa-region-cocle",
+      "type": "find_region",
+      "targetRegionId": "PAN-1336",
+      "question": {
+        "de": "Welche Provinz liegt rund um El Valle de Antón? Klicke auf Coclé.",
+        "hu": "Melyik tartomány fekszik El Valle de Antón körül? Kattints Coclére.",
+        "ro": "Ce provincie se află în jurul localității El Valle de Antón? Apasă pe Coclé.",
+        "en": "Which province surrounds El Valle de Anton? Click Coclé."
+      }
+    },
+    {
+      "id": "pa-region-veraguas",
+      "type": "find_region",
+      "targetRegionId": "PAN-1341",
+      "question": {
+        "de": "Finde Veraguas, die einzige Provinz Panamas mit Küsten an beiden Ozeanen.",
+        "hu": "Keresd meg Veraguast, Panama egyetlen olyan tartományát, amely mindkét óceánhoz kapcsolódik.",
+        "ro": "Găsește Veraguas, singura provincie panameză cu ieșire la ambele oceane.",
+        "en": "Find Veraguas, Panama's only province with coasts on both oceans."
+      }
+    },
+    {
+      "id": "pa-region-herrera",
+      "type": "find_region",
+      "targetRegionId": "PAN-1338",
+      "question": {
+        "de": "Klicke auf Herrera auf der Halbinsel Azuero.",
+        "hu": "Kattints Herrerára az Azuero-félszigeten.",
+        "ro": "Apasă pe Herrera din Peninsula Azuero.",
+        "en": "Click Herrera on the Azuero Peninsula."
+      }
+    },
+    {
+      "id": "pa-region-los-santos",
+      "type": "find_region",
+      "targetRegionId": "PAN-1339",
+      "question": {
+        "de": "Finde Los Santos im südöstlichen Teil der Halbinsel Azuero.",
+        "hu": "Keresd meg Los Santost az Azuero-félsziget délkeleti részén.",
+        "ro": "Găsește Los Santos în partea de sud-est a Peninsulei Azuero.",
+        "en": "Find Los Santos in the southeastern part of the Azuero Peninsula."
+      }
+    },
+    {
+      "id": "pa-region-kuna-yala",
+      "type": "find_region",
+      "targetRegionId": "PAN-1419",
+      "question": {
+        "de": "Welche karibische Region ist für die San-Blas-Inseln bekannt? Klicke auf Kuna Yala.",
+        "hu": "Melyik karibi régió ismert a San Blas-szigetekről? Kattints Kuna Yalára.",
+        "ro": "Ce regiune caraibiană este cunoscută pentru Insulele San Blas? Apasă pe Kuna Yala.",
+        "en": "Which Caribbean region is known for the San Blas Islands? Click Kuna Yala."
+      }
+    },
+    {
+      "id": "pa-odd-not-in-panama-province",
+      "type": "odd_one_out",
+      "poiIds": [
+        "pa-cascoviejo",
+        "pa-panamaviejo",
+        "pa-biomuseo",
+        "pa-boquete"
+      ],
+      "targetPoiId": "pa-boquete",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht im Raum Panama-Stadt?",
+        "hu": "Melyik hely nem Panamaváros térségében található?",
+        "ro": "Care dintre aceste locuri nu se află în zona orașului Panama?",
+        "en": "Which of these places is not in the Panama City area?"
+      }
+    },
+    {
+      "id": "pa-odd-not-in-colon",
+      "type": "odd_one_out",
+      "poiIds": [
+        "pa-colon",
+        "pa-portobelo-historic",
+        "pa-san-lorenzo",
+        "pa-anton-valley"
+      ],
+      "targetPoiId": "pa-anton-valley",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht in der Provinz Colón?",
+        "hu": "Melyik hely nem Colón tartományban található?",
+        "ro": "Care dintre aceste locuri nu se află în provincia Colón?",
+        "en": "Which of these places is not in Colón Province?"
+      }
+    },
+    {
+      "id": "pa-odd-los-santos-group",
+      "type": "odd_one_out",
+      "poiIds": [
+        "panama-las-tablas-cities-v2",
+        "panama-pedasi-cities-v2",
+        "panama-playa-venao-cities-v2",
+        "pa-chitre"
+      ],
+      "targetPoiId": "pa-chitre",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht in der Provinz Los Santos?",
+        "hu": "Melyik hely nem Los Santos tartományban található?",
+        "ro": "Care dintre aceste locuri nu se află în provincia Los Santos?",
+        "en": "Which of these places is not in Los Santos Province?"
+      }
+    },
+    {
+      "id": "pa-odd-chiriqui-highlands",
+      "type": "odd_one_out",
+      "poiIds": [
+        "pa-boquete",
+        "panama-volcan-cities-v2",
+        "pa-cerro-punta",
+        "pa-bocas"
+      ],
+      "targetPoiId": "pa-bocas",
+      "question": {
+        "de": "Welcher dieser Orte gehört nicht zum Hochland von Chiriquí?",
+        "hu": "Melyik hely nem Chiriquí hegyvidékéhez tartozik?",
+        "ro": "Care dintre aceste locuri nu aparține zonei înalte din Chiriquí?",
+        "en": "Which of these places is not part of the Chiriquí highlands?"
+      }
+    },
+    {
+      "id": "pa-odd-caribbean-vs-pacific-islands",
+      "type": "odd_one_out",
+      "poiIds": [
+        "pa-taboga",
+        "pa-pearl-islands",
+        "pa-coiba",
+        "pa-portobelo-historic"
+      ],
+      "targetPoiId": "pa-portobelo-historic",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht auf einer Pazifikinsel oder Inselgruppe?",
+        "hu": "Melyik hely nem egy csendes-óceáni szigeten vagy szigetcsoporton található?",
+        "ro": "Care dintre aceste locuri nu se află pe o insulă sau într-un arhipelag din Pacific?",
+        "en": "Which of these places is not on a Pacific island or island group?"
+      }
+    },
+    {
+      "id": "pa-sequence-west-east-main-cities",
+      "type": "sequence",
+      "poiIds": [
+        "pa-david",
+        "pa-santiago",
+        "pa-chitre",
+        "pa-panamacity"
+      ],
+      "orderedPoiIds": [
+        "pa-david",
+        "pa-santiago",
+        "pa-chitre",
+        "pa-panamacity"
+      ],
+      "question": {
+        "de": "Klicke diese Städte von West nach Ost an.",
+        "hu": "Kattints ezekre a városokra nyugatról keletre haladva.",
+        "ro": "Apasă aceste orașe de la vest la est.",
+        "en": "Click these cities from west to east."
+      }
+    },
+    {
+      "id": "pa-sequence-north-south-caribbean-to-gulf",
+      "type": "sequence",
+      "poiIds": [
+        "pa-sanblas",
+        "pa-colon",
+        "pa-panamacity",
+        "pa-pearl-islands"
+      ],
+      "orderedPoiIds": [
+        "pa-sanblas",
+        "pa-colon",
+        "pa-panamacity",
+        "pa-pearl-islands"
+      ],
+      "question": {
+        "de": "Klicke die Orte von Nord nach Süd, von der Karibik zum Golf von Panama.",
+        "hu": "Kattints a helyekre északról délre, a Karib-tértől a Panamai-öbölig.",
+        "ro": "Apasă locurile de la nord la sud, din Caraibe spre Golful Panama.",
+        "en": "Click the places from north to south, from the Caribbean toward the Gulf of Panama."
+      }
+    },
+    {
+      "id": "pa-sequence-west-east-canal-corridor",
+      "type": "sequence",
+      "poiIds": [
+        "pa-san-lorenzo",
+        "pa-gatun-lake",
+        "pa-cascoviejo",
+        "pa-panamaviejo"
+      ],
+      "orderedPoiIds": [
+        "pa-san-lorenzo",
+        "pa-gatun-lake",
+        "pa-cascoviejo",
+        "pa-panamaviejo"
+      ],
+      "question": {
+        "de": "Ordne diese Orte im Kanalraum von West nach Ost.",
+        "hu": "Rendezd ezeket a csatorna térségéhez kapcsolódó helyeket nyugatról keletre.",
+        "ro": "Ordonează aceste locuri din zona canalului de la vest la est.",
+        "en": "Order these canal-area places from west to east."
+      }
+    },
+    {
+      "id": "pa-sequence-north-south-chiriqui",
+      "type": "sequence",
+      "poiIds": [
+        "pa-cerro-punta",
+        "pa-boquete",
+        "pa-david",
+        "panama-boca-chica-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "pa-cerro-punta",
+        "pa-boquete",
+        "pa-david",
+        "panama-boca-chica-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke diese Orte in Chiriquí von Nord nach Süd an.",
+        "hu": "Kattints ezekre a chiriquíi helyekre északról délre haladva.",
+        "ro": "Apasă aceste locuri din Chiriquí de la nord la sud.",
+        "en": "Click these Chiriquí places from north to south."
+      }
+    }
+  ]
+}

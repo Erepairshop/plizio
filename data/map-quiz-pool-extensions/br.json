@@ -1,0 +1,309 @@
+{
+  "br": [
+    {
+      "id": "br-find-belem",
+      "type": "find_poi",
+      "targetPoiId": "belem-cities-v2",
+      "question": {
+        "de": "Finde Belém nahe der Amazonasmündung im Norden Brasiliens.",
+        "hu": "Keresd meg Belémet az Amazonas torkolatának közelében, Brazília északi részén.",
+        "ro": "Găsește Belém, aproape de gura Amazonului, în nordul Braziliei.",
+        "en": "Find Belém near the mouth of the Amazon in northern Brazil."
+      }
+    },
+    {
+      "id": "br-find-fortaleza",
+      "type": "find_poi",
+      "targetPoiId": "fortaleza-cities-v2",
+      "question": {
+        "de": "Finde Fortaleza an der Nordostküste Brasiliens.",
+        "hu": "Keresd meg Fortalezát Brazília északkeleti partján.",
+        "ro": "Găsește Fortaleza pe coasta de nord-est a Braziliei.",
+        "en": "Find Fortaleza on Brazil's northeastern coast."
+      }
+    },
+    {
+      "id": "br-find-porto-alegre",
+      "type": "find_poi",
+      "targetPoiId": "porto-alegre-cities-v2",
+      "question": {
+        "de": "Finde Porto Alegre im äußersten Süden Brasiliens.",
+        "hu": "Keresd meg Porto Alegrét Brazília legdélibb részén.",
+        "ro": "Găsește Porto Alegre în extremul sud al Braziliei.",
+        "en": "Find Porto Alegre in far southern Brazil."
+      }
+    },
+    {
+      "id": "br-find-lencois",
+      "type": "find_poi",
+      "targetPoiId": "brazil-lencois-cities-v2",
+      "question": {
+        "de": "Finde Lençóis im Herzen der Chapada Diamantina.",
+        "hu": "Keresd meg Lençoist a Chapada Diamantina szívében.",
+        "ro": "Găsește Lençóis în inima regiunii Chapada Diamantina.",
+        "en": "Find Lençóis in the heart of Chapada Diamantina."
+      }
+    },
+    {
+      "id": "br-find-bonito",
+      "type": "find_poi",
+      "targetPoiId": "brazil-bonito-cities-v2",
+      "question": {
+        "de": "Finde Bonito im westlichen Binnenland Brasiliens.",
+        "hu": "Keresd meg Bonitót Brazília nyugati belső részén.",
+        "ro": "Găsește Bonito în partea vestică a interiorului Braziliei.",
+        "en": "Find Bonito in western inland Brazil."
+      }
+    },
+    {
+      "id": "br-find-jericoacoara",
+      "type": "find_poi",
+      "targetPoiId": "brazil-jericoacoara-cities-v2",
+      "question": {
+        "de": "Finde Jericoacoara an Brasiliens Nordostküste.",
+        "hu": "Keresd meg Jericoacoarát Brazília északkeleti partvidékén.",
+        "ro": "Găsește Jericoacoara pe coasta de nord-est a Braziliei.",
+        "en": "Find Jericoacoara on Brazil's northeastern coast."
+      }
+    },
+    {
+      "id": "br-region-sao-paulo",
+      "type": "find_region",
+      "targetRegionId": "BRA-1311",
+      "question": {
+        "de": "Klicke auf den Bundesstaat São Paulo im Südosten.",
+        "hu": "Kattints São Paulo államra délkeleten.",
+        "ro": "Apasă pe statul São Paulo din sud-est.",
+        "en": "Click the state of São Paulo in the southeast."
+      }
+    },
+    {
+      "id": "br-region-rio-de-janeiro",
+      "type": "find_region",
+      "targetRegionId": "BRA-627",
+      "question": {
+        "de": "Finde den Bundesstaat Rio de Janeiro an der Südostküste.",
+        "hu": "Keresd meg Rio de Janeiro államot a délkeleti partvidéken.",
+        "ro": "Găsește statul Rio de Janeiro de pe coasta sud-estică.",
+        "en": "Find the state of Rio de Janeiro on the southeastern coast."
+      }
+    },
+    {
+      "id": "br-region-pernambuco",
+      "type": "find_region",
+      "targetRegionId": "BRA-1313",
+      "question": {
+        "de": "Klicke auf Pernambuco im Nordosten Brasiliens.",
+        "hu": "Kattints Pernambuco államra Brazília északkeleti részén.",
+        "ro": "Apasă pe Pernambuco în nord-estul Braziliei.",
+        "en": "Click Pernambuco in northeastern Brazil."
+      }
+    },
+    {
+      "id": "br-region-para",
+      "type": "find_region",
+      "targetRegionId": "BRA-594",
+      "question": {
+        "de": "Finde den großen Amazonas-Bundesstaat Pará im Norden.",
+        "hu": "Keresd meg Pará nagy északi amazóniai államot.",
+        "ro": "Găsește marele stat amazonian Pará din nord.",
+        "en": "Find the large northern Amazonian state of Pará."
+      }
+    },
+    {
+      "id": "br-region-distrito-federal",
+      "type": "find_region",
+      "targetRegionId": "BRA-599",
+      "question": {
+        "de": "Klicke auf den Distrito Federal rund um Brasília.",
+        "hu": "Kattints a Brazíliát körülvevő Szövetségi Kerületre.",
+        "ro": "Apasă pe Districtul Federal din jurul orașului Brasília.",
+        "en": "Click the Federal District around Brasília."
+      }
+    },
+    {
+      "id": "br-odd-minas-gerais-cities",
+      "type": "odd_one_out",
+      "poiIds": [
+        "belo-horizonte-cities-v2",
+        "uberlandia-cities-v2",
+        "contagem-cities-v2",
+        "goiania-cities-v2"
+      ],
+      "targetPoiId": "goiania-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt nicht im Bundesstaat Minas Gerais?",
+        "hu": "Melyik város nem Minas Gerais államban található?",
+        "ro": "Care dintre aceste orașe nu se află în statul Minas Gerais?",
+        "en": "Which of these cities is not in the state of Minas Gerais?"
+      }
+    },
+    {
+      "id": "br-odd-rio-state-cities",
+      "type": "odd_one_out",
+      "poiIds": [
+        "rio-de-janeiro-cities-v2",
+        "niteroi-cities-v2",
+        "brazil-teresopolis-cities-v2",
+        "belo-horizonte-cities-v2"
+      ],
+      "targetPoiId": "belo-horizonte-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt nicht im Bundesstaat Rio de Janeiro?",
+        "hu": "Melyik város nem Rio de Janeiro államban található?",
+        "ro": "Care dintre aceste orașe nu se află în statul Rio de Janeiro?",
+        "en": "Which of these cities is not in the state of Rio de Janeiro?"
+      }
+    },
+    {
+      "id": "br-odd-pernambuco-cities",
+      "type": "odd_one_out",
+      "poiIds": [
+        "recife-cities-v2",
+        "brazil-porto-de-galinhas-cities-v2",
+        "jaboatao-dos-guararapes-cities-v2",
+        "joao-pessoa-cities-v2"
+      ],
+      "targetPoiId": "joao-pessoa-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt nicht im Bundesstaat Pernambuco?",
+        "hu": "Melyik város nem Pernambuco államban található?",
+        "ro": "Care dintre aceste orașe nu se află în statul Pernambuco?",
+        "en": "Which of these cities is not in Pernambuco state?"
+      }
+    },
+    {
+      "id": "br-odd-rio-grande-do-sul",
+      "type": "odd_one_out",
+      "poiIds": [
+        "porto-alegre-cities-v2",
+        "caxias-do-sul-cities-v2",
+        "brazil-bento-goncalves-cities-v2",
+        "curitiba-cities-v2"
+      ],
+      "targetPoiId": "curitiba-cities-v2",
+      "question": {
+        "de": "Welche dieser Orte liegt nicht in Rio Grande do Sul?",
+        "hu": "Melyik hely nem Rio Grande do Sul államban található?",
+        "ro": "Care dintre aceste locuri nu se află în Rio Grande do Sul?",
+        "en": "Which of these places is not in Rio Grande do Sul?"
+      }
+    },
+    {
+      "id": "br-sequence-west-east-north-belt",
+      "type": "sequence",
+      "poiIds": [
+        "porto-velho-cities-v2",
+        "manaus-cities-v2",
+        "belem-cities-v2",
+        "fortaleza-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "porto-velho-cities-v2",
+        "manaus-cities-v2",
+        "belem-cities-v2",
+        "fortaleza-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Porto Velho, Manaus, Belém und Fortaleza von West nach Ost an.",
+        "hu": "Kattints Porto Velhóra, Manausra, Belémre és Fortalezára nyugatról keletre.",
+        "ro": "Apasă Porto Velho, Manaus, Belém și Fortaleza de la vest la est.",
+        "en": "Click Porto Velho, Manaus, Belém, and Fortaleza from west to east."
+      }
+    },
+    {
+      "id": "br-sequence-north-south-east-coast",
+      "type": "sequence",
+      "poiIds": [
+        "fortaleza-cities-v2",
+        "recife-cities-v2",
+        "salvador-cities-v2",
+        "rio-de-janeiro-cities-v2",
+        "porto-alegre-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "fortaleza-cities-v2",
+        "recife-cities-v2",
+        "salvador-cities-v2",
+        "rio-de-janeiro-cities-v2",
+        "porto-alegre-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Fortaleza, Recife, Salvador, Rio de Janeiro und Porto Alegre von Nord nach Süd an.",
+        "hu": "Kattints Fortalezára, Recifére, Salvadorra, Rio de Janeiróra és Porto Alegrére északról délre.",
+        "ro": "Apasă Fortaleza, Recife, Salvador, Rio de Janeiro și Porto Alegre de la nord la sud.",
+        "en": "Click Fortaleza, Recife, Salvador, Rio de Janeiro, and Porto Alegre from north to south."
+      }
+    },
+    {
+      "id": "br-sequence-west-east-scenic",
+      "type": "sequence",
+      "poiIds": [
+        "brazil-bonito-cities-v2",
+        "brazil-alter-do-chao-cities-v2",
+        "brazil-lencois-cities-v2",
+        "brazil-jericoacoara-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "brazil-bonito-cities-v2",
+        "brazil-alter-do-chao-cities-v2",
+        "brazil-lencois-cities-v2",
+        "brazil-jericoacoara-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Bonito, Alter do Chão, Lençóis und Jericoacoara von West nach Ost an.",
+        "hu": "Kattints Bonitóra, Alter do Chãóra, Lençóisra és Jericoacoarára nyugatról keletre.",
+        "ro": "Apasă Bonito, Alter do Chão, Lençóis și Jericoacoara de la vest la est.",
+        "en": "Click Bonito, Alter do Chão, Lençóis, and Jericoacoara from west to east."
+      }
+    },
+    {
+      "id": "br-sequence-north-south-interior",
+      "type": "sequence",
+      "poiIds": [
+        "belem-cities-v2",
+        "teresina-cities-v2",
+        "brasilia-cities-v2",
+        "belo-horizonte-cities-v2",
+        "curitiba-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "belem-cities-v2",
+        "teresina-cities-v2",
+        "brasilia-cities-v2",
+        "belo-horizonte-cities-v2",
+        "curitiba-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Belém, Teresina, Brasília, Belo Horizonte und Curitiba von Nord nach Süd an.",
+        "hu": "Kattints Belémre, Teresinára, Brazíliavárosra, Belo Horizontéra és Curitibára északról délre.",
+        "ro": "Apasă Belém, Teresina, Brasília, Belo Horizonte și Curitiba de la nord la sud.",
+        "en": "Click Belém, Teresina, Brasília, Belo Horizonte, and Curitiba from north to south."
+      }
+    },
+    {
+      "id": "br-sequence-north-south-cultural-route",
+      "type": "sequence",
+      "poiIds": [
+        "brazil-barreirinhas-cities-v2",
+        "salvador-cities-v2",
+        "brazil-vassouras-cities-v2",
+        "brazil-teresopolis-cities-v2",
+        "brazil-bento-goncalves-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "brazil-barreirinhas-cities-v2",
+        "salvador-cities-v2",
+        "brazil-vassouras-cities-v2",
+        "brazil-teresopolis-cities-v2",
+        "brazil-bento-goncalves-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Barreirinhas, Salvador, Vassouras, Teresópolis und Bento Gonçalves von Nord nach Süd an.",
+        "hu": "Kattints Barreirinhasra, Salvadorra, Vassourasra, Teresópolisra és Bento Gonçalvesre északról délre.",
+        "ro": "Apasă Barreirinhas, Salvador, Vassouras, Teresópolis și Bento Gonçalves de la nord la sud.",
+        "en": "Click Barreirinhas, Salvador, Vassouras, Teresópolis, and Bento Gonçalves from north to south."
+      }
+    }
+  ]
+}

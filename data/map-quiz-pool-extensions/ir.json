@@ -1,0 +1,309 @@
+{
+  "ir": [
+    {
+      "id": "ir-find-qom",
+      "type": "find_poi",
+      "targetPoiId": "qom-cities-v2",
+      "question": {
+        "de": "Finde Ghom auf der Karte.",
+        "hu": "Keresd meg Komot a térképen.",
+        "ro": "Găsește Qom pe hartă.",
+        "en": "Find Qom on the map."
+      }
+    },
+    {
+      "id": "ir-find-bandar-abbas",
+      "type": "find_poi",
+      "targetPoiId": "bandar-abbas-cities-v2",
+      "question": {
+        "de": "Finde Bandar Abbas auf der Karte.",
+        "hu": "Keresd meg Bandar Abbászt a térképen.",
+        "ro": "Găsește Bandar Abbas pe hartă.",
+        "en": "Find Bandar Abbas on the map."
+      }
+    },
+    {
+      "id": "ir-find-urmia",
+      "type": "find_poi",
+      "targetPoiId": "urmia-cities-v2",
+      "question": {
+        "de": "Finde Urmia auf der Karte.",
+        "hu": "Keresd meg Urmiát a térképen.",
+        "ro": "Găsește Urmia pe hartă.",
+        "en": "Find Urmia on the map."
+      }
+    },
+    {
+      "id": "ir-find-damavand",
+      "type": "find_poi",
+      "targetPoiId": "mount-damavand-nature-v2",
+      "question": {
+        "de": "Finde den Damavand auf der Karte.",
+        "hu": "Keresd meg a Damávand-hegyet a térképen.",
+        "ro": "Găsește muntele Damavand pe hartă.",
+        "en": "Find Mount Damavand on the map."
+      }
+    },
+    {
+      "id": "ir-find-persepolis",
+      "type": "find_poi",
+      "targetPoiId": "iran-persepolis-history-v2",
+      "question": {
+        "de": "Finde Persepolis auf der Karte.",
+        "hu": "Keresd meg Perszepoliszt a térképen.",
+        "ro": "Găsește Persepolis pe hartă.",
+        "en": "Find Persepolis on the map."
+      }
+    },
+    {
+      "id": "ir-region-tehran",
+      "type": "find_region",
+      "targetRegionId": "IRN-3216",
+      "question": {
+        "de": "Klicke auf die Region Teheran.",
+        "hu": "Kattints Teherán régiójára.",
+        "ro": "Apasă pe regiunea Teheran.",
+        "en": "Click the Tehran region."
+      }
+    },
+    {
+      "id": "ir-region-fars",
+      "type": "find_region",
+      "targetRegionId": "IRN-3212",
+      "question": {
+        "de": "Klicke auf die Region Fars.",
+        "hu": "Kattints Fársz régiójára.",
+        "ro": "Apasă pe regiunea Fars.",
+        "en": "Click the Fars region."
+      }
+    },
+    {
+      "id": "ir-region-hormozgan",
+      "type": "find_region",
+      "targetRegionId": "IRN-3228",
+      "question": {
+        "de": "Klicke auf die Region Hormozgan.",
+        "hu": "Kattints Hormozgán régiójára.",
+        "ro": "Apasă pe regiunea Hormozgan.",
+        "en": "Click the Hormozgan region."
+      }
+    },
+    {
+      "id": "ir-region-gilan",
+      "type": "find_region",
+      "targetRegionId": "IRN-3240",
+      "question": {
+        "de": "Klicke auf die Region Gilan.",
+        "hu": "Kattints Gílán régiójára.",
+        "ro": "Apasă pe regiunea Gilan.",
+        "en": "Click the Gilan region."
+      }
+    },
+    {
+      "id": "ir-region-sistan-baluchestan",
+      "type": "find_region",
+      "targetRegionId": "IRN-3247",
+      "question": {
+        "de": "Klicke auf die Region Sistan und Belutschistan.",
+        "hu": "Kattints Szisztán és Beludzsisztán régiójára.",
+        "ro": "Apasă pe regiunea Sistan și Baluchestan.",
+        "en": "Click the Sistan and Baluchestan region."
+      }
+    },
+    {
+      "id": "ir-odd-westernmost-nw-cities",
+      "type": "odd_one_out",
+      "poiIds": [
+        "urmia-cities-v2",
+        "tabriz-cities-v2",
+        "ardabil-cities-v2",
+        "rasht-cities-v2"
+      ],
+      "targetPoiId": "urmia-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt am weitesten westlich?",
+        "hu": "Melyik város fekszik a legnyugatabbra?",
+        "ro": "Care oraș se află cel mai la vest?",
+        "en": "Which city lies furthest west?"
+      }
+    },
+    {
+      "id": "ir-odd-southernmost-gulf-gateway",
+      "type": "odd_one_out",
+      "poiIds": [
+        "tehran-cities-v2",
+        "isfahan-cities-v2",
+        "ahvaz-cities-v2",
+        "bandar-abbas-cities-v2"
+      ],
+      "targetPoiId": "bandar-abbas-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt am weitesten südlich?",
+        "hu": "Melyik város fekszik a legdélebbre?",
+        "ro": "Care oraș se află cel mai la sud?",
+        "en": "Which city lies furthest south?"
+      }
+    },
+    {
+      "id": "ir-odd-easternmost-inner-cities",
+      "type": "odd_one_out",
+      "poiIds": [
+        "kermanshah-cities-v2",
+        "isfahan-cities-v2",
+        "yazd-cities-v2",
+        "zahedan-cities-v2"
+      ],
+      "targetPoiId": "zahedan-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt am weitesten östlich?",
+        "hu": "Melyik város fekszik a legkeletebbre?",
+        "ro": "Care oraș se află cel mai la est?",
+        "en": "Which city lies furthest east?"
+      }
+    },
+    {
+      "id": "ir-odd-northernmost-landscapes",
+      "type": "odd_one_out",
+      "poiIds": [
+        "persian-gulf-coast-relief-v2",
+        "mount-tochal-nature-v2",
+        "caspian-coast-iran-relief-v2",
+        "golestan-national-park-nature-v2"
+      ],
+      "targetPoiId": "golestan-national-park-nature-v2",
+      "question": {
+        "de": "Welche Landschaft liegt am weitesten nördlich?",
+        "hu": "Melyik táj fekszik a legészakabbra?",
+        "ro": "Care peisaj se află cel mai la nord?",
+        "en": "Which landscape lies furthest north?"
+      }
+    },
+    {
+      "id": "ir-odd-southernmost-natural-sites",
+      "type": "odd_one_out",
+      "poiIds": [
+        "mount-damavand-nature-v2",
+        "lake-urmia-nature-v2",
+        "zayanderud-river-nature-v2",
+        "hara-forests-nature-v2"
+      ],
+      "targetPoiId": "hara-forests-nature-v2",
+      "question": {
+        "de": "Welcher Naturort liegt am weitesten südlich?",
+        "hu": "Melyik természeti hely fekszik a legdélebbre?",
+        "ro": "Care loc natural se află cel mai la sud?",
+        "en": "Which natural site lies furthest south?"
+      }
+    },
+    {
+      "id": "ir-order-west-east-zagros-khorasan",
+      "type": "sequence",
+      "poiIds": [
+        "kermanshah-cities-v2",
+        "hamadan-cities-v2",
+        "tehran-cities-v2",
+        "mashhad-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "kermanshah-cities-v2",
+        "hamadan-cities-v2",
+        "tehran-cities-v2",
+        "mashhad-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die Städte von Westen nach Osten an: Kermanschah, Hamadan, Teheran, Maschhad.",
+        "hu": "Kattints a városokra nyugatról keletre: Kermánsáh, Hamadán, Teherán, Meshed.",
+        "ro": "Apasă orașele de la vest la est: Kermanshah, Hamadan, Teheran, Mashhad.",
+        "en": "Click the cities from west to east: Kermanshah, Hamadan, Tehran, Mashhad."
+      }
+    },
+    {
+      "id": "ir-order-north-south-caspian-gulf",
+      "type": "sequence",
+      "poiIds": [
+        "rasht-cities-v2",
+        "qazvin-cities-v2",
+        "qom-cities-v2",
+        "bandar-abbas-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "rasht-cities-v2",
+        "qazvin-cities-v2",
+        "qom-cities-v2",
+        "bandar-abbas-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die Städte von Norden nach Süden an: Rascht, Qazvin, Ghom, Bandar Abbas.",
+        "hu": "Kattints a városokra északról délre: Rast, Kazvin, Kom, Bandar Abbász.",
+        "ro": "Apasă orașele de la nord la sud: Rasht, Qazvin, Qom, Bandar Abbas.",
+        "en": "Click the cities from north to south: Rasht, Qazvin, Qom, Bandar Abbas."
+      }
+    },
+    {
+      "id": "ir-order-west-east-caspian-arc",
+      "type": "sequence",
+      "poiIds": [
+        "urmia-cities-v2",
+        "tabriz-cities-v2",
+        "ardabil-cities-v2",
+        "rasht-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "urmia-cities-v2",
+        "tabriz-cities-v2",
+        "ardabil-cities-v2",
+        "rasht-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die Städte von Westen nach Osten an: Urmia, Täbris, Ardabil, Rascht.",
+        "hu": "Kattints a városokra nyugatról keletre: Urmia, Tebriz, Ardabil, Rast.",
+        "ro": "Apasă orașele de la vest la est: Urmia, Tabriz, Ardabil, Rasht.",
+        "en": "Click the cities from west to east: Urmia, Tabriz, Ardabil, Rasht."
+      }
+    },
+    {
+      "id": "ir-order-north-south-mountains-to-sea",
+      "type": "sequence",
+      "poiIds": [
+        "mount-sabalan-nature-v2",
+        "mount-damavand-nature-v2",
+        "iran-persepolis-history-v2",
+        "chabahar-port-economic-v2"
+      ],
+      "orderedPoiIds": [
+        "mount-sabalan-nature-v2",
+        "mount-damavand-nature-v2",
+        "iran-persepolis-history-v2",
+        "chabahar-port-economic-v2"
+      ],
+      "question": {
+        "de": "Klicke die Orte von Norden nach Süden an: Sabalan, Damavand, Persepolis, Hafen von Chabahar.",
+        "hu": "Kattints a helyekre északról délre: Szabalan, Damávand, Perszepolisz, Csábahár kikötője.",
+        "ro": "Apasă locurile de la nord la sud: Muntele Sabalan, Damavand, Persepolis, portul Chabahar.",
+        "en": "Click the places from north to south: Mount Sabalan, Mount Damavand, Persepolis, Chabahar Port."
+      }
+    },
+    {
+      "id": "ir-order-west-east-unesco-to-ocean",
+      "type": "sequence",
+      "poiIds": [
+        "iran-tchogha-zanbil-history-v2",
+        "iran-persepolis-history-v2",
+        "iran-arg-e-bam-history-v2",
+        "chabahar-port-economic-v2"
+      ],
+      "orderedPoiIds": [
+        "iran-tchogha-zanbil-history-v2",
+        "iran-persepolis-history-v2",
+        "iran-arg-e-bam-history-v2",
+        "chabahar-port-economic-v2"
+      ],
+      "question": {
+        "de": "Klicke die Orte von Westen nach Osten an: Tschogha Zanbil, Persepolis, Arg-e Bam, Hafen von Chabahar.",
+        "hu": "Kattints a helyekre nyugatról keletre: Coga Zanbil, Perszepolisz, Arg-e Bam, Csábahár kikötője.",
+        "ro": "Apasă locurile de la vest la est: Tchogha Zanbil, Persepolis, Arg-e Bam, portul Chabahar.",
+        "en": "Click the places from west to east: Tchogha Zanbil, Persepolis, Arg-e Bam, Chabahar Port."
+      }
+    }
+  ]
+}

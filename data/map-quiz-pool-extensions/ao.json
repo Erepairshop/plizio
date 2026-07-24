@@ -1,0 +1,299 @@
+{
+  "ao": [
+    {
+      "id": "ao-find-lobito-port",
+      "type": "find_poi",
+      "targetPoiId": "lobito-cities-v2",
+      "question": {
+        "de": "Finde Lobito, die wichtige Hafenstadt nördlich von Benguela.",
+        "hu": "Keresd meg Lobitót, a Benguelától északra fekvő fontos kikötővárost.",
+        "ro": "Găsește Lobito, importantul oraș-port aflat la nord de Benguela.",
+        "en": "Find Lobito, the important port city just north of Benguela."
+      }
+    },
+    {
+      "id": "ao-find-lubango-highlands",
+      "type": "find_poi",
+      "targetPoiId": "lubango-cities-v2",
+      "question": {
+        "de": "Finde Lubango, die Hochlandstadt in der Provinz Huíla.",
+        "hu": "Keresd meg Lubangót, a Huíla tartomány fennsíki városát.",
+        "ro": "Găsește Lubango, orașul de podiș din provincia Huíla.",
+        "en": "Find Lubango, the highland city in Huíla Province."
+      }
+    },
+    {
+      "id": "ao-find-soyo-estuary",
+      "type": "find_poi",
+      "targetPoiId": "soyo-cities-v2",
+      "question": {
+        "de": "Finde Soyo im äußersten Nordwesten nahe der Kongomündung.",
+        "hu": "Keresd meg Soyót a legészaknyugatibb részen, a Kongó torkolata közelében.",
+        "ro": "Găsește Soyo în extremul nord-vest, aproape de gura fluviului Congo.",
+        "en": "Find Soyo in the far northwest near the mouth of the Congo."
+      }
+    },
+    {
+      "id": "ao-find-luena-east",
+      "type": "find_poi",
+      "targetPoiId": "luena-cities-v2",
+      "question": {
+        "de": "Finde Luena, die Provinzhauptstadt weit im Osten Angolas.",
+        "hu": "Keresd meg Luenát, a tartományi fővárost Angola távoli keleti részén.",
+        "ro": "Găsește Luena, capitala provincială din extremul est al Angolei.",
+        "en": "Find Luena, the provincial capital far out in eastern Angola."
+      }
+    },
+    {
+      "id": "ao-find-mbanza-kongo",
+      "type": "find_poi",
+      "targetPoiId": "mbanzakongo-cities-v2",
+      "question": {
+        "de": "Finde M'banza-Kongo im Norden Angolas.",
+        "hu": "Keresd meg M'banza-Kongót Angola északi részén.",
+        "ro": "Găsește M'banza-Kongo în nordul Angolei.",
+        "en": "Find M'banza-Kongo in northern Angola."
+      }
+    },
+    {
+      "id": "ao-region-huila",
+      "type": "find_region",
+      "targetRegionId": "AGO-1891",
+      "question": {
+        "de": "Klicke auf die Provinz Huíla im Süden.",
+        "hu": "Kattints a déli Huíla tartományra.",
+        "ro": "Apasă pe provincia Huíla din sud.",
+        "en": "Click Huíla Province in the south."
+      }
+    },
+    {
+      "id": "ao-region-moxico",
+      "type": "find_region",
+      "targetRegionId": "AGO-1892",
+      "question": {
+        "de": "Klicke auf Moxico im Osten des Landes.",
+        "hu": "Kattints Moxico tartományra az ország keleti részén.",
+        "ro": "Apasă pe provincia Moxico din estul țării.",
+        "en": "Click Moxico Province in the east of the country."
+      }
+    },
+    {
+      "id": "ao-region-benguela",
+      "type": "find_region",
+      "targetRegionId": "AGO-1887",
+      "question": {
+        "de": "Finde die Küstenprovinz Benguela.",
+        "hu": "Keresd meg Benguela tengerparti tartományt.",
+        "ro": "Găsește provincia de coastă Benguela.",
+        "en": "Find the coastal province of Benguela."
+      }
+    },
+    {
+      "id": "ao-region-cuando-cubango",
+      "type": "find_region",
+      "targetRegionId": "AGO-1888",
+      "question": {
+        "de": "Klicke auf Cuando Cubango im Südosten.",
+        "hu": "Kattints a délkeleti Cuando Cubango tartományra.",
+        "ro": "Apasă pe provincia Cuando Cubango din sud-est.",
+        "en": "Click Cuando Cubango Province in the southeast."
+      }
+    },
+    {
+      "id": "ao-region-zaire",
+      "type": "find_region",
+      "targetRegionId": "AGO-1882",
+      "question": {
+        "de": "Klicke auf die Provinz Zaire an der Nordwestküste.",
+        "hu": "Kattints a Zaire tartományra az északnyugati partvidéken.",
+        "ro": "Apasă pe provincia Zaire de pe coasta de nord-vest.",
+        "en": "Click Zaire Province on the northwestern coast."
+      }
+    },
+    {
+      "id": "ao-odd-not-northwest-coast",
+      "type": "odd_one_out",
+      "poiIds": [
+        "cabinda-cities-v2",
+        "soyo-cities-v2",
+        "nzeto-cities-v2",
+        "luena-cities-v2"
+      ],
+      "targetPoiId": "luena-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht an oder nahe der nordwestlichen Atlantikküste?",
+        "hu": "Melyik város nem az északnyugati atlanti parton vagy annak közelében fekszik?",
+        "ro": "Care oraș nu se află pe sau aproape de coasta atlantică din nord-vest?",
+        "en": "Which city is not on or near the northwestern Atlantic coast?"
+      }
+    },
+    {
+      "id": "ao-odd-not-benguela-province",
+      "type": "odd_one_out",
+      "poiIds": [
+        "lobito-cities-v2",
+        "benguela-cities-v2",
+        "baiafarta-cities-v2",
+        "huambo-cities-v2"
+      ],
+      "targetPoiId": "huambo-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht in der Provinz Benguela?",
+        "hu": "Melyik város nem Benguela tartományban fekszik?",
+        "ro": "Care oraș nu se află în provincia Benguela?",
+        "en": "Which city is not in Benguela Province?"
+      }
+    },
+    {
+      "id": "ao-odd-not-eastern-diamond-belt",
+      "type": "odd_one_out",
+      "poiIds": [
+        "dundo-cities-v2",
+        "lucapa-cities-v2",
+        "saurimo-cities-v2",
+        "sumbe-cities-v2"
+      ],
+      "targetPoiId": "sumbe-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht im östlichen Lunda-Gebiet?",
+        "hu": "Melyik város nem a keleti Lunda térségben fekszik?",
+        "ro": "Care oraș nu se află în regiunea estică Lunda?",
+        "en": "Which city is not in the eastern Lunda area?"
+      }
+    },
+    {
+      "id": "ao-odd-not-southern-highlands",
+      "type": "odd_one_out",
+      "poiIds": [
+        "lubango-cities-v2",
+        "matala-cities-v2",
+        "caconda-cities-v2",
+        "cabinda-cities-v2"
+      ],
+      "targetPoiId": "cabinda-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht im südlichen Hochland Angolas?",
+        "hu": "Melyik város nem Angola déli fennsíkvidékén fekszik?",
+        "ro": "Care oraș nu se află în podișul sudic al Angolei?",
+        "en": "Which city is not in Angola's southern highlands?"
+      }
+    },
+    {
+      "id": "ao-odd-not-cuanza-sul",
+      "type": "odd_one_out",
+      "poiIds": [
+        "sumbe-cities-v2",
+        "gabela-cities-v2",
+        "wakukungo-cities-v2",
+        "malanje-cities-v2"
+      ],
+      "targetPoiId": "malanje-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht in der Provinz Cuanza Sul?",
+        "hu": "Melyik város nem Cuanza Sul tartományban fekszik?",
+        "ro": "Care oraș nu se află în provincia Cuanza Sul?",
+        "en": "Which city is not in Cuanza Sul Province?"
+      }
+    },
+    {
+      "id": "ao-sequence-west-east-lobito-huambo-luena",
+      "type": "sequence",
+      "poiIds": [
+        "lobito-cities-v2",
+        "huambo-cities-v2",
+        "luena-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "lobito-cities-v2",
+        "huambo-cities-v2",
+        "luena-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Lobito, Huambo und Luena von Westen nach Osten an.",
+        "hu": "Kattints Lobitóra, Huambóra és Luenára nyugatról kelet felé.",
+        "ro": "Apasă Lobito, Huambo și Luena de la vest la est.",
+        "en": "Click Lobito, Huambo and Luena from west to east."
+      }
+    },
+    {
+      "id": "ao-sequence-north-south-mbanza-uige-huambo",
+      "type": "sequence",
+      "poiIds": [
+        "mbanzakongo-cities-v2",
+        "uige-cities-v2",
+        "huambo-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "mbanzakongo-cities-v2",
+        "uige-cities-v2",
+        "huambo-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke M'banza-Kongo, Uíge und Huambo von Norden nach Süden an.",
+        "hu": "Kattints M'banza-Kongóra, Uígére és Huambóra északról dél felé.",
+        "ro": "Apasă M'banza-Kongo, Uíge și Huambo de la nord la sud.",
+        "en": "Click M'banza-Kongo, Uíge and Huambo from north to south."
+      }
+    },
+    {
+      "id": "ao-sequence-west-east-namibe-lubango-ondjiva",
+      "type": "sequence",
+      "poiIds": [
+        "namibe-cities-v2",
+        "lubango-cities-v2",
+        "ondjiva-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "namibe-cities-v2",
+        "lubango-cities-v2",
+        "ondjiva-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Namibe, Lubango und Ondjiva von Westen nach Osten an.",
+        "hu": "Kattints Namibére, Lubangóra és Ondjivára nyugatról kelet felé.",
+        "ro": "Apasă Namibe, Lubango și Ondjiva de la vest la est.",
+        "en": "Click Namibe, Lubango and Ondjiva from west to east."
+      }
+    },
+    {
+      "id": "ao-sequence-north-south-dundo-saurimo-luena",
+      "type": "sequence",
+      "poiIds": [
+        "dundo-cities-v2",
+        "saurimo-cities-v2",
+        "luena-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "dundo-cities-v2",
+        "saurimo-cities-v2",
+        "luena-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Dundo, Saurimo und Luena von Norden nach Süden an.",
+        "hu": "Kattints Dundóra, Saurimóra és Luenára északról dél felé.",
+        "ro": "Apasă Dundo, Saurimo și Luena de la nord la sud.",
+        "en": "Click Dundo, Saurimo and Luena from north to south."
+      }
+    },
+    {
+      "id": "ao-sequence-west-east-sumbe-wakukungo-andulo",
+      "type": "sequence",
+      "poiIds": [
+        "sumbe-cities-v2",
+        "wakukungo-cities-v2",
+        "andulo-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "sumbe-cities-v2",
+        "wakukungo-cities-v2",
+        "andulo-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Sumbe, Waku-Kungo und Andulo von Westen nach Osten an.",
+        "hu": "Kattints Sumbéra, Waku-Kungóra és Andulóra nyugatról kelet felé.",
+        "ro": "Apasă Sumbe, Waku-Kungo și Andulo de la vest la est.",
+        "en": "Click Sumbe, Waku-Kungo and Andulo from west to east."
+      }
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "tr": [
+    {
+      "id": "tr-find-bursa",
+      "type": "find_poi",
+      "targetPoiId": "bursa-cities-v2",
+      "question": {
+        "de": "Finde Bursa am Fuß des Uludağ im Nordwesten der Türkei.",
+        "hu": "Keresd meg Bursát az Uludağ lábánál, Törökország északnyugati részén.",
+        "ro": "Găsește Bursa la poalele muntelui Uludağ, în nord-vestul Turciei.",
+        "en": "Find Bursa at the foot of Uludağ in northwestern Turkey."
+      }
+    },
+    {
+      "id": "tr-find-gaziantep",
+      "type": "find_poi",
+      "targetPoiId": "gaziantep-cities-v2",
+      "question": {
+        "de": "Klicke auf Gaziantep im Südosten der Türkei.",
+        "hu": "Kattints Gaziantepre Törökország délkeleti részén.",
+        "ro": "Apasă pe Gaziantep, în sud-estul Turciei.",
+        "en": "Click Gaziantep in southeastern Turkey."
+      }
+    },
+    {
+      "id": "tr-find-samsun",
+      "type": "find_poi",
+      "targetPoiId": "samsun-cities-v2",
+      "question": {
+        "de": "Finde Samsun an der zentralen Schwarzmeerküste.",
+        "hu": "Keresd meg Samsunt a Fekete-tenger középső partvidékén.",
+        "ro": "Găsește Samsun pe coasta centrală a Mării Negre.",
+        "en": "Find Samsun on the central Black Sea coast."
+      }
+    },
+    {
+      "id": "tr-find-van",
+      "type": "find_poi",
+      "targetPoiId": "van-cities-v2",
+      "question": {
+        "de": "Finde Van im äußersten Osten der Türkei.",
+        "hu": "Keresd meg Vant Törökország legkeletibb részén.",
+        "ro": "Găsește Van în extremul est al Turciei.",
+        "en": "Find Van in far eastern Turkey."
+      }
+    },
+    {
+      "id": "tr-find-trabzon",
+      "type": "find_poi",
+      "targetPoiId": "trabzon-cities-v2",
+      "question": {
+        "de": "Klicke auf Trabzon an der östlichen Schwarzmeerküste.",
+        "hu": "Kattints Trabzonra a Fekete-tenger keleti partján.",
+        "ro": "Apasă pe Trabzon, pe coasta estică a Mării Negre.",
+        "en": "Click Trabzon on the eastern Black Sea coast."
+      }
+    },
+    {
+      "id": "tr-region-ankara",
+      "type": "find_region",
+      "targetRegionId": "TUR-3008",
+      "question": {
+        "de": "Klicke auf die Provinz Ankara in Zentralanatolien.",
+        "hu": "Kattints Ankara tartományára Közép-Anatóliában.",
+        "ro": "Apasă pe provincia Ankara din Anatolia Centrală.",
+        "en": "Click Ankara Province in Central Anatolia."
+      }
+    },
+    {
+      "id": "tr-region-antalya",
+      "type": "find_region",
+      "targetRegionId": "TUR-2271",
+      "question": {
+        "de": "Finde die Provinz Antalya an der türkischen Riviera.",
+        "hu": "Keresd meg Antalya tartományát a Török Riviérán.",
+        "ro": "Găsește provincia Antalya de pe Riviera Turcească.",
+        "en": "Find Antalya Province on the Turkish Riviera."
+      }
+    },
+    {
+      "id": "tr-region-gaziantep",
+      "type": "find_region",
+      "targetRegionId": "TUR-3016",
+      "question": {
+        "de": "Klicke auf die Provinz Gaziantep nahe der syrischen Grenze.",
+        "hu": "Kattints Gaziantep tartományára a szír határ közelében.",
+        "ro": "Apasă pe provincia Gaziantep, aproape de granița cu Siria.",
+        "en": "Click Gaziantep Province near the Syrian border."
+      }
+    },
+    {
+      "id": "tr-region-van",
+      "type": "find_region",
+      "targetRegionId": "TUR-3048",
+      "question": {
+        "de": "Finde die Provinz Van rund um den Vansee im Osten.",
+        "hu": "Keresd meg Van tartományát a keleti Van-tó körül.",
+        "ro": "Găsește provincia Van din jurul lacului Van, în est.",
+        "en": "Find Van Province around Lake Van in the east."
+      }
+    },
+    {
+      "id": "tr-region-trabzon",
+      "type": "find_region",
+      "targetRegionId": "TUR-2302",
+      "question": {
+        "de": "Klicke auf die Provinz Trabzon an der östlichen Schwarzmeerküste.",
+        "hu": "Kattints Trabzon tartományára a Fekete-tenger keleti partján.",
+        "ro": "Apasă pe provincia Trabzon de pe coasta estică a Mării Negre.",
+        "en": "Click Trabzon Province on the eastern Black Sea coast."
+      }
+    },
+    {
+      "id": "tr-odd-black-sea-coast",
+      "type": "odd_one_out",
+      "poiIds": [
+        "ankara-cities-v2",
+        "samsun-cities-v2",
+        "kayseri-cities-v2"
+      ],
+      "targetPoiId": "samsun-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt an der Schwarzmeerküste?",
+        "hu": "E városok közül melyik fekszik a Fekete-tenger partján?",
+        "ro": "Care dintre aceste orașe se află pe coasta Mării Negre?",
+        "en": "Which of these cities is on the Black Sea coast?"
+      }
+    },
+    {
+      "id": "tr-odd-farthest-east",
+      "type": "odd_one_out",
+      "poiIds": [
+        "bursa-cities-v2",
+        "kayseri-cities-v2",
+        "van-cities-v2"
+      ],
+      "targetPoiId": "van-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten im Osten?",
+        "hu": "E városok közül melyik fekszik a legkeletebbre?",
+        "ro": "Care dintre aceste orașe se află cel mai la est?",
+        "en": "Which of these cities lies farthest east?"
+      }
+    },
+    {
+      "id": "tr-odd-mediterranean-port",
+      "type": "odd_one_out",
+      "poiIds": [
+        "samsun-cities-v2",
+        "mersin-cities-v2",
+        "erzurum-cities-v2"
+      ],
+      "targetPoiId": "mersin-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt an der Mittelmeerküste?",
+        "hu": "E városok közül melyik fekszik a Földközi-tenger partján?",
+        "ro": "Care dintre aceste orașe se află pe coasta Mediteranei?",
+        "en": "Which of these cities is on the Mediterranean coast?"
+      }
+    },
+    {
+      "id": "tr-odd-syrian-border",
+      "type": "odd_one_out",
+      "poiIds": [
+        "bursa-cities-v2",
+        "konya-cities-v2",
+        "gaziantep-cities-v2"
+      ],
+      "targetPoiId": "gaziantep-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt der syrischen Grenze am nächsten?",
+        "hu": "E városok közül melyik van legközelebb a szíriai határhoz?",
+        "ro": "Care dintre aceste orașe este cel mai aproape de granița cu Siria?",
+        "en": "Which of these cities is closest to the Syrian border?"
+      }
+    },
+    {
+      "id": "tr-odd-inland",
+      "type": "odd_one_out",
+      "poiIds": [
+        "izmir-cities-v2",
+        "trabzon-cities-v2",
+        "kayseri-cities-v2"
+      ],
+      "targetPoiId": "kayseri-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt nicht an einer Küste?",
+        "hu": "E városok közül melyik nem tengerparti?",
+        "ro": "Care dintre aceste orașe nu se află pe litoral?",
+        "en": "Which of these cities is not on a coast?"
+      }
+    },
+    {
+      "id": "tr-sequence-west-east-bursa-van",
+      "type": "sequence",
+      "poiIds": [
+        "bursa-cities-v2",
+        "ankara-cities-v2",
+        "kayseri-cities-v2",
+        "van-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "bursa-cities-v2",
+        "ankara-cities-v2",
+        "kayseri-cities-v2",
+        "van-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Bursa, Ankara, Kayseri und Van von Westen nach Osten an.",
+        "hu": "Kattints Bursára, Ankarára, Kayserire és Vanra nyugatról keletre.",
+        "ro": "Apasă pe Bursa, Ankara, Kayseri și Van de la vest la est.",
+        "en": "Click Bursa, Ankara, Kayseri and Van from west to east."
+      }
+    },
+    {
+      "id": "tr-sequence-north-south-samsun-adana",
+      "type": "sequence",
+      "poiIds": [
+        "samsun-cities-v2",
+        "ankara-cities-v2",
+        "adana-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "samsun-cities-v2",
+        "ankara-cities-v2",
+        "adana-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Samsun, Ankara und Adana von Norden nach Süden an.",
+        "hu": "Kattints Samsunra, Ankarára és Adanára északról délre.",
+        "ro": "Apasă pe Samsun, Ankara și Adana de la nord la sud.",
+        "en": "Click Samsun, Ankara and Adana from north to south."
+      }
+    },
+    {
+      "id": "tr-sequence-west-east-izmir-diyarbakir",
+      "type": "sequence",
+      "poiIds": [
+        "izmir-cities-v2",
+        "konya-cities-v2",
+        "diyarbakir-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "izmir-cities-v2",
+        "konya-cities-v2",
+        "diyarbakir-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Izmir, Konya und Diyarbakır von Westen nach Osten an.",
+        "hu": "Kattints Izmirre, Konyára és Diyarbakırra nyugatról keletre.",
+        "ro": "Apasă pe Izmir, Konya și Diyarbakır de la vest la est.",
+        "en": "Click Izmir, Konya and Diyarbakır from west to east."
+      }
+    },
+    {
+      "id": "tr-sequence-north-south-trabzon-mersin",
+      "type": "sequence",
+      "poiIds": [
+        "trabzon-cities-v2",
+        "malatya-cities-v2",
+        "mersin-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "trabzon-cities-v2",
+        "malatya-cities-v2",
+        "mersin-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Trabzon, Malatya und Mersin von Norden nach Süden an.",
+        "hu": "Kattints Trabzonra, Malatyára és Mersinre északról délre.",
+        "ro": "Apasă pe Trabzon, Malatya și Mersin de la nord la sud.",
+        "en": "Click Trabzon, Malatya and Mersin from north to south."
+      }
+    },
+    {
+      "id": "tr-sequence-west-east-thrace-marmara",
+      "type": "sequence",
+      "poiIds": [
+        "tekirdag-cities-v2",
+        "istanbul-cities-v2",
+        "izmit-cities-v2",
+        "adapazari-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "tekirdag-cities-v2",
+        "istanbul-cities-v2",
+        "izmit-cities-v2",
+        "adapazari-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Tekirdağ, Istanbul, İzmit und Adapazarı von Westen nach Osten an.",
+        "hu": "Kattints Tekirdağra, Isztambulra, İzmitre és Adapazarıra nyugatról keletre.",
+        "ro": "Apasă pe Tekirdağ, Istanbul, İzmit și Adapazarı de la vest la est.",
+        "en": "Click Tekirdağ, Istanbul, İzmit and Adapazarı from west to east."
+      }
+    }
+  ]
+}

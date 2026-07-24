@@ -1,0 +1,309 @@
+{
+  "pt": [
+    {
+      "id": "pt-find-aveiro-canals",
+      "type": "find_poi",
+      "targetPoiId": "city-aveiro",
+      "question": {
+        "de": "Finde Aveiro, die Stadt der Kan?le und Moliceiro-Boote.",
+        "hu": "Keresd meg Aveir?t, a csatorn?k ?s a moliceiro cs?nakok v?ros?t.",
+        "ro": "G?se?te Aveiro, ora?ul canalelor ?i al b?rcilor moliceiro.",
+        "en": "Find Aveiro, the city of canals and moliceiro boats."
+      }
+    },
+    {
+      "id": "pt-find-evora-alentejo",
+      "type": "find_poi",
+      "targetPoiId": "city-evora",
+      "question": {
+        "de": "Finde ?vora im Herzen des Alentejo.",
+        "hu": "Keresd meg ?vor?t Alentejo sz?v?ben.",
+        "ro": "G?se?te ?vora ?n inima regiunii Alentejo.",
+        "en": "Find ?vora in the heart of the Alentejo."
+      }
+    },
+    {
+      "id": "pt-find-braganca-northeast",
+      "type": "find_poi",
+      "targetPoiId": "city-braganca",
+      "question": {
+        "de": "Finde Bragan?a im ?u?ersten Nordosten Portugals.",
+        "hu": "Keresd meg Bragan??t Portug?lia leg?szakkeletibb r?sz?n.",
+        "ro": "G?se?te Bragan?a ?n extremul nord-est al Portugaliei.",
+        "en": "Find Bragan?a in the far northeast of Portugal."
+      }
+    },
+    {
+      "id": "pt-find-nazare-waves",
+      "type": "find_poi",
+      "targetPoiId": "portugal-nazare-cities-v2",
+      "question": {
+        "de": "Finde Nazar?, bekannt f?r riesige Atlantikwellen.",
+        "hu": "Keresd meg Nazar?t, amely az ?ri?si atlanti hull?mokr?l h?res.",
+        "ro": "G?se?te Nazar?, cunoscut pentru valurile uria?e ale Atlanticului.",
+        "en": "Find Nazar?, known for giant Atlantic waves."
+      }
+    },
+    {
+      "id": "pt-find-batalha-monastery",
+      "type": "find_poi",
+      "targetPoiId": "cult-batalha",
+      "question": {
+        "de": "Finde das Kloster von Batalha in Zentralportugal.",
+        "hu": "Keresd meg a batalhai kolostort K?z?p-Portug?li?ban.",
+        "ro": "G?se?te M?n?stirea Batalha din centrul Portugaliei.",
+        "en": "Find the Monastery of Batalha in central Portugal."
+      }
+    },
+    {
+      "id": "pt-region-braga",
+      "type": "find_region",
+      "targetRegionId": "PT-03",
+      "question": {
+        "de": "Klicke auf den Distrikt Braga im Nordwesten Portugals.",
+        "hu": "Kattints Braga ker?let?re Portug?lia ?szaknyugati r?sz?n.",
+        "ro": "Apas? pe districtul Braga din nord-vestul Portugaliei.",
+        "en": "Click the Braga district in northwestern Portugal."
+      }
+    },
+    {
+      "id": "pt-region-setubal",
+      "type": "find_region",
+      "targetRegionId": "PT-15",
+      "question": {
+        "de": "Finde den Distrikt Set?bal s?dlich von Lissabon.",
+        "hu": "Keresd meg a Lisszabont?l d?lre fekv? Set?bal ker?letet.",
+        "ro": "G?se?te districtul Set?bal, la sud de Lisabona.",
+        "en": "Find the Set?bal district south of Lisbon."
+      }
+    },
+    {
+      "id": "pt-region-viseu",
+      "type": "find_region",
+      "targetRegionId": "PT-18",
+      "question": {
+        "de": "Klicke auf den Distrikt Viseu im zentralen Bergland.",
+        "hu": "Kattints Viseu ker?let?re a k?z?p-portug?l hegyvid?ken.",
+        "ro": "Apas? pe districtul Viseu din zona muntoas? central?.",
+        "en": "Click the Viseu district in the central highlands."
+      }
+    },
+    {
+      "id": "pt-region-braganca",
+      "type": "find_region",
+      "targetRegionId": "PT-04",
+      "question": {
+        "de": "Finde den Distrikt Bragan?a an der Grenze zu Spanien im Nordosten.",
+        "hu": "Keresd meg Bragan?a ker?let?t a spanyol hat?r ment?n ?szakkeleten.",
+        "ro": "G?se?te districtul Bragan?a, la grani?a cu Spania ?n nord-est.",
+        "en": "Find the Bragan?a district on the Spanish border in the northeast."
+      }
+    },
+    {
+      "id": "pt-region-leiria",
+      "type": "find_region",
+      "targetRegionId": "PT-10",
+      "question": {
+        "de": "Klicke auf den Distrikt Leiria an der Atlantikk?ste n?rdlich von Lissabon.",
+        "hu": "Kattints a Lisszabont?l ?szakra fekv? atlanti parti Leiria ker?letre.",
+        "ro": "Apas? pe districtul Leiria de pe coasta Atlanticului, la nord de Lisabona.",
+        "en": "Click the Leiria district on the Atlantic coast north of Lisbon."
+      }
+    },
+    {
+      "id": "pt-odd-south-bank-lisbon",
+      "type": "odd_one_out",
+      "poiIds": [
+        "portugal-almada-cities-v2",
+        "portugal-seixal-cities-v2",
+        "portugal-montijo-cities-v2",
+        "portugal-amadora-cities-v2"
+      ],
+      "targetPoiId": "portugal-amadora-cities-v2",
+      "question": {
+        "de": "Welche dieser St?dte liegt nicht am S?dufer des Tejo gegen?ber von Lissabon?",
+        "hu": "Melyik v?ros nem a Tejo d?li partj?n, Lisszabonnal szemben fekszik?",
+        "ro": "Care dintre aceste ora?e nu se afl? pe malul sudic al Tajo, vizavi de Lisabona?",
+        "en": "Which of these cities is not on the south bank of the Tagus opposite Lisbon?"
+      }
+    },
+    {
+      "id": "pt-odd-not-algarve",
+      "type": "odd_one_out",
+      "poiIds": [
+        "portugal-albufeira-cities-v2",
+        "city-tavira",
+        "city-portimao",
+        "portugal-nazare-cities-v2"
+      ],
+      "targetPoiId": "portugal-nazare-cities-v2",
+      "question": {
+        "de": "Welche dieser Orte liegt nicht an der Algarve?",
+        "hu": "Melyik hely nem az Algarve r?gi?ban tal?lhat??",
+        "ro": "Care dintre aceste locuri nu se afl? ?n Algarve?",
+        "en": "Which of these places is not in the Algarve?"
+      }
+    },
+    {
+      "id": "pt-odd-inland-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "portugal-peniche-cities-v2",
+        "portugal-ericeira-cities-v2",
+        "portugal-nazare-cities-v2",
+        "city-evora"
+      ],
+      "targetPoiId": "city-evora",
+      "question": {
+        "de": "Welche dieser St?dte liegt als einzige nicht an der K?ste?",
+        "hu": "Melyik v?ros az egyetlen, amely nem a tengerparton fekszik?",
+        "ro": "Care dintre aceste ora?e este singurul care nu se afl? pe coast??",
+        "en": "Which of these cities is the only one that is not on the coast?"
+      }
+    },
+    {
+      "id": "pt-odd-border-town",
+      "type": "odd_one_out",
+      "poiIds": [
+        "portugal-valenca-cities-v2",
+        "city-braga",
+        "city-porto",
+        "city-coimbra"
+      ],
+      "targetPoiId": "portugal-valenca-cities-v2",
+      "question": {
+        "de": "Welche dieser St?dte liegt direkt an der spanischen Grenze?",
+        "hu": "Melyik v?ros fekszik k?zvetlen?l a spanyol hat?ron?",
+        "ro": "Care dintre aceste ora?e se afl? direct la grani?a cu Spania?",
+        "en": "Which of these towns lies directly on the Spanish border?"
+      }
+    },
+    {
+      "id": "pt-odd-douro-town",
+      "type": "odd_one_out",
+      "poiIds": [
+        "portugal-lamego-cities-v2",
+        "portugal-peso-da-regua-cities-v2",
+        "portugal-pinhao-cities-v2",
+        "city-setubal"
+      ],
+      "targetPoiId": "city-setubal",
+      "question": {
+        "de": "Welche dieser Orte liegt nicht im Douro-Weingebiet im Norden Portugals?",
+        "hu": "Melyik hely nem ?szak-Portug?lia Douro borvid?k?n tal?lhat??",
+        "ro": "Care dintre aceste locuri nu se afl? ?n regiunea viticol? Douro din nordul Portugaliei?",
+        "en": "Which of these places is not in the Douro wine region of northern Portugal?"
+      }
+    },
+    {
+      "id": "pt-sequence-inland-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "city-braganca",
+        "city-guarda",
+        "city-castelo-branco",
+        "city-beja"
+      ],
+      "orderedPoiIds": [
+        "city-braganca",
+        "city-guarda",
+        "city-castelo-branco",
+        "city-beja"
+      ],
+      "question": {
+        "de": "Klicke diese Binnenst?dte von Norden nach S?den an.",
+        "hu": "Kattints ezekre a bels? fekv?s? v?rosokra ?szakr?l d?lre haladva.",
+        "ro": "Apas? aceste ora?e din interior de la nord la sud.",
+        "en": "Click these inland cities from north to south."
+      }
+    },
+    {
+      "id": "pt-sequence-central-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "portugal-peniche-cities-v2",
+        "city-santarem",
+        "city-tomar",
+        "city-castelo-branco"
+      ],
+      "orderedPoiIds": [
+        "portugal-peniche-cities-v2",
+        "city-santarem",
+        "city-tomar",
+        "city-castelo-branco"
+      ],
+      "question": {
+        "de": "Klicke diese Orte in Mittelportugal von Westen nach Osten an.",
+        "hu": "Kattints ezekre a k?z?p-portug?liai helyekre nyugatr?l keletre.",
+        "ro": "Apas? aceste locuri din Portugalia central? de la vest la est.",
+        "en": "Click these places in central Portugal from west to east."
+      }
+    },
+    {
+      "id": "pt-sequence-northwest-south",
+      "type": "sequence",
+      "poiIds": [
+        "city-viana-do-castelo",
+        "city-braga",
+        "city-porto",
+        "city-aveiro"
+      ],
+      "orderedPoiIds": [
+        "city-viana-do-castelo",
+        "city-braga",
+        "city-porto",
+        "city-aveiro"
+      ],
+      "question": {
+        "de": "Klicke diese St?dte im Westen Portugals von Norden nach S?den an.",
+        "hu": "Kattints ezekre a nyugat-portug?liai v?rosokra ?szakr?l d?lre.",
+        "ro": "Apas? aceste ora?e din vestul Portugaliei de la nord la sud.",
+        "en": "Click these cities in western Portugal from north to south."
+      }
+    },
+    {
+      "id": "pt-sequence-algarve-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "portugal-sagres-cities-v2",
+        "city-portimao",
+        "portugal-albufeira-cities-v2",
+        "city-tavira"
+      ],
+      "orderedPoiIds": [
+        "portugal-sagres-cities-v2",
+        "city-portimao",
+        "portugal-albufeira-cities-v2",
+        "city-tavira"
+      ],
+      "question": {
+        "de": "Folge der Algarvek?ste: Klicke die Orte von Westen nach Osten an.",
+        "hu": "K?vesd az Algarve partj?t: kattints a helyekre nyugatr?l keletre.",
+        "ro": "Urmeaz? coasta Algarve: apas? locurile de la vest la est.",
+        "en": "Follow the Algarve coast: click the places from west to east."
+      }
+    },
+    {
+      "id": "pt-sequence-heritage-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "portugal-guimaraes-cities-v2",
+        "portugal-lamego-cities-v2",
+        "city-coimbra",
+        "city-evora"
+      ],
+      "orderedPoiIds": [
+        "portugal-guimaraes-cities-v2",
+        "portugal-lamego-cities-v2",
+        "city-coimbra",
+        "city-evora"
+      ],
+      "question": {
+        "de": "Klicke diese historischen Orte von Norden nach S?den an.",
+        "hu": "Kattints ezekre a t?rt?nelmi helyekre ?szakr?l d?lre.",
+        "ro": "Apas? aceste locuri istorice de la nord la sud.",
+        "en": "Click these historic places from north to south."
+      }
+    }
+  ]
+}

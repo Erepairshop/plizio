@@ -1,0 +1,294 @@
+{
+  "mt": [
+    {
+      "id": "mt-find-blue-lagoon-comino",
+      "type": "find_poi",
+      "targetPoiId": "poi-mt-blue-lagoon",
+      "question": {
+        "de": "Finde die Blue Lagoon auf der kleinen Insel Comino.",
+        "hu": "Keresd meg a Blue Lagooont a kis Comino szigeten.",
+        "ro": "Găsește Blue Lagoon de pe mica insulă Comino.",
+        "en": "Find the Blue Lagoon on the small island of Comino."
+      }
+    },
+    {
+      "id": "mt-find-hagar-qim",
+      "type": "find_poi",
+      "targetPoiId": "poi-mt-hagarqim",
+      "question": {
+        "de": "Finde die Tempelanlage Ħaġar Qim an Maltas Südküste.",
+        "hu": "Keresd meg a Ħaġar Qim templomegyüttest Málta déli partján.",
+        "ro": "Găsește complexul de temple Ħaġar Qim de pe coasta sudică a Maltei.",
+        "en": "Find the Ħaġar Qim temple complex on Malta's south coast."
+      }
+    },
+    {
+      "id": "mt-find-red-tower",
+      "type": "find_poi",
+      "targetPoiId": "poi-mt-red-tower",
+      "question": {
+        "de": "Finde den Red Tower hoch über dem Norden Maltas.",
+        "hu": "Keresd meg a Red Towert Málta északi részének magaslatán.",
+        "ro": "Găsește Red Tower de pe înălțimile nordului Maltei.",
+        "en": "Find the Red Tower high above northern Malta."
+      }
+    },
+    {
+      "id": "mt-find-citadel-gozo",
+      "type": "find_poi",
+      "targetPoiId": "poi-mt-citadel",
+      "question": {
+        "de": "Finde die Zitadelle im Herzen von Gozo.",
+        "hu": "Keresd meg a Citadellát Gozo szívében.",
+        "ro": "Găsește Citadela din inima insulei Gozo.",
+        "en": "Find the Citadel in the heart of Gozo."
+      }
+    },
+    {
+      "id": "mt-find-hypogeum-paola",
+      "type": "find_poi",
+      "targetPoiId": "poi-mt-hypogeum",
+      "question": {
+        "de": "Finde das unterirdische Ħal-Saflieni-Hypogäum in Paola.",
+        "hu": "Keresd meg a paolai föld alatti Ħal Saflieni Hypogeumot.",
+        "ro": "Găsește Hypogeumul subteran Ħal Saflieni din Paola.",
+        "en": "Find the underground Ħal Saflieni Hypogeum in Paola."
+      }
+    },
+    {
+      "id": "mt-find-wied-il-mielah",
+      "type": "find_poi",
+      "targetPoiId": "poi-mt-wied-il-mielah",
+      "question": {
+        "de": "Finde das Wied il-Mielaħ Window an der Nordwestküste von Gozo.",
+        "hu": "Keresd meg a Wied il-Mielaħ Windowt Gozo északnyugati partján.",
+        "ro": "Găsește formațiunea Wied il-Mielaħ Window de pe coasta nord-vestică a insulei Gozo.",
+        "en": "Find the Wied il-Mielaħ Window on Gozo's northwestern coast."
+      }
+    },
+    {
+      "id": "mt-region-qrendi",
+      "type": "find_region",
+      "targetRegionId": "MT-013",
+      "question": {
+        "de": "Klicke auf Qrendi, wo Ħaġar Qim liegt.",
+        "hu": "Kattints Qrendi településére, ahol Ħaġar Qim található.",
+        "ro": "Apasă pe Qrendi, unde se află Ħaġar Qim.",
+        "en": "Click Qrendi, where Ħaġar Qim is located."
+      }
+    },
+    {
+      "id": "mt-region-birzebbuga",
+      "type": "find_region",
+      "targetRegionId": "MT-015",
+      "question": {
+        "de": "Finde Birżebbuġa an Maltas Südküste.",
+        "hu": "Keresd meg Birżebbuġát Málta déli partján.",
+        "ro": "Găsește Birżebbuġa pe coasta sudică a Maltei.",
+        "en": "Find Birżebbuġa on Malta's southern coast."
+      }
+    },
+    {
+      "id": "mt-region-victoria-gozo",
+      "type": "find_region",
+      "targetRegionId": "MT-031",
+      "question": {
+        "de": "Klicke auf Victoria, den Hauptort von Gozo.",
+        "hu": "Kattints Victoriára, Gozo fő településére.",
+        "ro": "Apasă pe Victoria, localitatea principală a insulei Gozo.",
+        "en": "Click Victoria, the main town of Gozo."
+      }
+    },
+    {
+      "id": "mt-region-mellieha",
+      "type": "find_region",
+      "targetRegionId": "MT-008",
+      "question": {
+        "de": "Finde Mellieħa im Norden der Hauptinsel.",
+        "hu": "Keresd meg Mellieħát a fősziget északi részén.",
+        "ro": "Găsește Mellieħa în nordul insulei principale.",
+        "en": "Find Mellieħa in the north of the main island."
+      }
+    },
+    {
+      "id": "mt-region-zejtun",
+      "type": "find_region",
+      "targetRegionId": "MT-055",
+      "question": {
+        "de": "Klicke auf Żejtun im Südosten Maltas.",
+        "hu": "Kattints Żejtunra Málta délkeleti részén.",
+        "ro": "Apasă pe Żejtun în sud-estul Maltei.",
+        "en": "Click Żejtun in southeastern Malta."
+      }
+    },
+    {
+      "id": "mt-region-san-lawrenz",
+      "type": "find_region",
+      "targetRegionId": "MT-020",
+      "question": {
+        "de": "Finde San Lawrenz auf Gozos Westseite bei Dwejra.",
+        "hu": "Keresd meg San Lawrenzt Gozo nyugati oldalán, Dwejra közelében.",
+        "ro": "Găsește San Lawrenz în vestul insulei Gozo, lângă Dwejra.",
+        "en": "Find San Lawrenz on western Gozo near Dwejra."
+      }
+    },
+    {
+      "id": "mt-odd-comino",
+      "type": "odd_one_out",
+      "poiIds": [
+        "poi-mt-blue-lagoon",
+        "poi-mt-hagarqim",
+        "poi-mt-red-tower",
+        "poi-mt-citadel"
+      ],
+      "targetPoiId": "poi-mt-blue-lagoon",
+      "question": {
+        "de": "Welcher dieser Orte liegt auf Comino statt auf Malta oder Gozo?",
+        "hu": "Melyik hely található Comino szigetén, nem pedig Máltán vagy Gozón?",
+        "ro": "Care dintre aceste locuri se află pe Comino, nu pe Malta sau Gozo?",
+        "en": "Which of these places is on Comino rather than Malta or Gozo?"
+      }
+    },
+    {
+      "id": "mt-odd-gozo-landmark",
+      "type": "odd_one_out",
+      "poiIds": [
+        "poi-mt-citadel",
+        "poi-mt-hypogeum",
+        "poi-mt-hagarqim",
+        "poi-mt-red-tower"
+      ],
+      "targetPoiId": "poi-mt-citadel",
+      "question": {
+        "de": "Welcher dieser Orte liegt auf Gozo und nicht auf der Hauptinsel Malta?",
+        "hu": "Melyik hely található Gozón, és nem Málta főszigetén?",
+        "ro": "Care dintre aceste locuri se află pe Gozo și nu pe insula principală Malta?",
+        "en": "Which of these places is on Gozo rather than on Malta's main island?"
+      }
+    },
+    {
+      "id": "mt-odd-grand-harbour",
+      "type": "odd_one_out",
+      "poiIds": [
+        "city-valletta-extra",
+        "city-vittoriosa-birgu-extra",
+        "city-cospicua-bormla-extra",
+        "city-marsaxlokk-extra"
+      ],
+      "targetPoiId": "city-marsaxlokk-extra",
+      "question": {
+        "de": "Welche dieser Städte liegt nicht am Grand Harbour?",
+        "hu": "Melyik város nem a Grand Harbour partján fekszik?",
+        "ro": "Care dintre aceste orașe nu se află la Grand Harbour?",
+        "en": "Which of these towns is not on Grand Harbour?"
+      }
+    },
+    {
+      "id": "mt-odd-not-a-fort",
+      "type": "odd_one_out",
+      "poiIds": [
+        "poi-mt-hypogeum",
+        "poi-mt-fort-ricasoli",
+        "poi-mt-fort-leonardo",
+        "poi-mt-fortstangelo"
+      ],
+      "targetPoiId": "poi-mt-hypogeum",
+      "question": {
+        "de": "Welcher dieser Orte ist keine Festung?",
+        "hu": "Melyik hely nem erőd?",
+        "ro": "Care dintre aceste locuri nu este o fortificație?",
+        "en": "Which of these places is not a fort?"
+      }
+    },
+    {
+      "id": "mt-sequence-east-coast-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "city-st-pauls-bay-extra",
+        "city-sliema-extra",
+        "city-valletta-extra",
+        "city-marsaskala-extra",
+        "city-marsaxlokk-extra"
+      ],
+      "orderedPoiIds": [
+        "city-st-pauls-bay-extra",
+        "city-sliema-extra",
+        "city-valletta-extra",
+        "city-marsaskala-extra",
+        "city-marsaxlokk-extra"
+      ],
+      "question": {
+        "de": "Klicke diese Orte an Maltas Ostseite von Norden nach Süden an.",
+        "hu": "Kattints ezekre a helyekre Málta keleti oldalán északról délre haladva.",
+        "ro": "Apasă aceste locuri de pe latura estică a Maltei de la nord la sud.",
+        "en": "Click these places on Malta's eastern side from north to south."
+      }
+    },
+    {
+      "id": "mt-sequence-gozo-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "city-gharb-extra",
+        "city-victoria-rabat-gozo-extra",
+        "city-xaghra-extra",
+        "city-qala-extra"
+      ],
+      "orderedPoiIds": [
+        "city-gharb-extra",
+        "city-victoria-rabat-gozo-extra",
+        "city-xaghra-extra",
+        "city-qala-extra"
+      ],
+      "question": {
+        "de": "Klicke diese Orte auf Gozo von Westen nach Osten an.",
+        "hu": "Kattints ezekre a gozói helyekre nyugatról keletre.",
+        "ro": "Apasă aceste locuri din Gozo de la vest la est.",
+        "en": "Click these places on Gozo from west to east."
+      }
+    },
+    {
+      "id": "mt-sequence-archipelago-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "city-victoria-rabat-gozo-extra",
+        "poi-mt-blue-lagoon",
+        "city-mellieha-extra",
+        "city-valletta-extra"
+      ],
+      "orderedPoiIds": [
+        "city-victoria-rabat-gozo-extra",
+        "poi-mt-blue-lagoon",
+        "city-mellieha-extra",
+        "city-valletta-extra"
+      ],
+      "question": {
+        "de": "Klicke diese Orte im maltesischen Archipel von Norden nach Süden an.",
+        "hu": "Kattints ezekre a helyekre a máltai szigetvilágban északról délre.",
+        "ro": "Apasă aceste locuri din arhipelagul maltez de la nord la sud.",
+        "en": "Click these places in the Maltese archipelago from north to south."
+      }
+    },
+    {
+      "id": "mt-sequence-central-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "city-rabat-malta-extra",
+        "city-mosta-extra",
+        "city-naxxar-extra",
+        "city-st-julians-extra"
+      ],
+      "orderedPoiIds": [
+        "city-rabat-malta-extra",
+        "city-mosta-extra",
+        "city-naxxar-extra",
+        "city-st-julians-extra"
+      ],
+      "question": {
+        "de": "Klicke Rabat, Mosta, Naxxar und St. Julian's von Westen nach Osten an.",
+        "hu": "Kattints Rabatra, Mostára, Naxxarra és St. Julian'sra nyugatról keletre.",
+        "ro": "Apasă Rabat, Mosta, Naxxar și St. Julian's de la vest la est.",
+        "en": "Click Rabat, Mosta, Naxxar and St. Julian's from west to east."
+      }
+    }
+  ]
+}

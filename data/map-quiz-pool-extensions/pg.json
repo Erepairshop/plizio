@@ -1,0 +1,293 @@
+{
+  "pg": [
+    {
+      "id": "pg-find-madang",
+      "type": "find_poi",
+      "targetPoiId": "papua-new-guinea-madang-cities-v2",
+      "question": {
+        "de": "Finde Madang an der Nordk?ste Papua-Neuguineas.",
+        "hu": "Keresd meg Madangot P?pua ?j-Guinea ?szaki partj?n.",
+        "ro": "G?se?te Madang pe coasta de nord a statului Papua Noua Guinee.",
+        "en": "Find Madang on Papua New Guinea's north coast."
+      }
+    },
+    {
+      "id": "pg-find-goroka",
+      "type": "find_poi",
+      "targetPoiId": "papua-new-guinea-goroka-cities-v2",
+      "question": {
+        "de": "Finde Goroka im Osten des Hochlands.",
+        "hu": "Keresd meg Gorok?t a keleti hegyvid?ken.",
+        "ro": "G?se?te Goroka ?n partea estic? a regiunii ?nalte.",
+        "en": "Find Goroka in the eastern Highlands."
+      }
+    },
+    {
+      "id": "pg-find-alotau",
+      "type": "find_poi",
+      "targetPoiId": "papua-new-guinea-alotau-cities-v2",
+      "question": {
+        "de": "Finde Alotau an der Milne Bay im S?dosten.",
+        "hu": "Keresd meg Alotaut a d?lkeleti Milne Bay partj?n.",
+        "ro": "G?se?te Alotau la Golful Milne, ?n sud-est.",
+        "en": "Find Alotau on Milne Bay in the southeast."
+      }
+    },
+    {
+      "id": "pg-find-kavieng",
+      "type": "find_poi",
+      "targetPoiId": "papua-new-guinea-kavieng-cities-v2",
+      "question": {
+        "de": "Finde Kavieng an der Nordspitze von New Ireland.",
+        "hu": "Keresd meg Kavienget ?j-?rorsz?g ?szaki cs?cs?n.",
+        "ro": "G?se?te Kavieng la extremitatea nordic? a insulei New Ireland.",
+        "en": "Find Kavieng at the northern tip of New Ireland."
+      }
+    },
+    {
+      "id": "pg-find-buka",
+      "type": "find_poi",
+      "targetPoiId": "papua-new-guinea-buka-cities-v2",
+      "question": {
+        "de": "Finde Buka n?rdlich von Bougainville.",
+        "hu": "Keresd meg Buk?t Bougainville-t?l ?szakra.",
+        "ro": "G?se?te Buka la nord de Bougainville.",
+        "en": "Find Buka north of Bougainville."
+      }
+    },
+    {
+      "id": "pg-find-kiunga",
+      "type": "find_poi",
+      "targetPoiId": "papua-new-guinea-kiunga-cities-v2",
+      "question": {
+        "de": "Finde Kiunga im abgelegenen Westen nahe der Grenze zu Indonesien.",
+        "hu": "Keresd meg Kiung?t a t?voli nyugaton, az indon?z hat?r k?zel?ben.",
+        "ro": "G?se?te Kiunga ?n vestul ?ndep?rtat, aproape de grani?a cu Indonezia.",
+        "en": "Find Kiunga in the remote west near the Indonesian border."
+      }
+    },
+    {
+      "id": "pg-region-western-highlands",
+      "type": "find_region",
+      "targetRegionId": "PNG-1247",
+      "question": {
+        "de": "Klicke auf Western Highlands.",
+        "hu": "Kattints a Western Highlands tartom?nyra.",
+        "ro": "Apas? pe provincia Western Highlands.",
+        "en": "Click Western Highlands Province."
+      }
+    },
+    {
+      "id": "pg-region-eastern-highlands",
+      "type": "find_region",
+      "targetRegionId": "PNG-1243",
+      "question": {
+        "de": "Finde Eastern Highlands ?stlich von Chimbu.",
+        "hu": "Keresd meg Eastern Highlands tartom?nyt Chimbut?l keletre.",
+        "ro": "G?se?te provincia Eastern Highlands la est de Chimbu.",
+        "en": "Find Eastern Highlands east of Chimbu."
+      }
+    },
+    {
+      "id": "pg-region-gulf",
+      "type": "find_region",
+      "targetRegionId": "PNG-1244",
+      "question": {
+        "de": "Klicke auf Gulf an der S?dk?ste westlich der Central Province.",
+        "hu": "Kattints a d?li parton, Centralt?l nyugatra fekv? Gulf tartom?nyra.",
+        "ro": "Apas? pe provincia Gulf de pe coasta sudic?, la vest de Central.",
+        "en": "Click Gulf on the south coast west of Central Province."
+      }
+    },
+    {
+      "id": "pg-region-east-new-britain",
+      "type": "find_region",
+      "targetRegionId": "PNG-1250",
+      "question": {
+        "de": "Finde East New Britain mit Rabaul und Kokopo.",
+        "hu": "Keresd meg East New Britain tartom?nyt Rabaullal ?s Kokop?val.",
+        "ro": "G?se?te provincia East New Britain, cu Rabaul ?i Kokopo.",
+        "en": "Find East New Britain, home to Rabaul and Kokopo."
+      }
+    },
+    {
+      "id": "pg-region-new-ireland",
+      "type": "find_region",
+      "targetRegionId": "PNG-1255",
+      "question": {
+        "de": "Klicke auf New Ireland nord?stlich von New Britain.",
+        "hu": "Kattints New Ireland tartom?nyra ?j-Britanni?t?l ?szakkeletre.",
+        "ro": "Apas? pe provincia New Ireland, la nord-est de New Britain.",
+        "en": "Click New Ireland northeast of New Britain."
+      }
+    },
+    {
+      "id": "pg-odd-northernmost-kavieng",
+      "type": "odd_one_out",
+      "poiIds": [
+        "papua-new-guinea-port-moresby-cities-v2",
+        "papua-new-guinea-madang-cities-v2",
+        "papua-new-guinea-kavieng-cities-v2"
+      ],
+      "targetPoiId": "papua-new-guinea-kavieng-cities-v2",
+      "question": {
+        "de": "Welche dieser St?dte liegt am weitesten im Norden?",
+        "hu": "Melyik v?ros fekszik a leg?szakabbra?",
+        "ro": "Care dintre aceste ora?e se afl? cel mai la nord?",
+        "en": "Which of these towns lies farthest north?"
+      }
+    },
+    {
+      "id": "pg-odd-southernmost-alotau",
+      "type": "odd_one_out",
+      "poiIds": [
+        "papua-new-guinea-wewak-cities-v2",
+        "papua-new-guinea-lae-cities-v2",
+        "papua-new-guinea-alotau-cities-v2"
+      ],
+      "targetPoiId": "papua-new-guinea-alotau-cities-v2",
+      "question": {
+        "de": "Welche dieser St?dte liegt am weitesten im S?den?",
+        "hu": "Melyik v?ros fekszik a legd?lebbre?",
+        "ro": "Care dintre aceste ora?e se afl? cel mai la sud?",
+        "en": "Which of these towns lies farthest south?"
+      }
+    },
+    {
+      "id": "pg-odd-westernmost-daru",
+      "type": "odd_one_out",
+      "poiIds": [
+        "papua-new-guinea-daru-cities-v2",
+        "papua-new-guinea-port-moresby-cities-v2",
+        "papua-new-guinea-popondetta-cities-v2"
+      ],
+      "targetPoiId": "papua-new-guinea-daru-cities-v2",
+      "question": {
+        "de": "Welche dieser St?dte liegt am weitesten im Westen?",
+        "hu": "Melyik v?ros fekszik a legnyugatabbra?",
+        "ro": "Care dintre aceste ora?e se afl? cel mai la vest?",
+        "en": "Which of these towns lies farthest west?"
+      }
+    },
+    {
+      "id": "pg-odd-highlands-goroka",
+      "type": "odd_one_out",
+      "poiIds": [
+        "papua-new-guinea-goroka-cities-v2",
+        "papua-new-guinea-kerema-cities-v2",
+        "papua-new-guinea-alotau-cities-v2"
+      ],
+      "targetPoiId": "papua-new-guinea-goroka-cities-v2",
+      "question": {
+        "de": "Welche dieser St?dte liegt im Hochland?",
+        "hu": "Melyik v?ros tal?lhat? a hegyvid?ken?",
+        "ro": "Care dintre aceste ora?e se afl? ?n regiunea ?nalt??",
+        "en": "Which of these towns is in the Highlands?"
+      }
+    },
+    {
+      "id": "pg-odd-new-ireland-kavieng",
+      "type": "odd_one_out",
+      "poiIds": [
+        "papua-new-guinea-kavieng-cities-v2",
+        "papua-new-guinea-madang-cities-v2",
+        "papua-new-guinea-kimbe-cities-v2"
+      ],
+      "targetPoiId": "papua-new-guinea-kavieng-cities-v2",
+      "question": {
+        "de": "Welche dieser St?dte liegt auf New Ireland?",
+        "hu": "Melyik v?ros tal?lhat? ?j-?rorsz?g sziget?n?",
+        "ro": "Care dintre aceste ora?e se afl? pe insula New Ireland?",
+        "en": "Which of these towns is on New Ireland?"
+      }
+    },
+    {
+      "id": "pg-sequence-south-coast-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "papua-new-guinea-daru-cities-v2",
+        "papua-new-guinea-port-moresby-cities-v2",
+        "papua-new-guinea-popondetta-cities-v2",
+        "papua-new-guinea-alotau-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "papua-new-guinea-daru-cities-v2",
+        "papua-new-guinea-port-moresby-cities-v2",
+        "papua-new-guinea-popondetta-cities-v2",
+        "papua-new-guinea-alotau-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Daru, Port Moresby, Popondetta und Alotau von Westen nach Osten an.",
+        "hu": "Kattints Darura, Port Moresbyre, Popondett?ra ?s Alotaura nyugatr?l keletre.",
+        "ro": "Apas? pe Daru, Port Moresby, Popondetta ?i Alotau de la vest la est.",
+        "en": "Click Daru, Port Moresby, Popondetta and Alotau from west to east."
+      }
+    },
+    {
+      "id": "pg-sequence-highlands-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "papua-new-guinea-wabag-cities-v2",
+        "papua-new-guinea-mount-hagen-cities-v2",
+        "papua-new-guinea-goroka-cities-v2",
+        "papua-new-guinea-kainantu-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "papua-new-guinea-wabag-cities-v2",
+        "papua-new-guinea-mount-hagen-cities-v2",
+        "papua-new-guinea-goroka-cities-v2",
+        "papua-new-guinea-kainantu-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Wabag, Mount Hagen, Goroka und Kainantu von Westen nach Osten an.",
+        "hu": "Kattints Wabagra, Mount Hagenre, Gorok?ra ?s Kainantura nyugatr?l keletre.",
+        "ro": "Apas? pe Wabag, Mount Hagen, Goroka ?i Kainantu de la vest la est.",
+        "en": "Click Wabag, Mount Hagen, Goroka and Kainantu from west to east."
+      }
+    },
+    {
+      "id": "pg-sequence-north-coast-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "papua-new-guinea-vanimo-cities-v2",
+        "papua-new-guinea-wewak-cities-v2",
+        "papua-new-guinea-madang-cities-v2",
+        "papua-new-guinea-kavieng-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "papua-new-guinea-vanimo-cities-v2",
+        "papua-new-guinea-wewak-cities-v2",
+        "papua-new-guinea-madang-cities-v2",
+        "papua-new-guinea-kavieng-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Vanimo, Wewak, Madang und Kavieng von Westen nach Osten an.",
+        "hu": "Kattints Vanim?ra, Wewakra, Madangra ?s Kaviengre nyugatr?l keletre.",
+        "ro": "Apas? pe Vanimo, Wewak, Madang ?i Kavieng de la vest la est.",
+        "en": "Click Vanimo, Wewak, Madang and Kavieng from west to east."
+      }
+    },
+    {
+      "id": "pg-sequence-north-south-islands-mainland",
+      "type": "sequence",
+      "poiIds": [
+        "papua-new-guinea-kavieng-cities-v2",
+        "papua-new-guinea-rabaul-cities-v2",
+        "papua-new-guinea-lae-cities-v2",
+        "papua-new-guinea-port-moresby-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "papua-new-guinea-kavieng-cities-v2",
+        "papua-new-guinea-rabaul-cities-v2",
+        "papua-new-guinea-lae-cities-v2",
+        "papua-new-guinea-port-moresby-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Kavieng, Rabaul, Lae und Port Moresby von Norden nach S?den an.",
+        "hu": "Kattints Kaviengre, Rabaulra, Lae-re ?s Port Moresbyre ?szakr?l d?lre.",
+        "ro": "Apas? pe Kavieng, Rabaul, Lae ?i Port Moresby de la nord la sud.",
+        "en": "Click Kavieng, Rabaul, Lae and Port Moresby from north to south."
+      }
+    }
+  ]
+}

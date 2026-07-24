@@ -1,0 +1,326 @@
+{
+  "tm": [
+    {
+      "id": "tm-find-dasoguz",
+      "type": "find_poi",
+      "targetPoiId": "tm-dasoguz-cities-v2",
+      "question": {
+        "de": "Zeige Da\u015foguz auf der Karte.",
+        "hu": "Mutasd meg Da\u015foguzt a t\u00e9rk\u00e9pen.",
+        "ro": "Arat\u0103 Da\u0219oguz pe hart\u0103.",
+        "en": "Point to Da\u015foguz on the map."
+      }
+    },
+    {
+      "id": "tm-find-turkmenbasy",
+      "type": "find_poi",
+      "targetPoiId": "tm-turkmenbasy-cities-v2",
+      "question": {
+        "de": "Zeige T\u00fcrkmenba\u015fy auf der Karte.",
+        "hu": "Mutasd meg T\u00fcrkmenba\u015fyt a t\u00e9rk\u00e9pen.",
+        "ro": "Arat\u0103 T\u00fcrkmenba\u0219\u00ee pe hart\u0103.",
+        "en": "Point to T\u00fcrkmenba\u015fy on the map."
+      }
+    },
+    {
+      "id": "tm-find-kerki",
+      "type": "find_poi",
+      "targetPoiId": "tm-kerki-cities-v2",
+      "question": {
+        "de": "Zeige Kerki auf der Karte.",
+        "hu": "Mutasd meg Kerkit a t\u00e9rk\u00e9pen.",
+        "ro": "Arat\u0103 Kerki pe hart\u0103.",
+        "en": "Point to Kerki on the map."
+      }
+    },
+    {
+      "id": "tm-find-koneurgenc",
+      "type": "find_poi",
+      "targetPoiId": "tm-koneurgenc-cities-v2",
+      "question": {
+        "de": "Zeige K\u00f6ne\u00fcrgen\u00e7 auf der Karte.",
+        "hu": "Mutasd meg K\u00f6ne\u00fcrgen\u00e7et a t\u00e9rk\u00e9pen.",
+        "ro": "Arat\u0103 K\u00f6ne\u00fcrgen\u00e7 pe hart\u0103.",
+        "en": "Point to K\u00f6ne\u00fcrgen\u00e7 on the map."
+      }
+    },
+    {
+      "id": "tm-find-darvaza-crater",
+      "type": "find_poi",
+      "targetPoiId": "tm-darvaza-gas-crater-landmarks-v2",
+      "question": {
+        "de": "Finde den Darvaza-Gaskrater auf der Karte.",
+        "hu": "Keresd meg a Darvaza g\u00e1zkr\u00e1tert a t\u00e9rk\u00e9pen.",
+        "ro": "G\u0103se\u0219te craterul de gaz Darvaza pe hart\u0103.",
+        "en": "Find the Darvaza Gas Crater on the map."
+      }
+    },
+    {
+      "id": "tm-find-ancient-merv",
+      "type": "find_poi",
+      "targetPoiId": "tm-ancient-merv-landmarks-v2",
+      "question": {
+        "de": "Finde das antike Merw auf der Karte.",
+        "hu": "Keresd meg az \u00f3kori Mervet a t\u00e9rk\u00e9pen.",
+        "ro": "G\u0103se\u0219te Mervul antic pe hart\u0103.",
+        "en": "Find Ancient Merv on the map."
+      }
+    },
+    {
+      "id": "tm-region-balkan",
+      "type": "find_region",
+      "targetRegionId": "TKM-351",
+      "question": {
+        "de": "Klicke auf die Region Balkan.",
+        "hu": "Kattints a Balk\u00e1n r\u00e9gi\u00f3ra.",
+        "ro": "Apas\u0103 pe regiunea Balkan.",
+        "en": "Click the Balkan region."
+      }
+    },
+    {
+      "id": "tm-region-tashauz",
+      "type": "find_region",
+      "targetRegionId": "TKM-353",
+      "question": {
+        "de": "Klicke auf die Region Tashauz.",
+        "hu": "Kattints a Tashauz r\u00e9gi\u00f3ra.",
+        "ro": "Apas\u0103 pe regiunea Tashauz.",
+        "en": "Click the Tashauz region."
+      }
+    },
+    {
+      "id": "tm-odd-north-koneurgenc",
+      "type": "odd_one_out",
+      "poiIds": [
+        "tm-ashgabat-cities-v2",
+        "tm-mary-cities-v2",
+        "tm-dasoguz-cities-v2",
+        "tm-koneurgenc-cities-v2"
+      ],
+      "targetPoiId": "tm-koneurgenc-cities-v2",
+      "question": {
+        "de": "Welche dieser St\u00e4dte liegt am weitesten n\u00f6rdlich?",
+        "hu": "E v\u00e1rosok k\u00f6z\u00fcl melyik fekszik a leg\u00e9szakabbra?",
+        "ro": "Care dintre aceste ora\u0219e se afl\u0103 cel mai la nord?",
+        "en": "Which of these cities lies furthest north?"
+      }
+    },
+    {
+      "id": "tm-odd-east-magdanly",
+      "type": "odd_one_out",
+      "poiIds": [
+        "tm-balkanabat-cities-v2",
+        "tm-mary-cities-v2",
+        "tm-kerki-cities-v2",
+        "tm-magdanly-cities-v2"
+      ],
+      "targetPoiId": "tm-magdanly-cities-v2",
+      "question": {
+        "de": "Welche dieser St\u00e4dte liegt am weitesten \u00f6stlich?",
+        "hu": "E v\u00e1rosok k\u00f6z\u00fcl melyik fekszik a legkeletebbre?",
+        "ro": "Care dintre aceste ora\u0219e se afl\u0103 cel mai la est?",
+        "en": "Which of these cities lies furthest east?"
+      }
+    },
+    {
+      "id": "tm-odd-west-hazar",
+      "type": "odd_one_out",
+      "poiIds": [
+        "tm-tejen-cities-v2",
+        "tm-ashgabat-cities-v2",
+        "tm-hazar-cities-v2",
+        "tm-turkmenabat-cities-v2"
+      ],
+      "targetPoiId": "tm-hazar-cities-v2",
+      "question": {
+        "de": "Welche dieser St\u00e4dte liegt am weitesten westlich?",
+        "hu": "E v\u00e1rosok k\u00f6z\u00fcl melyik fekszik a legnyugatabbra?",
+        "ro": "Care dintre aceste ora\u0219e se afl\u0103 cel mai la vest?",
+        "en": "Which of these cities lies furthest west?"
+      }
+    },
+    {
+      "id": "tm-odd-south-yoloten",
+      "type": "odd_one_out",
+      "poiIds": [
+        "tm-dasoguz-cities-v2",
+        "tm-balkanabat-cities-v2",
+        "tm-ashgabat-cities-v2",
+        "tm-yoloten-cities-v2"
+      ],
+      "targetPoiId": "tm-yoloten-cities-v2",
+      "question": {
+        "de": "Welche dieser St\u00e4dte liegt am weitesten s\u00fcdlich?",
+        "hu": "E v\u00e1rosok k\u00f6z\u00fcl melyik fekszik a legd\u00e9lebbre?",
+        "ro": "Care dintre aceste ora\u0219e se afl\u0103 cel mai la sud?",
+        "en": "Which of these cities lies furthest south?"
+      }
+    },
+    {
+      "id": "tm-odd-north-turkmenbasy",
+      "type": "odd_one_out",
+      "poiIds": [
+        "tm-serdar-cities-v2",
+        "tm-bereket-cities-v2",
+        "tm-hazar-cities-v2",
+        "tm-turkmenbasy-cities-v2"
+      ],
+      "targetPoiId": "tm-turkmenbasy-cities-v2",
+      "question": {
+        "de": "Welche dieser St\u00e4dte liegt am weitesten n\u00f6rdlich?",
+        "hu": "E v\u00e1rosok k\u00f6z\u00fcl melyik fekszik a leg\u00e9szakabbra?",
+        "ro": "Care dintre aceste ora\u0219e se afl\u0103 cel mai la nord?",
+        "en": "Which of these cities lies furthest north?"
+      }
+    },
+    {
+      "id": "tm-odd-east-farap",
+      "type": "odd_one_out",
+      "poiIds": [
+        "tm-ashgabat-cities-v2",
+        "tm-tejen-cities-v2",
+        "tm-bayramaly-cities-v2",
+        "tm-farap-cities-v2"
+      ],
+      "targetPoiId": "tm-farap-cities-v2",
+      "question": {
+        "de": "Welche dieser St\u00e4dte liegt am weitesten \u00f6stlich?",
+        "hu": "E v\u00e1rosok k\u00f6z\u00fcl melyik fekszik a legkeletebbre?",
+        "ro": "Care dintre aceste ora\u0219e se afl\u0103 cel mai la est?",
+        "en": "Which of these cities lies furthest east?"
+      }
+    },
+    {
+      "id": "tm-order-west-east-caspian-corridor",
+      "type": "sequence",
+      "poiIds": [
+        "tm-hazar-cities-v2",
+        "tm-balkanabat-cities-v2",
+        "tm-bereket-cities-v2",
+        "tm-ashgabat-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "tm-hazar-cities-v2",
+        "tm-balkanabat-cities-v2",
+        "tm-bereket-cities-v2",
+        "tm-ashgabat-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die St\u00e4dte von Westen nach Osten an: Hazar, Balkanabat, Bereket, Aschgabat.",
+        "hu": "Kattints a v\u00e1rosokra nyugatr\u00f3l keletre: Hazar, Balkanabat, Bereket, Asgabat.",
+        "ro": "Apas\u0103 ora\u0219ele de la vest la est: Hazar, Balkanabat, Bereket, A\u0219gabat.",
+        "en": "Click the cities from west to east: Hazar, Balkanabat, Bereket, Ashgabat."
+      }
+    },
+    {
+      "id": "tm-order-west-east-oasis-line",
+      "type": "sequence",
+      "poiIds": [
+        "tm-anau-cities-v2",
+        "tm-kaka-cities-v2",
+        "tm-tejen-cities-v2",
+        "tm-mary-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "tm-anau-cities-v2",
+        "tm-kaka-cities-v2",
+        "tm-tejen-cities-v2",
+        "tm-mary-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die St\u00e4dte von Westen nach Osten an: \u00c4new, Kaka, Tejen, Mary.",
+        "hu": "Kattints a v\u00e1rosokra nyugatr\u00f3l keletre: \u00c4new, Kaka, Tejen, Mary.",
+        "ro": "Apas\u0103 ora\u0219ele de la vest la est: \u00c4new, Kaka, Tejen, Mary.",
+        "en": "Click the cities from west to east: \u00c4new, Kaka, Tejen, Mary."
+      }
+    },
+    {
+      "id": "tm-order-west-east-southern-belt",
+      "type": "sequence",
+      "poiIds": [
+        "tm-balkanabat-cities-v2",
+        "tm-ashgabat-cities-v2",
+        "tm-bayramaly-cities-v2",
+        "tm-kerki-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "tm-balkanabat-cities-v2",
+        "tm-ashgabat-cities-v2",
+        "tm-bayramaly-cities-v2",
+        "tm-kerki-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die St\u00e4dte von Westen nach Osten an: Balkanabat, Aschgabat, Ba\u00fdramaly, Kerki.",
+        "hu": "Kattints a v\u00e1rosokra nyugatr\u00f3l keletre: Balkanabat, Asgabat, Ba\u00fdramily, Kerki.",
+        "ro": "Apas\u0103 ora\u0219ele de la vest la est: Balkanabat, A\u0219gabat, Ba\u00fdramaly, Kerki.",
+        "en": "Click the cities from west to east: Balkanabat, Ashgabat, Ba\u00fdramaly, Kerki."
+      }
+    },
+    {
+      "id": "tm-order-east-west-amu-darya",
+      "type": "sequence",
+      "poiIds": [
+        "tm-farap-cities-v2",
+        "tm-seydi-cities-v2",
+        "tm-bayramaly-cities-v2",
+        "tm-tejen-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "tm-farap-cities-v2",
+        "tm-seydi-cities-v2",
+        "tm-bayramaly-cities-v2",
+        "tm-tejen-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die St\u00e4dte von Osten nach Westen an: Farap, Se\u00fddi, Ba\u00fdramaly, Tejen.",
+        "hu": "Kattints a v\u00e1rosokra keletr\u0151l nyugatra: Farap, Se\u00fddi, Ba\u00fdramily, Tejen.",
+        "ro": "Apas\u0103 ora\u0219ele de la est la vest: Farap, Se\u00fddi, Ba\u00fdramaly, Tejen.",
+        "en": "Click the cities from east to west: Farap, Se\u00fddi, Ba\u00fdramaly, Tejen."
+      }
+    },
+    {
+      "id": "tm-order-north-south-caspian",
+      "type": "sequence",
+      "poiIds": [
+        "tm-koneurgenc-cities-v2",
+        "tm-dasoguz-cities-v2",
+        "tm-turkmenbasy-cities-v2",
+        "tm-hazar-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "tm-koneurgenc-cities-v2",
+        "tm-dasoguz-cities-v2",
+        "tm-turkmenbasy-cities-v2",
+        "tm-hazar-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die St\u00e4dte von Norden nach S\u00fcden an: K\u00f6ne\u00fcrgen\u00e7, Da\u015foguz, T\u00fcrkmenba\u015fy, Hazar.",
+        "hu": "Kattints a v\u00e1rosokra \u00e9szakr\u00f3l d\u00e9lre: K\u00f6ne\u00fcrgen\u00e7, Da\u015foguz, T\u00fcrkmenba\u015fy, Hazar.",
+        "ro": "Apas\u0103 ora\u0219ele de la nord la sud: K\u00f6ne\u00fcrgen\u00e7, Da\u0219oguz, T\u00fcrkmenba\u0219\u00ee, Hazar.",
+        "en": "Click the cities from north to south: K\u00f6ne\u00fcrgen\u00e7, Da\u015foguz, T\u00fcrkmenba\u015fy, Hazar."
+      }
+    },
+    {
+      "id": "tm-order-north-south-interior",
+      "type": "sequence",
+      "poiIds": [
+        "tm-serdar-cities-v2",
+        "tm-ashgabat-cities-v2",
+        "tm-tejen-cities-v2",
+        "tm-yoloten-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "tm-serdar-cities-v2",
+        "tm-ashgabat-cities-v2",
+        "tm-tejen-cities-v2",
+        "tm-yoloten-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die St\u00e4dte von Norden nach S\u00fcden an: Serdar, Aschgabat, Tejen, \u00ddol\u00f6ten.",
+        "hu": "Kattints a v\u00e1rosokra \u00e9szakr\u00f3l d\u00e9lre: Serdar, Asgabat, Tejen, \u00ddol\u00f6ten.",
+        "ro": "Apas\u0103 ora\u0219ele de la nord la sud: Serdar, A\u0219gabat, Tejen, \u00ddol\u00f6ten.",
+        "en": "Click the cities from north to south: Serdar, Ashgabat, Tejen, \u00ddol\u00f6ten."
+      }
+    }
+  ]
+}

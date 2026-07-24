@@ -1,0 +1,298 @@
+{
+  "pl": [
+    {
+      "id": "pl-find-lodz-city",
+      "type": "find_poi",
+      "targetPoiId": "poland-lodz-cities-v2",
+      "question": {
+        "de": "Finde Łódź in Zentralpolen auf der Karte.",
+        "hu": "Keresd meg Łódźot Közép-Lengyelországban a térképen.",
+        "ro": "Găsește Łódź în centrul Poloniei pe hartă.",
+        "en": "Find Łódź in central Poland on the map."
+      }
+    },
+    {
+      "id": "pl-find-bialystok-city",
+      "type": "find_poi",
+      "targetPoiId": "poland-bialystok-cities-v2",
+      "question": {
+        "de": "Welche Großstadt liegt im Nordosten Polens? Finde Białystok.",
+        "hu": "Melyik nagyváros fekszik Lengyelország északkeleti részén? Keresd meg Białystokot.",
+        "ro": "Ce oraș mare se află în nord-estul Poloniei? Găsește Białystok.",
+        "en": "Which major city lies in northeastern Poland? Find Białystok."
+      }
+    },
+    {
+      "id": "pl-find-torun-city",
+      "type": "find_poi",
+      "targetPoiId": "poland-torun-cities-v2",
+      "question": {
+        "de": "Finde Toruń an der Weichsel.",
+        "hu": "Keresd meg Toruńt a Visztula partján.",
+        "ro": "Găsește Toruń pe râul Vistula.",
+        "en": "Find Toruń on the Vistula River."
+      }
+    },
+    {
+      "id": "pl-find-gdynia-city",
+      "type": "find_poi",
+      "targetPoiId": "poland-gdynia-cities-v2",
+      "question": {
+        "de": "Finde Gdynia, eine Hafenstadt an der Ostsee.",
+        "hu": "Keresd meg Gdyniát, a Balti-tenger egyik kikötővárosát.",
+        "ro": "Găsește Gdynia, un oraș-port la Marea Baltică.",
+        "en": "Find Gdynia, a port city on the Baltic Sea."
+      }
+    },
+    {
+      "id": "pl-find-zakopane-city",
+      "type": "find_poi",
+      "targetPoiId": "poland-zakopane-cities-v2",
+      "question": {
+        "de": "Finde Zakopane am Fuß der Tatra im Süden Polens.",
+        "hu": "Keresd meg Zakopanét a Tátra lábánál, Lengyelország déli részén.",
+        "ro": "Găsește Zakopane la poalele Tatrilor, în sudul Poloniei.",
+        "en": "Find Zakopane at the foot of the Tatras in southern Poland."
+      }
+    },
+    {
+      "id": "pl-find-wieliczka-salt-mine",
+      "type": "find_poi",
+      "targetPoiId": "poland-wieliczka-salt-mine-economic-v2",
+      "question": {
+        "de": "Wo liegt das Salzbergwerk Wieliczka bei Krakau?",
+        "hu": "Hol található a krakkói Wieliczkai sóbánya?",
+        "ro": "Unde se află mina de sare Wieliczka de lângă Cracovia?",
+        "en": "Where is the Wieliczka Salt Mine near Kraków?"
+      }
+    },
+    {
+      "id": "pl-region-west-pomeranian",
+      "type": "find_region",
+      "targetRegionId": "PL-ZP",
+      "question": {
+        "de": "Klicke auf die Woiwodschaft Westpommern mit Szczecin.",
+        "hu": "Kattints a Nyugat-pomerániai vajdaságra, ahol Szczecin található.",
+        "ro": "Apasă pe Voievodatul Pomerania Occidentală, unde se află Szczecin.",
+        "en": "Click the West Pomeranian Voivodeship, where Szczecin is located."
+      }
+    },
+    {
+      "id": "pl-region-warmian-masurian",
+      "type": "find_region",
+      "targetRegionId": "PL-WN",
+      "question": {
+        "de": "Finde die Woiwodschaft Ermland-Masuren mit Olsztyn.",
+        "hu": "Keresd meg a Warmia-Mazúriai vajdaságot, ahol Olsztyn fekszik.",
+        "ro": "Găsește Voievodatul Warmia-Mazuria, unde se află Olsztyn.",
+        "en": "Find the Warmian-Masurian Voivodeship, where Olsztyn is located."
+      }
+    },
+    {
+      "id": "pl-region-lublin",
+      "type": "find_region",
+      "targetRegionId": "PL-LU",
+      "question": {
+        "de": "Welche Woiwodschaft im Osten umfasst die Stadt Lublin? Klicke sie an.",
+        "hu": "Melyik keleti vajdaság foglalja magában Lublint? Kattints rá.",
+        "ro": "Ce voievodat din est include orașul Lublin? Apasă pe el.",
+        "en": "Which eastern voivodeship includes the city of Lublin? Click it."
+      }
+    },
+    {
+      "id": "pl-region-silesian",
+      "type": "find_region",
+      "targetRegionId": "PL-SL",
+      "question": {
+        "de": "Finde die Woiwodschaft Schlesien mit Katowice.",
+        "hu": "Keresd meg a Sziléziai vajdaságot, ahol Katowice található.",
+        "ro": "Găsește Voievodatul Silezia, unde se află Katowice.",
+        "en": "Find the Silesian Voivodeship, where Katowice is located."
+      }
+    },
+    {
+      "id": "pl-region-subcarpathian",
+      "type": "find_region",
+      "targetRegionId": "PL-PK",
+      "question": {
+        "de": "Klicke auf die Woiwodschaft Karpatenvorland mit Rzeszów.",
+        "hu": "Kattints a Kárpátaljai előteret jelentő Kárpátaljai vajdaságra, ahol Rzeszów fekszik.",
+        "ro": "Apasă pe Voievodatul Subcarpatic, unde se află Rzeszów.",
+        "en": "Click the Subcarpathian Voivodeship, where Rzeszów is located."
+      }
+    },
+    {
+      "id": "pl-odd-not-baltic-city",
+      "type": "odd_one_out",
+      "targetPoiId": "poland-olsztyn-cities-v2",
+      "poiIds": [
+        "poland-gdansk-cities-v2",
+        "poland-gdynia-cities-v2",
+        "poland-sopot-cities-v2",
+        "poland-olsztyn-cities-v2"
+      ],
+      "question": {
+        "de": "Welche dieser Städte liegt nicht an der polnischen Ostseeküste?",
+        "hu": "Melyik város nem a lengyel Balti-tenger partján fekszik?",
+        "ro": "Care dintre aceste orașe nu se află pe litoralul polonez al Mării Baltice?",
+        "en": "Which of these cities is not on Poland's Baltic coast?"
+      }
+    },
+    {
+      "id": "pl-odd-not-voivodeship-capital",
+      "type": "odd_one_out",
+      "targetPoiId": "poland-sandomierz-cities-v2",
+      "poiIds": [
+        "poland-warsaw-cities-v2",
+        "poland-poznan-cities-v2",
+        "poland-lublin-cities-v2",
+        "poland-sandomierz-cities-v2"
+      ],
+      "question": {
+        "de": "Welche dieser Städte ist keine Hauptstadt einer Woiwodschaft?",
+        "hu": "Melyik város nem vajdasági székhely?",
+        "ro": "Care dintre aceste orașe nu este capitală de voievodat?",
+        "en": "Which of these cities is not a voivodeship capital?"
+      }
+    },
+    {
+      "id": "pl-odd-salt-mine",
+      "type": "odd_one_out",
+      "targetPoiId": "poland-wieliczka-salt-mine-economic-v2",
+      "poiIds": [
+        "poland-wieliczka-salt-mine-economic-v2",
+        "poland-port-of-gdansk-economic-v2",
+        "poland-poznan-international-fair-economic-v2",
+        "poland-warsaw-business-district-economic-v2"
+      ],
+      "question": {
+        "de": "Welche dieser Orte ist ein Salzbergwerk?",
+        "hu": "Melyik helyszín sóbánya?",
+        "ro": "Care dintre aceste locuri este o mină de sare?",
+        "en": "Which of these places is a salt mine?"
+      }
+    },
+    {
+      "id": "pl-odd-tatra-town",
+      "type": "odd_one_out",
+      "targetPoiId": "poland-zakopane-cities-v2",
+      "poiIds": [
+        "poland-zakopane-cities-v2",
+        "poland-bydgoszcz-cities-v2",
+        "poland-plock-cities-v2",
+        "poland-torun-cities-v2"
+      ],
+      "question": {
+        "de": "Welche dieser Städte liegt in der Nähe der Tatra?",
+        "hu": "Melyik város fekszik a Tátra közelében?",
+        "ro": "Care dintre aceste orașe se află aproape de Munții Tatra?",
+        "en": "Which of these cities lies near the Tatra Mountains?"
+      }
+    },
+    {
+      "id": "pl-odd-tricity-member",
+      "type": "odd_one_out",
+      "targetPoiId": "poland-sopot-cities-v2",
+      "poiIds": [
+        "poland-sopot-cities-v2",
+        "poland-olsztyn-cities-v2",
+        "poland-bialystok-cities-v2",
+        "poland-kielce-cities-v2"
+      ],
+      "question": {
+        "de": "Welche dieser Städte gehört zur Dreistadt an der Ostsee?",
+        "hu": "Melyik város tartozik a Balti-tenger parti Hármasvároshoz?",
+        "ro": "Care dintre aceste orașe face parte din Trójmiasto de la Marea Baltică?",
+        "en": "Which of these cities belongs to the Baltic Tricity?"
+      }
+    },
+    {
+      "id": "pl-sequence-south-north-zakopane-gdansk",
+      "type": "sequence",
+      "poiIds": [
+        "poland-zakopane-cities-v2",
+        "poland-krakow-cities-v2",
+        "poland-lodz-cities-v2",
+        "poland-gdansk-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "poland-zakopane-cities-v2",
+        "poland-krakow-cities-v2",
+        "poland-lodz-cities-v2",
+        "poland-gdansk-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke diese Orte von Süd nach Nord an: Zakopane, Krakau, Łódź, Danzig.",
+        "hu": "Kattints ezekre a helyekre délről északra: Zakopane, Krakkó, Łódź, Gdańsk.",
+        "ro": "Apasă aceste locuri de la sud la nord: Zakopane, Cracovia, Łódź, Gdańsk.",
+        "en": "Click these places from south to north: Zakopane, Kraków, Łódź, Gdańsk."
+      }
+    },
+    {
+      "id": "pl-sequence-west-east-szczecin-bialystok",
+      "type": "sequence",
+      "poiIds": [
+        "poland-szczecin-cities-v2",
+        "poland-poznan-cities-v2",
+        "poland-lodz-cities-v2",
+        "poland-bialystok-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "poland-szczecin-cities-v2",
+        "poland-poznan-cities-v2",
+        "poland-lodz-cities-v2",
+        "poland-bialystok-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die Städte von West nach Ost an: Szczecin, Posen, Łódź, Białystok.",
+        "hu": "Kattints a városokra nyugatról keletre: Szczecin, Poznań, Łódź, Białystok.",
+        "ro": "Apasă orașele de la vest la est: Szczecin, Poznań, Łódź, Białystok.",
+        "en": "Click the cities from west to east: Szczecin, Poznań, Łódź, Białystok."
+      }
+    },
+    {
+      "id": "pl-sequence-west-east-wroclaw-przemysl",
+      "type": "sequence",
+      "poiIds": [
+        "poland-wroclaw-cities-v2",
+        "poland-krakow-cities-v2",
+        "poland-rzeszow-cities-v2",
+        "poland-przemysl-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "poland-wroclaw-cities-v2",
+        "poland-krakow-cities-v2",
+        "poland-rzeszow-cities-v2",
+        "poland-przemysl-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke diese südpolnischen Städte von West nach Ost an: Breslau, Krakau, Rzeszów, Przemyśl.",
+        "hu": "Kattints ezekre a dél-lengyelországi városokra nyugatról keletre: Wrocław, Krakkó, Rzeszów, Przemyśl.",
+        "ro": "Apasă aceste orașe din sudul Poloniei de la vest la est: Wrocław, Cracovia, Rzeszów, Przemyśl.",
+        "en": "Click these southern Polish cities from west to east: Wrocław, Kraków, Rzeszów, Przemyśl."
+      }
+    },
+    {
+      "id": "pl-sequence-maritime-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "poland-swinoujscie-lng-terminal-economic-v2",
+        "poland-port-of-szczecin-economic-v2",
+        "poland-port-of-gdynia-economic-v2",
+        "poland-port-of-gdansk-economic-v2"
+      ],
+      "orderedPoiIds": [
+        "poland-swinoujscie-lng-terminal-economic-v2",
+        "poland-port-of-szczecin-economic-v2",
+        "poland-port-of-gdynia-economic-v2",
+        "poland-port-of-gdansk-economic-v2"
+      ],
+      "question": {
+        "de": "Klicke diese maritimen Orte von West nach Ost an: LNG-Terminal Świnoujście, Hafen von Szczecin, Hafen von Gdynia, Hafen von Danzig.",
+        "hu": "Kattints ezekre a tengeri helyszínekre nyugatról keletre: Świnoujście LNG-terminál, Szczecin kikötője, Gdynia kikötője, Gdańsk kikötője.",
+        "ro": "Apasă aceste locuri maritime de la vest la est: terminalul LNG din Świnoujście, portul Szczecin, portul Gdynia, portul Gdańsk.",
+        "en": "Click these maritime sites from west to east: Świnoujście LNG Terminal, Port of Szczecin, Port of Gdynia, Port of Gdańsk."
+      }
+    }
+  ]
+}

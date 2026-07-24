@@ -1,0 +1,303 @@
+{
+  "co": [
+    {
+      "id": "co-find-barranquilla",
+      "type": "find_poi",
+      "targetPoiId": "barranquilla-cities-v2",
+      "question": {
+        "de": "Finde Barranquilla an der Karibikküste.",
+        "hu": "Keresd meg Barranquillát a Karib-tenger partján.",
+        "ro": "Găsește Barranquilla pe coasta Caraibelor.",
+        "en": "Find Barranquilla on the Caribbean coast."
+      }
+    },
+    {
+      "id": "co-find-cali",
+      "type": "find_poi",
+      "targetPoiId": "cali-cities-v2",
+      "question": {
+        "de": "Finde Cali im Valle del Cauca.",
+        "hu": "Keresd meg Calit Valle del Cauca megyében.",
+        "ro": "Găsește Cali în departamentul Valle del Cauca.",
+        "en": "Find Cali in Valle del Cauca Department."
+      }
+    },
+    {
+      "id": "co-find-san-andres",
+      "type": "find_poi",
+      "targetPoiId": "san-andres-cities-v2",
+      "question": {
+        "de": "Finde San Andrés in der Karibik.",
+        "hu": "Keresd meg San Andrést a Karib-tengeren.",
+        "ro": "Găsește San Andrés în Caraibe.",
+        "en": "Find San Andrés in the Caribbean."
+      }
+    },
+    {
+      "id": "co-find-pasto",
+      "type": "find_poi",
+      "targetPoiId": "pasto-cities-v2",
+      "question": {
+        "de": "Finde Pasto im Süden Kolumbiens nahe Ecuador.",
+        "hu": "Keresd meg Pastót Kolumbia déli részén, Ecuador közelében.",
+        "ro": "Găsește Pasto în sudul Columbiei, aproape de Ecuador.",
+        "en": "Find Pasto in southern Colombia near Ecuador."
+      }
+    },
+    {
+      "id": "co-find-cucuta",
+      "type": "find_poi",
+      "targetPoiId": "cucuta-cities-v2",
+      "question": {
+        "de": "Finde Cúcuta an der Grenze zu Venezuela.",
+        "hu": "Keresd meg Cúcutát a venezuelai határnál.",
+        "ro": "Găsește Cúcuta la granița cu Venezuela.",
+        "en": "Find Cúcuta on the border with Venezuela."
+      }
+    },
+    {
+      "id": "co-find-villavicencio",
+      "type": "find_poi",
+      "targetPoiId": "villavicencio-cities-v2",
+      "question": {
+        "de": "Finde Villavicencio am Rand der Llanos.",
+        "hu": "Keresd meg Villavicenciót a Llanos peremén.",
+        "ro": "Găsește Villavicencio la marginea regiunii Llanos.",
+        "en": "Find Villavicencio on the edge of the Llanos."
+      }
+    },
+    {
+      "id": "co-region-choco",
+      "type": "find_region",
+      "targetRegionId": "COL-1415",
+      "question": {
+        "de": "Klicke auf Chocó an der Pazifikküste.",
+        "hu": "Kattints Chocó megyére a csendes-óceáni partvidéken.",
+        "ro": "Apasă pe Chocó de pe coasta Pacificului.",
+        "en": "Click Chocó on the Pacific coast."
+      }
+    },
+    {
+      "id": "co-region-cundinamarca",
+      "type": "find_region",
+      "targetRegionId": "COL-1398",
+      "question": {
+        "de": "Finde Cundinamarca, das Departamento rund um Bogotá.",
+        "hu": "Keresd meg Cundinamarca megyét, amely Bogotá körül fekszik.",
+        "ro": "Găsește Cundinamarca, departamentul care înconjoară Bogotá.",
+        "en": "Find Cundinamarca, the department surrounding Bogotá."
+      }
+    },
+    {
+      "id": "co-region-meta",
+      "type": "find_region",
+      "targetRegionId": "COL-1425",
+      "question": {
+        "de": "Finde Meta östlich der Anden.",
+        "hu": "Keresd meg Meta megyét az Andoktól keletre.",
+        "ro": "Găsește Meta la est de Anzi.",
+        "en": "Find Meta east of the Andes."
+      }
+    },
+    {
+      "id": "co-region-san-andres-providencia",
+      "type": "find_region",
+      "targetRegionId": "COL-1342",
+      "question": {
+        "de": "Klicke auf San Andrés y Providencia, das Inseldepartamento.",
+        "hu": "Kattints San Andrés y Providencia szigeti megyére.",
+        "ro": "Apasă pe San Andrés y Providencia, departamentul insular.",
+        "en": "Click San Andrés y Providencia, the island department."
+      }
+    },
+    {
+      "id": "co-region-narino",
+      "type": "find_region",
+      "targetRegionId": "COL-1406",
+      "question": {
+        "de": "Finde Nariño im äußersten Südwesten Kolumbiens.",
+        "hu": "Keresd meg Nariño megyét Kolumbia legdélnyugatibb részén.",
+        "ro": "Găsește Nariño în extremul sud-vest al Columbiei.",
+        "en": "Find Nariño in Colombia's far southwest."
+      }
+    },
+    {
+      "id": "co-odd-valle-del-cauca",
+      "type": "odd_one_out",
+      "poiIds": [
+        "cali-cities-v2",
+        "palmira-cities-v2",
+        "buenaventura-cities-v2",
+        "armenia-cities-v2"
+      ],
+      "targetPoiId": "armenia-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht im Departamento Valle del Cauca?",
+        "hu": "Melyik hely nem Valle del Cauca megyében található?",
+        "ro": "Care dintre aceste locuri nu se află în departamentul Valle del Cauca?",
+        "en": "Which of these places is not in Valle del Cauca Department?"
+      }
+    },
+    {
+      "id": "co-odd-boyaca",
+      "type": "odd_one_out",
+      "poiIds": [
+        "tunja-cities-v2",
+        "duitama-cities-v2",
+        "sogamoso-cities-v2",
+        "zipaquira-cities-v2"
+      ],
+      "targetPoiId": "zipaquira-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht im Departamento Boyacá?",
+        "hu": "Melyik hely nem Boyacá megyében található?",
+        "ro": "Care dintre aceste locuri nu se află în departamentul Boyacá?",
+        "en": "Which of these places is not in Boyacá Department?"
+      }
+    },
+    {
+      "id": "co-odd-caribbean-coast",
+      "type": "odd_one_out",
+      "poiIds": [
+        "barranquilla-cities-v2",
+        "santa-marta-cities-v2",
+        "riohacha-cities-v2",
+        "cucuta-cities-v2"
+      ],
+      "targetPoiId": "cucuta-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht an Kolumbiens Karibikseite?",
+        "hu": "Melyik hely nem Kolumbia karibi oldalán fekszik?",
+        "ro": "Care dintre aceste locuri nu se află pe latura caraibiană a Columbiei?",
+        "en": "Which of these places is not on Colombia's Caribbean side?"
+      }
+    },
+    {
+      "id": "co-odd-lowlands",
+      "type": "odd_one_out",
+      "poiIds": [
+        "villavicencio-cities-v2",
+        "san-jose-del-guaviare-cities-v2",
+        "inirida-cities-v2",
+        "manizales-cities-v2"
+      ],
+      "targetPoiId": "manizales-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht in den östlichen Tiefländern oder an ihrem Rand?",
+        "hu": "Melyik hely nem a keleti alföldön vagy annak peremén fekszik?",
+        "ro": "Care dintre aceste locuri nu se află în câmpiile estice sau la marginea lor?",
+        "en": "Which of these places is not in the eastern lowlands or on their edge?"
+      }
+    },
+    {
+      "id": "co-order-caribbean-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "riohacha-cities-v2",
+        "santa-marta-cities-v2",
+        "barranquilla-cities-v2",
+        "cartagena-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "riohacha-cities-v2",
+        "santa-marta-cities-v2",
+        "barranquilla-cities-v2",
+        "cartagena-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Riohacha, Santa Marta, Barranquilla und Cartagena von Nord nach Süd an.",
+        "hu": "Kattints Riohachára, Santa Martára, Barranquillára és Cartagenára északról délre.",
+        "ro": "Apasă Riohacha, Santa Marta, Barranquilla și Cartagena de la nord la sud.",
+        "en": "Click Riohacha, Santa Marta, Barranquilla, and Cartagena from north to south."
+      }
+    },
+    {
+      "id": "co-order-west-east-cross-country",
+      "type": "sequence",
+      "poiIds": [
+        "quibdo-cities-v2",
+        "medellin-cities-v2",
+        "bogota-cities-v2",
+        "puerto-carreno-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "quibdo-cities-v2",
+        "medellin-cities-v2",
+        "bogota-cities-v2",
+        "puerto-carreno-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die Orte von West nach Ost an.",
+        "hu": "Kattints a helyekre nyugatról keletre haladva.",
+        "ro": "Apasă locurile de la vest la est.",
+        "en": "Click the places from west to east."
+      }
+    },
+    {
+      "id": "co-order-east-south-lowlands",
+      "type": "sequence",
+      "poiIds": [
+        "puerto-carreno-cities-v2",
+        "inirida-cities-v2",
+        "san-jose-del-guaviare-cities-v2",
+        "leticia-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "puerto-carreno-cities-v2",
+        "inirida-cities-v2",
+        "san-jose-del-guaviare-cities-v2",
+        "leticia-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Puerto Carreño, Inírida, San José del Guaviare und Leticia von Nord nach Süd an.",
+        "hu": "Kattints Puerto Carreñóra, Iníridára, San José del Guaviaréra és Leticiára északról délre.",
+        "ro": "Apasă Puerto Carreño, Inírida, San José del Guaviare și Leticia de la nord la sud.",
+        "en": "Click Puerto Carreño, Inírida, San José del Guaviare, and Leticia from north to south."
+      }
+    },
+    {
+      "id": "co-order-andean-corridor",
+      "type": "sequence",
+      "poiIds": [
+        "neiva-cities-v2",
+        "bogota-cities-v2",
+        "bucaramanga-cities-v2",
+        "cucuta-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "neiva-cities-v2",
+        "bogota-cities-v2",
+        "bucaramanga-cities-v2",
+        "cucuta-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die Städte entlang des östlichen Andenkorridors von West nach Ost an.",
+        "hu": "Kattints a városokra a keleti andoki folyosó mentén nyugatról keletre.",
+        "ro": "Apasă orașele de-a lungul coridorului andin estic de la vest la est.",
+        "en": "Click the cities along the eastern Andean corridor from west to east."
+      }
+    },
+    {
+      "id": "co-order-pacific-to-capital",
+      "type": "sequence",
+      "poiIds": [
+        "buenaventura-cities-v2",
+        "cali-cities-v2",
+        "armenia-cities-v2",
+        "bogota-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "buenaventura-cities-v2",
+        "cali-cities-v2",
+        "armenia-cities-v2",
+        "bogota-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die Orte vom Pazifik Richtung Landesinneres von West nach Ost an.",
+        "hu": "Kattints a helyekre a Csendes-óceántól a belső területek felé nyugatról keletre.",
+        "ro": "Apasă locurile de la Pacific spre interior, de la vest la est.",
+        "en": "Click the places from the Pacific toward the interior from west to east."
+      }
+    }
+  ]
+}

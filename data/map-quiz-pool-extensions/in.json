@@ -1,0 +1,302 @@
+{
+  "in": [
+    {
+      "id": "in-find-amritsar-v2",
+      "type": "find_poi",
+      "targetPoiId": "amritsar-cities-v2",
+      "question": {
+        "de": "Finde Amritsar im Nordwesten Indiens.",
+        "hu": "Keresd meg Amritszárt India északnyugati részén.",
+        "ro": "Găsește Amritsar în nord-vestul Indiei.",
+        "en": "Find Amritsar in northwestern India."
+      }
+    },
+    {
+      "id": "in-find-leh-v2",
+      "type": "find_poi",
+      "targetPoiId": "india-leh-cities-v2",
+      "question": {
+        "de": "Finde Leh hoch im Himalaya von Ladakh.",
+        "hu": "Keresd meg Lehet Ladakh magas himalájai térségében.",
+        "ro": "Găsește Leh sus în Himalaya din Ladakh.",
+        "en": "Find Leh high in Ladakh's Himalayas."
+      }
+    },
+    {
+      "id": "in-find-gangtok-v2",
+      "type": "find_poi",
+      "targetPoiId": "india-gangtok-cities-v2",
+      "question": {
+        "de": "Klicke auf Gangtok im Osten des Himalaya.",
+        "hu": "Kattints Gangtokra a Himalája keleti részén.",
+        "ro": "Apasă pe Gangtok în estul Himalayei.",
+        "en": "Click Gangtok in the eastern Himalayas."
+      }
+    },
+    {
+      "id": "in-find-puri-v2",
+      "type": "find_poi",
+      "targetPoiId": "india-puri-cities-v2",
+      "question": {
+        "de": "Finde Puri an der Küste der Bucht von Bengalen.",
+        "hu": "Keresd meg Purit a Bengáli-öböl partján.",
+        "ro": "Găsește Puri pe coasta Golfului Bengal.",
+        "en": "Find Puri on the Bay of Bengal coast."
+      }
+    },
+    {
+      "id": "in-find-port-blair-v2",
+      "type": "find_poi",
+      "targetPoiId": "india-port-blair-cities-v2",
+      "question": {
+        "de": "Finde Port Blair auf den Andamanen.",
+        "hu": "Keresd meg Port Blairt az Andamán-szigeteken.",
+        "ro": "Găsește Port Blair în Insulele Andaman.",
+        "en": "Find Port Blair in the Andaman Islands."
+      }
+    },
+    {
+      "id": "in-region-ladakh-v2",
+      "type": "find_region",
+      "targetRegionId": "IND-20012",
+      "question": {
+        "de": "Klicke auf Ladakh.",
+        "hu": "Kattints Ladakhra.",
+        "ro": "Apasă pe Ladakh.",
+        "en": "Click Ladakh."
+      }
+    },
+    {
+      "id": "in-region-gujarat-v2",
+      "type": "find_region",
+      "targetRegionId": "IND-3264",
+      "question": {
+        "de": "Klicke auf den Bundesstaat Gujarat.",
+        "hu": "Kattints Gujarat államra.",
+        "ro": "Apasă pe statul Gujarat.",
+        "en": "Click the state of Gujarat."
+      }
+    },
+    {
+      "id": "in-region-west-bengal-v2",
+      "type": "find_region",
+      "targetRegionId": "IND-3257",
+      "question": {
+        "de": "Klicke auf Westbengalen.",
+        "hu": "Kattints Nyugat-Bengál államra.",
+        "ro": "Apasă pe Bengalul de Vest.",
+        "en": "Click West Bengal."
+      }
+    },
+    {
+      "id": "in-region-sikkim-v2",
+      "type": "find_region",
+      "targetRegionId": "IND-3259",
+      "question": {
+        "de": "Klicke auf Sikkim.",
+        "hu": "Kattints Szikkim államra.",
+        "ro": "Apasă pe Sikkim.",
+        "en": "Click Sikkim."
+      }
+    },
+    {
+      "id": "in-region-andaman-nicobar-v2",
+      "type": "find_region",
+      "targetRegionId": "IND-2474",
+      "question": {
+        "de": "Klicke auf Andamanen und Nikobaren.",
+        "hu": "Kattints az Andamán- és Nikobár-szigetekre.",
+        "ro": "Apasă pe Insulele Andaman și Nicobar.",
+        "en": "Click the Andaman and Nicobar Islands."
+      }
+    },
+    {
+      "id": "in-odd-eastmost-kolkata-v2",
+      "type": "odd_one_out",
+      "poiIds": [
+        "amritsar-cities-v2",
+        "bhopal-cities-v2",
+        "india-kolkata-cities-v2"
+      ],
+      "targetPoiId": "india-kolkata-cities-v2",
+      "question": {
+        "de": "Welche dieser Orte liegt am weitesten im Osten?",
+        "hu": "Melyik hely fekszik a legkeletebbre?",
+        "ro": "Care dintre aceste locuri se află cel mai la est?",
+        "en": "Which of these places lies farthest east?"
+      }
+    },
+    {
+      "id": "in-odd-northmost-leh-v2",
+      "type": "odd_one_out",
+      "poiIds": [
+        "india-leh-cities-v2",
+        "jaipur-cities-v2",
+        "india-puri-cities-v2"
+      ],
+      "targetPoiId": "india-leh-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Norden?",
+        "hu": "Melyik hely fekszik a legészakabbra?",
+        "ro": "Care dintre aceste locuri se află cel mai la nord?",
+        "en": "Which of these places lies farthest north?"
+      }
+    },
+    {
+      "id": "in-odd-southmost-port-blair-v2",
+      "type": "odd_one_out",
+      "poiIds": [
+        "varanasi-cities-v2",
+        "visakhapatnam-cities-v2",
+        "india-port-blair-cities-v2"
+      ],
+      "targetPoiId": "india-port-blair-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Süden?",
+        "hu": "Melyik hely fekszik a legdélebbre?",
+        "ro": "Care dintre aceste locuri se află cel mai la sud?",
+        "en": "Which of these places lies farthest south?"
+      }
+    },
+    {
+      "id": "in-odd-westmost-dwarka-v2",
+      "type": "odd_one_out",
+      "poiIds": [
+        "india-dwarka-cities-v2",
+        "lucknow-cities-v2",
+        "india-shillong-cities-v2"
+      ],
+      "targetPoiId": "india-dwarka-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Westen?",
+        "hu": "Melyik hely fekszik a legnyugatabbra?",
+        "ro": "Care dintre aceste locuri se află cel mai la vest?",
+        "en": "Which of these places lies farthest west?"
+      }
+    },
+    {
+      "id": "in-odd-southmost-kavaratti-v2",
+      "type": "odd_one_out",
+      "poiIds": [
+        "india-kavaratti-cities-v2",
+        "india-goa-cities-v2",
+        "nagpur-cities-v2"
+      ],
+      "targetPoiId": "india-kavaratti-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Süden?",
+        "hu": "Melyik hely fekszik a legdélebbre?",
+        "ro": "Care dintre aceste locuri se află cel mai la sud?",
+        "en": "Which of these places lies farthest south?"
+      }
+    },
+    {
+      "id": "in-sequence-west-east-dwarka-gangtok-v2",
+      "type": "sequence",
+      "poiIds": [
+        "india-dwarka-cities-v2",
+        "bhopal-cities-v2",
+        "varanasi-cities-v2",
+        "india-gangtok-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "india-dwarka-cities-v2",
+        "bhopal-cities-v2",
+        "varanasi-cities-v2",
+        "india-gangtok-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Dwarka, Bhopal, Varanasi und Gangtok von Westen nach Osten an.",
+        "hu": "Kattints Dwarkára, Bhópálra, Váránaszira és Gangtokra nyugatról keletre.",
+        "ro": "Apasă pe Dwarka, Bhopal, Varanasi și Gangtok de la vest la est.",
+        "en": "Click Dwarka, Bhopal, Varanasi, and Gangtok from west to east."
+      }
+    },
+    {
+      "id": "in-sequence-north-south-leh-puri-v2",
+      "type": "sequence",
+      "poiIds": [
+        "india-leh-cities-v2",
+        "amritsar-cities-v2",
+        "jaipur-cities-v2",
+        "india-puri-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "india-leh-cities-v2",
+        "amritsar-cities-v2",
+        "jaipur-cities-v2",
+        "india-puri-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Leh, Amritsar, Jaipur und Puri von Norden nach Süden an.",
+        "hu": "Kattints Lehre, Amritszárra, Dzsajpurra és Purira északról délre.",
+        "ro": "Apasă pe Leh, Amritsar, Jaipur și Puri de la nord la sud.",
+        "en": "Click Leh, Amritsar, Jaipur, and Puri from north to south."
+      }
+    },
+    {
+      "id": "in-sequence-west-east-ahmedabad-port-blair-v2",
+      "type": "sequence",
+      "poiIds": [
+        "ahmedabad-cities-v2",
+        "nagpur-cities-v2",
+        "visakhapatnam-cities-v2",
+        "india-port-blair-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "ahmedabad-cities-v2",
+        "nagpur-cities-v2",
+        "visakhapatnam-cities-v2",
+        "india-port-blair-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Ahmedabad, Nagpur, Visakhapatnam und Port Blair von Westen nach Osten an.",
+        "hu": "Kattints Ahmedábádra, Nágpurra, Visákhapatnamra és Port Blairre nyugatról keletre.",
+        "ro": "Apasă pe Ahmedabad, Nagpur, Visakhapatnam și Port Blair de la vest la est.",
+        "en": "Click Ahmedabad, Nagpur, Visakhapatnam, and Port Blair from west to east."
+      }
+    },
+    {
+      "id": "in-sequence-andaman-west-east-v2",
+      "type": "sequence",
+      "poiIds": [
+        "india-port-blair-cities-v2",
+        "india-havelock-island-swaraj-dweep-cities-v2",
+        "india-neil-island-shaheed-dweep-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "india-port-blair-cities-v2",
+        "india-havelock-island-swaraj-dweep-cities-v2",
+        "india-neil-island-shaheed-dweep-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Port Blair, Havelock Island und Neil Island von Westen nach Osten an.",
+        "hu": "Kattints Port Blairre, Havelock Islandra és Neil Islandra nyugatról keletre.",
+        "ro": "Apasă pe Port Blair, Havelock Island și Neil Island de la vest la est.",
+        "en": "Click Port Blair, Havelock Island, and Neil Island from west to east."
+      }
+    },
+    {
+      "id": "in-sequence-north-south-shillong-port-blair-v2",
+      "type": "sequence",
+      "poiIds": [
+        "india-shillong-cities-v2",
+        "india-kolkata-cities-v2",
+        "india-puri-cities-v2",
+        "india-port-blair-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "india-shillong-cities-v2",
+        "india-kolkata-cities-v2",
+        "india-puri-cities-v2",
+        "india-port-blair-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Shillong, Kolkata, Puri und Port Blair von Norden nach Süden an.",
+        "hu": "Kattints Shillongra, Kolkatára, Purira és Port Blairre északról délre.",
+        "ro": "Apasă pe Shillong, Kolkata, Puri și Port Blair de la nord la sud.",
+        "en": "Click Shillong, Kolkata, Puri, and Port Blair from north to south."
+      }
+    }
+  ]
+}

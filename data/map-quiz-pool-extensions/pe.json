@@ -1,0 +1,307 @@
+{
+  "pe": [
+    {
+      "id": "pe-find-kuelap",
+      "type": "find_poi",
+      "targetPoiId": "kuelap-landmarks-v2",
+      "question": {
+        "de": "Finde die Festung Kuélap im Norden Perus.",
+        "hu": "Keresd meg Kuélap erődjét Peru északi részén.",
+        "ro": "Găsește fortăreața Kuélap din nordul statului Peru.",
+        "en": "Find the fortress of Kuélap in northern Peru."
+      }
+    },
+    {
+      "id": "pe-find-huaraz",
+      "type": "find_poi",
+      "targetPoiId": "peru-huaraz-cities-v2",
+      "question": {
+        "de": "Finde Huaraz in den Anden der Region Áncash.",
+        "hu": "Keresd meg Huarazt Ancash andoki részén.",
+        "ro": "Găsește Huaraz în Anzii din regiunea Áncash.",
+        "en": "Find Huaraz in the Andes of Áncash."
+      }
+    },
+    {
+      "id": "pe-find-lake-titicaca",
+      "type": "find_poi",
+      "targetPoiId": "pe-pun-lake-titicaca-nature-v2",
+      "question": {
+        "de": "Finde den Titicacasee im Südosten Perus.",
+        "hu": "Keresd meg a Titicaca-tavat Peru délkeleti részén.",
+        "ro": "Găsește lacul Titicaca în sud-estul statului Peru.",
+        "en": "Find Lake Titicaca in southeastern Peru."
+      }
+    },
+    {
+      "id": "pe-find-nazca-lines",
+      "type": "find_poi",
+      "targetPoiId": "nazca-linien-landmarks-v2",
+      "question": {
+        "de": "Finde die Nazca-Linien in der Wüstenregion Ica.",
+        "hu": "Keresd meg a Nazca-vonalakat Ica sivatagos vidékén.",
+        "ro": "Găsește liniile Nazca în regiunea deșertică Ica.",
+        "en": "Find the Nazca Lines in the desert region of Ica."
+      }
+    },
+    {
+      "id": "pe-find-gocta-waterfall",
+      "type": "find_poi",
+      "targetPoiId": "pe-ama-gocta-nature-v2",
+      "question": {
+        "de": "Finde den Gocta-Wasserfall im Norden Perus.",
+        "hu": "Keresd meg a Gocta-vízesést Peru északi részén.",
+        "ro": "Găsește cascada Gocta din nordul statului Peru.",
+        "en": "Find Gocta Waterfall in northern Peru."
+      }
+    },
+    {
+      "id": "pe-region-amazonas",
+      "type": "find_region",
+      "targetRegionId": "PER-584",
+      "question": {
+        "de": "Klicke auf Amazonas, die nördliche Region von Kuélap.",
+        "hu": "Kattints Amazonas régióra, Kuélap északi vidékére.",
+        "ro": "Apasă pe Amazonas, regiunea nordică a cetății Kuélap.",
+        "en": "Click Amazonas, the northern region of Kuélap."
+      }
+    },
+    {
+      "id": "pe-region-puno",
+      "type": "find_region",
+      "targetRegionId": "PER-573",
+      "question": {
+        "de": "Finde die Region Puno am Titicacasee.",
+        "hu": "Keresd meg Puno régióját a Titicaca-tónál.",
+        "ro": "Găsește regiunea Puno de pe malul lacului Titicaca.",
+        "en": "Find the Puno region on Lake Titicaca."
+      }
+    },
+    {
+      "id": "pe-region-callao",
+      "type": "find_region",
+      "targetRegionId": "PER-3505",
+      "question": {
+        "de": "Klicke auf Callao, die kleine Küstenregion um Perus wichtigsten Hafen.",
+        "hu": "Kattints Callaóra, Peru legfontosabb kikötője körüli kis tengerparti régióra.",
+        "ro": "Apasă pe Callao, mica regiune de coastă din jurul principalului port al statului Peru.",
+        "en": "Click Callao, the small coastal region around Peru's main port."
+      }
+    },
+    {
+      "id": "pe-region-junin",
+      "type": "find_region",
+      "targetRegionId": "PER-590",
+      "question": {
+        "de": "Finde Junín, die zentrale Andenregion von Huancayo.",
+        "hu": "Keresd meg Junín régióját, Huancayo közép-andoki vidékét.",
+        "ro": "Găsește Junín, regiunea andină centrală a orașului Huancayo.",
+        "en": "Find Junín, the central Andean region of Huancayo."
+      }
+    },
+    {
+      "id": "pe-region-madre-de-dios",
+      "type": "find_region",
+      "targetRegionId": "PER-572",
+      "question": {
+        "de": "Klicke auf Madre de Dios im südöstlichen Amazonasraum.",
+        "hu": "Kattints Madre de Dios régióra a délkeleti amazóniai térségben.",
+        "ro": "Apasă pe Madre de Dios din zona amazoniană sud-estică.",
+        "en": "Click Madre de Dios in the southeastern Amazon."
+      }
+    },
+    {
+      "id": "pe-odd-not-cusco-region",
+      "type": "odd_one_out",
+      "poiIds": [
+        "machu-picchu-landmarks-v2",
+        "ollantaytambo-landmarks-v2",
+        "pisac-ruinen-landmarks-v2",
+        "sillustani-landmarks-v2"
+      ],
+      "targetPoiId": "sillustani-landmarks-v2",
+      "question": {
+        "de": "Welche Stätte liegt nicht in der Region Cusco?",
+        "hu": "Melyik helyszín nem Cusco régiójában található?",
+        "ro": "Care sit nu se află în regiunea Cusco?",
+        "en": "Which site is not in the Cusco region?"
+      }
+    },
+    {
+      "id": "pe-odd-pacific-coast",
+      "type": "odd_one_out",
+      "poiIds": [
+        "peru-paracas-cities-v2",
+        "peru-huaraz-cities-v2",
+        "huancayo-cities-v2",
+        "cusco-cities-v2"
+      ],
+      "targetPoiId": "peru-paracas-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt an der Pazifikküste statt in den Anden?",
+        "hu": "Melyik hely a Csendes-óceán partján fekszik, nem pedig az Andokban?",
+        "ro": "Care loc se află pe coasta Pacificului, nu în Anzi?",
+        "en": "Which place lies on the Pacific coast rather than in the Andes?"
+      }
+    },
+    {
+      "id": "pe-odd-not-amazon",
+      "type": "odd_one_out",
+      "poiIds": [
+        "iquitos-cities-v2",
+        "port-yurimaguas-economic-v2",
+        "allpahuayo-mishana-life-v2",
+        "piura-cities-v2"
+      ],
+      "targetPoiId": "piura-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht im peruanischen Amazonasraum?",
+        "hu": "Melyik hely nem a perui Amazonas térségében található?",
+        "ro": "Care loc nu se află în Amazonia peruană?",
+        "en": "Which place is not in the Peruvian Amazon?"
+      }
+    },
+    {
+      "id": "pe-odd-volcano",
+      "type": "odd_one_out",
+      "poiIds": [
+        "misti-volcano-relief-v2",
+        "colca-canyon-relief-v2",
+        "pe-pun-lake-titicaca-nature-v2",
+        "pe-ica-huacachina-nature-v2"
+      ],
+      "targetPoiId": "misti-volcano-relief-v2",
+      "question": {
+        "de": "Welches Ziel ist ein Vulkan und keine Schlucht, kein See und keine Oase?",
+        "hu": "Melyik célpont vulkán, nem pedig kanyon, tó vagy oázis?",
+        "ro": "Care destinație este un vulcan, nu un canion, lac sau oază?",
+        "en": "Which destination is a volcano rather than a canyon, lake, or oasis?"
+      }
+    },
+    {
+      "id": "pe-odd-farthest-south",
+      "type": "odd_one_out",
+      "poiIds": [
+        "tacna-cities-v2",
+        "arequipa-cities-v2",
+        "cusco-cities-v2",
+        "lima-cities-v2"
+      ],
+      "targetPoiId": "tacna-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt am weitesten im Süden Perus?",
+        "hu": "Melyik város fekszik Peru legdélibb részén?",
+        "ro": "Care oraș se află cel mai la sud în Peru?",
+        "en": "Which city lies farthest south in Peru?"
+      }
+    },
+    {
+      "id": "pe-order-coast-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "peru-tumbes-cities-v2",
+        "piura-cities-v2",
+        "chiclayo-cities-v2",
+        "trujillo-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "peru-tumbes-cities-v2",
+        "piura-cities-v2",
+        "chiclayo-cities-v2",
+        "trujillo-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Tumbes, Piura, Chiclayo und Trujillo von Norden nach Süden an.",
+        "hu": "Kattints Tumbesre, Piurára, Chiclayóra és Trujillóra északról dél felé.",
+        "ro": "Apasă Tumbes, Piura, Chiclayo și Trujillo de la nord la sud.",
+        "en": "Click Tumbes, Piura, Chiclayo and Trujillo from north to south."
+      }
+    },
+    {
+      "id": "pe-order-andes-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "peru-chachapoyas-cities-v2",
+        "peru-huaraz-cities-v2",
+        "huancayo-cities-v2",
+        "cusco-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "peru-chachapoyas-cities-v2",
+        "peru-huaraz-cities-v2",
+        "huancayo-cities-v2",
+        "cusco-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Chachapoyas, Huaraz, Huancayo und Cusco von Norden nach Süden an.",
+        "hu": "Kattints Chachapoyasra, Huarazra, Huancayóra és Cuscóra északról dél felé.",
+        "ro": "Apasă Chachapoyas, Huaraz, Huancayo și Cusco de la nord la sud.",
+        "en": "Click Chachapoyas, Huaraz, Huancayo and Cusco from north to south."
+      }
+    },
+    {
+      "id": "pe-order-south-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "port-matarani-economic-v2",
+        "arequipa-cities-v2",
+        "pe-pun-lake-titicaca-nature-v2"
+      ],
+      "orderedPoiIds": [
+        "port-matarani-economic-v2",
+        "arequipa-cities-v2",
+        "pe-pun-lake-titicaca-nature-v2"
+      ],
+      "question": {
+        "de": "Klicke den Hafen von Matarani, Arequipa und den Titicacasee von Westen nach Osten an.",
+        "hu": "Kattints Matarani kikötőjére, Arequipára és a Titicaca-tóra nyugatról kelet felé.",
+        "ro": "Apasă portul Matarani, Arequipa și lacul Titicaca de la vest la est.",
+        "en": "Click the Port of Matarani, Arequipa, and Lake Titicaca from west to east."
+      }
+    },
+    {
+      "id": "pe-order-amazon-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "pe-lor-napo-nature-v2",
+        "pe-lor-amazon-river-nature-v2",
+        "pe-lor-pacaya-nature-v2",
+        "matses-national-reserve-life-v2"
+      ],
+      "orderedPoiIds": [
+        "pe-lor-napo-nature-v2",
+        "pe-lor-amazon-river-nature-v2",
+        "pe-lor-pacaya-nature-v2",
+        "matses-national-reserve-life-v2"
+      ],
+      "question": {
+        "de": "Klicke den Río Napo, den Amazonas, Pacaya-Samiria und das Matsés-Reservat von Norden nach Süden an.",
+        "hu": "Kattints a Napo folyóra, az Amazonasra, Pacaya-Samiriára és a Matsés rezervátumra északról dél felé.",
+        "ro": "Apasă râul Napo, Amazonul, Pacaya-Samiria și rezervația Matsés de la nord la sud.",
+        "en": "Click the Napo River, the Amazon River, Pacaya-Samiria, and the Matsés Reserve from north to south."
+      }
+    },
+    {
+      "id": "pe-order-south-cities",
+      "type": "sequence",
+      "poiIds": [
+        "tacna-cities-v2",
+        "peru-moquegua-cities-v2",
+        "arequipa-cities-v2",
+        "peru-chivay-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "tacna-cities-v2",
+        "peru-moquegua-cities-v2",
+        "arequipa-cities-v2",
+        "peru-chivay-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Tacna, Moquegua, Arequipa und Chivay von Süden nach Norden an.",
+        "hu": "Kattints Tacnára, Moqueguára, Arequipára és Chivayra délről észak felé.",
+        "ro": "Apasă Tacna, Moquegua, Arequipa și Chivay de la sud la nord.",
+        "en": "Click Tacna, Moquegua, Arequipa, and Chivay from south to north."
+      }
+    }
+  ]
+}

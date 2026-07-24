@@ -1,0 +1,303 @@
+{
+  "al": [
+    {
+      "id": "al-find-kruje-castle-new",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde die Burg von Kruj?.",
+        "hu": "Keresd meg Kruj? v?r?t.",
+        "ro": "G?se?te Castelul din Kruj?.",
+        "en": "Find Kruj? Castle."
+      },
+      "targetPoiId": "albania-kruje-castle-landmarks-v2"
+    },
+    {
+      "id": "al-find-gjirokaster-castle-new",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde die Burg von Gjirokastra.",
+        "hu": "Keresd meg Gjirokastra v?r?t.",
+        "ro": "G?se?te Castelul din Gjirokastra.",
+        "en": "Find Gjirokastra Castle."
+      },
+      "targetPoiId": "hist-gjirokaster-castle"
+    },
+    {
+      "id": "al-find-durres-amphitheatre-new",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde das Amphitheater von Durr?s.",
+        "hu": "Keresd meg a dur?si amfite?trumot.",
+        "ro": "G?se?te amfiteatrul din Durr?s.",
+        "en": "Find the Amphitheatre of Durr?s."
+      },
+      "targetPoiId": "albania-amphitheatre-durres-landmarks-v2"
+    },
+    {
+      "id": "al-find-blue-eye-new",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde die Quelle Syri i Kalt?r, das Blaue Auge.",
+        "hu": "Keresd meg a K?k Szem forr?st, a Syri i Kalt?rt.",
+        "ro": "G?se?te izvorul Ochiul Albastru, Syri i Kalt?r.",
+        "en": "Find the Blue Eye Spring, Syri i Kalt?r."
+      },
+      "targetPoiId": "albania-blue-eye-nature-v2"
+    },
+    {
+      "id": "al-find-lake-ohrid-new",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt der albanische Teil des Ohridsees?",
+        "hu": "Hol tal?lhat? az Ohridi-t? alb?niai r?sze?",
+        "ro": "Unde se afl? partea albanez? a lacului Ohrid?",
+        "en": "Where is the Albanian part of Lake Ohrid?"
+      },
+      "targetPoiId": "albania-lake-ohrid-al-life-v2"
+    },
+    {
+      "id": "al-find-dajti-park-new",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde den Nationalpark Dajti ?stlich von Tirana.",
+        "hu": "Keresd meg a Tirana keleti oldal?n fekv? Dajti Nemzeti Parkot.",
+        "ro": "G?se?te Parcul Na?ional Dajti, la est de Tirana.",
+        "en": "Find Dajti National Park east of Tirana."
+      },
+      "targetPoiId": "albania-dajti-national-park-life-v2"
+    },
+    {
+      "id": "al-find-valbona-park-new",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde den Nationalpark Valbonatal im Norden.",
+        "hu": "Keresd meg az ?szaki Valbona-v?lgy Nemzeti Parkot.",
+        "ro": "G?se?te Parcul Na?ional Valea Valbonei din nord.",
+        "en": "Find Valbona Valley National Park in the north."
+      },
+      "targetPoiId": "albania-valbona-valley-national-park-life-v2"
+    },
+    {
+      "id": "al-region-durres-new",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf den Qark Durr?s an der K?ste.",
+        "hu": "Kattints a tengerparti Durr?s megy?re.",
+        "ro": "Apas? pe jude?ul de coast? Durr?s.",
+        "en": "Click the coastal Durr?s County."
+      },
+      "targetRegionId": "AL-010"
+    },
+    {
+      "id": "al-region-fier-new",
+      "type": "find_region",
+      "question": {
+        "de": "Finde den Qark Fier in Westalbanien.",
+        "hu": "Keresd meg a nyugat-alb?niai Fier megy?t.",
+        "ro": "G?se?te jude?ul Fier din vestul Albaniei.",
+        "en": "Find Fier County in western Albania."
+      },
+      "targetRegionId": "AL-008"
+    },
+    {
+      "id": "al-region-korce-new",
+      "type": "find_region",
+      "question": {
+        "de": "Finde den Qark Kor?? im S?dosten.",
+        "hu": "Keresd meg a d?lkeleti Kor?? megy?t.",
+        "ro": "G?se?te jude?ul Kor?? din sud-est.",
+        "en": "Find Kor?? County in the southeast."
+      },
+      "targetRegionId": "AL-003"
+    },
+    {
+      "id": "al-region-kukes-new",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf den n?rdlichen Qark Kuk?s.",
+        "hu": "Kattints az ?szaki Kuk?s megy?re.",
+        "ro": "Apas? pe jude?ul nordic Kuk?s.",
+        "en": "Click the northern Kuk?s County."
+      },
+      "targetRegionId": "AL-002"
+    },
+    {
+      "id": "al-odd-riviera-new",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort liegt nicht an der Albanischen Riviera?",
+        "hu": "Melyik hely nem az Alb?n Rivi?r?n tal?lhat??",
+        "ro": "Care loc nu se afl? pe Riviera Albanez??",
+        "en": "Which place is not on the Albanian Riviera?"
+      },
+      "poiIds": [
+        "albania-ksamil-cities-v2",
+        "albania-qeparo-cities-v2",
+        "albania-dhermi-cities-v2",
+        "albania-kruje-cities-v2"
+      ],
+      "targetPoiId": "albania-kruje-cities-v2"
+    },
+    {
+      "id": "al-odd-far-north-new",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort liegt nicht im Norden Albaniens?",
+        "hu": "Melyik hely nem Alb?nia ?szaki r?sz?n tal?lhat??",
+        "ro": "Care loc nu se afl? ?n nordul Albaniei?",
+        "en": "Which place is not in northern Albania?"
+      },
+      "poiIds": [
+        "city-shkoder",
+        "albania-theth-cities-v2",
+        "albania-valbona-cities-v2",
+        "city-sarande"
+      ],
+      "targetPoiId": "city-sarande"
+    },
+    {
+      "id": "al-odd-ohrid-prespa-new",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort liegt nicht im Raum Ohrid-Prespa im Osten?",
+        "hu": "Melyik hely nem a keleti Ohrid-Prespa t?rs?gben tal?lhat??",
+        "ro": "Care loc nu se afl? ?n zona estic? Ohrid-Prespa?",
+        "en": "Which place is not in the eastern Ohrid-Prespa area?"
+      },
+      "poiIds": [
+        "albania-lin-cities-v2",
+        "albania-tushemisht-cities-v2",
+        "city-korce",
+        "city-vlore"
+      ],
+      "targetPoiId": "city-vlore"
+    },
+    {
+      "id": "al-odd-tirana-area-new",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort liegt nicht im Raum Tirana?",
+        "hu": "Melyik hely nem Tirana k?rny?k?n tal?lhat??",
+        "ro": "Care loc nu se afl? ?n zona Tiranei?",
+        "en": "Which place is not in the Tirana area?"
+      },
+      "poiIds": [
+        "albania-skanderbeg-square-landmarks-v2",
+        "albania-pyramid-of-tirana-landmarks-v2",
+        "albania-dajti-national-park-life-v2",
+        "hist-rozafa"
+      ],
+      "targetPoiId": "hist-rozafa"
+    },
+    {
+      "id": "al-sequence-west-east-central-new",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Orte von West nach Ost an.",
+        "hu": "Kattints a helyekre nyugatr?l keletre.",
+        "ro": "Apas? locurile de la vest la est.",
+        "en": "Click the places from west to east."
+      },
+      "poiIds": [
+        "city-durres",
+        "city-tirana",
+        "albania-elbasan-cities-v2",
+        "albania-pogradec-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "city-durres",
+        "city-tirana",
+        "albania-elbasan-cities-v2",
+        "albania-pogradec-cities-v2"
+      ]
+    },
+    {
+      "id": "al-sequence-north-south-coast-new",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die K?stenorte von Nord nach S?d an.",
+        "hu": "Kattints a tengerparti helyekre ?szakr?l d?lre.",
+        "ro": "Apas? locurile de coast? de la nord la sud.",
+        "en": "Click the coastal places from north to south."
+      },
+      "poiIds": [
+        "city-durres",
+        "city-vlore",
+        "albania-dhermi-cities-v2",
+        "city-sarande"
+      ],
+      "orderedPoiIds": [
+        "city-durres",
+        "city-vlore",
+        "albania-dhermi-cities-v2",
+        "city-sarande"
+      ]
+    },
+    {
+      "id": "al-sequence-south-north-nature-new",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Naturorte von S?d nach Nord an.",
+        "hu": "Kattints a term?szeti helyekre d?lr?l ?szakra.",
+        "ro": "Apas? locurile naturale de la sud la nord.",
+        "en": "Click the natural places from south to north."
+      },
+      "poiIds": [
+        "albania-blue-eye-nature-v2",
+        "albania-tomorr-mountain-nature-v2",
+        "albania-lake-ohrid-al-life-v2",
+        "albania-koman-lake-nature-v2"
+      ],
+      "orderedPoiIds": [
+        "albania-blue-eye-nature-v2",
+        "albania-tomorr-mountain-nature-v2",
+        "albania-lake-ohrid-al-life-v2",
+        "albania-koman-lake-nature-v2"
+      ]
+    },
+    {
+      "id": "al-sequence-west-east-south-new",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die s?dlichen Orte von West nach Ost an.",
+        "hu": "Kattints a d?li helyekre nyugatr?l keletre.",
+        "ro": "Apas? locurile sudice de la vest la est.",
+        "en": "Click the southern places from west to east."
+      },
+      "poiIds": [
+        "city-vlore",
+        "city-sarande",
+        "albania-blue-eye-nature-v2",
+        "city-gjirokaster"
+      ],
+      "orderedPoiIds": [
+        "city-vlore",
+        "city-sarande",
+        "albania-blue-eye-nature-v2",
+        "city-gjirokaster"
+      ]
+    },
+    {
+      "id": "al-sequence-north-south-inland-new",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Orte im Landesinneren von Nord nach S?d an.",
+        "hu": "Kattints a bels? ter?letek helyeire ?szakr?l d?lre.",
+        "ro": "Apas? locurile din interior de la nord la sud.",
+        "en": "Click the inland places from north to south."
+      },
+      "poiIds": [
+        "albania-kukes-cities-v2",
+        "city-korce",
+        "city-gjirokaster",
+        "hist-butrint"
+      ],
+      "orderedPoiIds": [
+        "albania-kukes-cities-v2",
+        "city-korce",
+        "city-gjirokaster",
+        "hist-butrint"
+      ]
+    }
+  ]
+}

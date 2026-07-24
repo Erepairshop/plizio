@@ -1,0 +1,303 @@
+{
+  "bw": [
+    {
+      "id": "bw-find-maun-logistics-hub",
+      "type": "find_poi",
+      "targetPoiId": "maun-airport-logistics-economic-v2",
+      "question": {
+        "de": "Finde den Logistikstandort von Maun im Nordwesten Botswanas.",
+        "hu": "Keresd meg Maun logisztikai k?zpontj?t Botswana ?szaknyugati r?sz?n.",
+        "ro": "G?se?te centrul logistic din Maun ?n nord-vestul Botswanei.",
+        "en": "Find Maun Logistics Hub in northwestern Botswana."
+      }
+    },
+    {
+      "id": "bw-find-tsodilo-hills",
+      "type": "find_poi",
+      "targetPoiId": "tsodilo-hills-mountain-v2",
+      "question": {
+        "de": "Finde die Tsodilo Hills im ?u?ersten Nordwesten.",
+        "hu": "Keresd meg a Tsodilo-dombokat a t?voli ?szaknyugaton.",
+        "ro": "G?se?te dealurile Tsodilo ?n extremul nord-vest.",
+        "en": "Find the Tsodilo Hills in the far northwest."
+      }
+    },
+    {
+      "id": "bw-find-kazungula-bridge",
+      "type": "find_poi",
+      "targetPoiId": "kazungula-bridge-landmarks-v2",
+      "question": {
+        "de": "Finde die Kazungula-Br?cke an Botswanas Nordgrenze.",
+        "hu": "Keresd meg a Kazungula hidat Botswana ?szaki hat?r?n.",
+        "ro": "G?se?te podul Kazungula la grani?a nordic? a Botswanei.",
+        "en": "Find Kazungula Bridge on Botswana's northern border."
+      }
+    },
+    {
+      "id": "bw-find-central-kalahari",
+      "type": "find_poi",
+      "targetPoiId": "central-kalahari-game-reserve-animal-habitat-life-v2",
+      "question": {
+        "de": "Finde das Central Kalahari Game Reserve im Landesinneren.",
+        "hu": "Keresd meg a Central Kalahari Game Reserve ter?let?t az orsz?g belsej?ben.",
+        "ro": "G?se?te Rezerva?ia Central Kalahari din interiorul ??rii.",
+        "en": "Find the Central Kalahari Game Reserve in the interior of the country."
+      }
+    },
+    {
+      "id": "bw-find-khama-rhino-sanctuary",
+      "type": "find_poi",
+      "targetPoiId": "khama-rhino-sanctuary-animal-habitat-life-v2",
+      "question": {
+        "de": "Finde das Khama Rhino Sanctuary bei Serowe.",
+        "hu": "Keresd meg a Khama Rhino Sanctuary rezerv?tumot Serowe k?zel?ben.",
+        "ro": "G?se?te rezerva?ia Khama Rhino Sanctuary de l?ng? Serowe.",
+        "en": "Find Khama Rhino Sanctuary near Serowe."
+      }
+    },
+    {
+      "id": "bw-find-kolobeng-mission",
+      "type": "find_poi",
+      "targetPoiId": "kolobeng-mission-history-v2",
+      "question": {
+        "de": "Finde die historische Kolobeng-Mission westlich von Gaborone.",
+        "hu": "Keresd meg a t?rt?nelmi Kolobeng misszi?t Gaboron?t?l nyugatra.",
+        "ro": "G?se?te misiunea istoric? Kolobeng la vest de Gaborone.",
+        "en": "Find the historic Kolobeng Mission west of Gaborone."
+      }
+    },
+    {
+      "id": "bw-region-central",
+      "type": "find_region",
+      "targetRegionId": "BWA-2630",
+      "question": {
+        "de": "Klicke auf den gro?en Distrikt Central in der Mitte des Landes.",
+        "hu": "Kattints az orsz?g k?zep?n fekv? nagy Central k?rzetre.",
+        "ro": "Apas? pe marele district Central din mijlocul ??rii.",
+        "en": "Click the large Central District in the middle of the country."
+      }
+    },
+    {
+      "id": "bw-region-kweneng",
+      "type": "find_region",
+      "targetRegionId": "BWA-2647",
+      "question": {
+        "de": "Finde den Distrikt Kweneng westlich von Gaborone.",
+        "hu": "Keresd meg a Gaboron?t?l nyugatra fekv? Kweneng k?rzetet.",
+        "ro": "G?se?te districtul Kweneng aflat la vest de Gaborone.",
+        "en": "Find Kweneng District west of Gaborone."
+      }
+    },
+    {
+      "id": "bw-region-north-east",
+      "type": "find_region",
+      "targetRegionId": "BWA-4853",
+      "question": {
+        "de": "Klicke auf den Distrikt North-East an der Grenze zu Simbabwe.",
+        "hu": "Kattints a Zimbabwe hat?r?n fekv? North-East k?rzetre.",
+        "ro": "Apas? pe districtul North-East de la grani?a cu Zimbabwe.",
+        "en": "Click the North-East District on the border with Zimbabwe."
+      }
+    },
+    {
+      "id": "bw-region-ghanzi",
+      "type": "find_region",
+      "targetRegionId": "BWA-1191",
+      "question": {
+        "de": "Finde den Distrikt Ghanzi im Westen Botswanas.",
+        "hu": "Keresd meg a Botswana nyugati r?sz?n fekv? Ghanzi k?rzetet.",
+        "ro": "G?se?te districtul Ghanzi din vestul Botswanei.",
+        "en": "Find Ghanzi District in western Botswana."
+      }
+    },
+    {
+      "id": "bw-region-southern",
+      "type": "find_region",
+      "targetRegionId": "BWA-2649",
+      "question": {
+        "de": "Klicke auf den Distrikt Southern s?dlich von Kweneng.",
+        "hu": "Kattints a Kwenengt?l d?lre fekv? Southern k?rzetre.",
+        "ro": "Apas? pe districtul Southern aflat la sud de Kweneng.",
+        "en": "Click the Southern District south of Kweneng."
+      }
+    },
+    {
+      "id": "bw-odd-not-gaborone-area",
+      "type": "odd_one_out",
+      "poiIds": [
+        "gaborone-national-assembly-landmarks-v2",
+        "gaborone-gicc-landmarks-v2",
+        "bank-of-botswana-landmarks-v2",
+        "supa-ngwao-museum-history-v2"
+      ],
+      "targetPoiId": "supa-ngwao-museum-history-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht im Raum Gaborone?",
+        "hu": "Melyik helysz?n nem Gaborone t?rs?g?ben tal?lhat??",
+        "ro": "Care loc nu se afl? ?n zona Gaborone?",
+        "en": "Which place is not in the Gaborone area?"
+      }
+    },
+    {
+      "id": "bw-odd-not-central-diamond-belt",
+      "type": "odd_one_out",
+      "poiIds": [
+        "orapa-diamond-mine-economic-v2",
+        "letlhakane-diamond-mine-economic-v2",
+        "karowe-diamond-mine-economic-v2",
+        "kazungula-bridge-landmarks-v2"
+      ],
+      "targetPoiId": "kazungula-bridge-landmarks-v2",
+      "question": {
+        "de": "Welcher Ort geh?rt nicht zum Diamanteng?rtel im Central District?",
+        "hu": "Melyik helysz?n nem a Central k?rzet gy?m?nt?vezet?hez tartozik?",
+        "ro": "Care loc nu face parte din centura diamantifer? din districtul Central?",
+        "en": "Which place is not part of the diamond belt in the Central District?"
+      }
+    },
+    {
+      "id": "bw-odd-not-okavango-wetland",
+      "type": "odd_one_out",
+      "poiIds": [
+        "okavango-delta-animal-habitat-life-v2",
+        "okavango-wetlands-animal-habitat-life-v2",
+        "xudum-delta-relief-v2",
+        "serowe-hills-mountain-v2"
+      ],
+      "targetPoiId": "serowe-hills-mountain-v2",
+      "question": {
+        "de": "Welcher Ort geh?rt nicht zur Okavango-Feuchtlandschaft?",
+        "hu": "Melyik helysz?n nem az Okavango vizes ?l?helyeihez tartozik?",
+        "ro": "Care loc nu apar?ine zonei umede a Okavango?",
+        "en": "Which place is not part of the Okavango wetland landscape?"
+      }
+    },
+    {
+      "id": "bw-odd-not-far-northern-waterway",
+      "type": "odd_one_out",
+      "poiIds": [
+        "chobe-river-relief-v2",
+        "kwando-river-relief-v2",
+        "linyanti-swamp-relief-v2",
+        "molopo-river-relief-v2"
+      ],
+      "targetPoiId": "molopo-river-relief-v2",
+      "question": {
+        "de": "Welcher Fluss oder Wasserraum liegt nicht im hohen Norden Botswanas?",
+        "hu": "Melyik foly? vagy vizes ter?let nem Botswana leg?szakibb r?sz?n tal?lhat??",
+        "ro": "Care r?u sau zon? umed? nu se afl? ?n extremul nord al Botswanei?",
+        "en": "Which river or wetland is not in far northern Botswana?"
+      }
+    },
+    {
+      "id": "bw-sequence-west-east-nw-corridor",
+      "type": "sequence",
+      "poiIds": [
+        "gcwihaba-caves-history-v2",
+        "okavango-delta-animal-habitat-life-v2",
+        "maun-airport-logistics-economic-v2",
+        "chobe-national-park-animal-habitat-life-v2"
+      ],
+      "orderedPoiIds": [
+        "gcwihaba-caves-history-v2",
+        "okavango-delta-animal-habitat-life-v2",
+        "maun-airport-logistics-economic-v2",
+        "chobe-national-park-animal-habitat-life-v2"
+      ],
+      "question": {
+        "de": "Klicke Gcwihaba, das Okavangodelta, Maun und Chobe von West nach Ost an.",
+        "hu": "Kattints Gcwihab?ra, az Okavango-delt?ra, Maunra ?s Chob?ra nyugatr?l keletre.",
+        "ro": "Apas? Gcwihaba, Delta Okavango, Maun ?i Chobe de la vest la est.",
+        "en": "Click Gcwihaba, the Okavango Delta, Maun and Chobe from west to east."
+      }
+    },
+    {
+      "id": "bw-sequence-north-south-chobe-maun",
+      "type": "sequence",
+      "poiIds": [
+        "kasane-baobab-history-v2",
+        "chobe-national-park-animal-habitat-life-v2",
+        "okavango-delta-animal-habitat-life-v2",
+        "maun-airport-logistics-economic-v2"
+      ],
+      "orderedPoiIds": [
+        "kasane-baobab-history-v2",
+        "chobe-national-park-animal-habitat-life-v2",
+        "okavango-delta-animal-habitat-life-v2",
+        "maun-airport-logistics-economic-v2"
+      ],
+      "question": {
+        "de": "Klicke den Kasane-Baobab, Chobe, das Okavangodelta und Maun von Nord nach S?d an.",
+        "hu": "Kattints a Kasane-baobabra, Chob?ra, az Okavango-delt?ra ?s Maunra ?szakr?l d?lre.",
+        "ro": "Apas? baobabul din Kasane, Chobe, Delta Okavango ?i Maun de la nord la sud.",
+        "en": "Click the Kasane Baobab, Chobe, the Okavango Delta and Maun from north to south."
+      }
+    },
+    {
+      "id": "bw-sequence-west-east-kalahari-capital",
+      "type": "sequence",
+      "poiIds": [
+        "khoemacau-copper-mine-economic-v2",
+        "central-kalahari-game-reserve-animal-habitat-life-v2",
+        "jwaneng-diamond-mine-economic-v2",
+        "gaborone-dry-port-economic-v2"
+      ],
+      "orderedPoiIds": [
+        "khoemacau-copper-mine-economic-v2",
+        "central-kalahari-game-reserve-animal-habitat-life-v2",
+        "jwaneng-diamond-mine-economic-v2",
+        "gaborone-dry-port-economic-v2"
+      ],
+      "question": {
+        "de": "Klicke Khoemacau, das Central Kalahari Game Reserve, Jwaneng und Gaborone von West nach Ost an.",
+        "hu": "Kattints Khoemacau-ra, a Central Kalahari Game Reserve ter?let?re, Jwanengre ?s Gaboron?ra nyugatr?l keletre.",
+        "ro": "Apas? Khoemacau, Rezerva?ia Central Kalahari, Jwaneng ?i Gaborone de la vest la est.",
+        "en": "Click Khoemacau, the Central Kalahari Game Reserve, Jwaneng and Gaborone from west to east."
+      }
+    },
+    {
+      "id": "bw-sequence-north-south-eastern-industry",
+      "type": "sequence",
+      "poiIds": [
+        "tati-nickel-mine-economic-v2",
+        "francistown-dry-port-economic-v2",
+        "selebi-phikwe-copper-mine-economic-v2",
+        "palapye-glass-manufacturing-economic-v2"
+      ],
+      "orderedPoiIds": [
+        "tati-nickel-mine-economic-v2",
+        "francistown-dry-port-economic-v2",
+        "selebi-phikwe-copper-mine-economic-v2",
+        "palapye-glass-manufacturing-economic-v2"
+      ],
+      "question": {
+        "de": "Klicke die Tati-Mine, Francistown, Selebi-Phikwe und Palapye von Nord nach S?d an.",
+        "hu": "Kattints a Tati b?ny?ra, Francistownra, Selebi-Phikw?re ?s Palapy?re ?szakr?l d?lre.",
+        "ro": "Apas? mina Tati, Francistown, Selebi-Phikwe ?i Palapye de la nord la sud.",
+        "en": "Click the Tati mine, Francistown, Selebi-Phikwe and Palapye from north to south."
+      }
+    },
+    {
+      "id": "bw-sequence-west-east-heritage-chain",
+      "type": "sequence",
+      "poiIds": [
+        "kolobeng-mission-history-v2",
+        "matsieng-footprints-history-v2",
+        "old-palapye-history-v2",
+        "lepokole-hills-history-v2"
+      ],
+      "orderedPoiIds": [
+        "kolobeng-mission-history-v2",
+        "matsieng-footprints-history-v2",
+        "old-palapye-history-v2",
+        "lepokole-hills-history-v2"
+      ],
+      "question": {
+        "de": "Klicke Kolobeng, Matsieng, Old Palapye und Lepokole von West nach Ost an.",
+        "hu": "Kattints Kolobengre, Matsiengre, Old Palapye-re ?s Lepokol?ra nyugatr?l keletre.",
+        "ro": "Apas? Kolobeng, Matsieng, Old Palapye ?i Lepokole de la vest la est.",
+        "en": "Click Kolobeng, Matsieng, Old Palapye and Lepokole from west to east."
+      }
+    }
+  ]
+}

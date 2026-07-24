@@ -1,0 +1,299 @@
+{
+  "ke": [
+    {
+      "id": "ke-find-nakuru",
+      "type": "find_poi",
+      "targetPoiId": "nakuru-cities-v2",
+      "question": {
+        "de": "Finde Nakuru auf der Karte.",
+        "hu": "Keresd meg Nakuru helyét a térképen.",
+        "ro": "Găsește Nakuru pe hartă.",
+        "en": "Find Nakuru on the map."
+      }
+    },
+    {
+      "id": "ke-find-garissa",
+      "type": "find_poi",
+      "targetPoiId": "garissa-cities-v2",
+      "question": {
+        "de": "Finde Garissa auf der Karte.",
+        "hu": "Keresd meg Garissa helyét a térképen.",
+        "ro": "Găsește Garissa pe hartă.",
+        "en": "Find Garissa on the map."
+      }
+    },
+    {
+      "id": "ke-find-malindi",
+      "type": "find_poi",
+      "targetPoiId": "malindi-cities-v2",
+      "question": {
+        "de": "Finde Malindi auf der Karte.",
+        "hu": "Keresd meg Malindi helyét a térképen.",
+        "ro": "Găsește Malindi pe hartă.",
+        "en": "Find Malindi on the map."
+      }
+    },
+    {
+      "id": "ke-find-kitale",
+      "type": "find_poi",
+      "targetPoiId": "kitale-cities-v2",
+      "question": {
+        "de": "Finde Kitale auf der Karte.",
+        "hu": "Keresd meg Kitale helyét a térképen.",
+        "ro": "Găsește Kitale pe hartă.",
+        "en": "Find Kitale on the map."
+      }
+    },
+    {
+      "id": "ke-find-nyeri",
+      "type": "find_poi",
+      "targetPoiId": "nyeri-cities-v2",
+      "question": {
+        "de": "Finde Nyeri auf der Karte.",
+        "hu": "Keresd meg Nyeri helyét a térképen.",
+        "ro": "Găsește Nyeri pe hartă.",
+        "en": "Find Nyeri on the map."
+      }
+    },
+    {
+      "id": "ke-region-ken-889",
+      "type": "find_region",
+      "targetRegionId": "KEN-889",
+      "question": {
+        "de": "Klicke auf die Region Eastern.",
+        "hu": "Kattints Eastern régiójára.",
+        "ro": "Apasă pe regiunea Eastern.",
+        "en": "Click the Eastern region."
+      }
+    },
+    {
+      "id": "ke-region-ken-893",
+      "type": "find_region",
+      "targetRegionId": "KEN-893",
+      "question": {
+        "de": "Klicke auf die Region North-Eastern.",
+        "hu": "Kattints North-Eastern régiójára.",
+        "ro": "Apasă pe regiunea North-Eastern.",
+        "en": "Click the North-Eastern region."
+      }
+    },
+    {
+      "id": "ke-region-ken-1197",
+      "type": "find_region",
+      "targetRegionId": "KEN-1197",
+      "question": {
+        "de": "Klicke auf die Region Nyanza.",
+        "hu": "Kattints Nyanza régiójára.",
+        "ro": "Apasă pe regiunea Nyanza.",
+        "en": "Click the Nyanza region."
+      }
+    },
+    {
+      "id": "ke-region-ken-891",
+      "type": "find_region",
+      "targetRegionId": "KEN-891",
+      "question": {
+        "de": "Klicke auf die Region Western.",
+        "hu": "Kattints Western régiójára.",
+        "ro": "Apasă pe regiunea Western.",
+        "en": "Click the Western region."
+      }
+    },
+    {
+      "id": "ke-region-ken-1195",
+      "type": "find_region",
+      "targetRegionId": "KEN-1195",
+      "question": {
+        "de": "Klicke auf die Region Central.",
+        "hu": "Kattints Central régiójára.",
+        "ro": "Apasă pe regiunea Central.",
+        "en": "Click the Central region."
+      }
+    },
+    {
+      "id": "ke-odd-north",
+      "type": "odd_one_out",
+      "poiIds": [
+        "malindi-cities-v2",
+        "nairobi-cities-v2",
+        "garissa-cities-v2",
+        "marsabit-cities-v2"
+      ],
+      "targetPoiId": "marsabit-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt am weitesten nördlich?",
+        "hu": "Melyik hely fekszik a legészakabbra?",
+        "ro": "Care loc se află cel mai la nord?",
+        "en": "Which place lies furthest north?"
+      }
+    },
+    {
+      "id": "ke-odd-east",
+      "type": "odd_one_out",
+      "poiIds": [
+        "nairobi-cities-v2",
+        "garissa-cities-v2",
+        "marsabit-cities-v2",
+        "wajir-cities-v2"
+      ],
+      "targetPoiId": "wajir-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt am weitesten östlich?",
+        "hu": "Melyik hely fekszik a legkeletebbre?",
+        "ro": "Care loc se află cel mai la est?",
+        "en": "Which place lies furthest east?"
+      }
+    },
+    {
+      "id": "ke-odd-lake-victoria",
+      "type": "odd_one_out",
+      "poiIds": [
+        "kisumu-cities-v2",
+        "nairobi-cities-v2",
+        "nakuru-cities-v2",
+        "malindi-cities-v2"
+      ],
+      "targetPoiId": "kisumu-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt am Viktoriasee?",
+        "hu": "Melyik hely fekszik a Viktória-tónál?",
+        "ro": "Care loc se află pe malul Lacului Victoria?",
+        "en": "Which place lies on Lake Victoria?"
+      }
+    },
+    {
+      "id": "ke-odd-west",
+      "type": "odd_one_out",
+      "poiIds": [
+        "nairobi-cities-v2",
+        "nakuru-cities-v2",
+        "kisumu-cities-v2",
+        "garissa-cities-v2"
+      ],
+      "targetPoiId": "kisumu-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt am weitesten westlich?",
+        "hu": "Melyik hely fekszik a legnyugatabbra?",
+        "ro": "Care loc se află cel mai la vest?",
+        "en": "Which place lies furthest west?"
+      }
+    },
+    {
+      "id": "ke-odd-south",
+      "type": "odd_one_out",
+      "poiIds": [
+        "garissa-cities-v2",
+        "nairobi-cities-v2",
+        "nakuru-cities-v2",
+        "malindi-cities-v2"
+      ],
+      "targetPoiId": "malindi-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt am weitesten südlich?",
+        "hu": "Melyik hely fekszik a legdélebbre?",
+        "ro": "Care loc se află cel mai la sud?",
+        "en": "Which place lies furthest south?"
+      }
+    },
+    {
+      "id": "ke-order-north-south-2",
+      "type": "sequence",
+      "poiIds": [
+        "marsabit-cities-v2",
+        "garissa-cities-v2",
+        "mombasa-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "marsabit-cities-v2",
+        "garissa-cities-v2",
+        "mombasa-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Marsabit, Garissa, Mombasa von Norden nach Süden an.",
+        "hu": "Kattints ezekre északról délre: Marsabit, Garissa, Mombasa.",
+        "ro": "Apasă în ordine de la nord la sud: Marsabit, Garissa, Mombasa.",
+        "en": "Click from north to south: Marsabit, Garissa, Mombasa."
+      }
+    },
+    {
+      "id": "ke-order-west-east-2",
+      "type": "sequence",
+      "poiIds": [
+        "kitale-cities-v2",
+        "eldoret-cities-v2",
+        "nairobi-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "kitale-cities-v2",
+        "eldoret-cities-v2",
+        "nairobi-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Kitale, Eldoret, Nairobi von Westen nach Osten an.",
+        "hu": "Kattints ezekre nyugatról keletre: Kitale, Eldoret, Nairobi.",
+        "ro": "Apasă în ordine de la vest la est: Kitale, Eldoret, Nairobi.",
+        "en": "Click from west to east: Kitale, Eldoret, Nairobi."
+      }
+    },
+    {
+      "id": "ke-order-west-east-3",
+      "type": "sequence",
+      "poiIds": [
+        "kisumu-cities-v2",
+        "nakuru-cities-v2",
+        "nyeri-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "kisumu-cities-v2",
+        "nakuru-cities-v2",
+        "nyeri-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Kisumu, Nakuru, Nyeri von Westen nach Osten an.",
+        "hu": "Kattints ezekre nyugatról keletre: Kisumu, Nakuru, Nyeri.",
+        "ro": "Apasă în ordine de la vest la est: Kisumu, Nakuru, Nyeri.",
+        "en": "Click from west to east: Kisumu, Nakuru, Nyeri."
+      }
+    },
+    {
+      "id": "ke-order-north-south-3",
+      "type": "sequence",
+      "poiIds": [
+        "lodwar-cities-v2",
+        "nakuru-cities-v2",
+        "nairobi-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "lodwar-cities-v2",
+        "nakuru-cities-v2",
+        "nairobi-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Lodwar, Nakuru, Nairobi von Norden nach Süden an.",
+        "hu": "Kattints ezekre északról délre: Lodwar, Nakuru, Nairobi.",
+        "ro": "Apasă în ordine de la nord la sud: Lodwar, Nakuru, Nairobi.",
+        "en": "Click from north to south: Lodwar, Nakuru, Nairobi."
+      }
+    },
+    {
+      "id": "ke-order-west-east-4",
+      "type": "sequence",
+      "poiIds": [
+        "kakamega-cities-v2",
+        "nairobi-cities-v2",
+        "malindi-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "kakamega-cities-v2",
+        "nairobi-cities-v2",
+        "malindi-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Kakamega, Nairobi, Malindi von Westen nach Osten an.",
+        "hu": "Kattints ezekre nyugatról keletre: Kakamega, Nairobi, Malindi.",
+        "ro": "Apasă în ordine de la vest la est: Kakamega, Nairobi, Malindi.",
+        "en": "Click from west to east: Kakamega, Nairobi, Malindi."
+      }
+    }
+  ]
+}

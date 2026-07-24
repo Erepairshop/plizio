@@ -1,0 +1,320 @@
+{
+  "af": [
+    {
+      "id": "af-find-bamyan",
+      "type": "find_poi",
+      "targetPoiId": "bamyan-cities-v2",
+      "question": {
+        "de": "Finde Bamiyan auf der Karte.",
+        "hu": "Keresd meg B?mij?nt a t?rk?pen.",
+        "ro": "G?se?te Bamyan pe hart?.",
+        "en": "Find Bamyan on the map."
+      }
+    },
+    {
+      "id": "af-find-faizabad",
+      "type": "find_poi",
+      "targetPoiId": "faizabad-cities-v2",
+      "question": {
+        "de": "Finde Faizabad auf der Karte.",
+        "hu": "Keresd meg Faiz?b?dot a t?rk?pen.",
+        "ro": "G?se?te Faizabad pe hart?.",
+        "en": "Find Faizabad on the map."
+      }
+    },
+    {
+      "id": "af-find-torkham",
+      "type": "find_poi",
+      "targetPoiId": "torkham-hub-economic-v2",
+      "question": {
+        "de": "Finde den Grenz?bergang Torkham auf der Karte.",
+        "hu": "Keresd meg a torkhami hat?r?tkel?t a t?rk?pen.",
+        "ro": "G?se?te punctul de trecere Torkham pe hart?.",
+        "en": "Find the Torkham border crossing on the map."
+      }
+    },
+    {
+      "id": "af-find-band-e-amir",
+      "type": "find_poi",
+      "targetPoiId": "band-e-amir-park-landmarks-v2",
+      "question": {
+        "de": "Finde den Band-e-Amir-Nationalpark auf der Karte.",
+        "hu": "Keresd meg a Band-e Amir Nemzeti Parkot a t?rk?pen.",
+        "ro": "G?se?te Parcul Na?ional Band-e-Amir pe hart?.",
+        "en": "Find Band-e-Amir National Park on the map."
+      }
+    },
+    {
+      "id": "af-region-nangarhar",
+      "type": "find_region",
+      "targetRegionId": "AFG-1764",
+      "question": {
+        "de": "W?hle die Region Nangarhar aus.",
+        "hu": "V?laszd ki Nangarhar r?gi?j?t.",
+        "ro": "Selecteaz? regiunea Nangarhar.",
+        "en": "Select the Nangarhar region."
+      }
+    },
+    {
+      "id": "af-region-kandahar",
+      "type": "find_region",
+      "targetRegionId": "AFG-1754",
+      "question": {
+        "de": "Tippe auf die Region Kandahar.",
+        "hu": "Koppints Kandah?r r?gi?j?ra.",
+        "ro": "Apas? pe regiunea Kandahar.",
+        "en": "Tap the Kandahar region."
+      }
+    },
+    {
+      "id": "af-region-bamyan",
+      "type": "find_region",
+      "targetRegionId": "AFG-1743",
+      "question": {
+        "de": "Markiere die Region Bamyan.",
+        "hu": "Jel?ld meg B?mij?n r?gi?j?t.",
+        "ro": "Marcheaz? regiunea Bamyan.",
+        "en": "Mark the Bamyan region."
+      }
+    },
+    {
+      "id": "af-region-kunduz",
+      "type": "find_region",
+      "targetRegionId": "AFG-1763",
+      "question": {
+        "de": "Suche die Region Kunduz.",
+        "hu": "Keresd meg Kunduz r?gi?j?t.",
+        "ro": "G?se?te regiunea Kunduz.",
+        "en": "Find the Kunduz region."
+      }
+    },
+    {
+      "id": "af-region-nimroz",
+      "type": "find_region",
+      "targetRegionId": "AFG-1751",
+      "question": {
+        "de": "Klicke auf die Region Nimroz.",
+        "hu": "Kattints N?mr?z r?gi?j?ra.",
+        "ro": "Apas? pe regiunea Nimroz.",
+        "en": "Click the Nimroz region."
+      }
+    },
+    {
+      "id": "af-odd-north-capitals",
+      "type": "odd_one_out",
+      "poiIds": [
+        "kandahar-cities-v2",
+        "kabul-cities-v2",
+        "kunduz-cities-v2",
+        "faizabad-cities-v2"
+      ],
+      "targetPoiId": "faizabad-cities-v2",
+      "question": {
+        "de": "Welche dieser St?dte liegt am weitesten n?rdlich?",
+        "hu": "E v?rosok k?z?l melyik fekszik a leg?szakabbra?",
+        "ro": "Care dintre aceste ora?e se afl? cel mai la nord?",
+        "en": "Which of these cities lies furthest north?"
+      }
+    },
+    {
+      "id": "af-odd-east-cities",
+      "type": "odd_one_out",
+      "poiIds": [
+        "herat-cities-v2",
+        "kabul-cities-v2",
+        "bamyan-cities-v2",
+        "jalalabad-cities-v2"
+      ],
+      "targetPoiId": "jalalabad-cities-v2",
+      "question": {
+        "de": "Welche dieser St?dte liegt am weitesten ?stlich?",
+        "hu": "E v?rosok k?z?l melyik fekszik a legkeletebbre?",
+        "ro": "Care dintre aceste ora?e se afl? cel mai la est?",
+        "en": "Which of these cities lies furthest east?"
+      }
+    },
+    {
+      "id": "af-odd-west-cities",
+      "type": "odd_one_out",
+      "poiIds": [
+        "faizabad-cities-v2",
+        "bamyan-cities-v2",
+        "herat-cities-v2",
+        "kabul-cities-v2"
+      ],
+      "targetPoiId": "herat-cities-v2",
+      "question": {
+        "de": "Welche dieser St?dte liegt am weitesten westlich?",
+        "hu": "E v?rosok k?z?l melyik fekszik a legnyugatabbra?",
+        "ro": "Care dintre aceste ora?e se afl? cel mai la vest?",
+        "en": "Which of these cities lies furthest west?"
+      }
+    },
+    {
+      "id": "af-odd-south-cities",
+      "type": "odd_one_out",
+      "poiIds": [
+        "mazar-i-sharif-cities-v2",
+        "bamyan-cities-v2",
+        "ghazni-cities-v2",
+        "zaranj-cities-v2"
+      ],
+      "targetPoiId": "zaranj-cities-v2",
+      "question": {
+        "de": "Welche dieser St?dte liegt am weitesten s?dlich?",
+        "hu": "E v?rosok k?z?l melyik fekszik a legd?lebbre?",
+        "ro": "Care dintre aceste ora?e se afl? cel mai la sud?",
+        "en": "Which of these cities lies furthest south?"
+      }
+    },
+    {
+      "id": "af-odd-east-border",
+      "type": "odd_one_out",
+      "poiIds": [
+        "islam-qala-hub-economic-v2",
+        "hairatan-port-economic-v2",
+        "spin-boldak-hub-economic-v2",
+        "torkham-hub-economic-v2"
+      ],
+      "targetPoiId": "torkham-hub-economic-v2",
+      "question": {
+        "de": "Welcher dieser Grenz?berg?nge liegt am weitesten ?stlich?",
+        "hu": "E hat?r?tkel?k k?z?l melyik fekszik a legkeletebbre?",
+        "ro": "Care dintre aceste puncte de frontier? se afl? cel mai la est?",
+        "en": "Which of these border crossings lies furthest east?"
+      }
+    },
+    {
+      "id": "af-sequence-west-east-western-corridor",
+      "type": "sequence",
+      "poiIds": [
+        "farah-cities-v2",
+        "herat-cities-v2",
+        "qala-e-naw-cities-v2",
+        "chaghcharan-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "farah-cities-v2",
+        "herat-cities-v2",
+        "qala-e-naw-cities-v2",
+        "chaghcharan-cities-v2"
+      ],
+      "question": {
+        "de": "Ordne diese Orte von Westen nach Osten: Farah, Herat, Qala-e-Naw, Chaghcharan.",
+        "hu": "Rendezd ezeket a helyeket nyugatr?l keletre: Far?h, Her?t, Kala-e-Nav, Csagcsar?n.",
+        "ro": "Ordoneaz? aceste locuri de la vest la est: Farah, Herat, Qala e Naw, Chaghcharan.",
+        "en": "Order these places from west to east: Farah, Herat, Qala e Naw, Chaghcharan."
+      }
+    },
+    {
+      "id": "af-sequence-west-east-southern-arc",
+      "type": "sequence",
+      "poiIds": [
+        "kandahar-cities-v2",
+        "ghazni-cities-v2",
+        "kabul-cities-v2",
+        "jalalabad-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "kandahar-cities-v2",
+        "ghazni-cities-v2",
+        "kabul-cities-v2",
+        "jalalabad-cities-v2"
+      ],
+      "question": {
+        "de": "Bringe die St?dte in die Reihenfolge von Westen nach Osten: Kandahar, Ghazni, Kabul, Jalalabad.",
+        "hu": "Rakd sorba a v?rosokat nyugatr?l keletre: Kandah?r, G?zni, Kabul, Dzsal?l?b?d.",
+        "ro": "Pune ora?ele ?n ordine de la vest la est: Kandahar, Ghazni, Kabul, Jalalabad.",
+        "en": "Put the cities in west-to-east order: Kandahar, Ghazni, Kabul, Jalalabad."
+      }
+    },
+    {
+      "id": "af-sequence-west-east-northeast",
+      "type": "sequence",
+      "poiIds": [
+        "bamyan-cities-v2",
+        "charikar-cities-v2",
+        "mahmud-e-raqi-cities-v2",
+        "faizabad-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "bamyan-cities-v2",
+        "charikar-cities-v2",
+        "mahmud-e-raqi-cities-v2",
+        "faizabad-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke diese Orte von Westen nach Osten an: Bamiyan, Charikar, Mahmud-e-Raqi, Faizabad.",
+        "hu": "Kattints ezekre a helyekre nyugatr?l keletre: B?mij?n, Csarik?r, Mahmud-e-Raki, Faiz?b?d.",
+        "ro": "Apas? aceste locuri de la vest la est: Bamyan, Charikar, Mahmud-e-Raqi, Faizabad.",
+        "en": "Click these places from west to east: Bamyan, Charikar, Mahmud-e-Raqi, Faizabad."
+      }
+    },
+    {
+      "id": "af-sequence-north-south-east-corridor",
+      "type": "sequence",
+      "poiIds": [
+        "faizabad-cities-v2",
+        "kunduz-cities-v2",
+        "kabul-cities-v2",
+        "gardez-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "faizabad-cities-v2",
+        "kunduz-cities-v2",
+        "kabul-cities-v2",
+        "gardez-cities-v2"
+      ],
+      "question": {
+        "de": "Ordne die St?dte von Norden nach S?den: Faizabad, Kunduz, Kabul, Gardez.",
+        "hu": "Rendezd a v?rosokat ?szakr?l d?lre: Faiz?b?d, Kunduz, Kabul, Gard?z.",
+        "ro": "Ordoneaz? ora?ele de la nord la sud: Faizabad, Kunduz, Kabul, Gardez.",
+        "en": "Order the cities from north to south: Faizabad, Kunduz, Kabul, Gardez."
+      }
+    },
+    {
+      "id": "af-sequence-north-south-central-belt",
+      "type": "sequence",
+      "poiIds": [
+        "mazar-i-sharif-cities-v2",
+        "aybak-cities-v2",
+        "bamyan-cities-v2",
+        "kandahar-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "mazar-i-sharif-cities-v2",
+        "aybak-cities-v2",
+        "bamyan-cities-v2",
+        "kandahar-cities-v2"
+      ],
+      "question": {
+        "de": "Lege diese St?dte von Norden nach S?den: Mazar-i-Sharif, Aybak, Bamiyan, Kandahar.",
+        "hu": "Tedd sorba ezeket a v?rosokat ?szakr?l d?lre: Maz?r-e Sar?f, Ajbak, B?mij?n, Kandah?r.",
+        "ro": "A?az? aceste ora?e de la nord la sud: Mazar-i-Sharif, Aybak, Bamyan, Kandahar.",
+        "en": "Arrange these cities from north to south: Mazar-i-Sharif, Aybak, Bamyan, Kandahar."
+      }
+    },
+    {
+      "id": "af-sequence-north-south-western-strip",
+      "type": "sequence",
+      "poiIds": [
+        "maymana-cities-v2",
+        "herat-cities-v2",
+        "farah-cities-v2",
+        "zaranj-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "maymana-cities-v2",
+        "herat-cities-v2",
+        "farah-cities-v2",
+        "zaranj-cities-v2"
+      ],
+      "question": {
+        "de": "Bringe diese westafghanischen St?dte von Norden nach S?den in die richtige Reihenfolge: Maimana, Herat, Farah, Zaranj.",
+        "hu": "Rakd helyes sorrendbe ezeket a nyugat-afganiszt?ni v?rosokat ?szakr?l d?lre: Maimana, Her?t, Far?h, Zarandzs.",
+        "ro": "Pune ?n ordine aceste ora?e din vestul Afganistanului de la nord la sud: Maymana, Herat, Farah, Zaranj.",
+        "en": "Put these western Afghan cities in north-to-south order: Maymana, Herat, Farah, Zaranj."
+      }
+    }
+  ]
+}

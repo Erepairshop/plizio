@@ -1,0 +1,299 @@
+{
+  "ba": [
+    {
+      "id": "ba-find-brcko-on-sava",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Brčko am Fluss Save.",
+        "hu": "Keresd meg Brčkót a Száva partján.",
+        "ro": "Găsește Brčko de pe râul Sava.",
+        "en": "Find Brčko on the Sava River."
+      },
+      "targetPoiId": "ba-brcko"
+    },
+    {
+      "id": "ba-find-blagaj-tekke",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde die Tekija von Blagaj in der Herzegowina.",
+        "hu": "Keresd meg a blagaji tekijét Hercegovinában.",
+        "ro": "Găsește tekia din Blagaj, în Herțegovina.",
+        "en": "Find the Blagaj Tekke in Herzegovina."
+      },
+      "targetPoiId": "ba-blagaj"
+    },
+    {
+      "id": "ba-find-sutjeska-park",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt der Nationalpark Sutjeska im Südosten?",
+        "hu": "Hol található a délkeleti Sutjeska Nemzeti Park?",
+        "ro": "Unde se află Parcul Național Sutjeska din sud-est?",
+        "en": "Where is Sutjeska National Park in the southeast?"
+      },
+      "targetPoiId": "ba-sutjeska"
+    },
+    {
+      "id": "ba-find-vranduk-fortress",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde die Festung Vranduk nördlich von Zenica.",
+        "hu": "Keresd meg a Zenicától északra fekvő Vranduk várát.",
+        "ro": "Găsește cetatea Vranduk, la nord de Zenica.",
+        "en": "Find Vranduk Fortress north of Zenica."
+      },
+      "targetPoiId": "ba-vranduk"
+    },
+    {
+      "id": "ba-find-andricgrad",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Andrićgrad bei Višegrad.",
+        "hu": "Keresd meg Andrićgradot Višegrad közelében.",
+        "ro": "Găsește Andrićgrad lângă Višegrad.",
+        "en": "Find Andrićgrad near Višegrad."
+      },
+      "targetPoiId": "ba-andricgrad"
+    },
+    {
+      "id": "ba-region-herzegovina-neretva",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf die Region Herzegovina-Neretva.",
+        "hu": "Kattints a Herzegovina-Neretva régióra.",
+        "ro": "Apasă pe regiunea Herzegovina-Neretva.",
+        "en": "Click the Herzegovina-Neretva region."
+      },
+      "targetRegionId": "BA-001"
+    },
+    {
+      "id": "ba-region-foca",
+      "type": "find_region",
+      "question": {
+        "de": "Finde die Region Foča im Südosten des Landes.",
+        "hu": "Keresd meg az ország délkeleti részén fekvő Foča régiót.",
+        "ro": "Găsește regiunea Foča din sud-estul țării.",
+        "en": "Find the Foča region in the southeast of the country."
+      },
+      "targetRegionId": "BA-003"
+    },
+    {
+      "id": "ba-region-posavina",
+      "type": "find_region",
+      "question": {
+        "de": "Welche Region liegt direkt am nördlichen Save-Korridor? Klicke Posavina an.",
+        "hu": "Melyik régió fekszik közvetlenül az északi Száva-folyosón? Kattints Posavinára.",
+        "ro": "Ce regiune se află chiar pe coridorul nordic al Savei? Apasă pe Posavina.",
+        "en": "Which region sits directly on the northern Sava corridor? Click Posavina."
+      },
+      "targetRegionId": "BA-007"
+    },
+    {
+      "id": "ba-region-brcko-district",
+      "type": "find_region",
+      "question": {
+        "de": "Finde den Brčko Distrikt.",
+        "hu": "Keresd meg a Brčko körzetet.",
+        "ro": "Găsește districtul Brčko.",
+        "en": "Find the Brčko District."
+      },
+      "targetRegionId": "BA-008"
+    },
+    {
+      "id": "ba-region-central-bosnia",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf die Region Central Bosnia.",
+        "hu": "Kattints a Central Bosnia régióra.",
+        "ro": "Apasă pe regiunea Central Bosnia.",
+        "en": "Click the Central Bosnia region."
+      },
+      "targetRegionId": "BA-013"
+    },
+    {
+      "id": "ba-odd-not-on-sava",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort liegt nicht am Save-Korridor im Norden?",
+        "hu": "Melyik hely nem az északi Száva-folyosón fekszik?",
+        "ro": "Care loc nu se află pe coridorul nordic al Savei?",
+        "en": "Which place is not on the northern Sava corridor?"
+      },
+      "poiIds": [
+        "ba-orasje",
+        "ba-brcko",
+        "ba-bijeljina",
+        "ba-mostar"
+      ],
+      "targetPoiId": "ba-mostar"
+    },
+    {
+      "id": "ba-odd-not-sarajevo-area",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort gehört nicht zum Raum Sarajevo?",
+        "hu": "Melyik hely nem tartozik a szarajevói térséghez?",
+        "ro": "Care loc nu aparține zonei Sarajevo?",
+        "en": "Which place does not belong to the Sarajevo area?"
+      },
+      "poiIds": [
+        "ba-bascarsija",
+        "ba-bjelasnica",
+        "ba-lukomir",
+        "ba-andricgrad"
+      ],
+      "targetPoiId": "ba-andricgrad"
+    },
+    {
+      "id": "ba-odd-not-herzegovina-sight",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche Sehenswürdigkeit liegt nicht in der Herzegowina?",
+        "hu": "Melyik látnivaló nem Hercegovinában található?",
+        "ro": "Care obiectiv nu se află în Herțegovina?",
+        "en": "Which sight is not in Herzegovina?"
+      },
+      "poiIds": [
+        "ba-blagaj",
+        "ba-pocitelj",
+        "ba-kravica",
+        "ba-vranduk"
+      ],
+      "targetPoiId": "ba-vranduk"
+    },
+    {
+      "id": "ba-odd-not-drina-basin-east",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort liegt nicht im Osten am Drina-Raum?",
+        "hu": "Melyik hely nem a keleti Drina-vidéken található?",
+        "ro": "Care loc nu se află în est, în zona Drinei?",
+        "en": "Which place is not in the eastern Drina area?"
+      },
+      "poiIds": [
+        "ba-visegrad",
+        "ba-andricgrad",
+        "ba-gorazde",
+        "ba-jajce"
+      ],
+      "targetPoiId": "ba-jajce"
+    },
+    {
+      "id": "ba-odd-not-una-krajina",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort gehört nicht zur Una-Krajina im Nordwesten?",
+        "hu": "Melyik hely nem az északnyugati Una-Krajinához tartozik?",
+        "ro": "Care loc nu aparține zonei Una-Krajina din nord-vest?",
+        "en": "Which place does not belong to the Una Krajina in the northwest?"
+      },
+      "poiIds": [
+        "ba-una",
+        "ba-bihac",
+        "bosniaherzegovina-cazin-cities-v2",
+        "ba-brcko"
+      ],
+      "targetPoiId": "ba-brcko"
+    },
+    {
+      "id": "ba-sequence-west-east-country-span",
+      "type": "sequence",
+      "question": {
+        "de": "Ordne diese Orte von West nach Ost: Livno, Vranduk, Višegrad.",
+        "hu": "Rendezd ezeket a helyeket nyugatról keletre: Livno, Vranduk, Višegrad.",
+        "ro": "Ordonează aceste locuri de la vest la est: Livno, Vranduk, Višegrad.",
+        "en": "Order these places from west to east: Livno, Vranduk, Višegrad."
+      },
+      "poiIds": [
+        "ba-livno",
+        "ba-vranduk",
+        "ba-visegrad"
+      ],
+      "orderedPoiIds": [
+        "ba-livno",
+        "ba-vranduk",
+        "ba-visegrad"
+      ]
+    },
+    {
+      "id": "ba-sequence-north-south-east-bosnia",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke diese Orte von Nord nach Süd an: Orašje, Doboj, Sutjeska.",
+        "hu": "Kattints ezekre a helyekre északról délre: Orašje, Doboj, Sutjeska.",
+        "ro": "Apasă aceste locuri de la nord la sud: Orašje, Doboj, Sutjeska.",
+        "en": "Click these places from north to south: Orašje, Doboj, Sutjeska."
+      },
+      "poiIds": [
+        "ba-orasje",
+        "ba-doboj",
+        "ba-sutjeska"
+      ],
+      "orderedPoiIds": [
+        "ba-orasje",
+        "ba-doboj",
+        "ba-sutjeska"
+      ]
+    },
+    {
+      "id": "ba-sequence-west-east-rivers-to-plains",
+      "type": "sequence",
+      "question": {
+        "de": "Ordne diese Ziele von West nach Ost: Una-Nationalpark, Pliva-Seen, Brčko.",
+        "hu": "Rendezd ezeket a célpontokat nyugatról keletre: Una Nemzeti Park, Pliva-tavak, Brčko.",
+        "ro": "Ordonează aceste locuri de la vest la est: Parcul Național Una, Lacurile Pliva, Brčko.",
+        "en": "Order these destinations from west to east: Una National Park, Pliva Lakes, Brčko."
+      },
+      "poiIds": [
+        "ba-una",
+        "ba-pliva",
+        "ba-brcko"
+      ],
+      "orderedPoiIds": [
+        "ba-una",
+        "ba-pliva",
+        "ba-brcko"
+      ]
+    },
+    {
+      "id": "ba-sequence-north-south-herzegovina",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke diese herzegowinischen Orte von Nord nach Süd an.",
+        "hu": "Kattints ezekre a hercegovinai helyekre északról délre.",
+        "ro": "Apasă aceste locuri din Herțegovina de la nord la sud.",
+        "en": "Click these Herzegovinian places from north to south."
+      },
+      "poiIds": [
+        "ba-blidinje",
+        "ba-mostar",
+        "ba-hutovo-blato"
+      ],
+      "orderedPoiIds": [
+        "ba-blidinje",
+        "ba-mostar",
+        "ba-hutovo-blato"
+      ]
+    },
+    {
+      "id": "ba-sequence-east-west-sarajevo-to-krajina",
+      "type": "sequence",
+      "question": {
+        "de": "Ordne diese Orte von Ost nach West: Andrićgrad, Sarajevo, Bihać.",
+        "hu": "Rendezd ezeket a helyeket keletről nyugatra: Andrićgrad, Szarajevó, Bihać.",
+        "ro": "Ordonează aceste locuri de la est la vest: Andrićgrad, Sarajevo, Bihać.",
+        "en": "Order these places from east to west: Andrićgrad, Sarajevo, Bihać."
+      },
+      "poiIds": [
+        "ba-andricgrad",
+        "ba-sarajevo",
+        "ba-bihac"
+      ],
+      "orderedPoiIds": [
+        "ba-andricgrad",
+        "ba-sarajevo",
+        "ba-bihac"
+      ]
+    }
+  ]
+}

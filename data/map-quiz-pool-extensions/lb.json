@@ -1,0 +1,287 @@
+{
+  "lb": [
+    {
+      "id": "lb-find-jounieh",
+      "type": "find_poi",
+      "targetPoiId": "jounieh-cities-v2",
+      "question": {
+        "de": "Finde Jounieh nördlich von Beirut an der Küste.",
+        "hu": "Keresd meg Jounieh városát Bejrúttól északra, a tengerparton.",
+        "ro": "Găsește Jounieh la nord de Beirut, pe coastă.",
+        "en": "Find Jounieh north of Beirut on the coast."
+      }
+    },
+    {
+      "id": "lb-find-jeita-grotto",
+      "type": "find_poi",
+      "targetPoiId": "jeita-grotto-landmarks-v2",
+      "question": {
+        "de": "Finde die Jeita-Grotte nordöstlich von Beirut.",
+        "hu": "Keresd meg a Jeita-barlangot Bejrúttól északkeletre.",
+        "ro": "Găsește Grota Jeita la nord-est de Beirut.",
+        "en": "Find Jeita Grotto northeast of Beirut."
+      }
+    },
+    {
+      "id": "lb-find-cedars-of-god",
+      "type": "find_poi",
+      "targetPoiId": "cedars-of-god-landmarks-v2",
+      "question": {
+        "de": "Klicke auf die Zedern des Herrn im Norden des Libanon.",
+        "hu": "Kattints az Úr cédrusaira Libanon északi részén.",
+        "ro": "Apasă pe Cedrii lui Dumnezeu din nordul Libanului.",
+        "en": "Click the Cedars of God in northern Lebanon."
+      }
+    },
+    {
+      "id": "lb-find-qaraoun-lake",
+      "type": "find_poi",
+      "targetPoiId": "lebanon-qaraoun-lake-nature-v2",
+      "question": {
+        "de": "Finde den Qaraoun-See im Süden der Beqaa-Ebene.",
+        "hu": "Keresd meg a Qaraoun-tavat a Bekaa-völgy déli részén.",
+        "ro": "Găsește Lacul Qaraoun în sudul Văii Bekaa.",
+        "en": "Find Lake Qaraoun in the southern Beqaa Valley."
+      }
+    },
+    {
+      "id": "lb-find-palm-islands",
+      "type": "find_poi",
+      "targetPoiId": "palm-islands-reserve-life-v2",
+      "question": {
+        "de": "Finde das Palmeninseln-Naturreservat vor der Küste bei Tripoli.",
+        "hu": "Keresd meg a Pálma-szigetek természetvédelmi területét Tripoli partjai előtt.",
+        "ro": "Găsește Rezervația Insulelor Palmierilor în largul coastei de lângă Tripoli.",
+        "en": "Find the Palm Islands Nature Reserve off the coast near Tripoli."
+      }
+    },
+    {
+      "id": "lb-find-bcharre",
+      "type": "find_poi",
+      "targetPoiId": "bcharre-cities-v2",
+      "question": {
+        "de": "Finde Bscharre im Bergland des Nordlibanon.",
+        "hu": "Keresd meg Bsarri városát Észak-Libanon hegyvidékén.",
+        "ro": "Găsește Bcharre în zona montană din nordul Libanului.",
+        "en": "Find Bcharre in the mountains of northern Lebanon."
+      }
+    },
+    {
+      "id": "lb-region-beirut-governorate",
+      "type": "find_region",
+      "targetRegionId": "LBN-3024",
+      "question": {
+        "de": "Klicke auf die Region Beirut.",
+        "hu": "Kattints Beirut régiójára.",
+        "ro": "Apasă pe regiunea Beirut.",
+        "en": "Click the Beirut region."
+      }
+    },
+    {
+      "id": "lb-region-north-lebanon",
+      "type": "find_region",
+      "targetRegionId": "LBN-3023",
+      "question": {
+        "de": "Klicke auf die Region Nordlibanon.",
+        "hu": "Kattints Észak-Libanon régiójára.",
+        "ro": "Apasă pe regiunea Libanul de Nord.",
+        "en": "Click the North Lebanon region."
+      }
+    },
+    {
+      "id": "lb-region-mount-lebanon",
+      "type": "find_region",
+      "targetRegionId": "LBN-3025",
+      "question": {
+        "de": "Klicke auf die Region Libanonberg.",
+        "hu": "Kattints a Libanon-hegy régióra.",
+        "ro": "Apasă pe regiunea Muntele Libanului.",
+        "en": "Click the Mount Lebanon region."
+      }
+    },
+    {
+      "id": "lb-region-south-lebanon",
+      "type": "find_region",
+      "targetRegionId": "LBN-3060",
+      "question": {
+        "de": "Klicke auf die Region Südlibanon.",
+        "hu": "Kattints Dél-Libanon régiójára.",
+        "ro": "Apasă pe regiunea Libanul de Sud.",
+        "en": "Click the South Lebanon region."
+      }
+    },
+    {
+      "id": "lb-region-an-nabatiyah",
+      "type": "find_region",
+      "targetRegionId": "LBN-3059",
+      "question": {
+        "de": "Klicke auf die Region An Nabatiyah.",
+        "hu": "Kattints An Nabatiyah régiójára.",
+        "ro": "Apasă pe regiunea An Nabatiyah.",
+        "en": "Click the An Nabatiyah region."
+      }
+    },
+    {
+      "id": "lb-odd-coastal-jounieh",
+      "type": "odd_one_out",
+      "poiIds": [
+        "jounieh-cities-v2",
+        "zahle-cities-v2",
+        "baalbek-cities-v2"
+      ],
+      "targetPoiId": "jounieh-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt an der Mittelmeerküste?",
+        "hu": "Ezek közül melyik város fekszik a Földközi-tenger partján?",
+        "ro": "Care dintre aceste orașe se află pe coasta Mediteranei?",
+        "en": "Which of these cities lies on the Mediterranean coast?"
+      }
+    },
+    {
+      "id": "lb-odd-northern-palm-islands",
+      "type": "odd_one_out",
+      "poiIds": [
+        "palm-islands-reserve-life-v2",
+        "cedars-of-god-landmarks-v2",
+        "jeita-grotto-landmarks-v2"
+      ],
+      "targetPoiId": "palm-islands-reserve-life-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Norden?",
+        "hu": "Ezek közül melyik hely fekszik a legészakabbra?",
+        "ro": "Care dintre aceste locuri se află cel mai la nord?",
+        "en": "Which of these places lies farthest north?"
+      }
+    },
+    {
+      "id": "lb-odd-eastern-cedars",
+      "type": "odd_one_out",
+      "poiIds": [
+        "pigeon-rocks-landmarks-v2",
+        "jeita-grotto-landmarks-v2",
+        "cedars-of-god-landmarks-v2"
+      ],
+      "targetPoiId": "cedars-of-god-landmarks-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Osten?",
+        "hu": "Ezek közül melyik hely fekszik a legkeletebbre?",
+        "ro": "Care dintre aceste locuri se află cel mai la est?",
+        "en": "Which of these places lies farthest east?"
+      }
+    },
+    {
+      "id": "lb-odd-southern-tyre",
+      "type": "odd_one_out",
+      "poiIds": [
+        "sidon-cities-v2",
+        "nabatieh-cities-v2",
+        "tyre-cities-v2"
+      ],
+      "targetPoiId": "tyre-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten im Süden?",
+        "hu": "Ezek közül melyik város fekszik a legdélebbre?",
+        "ro": "Care dintre aceste orașe se află cel mai la sud?",
+        "en": "Which of these cities lies farthest south?"
+      }
+    },
+    {
+      "id": "lb-odd-not-beqaa",
+      "type": "odd_one_out",
+      "poiIds": [
+        "jounieh-cities-v2",
+        "zahle-cities-v2",
+        "lebanon-qaraoun-lake-nature-v2"
+      ],
+      "targetPoiId": "jounieh-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht in der Beqaa-Ebene?",
+        "hu": "Ezek közül melyik hely nem a Bekaa-völgyben található?",
+        "ro": "Care dintre aceste locuri nu se află în Valea Bekaa?",
+        "en": "Which of these places is not in the Beqaa Valley?"
+      }
+    },
+    {
+      "id": "lb-sequence-central-coast",
+      "type": "sequence",
+      "poiIds": [
+        "byblos-cities-v2",
+        "jounieh-cities-v2",
+        "beirut-cities-v2",
+        "lebanon-khalde-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "byblos-cities-v2",
+        "jounieh-cities-v2",
+        "beirut-cities-v2",
+        "lebanon-khalde-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Byblos, Jounieh, Beirut und Khalde von Norden nach Süden an.",
+        "hu": "Kattints Bübloszra, Jounieh-re, Bejrútra és Khaldére északról délre.",
+        "ro": "Apasă pe Byblos, Jounieh, Beirut și Khalde de la nord la sud.",
+        "en": "Click Byblos, Jounieh, Beirut and Khalde from north to south."
+      }
+    },
+    {
+      "id": "lb-sequence-west-east-beirut-mountains",
+      "type": "sequence",
+      "poiIds": [
+        "beirut-cities-v2",
+        "jeita-grotto-landmarks-v2",
+        "mzaar-kfardebian-landmarks-v2"
+      ],
+      "orderedPoiIds": [
+        "beirut-cities-v2",
+        "jeita-grotto-landmarks-v2",
+        "mzaar-kfardebian-landmarks-v2"
+      ],
+      "question": {
+        "de": "Klicke Beirut, die Jeita-Grotte und Mzaar Kfardebian von Westen nach Osten an.",
+        "hu": "Kattints Bejrútra, a Jeita-barlangra és Mzaar Kfardebianra nyugatról keletre.",
+        "ro": "Apasă pe Beirut, Grota Jeita și Mzaar Kfardebian de la vest la est.",
+        "en": "Click Beirut, Jeita Grotto and Mzaar Kfardebian from west to east."
+      }
+    },
+    {
+      "id": "lb-sequence-north-bcharre-byblos",
+      "type": "sequence",
+      "poiIds": [
+        "bcharre-cities-v2",
+        "lebanon-douma-cities-v2",
+        "byblos-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "bcharre-cities-v2",
+        "lebanon-douma-cities-v2",
+        "byblos-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Bscharre, Douma und Byblos von Norden nach Süden an.",
+        "hu": "Kattints Bsarrira, Doumára és Bübloszra északról délre.",
+        "ro": "Apasă pe Bcharre, Douma și Byblos de la nord la sud.",
+        "en": "Click Bcharre, Douma and Byblos from north to south."
+      }
+    },
+    {
+      "id": "lb-sequence-west-east-south",
+      "type": "sequence",
+      "poiIds": [
+        "tyre-cities-v2",
+        "nabatieh-cities-v2",
+        "mount-hermon-relief-v2"
+      ],
+      "orderedPoiIds": [
+        "tyre-cities-v2",
+        "nabatieh-cities-v2",
+        "mount-hermon-relief-v2"
+      ],
+      "question": {
+        "de": "Klicke Tyros, Nabatäa und den Hermonberg von Westen nach Osten an.",
+        "hu": "Kattints Türoszra, Nabatijára és a Hermon-hegyre nyugatról keletre.",
+        "ro": "Apasă pe Tir, Nabatieh și Muntele Hermon de la vest la est.",
+        "en": "Click Tyre, Nabatieh and Mount Hermon from west to east."
+      }
+    }
+  ]
+}

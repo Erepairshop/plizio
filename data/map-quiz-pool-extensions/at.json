@@ -1,0 +1,309 @@
+{
+  "at": [
+    {
+      "id": "at-find-klagenfurt-capital",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Klagenfurt, die Hauptstadt Kärntens.",
+        "hu": "Keresd meg Klagenfurtot, Karintia fővárosát.",
+        "ro": "Găsește Klagenfurt, capitala Carintiei.",
+        "en": "Find Klagenfurt, the capital of Carinthia."
+      },
+      "targetPoiId": "AT-Klagenfurt"
+    },
+    {
+      "id": "at-find-hallstatt-lake",
+      "type": "find_poi",
+      "question": {
+        "de": "Klicke auf Hallstatt am Hallstätter See.",
+        "hu": "Kattints Hallstattra a Hallstatti-tó partján.",
+        "ro": "Apasă pe Hallstatt, pe malul lacului Hallstätter See.",
+        "en": "Click Hallstatt on Lake Hallstatt."
+      },
+      "targetPoiId": "AT-Hallstatt"
+    },
+    {
+      "id": "at-find-melk-abbey",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt das Stift Melk an der Donau?",
+        "hu": "Hol található a Dunánál fekvő melk-i apátság?",
+        "ro": "Unde se află Abația Melk de pe Dunăre?",
+        "en": "Where is Melk Abbey on the Danube?"
+      },
+      "targetPoiId": "AT-Melk"
+    },
+    {
+      "id": "at-find-schoenbrunn-palace",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde das Schloss Schönbrunn in Wien.",
+        "hu": "Keresd meg a bécsi Schönbrunni kastélyt.",
+        "ro": "Găsește Palatul Schönbrunn din Viena.",
+        "en": "Find Schönbrunn Palace in Vienna."
+      },
+      "targetPoiId": "AT-Schoenbrunn"
+    },
+    {
+      "id": "at-find-achensee",
+      "type": "find_poi",
+      "question": {
+        "de": "Klicke auf den Achensee in Tirol.",
+        "hu": "Kattints a tiroli Achensee-re.",
+        "ro": "Apasă pe lacul Achensee din Tirol.",
+        "en": "Click on Lake Achensee in Tyrol."
+      },
+      "targetPoiId": "AT-Achensee"
+    },
+    {
+      "id": "at-region-lower-austria-new",
+      "type": "find_region",
+      "question": {
+        "de": "Finde Niederösterreich.",
+        "hu": "Keresd meg Alsó-Ausztriát.",
+        "ro": "Găsește Austria Inferioară.",
+        "en": "Find Lower Austria."
+      },
+      "targetRegionId": "AT-3"
+    },
+    {
+      "id": "at-region-upper-austria-new",
+      "type": "find_region",
+      "question": {
+        "de": "Wo liegt Oberösterreich?",
+        "hu": "Hol található Felső-Ausztria?",
+        "ro": "Unde se află Austria Superioară?",
+        "en": "Where is Upper Austria?"
+      },
+      "targetRegionId": "AT-4"
+    },
+    {
+      "id": "at-region-salzburg-state",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf das Bundesland Salzburg.",
+        "hu": "Kattints Salzburg tartományra.",
+        "ro": "Apasă pe landul Salzburg.",
+        "en": "Click the state of Salzburg."
+      },
+      "targetRegionId": "AT-5"
+    },
+    {
+      "id": "at-region-carinthia-state",
+      "type": "find_region",
+      "question": {
+        "de": "Finde Kärnten im Süden Österreichs.",
+        "hu": "Keresd meg Karintiát Ausztria déli részén.",
+        "ro": "Găsește Carintia din sudul Austriei.",
+        "en": "Find Carinthia in southern Austria."
+      },
+      "targetRegionId": "AT-2"
+    },
+    {
+      "id": "at-region-vorarlberg-state",
+      "type": "find_region",
+      "question": {
+        "de": "Wo liegt Vorarlberg ganz im Westen?",
+        "hu": "Hol található a legnyugatibb Vorarlberg?",
+        "ro": "Unde se află Vorarlberg, în extremul vest?",
+        "en": "Where is Vorarlberg in the far west?"
+      },
+      "targetRegionId": "AT-8"
+    },
+    {
+      "id": "at-odd-burgenland-city",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Städte liegt im Burgenland und nicht in Niederösterreich?",
+        "hu": "Melyik város fekszik Burgenlandban, és nem Alsó-Ausztriában?",
+        "ro": "Care dintre aceste orașe se află în Burgenland, nu în Austria Inferioară?",
+        "en": "Which of these cities is in Burgenland rather than Lower Austria?"
+      },
+      "poiIds": [
+        "AT-Eisenstadt",
+        "at-klosterneuburg",
+        "austria-krems-cities-v2",
+        "at-amstetten"
+      ],
+      "targetPoiId": "AT-Eisenstadt"
+    },
+    {
+      "id": "at-odd-woerthersee-place",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher dieser Orte liegt am Wörthersee?",
+        "hu": "Melyik hely fekszik a Wörthi-tónál?",
+        "ro": "Care dintre aceste locuri se află pe lacul Wörthersee?",
+        "en": "Which of these places is on Lake Wörthersee?"
+      },
+      "poiIds": [
+        "austria-maria-worth-cities-v2",
+        "austria-millstatt-cities-v2",
+        "austria-seeboden-cities-v2",
+        "at-spittal-an-der-drau"
+      ],
+      "targetPoiId": "austria-maria-worth-cities-v2"
+    },
+    {
+      "id": "at-odd-vorarlberg-not-tyrol",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Städte liegt in Vorarlberg und nicht in Tirol?",
+        "hu": "Melyik város található Vorarlbergben, és nem Tirolban?",
+        "ro": "Care dintre aceste orașe se află în Vorarlberg, nu în Tirol?",
+        "en": "Which of these cities is in Vorarlberg rather than Tyrol?"
+      },
+      "poiIds": [
+        "austria-feldkirch-cities-v2",
+        "AT-Kitzbuehel",
+        "austria-kufstein-cities-v2",
+        "at-telfs"
+      ],
+      "targetPoiId": "austria-feldkirch-cities-v2"
+    },
+    {
+      "id": "at-odd-vienna-not-salzburg",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher dieser Orte liegt in Wien und nicht in Salzburg?",
+        "hu": "Melyik hely található Bécsben, és nem Salzburgban?",
+        "ro": "Care dintre aceste locuri se află la Viena, nu la Salzburg?",
+        "en": "Which of these places is in Vienna rather than Salzburg?"
+      },
+      "poiIds": [
+        "AT-Schoenbrunn",
+        "AT-Hohensalzburg",
+        "AT-Mozarthaus",
+        "AT-Mirabell"
+      ],
+      "targetPoiId": "AT-Schoenbrunn"
+    },
+    {
+      "id": "at-odd-southeast-styria",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Südosten der Steiermark?",
+        "hu": "Melyik hely fekszik Stájerország legdélibb-keletibb részén?",
+        "ro": "Care dintre aceste locuri se află cel mai departe în sud-estul Stiriei?",
+        "en": "Which of these places lies farthest to the southeast in Styria?"
+      },
+      "poiIds": [
+        "castle-riegersburg-extra",
+        "austria-leoben-cities-v2",
+        "AT-Graz",
+        "at-stift-admont"
+      ],
+      "targetPoiId": "castle-riegersburg-extra"
+    },
+    {
+      "id": "at-sequence-tyrol-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Landeck, Telfs, Innsbruck und Wörgl von West nach Ost an.",
+        "hu": "Kattints Landeckre, Telfsre, Innsbruckra és Wörglre nyugatról keletre.",
+        "ro": "Apasă Landeck, Telfs, Innsbruck și Wörgl de la vest la est.",
+        "en": "Click Landeck, Telfs, Innsbruck and Wörgl from west to east."
+      },
+      "poiIds": [
+        "austria-landeck-cities-v2",
+        "at-telfs",
+        "AT-Innsbruck",
+        "at-worgl"
+      ],
+      "orderedPoiIds": [
+        "austria-landeck-cities-v2",
+        "at-telfs",
+        "AT-Innsbruck",
+        "at-worgl"
+      ]
+    },
+    {
+      "id": "at-sequence-vienna-north-south",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Kahlenberg, den Stephansdom, das Belvedere und Schönbrunn von Nord nach Süd an.",
+        "hu": "Kattints a Kahlenbergre, a Szent István-székesegyházra, a Belvedere-re és Schönbrunnra északról délre.",
+        "ro": "Apasă Kahlenberg, Catedrala Sfântul Ștefan, Belvedere și Schönbrunn de la nord la sud.",
+        "en": "Click Kahlenberg, St. Stephen's Cathedral, Belvedere and Schönbrunn from north to south."
+      },
+      "poiIds": [
+        "at-kahlenberg",
+        "AT-Stephansdom",
+        "AT-Belvedere",
+        "AT-Schoenbrunn"
+      ],
+      "orderedPoiIds": [
+        "at-kahlenberg",
+        "AT-Stephansdom",
+        "AT-Belvedere",
+        "AT-Schoenbrunn"
+      ]
+    },
+    {
+      "id": "at-sequence-lower-austria-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Melk, Schallaburg, Krems und Grafenegg von West nach Ost an.",
+        "hu": "Kattints Melkre, Schallaburgra, Kremsre és Grafeneggre nyugatról keletre.",
+        "ro": "Apasă Melk, Schallaburg, Krems și Grafenegg de la vest la est.",
+        "en": "Click Melk, Schallaburg, Krems and Grafenegg from west to east."
+      },
+      "poiIds": [
+        "AT-Melk",
+        "historical-schallaburg-extra",
+        "austria-krems-cities-v2",
+        "austria-schloss-grafenegg-history-v2"
+      ],
+      "orderedPoiIds": [
+        "AT-Melk",
+        "historical-schallaburg-extra",
+        "austria-krems-cities-v2",
+        "austria-schloss-grafenegg-history-v2"
+      ]
+    },
+    {
+      "id": "at-sequence-vorarlberg-north-south",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Bregenz, Dornbirn, Feldkirch und Bludenz von Nord nach Süd an.",
+        "hu": "Kattints Bregenzre, Dornbirnre, Feldkirchre és Bludenzre északról délre.",
+        "ro": "Apasă Bregenz, Dornbirn, Feldkirch și Bludenz de la nord la sud.",
+        "en": "Click Bregenz, Dornbirn, Feldkirch and Bludenz from north to south."
+      },
+      "poiIds": [
+        "AT-Bregenz",
+        "austria-dornbirn-cities-v2",
+        "austria-feldkirch-cities-v2",
+        "austria-bludenz-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "AT-Bregenz",
+        "austria-dornbirn-cities-v2",
+        "austria-feldkirch-cities-v2",
+        "austria-bludenz-cities-v2"
+      ]
+    },
+    {
+      "id": "at-sequence-burgenland-north-south",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Neusiedl am See, Eisenstadt, Mattersburg und Oberwart von Nord nach Süd an.",
+        "hu": "Kattints Neusiedl am See-re, Eisenstadtra, Mattersburgra és Oberwartra északról délre.",
+        "ro": "Apasă Neusiedl am See, Eisenstadt, Mattersburg și Oberwart de la nord la sud.",
+        "en": "Click Neusiedl am See, Eisenstadt, Mattersburg and Oberwart from north to south."
+      },
+      "poiIds": [
+        "at-neusiedl-am-see",
+        "AT-Eisenstadt",
+        "at-mattersburg",
+        "at-oberwart"
+      ],
+      "orderedPoiIds": [
+        "at-neusiedl-am-see",
+        "AT-Eisenstadt",
+        "at-mattersburg",
+        "at-oberwart"
+      ]
+    }
+  ]
+}

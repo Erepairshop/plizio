@@ -1,0 +1,309 @@
+{
+  "bs": [
+    {
+      "id": "bs-find-west-end-new",
+      "type": "find_poi",
+      "targetPoiId": "bs-westend",
+      "question": {
+        "de": "Finde West End am westlichen Rand von Grand Bahama.",
+        "hu": "Keresd meg West Endet Grand Bahama nyugati perem?n.",
+        "ro": "G?se?te West End la marginea vestic? a insulei Grand Bahama.",
+        "en": "Find West End on the western edge of Grand Bahama."
+      }
+    },
+    {
+      "id": "bs-find-governors-harbour-new",
+      "type": "find_poi",
+      "targetPoiId": "bs-governors-harbour-refill",
+      "question": {
+        "de": "Finde Governor's Harbour auf Eleuthera.",
+        "hu": "Keresd meg Governor's Harbourt Eleuthera sziget?n.",
+        "ro": "G?se?te Governor's Harbour pe insula Eleuthera.",
+        "en": "Find Governor's Harbour on Eleuthera."
+      }
+    },
+    {
+      "id": "bs-find-clarence-town-new",
+      "type": "find_poi",
+      "targetPoiId": "bs-clarence-town-refill",
+      "question": {
+        "de": "Finde Clarence Town auf Long Island.",
+        "hu": "Keresd meg Clarence Townt Long Islanden.",
+        "ro": "G?se?te Clarence Town pe Long Island.",
+        "en": "Find Clarence Town on Long Island."
+      }
+    },
+    {
+      "id": "bs-find-cockburn-town-new",
+      "type": "find_poi",
+      "targetPoiId": "bs-cockburn-town-refill",
+      "question": {
+        "de": "Finde Cockburn Town auf San Salvador.",
+        "hu": "Keresd meg Cockburn Townt San Salvador sziget?n.",
+        "ro": "G?se?te Cockburn Town pe insula San Salvador.",
+        "en": "Find Cockburn Town on San Salvador."
+      }
+    },
+    {
+      "id": "bs-find-deans-blue-hole-new",
+      "type": "find_poi",
+      "targetPoiId": "bs-bluehole",
+      "question": {
+        "de": "Finde Dean's Blue Hole an der K?ste von Long Island.",
+        "hu": "Keresd meg Dean's Blue Hole-t Long Island partj?n.",
+        "ro": "G?se?te Dean's Blue Hole pe coasta insulei Long Island.",
+        "en": "Find Dean's Blue Hole on the coast of Long Island."
+      }
+    },
+    {
+      "id": "bs-find-glass-window-bridge-new",
+      "type": "find_poi",
+      "targetPoiId": "bs-glass-window",
+      "question": {
+        "de": "Finde die Glass Window Bridge im Norden von Eleuthera.",
+        "hu": "Keresd meg a Glass Window Bridge-et Eleuthera ?szaki r?sz?n.",
+        "ro": "G?se?te Glass Window Bridge ?n nordul insulei Eleuthera.",
+        "en": "Find the Glass Window Bridge in northern Eleuthera."
+      }
+    },
+    {
+      "id": "bs-find-region-new-providence-new",
+      "type": "find_region",
+      "targetRegionId": "BHS-5009",
+      "question": {
+        "de": "Klicke auf New Providence, die Insel mit Nassau.",
+        "hu": "Kattints New Providence-ra, arra a szigetre, ahol Nassau tal?lhat?.",
+        "ro": "Apas? pe New Providence, insula pe care se afl? Nassau.",
+        "en": "Click New Providence, the island that contains Nassau."
+      }
+    },
+    {
+      "id": "bs-find-region-inagua-new",
+      "type": "find_region",
+      "targetRegionId": "BHS-5038",
+      "question": {
+        "de": "Klicke auf Inagua, die s?d?stliche Inselgruppe mit Matthew Town.",
+        "hu": "Kattints Inagu?ra, a d?lkeleti szigetcsoportra, ahol Matthew Town tal?lhat?.",
+        "ro": "Apas? pe Inagua, grupul de insule din sud-est unde se afl? Matthew Town.",
+        "en": "Click Inagua, the southeastern island group with Matthew Town."
+      }
+    },
+    {
+      "id": "bs-find-region-north-abaco-new",
+      "type": "find_region",
+      "targetRegionId": "BHS-5014",
+      "question": {
+        "de": "Klicke auf North Abaco, den Bezirk mit Green Turtle Cay.",
+        "hu": "Kattints North Abac?ra, arra a k?rzetre, ahol Green Turtle Cay tal?lhat?.",
+        "ro": "Apas? pe North Abaco, districtul care include Green Turtle Cay.",
+        "en": "Click North Abaco, the district that includes Green Turtle Cay."
+      }
+    },
+    {
+      "id": "bs-find-region-exuma-new",
+      "type": "find_region",
+      "targetRegionId": "BHS-5024",
+      "question": {
+        "de": "Klicke auf Exuma, den Bezirk mit George Town.",
+        "hu": "Kattints Exum?ra, arra a k?rzetre, ahol George Town tal?lhat?.",
+        "ro": "Apas? pe Exuma, districtul ?n care se afl? George Town.",
+        "en": "Click Exuma, the district where George Town is located."
+      }
+    },
+    {
+      "id": "bs-odd-bimini-town-new",
+      "type": "odd_one_out",
+      "poiIds": [
+        "bs-alicetown",
+        "bs-nassau",
+        "bs-freeport",
+        "bs-marshharbour"
+      ],
+      "targetPoiId": "bs-alicetown",
+      "question": {
+        "de": "Welcher dieser Orte liegt als einziger auf Bimini?",
+        "hu": "Melyik hely tal?lhat? egyed?lik?nt Biminin?",
+        "ro": "Care dintre aceste locuri se afl? singurul pe Bimini?",
+        "en": "Which of these places is the only one on Bimini?"
+      }
+    },
+    {
+      "id": "bs-odd-southernmost-town-new",
+      "type": "odd_one_out",
+      "poiIds": [
+        "bs-freeport",
+        "bs-nassau",
+        "bs-arthurs-town-refill",
+        "bs-matthew-town-refill"
+      ],
+      "targetPoiId": "bs-matthew-town-refill",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im S?den?",
+        "hu": "Melyik hely fekszik a legd?lebbre?",
+        "ro": "Care dintre aceste locuri se afl? cel mai la sud?",
+        "en": "Which of these places lies farthest south?"
+      }
+    },
+    {
+      "id": "bs-odd-long-island-town-new",
+      "type": "odd_one_out",
+      "poiIds": [
+        "bs-clarence-town-refill",
+        "bs-governors-harbour-refill",
+        "bs-george-town-exuma-refill",
+        "bs-cockburn-town-refill"
+      ],
+      "targetPoiId": "bs-clarence-town-refill",
+      "question": {
+        "de": "Welcher dieser Orte liegt als einziger auf Long Island?",
+        "hu": "Melyik hely tal?lhat? egyed?lik?nt Long Islanden?",
+        "ro": "Care dintre aceste locuri se afl? singurul pe Long Island?",
+        "en": "Which of these places is the only one on Long Island?"
+      }
+    },
+    {
+      "id": "bs-odd-cat-island-town-new",
+      "type": "odd_one_out",
+      "poiIds": [
+        "bs-arthurs-town-refill",
+        "bs-port-nelson-refill",
+        "bs-governors-harbour-refill",
+        "bs-cockburn-town-refill"
+      ],
+      "targetPoiId": "bs-arthurs-town-refill",
+      "question": {
+        "de": "Welcher dieser Orte liegt als einziger auf Cat Island?",
+        "hu": "Melyik hely tal?lhat? egyed?lik?nt Cat Islanden?",
+        "ro": "Care dintre aceste locuri se afl? singurul pe Cat Island?",
+        "en": "Which of these places is the only one on Cat Island?"
+      }
+    },
+    {
+      "id": "bs-odd-grand-bahama-landmark-new",
+      "type": "odd_one_out",
+      "poiIds": [
+        "bs-gold-rock-beach-refill",
+        "bs-bluehole",
+        "bs-columbus-point-refill",
+        "bs-leon-levy-native-plant-preserve-refill"
+      ],
+      "targetPoiId": "bs-gold-rock-beach-refill",
+      "question": {
+        "de": "Welcher dieser Orte liegt auf Grand Bahama, w?hrend die anderen auf anderen Inseln liegen?",
+        "hu": "Melyik hely tal?lhat? Grand Baham?n, mik?zben a t?bbi m?s szigeteken van?",
+        "ro": "Care dintre aceste locuri se afl? pe Grand Bahama, ?n timp ce celelalte sunt pe alte insule?",
+        "en": "Which of these places is on Grand Bahama while the others are on other islands?"
+      }
+    },
+    {
+      "id": "bs-sequence-west-east-arc-new",
+      "type": "sequence",
+      "poiIds": [
+        "bs-westend",
+        "bs-nassau",
+        "bs-marshharbour",
+        "bs-matthew-town-refill"
+      ],
+      "orderedPoiIds": [
+        "bs-westend",
+        "bs-nassau",
+        "bs-marshharbour",
+        "bs-matthew-town-refill"
+      ],
+      "question": {
+        "de": "Klicke diese Orte von Westen nach Osten an.",
+        "hu": "Kattints ezekre a helyekre nyugatr?l keletre.",
+        "ro": "Apas? aceste locuri de la vest la est.",
+        "en": "Click these places from west to east."
+      }
+    },
+    {
+      "id": "bs-sequence-north-south-major-new",
+      "type": "sequence",
+      "poiIds": [
+        "bs-coopers-town-refill",
+        "bs-nassau",
+        "bs-george-town-exuma-refill",
+        "bs-matthew-town-refill"
+      ],
+      "orderedPoiIds": [
+        "bs-coopers-town-refill",
+        "bs-nassau",
+        "bs-george-town-exuma-refill",
+        "bs-matthew-town-refill"
+      ],
+      "question": {
+        "de": "Ordne diese Orte von Norden nach S?den.",
+        "hu": "Rendezd ezeket a helyeket ?szakr?l d?lre.",
+        "ro": "Ordoneaz? aceste locuri de la nord la sud.",
+        "en": "Order these places from north to south."
+      }
+    },
+    {
+      "id": "bs-sequence-north-south-central-chain-new",
+      "type": "sequence",
+      "poiIds": [
+        "bs-spanish-wells-refill",
+        "bs-governors-harbour-refill",
+        "bs-george-town-exuma-refill",
+        "bs-clarence-town-refill"
+      ],
+      "orderedPoiIds": [
+        "bs-spanish-wells-refill",
+        "bs-governors-harbour-refill",
+        "bs-george-town-exuma-refill",
+        "bs-clarence-town-refill"
+      ],
+      "question": {
+        "de": "Folge diesen Inselorten von Norden nach S?den.",
+        "hu": "Haladj ezekkel a szigeti helyekkel ?szakr?l d?lre.",
+        "ro": "Urmeaz? aceste locuri insulare de la nord la sud.",
+        "en": "Follow these island places from north to south."
+      }
+    },
+    {
+      "id": "bs-sequence-west-east-landmarks-new",
+      "type": "sequence",
+      "poiIds": [
+        "bs-bimini-road",
+        "bs-fort-charlotte",
+        "bs-glass-window",
+        "bs-columbus-point-refill"
+      ],
+      "orderedPoiIds": [
+        "bs-bimini-road",
+        "bs-fort-charlotte",
+        "bs-glass-window",
+        "bs-columbus-point-refill"
+      ],
+      "question": {
+        "de": "Klicke diese Wahrzeichen von West nach Ost.",
+        "hu": "Kattints ezekre a nevezetess?gekre nyugatr?l keletre.",
+        "ro": "Apas? aceste repere de la vest la est.",
+        "en": "Click these landmarks from west to east."
+      }
+    },
+    {
+      "id": "bs-sequence-west-east-southern-islands-new",
+      "type": "sequence",
+      "poiIds": [
+        "bs-clarence-town-refill",
+        "bs-port-nelson-refill",
+        "bs-cockburn-town-refill",
+        "bs-abrahams-bay-refill"
+      ],
+      "orderedPoiIds": [
+        "bs-clarence-town-refill",
+        "bs-port-nelson-refill",
+        "bs-cockburn-town-refill",
+        "bs-abrahams-bay-refill"
+      ],
+      "question": {
+        "de": "Ordne diese s?dlichen Inselorte von Westen nach Osten.",
+        "hu": "Rendezd ezeket a d?li szigeti helyeket nyugatr?l keletre.",
+        "ro": "Ordoneaz? aceste locuri din insulele sudice de la vest la est.",
+        "en": "Order these southern island places from west to east."
+      }
+    }
+  ]
+}

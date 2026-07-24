@@ -1,0 +1,303 @@
+{
+  "mw": [
+    {
+      "id": "mw-find-likoma-cathedral",
+      "type": "find_poi",
+      "targetPoiId": "malawi-likoma-cathedral-history-v2",
+      "question": {
+        "de": "Finde die Kathedrale auf Likoma Island im Malawisee.",
+        "hu": "Keresd meg a Malawi-tóban fekvő Likoma-sziget katedrálisát.",
+        "ro": "Găsește catedrala de pe insula Likoma din Lacul Malawi.",
+        "en": "Find the cathedral on Likoma Island in Lake Malawi."
+      }
+    },
+    {
+      "id": "mw-find-liwonde-national-park",
+      "type": "find_poi",
+      "targetPoiId": "malawi-liwonde-national-park-life-v2",
+      "question": {
+        "de": "Finde den Liwonde-Nationalpark am Shire-Fluss.",
+        "hu": "Keresd meg a Shire folyó mentén fekvő Liwonde Nemzeti Parkot.",
+        "ro": "Găsește Parcul Național Liwonde de-a lungul râului Shire.",
+        "en": "Find Liwonde National Park along the Shire River."
+      }
+    },
+    {
+      "id": "mw-find-mount-mulanje",
+      "type": "find_poi",
+      "targetPoiId": "malawi-mount-mulanje-nature-v2",
+      "question": {
+        "de": "Finde das Mulanje-Massiv im Südosten Malawis.",
+        "hu": "Keresd meg a Malawi délkeleti részén fekvő Mulanje-hegységet.",
+        "ro": "Găsește masivul Mulanje din sud-estul Malawiei.",
+        "en": "Find Mount Mulanje in southeastern Malawi."
+      }
+    },
+    {
+      "id": "mw-find-nkhotakota-slave-market",
+      "type": "find_poi",
+      "targetPoiId": "malawi-nkhotakota-slave-market-history-v2",
+      "question": {
+        "de": "Finde den historischen Sklavenmarkt von Nkhotakota am Seeufer.",
+        "hu": "Keresd meg Nkhotakota történelmi rabszolgapiacát a tóparton.",
+        "ro": "Găsește vechea piață de sclavi din Nkhotakota de pe malul lacului.",
+        "en": "Find the historic Nkhotakota Slave Market on the lakeshore."
+      }
+    },
+    {
+      "id": "mw-find-lake-malawi-national-park",
+      "type": "find_poi",
+      "targetPoiId": "malawi-lake-malawi-national-park-life-v2",
+      "question": {
+        "de": "Finde den Lake-Malawi-Nationalpark am Südufer des Sees.",
+        "hu": "Keresd meg a Malawi-tó déli partján fekvő Lake Malawi Nemzeti Parkot.",
+        "ro": "Găsește Parcul Național Lake Malawi de pe țărmul sudic al lacului.",
+        "en": "Find Lake Malawi National Park on the southern shore of the lake."
+      }
+    },
+    {
+      "id": "mw-find-salima",
+      "type": "find_poi",
+      "targetPoiId": "malawi-salima-cities-v2",
+      "question": {
+        "de": "Finde Salima am zentralen Westufer des Malawisees.",
+        "hu": "Keresd meg Salimát a Malawi-tó középső nyugati partján.",
+        "ro": "Găsește Salima pe țărmul vestic central al Lacului Malawi.",
+        "en": "Find Salima on the central western shore of Lake Malawi."
+      }
+    },
+    {
+      "id": "mw-region-rumphi",
+      "type": "find_region",
+      "targetRegionId": "MWI-1903",
+      "question": {
+        "de": "Klicke auf den Distrikt Rumphi im Norden.",
+        "hu": "Kattints az északi Rumphi körzetre.",
+        "ro": "Apasă pe districtul Rumphi din nord.",
+        "en": "Click Rumphi District in the north."
+      }
+    },
+    {
+      "id": "mw-region-likoma",
+      "type": "find_region",
+      "targetRegionId": "MWI-5509",
+      "question": {
+        "de": "Finde den Insel-Distrikt Likoma im Malawisee.",
+        "hu": "Keresd meg a Malawi-tóban fekvő Likoma szigetkörzetet.",
+        "ro": "Găsește districtul insular Likoma din Lacul Malawi.",
+        "en": "Find Likoma, the island district in Lake Malawi."
+      }
+    },
+    {
+      "id": "mw-region-nkhotakota",
+      "type": "find_region",
+      "targetRegionId": "MWI-1902",
+      "question": {
+        "de": "Klicke auf den Distrikt Nkhotakota an der zentralen Seenküste.",
+        "hu": "Kattints a tó középső partján fekvő Nkhotakota körzetre.",
+        "ro": "Apasă pe districtul Nkhotakota de pe coasta centrală a lacului.",
+        "en": "Click Nkhotakota District on the central lakeshore."
+      }
+    },
+    {
+      "id": "mw-region-mangochi",
+      "type": "find_region",
+      "targetRegionId": "MWI-1910",
+      "question": {
+        "de": "Finde den Distrikt Mangochi im Südosten am See.",
+        "hu": "Keresd meg a délkeleti, tóparti Mangochi körzetet.",
+        "ro": "Găsește districtul Mangochi din sud-est, pe malul lacului.",
+        "en": "Find Mangochi District in the southeast by the lake."
+      }
+    },
+    {
+      "id": "mw-region-mulanje",
+      "type": "find_region",
+      "targetRegionId": "MWI-1923",
+      "question": {
+        "de": "Klicke auf den Distrikt Mulanje im äußersten Südosten.",
+        "hu": "Kattints a legdélkeletibb Mulanje körzetre.",
+        "ro": "Apasă pe districtul Mulanje din extremul sud-est.",
+        "en": "Click Mulanje District in the far southeast."
+      }
+    },
+    {
+      "id": "mw-odd-island-cathedral",
+      "type": "odd_one_out",
+      "poiIds": [
+        "malawi-likoma-cathedral-history-v2",
+        "malawi-mandala-house-history-v2",
+        "malawi-karonga-museum-history-v2",
+        "malawi-victoria-memorial-tower-history-v2"
+      ],
+      "targetPoiId": "malawi-likoma-cathedral-history-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt auf einer Insel im Malawisee?",
+        "hu": "Ezek közül melyik hely található a Malawi-tó egyik szigetén?",
+        "ro": "Care dintre aceste locuri se află pe o insulă din Lacul Malawi?",
+        "en": "Which of these places is located on an island in Lake Malawi?"
+      }
+    },
+    {
+      "id": "mw-odd-mountain-massif",
+      "type": "odd_one_out",
+      "poiIds": [
+        "malawi-mount-mulanje-nature-v2",
+        "malawi-blantyre-cities-v2",
+        "malawi-liwonde-cities-v2",
+        "malawi-salima-cities-v2"
+      ],
+      "targetPoiId": "malawi-mount-mulanje-nature-v2",
+      "question": {
+        "de": "Welcher dieser Punkte ist ein Gebirgsmassiv und keine Stadt?",
+        "hu": "Ezek közül melyik pont hegytömb, és nem város?",
+        "ro": "Care dintre aceste puncte este un masiv montan, nu un oraș?",
+        "en": "Which of these points is a mountain massif rather than a town or city?"
+      }
+    },
+    {
+      "id": "mw-odd-border-post",
+      "type": "odd_one_out",
+      "poiIds": [
+        "malawi-songwe-border-post-economic-v2",
+        "malawi-kamuzu-academy-history-v2",
+        "malawi-karonga-museum-history-v2",
+        "malawi-liwonde-national-park-life-v2"
+      ],
+      "targetPoiId": "malawi-songwe-border-post-economic-v2",
+      "question": {
+        "de": "Welcher dieser Orte ist ein offizieller Grenzübergang?",
+        "hu": "Ezek közül melyik hely hivatalos határátkelő?",
+        "ro": "Care dintre aceste locuri este un punct oficial de trecere a frontierei?",
+        "en": "Which of these places is an official border crossing?"
+      }
+    },
+    {
+      "id": "mw-odd-museum",
+      "type": "odd_one_out",
+      "poiIds": [
+        "malawi-chichiri-museum-history-v2",
+        "malawi-st-michael-angels-church-history-v2",
+        "malawi-mandala-house-history-v2",
+        "malawi-victoria-memorial-tower-history-v2"
+      ],
+      "targetPoiId": "malawi-chichiri-museum-history-v2",
+      "question": {
+        "de": "Welcher dieser Orte ist ein Museum?",
+        "hu": "Ezek közül melyik hely múzeum?",
+        "ro": "Care dintre aceste locuri este un muzeu?",
+        "en": "Which of these places is a museum?"
+      }
+    },
+    {
+      "id": "mw-sequence-west-east-northern-belt",
+      "type": "sequence",
+      "poiIds": [
+        "malawi-rumphi-cities-v2",
+        "malawi-mzuzu-cities-v2",
+        "malawi-nkhata-bay-old-port-history-v2",
+        "malawi-likoma-cathedral-history-v2"
+      ],
+      "orderedPoiIds": [
+        "malawi-rumphi-cities-v2",
+        "malawi-mzuzu-cities-v2",
+        "malawi-nkhata-bay-old-port-history-v2",
+        "malawi-likoma-cathedral-history-v2"
+      ],
+      "question": {
+        "de": "Klicke Rumphi, Mzuzu, den alten Hafen von Nkhata Bay und die Likoma-Kathedrale von West nach Ost an.",
+        "hu": "Kattints Rumphira, Mzuzura, Nkhata Bay régi kikötőjére és a likomai katedrálisra nyugatról keletre.",
+        "ro": "Apasă Rumphi, Mzuzu, vechiul port din Nkhata Bay și Catedrala Likoma de la vest la est.",
+        "en": "Click Rumphi, Mzuzu, Nkhata Bay Old Port, and Likoma Cathedral from west to east."
+      }
+    },
+    {
+      "id": "mw-sequence-north-south-lakeshore",
+      "type": "sequence",
+      "poiIds": [
+        "malawi-karonga-cities-v2",
+        "malawi-chitimba-cities-v2",
+        "malawi-chintheche-cities-v2",
+        "malawi-salima-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "malawi-karonga-cities-v2",
+        "malawi-chitimba-cities-v2",
+        "malawi-chintheche-cities-v2",
+        "malawi-salima-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Karonga, Chitimba, Chintheche und Salima von Nord nach Süd an.",
+        "hu": "Kattints Karongára, Chitimbára, Chinthechére és Salimára északról délre.",
+        "ro": "Apasă Karonga, Chitimba, Chintheche și Salima de la nord la sud.",
+        "en": "Click Karonga, Chitimba, Chintheche, and Salima from north to south."
+      }
+    },
+    {
+      "id": "mw-sequence-west-east-central",
+      "type": "sequence",
+      "poiIds": [
+        "malawi-dzalanyama-forest-reserve-life-v2",
+        "malawi-lilongwe-cities-v2",
+        "malawi-mua-mission-history-v2",
+        "malawi-club-makokola-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "malawi-dzalanyama-forest-reserve-life-v2",
+        "malawi-lilongwe-cities-v2",
+        "malawi-mua-mission-history-v2",
+        "malawi-club-makokola-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke das Dzalanyama-Waldreservat, Lilongwe, Mua Mission und Club Makokola von West nach Ost an.",
+        "hu": "Kattints a Dzalanyama erdőrezervátumra, Lilongwéra, a Mua misszióra és Club Makokolára nyugatról keletre.",
+        "ro": "Apasă Rezervația Forestieră Dzalanyama, Lilongwe, Mua Mission și Club Makokola de la vest la est.",
+        "en": "Click Dzalanyama Forest Reserve, Lilongwe, Mua Mission, and Club Makokola from west to east."
+      }
+    },
+    {
+      "id": "mw-sequence-north-south-southern-corridor",
+      "type": "sequence",
+      "poiIds": [
+        "malawi-mangochi-cities-v2",
+        "malawi-liwonde-cities-v2",
+        "malawi-zomba-cities-v2",
+        "malawi-blantyre-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "malawi-mangochi-cities-v2",
+        "malawi-liwonde-cities-v2",
+        "malawi-zomba-cities-v2",
+        "malawi-blantyre-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Mangochi, Liwonde, Zomba und Blantyre von Nord nach Süd an.",
+        "hu": "Kattints Mangochira, Liwondére, Zombára és Blantyre-re északról délre.",
+        "ro": "Apasă Mangochi, Liwonde, Zomba și Blantyre de la nord la sud.",
+        "en": "Click Mangochi, Liwonde, Zomba, and Blantyre from north to south."
+      }
+    },
+    {
+      "id": "mw-sequence-west-east-southern-highlands",
+      "type": "sequence",
+      "poiIds": [
+        "malawi-kapichira-falls-nature-v2",
+        "malawi-blantyre-cities-v2",
+        "malawi-mulanje-cities-v2",
+        "malawi-phalombe-boma-history-v2"
+      ],
+      "orderedPoiIds": [
+        "malawi-kapichira-falls-nature-v2",
+        "malawi-blantyre-cities-v2",
+        "malawi-mulanje-cities-v2",
+        "malawi-phalombe-boma-history-v2"
+      ],
+      "question": {
+        "de": "Klicke die Kapichira-Fälle, Blantyre, Mulanje und Phalombe Boma von West nach Ost an.",
+        "hu": "Kattints a Kapichira-vízesésre, Blantyre-re, Mulanjéra és Phalombe Bomára nyugatról keletre.",
+        "ro": "Apasă Cascada Kapichira, Blantyre, Mulanje și Phalombe Boma de la vest la est.",
+        "en": "Click Kapichira Falls, Blantyre, Mulanje, and Phalombe Boma from west to east."
+      }
+    }
+  ]
+}

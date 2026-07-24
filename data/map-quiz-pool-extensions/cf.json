@@ -1,0 +1,271 @@
+{
+  "cf": [
+    {
+      "id": "cf-find-bambari-central",
+      "type": "find_poi",
+      "targetPoiId": "bambari-cities-v2",
+      "question": {
+        "de": "Finde Bambari im zentralen Teil des Landes.",
+        "hu": "Keresd meg Bambarit az ország középső részén.",
+        "ro": "Găsește Bambari în partea centrală a țării.",
+        "en": "Find Bambari in the central part of the country."
+      }
+    },
+    {
+      "id": "cf-find-bouar-west",
+      "type": "find_poi",
+      "targetPoiId": "bouar-cities-v2",
+      "question": {
+        "de": "Finde Bouar im Westen der Zentralafrikanischen Republik.",
+        "hu": "Keresd meg Bouart a Közép-afrikai Köztársaság nyugati részén.",
+        "ro": "Găsește Bouar în vestul Republicii Centrafricane.",
+        "en": "Find Bouar in the west of the Central African Republic."
+      }
+    },
+    {
+      "id": "cf-find-bangassou-southeast",
+      "type": "find_poi",
+      "targetPoiId": "bangassou-cities-v2",
+      "question": {
+        "de": "Finde Bangassou im Südosten nahe dem Mbomou-Gebiet.",
+        "hu": "Keresd meg Bangassout délkeleten, az Mbomou térsége közelében.",
+        "ro": "Găsește Bangassou în sud-est, aproape de zona Mbomou.",
+        "en": "Find Bangassou in the southeast near the Mbomou area."
+      }
+    },
+    {
+      "id": "cf-find-mbaiki-south",
+      "type": "find_poi",
+      "targetPoiId": "mbaiki-cities-v2",
+      "question": {
+        "de": "Finde Mbaïki südlich von Bangui.",
+        "hu": "Keresd meg Mbaïkit Banguítól délre.",
+        "ro": "Găsește Mbaïki la sud de Bangui.",
+        "en": "Find Mbaïki south of Bangui."
+      }
+    },
+    {
+      "id": "cf-find-boali-hydropower",
+      "type": "find_poi",
+      "targetPoiId": "boali-ii-wasserkraftwerk-economic-v2",
+      "question": {
+        "de": "Finde das Boali-II-Wasserkraftwerk nordwestlich von Bangui.",
+        "hu": "Keresd meg a Boali II vízerőművet Banguitól északnyugatra.",
+        "ro": "Găsește hidrocentrala Boali II la nord-vest de Bangui.",
+        "en": "Find the Boali II hydroelectric power station northwest of Bangui."
+      }
+    },
+    {
+      "id": "cf-find-dzanga-sangha-forest",
+      "type": "find_poi",
+      "targetPoiId": "dzanga-sangha-forest-nature-v2",
+      "question": {
+        "de": "Finde den Dzanga-Sangha-Wald im äußersten Südwesten.",
+        "hu": "Keresd meg a Dzanga-Sangha-erdőt a legdélnyugatibb részen.",
+        "ro": "Găsește pădurea Dzanga-Sangha în extremul sud-vest.",
+        "en": "Find the Dzanga-Sangha forest in the far southwest."
+      }
+    },
+    {
+      "id": "cf-region-ouaka",
+      "type": "find_region",
+      "targetRegionId": "CAF-809",
+      "question": {
+        "de": "Klicke auf Ouaka, die Region rund um Bambari.",
+        "hu": "Kattints Ouaka régióra, Bambari környékére.",
+        "ro": "Apasă pe Ouaka, regiunea din jurul orașului Bambari.",
+        "en": "Click Ouaka, the region around Bambari."
+      }
+    },
+    {
+      "id": "cf-region-haute-kotto",
+      "type": "find_region",
+      "targetRegionId": "CAF-866",
+      "question": {
+        "de": "Finde Haute-Kotto im östlichen Landesinneren.",
+        "hu": "Keresd meg Haute-Kotto régiót a keleti belső területeken.",
+        "ro": "Găsește Haute-Kotto în interiorul estic al țării.",
+        "en": "Find Haute-Kotto in the eastern interior of the country."
+      }
+    },
+    {
+      "id": "cf-region-haut-mbomou",
+      "type": "find_region",
+      "targetRegionId": "CAF-867",
+      "question": {
+        "de": "Klicke auf Haut-Mbomou im äußersten Osten.",
+        "hu": "Kattints Haut-Mbomou régióra a legkeletibb részen.",
+        "ro": "Apasă pe Haut-Mbomou în extremitatea estică.",
+        "en": "Click Haut-Mbomou in the far east."
+      }
+    },
+    {
+      "id": "cf-region-mbomou",
+      "type": "find_region",
+      "targetRegionId": "CAF-868",
+      "question": {
+        "de": "Finde Mbomou im Südosten des Landes.",
+        "hu": "Keresd meg Mbomou régiót az ország délkeleti részén.",
+        "ro": "Găsește Mbomou în sud-estul țării.",
+        "en": "Find Mbomou in the southeast of the country."
+      }
+    },
+    {
+      "id": "cf-region-ombella-mpoko",
+      "type": "find_region",
+      "targetRegionId": "CAF-4856",
+      "question": {
+        "de": "Klicke auf Ombella-M'Poko, die Region um Bangui ohne die Hauptstadt selbst.",
+        "hu": "Kattints Ombella-M'Poko régióra, amely Banguit körülveszi, de nem maga a főváros.",
+        "ro": "Apasă pe Ombella-M'Poko, regiunea care înconjoară Bangui, dar nu include capitala însăși.",
+        "en": "Click Ombella-M'Poko, the region surrounding Bangui but not the capital district itself."
+      }
+    },
+    {
+      "id": "cf-region-ouham-pende",
+      "type": "find_region",
+      "targetRegionId": "CAF-805",
+      "question": {
+        "de": "Finde Ouham-Pendé im Nordwesten.",
+        "hu": "Keresd meg Ouham-Pendé régiót északnyugaton.",
+        "ro": "Găsește Ouham-Pendé în nord-vest.",
+        "en": "Find Ouham-Pendé in the northwest."
+      }
+    },
+    {
+      "id": "cf-region-sangha-mbaere",
+      "type": "find_region",
+      "targetRegionId": "CAF-802",
+      "question": {
+        "de": "Klicke auf Sangha-Mbaéré an der südwestlichen Waldgrenze.",
+        "hu": "Kattints Sangha-Mbaéré régióra a délnyugati erdős határvidéken.",
+        "ro": "Apasă pe Sangha-Mbaéré, la marginea forestieră din sud-vest.",
+        "en": "Click Sangha-Mbaéré on the forested southwestern frontier."
+      }
+    },
+    {
+      "id": "cf-region-nana-mambere",
+      "type": "find_region",
+      "targetRegionId": "CAF-804",
+      "question": {
+        "de": "Finde Nana-Mambéré im Westen nahe Bouar.",
+        "hu": "Keresd meg Nana-Mambéré régiót nyugaton, Bouar közelében.",
+        "ro": "Găsește Nana-Mambéré în vest, aproape de Bouar.",
+        "en": "Find Nana-Mambéré in the west near Bouar."
+      }
+    },
+    {
+      "id": "cf-odd-easternmost-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "bangui-cities-v2",
+        "bambari-cities-v2",
+        "bangassou-cities-v2",
+        "zemio-cities-v2"
+      ],
+      "targetPoiId": "zemio-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten im Osten?",
+        "hu": "Ezek közül melyik város fekszik a legkeletebbre?",
+        "ro": "Care dintre aceste orașe se află cel mai la est?",
+        "en": "Which of these cities lies farthest east?"
+      }
+    },
+    {
+      "id": "cf-odd-southernmost-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "bouar-cities-v2",
+        "bossangoa-cities-v2",
+        "bouca-cities-v2",
+        "mbaiki-cities-v2"
+      ],
+      "targetPoiId": "mbaiki-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten im Süden?",
+        "hu": "Ezek közül melyik város fekszik a legdélebbre?",
+        "ro": "Care dintre aceste orașe se află cel mai la sud?",
+        "en": "Which of these cities lies farthest south?"
+      }
+    },
+    {
+      "id": "cf-odd-southeastern-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "bouar-cities-v2",
+        "bangui-cities-v2",
+        "bambari-cities-v2",
+        "bangassou-cities-v2"
+      ],
+      "targetPoiId": "bangassou-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten im Südosten?",
+        "hu": "Ezek közül melyik város fekszik a leginkább délkeleten?",
+        "ro": "Care dintre aceste orașe se află cel mai în sud-est?",
+        "en": "Which of these cities lies farthest to the southeast?"
+      }
+    },
+    {
+      "id": "cf-sequence-west-east-bouar-bangui-bambari",
+      "type": "sequence",
+      "poiIds": [
+        "bouar-cities-v2",
+        "bangui-cities-v2",
+        "bambari-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "bouar-cities-v2",
+        "bangui-cities-v2",
+        "bambari-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Bouar, Bangui und Bambari von Westen nach Osten an.",
+        "hu": "Kattints Bouarra, Bangui-ra és Bambarira nyugatról kelet felé.",
+        "ro": "Apasă Bouar, Bangui și Bambari de la vest la est.",
+        "en": "Click Bouar, Bangui and Bambari from west to east."
+      }
+    },
+    {
+      "id": "cf-sequence-south-north-mbaiki-bangui-bossangoa-paoua",
+      "type": "sequence",
+      "poiIds": [
+        "mbaiki-cities-v2",
+        "bangui-cities-v2",
+        "bossangoa-cities-v2",
+        "paoua-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "mbaiki-cities-v2",
+        "bangui-cities-v2",
+        "bossangoa-cities-v2",
+        "paoua-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Mbaïki, Bangui, Bossangoa und Paoua von Süden nach Norden an.",
+        "hu": "Kattints Mbaïkire, Banguira, Bossangoára és Paouára délről észak felé.",
+        "ro": "Apasă Mbaïki, Bangui, Bossangoa și Paoua de la sud la nord.",
+        "en": "Click Mbaïki, Bangui, Bossangoa and Paoua from south to north."
+      }
+    },
+    {
+      "id": "cf-sequence-west-east-bimbo-sibut-bambari",
+      "type": "sequence",
+      "poiIds": [
+        "bimbo-cities-v2",
+        "sibut-cities-v2",
+        "bambari-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "bimbo-cities-v2",
+        "sibut-cities-v2",
+        "bambari-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Bimbo, Sibut und Bambari von Westen nach Osten an.",
+        "hu": "Kattints Bimbóra, Sibutra és Bambarira nyugatról kelet felé.",
+        "ro": "Apasă Bimbo, Sibut și Bambari de la vest la est.",
+        "en": "Click Bimbo, Sibut and Bambari from west to east."
+      }
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "my": [
+    {
+      "id": "my-find-putrajaya",
+      "type": "find_poi",
+      "targetPoiId": "putrajaya-cities-v2",
+      "question": {
+        "de": "Finde Putrajaya, das geplante Verwaltungszentrum suedlich von Kuala Lumpur.",
+        "hu": "Keresd meg Putrajayaat, a Kuala Lumpurtol delre fekvo tervezett kormanyzati kozpontot.",
+        "ro": "Gaseste Putrajaya, centrul administrativ planificat aflat la sud de Kuala Lumpur.",
+        "en": "Find Putrajaya, the planned administrative centre south of Kuala Lumpur."
+      }
+    },
+    {
+      "id": "my-find-johor-bahru",
+      "type": "find_poi",
+      "targetPoiId": "johor-bahru-cities-v2",
+      "question": {
+        "de": "Finde Johor Bahru an der Grenze zu Singapur.",
+        "hu": "Keresd meg Johor Bahrut a szingapuri hatar mellett.",
+        "ro": "Gaseste Johor Bahru la granita cu Singapore.",
+        "en": "Find Johor Bahru on the border with Singapore."
+      }
+    },
+    {
+      "id": "my-find-ipoh",
+      "type": "find_poi",
+      "targetPoiId": "ipoh-cities-v2",
+      "question": {
+        "de": "Finde Ipoh im Bundesstaat Perak.",
+        "hu": "Keresd meg Ipoh varosat Perak allamban.",
+        "ro": "Gaseste Ipoh in statul Perak.",
+        "en": "Find Ipoh in the state of Perak."
+      }
+    },
+    {
+      "id": "my-find-kuantan",
+      "type": "find_poi",
+      "targetPoiId": "kuantan-cities-v2",
+      "question": {
+        "de": "Finde Kuantan an der Ostkueste der malaiischen Halbinsel.",
+        "hu": "Keresd meg Kuantant a Malaj-fe ls ziget keleti partjan.",
+        "ro": "Gaseste Kuantan pe coasta de est a Peninsulei Malaeziene.",
+        "en": "Find Kuantan on the east coast of Peninsular Malaysia."
+      }
+    },
+    {
+      "id": "my-find-alor-setar",
+      "type": "find_poi",
+      "targetPoiId": "alorsetar-cities-v2",
+      "question": {
+        "de": "Finde Alor Setar im Nordwesten der Halbinsel.",
+        "hu": "Keresd meg Alor Setart a felsziget eszaknyugati reszen.",
+        "ro": "Gaseste Alor Setar in nord-vestul peninsulei.",
+        "en": "Find Alor Setar in the northwest of the peninsula."
+      }
+    },
+    {
+      "id": "my-find-sandakan",
+      "type": "find_poi",
+      "targetPoiId": "sandakan-cities-v2",
+      "question": {
+        "de": "Finde Sandakan an der Nordostkueste Sabahs.",
+        "hu": "Keresd meg Sandakant Sabah eszakkeleti partjan.",
+        "ro": "Gaseste Sandakan pe coasta de nord-est a statului Sabah.",
+        "en": "Find Sandakan on Sabah's northeast coast."
+      }
+    },
+    {
+      "id": "my-region-johor",
+      "type": "find_region",
+      "targetRegionId": "MYS-1143",
+      "question": {
+        "de": "Klicke auf den Bundesstaat Johor.",
+        "hu": "Kattints Johor allamra.",
+        "ro": "Apasa pe statul Johor.",
+        "en": "Click the state of Johor."
+      }
+    },
+    {
+      "id": "my-region-pahang",
+      "type": "find_region",
+      "targetRegionId": "MYS-1147",
+      "question": {
+        "de": "Klicke auf den Bundesstaat Pahang.",
+        "hu": "Kattints Pahang allamra.",
+        "ro": "Apasa pe statul Pahang.",
+        "en": "Click the state of Pahang."
+      }
+    },
+    {
+      "id": "my-region-penang",
+      "type": "find_region",
+      "targetRegionId": "MYS-1139",
+      "question": {
+        "de": "Klicke auf den Bundesstaat Penang.",
+        "hu": "Kattints Penang allamra.",
+        "ro": "Apasa pe statul Penang.",
+        "en": "Click the state of Penang."
+      }
+    },
+    {
+      "id": "my-region-kuala-lumpur",
+      "type": "find_region",
+      "targetRegionId": "MYS-4831",
+      "question": {
+        "de": "Klicke auf das Bundesterritorium Kuala Lumpur.",
+        "hu": "Kattints Kuala Lumpur szovetsegi teruletere.",
+        "ro": "Apasa pe teritoriul federal Kuala Lumpur.",
+        "en": "Click the Federal Territory of Kuala Lumpur."
+      }
+    },
+    {
+      "id": "my-odd-south-sabah",
+      "type": "odd_one_out",
+      "poiIds": [
+        "kota-kinabalu-cities-v2",
+        "sandakan-cities-v2",
+        "tawau-cities-v2"
+      ],
+      "targetPoiId": "tawau-cities-v2",
+      "question": {
+        "de": "Welche dieser Staedte liegt am weitesten im Sueden?",
+        "hu": "Melyik varos fekszik a legdelebbre?",
+        "ro": "Care dintre aceste orase se afla cel mai la sud?",
+        "en": "Which of these cities lies farthest south?"
+      }
+    },
+    {
+      "id": "my-odd-north-peninsula",
+      "type": "odd_one_out",
+      "poiIds": [
+        "johor-bahru-cities-v2",
+        "kuantan-cities-v2",
+        "kangar-cities-v2"
+      ],
+      "targetPoiId": "kangar-cities-v2",
+      "question": {
+        "de": "Welche dieser Staedte liegt am weitesten im Norden?",
+        "hu": "Melyik varos fekszik a legeszakabbra?",
+        "ro": "Care dintre aceste orase se afla cel mai la nord?",
+        "en": "Which of these cities lies farthest north?"
+      }
+    },
+    {
+      "id": "my-odd-west-borneo",
+      "type": "odd_one_out",
+      "poiIds": [
+        "kuching-cities-v2",
+        "bintulu-cities-v2",
+        "tawau-cities-v2"
+      ],
+      "targetPoiId": "kuching-cities-v2",
+      "question": {
+        "de": "Welche dieser Staedte liegt am weitesten im Westen?",
+        "hu": "Melyik varos fekszik a legnyugatabbra?",
+        "ro": "Care dintre aceste orase se afla cel mai la vest?",
+        "en": "Which of these cities lies farthest west?"
+      }
+    },
+    {
+      "id": "my-odd-east-peninsula",
+      "type": "odd_one_out",
+      "poiIds": [
+        "george-town-penang-cities-v2",
+        "kuala-lumpur-cities-v2",
+        "kuantan-cities-v2"
+      ],
+      "targetPoiId": "kuantan-cities-v2",
+      "question": {
+        "de": "Welche dieser Staedte liegt am weitesten im Osten?",
+        "hu": "Melyik varos fekszik a legkeletebbre?",
+        "ro": "Care dintre aceste orase se afla cel mai la est?",
+        "en": "Which of these cities lies farthest east?"
+      }
+    },
+    {
+      "id": "my-odd-south-peninsula",
+      "type": "odd_one_out",
+      "poiIds": [
+        "george-town-penang-cities-v2",
+        "kota-bharu-cities-v2",
+        "johor-bahru-cities-v2"
+      ],
+      "targetPoiId": "johor-bahru-cities-v2",
+      "question": {
+        "de": "Welche dieser Staedte liegt am weitesten im Sueden?",
+        "hu": "Melyik varos fekszik a legdelebbre?",
+        "ro": "Care dintre aceste orase se afla cel mai la sud?",
+        "en": "Which of these cities lies farthest south?"
+      }
+    },
+    {
+      "id": "my-sequence-peninsula-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "alorsetar-cities-v2",
+        "ipoh-cities-v2",
+        "kuala-lumpur-cities-v2",
+        "kuantan-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "alorsetar-cities-v2",
+        "ipoh-cities-v2",
+        "kuala-lumpur-cities-v2",
+        "kuantan-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Alor Setar, Ipoh, Kuala Lumpur und Kuantan von Westen nach Osten an.",
+        "hu": "Kattints Alor Setarra, Ipohra, Kuala Lumpurra es Kuantanra nyugatrol keletre.",
+        "ro": "Apasa pe Alor Setar, Ipoh, Kuala Lumpur si Kuantan de la vest la est.",
+        "en": "Click Alor Setar, Ipoh, Kuala Lumpur and Kuantan from west to east."
+      }
+    },
+    {
+      "id": "my-sequence-borneo-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "kota-kinabalu-cities-v2",
+        "miri-cities-v2",
+        "sibu-cities-v2",
+        "kuching-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "kota-kinabalu-cities-v2",
+        "miri-cities-v2",
+        "sibu-cities-v2",
+        "kuching-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Kota Kinabalu, Miri, Sibu und Kuching von Norden nach Sueden an.",
+        "hu": "Kattints Kota Kinabalura, Mirire, Sibura es Kuchingra eszakrol delre.",
+        "ro": "Apasa pe Kota Kinabalu, Miri, Sibu si Kuching de la nord la sud.",
+        "en": "Click Kota Kinabalu, Miri, Sibu and Kuching from north to south."
+      }
+    },
+    {
+      "id": "my-sequence-east-coast-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "kota-bharu-cities-v2",
+        "kuala-terengganu-cities-v2",
+        "kuantan-cities-v2",
+        "malaysia-mersing-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "kota-bharu-cities-v2",
+        "kuala-terengganu-cities-v2",
+        "kuantan-cities-v2",
+        "malaysia-mersing-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Kota Bharu, Kuala Terengganu, Kuantan und Mersing von Norden nach Sueden an.",
+        "hu": "Kattints Kota Bharura, Kuala Terengganura, Kuantanra es Mersingre eszakrol delre.",
+        "ro": "Apasa pe Kota Bharu, Kuala Terengganu, Kuantan si Mersing de la nord la sud.",
+        "en": "Click Kota Bharu, Kuala Terengganu, Kuantan and Mersing from north to south."
+      }
+    },
+    {
+      "id": "my-sequence-sabah-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "kota-kinabalu-cities-v2",
+        "malaysia-kundasang-cities-v2",
+        "sandakan-cities-v2",
+        "lahad-datu-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "kota-kinabalu-cities-v2",
+        "malaysia-kundasang-cities-v2",
+        "sandakan-cities-v2",
+        "lahad-datu-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Kota Kinabalu, Kundasang, Sandakan und Lahad Datu von Westen nach Osten an.",
+        "hu": "Kattints Kota Kinabalura, Kundasangra, Sandakanra es Lahad Datura nyugatrol keletre.",
+        "ro": "Apasa pe Kota Kinabalu, Kundasang, Sandakan si Lahad Datu de la vest la est.",
+        "en": "Click Kota Kinabalu, Kundasang, Sandakan and Lahad Datu from west to east."
+      }
+    },
+    {
+      "id": "my-sequence-central-south",
+      "type": "sequence",
+      "poiIds": [
+        "ipoh-cities-v2",
+        "kuala-lumpur-cities-v2",
+        "seremban-cities-v2",
+        "malakka-stadt-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "ipoh-cities-v2",
+        "kuala-lumpur-cities-v2",
+        "seremban-cities-v2",
+        "malakka-stadt-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Ipoh, Kuala Lumpur, Seremban und Malacca City von Norden nach Sueden an.",
+        "hu": "Kattints Ipohra, Kuala Lumpurra, Serembanra es Malakkara eszakrol delre.",
+        "ro": "Apasa pe Ipoh, Kuala Lumpur, Seremban si Malacca City de la nord la sud.",
+        "en": "Click Ipoh, Kuala Lumpur, Seremban and Malacca City from north to south."
+      }
+    }
+  ]
+}

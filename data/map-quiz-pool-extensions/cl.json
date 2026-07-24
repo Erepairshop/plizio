@@ -1,0 +1,309 @@
+{
+  "cl": [
+    {
+      "id": "cl-find-valparaiso-central-port",
+      "type": "find_poi",
+      "targetPoiId": "valparaiso-landmarks-v2",
+      "question": {
+        "de": "Finde ValparaÃ­so an der zentralen PazifikkÃ¼ste Chiles.",
+        "hu": "Keresd meg ValparaÃ­sÃ³t Chile kÃ¶zÃ©psÅ‘ csendes-Ã³ceÃ¡ni partjÃ¡n.",
+        "ro": "GÄƒseÈ™te ValparaÃ­so pe coasta centralÄƒ a Pacificului din Chile.",
+        "en": "Find ValparaÃ­so on Chile's central Pacific coast."
+      }
+    },
+    {
+      "id": "cl-find-putre-altiplano",
+      "type": "find_poi",
+      "targetPoiId": "chile-putre-cities-v2",
+      "question": {
+        "de": "Finde Putre im Andenhochland ganz im Norden Chiles.",
+        "hu": "Keresd meg PutrÃ©t Chile legÃ©szakibb andoki fennsÃ­kjÃ¡n.",
+        "ro": "GÄƒseÈ™te Putre pe Ã®nÄƒlÈ›imile andine din extremul nord al statului Chile.",
+        "en": "Find Putre in the Andean highlands of far northern Chile."
+      }
+    },
+    {
+      "id": "cl-find-elqui-valley",
+      "type": "find_poi",
+      "targetPoiId": "cl-valle-de-elqui-life-v2",
+      "question": {
+        "de": "Finde das Elqui-Tal im Hinterland der Region Coquimbo.",
+        "hu": "Keresd meg az Elqui-vÃ¶lgyet Coquimbo rÃ©giÃ³ belsÅ‘ rÃ©szÃ©n.",
+        "ro": "GÄƒseÈ™te Valea Elqui Ã®n interiorul regiunii Coquimbo.",
+        "en": "Find the Elqui Valley in the interior of the Coquimbo Region."
+      }
+    },
+    {
+      "id": "cl-find-queulat-national-park",
+      "type": "find_poi",
+      "targetPoiId": "parque-nacional-queulat-nature-v2",
+      "question": {
+        "de": "Finde den Nationalpark Queulat im nÃ¶rdlichen Patagonien.",
+        "hu": "Keresd meg a Queulat Nemzeti Parkot Ã‰szak-PatagÃ³niÃ¡ban.",
+        "ro": "GÄƒseÈ™te Parcul NaÈ›ional Queulat din nordul Patagoniei chiliene.",
+        "en": "Find Queulat National Park in northern Chilean Patagonia."
+      }
+    },
+    {
+      "id": "cl-find-humberstone-saltpeter",
+      "type": "find_poi",
+      "targetPoiId": "humberstone-history-v2",
+      "question": {
+        "de": "Finde Humberstone, die ehemalige Salpeterstadt in Nordchile.",
+        "hu": "Keresd meg Humberstone egykori salÃ©tromvÃ¡rosÃ¡t Ã‰szak-ChilÃ©ben.",
+        "ro": "GÄƒseÈ™te Humberstone, fostul oraÈ™ al salpetrului din nordul statului Chile.",
+        "en": "Find Humberstone, the former saltpeter town in northern Chile."
+      }
+    },
+    {
+      "id": "cl-region-arica-y-parinacota",
+      "type": "find_region",
+      "targetRegionId": "CHL-2694",
+      "question": {
+        "de": "Klicke auf Arica y Parinacota an der Grenze zu Peru.",
+        "hu": "Kattints az Arica y Parinacota rÃ©giÃ³ra a perui hatÃ¡rnÃ¡l.",
+        "ro": "ApasÄƒ pe regiunea Arica y Parinacota de la graniÈ›a cu Peru.",
+        "en": "Click Arica y Parinacota on the border with Peru."
+      }
+    },
+    {
+      "id": "cl-region-coquimbo",
+      "type": "find_region",
+      "targetRegionId": "CHL-2697",
+      "question": {
+        "de": "Finde die Region Coquimbo im nÃ¶rdlichen Teil Zentralchiles.",
+        "hu": "Keresd meg Coquimbo rÃ©giÃ³t KÃ¶zÃ©p-Chile Ã©szaki rÃ©szÃ©n.",
+        "ro": "GÄƒseÈ™te regiunea Coquimbo din nordul zonei centrale a statului Chile.",
+        "en": "Find the Coquimbo Region in north-central Chile."
+      }
+    },
+    {
+      "id": "cl-region-valparaiso",
+      "type": "find_region",
+      "targetRegionId": "CHL-2699",
+      "question": {
+        "de": "Klicke auf die Region ValparaÃ­so an der ZentralkÃ¼ste.",
+        "hu": "Kattints ValparaÃ­so rÃ©giÃ³ra a kÃ¶zÃ©psÅ‘ tengerparton.",
+        "ro": "ApasÄƒ pe regiunea ValparaÃ­so de pe coasta centralÄƒ.",
+        "en": "Click the ValparaÃ­so Region on the central coast."
+      }
+    },
+    {
+      "id": "cl-region-biobio",
+      "type": "find_region",
+      "targetRegionId": "CHL-2702",
+      "question": {
+        "de": "Finde die Region BiobÃ­o im sÃ¼dlichen Zentrum Chiles.",
+        "hu": "Keresd meg a BiobÃ­o rÃ©giÃ³t Chile dÃ©li kÃ¶zÃ©psÅ‘ rÃ©szÃ©n.",
+        "ro": "GÄƒseÈ™te regiunea BiobÃ­o din partea central-sudicÄƒ a statului Chile.",
+        "en": "Find the BiobÃ­o Region in south-central Chile."
+      }
+    },
+    {
+      "id": "cl-region-magallanes",
+      "type": "find_region",
+      "targetRegionId": "CHL-2692",
+      "question": {
+        "de": "Klicke auf Magallanes y AntÃ¡rtica Chilena im Ã¤uÃŸersten SÃ¼den.",
+        "hu": "Kattints a Magallanes y AntÃ¡rtica Chilena rÃ©giÃ³ra a legdÃ©libb rÃ©szen.",
+        "ro": "ApasÄƒ pe regiunea Magallanes y AntÃ¡rtica Chilena din extremul sud.",
+        "en": "Click Magallanes y AntÃ¡rtica Chilena in the far south."
+      }
+    },
+    {
+      "id": "cl-odd-not-santiago-area",
+      "type": "odd_one_out",
+      "poiIds": [
+        "palacio-de-la-moneda-history-v2",
+        "cerro-san-cristobal-landmarks-v2",
+        "parque-bicentenario-landmarks-v2",
+        "valparaiso-landmarks-v2"
+      ],
+      "targetPoiId": "valparaiso-landmarks-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht im Raum Santiago?",
+        "hu": "Melyik hely nem Santiago tÃ©rsÃ©gÃ©ben talÃ¡lhatÃ³?",
+        "ro": "Care dintre aceste locuri nu se aflÄƒ Ã®n zona Santiago?",
+        "en": "Which of these places is not in the Santiago area?"
+      }
+    },
+    {
+      "id": "cl-odd-not-pacific-coast",
+      "type": "odd_one_out",
+      "poiIds": [
+        "valparaiso-landmarks-v2",
+        "la-portada-landmarks-v2",
+        "morro-de-arica-history-v2",
+        "cueva-del-milodon-history-v2"
+      ],
+      "targetPoiId": "cueva-del-milodon-history-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht an Chiles Pazifikkuste?",
+        "hu": "Melyik hely nem Chile csendes-oceani partjan fekszik?",
+        "ro": "Care dintre aceste locuri nu se afla pe coasta Pacificului din Chile?",
+        "en": "Which of these places is not on Chile's Pacific coast?"
+      }
+    },
+    {
+      "id": "cl-odd-not-chiloe-archipelago",
+      "type": "odd_one_out",
+      "poiIds": [
+        "iglesia-de-achao-history-v2",
+        "iglesia-de-quinchao-history-v2",
+        "fuerte-ahui-history-v2",
+        "fuerte-niebla-history-v2"
+      ],
+      "targetPoiId": "fuerte-niebla-history-v2",
+      "question": {
+        "de": "Welcher dieser historischen Orte liegt nicht im ChiloÃ©-Archipel?",
+        "hu": "Melyik tÃ¶rtÃ©nelmi hely nem a ChiloÃ©-szigetvilÃ¡gban talÃ¡lhatÃ³?",
+        "ro": "Care dintre aceste locuri istorice nu se aflÄƒ Ã®n arhipelagul ChiloÃ©?",
+        "en": "Which of these historic places is not in the ChiloÃ© Archipelago?"
+      }
+    },
+    {
+      "id": "cl-odd-not-northern-chile",
+      "type": "odd_one_out",
+      "poiIds": [
+        "chile-putre-cities-v2",
+        "humberstone-history-v2",
+        "la-portada-landmarks-v2",
+        "cueva-del-milodon-history-v2"
+      ],
+      "targetPoiId": "cueva-del-milodon-history-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht in Nordchile?",
+        "hu": "Melyik hely nem Ã‰szak-ChilÃ©ben talÃ¡lhatÃ³?",
+        "ro": "Care dintre aceste locuri nu se aflÄƒ Ã®n nordul statului Chile?",
+        "en": "Which of these places is not in northern Chile?"
+      }
+    },
+    {
+      "id": "cl-odd-not-magallanes",
+      "type": "odd_one_out",
+      "poiIds": [
+        "chile-puerto-williams-cities-v2",
+        "chile-puerto-natales-cities-v2",
+        "cueva-del-milodon-history-v2",
+        "chile-valdivia-cities-v2"
+      ],
+      "targetPoiId": "chile-valdivia-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht in der Region Magallanes?",
+        "hu": "Melyik hely nem a Magallanes rÃ©giÃ³ban talÃ¡lhatÃ³?",
+        "ro": "Care dintre aceste locuri nu se aflÄƒ Ã®n regiunea Magallanes?",
+        "en": "Which of these places is not in the Magallanes Region?"
+      }
+    },
+    {
+      "id": "cl-sequence-north-south-northern-corridor",
+      "type": "sequence",
+      "poiIds": [
+        "chile-putre-cities-v2",
+        "humberstone-history-v2",
+        "antofagasta-cities-v2",
+        "chile-bahia-inglesa-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "chile-putre-cities-v2",
+        "humberstone-history-v2",
+        "antofagasta-cities-v2",
+        "chile-bahia-inglesa-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Putre, Humberstone, Antofagasta und BahÃ­a Inglesa von Nord nach SÃ¼d an.",
+        "hu": "Kattints PutrÃ©re, Humberstone-ra, AntofagastÃ¡ra Ã©s BahÃ­a InglesÃ¡ra Ã©szakrÃ³l dÃ©lre.",
+        "ro": "ApasÄƒ pe Putre, Humberstone, Antofagasta È™i BahÃ­a Inglesa de la nord la sud.",
+        "en": "Click Putre, Humberstone, Antofagasta, and BahÃ­a Inglesa from north to south."
+      }
+    },
+    {
+      "id": "cl-sequence-west-east-ocean-to-andes",
+      "type": "sequence",
+      "poiIds": [
+        "chile-robinson-crusoe-island-cities-v2",
+        "valparaiso-landmarks-v2",
+        "santiago-cities-v2",
+        "cl-santuario-yerba-loca-life-v2"
+      ],
+      "orderedPoiIds": [
+        "chile-robinson-crusoe-island-cities-v2",
+        "valparaiso-landmarks-v2",
+        "santiago-cities-v2",
+        "cl-santuario-yerba-loca-life-v2"
+      ],
+      "question": {
+        "de": "Klicke Robinson-Crusoe-Insel, ValparaÃ­so, Santiago und das Yerba-Loca-Schutzgebiet von West nach Ost an.",
+        "hu": "Kattints a Robinson Crusoe-szigetre, ValparaÃ­sÃ³ra, SantiagÃ³ra Ã©s a Yerba Loca termÃ©szetvÃ©delmi terÃ¼letre nyugatrÃ³l keletre.",
+        "ro": "ApasÄƒ pe Insula Robinson Crusoe, ValparaÃ­so, Santiago È™i sanctuarul Yerba Loca de la vest la est.",
+        "en": "Click Robinson Crusoe Island, ValparaÃ­so, Santiago, and Yerba Loca Nature Sanctuary from west to east."
+      }
+    },
+    {
+      "id": "cl-sequence-north-south-patagonia-route",
+      "type": "sequence",
+      "poiIds": [
+        "chile-chaiten-cities-v2",
+        "chile-puerto-rio-tranquilo-cities-v2",
+        "chile-torres-del-paine-cities-v2",
+        "chile-puerto-williams-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "chile-chaiten-cities-v2",
+        "chile-puerto-rio-tranquilo-cities-v2",
+        "chile-torres-del-paine-cities-v2",
+        "chile-puerto-williams-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke ChaitÃ©n, Puerto RÃ­o Tranquilo, Torres del Paine und Puerto Williams von Nord nach SÃ¼d an.",
+        "hu": "Kattints ChaitÃ©nre, Puerto RÃ­o TranquilÃ³ra, Torres del Paine-ra Ã©s Puerto Williamsre Ã©szakrÃ³l dÃ©lre.",
+        "ro": "ApasÄƒ pe ChaitÃ©n, Puerto RÃ­o Tranquilo, Torres del Paine È™i Puerto Williams de la nord la sud.",
+        "en": "Click ChaitÃ©n, Puerto RÃ­o Tranquilo, Torres del Paine, and Puerto Williams from north to south."
+      }
+    },
+    {
+      "id": "cl-sequence-west-east-central-chile",
+      "type": "sequence",
+      "poiIds": [
+        "valparaiso-landmarks-v2",
+        "santiago-cities-v2",
+        "cl-santuario-yerba-loca-life-v2",
+        "chile-valle-nevado-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "valparaiso-landmarks-v2",
+        "santiago-cities-v2",
+        "cl-santuario-yerba-loca-life-v2",
+        "chile-valle-nevado-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke ValparaÃ­so, Santiago, Yerba Loca und Valle Nevado von West nach Ost an.",
+        "hu": "Kattints ValparaÃ­sÃ³ra, SantiagÃ³ra, Yerba LocÃ¡ra Ã©s Valle NevadÃ³ra nyugatrÃ³l keletre.",
+        "ro": "ApasÄƒ pe ValparaÃ­so, Santiago, Yerba Loca È™i Valle Nevado de la vest la est.",
+        "en": "Click ValparaÃ­so, Santiago, Yerba Loca, and Valle Nevado from west to east."
+      }
+    },
+    {
+      "id": "cl-sequence-north-south-historic-span",
+      "type": "sequence",
+      "poiIds": [
+        "morro-de-arica-history-v2",
+        "humberstone-history-v2",
+        "palacio-de-la-moneda-history-v2",
+        "cueva-del-milodon-history-v2"
+      ],
+      "orderedPoiIds": [
+        "morro-de-arica-history-v2",
+        "humberstone-history-v2",
+        "palacio-de-la-moneda-history-v2",
+        "cueva-del-milodon-history-v2"
+      ],
+      "question": {
+        "de": "Klicke Morro de Arica, Humberstone, den Palacio de La Moneda und die Cueva del MilodÃ³n von Nord nach SÃ¼d an.",
+        "hu": "Kattints a Morro de AricÃ¡ra, Humberstone-ra, a Palacio de La MonedÃ¡ra Ã©s a Cueva del MilodÃ³nra Ã©szakrÃ³l dÃ©lre.",
+        "ro": "ApasÄƒ pe Morro de Arica, Humberstone, Palacio de La Moneda È™i Cueva del MilodÃ³n de la nord la sud.",
+        "en": "Click Morro de Arica, Humberstone, Palacio de La Moneda, and Milodon Cave from north to south."
+      }
+    }
+  ]
+}

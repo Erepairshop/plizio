@@ -1,0 +1,292 @@
+{
+  "lt": [
+    {
+      "id": "lt-find-trakai-castle",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde die Wasserburg von Trakai westlich von Vilnius.",
+        "hu": "Keresd meg a Vilniustol nyugatra fekvo Trakai szigeti varat.",
+        "ro": "Gaseste castelul insular Trakai, la vest de Vilnius.",
+        "en": "Find Trakai Island Castle west of Vilnius."
+      },
+      "targetPoiId": "lithuania-trakai-island-castle-history-v2"
+    },
+    {
+      "id": "lt-find-kernave-site",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Kernave, eine fruehe Hauptstadtstaette in Suedostlitauen?",
+        "hu": "Hol talalhato Kernave, egy korai fovarosi helyszin Delkelet-Litvaniaban?",
+        "ro": "Unde se afla Kernave, un vechi sit de capitala din sud-estul Lituaniei?",
+        "en": "Where is Kernave, an early capital site in southeastern Lithuania?"
+      },
+      "targetPoiId": "lt-kernave"
+    },
+    {
+      "id": "lt-find-druskininkai",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde den Kurort Druskininkai ganz im Sueden Litauens.",
+        "hu": "Keresd meg Druskininkait, a gyogyudulot Litvania legdelen.",
+        "ro": "Gaseste statiunea Druskininkai din extremul sud al Lituaniei.",
+        "en": "Find the spa town of Druskininkai in the far south of Lithuania."
+      },
+      "targetPoiId": "lithuania-druskininkai-cities-v2"
+    },
+    {
+      "id": "lt-find-aukstaitija-park",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde den Aukstaitija-Nationalpark im seenreichen Nordosten.",
+        "hu": "Keresd meg az Aukstaitija Nemzeti Parkot az eszakkeleti tovideken.",
+        "ro": "Gaseste Parcul National Aukstaitija din nord-estul cu multe lacuri.",
+        "en": "Find Aukstaitija National Park in the lake-rich northeast."
+      },
+      "targetPoiId": "lithuania-aukstaitija-national-park-life-v2"
+    },
+    {
+      "id": "lt-find-vente-cape",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt das Kap Vente an der Lagunenseite der Kueste?",
+        "hu": "Hol talalhato a Vente-fok a laguna feloli parton?",
+        "ro": "Unde se afla Capul Vente, pe malul lagunei?",
+        "en": "Where is Vente Cape on the lagoon side of the coast?"
+      },
+      "targetPoiId": "lithuania-vente-cape-nature-v2"
+    },
+    {
+      "id": "lt-find-tauragnas-lake",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde den Tauragnas-See im Osten Litauens.",
+        "hu": "Keresd meg a Tauragnas-tavat Kelet-Litvaniaban.",
+        "ro": "Gaseste lacul Tauragnas din estul Lituaniei.",
+        "en": "Find Lake Tauragnas in eastern Lithuania."
+      },
+      "targetPoiId": "lithuania-tauragnas-lake-nature-v2"
+    },
+    {
+      "id": "lt-find-pazaislis-monastery",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde das Pazaislis-Kloster bei Kaunas.",
+        "hu": "Keresd meg a Kaunas melletti Pazaislis kolostort.",
+        "ro": "Gaseste manastirea Pazaislis de langa Kaunas.",
+        "en": "Find Pazaislis Monastery near Kaunas."
+      },
+      "targetPoiId": "lithuania-pazaislis-monastery-history-v2"
+    },
+    {
+      "id": "lt-find-nemunas-delta-park",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde den Regionalpark des Nemunas-Deltas im Westen.",
+        "hu": "Keresd meg a Nyugaton fekvo Nemunas-delta Regionalis Parkot.",
+        "ro": "Gaseste parcul regional al Deltei Nemunas din vest.",
+        "en": "Find Nemunas Delta Regional Park in the west."
+      },
+      "targetPoiId": "lithuania-nemunas-delta-regional-park-life-v2"
+    },
+    {
+      "id": "lt-region-utena",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf den Bezirk Utena im Nordosten.",
+        "hu": "Kattints Utena megyere eszakkeleten.",
+        "ro": "Apasa pe judetul Utena din nord-est.",
+        "en": "Click Utena County in the northeast."
+      },
+      "targetRegionId": "LT-UT"
+    },
+    {
+      "id": "lt-region-panevezys",
+      "type": "find_region",
+      "question": {
+        "de": "Finde den Bezirk Panevezys im Norden der Landesmitte.",
+        "hu": "Keresd meg Panevezys megyet az orszag eszaki kozepso reszen.",
+        "ro": "Gaseste judetul Panevezys din nordul partii centrale a tarii.",
+        "en": "Find Panevezys County in the north-central part of the country."
+      },
+      "targetRegionId": "LT-PN"
+    },
+    {
+      "id": "lt-region-siauliai",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf den Bezirk Siauliai im Nordwesten.",
+        "hu": "Kattints Siauliai megyere eszaknyugaton.",
+        "ro": "Apasa pe judetul Siauliai din nord-vest.",
+        "en": "Click Siauliai County in the northwest."
+      },
+      "targetRegionId": "LT-SA"
+    },
+    {
+      "id": "lt-region-marijampole",
+      "type": "find_region",
+      "question": {
+        "de": "Finde den Bezirk Marijampole im Suedwesten an der Grenze zu Polen.",
+        "hu": "Keresd meg Marijampole megyet delnyugaton, a lengyel hatar kozeleben.",
+        "ro": "Gaseste judetul Marijampole din sud-vest, aproape de granita cu Polonia.",
+        "en": "Find Marijampole County in the southwest near the Polish border."
+      },
+      "targetRegionId": "LT-MR"
+    },
+    {
+      "id": "lt-odd-farthest-inland",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Landesinneren?",
+        "hu": "Melyik hely fekszik ezek kozul a legbeljebb az orszagban?",
+        "ro": "Care dintre aceste locuri se afla cel mai departe de litoral, in interior?",
+        "en": "Which of these places lies furthest inland?"
+      },
+      "poiIds": [
+        "lt-klaipeda",
+        "lithuania-palanga-cities-v2",
+        "lithuania-nida-cities-v2",
+        "lithuania-druskininkai-cities-v2"
+      ],
+      "targetPoiId": "lithuania-druskininkai-cities-v2"
+    },
+    {
+      "id": "lt-odd-farthest-east",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Staedte liegt am weitesten im Osten?",
+        "hu": "Melyik varos fekszik ezek kozul a legkeletebbre?",
+        "ro": "Care dintre aceste orase se afla cel mai la est?",
+        "en": "Which of these cities lies furthest east?"
+      },
+      "poiIds": [
+        "lt-klaipeda",
+        "lithuania-mazeikiai-cities-v2",
+        "lithuania-telsiai-cities-v2",
+        "lithuania-visaginas-cities-v2"
+      ],
+      "targetPoiId": "lithuania-visaginas-cities-v2"
+    },
+    {
+      "id": "lt-odd-not-on-nemunas",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht am Fluss Nemunas?",
+        "hu": "Melyik hely nem a Nemunas folyo mellett fekszik?",
+        "ro": "Care dintre aceste locuri nu se afla pe raul Nemunas?",
+        "en": "Which of these places is not on the Nemunas River?"
+      },
+      "poiIds": [
+        "lt-kaunas",
+        "lithuania-alytus-cities-v2",
+        "lithuania-druskininkai-cities-v2",
+        "lithuania-panevezys-cities-v2"
+      ],
+      "targetPoiId": "lithuania-panevezys-cities-v2"
+    },
+    {
+      "id": "lt-odd-not-on-curonian-spit",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht auf der Kurischen Nehrung?",
+        "hu": "Melyik hely nem a Kur-foldnyelven talalhato?",
+        "ro": "Care dintre aceste locuri nu se afla pe Istmul Curonian?",
+        "en": "Which of these places is not on the Curonian Spit?"
+      },
+      "poiIds": [
+        "lithuania-nida-cities-v2",
+        "lithuania-juodkrante-cities-v2",
+        "lithuania-preila-cities-v2",
+        "lithuania-palanga-cities-v2"
+      ],
+      "targetPoiId": "lithuania-palanga-cities-v2"
+    },
+    {
+      "id": "lt-sequence-coast-eastward",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke diese Staedte von der Ostseekueste nach Osten an.",
+        "hu": "Kattints ezekre a varosokra a Balti-tenger partjatol kelet fele haladva.",
+        "ro": "Apasa aceste orase de la coasta Marii Baltice spre est.",
+        "en": "Click these cities from the Baltic coast eastward."
+      },
+      "poiIds": [
+        "lithuania-palanga-cities-v2",
+        "lithuania-kretinga-cities-v2",
+        "lithuania-kedainiai-cities-v2",
+        "lithuania-utena-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "lithuania-palanga-cities-v2",
+        "lithuania-kretinga-cities-v2",
+        "lithuania-kedainiai-cities-v2",
+        "lithuania-utena-cities-v2"
+      ]
+    },
+    {
+      "id": "lt-sequence-north-south-cities",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke diese Staedte von Norden nach Sueden an.",
+        "hu": "Kattints ezekre a varosokra eszakrol del fele haladva.",
+        "ro": "Apasa aceste orase de la nord la sud.",
+        "en": "Click these cities from north to south."
+      },
+      "poiIds": [
+        "lithuania-mazeikiai-cities-v2",
+        "lithuania-siauliai-cities-v2",
+        "lt-kaunas",
+        "lithuania-alytus-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "lithuania-mazeikiai-cities-v2",
+        "lithuania-siauliai-cities-v2",
+        "lt-kaunas",
+        "lithuania-alytus-cities-v2"
+      ]
+    },
+    {
+      "id": "lt-sequence-south-north-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke diese Orte von Sueden nach Norden an.",
+        "hu": "Kattints ezekre a helyekre delrol eszak fele.",
+        "ro": "Apasa aceste locuri de la sud la nord.",
+        "en": "Click these places from south to north."
+      },
+      "poiIds": [
+        "lithuania-druskininkai-cities-v2",
+        "lt-trakai",
+        "lt-vilnius",
+        "lithuania-utena-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "lithuania-druskininkai-cities-v2",
+        "lt-trakai",
+        "lt-vilnius",
+        "lithuania-utena-cities-v2"
+      ]
+    },
+    {
+      "id": "lt-sequence-west-east-landmarks",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke diese Orte von Westen nach Osten an.",
+        "hu": "Kattints ezekre a helyekre nyugatrol keletre haladva.",
+        "ro": "Apasa aceste locuri de la vest la est.",
+        "en": "Click these places from west to east."
+      },
+      "poiIds": [
+        "lithuania-vente-cape-nature-v2",
+        "lithuania-pazaislis-monastery-history-v2",
+        "lt-kernave",
+        "lithuania-tauragnas-lake-nature-v2"
+      ],
+      "orderedPoiIds": [
+        "lithuania-vente-cape-nature-v2",
+        "lithuania-pazaislis-monastery-history-v2",
+        "lt-kernave",
+        "lithuania-tauragnas-lake-nature-v2"
+      ]
+    }
+  ]
+}

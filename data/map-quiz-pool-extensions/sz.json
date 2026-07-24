@@ -1,0 +1,314 @@
+{
+  "sz": [
+    {
+      "id": "sz-find-lobamba-legislative",
+      "type": "find_poi",
+      "targetPoiId": "lobamba-cities-v2",
+      "question": {
+        "de": "Finde Lobamba, das traditionelle und gesetzgebende Zentrum Eswatinis.",
+        "hu": "Keresd meg Lobambát, Eswatini hagyományos és törvényhozási központját.",
+        "ro": "Găsește Lobamba, centrul tradițional și legislativ al statului Eswatini.",
+        "en": "Find Lobamba, Eswatini's traditional and legislative center."
+      }
+    },
+    {
+      "id": "sz-find-piggs-peak-forestry",
+      "type": "find_poi",
+      "targetPoiId": "piggs-peak-cities-v2",
+      "question": {
+        "de": "Finde Piggs Peak, die Forststadt im Norden.",
+        "hu": "Keresd meg Piggs Peaket, az északi erdőgazdálkodási várost.",
+        "ro": "Găsește Piggs Peak, orașul forestier din nord.",
+        "en": "Find Piggs Peak, the forestry town in the north."
+      }
+    },
+    {
+      "id": "sz-find-lavumisa-border",
+      "type": "find_poi",
+      "targetPoiId": "lavumisa-cities-v2",
+      "question": {
+        "de": "Finde Lavumisa am südlichen Grenzrand des Landes.",
+        "hu": "Keresd meg Lavumisát az ország déli határvidékén.",
+        "ro": "Găsește Lavumisa la frontiera sudică a țării.",
+        "en": "Find Lavumisa on the country's southern border."
+      }
+    },
+    {
+      "id": "sz-find-ngwenya-west",
+      "type": "find_poi",
+      "targetPoiId": "ngwenya-cities-v2",
+      "question": {
+        "de": "Finde Ngwenya nahe der westlichen Grenze.",
+        "hu": "Keresd meg Ngwenyát a nyugati határ közelében.",
+        "ro": "Găsește Ngwenya aproape de granița vestică.",
+        "en": "Find Ngwenya near the western border."
+      }
+    },
+    {
+      "id": "sz-find-mhlume-sugar-factory",
+      "type": "find_poi",
+      "targetPoiId": "mhlume-sugar-factory-economic-v2",
+      "question": {
+        "de": "Finde die Mhlume Sugar Factory im Nordosten Eswatinis.",
+        "hu": "Keresd meg a Mhlume Sugar Factoryt Eswatini északkeleti részén.",
+        "ro": "Găsește fabrica de zahăr Mhlume în nord-estul statului Eswatini.",
+        "en": "Find the Mhlume Sugar Factory in northeastern Eswatini."
+      }
+    },
+    {
+      "id": "sz-find-mantenga-falls",
+      "type": "find_poi",
+      "targetPoiId": "mantenga-falls-nature-v2",
+      "question": {
+        "de": "Finde die Mantenga Falls im zentralen Westen des Landes.",
+        "hu": "Keresd meg a Mantenga-vízesést az ország középső nyugati részén.",
+        "ro": "Găsește cascada Mantenga în partea central-vestică a țării.",
+        "en": "Find Mantenga Falls in the country's central-western area."
+      }
+    },
+    {
+      "id": "sz-region-manzini",
+      "type": "find_region",
+      "targetRegionId": "SWZ-536",
+      "question": {
+        "de": "Klicke auf die Region Manzini im Zentrum Eswatinis.",
+        "hu": "Kattints a központi Manzini régióra.",
+        "ro": "Apasă pe regiunea Manzini din centrul statului Eswatini.",
+        "en": "Click the Manzini region in central Eswatini."
+      }
+    },
+    {
+      "id": "sz-region-shiselweni",
+      "type": "find_region",
+      "targetRegionId": "SWZ-537",
+      "question": {
+        "de": "Klicke auf die südliche Region Shiselweni.",
+        "hu": "Kattints a déli Shiselweni régióra.",
+        "ro": "Apasă pe regiunea sudică Shiselweni.",
+        "en": "Click the southern Shiselweni region."
+      }
+    },
+    {
+      "id": "sz-odd-not-lubombo-town",
+      "type": "odd_one_out",
+      "poiIds": [
+        "siteki-cities-v2",
+        "simunye-cities-v2",
+        "mhlume-cities-v2",
+        "lobamba-cities-v2"
+      ],
+      "targetPoiId": "lobamba-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht in der Region Lubombo?",
+        "hu": "Melyik település nem a Lubombo régióban fekszik?",
+        "ro": "Care localitate nu se află în regiunea Lubombo?",
+        "en": "Which place is not in the Lubombo region?"
+      }
+    },
+    {
+      "id": "sz-odd-not-hhohho-town",
+      "type": "odd_one_out",
+      "poiIds": [
+        "mbabane-cities-v2",
+        "piggs-peak-cities-v2",
+        "ngwenya-cities-v2",
+        "manzini-cities-v2"
+      ],
+      "targetPoiId": "manzini-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht in der Region Hhohho?",
+        "hu": "Melyik város nem a Hhohho régióban található?",
+        "ro": "Care oraș nu se află în regiunea Hhohho?",
+        "en": "Which city is not in the Hhohho region?"
+      }
+    },
+    {
+      "id": "sz-odd-not-shiselweni-town",
+      "type": "odd_one_out",
+      "poiIds": [
+        "nhlangano-cities-v2",
+        "hluti-cities-v2",
+        "lavumisa-cities-v2",
+        "malkerns-cities-v2"
+      ],
+      "targetPoiId": "malkerns-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht in der Region Shiselweni?",
+        "hu": "Melyik település nem a Shiselweni régióban fekszik?",
+        "ro": "Care localitate nu se află în regiunea Shiselweni?",
+        "en": "Which place is not in the Shiselweni region?"
+      }
+    },
+    {
+      "id": "sz-odd-not-sugar-east",
+      "type": "odd_one_out",
+      "poiIds": [
+        "mhlume-sugar-factory-economic-v2",
+        "simunye-sugar-complex-economic-v2",
+        "big-bend-sugar-life-v2",
+        "phophonyane-falls-nature-v2"
+      ],
+      "targetPoiId": "phophonyane-falls-nature-v2",
+      "question": {
+        "de": "Welcher Ort gehört nicht zur Zuckerwirtschaft Eswatinis?",
+        "hu": "Melyik helyszín nem Eswatini cukoriparához kapcsolódik?",
+        "ro": "Care loc nu este legat de industria zahărului din Eswatini?",
+        "en": "Which place is not linked to Eswatini's sugar industry?"
+      }
+    },
+    {
+      "id": "sz-odd-not-capital-corridor",
+      "type": "odd_one_out",
+      "poiIds": [
+        "swazi-plaza-mbabane-landmarks-v2",
+        "un-house-eswatini-landmarks-v2",
+        "happy-valley-casino-ezulwini-landmarks-v2",
+        "big-bend-bridge-landmarks-v2"
+      ],
+      "targetPoiId": "big-bend-bridge-landmarks-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht im Raum Mbabane–Ezulwini–Lobamba?",
+        "hu": "Melyik helyszín nem a Mbabane–Ezulwini–Lobamba térségben található?",
+        "ro": "Care loc nu se află în zona Mbabane–Ezulwini–Lobamba?",
+        "en": "Which place is not in the Mbabane-Ezulwini-Lobamba area?"
+      }
+    },
+    {
+      "id": "sz-odd-not-hhohho-nature",
+      "type": "odd_one_out",
+      "poiIds": [
+        "emlembe-nature-v2",
+        "malolotja-falls-nature-v2",
+        "phophonyane-falls-nature-v2",
+        "mkhaya-game-reserve-life-v2"
+      ],
+      "targetPoiId": "mkhaya-game-reserve-life-v2",
+      "question": {
+        "de": "Welches Naturziel liegt nicht in Hhohho?",
+        "hu": "Melyik természeti helyszín nem Hhohho régióban található?",
+        "ro": "Care obiectiv natural nu se află în Hhohho?",
+        "en": "Which natural site is not in Hhohho?"
+      }
+    },
+    {
+      "id": "sz-seq-west-east-ngwenya-siteki",
+      "type": "sequence",
+      "poiIds": [
+        "ngwenya-cities-v2",
+        "mbabane-cities-v2",
+        "siteki-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "ngwenya-cities-v2",
+        "mbabane-cities-v2",
+        "siteki-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Ngwenya, Mbabane und Siteki von Westen nach Osten an.",
+        "hu": "Kattints Ngwenyára, Mbabanéra és Sitekire nyugatról kelet felé.",
+        "ro": "Apasă Ngwenya, Mbabane și Siteki de la vest la est.",
+        "en": "Click Ngwenya, Mbabane and Siteki from west to east."
+      }
+    },
+    {
+      "id": "sz-seq-north-south-bulembu-nhlangano",
+      "type": "sequence",
+      "poiIds": [
+        "bulembu-cities-v2",
+        "lobamba-cities-v2",
+        "nhlangano-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "bulembu-cities-v2",
+        "lobamba-cities-v2",
+        "nhlangano-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Bulembu, Lobamba und Nhlangano von Norden nach Süden an.",
+        "hu": "Kattints Bulembura, Lobambára és Nhlanganóra északról dél felé.",
+        "ro": "Apasă Bulembu, Lobamba și Nhlangano de la nord la sud.",
+        "en": "Click Bulembu, Lobamba and Nhlangano from north to south."
+      }
+    },
+    {
+      "id": "sz-seq-west-east-forest-dryport-plateau",
+      "type": "sequence",
+      "poiIds": [
+        "sandlane-forest-relief-v2",
+        "matsapha-dry-port-economic-v2",
+        "lubombo-plateau-relief-v2"
+      ],
+      "orderedPoiIds": [
+        "sandlane-forest-relief-v2",
+        "matsapha-dry-port-economic-v2",
+        "lubombo-plateau-relief-v2"
+      ],
+      "question": {
+        "de": "Klicke den Sandlane Forest, den Matsapha Dry Port und das Lubombo Plateau von Westen nach Osten an.",
+        "hu": "Kattints a Sandlane Forestre, a Matsapha Dry Portra és a Lubombo-fennsíkra nyugatról kelet felé.",
+        "ro": "Apasă Sandlane Forest, Matsapha Dry Port și Podișul Lubombo de la vest la est.",
+        "en": "Click Sandlane Forest, Matsapha Dry Port and the Lubombo Plateau from west to east."
+      }
+    },
+    {
+      "id": "sz-seq-north-south-lomahasha-lavumisa",
+      "type": "sequence",
+      "poiIds": [
+        "lomahasha-cities-v2",
+        "siteki-cities-v2",
+        "lavumisa-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "lomahasha-cities-v2",
+        "siteki-cities-v2",
+        "lavumisa-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Lomahasha, Siteki und Lavumisa von Norden nach Süden an.",
+        "hu": "Kattints Lomahashára, Sitekire és Lavumisára északról dél felé.",
+        "ro": "Apasă Lomahasha, Siteki și Lavumisa de la nord la sud.",
+        "en": "Click Lomahasha, Siteki and Lavumisa from north to south."
+      }
+    },
+    {
+      "id": "sz-seq-west-east-maguga-manzini-bigbend",
+      "type": "sequence",
+      "poiIds": [
+        "maguga-dam-nature-v2",
+        "manzini-cities-v2",
+        "big-bend-bridge-landmarks-v2"
+      ],
+      "orderedPoiIds": [
+        "maguga-dam-nature-v2",
+        "manzini-cities-v2",
+        "big-bend-bridge-landmarks-v2"
+      ],
+      "question": {
+        "de": "Klicke den Maguga-Stausee, Manzini und die Big Bend Bridge von Westen nach Osten an.",
+        "hu": "Kattints a Maguga-víztározóra, Manzinire és a Big Bend hídra nyugatról kelet felé.",
+        "ro": "Apasă barajul Maguga, Manzini și podul Big Bend de la vest la est.",
+        "en": "Click Maguga Dam, Manzini and Big Bend Bridge from west to east."
+      }
+    },
+    {
+      "id": "sz-seq-north-south-mhlume-nsoko",
+      "type": "sequence",
+      "poiIds": [
+        "mhlume-cities-v2",
+        "big-bend-cities-v2",
+        "nsoko-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "mhlume-cities-v2",
+        "big-bend-cities-v2",
+        "nsoko-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Mhlume, Big Bend und Nsoko von Norden nach Süden an.",
+        "hu": "Kattints Mhlumére, Big Bendre és Nsokóra északról dél felé.",
+        "ro": "Apasă Mhlume, Big Bend și Nsoko de la nord la sud.",
+        "en": "Click Mhlume, Big Bend and Nsoko from north to south."
+      }
+    }
+  ]
+}

@@ -1,0 +1,299 @@
+{
+  "ls": [
+    {
+      "id": "ls-find-roma",
+      "type": "find_poi",
+      "targetPoiId": "roma-cities-v2",
+      "question": {
+        "de": "Finde Roma, das Hochschulzentrum östlich von Maseru.",
+        "hu": "Keresd meg Romát, a Maseru városától keletre fekvő egyetemi központot.",
+        "ro": "Găsește Roma, centrul universitar aflat la est de Maseru.",
+        "en": "Find Roma, the university town east of Maseru."
+      }
+    },
+    {
+      "id": "ls-find-hlotse",
+      "type": "find_poi",
+      "targetPoiId": "hlotse-cities-v2",
+      "question": {
+        "de": "Finde Hlotse im Norden Lesothos.",
+        "hu": "Keresd meg Hlotsét Lesotho északi részén.",
+        "ro": "Găsește Hlotse în nordul statului Lesotho.",
+        "en": "Find Hlotse in northern Lesotho."
+      }
+    },
+    {
+      "id": "ls-find-qachas-nek",
+      "type": "find_poi",
+      "targetPoiId": "qachas-nek-cities-v2",
+      "question": {
+        "de": "Finde Qacha's Nek nahe der südöstlichen Grenze.",
+        "hu": "Keresd meg Qacha's Neket a délkeleti határ közelében.",
+        "ro": "Găsește Qacha's Nek aproape de granița din sud-est.",
+        "en": "Find Qacha's Nek near the southeastern border."
+      }
+    },
+    {
+      "id": "ls-find-semonkong",
+      "type": "find_poi",
+      "targetPoiId": "semonkong-cities-v2",
+      "question": {
+        "de": "Finde Semonkong im zentralen Bergland.",
+        "hu": "Keresd meg Semonkongot a központi hegyvidéken.",
+        "ro": "Găsește Semonkong în zona montană centrală.",
+        "en": "Find Semonkong in the central highlands."
+      }
+    },
+    {
+      "id": "ls-find-maputsoe",
+      "type": "find_poi",
+      "targetPoiId": "maputsoe-cities-v2",
+      "question": {
+        "de": "Finde Maputsoe an der Grenze im Nordwesten.",
+        "hu": "Keresd meg Maputsoe-t az északnyugati határnál.",
+        "ro": "Găsește Maputsoe la graniță în nord-vest.",
+        "en": "Find Maputsoe on the northwestern border."
+      }
+    },
+    {
+      "id": "ls-region-leribe",
+      "type": "find_region",
+      "targetRegionId": "LSO-1212",
+      "question": {
+        "de": "Klicke auf den Distrikt Leribe.",
+        "hu": "Kattints Leribe körzetre.",
+        "ro": "Apasă pe districtul Leribe.",
+        "en": "Click Leribe District."
+      }
+    },
+    {
+      "id": "ls-region-qachas-nek",
+      "type": "find_region",
+      "targetRegionId": "LSO-1214",
+      "question": {
+        "de": "Klicke auf den südöstlichen Distrikt Qacha's Nek.",
+        "hu": "Kattints a délkeleti Qacha's Nek körzetre.",
+        "ro": "Apasă pe districtul Qacha's Nek din sud-est.",
+        "en": "Click the southeastern district of Qacha's Nek."
+      }
+    },
+    {
+      "id": "ls-region-berea",
+      "type": "find_region",
+      "targetRegionId": "LSO-1202",
+      "question": {
+        "de": "Klicke auf den Distrikt Berea nördlich von Maseru.",
+        "hu": "Kattints a Maseru városától északra fekvő Berea körzetre.",
+        "ro": "Apasă pe districtul Berea, aflat la nord de Maseru.",
+        "en": "Click Berea District north of Maseru."
+      }
+    },
+    {
+      "id": "ls-region-thaba-tseka",
+      "type": "find_region",
+      "targetRegionId": "LSO-1215",
+      "question": {
+        "de": "Klicke auf den Bergdistrikt Thaba-Tseka.",
+        "hu": "Kattints a hegyvidéki Thaba-Tseka körzetre.",
+        "ro": "Apasă pe districtul montan Thaba-Tseka.",
+        "en": "Click the mountain district of Thaba-Tseka."
+      }
+    },
+    {
+      "id": "ls-region-mohales-hoek",
+      "type": "find_region",
+      "targetRegionId": "LSO-1204",
+      "question": {
+        "de": "Klicke auf den südlichen Distrikt Mohale's Hoek.",
+        "hu": "Kattints a déli Mohale's Hoek körzetre.",
+        "ro": "Apasă pe districtul sudic Mohale's Hoek.",
+        "en": "Click the southern district of Mohale's Hoek."
+      }
+    },
+    {
+      "id": "ls-odd-western-lowlands",
+      "type": "odd_one_out",
+      "poiIds": [
+        "maseru-cities-v2",
+        "teyateyaneng-cities-v2",
+        "mafeteng-cities-v2",
+        "mokhotlong-cities-v2"
+      ],
+      "targetPoiId": "mokhotlong-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht in den westlichen Tiefländern Lesothos?",
+        "hu": "Melyik város nem Lesotho nyugati alföldjén fekszik?",
+        "ro": "Care oraș nu se află în câmpiile vestice ale Lesotho?",
+        "en": "Which town is not in Lesotho's western lowlands?"
+      }
+    },
+    {
+      "id": "ls-odd-north-cluster",
+      "type": "odd_one_out",
+      "poiIds": [
+        "butha-buthe-cities-v2",
+        "hlotse-cities-v2",
+        "maputsoe-cities-v2",
+        "quthing-cities-v2"
+      ],
+      "targetPoiId": "quthing-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht im Norden Lesothos?",
+        "hu": "Melyik város nem Lesotho északi részén fekszik?",
+        "ro": "Care oraș nu se află în nordul statului Lesotho?",
+        "en": "Which town is not in northern Lesotho?"
+      }
+    },
+    {
+      "id": "ls-odd-eastern-highlands",
+      "type": "odd_one_out",
+      "poiIds": [
+        "mokhotlong-cities-v2",
+        "thaba-tseka-cities-v2",
+        "qachas-nek-cities-v2",
+        "mafeteng-cities-v2"
+      ],
+      "targetPoiId": "mafeteng-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht im östlichen Hochland Lesothos?",
+        "hu": "Melyik város nem Lesotho keleti felföldjén fekszik?",
+        "ro": "Care oraș nu se află în podișul estic al Lesotho?",
+        "en": "Which town is not in Lesotho's eastern highlands?"
+      }
+    },
+    {
+      "id": "ls-odd-maseru-district",
+      "type": "odd_one_out",
+      "poiIds": [
+        "roma-cities-v2",
+        "morija-cities-v2",
+        "mazenod-cities-v2",
+        "qachas-nek-cities-v2"
+      ],
+      "targetPoiId": "qachas-nek-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht im Distrikt Maseru?",
+        "hu": "Melyik település nem Maseru körzetében található?",
+        "ro": "Care localitate nu se află în districtul Maseru?",
+        "en": "Which place is not in Maseru District?"
+      }
+    },
+    {
+      "id": "ls-odd-border-towns",
+      "type": "odd_one_out",
+      "poiIds": [
+        "maputsoe-cities-v2",
+        "maseru-cities-v2",
+        "quthing-cities-v2",
+        "semonkong-cities-v2"
+      ],
+      "targetPoiId": "semonkong-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht direkt an der Grenze zu Südafrika?",
+        "hu": "Melyik város nem közvetlenül a dél-afrikai határnál fekszik?",
+        "ro": "Care oraș nu se află direct la granița cu Africa de Sud?",
+        "en": "Which town is not directly on the border with South Africa?"
+      }
+    },
+    {
+      "id": "ls-sequence-west-east-southwest-core",
+      "type": "sequence",
+      "poiIds": [
+        "mafeteng-cities-v2",
+        "maseru-cities-v2",
+        "roma-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "mafeteng-cities-v2",
+        "maseru-cities-v2",
+        "roma-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Mafeteng, Maseru und Roma von Westen nach Osten an.",
+        "hu": "Kattints Mafetengre, Maserura és Romára nyugatról kelet felé.",
+        "ro": "Apasă Mafeteng, Maseru și Roma de la vest la est.",
+        "en": "Click Mafeteng, Maseru and Roma from west to east."
+      }
+    },
+    {
+      "id": "ls-sequence-west-east-northern-arc",
+      "type": "sequence",
+      "poiIds": [
+        "maputsoe-cities-v2",
+        "butha-buthe-cities-v2",
+        "mokhotlong-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "maputsoe-cities-v2",
+        "butha-buthe-cities-v2",
+        "mokhotlong-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Maputsoe, Butha-Buthe und Mokhotlong von Westen nach Osten an.",
+        "hu": "Kattints Maputsoe-ra, Butha-Buthe-re és Mokhotlongra nyugatról kelet felé.",
+        "ro": "Apasă Maputsoe, Butha-Buthe și Mokhotlong de la vest la est.",
+        "en": "Click Maputsoe, Butha-Buthe and Mokhotlong from west to east."
+      }
+    },
+    {
+      "id": "ls-sequence-north-south-western-chain",
+      "type": "sequence",
+      "poiIds": [
+        "maputsoe-cities-v2",
+        "roma-cities-v2",
+        "mohales-hoek-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "maputsoe-cities-v2",
+        "roma-cities-v2",
+        "mohales-hoek-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Maputsoe, Roma und Mohale's Hoek von Norden nach Süden an.",
+        "hu": "Kattints Maputsoe-ra, Romára és Mohale's Hoekre északról dél felé.",
+        "ro": "Apasă Maputsoe, Roma și Mohale's Hoek de la nord la sud.",
+        "en": "Click Maputsoe, Roma and Mohale's Hoek from north to south."
+      }
+    },
+    {
+      "id": "ls-sequence-north-south-eastern-side",
+      "type": "sequence",
+      "poiIds": [
+        "butha-buthe-cities-v2",
+        "thaba-tseka-cities-v2",
+        "qachas-nek-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "butha-buthe-cities-v2",
+        "thaba-tseka-cities-v2",
+        "qachas-nek-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Butha-Buthe, Thaba-Tseka und Qacha's Nek von Norden nach Süden an.",
+        "hu": "Kattints Butha-Buthe-re, Thaba-Tsekára és Qacha's Nekre északról dél felé.",
+        "ro": "Apasă Butha-Buthe, Thaba-Tseka și Qacha's Nek de la nord la sud.",
+        "en": "Click Butha-Buthe, Thaba-Tseka and Qacha's Nek from north to south."
+      }
+    },
+    {
+      "id": "ls-sequence-south-north-west-spine",
+      "type": "sequence",
+      "poiIds": [
+        "quthing-cities-v2",
+        "morija-cities-v2",
+        "hlotse-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "quthing-cities-v2",
+        "morija-cities-v2",
+        "hlotse-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Quthing, Morija und Hlotse von Süden nach Norden an.",
+        "hu": "Kattints Quthingre, Morijára és Hlotséra délről észak felé.",
+        "ro": "Apasă Quthing, Morija și Hlotse de la sud la nord.",
+        "en": "Click Quthing, Morija and Hlotse from south to north."
+      }
+    }
+  ]
+}

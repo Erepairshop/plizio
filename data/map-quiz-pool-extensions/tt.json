@@ -1,0 +1,292 @@
+{
+  "tt": [
+    {
+      "id": "tt-region-western-tobago",
+      "type": "find_region",
+      "targetRegionId": "TTO-5090",
+      "question": {
+        "de": "Finde die Region Western Tobago auf der kleineren Insel.",
+        "hu": "Keresd meg a Western Tobago régiót a kisebbik szigeten.",
+        "ro": "Găsește regiunea Western Tobago de pe insula mai mică.",
+        "en": "Find the Western Tobago region on the smaller island."
+      }
+    },
+    {
+      "id": "tt-region-eastern-tobago",
+      "type": "find_region",
+      "targetRegionId": "TTO-50",
+      "question": {
+        "de": "Klicke auf Eastern Tobago im Osten von Tobago.",
+        "hu": "Kattints Eastern Tobago régiójára Tobago keleti részén.",
+        "ro": "Apasă pe Eastern Tobago în partea estică a insulei Tobago.",
+        "en": "Click Eastern Tobago on the eastern side of Tobago."
+      }
+    },
+    {
+      "id": "tt-region-rio-claro-mayaro",
+      "type": "find_region",
+      "targetRegionId": "TTO-55",
+      "question": {
+        "de": "Finde die Region Rio Claro-Mayaro an der Südostküste Trinidads.",
+        "hu": "Keresd meg a Rio Claro-Mayaro régiót Trinidad délkeleti partján.",
+        "ro": "Găsește regiunea Rio Claro-Mayaro de pe coasta sud-estică a insulei Trinidad.",
+        "en": "Find the Rio Claro-Mayaro region on Trinidad's southeast coast."
+      }
+    },
+    {
+      "id": "tt-region-siparia",
+      "type": "find_region",
+      "targetRegionId": "TTO-52",
+      "question": {
+        "de": "Finde Siparia im äußersten Südwesten Trinidads.",
+        "hu": "Keresd meg Siparia régióját Trinidad legdélnyugatibb részén.",
+        "ro": "Găsește Siparia în extremitatea sud-vestică a insulei Trinidad.",
+        "en": "Find Siparia in the far southwest of Trinidad."
+      }
+    },
+    {
+      "id": "tt-region-tunapuna-piarco",
+      "type": "find_region",
+      "targetRegionId": "TTO-61",
+      "question": {
+        "de": "Klicke auf Tunapuna/Piarco im Nordosten des East-West Corridor.",
+        "hu": "Kattints Tunapuna/Piarco régiójára az East-West Corridor északkeleti részén.",
+        "ro": "Apasă pe Tunapuna/Piarco în partea de nord-est a coridorului est-vest.",
+        "en": "Click Tunapuna/Piarco in the northeastern part of the East-West Corridor."
+      }
+    },
+    {
+      "id": "tt-find-crown-point",
+      "type": "find_poi",
+      "targetPoiId": "tt-crown-point-cities-v2",
+      "question": {
+        "de": "Finde Crown Point an der Südwestspitze von Tobago.",
+        "hu": "Keresd meg Crown Pointot Tobago délnyugati csücskén.",
+        "ro": "Găsește Crown Point în extremitatea sud-vestică a insulei Tobago.",
+        "en": "Find Crown Point at the southwestern tip of Tobago."
+      }
+    },
+    {
+      "id": "tt-find-charlotteville",
+      "type": "find_poi",
+      "targetPoiId": "tt-charlotteville-cities-v2",
+      "question": {
+        "de": "Finde Charlotteville an der Nordostküste Tobagos.",
+        "hu": "Keresd meg Charlotteville-t Tobago északkeleti partján.",
+        "ro": "Găsește Charlotteville pe coasta de nord-est a insulei Tobago.",
+        "en": "Find Charlotteville on Tobago's northeastern coast."
+      }
+    },
+    {
+      "id": "tt-find-cedros",
+      "type": "find_poi",
+      "targetPoiId": "tt-cedros-cities-v2",
+      "question": {
+        "de": "Finde Cedros auf der südwestlichen Halbinsel Trinidads.",
+        "hu": "Keresd meg Cedrost Trinidad délnyugati félszigetén.",
+        "ro": "Găsește Cedros pe peninsula din sud-vestul insulei Trinidad.",
+        "en": "Find Cedros on Trinidad's southwestern peninsula."
+      }
+    },
+    {
+      "id": "tt-find-rio-claro",
+      "type": "find_poi",
+      "targetPoiId": "tt-rio-claro-cities-v2",
+      "question": {
+        "de": "Finde Rio Claro im Südosten Trinidads.",
+        "hu": "Keresd meg Rio Clarót Trinidad délkeleti részén.",
+        "ro": "Găsește Rio Claro în sud-estul insulei Trinidad.",
+        "en": "Find Rio Claro in southeastern Trinidad."
+      }
+    },
+    {
+      "id": "tt-find-toco",
+      "type": "find_poi",
+      "targetPoiId": "tt-toco-cities-v2",
+      "question": {
+        "de": "Finde Toco an der nordöstlichen Spitze Trinidads.",
+        "hu": "Keresd meg Tocót Trinidad északkeleti csücskén.",
+        "ro": "Găsește Toco în extremitatea nord-estică a insulei Trinidad.",
+        "en": "Find Toco at Trinidad's northeastern tip."
+      }
+    },
+    {
+      "id": "tt-find-freeport",
+      "type": "find_poi",
+      "targetPoiId": "tt-freeport-cities-v2",
+      "question": {
+        "de": "Finde Freeport im zentralen Trinidad südlich von Chaguanas.",
+        "hu": "Keresd meg Freeportot Közép-Trinidadban, Chaguanastól délre.",
+        "ro": "Găsește Freeport în centrul insulei Trinidad, la sud de Chaguanas.",
+        "en": "Find Freeport in central Trinidad, south of Chaguanas."
+      }
+    },
+    {
+      "id": "tt-find-grande-riviere",
+      "type": "find_poi",
+      "targetPoiId": "tt-grande-riviere-cities-v2",
+      "question": {
+        "de": "Finde Grande Riviere an der abgelegenen Nordostküste Trinidads.",
+        "hu": "Keresd meg Grande Riviere-t Trinidad távoli északkeleti partján.",
+        "ro": "Găsește Grande Riviere pe coasta izolată de nord-est a insulei Trinidad.",
+        "en": "Find Grande Riviere on Trinidad's remote northeastern coast."
+      }
+    },
+    {
+      "id": "tt-odd-tobago-east-coast",
+      "type": "odd_one_out",
+      "poiIds": [
+        "tt-sangre-grande-cities-v2",
+        "tt-toco-cities-v2",
+        "tt-mayaro-cities-v2",
+        "tt-speyside-cities-v2"
+      ],
+      "targetPoiId": "tt-speyside-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt als einziger auf Tobago statt an Trinidads Ostseite?",
+        "hu": "Melyik hely található egyedüliként Tobagón, nem pedig Trinidad keleti oldalán?",
+        "ro": "Care dintre aceste locuri se află singur pe Tobago, nu pe partea estică a insulei Trinidad?",
+        "en": "Which of these places is the only one on Tobago rather than on Trinidad's eastern side?"
+      }
+    },
+    {
+      "id": "tt-odd-not-gulf-northwest",
+      "type": "odd_one_out",
+      "poiIds": [
+        "tt-diego-martin-cities-v2",
+        "tt-carenage-cities-v2",
+        "tt-portofspain",
+        "tt-freeport-cities-v2"
+      ],
+      "targetPoiId": "tt-freeport-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt als einziger nicht im nordwestlichen Ballungsraum am Golf von Paria?",
+        "hu": "Melyik település nem a Paria-öböl menti északnyugati városi térségben található?",
+        "ro": "Care dintre aceste localități este singura care nu se află în aglomerația din nord-vest, de-a lungul Golfului Paria?",
+        "en": "Which of these places is the only one not in the northwestern urban belt along the Gulf of Paria?"
+      }
+    },
+    {
+      "id": "tt-odd-inland-southwest",
+      "type": "odd_one_out",
+      "poiIds": [
+        "tt-cedros-cities-v2",
+        "tt-point-fortin-cities-v2",
+        "tt-penal-cities-v2",
+        "tt-la-brea-cities-v2"
+      ],
+      "targetPoiId": "tt-penal-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt als einziger im Landesinneren statt direkt an der Südwestküste?",
+        "hu": "Melyik település fekszik egyedüliként beljebb a szárazföldön, nem közvetlenül a délnyugati parton?",
+        "ro": "Care dintre aceste localități este singura aflată în interior, nu direct pe coasta de sud-vest?",
+        "en": "Which of these places is the only one inland rather than directly on the southwest coast?"
+      }
+    },
+    {
+      "id": "tt-odd-northeast-tobago",
+      "type": "odd_one_out",
+      "poiIds": [
+        "tt-plymouth-cities-v2",
+        "tt-buccoo-cities-v2",
+        "tt-crown-point-cities-v2",
+        "tt-charlotteville-cities-v2"
+      ],
+      "targetPoiId": "tt-charlotteville-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt als einziger im Nordosten von Tobago?",
+        "hu": "Melyik hely található egyedüliként Tobago északkeleti részén?",
+        "ro": "Care dintre aceste locuri este singurul aflat în nord-estul insulei Tobago?",
+        "en": "Which of these places is the only one in northeastern Tobago?"
+      }
+    },
+    {
+      "id": "tt-sequence-tobago-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "tt-plymouth-cities-v2",
+        "tt-scarborough",
+        "tt-roxborough-cities-v2",
+        "tt-speyside-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "tt-plymouth-cities-v2",
+        "tt-scarborough",
+        "tt-roxborough-cities-v2",
+        "tt-speyside-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke diese Orte auf Tobago von Westen nach Osten an.",
+        "hu": "Kattints ezekre a tobagói helyekre nyugatról keletre haladva.",
+        "ro": "Apasă aceste locuri din Tobago de la vest la est.",
+        "en": "Click these places on Tobago from west to east."
+      }
+    },
+    {
+      "id": "tt-sequence-south-coast-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "tt-cedros-cities-v2",
+        "tt-point-fortin-cities-v2",
+        "tt-sanfernando",
+        "tt-rio-claro-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "tt-cedros-cities-v2",
+        "tt-point-fortin-cities-v2",
+        "tt-sanfernando",
+        "tt-rio-claro-cities-v2"
+      ],
+      "question": {
+        "de": "Ordne diese Orte entlang des Südens von Trinidad von Westen nach Osten.",
+        "hu": "Rendezd ezeket a helyeket Trinidad déli részén nyugatról keletre.",
+        "ro": "Ordonează aceste locuri de-a lungul sudului insulei Trinidad de la vest la est.",
+        "en": "Order these places along southern Trinidad from west to east."
+      }
+    },
+    {
+      "id": "tt-sequence-east-trinidad-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "tt-toco-cities-v2",
+        "tt-sangre-grande-cities-v2",
+        "tt-mayaro-cities-v2",
+        "tt-guayaguayare-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "tt-toco-cities-v2",
+        "tt-sangre-grande-cities-v2",
+        "tt-mayaro-cities-v2",
+        "tt-guayaguayare-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke diese Orte im Osten Trinidads von Norden nach Süden an.",
+        "hu": "Kattints ezekre a kelet-trinidadi helyekre északról délre haladva.",
+        "ro": "Apasă aceste locuri din estul insulei Trinidad de la nord la sud.",
+        "en": "Click these places in eastern Trinidad from north to south."
+      }
+    },
+    {
+      "id": "tt-sequence-northwest-east-corridor",
+      "type": "sequence",
+      "poiIds": [
+        "tt-diego-martin-cities-v2",
+        "tt-portofspain",
+        "tt-san-juan-cities-v2",
+        "tt-arima"
+      ],
+      "orderedPoiIds": [
+        "tt-diego-martin-cities-v2",
+        "tt-portofspain",
+        "tt-san-juan-cities-v2",
+        "tt-arima"
+      ],
+      "question": {
+        "de": "Folge dem East-West Corridor von Westen nach Osten.",
+        "hu": "Kövesd az East-West Corridort nyugatról keletre.",
+        "ro": "Urmează coridorul est-vest de la vest la est.",
+        "en": "Follow the East-West Corridor from west to east."
+      }
+    }
+  ]
+}

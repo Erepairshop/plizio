@@ -1,0 +1,309 @@
+{
+  "no": [
+    {
+      "id": "no-ext-find-bodo",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Bodø nördlich des Polarkreises auf der Karte.",
+        "hu": "Keresd meg Bodø városát az Északi-sarkkörtől északra a térképen.",
+        "ro": "Găsește Bodø pe hartă, la nord de Cercul Polar.",
+        "en": "Find Bodø on the map north of the Arctic Circle."
+      },
+      "targetPoiId": "city-bodo"
+    },
+    {
+      "id": "no-ext-find-alesund",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Ålesund an der Westküste?",
+        "hu": "Hol található Ålesund Norvégia nyugati partján?",
+        "ro": "Unde se află Ålesund pe coasta de vest?",
+        "en": "Where is Ålesund on the west coast?"
+      },
+      "targetPoiId": "city-alesund"
+    },
+    {
+      "id": "no-ext-find-narvik",
+      "type": "find_poi",
+      "question": {
+        "de": "Klicke auf Narvik im Norden Norwegens.",
+        "hu": "Kattints Narvik városára Norvégia északi részén.",
+        "ro": "Apasă pe Narvik, în nordul Norvegiei.",
+        "en": "Click Narvik in northern Norway."
+      },
+      "targetPoiId": "city-narvik"
+    },
+    {
+      "id": "no-ext-find-preikestolen",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde den Felsen Preikestolen am Lysefjord.",
+        "hu": "Keresd meg a Lysefjord fölé magasodó Preikestolent.",
+        "ro": "Găsește stânca Preikestolen de la Lysefjord.",
+        "en": "Find the Preikestolen cliff by Lysefjord."
+      },
+      "targetPoiId": "nat-preikestolen"
+    },
+    {
+      "id": "no-ext-find-roros",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde die historische Bergbaustadt Røros.",
+        "hu": "Keresd meg Røros történelmi bányavárosát.",
+        "ro": "Găsește orașul minier istoric Røros.",
+        "en": "Find the historic mining town of Røros."
+      },
+      "targetPoiId": "cult-roros"
+    },
+    {
+      "id": "no-ext-region-finnmark",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf Finnmark ganz im Nordosten.",
+        "hu": "Kattints Finnmark régióra, Norvégia legészakkeletibb részén.",
+        "ro": "Apasă pe Finnmark, în extremul nord-est.",
+        "en": "Click Finnmark in the far northeast."
+      },
+      "targetRegionId": "NO-20"
+    },
+    {
+      "id": "no-ext-region-oslo",
+      "type": "find_region",
+      "question": {
+        "de": "Wo liegt die Region Oslo?",
+        "hu": "Hol található Oslo régiója?",
+        "ro": "Unde se află regiunea Oslo?",
+        "en": "Where is the Oslo region?"
+      },
+      "targetRegionId": "NO-03"
+    },
+    {
+      "id": "no-ext-region-hordaland",
+      "type": "find_region",
+      "question": {
+        "de": "Finde Hordaland an der Westküste.",
+        "hu": "Keresd meg Hordaland régiót a nyugati partvidéken.",
+        "ro": "Găsește Hordaland pe coasta de vest.",
+        "en": "Find Hordaland on the west coast."
+      },
+      "targetRegionId": "NO-12"
+    },
+    {
+      "id": "no-ext-region-sogn-og-fjordane",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf Sogn og Fjordane mit seinen langen Fjorden.",
+        "hu": "Kattints Sogn og Fjordane régióra, amely hosszú fjordjairól ismert.",
+        "ro": "Apasă pe Sogn og Fjordane, cunoscut pentru fiordurile sale lungi.",
+        "en": "Click Sogn og Fjordane, known for its long fjords."
+      },
+      "targetRegionId": "NO-14"
+    },
+    {
+      "id": "no-ext-region-vest-agder",
+      "type": "find_region",
+      "question": {
+        "de": "Wo liegt Vest-Agder im Süden des Landes?",
+        "hu": "Hol található Vest-Agder az ország déli részén?",
+        "ro": "Unde se află Vest-Agder în sudul țării?",
+        "en": "Where is Vest-Agder in the south of the country?"
+      },
+      "targetRegionId": "NO-10"
+    },
+    {
+      "id": "no-ext-odd-lofoten-outsider",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht auf den Lofoten?",
+        "hu": "Melyik hely nem a Lofoten-szigeteken található?",
+        "ro": "Care dintre aceste locuri nu se află în insulele Lofoten?",
+        "en": "Which of these places is not in the Lofoten Islands?"
+      },
+      "poiIds": [
+        "norway-reine-cities-v2",
+        "norway-svolvaer-cities-v2",
+        "norway-leknes-cities-v2",
+        "city-bodo"
+      ],
+      "targetPoiId": "city-bodo"
+    },
+    {
+      "id": "no-ext-odd-rogaland-outsider",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Städte liegt nicht in Rogaland?",
+        "hu": "Melyik város nem Rogaland régióban található?",
+        "ro": "Care dintre aceste orașe nu se află în Rogaland?",
+        "en": "Which of these cities is not in Rogaland?"
+      },
+      "poiIds": [
+        "city-stavanger",
+        "city-sandnes",
+        "norway-egersund-cities-v2",
+        "city-kristiansand"
+      ],
+      "targetPoiId": "city-kristiansand"
+    },
+    {
+      "id": "no-ext-odd-oslofjord-outsider",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht am Oslofjord?",
+        "hu": "Melyik hely nem az Oslo-fjord partján fekszik?",
+        "ro": "Care dintre aceste locuri nu se află pe Oslofjord?",
+        "en": "Which of these places is not on the Oslofjord?"
+      },
+      "poiIds": [
+        "city-oslo",
+        "norway-moss-cities-v2",
+        "norway-horten-cities-v2",
+        "city-lillehammer"
+      ],
+      "targetPoiId": "city-lillehammer"
+    },
+    {
+      "id": "no-ext-odd-finnmark-outsider",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Städte liegt nicht in Finnmark?",
+        "hu": "Melyik város nem Finnmark régióban található?",
+        "ro": "Care dintre aceste orașe nu se află în Finnmark?",
+        "en": "Which of these cities is not in Finnmark?"
+      },
+      "poiIds": [
+        "norway-hammerfest-cities-v2",
+        "norway-vadsø-cities-v2",
+        "norway-kirkenes-cities-v2",
+        "city-tromso"
+      ],
+      "targetPoiId": "city-tromso"
+    },
+    {
+      "id": "no-ext-odd-russian-border",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher dieser Orte liegt am nächsten zur russischen Grenze?",
+        "hu": "Melyik hely fekszik a legközelebb az orosz határhoz?",
+        "ro": "Care dintre aceste locuri se află cel mai aproape de granița cu Rusia?",
+        "en": "Which of these places lies closest to the Russian border?"
+      },
+      "poiIds": [
+        "norway-kirkenes-cities-v2",
+        "norway-vadsø-cities-v2",
+        "city-alta",
+        "city-tromso"
+      ],
+      "targetPoiId": "norway-kirkenes-cities-v2"
+    },
+    {
+      "id": "no-ext-sequence-west-east-north",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Bodø, Narvik, Tromsø und Alta von West nach Ost an.",
+        "hu": "Kattints Bodøre, Narvikra, Tromsøre és Altára nyugatról keletre.",
+        "ro": "Apasă Bodø, Narvik, Tromsø și Alta de la vest la est.",
+        "en": "Click Bodø, Narvik, Tromsø and Alta from west to east."
+      },
+      "poiIds": [
+        "city-bodo",
+        "city-narvik",
+        "city-tromso",
+        "city-alta"
+      ],
+      "orderedPoiIds": [
+        "city-bodo",
+        "city-narvik",
+        "city-tromso",
+        "city-alta"
+      ]
+    },
+    {
+      "id": "no-ext-sequence-south-north-skagerrak",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Kristiansand, Arendal, Tønsberg und Moss von Süd nach Nord an.",
+        "hu": "Kattints Kristiansandra, Arendalra, Tønsbergre és Mossra délről északra.",
+        "ro": "Apasă Kristiansand, Arendal, Tønsberg și Moss de la sud la nord.",
+        "en": "Click Kristiansand, Arendal, Tønsberg and Moss from south to north."
+      },
+      "poiIds": [
+        "city-kristiansand",
+        "norway-arendal-cities-v2",
+        "city-tonsberg",
+        "norway-moss-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "city-kristiansand",
+        "norway-arendal-cities-v2",
+        "city-tonsberg",
+        "norway-moss-cities-v2"
+      ]
+    },
+    {
+      "id": "no-ext-sequence-west-east-fjords",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Preikestolen, Sognefjord, Geirangerfjord und Trondheim von West nach Ost an.",
+        "hu": "Kattints Preikestolenre, a Sognefjordra, a Geirangerfjordra és Trondheimre nyugatról keletre.",
+        "ro": "Apasă Preikestolen, Sognefjord, Geirangerfjord și Trondheim de la vest la est.",
+        "en": "Click Preikestolen, Sognefjord, Geirangerfjord and Trondheim from west to east."
+      },
+      "poiIds": [
+        "nat-preikestolen",
+        "nat-sognefjord",
+        "nat-geirangerfjord",
+        "city-trondheim"
+      ],
+      "orderedPoiIds": [
+        "nat-preikestolen",
+        "nat-sognefjord",
+        "nat-geirangerfjord",
+        "city-trondheim"
+      ]
+    },
+    {
+      "id": "no-ext-sequence-north-south-lofoten",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Svolvær, Leknes, Ramberg und Å von Nord nach Süd an.",
+        "hu": "Kattints Svolværre, Leknesre, Rambergre és Å településre északról délre.",
+        "ro": "Apasă Svolvær, Leknes, Ramberg și Å de la nord la sud.",
+        "en": "Click Svolvær, Leknes, Ramberg and Å from north to south."
+      },
+      "poiIds": [
+        "norway-svolvaer-cities-v2",
+        "norway-leknes-cities-v2",
+        "norway-ramberg-cities-v2",
+        "norway-a-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "norway-svolvaer-cities-v2",
+        "norway-leknes-cities-v2",
+        "norway-ramberg-cities-v2",
+        "norway-a-cities-v2"
+      ]
+    },
+    {
+      "id": "no-ext-sequence-west-east-eastern-cities",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Drammen, Oslo, Hamar und Eidsvoll von West nach Ost an.",
+        "hu": "Kattints Drammenre, Oslóra, Hamarra és Eidsvollra nyugatról keletre.",
+        "ro": "Apasă Drammen, Oslo, Hamar și Eidsvoll de la vest la est.",
+        "en": "Click Drammen, Oslo, Hamar and Eidsvoll from west to east."
+      },
+      "poiIds": [
+        "city-drammen",
+        "city-oslo",
+        "norway-hamar-cities-v2",
+        "norway-eidsvoll-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "city-drammen",
+        "city-oslo",
+        "norway-hamar-cities-v2",
+        "norway-eidsvoll-cities-v2"
+      ]
+    }
+  ]
+}

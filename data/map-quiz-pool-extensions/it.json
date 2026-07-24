@@ -1,0 +1,233 @@
+{
+  "it": [
+    {
+      "id": "it-find-turin",
+      "type": "find_poi",
+      "targetPoiId": "torino",
+      "question": {
+        "de": "Finde Turin am westlichen Rand der Po-Ebene.",
+        "hu": "Keresd meg Torinót a Pó-síkság nyugati peremén.",
+        "ro": "Găsește Torino la marginea vestică a Câmpiei Padului.",
+        "en": "Find Turin on the western edge of the Po Valley."
+      }
+    },
+    {
+      "id": "it-find-bologna",
+      "type": "find_poi",
+      "targetPoiId": "bologna",
+      "question": {
+        "de": "Welche Stadt liegt zwischen Florenz und der Adria und ist berühmt für ihre Arkaden? Finde Bologna.",
+        "hu": "Melyik város fekszik Firenze és az Adria között, és híres az árkádjairól? Keresd meg Bolognát.",
+        "ro": "Ce oraș se află între Florența și Adriatica și este renumit pentru porticurile sale? Găsește Bologna.",
+        "en": "Which city lies between Florence and the Adriatic and is famous for its porticoes? Find Bologna."
+      }
+    },
+    {
+      "id": "it-find-trieste",
+      "type": "find_poi",
+      "targetPoiId": "trieste",
+      "question": {
+        "de": "Finde Triest im äußersten Nordosten Italiens.",
+        "hu": "Keresd meg Triesztet Olaszország legészakkeletibb részén.",
+        "ro": "Găsește Trieste în extremitatea nord-estică a Italiei.",
+        "en": "Find Trieste in Italy's far northeast."
+      }
+    },
+    {
+      "id": "it-find-bari",
+      "type": "find_poi",
+      "targetPoiId": "it-bari",
+      "question": {
+        "de": "Finde Bari an der Adriaküste im Absatz des italienischen Stiefels.",
+        "hu": "Keresd meg Barit az Adria partján, az olasz csizma sarkában.",
+        "ro": "Găsește Bari pe coasta Adriaticii, în călcâiul cizmei italiene.",
+        "en": "Find Bari on the Adriatic coast in the heel of the Italian boot."
+      }
+    },
+    {
+      "id": "it-find-cagliari",
+      "type": "find_poi",
+      "targetPoiId": "it-cagliari",
+      "question": {
+        "de": "Finde Cagliari, die größte Stadt Sardiniens.",
+        "hu": "Keresd meg Cagliarit, Szardínia legnagyobb városát.",
+        "ro": "Găsește Cagliari, cel mai mare oraș din Sardinia.",
+        "en": "Find Cagliari, the largest city in Sardinia."
+      }
+    },
+    {
+      "id": "it-find-pisa",
+      "type": "find_poi",
+      "targetPoiId": "pisa",
+      "question": {
+        "de": "Finde Pisa in der Toskana westlich von Florenz.",
+        "hu": "Keresd meg Pisát Toszkánában, Firenzétől nyugatra.",
+        "ro": "Găsește Pisa în Toscana, la vest de Florența.",
+        "en": "Find Pisa in Tuscany, west of Florence."
+      }
+    },
+    {
+      "id": "it-region-piedmont",
+      "type": "find_region",
+      "targetRegionId": "IT-21",
+      "question": {
+        "de": "Klicke auf Piemont im Nordwesten Italiens.",
+        "hu": "Kattints Piemont régióra Olaszország északnyugati részén.",
+        "ro": "Apasă pe Piemont, în nord-vestul Italiei.",
+        "en": "Click Piedmont in northwestern Italy."
+      }
+    },
+    {
+      "id": "it-region-veneto",
+      "type": "find_region",
+      "targetRegionId": "IT-34",
+      "question": {
+        "de": "Finde Venetien, die Region von Venedig und Verona.",
+        "hu": "Keresd meg Venetót, Velence és Verona régióját.",
+        "ro": "Găsește Veneto, regiunea Veneției și a Veronei.",
+        "en": "Find Veneto, the region of Venice and Verona."
+      }
+    },
+    {
+      "id": "it-region-puglia",
+      "type": "find_region",
+      "targetRegionId": "IT-75",
+      "question": {
+        "de": "Klicke auf Apulien entlang der Adriaküste im Südosten.",
+        "hu": "Kattints Puglia régióra a délkeleti Adria-parton.",
+        "ro": "Apasă pe Puglia de pe coasta Adriaticii din sud-est.",
+        "en": "Click Apulia on the southeastern Adriatic coast."
+      }
+    },
+    {
+      "id": "it-region-sardinia",
+      "type": "find_region",
+      "targetRegionId": "IT-88",
+      "question": {
+        "de": "Finde Sardinien, die große Insel westlich des Festlands.",
+        "hu": "Keresd meg Szardíniát, a szárazföldtől nyugatra fekvő nagy szigetet.",
+        "ro": "Găsește Sardinia, insula mare aflată la vest de continent.",
+        "en": "Find Sardinia, the large island west of the mainland."
+      }
+    },
+    {
+      "id": "it-region-trentino-south-tyrol",
+      "type": "find_region",
+      "targetRegionId": "IT-32",
+      "question": {
+        "de": "Klicke auf Trentino-Südtirol an der österreichischen Grenze.",
+        "hu": "Kattints Trentino–Dél-Tirol régióra az osztrák határ mentén.",
+        "ro": "Apasă pe Trentino-Tirolul de Sud, la granița cu Austria.",
+        "en": "Click Trentino-South Tyrol on the Austrian border."
+      }
+    },
+    {
+      "id": "it-odd-sardinia-city",
+      "type": "odd_one_out",
+      "poiIds": ["torino", "bologna", "it-cagliari", "it-bari"],
+      "targetPoiId": "it-cagliari",
+      "question": {
+        "de": "Welche dieser Städte liegt auf Sardinien statt auf dem italienischen Festland?",
+        "hu": "Melyik város található Szardínián az olasz szárazföld helyett?",
+        "ro": "Care dintre aceste orașe se află în Sardinia, nu pe continentul italian?",
+        "en": "Which of these cities is on Sardinia rather than mainland Italy?"
+      }
+    },
+    {
+      "id": "it-odd-aosta-valley-city",
+      "type": "odd_one_out",
+      "poiIds": ["torino", "trento", "aosta", "bolzano"],
+      "targetPoiId": "aosta",
+      "question": {
+        "de": "Welche dieser Städte liegt im Aostatal?",
+        "hu": "Melyik város található az Aosta-völgyben?",
+        "ro": "Care dintre aceste orașe se află în Valea Aostei?",
+        "en": "Which of these cities is in the Aosta Valley?"
+      }
+    },
+    {
+      "id": "it-odd-basilicata-city",
+      "type": "odd_one_out",
+      "poiIds": ["it-bari", "it-lecce", "matera", "naples"],
+      "targetPoiId": "matera",
+      "question": {
+        "de": "Welche dieser Städte liegt in der Basilikata statt in Apulien oder Kampanien?",
+        "hu": "Melyik város található Basilicatában, nem pedig Pugliában vagy Campaniában?",
+        "ro": "Care dintre aceste orașe se află în Basilicata, nu în Puglia sau Campania?",
+        "en": "Which of these cities is in Basilicata rather than Apulia or Campania?"
+      }
+    },
+    {
+      "id": "it-odd-east-sicily-city",
+      "type": "odd_one_out",
+      "poiIds": ["palermo", "it-bari", "city-it-catania", "it-cagliari"],
+      "targetPoiId": "city-it-catania",
+      "question": {
+        "de": "Welche dieser Städte liegt an der Ostküste Siziliens am Fuß des Ätna?",
+        "hu": "Melyik város fekszik Szicília keleti partján, az Etna lábánál?",
+        "ro": "Care dintre aceste orașe se află pe coasta estică a Siciliei, la poalele Etnei?",
+        "en": "Which of these cities lies on Sicily's east coast at the foot of Etna?"
+      }
+    },
+    {
+      "id": "it-sequence-liguria-adriatic",
+      "type": "sequence",
+      "poiIds": ["genova", "bologna", "rimini"],
+      "orderedPoiIds": ["genova", "bologna", "rimini"],
+      "question": {
+        "de": "Klicke diese Städte von Westen nach Osten: Genua, Bologna, Rimini.",
+        "hu": "Kattints ezekre a városokra nyugatról keletre: Genova, Bologna, Rimini.",
+        "ro": "Apasă aceste orașe de la vest la est: Genova, Bologna, Rimini.",
+        "en": "Click these cities from west to east: Genoa, Bologna, Rimini."
+      }
+    },
+    {
+      "id": "it-sequence-adriatic-north-south",
+      "type": "sequence",
+      "poiIds": ["trieste", "italy-ancona-cities-v2", "it-bari", "it-lecce"],
+      "orderedPoiIds": ["trieste", "italy-ancona-cities-v2", "it-bari", "it-lecce"],
+      "question": {
+        "de": "Folge der Adriaküste von Norden nach Süden.",
+        "hu": "Kövesd az Adria partját északról délre.",
+        "ro": "Urmează coasta Adriaticii de la nord la sud.",
+        "en": "Follow the Adriatic coast from north to south."
+      }
+    },
+    {
+      "id": "it-sequence-alps-to-rome",
+      "type": "sequence",
+      "poiIds": ["bolzano", "bologna", "it-perugia", "rome"],
+      "orderedPoiIds": ["bolzano", "bologna", "it-perugia", "rome"],
+      "question": {
+        "de": "Klicke diese Städte von Norden nach Süden vom Alpenraum bis nach Rom.",
+        "hu": "Kattints ezekre a városokra északról délre az Alpoktól Rómáig.",
+        "ro": "Apasă aceste orașe de la nord la sud, din Alpi până la Roma.",
+        "en": "Click these cities from north to south, from the Alps to Rome."
+      }
+    },
+    {
+      "id": "it-sequence-islands-west-east",
+      "type": "sequence",
+      "poiIds": ["it-cagliari", "palermo", "siracusa"],
+      "orderedPoiIds": ["it-cagliari", "palermo", "siracusa"],
+      "question": {
+        "de": "Klicke diese Inselstädte von Westen nach Osten an.",
+        "hu": "Kattints ezekre a szigetvárosokra nyugatról keletre.",
+        "ro": "Apasă aceste orașe insulare de la vest la est.",
+        "en": "Click these island cities from west to east."
+      }
+    },
+    {
+      "id": "it-sequence-sicily-east-coast",
+      "type": "sequence",
+      "poiIds": ["it-taormina", "city-it-catania", "siracusa", "italy-noto-cities-v2"],
+      "orderedPoiIds": ["it-taormina", "city-it-catania", "siracusa", "italy-noto-cities-v2"],
+      "question": {
+        "de": "Klicke diese Orte an Siziliens Ostküste von Norden nach Süden an.",
+        "hu": "Kattints ezekre a helyekre Szicília keleti partján északról délre.",
+        "ro": "Apasă aceste locuri de pe coasta estică a Siciliei de la nord la sud.",
+        "en": "Click these places on Sicily's east coast from north to south."
+      }
+    }
+  ]
+}

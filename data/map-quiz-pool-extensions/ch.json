@@ -1,0 +1,309 @@
+{
+  "ch": [
+    {
+      "id": "ch-find-basel-northwest",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Basel im Nordwesten der Schweiz.",
+        "hu": "Keresd meg Baselt Svájc északnyugati részén.",
+        "ro": "Găsește Basel în nord-vestul Elveției.",
+        "en": "Find Basel in northwestern Switzerland."
+      },
+      "targetPoiId": "city-basel"
+    },
+    {
+      "id": "ch-find-lugano-south",
+      "type": "find_poi",
+      "question": {
+        "de": "Tippe auf Lugano im italienischsprachigen Süden.",
+        "hu": "Koppints Luganóra az olasz nyelvű délen.",
+        "ro": "Apasă pe Lugano din sudul italofon.",
+        "en": "Tap Lugano in the Italian-speaking south."
+      },
+      "targetPoiId": "city-lugano"
+    },
+    {
+      "id": "ch-find-lucerne-lake",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Luzern am Vierwaldstättersee?",
+        "hu": "Hol található Luzern a Vierwaldstätti-tó partján?",
+        "ro": "Unde se află Lucerna pe malul lacului Lucerna?",
+        "en": "Where is Lucerne on Lake Lucerne?"
+      },
+      "targetPoiId": "city-lucerne"
+    },
+    {
+      "id": "ch-find-zermatt-alpine",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde den autofreien Alpenort Zermatt.",
+        "hu": "Keresd meg az autómentes alpesi üdülőhelyet, Zermattot.",
+        "ro": "Găsește stațiunea alpină fără mașini Zermatt.",
+        "en": "Find the car-free alpine resort of Zermatt."
+      },
+      "targetPoiId": "switzerland-zermatt-cities-v2"
+    },
+    {
+      "id": "ch-find-chillon-castle",
+      "type": "find_poi",
+      "question": {
+        "de": "Klicke auf Schloss Chillon am Genfersee.",
+        "hu": "Kattints a Genfi-tó partján álló Chillon kastélyra.",
+        "ro": "Apasă pe Castelul Chillon de pe malul lacului Geneva.",
+        "en": "Click Chillon Castle on Lake Geneva."
+      },
+      "targetPoiId": "cult-chillon"
+    },
+    {
+      "id": "ch-region-vaud",
+      "type": "find_region",
+      "question": {
+        "de": "Wähle den Kanton Waadt aus.",
+        "hu": "Válaszd ki Vaud kantont.",
+        "ro": "Selectează cantonul Vaud.",
+        "en": "Select the canton of Vaud."
+      },
+      "targetRegionId": "CH-VD"
+    },
+    {
+      "id": "ch-region-bern-canton",
+      "type": "find_region",
+      "question": {
+        "de": "Welcher Kanton umgibt die Bundesstadt Bern?",
+        "hu": "Melyik kanton veszi körül Bern szövetségi városát?",
+        "ro": "Care canton înconjoară orașul federal Berna?",
+        "en": "Which canton surrounds the federal city of Bern?"
+      },
+      "targetRegionId": "CH-BE"
+    },
+    {
+      "id": "ch-region-valais",
+      "type": "find_region",
+      "question": {
+        "de": "Finde den Kanton Wallis im oberen Rhonetal.",
+        "hu": "Keresd meg Valais kantont a felső Rhône-völgyben.",
+        "ro": "Găsește cantonul Valais din valea superioară a Ronului.",
+        "en": "Find the canton of Valais in the upper Rhone valley."
+      },
+      "targetRegionId": "CH-VS"
+    },
+    {
+      "id": "ch-region-zurich-canton",
+      "type": "find_region",
+      "question": {
+        "de": "Tippe auf den Kanton Zürich.",
+        "hu": "Koppints Zürich kantonra.",
+        "ro": "Apasă pe cantonul Zürich.",
+        "en": "Tap the canton of Zurich."
+      },
+      "targetRegionId": "CH-ZH"
+    },
+    {
+      "id": "ch-region-schaffhausen",
+      "type": "find_region",
+      "question": {
+        "de": "Wo liegt der Kanton Schaffhausen am Rheinbogen?",
+        "hu": "Hol található Schaffhausen kanton a Rajna kanyarulatánál?",
+        "ro": "Unde se află cantonul Schaffhausen la cotul Rinului?",
+        "en": "Where is the canton of Schaffhausen at the Rhine bend?"
+      },
+      "targetRegionId": "CH-SH"
+    },
+    {
+      "id": "ch-odd-not-lake-geneva",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht am Genfersee?",
+        "hu": "Melyik hely nem a Genfi-tó partján fekszik?",
+        "ro": "Care dintre aceste locuri nu se află pe malul lacului Geneva?",
+        "en": "Which of these places is not on Lake Geneva?"
+      },
+      "poiIds": [
+        "city-geneva",
+        "city-lausanne",
+        "city-montreux",
+        "switzerland-zermatt-cities-v2"
+      ],
+      "targetPoiId": "switzerland-zermatt-cities-v2"
+    },
+    {
+      "id": "ch-odd-not-bernese-oberland",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher dieser Orte gehört nicht zum Berner Oberland?",
+        "hu": "Melyik hely nem tartozik a Berni-felvidékhez?",
+        "ro": "Care dintre aceste locuri nu aparține Oberlandului Bernez?",
+        "en": "Which of these places is not in the Bernese Oberland?"
+      },
+      "poiIds": [
+        "switzerland-interlaken-cities-v2",
+        "switzerland-grindelwald-cities-v2",
+        "switzerland-lauterbrunnen-cities-v2",
+        "city-lucerne"
+      ],
+      "targetPoiId": "city-lucerne"
+    },
+    {
+      "id": "ch-odd-not-grisons",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Städte liegt nicht im Kanton Graubünden?",
+        "hu": "Melyik város nem Graubünden kantonban található?",
+        "ro": "Care dintre aceste orașe nu se află în cantonul Graubünden?",
+        "en": "Which of these cities is not in the canton of Graubünden?"
+      },
+      "poiIds": [
+        "city-chur",
+        "switzerland-davos-cities-v2",
+        "switzerland-arosa-cities-v2",
+        "city-lugano"
+      ],
+      "targetPoiId": "city-lugano"
+    },
+    {
+      "id": "ch-odd-north-of-alps",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher dieser Orte liegt nördlich der Alpen statt im Tessin?",
+        "hu": "Melyik hely fekszik az Alpoktól északra, nem pedig Ticinóban?",
+        "ro": "Care dintre aceste locuri este la nord de Alpi, nu în Ticino?",
+        "en": "Which of these places lies north of the Alps rather than in Ticino?"
+      },
+      "poiIds": [
+        "city-lugano",
+        "switzerland-bellinzona-cities-v2",
+        "switzerland-locarno-cities-v2",
+        "city-basel"
+      ],
+      "targetPoiId": "city-basel"
+    },
+    {
+      "id": "ch-odd-not-valais",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht im Kanton Wallis?",
+        "hu": "Melyik hely nem Valais kantonban található?",
+        "ro": "Care dintre aceste locuri nu se află în cantonul Valais?",
+        "en": "Which of these places is not in the canton of Valais?"
+      },
+      "poiIds": [
+        "switzerland-zermatt-cities-v2",
+        "city-sion",
+        "switzerland-verbier-cities-v2",
+        "city-st-gallen"
+      ],
+      "targetPoiId": "city-st-gallen"
+    },
+    {
+      "id": "ch-sequence-west-east-plateau",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke diese Städte von West nach Ost an: Lausanne, Freiburg, Bern, Zürich.",
+        "hu": "Kattints ezekre a városokra nyugatról keletre: Lausanne, Fribourg, Bern, Zürich.",
+        "ro": "Apasă aceste orașe de la vest la est: Lausanne, Fribourg, Berna, Zürich.",
+        "en": "Click these cities from west to east: Lausanne, Fribourg, Bern, Zurich."
+      },
+      "poiIds": [
+        "city-lausanne",
+        "city-fribourg",
+        "ch-bern",
+        "city-zurich"
+      ],
+      "orderedPoiIds": [
+        "city-lausanne",
+        "city-fribourg",
+        "ch-bern",
+        "city-zurich"
+      ]
+    },
+    {
+      "id": "ch-sequence-north-south-gotthard",
+      "type": "sequence",
+      "question": {
+        "de": "Ordne diese Orte von Nord nach Süd: Basel, Luzern, Andermatt, Lugano.",
+        "hu": "Rendezd ezeket a helyeket északról délre: Basel, Luzern, Andermatt, Lugano.",
+        "ro": "Ordonează aceste locuri de la nord la sud: Basel, Lucerna, Andermatt, Lugano.",
+        "en": "Order these places from north to south: Basel, Lucerne, Andermatt, Lugano."
+      },
+      "poiIds": [
+        "city-basel",
+        "city-lucerne",
+        "switzerland-andermatt-cities-v2",
+        "city-lugano"
+      ],
+      "orderedPoiIds": [
+        "city-basel",
+        "city-lucerne",
+        "switzerland-andermatt-cities-v2",
+        "city-lugano"
+      ]
+    },
+    {
+      "id": "ch-sequence-west-east-leman-rhone",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke diese Orte von West nach Ost an: Lausanne, Montreux, Sitten, Brig-Glis.",
+        "hu": "Kattints ezekre a helyekre nyugatról keletre: Lausanne, Montreux, Sion, Brig-Glis.",
+        "ro": "Apasă aceste locuri de la vest la est: Lausanne, Montreux, Sion, Brig-Glis.",
+        "en": "Click these places from west to east: Lausanne, Montreux, Sion, Brig-Glis."
+      },
+      "poiIds": [
+        "city-lausanne",
+        "city-montreux",
+        "city-sion",
+        "switzerland-brig-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "city-lausanne",
+        "city-montreux",
+        "city-sion",
+        "switzerland-brig-cities-v2"
+      ]
+    },
+    {
+      "id": "ch-sequence-north-south-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke diese Orte von Nord nach Süd an: Stein am Rhein, St. Gallen, Chur, Lugano.",
+        "hu": "Kattints ezekre a helyekre északról délre: Stein am Rhein, St. Gallen, Chur, Lugano.",
+        "ro": "Apasă aceste locuri de la nord la sud: Stein am Rhein, St. Gallen, Chur, Lugano.",
+        "en": "Click these places from north to south: Stein am Rhein, St. Gallen, Chur, Lugano."
+      },
+      "poiIds": [
+        "switzerland-stein-am-rhein-cities-v2",
+        "city-st-gallen",
+        "city-chur",
+        "city-lugano"
+      ],
+      "orderedPoiIds": [
+        "switzerland-stein-am-rhein-cities-v2",
+        "city-st-gallen",
+        "city-chur",
+        "city-lugano"
+      ]
+    },
+    {
+      "id": "ch-sequence-west-east-alpine-arc",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke diese Orte von West nach Ost an: Interlaken, Grindelwald, Andermatt, Chur.",
+        "hu": "Kattints ezekre a helyekre nyugatról keletre: Interlaken, Grindelwald, Andermatt, Chur.",
+        "ro": "Apasă aceste locuri de la vest la est: Interlaken, Grindelwald, Andermatt, Chur.",
+        "en": "Click these places from west to east: Interlaken, Grindelwald, Andermatt, Chur."
+      },
+      "poiIds": [
+        "switzerland-interlaken-cities-v2",
+        "switzerland-grindelwald-cities-v2",
+        "switzerland-andermatt-cities-v2",
+        "city-chur"
+      ],
+      "orderedPoiIds": [
+        "switzerland-interlaken-cities-v2",
+        "switzerland-grindelwald-cities-v2",
+        "switzerland-andermatt-cities-v2",
+        "city-chur"
+      ]
+    }
+  ]
+}

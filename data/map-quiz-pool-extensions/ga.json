@@ -1,0 +1,290 @@
+{
+  "ga": [
+    {
+      "id": "ga-find-owendo-port",
+      "type": "find_poi",
+      "targetPoiId": "owendo-cities-v2",
+      "question": {
+        "de": "Finde Owendo, den wichtigen Industriehafen s?dlich von Libreville.",
+        "hu": "Keresd meg Owend?t, a Libreville-t?l d?lre fekv? fontos ipari kik?t?t.",
+        "ro": "G?se?te Owendo, importantul port industrial aflat la sud de Libreville.",
+        "en": "Find Owendo, the major industrial port just south of Libreville."
+      }
+    },
+    {
+      "id": "ga-find-makokou",
+      "type": "find_poi",
+      "targetPoiId": "makokou-cities-v2",
+      "question": {
+        "de": "Finde Makokou im Nordosten, das Tor zum Ivindo-Nationalpark.",
+        "hu": "Keresd meg Makokout ?szakkeleten, az Ivindo Nemzeti Park kapuj?t.",
+        "ro": "G?se?te Makokou ?n nord-est, poarta spre Parcul Na?ional Ivindo.",
+        "en": "Find Makokou in the northeast, the gateway to Ivindo National Park."
+      }
+    },
+    {
+      "id": "ga-find-mayumba",
+      "type": "find_poi",
+      "targetPoiId": "mayumba-cities-v2",
+      "question": {
+        "de": "Finde Mayumba an der langen K?ste im ?u?ersten S?dwesten Gabuns.",
+        "hu": "Keresd meg Mayumb?t Gabon legd?lnyugatibb hossz? partvid?k?n.",
+        "ro": "G?se?te Mayumba pe coasta lung? din extremul sud-vest al Gabonului.",
+        "en": "Find Mayumba on the long coast in the far southwest of Gabon."
+      }
+    },
+    {
+      "id": "ga-find-booue",
+      "type": "find_poi",
+      "targetPoiId": "booue-cities-v2",
+      "question": {
+        "de": "Finde Boou? im Landesinneren entlang der Transgabun-Eisenbahn.",
+        "hu": "Keresd meg Boou?t a bels? ter?leten, a Transzgaboni vas?tvonal ment?n.",
+        "ro": "G?se?te Boou? ?n interior, de-a lungul c?ii ferate Transgabon.",
+        "en": "Find Boou? in the interior along the Transgabon Railway."
+      }
+    },
+    {
+      "id": "ga-find-akanda-national-park",
+      "type": "find_poi",
+      "targetPoiId": "gabon-akanda-national-park-cities-v2",
+      "question": {
+        "de": "Finde den Akanda-Nationalpark nord?stlich von Libreville.",
+        "hu": "Keresd meg az Akanda Nemzeti Parkot Libreville-t?l ?szakkeletre.",
+        "ro": "G?se?te Parcul Na?ional Akanda la nord-est de Libreville.",
+        "en": "Find Akanda National Park northeast of Libreville."
+      }
+    },
+    {
+      "id": "ga-find-kongou-falls",
+      "type": "find_poi",
+      "targetPoiId": "kongou-falls-nature-v2",
+      "question": {
+        "de": "Finde die Kongou-F?lle im bewaldeten Nordosten.",
+        "hu": "Keresd meg a Kongou-v?zes?st az erd?s ?szakkeleti r?szen.",
+        "ro": "G?se?te cascadele Kongou ?n nord-estul ?mp?durit.",
+        "en": "Find Kongou Falls in the forested northeast."
+      }
+    },
+    {
+      "id": "ga-region-woleu-ntem",
+      "type": "find_region",
+      "targetRegionId": "GAB-2187",
+      "question": {
+        "de": "Klicke auf Woleu-Ntem ganz im Norden an der Grenze zu Kamerun.",
+        "hu": "Kattints Woleu-Ntem tartom?nyra ?szakon, a kameruni hat?rn?l.",
+        "ro": "Apas? pe provincia Woleu-Ntem din extremul nord, la grani?a cu Camerun.",
+        "en": "Click Woleu-Ntem in the far north along the Cameroon border."
+      }
+    },
+    {
+      "id": "ga-region-ogooue-ivindo",
+      "type": "find_region",
+      "targetRegionId": "GAB-2186",
+      "question": {
+        "de": "Finde Ogoou?-Ivindo im Nordosten.",
+        "hu": "Keresd meg Ogoou?-Ivindo tartom?nyt ?szakkeleten.",
+        "ro": "G?se?te provincia Ogoou?-Ivindo ?n nord-est.",
+        "en": "Find Ogoou?-Ivindo Province in the northeast."
+      }
+    },
+    {
+      "id": "ga-region-ogooue-lolo",
+      "type": "find_region",
+      "targetRegionId": "GAB-2628",
+      "question": {
+        "de": "Klicke auf Ogoou?-Lolo im ?stlichen Landesinneren.",
+        "hu": "Kattints Ogoou?-Lolo tartom?nyra az orsz?g keleti bels? r?sz?n.",
+        "ro": "Apas? pe Ogoou?-Lolo ?n interiorul estic al ??rii.",
+        "en": "Click Ogoou?-Lolo in the eastern interior of the country."
+      }
+    },
+    {
+      "id": "ga-region-ngounie",
+      "type": "find_region",
+      "targetRegionId": "GAB-2622",
+      "question": {
+        "de": "Finde Ngouni? im s?dlichen Westen, wo Mouila liegt.",
+        "hu": "Keresd meg Ngouni? tartom?nyt a d?li nyugati r?szen, ahol Mouila fekszik.",
+        "ro": "G?se?te provincia Ngouni? ?n sud-vestul interior, unde se afl? Mouila.",
+        "en": "Find Ngouni? in the south-central west, where Mouila is located."
+      }
+    },
+    {
+      "id": "ga-region-ogooue-maritime",
+      "type": "find_region",
+      "targetRegionId": "GAB-2624",
+      "question": {
+        "de": "Klicke auf Ogoou?-Maritime an der Westk?ste rund um Port-Gentil.",
+        "hu": "Kattints Ogoou?-Maritime tartom?nyra a nyugati parton, Port-Gentil k?r?l.",
+        "ro": "Apas? pe provincia Ogoou?-Maritime de pe coasta vestic?, ?n jurul ora?ului Port-Gentil.",
+        "en": "Click Ogoou?-Maritime on the west coast around Port-Gentil."
+      }
+    },
+    {
+      "id": "ga-odd-farthest-east-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "owendo-cities-v2",
+        "mouila-cities-v2",
+        "tchibanga-cities-v2",
+        "franceville-cities-v2"
+      ],
+      "targetPoiId": "franceville-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt weit im Osten und nicht im westlichen Landesteil?",
+        "hu": "Melyik v?ros fekszik messze keleten, nem pedig az orsz?g nyugati fel?ben?",
+        "ro": "Care ora? se afl? departe ?n est, nu ?n jum?tatea vestic? a ??rii?",
+        "en": "Which city lies far to the east rather than in the western half of the country?"
+      }
+    },
+    {
+      "id": "ga-odd-southwest-coast",
+      "type": "odd_one_out",
+      "poiIds": [
+        "bitam-cities-v2",
+        "minvoul-cities-v2",
+        "medouneu-cities-v2",
+        "mayumba-cities-v2"
+      ],
+      "targetPoiId": "mayumba-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt im ?u?ersten S?dwesten an der K?ste statt im n?rdlichen Grenzraum?",
+        "hu": "Melyik v?ros fekszik a t?voli d?lnyugati parton, nem pedig az ?szaki hat?rvid?ken?",
+        "ro": "Care ora? se afl? pe coasta din extremul sud-vest, nu ?n zona de frontier? nordic??",
+        "en": "Which town is on the far southwestern coast rather than in the northern border zone?"
+      }
+    },
+    {
+      "id": "ga-odd-rainforest-not-coast",
+      "type": "odd_one_out",
+      "poiIds": [
+        "pointe-denis-nature-v2",
+        "cap-lopez-nature-v2",
+        "gabon-loango-national-park-cities-v2",
+        "minkebe-forest-nature-v2"
+      ],
+      "targetPoiId": "minkebe-forest-nature-v2",
+      "question": {
+        "de": "Welcher Ort liegt im nord?stlichen Regenwald und nicht an der Atlantikk?ste?",
+        "hu": "Melyik hely fekszik az ?szakkeleti es?erd?ben, nem pedig az Atlanti-parton?",
+        "ro": "Care loc se afl? ?n p?durea tropical? din nord-est, nu pe coasta Atlanticului?",
+        "en": "Which place lies in the northeastern rainforest rather than on the Atlantic coast?"
+      }
+    },
+    {
+      "id": "ga-odd-lake-among-rivers",
+      "type": "odd_one_out",
+      "poiIds": [
+        "ogooue-river-nature-v2",
+        "ivindo-river-nature-v2",
+        "nyanga-river-nature-v2",
+        "lake-onangue-nature-v2"
+      ],
+      "targetPoiId": "lake-onangue-nature-v2",
+      "question": {
+        "de": "Welches Gew?sser ist ein See und kein Fluss?",
+        "hu": "Melyik v?zfel?let t?, ?s nem foly??",
+        "ro": "Care ?ntindere de ap? este un lac, nu un r?u?",
+        "en": "Which body of water is a lake rather than a river?"
+      }
+    },
+    {
+      "id": "ga-odd-not-haut-ogooue",
+      "type": "odd_one_out",
+      "poiIds": [
+        "franceville-cities-v2",
+        "moanda-cities-v2",
+        "leconi-cities-v2",
+        "mouila-cities-v2"
+      ],
+      "targetPoiId": "mouila-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht in Haut-Ogoou??",
+        "hu": "Melyik v?ros nem Haut-Ogoou? tartom?nyban fekszik?",
+        "ro": "Care ora? nu se afl? ?n provincia Haut-Ogoou??",
+        "en": "Which town is not in Haut-Ogoou? Province?"
+      }
+    },
+    {
+      "id": "ga-sequence-west-east-main-cities",
+      "type": "sequence",
+      "poiIds": [
+        "port-gentil-cities-v2",
+        "libreville-cities-v2",
+        "franceville-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "port-gentil-cities-v2",
+        "libreville-cities-v2",
+        "franceville-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Port-Gentil, Libreville und Franceville von Westen nach Osten an.",
+        "hu": "Kattints Port-Gentilre, Libreville-re ?s Franceville-re nyugatr?l kelet fel?.",
+        "ro": "Apas? Port-Gentil, Libreville ?i Franceville de la vest la est.",
+        "en": "Click Port-Gentil, Libreville and Franceville from west to east."
+      }
+    },
+    {
+      "id": "ga-sequence-north-south-interior",
+      "type": "sequence",
+      "poiIds": [
+        "minvoul-cities-v2",
+        "makokou-cities-v2",
+        "mouila-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "minvoul-cities-v2",
+        "makokou-cities-v2",
+        "mouila-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Minvoul, Makokou und Mouila von Norden nach S?den an.",
+        "hu": "Kattints Minvoulra, Makokoura ?s Mouil?ra ?szakr?l d?l fel?.",
+        "ro": "Apas? Minvoul, Makokou ?i Mouila de la nord la sud.",
+        "en": "Click Minvoul, Makokou and Mouila from north to south."
+      }
+    },
+    {
+      "id": "ga-sequence-west-east-parks",
+      "type": "sequence",
+      "poiIds": [
+        "gabon-akanda-national-park-cities-v2",
+        "gabon-lope-national-park-cities-v2",
+        "gabon-ivindo-national-park-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "gabon-akanda-national-park-cities-v2",
+        "gabon-lope-national-park-cities-v2",
+        "gabon-ivindo-national-park-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Akanda-Nationalpark, Lop?-Nationalpark und Ivindo-Nationalpark von Westen nach Osten an.",
+        "hu": "Kattints az Akanda Nemzeti Parkra, a Lop? Nemzeti Parkra ?s az Ivindo Nemzeti Parkra nyugatr?l kelet fel?.",
+        "ro": "Apas? Parcul Na?ional Akanda, Parcul Na?ional Lop? ?i Parcul Na?ional Ivindo de la vest la est.",
+        "en": "Click Akanda National Park, Lop? National Park and Ivindo National Park from west to east."
+      }
+    },
+    {
+      "id": "ga-sequence-north-south-coast",
+      "type": "sequence",
+      "poiIds": [
+        "omboue-cities-v2",
+        "gamba-cities-v2",
+        "mayumba-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "omboue-cities-v2",
+        "gamba-cities-v2",
+        "mayumba-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Ombou?, Gamba und Mayumba von Norden nach S?den an.",
+        "hu": "Kattints Ombou?ra, Gamb?ra ?s Mayumb?ra ?szakr?l d?l fel?.",
+        "ro": "Apas? Ombou?, Gamba ?i Mayumba de la nord la sud.",
+        "en": "Click Ombou?, Gamba and Mayumba from north to south."
+      }
+    }
+  ]
+}

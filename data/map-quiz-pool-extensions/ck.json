@@ -1,0 +1,284 @@
+{
+  "ck": [
+    {
+      "id": "ck-find-takaue",
+      "type": "find_poi",
+      "targetPoiId": "cookislands-takaue-cities-v2",
+      "question": {
+        "de": "Finde Takaue, das einzige bewohnte Dorf auf Mitiaro.",
+        "hu": "Keresd meg Takaue települést, Mitiaro egyetlen lakott faluját.",
+        "ro": "Găsește Takaue, singurul sat locuit de pe Mitiaro.",
+        "en": "Find Takaue, the only inhabited village on Mitiaro."
+      }
+    },
+    {
+      "id": "ck-find-oiretumu",
+      "type": "find_poi",
+      "targetPoiId": "cookislands-oiretumu-cities-v2",
+      "question": {
+        "de": "Finde Oiretumu auf Mauke.",
+        "hu": "Keresd meg Oiretumut Mauke szigetén.",
+        "ro": "Găsește Oiretumu pe insula Mauke.",
+        "en": "Find Oiretumu on Mauke."
+      }
+    },
+    {
+      "id": "ck-find-tauhunu",
+      "type": "find_poi",
+      "targetPoiId": "cookislands-tauhunu-cities-v2",
+      "question": {
+        "de": "Finde Tauhunu auf dem Manihiki-Atoll.",
+        "hu": "Keresd meg Tauhunut a Manihiki-atollon.",
+        "ro": "Găsește Tauhunu pe atolul Manihiki.",
+        "en": "Find Tauhunu on Manihiki Atoll."
+      }
+    },
+    {
+      "id": "ck-find-wale",
+      "type": "find_poi",
+      "targetPoiId": "cookislands-wale-cities-v2",
+      "question": {
+        "de": "Finde Wale auf Pukapuka.",
+        "hu": "Keresd meg Walét Pukapuka atollján.",
+        "ro": "Găsește Wale pe atolul Pukapuka.",
+        "en": "Find Wale on Pukapuka."
+      }
+    },
+    {
+      "id": "ck-find-nikao",
+      "type": "find_poi",
+      "targetPoiId": "cookislands-nikao-cities-v2",
+      "question": {
+        "de": "Finde Nikao an der Nordwestküste von Rarotonga.",
+        "hu": "Keresd meg Nikaót Rarotonga északnyugati partján.",
+        "ro": "Găsește Nikao pe coasta de nord-vest a insulei Rarotonga.",
+        "en": "Find Nikao on the northwestern coast of Rarotonga."
+      }
+    },
+    {
+      "id": "ck-find-vaipae",
+      "type": "find_poi",
+      "targetPoiId": "cookislands-vaipae-cities-v2",
+      "question": {
+        "de": "Finde Vaipae auf Aitutaki.",
+        "hu": "Keresd meg Vaipae települést Aitutaki szigetén.",
+        "ro": "Găsește Vaipae pe insula Aitutaki.",
+        "en": "Find Vaipae on Aitutaki."
+      }
+    },
+    {
+      "id": "ck-region-atiu",
+      "type": "find_region",
+      "targetRegionId": "COK-4950",
+      "question": {
+        "de": "Finde Atiu in der südlichen Inselgruppe.",
+        "hu": "Keresd meg Atiut a déli szigetcsoportban.",
+        "ro": "Găsește Atiu în grupul sudic al insulelor.",
+        "en": "Find Atiu in the southern island group."
+      }
+    },
+    {
+      "id": "ck-region-mitiaro",
+      "type": "find_region",
+      "targetRegionId": "COK-4954",
+      "question": {
+        "de": "Finde Mitiaro zwischen Atiu und Mauke.",
+        "hu": "Keresd meg Mitiarót Atiu és Mauke között.",
+        "ro": "Găsește Mitiaro între Atiu și Mauke.",
+        "en": "Find Mitiaro between Atiu and Mauke."
+      }
+    },
+    {
+      "id": "ck-region-mauke",
+      "type": "find_region",
+      "targetRegionId": "COK-4955",
+      "question": {
+        "de": "Finde Mauke östlich von Mitiaro.",
+        "hu": "Keresd meg Maukét Mitiarótól keletre.",
+        "ro": "Găsește Mauke la est de Mitiaro.",
+        "en": "Find Mauke east of Mitiaro."
+      }
+    },
+    {
+      "id": "ck-region-palmerston",
+      "type": "find_region",
+      "targetRegionId": "COK-4956",
+      "question": {
+        "de": "Finde Palmerston westlich von Rarotonga.",
+        "hu": "Keresd meg Palmerstont Rarotongától nyugatra.",
+        "ro": "Găsește Palmerston la vest de Rarotonga.",
+        "en": "Find Palmerston west of Rarotonga."
+      }
+    },
+    {
+      "id": "ck-region-rakahanga",
+      "type": "find_region",
+      "targetRegionId": "COK-4960",
+      "question": {
+        "de": "Finde Rakahanga im Norden der Cookinseln.",
+        "hu": "Keresd meg Rakahangát a Cook-szigetek északi részén.",
+        "ro": "Găsește Rakahanga în nordul Insulelor Cook.",
+        "en": "Find Rakahanga in the north of the Cook Islands."
+      }
+    },
+    {
+      "id": "ck-region-manihiki",
+      "type": "find_region",
+      "targetRegionId": "COK-4961",
+      "question": {
+        "de": "Finde Manihiki südöstlich von Rakahanga.",
+        "hu": "Keresd meg Manihikit Rakahangától délkeletre.",
+        "ro": "Găsește Manihiki la sud-est de Rakahanga.",
+        "en": "Find Manihiki southeast of Rakahanga."
+      }
+    },
+    {
+      "id": "ck-odd-rarotonga-vs-aitutaki",
+      "type": "odd_one_out",
+      "poiIds": [
+        "cookislands-avarua-cities-v2",
+        "cookislands-nikao-cities-v2",
+        "cookislands-ngatangiia-cities-v2",
+        "cookislands-vaipae-cities-v2"
+      ],
+      "targetPoiId": "cookislands-vaipae-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt auf Aitutaki statt auf Rarotonga?",
+        "hu": "Melyik hely található Aitutakin, nem pedig Rarotongán?",
+        "ro": "Care loc se află pe Aitutaki, nu pe Rarotonga?",
+        "en": "Which place is on Aitutaki rather than Rarotonga?"
+      }
+    },
+    {
+      "id": "ck-odd-mangaia-vs-rarotonga",
+      "type": "odd_one_out",
+      "poiIds": [
+        "cookislands-avarua-cities-v2",
+        "cookislands-arorangi-cities-v2",
+        "cookislands-matavera-cities-v2",
+        "cookislands-areora-cities-v2"
+      ],
+      "targetPoiId": "cookislands-areora-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt auf Mangaia statt auf Rarotonga?",
+        "hu": "Melyik hely található Mangaián, nem pedig Rarotongán?",
+        "ro": "Care loc se află pe Mangaia, nu pe Rarotonga?",
+        "en": "Which place is on Mangaia rather than Rarotonga?"
+      }
+    },
+    {
+      "id": "ck-odd-farthest-north",
+      "type": "odd_one_out",
+      "poiIds": [
+        "cookislands-omoka-cities-v2",
+        "cookislands-tauhunu-cities-v2",
+        "cookislands-wale-cities-v2",
+        "cookislands-arutanga-cities-v2"
+      ],
+      "targetPoiId": "cookislands-omoka-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt am weitesten im Norden?",
+        "hu": "Melyik hely fekszik a legészakabbra?",
+        "ro": "Care loc se află cel mai la nord?",
+        "en": "Which place lies farthest north?"
+      }
+    },
+    {
+      "id": "ck-odd-southern-group",
+      "type": "odd_one_out",
+      "poiIds": [
+        "cookislands-tauhunu-cities-v2",
+        "cookislands-wale-cities-v2",
+        "cookislands-omoka-cities-v2",
+        "cookislands-avarua-cities-v2"
+      ],
+      "targetPoiId": "cookislands-avarua-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt in der südlichen Inselgruppe statt in der nördlichen?",
+        "hu": "Melyik hely tartozik a déli szigetcsoporthoz az északi helyett?",
+        "ro": "Care loc aparține grupului sudic, nu celui nordic?",
+        "en": "Which place belongs to the Southern Group rather than the Northern Group?"
+      }
+    },
+    {
+      "id": "ck-sequence-rarotonga-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "cookislands-arorangi-cities-v2",
+        "cookislands-avarua-cities-v2",
+        "cookislands-ngatangiia-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "cookislands-arorangi-cities-v2",
+        "cookislands-avarua-cities-v2",
+        "cookislands-ngatangiia-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Arorangi, Avarua und Ngatangiia von Westen nach Osten an.",
+        "hu": "Kattints Arorangi, Avarua és Ngatangiia pontjára nyugatról keletre.",
+        "ro": "Apasă Arorangi, Avarua și Ngatangiia de la vest la est.",
+        "en": "Click Arorangi, Avarua and Ngatangiia from west to east."
+      }
+    },
+    {
+      "id": "ck-sequence-northern-atolls-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "cookislands-wale-cities-v2",
+        "cookislands-tauhunu-cities-v2",
+        "cookislands-omoka-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "cookislands-wale-cities-v2",
+        "cookislands-tauhunu-cities-v2",
+        "cookislands-omoka-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Wale, Tauhunu und Omoka von Westen nach Osten an.",
+        "hu": "Kattints Walé, Tauhunu és Omoka pontjára nyugatról keletre.",
+        "ro": "Apasă Wale, Tauhunu și Omoka de la vest la est.",
+        "en": "Click Wale, Tauhunu and Omoka from west to east."
+      }
+    },
+    {
+      "id": "ck-sequence-northern-atolls-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "cookislands-omoka-cities-v2",
+        "cookislands-tauhunu-cities-v2",
+        "cookislands-wale-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "cookislands-omoka-cities-v2",
+        "cookislands-tauhunu-cities-v2",
+        "cookislands-wale-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Omoka, Tauhunu und Wale von Norden nach Süden an.",
+        "hu": "Kattints Omoka, Tauhunu és Wale pontjára északról délre.",
+        "ro": "Apasă Omoka, Tauhunu și Wale de la nord la sud.",
+        "en": "Click Omoka, Tauhunu and Wale from north to south."
+      }
+    },
+    {
+      "id": "ck-sequence-southern-islands-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "cookislands-areora-cities-v2",
+        "cookislands-oneroa-cities-v2",
+        "cookislands-oiretumu-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "cookislands-areora-cities-v2",
+        "cookislands-oneroa-cities-v2",
+        "cookislands-oiretumu-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Areora, Oneroa und Oiretumu von Westen nach Osten an.",
+        "hu": "Kattints Areora, Oneroa és Oiretumu pontjára nyugatról keletre.",
+        "ro": "Apasă Areora, Oneroa și Oiretumu de la vest la est.",
+        "en": "Click Areora, Oneroa and Oiretumu from west to east."
+      }
+    }
+  ]
+}

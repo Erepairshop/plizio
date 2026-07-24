@@ -1,0 +1,303 @@
+{
+  "cu": [
+    {
+      "id": "cu-find-varadero-resort",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Varadero? Klicke auf den Badeort auf der Halbinsel Hicacos.",
+        "hu": "Hol található Varadero? Kattints a Hicacos-félsziget üdülővárosára.",
+        "ro": "Unde se află Varadero? Apasă pe stațiunea de pe peninsula Hicacos.",
+        "en": "Where is Varadero? Click the resort town on the Hicacos Peninsula."
+      },
+      "targetPoiId": "cu-varadero"
+    },
+    {
+      "id": "cu-find-cienfuegos-port-city",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Cienfuegos an der südzentralen Küste Kubas.",
+        "hu": "Keresd meg Cienfuegost Kuba déli-középső partvidékén.",
+        "ro": "Găsește Cienfuegos pe coasta sud-centrală a Cubei.",
+        "en": "Find Cienfuegos on Cuba's south-central coast."
+      },
+      "targetPoiId": "cu-cienfuegos"
+    },
+    {
+      "id": "cu-find-holguin-inland-city",
+      "type": "find_poi",
+      "question": {
+        "de": "Klicke auf Holguín im östlichen Landesinneren.",
+        "hu": "Kattints Holguín városára a keleti belső területen.",
+        "ro": "Apasă pe Holguín din interiorul estic al țării.",
+        "en": "Click Holguín in eastern inland Cuba."
+      },
+      "targetPoiId": "cu-holguin"
+    },
+    {
+      "id": "cu-find-baracoa-historic-town",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde das historische Baracoa nahe der Ostspitze Kubas.",
+        "hu": "Keresd meg a történelmi Baracoát Kuba keleti csúcsa közelében.",
+        "ro": "Găsește orașul istoric Baracoa, aproape de extremitatea estică a Cubei.",
+        "en": "Find historic Baracoa near Cuba's eastern tip."
+      },
+      "targetPoiId": "cu-baracoa-historic"
+    },
+    {
+      "id": "cu-find-isle-of-youth",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt die Isla de la Juventud südlich der Hauptinsel?",
+        "hu": "Hol található az Isla de la Juventud a főszigettől délre?",
+        "ro": "Unde se află Isla de la Juventud, la sud de insula principală?",
+        "en": "Where is the Isle of Youth south of the main island?"
+      },
+      "targetPoiId": "cu-isla-juventud"
+    },
+    {
+      "id": "cu-find-bay-of-pigs",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde die Schweinebucht an Kubas Südküste.",
+        "hu": "Keresd meg a Disznó-öblöt Kuba déli partján.",
+        "ro": "Găsește Golful Porcilor pe coasta sudică a Cubei.",
+        "en": "Find the Bay of Pigs on Cuba's southern coast."
+      },
+      "targetPoiId": "bay-of-pigs-nature-v2"
+    },
+    {
+      "id": "cu-region-matanzas-new",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf die Provinz Matanzas.",
+        "hu": "Kattints Matanzas tartományra.",
+        "ro": "Apasă pe provincia Matanzas.",
+        "en": "Click the Matanzas province."
+      },
+      "targetRegionId": "CUB-1430"
+    },
+    {
+      "id": "cu-region-villa-clara-new",
+      "type": "find_region",
+      "question": {
+        "de": "Finde die Provinz Villa Clara im Zentrum Kubas.",
+        "hu": "Keresd meg Kuba középső részén Villa Clara tartományt.",
+        "ro": "Găsește provincia Villa Clara din centrul Cubei.",
+        "en": "Find Villa Clara in central Cuba."
+      },
+      "targetRegionId": "CUB-1431"
+    },
+    {
+      "id": "cu-region-holguin-new",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf die Provinz Holguín im Osten der Insel.",
+        "hu": "Kattints a sziget keleti részén fekvő Holguín tartományra.",
+        "ro": "Apasă pe provincia Holguín din estul insulei.",
+        "en": "Click the Holguín province in the east of the island."
+      },
+      "targetRegionId": "CUB-1367"
+    },
+    {
+      "id": "cu-region-santiago-new",
+      "type": "find_region",
+      "question": {
+        "de": "Finde die Provinz Santiago de Cuba im Südosten.",
+        "hu": "Keresd meg a délkeleti Santiago de Cuba tartományt.",
+        "ro": "Găsește provincia Santiago de Cuba din sud-est.",
+        "en": "Find the Santiago de Cuba province in the southeast."
+      },
+      "targetRegionId": "CUB-1369"
+    },
+    {
+      "id": "cu-region-isla-juventud-new",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf die Sondergemeinde Isla de la Juventud.",
+        "hu": "Kattints az Isla de la Juventud különleges önkormányzatra.",
+        "ro": "Apasă pe municipalitatea specială Isla de la Juventud.",
+        "en": "Click the special municipality of Isla de la Juventud."
+      },
+      "targetRegionId": "CUB-1320"
+    },
+    {
+      "id": "cu-odd-easternmost-destination",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welches dieser Reiseziele liegt am weitesten im Osten?",
+        "hu": "Melyik úti cél fekszik ezek közül a legkeletebbre?",
+        "ro": "Care dintre aceste destinații se află cel mai la est?",
+        "en": "Which of these destinations lies furthest east?"
+      },
+      "poiIds": [
+        "cu-varadero",
+        "cu-cienfuegos",
+        "cu-holguin",
+        "cu-baracoa-historic"
+      ],
+      "targetPoiId": "cu-baracoa-historic"
+    },
+    {
+      "id": "cu-odd-southernmost-island-stop",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Insel- oder Küstenstationen liegt am weitesten im Süden?",
+        "hu": "Melyik sziget- vagy partvidéki hely fekszik ezek közül a legdélebbre?",
+        "ro": "Care dintre aceste locuri insulare sau de coastă se află cel mai la sud?",
+        "en": "Which of these island or coastal stops lies furthest south?"
+      },
+      "poiIds": [
+        "cu-varadero",
+        "cuba-guardalavaca-cities-v2",
+        "cayo-santa-maria-nature-v2",
+        "cayo-largo-del-sur-nature-v2"
+      ],
+      "targetPoiId": "cayo-largo-del-sur-nature-v2"
+    },
+    {
+      "id": "cu-odd-northernmost-resort-area",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Badeorte oder Strandgebiete liegt am weitesten im Norden?",
+        "hu": "Melyik üdülőhely vagy strandterület fekszik ezek közül a legészakabbra?",
+        "ro": "Care dintre aceste stațiuni sau zone de plajă se află cel mai la nord?",
+        "en": "Which of these resort or beach areas lies furthest north?"
+      },
+      "poiIds": [
+        "cu-varadero",
+        "cuba-playa-ancon-cities-v2",
+        "cuba-guardalavaca-cities-v2",
+        "cuba-marea-del-portillo-cities-v2"
+      ],
+      "targetPoiId": "cu-varadero"
+    },
+    {
+      "id": "cu-odd-westernmost-port",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher dieser Häfen liegt am weitesten im Westen?",
+        "hu": "Melyik kikötő fekszik ezek közül a legnyugatabbra?",
+        "ro": "Care dintre aceste porturi se află cel mai la vest?",
+        "en": "Which of these ports lies furthest west?"
+      },
+      "poiIds": [
+        "mariel-cities-v2",
+        "cu-havana-port-economic-v2",
+        "cu-matanzas-port-economic-v2",
+        "cu-santiago-port-economic-v2"
+      ],
+      "targetPoiId": "mariel-cities-v2"
+    },
+    {
+      "id": "cu-sequence-cays-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke diese Inseln und Cayos von Westen nach Osten an.",
+        "hu": "Kattints ezekre a szigetekre és cayókra nyugatról keletre haladva.",
+        "ro": "Apasă pe aceste insule și cayo-uri de la vest la est.",
+        "en": "Click these islands and cays from west to east."
+      },
+      "poiIds": [
+        "cayo-levisa-nature-v2",
+        "cayo-largo-del-sur-nature-v2",
+        "cu-cayococo",
+        "cuba-cayo-saetia-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "cayo-levisa-nature-v2",
+        "cayo-largo-del-sur-nature-v2",
+        "cu-cayococo",
+        "cuba-cayo-saetia-cities-v2"
+      ]
+    },
+    {
+      "id": "cu-sequence-ports-north-south",
+      "type": "sequence",
+      "question": {
+        "de": "Ordne diese Häfen von Norden nach Süden.",
+        "hu": "Rendezd ezeket a kikötőket északról délre.",
+        "ro": "Ordonează aceste porturi de la nord la sud.",
+        "en": "Order these ports from north to south."
+      },
+      "poiIds": [
+        "cu-havana-port-economic-v2",
+        "cu-matanzas-port-economic-v2",
+        "cu-nuevitas-port-economic-v2",
+        "cu-santiago-port-economic-v2"
+      ],
+      "orderedPoiIds": [
+        "cu-havana-port-economic-v2",
+        "cu-matanzas-port-economic-v2",
+        "cu-nuevitas-port-economic-v2",
+        "cu-santiago-port-economic-v2"
+      ]
+    },
+    {
+      "id": "cu-sequence-mountains-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke diese Berge und Gebirge von Westen nach Osten an.",
+        "hu": "Kattints ezekre a hegyekre és hegységekre nyugatról keletre.",
+        "ro": "Apasă pe acești munți și masive de la vest la est.",
+        "en": "Click these mountains and ranges from west to east."
+      },
+      "poiIds": [
+        "pan-de-guajaibon-nature-v2",
+        "cu-escambray",
+        "cu-turquino",
+        "pico-cristal-nature-v2"
+      ],
+      "orderedPoiIds": [
+        "pan-de-guajaibon-nature-v2",
+        "cu-escambray",
+        "cu-turquino",
+        "pico-cristal-nature-v2"
+      ]
+    },
+    {
+      "id": "cu-sequence-south-coast-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke diese Orte an der Südküste von Westen nach Osten an.",
+        "hu": "Kattints ezekre a déli part menti helyekre nyugatról keletre.",
+        "ro": "Apasă pe aceste locuri de pe coasta sudică de la vest la est.",
+        "en": "Click these south-coast places from west to east."
+      },
+      "poiIds": [
+        "cuba-playa-giron-cities-v2",
+        "cuba-playa-ancon-cities-v2",
+        "cuba-marea-del-portillo-cities-v2",
+        "cu-santiago"
+      ],
+      "orderedPoiIds": [
+        "cuba-playa-giron-cities-v2",
+        "cuba-playa-ancon-cities-v2",
+        "cuba-marea-del-portillo-cities-v2",
+        "cu-santiago"
+      ]
+    },
+    {
+      "id": "cu-sequence-north-coast-towns-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Ordne diese Orte an der Nordküste von Westen nach Osten.",
+        "hu": "Rendezd ezeket az északi parti településeket nyugatról keletre.",
+        "ro": "Ordonează aceste localități de pe coasta nordică de la vest la est.",
+        "en": "Order these north-coast towns from west to east."
+      },
+      "poiIds": [
+        "mariel-cities-v2",
+        "cardenas-city-cities-v2",
+        "sagua-la-grande-cities-v2",
+        "jibara-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "mariel-cities-v2",
+        "cardenas-city-cities-v2",
+        "sagua-la-grande-cities-v2",
+        "jibara-cities-v2"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "li": [
+    {
+      "id": "li-find-gutenberg-castle",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde die Burg Gutenberg in Balzers.",
+        "hu": "Keresd meg a Gutenberg-várat Balzersben.",
+        "ro": "Găsește Castelul Gutenberg din Balzers.",
+        "en": "Find Gutenberg Castle in Balzers."
+      },
+      "targetPoiId": "li-cult-gutenberg-castle"
+    },
+    {
+      "id": "li-find-kunstmuseum",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt das Kunstmuseum Liechtenstein in Vaduz?",
+        "hu": "Hol található a Liechtensteini Művészeti Múzeum Vaduzban?",
+        "ro": "Unde se află Kunstmuseum Liechtenstein în Vaduz?",
+        "en": "Where is Kunstmuseum Liechtenstein in Vaduz?"
+      },
+      "targetPoiId": "li-cult-kunstmuseum"
+    },
+    {
+      "id": "li-find-pfrundhaus-eschen",
+      "type": "find_poi",
+      "question": {
+        "de": "Klicke auf das Pfrundhaus in Eschen.",
+        "hu": "Kattints az escheni Pfrundhausra.",
+        "ro": "Apasă pe Pfrundhaus din Eschen.",
+        "en": "Click the Pfrundhaus in Eschen."
+      },
+      "targetPoiId": "li-poi-eschen-pfruendhaus"
+    },
+    {
+      "id": "li-find-walser-museum",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde das Walser Museum in Triesenberg.",
+        "hu": "Keresd meg a triesenbergi Walser Múzeumot.",
+        "ro": "Găsește Muzeul Walser din Triesenberg.",
+        "en": "Find the Walser Museum in Triesenberg."
+      },
+      "targetPoiId": "li-cult-walser-museum"
+    },
+    {
+      "id": "li-find-grossabunt",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde den Grossabunt-Freizeitsee in Gamprin.",
+        "hu": "Keresd meg a gamprini Grossabunt szabadidőtavat.",
+        "ro": "Găsește lacul de agrement Grossabunt din Gamprin.",
+        "en": "Find the Grossabunt leisure lake in Gamprin."
+      },
+      "targetPoiId": "li-poi-gamprin-grossabunt"
+    },
+    {
+      "id": "li-region-schaan",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf die Gemeinde Schaan.",
+        "hu": "Kattints Schaan községre.",
+        "ro": "Apasă pe comuna Schaan.",
+        "en": "Click the municipality of Schaan."
+      },
+      "targetRegionId": "LI-002"
+    },
+    {
+      "id": "li-region-triesenberg",
+      "type": "find_region",
+      "question": {
+        "de": "Wo liegt die Gemeinde Triesenberg?",
+        "hu": "Hol található Triesenberg község?",
+        "ro": "Unde se află comuna Triesenberg?",
+        "en": "Where is the municipality of Triesenberg?"
+      },
+      "targetRegionId": "LI-003"
+    },
+    {
+      "id": "li-region-eschen",
+      "type": "find_region",
+      "question": {
+        "de": "Finde die Gemeinde Eschen.",
+        "hu": "Keresd meg Eschen községet.",
+        "ro": "Găsește comuna Eschen.",
+        "en": "Find the municipality of Eschen."
+      },
+      "targetRegionId": "LI-006"
+    },
+    {
+      "id": "li-region-mauren",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf die Gemeinde Mauren.",
+        "hu": "Kattints Mauren községre.",
+        "ro": "Apasă pe comuna Mauren.",
+        "en": "Click the municipality of Mauren."
+      },
+      "targetRegionId": "LI-007"
+    },
+    {
+      "id": "li-region-schellenberg",
+      "type": "find_region",
+      "question": {
+        "de": "Wo liegt die Gemeinde Schellenberg?",
+        "hu": "Hol található Schellenberg község?",
+        "ro": "Unde se află comuna Schellenberg?",
+        "en": "Where is the municipality of Schellenberg?"
+      },
+      "targetRegionId": "LI-008"
+    },
+    {
+      "id": "li-odd-not-vaduz",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht in Vaduz?",
+        "hu": "Melyik hely nem Vaduzban található?",
+        "ro": "Care dintre aceste locuri nu se află în Vaduz?",
+        "en": "Which of these places is not in Vaduz?"
+      },
+      "poiIds": [
+        "li-cult-kunstmuseum",
+        "li-cult-landesmuseum",
+        "li-cult-st-florin",
+        "li-cult-gutenberg-castle"
+      ],
+      "targetPoiId": "li-cult-gutenberg-castle"
+    },
+    {
+      "id": "li-odd-not-triesenberg",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht in Triesenberg?",
+        "hu": "Melyik hely nem Triesenbergben található?",
+        "ro": "Care dintre aceste locuri nu se află în Triesenberg?",
+        "en": "Which of these places is not in Triesenberg?"
+      },
+      "poiIds": [
+        "city-malbun-extra",
+        "city-steg-extra",
+        "city-gaflei-extra",
+        "li-poi-eschen-pfruendhaus"
+      ],
+      "targetPoiId": "li-poi-eschen-pfruendhaus"
+    },
+    {
+      "id": "li-odd-gamprin",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher dieser Orte liegt in Gamprin?",
+        "hu": "Melyik hely található Gamprinben?",
+        "ro": "Care dintre aceste locuri se află în Gamprin?",
+        "en": "Which of these places is in Gamprin?"
+      },
+      "poiIds": [
+        "li-poi-eschen-pfruendhaus",
+        "city-schaanwald-extra",
+        "city-ruggeller-riet-extra",
+        "li-poi-gamprin-grossabunt"
+      ],
+      "targetPoiId": "li-poi-gamprin-grossabunt"
+    },
+    {
+      "id": "li-odd-schellenberg",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher dieser Orte liegt in Schellenberg?",
+        "hu": "Melyik hely található Schellenbergben?",
+        "ro": "Care dintre aceste locuri se află în Schellenberg?",
+        "en": "Which of these places is in Schellenberg?"
+      },
+      "poiIds": [
+        "li-poi-schellenberg-untere-burg",
+        "li-poi-eschen-pfruendhaus",
+        "city-schaanwald-extra",
+        "city-ruggeller-riet-extra"
+      ],
+      "targetPoiId": "li-poi-schellenberg-untere-burg"
+    },
+    {
+      "id": "li-odd-planken",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher dieser Orte liegt in Planken statt in Schaan?",
+        "hu": "Melyik hely van Plankenben, nem pedig Schaanban?",
+        "ro": "Care dintre aceste locuri se află în Planken, nu în Schaan?",
+        "en": "Which of these places is in Planken rather than Schaan?"
+      },
+      "poiIds": [
+        "li-poi-planken-gafadura",
+        "li-poi-schaan-st-peter",
+        "historical-schaan-roemerkastell-extra",
+        "landmark-schaan-rathaus-extra"
+      ],
+      "targetPoiId": "li-poi-planken-gafadura"
+    },
+    {
+      "id": "li-order-west-east-south",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke diese Orte von West nach Ost an.",
+        "hu": "Kattints ezekre a helyekre nyugatról keletre.",
+        "ro": "Apasă aceste locuri de la vest la est.",
+        "en": "Click these places from west to east."
+      },
+      "poiIds": [
+        "landmark-balzers-rheinbruecke-extra",
+        "li-cult-vaduz-castle",
+        "city-gaflei-extra",
+        "city-malbun-extra"
+      ],
+      "orderedPoiIds": [
+        "landmark-balzers-rheinbruecke-extra",
+        "li-cult-vaduz-castle",
+        "city-gaflei-extra",
+        "city-malbun-extra"
+      ]
+    },
+    {
+      "id": "li-order-south-north-landmarks",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke diese Orte von Süd nach Nord an.",
+        "hu": "Kattints ezekre a helyekre délről északra.",
+        "ro": "Apasă aceste locuri de la sud la nord.",
+        "en": "Click these places from south to north."
+      },
+      "poiIds": [
+        "li-cult-gutenberg-castle",
+        "li-cult-walser-museum",
+        "li-cult-vaduz-castle",
+        "li-poi-eschen-pfruendhaus"
+      ],
+      "orderedPoiIds": [
+        "li-cult-gutenberg-castle",
+        "li-cult-walser-museum",
+        "li-cult-vaduz-castle",
+        "li-poi-eschen-pfruendhaus"
+      ]
+    },
+    {
+      "id": "li-order-north-south-borderline",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke diese Orte von Nord nach Süd an.",
+        "hu": "Kattints ezekre a helyekre északról délre.",
+        "ro": "Apasă aceste locuri de la nord la sud.",
+        "en": "Click these places from north to south."
+      },
+      "poiIds": [
+        "city-ruggeller-riet-extra",
+        "li-poi-schellenberg-untere-burg",
+        "city-schaanwald-extra",
+        "li-cult-vaduz-castle"
+      ],
+      "orderedPoiIds": [
+        "city-ruggeller-riet-extra",
+        "li-poi-schellenberg-untere-burg",
+        "city-schaanwald-extra",
+        "li-cult-vaduz-castle"
+      ]
+    },
+    {
+      "id": "li-order-west-east-north",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Grossabunt, Pfrundhaus Eschen, Schaanwald und die Untere Burg von West nach Ost an.",
+        "hu": "Kattints Grossabuntra, az escheni Pfrundhausra, Schaanwaldra és az Alsó várromra nyugatról keletre.",
+        "ro": "Apasă Grossabunt, Pfrundhaus din Eschen, Schaanwald și ruinele Castelului de Jos de la vest la est.",
+        "en": "Click Grossabunt, the Pfrundhaus in Eschen, Schaanwald, and the Lower Castle Ruins from west to east."
+      },
+      "poiIds": [
+        "li-poi-gamprin-grossabunt",
+        "li-poi-eschen-pfruendhaus",
+        "city-schaanwald-extra",
+        "li-poi-schellenberg-untere-burg"
+      ],
+      "orderedPoiIds": [
+        "li-poi-gamprin-grossabunt",
+        "li-poi-eschen-pfruendhaus",
+        "city-schaanwald-extra",
+        "li-poi-schellenberg-untere-burg"
+      ]
+    },
+    {
+      "id": "li-order-north-south-mountain",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke diese Orte von Nord nach Süd an.",
+        "hu": "Kattints ezekre a helyekre északról délre.",
+        "ro": "Apasă aceste locuri de la nord la sud.",
+        "en": "Click these places from north to south."
+      },
+      "poiIds": [
+        "li-poi-schellenberg-obere-burg",
+        "liechtenstein-three-sisters-cities-v2",
+        "city-gaflei-extra",
+        "li-nat-steg-reservoir"
+      ],
+      "orderedPoiIds": [
+        "li-poi-schellenberg-obere-burg",
+        "liechtenstein-three-sisters-cities-v2",
+        "city-gaflei-extra",
+        "li-nat-steg-reservoir"
+      ]
+    }
+  ]
+}

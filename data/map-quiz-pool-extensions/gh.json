@@ -1,0 +1,307 @@
+{
+  "gh": [
+    {
+      "id": "gh-find-tema-harbour-city",
+      "type": "find_poi",
+      "targetPoiId": "tema-cities-v2",
+      "question": {
+        "de": "Finde Tema, die große Hafenstadt östlich von Accra.",
+        "hu": "Keresd meg Temát, a nagy kikötővárost Accrától keletre.",
+        "ro": "Găsește Tema, marele oraș-port aflat la est de Accra.",
+        "en": "Find Tema, the major harbour city east of Accra."
+      }
+    },
+    {
+      "id": "gh-find-ho-volta-capital",
+      "type": "find_poi",
+      "targetPoiId": "ho-cities-v2",
+      "question": {
+        "de": "Finde Ho im Osten Ghanas.",
+        "hu": "Keresd meg Hót Ghána keleti részén.",
+        "ro": "Găsește Ho în estul Ghanei.",
+        "en": "Find Ho in eastern Ghana."
+      }
+    },
+    {
+      "id": "gh-find-wa-far-northwest",
+      "type": "find_poi",
+      "targetPoiId": "wa-cities-v2",
+      "question": {
+        "de": "Finde Wa im Nordwesten Ghanas.",
+        "hu": "Keresd meg Wát Ghána északnyugati részén.",
+        "ro": "Găsește Wa în nord-vestul Ghanei.",
+        "en": "Find Wa in northwestern Ghana."
+      }
+    },
+    {
+      "id": "gh-find-bolgatanga-upper-east",
+      "type": "find_poi",
+      "targetPoiId": "bolgatanga-cities-v2",
+      "question": {
+        "de": "Finde Bolgatanga nahe der Grenze zu Burkina Faso.",
+        "hu": "Keresd meg Bolgatangát Burkina Faso határának közelében.",
+        "ro": "Găsește Bolgatanga aproape de granița cu Burkina Faso.",
+        "en": "Find Bolgatanga near the border with Burkina Faso."
+      }
+    },
+    {
+      "id": "gh-find-wli-waterfalls-borderlands",
+      "type": "find_poi",
+      "targetPoiId": "wli-waterfalls-nature-v2",
+      "question": {
+        "de": "Finde die Wli-Wasserfälle im östlichen Grenzgebiet.",
+        "hu": "Keresd meg a Wli-vízesést a keleti határvidéken.",
+        "ro": "Găsește cascadele Wli în zona estică de frontieră.",
+        "en": "Find Wli Waterfalls in the eastern borderlands."
+      }
+    },
+    {
+      "id": "gh-region-central-cape-coast",
+      "type": "find_region",
+      "targetRegionId": "GHA-2160",
+      "question": {
+        "de": "Klicke auf Central, die Küstenregion von Cape Coast.",
+        "hu": "Kattints Central régióra, Cape Coast tengerparti térségére.",
+        "ro": "Apasă pe Central, regiunea de coastă a orașului Cape Coast.",
+        "en": "Click Central, the coastal region of Cape Coast."
+      }
+    },
+    {
+      "id": "gh-region-western-takoradi",
+      "type": "find_region",
+      "targetRegionId": "GHA-2162",
+      "question": {
+        "de": "Klicke auf Western im Südwesten bei Takoradi.",
+        "hu": "Kattints a délnyugati Western régióra Takoradi környékén.",
+        "ro": "Apasă pe Western, în sud-vest, lângă Takoradi.",
+        "en": "Click Western in the southwest near Takoradi."
+      }
+    },
+    {
+      "id": "gh-region-eastern-koforidua",
+      "type": "find_region",
+      "targetRegionId": "GHA-2161",
+      "question": {
+        "de": "Finde Eastern, die Region von Koforidua.",
+        "hu": "Keresd meg Eastern régiót, Koforidua térségét.",
+        "ro": "Găsește Eastern, regiunea orașului Koforidua.",
+        "en": "Find Eastern, the region of Koforidua."
+      }
+    },
+    {
+      "id": "gh-region-upper-west-wa",
+      "type": "find_region",
+      "targetRegionId": "GHA-2157",
+      "question": {
+        "de": "Klicke auf Upper West ganz im Nordwesten.",
+        "hu": "Kattints Upper West régióra a messzi északnyugaton.",
+        "ro": "Apasă pe Upper West din extremul nord-vest.",
+        "en": "Click Upper West in the far northwest."
+      }
+    },
+    {
+      "id": "gh-region-upper-east-bolga",
+      "type": "find_region",
+      "targetRegionId": "GHA-2156",
+      "question": {
+        "de": "Klicke auf Upper East im äußersten Nordosten.",
+        "hu": "Kattints Upper East régióra a legészakkeletibb részen.",
+        "ro": "Apasă pe Upper East din extremul nord-est.",
+        "en": "Click Upper East in the far northeast."
+      }
+    },
+    {
+      "id": "gh-odd-not-greater-accra",
+      "type": "odd_one_out",
+      "poiIds": [
+        "accra-cities-v2",
+        "tema-cities-v2",
+        "teshie-cities-v2",
+        "koforidua-cities-v2"
+      ],
+      "targetPoiId": "koforidua-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht im Raum Greater Accra?",
+        "hu": "Melyik hely nem a Greater Accra térségében fekszik?",
+        "ro": "Care loc nu se află în zona Greater Accra?",
+        "en": "Which place is not in the Greater Accra area?"
+      }
+    },
+    {
+      "id": "gh-odd-not-volta-highlands",
+      "type": "odd_one_out",
+      "poiIds": [
+        "ho-cities-v2",
+        "wli-waterfalls-nature-v2",
+        "mount-afadja-relief-v2",
+        "sunyani-cities-v2"
+      ],
+      "targetPoiId": "sunyani-cities-v2",
+      "question": {
+        "de": "Welches Ziel liegt nicht im östlichen Hochlandraum um Volta?",
+        "hu": "Melyik célpont nem a Volta környéki keleti hegyvidékhez tartozik?",
+        "ro": "Care destinație nu se află în zona înaltă estică din jurul Voltei?",
+        "en": "Which destination is not in the eastern highland area around Volta?"
+      }
+    },
+    {
+      "id": "gh-odd-not-northern-belt",
+      "type": "odd_one_out",
+      "poiIds": [
+        "tamale-cities-v2",
+        "yendi-cities-v2",
+        "wa-cities-v2",
+        "cape-coast-cities-v2"
+      ],
+      "targetPoiId": "cape-coast-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht im nördlichen Landesteil Ghanas?",
+        "hu": "Melyik város nem Ghána északi országrészében található?",
+        "ro": "Care oraș nu se află în partea nordică a Ghanei?",
+        "en": "Which city is not in northern Ghana?"
+      }
+    },
+    {
+      "id": "gh-odd-not-upper-east",
+      "type": "odd_one_out",
+      "poiIds": [
+        "bolgatanga-cities-v2",
+        "navrongo-cities-v2",
+        "bawku-cities-v2",
+        "wa-cities-v2"
+      ],
+      "targetPoiId": "wa-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht in Upper East?",
+        "hu": "Melyik város nem Upper East régióban található?",
+        "ro": "Care oraș nu se află în Upper East?",
+        "en": "Which city is not in Upper East?"
+      }
+    },
+    {
+      "id": "gh-odd-not-central-corridor",
+      "type": "odd_one_out",
+      "poiIds": [
+        "cape-coast-cities-v2",
+        "winneba-cities-v2",
+        "kakum-forest-nature-v2",
+        "obuasi-cities-v2"
+      ],
+      "targetPoiId": "obuasi-cities-v2",
+      "question": {
+        "de": "Welcher Ort gehört nicht zum zentralen Küstenkorridor Ghanas?",
+        "hu": "Melyik hely nem Ghána középső parti folyosójához tartozik?",
+        "ro": "Care loc nu aparține coridorului central de coastă al Ghanei?",
+        "en": "Which place does not belong to Ghana's central coastal corridor?"
+      }
+    },
+    {
+      "id": "gh-sequence-west-east-sekondi-cape-coast-accra-ada",
+      "type": "sequence",
+      "poiIds": [
+        "sekondi-cities-v2",
+        "cape-coast-cities-v2",
+        "accra-cities-v2",
+        "ada-foah-sea-nature-v2"
+      ],
+      "orderedPoiIds": [
+        "sekondi-cities-v2",
+        "cape-coast-cities-v2",
+        "accra-cities-v2",
+        "ada-foah-sea-nature-v2"
+      ],
+      "question": {
+        "de": "Klicke Sekondi, Cape Coast, Accra und Ada Foah von Westen nach Osten an.",
+        "hu": "Kattints Sekondira, Cape Coastra, Accrára és Ada Foahra nyugatról kelet felé.",
+        "ro": "Apasă pe Sekondi, Cape Coast, Accra și Ada Foah de la vest la est.",
+        "en": "Click Sekondi, Cape Coast, Accra, and Ada Foah from west to east."
+      }
+    },
+    {
+      "id": "gh-sequence-south-north-tema-koforidua-techiman-wa",
+      "type": "sequence",
+      "poiIds": [
+        "tema-cities-v2",
+        "koforidua-cities-v2",
+        "techiman-cities-v2",
+        "wa-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "tema-cities-v2",
+        "koforidua-cities-v2",
+        "techiman-cities-v2",
+        "wa-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Tema, Koforidua, Techiman und Wa von Süden nach Norden an.",
+        "hu": "Kattints Temára, Koforiduára, Techimanra és Wára délről észak felé.",
+        "ro": "Apasă pe Tema, Koforidua, Techiman și Wa de la sud la nord.",
+        "en": "Click Tema, Koforidua, Techiman, and Wa from south to north."
+      }
+    },
+    {
+      "id": "gh-sequence-west-east-sunyani-kumasi-koforidua-ho",
+      "type": "sequence",
+      "poiIds": [
+        "sunyani-cities-v2",
+        "kumasi-cities-v2",
+        "koforidua-cities-v2",
+        "ho-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "sunyani-cities-v2",
+        "kumasi-cities-v2",
+        "koforidua-cities-v2",
+        "ho-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Sunyani, Kumasi, Koforidua und Ho von Westen nach Osten an.",
+        "hu": "Kattints Sunyanira, Kumászira, Koforiduára és Hóra nyugatról kelet felé.",
+        "ro": "Apasă pe Sunyani, Kumasi, Koforidua și Ho de la vest la est.",
+        "en": "Click Sunyani, Kumasi, Koforidua, and Ho from west to east."
+      }
+    },
+    {
+      "id": "gh-sequence-south-north-cape-three-points-takoradi-kumasi-wa",
+      "type": "sequence",
+      "poiIds": [
+        "cape-three-points-sea-nature-v2",
+        "takoradi-cities-v2",
+        "kumasi-cities-v2",
+        "wa-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "cape-three-points-sea-nature-v2",
+        "takoradi-cities-v2",
+        "kumasi-cities-v2",
+        "wa-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Cape Three Points, Takoradi, Kumasi und Wa von Süden nach Norden an.",
+        "hu": "Kattints Cape Three Pointsra, Takoradira, Kumászira és Wára délről észak felé.",
+        "ro": "Apasă pe Cape Three Points, Takoradi, Kumasi și Wa de la sud la nord.",
+        "en": "Click Cape Three Points, Takoradi, Kumasi, and Wa from south to north."
+      }
+    },
+    {
+      "id": "gh-sequence-south-north-ho-afadja-wli",
+      "type": "sequence",
+      "poiIds": [
+        "ho-cities-v2",
+        "mount-afadja-relief-v2",
+        "wli-waterfalls-nature-v2"
+      ],
+      "orderedPoiIds": [
+        "ho-cities-v2",
+        "mount-afadja-relief-v2",
+        "wli-waterfalls-nature-v2"
+      ],
+      "question": {
+        "de": "Klicke Ho, den Mount Afadja und die Wli-Wasserfälle von Süden nach Norden an.",
+        "hu": "Kattints Hóra, az Afadja-hegyre és a Wli-vízesésre délről észak felé.",
+        "ro": "Apasă pe Ho, Muntele Afadja și cascadele Wli de la sud la nord.",
+        "en": "Click Ho, Mount Afadja, and Wli Waterfalls from south to north."
+      }
+    }
+  ]
+}

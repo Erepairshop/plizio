@@ -1,0 +1,299 @@
+{
+  "tw": [
+    {
+      "id": "tw-find-taoyuan-new",
+      "type": "find_poi",
+      "targetPoiId": "taoyuan-cities-v2",
+      "question": {
+        "de": "Finde Taoyuan im Nordwesten Taiwans.",
+        "hu": "Keresd meg Taojuant Tajvan északnyugati részén.",
+        "ro": "Găsește Taoyuan în nord-vestul Taiwanului.",
+        "en": "Find Taoyuan in northwestern Taiwan."
+      }
+    },
+    {
+      "id": "tw-find-keelung-new",
+      "type": "find_poi",
+      "targetPoiId": "keelung-cities-v2",
+      "question": {
+        "de": "Finde Keelung an der Nordküste.",
+        "hu": "Keresd meg Csilungot az északi parton.",
+        "ro": "Găsește Keelung pe coasta de nord.",
+        "en": "Find Keelung on the northern coast."
+      }
+    },
+    {
+      "id": "tw-find-taitung-new",
+      "type": "find_poi",
+      "targetPoiId": "taitung-cities-v2",
+      "question": {
+        "de": "Finde Taitung an der Südostküste.",
+        "hu": "Keresd meg Tajtungot a délkeleti parton.",
+        "ro": "Găsește Taitung pe coasta de sud-est.",
+        "en": "Find Taitung on the southeastern coast."
+      }
+    },
+    {
+      "id": "tw-find-magong-new",
+      "type": "find_poi",
+      "targetPoiId": "magong-cities-v2",
+      "question": {
+        "de": "Finde Magong auf Penghu.",
+        "hu": "Keresd meg Magongot Penghun.",
+        "ro": "Găsește Magong în Penghu.",
+        "en": "Find Magong in Penghu."
+      }
+    },
+    {
+      "id": "tw-find-sun-moon-lake-new",
+      "type": "find_poi",
+      "targetPoiId": "sun-moon-lake-landmarks-v2",
+      "question": {
+        "de": "Finde den Sonne-Mond-See im Inselinneren.",
+        "hu": "Keresd meg a Nap-Hold-tavat a sziget belsejében.",
+        "ro": "Găsește Lacul Soare-Lună în interiorul insulei.",
+        "en": "Find Sun Moon Lake in the island interior."
+      }
+    },
+    {
+      "id": "tw-region-new-taipei-new",
+      "type": "find_region",
+      "targetRegionId": "TWN-1167",
+      "question": {
+        "de": "Finde New Taipei City rund um die Hauptstadt.",
+        "hu": "Keresd meg Új-Tajpej városrégióját a főváros körül.",
+        "ro": "Găsește New Taipei City în jurul capitalei.",
+        "en": "Find New Taipei City around the capital."
+      }
+    },
+    {
+      "id": "tw-region-yilan-new",
+      "type": "find_region",
+      "targetRegionId": "TWN-1163",
+      "question": {
+        "de": "Finde Yilan im Nordosten.",
+        "hu": "Keresd meg Ilant északkeleten.",
+        "ro": "Găsește Yilan în nord-est.",
+        "en": "Find Yilan in the northeast."
+      }
+    },
+    {
+      "id": "tw-region-nantou-new",
+      "type": "find_region",
+      "targetRegionId": "TWN-1173",
+      "question": {
+        "de": "Finde Nantou im gebirgigen Zentrum.",
+        "hu": "Keresd meg Nantout a hegyvidéki középső részen.",
+        "ro": "Găsește Nantou în centrul muntos.",
+        "en": "Find Nantou in the mountainous center."
+      }
+    },
+    {
+      "id": "tw-region-penghu-new",
+      "type": "find_region",
+      "targetRegionId": "TWN-3414",
+      "question": {
+        "de": "Finde Penghu westlich der Hauptinsel.",
+        "hu": "Keresd meg Penghut a főszigettől nyugatra.",
+        "ro": "Găsește Penghu la vest de insula principală.",
+        "en": "Find Penghu west of the main island."
+      }
+    },
+    {
+      "id": "tw-region-kinmen-new",
+      "type": "find_region",
+      "targetRegionId": "TWN-3415",
+      "question": {
+        "de": "Finde Kinmen weit im Westen.",
+        "hu": "Keresd meg Kinment messze nyugaton.",
+        "ro": "Găsește Kinmen departe în vest.",
+        "en": "Find Kinmen far to the west."
+      }
+    },
+    {
+      "id": "tw-odd-offshore-kinmen-new",
+      "type": "odd_one_out",
+      "poiIds": [
+        "taipei-cities-v2",
+        "taichung-cities-v2",
+        "tainan-cities-v2",
+        "taiwan-kinmen-cities-v2"
+      ],
+      "targetPoiId": "taiwan-kinmen-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht auf der Hauptinsel Taiwan?",
+        "hu": "Melyik hely nem Tajvan főszigetén fekszik?",
+        "ro": "Care loc nu se află pe insula principală Taiwan?",
+        "en": "Which place is not on Taiwan's main island?"
+      }
+    },
+    {
+      "id": "tw-odd-east-coast-qixingtan-new",
+      "type": "odd_one_out",
+      "poiIds": [
+        "taiwan-yehliu-cities-v2",
+        "taiwan-lugang-cities-v2",
+        "taiwan-xiaoliuqiu-cities-v2",
+        "taiwan-qixingtan-cities-v2"
+      ],
+      "targetPoiId": "taiwan-qixingtan-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt an der Ostküste?",
+        "hu": "Melyik hely fekszik a keleti parton?",
+        "ro": "Care loc se află pe coasta de est?",
+        "en": "Which place lies on the east coast?"
+      }
+    },
+    {
+      "id": "tw-odd-high-mountain-xueshan-new",
+      "type": "odd_one_out",
+      "poiIds": [
+        "sun-moon-lake-landmarks-v2",
+        "alishan-scenic-area-landmarks-v2",
+        "yehliu-geopark-landmarks-v2",
+        "xueshan-relief-v2"
+      ],
+      "targetPoiId": "xueshan-relief-v2",
+      "question": {
+        "de": "Welcher Ort ist ein Hochgebirgsgipfel?",
+        "hu": "Melyik hely egy magashegységi csúcs?",
+        "ro": "Care loc este un vârf de înaltă munte?",
+        "en": "Which place is a high mountain peak?"
+      }
+    },
+    {
+      "id": "tw-odd-southern-island-orchid-new",
+      "type": "odd_one_out",
+      "poiIds": [
+        "taiwan-green-island-cities-v2",
+        "taiwan-penghu-qimei-cities-v2",
+        "taiwan-xiaoliuqiu-cities-v2",
+        "taiwan-orchid-island-cities-v2"
+      ],
+      "targetPoiId": "taiwan-orchid-island-cities-v2",
+      "question": {
+        "de": "Welche Insel liegt am weitesten im Süden?",
+        "hu": "Melyik sziget fekszik a legdélebbre?",
+        "ro": "Care insulă se află cel mai la sud?",
+        "en": "Which island lies farthest south?"
+      }
+    },
+    {
+      "id": "tw-odd-strait-island-magong-new",
+      "type": "odd_one_out",
+      "poiIds": [
+        "taipei-cities-v2",
+        "tainan-cities-v2",
+        "hualien-cities-v2",
+        "magong-cities-v2"
+      ],
+      "targetPoiId": "magong-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt auf einer Insel in der Taiwanstraße?",
+        "hu": "Melyik hely fekszik a Tajvani-szoros egyik szigetén?",
+        "ro": "Care loc se află pe o insulă din Strâmtoarea Taiwan?",
+        "en": "Which place lies on an island in the Taiwan Strait?"
+      }
+    },
+    {
+      "id": "tw-sequence-north-south-cities-new",
+      "type": "sequence",
+      "poiIds": [
+        "keelung-cities-v2",
+        "taoyuan-cities-v2",
+        "tainan-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "keelung-cities-v2",
+        "taoyuan-cities-v2",
+        "tainan-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Keelung, Taoyuan und Tainan von Norden nach Süden an.",
+        "hu": "Kattints Csilungra, Taojuanra és Tajnanra északról délre.",
+        "ro": "Apasă Keelung, Taoyuan și Tainan de la nord la sud.",
+        "en": "Click Keelung, Taoyuan, and Tainan from north to south."
+      }
+    },
+    {
+      "id": "tw-sequence-west-east-islands-to-coast-new",
+      "type": "sequence",
+      "poiIds": [
+        "taiwan-kinmen-cities-v2",
+        "magong-cities-v2",
+        "taitung-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "taiwan-kinmen-cities-v2",
+        "magong-cities-v2",
+        "taitung-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Kinmen, Magong und Taitung von Westen nach Osten an.",
+        "hu": "Kattints Kinmenre, Magongra és Tajtungra nyugatról keletre.",
+        "ro": "Apasă Kinmen, Magong și Taitung de la vest la est.",
+        "en": "Click Kinmen, Magong, and Taitung from west to east."
+      }
+    },
+    {
+      "id": "tw-sequence-north-south-relief-to-island-new",
+      "type": "sequence",
+      "poiIds": [
+        "qixingshan-relief-v2",
+        "sun-moon-lake-landmarks-v2",
+        "taiwan-orchid-island-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "qixingshan-relief-v2",
+        "sun-moon-lake-landmarks-v2",
+        "taiwan-orchid-island-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Qixingshan, den Sonne-Mond-See und Orchid Island von Norden nach Süden an.",
+        "hu": "Kattints a Qixingshanra, a Nap-Hold-tóra és az Orchid Islandre északról délre.",
+        "ro": "Apasă Qixingshan, Lacul Soare-Lună și Orchid Island de la nord la sud.",
+        "en": "Click Qixingshan, Sun Moon Lake, and Orchid Island from north to south."
+      }
+    },
+    {
+      "id": "tw-sequence-west-east-scenic-new",
+      "type": "sequence",
+      "poiIds": [
+        "alishan-scenic-area-landmarks-v2",
+        "sun-moon-lake-landmarks-v2",
+        "taroko-gorge-landmarks-v2"
+      ],
+      "orderedPoiIds": [
+        "alishan-scenic-area-landmarks-v2",
+        "sun-moon-lake-landmarks-v2",
+        "taroko-gorge-landmarks-v2"
+      ],
+      "question": {
+        "de": "Klicke Alishan, den Sonne-Mond-See und die Taroko-Schlucht von Westen nach Osten an.",
+        "hu": "Kattints Alishanra, a Nap-Hold-tóra és a Taroko-szurdokra nyugatról keletre.",
+        "ro": "Apasă Alishan, Lacul Soare-Lună și Defileul Taroko de la vest la est.",
+        "en": "Click Alishan, Sun Moon Lake, and Taroko Gorge from west to east."
+      }
+    },
+    {
+      "id": "tw-sequence-north-south-wulai-alishan-kaohsiung-new",
+      "type": "sequence",
+      "poiIds": [
+        "taiwan-wulai-cities-v2",
+        "alishan-scenic-area-landmarks-v2",
+        "kaohsiung-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "taiwan-wulai-cities-v2",
+        "alishan-scenic-area-landmarks-v2",
+        "kaohsiung-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Wulai, Alishan und Kaohsiung von Norden nach Süden an.",
+        "hu": "Kattints Wulaira, Alishanra és Kaohsziungra északról délre.",
+        "ro": "Apasă Wulai, Alishan și Kaohsiung de la nord la sud.",
+        "en": "Click Wulai, Alishan, and Kaohsiung from north to south."
+      }
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "ht": [
+    {
+      "id": "ht-exp-find-sanssouci-palace",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde den Sans-Souci-Palast bei Milot im Norden Haitis.",
+        "hu": "Keresd meg a Sans-Souci-palotát Milot közelében, Haiti északi részén.",
+        "ro": "Găsește Palatul Sans-Souci de lângă Milot, în nordul statului Haiti.",
+        "en": "Find Sans-Souci Palace near Milot in northern Haiti."
+      },
+      "targetPoiId": "ht-sanssouci"
+    },
+    {
+      "id": "ht-exp-find-fort-jacques",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Fort Jacques in den Bergen südöstlich von Port-au-Prince?",
+        "hu": "Hol található a Fort Jacques az Port-au-Prince-től délkeletre fekvő hegyekben?",
+        "ro": "Unde se află Fort Jacques în munții de la sud-est de Port-au-Prince?",
+        "en": "Where is Fort Jacques in the mountains southeast of Port-au-Prince?"
+      },
+      "targetPoiId": "ht-fortjacques"
+    },
+    {
+      "id": "ht-exp-find-etang-saumatre",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde den Grenzsee Étang Saumâtre im Osten des Landes.",
+        "hu": "Keresd meg az Étang Saumâtre határ menti tavat az ország keleti részén.",
+        "ro": "Găsește lacul de frontieră Étang Saumâtre din estul țării.",
+        "en": "Find Étang Saumâtre, the border lake in the east of the country."
+      },
+      "targetPoiId": "ht-etangsaumatre"
+    },
+    {
+      "id": "ht-exp-find-saut-deau",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Saut-d'Eau im zentralen Bergland Haitis.",
+        "hu": "Keresd meg Saut-d'Eau települését Haiti központi hegyvidékén.",
+        "ro": "Găsește localitatea Saut-d'Eau din zona montană centrală a Haitului.",
+        "en": "Find Saut-d'Eau in Haiti's central highlands."
+      },
+      "targetPoiId": "ht-sautdeau"
+    },
+    {
+      "id": "ht-exp-find-tortuga-island",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt die Insel Tortuga nördlich der Nordwestküste?",
+        "hu": "Hol található Tortuga szigete az északnyugati partoktól északra?",
+        "ro": "Unde se află insula Tortuga, la nord de coasta nord-vestică?",
+        "en": "Where is Tortuga Island, north of the northwestern coast?"
+      },
+      "targetPoiId": "ht-tortue"
+    },
+    {
+      "id": "ht-exp-region-centre",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf das Département Centre im Landesinneren.",
+        "hu": "Kattints a szárazföld belsejében fekvő Centre megyére.",
+        "ro": "Apasă pe departamentul Centre din interiorul țării.",
+        "en": "Click the Centre department in the interior of the country."
+      },
+      "targetRegionId": "HTI-1385"
+    },
+    {
+      "id": "ht-exp-region-sud-est",
+      "type": "find_region",
+      "question": {
+        "de": "Finde Sud-Est mit Jacmel an Haitis Südküste.",
+        "hu": "Keresd meg a Sud-Est megyét Jacmellel Haiti déli partján.",
+        "ro": "Găsește departamentul Sud-Est, cu Jacmel pe coasta sudică a Haitului.",
+        "en": "Find Sud-Est, the department with Jacmel on Haiti's southern coast."
+      },
+      "targetRegionId": "HTI-1389"
+    },
+    {
+      "id": "ht-exp-region-sud",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf das Département Sud mit Les Cayes.",
+        "hu": "Kattints a Sud megyére, ahol Les Cayes található.",
+        "ro": "Apasă pe departamentul Sud, unde se află Les Cayes.",
+        "en": "Click the Sud department, home to Les Cayes."
+      },
+      "targetRegionId": "HTI-1362"
+    },
+    {
+      "id": "ht-exp-region-artibonite",
+      "type": "find_region",
+      "question": {
+        "de": "Finde L'Artibonite, das Département um Gonaïves und die Artibonite-Ebene.",
+        "hu": "Keresd meg L'Artibonite megyét Gonaïves és az Artibonite-síkság körül.",
+        "ro": "Găsește departamentul L'Artibonite, în jurul orașului Gonaïves și al câmpiei Artibonite.",
+        "en": "Find L'Artibonite, the department around Gonaïves and the Artibonite plain."
+      },
+      "targetRegionId": "HTI-1384"
+    },
+    {
+      "id": "ht-exp-region-nord-ouest",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf Nord-Ouest an der langen nordwestlichen Halbinsel.",
+        "hu": "Kattints a hosszú északnyugati félszigeten fekvő Nord-Ouest megyére.",
+        "ro": "Apasă pe Nord-Ouest, de pe lunga peninsulă din nord-vest.",
+        "en": "Click Nord-Ouest on the long northwestern peninsula."
+      },
+      "targetRegionId": "HTI-1361"
+    },
+    {
+      "id": "ht-exp-odd-only-island",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher dieser Orte ist als einziger eine Insel?",
+        "hu": "Melyik hely az egyetlen ezek közül, amely sziget?",
+        "ro": "Care dintre aceste locuri este singurul care este o insulă?",
+        "en": "Which of these places is the only island?"
+      },
+      "poiIds": [
+        "ht-tortue",
+        "ht-fortjacques",
+        "ht-etangsaumatre",
+        "ht-citadelle"
+      ],
+      "targetPoiId": "ht-tortue"
+    },
+    {
+      "id": "ht-exp-odd-only-waterfall-site",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher dieser Orte ist als einziger für einen Wasserfall bekannt?",
+        "hu": "Melyik hely ismert egyedüliként vízesésről?",
+        "ro": "Care dintre aceste locuri este cunoscut singurul pentru o cascadă?",
+        "en": "Which of these places is the only one known for a waterfall?"
+      },
+      "poiIds": [
+        "ht-sautdeau",
+        "ht-pantheon",
+        "ht-ironmarket",
+        "ht-fortcrete"
+      ],
+      "targetPoiId": "ht-sautdeau"
+    },
+    {
+      "id": "ht-exp-odd-farthest-east",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Osten?",
+        "hu": "Melyik hely fekszik a legkeletebbre?",
+        "ro": "Care dintre aceste locuri se află cel mai la est?",
+        "en": "Which of these places lies farthest east?"
+      },
+      "poiIds": [
+        "ht-mornelaselle",
+        "ht-etangsaumatre",
+        "ht-sautdeau",
+        "ht-fortjacques"
+      ],
+      "targetPoiId": "ht-mornelaselle"
+    },
+    {
+      "id": "ht-exp-odd-tiburon-peninsula",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher dieser Orte liegt auf der südwestlichen Tiburon-Halbinsel?",
+        "hu": "Melyik hely található a délnyugati Tiburon-félszigeten?",
+        "ro": "Care dintre aceste locuri se află pe peninsula Tiburon din sud-vest?",
+        "en": "Which of these places is on the southwestern Tiburon Peninsula?"
+      },
+      "poiIds": [
+        "ht-picmacaya",
+        "ht-citadelle",
+        "ht-fortjacques",
+        "ht-etangsaumatre"
+      ],
+      "targetPoiId": "ht-picmacaya"
+    },
+    {
+      "id": "ht-exp-odd-la-gonave-town",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher dieser Orte liegt als einziger auf La Gonâve?",
+        "hu": "Melyik hely található egyedüliként La Gonâve szigetén?",
+        "ro": "Care dintre aceste locuri se află singurul pe insula La Gonâve?",
+        "en": "Which of these places is the only one on La Gonâve Island?"
+      },
+      "poiIds": [
+        "haiti-anse-a-galets-la-gonave-cities-v2",
+        "haiti-marigot-cities-v2",
+        "haiti-pestel-cities-v2",
+        "ht-jacmel"
+      ],
+      "targetPoiId": "haiti-anse-a-galets-la-gonave-cities-v2"
+    },
+    {
+      "id": "ht-exp-sequence-west-east-north-coast",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke diese nördlichen Orte von Westen nach Osten an.",
+        "hu": "Kattints ezekre az északi helyekre nyugatról keletre haladva.",
+        "ro": "Apasă pe aceste locuri nordice de la vest la est.",
+        "en": "Click these northern places from west to east."
+      },
+      "poiIds": [
+        "ht-molesaintnicolas",
+        "ht-gonaives",
+        "ht-caphaitien",
+        "haiti-bassin-zim-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "ht-molesaintnicolas",
+        "ht-gonaives",
+        "ht-caphaitien",
+        "haiti-bassin-zim-cities-v2"
+      ]
+    },
+    {
+      "id": "ht-exp-sequence-north-south-northern-chain",
+      "type": "sequence",
+      "question": {
+        "de": "Ordne diese Orte von Norden nach Süden.",
+        "hu": "Rendezd ezeket a helyeket északról délre.",
+        "ro": "Ordonează aceste locuri de la nord la sud.",
+        "en": "Order these places from north to south."
+      },
+      "poiIds": [
+        "ht-tortue",
+        "ht-molesaintnicolas",
+        "ht-caphaitien",
+        "ht-gonaives"
+      ],
+      "orderedPoiIds": [
+        "ht-tortue",
+        "ht-molesaintnicolas",
+        "ht-caphaitien",
+        "ht-gonaives"
+      ]
+    },
+    {
+      "id": "ht-exp-sequence-west-east-historic-forts",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke diese historischen Orte von Westen nach Osten an.",
+        "hu": "Kattints ezekre a történelmi helyekre nyugatról keletre.",
+        "ro": "Apasă pe aceste locuri istorice de la vest la est.",
+        "en": "Click these historic places from west to east."
+      },
+      "poiIds": [
+        "ht-palais365",
+        "ht-fortcrete",
+        "ht-fortjacques",
+        "ht-citadelle"
+      ],
+      "orderedPoiIds": [
+        "ht-palais365",
+        "ht-fortcrete",
+        "ht-fortjacques",
+        "ht-citadelle"
+      ]
+    },
+    {
+      "id": "ht-exp-sequence-north-south-central-south",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke diese Orte von Norden nach Süden an.",
+        "hu": "Kattints ezekre a helyekre északról délre haladva.",
+        "ro": "Apasă pe aceste locuri de la nord la sud.",
+        "en": "Click these places from north to south."
+      },
+      "poiIds": [
+        "ht-sautdeau",
+        "ht-pap",
+        "ht-jacmel",
+        "ht-ileavache"
+      ],
+      "orderedPoiIds": [
+        "ht-sautdeau",
+        "ht-pap",
+        "ht-jacmel",
+        "ht-ileavache"
+      ]
+    },
+    {
+      "id": "ht-exp-sequence-west-east-southern-coast",
+      "type": "sequence",
+      "question": {
+        "de": "Ordne diese südlichen Küstenorte von Westen nach Osten.",
+        "hu": "Rendezd ezeket a déli tengerparti helyeket nyugatról keletre.",
+        "ro": "Ordonează aceste locuri de pe coasta sudică de la vest la est.",
+        "en": "Order these southern coastal places from west to east."
+      },
+      "poiIds": [
+        "ht-lescayes",
+        "ht-ileavache",
+        "ht-jacmel",
+        "haiti-marigot-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "ht-lescayes",
+        "ht-ileavache",
+        "ht-jacmel",
+        "haiti-marigot-cities-v2"
+      ]
+    }
+  ]
+}

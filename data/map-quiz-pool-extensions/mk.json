@@ -1,0 +1,309 @@
+{
+  "mk": [
+    {
+      "id": "mk-find-sveti-naum",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde das Kloster Sveti Naum am Ohridsee.",
+        "hu": "Keresd meg a Szent Naum-kolostort az Ohridi-tónál.",
+        "ro": "Găsește Mănăstirea Sfântul Naum de pe lacul Ohrid.",
+        "en": "Find Saint Naum Monastery on Lake Ohrid."
+      },
+      "targetPoiId": "northmacedonia-monastery-sveti-naum-landmarks-v2"
+    },
+    {
+      "id": "mk-find-kokino-observatory",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde das megalithische Observatorium von Kokino.",
+        "hu": "Keresd meg a kokinói megalitikus obszervatóriumot.",
+        "ro": "Găsește observatorul megalitic de la Kokino.",
+        "en": "Find the Kokino megalithic observatory."
+      },
+      "targetPoiId": "MK-032-kokino-observatory"
+    },
+    {
+      "id": "mk-find-kale-fortress",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde die Festung Kale in Skopje.",
+        "hu": "Keresd meg a szkopjei Kale erődöt.",
+        "ro": "Găsește fortăreața Kale din Skopje.",
+        "en": "Find Kale Fortress in Skopje."
+      },
+      "targetPoiId": "MK-068-kale-fortress"
+    },
+    {
+      "id": "mk-find-lesnovo-monastery",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde das Kloster Lesnovo im Osten des Landes.",
+        "hu": "Keresd meg a Lesnovo-kolostort az ország keleti részén.",
+        "ro": "Găsește Mănăstirea Lesnovo din estul țării.",
+        "en": "Find Lesnovo Monastery in the east of the country."
+      },
+      "targetPoiId": "MK-061-lesnovo-monastery"
+    },
+    {
+      "id": "mk-find-berovo-lake",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde den Berovo-See.",
+        "hu": "Keresd meg a Berovói-tavat.",
+        "ro": "Găsește lacul Berovo.",
+        "en": "Find Berovo Lake."
+      },
+      "targetPoiId": "MK-035-berovo-lake"
+    },
+    {
+      "id": "mk-region-kumanovo",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf die Gemeinde Kumanovo.",
+        "hu": "Kattints Kumanovo községére.",
+        "ro": "Apasă pe comuna Kumanovo.",
+        "en": "Click Kumanovo Municipality."
+      },
+      "targetRegionId": "MK-032"
+    },
+    {
+      "id": "mk-region-gevgelija",
+      "type": "find_region",
+      "question": {
+        "de": "Finde die Gemeinde Gevgelija an der Südgrenze.",
+        "hu": "Keresd meg a déli határnál fekvő Gevgelija községet.",
+        "ro": "Găsește comuna Gevgelija de la granița sudică.",
+        "en": "Find Gevgelija Municipality on the southern border."
+      },
+      "targetRegionId": "MK-015"
+    },
+    {
+      "id": "mk-region-krusevo",
+      "type": "find_region",
+      "question": {
+        "de": "Finde die Gemeinde Kruševo.",
+        "hu": "Keresd meg Kruševo községét.",
+        "ro": "Găsește comuna Kruševo.",
+        "en": "Find Kruševo Municipality."
+      },
+      "targetRegionId": "MK-056"
+    },
+    {
+      "id": "mk-region-berovo",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf die Gemeinde Berovo.",
+        "hu": "Kattints Berovo községére.",
+        "ro": "Apasă pe comuna Berovo.",
+        "en": "Click Berovo Municipality."
+      },
+      "targetRegionId": "MK-035"
+    },
+    {
+      "id": "mk-region-kicevo",
+      "type": "find_region",
+      "question": {
+        "de": "Finde die Gemeinde Kičevo im Westen des Landes.",
+        "hu": "Keresd meg az ország nyugati részén fekvő Kičevo községet.",
+        "ro": "Găsește comuna Kičevo din vestul țării.",
+        "en": "Find Kičevo Municipality in the west of the country."
+      },
+      "targetRegionId": "MK-065"
+    },
+    {
+      "id": "mk-odd-ohrid-prespa",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort liegt weder am Ohridsee noch am Prespasee?",
+        "hu": "Melyik hely nem az Ohridi- vagy a Preszpa-tónál található?",
+        "ro": "Care loc nu se află nici pe lacul Ohrid, nici pe lacul Prespa?",
+        "en": "Which place is neither on Lake Ohrid nor on Lake Prespa?"
+      },
+      "poiIds": [
+        "MK-007-ohrid-old-town",
+        "northmacedonia-st-john-caneo-landmarks-v2",
+        "MK-009-golem-grad",
+        "MK-016-tikves-lake"
+      ],
+      "targetPoiId": "MK-016-tikves-lake"
+    },
+    {
+      "id": "mk-odd-not-skopje",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche Sehenswürdigkeit liegt nicht in Skopje?",
+        "hu": "Melyik látnivaló nem Szkopjéban található?",
+        "ro": "Care obiectiv nu se află în Skopje?",
+        "en": "Which landmark is not in Skopje?"
+      },
+      "poiIds": [
+        "MK-045-old-bazaar",
+        "MK-046-stone-bridge",
+        "MK-068-kale-fortress",
+        "MK-019-heraclea-lyncestis"
+      ],
+      "targetPoiId": "MK-019-heraclea-lyncestis"
+    },
+    {
+      "id": "mk-odd-not-east",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche Stadt liegt nicht im Osten Nordmazedoniens?",
+        "hu": "Melyik város nem Észak-Macedónia keleti részén fekszik?",
+        "ro": "Care oraș nu se află în estul Macedoniei de Nord?",
+        "en": "Which town is not in eastern North Macedonia?"
+      },
+      "poiIds": [
+        "northmacedonia-berovo-cities-v2",
+        "northmacedonia-vinica-cities-v2",
+        "northmacedonia-radovis-cities-v2",
+        "MK-005-gostivar-city"
+      ],
+      "targetPoiId": "MK-005-gostivar-city"
+    },
+    {
+      "id": "mk-odd-not-archaeology",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort ist keine archäologische oder antike Stätte?",
+        "hu": "Melyik hely nem régészeti vagy ókori lelőhely?",
+        "ro": "Care loc nu este un sit arheologic sau antic?",
+        "en": "Which place is not an archaeological or ancient site?"
+      },
+      "poiIds": [
+        "MK-052-stobi-archaeological-site",
+        "MK-019-heraclea-lyncestis",
+        "MK-074-bargala-archaeological-site",
+        "MK-011-dojran-lake"
+      ],
+      "targetPoiId": "MK-011-dojran-lake"
+    },
+    {
+      "id": "mk-odd-not-southwest",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Naturraum liegt nicht im Südwesten Nordmazedoniens?",
+        "hu": "Melyik természeti terület nem Észak-Macedónia délnyugati részén található?",
+        "ro": "Care zonă naturală nu se află în sud-vestul Macedoniei de Nord?",
+        "en": "Which natural area is not in southwestern North Macedonia?"
+      },
+      "poiIds": [
+        "northmacedonia-mavrovo-life-v2",
+        "northmacedonia-galicica-life-v2",
+        "northmacedonia-pelister-life-v2",
+        "northmacedonia-osogovo-peak-relief-v2"
+      ],
+      "targetPoiId": "northmacedonia-osogovo-peak-relief-v2"
+    },
+    {
+      "id": "mk-sequence-west-east-cities",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Orte von West nach Ost an.",
+        "hu": "Kattints a helyekre nyugatról keletre.",
+        "ro": "Apasă locurile de la vest la est.",
+        "en": "Click the places from west to east."
+      },
+      "poiIds": [
+        "MK-007-ohrid-old-town",
+        "north-macedonia-prilep-cities-v2",
+        "north-macedonia-shtip-cities-v2",
+        "north-macedonia-strumica-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "MK-007-ohrid-old-town",
+        "north-macedonia-prilep-cities-v2",
+        "north-macedonia-shtip-cities-v2",
+        "north-macedonia-strumica-cities-v2"
+      ]
+    },
+    {
+      "id": "mk-sequence-north-south-corridor",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Orte von Nord nach Süd an.",
+        "hu": "Kattints a helyekre északról délre.",
+        "ro": "Apasă locurile de la nord la sud.",
+        "en": "Click the places from north to south."
+      },
+      "poiIds": [
+        "northmacedonia-kriva-palanka-cities-v2",
+        "northmacedonia-sveti-nikole-cities-v2",
+        "north-macedonia-kavadarci-cities-v2",
+        "north-macedonia-gevgelija-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "northmacedonia-kriva-palanka-cities-v2",
+        "northmacedonia-sveti-nikole-cities-v2",
+        "north-macedonia-kavadarci-cities-v2",
+        "north-macedonia-gevgelija-cities-v2"
+      ]
+    },
+    {
+      "id": "mk-sequence-west-east-landforms",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Landschaften von West nach Ost an.",
+        "hu": "Kattints a tájakra nyugatról keletre.",
+        "ro": "Apasă peisajele de la vest la est.",
+        "en": "Click the landscapes from west to east."
+      },
+      "poiIds": [
+        "northmacedonia-korab-peak-relief-v2",
+        "northmacedonia-babuna-canyon-life-v2",
+        "northmacedonia-vardar-valley-relief-v2",
+        "northmacedonia-belasica-life-v2"
+      ],
+      "orderedPoiIds": [
+        "northmacedonia-korab-peak-relief-v2",
+        "northmacedonia-babuna-canyon-life-v2",
+        "northmacedonia-vardar-valley-relief-v2",
+        "northmacedonia-belasica-life-v2"
+      ]
+    },
+    {
+      "id": "mk-sequence-south-north-sites",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Orte von Süd nach Nord an.",
+        "hu": "Kattints a helyekre délről északra.",
+        "ro": "Apasă locurile de la sud la nord.",
+        "en": "Click the places from south to north."
+      },
+      "poiIds": [
+        "northmacedonia-galicica-life-v2",
+        "northmacedonia-pelister-life-v2",
+        "MK-052-stobi-archaeological-site",
+        "MK-032-kokino-observatory"
+      ],
+      "orderedPoiIds": [
+        "northmacedonia-galicica-life-v2",
+        "northmacedonia-pelister-life-v2",
+        "MK-052-stobi-archaeological-site",
+        "MK-032-kokino-observatory"
+      ]
+    },
+    {
+      "id": "mk-sequence-west-east-eastbelt",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Orte von West nach Ost an.",
+        "hu": "Kattints a helyekre nyugatról keletre.",
+        "ro": "Apasă locurile de la vest la est.",
+        "en": "Click the places from west to east."
+      },
+      "poiIds": [
+        "MK-061-lesnovo-monastery",
+        "MK-074-bargala-archaeological-site",
+        "MK-080-vinica-fortress",
+        "MK-035-berovo-lake"
+      ],
+      "orderedPoiIds": [
+        "MK-061-lesnovo-monastery",
+        "MK-074-bargala-archaeological-site",
+        "MK-080-vinica-fortress",
+        "MK-035-berovo-lake"
+      ]
+    }
+  ]
+}

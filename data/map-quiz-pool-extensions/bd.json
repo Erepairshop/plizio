@@ -1,0 +1,234 @@
+{
+  "bd": [
+    {
+      "id": "bd-find-rajshahi-padma",
+      "type": "find_poi",
+      "targetPoiId": "rajshahi-cities-v2",
+      "question": {
+        "de": "Finde Rajshahi im Westen Bangladeschs am Padma-Fluss.",
+        "hu": "Keresd meg Rádzsáhit Banglades nyugati részén, a Padma folyónál.",
+        "ro": "Găsește Rajshahi în vestul Bangladeshului, pe râul Padma.",
+        "en": "Find Rajshahi in western Bangladesh on the Padma River."
+      }
+    },
+    {
+      "id": "bd-find-rangpur-north",
+      "type": "find_poi",
+      "targetPoiId": "rangpur-cities-v2",
+      "question": {
+        "de": "Finde Rangpur im Norden des Landes.",
+        "hu": "Keresd meg Rangpurt az ország északi részén.",
+        "ro": "Găsește Rangpur în nordul țării.",
+        "en": "Find Rangpur in the north of the country."
+      }
+    },
+    {
+      "id": "bd-find-barisal-delta",
+      "type": "find_poi",
+      "targetPoiId": "barisal-cities-v2",
+      "question": {
+        "de": "Finde Barisal im südlichen Flussdelta.",
+        "hu": "Keresd meg Barisalt a déli folyódeltában.",
+        "ro": "Găsește Barisal în delta sudică a râurilor.",
+        "en": "Find Barisal in the southern river delta."
+      }
+    },
+    {
+      "id": "bd-find-coxs-bazar-coast",
+      "type": "find_poi",
+      "targetPoiId": "coxs-bazar-cities-v2",
+      "question": {
+        "de": "Finde Cox's Bazar an der Küste des Golfs von Bengalen.",
+        "hu": "Keresd meg Cox's Bazart a Bengáli-öböl partján.",
+        "ro": "Găsește Cox's Bazar pe coasta Golfului Bengal.",
+        "en": "Find Cox's Bazar on the coast of the Bay of Bengal."
+      }
+    },
+    {
+      "id": "bd-find-muradpur-sitakunda",
+      "type": "find_poi",
+      "targetPoiId": "bangladesh-muradpur-cities-v2",
+      "question": {
+        "de": "Finde Muradpur nördlich von Chittagong nahe der Küste von Sitakunda.",
+        "hu": "Keresd meg Muradpurt Csittagongtól északra, Sitakunda partvidéke közelében.",
+        "ro": "Găsește Muradpur la nord de Chittagong, aproape de coasta Sitakunda.",
+        "en": "Find Muradpur north of Chittagong near the Sitakunda coast."
+      }
+    },
+    {
+      "id": "bd-region-chittagong-southeast",
+      "type": "find_region",
+      "targetRegionId": "BGD-2476",
+      "question": {
+        "de": "Klicke auf die Division Chittagong im Südosten.",
+        "hu": "Kattints a délkeleti Chittagong körzetre.",
+        "ro": "Apasă pe diviziunea Chittagong din sud-est.",
+        "en": "Click the Chittagong Division in the southeast."
+      }
+    },
+    {
+      "id": "bd-region-khulna-southwest",
+      "type": "find_region",
+      "targetRegionId": "BGD-2432",
+      "question": {
+        "de": "Finde die Division Khulna im Südwesten.",
+        "hu": "Keresd meg a délnyugati Khulna körzetet.",
+        "ro": "Găsește diviziunea Khulna din sud-vest.",
+        "en": "Find Khulna Division in the southwest."
+      }
+    },
+    {
+      "id": "bd-region-rajshahi-west",
+      "type": "find_region",
+      "targetRegionId": "BGD-3255",
+      "question": {
+        "de": "Klicke auf die Division Rajshahi im Westen.",
+        "hu": "Kattints a nyugati Rajshahi körzetre.",
+        "ro": "Apasă pe diviziunea Rajshahi din vest.",
+        "en": "Click the Rajshahi Division in the west."
+      }
+    },
+    {
+      "id": "bd-region-rangpur-northwest",
+      "type": "find_region",
+      "targetRegionId": "BGD-5492",
+      "question": {
+        "de": "Finde die Division Rangpur im Nordwesten.",
+        "hu": "Keresd meg az északnyugati Rangpur körzetet.",
+        "ro": "Găsește diviziunea Rangpur din nord-vest.",
+        "en": "Find the Rangpur Division in the northwest."
+      }
+    },
+    {
+      "id": "bd-region-barisal-delta",
+      "type": "find_region",
+      "targetRegionId": "BGD-2475",
+      "question": {
+        "de": "Klicke auf die Division Barisal im südlichen Delta.",
+        "hu": "Kattints a déli deltában fekvő Barisal körzetre.",
+        "ro": "Apasă pe diviziunea Barisal din delta sudică.",
+        "en": "Click the Barisal Division in the southern delta."
+      }
+    },
+    {
+      "id": "bd-odd-easternmost-among-three",
+      "type": "odd_one_out",
+      "poiIds": ["rajshahi-cities-v2", "dhaka-cities-v2", "sylhet-cities-v2"],
+      "targetPoiId": "sylhet-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten im Osten?",
+        "hu": "Melyik város fekszik a legkeletebbre?",
+        "ro": "Care dintre aceste orașe se află cel mai la est?",
+        "en": "Which of these cities lies farthest east?"
+      }
+    },
+    {
+      "id": "bd-odd-westernmost-among-three",
+      "type": "odd_one_out",
+      "poiIds": ["sylhet-cities-v2", "dhaka-cities-v2", "khulna-cities-v2"],
+      "targetPoiId": "khulna-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten im Westen?",
+        "hu": "Melyik város fekszik a legnyugatabbra?",
+        "ro": "Care dintre aceste orașe se află cel mai la vest?",
+        "en": "Which of these cities lies farthest west?"
+      }
+    },
+    {
+      "id": "bd-odd-northernmost-among-three",
+      "type": "odd_one_out",
+      "poiIds": ["barisal-cities-v2", "rajshahi-cities-v2", "rangpur-cities-v2"],
+      "targetPoiId": "rangpur-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten im Norden?",
+        "hu": "Melyik város fekszik a legészakabbra?",
+        "ro": "Care dintre aceste orașe se află cel mai la nord?",
+        "en": "Which of these cities lies farthest north?"
+      }
+    },
+    {
+      "id": "bd-odd-bay-of-bengal-city",
+      "type": "odd_one_out",
+      "poiIds": ["rajshahi-cities-v2", "sylhet-cities-v2", "coxs-bazar-cities-v2"],
+      "targetPoiId": "coxs-bazar-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt direkt am Golf von Bengalen?",
+        "hu": "Melyik város fekszik közvetlenül a Bengáli-öböl partján?",
+        "ro": "Care dintre aceste orașe se află direct pe Golful Bengal?",
+        "en": "Which of these cities sits directly on the Bay of Bengal?"
+      }
+    },
+    {
+      "id": "bd-odd-major-seaport",
+      "type": "odd_one_out",
+      "poiIds": ["dhaka-cities-v2", "chittagong-cities-v2", "rangpur-cities-v2"],
+      "targetPoiId": "chittagong-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte ist ein großer Seehafen?",
+        "hu": "Melyik város nagy tengeri kikötő?",
+        "ro": "Care dintre aceste orașe este un mare port maritim?",
+        "en": "Which of these cities is a major seaport?"
+      }
+    },
+    {
+      "id": "bd-sequence-east-corridor-north-south",
+      "type": "sequence",
+      "poiIds": ["sylhet-cities-v2", "dhaka-cities-v2", "chittagong-cities-v2", "coxs-bazar-cities-v2"],
+      "orderedPoiIds": ["sylhet-cities-v2", "dhaka-cities-v2", "chittagong-cities-v2", "coxs-bazar-cities-v2"],
+      "question": {
+        "de": "Klicke Sylhet, Dhaka, Chittagong und Cox's Bazar von Norden nach Süden an.",
+        "hu": "Kattints Sylhetre, Dakkára, Csittagongra és Cox's Bazarra északról délre.",
+        "ro": "Apasă pe Sylhet, Dhaka, Chittagong și Cox's Bazar de la nord la sud.",
+        "en": "Click Sylhet, Dhaka, Chittagong and Cox's Bazar from north to south."
+      }
+    },
+    {
+      "id": "bd-sequence-southern-west-east",
+      "type": "sequence",
+      "poiIds": ["khulna-cities-v2", "barisal-cities-v2", "dhaka-cities-v2", "chittagong-cities-v2"],
+      "orderedPoiIds": ["khulna-cities-v2", "barisal-cities-v2", "dhaka-cities-v2", "chittagong-cities-v2"],
+      "question": {
+        "de": "Klicke Khulna, Barisal, Dhaka und Chittagong von Westen nach Osten an.",
+        "hu": "Kattints Khulnára, Barisalra, Dakkára és Csittagongra nyugatról keletre.",
+        "ro": "Apasă pe Khulna, Barisal, Dhaka și Chittagong de la vest la est.",
+        "en": "Click Khulna, Barisal, Dhaka and Chittagong from west to east."
+      }
+    },
+    {
+      "id": "bd-sequence-western-north-south",
+      "type": "sequence",
+      "poiIds": ["rangpur-cities-v2", "rajshahi-cities-v2", "khulna-cities-v2"],
+      "orderedPoiIds": ["rangpur-cities-v2", "rajshahi-cities-v2", "khulna-cities-v2"],
+      "question": {
+        "de": "Klicke Rangpur, Rajshahi und Khulna von Norden nach Süden an.",
+        "hu": "Kattints Rangpurra, Rádzsahira és Khulnára északról délre.",
+        "ro": "Apasă pe Rangpur, Rajshahi și Khulna de la nord la sud.",
+        "en": "Click Rangpur, Rajshahi and Khulna from north to south."
+      }
+    },
+    {
+      "id": "bd-sequence-west-to-capital",
+      "type": "sequence",
+      "poiIds": ["rajshahi-cities-v2", "khulna-cities-v2", "dhaka-cities-v2"],
+      "orderedPoiIds": ["rajshahi-cities-v2", "khulna-cities-v2", "dhaka-cities-v2"],
+      "question": {
+        "de": "Klicke Rajshahi, Khulna und Dhaka von Westen nach Osten an.",
+        "hu": "Kattints Rádzsahira, Khulnára és Dakkára nyugatról keletre.",
+        "ro": "Apasă pe Rajshahi, Khulna și Dhaka de la vest la est.",
+        "en": "Click Rajshahi, Khulna and Dhaka from west to east."
+      }
+    },
+    {
+      "id": "bd-sequence-river-belt-north-south",
+      "type": "sequence",
+      "poiIds": ["rangpur-cities-v2", "dhaka-cities-v2", "barisal-cities-v2"],
+      "orderedPoiIds": ["rangpur-cities-v2", "dhaka-cities-v2", "barisal-cities-v2"],
+      "question": {
+        "de": "Klicke Rangpur, Dhaka und Barisal von Norden nach Süden an.",
+        "hu": "Kattints Rangpurra, Dakkára és Barisalra északról délre.",
+        "ro": "Apasă pe Rangpur, Dhaka și Barisal de la nord la sud.",
+        "en": "Click Rangpur, Dhaka and Barisal from north to south."
+      }
+    }
+  ]
+}

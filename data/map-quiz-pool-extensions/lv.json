@@ -1,0 +1,281 @@
+{
+  "lv": [
+    {
+      "id": "lv-find-jurmala",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde J?rmala, den langen Badeort westlich von Riga.",
+        "hu": "Keresd meg J?rmal?t, a Rig?t?l nyugatra fekv? hossz? tengerparti ?d?l?v?rost.",
+        "ro": "G?se?te J?rmala, lunga sta?iune de la vest de Riga.",
+        "en": "Find J?rmala, the long seaside resort west of Riga."
+      },
+      "targetPoiId": "lv-jurmala"
+    },
+    {
+      "id": "lv-find-rundale",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt das Schloss Rund?le in Zemgale?",
+        "hu": "Hol tal?lhat? a Zemgal?ban fekv? Rund?le-kast?ly?",
+        "ro": "Unde se afl? Palatul Rund?le din Zemgale?",
+        "en": "Where is Rund?le Palace in Zemgale?"
+      },
+      "targetPoiId": "lv-rundale"
+    },
+    {
+      "id": "lv-find-aglona-basilica",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde die Basilika von Aglona in Latgale.",
+        "hu": "Keresd meg az aglonai bazilik?t Latgal?ban.",
+        "ro": "G?se?te Basilica din Aglona ?n Latgale.",
+        "en": "Find Aglona Basilica in Latgale."
+      },
+      "targetPoiId": "lv-aglona-basilica"
+    },
+    {
+      "id": "lv-find-cape-kolka",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Kap Kolka an der Nordspitze von Kurzeme.",
+        "hu": "Keresd meg a Kurzeme ?szaki cs?csk?n fekv? Kolka-fokot.",
+        "ro": "G?se?te Capul Kolka de la extremitatea nordic? a Kurzemei.",
+        "en": "Find Cape Kolka at the northern tip of Kurzeme."
+      },
+      "targetPoiId": "nat-cape-kolka"
+    },
+    {
+      "id": "lv-find-daugavpils-fortress",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt die Festung von Daugavpils?",
+        "hu": "Hol tal?lhat? a daugavpilsi er?d?",
+        "ro": "Unde se afl? Fort?rea?a Daugavpils?",
+        "en": "Where is Daugavpils Fortress?"
+      },
+      "targetPoiId": "lv-daugavpils-fortress"
+    },
+    {
+      "id": "lv-find-kemeri",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde den ?emeri-Nationalpark westlich von Riga.",
+        "hu": "Keresd meg a Rig?t?l nyugatra fekv? ?emeri Nemzeti Parkot.",
+        "ro": "G?se?te Parcul Na?ional ?emeri aflat la vest de Riga.",
+        "en": "Find ?emeri National Park west of Riga."
+      },
+      "targetPoiId": "nat-kemeri"
+    },
+    {
+      "id": "lv-find-koknese-castle-ruins",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde die Burgruine von Koknese an der Daugava.",
+        "hu": "Keresd meg a Daugava partj?n ?ll? koknesei v?rromot.",
+        "ro": "G?se?te ruinele castelului Koknese de pe Daugava.",
+        "en": "Find Koknese Castle Ruins on the Daugava."
+      },
+      "targetPoiId": "lv-koknese-castle-ruins"
+    },
+    {
+      "id": "lv-region-jurmala",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf das Stadtgebiet von J?rmala.",
+        "hu": "Kattints J?rmala v?rosi ter?let?re.",
+        "ro": "Apas? pe teritoriul ora?ului J?rmala.",
+        "en": "Click the city area of J?rmala."
+      },
+      "targetRegionId": "LV-JUR"
+    },
+    {
+      "id": "lv-region-ventspils",
+      "type": "find_region",
+      "question": {
+        "de": "Finde das Stadtgebiet von Ventspils an der Ostseek?ste.",
+        "hu": "Keresd meg a Balti-tenger partj?n fekv? Ventspils v?rosi ter?let?t.",
+        "ro": "G?se?te teritoriul ora?ului Ventspils de pe coasta baltic?.",
+        "en": "Find the city area of Ventspils on the Baltic coast."
+      },
+      "targetRegionId": "LV-VEN"
+    },
+    {
+      "id": "lv-region-cesis",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf die Gemeinde C?sis in Vidzeme.",
+        "hu": "Kattints a Vidzem?ben fekv? C?sis j?r?sra.",
+        "ro": "Apas? pe municipiul C?sis din Vidzeme.",
+        "en": "Click C?sis Municipality in Vidzeme."
+      },
+      "targetRegionId": "LV-022"
+    },
+    {
+      "id": "lv-region-kuldiga",
+      "type": "find_region",
+      "question": {
+        "de": "Finde die Gemeinde Kuld?ga in Westlettland.",
+        "hu": "Keresd meg a nyugat-lettorsz?gi Kuld?ga j?r?st.",
+        "ro": "G?se?te municipiul Kuld?ga din vestul Letoniei.",
+        "en": "Find Kuld?ga Municipality in western Latvia."
+      },
+      "targetRegionId": "LV-050"
+    },
+    {
+      "id": "lv-region-aglona",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf die Gemeinde Aglona in Latgale.",
+        "hu": "Kattints a Latgal?ban fekv? Aglona j?r?sra.",
+        "ro": "Apas? pe municipiul Aglona din Latgale.",
+        "en": "Click Aglona Municipality in Latgale."
+      },
+      "targetRegionId": "LV-001"
+    },
+    {
+      "id": "lv-odd-furthest-inland-city",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser St?dte liegt am weitesten vom Ostseestrand entfernt?",
+        "hu": "Melyik v?ros fekszik ezek k?z?l a legt?volabb a Balti-tenger partj?t?l?",
+        "ro": "Care dintre aceste ora?e se afl? cel mai departe de ??rmul M?rii Baltice?",
+        "en": "Which of these cities lies furthest from the Baltic shore?"
+      },
+      "poiIds": [
+        "lv-liepaja",
+        "lv-ventspils",
+        "lv-salacgriva",
+        "city-daugavpils"
+      ],
+      "targetPoiId": "city-daugavpils"
+    },
+    {
+      "id": "lv-odd-lake-not-river",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welches dieser Gew?sser ist ein See und kein Fluss?",
+        "hu": "Melyik v?zrajzi elem t?, ?s nem foly??",
+        "ro": "Care dintre aceste ape este un lac, nu un r?u?",
+        "en": "Which of these bodies of water is a lake rather than a river?"
+      },
+      "poiIds": [
+        "lv-daugava-river",
+        "lv-gauja-river",
+        "lv-venta-river",
+        "lv-lubans-lake"
+      ],
+      "targetPoiId": "lv-lubans-lake"
+    },
+    {
+      "id": "lv-odd-latgale-site",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher dieser Orte liegt in Latgale und nicht in Vidzeme?",
+        "hu": "Melyik hely tal?lhat? Latgal?ban, ?s nem Vidzem?ben?",
+        "ro": "Care dintre aceste locuri se afl? ?n Latgale, nu ?n Vidzeme?",
+        "en": "Which of these places is in Latgale rather than Vidzeme?"
+      },
+      "poiIds": [
+        "lv-turaida-castle",
+        "lv-cesis-castle",
+        "lv-aglona-basilica",
+        "lv-burtnieks-lake"
+      ],
+      "targetPoiId": "lv-aglona-basilica"
+    },
+    {
+      "id": "lv-odd-zemgale-site",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher dieser Orte liegt in Zemgale und nicht in Vidzeme oder Latgale?",
+        "hu": "Melyik hely fekszik Zemgal?ban, ?s nem Vidzem?ben vagy Latgal?ban?",
+        "ro": "Care dintre aceste locuri se afl? ?n Zemgale, nu ?n Vidzeme sau Latgale?",
+        "en": "Which of these places is in Zemgale rather than Vidzeme or Latgale?"
+      },
+      "poiIds": [
+        "lv-rundale",
+        "lv-turaida-castle",
+        "lv-cesis-castle",
+        "lv-aglona-basilica"
+      ],
+      "targetPoiId": "lv-rundale"
+    },
+    {
+      "id": "lv-odd-island-site",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher dieser Orte liegt auf einer Insel?",
+        "hu": "Melyik hely tal?lhat? egy szigeten?",
+        "ro": "Care dintre aceste locuri se afl? pe o insul??",
+        "en": "Which of these places is located on an island?"
+      },
+      "poiIds": [
+        "lv-moricsala-island",
+        "lv-lubans-lake",
+        "lv-gaizinkalns",
+        "nat-kemeri"
+      ],
+      "targetPoiId": "lv-moricsala-island"
+    },
+    {
+      "id": "lv-sequence-gulf-coast-north-south",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke diese Orte an der Rigaer Bucht von Norden nach S?den an: Aina?i, Salacgr?va, Saulkrasti.",
+        "hu": "Kattints ezekre a Rigai-?b?l menti helyekre ?szakr?l d?lre: Aina?i, Salacgr?va, Saulkrasti.",
+        "ro": "Apas? aceste locuri de pe Golful Riga de la nord la sud: Aina?i, Salacgr?va, Saulkrasti.",
+        "en": "Click these Gulf of Riga places from north to south: Aina?i, Salacgr?va, Saulkrasti."
+      },
+      "poiIds": [
+        "lv-ainazi",
+        "lv-salacgriva",
+        "latvia-saulkrasti-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "lv-ainazi",
+        "lv-salacgriva",
+        "latvia-saulkrasti-cities-v2"
+      ]
+    },
+    {
+      "id": "lv-sequence-west-east-sights",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke diese Orte von Westen nach Osten an: Kap Kolka, Riga, Aglona.",
+        "hu": "Kattints ezekre a helyekre nyugatr?l keletre: Kolka-fok, Riga, Aglona.",
+        "ro": "Apas? aceste locuri de la vest la est: Capul Kolka, Riga, Aglona.",
+        "en": "Click these places from west to east: Cape Kolka, Riga, Aglona."
+      },
+      "poiIds": [
+        "nat-cape-kolka",
+        "lv-riga",
+        "lv-aglona-basilica"
+      ],
+      "orderedPoiIds": [
+        "nat-cape-kolka",
+        "lv-riga",
+        "lv-aglona-basilica"
+      ]
+    },
+    {
+      "id": "lv-sequence-south-north-cities",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke diese St?dte von S?den nach Norden an: Bauska, Ogre, Valmiera.",
+        "hu": "Kattints ezekre a v?rosokra d?lr?l ?szakra: Bauska, Ogre, Valmiera.",
+        "ro": "Apas? aceste ora?e de la sud la nord: Bauska, Ogre, Valmiera.",
+        "en": "Click these cities from south to north: Bauska, Ogre, Valmiera."
+      },
+      "poiIds": [
+        "lv-bauska",
+        "lv-ogre",
+        "lv-valmiera"
+      ],
+      "orderedPoiIds": [
+        "lv-bauska",
+        "lv-ogre",
+        "lv-valmiera"
+      ]
+    }
+  ]
+}

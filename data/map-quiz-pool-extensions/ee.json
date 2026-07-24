@@ -1,0 +1,303 @@
+{
+  "ee": [
+    {
+      "id": "ee-find-parnu-beach",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde den Strand von Pärnu an der Westküste.",
+        "hu": "Keresd meg Pärnu strandját a nyugati parton.",
+        "ro": "Găsește plaja din Pärnu de pe coasta vestică.",
+        "en": "Find Pärnu Beach on the western coast."
+      },
+      "targetPoiId": "cult-parnu-beach"
+    },
+    {
+      "id": "ee-find-kardla",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Kärdla auf der Insel Hiiumaa?",
+        "hu": "Hol található Kärdla Hiiumaa szigetén?",
+        "ro": "Unde se află Kärdla pe insula Hiiumaa?",
+        "en": "Where is Kärdla on Hiiumaa island?"
+      },
+      "targetPoiId": "city-kardla"
+    },
+    {
+      "id": "ee-find-voru",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Võru im Süden Estlands.",
+        "hu": "Keresd meg Võrut Észtország déli részén.",
+        "ro": "Găsește Võru în sudul Estoniei.",
+        "en": "Find Võru in southern Estonia."
+      },
+      "targetPoiId": "city-voru"
+    },
+    {
+      "id": "ee-find-lake-peipus",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt der Peipussee an der Ostgrenze Estlands?",
+        "hu": "Hol található a Peipus-tó Észtország keleti határán?",
+        "ro": "Unde se află Lacul Peipus la granița estică a Estoniei?",
+        "en": "Where is Lake Peipus on Estonia's eastern border?"
+      },
+      "targetPoiId": "nat-peipus"
+    },
+    {
+      "id": "ee-find-tallinn-tv-tower",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde den Tallinner Fernsehturm östlich des Stadtzentrums.",
+        "hu": "Keresd meg a tallinni tévétornyot a városközponttól keletre.",
+        "ro": "Găsește turnul de televiziune din Tallinn, la est de centru.",
+        "en": "Find the Tallinn TV Tower east of the city center."
+      },
+      "targetPoiId": "land-tallinn-tv-tower"
+    },
+    {
+      "id": "ee-find-estonian-national-museum",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt das Estnische Nationalmuseum in Tartu?",
+        "hu": "Hol található az Észt Nemzeti Múzeum Tartuban?",
+        "ro": "Unde se află Muzeul Național al Estoniei din Tartu?",
+        "en": "Where is the Estonian National Museum in Tartu?"
+      },
+      "targetPoiId": "land-estonian-national-museum"
+    },
+    {
+      "id": "ee-region-ida-viru",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf den Kreis Ida-Viru im Nordosten Estlands.",
+        "hu": "Kattints Ida-Viru megyére Észtország északkeleti részén.",
+        "ro": "Apasă pe comitatul Ida-Viru din nord-estul Estoniei.",
+        "en": "Click Ida-Viru County in northeastern Estonia."
+      },
+      "targetRegionId": "EE-44"
+    },
+    {
+      "id": "ee-region-hiiu",
+      "type": "find_region",
+      "question": {
+        "de": "Finde den Inselkreis Hiiu auf Hiiumaa.",
+        "hu": "Keresd meg Hiiu szigetmegyét Hiiumaa szigetén.",
+        "ro": "Găsește comitatul insular Hiiu de pe Hiiumaa.",
+        "en": "Find Hiiu, the county on Hiiumaa island."
+      },
+      "targetRegionId": "EE-39"
+    },
+    {
+      "id": "ee-region-parnu",
+      "type": "find_region",
+      "question": {
+        "de": "Wo liegt der Kreis Pärnu an der Südwestküste?",
+        "hu": "Hol található Pärnu megye a délnyugati parton?",
+        "ro": "Unde se află comitatul Pärnu pe coasta de sud-vest?",
+        "en": "Where is Pärnu County on the southwest coast?"
+      },
+      "targetRegionId": "EE-67"
+    },
+    {
+      "id": "ee-region-valga",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf den südlichen Grenzkreis Valga.",
+        "hu": "Kattints a déli határ mentén fekvő Valga megyére.",
+        "ro": "Apasă pe comitatul sudic de graniță Valga.",
+        "en": "Click Valga, the southern border county."
+      },
+      "targetRegionId": "EE-82"
+    },
+    {
+      "id": "ee-region-viljandi",
+      "type": "find_region",
+      "question": {
+        "de": "Finde den Kreis Viljandi im Süden des Landesinneren.",
+        "hu": "Keresd meg Viljandi megyét a déli belső területeken.",
+        "ro": "Găsește comitatul Viljandi din sudul interior al țării.",
+        "en": "Find Viljandi County in the south-central interior."
+      },
+      "targetRegionId": "EE-84"
+    },
+    {
+      "id": "ee-odd-on-hiiumaa",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Städte liegt auf der Insel Hiiumaa?",
+        "hu": "Ezek közül melyik város található Hiiumaa szigetén?",
+        "ro": "Care dintre aceste orașe se află pe insula Hiiumaa?",
+        "en": "Which of these towns is on Hiiumaa island?"
+      },
+      "poiIds": [
+        "city-kardla",
+        "ee-haapsalu",
+        "city-kuressaare",
+        "city-rapla"
+      ],
+      "targetPoiId": "city-kardla"
+    },
+    {
+      "id": "ee-odd-in-narva",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher dieser Orte liegt in Narva?",
+        "hu": "Ezek közül melyik hely található Narvában?",
+        "ro": "Care dintre aceste locuri se află în Narva?",
+        "en": "Which of these places is in Narva?"
+      },
+      "poiIds": [
+        "cult-narva-castle",
+        "land-estonian-national-museum",
+        "hist-kuressaare-castle",
+        "cult-tallinn-oldtown"
+      ],
+      "targetPoiId": "cult-narva-castle"
+    },
+    {
+      "id": "ee-odd-on-saaremaa",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Städte liegt auf Saaremaa?",
+        "hu": "Ezek közül melyik város található Saaremaa szigetén?",
+        "ro": "Care dintre aceste orașe se află pe Saaremaa?",
+        "en": "Which of these towns is on Saaremaa?"
+      },
+      "poiIds": [
+        "city-kuressaare",
+        "city-kardla",
+        "ee-parnu",
+        "city-valga"
+      ],
+      "targetPoiId": "city-kuressaare"
+    },
+    {
+      "id": "ee-odd-in-south",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Städte liegt im Süden Estlands?",
+        "hu": "Ezek közül melyik város fekszik Észtország déli részén?",
+        "ro": "Care dintre aceste orașe se află în sudul Estoniei?",
+        "en": "Which of these towns is in southern Estonia?"
+      },
+      "poiIds": [
+        "city-voru",
+        "city-kardla",
+        "city-johvi",
+        "ee-tallinn"
+      ],
+      "targetPoiId": "city-voru"
+    },
+    {
+      "id": "ee-sequence-cities-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke diese Orte von Westen nach Osten an.",
+        "hu": "Kattints ezekre a helyekre nyugatról keletre haladva.",
+        "ro": "Apasă aceste locuri de la vest la est.",
+        "en": "Click these places from west to east."
+      },
+      "poiIds": [
+        "city-kardla",
+        "ee-parnu",
+        "ee-tartu",
+        "ee-narva"
+      ],
+      "orderedPoiIds": [
+        "city-kardla",
+        "ee-parnu",
+        "ee-tartu",
+        "ee-narva"
+      ]
+    },
+    {
+      "id": "ee-sequence-cities-north-south",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke diese Städte von Norden nach Süden an.",
+        "hu": "Kattints ezekre a városokra északról délre haladva.",
+        "ro": "Apasă aceste orașe de la nord la sud.",
+        "en": "Click these towns from north to south."
+      },
+      "poiIds": [
+        "city-kardla",
+        "city-paide",
+        "ee-parnu",
+        "city-voru"
+      ],
+      "orderedPoiIds": [
+        "city-kardla",
+        "city-paide",
+        "ee-parnu",
+        "city-voru"
+      ]
+    },
+    {
+      "id": "ee-sequence-islands-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke diese Inseln oder Inselorte von Westen nach Osten an.",
+        "hu": "Kattints ezekre a szigetekre vagy szigeti helyekre nyugatról keletre haladva.",
+        "ro": "Apasă aceste insule sau locuri insulare de la vest la est.",
+        "en": "Click these islands or island places from west to east."
+      },
+      "poiIds": [
+        "nat-vilsandi",
+        "nat-saaremaa",
+        "cult-kihnu",
+        "nat-peipus"
+      ],
+      "orderedPoiIds": [
+        "nat-vilsandi",
+        "nat-saaremaa",
+        "cult-kihnu",
+        "nat-peipus"
+      ]
+    },
+    {
+      "id": "ee-sequence-nature-north-south",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke diese Naturorte von Norden nach Süden an.",
+        "hu": "Kattints ezekre a természeti helyekre északról délre haladva.",
+        "ro": "Apasă aceste locuri naturale de la nord la sud.",
+        "en": "Click these natural places from north to south."
+      },
+      "poiIds": [
+        "ee-lahemaa",
+        "nat-matsalu",
+        "nat-vortsjarv",
+        "nat-suur-munamagi"
+      ],
+      "orderedPoiIds": [
+        "ee-lahemaa",
+        "nat-matsalu",
+        "nat-vortsjarv",
+        "nat-suur-munamagi"
+      ]
+    },
+    {
+      "id": "ee-sequence-ports-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke diese Häfen von Westen nach Osten an.",
+        "hu": "Kattints ezekre a kikötőkre nyugatról keletre haladva.",
+        "ro": "Apasă aceste porturi de la vest la est.",
+        "en": "Click these ports from west to east."
+      },
+      "poiIds": [
+        "port-paldiski-south",
+        "port-parnu",
+        "port-tallinn",
+        "port-muuga"
+      ],
+      "orderedPoiIds": [
+        "port-paldiski-south",
+        "port-parnu",
+        "port-tallinn",
+        "port-muuga"
+      ]
+    }
+  ]
+}

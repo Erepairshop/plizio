@@ -1,0 +1,327 @@
+{
+  "lu": [
+    {
+      "id": "lu-find-differdange-southwest",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Differdingen im Südwesten Luxemburgs.",
+        "hu": "Keresd meg Differdange városát Luxemburg délnyugati részén.",
+        "ro": "Găsește Differdange în sud-vestul Luxemburgului.",
+        "en": "Find Differdange in southwestern Luxembourg."
+      },
+      "targetPoiId": "luxembourg-differdange-cities-v2"
+    },
+    {
+      "id": "lu-find-dudelange-far-south",
+      "type": "find_poi",
+      "question": {
+        "de": "Klicke auf Düdelingen ganz im Süden nahe Frankreich.",
+        "hu": "Kattints Dudelange városára az ország legdélibb részén, Franciaország közelében.",
+        "ro": "Apasă pe Dudelange, în extremul sud, aproape de Franța.",
+        "en": "Click Dudelange in the far south near France."
+      },
+      "targetPoiId": "luxembourg-dudelange-cities-v2"
+    },
+    {
+      "id": "lu-find-schengen-moselle",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Schengen an der Mosel im Dreiländereck.",
+        "hu": "Keresd meg Schengent a Mosel partján, a hármashatár közelében.",
+        "ro": "Găsește Schengen pe Mosela, aproape de tripla frontieră.",
+        "en": "Find Schengen on the Moselle near the tripoint."
+      },
+      "targetPoiId": "luxembourg-schengen-cities-v2"
+    },
+    {
+      "id": "lu-find-clervaux-north",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Clervaux im hohen Norden des Landes?",
+        "hu": "Hol található Clervaux az ország északi részén?",
+        "ro": "Unde se află Clervaux în nordul îndepărtat al țării?",
+        "en": "Where is Clervaux in the far north of the country?"
+      },
+      "targetPoiId": "luxembourg-clervaux-cities-v2"
+    },
+    {
+      "id": "lu-find-diekirch-sure",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Diekirch an der Sauer.",
+        "hu": "Keresd meg Diekirch városát a Sauer folyó mellett.",
+        "ro": "Găsește Diekirch pe râul Sûre.",
+        "en": "Find Diekirch on the Sûre River."
+      },
+      "targetPoiId": "luxembourg-diekirch-cities-v2"
+    },
+    {
+      "id": "lu-find-bourscheid-castle",
+      "type": "find_poi",
+      "question": {
+        "de": "Klicke auf die Burg Bourscheid über dem Sauertal.",
+        "hu": "Kattints a Sauer-völgy fölötti Bourscheid várra.",
+        "ro": "Apasă pe castelul Bourscheid deasupra văii Sûre.",
+        "en": "Click Bourscheid Castle above the Sûre valley."
+      },
+      "targetPoiId": "luxembourg-bourscheid-cities-v2"
+    },
+    {
+      "id": "lu-find-mersch-central",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Mersch im Zentrum Luxemburgs.",
+        "hu": "Keresd meg Mersch városát Luxemburg középső részén.",
+        "ro": "Găsește Mersch în centrul Luxemburgului.",
+        "en": "Find Mersch in central Luxembourg."
+      },
+      "targetPoiId": "luxembourg-mersch-cities-v2"
+    },
+    {
+      "id": "lu-find-berdorf-mullerthal",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Berdorf in der Felsenlandschaft des Müllerthals?",
+        "hu": "Hol található Berdorf a Müllerthal sziklás vidékén?",
+        "ro": "Unde se află Berdorf în peisajul stâncos din Mullerthal?",
+        "en": "Where is Berdorf in the rocky Mullerthal region?"
+      },
+      "targetPoiId": "luxembourg-berdorf-cities-v2"
+    },
+    {
+      "id": "lu-odd-not-southern-luxembourg",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Orte liegt nicht im Süden Luxemburgs?",
+        "hu": "Melyik hely nem Luxemburg déli részén található?",
+        "ro": "Care dintre aceste locuri nu se află în sudul Luxemburgului?",
+        "en": "Which of these places is not in southern Luxembourg?"
+      },
+      "poiIds": [
+        "luxembourg-esch-sur-alzette-cities-v2",
+        "luxembourg-differdange-cities-v2",
+        "luxembourg-dudelange-cities-v2",
+        "luxembourg-bettembourg-cities-v2",
+        "luxembourg-clervaux-cities-v2"
+      ],
+      "targetPoiId": "luxembourg-clervaux-cities-v2"
+    },
+    {
+      "id": "lu-odd-not-east-of-capital",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Orte liegt nicht östlich von Luxemburg-Stadt?",
+        "hu": "Melyik hely nem Luxemburg városától keletre fekszik?",
+        "ro": "Care dintre aceste locuri nu se află la est de orașul Luxemburg?",
+        "en": "Which of these places is not east of Luxembourg City?"
+      },
+      "poiIds": [
+        "luxembourg-echternach-cities-v2",
+        "luxembourg-berdorf-cities-v2",
+        "luxembourg-larochette-cities-v2",
+        "luxembourg-differdange-cities-v2"
+      ],
+      "targetPoiId": "luxembourg-differdange-cities-v2"
+    },
+    {
+      "id": "lu-odd-not-northern-luxembourg",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Orte liegt nicht im Norden Luxemburgs?",
+        "hu": "Melyik hely nem Luxemburg északi részén található?",
+        "ro": "Care dintre aceste locuri nu se află în nordul Luxemburgului?",
+        "en": "Which of these places is not in northern Luxembourg?"
+      },
+      "poiIds": [
+        "luxembourg-clervaux-cities-v2",
+        "luxembourg-vianden-cities-v2",
+        "luxembourg-bourscheid-cities-v2",
+        "luxembourg-schengen-cities-v2"
+      ],
+      "targetPoiId": "luxembourg-schengen-cities-v2"
+    },
+    {
+      "id": "lu-odd-not-west-of-capital",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Orte liegt nicht westlich von Luxemburg-Stadt?",
+        "hu": "Melyik hely nem Luxemburg városától nyugatra fekszik?",
+        "ro": "Care dintre aceste locuri nu se află la vest de orașul Luxemburg?",
+        "en": "Which of these places is not west of Luxembourg City?"
+      },
+      "poiIds": [
+        "luxembourg-differdange-cities-v2",
+        "luxembourg-petange-cities-v2",
+        "luxembourg-sanem-cities-v2",
+        "luxembourg-hesperange-cities-v2"
+      ],
+      "targetPoiId": "luxembourg-hesperange-cities-v2"
+    },
+    {
+      "id": "lu-odd-not-south-of-capital",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Orte liegt nicht südlich von Luxemburg-Stadt?",
+        "hu": "Melyik hely nem Luxemburg városától délre található?",
+        "ro": "Care dintre aceste locuri nu se află la sud de orașul Luxemburg?",
+        "en": "Which of these places is not south of Luxembourg City?"
+      },
+      "poiIds": [
+        "luxembourg-hesperange-cities-v2",
+        "luxembourg-bettembourg-cities-v2",
+        "luxembourg-schengen-cities-v2",
+        "luxembourg-diekirch-cities-v2"
+      ],
+      "targetPoiId": "luxembourg-diekirch-cities-v2"
+    },
+    {
+      "id": "lu-odd-not-minett",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht im südlichen Minett-Gebiet?",
+        "hu": "Melyik hely nem a déli Minett térségben található?",
+        "ro": "Care dintre aceste locuri nu se află în zona sudică Minett?",
+        "en": "Which of these places is not in the southern Minett area?"
+      },
+      "poiIds": [
+        "luxembourg-esch-sur-alzette-cities-v2",
+        "luxembourg-differdange-cities-v2",
+        "luxembourg-sanem-cities-v2",
+        "luxembourg-bourscheid-cities-v2"
+      ],
+      "targetPoiId": "luxembourg-bourscheid-cities-v2"
+    },
+    {
+      "id": "lu-sequence-west-east-petange-echternach",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Pétange, Differdingen, Luxemburg-Stadt und Echternach von West nach Ost an.",
+        "hu": "Kattints Pétange-ra, Differdange-ra, Luxemburg városára és Echternachra nyugatról keletre.",
+        "ro": "Apasă Pétange, Differdange, orașul Luxemburg și Echternach de la vest la est.",
+        "en": "Click Pétange, Differdange, Luxembourg City and Echternach from west to east."
+      },
+      "poiIds": [
+        "luxembourg-petange-cities-v2",
+        "luxembourg-differdange-cities-v2",
+        "lu-luxembourg-city",
+        "luxembourg-echternach-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "luxembourg-petange-cities-v2",
+        "luxembourg-differdange-cities-v2",
+        "lu-luxembourg-city",
+        "luxembourg-echternach-cities-v2"
+      ]
+    },
+    {
+      "id": "lu-sequence-north-south-clervaux-dudelange",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Clervaux, Vianden, Mersch und Düdelingen von Nord nach Süd an.",
+        "hu": "Kattints Clervaux-ra, Viandenre, Merschre és Dudelange-ra északról délre.",
+        "ro": "Apasă Clervaux, Vianden, Mersch și Dudelange de la nord la sud.",
+        "en": "Click Clervaux, Vianden, Mersch and Dudelange from north to south."
+      },
+      "poiIds": [
+        "luxembourg-clervaux-cities-v2",
+        "luxembourg-vianden-cities-v2",
+        "luxembourg-mersch-cities-v2",
+        "luxembourg-dudelange-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "luxembourg-clervaux-cities-v2",
+        "luxembourg-vianden-cities-v2",
+        "luxembourg-mersch-cities-v2",
+        "luxembourg-dudelange-cities-v2"
+      ]
+    },
+    {
+      "id": "lu-sequence-west-east-sure-mullerthal",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Esch-sur-Sûre, Mersch, Schloss Bourglinster und Berdorf von West nach Ost an.",
+        "hu": "Kattints Esch-sur-Sûre-re, Merschre, a Bourglinster-kastélyra és Berdorfra nyugatról keletre.",
+        "ro": "Apasă Esch-sur-Sûre, Mersch, castelul Bourglinster și Berdorf de la vest la est.",
+        "en": "Click Esch-sur-Sûre, Mersch, Bourglinster Castle and Berdorf from west to east."
+      },
+      "poiIds": [
+        "luxembourg-esch-sur-sure-cities-v2",
+        "luxembourg-mersch-cities-v2",
+        "historical-bourglinster-castle",
+        "luxembourg-berdorf-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "luxembourg-esch-sur-sure-cities-v2",
+        "luxembourg-mersch-cities-v2",
+        "historical-bourglinster-castle",
+        "luxembourg-berdorf-cities-v2"
+      ]
+    },
+    {
+      "id": "lu-sequence-north-south-bourscheid-hesperange",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Burg Bourscheid, Diekirch, Larochette und Hesperingen von Nord nach Süd an.",
+        "hu": "Kattints a Bourscheid várra, Diekirchre, Larochette-re és Hesperange-ra északról délre.",
+        "ro": "Apasă castelul Bourscheid, Diekirch, Larochette și Hesperange de la nord la sud.",
+        "en": "Click Bourscheid Castle, Diekirch, Larochette and Hesperange from north to south."
+      },
+      "poiIds": [
+        "luxembourg-bourscheid-cities-v2",
+        "luxembourg-diekirch-cities-v2",
+        "luxembourg-larochette-cities-v2",
+        "luxembourg-hesperange-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "luxembourg-bourscheid-cities-v2",
+        "luxembourg-diekirch-cities-v2",
+        "luxembourg-larochette-cities-v2",
+        "luxembourg-hesperange-cities-v2"
+      ]
+    },
+    {
+      "id": "lu-sequence-west-east-sanem-schengen",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Sanem, Bettemburg, Hesperingen und Schengen von West nach Ost an.",
+        "hu": "Kattints Sanemre, Bettembourgra, Hesperange-ra és Schengenre nyugatról keletre.",
+        "ro": "Apasă Sanem, Bettembourg, Hesperange și Schengen de la vest la est.",
+        "en": "Click Sanem, Bettembourg, Hesperange and Schengen from west to east."
+      },
+      "poiIds": [
+        "luxembourg-sanem-cities-v2",
+        "luxembourg-bettembourg-cities-v2",
+        "luxembourg-hesperange-cities-v2",
+        "luxembourg-schengen-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "luxembourg-sanem-cities-v2",
+        "luxembourg-bettembourg-cities-v2",
+        "luxembourg-hesperange-cities-v2",
+        "luxembourg-schengen-cities-v2"
+      ]
+    },
+    {
+      "id": "lu-sequence-north-south-vianden-schengen",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Vianden, Echternach, Luxemburg-Stadt und Schengen von Nord nach Süd an.",
+        "hu": "Kattints Viandenre, Echternachra, Luxemburg városára és Schengenre északról délre.",
+        "ro": "Apasă Vianden, Echternach, orașul Luxemburg și Schengen de la nord la sud.",
+        "en": "Click Vianden, Echternach, Luxembourg City and Schengen from north to south."
+      },
+      "poiIds": [
+        "luxembourg-vianden-cities-v2",
+        "luxembourg-echternach-cities-v2",
+        "lu-luxembourg-city",
+        "luxembourg-schengen-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "luxembourg-vianden-cities-v2",
+        "luxembourg-echternach-cities-v2",
+        "lu-luxembourg-city",
+        "luxembourg-schengen-cities-v2"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "ug": [
+    {
+      "id": "ug-find-lira",
+      "type": "find_poi",
+      "targetPoiId": "lira-cities-v2",
+      "question": {
+        "de": "Finde Lira auf der Karte.",
+        "hu": "Keresd meg Lira helyét a térképen.",
+        "ro": "Găsește Lira pe hartă.",
+        "en": "Find Lira on the map."
+      }
+    },
+    {
+      "id": "ug-find-entebbe",
+      "type": "find_poi",
+      "targetPoiId": "entebbe-cities-v2",
+      "question": {
+        "de": "Finde Entebbe auf der Karte.",
+        "hu": "Keresd meg Entebbe helyét a térképen.",
+        "ro": "Găsește Entebbe pe hartă.",
+        "en": "Find Entebbe on the map."
+      }
+    },
+    {
+      "id": "ug-find-mbale",
+      "type": "find_poi",
+      "targetPoiId": "mbale-cities-v2",
+      "question": {
+        "de": "Finde Mbale auf der Karte.",
+        "hu": "Keresd meg Mbale helyét a térképen.",
+        "ro": "Găsește Mbale pe hartă.",
+        "en": "Find Mbale on the map."
+      }
+    },
+    {
+      "id": "ug-find-arua",
+      "type": "find_poi",
+      "targetPoiId": "arua-cities-v2",
+      "question": {
+        "de": "Finde Arua auf der Karte.",
+        "hu": "Keresd meg Arua helyét a térképen.",
+        "ro": "Găsește Arua pe hartă.",
+        "en": "Find Arua on the map."
+      }
+    },
+    {
+      "id": "ug-find-kasese",
+      "type": "find_poi",
+      "targetPoiId": "kasese-cities-v2",
+      "question": {
+        "de": "Finde Kasese auf der Karte.",
+        "hu": "Keresd meg Kasese helyét a térképen.",
+        "ro": "Găsește Kasese pe hartă.",
+        "en": "Find Kasese on the map."
+      }
+    },
+    {
+      "id": "ug-find-sipi-falls",
+      "type": "find_poi",
+      "targetPoiId": "uganda-sipi-falls-cities-v2",
+      "question": {
+        "de": "Finde die Sipi Falls auf der Karte.",
+        "hu": "Keresd meg a Sipi-vízesést a térképen.",
+        "ro": "Găsește cascadele Sipi pe hartă.",
+        "en": "Find Sipi Falls on the map."
+      }
+    },
+    {
+      "id": "ug-region-moroto",
+      "type": "find_region",
+      "targetRegionId": "UGA-3127",
+      "question": {
+        "de": "Klicke auf die Region Moroto.",
+        "hu": "Kattints Moroto régiójára.",
+        "ro": "Apasă pe regiunea Moroto.",
+        "en": "Click the Moroto region."
+      }
+    },
+    {
+      "id": "ug-region-jinja",
+      "type": "find_region",
+      "targetRegionId": "UGA-3064",
+      "question": {
+        "de": "Klicke auf die Region Jinja.",
+        "hu": "Kattints Jinja régiójára.",
+        "ro": "Apasă pe regiunea Jinja.",
+        "en": "Click the Jinja region."
+      }
+    },
+    {
+      "id": "ug-region-wakiso",
+      "type": "find_region",
+      "targetRegionId": "UGA-3091",
+      "question": {
+        "de": "Klicke auf die Region Wakiso.",
+        "hu": "Kattints Wakiso régiójára.",
+        "ro": "Apasă pe regiunea Wakiso.",
+        "en": "Click the Wakiso region."
+      }
+    },
+    {
+      "id": "ug-region-arua",
+      "type": "find_region",
+      "targetRegionId": "UGA-3080",
+      "question": {
+        "de": "Klicke auf die Region Arua.",
+        "hu": "Kattints Arua régiójára.",
+        "ro": "Apasă pe regiunea Arua.",
+        "en": "Click the Arua region."
+      }
+    },
+    {
+      "id": "ug-region-kasese",
+      "type": "find_region",
+      "targetRegionId": "UGA-3367",
+      "question": {
+        "de": "Klicke auf die Region Kasese.",
+        "hu": "Kattints Kasese régiójára.",
+        "ro": "Apasă pe regiunea Kasese.",
+        "en": "Click the Kasese region."
+      }
+    },
+    {
+      "id": "ug-region-kalangala",
+      "type": "find_region",
+      "targetRegionId": "UGA-2631",
+      "question": {
+        "de": "Klicke auf die Region Kalangala.",
+        "hu": "Kattints Kalangala régiójára.",
+        "ro": "Apasă pe regiunea Kalangala.",
+        "en": "Click the Kalangala region."
+      }
+    },
+    {
+      "id": "ug-odd-east",
+      "type": "odd_one_out",
+      "poiIds": [
+        "arua-cities-v2",
+        "kampala-cities-v2",
+        "jinja-cities-v2",
+        "mbale-cities-v2"
+      ],
+      "targetPoiId": "mbale-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt am weitesten östlich?",
+        "hu": "Melyik hely fekszik a legkeletebbre?",
+        "ro": "Care loc se află cel mai la est?",
+        "en": "Which place lies furthest east?"
+      }
+    },
+    {
+      "id": "ug-odd-west",
+      "type": "odd_one_out",
+      "poiIds": [
+        "mbale-cities-v2",
+        "kampala-cities-v2",
+        "hoima-cities-v2",
+        "kasese-cities-v2"
+      ],
+      "targetPoiId": "kasese-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt am weitesten westlich?",
+        "hu": "Melyik hely fekszik a legnyugatabbra?",
+        "ro": "Care loc se află cel mai la vest?",
+        "en": "Which place lies furthest west?"
+      }
+    },
+    {
+      "id": "ug-odd-south",
+      "type": "odd_one_out",
+      "poiIds": [
+        "kampala-cities-v2",
+        "jinja-cities-v2",
+        "entebbe-cities-v2",
+        "mbarara-cities-v2"
+      ],
+      "targetPoiId": "mbarara-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt am weitesten südlich?",
+        "hu": "Melyik hely fekszik a legdélebbre?",
+        "ro": "Care loc se află cel mai la sud?",
+        "en": "Which place lies furthest south?"
+      }
+    },
+    {
+      "id": "ug-odd-lake-victoria",
+      "type": "odd_one_out",
+      "poiIds": [
+        "gulu-cities-v2",
+        "mbale-cities-v2",
+        "entebbe-cities-v2",
+        "lira-cities-v2"
+      ],
+      "targetPoiId": "entebbe-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt am Ufer des Viktoriasees?",
+        "hu": "Melyik hely fekszik a Viktória-tó partján?",
+        "ro": "Care loc se află pe malul Lacului Victoria?",
+        "en": "Which place lies on the shore of Lake Victoria?"
+      }
+    },
+    {
+      "id": "ug-order-north-south-arua-masaka",
+      "type": "sequence",
+      "poiIds": [
+        "arua-cities-v2",
+        "kampala-cities-v2",
+        "masaka-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "arua-cities-v2",
+        "kampala-cities-v2",
+        "masaka-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Arua, Kampala, Masaka von Norden nach Süden an.",
+        "hu": "Kattints ezekre északról délre: Arua, Kampala, Masaka.",
+        "ro": "Apasă în ordine de la nord la sud: Arua, Kampala, Masaka.",
+        "en": "Click from north to south: Arua, Kampala, Masaka."
+      }
+    },
+    {
+      "id": "ug-order-west-east-arua-moroto",
+      "type": "sequence",
+      "poiIds": [
+        "arua-cities-v2",
+        "gulu-cities-v2",
+        "moroto-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "arua-cities-v2",
+        "gulu-cities-v2",
+        "moroto-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Arua, Gulu, Moroto von Westen nach Osten an.",
+        "hu": "Kattints ezekre nyugatról keletre: Arua, Gulu, Moroto.",
+        "ro": "Apasă în ordine de la vest la est: Arua, Gulu, Moroto.",
+        "en": "Click from west to east: Arua, Gulu, Moroto."
+      }
+    },
+    {
+      "id": "ug-order-north-south-kitgum-jinja",
+      "type": "sequence",
+      "poiIds": [
+        "kitgum-cities-v2",
+        "lira-cities-v2",
+        "jinja-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "kitgum-cities-v2",
+        "lira-cities-v2",
+        "jinja-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Kitgum, Lira, Jinja von Norden nach Süden an.",
+        "hu": "Kattints ezekre északról délre: Kitgum, Lira, Jinja.",
+        "ro": "Apasă în ordine de la nord la sud: Kitgum, Lira, Jinja.",
+        "en": "Click from north to south: Kitgum, Lira, Jinja."
+      }
+    },
+    {
+      "id": "ug-order-west-east-kasese-mbale",
+      "type": "sequence",
+      "poiIds": [
+        "kasese-cities-v2",
+        "kampala-cities-v2",
+        "mbale-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "kasese-cities-v2",
+        "kampala-cities-v2",
+        "mbale-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Kasese, Kampala, Mbale von Westen nach Osten an.",
+        "hu": "Kattints ezekre nyugatról keletre: Kasese, Kampala, Mbale.",
+        "ro": "Apasă în ordine de la vest la est: Kasese, Kampala, Mbale.",
+        "en": "Click from west to east: Kasese, Kampala, Mbale."
+      }
+    }
+  ]
+}

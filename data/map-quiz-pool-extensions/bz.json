@@ -1,0 +1,311 @@
+{
+  "bz": [
+    {
+      "id": "bz-find-san-pedro",
+      "type": "find_poi",
+      "targetPoiId": "bz-sanpedro",
+      "question": {
+        "de": "Finde San Pedro auf Ambergris Caye.",
+        "hu": "Keresd meg San Pedrot Ambergris Caye szigeten.",
+        "ro": "Gaseste San Pedro pe insula Ambergris Caye.",
+        "en": "Find San Pedro on Ambergris Caye."
+      }
+    },
+    {
+      "id": "bz-find-dangriga",
+      "type": "find_poi",
+      "targetPoiId": "bz-dangriga",
+      "question": {
+        "de": "Finde Dangriga an der mittleren Karibikkueste.",
+        "hu": "Keresd meg Dangrigat a kozepso karibi parton.",
+        "ro": "Gaseste Dangriga pe coasta centrala a Caraibilor.",
+        "en": "Find Dangriga on the central Caribbean coast."
+      }
+    },
+    {
+      "id": "bz-find-lamanai",
+      "type": "find_poi",
+      "targetPoiId": "bz-lamanai",
+      "question": {
+        "de": "Finde die Maya-Staette Lamanai im Norden von Belize.",
+        "hu": "Keresd meg Lamanai maja helyszinet Belize eszaki reszen.",
+        "ro": "Gaseste situl maya Lamanai din nordul Belize.",
+        "en": "Find the Maya site of Lamanai in northern Belize."
+      }
+    },
+    {
+      "id": "bz-find-xunantunich",
+      "type": "find_poi",
+      "targetPoiId": "bz-xunantunich",
+      "question": {
+        "de": "Finde Xunantunich nahe der Grenze zu Guatemala.",
+        "hu": "Keresd meg Xunantunich helyet a guatemalai hatar kozeleben.",
+        "ro": "Gaseste Xunantunich aproape de granita cu Guatemala.",
+        "en": "Find Xunantunich near the Guatemalan border."
+      }
+    },
+    {
+      "id": "bz-find-altun-ha",
+      "type": "find_poi",
+      "targetPoiId": "bz-altunha",
+      "question": {
+        "de": "Finde Altun Ha nordwestlich von Belize City.",
+        "hu": "Keresd meg Altun Ha helyet Belize Citytol eszaknyugatra.",
+        "ro": "Gaseste Altun Ha la nord-vest de Belize City.",
+        "en": "Find Altun Ha northwest of Belize City."
+      }
+    },
+    {
+      "id": "bz-find-caye-caulker",
+      "type": "find_poi",
+      "targetPoiId": "bz-cayecaulker",
+      "question": {
+        "de": "Finde Caye Caulker vor der zentralen Kueste.",
+        "hu": "Keresd meg Caye Caulker szigetet a kozepso part elott.",
+        "ro": "Gaseste Caye Caulker in largul coastei centrale.",
+        "en": "Find Caye Caulker off the central coast."
+      }
+    },
+    {
+      "id": "bz-find-punta-gorda",
+      "type": "find_poi",
+      "targetPoiId": "punta-gorda-town-cities-v2",
+      "question": {
+        "de": "Finde Punta Gorda im aeussersten Sueden von Belize.",
+        "hu": "Keresd meg Punta Gordat Belize legdelibb reszen.",
+        "ro": "Gaseste Punta Gorda in extremul sud al Belize.",
+        "en": "Find Punta Gorda in the far south of Belize."
+      }
+    },
+    {
+      "id": "bz-region-corozal",
+      "type": "find_region",
+      "targetRegionId": "BLZ-1325",
+      "question": {
+        "de": "Klicke auf den noerdlichsten Distrikt Corozal.",
+        "hu": "Kattints a legeszakibb Corozal korzetre.",
+        "ro": "Apasa pe districtul Corozal, cel mai nordic.",
+        "en": "Click Corozal, the northernmost district."
+      }
+    },
+    {
+      "id": "bz-region-orange-walk",
+      "type": "find_region",
+      "targetRegionId": "BLZ-1326",
+      "question": {
+        "de": "Finde Orange Walk zwischen Corozal und Belize District.",
+        "hu": "Keresd meg Orange Walk korzetet Corozal es Belize korzet kozott.",
+        "ro": "Gaseste Orange Walk, intre Corozal si districtul Belize.",
+        "en": "Find Orange Walk between Corozal and Belize District."
+      }
+    },
+    {
+      "id": "bz-region-stann-creek",
+      "type": "find_region",
+      "targetRegionId": "BLZ-1355",
+      "question": {
+        "de": "Klicke auf Stann Creek an der suedlichen Karibikkueste.",
+        "hu": "Kattints Stann Creek korzetre a deli karibi parton.",
+        "ro": "Apasa pe districtul Stann Creek de pe coasta sudica a Caraibilor.",
+        "en": "Click Stann Creek on the southern Caribbean coast."
+      }
+    },
+    {
+      "id": "bz-odd-islands",
+      "type": "odd_one_out",
+      "poiIds": [
+        "bz-sanpedro",
+        "bz-cayecaulker",
+        "bz-ambergris-caye",
+        "bz-sanignacio"
+      ],
+      "targetPoiId": "bz-sanignacio",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht auf einer Insel oder einem Caye?",
+        "hu": "Melyik hely nem szigeten vagy cayen talalhato?",
+        "ro": "Care dintre aceste locuri nu se afla pe o insula sau pe un caye?",
+        "en": "Which of these places is not on an island or caye?"
+      }
+    },
+    {
+      "id": "bz-odd-south-coast",
+      "type": "odd_one_out",
+      "poiIds": [
+        "punta-gorda-town-cities-v2",
+        "bz-dangriga",
+        "bz-placencia",
+        "corozal-town-cities-v2"
+      ],
+      "targetPoiId": "corozal-town-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht an der suedlichen Haelfte der Kueste von Belize?",
+        "hu": "Melyik hely nem Belize partjanak deli felen fekszik?",
+        "ro": "Care dintre aceste locuri nu se afla pe jumatatea sudica a coastei Belize?",
+        "en": "Which of these places is not on the southern half of Belize's coast?"
+      }
+    },
+    {
+      "id": "bz-odd-orange-walk-pois",
+      "type": "odd_one_out",
+      "poiIds": [
+        "orange-walk-town-cities-v2",
+        "bz-lamanai",
+        "bz-new-river-lagoon-nature-v2",
+        "bz-xunantunich"
+      ],
+      "targetPoiId": "bz-xunantunich",
+      "question": {
+        "de": "Welcher dieser Orte gehoert nicht zu Orange Walk oder seiner Umgebung?",
+        "hu": "Melyik hely nem Orange Walk korzetehez vagy kozvetlen kornyezetebe tartozik?",
+        "ro": "Care dintre aceste locuri nu apartine districtului Orange Walk sau zonei sale apropiate?",
+        "en": "Which of these places does not belong to Orange Walk District or its immediate area?"
+      }
+    },
+    {
+      "id": "bz-odd-belize-district-pois",
+      "type": "odd_one_out",
+      "poiIds": [
+        "bz-belizecity",
+        "ladyville-cities-v2",
+        "caye-caulker-village-cities-v2",
+        "bz-dangriga"
+      ],
+      "targetPoiId": "bz-dangriga",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht im Belize District?",
+        "hu": "Melyik hely nem Belize korzetben talalhato?",
+        "ro": "Care dintre aceste locuri nu se afla in districtul Belize?",
+        "en": "Which of these places is not in Belize District?"
+      }
+    },
+    {
+      "id": "bz-odd-reef",
+      "type": "odd_one_out",
+      "poiIds": [
+        "bz-barrierreef",
+        "bz-holchan",
+        "bz-turneffe-atoll-nature-v2",
+        "bz-pine-ridge"
+      ],
+      "targetPoiId": "bz-pine-ridge",
+      "question": {
+        "de": "Welcher dieser Orte gehoert nicht zur karibischen Riff- und Inselwelt von Belize?",
+        "hu": "Melyik hely nem Belize karibi zatonya- es szigetvilagahoz tartozik?",
+        "ro": "Care dintre aceste locuri nu apartine lumii de recif si insule a Belize?",
+        "en": "Which of these places is not part of Belize's Caribbean reef and island zone?"
+      }
+    },
+    {
+      "id": "bz-order-district-capitals-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "corozal-corozal-capital-cities-v2",
+        "orange-walk-ow-capital-cities-v2",
+        "belize-city-belize-capital-cities-v2",
+        "dangriga-stann-creek-capital-cities-v2",
+        "punta-gorda-toledo-capital-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "corozal-corozal-capital-cities-v2",
+        "orange-walk-ow-capital-cities-v2",
+        "belize-city-belize-capital-cities-v2",
+        "dangriga-stann-creek-capital-cities-v2",
+        "punta-gorda-toledo-capital-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die Distrikthauptorte von Nord nach Sued an.",
+        "hu": "Kattints a korzeti szekhelyekre eszakrol delre haladva.",
+        "ro": "Apasa capitalele de district de la nord la sud.",
+        "en": "Click the district capitals from north to south."
+      }
+    },
+    {
+      "id": "bz-order-maya-sites-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "bz-altunha",
+        "bz-lamanai",
+        "bz-xunantunich",
+        "bz-caracol"
+      ],
+      "orderedPoiIds": [
+        "bz-altunha",
+        "bz-lamanai",
+        "bz-xunantunich",
+        "bz-caracol"
+      ],
+      "question": {
+        "de": "Klicke Altun Ha, Lamanai, Xunantunich und Caracol von Nord nach Sued an.",
+        "hu": "Kattints Altun Hara, Lamanaira, Xunantunichre es Caracolra eszakrol delre.",
+        "ro": "Apasa Altun Ha, Lamanai, Xunantunich si Caracol de la nord la sud.",
+        "en": "Click Altun Ha, Lamanai, Xunantunich, and Caracol from north to south."
+      }
+    },
+    {
+      "id": "bz-order-coast-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "bz-sanpedro",
+        "caye-caulker-village-cities-v2",
+        "bz-belizecity",
+        "placencia-village-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "bz-sanpedro",
+        "caye-caulker-village-cities-v2",
+        "bz-belizecity",
+        "placencia-village-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die Kuestenorte von Nord nach Sued an.",
+        "hu": "Kattints a part menti helyekre eszakrol delre haladva.",
+        "ro": "Apasa locurile de coasta de la nord la sud.",
+        "en": "Click the coastal places from north to south."
+      }
+    },
+    {
+      "id": "bz-order-inland-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "xunantunich-village-cities-v2",
+        "bz-sanignacio",
+        "bz-belmopan",
+        "bz-belizezoo"
+      ],
+      "orderedPoiIds": [
+        "xunantunich-village-cities-v2",
+        "bz-sanignacio",
+        "bz-belmopan",
+        "bz-belizezoo"
+      ],
+      "question": {
+        "de": "Klicke die Orte im Landesinneren von West nach Ost an.",
+        "hu": "Kattints a belso teruleti helyekre nyugatrol keletre haladva.",
+        "ro": "Apasa locurile din interior de la vest la est.",
+        "en": "Click the inland places from west to east."
+      }
+    },
+    {
+      "id": "bz-order-northern-belt-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "orange-walk-town-cities-v2",
+        "bz-altunha",
+        "bz-belizecity",
+        "bz-cayecaulker"
+      ],
+      "orderedPoiIds": [
+        "orange-walk-town-cities-v2",
+        "bz-altunha",
+        "bz-belizecity",
+        "bz-cayecaulker"
+      ],
+      "question": {
+        "de": "Klicke die Orte im noerdlichen Teil von Belize von West nach Ost an.",
+        "hu": "Kattints Belize eszaki reszen a helyekre nyugatrol keletre.",
+        "ro": "Apasa locurile din nordul Belize de la vest la est.",
+        "en": "Click the places in northern Belize from west to east."
+      }
+    }
+  ]
+}

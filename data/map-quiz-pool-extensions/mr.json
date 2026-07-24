@@ -1,0 +1,309 @@
+{
+  "mr": [
+    {
+      "id": "mr-find-akjoujt",
+      "type": "find_poi",
+      "targetPoiId": "mauritania-akjoujt-cities-v2",
+      "question": {
+        "de": "Finde Akjoujt im westlichen Binnenland zwischen Nouakchott und Adrar.",
+        "hu": "Keresd meg Akjoujtot a nyugati belső vidéken, Nouakchott és Adrar között.",
+        "ro": "Găsește Akjoujt în interiorul vestic, între Nouakchott și Adrar.",
+        "en": "Find Akjoujt in the western interior between Nouakchott and Adrar."
+      }
+    },
+    {
+      "id": "mr-find-tidjikja",
+      "type": "find_poi",
+      "targetPoiId": "mauritania-tidjikja-cities-v2",
+      "question": {
+        "de": "Finde Tidjikja, die Oasenstadt in Zentralmauretanien.",
+        "hu": "Keresd meg Tidjikját, a közép-mauritániai oázisvárost.",
+        "ro": "Găsește Tidjikja, orașul-oază din centrul Mauritaniei.",
+        "en": "Find Tidjikja, the oasis town in central Mauritania."
+      }
+    },
+    {
+      "id": "mr-find-nema",
+      "type": "find_poi",
+      "targetPoiId": "mauritania-nema-cities-v2",
+      "question": {
+        "de": "Finde Néma nahe der Grenze zu Mali im Südosten.",
+        "hu": "Keresd meg Némát Mali határának közelében, délkeleten.",
+        "ro": "Găsește Néma aproape de granița cu Mali, în sud-est.",
+        "en": "Find Néma near the Mali border in the southeast."
+      }
+    },
+    {
+      "id": "mr-find-banc-darguin-park",
+      "type": "find_poi",
+      "targetPoiId": "mauritania-banc-d-arguin-national-park-cities-v2",
+      "question": {
+        "de": "Finde den Nationalpark Banc d'Arguin an der Atlantikküste.",
+        "hu": "Keresd meg a Banc d'Arguin Nemzeti Parkot az Atlanti-óceán partján.",
+        "ro": "Găsește Parcul Național Banc d'Arguin de pe coasta Atlanticului.",
+        "en": "Find Banc d'Arguin National Park on the Atlantic coast."
+      }
+    },
+    {
+      "id": "mr-find-terjit",
+      "type": "find_poi",
+      "targetPoiId": "mauritania-terjit-cities-v2",
+      "question": {
+        "de": "Finde Terjit in der Adrar-Region nordöstlich von Atar.",
+        "hu": "Keresd meg Terjitet az Adrar régióban, Atartól északkeletre.",
+        "ro": "Găsește Terjit în regiunea Adrar, la nord-est de Atar.",
+        "en": "Find Terjit in the Adrar region northeast of Atar."
+      }
+    },
+    {
+      "id": "mr-region-adrar",
+      "type": "find_region",
+      "targetRegionId": "MRT-2795",
+      "question": {
+        "de": "Klicke auf die Region Adrar im Norden des Landesinneren.",
+        "hu": "Kattints az ország északi belső részén fekvő Adrar régióra.",
+        "ro": "Apasă pe regiunea Adrar din nordul interiorului țării.",
+        "en": "Click the Adrar region in the northern interior."
+      }
+    },
+    {
+      "id": "mr-region-dakhlet-nouadhibou",
+      "type": "find_region",
+      "targetRegionId": "MRT-2785",
+      "question": {
+        "de": "Finde die Küstenregion Dakhlet Nouadhibou im äußersten Nordwesten.",
+        "hu": "Keresd meg a legészaknyugatibb tengerparti Dakhlet Nouadhibou régiót.",
+        "ro": "Găsește regiunea de coastă Dakhlet Nouadhibou din extremul nord-vest.",
+        "en": "Find the coastal Dakhlet Nouadhibou region in the far northwest."
+      }
+    },
+    {
+      "id": "mr-region-guidimaka",
+      "type": "find_region",
+      "targetRegionId": "MRT-2790",
+      "question": {
+        "de": "Klicke auf Guidimaka im südlichen Grenzraum zu Senegal und Mali.",
+        "hu": "Kattints a Szenegállal és Malival határos déli Guidimaka régióra.",
+        "ro": "Apasă pe Guidimaka din zona sudică de frontieră cu Senegal și Mali.",
+        "en": "Click Guidimaka in the southern border zone with Senegal and Mali."
+      }
+    },
+    {
+      "id": "mr-region-hodh-ech-chargui",
+      "type": "find_region",
+      "targetRegionId": "MRT-2796",
+      "question": {
+        "de": "Finde Hodh ech Chargui im äußersten Osten Mauretaniens.",
+        "hu": "Keresd meg Hodh ech Chargui régióját Mauritánia legkeletibb részén.",
+        "ro": "Găsește Hodh ech Chargui în extremul est al Mauritaniei.",
+        "en": "Find Hodh ech Chargui in far eastern Mauritania."
+      }
+    },
+    {
+      "id": "mr-region-tagant",
+      "type": "find_region",
+      "targetRegionId": "MRT-2798",
+      "question": {
+        "de": "Klicke auf die zentrale Region Tagant südlich von Adrar.",
+        "hu": "Kattints a központi Tagant régióra, Adrar déli részénél.",
+        "ro": "Apasă pe regiunea centrală Tagant, la sud de Adrar.",
+        "en": "Click the central Tagant region south of Adrar."
+      }
+    },
+    {
+      "id": "mr-odd-senegal-river-belt",
+      "type": "odd_one_out",
+      "poiIds": [
+        "mauritania-rosso-cities-v2",
+        "mauritania-kaedi-cities-v2",
+        "mauritania-maghama-cities-v2",
+        "mauritania-zouerat-cities-v2"
+      ],
+      "targetPoiId": "mauritania-zouerat-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht im südlichen Senegalfluss-Gürtel?",
+        "hu": "Melyik város nem a déli Szenegál-folyó menti sávban fekszik?",
+        "ro": "Care oraș nu se află în zona sudică a fluviului Senegal?",
+        "en": "Which city is not in the southern Senegal River belt?"
+      }
+    },
+    {
+      "id": "mr-odd-ksar-town",
+      "type": "odd_one_out",
+      "poiIds": [
+        "mauritania-chinguetti-cities-v2",
+        "mauritania-ouadane-cities-v2",
+        "mauritania-tichitt-cities-v2",
+        "mauritania-nouakchott-cities-v2"
+      ],
+      "targetPoiId": "mauritania-nouakchott-cities-v2",
+      "question": {
+        "de": "Welche Stadt ist keine historische Wüsten- oder Ksarsiedlung im Binnenland?",
+        "hu": "Melyik város nem történelmi sivatagi vagy ksar település a belső területen?",
+        "ro": "Care oraș nu este o așezare istorică deșertică sau de tip ksar din interior?",
+        "en": "Which city is not a historic desert or ksar settlement in the interior?"
+      }
+    },
+    {
+      "id": "mr-odd-far-east",
+      "type": "odd_one_out",
+      "poiIds": [
+        "mauritania-nema-cities-v2",
+        "mauritania-oualata-cities-v2",
+        "mauritania-aoun-cities-v2",
+        "mauritania-nouadhibou-cities-v2"
+      ],
+      "targetPoiId": "mauritania-nouadhibou-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht im Osten oder Südosten Mauretaniens?",
+        "hu": "Melyik város nem Mauritánia keleti vagy délkeleti részén található?",
+        "ro": "Care oraș nu se află în estul sau sud-estul Mauritaniei?",
+        "en": "Which city is not in eastern or southeastern Mauritania?"
+      }
+    },
+    {
+      "id": "mr-odd-adrar-landmarks",
+      "type": "odd_one_out",
+      "poiIds": [
+        "mauritania-chinguetti-cities-v2",
+        "mauritania-ouadane-cities-v2",
+        "mauritania-terjit-cities-v2",
+        "mauritania-boghe-cities-v2"
+      ],
+      "targetPoiId": "mauritania-boghe-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht in oder nahe der Adrar-Wüstenlandschaft?",
+        "hu": "Melyik hely nem az Adrar sivatagi tájában vagy annak közelében található?",
+        "ro": "Care loc nu se află în sau lângă peisajul deșertic Adrar?",
+        "en": "Which place is not in or near the Adrar desert landscape?"
+      }
+    },
+    {
+      "id": "mr-odd-atlantic-sites",
+      "type": "odd_one_out",
+      "poiIds": [
+        "mauritania-nouadhibou-cities-v2",
+        "mauritania-banc-d-arguin-national-park-cities-v2",
+        "mauritania-diawling-national-park-cities-v2",
+        "mauritania-tidjikja-cities-v2"
+      ],
+      "targetPoiId": "mauritania-tidjikja-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht an der Atlantikküste oder direkt in ihrem Feuchtgebietsgürtel?",
+        "hu": "Melyik hely nem az Atlanti-óceán partján vagy közvetlen parti vizes élőhelyi övében található?",
+        "ro": "Care loc nu se află pe coasta Atlanticului sau direct în centura ei de zone umede?",
+        "en": "Which place is not on the Atlantic coast or directly in its wetland belt?"
+      }
+    },
+    {
+      "id": "mr-sequence-west-east-river",
+      "type": "sequence",
+      "poiIds": [
+        "mauritania-rosso-cities-v2",
+        "mauritania-kaedi-cities-v2",
+        "mauritania-kiffa-cities-v2",
+        "mauritania-nema-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "mauritania-rosso-cities-v2",
+        "mauritania-kaedi-cities-v2",
+        "mauritania-kiffa-cities-v2",
+        "mauritania-nema-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Rosso, Kaédi, Kiffa und Néma von West nach Ost an.",
+        "hu": "Kattints Rossóra, Kaédire, Kiffára és Némára nyugatról keletre.",
+        "ro": "Apasă Rosso, Kaédi, Kiffa și Néma de la vest la est.",
+        "en": "Click Rosso, Kaédi, Kiffa and Néma from west to east."
+      }
+    },
+    {
+      "id": "mr-sequence-north-south-mines-to-river",
+      "type": "sequence",
+      "poiIds": [
+        "mauritania-fderik-cities-v2",
+        "mauritania-chinguetti-cities-v2",
+        "mauritania-tidjikja-cities-v2",
+        "mauritania-kaedi-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "mauritania-fderik-cities-v2",
+        "mauritania-chinguetti-cities-v2",
+        "mauritania-tidjikja-cities-v2",
+        "mauritania-kaedi-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Fdérik, Chinguetti, Tidjikja und Kaédi von Nord nach Süd an.",
+        "hu": "Kattints Fdérikre, Chinguettire, Tidjikjára és Kaédire északról délre.",
+        "ro": "Apasă Fdérik, Chinguetti, Tidjikja și Kaédi de la nord la sud.",
+        "en": "Click Fdérik, Chinguetti, Tidjikja and Kaédi from north to south."
+      }
+    },
+    {
+      "id": "mr-sequence-west-east-cross-country",
+      "type": "sequence",
+      "poiIds": [
+        "mauritania-nouadhibou-cities-v2",
+        "mauritania-akjoujt-cities-v2",
+        "mauritania-tidjikja-cities-v2",
+        "mauritania-oualata-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "mauritania-nouadhibou-cities-v2",
+        "mauritania-akjoujt-cities-v2",
+        "mauritania-tidjikja-cities-v2",
+        "mauritania-oualata-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Nouadhibou, Akjoujt, Tidjikja und Oualata von West nach Ost an.",
+        "hu": "Kattints Nouadhiboura, Akjoujtra, Tidjikjára és Oualatára nyugatról keletre.",
+        "ro": "Apasă Nouadhibou, Akjoujt, Tidjikja și Oualata de la vest la est.",
+        "en": "Click Nouadhibou, Akjoujt, Tidjikja and Oualata from west to east."
+      }
+    },
+    {
+      "id": "mr-sequence-south-north-border-to-mines",
+      "type": "sequence",
+      "poiIds": [
+        "mauritania-selibaby-cities-v2",
+        "mauritania-kiffa-cities-v2",
+        "mauritania-akjoujt-cities-v2",
+        "mauritania-zouerat-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "mauritania-selibaby-cities-v2",
+        "mauritania-kiffa-cities-v2",
+        "mauritania-akjoujt-cities-v2",
+        "mauritania-zouerat-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Sélibaby, Kiffa, Akjoujt und Zouérat von Süd nach Nord an.",
+        "hu": "Kattints Sélibabyra, Kiffára, Akjoujtra és Zouératra délről északra.",
+        "ro": "Apasă Sélibaby, Kiffa, Akjoujt și Zouérat de la sud la nord.",
+        "en": "Click Sélibaby, Kiffa, Akjoujt and Zouérat from south to north."
+      }
+    },
+    {
+      "id": "mr-sequence-north-south-coast-to-delta",
+      "type": "sequence",
+      "poiIds": [
+        "mauritania-choum-cities-v2",
+        "mauritania-terjit-cities-v2",
+        "mauritania-nouakchott-cities-v2",
+        "mauritania-diawling-national-park-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "mauritania-choum-cities-v2",
+        "mauritania-terjit-cities-v2",
+        "mauritania-nouakchott-cities-v2",
+        "mauritania-diawling-national-park-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Choum, Terjit, Nouakchott und den Nationalpark Diawling von Nord nach Süd an.",
+        "hu": "Kattints Choumra, Terjitre, Nouakchottra és a Diawling Nemzeti Parkra északról délre.",
+        "ro": "Apasă Choum, Terjit, Nouakchott și Parcul Național Diawling de la nord la sud.",
+        "en": "Click Choum, Terjit, Nouakchott and Diawling National Park from north to south."
+      }
+    }
+  ]
+}

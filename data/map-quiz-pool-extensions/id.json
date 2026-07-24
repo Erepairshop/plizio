@@ -1,0 +1,304 @@
+{
+  "id": [
+    {
+      "id": "id-find-yogyakarta",
+      "type": "find_poi",
+      "targetPoiId": "yogyakarta-cities-v2",
+      "question": {
+        "de": "Finde Yogyakarta im südlichen Zentrum der Insel Java.",
+        "hu": "Keresd meg Yogyakartát Jáva szigetének déli középső részén.",
+        "ro": "Găsește Yogyakarta în partea central-sudică a insulei Java.",
+        "en": "Find Yogyakarta in south-central Java."
+      }
+    },
+    {
+      "id": "id-find-pontianak",
+      "type": "find_poi",
+      "targetPoiId": "pontianak-cities-v2",
+      "question": {
+        "de": "Klicke auf Pontianak nahe dem Äquator in Westkalimantan.",
+        "hu": "Kattints Pontianakra az Egyenlítő közelében, Nyugat-Kalimantanban.",
+        "ro": "Apasă pe Pontianak, aproape de Ecuator, în Kalimantanul de Vest.",
+        "en": "Click Pontianak near the equator in West Kalimantan."
+      }
+    },
+    {
+      "id": "id-find-jayapura",
+      "type": "find_poi",
+      "targetPoiId": "jayapura-cities-v2",
+      "question": {
+        "de": "Finde Jayapura an der Nordküste Papuas nahe der Grenze zu Papua-Neuguinea.",
+        "hu": "Keresd meg Jayapurát Pápua északi partján, Pápua Új-Guinea határa közelében.",
+        "ro": "Găsește Jayapura pe coasta nordică a Papua, aproape de granița cu Papua Noua Guinee.",
+        "en": "Find Jayapura on Papua's north coast near the border with Papua New Guinea."
+      }
+    },
+    {
+      "id": "id-find-kupang",
+      "type": "find_poi",
+      "targetPoiId": "kupang-cities-v2",
+      "question": {
+        "de": "Finde Kupang im Westen der Insel Timor.",
+        "hu": "Keresd meg Kupangot Timor szigetének nyugati részén.",
+        "ro": "Găsește Kupang în vestul insulei Timor.",
+        "en": "Find Kupang in the west of Timor."
+      }
+    },
+    {
+      "id": "id-find-labuan-bajo",
+      "type": "find_poi",
+      "targetPoiId": "indonesia-labuan-bajo-cities-v2",
+      "question": {
+        "de": "Klicke auf Labuan Bajo an der Westspitze von Flores.",
+        "hu": "Kattints Labuan Bajóra Flores nyugati csücskén.",
+        "ro": "Apasă pe Labuan Bajo, la extremitatea vestică a insulei Flores.",
+        "en": "Click Labuan Bajo at the western tip of Flores."
+      }
+    },
+    {
+      "id": "id-region-bali",
+      "type": "find_region",
+      "targetRegionId": "IDN-1232",
+      "question": {
+        "de": "Klicke auf die Provinz Bali.",
+        "hu": "Kattints Bali tartományára.",
+        "ro": "Apasă pe provincia Bali.",
+        "en": "Click Bali Province."
+      }
+    },
+    {
+      "id": "id-region-papua",
+      "type": "find_region",
+      "targetRegionId": "IDN-558",
+      "question": {
+        "de": "Finde die Provinz Papua im Osten Indonesiens.",
+        "hu": "Keresd meg Pápua tartományát Indonézia keleti részén.",
+        "ro": "Găsește provincia Papua în estul Indoneziei.",
+        "en": "Find Papua Province in eastern Indonesia."
+      }
+    },
+    {
+      "id": "id-region-west-papua",
+      "type": "find_region",
+      "targetRegionId": "IDN-1933",
+      "question": {
+        "de": "Klicke auf die Provinz Westpapua.",
+        "hu": "Kattints Nyugat-Pápua tartományára.",
+        "ro": "Apasă pe provincia Papua de Vest.",
+        "en": "Click West Papua Province."
+      }
+    },
+    {
+      "id": "id-region-riau-islands",
+      "type": "find_region",
+      "targetRegionId": "IDN-1796",
+      "question": {
+        "de": "Finde die Provinz Kepulauan Riau südlich von Singapur.",
+        "hu": "Keresd meg a Riau-szigetek tartományát Szingapúrtól délre.",
+        "ro": "Găsește provincia Insulele Riau, la sud de Singapore.",
+        "en": "Find Riau Islands Province south of Singapore."
+      }
+    },
+    {
+      "id": "id-region-east-nusa-tenggara",
+      "type": "find_region",
+      "targetRegionId": "IDN-1235",
+      "question": {
+        "de": "Klicke auf die Provinz Ost-Nusa Tenggara.",
+        "hu": "Kattints Kelet-Nusa Tenggara tartományára.",
+        "ro": "Apasă pe provincia Nusa Tenggara de Est.",
+        "en": "Click East Nusa Tenggara Province."
+      }
+    },
+    {
+      "id": "id-odd-sumatra-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "batam-cities-v2",
+        "palembang-cities-v2",
+        "pontianak-cities-v2"
+      ],
+      "targetPoiId": "palembang-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt auf Sumatra?",
+        "hu": "E városok közül melyik található Szumátrán?",
+        "ro": "Care dintre aceste orașe se află pe Sumatra?",
+        "en": "Which of these cities is on Sumatra?"
+      }
+    },
+    {
+      "id": "id-odd-farthest-south",
+      "type": "odd_one_out",
+      "poiIds": [
+        "denpasar-cities-v2",
+        "mataram-cities-v2",
+        "kupang-cities-v2"
+      ],
+      "targetPoiId": "kupang-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten im Süden?",
+        "hu": "Melyik város fekszik a legdélebbre?",
+        "ro": "Care dintre aceste orașe se află cel mai la sud?",
+        "en": "Which of these cities lies farthest south?"
+      }
+    },
+    {
+      "id": "id-odd-papua-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "manado-cities-v2",
+        "jayapura-cities-v2",
+        "ambon-cities-v2"
+      ],
+      "targetPoiId": "jayapura-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt in Papua?",
+        "hu": "E városok közül melyik található Pápuán?",
+        "ro": "Care dintre aceste orașe se află în Papua?",
+        "en": "Which of these cities is in Papua?"
+      }
+    },
+    {
+      "id": "id-odd-kalimantan-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "banjarmasin-cities-v2",
+        "manado-cities-v2",
+        "ternate-cities-v2"
+      ],
+      "targetPoiId": "banjarmasin-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt auf Kalimantan?",
+        "hu": "E városok közül melyik található Kalimantan szigetén?",
+        "ro": "Care dintre aceste orașe se află în Kalimantan?",
+        "en": "Which of these cities is on Kalimantan?"
+      }
+    },
+    {
+      "id": "id-odd-equator",
+      "type": "odd_one_out",
+      "poiIds": [
+        "pontianak-cities-v2",
+        "yogyakarta-cities-v2",
+        "kupang-cities-v2"
+      ],
+      "targetPoiId": "pontianak-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt dem Äquator am nächsten?",
+        "hu": "E városok közül melyik fekszik a legközelebb az Egyenlítőhöz?",
+        "ro": "Care dintre aceste orașe este cel mai aproape de Ecuator?",
+        "en": "Which of these cities is closest to the equator?"
+      }
+    },
+    {
+      "id": "id-sequence-west-east-sumatra-kalimantan",
+      "type": "sequence",
+      "poiIds": [
+        "padang-cities-v2",
+        "palembang-cities-v2",
+        "pontianak-cities-v2",
+        "balikpapan-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "padang-cities-v2",
+        "palembang-cities-v2",
+        "pontianak-cities-v2",
+        "balikpapan-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Padang, Palembang, Pontianak und Balikpapan von Westen nach Osten an.",
+        "hu": "Kattints Padangra, Palembangra, Pontianakra és Balikpapanra nyugatról keletre.",
+        "ro": "Apasă pe Padang, Palembang, Pontianak și Balikpapan de la vest la est.",
+        "en": "Click Padang, Palembang, Pontianak and Balikpapan from west to east."
+      }
+    },
+    {
+      "id": "id-sequence-north-south-eastern-arc",
+      "type": "sequence",
+      "poiIds": [
+        "ternate-cities-v2",
+        "kendari-cities-v2",
+        "mataram-cities-v2",
+        "kupang-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "ternate-cities-v2",
+        "kendari-cities-v2",
+        "mataram-cities-v2",
+        "kupang-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Ternate, Kendari, Mataram und Kupang von Norden nach Süden an.",
+        "hu": "Kattints Ternatéra, Kendarira, Mataramra és Kupangra északról délre.",
+        "ro": "Apasă pe Ternate, Kendari, Mataram și Kupang de la nord la sud.",
+        "en": "Click Ternate, Kendari, Mataram and Kupang from north to south."
+      }
+    },
+    {
+      "id": "id-sequence-west-east-island-chain",
+      "type": "sequence",
+      "poiIds": [
+        "indonesia-pulau-weh-cities-v2",
+        "indonesia-lake-toba-cities-v2",
+        "batam-cities-v2",
+        "indonesia-raja-ampat-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "indonesia-pulau-weh-cities-v2",
+        "indonesia-lake-toba-cities-v2",
+        "batam-cities-v2",
+        "indonesia-raja-ampat-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Pulau Weh, den Tobasee, Batam und Raja Ampat von Westen nach Osten an.",
+        "hu": "Kattints Pulau Wehre, a Toba-tóra, Batamra és Raja Ampatra nyugatról keletre.",
+        "ro": "Apasă pe Pulau Weh, Lacul Toba, Batam și Raja Ampat de la vest la est.",
+        "en": "Click Pulau Weh, Lake Toba, Batam and Raja Ampat from west to east."
+      }
+    },
+    {
+      "id": "id-sequence-north-south-maluku-nusa",
+      "type": "sequence",
+      "poiIds": [
+        "ternate-cities-v2",
+        "ambon-cities-v2",
+        "indonesia-wakatobi-cities-v2",
+        "indonesia-komodo-island-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "ternate-cities-v2",
+        "ambon-cities-v2",
+        "indonesia-wakatobi-cities-v2",
+        "indonesia-komodo-island-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Ternate, Ambon, Wakatobi und Komodo von Norden nach Süden an.",
+        "hu": "Kattints Ternatéra, Ambonra, Wakatobira és Komodóra északról délre.",
+        "ro": "Apasă pe Ternate, Ambon, Wakatobi și Komodo de la nord la sud.",
+        "en": "Click Ternate, Ambon, Wakatobi and Komodo from north to south."
+      }
+    },
+    {
+      "id": "id-sequence-west-east-lesser-sundas",
+      "type": "sequence",
+      "poiIds": [
+        "denpasar-cities-v2",
+        "mataram-cities-v2",
+        "indonesia-labuan-bajo-cities-v2",
+        "indonesia-kelimutu-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "denpasar-cities-v2",
+        "mataram-cities-v2",
+        "indonesia-labuan-bajo-cities-v2",
+        "indonesia-kelimutu-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Denpasar, Mataram, Labuan Bajo und Kelimutu von Westen nach Osten an.",
+        "hu": "Kattints Denpasarra, Mataramra, Labuan Bajóra és Kelimutura nyugatról keletre.",
+        "ro": "Apasă pe Denpasar, Mataram, Labuan Bajo și Kelimutu de la vest la est.",
+        "en": "Click Denpasar, Mataram, Labuan Bajo and Kelimutu from west to east."
+      }
+    }
+  ]
+}

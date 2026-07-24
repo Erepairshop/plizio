@@ -1,0 +1,309 @@
+{
+  "py": [
+    {
+      "id": "py-find-pilar",
+      "type": "find_poi",
+      "targetPoiId": "pilar-cities-v2",
+      "question": {
+        "de": "Finde Pilar im Südwesten Paraguays.",
+        "hu": "Keresd meg Pilart Paraguay délnyugati részén.",
+        "ro": "Găsește Pilar în sud-vestul Paraguayului.",
+        "en": "Find Pilar in southwestern Paraguay."
+      }
+    },
+    {
+      "id": "py-find-salto-del-guaira",
+      "type": "find_poi",
+      "targetPoiId": "salto-del-guaira-cities-v2",
+      "question": {
+        "de": "Finde Salto del Guairá ganz im Nordosten an der brasilianischen Grenze.",
+        "hu": "Keresd meg Salto del Guairát a távoli északkeleten, a brazil határnál.",
+        "ro": "Găsește Salto del Guairá în extremul nord-est, la granița cu Brazilia.",
+        "en": "Find Salto del Guairá in the far northeast on the Brazilian border."
+      }
+    },
+    {
+      "id": "py-find-monday-falls",
+      "type": "find_poi",
+      "targetPoiId": "py-saltos-del-monday-nature-v2",
+      "question": {
+        "de": "Finde die Monday-Fälle bei Presidente Franco.",
+        "hu": "Keresd meg a Monday-vízesést Presidente Franco közelében.",
+        "ro": "Găsește cascadele Monday de lângă Presidente Franco.",
+        "en": "Find Monday Falls near Presidente Franco."
+      }
+    },
+    {
+      "id": "py-find-cerro-cora-park",
+      "type": "find_poi",
+      "targetPoiId": "py-parque-cerro-cora-nature-v2",
+      "question": {
+        "de": "Finde den Nationalpark Cerro Corá im Norden.",
+        "hu": "Keresd meg a Cerro Corá Nemzeti Parkot északon.",
+        "ro": "Găsește Parcul Național Cerro Corá din nord.",
+        "en": "Find Cerro Corá National Park in the north."
+      }
+    },
+    {
+      "id": "py-find-laguna-blanca",
+      "type": "find_poi",
+      "targetPoiId": "py-laguna-blanca-nature-v2",
+      "question": {
+        "de": "Finde Laguna Blanca im Departamento San Pedro.",
+        "hu": "Keresd meg a Laguna Blancát San Pedro megyében.",
+        "ro": "Găsește Laguna Blanca din departamentul San Pedro.",
+        "en": "Find Laguna Blanca in San Pedro Department."
+      }
+    },
+    {
+      "id": "py-region-asuncion-district",
+      "type": "find_region",
+      "targetRegionId": "PRY-4837",
+      "question": {
+        "de": "Klicke auf den Hauptstadtbezirk Asunción.",
+        "hu": "Kattints Asunción fővárosi körzetére.",
+        "ro": "Apasă pe districtul capitalei Asunción.",
+        "en": "Click the capital district of Asunción."
+      }
+    },
+    {
+      "id": "py-region-presidente-hayes",
+      "type": "find_region",
+      "targetRegionId": "PRY-605",
+      "question": {
+        "de": "Finde Presidente Hayes im zentralen Chaco.",
+        "hu": "Keresd meg Presidente Hayes megyét a középső Chacóban.",
+        "ro": "Găsește departamentul Presidente Hayes din Chaco central.",
+        "en": "Find Presidente Hayes Department in the central Chaco."
+      }
+    },
+    {
+      "id": "py-region-neembucu",
+      "type": "find_region",
+      "targetRegionId": "PRY-610",
+      "question": {
+        "de": "Finde Ñeembucú im äußersten Südwesten Paraguays.",
+        "hu": "Keresd meg Ñeembucú megyét Paraguay legdélnyugatibb részén.",
+        "ro": "Găsește Ñeembucú în extremul sud-vest al Paraguayului.",
+        "en": "Find Ñeembucú in the far southwest of Paraguay."
+      }
+    },
+    {
+      "id": "py-region-amambay",
+      "type": "find_region",
+      "targetRegionId": "PRY-615",
+      "question": {
+        "de": "Klicke auf Amambay an der brasilianischen Grenze im Norden.",
+        "hu": "Kattints Amambay megyére az északi brazil határ mentén.",
+        "ro": "Apasă pe Amambay, la granița nordică cu Brazilia.",
+        "en": "Click Amambay on the northern border with Brazil."
+      }
+    },
+    {
+      "id": "py-region-guaira",
+      "type": "find_region",
+      "targetRegionId": "PRY-608",
+      "question": {
+        "de": "Finde Guairá, das Departamento von Villarrica.",
+        "hu": "Keresd meg Guairá megyét, Villarrica megyéjét.",
+        "ro": "Găsește Guairá, departamentul al cărui oraș principal este Villarrica.",
+        "en": "Find Guairá, the department whose main city is Villarrica."
+      }
+    },
+    {
+      "id": "py-odd-not-itapua-extension",
+      "type": "odd_one_out",
+      "poiIds": [
+        "coronel-bogado-cities-v2",
+        "hohenau-cities-v2",
+        "obligado-cities-v2",
+        "caazapa-cities-v2"
+      ],
+      "targetPoiId": "caazapa-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht im Departamento Itapúa?",
+        "hu": "Melyik hely nem Itapúa megyében található?",
+        "ro": "Care dintre aceste locuri nu se află în departamentul Itapúa?",
+        "en": "Which of these places is not in Itapúa Department?"
+      }
+    },
+    {
+      "id": "py-odd-not-alto-parana-extension",
+      "type": "odd_one_out",
+      "poiIds": [
+        "hernandarias-cities-v2",
+        "minga-guazu-cities-v2",
+        "santa-rita-cities-v2",
+        "curuguaty-cities-v2"
+      ],
+      "targetPoiId": "curuguaty-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht im Departamento Alto Paraná?",
+        "hu": "Melyik hely nem Alto Paraná megyében található?",
+        "ro": "Care dintre aceste locuri nu se află în departamentul Alto Paraná?",
+        "en": "Which of these places is not in Alto Paraná Department?"
+      }
+    },
+    {
+      "id": "py-odd-farthest-north",
+      "type": "odd_one_out",
+      "poiIds": [
+        "concepcion-cities-v2",
+        "pedro-juan-caballero-cities-v2",
+        "capitan-bado-cities-v2",
+        "bella-vista-norte-cities-v2"
+      ],
+      "targetPoiId": "bella-vista-norte-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten nördlich?",
+        "hu": "Melyik hely fekszik a legészakabbra?",
+        "ro": "Care dintre aceste locuri se află cel mai la nord?",
+        "en": "Which of these places lies farthest north?"
+      }
+    },
+    {
+      "id": "py-odd-farthest-west",
+      "type": "odd_one_out",
+      "poiIds": [
+        "mariscal-estigarribia-cities-v2",
+        "filadelfia-cities-v2",
+        "loma-plata-cities-v2",
+        "fuerte-olimpo-cities-v2"
+      ],
+      "targetPoiId": "mariscal-estigarribia-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten westlich?",
+        "hu": "Melyik hely fekszik a legnyugatabbra?",
+        "ro": "Care dintre aceste locuri se află cel mai la vest?",
+        "en": "Which of these places lies farthest west?"
+      }
+    },
+    {
+      "id": "py-odd-not-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "pilar-cities-v2",
+        "filadelfia-cities-v2",
+        "pedro-juan-caballero-cities-v2",
+        "py-saltos-del-monday-nature-v2"
+      ],
+      "targetPoiId": "py-saltos-del-monday-nature-v2",
+      "question": {
+        "de": "Welcher dieser Marker bezeichnet keine Stadt?",
+        "hu": "Melyik jelölő nem várost jelöl?",
+        "ro": "Care dintre aceste marcaje nu indică un oraș?",
+        "en": "Which of these markers does not indicate a city?"
+      }
+    },
+    {
+      "id": "py-sequence-west-east-chaco",
+      "type": "sequence",
+      "poiIds": [
+        "mariscal-estigarribia-cities-v2",
+        "filadelfia-cities-v2",
+        "loma-plata-cities-v2",
+        "villa-hayes-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "mariscal-estigarribia-cities-v2",
+        "filadelfia-cities-v2",
+        "loma-plata-cities-v2",
+        "villa-hayes-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Mariscal Estigarribia, Filadelfia, Loma Plata und Villa Hayes von West nach Ost an.",
+        "hu": "Kattints Mariscal Estigarribiára, Filadelfiára, Loma Platára és Villa Hayesre nyugatról keletre.",
+        "ro": "Apasă Mariscal Estigarribia, Filadelfia, Loma Plata și Villa Hayes de la vest la est.",
+        "en": "Click Mariscal Estigarribia, Filadelfia, Loma Plata, and Villa Hayes from west to east."
+      }
+    },
+    {
+      "id": "py-sequence-north-south-alto-parana",
+      "type": "sequence",
+      "poiIds": [
+        "salto-del-guaira-cities-v2",
+        "hernandarias-cities-v2",
+        "presidente-franco-cities-v2",
+        "paraguay-nacunday-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "salto-del-guaira-cities-v2",
+        "hernandarias-cities-v2",
+        "presidente-franco-cities-v2",
+        "paraguay-nacunday-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Salto del Guairá, Hernandarias, Presidente Franco und Ñacunday von Nord nach Süd an.",
+        "hu": "Kattints Salto del Guairára, Hernandariasra, Presidente Francóra és Ñacundayra északról délre.",
+        "ro": "Apasă Salto del Guairá, Hernandarias, Presidente Franco și Ñacunday de la nord la sud.",
+        "en": "Click Salto del Guairá, Hernandarias, Presidente Franco, and Ñacunday from north to south."
+      }
+    },
+    {
+      "id": "py-sequence-west-east-central-route",
+      "type": "sequence",
+      "poiIds": [
+        "caacupe-cities-v2",
+        "eusebio-ayala-cities-v2",
+        "coronel-oviedo-cities-v2",
+        "ciudad-del-este-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "caacupe-cities-v2",
+        "eusebio-ayala-cities-v2",
+        "coronel-oviedo-cities-v2",
+        "ciudad-del-este-cities-v2"
+      ],
+      "question": {
+        "de": "Ordne diese Orte von West nach Ost: Caacupé, Eusebio Ayala, Coronel Oviedo, Ciudad del Este.",
+        "hu": "Rendezd ezeket a helyeket nyugatról keletre: Caacupé, Eusebio Ayala, Coronel Oviedo, Ciudad del Este.",
+        "ro": "Ordonează aceste locuri de la vest la est: Caacupé, Eusebio Ayala, Coronel Oviedo, Ciudad del Este.",
+        "en": "Order these places from west to east: Caacupé, Eusebio Ayala, Coronel Oviedo, Ciudad del Este."
+      }
+    },
+    {
+      "id": "py-sequence-north-south-northern-axis",
+      "type": "sequence",
+      "poiIds": [
+        "fuerte-olimpo-cities-v2",
+        "bella-vista-norte-cities-v2",
+        "pedro-juan-caballero-cities-v2",
+        "concepcion-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "fuerte-olimpo-cities-v2",
+        "bella-vista-norte-cities-v2",
+        "pedro-juan-caballero-cities-v2",
+        "concepcion-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Fuerte Olimpo, Bella Vista Norte, Pedro Juan Caballero und Concepción von Nord nach Süd an.",
+        "hu": "Kattints Fuerte Olimpóra, Bella Vista Nortéra, Pedro Juan Caballeróra és Concepciónra északról délre.",
+        "ro": "Apasă Fuerte Olimpo, Bella Vista Norte, Pedro Juan Caballero și Concepción de la nord la sud.",
+        "en": "Click Fuerte Olimpo, Bella Vista Norte, Pedro Juan Caballero, and Concepción from north to south."
+      }
+    },
+    {
+      "id": "py-sequence-west-east-southern-heritage",
+      "type": "sequence",
+      "poiIds": [
+        "paraguay-san-cosme-y-damian-cities-v2",
+        "coronel-bogado-cities-v2",
+        "encarnacion-cities-v2",
+        "paraguay-trinidad-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "paraguay-san-cosme-y-damian-cities-v2",
+        "coronel-bogado-cities-v2",
+        "encarnacion-cities-v2",
+        "paraguay-trinidad-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke San Cosme y Damián, Coronel Bogado, Encarnación und Trinidad von West nach Ost an.",
+        "hu": "Kattints San Cosme y Damiánra, Coronel Bogadóra, Encarnaciónra és Trinidadra nyugatról keletre.",
+        "ro": "Apasă San Cosme y Damián, Coronel Bogado, Encarnación și Trinidad de la vest la est.",
+        "en": "Click San Cosme y Damián, Coronel Bogado, Encarnación, and Trinidad from west to east."
+      }
+    }
+  ]
+}

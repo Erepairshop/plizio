@@ -1,0 +1,309 @@
+{
+  "ki": [
+    {
+      "id": "ki-ext-find-bairiki-admin",
+      "type": "find_poi",
+      "targetPoiId": "kiribati-bairiki-cities-v2",
+      "question": {
+        "de": "Finde Bairiki, das Verwaltungszentrum von Sued-Tarawa.",
+        "hu": "Keresd meg Bairikit, Del-Tarawa kozigazgatasi kozpontjat.",
+        "ro": "Gaseste Bairiki, centrul administrativ din Tarawa de Sud.",
+        "en": "Find Bairiki, the administrative center of South Tarawa."
+      }
+    },
+    {
+      "id": "ki-ext-find-bonriki-airport-side",
+      "type": "find_poi",
+      "targetPoiId": "kiribati-bonriki-cities-v2",
+      "question": {
+        "de": "Finde Bonriki am oestlichen Ende von Sued-Tarawa.",
+        "hu": "Keresd meg Bonrikit Del-Tarawa keleti vegen.",
+        "ro": "Gaseste Bonriki la capatul estic al Tarawa de Sud.",
+        "en": "Find Bonriki at the eastern end of South Tarawa."
+      }
+    },
+    {
+      "id": "ki-ext-find-banana-kiritimati",
+      "type": "find_poi",
+      "targetPoiId": "kiribati-banana-cities-v2",
+      "question": {
+        "de": "Finde Banana auf Kiritimati nahe dem Flughafen.",
+        "hu": "Keresd meg Bananat Kiritimatin, a repuloter kozeleben.",
+        "ro": "Gaseste Banana pe Kiritimati, langa aeroport.",
+        "en": "Find Banana on Kiritimati near the airport."
+      }
+    },
+    {
+      "id": "ki-ext-find-cassidy-airport",
+      "type": "find_poi",
+      "targetPoiId": "kiribati-cassidy-airport-economic-v2",
+      "question": {
+        "de": "Finde den Cassidy International Airport auf Kiritimati.",
+        "hu": "Keresd meg a Cassidy nemzetkozi repulotert Kiritimatin.",
+        "ro": "Gaseste Aeroportul International Cassidy de pe Kiritimati.",
+        "en": "Find Cassidy International Airport on Kiritimati."
+      }
+    },
+    {
+      "id": "ki-ext-find-banaba-peak",
+      "type": "find_poi",
+      "targetPoiId": "kiribati-banaba-peak-relief-v2",
+      "question": {
+        "de": "Finde Banaba Peak auf der westlichen Insel Banaba.",
+        "hu": "Keresd meg a Banaba-csucsot a nyugati Banaba szigeten.",
+        "ro": "Gaseste Varful Banaba pe insula vestica Banaba.",
+        "en": "Find Banaba Peak on the western island of Banaba."
+      }
+    },
+    {
+      "id": "ki-ext-find-kanton-island",
+      "type": "find_poi",
+      "targetPoiId": "kiribati-kanton-island-nature-v2",
+      "question": {
+        "de": "Finde Kanton Island in der Phoenixgruppe.",
+        "hu": "Keresd meg Kanton-szigetet a Phoenix-szigetek kozott.",
+        "ro": "Gaseste Insula Kanton din grupul Phoenix.",
+        "en": "Find Kanton Island in the Phoenix group."
+      }
+    },
+    {
+      "id": "ki-ext-find-flint-island",
+      "type": "find_poi",
+      "targetPoiId": "kiribati-flint-island-nature-v2",
+      "question": {
+        "de": "Finde Flint Island weit im Suedosten des Landes.",
+        "hu": "Keresd meg a Flint-szigetet az orszag tavoli delkeleti reszen.",
+        "ro": "Gaseste Insula Flint, departe in sud-estul tarii.",
+        "en": "Find Flint Island far in the country's southeast."
+      }
+    },
+    {
+      "id": "ki-ext-find-tarawa-lagoon",
+      "type": "find_poi",
+      "targetPoiId": "kiribati-tarawa-lagoon-nature-v2",
+      "question": {
+        "de": "Finde die Tarawa-Lagune beim Hauptstadtatoll.",
+        "hu": "Keresd meg a Tarawa-lagunat a fovarosi atollnal.",
+        "ro": "Gaseste Laguna Tarawa langa atolul capitalei.",
+        "en": "Find Tarawa Lagoon by the capital atoll."
+      }
+    },
+    {
+      "id": "ki-ext-find-phoenix-protected-area",
+      "type": "find_poi",
+      "targetPoiId": "kiribati-phoenix-islands-life-v2",
+      "question": {
+        "de": "Finde das Schutzgebiet der Phoenix Islands im zentralen Pazifikteil Kiribatis.",
+        "hu": "Keresd meg a Phoenix-szigetek vedett teruletet Kiribati kozepso csendes-oceani reszen.",
+        "ro": "Gaseste aria protejata a Insulelor Phoenix din partea centrala pacifica a Kiribatiului.",
+        "en": "Find the Phoenix Islands Protected Area in Kiribati's central Pacific section."
+      }
+    },
+    {
+      "id": "ki-ext-region-date-line-country",
+      "type": "find_region",
+      "targetRegionId": "KIR+00?",
+      "question": {
+        "de": "Klicke auf Kiribati, den ueber beide Seiten der Datumsgrenze verteilten Inselstaat.",
+        "hu": "Kattints Kiribatira, az idovonal ket oldalara is atsorolt szigetallamra.",
+        "ro": "Apasa pe Kiribati, statul insular raspandit pe ambele parti ale liniei schimbarii datei.",
+        "en": "Click Kiribati, the island country spread across both sides of the date line."
+      }
+    },
+    {
+      "id": "ki-ext-odd-southernmost",
+      "type": "odd_one_out",
+      "poiIds": [
+        "kiribati-rawannawi-cities-v2",
+        "kiribati-south-tarawa-cities-v2",
+        "kiribati-banaba-island-nature-v2",
+        "kiribati-rungata-cities-v2"
+      ],
+      "targetPoiId": "kiribati-rungata-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Sueden?",
+        "hu": "Melyik hely fekszik a legmesszebb delen?",
+        "ro": "Care dintre aceste locuri se afla cel mai departe spre sud?",
+        "en": "Which of these places lies farthest south?"
+      }
+    },
+    {
+      "id": "ki-ext-odd-banaba-vs-atolls",
+      "type": "odd_one_out",
+      "poiIds": [
+        "kiribati-banaba-island-nature-v2",
+        "kiribati-south-tarawa-cities-v2",
+        "kiribati-butaritari-atoll-cities-v2",
+        "kiribati-kiritimati-christmas-island-cities-v2"
+      ],
+      "targetPoiId": "kiribati-banaba-island-nature-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt auf Banaba statt auf einem Atoll?",
+        "hu": "Melyik hely van Banaban, nem pedig egy atollon?",
+        "ro": "Care dintre aceste locuri se afla pe Banaba, nu pe un atol?",
+        "en": "Which of these places is on Banaba rather than on an atoll?"
+      }
+    },
+    {
+      "id": "ki-ext-odd-phoenix-group",
+      "type": "odd_one_out",
+      "poiIds": [
+        "kiribati-kanton-island-nature-v2",
+        "kiribati-south-tarawa-cities-v2",
+        "kiribati-banana-cities-v2",
+        "kiribati-banaba-island-nature-v2"
+      ],
+      "targetPoiId": "kiribati-kanton-island-nature-v2",
+      "question": {
+        "de": "Welcher dieser Orte gehoert zur Phoenixgruppe?",
+        "hu": "Melyik hely tartozik a Phoenix-szigetekhez?",
+        "ro": "Care dintre aceste locuri apartine grupului Phoenix?",
+        "en": "Which of these places belongs to the Phoenix group?"
+      }
+    },
+    {
+      "id": "ki-ext-odd-farthest-east",
+      "type": "odd_one_out",
+      "poiIds": [
+        "kiribati-banaba-island-nature-v2",
+        "kiribati-south-tarawa-cities-v2",
+        "kiribati-rungata-cities-v2",
+        "kiribati-flint-island-nature-v2"
+      ],
+      "targetPoiId": "kiribati-flint-island-nature-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Osten?",
+        "hu": "Melyik hely fekszik a legmesszebb keleten?",
+        "ro": "Care dintre aceste locuri se afla cel mai departe spre est?",
+        "en": "Which of these places lies farthest east?"
+      }
+    },
+    {
+      "id": "ki-ext-odd-line-islands",
+      "type": "odd_one_out",
+      "poiIds": [
+        "kiribati-banana-cities-v2",
+        "kiribati-rawannawi-cities-v2",
+        "kiribati-bairiki-cities-v2",
+        "kiribati-banaba-island-nature-v2"
+      ],
+      "targetPoiId": "kiribati-banana-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt in den Line Islands?",
+        "hu": "Melyik hely fekszik a Line-szigeteken?",
+        "ro": "Care dintre aceste locuri se afla in Insulele Line?",
+        "en": "Which of these places is in the Line Islands?"
+      }
+    },
+    {
+      "id": "ki-ext-sequence-west-east-banaba-to-beru",
+      "type": "sequence",
+      "poiIds": [
+        "kiribati-banaba-island-nature-v2",
+        "kiribati-south-tarawa-cities-v2",
+        "kiribati-abemama-atoll-cities-v2",
+        "kiribati-rungata-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "kiribati-banaba-island-nature-v2",
+        "kiribati-south-tarawa-cities-v2",
+        "kiribati-abemama-atoll-cities-v2",
+        "kiribati-rungata-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Banaba, Sued-Tarawa, Abemama und Rungata von Westen nach Osten an.",
+        "hu": "Kattints Banabara, Del-Tarawara, Abemamara es Rungatara nyugatrol keletre.",
+        "ro": "Apasa Banaba, Tarawa de Sud, Abemama si Rungata de la vest la est.",
+        "en": "Click Banaba, South Tarawa, Abemama and Rungata from west to east."
+      }
+    },
+    {
+      "id": "ki-ext-sequence-north-south-gilberts",
+      "type": "sequence",
+      "poiIds": [
+        "kiribati-butaritari-atoll-cities-v2",
+        "kiribati-rawannawi-cities-v2",
+        "kiribati-south-tarawa-cities-v2",
+        "kiribati-rungata-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "kiribati-butaritari-atoll-cities-v2",
+        "kiribati-rawannawi-cities-v2",
+        "kiribati-south-tarawa-cities-v2",
+        "kiribati-rungata-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Butaritari, Rawannawi, Sued-Tarawa und Rungata von Norden nach Sueden an.",
+        "hu": "Kattints Butaritarira, Rawannawira, Del-Tarawara es Rungatara eszakrol delre.",
+        "ro": "Apasa Butaritari, Rawannawi, Tarawa de Sud si Rungata de la nord la sud.",
+        "en": "Click Butaritari, Rawannawi, South Tarawa and Rungata from north to south."
+      }
+    },
+    {
+      "id": "ki-ext-sequence-west-east-kiritimati",
+      "type": "sequence",
+      "poiIds": [
+        "kiribati-poland-cities-v2",
+        "kiribati-tabwakea-cities-v2",
+        "kiribati-banana-cities-v2",
+        "kiribati-aeon-point-relief-v2"
+      ],
+      "orderedPoiIds": [
+        "kiribati-poland-cities-v2",
+        "kiribati-tabwakea-cities-v2",
+        "kiribati-banana-cities-v2",
+        "kiribati-aeon-point-relief-v2"
+      ],
+      "question": {
+        "de": "Klicke Poland, Tabwakea, Banana und Aeon Point auf Kiritimati von Westen nach Osten an.",
+        "hu": "Kattints Polandra, Tabwakeara, Bananara es az Aeon-fokra Kiritimatin nyugatrol keletre.",
+        "ro": "Apasa Poland, Tabwakea, Banana si Aeon Point pe Kiritimati de la vest la est.",
+        "en": "Click Poland, Tabwakea, Banana and Aeon Point on Kiritimati from west to east."
+      }
+    },
+    {
+      "id": "ki-ext-sequence-north-south-tabuaeran-to-millennium",
+      "type": "sequence",
+      "poiIds": [
+        "kiribati-tabuaeran-nature-v2",
+        "kiribati-rawannawi-cities-v2",
+        "kiribati-kanton-island-nature-v2",
+        "kiribati-flint-island-nature-v2"
+      ],
+      "orderedPoiIds": [
+        "kiribati-tabuaeran-nature-v2",
+        "kiribati-rawannawi-cities-v2",
+        "kiribati-kanton-island-nature-v2",
+        "kiribati-flint-island-nature-v2"
+      ],
+      "question": {
+        "de": "Klicke Tabuaeran, Rawannawi, Kanton Island und Flint Island von Norden nach Sueden an.",
+        "hu": "Kattints Tabuaeranra, Rawannawira, Kanton-szigetre es Flint-szigetre eszakrol delre.",
+        "ro": "Apasa Tabuaeran, Rawannawi, Insula Kanton si Insula Flint de la nord la sud.",
+        "en": "Click Tabuaeran, Rawannawi, Kanton Island and Flint Island from north to south."
+      }
+    },
+    {
+      "id": "ki-ext-sequence-west-east-banaba-to-tabuaeran",
+      "type": "sequence",
+      "poiIds": [
+        "kiribati-banaba-island-nature-v2",
+        "kiribati-south-tarawa-cities-v2",
+        "kiribati-rawannawi-cities-v2",
+        "kiribati-tabuaeran-nature-v2"
+      ],
+      "orderedPoiIds": [
+        "kiribati-banaba-island-nature-v2",
+        "kiribati-south-tarawa-cities-v2",
+        "kiribati-rawannawi-cities-v2",
+        "kiribati-tabuaeran-nature-v2"
+      ],
+      "question": {
+        "de": "Klicke Banaba, Sued-Tarawa, Rawannawi und Tabuaeran von Westen nach Osten an.",
+        "hu": "Kattints Banabara, Del-Tarawara, Rawannawira es Tabuaeranra nyugatrol keletre.",
+        "ro": "Apasa Banaba, Tarawa de Sud, Rawannawi si Tabuaeran de la vest la est.",
+        "en": "Click Banaba, South Tarawa, Rawannawi and Tabuaeran from west to east."
+      }
+    }
+  ]
+}

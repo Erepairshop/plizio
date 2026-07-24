@@ -1,0 +1,300 @@
+{
+  "mv": [
+    {
+      "id": "mv-find-dhidhdhoo",
+      "type": "find_poi",
+      "targetPoiId": "mv-dhidhdhoo-cities-v2",
+      "question": {
+        "de": "Finde Dhidhdhoo im äußersten Norden der Malediven.",
+        "hu": "Keresd meg Dhidhdhoot a Maldív-szigetek legészakibb részén.",
+        "ro": "Găsește Dhidhdhoo în extremitatea nordică a Maldivelor.",
+        "en": "Find Dhidhdhoo in the far north of the Maldives."
+      }
+    },
+    {
+      "id": "mv-find-hinnavaru",
+      "type": "find_poi",
+      "targetPoiId": "mv-hinnavaru-cities-v2",
+      "question": {
+        "de": "Klicke auf Hinnavaru im Lhaviyani-Atoll.",
+        "hu": "Kattints Hinnavarura a Lhaviyani-atollban.",
+        "ro": "Apasă pe Hinnavaru, în atolul Lhaviyani.",
+        "en": "Click Hinnavaru in Lhaviyani Atoll."
+      }
+    },
+    {
+      "id": "mv-find-hulhumale",
+      "type": "find_poi",
+      "targetPoiId": "mv-hulhumale-cities-v2",
+      "question": {
+        "de": "Finde Hulhumalé nordöstlich von Malé.",
+        "hu": "Keresd meg Hulhumalét Malétól északkeletre.",
+        "ro": "Găsește Hulhumalé la nord-est de Malé.",
+        "en": "Find Hulhumalé northeast of Malé."
+      }
+    },
+    {
+      "id": "mv-find-maafushi",
+      "type": "find_poi",
+      "targetPoiId": "mv-maafushi-cities-v2",
+      "question": {
+        "de": "Finde Maafushi südlich von Malé im Kaafu-Atoll.",
+        "hu": "Keresd meg Maafushit Malétól délre, a Kaafu-atollban.",
+        "ro": "Găsește Maafushi la sud de Malé, în atolul Kaafu.",
+        "en": "Find Maafushi south of Malé in Kaafu Atoll."
+      }
+    },
+    {
+      "id": "mv-find-villingili",
+      "type": "find_poi",
+      "targetPoiId": "mv-villingili-ga-cities-v2",
+      "question": {
+        "de": "Klicke auf Villingili im Gaafu-Alifu-Atoll.",
+        "hu": "Kattints Villingilire a Gaafu Alifu-atollban.",
+        "ro": "Apasă pe Villingili, în atolul Gaafu Alifu.",
+        "en": "Click Villingili in Gaafu Alifu Atoll."
+      }
+    },
+    {
+      "id": "mv-region-haa-alifu",
+      "type": "find_region",
+      "targetRegionId": "MDV-5223",
+      "question": {
+        "de": "Klicke auf das Haa-Alifu-Atoll.",
+        "hu": "Kattints a Haa Alifu-atollra.",
+        "ro": "Apasă pe atolul Haa Alifu.",
+        "en": "Click Haa Alifu Atoll."
+      }
+    },
+    {
+      "id": "mv-region-lhaviyani",
+      "type": "find_region",
+      "targetRegionId": "MDV-5229",
+      "question": {
+        "de": "Finde das Lhaviyani-Atoll.",
+        "hu": "Keresd meg a Lhaviyani-atollt.",
+        "ro": "Găsește atolul Lhaviyani.",
+        "en": "Find Lhaviyani Atoll."
+      }
+    },
+    {
+      "id": "mv-region-baa",
+      "type": "find_region",
+      "targetRegionId": "MDV-5228",
+      "question": {
+        "de": "Klicke auf das Baa-Atoll.",
+        "hu": "Kattints a Baa-atollra.",
+        "ro": "Apasă pe atolul Baa.",
+        "en": "Click Baa Atoll."
+      }
+    },
+    {
+      "id": "mv-region-gaafu-dhaalu",
+      "type": "find_region",
+      "targetRegionId": "MDV-5241",
+      "question": {
+        "de": "Finde das Gaafu-Dhaalu-Atoll.",
+        "hu": "Keresd meg a Gaafu Dhaalu-atollt.",
+        "ro": "Găsește atolul Gaafu Dhaalu.",
+        "en": "Find Gaafu Dhaalu Atoll."
+      }
+    },
+    {
+      "id": "mv-region-male",
+      "type": "find_region",
+      "targetRegionId": "MDV-5234",
+      "question": {
+        "de": "Klicke auf die Verwaltungsregion Malé.",
+        "hu": "Kattints Malé közigazgatási régiójára.",
+        "ro": "Apasă pe regiunea administrativă Malé.",
+        "en": "Click the Malé administrative area."
+      }
+    },
+    {
+      "id": "mv-odd-farthest-north-central-south",
+      "type": "odd_one_out",
+      "poiIds": [
+        "mv-hinnavaru-cities-v2",
+        "mv-maafushi-cities-v2",
+        "mv-villingili-ga-cities-v2"
+      ],
+      "targetPoiId": "mv-hinnavaru-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Norden?",
+        "hu": "Melyik hely fekszik a legészakabbra?",
+        "ro": "Care dintre aceste locuri se află cel mai la nord?",
+        "en": "Which of these places lies farthest north?"
+      }
+    },
+    {
+      "id": "mv-odd-farthest-south-southern-chain",
+      "type": "odd_one_out",
+      "poiIds": [
+        "mv-fonadhoo-cities-v2",
+        "mv-thinadhoo-cities-v2",
+        "mv-addu-city-cities-v2"
+      ],
+      "targetPoiId": "mv-addu-city-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Süden?",
+        "hu": "Melyik hely fekszik a legdélebbre?",
+        "ro": "Care dintre aceste locuri se află cel mai la sud?",
+        "en": "Which of these places lies farthest south?"
+      }
+    },
+    {
+      "id": "mv-odd-farthest-east-northern-atolls",
+      "type": "odd_one_out",
+      "poiIds": [
+        "mv-dhidhdhoo-cities-v2",
+        "mv-kulhudhuffushi-cities-v2",
+        "mv-funadhoo-cities-v2"
+      ],
+      "targetPoiId": "mv-funadhoo-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Osten?",
+        "hu": "Melyik hely fekszik a legkeletebbre?",
+        "ro": "Care dintre aceste locuri se află cel mai la est?",
+        "en": "Which of these places lies farthest east?"
+      }
+    },
+    {
+      "id": "mv-odd-farthest-west-central-atolls",
+      "type": "odd_one_out",
+      "poiIds": [
+        "mv-veymandoo-cities-v2",
+        "mv-kudahuvadhoo-cities-v2",
+        "mv-muli-cities-v2"
+      ],
+      "targetPoiId": "mv-kudahuvadhoo-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Westen?",
+        "hu": "Melyik hely fekszik a legnyugatabbra?",
+        "ro": "Care dintre aceste locuri se află cel mai la vest?",
+        "en": "Which of these places lies farthest west?"
+      }
+    },
+    {
+      "id": "mv-odd-closest-male",
+      "type": "odd_one_out",
+      "poiIds": [
+        "mv-hulhumale-cities-v2",
+        "mv-rasdhoo-cities-v2",
+        "mv-maafushi-cities-v2"
+      ],
+      "targetPoiId": "mv-hulhumale-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt Malé am nächsten?",
+        "hu": "Melyik hely van a legközelebb Maléhoz?",
+        "ro": "Care dintre aceste locuri este cel mai aproape de Malé?",
+        "en": "Which of these places is closest to Malé?"
+      }
+    },
+    {
+      "id": "mv-sequence-north-south-northern-arc",
+      "type": "sequence",
+      "poiIds": [
+        "mv-dhidhdhoo-cities-v2",
+        "mv-kulhudhuffushi-cities-v2",
+        "mv-funadhoo-cities-v2",
+        "mv-eydhafushi-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "mv-dhidhdhoo-cities-v2",
+        "mv-kulhudhuffushi-cities-v2",
+        "mv-funadhoo-cities-v2",
+        "mv-eydhafushi-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Dhidhdhoo, Kulhudhuffushi, Funadhoo und Eydhafushi von Norden nach Süden an.",
+        "hu": "Kattints Dhidhdhoora, Kulhudhuffushira, Funadhoora és Eydhafushira északról délre.",
+        "ro": "Apasă pe Dhidhdhoo, Kulhudhuffushi, Funadhoo și Eydhafushi de la nord la sud.",
+        "en": "Click Dhidhdhoo, Kulhudhuffushi, Funadhoo and Eydhafushi from north to south."
+      }
+    },
+    {
+      "id": "mv-sequence-west-east-raa-atoll",
+      "type": "sequence",
+      "poiIds": [
+        "mv-meedhoo-raa-cities-v2",
+        "mv-dhuvaafaru-cities-v2",
+        "mv-ungoofaaru-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "mv-meedhoo-raa-cities-v2",
+        "mv-dhuvaafaru-cities-v2",
+        "mv-ungoofaaru-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Meedhoo, Dhuvaafaru und Ungoofaaru von Westen nach Osten an.",
+        "hu": "Kattints Meedhoora, Dhuvaafarura és Ungoofaarura nyugatról keletre.",
+        "ro": "Apasă pe Meedhoo, Dhuvaafaru și Ungoofaaru de la vest la est.",
+        "en": "Click Meedhoo, Dhuvaafaru and Ungoofaaru from west to east."
+      }
+    },
+    {
+      "id": "mv-sequence-north-south-central-chain",
+      "type": "sequence",
+      "poiIds": [
+        "mv-alifushi-cities-v2",
+        "mv-dhuvaafaru-cities-v2",
+        "mv-hinnavaru-cities-v2",
+        "mv-male-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "mv-alifushi-cities-v2",
+        "mv-dhuvaafaru-cities-v2",
+        "mv-hinnavaru-cities-v2",
+        "mv-male-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Alifushi, Dhuvaafaru, Hinnavaru und Malé von Norden nach Süden an.",
+        "hu": "Kattints Alifushira, Dhuvaafarura, Hinnavarura és Maléra északról délre.",
+        "ro": "Apasă pe Alifushi, Dhuvaafaru, Hinnavaru și Malé de la nord la sud.",
+        "en": "Click Alifushi, Dhuvaafaru, Hinnavaru and Malé from north to south."
+      }
+    },
+    {
+      "id": "mv-sequence-west-east-central-south",
+      "type": "sequence",
+      "poiIds": [
+        "mv-kudahuvadhoo-cities-v2",
+        "mv-veymandoo-cities-v2",
+        "mv-fonadhoo-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "mv-kudahuvadhoo-cities-v2",
+        "mv-veymandoo-cities-v2",
+        "mv-fonadhoo-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Kudahuvadhoo, Veymandoo und Fonadhoo von Westen nach Osten an.",
+        "hu": "Kattints Kudahuvadhoora, Veymandoora és Fonadhoora nyugatról keletre.",
+        "ro": "Apasă pe Kudahuvadhoo, Veymandoo și Fonadhoo de la vest la est.",
+        "en": "Click Kudahuvadhoo, Veymandoo and Fonadhoo from west to east."
+      }
+    },
+    {
+      "id": "mv-sequence-north-south-far-south",
+      "type": "sequence",
+      "poiIds": [
+        "mv-fonadhoo-cities-v2",
+        "mv-villingili-ga-cities-v2",
+        "mv-fuvahmulah-cities-v2",
+        "mv-addu-city-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "mv-fonadhoo-cities-v2",
+        "mv-villingili-ga-cities-v2",
+        "mv-fuvahmulah-cities-v2",
+        "mv-addu-city-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Fonadhoo, Villingili, Fuvahmulah und Addu City von Norden nach Süden an.",
+        "hu": "Kattints Fonadhoora, Villingilire, Fuvahmulahra és Addu Cityre északról délre.",
+        "ro": "Apasă pe Fonadhoo, Villingili, Fuvahmulah și Addu City de la nord la sud.",
+        "en": "Click Fonadhoo, Villingili, Fuvahmulah and Addu City from north to south."
+      }
+    }
+  ]
+}

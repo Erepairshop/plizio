@@ -1,0 +1,314 @@
+{
+  "tv": [
+    {
+      "id": "tv-find-alapi-fongafale",
+      "type": "find_poi",
+      "targetPoiId": "tuvalu-alapi-cities-v2",
+      "question": {
+        "de": "Finde Alapi auf der Insel Fongafale im Funafuti-Atoll.",
+        "hu": "Keresd meg Alapit a Fongafale-szigeten, a Funafuti-atollon.",
+        "ro": "Găsește Alapi pe insula Fongafale din atolul Funafuti.",
+        "en": "Find Alapi on Fongafale islet in Funafuti atoll."
+      }
+    },
+    {
+      "id": "tv-find-tokelau-nanumanga",
+      "type": "find_poi",
+      "targetPoiId": "tuvalu-tokelau-village-cities-v2",
+      "question": {
+        "de": "Finde Tokelau auf Nanumanga.",
+        "hu": "Keresd meg Tokelaut Nanumanga szigetén.",
+        "ro": "Găsește Tokelau pe insula Nanumanga.",
+        "en": "Find Tokelau on Nanumanga."
+      }
+    },
+    {
+      "id": "tv-find-savave-nukufetau",
+      "type": "find_poi",
+      "targetPoiId": "tuvalu-savave-cities-v2",
+      "question": {
+        "de": "Finde Savave auf dem Nukufetau-Atoll.",
+        "hu": "Keresd meg Savavét a Nukufetau-atollon.",
+        "ro": "Găsește Savave pe atolul Nukufetau.",
+        "en": "Find Savave on Nukufetau atoll."
+      }
+    },
+    {
+      "id": "tv-find-amatuku-village",
+      "type": "find_poi",
+      "targetPoiId": "tuvalu-amatuku-cities-v2",
+      "question": {
+        "de": "Finde Amatuku nördlich von Fongafale.",
+        "hu": "Keresd meg Amatukut Fongafalétól északra.",
+        "ro": "Găsește Amatuku la nord de Fongafale.",
+        "en": "Find Amatuku north of Fongafale."
+      }
+    },
+    {
+      "id": "tv-find-motufoua-school",
+      "type": "find_poi",
+      "targetPoiId": "tuvalu-motufoua-school-history-v2",
+      "question": {
+        "de": "Finde die Motufoua Secondary School auf Vaitupu.",
+        "hu": "Keresd meg a Motufoua középiskolát Vaitupu szigetén.",
+        "ro": "Găsește școala secundară Motufoua pe Vaitupu.",
+        "en": "Find Motufoua Secondary School on Vaitupu."
+      }
+    },
+    {
+      "id": "tv-find-funafuti-airport",
+      "type": "find_poi",
+      "targetPoiId": "tuvalu-airport-economic-v2",
+      "question": {
+        "de": "Finde den internationalen Flughafen von Funafuti.",
+        "hu": "Keresd meg a funafuti nemzetközi repülőteret.",
+        "ro": "Găsește aeroportul internațional din Funafuti.",
+        "en": "Find Funafuti International Airport."
+      }
+    },
+    {
+      "id": "tv-find-nui-maneapa",
+      "type": "find_poi",
+      "targetPoiId": "tuvalu-nui-maneapa-history-v2",
+      "question": {
+        "de": "Finde die traditionelle Maneapa von Nui.",
+        "hu": "Keresd meg Nui hagyományos maneapáját.",
+        "ro": "Găsește maneapa tradițională din Nui.",
+        "en": "Find the traditional maneapa of Nui."
+      }
+    },
+    {
+      "id": "tv-find-funafuti-conservation-area",
+      "type": "find_poi",
+      "targetPoiId": "tuvalu-funafuti-conservation-area-life-v2",
+      "question": {
+        "de": "Finde das Funafuti Conservation Area westlich von Fongafale.",
+        "hu": "Keresd meg a Funafuti természetvédelmi területet Fongafalétól nyugatra.",
+        "ro": "Găsește zona de conservare Funafuti la vest de Fongafale.",
+        "en": "Find the Funafuti Conservation Area west of Fongafale."
+      }
+    },
+    {
+      "id": "tv-odd-vaitupu-school",
+      "type": "odd_one_out",
+      "poiIds": [
+        "tuvalu-national-bank-economic-v2",
+        "tuvalu-airport-economic-v2",
+        "tuvalu-motufoua-school-history-v2",
+        "tuvalu-fetu-ao-lima-church-landmarks-v2"
+      ],
+      "targetPoiId": "tuvalu-motufoua-school-history-v2",
+      "question": {
+        "de": "Welcher Ort liegt auf Vaitupu statt auf Funafuti?",
+        "hu": "Melyik hely található Vaitupu szigetén, nem pedig Funafutin?",
+        "ro": "Care loc se află pe Vaitupu, nu pe Funafuti?",
+        "en": "Which place is on Vaitupu rather than Funafuti?"
+      }
+    },
+    {
+      "id": "tv-odd-nanumanga-caves",
+      "type": "odd_one_out",
+      "poiIds": [
+        "tuvalu-funafuti-war-memorial-history-v2",
+        "tuvalu-government-building-landmarks-v2",
+        "tuvalu-nanumanga-caves-history-v2",
+        "tuvalu-princess-margaret-hospital-landmarks-v2"
+      ],
+      "targetPoiId": "tuvalu-nanumanga-caves-history-v2",
+      "question": {
+        "de": "Welcher Ort liegt auf Nanumanga statt auf Funafuti?",
+        "hu": "Melyik hely található Nanumangán, nem pedig Funafutin?",
+        "ro": "Care loc se află pe Nanumanga, nu pe Funafuti?",
+        "en": "Which place is on Nanumanga rather than Funafuti?"
+      }
+    },
+    {
+      "id": "tv-odd-niutao-settlement",
+      "type": "odd_one_out",
+      "poiIds": [
+        "tuvalu-tokelau-village-cities-v2",
+        "tuvalu-kulia-cities-v2",
+        "tuvalu-lolua-cities-v2",
+        "tuvalu-tanrake-cities-v2"
+      ],
+      "targetPoiId": "tuvalu-kulia-cities-v2",
+      "question": {
+        "de": "Welche Siedlung liegt auf Niutao?",
+        "hu": "Melyik település található Niutao szigetén?",
+        "ro": "Care așezare se află pe Niutao?",
+        "en": "Which settlement is on Niutao?"
+      }
+    },
+    {
+      "id": "tv-odd-funafuti-capital",
+      "type": "odd_one_out",
+      "poiIds": [
+        "tuvalu-vaiaku-cities-v2",
+        "tuvalu-tokelau-village-cities-v2",
+        "tuvalu-kulia-cities-v2",
+        "tuvalu-savave-cities-v2"
+      ],
+      "targetPoiId": "tuvalu-vaiaku-cities-v2",
+      "question": {
+        "de": "Welche Siedlung liegt auf Funafuti statt auf einer äußeren Insel?",
+        "hu": "Melyik település található Funafutin, nem pedig egy külső szigeten?",
+        "ro": "Care așezare se află pe Funafuti, nu pe o insulă exterioară?",
+        "en": "Which settlement is on Funafuti rather than an outer island?"
+      }
+    },
+    {
+      "id": "tv-odd-westernmost",
+      "type": "odd_one_out",
+      "poiIds": [
+        "tuvalu-tokelau-village-cities-v2",
+        "tuvalu-tanrake-cities-v2",
+        "tuvalu-savave-cities-v2",
+        "tuvalu-fangaua-cities-v2"
+      ],
+      "targetPoiId": "tuvalu-tokelau-village-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt am weitesten im Westen?",
+        "hu": "Melyik hely fekszik a legnyugatabbra?",
+        "ro": "Care loc se află cel mai la vest?",
+        "en": "Which place lies farthest west?"
+      }
+    },
+    {
+      "id": "tv-odd-easternmost",
+      "type": "odd_one_out",
+      "poiIds": [
+        "tuvalu-lolua-cities-v2",
+        "tuvalu-kulia-cities-v2",
+        "tuvalu-savave-cities-v2",
+        "tuvalu-fangaua-cities-v2"
+      ],
+      "targetPoiId": "tuvalu-fangaua-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt am weitesten im Osten?",
+        "hu": "Melyik hely fekszik a legkeletebbre?",
+        "ro": "Care loc se află cel mai la est?",
+        "en": "Which place lies farthest east?"
+      }
+    },
+    {
+      "id": "tv-sequence-west-east-settlements",
+      "type": "sequence",
+      "poiIds": [
+        "tuvalu-tokelau-village-cities-v2",
+        "tuvalu-kulia-cities-v2",
+        "tuvalu-savave-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "tuvalu-tokelau-village-cities-v2",
+        "tuvalu-kulia-cities-v2",
+        "tuvalu-savave-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Tokelau, Kulia und Savave von Westen nach Osten an.",
+        "hu": "Kattints Tokelau, Kulia és Savave pontjára nyugatról keletre.",
+        "ro": "Apasă Tokelau, Kulia și Savave de la vest la est.",
+        "en": "Click Tokelau, Kulia and Savave from west to east."
+      }
+    },
+    {
+      "id": "tv-sequence-north-south-churches",
+      "type": "sequence",
+      "poiIds": [
+        "tuvalu-nanumea-church-landmarks-v2",
+        "tuvalu-nui-church-landmarks-v2",
+        "tuvalu-teone-church-landmarks-v2"
+      ],
+      "orderedPoiIds": [
+        "tuvalu-nanumea-church-landmarks-v2",
+        "tuvalu-nui-church-landmarks-v2",
+        "tuvalu-teone-church-landmarks-v2"
+      ],
+      "question": {
+        "de": "Klicke die Kirche von Nanumea, die Kirche von Nui und die Kirche von Teone von Norden nach Süden an.",
+        "hu": "Kattints a nanumeai templomra, a nui templomra és a teonei templomra északról délre.",
+        "ro": "Apasă biserica din Nanumea, biserica din Nui și biserica din Teone de la nord la sud.",
+        "en": "Click Nanumea Church, Nui Church and Teone Church from north to south."
+      }
+    },
+    {
+      "id": "tv-sequence-north-south-schools-chain",
+      "type": "sequence",
+      "poiIds": [
+        "tuvalu-motufoua-school-history-v2",
+        "tuvalu-savave-cities-v2",
+        "tuvalu-fangaua-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "tuvalu-motufoua-school-history-v2",
+        "tuvalu-savave-cities-v2",
+        "tuvalu-fangaua-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die Motufoua Secondary School, Savave und Fangaua von Norden nach Süden an.",
+        "hu": "Kattints a Motufoua középiskolára, Savavéra és Fangauára északról délre.",
+        "ro": "Apasă școala secundară Motufoua, Savave și Fangaua de la nord la sud.",
+        "en": "Click Motufoua Secondary School, Savave and Fangaua from north to south."
+      }
+    },
+    {
+      "id": "tv-sequence-west-east-conservation-chain",
+      "type": "sequence",
+      "poiIds": [
+        "tuvalu-funafuti-conservation-area-life-v2",
+        "tuvalu-vaiaku-cities-v2",
+        "tuvalu-fangaua-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "tuvalu-funafuti-conservation-area-life-v2",
+        "tuvalu-vaiaku-cities-v2",
+        "tuvalu-fangaua-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke das Funafuti Conservation Area, Vaiaku und Fangaua von Westen nach Osten an.",
+        "hu": "Kattints a Funafuti természetvédelmi területre, Vaiakura és Fangauára nyugatról keletre.",
+        "ro": "Apasă zona de conservare Funafuti, Vaiaku și Fangaua de la vest la est.",
+        "en": "Click the Funafuti Conservation Area, Vaiaku and Fangaua from west to east."
+      }
+    },
+    {
+      "id": "tv-sequence-south-north-funafuti-islets",
+      "type": "sequence",
+      "poiIds": [
+        "tuvalu-funafala-islet-nature-v2",
+        "tuvalu-vaiaku-cities-v2",
+        "tuvalu-amatuku-islet-nature-v2"
+      ],
+      "orderedPoiIds": [
+        "tuvalu-funafala-islet-nature-v2",
+        "tuvalu-vaiaku-cities-v2",
+        "tuvalu-amatuku-islet-nature-v2"
+      ],
+      "question": {
+        "de": "Klicke Funafala Islet, Vaiaku und Amatuku Islet von Süden nach Norden an.",
+        "hu": "Kattints Funafala szigetére, Vaiakura és Amatuku szigetére délről északra.",
+        "ro": "Apasă insula Funafala, Vaiaku și insula Amatuku de la sud la nord.",
+        "en": "Click Funafala Islet, Vaiaku and Amatuku Islet from south to north."
+      }
+    },
+    {
+      "id": "tv-sequence-west-east-archipelago",
+      "type": "sequence",
+      "poiIds": [
+        "tuvalu-lolua-cities-v2",
+        "tuvalu-tanrake-cities-v2",
+        "tuvalu-fangaua-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "tuvalu-lolua-cities-v2",
+        "tuvalu-tanrake-cities-v2",
+        "tuvalu-fangaua-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Lolua, Tanrake und Fangaua von Westen nach Osten an.",
+        "hu": "Kattints Lolua, Tanrake és Fangaua pontjára nyugatról keletre.",
+        "ro": "Apasă Lolua, Tanrake și Fangaua de la vest la est.",
+        "en": "Click Lolua, Tanrake and Fangaua from west to east."
+      }
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "mz": [
+    {
+      "id": "mz-extra-find-lichinga",
+      "type": "find_poi",
+      "targetPoiId": "lichinga-cities-v2",
+      "question": {
+        "de": "Finde Lichinga im hohen Norden nahe dem Malawisee.",
+        "hu": "Keresd meg Liching?t ?szakon, a Malawi-t? k?zel?ben.",
+        "ro": "G?se?te Lichinga ?n nord, aproape de Lacul Malawi.",
+        "en": "Find Lichinga in the north near Lake Malawi."
+      }
+    },
+    {
+      "id": "mz-extra-find-quelimane",
+      "type": "find_poi",
+      "targetPoiId": "quelimane-cities-v2",
+      "question": {
+        "de": "Finde Quelimane an der zentralen K?ste Mosambiks.",
+        "hu": "Keresd meg Queliman?t Mozambik k?z?ps? partvid?k?n.",
+        "ro": "G?se?te Quelimane pe coasta central? a Mozambicului.",
+        "en": "Find Quelimane on the central coast of Mozambique."
+      }
+    },
+    {
+      "id": "mz-extra-find-ilha-de-mocambique",
+      "type": "find_poi",
+      "targetPoiId": "ilha-de-mocambique-cities-v2",
+      "question": {
+        "de": "Finde Ilha de Mo?ambique, die historische Inselstadt vor der K?ste von Nampula.",
+        "hu": "Keresd meg Ilha de Mo?ambique t?rt?nelmi szigetv?ros?t Nampula partjai el?tt.",
+        "ro": "G?se?te Ilha de Mo?ambique, ora?ul istoric insular din largul coastei Nampula.",
+        "en": "Find Ilha de Mo?ambique, the historic island town off the coast of Nampula."
+      }
+    },
+    {
+      "id": "mz-extra-find-vilankulo",
+      "type": "find_poi",
+      "targetPoiId": "vilankulo-cities-v2",
+      "question": {
+        "de": "Finde Vilankulo an der S?dk?ste als Tor zum Bazaruto-Archipel.",
+        "hu": "Keresd meg Vilankul?t a d?li partvid?ken, a Bazaruto-szigetcsoport kapujak?nt.",
+        "ro": "G?se?te Vilankulo pe coasta sudic?, poarta spre Arhipelagul Bazaruto.",
+        "en": "Find Vilankulo on the southern coast, the gateway to the Bazaruto Archipelago."
+      }
+    },
+    {
+      "id": "mz-extra-find-cahora-bassa-dam",
+      "type": "find_poi",
+      "targetPoiId": "cahora-bassa-dam-landmarks-v2",
+      "question": {
+        "de": "Finde den Cahora-Bassa-Damm am Sambesi im Westen des Landes.",
+        "hu": "Keresd meg a Cahora Bassa-g?tat a Zamb?zi foly?n, az orsz?g nyugati r?sz?n.",
+        "ro": "G?se?te barajul Cahora Bassa de pe Zambezi, ?n vestul ??rii.",
+        "en": "Find the Cahora Bassa Dam on the Zambezi in the west of the country."
+      }
+    },
+    {
+      "id": "mz-extra-region-niassa",
+      "type": "find_region",
+      "targetRegionId": "MOZ-1199",
+      "question": {
+        "de": "Klicke auf die Provinz Niassa im Nordwesten.",
+        "hu": "Kattints az ?szaknyugati Niassa tartom?nyra.",
+        "ro": "Apas? pe provincia Niassa din nord-vest.",
+        "en": "Click Niassa Province in the northwest."
+      }
+    },
+    {
+      "id": "mz-extra-region-manica",
+      "type": "find_region",
+      "targetRegionId": "MOZ-1192",
+      "question": {
+        "de": "Finde die Provinz Manica an der Grenze zu Simbabwe.",
+        "hu": "Keresd meg Manica tartom?nyt a zimbabwei hat?r ment?n.",
+        "ro": "G?se?te provincia Manica de-a lungul grani?ei cu Zimbabwe.",
+        "en": "Find Manica Province along the border with Zimbabwe."
+      }
+    },
+    {
+      "id": "mz-extra-region-zambezia",
+      "type": "find_region",
+      "targetRegionId": "MOZ-1906",
+      "question": {
+        "de": "Klicke auf die Provinz Zambezia an der mittleren K?ste.",
+        "hu": "Kattints Zambezia tartom?nyra a k?z?ps? partvid?ken.",
+        "ro": "Apas? pe provincia Zambezia de pe coasta central?.",
+        "en": "Click Zambezia Province on the central coast."
+      }
+    },
+    {
+      "id": "mz-extra-region-sofala",
+      "type": "find_region",
+      "targetRegionId": "MOZ-1905",
+      "question": {
+        "de": "Finde die Provinz Sofala rund um Beira.",
+        "hu": "Keresd meg Sofala tartom?nyt Beira k?rny?k?n.",
+        "ro": "G?se?te provincia Sofala din jurul ora?ului Beira.",
+        "en": "Find Sofala Province around Beira."
+      }
+    },
+    {
+      "id": "mz-extra-region-nampula",
+      "type": "find_region",
+      "targetRegionId": "MOZ-1200",
+      "question": {
+        "de": "Klicke auf die Provinz Nampula im Nordosten.",
+        "hu": "Kattints az ?szakkeleti Nampula tartom?nyra.",
+        "ro": "Apas? pe provincia Nampula din nord-est.",
+        "en": "Click Nampula Province in the northeast."
+      }
+    },
+    {
+      "id": "mz-extra-odd-inland-tete",
+      "type": "odd_one_out",
+      "poiIds": [
+        "quelimane-cities-v2",
+        "inhambane-cities-v2",
+        "pemba-cities-v2",
+        "tete-cities-v2"
+      ],
+      "targetPoiId": "tete-cities-v2",
+      "question": {
+        "de": "Welche dieser St?dte liegt nicht an der K?ste des Indischen Ozeans?",
+        "hu": "E v?rosok k?z?l melyik nem az Indiai-?ce?n partj?n fekszik?",
+        "ro": "Care dintre aceste ora?e nu se afl? pe coasta Oceanului Indian?",
+        "en": "Which of these cities is not on the Indian Ocean coast?"
+      }
+    },
+    {
+      "id": "mz-extra-odd-island-ilha",
+      "type": "odd_one_out",
+      "poiIds": [
+        "nampula-cities-v2",
+        "angoche-cities-v2",
+        "nacala-cities-v2",
+        "ilha-de-mocambique-cities-v2"
+      ],
+      "targetPoiId": "ilha-de-mocambique-cities-v2",
+      "question": {
+        "de": "Welche dieser Orte liegt auf einer Insel?",
+        "hu": "Melyik hely fekszik szigeten?",
+        "ro": "Care dintre aceste locuri se afl? pe o insul??",
+        "en": "Which of these places is located on an island?"
+      }
+    },
+    {
+      "id": "mz-extra-odd-border-ressano",
+      "type": "odd_one_out",
+      "poiIds": [
+        "pemba-cities-v2",
+        "ressano-garcia-cities-v2",
+        "vilankulo-cities-v2",
+        "nacala-cities-v2"
+      ],
+      "targetPoiId": "ressano-garcia-cities-v2",
+      "question": {
+        "de": "Welche dieser St?dte liegt an der Grenze zu S?dafrika und Eswatini?",
+        "hu": "E v?rosok k?z?l melyik fekszik D?l-Afrika ?s Eswatini hat?r?n?l?",
+        "ro": "Care dintre aceste ora?e se afl? la grani?a cu Africa de Sud ?i Eswatini?",
+        "en": "Which of these cities lies by the border with South Africa and Eswatini?"
+      }
+    },
+    {
+      "id": "mz-extra-odd-archipelago",
+      "type": "odd_one_out",
+      "poiIds": [
+        "vilankulo-cities-v2",
+        "inhambane-cities-v2",
+        "maxixe-cities-v2",
+        "bazaruto-archipelago-life-v2"
+      ],
+      "targetPoiId": "bazaruto-archipelago-life-v2",
+      "question": {
+        "de": "Welcher Punkt ist ein Archipel und keine Stadt?",
+        "hu": "Melyik pont egy szigetcsoport, ?s nem v?ros?",
+        "ro": "Care punct este un arhipelag, nu un ora??",
+        "en": "Which point is an archipelago rather than a city?"
+      }
+    },
+    {
+      "id": "mz-extra-odd-dam",
+      "type": "odd_one_out",
+      "poiIds": [
+        "maputo-city-hall-landmarks-v2",
+        "beira-railway-station-landmarks-v2",
+        "cahora-bassa-dam-landmarks-v2",
+        "fortaleza-sao-sebastiao-landmarks-v2"
+      ],
+      "targetPoiId": "cahora-bassa-dam-landmarks-v2",
+      "question": {
+        "de": "Welcher dieser Orte ist ein Staudamm und kein Stadtgeb?ude oder Fort?",
+        "hu": "Melyik hely v?zt?roz? g?t, ?s nem v?rosi ?p?let vagy er?d?",
+        "ro": "Care dintre aceste locuri este un baraj, nu o cl?dire urban? sau un fort?",
+        "en": "Which of these places is a dam rather than an urban building or fort?"
+      }
+    },
+    {
+      "id": "mz-extra-order-west-east-zumbo-nacala",
+      "type": "sequence",
+      "poiIds": [
+        "mz-zumbo-trading-post-history-v2",
+        "chimoio-cities-v2",
+        "beira-cities-v2",
+        "nacala-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "mz-zumbo-trading-post-history-v2",
+        "chimoio-cities-v2",
+        "beira-cities-v2",
+        "nacala-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Zumbo, Chimoio, Beira und Nacala von West nach Ost an.",
+        "hu": "Kattints Zumb?ra, Chimoi?ra, Beir?ra ?s Nacal?ra nyugatr?l keletre.",
+        "ro": "Apas? Zumbo, Chimoio, Beira ?i Nacala de la vest la est.",
+        "en": "Click Zumbo, Chimoio, Beira and Nacala from west to east."
+      }
+    },
+    {
+      "id": "mz-extra-order-north-south-palma-quelimane",
+      "type": "sequence",
+      "poiIds": [
+        "palma-cities-v2",
+        "pemba-cities-v2",
+        "nampula-cities-v2",
+        "quelimane-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "palma-cities-v2",
+        "pemba-cities-v2",
+        "nampula-cities-v2",
+        "quelimane-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Palma, Pemba, Nampula und Quelimane von Nord nach S?d an.",
+        "hu": "Kattints Palm?ra, Pemb?ra, Nampul?ra ?s Queliman?ra ?szakr?l d?lre.",
+        "ro": "Apas? Palma, Pemba, Nampula ?i Quelimane de la nord la sud.",
+        "en": "Click Palma, Pemba, Nampula and Quelimane from north to south."
+      }
+    },
+    {
+      "id": "mz-extra-order-west-east-ressano-inhambane",
+      "type": "sequence",
+      "poiIds": [
+        "ressano-garcia-cities-v2",
+        "maputo-cities-v2",
+        "xai-xai-cities-v2",
+        "inhambane-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "ressano-garcia-cities-v2",
+        "maputo-cities-v2",
+        "xai-xai-cities-v2",
+        "inhambane-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Ressano Garcia, Maputo, Xai-Xai und Inhambane von West nach Ost an.",
+        "hu": "Kattints Ressano Garci?ra, Maput?ra, Xai-Xaira ?s Inhamban?ra nyugatr?l keletre.",
+        "ro": "Apas? Ressano Garcia, Maputo, Xai-Xai ?i Inhambane de la vest la est.",
+        "en": "Click Ressano Garcia, Maputo, Xai-Xai and Inhambane from west to east."
+      }
+    },
+    {
+      "id": "mz-extra-order-west-east-cahora-ilha",
+      "type": "sequence",
+      "poiIds": [
+        "cahora-bassa-dam-landmarks-v2",
+        "tete-cities-v2",
+        "quelimane-cities-v2",
+        "ilha-de-mocambique-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "cahora-bassa-dam-landmarks-v2",
+        "tete-cities-v2",
+        "quelimane-cities-v2",
+        "ilha-de-mocambique-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke den Cahora-Bassa-Damm, Tete, Quelimane und Ilha de Mo?ambique von West nach Ost an.",
+        "hu": "Kattints a Cahora Bassa-g?tra, Tet?re, Queliman?ra ?s Ilha de Mo?ambique-re nyugatr?l keletre.",
+        "ro": "Apas? barajul Cahora Bassa, Tete, Quelimane ?i Ilha de Mo?ambique de la vest la est.",
+        "en": "Click the Cahora Bassa Dam, Tete, Quelimane and Ilha de Mo?ambique from west to east."
+      }
+    },
+    {
+      "id": "mz-extra-order-north-south-mocimboa-vilankulo",
+      "type": "sequence",
+      "poiIds": [
+        "mocimboa-da-praia-cities-v2",
+        "montepuez-cities-v2",
+        "beira-cities-v2",
+        "vilankulo-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "mocimboa-da-praia-cities-v2",
+        "montepuez-cities-v2",
+        "beira-cities-v2",
+        "vilankulo-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Moc?mboa da Praia, Montepuez, Beira und Vilankulo von Nord nach S?d an.",
+        "hu": "Kattints Moc?mboa da Prai?ra, Montepuezre, Beir?ra ?s Vilankul?ra ?szakr?l d?lre.",
+        "ro": "Apas? Moc?mboa da Praia, Montepuez, Beira ?i Vilankulo de la nord la sud.",
+        "en": "Click Moc?mboa da Praia, Montepuez, Beira and Vilankulo from north to south."
+      }
+    }
+  ]
+}

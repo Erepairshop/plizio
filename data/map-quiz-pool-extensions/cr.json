@@ -1,0 +1,314 @@
+{
+  "cr": [
+    {
+      "id": "cr-find-poas-volcano",
+      "type": "find_poi",
+      "targetPoiId": "cr-poas",
+      "question": {
+        "de": "Finde den Vulkan Po?s n?rdlich des Zentraltals.",
+        "hu": "Keresd meg a Po?s-vulk?nt a K?zponti-v?lgyt?l ?szakra.",
+        "ro": "G?se?te vulcanul Po?s, la nord de Valea Central?.",
+        "en": "Find Po?s Volcano north of the Central Valley."
+      }
+    },
+    {
+      "id": "cr-find-manuel-antonio",
+      "type": "find_poi",
+      "targetPoiId": "cr-manuelantonio",
+      "question": {
+        "de": "Finde den Manuel-Antonio-Nationalpark an der Pazifikk?ste.",
+        "hu": "Keresd meg a Manuel Antonio Nemzeti Parkot a csendes-?ce?ni parton.",
+        "ro": "G?se?te Parcul Na?ional Manuel Antonio de pe coasta Pacificului.",
+        "en": "Find Manuel Antonio National Park on the Pacific coast."
+      }
+    },
+    {
+      "id": "cr-find-rio-celeste",
+      "type": "find_poi",
+      "targetPoiId": "cr-rio-celeste",
+      "question": {
+        "de": "Finde den R?o Celeste nahe der Nordgrenze zu Nicaragua.",
+        "hu": "Keresd meg a R?o Celest?t az ?szaki, Nicaragua fel? es? hat?r k?zel?ben.",
+        "ro": "G?se?te R?o Celeste, aproape de grani?a nordic? cu Nicaragua.",
+        "en": "Find R?o Celeste near the northern border with Nicaragua."
+      }
+    },
+    {
+      "id": "cr-find-irazu-volcano",
+      "type": "find_poi",
+      "targetPoiId": "cr-irazu",
+      "question": {
+        "de": "Finde den Vulkan Iraz? ?stlich von San Jos?.",
+        "hu": "Keresd meg az Iraz?-vulk?nt San Jos?t?l keletre.",
+        "ro": "G?se?te vulcanul Iraz? la est de San Jos?.",
+        "en": "Find Iraz? Volcano east of San Jos?."
+      }
+    },
+    {
+      "id": "cr-find-friendship-bridge",
+      "type": "find_poi",
+      "targetPoiId": "cr-puente-de-la-amistad-landmarks-v2",
+      "question": {
+        "de": "Finde die Puente de la Amistad ?ber den Tempisque-Fluss.",
+        "hu": "Keresd meg a Tempisque foly? felett ?t?vel? Puente de la Amistad hidat.",
+        "ro": "G?se?te Podul Prieteniei peste r?ul Tempisque.",
+        "en": "Find the Friendship Bridge spanning the Tempisque River."
+      }
+    },
+    {
+      "id": "cr-region-alajuela",
+      "type": "find_region",
+      "targetRegionId": "CRI-1333",
+      "question": {
+        "de": "Klicke auf die Provinz Alajuela im Norden des Zentraltals.",
+        "hu": "Kattints Alajuela tartom?nyra a K?zponti-v?lgy ?szaki oldal?n.",
+        "ro": "Apas? pe provincia Alajuela, la nord de Valea Central?.",
+        "en": "Click Alajuela Province on the northern side of the Central Valley."
+      }
+    },
+    {
+      "id": "cr-region-puntarenas",
+      "type": "find_region",
+      "targetRegionId": "CRI-1330",
+      "question": {
+        "de": "Finde die langgestreckte Provinz Puntarenas an der Pazifikk?ste.",
+        "hu": "Keresd meg a Csendes-?ce?n partja ment?n elny?l? Puntarenas tartom?nyt.",
+        "ro": "G?se?te provincia alungit? Puntarenas de pe coasta Pacificului.",
+        "en": "Find Puntarenas, the long Pacific coastal province."
+      }
+    },
+    {
+      "id": "cr-region-heredia",
+      "type": "find_region",
+      "targetRegionId": "CRI-1328",
+      "question": {
+        "de": "Klicke auf die kleine zentrale Provinz Heredia n?rdlich von San Jos?.",
+        "hu": "Kattints a San Jos?t?l ?szakra fekv? kicsi k?zponti Heredia tartom?nyra.",
+        "ro": "Apas? pe mica provincie central? Heredia, la nord de San Jos?.",
+        "en": "Click the small central province of Heredia just north of San Jos?."
+      }
+    },
+    {
+      "id": "cr-region-cartago",
+      "type": "find_region",
+      "targetRegionId": "CRI-1327",
+      "question": {
+        "de": "Finde die Provinz Cartago ?stlich des Gro?raums San Jos?.",
+        "hu": "Keresd meg Cartago tartom?nyt San Jos? nagyv?rosi t?rs?g?t?l keletre.",
+        "ro": "G?se?te provincia Cartago, la est de zona metropolitan? San Jos?.",
+        "en": "Find Cartago Province east of the San Jos? metro area."
+      }
+    },
+    {
+      "id": "cr-odd-cartago-province",
+      "type": "odd_one_out",
+      "poiIds": [
+        "paraiso-de-cartago-cities-v2",
+        "turrialba-de-cartago-cities-v2",
+        "orosi-de-paraiso-cities-v2",
+        "cr-heredia"
+      ],
+      "targetPoiId": "cr-heredia",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht in der Provinz Cartago?",
+        "hu": "Melyik hely nem Cartago tartom?nyban tal?lhat??",
+        "ro": "Care dintre aceste locuri nu se afl? ?n provincia Cartago?",
+        "en": "Which of these places is not in Cartago Province?"
+      }
+    },
+    {
+      "id": "cr-odd-nicoya-peninsula",
+      "type": "odd_one_out",
+      "poiIds": [
+        "samara-de-nicoya-cities-v2",
+        "nosara-de-nicoya-cities-v2",
+        "costa-rica-santa-teresa-cities-v2",
+        "cr-liberia"
+      ],
+      "targetPoiId": "cr-liberia",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht auf der Nicoya-Halbinsel?",
+        "hu": "Melyik hely nem a Nicoya-f?lszigeten fekszik?",
+        "ro": "Care dintre aceste locuri nu se afl? pe Peninsula Nicoya?",
+        "en": "Which of these places is not on the Nicoya Peninsula?"
+      }
+    },
+    {
+      "id": "cr-odd-limon-province",
+      "type": "odd_one_out",
+      "poiIds": [
+        "guapiles-de-pococi-cities-v2",
+        "costa-rica-cahuita-cities-v2",
+        "puerto-viejo-de-talamanca-cities-v2",
+        "cr-cartago"
+      ],
+      "targetPoiId": "cr-cartago",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht in der Provinz Lim?n?",
+        "hu": "Melyik hely nem Lim?n tartom?nyban tal?lhat??",
+        "ro": "Care dintre aceste locuri nu se afl? ?n provincia Lim?n?",
+        "en": "Which of these places is not in Lim?n Province?"
+      }
+    },
+    {
+      "id": "cr-odd-central-valley",
+      "type": "odd_one_out",
+      "poiIds": [
+        "cr-sanjose",
+        "cr-alajuela",
+        "cr-heredia",
+        "cr-tamarindo"
+      ],
+      "targetPoiId": "cr-tamarindo",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht im Zentraltal?",
+        "hu": "Melyik hely nem a K?zponti-v?lgyben tal?lhat??",
+        "ro": "Care dintre aceste locuri nu se afl? ?n Valea Central??",
+        "en": "Which of these places is not in the Central Valley?"
+      }
+    },
+    {
+      "id": "cr-odd-puntarenas-province",
+      "type": "odd_one_out",
+      "poiIds": [
+        "jaco-de-garabito-cities-v2",
+        "costa-rica-quepos-cities-v2",
+        "uvita-de-osa-cities-v2",
+        "cr-poas"
+      ],
+      "targetPoiId": "cr-poas",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht in der Provinz Puntarenas?",
+        "hu": "Melyik hely nem Puntarenas tartom?nyban tal?lhat??",
+        "ro": "Care dintre aceste locuri nu se afl? ?n provincia Puntarenas?",
+        "en": "Which of these places is not in Puntarenas Province?"
+      }
+    },
+    {
+      "id": "cr-sequence-caribbean-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "cr-tortuguero",
+        "puerto-limon-economic-v2",
+        "puerto-viejo-de-talamanca-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "cr-tortuguero",
+        "puerto-limon-economic-v2",
+        "puerto-viejo-de-talamanca-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Tortuguero, Puerto Lim?n und Puerto Viejo de Talamanca von West nach Ost an.",
+        "hu": "Kattints Tortuguer?ra, Puerto Lim?nra ?s Puerto Viejo de Talamanc?ra nyugatr?l keletre.",
+        "ro": "Apas? Tortuguero, Puerto Lim?n ?i Puerto Viejo de Talamanca de la vest la est.",
+        "en": "Click Tortuguero, Puerto Lim?n and Puerto Viejo de Talamanca from west to east."
+      }
+    },
+    {
+      "id": "cr-sequence-volcanoes-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "cr-arenal",
+        "cr-poas",
+        "cr-irazu"
+      ],
+      "orderedPoiIds": [
+        "cr-arenal",
+        "cr-poas",
+        "cr-irazu"
+      ],
+      "question": {
+        "de": "Klicke Arenal, Po?s und Iraz? von West nach Ost an.",
+        "hu": "Kattints az Arenalra, a Po?sra ?s az Iraz?ra nyugatr?l keletre.",
+        "ro": "Apas? Arenal, Po?s ?i Iraz? de la vest la est.",
+        "en": "Click Arenal, Po?s and Iraz? from west to east."
+      }
+    },
+    {
+      "id": "cr-sequence-pacific-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "jaco-de-garabito-cities-v2",
+        "costa-rica-quepos-cities-v2",
+        "uvita-de-osa-cities-v2",
+        "costa-rica-puerto-jimenez-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "jaco-de-garabito-cities-v2",
+        "costa-rica-quepos-cities-v2",
+        "uvita-de-osa-cities-v2",
+        "costa-rica-puerto-jimenez-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Jac?, Quepos, Uvita und Puerto Jim?nez von Nord nach S?d an.",
+        "hu": "Kattints Jac?ra, Queposra, Uvit?ra ?s Puerto Jim?nezre ?szakr?l d?lre.",
+        "ro": "Apas? Jac?, Quepos, Uvita ?i Puerto Jim?nez de la nord la sud.",
+        "en": "Click Jac?, Quepos, Uvita and Puerto Jim?nez from north to south."
+      }
+    },
+    {
+      "id": "cr-sequence-nicoya-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "santa-cruz-de-guanacaste-cities-v2",
+        "samara-de-nicoya-cities-v2",
+        "montezuma-de-puntarenas-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "santa-cruz-de-guanacaste-cities-v2",
+        "samara-de-nicoya-cities-v2",
+        "montezuma-de-puntarenas-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Santa Cruz, S?mara und Montezuma von Nord nach S?d an.",
+        "hu": "Kattints Santa Cruzra, S?mar?ra ?s Montezum?ra ?szakr?l d?lre.",
+        "ro": "Apas? Santa Cruz, S?mara ?i Montezuma de la nord la sud.",
+        "en": "Click Santa Cruz, S?mara and Montezuma from north to south."
+      }
+    },
+    {
+      "id": "cr-sequence-central-valley-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "cr-alajuela",
+        "cr-heredia",
+        "cr-sanjose",
+        "cr-cartago"
+      ],
+      "orderedPoiIds": [
+        "cr-alajuela",
+        "cr-heredia",
+        "cr-sanjose",
+        "cr-cartago"
+      ],
+      "question": {
+        "de": "Klicke Alajuela, Heredia, San Jos? und Cartago von West nach Ost an.",
+        "hu": "Kattints Alajuel?ra, Heredi?ra, San Jos?ra ?s Cartag?ra nyugatr?l keletre.",
+        "ro": "Apas? Alajuela, Heredia, San Jos? ?i Cartago de la vest la est.",
+        "en": "Click Alajuela, Heredia, San Jos? and Cartago from west to east."
+      }
+    },
+    {
+      "id": "cr-sequence-interior-to-caribbean",
+      "type": "sequence",
+      "poiIds": [
+        "cr-sanjose",
+        "cr-cartago",
+        "turrialba-de-cartago-cities-v2",
+        "puerto-limon-economic-v2"
+      ],
+      "orderedPoiIds": [
+        "cr-sanjose",
+        "cr-cartago",
+        "turrialba-de-cartago-cities-v2",
+        "puerto-limon-economic-v2"
+      ],
+      "question": {
+        "de": "Klicke San Jos?, Cartago, Turrialba und Puerto Lim?n von West nach Ost an.",
+        "hu": "Kattints San Jos?ra, Cartag?ra, Turrialb?ra ?s Puerto Lim?nra nyugatr?l keletre.",
+        "ro": "Apas? San Jos?, Cartago, Turrialba ?i Puerto Lim?n de la vest la est.",
+        "en": "Click San Jos?, Cartago, Turrialba and Puerto Lim?n from west to east."
+      }
+    }
+  ]
+}

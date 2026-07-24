@@ -1,0 +1,299 @@
+{
+  "ru": [
+    {
+      "id": "ru-find-curonian-spit",
+      "type": "find_poi",
+      "targetPoiId": "russia-curonian-spit-life-v2",
+      "question": {
+        "de": "Finde den Nationalpark Kurische Nehrung in der Ostseeregion.",
+        "hu": "Keresd meg a Kur-fÃ¶ldnyelv Nemzeti Parkot a balti tÃ©rsÃ©gben.",
+        "ro": "GÄƒseÈ™te Parcul NaÈ›ional Istmul Curonian din regiunea Balticii.",
+        "en": "Find Curonian Spit National Park in the Baltic region."
+      }
+    },
+    {
+      "id": "ru-find-yekaterinburg",
+      "type": "find_poi",
+      "targetPoiId": "russia-yekaterinburg-cities-v2",
+      "question": {
+        "de": "Finde Jekaterinburg am Ural.",
+        "hu": "Keresd meg Jekatyerinburgot az UrÃ¡lnÃ¡l.",
+        "ro": "GÄƒseÈ™te Ekaterinburg la MunÈ›ii Ural.",
+        "en": "Find Yekaterinburg by the Ural Mountains."
+      }
+    },
+    {
+      "id": "ru-find-lake-baikal",
+      "type": "find_poi",
+      "targetPoiId": "russia-lake-baikal-nature-v2",
+      "question": {
+        "de": "Finde den Baikalsee in Sibirien.",
+        "hu": "Keresd meg a BajkÃ¡l-tavat SzibÃ©riÃ¡ban.",
+        "ro": "GÄƒseÈ™te lacul Baikal Ã®n Siberia.",
+        "en": "Find Lake Baikal in Siberia."
+      }
+    },
+    {
+      "id": "ru-find-petropavlovsk-kamchatsky",
+      "type": "find_poi",
+      "targetPoiId": "russia-petropavlovsk-kamchatsky-cities-v2",
+      "question": {
+        "de": "Finde Petropawlowsk-Kamtschatski auf Kamtschatka.",
+        "hu": "Keresd meg Petropavlovszk-Kamcsatszkijt KamcsatkÃ¡n.",
+        "ro": "GÄƒseÈ™te Petropavlovsk-Kamchatski Ã®n Kamceatka.",
+        "en": "Find Petropavlovsk-Kamchatsky on Kamchatka."
+      }
+    },
+    {
+      "id": "ru-find-anadyr",
+      "type": "find_poi",
+      "targetPoiId": "russia-anadyr-cities-v2",
+      "question": {
+        "de": "Finde Anadyr im Ã¤uÃŸersten Nordosten.",
+        "hu": "Keresd meg Anadirt a legÃ©szakkeletibb rÃ©szen.",
+        "ro": "GÄƒseÈ™te Anadyr Ã®n extremul nord-est.",
+        "en": "Find Anadyr in the far northeast."
+      }
+    },
+    {
+      "id": "ru-region-kaliningrad",
+      "type": "find_region",
+      "targetRegionId": "RUS-2324",
+      "question": {
+        "de": "Finde die Oblast Kaliningrad als Exklave an der Ostsee.",
+        "hu": "Keresd meg a KalinyingrÃ¡di terÃ¼letet, a Balti-tengeri exklÃ¡vÃ©t.",
+        "ro": "GÄƒseÈ™te regiunea Kaliningrad, exclava de la Marea BalticÄƒ.",
+        "en": "Find Kaliningrad Oblast, the exclave on the Baltic Sea."
+      }
+    },
+    {
+      "id": "ru-region-sakha",
+      "type": "find_region",
+      "targetRegionId": "RUS-2612",
+      "question": {
+        "de": "Finde Sacha (Jakutien) im Nordosten Sibiriens.",
+        "hu": "Keresd meg a Szaha (JakutfÃ¶ld) kÃ¶ztÃ¡rsasÃ¡got Ã‰szakkelet-SzibÃ©riÃ¡ban.",
+        "ro": "GÄƒseÈ™te Saha (IakuÈ›ia) Ã®n nord-estul Siberiei.",
+        "en": "Find Sakha (Yakutia) in northeastern Siberia."
+      }
+    },
+    {
+      "id": "ru-region-kamchatka",
+      "type": "find_region",
+      "targetRegionId": "RUS-3468",
+      "question": {
+        "de": "Finde Kamtschatka als Halbinsel am Pazifik.",
+        "hu": "Keresd meg KamcsatkÃ¡t, a Csendes-Ã³ceÃ¡n partjÃ¡n fekvÅ‘ fÃ©lszigetet.",
+        "ro": "GÄƒseÈ™te Kamceatka, peninsula de la Oceanul Pacific.",
+        "en": "Find Kamchatka, the peninsula on the Pacific."
+      }
+    },
+    {
+      "id": "ru-region-tatarstan",
+      "type": "find_region",
+      "targetRegionId": "RUS-2394",
+      "question": {
+        "de": "Finde Tatarstan an der mittleren Wolga.",
+        "hu": "Keresd meg TatÃ¡rfÃ¶ldet a KÃ¶zÃ©psÅ‘-Volga vidÃ©kÃ©n.",
+        "ro": "GÄƒseÈ™te Tatarstanul pe Volga mijlocie.",
+        "en": "Find Tatarstan on the middle Volga."
+      }
+    },
+    {
+      "id": "ru-region-sakhalin",
+      "type": "find_region",
+      "targetRegionId": "RUS-2616",
+      "question": {
+        "de": "Finde Sachalin als Inselregion im Fernen Osten.",
+        "hu": "Keresd meg Szahalint, a tÃ¡vol-keleti sziget-rÃ©giÃ³t.",
+        "ro": "GÄƒseÈ™te Sahalin, regiunea insularÄƒ din Extremul Orient.",
+        "en": "Find Sakhalin, the island region in the Far East."
+      }
+    },
+    {
+      "id": "ru-odd-pacific-coast",
+      "type": "odd_one_out",
+      "poiIds": [
+        "russia-kaliningrad-cities-v2",
+        "russia-sochi-cities-v2",
+        "russia-murmansk-cities-v2",
+        "russia-vladivostok-cities-v2"
+      ],
+      "targetPoiId": "russia-vladivostok-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt am Pazifik?",
+        "hu": "Melyik hely fekszik a Csendes-Ã³ceÃ¡n partjÃ¡n?",
+        "ro": "Care loc se aflÄƒ la Oceanul Pacific?",
+        "en": "Which place lies on the Pacific Ocean?"
+      }
+    },
+    {
+      "id": "ru-odd-arctic-circle",
+      "type": "odd_one_out",
+      "poiIds": [
+        "russia-murmansk-cities-v2",
+        "russia-kazan-cities-v2",
+        "russia-voronezh-cities-v2",
+        "russia-rostov-on-don-cities-v2"
+      ],
+      "targetPoiId": "russia-murmansk-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nÃ¶rdlich des Polarkreises?",
+        "hu": "Melyik vÃ¡ros fekszik az Ã‰szaki-sarkkÃ¶rtÅ‘l Ã©szakra?",
+        "ro": "Care oraÈ™ se aflÄƒ la nord de Cercul Polar?",
+        "en": "Which city lies north of the Arctic Circle?"
+      }
+    },
+    {
+      "id": "ru-odd-exclave",
+      "type": "odd_one_out",
+      "poiIds": [
+        "russia-kaliningrad-cities-v2",
+        "russia-moscow-cities-v2",
+        "russia-kazan-cities-v2",
+        "russia-arkhangelsk-cities-v2"
+      ],
+      "targetPoiId": "russia-kaliningrad-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt in einer russischen Exklave?",
+        "hu": "Melyik vÃ¡ros fekszik egy orosz exklÃ¡vÃ©ban?",
+        "ro": "Care oraÈ™ se aflÄƒ Ã®ntr-o exclavÄƒ rusÄƒ?",
+        "en": "Which city lies in a Russian exclave?"
+      }
+    },
+    {
+      "id": "ru-odd-not-caucasus",
+      "type": "odd_one_out",
+      "poiIds": [
+        "russia-vladikavkaz-cities-v2",
+        "russia-grozny-cities-v2",
+        "russia-makhachkala-cities-v2",
+        "russia-nizhny-novgorod-cities-v2"
+      ],
+      "targetPoiId": "russia-nizhny-novgorod-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht im Nordkaukasus?",
+        "hu": "Melyik vÃ¡ros nem az Ã‰szak-KaukÃ¡zusban fekszik?",
+        "ro": "Care oraÈ™ nu se aflÄƒ Ã®n Caucazul de Nord?",
+        "en": "Which city is not in the North Caucasus?"
+      }
+    },
+    {
+      "id": "ru-odd-farthest-east",
+      "type": "odd_one_out",
+      "poiIds": [
+        "russia-yakutsk-cities-v2",
+        "russia-khabarovsk-cities-v2",
+        "russia-vladivostok-cities-v2",
+        "russia-anadyr-cities-v2"
+      ],
+      "targetPoiId": "russia-anadyr-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt am weitesten im Osten?",
+        "hu": "Melyik vÃ¡ros fekszik a legkeletebbre?",
+        "ro": "Care oraÈ™ se aflÄƒ cel mai la est?",
+        "en": "Which city lies farthest east?"
+      }
+    },
+    {
+      "id": "ru-order-exclave-urals",
+      "type": "sequence",
+      "poiIds": [
+        "russia-kaliningrad-cities-v2",
+        "russia-moscow-cities-v2",
+        "russia-yekaterinburg-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "russia-kaliningrad-cities-v2",
+        "russia-moscow-cities-v2",
+        "russia-yekaterinburg-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Kaliningrad, Moskau und Jekaterinburg von Westen nach Osten an.",
+        "hu": "Kattints KalinyingrÃ¡dra, MoszkvÃ¡ra Ã©s Jekatyerinburgra nyugatrÃ³l keletre.",
+        "ro": "ApasÄƒ Kaliningrad, Moscova È™i Ekaterinburg de la vest la est.",
+        "en": "Click Kaliningrad, Moscow and Yekaterinburg from west to east."
+      }
+    },
+    {
+      "id": "ru-order-volga-siberia",
+      "type": "sequence",
+      "poiIds": [
+        "russia-kazan-cities-v2",
+        "russia-novosibirsk-cities-v2",
+        "russia-irkutsk-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "russia-kazan-cities-v2",
+        "russia-novosibirsk-cities-v2",
+        "russia-irkutsk-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Kasan, Nowosibirsk und Irkutsk von Westen nach Osten an.",
+        "hu": "Kattints Kazanyra, Novoszibirszkre Ã©s Irkutszkra nyugatrÃ³l keletre.",
+        "ro": "ApasÄƒ Kazan, Novosibirsk È™i Irkutsk de la vest la est.",
+        "en": "Click Kazan, Novosibirsk and Irkutsk from west to east."
+      }
+    },
+    {
+      "id": "ru-order-north-south-arkhangelsk-astrakhan",
+      "type": "sequence",
+      "poiIds": [
+        "russia-arkhangelsk-cities-v2",
+        "russia-moscow-cities-v2",
+        "russia-astrakhan-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "russia-arkhangelsk-cities-v2",
+        "russia-moscow-cities-v2",
+        "russia-astrakhan-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Archangelsk, Moskau und Astrachan von Norden nach SÃ¼den an.",
+        "hu": "Kattints Arhangelszkre, MoszkvÃ¡ra Ã©s AsztrahÃ¡nyra Ã©szakrÃ³l dÃ©lre.",
+        "ro": "ApasÄƒ Arhanghelsk, Moscova È™i Astrahan de la nord la sud.",
+        "en": "Click Arkhangelsk, Moscow and Astrakhan from north to south."
+      }
+    },
+    {
+      "id": "ru-order-siberia-pacific",
+      "type": "sequence",
+      "poiIds": [
+        "russia-krasnoyarsk-cities-v2",
+        "russia-yakutsk-cities-v2",
+        "russia-petropavlovsk-kamchatsky-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "russia-krasnoyarsk-cities-v2",
+        "russia-yakutsk-cities-v2",
+        "russia-petropavlovsk-kamchatsky-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Krasnojarsk, Jakutsk und Petropawlowsk-Kamtschatski von Westen nach Osten an.",
+        "hu": "Kattints Krasznojarszkra, Jakutszkra Ã©s Petropavlovszk-Kamcsatszkijra nyugatrÃ³l keletre.",
+        "ro": "ApasÄƒ Krasnoiarsk, IakuÈ›k È™i Petropavlovsk-Kamchatski de la vest la est.",
+        "en": "Click Krasnoyarsk, Yakutsk and Petropavlovsk-Kamchatsky from west to east."
+      }
+    },
+    {
+      "id": "ru-order-arctic-black-sea",
+      "type": "sequence",
+      "poiIds": [
+        "russia-murmansk-cities-v2",
+        "russia-veliky-novgorod-cities-v2",
+        "russia-rostov-on-don-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "russia-murmansk-cities-v2",
+        "russia-veliky-novgorod-cities-v2",
+        "russia-rostov-on-don-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Murmansk, Weliki Nowgorod und Rostow am Don von Norden nach SÃ¼den an.",
+        "hu": "Kattints Murmanszkra, Velikij Novgorodra Ã©s Rosztov-na-Donura Ã©szakrÃ³l dÃ©lre.",
+        "ro": "ApasÄƒ Murmansk, Veliki Novgorod È™i Rostov-pe-Don de la nord la sud.",
+        "en": "Click Murmansk, Veliky Novgorod and Rostov-on-Don from north to south."
+      }
+    }
+  ]
+}

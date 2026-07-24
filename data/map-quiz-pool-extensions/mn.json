@@ -1,0 +1,314 @@
+{
+  "mn": [
+    {
+      "id": "mn-extra-find-darkhan",
+      "type": "find_poi",
+      "targetPoiId": "mn-darkhan-cities-v2",
+      "question": {
+        "de": "Finde Darkhan im Norden.",
+        "hu": "Keresd meg Darhant északon.",
+        "ro": "Găsește Darkhan în nord.",
+        "en": "Find Darkhan in the north."
+      }
+    },
+    {
+      "id": "mn-extra-find-moron",
+      "type": "find_poi",
+      "targetPoiId": "mn-moron-cities-v2",
+      "question": {
+        "de": "Finde Mörön nahe dem Chöwsgöl-Gebiet.",
+        "hu": "Keresd meg Mörönt a Hövszgöl-vidék közelében.",
+        "ro": "Găsește Mörön lângă regiunea lacului Khövsgöl.",
+        "en": "Find Mörön near the Khövsgöl area."
+      }
+    },
+    {
+      "id": "mn-extra-find-kharkhorin",
+      "type": "find_poi",
+      "targetPoiId": "mn-kharkhorin-cities-v2",
+      "question": {
+        "de": "Finde Kharkhorin im Zentrum des Landes.",
+        "hu": "Keresd meg Karakorumot az ország középső részén.",
+        "ro": "Găsește Kharkhorin în partea centrală a țării.",
+        "en": "Find Kharkhorin in the central part of the country."
+      }
+    },
+    {
+      "id": "mn-extra-find-khongoryn-els",
+      "type": "find_poi",
+      "targetPoiId": "khongoryn-els-landmarks-v2",
+      "question": {
+        "de": "Finde die Dünen von Khongoryn Els in der Gobi.",
+        "hu": "Keresd meg a Khongoryn Els dűnéit a Góbi-sivatagban.",
+        "ro": "Găsește dunele Khongoryn Els din Gobi.",
+        "en": "Find the Khongoryn Els dunes in the Gobi."
+      }
+    },
+    {
+      "id": "mn-extra-region-khovsgol",
+      "type": "find_region",
+      "targetRegionId": "MNG-3321",
+      "question": {
+        "de": "Finde Hövsgöl im hohen Norden.",
+        "hu": "Keresd meg Hövszgölt a messzi északon.",
+        "ro": "Găsește Khövsgöl în nordul îndepărtat.",
+        "en": "Find Khövsgöl in the far north."
+      }
+    },
+    {
+      "id": "mn-extra-region-darkhan-uul",
+      "type": "find_region",
+      "targetRegionId": "MNG-3328",
+      "question": {
+        "de": "Finde Darhan-Uul nördlich der Mitte.",
+        "hu": "Keresd meg Darhan-Uult az ország közepétől északra.",
+        "ro": "Găsește Darhan-Uul la nord de centru.",
+        "en": "Find Darhan-Uul north of the center."
+      }
+    },
+    {
+      "id": "mn-extra-region-dornogovi",
+      "type": "find_region",
+      "targetRegionId": "MNG-3297",
+      "question": {
+        "de": "Finde Dornogovi im Südosten.",
+        "hu": "Keresd meg Dornogovit délkeleten.",
+        "ro": "Găsește Dornogovi în sud-est.",
+        "en": "Find Dornogovi in the southeast."
+      }
+    },
+    {
+      "id": "mn-extra-region-arhangay",
+      "type": "find_region",
+      "targetRegionId": "MNG-3316",
+      "question": {
+        "de": "Finde Arhangay im zentralen Westen.",
+        "hu": "Keresd meg Arhangajt a középső nyugaton.",
+        "ro": "Găsește Arhangay în partea central-vestică.",
+        "en": "Find Arhangay in the central west."
+      }
+    },
+    {
+      "id": "mn-extra-odd-gobi-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "mn-darkhan-cities-v2",
+        "mn-moron-cities-v2",
+        "mn-dalanzadgad-cities-v2",
+        "mn-erdenet-cities-v2"
+      ],
+      "targetPoiId": "mn-dalanzadgad-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt tief in der Gobi?",
+        "hu": "Melyik város fekszik mélyen a Góbi-sivatagban?",
+        "ro": "Care oraș se află adânc în Gobi?",
+        "en": "Which city lies deep in the Gobi?"
+      }
+    },
+    {
+      "id": "mn-extra-odd-china-border",
+      "type": "odd_one_out",
+      "poiIds": [
+        "mn-zamyn-uud-cities-v2",
+        "mn-darkhan-cities-v2",
+        "mn-moron-cities-v2",
+        "mn-kharkhorin-cities-v2"
+      ],
+      "targetPoiId": "mn-zamyn-uud-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt direkt an der chinesischen Grenze?",
+        "hu": "Melyik hely fekszik közvetlenül a kínai határon?",
+        "ro": "Care loc se află chiar la granița cu China?",
+        "en": "Which place lies directly on the Chinese border?"
+      }
+    },
+    {
+      "id": "mn-extra-odd-western-lake",
+      "type": "odd_one_out",
+      "poiIds": [
+        "khovsgol-lake-nature-v2",
+        "mongolia-ogii-lake-cities-v2",
+        "buir-lake-nature-v2",
+        "uvs-lake-nature-v2"
+      ],
+      "targetPoiId": "uvs-lake-nature-v2",
+      "question": {
+        "de": "Welcher See liegt im Westen der Mongolei?",
+        "hu": "Melyik tó fekszik Mongólia nyugati részén?",
+        "ro": "Care lac se află în vestul Mongoliei?",
+        "en": "Which lake lies in western Mongolia?"
+      }
+    },
+    {
+      "id": "mn-extra-odd-away-from-capital",
+      "type": "odd_one_out",
+      "poiIds": [
+        "mn-gandantegchinlen-history-v2",
+        "mn-zaisan-history-v2",
+        "mn-genghis-khan-statue-history-v2",
+        "mn-amarbayasgalant-history-v2"
+      ],
+      "targetPoiId": "mn-amarbayasgalant-history-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht in oder nahe der Hauptstadtregion?",
+        "hu": "Melyik hely nem a fővárosi térségben vagy annak közelében található?",
+        "ro": "Care loc nu se află în sau lângă regiunea capitalei?",
+        "en": "Which place is not in or near the capital region?"
+      }
+    },
+    {
+      "id": "mn-extra-odd-far-west-park",
+      "type": "odd_one_out",
+      "poiIds": [
+        "al-tai-tavan-bogd-landmarks-v2",
+        "khustai-national-park-landmarks-v2",
+        "khovsgol-lake-nature-v2",
+        "mn-gandantegchinlen-history-v2"
+      ],
+      "targetPoiId": "al-tai-tavan-bogd-landmarks-v2",
+      "question": {
+        "de": "Welcher Ort liegt weit im Westen am Altai?",
+        "hu": "Melyik hely fekszik messze nyugaton, az Altaj vidékén?",
+        "ro": "Care loc se află departe în vest, în zona Altai?",
+        "en": "Which place lies far west in the Altai area?"
+      }
+    },
+    {
+      "id": "mn-extra-odd-mine-vs-landmark",
+      "type": "odd_one_out",
+      "poiIds": [
+        "khongoryn-els-landmarks-v2",
+        "oyu-tolgoi-mine-economic-v2",
+        "yolyn-am-landmarks-v2",
+        "bayanzag-flaming-cliffs-landmarks-v2"
+      ],
+      "targetPoiId": "oyu-tolgoi-mine-economic-v2",
+      "question": {
+        "de": "Welcher Ort ist ein aktives Bergwerk und kein Naturdenkmal?",
+        "hu": "Melyik hely működő bánya, és nem természeti látványosság?",
+        "ro": "Care loc este o mină activă, nu un reper natural?",
+        "en": "Which place is an active mine rather than a natural landmark?"
+      }
+    },
+    {
+      "id": "mn-extra-seq-west-east-cities",
+      "type": "sequence",
+      "poiIds": [
+        "mn-olgii-cities-v2",
+        "mn-kharkhorin-cities-v2",
+        "mn-sainshand-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "mn-olgii-cities-v2",
+        "mn-kharkhorin-cities-v2",
+        "mn-sainshand-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Ölgii, Kharkhorin und Sainshand von Westen nach Osten an.",
+        "hu": "Kattints Ölgijre, Karakorumra és Sainshandra nyugatról keletre.",
+        "ro": "Apasă Ölgii, Kharkhorin și Sainshand de la vest la est.",
+        "en": "Click Ölgii, Kharkhorin and Sainshand from west to east."
+      }
+    },
+    {
+      "id": "mn-extra-seq-north-south-cities",
+      "type": "sequence",
+      "poiIds": [
+        "mn-darkhan-cities-v2",
+        "mn-zuunmod-cities-v2",
+        "mn-choir-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "mn-darkhan-cities-v2",
+        "mn-zuunmod-cities-v2",
+        "mn-choir-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Darkhan, Züünmod und Choir von Norden nach Süden an.",
+        "hu": "Kattints Darhanra, Züünmodra és Choirra északról délre.",
+        "ro": "Apasă Darkhan, Züünmod și Choir de la nord la sud.",
+        "en": "Click Darkhan, Züünmod and Choir from north to south."
+      }
+    },
+    {
+      "id": "mn-extra-seq-west-east-lakes",
+      "type": "sequence",
+      "poiIds": [
+        "mongolia-khar-us-lake-cities-v2",
+        "mongolia-ogii-lake-cities-v2",
+        "mongolia-buir-lake-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "mongolia-khar-us-lake-cities-v2",
+        "mongolia-ogii-lake-cities-v2",
+        "mongolia-buir-lake-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Khar Us Lake, Ögii Lake und Buir Lake von Westen nach Osten an.",
+        "hu": "Kattints a Khar Us-tóra, az Ögii-tóra és a Buir-tóra nyugatról keletre.",
+        "ro": "Apasă lacul Khar Us, lacul Ögii și lacul Buir de la vest la est.",
+        "en": "Click Khar Us Lake, Ögii Lake and Buir Lake from west to east."
+      }
+    },
+    {
+      "id": "mn-extra-seq-north-south-east",
+      "type": "sequence",
+      "poiIds": [
+        "mn-choibalsan-cities-v2",
+        "mn-baruun-urt-cities-v2",
+        "mn-zamyn-uud-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "mn-choibalsan-cities-v2",
+        "mn-baruun-urt-cities-v2",
+        "mn-zamyn-uud-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Tschoibalsan, Baruun-Urt und Zamyn-Üüd von Norden nach Süden an.",
+        "hu": "Kattints Csojbalszanra, Baruun-Urtra és Zamyn-Üüdre északról délre.",
+        "ro": "Apasă Choibalsan, Baruun-Urt și Zamyn-Üüd de la nord la sud.",
+        "en": "Click Choibalsan, Baruun-Urt and Zamyn-Üüd from north to south."
+      }
+    },
+    {
+      "id": "mn-extra-seq-west-east-mountains",
+      "type": "sequence",
+      "poiIds": [
+        "khuiten-peak-relief-v2",
+        "otgontenger-mountain-nature-v2",
+        "burkhan-khaldun-landmarks-v2"
+      ],
+      "orderedPoiIds": [
+        "khuiten-peak-relief-v2",
+        "otgontenger-mountain-nature-v2",
+        "burkhan-khaldun-landmarks-v2"
+      ],
+      "question": {
+        "de": "Klicke Khüiten Peak, Otgontenger und Burkhan Khaldun von Westen nach Osten an.",
+        "hu": "Kattints a Hujten-csúcsra, Otgontengerre és Burkhan Khaldunra nyugatról keletre.",
+        "ro": "Apasă vârful Khüiten, Otgontenger și Burkhan Khaldun de la vest la est.",
+        "en": "Click Khüiten Peak, Otgontenger and Burkhan Khaldun from west to east."
+      }
+    },
+    {
+      "id": "mn-extra-seq-north-south-central",
+      "type": "sequence",
+      "poiIds": [
+        "mn-moron-cities-v2",
+        "mn-tsetserleg-cities-v2",
+        "mn-arvaikheer-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "mn-moron-cities-v2",
+        "mn-tsetserleg-cities-v2",
+        "mn-arvaikheer-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Mörön, Tsetserleg und Arvaikheer von Norden nach Süden an.",
+        "hu": "Kattints Mörönre, Cecerlegre és Arvajheerre északról délre.",
+        "ro": "Apasă Mörön, Tsetserleg și Arvaikheer de la nord la sud.",
+        "en": "Click Mörön, Tsetserleg and Arvaikheer from north to south."
+      }
+    }
+  ]
+}

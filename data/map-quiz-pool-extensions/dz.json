@@ -1,0 +1,309 @@
+{
+  "dz": [
+    {
+      "id": "dz-find-bejaia",
+      "type": "find_poi",
+      "targetPoiId": "bejaia-cities-v2",
+      "question": {
+        "de": "Finde Béjaïa an der Mittelmeerküste östlich von Algier.",
+        "hu": "Keresd meg Béjaïát a Földközi-tenger partján, Algírtól keletre.",
+        "ro": "Găsește Béjaïa pe coasta Mediteranei, la est de Alger.",
+        "en": "Find Béjaïa on the Mediterranean coast east of Algiers."
+      }
+    },
+    {
+      "id": "dz-find-tamanrasset",
+      "type": "find_poi",
+      "targetPoiId": "tamanrasset-cities-v2",
+      "question": {
+        "de": "Finde Tamanrasset tief im Süden Algeriens.",
+        "hu": "Keresd meg Tamanrassetet Algéria mély déli részén.",
+        "ro": "Găsește Tamanrasset în extremul sud al Algeriei.",
+        "en": "Find Tamanrasset deep in southern Algeria."
+      }
+    },
+    {
+      "id": "dz-find-el-oued",
+      "type": "find_poi",
+      "targetPoiId": "el-oued-cities-v2",
+      "question": {
+        "de": "Finde El Oued im südöstlichen Sahara-Gebiet.",
+        "hu": "Keresd meg El Oued városát a délkeleti Szahara-övezetben.",
+        "ro": "Găsește El Oued în zona sahariană din sud-est.",
+        "en": "Find El Oued in the southeastern Sahara zone."
+      }
+    },
+    {
+      "id": "dz-find-tlemcen",
+      "type": "find_poi",
+      "targetPoiId": "tlemcen-cities-v2",
+      "question": {
+        "de": "Finde Tlemcen im Nordwesten nahe der marokkanischen Grenze.",
+        "hu": "Keresd meg Tlemcent északnyugaton, a marokkói határ közelében.",
+        "ro": "Găsește Tlemcen în nord-vest, aproape de granița cu Marocul.",
+        "en": "Find Tlemcen in the northwest near the Moroccan border."
+      }
+    },
+    {
+      "id": "dz-find-tipasa-ruins",
+      "type": "find_poi",
+      "targetPoiId": "tipasa-ruins-history-v2",
+      "question": {
+        "de": "Finde die Ruinen von Tipasa an der Küste westlich von Algier.",
+        "hu": "Keresd meg Tipasa romjait a parton, Algírtól nyugatra.",
+        "ro": "Găsește ruinele de la Tipasa pe coastă, la vest de Alger.",
+        "en": "Find the ruins of Tipasa on the coast west of Algiers."
+      }
+    },
+    {
+      "id": "dz-region-oran-west",
+      "type": "find_region",
+      "targetRegionId": "DZA-2145",
+      "question": {
+        "de": "Klicke auf die Region Oran an der westlichen Mittelmeerküste.",
+        "hu": "Kattints Orán régiójára a nyugati földközi-tengeri parton.",
+        "ro": "Apasă pe regiunea Oran de pe coasta mediteraneană vestică.",
+        "en": "Click the Oran region on the western Mediterranean coast."
+      }
+    },
+    {
+      "id": "dz-region-bejaia-kabylia",
+      "type": "find_region",
+      "targetRegionId": "DZA-2208",
+      "question": {
+        "de": "Finde die Region Béjaïa an der Kabylei-Küste.",
+        "hu": "Keresd meg Béjaïa régióját Kabília tengerpartján.",
+        "ro": "Găsește regiunea Béjaïa de pe coasta Cabiliei.",
+        "en": "Find the Béjaïa region on the Kabylia coast."
+      }
+    },
+    {
+      "id": "dz-region-illizi-southeast",
+      "type": "find_region",
+      "targetRegionId": "DZA-2188",
+      "question": {
+        "de": "Klicke auf die große Wüstenregion Illizi im Südosten.",
+        "hu": "Kattints a délkeleti nagy sivatagi Illizi régióra.",
+        "ro": "Apasă pe marea regiune deșertică Illizi din sud-est.",
+        "en": "Click the large desert region of Illizi in the southeast."
+      }
+    },
+    {
+      "id": "dz-region-biskra-gateway",
+      "type": "find_region",
+      "targetRegionId": "DZA-2211",
+      "question": {
+        "de": "Finde die Region Biskra am Nordrand der Sahara.",
+        "hu": "Keresd meg Biszkra régióját a Szahara északi peremén.",
+        "ro": "Găsește regiunea Biskra la marginea nordică a Saharei.",
+        "en": "Find the Biskra region on the northern edge of the Sahara."
+      }
+    },
+    {
+      "id": "dz-region-alger-capital",
+      "type": "find_region",
+      "targetRegionId": "DZA-2195",
+      "question": {
+        "de": "Klicke auf die Region Alger rund um die Hauptstadt.",
+        "hu": "Kattints Algír fővárosi régiójára.",
+        "ro": "Apasă pe regiunea Alger din jurul capitalei.",
+        "en": "Click the Alger region around the capital."
+      }
+    },
+    {
+      "id": "dz-odd-coast-vs-inland",
+      "type": "odd_one_out",
+      "poiIds": [
+        "oran-cities-v2",
+        "bejaia-cities-v2",
+        "annaba-cities-v2",
+        "batna-cities-v2"
+      ],
+      "targetPoiId": "batna-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht an Algeriens Mittelmeerküste?",
+        "hu": "Melyik város nem Algéria földközi-tengeri partján fekszik?",
+        "ro": "Care oraș nu se află pe coasta mediteraneană a Algeriei?",
+        "en": "Which city is not on Algeria's Mediterranean coast?"
+      }
+    },
+    {
+      "id": "dz-odd-sahara-vs-coast",
+      "type": "odd_one_out",
+      "poiIds": [
+        "ghardaia-cities-v2",
+        "el-oued-cities-v2",
+        "ouargla-cities-v2",
+        "skikda-cities-v2"
+      ],
+      "targetPoiId": "skikda-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht in Algeriens Sahara oder an ihrem Rand?",
+        "hu": "Melyik város nem Algéria Szaharájában vagy annak peremén található?",
+        "ro": "Care oraș nu se află în Sahara algeriană sau la marginea ei?",
+        "en": "Which city is not in Algeria's Sahara or on its edge?"
+      }
+    },
+    {
+      "id": "dz-odd-west-vs-east",
+      "type": "odd_one_out",
+      "poiIds": [
+        "tlemcen-cities-v2",
+        "oran-cities-v2",
+        "sidi-bel-abbes-cities-v2",
+        "tebessa-cities-v2"
+      ],
+      "targetPoiId": "tebessa-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht im Westen Algeriens?",
+        "hu": "Melyik város nem Algéria nyugati részén található?",
+        "ro": "Care oraș nu se află în vestul Algeriei?",
+        "en": "Which city is not in western Algeria?"
+      }
+    },
+    {
+      "id": "dz-odd-far-south",
+      "type": "odd_one_out",
+      "poiIds": [
+        "setif-cities-v2",
+        "batna-cities-v2",
+        "djelfa-cities-v2",
+        "tamanrasset-cities-v2"
+      ],
+      "targetPoiId": "tamanrasset-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht in Algeriens nördlichem Hochland oder Steppengürtel?",
+        "hu": "Melyik város nem Algéria északi fennsíkján vagy sztyeppövezetében fekszik?",
+        "ro": "Care oraș nu se află în zona podișurilor nordice sau a stepei algeriene?",
+        "en": "Which city is not in Algeria's northern highland or steppe belt?"
+      }
+    },
+    {
+      "id": "dz-odd-capital-belt",
+      "type": "odd_one_out",
+      "poiIds": [
+        "algiers-cities-v2",
+        "blida-cities-v2",
+        "tipaza-cities-v2",
+        "adrar-cities-v2"
+      ],
+      "targetPoiId": "adrar-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht im weiteren Raum der Hauptstadt im Norden?",
+        "hu": "Melyik város nem az északi fővárosi térség tágabb környezetében található?",
+        "ro": "Care oraș nu se află în zona mai largă a capitalei din nord?",
+        "en": "Which city is not in the broader northern capital area?"
+      }
+    },
+    {
+      "id": "dz-sequence-coast-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "oran-cities-v2",
+        "mostaganem-cities-v2",
+        "algiers-cities-v2",
+        "bejaia-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "oran-cities-v2",
+        "mostaganem-cities-v2",
+        "algiers-cities-v2",
+        "bejaia-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Oran, Mostaganem, Algier und Béjaïa von West nach Ost an.",
+        "hu": "Kattints Oránra, Mosztaganemre, Algírra és Béjaïára nyugatról keletre.",
+        "ro": "Apasă Oran, Mostaganem, Alger și Béjaïa de la vest la est.",
+        "en": "Click Oran, Mostaganem, Algiers, and Béjaïa from west to east."
+      }
+    },
+    {
+      "id": "dz-sequence-east-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "skikda-cities-v2",
+        "constantine-cities-v2",
+        "biskra-cities-v2",
+        "el-oued-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "skikda-cities-v2",
+        "constantine-cities-v2",
+        "biskra-cities-v2",
+        "el-oued-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Skikda, Constantine, Biskra und El Oued von Nord nach Süd an.",
+        "hu": "Kattints Szkikdára, Constantine-ra, Biszkrára és El Ouedre északról délre.",
+        "ro": "Apasă Skikda, Constantine, Biskra și El Oued de la nord la sud.",
+        "en": "Click Skikda, Constantine, Biskra, and El Oued from north to south."
+      }
+    },
+    {
+      "id": "dz-sequence-sahara-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "tindouf-cities-v2",
+        "bechar-cities-v2",
+        "ghardaia-cities-v2",
+        "djanet-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "tindouf-cities-v2",
+        "bechar-cities-v2",
+        "ghardaia-cities-v2",
+        "djanet-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Tindouf, Béchar, Ghardaia und Djanet von West nach Ost an.",
+        "hu": "Kattints Tindoufra, Bésárra, Ghardaiára és Djanetre nyugatról keletre.",
+        "ro": "Apasă Tindouf, Béchar, Ghardaia și Djanet de la vest la est.",
+        "en": "Click Tindouf, Béchar, Ghardaia, and Djanet from west to east."
+      }
+    },
+    {
+      "id": "dz-sequence-central-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "algiers-cities-v2",
+        "medea-cities-v2",
+        "laghouat-cities-v2",
+        "ghardaia-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "algiers-cities-v2",
+        "medea-cities-v2",
+        "laghouat-cities-v2",
+        "ghardaia-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Algier, Médéa, Laghouat und Ghardaia von Nord nach Süd an.",
+        "hu": "Kattints Algírra, Médéára, Laghouatra és Ghardaiára északról délre.",
+        "ro": "Apasă Alger, Médéa, Laghouat și Ghardaia de la nord la sud.",
+        "en": "Click Algiers, Médéa, Laghouat, and Ghardaia from north to south."
+      }
+    },
+    {
+      "id": "dz-sequence-northeast-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "setif-cities-v2",
+        "constantine-cities-v2",
+        "skikda-cities-v2",
+        "annaba-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "setif-cities-v2",
+        "constantine-cities-v2",
+        "skikda-cities-v2",
+        "annaba-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Sétif, Constantine, Skikda und Annaba von West nach Ost an.",
+        "hu": "Kattints Sétifre, Constantine-ra, Szkikdára és Annábára nyugatról keletre.",
+        "ro": "Apasă Sétif, Constantine, Skikda și Annaba de la vest la est.",
+        "en": "Click Sétif, Constantine, Skikda, and Annaba from west to east."
+      }
+    }
+  ]
+}

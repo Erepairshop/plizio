@@ -1,0 +1,309 @@
+{
+  "kr": [
+    {
+      "id": "kr-find-incheon-port",
+      "type": "find_poi",
+      "targetPoiId": "south-korea-incheon-cities-v2",
+      "question": {
+        "de": "Finde Incheon westlich von Seoul.",
+        "hu": "Keresd meg Incshont Szöultól nyugatra.",
+        "ro": "Găsește Incheon la vest de Seul.",
+        "en": "Find Incheon west of Seoul."
+      }
+    },
+    {
+      "id": "kr-find-gangneung-east-coast",
+      "type": "find_poi",
+      "targetPoiId": "south-korea-gangneung-cities-v2",
+      "question": {
+        "de": "Finde Gangneung an der Ostküste.",
+        "hu": "Keresd meg Gangneungot a keleti parton.",
+        "ro": "Găsește Gangneung pe coasta de est.",
+        "en": "Find Gangneung on the east coast."
+      }
+    },
+    {
+      "id": "kr-find-gyeongju-historic",
+      "type": "find_poi",
+      "targetPoiId": "gyeongju-city-cities-v2",
+      "question": {
+        "de": "Finde Gyeongju im Südosten.",
+        "hu": "Keresd meg Gjongdzsut délkeleten.",
+        "ro": "Găsește Gyeongju în sud-est.",
+        "en": "Find Gyeongju in the southeast."
+      }
+    },
+    {
+      "id": "kr-find-mokpo-southwest",
+      "type": "find_poi",
+      "targetPoiId": "mokpo-city-cities-v2",
+      "question": {
+        "de": "Finde Mokpo im Südwesten.",
+        "hu": "Keresd meg Mokphót délnyugaton.",
+        "ro": "Găsește Mokpo în sud-vest.",
+        "en": "Find Mokpo in the southwest."
+      }
+    },
+    {
+      "id": "kr-find-seongsan-ilchulbong",
+      "type": "find_poi",
+      "targetPoiId": "south-korea-seongsan-ilchulbong-cities-v2",
+      "question": {
+        "de": "Finde Seongsan Ilchulbong im Osten von Jeju.",
+        "hu": "Keresd meg a Seongsan Ilchulbongot Csedzsu keleti részén.",
+        "ro": "Găsește Seongsan Ilchulbong în estul insulei Jeju.",
+        "en": "Find Seongsan Ilchulbong in eastern Jeju."
+      }
+    },
+    {
+      "id": "kr-region-gyeonggi",
+      "type": "find_region",
+      "targetRegionId": "KOR-2498",
+      "question": {
+        "de": "Finde Gyeonggi um Seoul herum.",
+        "hu": "Keresd meg Gyeonggit Szöul körül.",
+        "ro": "Găsește Gyeonggi în jurul Seulului.",
+        "en": "Find Gyeonggi around Seoul."
+      }
+    },
+    {
+      "id": "kr-region-north-jeolla",
+      "type": "find_region",
+      "targetRegionId": "KOR-2499",
+      "question": {
+        "de": "Finde North Jeolla im Südwesten.",
+        "hu": "Keresd meg Észak-Csollát délnyugaton.",
+        "ro": "Găsește Jeolla de Nord în sud-vest.",
+        "en": "Find North Jeolla in the southwest."
+      }
+    },
+    {
+      "id": "kr-region-south-jeolla",
+      "type": "find_region",
+      "targetRegionId": "KOR-2506",
+      "question": {
+        "de": "Finde South Jeolla mit den vielen Inseln im Südwesten.",
+        "hu": "Keresd meg Dél-Csollát a sok délnyugati szigettel.",
+        "ro": "Găsește Jeolla de Sud, cu multe insule în sud-vest.",
+        "en": "Find South Jeolla with the many islands in the southwest."
+      }
+    },
+    {
+      "id": "kr-region-north-gyeongsang",
+      "type": "find_region",
+      "targetRegionId": "KOR-2509",
+      "question": {
+        "de": "Finde North Gyeongsang im Osten.",
+        "hu": "Keresd meg Észak-Kjongszangot keleten.",
+        "ro": "Găsește Gyeongsang de Nord în est.",
+        "en": "Find North Gyeongsang in the east."
+      }
+    },
+    {
+      "id": "kr-region-sejong",
+      "type": "find_region",
+      "targetRegionId": "KOR-5129",
+      "question": {
+        "de": "Finde Sejong im Landesinneren.",
+        "hu": "Keresd meg Szedzsungot a belső területen.",
+        "ro": "Găsește Sejong în interiorul țării.",
+        "en": "Find Sejong inland."
+      }
+    },
+    {
+      "id": "kr-odd-east-coast",
+      "type": "odd_one_out",
+      "poiIds": [
+        "south-korea-gunsan-cities-v2",
+        "mokpo-city-cities-v2",
+        "yeosu-city-cities-v2",
+        "south-korea-gangneung-cities-v2"
+      ],
+      "targetPoiId": "south-korea-gangneung-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt an der Ostküste?",
+        "hu": "Melyik hely fekszik a keleti parton?",
+        "ro": "Care loc se află pe coasta de est?",
+        "en": "Which place lies on the east coast?"
+      }
+    },
+    {
+      "id": "kr-odd-small-island",
+      "type": "odd_one_out",
+      "poiIds": [
+        "south-korea-taean-cities-v2",
+        "south-korea-damyang-cities-v2",
+        "gyeongju-city-cities-v2",
+        "south-korea-udo-cities-v2"
+      ],
+      "targetPoiId": "south-korea-udo-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt auf einer kleinen Insel vor Jeju?",
+        "hu": "Melyik hely fekszik egy Csedzsu melletti kis szigeten?",
+        "ro": "Care loc se află pe o mică insulă de lângă Jeju?",
+        "en": "Which place lies on a small island off Jeju?"
+      }
+    },
+    {
+      "id": "kr-odd-inland-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "south-korea-incheon-cities-v2",
+        "south-korea-busan-cities-v2",
+        "mokpo-city-cities-v2",
+        "south-korea-daejeon-cities-v2"
+      ],
+      "targetPoiId": "south-korea-daejeon-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht an der Küste?",
+        "hu": "Melyik város nem a tengerparton fekszik?",
+        "ro": "Care oraș nu se află pe coastă?",
+        "en": "Which city does not lie on the coast?"
+      }
+    },
+    {
+      "id": "kr-odd-far-north",
+      "type": "odd_one_out",
+      "poiIds": [
+        "south-korea-boseong-cities-v2",
+        "south-korea-namwon-cities-v2",
+        "south-korea-gurye-cities-v2",
+        "south-korea-pocheon-cities-v2"
+      ],
+      "targetPoiId": "south-korea-pocheon-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt am weitesten im Norden?",
+        "hu": "Melyik hely fekszik a legészakabbra?",
+        "ro": "Care loc se află cel mai la nord?",
+        "en": "Which place lies farthest north?"
+      }
+    },
+    {
+      "id": "kr-odd-far-west-island",
+      "type": "odd_one_out",
+      "poiIds": [
+        "south-korea-ganghwado-cities-v2",
+        "south-korea-yeongjongdo-cities-v2",
+        "south-korea-baengnyeongdo-cities-v2",
+        "south-korea-yangpyeong-cities-v2"
+      ],
+      "targetPoiId": "south-korea-baengnyeongdo-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt weit draußen im Westen im Gelben Meer?",
+        "hu": "Melyik hely fekszik messze nyugaton, a Sárga-tengerben?",
+        "ro": "Care loc se află departe în vest, în Marea Galbenă?",
+        "en": "Which place lies far out to the west in the Yellow Sea?"
+      }
+    },
+    {
+      "id": "kr-sequence-east-coast-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "south-korea-goseong-gangwon-cities-v2",
+        "south-korea-gangneung-cities-v2",
+        "south-korea-pohang-cities-v2",
+        "south-korea-ulsan-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "south-korea-goseong-gangwon-cities-v2",
+        "south-korea-gangneung-cities-v2",
+        "south-korea-pohang-cities-v2",
+        "south-korea-ulsan-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Goseong, Gangneung, Pohang und Ulsan von Norden nach Süden an.",
+        "hu": "Kattints Goseongra, Gangneungra, Pohangra és Ulszanra északról délre.",
+        "ro": "Apasă Goseong, Gangneung, Pohang și Ulsan de la nord la sud.",
+        "en": "Click Goseong, Gangneung, Pohang and Ulsan from north to south."
+      }
+    },
+    {
+      "id": "kr-sequence-west-east-central",
+      "type": "sequence",
+      "poiIds": [
+        "south-korea-taean-cities-v2",
+        "south-korea-daejeon-cities-v2",
+        "south-korea-daegu-cities-v2",
+        "south-korea-pohang-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "south-korea-taean-cities-v2",
+        "south-korea-daejeon-cities-v2",
+        "south-korea-daegu-cities-v2",
+        "south-korea-pohang-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Taean, Daejeon, Daegu und Pohang von Westen nach Osten an.",
+        "hu": "Kattints Taeanra, Tedzsonra, Tegura és Pohangra nyugatról keletre.",
+        "ro": "Apasă Taean, Daejeon, Daegu și Pohang de la vest la est.",
+        "en": "Click Taean, Daejeon, Daegu and Pohang from west to east."
+      }
+    },
+    {
+      "id": "kr-sequence-north-south-interior",
+      "type": "sequence",
+      "poiIds": [
+        "south-korea-gapyeong-cities-v2",
+        "south-korea-yongin-cities-v2",
+        "south-korea-gongju-cities-v2",
+        "south-korea-boseong-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "south-korea-gapyeong-cities-v2",
+        "south-korea-yongin-cities-v2",
+        "south-korea-gongju-cities-v2",
+        "south-korea-boseong-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Gapyeong, Yongin, Gongju und Boseong von Norden nach Süden an.",
+        "hu": "Kattints Gapjongra, Jonginra, Gongdzsura és Boszeongra északról délre.",
+        "ro": "Apasă Gapyeong, Yongin, Gongju și Boseong de la nord la sud.",
+        "en": "Click Gapyeong, Yongin, Gongju and Boseong from north to south."
+      }
+    },
+    {
+      "id": "kr-sequence-west-east-south-coast",
+      "type": "sequence",
+      "poiIds": [
+        "south-korea-hongdo-cities-v2",
+        "mokpo-city-cities-v2",
+        "suncheon-city-cities-v2",
+        "south-korea-busan-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "south-korea-hongdo-cities-v2",
+        "mokpo-city-cities-v2",
+        "suncheon-city-cities-v2",
+        "south-korea-busan-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Hongdo, Mokpo, Suncheon und Busan von Westen nach Osten an.",
+        "hu": "Kattints Hongdóra, Mokphóra, Szuncshonra és Buszanra nyugatról keletre.",
+        "ro": "Apasă Hongdo, Mokpo, Suncheon și Busan de la vest la est.",
+        "en": "Click Hongdo, Mokpo, Suncheon and Busan from west to east."
+      }
+    },
+    {
+      "id": "kr-sequence-north-south-mixed",
+      "type": "sequence",
+      "poiIds": [
+        "south-korea-chuncheon-cities-v2",
+        "south-korea-yeoju-cities-v2",
+        "south-korea-daejeon-cities-v2",
+        "yeosu-city-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "south-korea-chuncheon-cities-v2",
+        "south-korea-yeoju-cities-v2",
+        "south-korea-daejeon-cities-v2",
+        "yeosu-city-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Chuncheon, Yeoju, Daejeon und Yeosu von Norden nach Süden an.",
+        "hu": "Kattints Cshuncshonra, Jeodzsura, Tedzsonra és Joszura északról délre.",
+        "ro": "Apasă Chuncheon, Yeoju, Daejeon și Yeosu de la nord la sud.",
+        "en": "Click Chuncheon, Yeoju, Daejeon and Yeosu from north to south."
+      }
+    }
+  ]
+}

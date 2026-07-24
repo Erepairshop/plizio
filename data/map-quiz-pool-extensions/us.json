@@ -1,0 +1,309 @@
+{
+  "us": [
+    {
+      "id": "us-find-washington-dc",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Washington, D.C., die Hauptstadt der USA.",
+        "hu": "Keresd meg Washingtont, az Egyesült Államok fővárosát.",
+        "ro": "Găsește Washington, D.C., capitala Statelor Unite.",
+        "en": "Find Washington, D.C., the capital of the United States."
+      },
+      "targetPoiId": "washington-dc-cities-v2"
+    },
+    {
+      "id": "us-find-honolulu",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Honolulu auf Hawaii.",
+        "hu": "Keresd meg Honolulut Hawaiin.",
+        "ro": "Găsește Honolulu în Hawaii.",
+        "en": "Find Honolulu in Hawaii."
+      },
+      "targetPoiId": "honolulu-cities-v2"
+    },
+    {
+      "id": "us-find-gateway-arch",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde den Gateway Arch in St. Louis.",
+        "hu": "Keresd meg a Gateway Arch emlékművet St. Louisban.",
+        "ro": "Găsește Gateway Arch din St. Louis.",
+        "en": "Find the Gateway Arch in St. Louis."
+      },
+      "targetPoiId": "gateway-arch-landmarks-v2"
+    },
+    {
+      "id": "us-find-mount-rushmore",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Mount Rushmore in South Dakota.",
+        "hu": "Keresd meg a Mount Rushmore emlékművet Dél-Dakotában.",
+        "ro": "Găsește Mount Rushmore în Dakota de Sud.",
+        "en": "Find Mount Rushmore in South Dakota."
+      },
+      "targetPoiId": "mount-rushmore-landmarks-v2"
+    },
+    {
+      "id": "us-find-grand-teton",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde den Grand-Teton-Nationalpark in Wyoming.",
+        "hu": "Keresd meg a Grand Teton Nemzeti Parkot Wyoming államban.",
+        "ro": "Găsește Parcul Național Grand Teton din Wyoming.",
+        "en": "Find Grand Teton National Park in Wyoming."
+      },
+      "targetPoiId": "grand-teton-national-park-life-v2"
+    },
+    {
+      "id": "us-region-alaska",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf den Bundesstaat Alaska.",
+        "hu": "Kattints Alaszka államra.",
+        "ro": "Apasă pe statul Alaska.",
+        "en": "Click the state of Alaska."
+      },
+      "targetRegionId": "USA-3563"
+    },
+    {
+      "id": "us-region-new-york-state",
+      "type": "find_region",
+      "question": {
+        "de": "Finde den Bundesstaat New York.",
+        "hu": "Keresd meg New York államot.",
+        "ro": "Găsește statul New York.",
+        "en": "Find the state of New York."
+      },
+      "targetRegionId": "USA-3559"
+    },
+    {
+      "id": "us-region-colorado",
+      "type": "find_region",
+      "question": {
+        "de": "Wo liegt der Bundesstaat Colorado?",
+        "hu": "Hol található Colorado állam?",
+        "ro": "Unde se află statul Colorado?",
+        "en": "Where is the state of Colorado?"
+      },
+      "targetRegionId": "USA-3522"
+    },
+    {
+      "id": "us-region-hawaii",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf den Bundesstaat Hawaii.",
+        "hu": "Kattints Hawaii államra.",
+        "ro": "Apasă pe statul Hawaii.",
+        "en": "Click the state of Hawaii."
+      },
+      "targetRegionId": "USA-3517"
+    },
+    {
+      "id": "us-region-louisiana",
+      "type": "find_region",
+      "question": {
+        "de": "Finde den Bundesstaat Louisiana am Golf von Mexiko.",
+        "hu": "Keresd meg Louisiana államot a Mexikói-öbölnél.",
+        "ro": "Găsește statul Louisiana de la Golful Mexic.",
+        "en": "Find the state of Louisiana on the Gulf of Mexico."
+      },
+      "targetRegionId": "USA-3535"
+    },
+    {
+      "id": "us-odd-not-texas",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Städte liegt nicht in Texas?",
+        "hu": "Melyik város nem Texas államban található?",
+        "ro": "Care dintre aceste orașe nu se află în Texas?",
+        "en": "Which of these cities is not in Texas?"
+      },
+      "poiIds": [
+        "houston-cities-v2",
+        "dallas-cities-v2",
+        "austin-cities-v2",
+        "phoenix-cities-v2"
+      ],
+      "targetPoiId": "phoenix-cities-v2"
+    },
+    {
+      "id": "us-odd-not-pacific-coast",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Städte liegt nicht an der Pazifikküste?",
+        "hu": "Melyik város nem a Csendes-óceán partján fekszik?",
+        "ro": "Care dintre aceste orașe nu se află pe coasta Pacificului?",
+        "en": "Which of these cities is not on the Pacific coast?"
+      },
+      "poiIds": [
+        "seattle-cities-v2",
+        "usa-san-francisco-cities-v2",
+        "san-diego-cities-v2",
+        "denver-cities-v2"
+      ],
+      "targetPoiId": "denver-cities-v2"
+    },
+    {
+      "id": "us-odd-not-nyc-landmark",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welches dieser Wahrzeichen liegt nicht in New York City?",
+        "hu": "Melyik nevezetesség nem New York Cityben található?",
+        "ro": "Care dintre aceste obiective nu se află în New York City?",
+        "en": "Which of these landmarks is not in New York City?"
+      },
+      "poiIds": [
+        "empire-state-building-landmarks-v2",
+        "brooklyn-bridge-landmarks-v2",
+        "times-square-landmarks-v2",
+        "liberty-bell-landmarks-v2"
+      ],
+      "targetPoiId": "liberty-bell-landmarks-v2"
+    },
+    {
+      "id": "us-odd-not-florida",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Städte liegt nicht in Florida?",
+        "hu": "Melyik város nem Floridában található?",
+        "ro": "Care dintre aceste orașe nu se află în Florida?",
+        "en": "Which of these cities is not in Florida?"
+      },
+      "poiIds": [
+        "miami-cities-v2",
+        "orlando-cities-v2",
+        "tampa-cities-v2",
+        "atlanta-cities-v2"
+      ],
+      "targetPoiId": "atlanta-cities-v2"
+    },
+    {
+      "id": "us-odd-farthest-north",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten im Norden?",
+        "hu": "Melyik város fekszik a legészakabbra?",
+        "ro": "Care dintre aceste orașe se află cel mai la nord?",
+        "en": "Which of these cities lies farthest north?"
+      },
+      "poiIds": [
+        "honolulu-cities-v2",
+        "miami-cities-v2",
+        "san-diego-cities-v2",
+        "seattle-cities-v2"
+      ],
+      "targetPoiId": "seattle-cities-v2"
+    },
+    {
+      "id": "us-sequence-west-east-northwest",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Seattle, Boise, Salt Lake City und Denver von West nach Ost an.",
+        "hu": "Kattints Seattle-re, Boise-ra, Salt Lake Cityre és Denverre nyugatról keletre.",
+        "ro": "Apasă pe Seattle, Boise, Salt Lake City și Denver de la vest la est.",
+        "en": "Click Seattle, Boise, Salt Lake City and Denver from west to east."
+      },
+      "poiIds": [
+        "seattle-cities-v2",
+        "boise-cities-v2",
+        "salt-lake-city-cities-v2",
+        "denver-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "seattle-cities-v2",
+        "boise-cities-v2",
+        "salt-lake-city-cities-v2",
+        "denver-cities-v2"
+      ]
+    },
+    {
+      "id": "us-sequence-north-south-parks",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Glacier, Yellowstone, Rocky Mountain und Zion von Nord nach Süd an.",
+        "hu": "Kattints a Glacier, Yellowstone, Rocky Mountain és Zion nemzeti parkokra északról délre.",
+        "ro": "Apasă pe parcurile naționale Glacier, Yellowstone, Rocky Mountain și Zion de la nord la sud.",
+        "en": "Click Glacier, Yellowstone, Rocky Mountain and Zion from north to south."
+      },
+      "poiIds": [
+        "glacier-national-park-life-v2",
+        "yellowstone-national-park-life-v2",
+        "rocky-mountain-national-park-life-v2",
+        "zion-national-park-life-v2"
+      ],
+      "orderedPoiIds": [
+        "glacier-national-park-life-v2",
+        "yellowstone-national-park-life-v2",
+        "rocky-mountain-national-park-life-v2",
+        "zion-national-park-life-v2"
+      ]
+    },
+    {
+      "id": "us-sequence-west-east-northeast-corridor",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Washington, D.C., Philadelphia, New York City und Boston von West nach Ost an.",
+        "hu": "Kattints Washingtonra, Philadelphiára, New York Cityre és Bostonra nyugatról keletre.",
+        "ro": "Apasă pe Washington, D.C., Philadelphia, New York City și Boston de la vest la est.",
+        "en": "Click Washington, D.C., Philadelphia, New York City and Boston from west to east."
+      },
+      "poiIds": [
+        "washington-dc-cities-v2",
+        "philadelphia-cities-v2",
+        "new-york-city-cities-v2",
+        "boston-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "washington-dc-cities-v2",
+        "philadelphia-cities-v2",
+        "new-york-city-cities-v2",
+        "boston-cities-v2"
+      ]
+    },
+    {
+      "id": "us-sequence-north-south-west-coast-to-pacific",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Anchorage, Seattle, Los Angeles und Honolulu von Nord nach Süd an.",
+        "hu": "Kattints Anchorage-re, Seattle-re, Los Angelesre és Honolulura északról délre.",
+        "ro": "Apasă pe Anchorage, Seattle, Los Angeles și Honolulu de la nord la sud.",
+        "en": "Click Anchorage, Seattle, Los Angeles and Honolulu from north to south."
+      },
+      "poiIds": [
+        "anchorage-cities-v2",
+        "seattle-cities-v2",
+        "los-angeles-cities-v2",
+        "honolulu-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "anchorage-cities-v2",
+        "seattle-cities-v2",
+        "los-angeles-cities-v2",
+        "honolulu-cities-v2"
+      ]
+    },
+    {
+      "id": "us-sequence-west-east-southwest",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Phoenix, Albuquerque, El Paso und Dallas von West nach Ost an.",
+        "hu": "Kattints Phoenixre, Albuquerque-re, El Pasóra és Dallasra nyugatról keletre.",
+        "ro": "Apasă pe Phoenix, Albuquerque, El Paso și Dallas de la vest la est.",
+        "en": "Click Phoenix, Albuquerque, El Paso and Dallas from west to east."
+      },
+      "poiIds": [
+        "phoenix-cities-v2",
+        "albuquerque-cities-v2",
+        "el-paso-cities-v2",
+        "dallas-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "phoenix-cities-v2",
+        "albuquerque-cities-v2",
+        "el-paso-cities-v2",
+        "dallas-cities-v2"
+      ]
+    }
+  ]
+}

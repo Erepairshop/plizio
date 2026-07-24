@@ -1,0 +1,293 @@
+{
+  "uy": [
+    {
+      "id": "uy-find-rivera",
+      "type": "find_poi",
+      "targetPoiId": "rivera-cities-v2",
+      "question": {
+        "de": "Finde Rivera an der Nordgrenze zu Brasilien.",
+        "hu": "Keresd meg Riverát az északi brazil határnál.",
+        "ro": "Găsește Rivera, la granița de nord cu Brazilia.",
+        "en": "Find Rivera on the northern border with Brazil."
+      }
+    },
+    {
+      "id": "uy-find-chuy",
+      "type": "find_poi",
+      "targetPoiId": "chuy-cities-v2",
+      "question": {
+        "de": "Finde Chuy im äußersten Osten an der Grenze zu Brasilien.",
+        "hu": "Keresd meg Chuyt a legkeletibb brazil határnál.",
+        "ro": "Găsește Chuy în extremul est, la granița cu Brazilia.",
+        "en": "Find Chuy in the far east on the border with Brazil."
+      }
+    },
+    {
+      "id": "uy-find-minas",
+      "type": "find_poi",
+      "targetPoiId": "minas-cities-v2",
+      "question": {
+        "de": "Finde Minas im hügeligen Südosten Uruguays.",
+        "hu": "Keresd meg Minast Uruguay dombos délkeleti belsejében.",
+        "ro": "Găsește Minas în interiorul deluros din sud-estul Uruguayului.",
+        "en": "Find Minas in Uruguay's hilly southeastern interior."
+      }
+    },
+    {
+      "id": "uy-find-fray-bentos",
+      "type": "find_poi",
+      "targetPoiId": "fray-bentos-cities-v2",
+      "question": {
+        "de": "Finde Fray Bentos am Uruguay-Fluss im Westen.",
+        "hu": "Keresd meg Fray Bentost nyugaton, az Uruguay folyó partján.",
+        "ro": "Găsește Fray Bentos în vest, pe râul Uruguay.",
+        "en": "Find Fray Bentos in the west on the Uruguay River."
+      }
+    },
+    {
+      "id": "uy-find-quebrada-de-los-cuervos",
+      "type": "find_poi",
+      "targetPoiId": "quebrada-de-los-cuervos-nature-v2",
+      "question": {
+        "de": "Finde die Quebrada de los Cuervos im Osten des Landes.",
+        "hu": "Keresd meg a Quebrada de los Cuervost az ország keleti részén.",
+        "ro": "Găsește Quebrada de los Cuervos în estul țării.",
+        "en": "Find Quebrada de los Cuervos in the eastern part of the country."
+      }
+    },
+    {
+      "id": "uy-find-cabo-polonio-lighthouse",
+      "type": "find_poi",
+      "targetPoiId": "uy-ro-faro-cabo-polonio-landmarks-v2",
+      "question": {
+        "de": "Finde den Leuchtturm von Cabo Polonio an der Atlantikküste.",
+        "hu": "Keresd meg a Cabo Polonio világítótornyát az Atlanti-óceán partján.",
+        "ro": "Găsește farul din Cabo Polonio de pe coasta Atlanticului.",
+        "en": "Find the Cabo Polonio lighthouse on the Atlantic coast."
+      }
+    },
+    {
+      "id": "uy-region-maldonado",
+      "type": "find_region",
+      "targetRegionId": "URY-20",
+      "question": {
+        "de": "Klicke auf Maldonado, das Departamento mit Punta del Este.",
+        "hu": "Kattints Maldonado megyére, ahol Punta del Este található.",
+        "ro": "Apasă pe departamentul Maldonado, unde se află Punta del Este.",
+        "en": "Click Maldonado Department, home to Punta del Este."
+      }
+    },
+    {
+      "id": "uy-region-colonia",
+      "type": "find_region",
+      "targetRegionId": "URY-4",
+      "question": {
+        "de": "Finde Colonia im Südwesten am Río de la Plata.",
+        "hu": "Keresd meg Colonia megyét délnyugaton, a Río de la Plata partján.",
+        "ro": "Găsește Colonia în sud-vest, pe Río de la Plata.",
+        "en": "Find Colonia in the southwest on the Río de la Plata."
+      }
+    },
+    {
+      "id": "uy-region-tacuarembo",
+      "type": "find_region",
+      "targetRegionId": "URY-15",
+      "question": {
+        "de": "Klicke auf Tacuarembó im nördlichen Inland Uruguays.",
+        "hu": "Kattints Tacuarembó megyére Uruguay északi belsejében.",
+        "ro": "Apasă pe Tacuarembó din interiorul nordic al Uruguayului.",
+        "en": "Click Tacuarembó in Uruguay's northern interior."
+      }
+    },
+    {
+      "id": "uy-region-rio-negro",
+      "type": "find_region",
+      "targetRegionId": "URY-9",
+      "question": {
+        "de": "Finde Río Negro, das westliche Departamento mit Fray Bentos als Hauptstadt.",
+        "hu": "Keresd meg Río Negro megyét nyugaton, Fray Bentos székhellyel.",
+        "ro": "Găsește departamentul Río Negro din vest, cu capitala la Fray Bentos.",
+        "en": "Find Río Negro, the western department whose capital is Fray Bentos."
+      }
+    },
+    {
+      "id": "uy-region-lavalleja",
+      "type": "find_region",
+      "targetRegionId": "URY-19",
+      "question": {
+        "de": "Klicke auf Lavalleja, das Departamento rund um Minas.",
+        "hu": "Kattints Lavalleja megyére, amely Minas körül fekszik.",
+        "ro": "Apasă pe Lavalleja, departamentul din jurul orașului Minas.",
+        "en": "Click Lavalleja, the department centered on Minas."
+      }
+    },
+    {
+      "id": "uy-odd-inland-among-coastal",
+      "type": "odd_one_out",
+      "poiIds": [
+        "piriapolis-cities-v2",
+        "la-paloma-cities-v2",
+        "uruguay-punta-del-diablo-cities-v2",
+        "durazno-cities-v2"
+      ],
+      "targetPoiId": "durazno-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt im Landesinneren statt an der Küste?",
+        "hu": "Melyik hely fekszik a szárazföld belsejében, nem a parton?",
+        "ro": "Care loc se află în interiorul țării, nu pe coastă?",
+        "en": "Which place lies inland rather than on the coast?"
+      }
+    },
+    {
+      "id": "uy-odd-not-brazil-border",
+      "type": "odd_one_out",
+      "poiIds": [
+        "rivera-cities-v2",
+        "chuy-cities-v2",
+        "melo-cities-v2",
+        "fray-bentos-cities-v2"
+      ],
+      "targetPoiId": "fray-bentos-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht an oder nahe der Grenze zu Brasilien?",
+        "hu": "Melyik város nem a brazil határon vagy annak közelében fekszik?",
+        "ro": "Care oraș nu se află pe sau lângă granița cu Brazilia?",
+        "en": "Which city is not on or near Uruguay's border with Brazil?"
+      }
+    },
+    {
+      "id": "uy-odd-city-vs-water",
+      "type": "odd_one_out",
+      "poiIds": [
+        "laguna-de-rocha-nature-v2",
+        "rio-negro-uy-nature-v2",
+        "rio-santa-lucia-nature-v2",
+        "tacuarembo-cities-v2"
+      ],
+      "targetPoiId": "tacuarembo-cities-v2",
+      "question": {
+        "de": "Welcher Eintrag ist eine Stadt und kein Gewässer?",
+        "hu": "Melyik elem város, és nem vízrajzi képződmény?",
+        "ro": "Care element este un oraș și nu un curs sau corp de apă?",
+        "en": "Which option is a city rather than a body of water?"
+      }
+    },
+    {
+      "id": "uy-odd-mountain-vs-built-sites",
+      "type": "odd_one_out",
+      "poiIds": [
+        "uy-ro-faro-cabo-polonio-landmarks-v2",
+        "fortaleza-de-santa-teresa-history-v2",
+        "barrio-historico-de-colonia-history-v2",
+        "cerro-catedral-uy-nature-v2"
+      ],
+      "targetPoiId": "cerro-catedral-uy-nature-v2",
+      "question": {
+        "de": "Welcher Ort ist ein Berg und keine gebaute Sehenswürdigkeit?",
+        "hu": "Melyik hely hegy, és nem épített nevezetesség?",
+        "ro": "Care loc este un munte și nu un obiectiv construit?",
+        "en": "Which place is a mountain rather than a built landmark?"
+      }
+    },
+    {
+      "id": "uy-order-west-east-fray-bentos-tacuarembo-melo",
+      "type": "sequence",
+      "poiIds": [
+        "fray-bentos-cities-v2",
+        "tacuarembo-cities-v2",
+        "melo-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "fray-bentos-cities-v2",
+        "tacuarembo-cities-v2",
+        "melo-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Fray Bentos, Tacuarembó und Melo von Westen nach Osten an.",
+        "hu": "Kattints Fray Bentosra, Tacuarembóra és Melóra nyugatról kelet felé.",
+        "ro": "Apasă Fray Bentos, Tacuarembó și Melo de la vest la est.",
+        "en": "Click Fray Bentos, Tacuarembó, and Melo from west to east."
+      }
+    },
+    {
+      "id": "uy-order-north-south-rivera-paso-de-los-toros-minas",
+      "type": "sequence",
+      "poiIds": [
+        "rivera-cities-v2",
+        "paso-de-los-toros-cities-v2",
+        "minas-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "rivera-cities-v2",
+        "paso-de-los-toros-cities-v2",
+        "minas-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Rivera, Paso de los Toros und Minas von Norden nach Süden an.",
+        "hu": "Kattints Riverára, Paso de los Torosra és Minasra északról dél felé.",
+        "ro": "Apasă Rivera, Paso de los Toros și Minas de la nord la sud.",
+        "en": "Click Rivera, Paso de los Toros, and Minas from north to south."
+      }
+    },
+    {
+      "id": "uy-order-west-east-colonia-casapueblo-cabo-polonio",
+      "type": "sequence",
+      "poiIds": [
+        "barrio-historico-de-colonia-history-v2",
+        "uy-ma-casapueblo-landmarks-v2",
+        "uy-ro-faro-cabo-polonio-landmarks-v2"
+      ],
+      "orderedPoiIds": [
+        "barrio-historico-de-colonia-history-v2",
+        "uy-ma-casapueblo-landmarks-v2",
+        "uy-ro-faro-cabo-polonio-landmarks-v2"
+      ],
+      "question": {
+        "de": "Klicke das Barrio Histórico de Colonia, Casapueblo und den Leuchtturm von Cabo Polonio von Westen nach Osten an.",
+        "hu": "Kattints a colóniai Barrio Históricóra, Casapueblóra és a Cabo Polonio világítótornyára nyugatról kelet felé.",
+        "ro": "Apasă Barrio Histórico din Colonia, Casapueblo și farul din Cabo Polonio de la vest la est.",
+        "en": "Click Colonia's Barrio Histórico, Casapueblo, and the Cabo Polonio lighthouse from west to east."
+      }
+    },
+    {
+      "id": "uy-order-north-south-chuy-rocha-la-paloma",
+      "type": "sequence",
+      "poiIds": [
+        "chuy-cities-v2",
+        "rocha-cities-v2",
+        "la-paloma-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "chuy-cities-v2",
+        "rocha-cities-v2",
+        "la-paloma-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Chuy, Rocha und La Paloma von Norden nach Süden an.",
+        "hu": "Kattints Chuyra, Rochára és La Palomára északról dél felé.",
+        "ro": "Apasă Chuy, Rocha și La Paloma de la nord la sud.",
+        "en": "Click Chuy, Rocha, and La Paloma from north to south."
+      }
+    },
+    {
+      "id": "uy-order-west-east-arapey-rivera-laguna-de-rocha",
+      "type": "sequence",
+      "poiIds": [
+        "uruguay-termas-del-arapey-cities-v2",
+        "rivera-cities-v2",
+        "laguna-de-rocha-nature-v2"
+      ],
+      "orderedPoiIds": [
+        "uruguay-termas-del-arapey-cities-v2",
+        "rivera-cities-v2",
+        "laguna-de-rocha-nature-v2"
+      ],
+      "question": {
+        "de": "Klicke Termas del Arapey, Rivera und die Laguna de Rocha von Westen nach Osten an.",
+        "hu": "Kattints Termas del Arapeyre, River?ra ?s a Laguna de Roch?ra nyugatr?l kelet fel?.",
+        "ro": "Apas? Termas del Arapey, Rivera ?i Laguna de Rocha de la vest la est.",
+        "en": "Click Termas del Arapey, Rivera, and Laguna de Rocha from west to east."
+      }
+    }
+  ]
+}

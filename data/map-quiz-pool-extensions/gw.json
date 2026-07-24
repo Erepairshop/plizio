@@ -1,0 +1,275 @@
+{
+  "gw": [
+    {
+      "id": "gw-find-farim-new",
+      "type": "find_poi",
+      "targetPoiId": "farim-cities-v2",
+      "question": {
+        "de": "Finde Farim im hohen Norden von Guinea-Bissau.",
+        "hu": "Keresd meg Farim városát Bissau-Guinea északi részén.",
+        "ro": "Găsește Farim în nordul îndepărtat al Guineei-Bissau.",
+        "en": "Find Farim in northern Guinea-Bissau."
+      }
+    },
+    {
+      "id": "gw-find-bubaque-new",
+      "type": "find_poi",
+      "targetPoiId": "bubaque-cities-v2",
+      "question": {
+        "de": "Finde Bubaque im Bijagós-Archipel.",
+        "hu": "Keresd meg Bubaquét a Bijagós-szigetvilágban.",
+        "ro": "Găsește Bubaque în arhipelagul Bijagós.",
+        "en": "Find Bubaque in the Bijagós Archipelago."
+      }
+    },
+    {
+      "id": "gw-find-sao-domingos-new",
+      "type": "find_poi",
+      "targetPoiId": "sao-domingos-cities-v2",
+      "question": {
+        "de": "Finde São Domingos an der Grenze zum Senegal.",
+        "hu": "Keresd meg São Domingost a szenegáli határnál.",
+        "ro": "Găsește São Domingos la granița cu Senegalul.",
+        "en": "Find São Domingos on the border with Senegal."
+      }
+    },
+    {
+      "id": "gw-find-catio-new",
+      "type": "find_poi",
+      "targetPoiId": "catio-cities-v2",
+      "question": {
+        "de": "Finde Catió im Süden des Landes.",
+        "hu": "Keresd meg Catiót az ország déli részén.",
+        "ro": "Găsește Catió în sudul țării.",
+        "en": "Find Catió in the south of the country."
+      }
+    },
+    {
+      "id": "gw-find-varela-new",
+      "type": "find_poi",
+      "targetPoiId": "varela-cities-v2",
+      "question": {
+        "de": "Finde Varela an der abgelegenen Nordwestküste.",
+        "hu": "Keresd meg Varelát a távoli északnyugati partvidéken.",
+        "ro": "Găsește Varela pe coasta izolată din nord-vest.",
+        "en": "Find Varela on the remote northwestern coast."
+      }
+    },
+    {
+      "id": "gw-find-cufada-lagoon-new",
+      "type": "find_poi",
+      "targetPoiId": "lagoa-de-cufada-nature-v2",
+      "question": {
+        "de": "Finde die Cufada-Lagune im südlichen Landesinneren.",
+        "hu": "Keresd meg a Cufada-lagúnát a déli belső területeken.",
+        "ro": "Găsește laguna Cufada în interiorul sudic al țării.",
+        "en": "Find Cufada Lagoon in the southern interior."
+      }
+    },
+    {
+      "id": "gw-find-madina-do-boe-site-new",
+      "type": "find_poi",
+      "targetPoiId": "madina-boe-site-history-v2",
+      "question": {
+        "de": "Finde die Unabhängigkeitsstätte von Madina do Boé im Südosten.",
+        "hu": "Keresd meg Madina do Boé függetlenségi helyszínét délkeleten.",
+        "ro": "Găsește situl independenței de la Madina do Boé în sud-est.",
+        "en": "Find the Independence Site of Madina do Boé in the southeast."
+      }
+    },
+    {
+      "id": "gw-find-cacheu-fort-new",
+      "type": "find_poi",
+      "targetPoiId": "cacheu-fort-history-v2",
+      "question": {
+        "de": "Finde das Fort von Cacheu am Flussufer.",
+        "hu": "Keresd meg Cacheu erődjét a folyóparton.",
+        "ro": "Găsește fortul din Cacheu de pe malul râului.",
+        "en": "Find the Fort of Cacheu on the riverbank."
+      }
+    },
+    {
+      "id": "gw-region-bafata-new",
+      "type": "find_region",
+      "targetRegionId": "GNB-776",
+      "question": {
+        "de": "Klicke auf die Region Bafatá im Zentrum-Osten.",
+        "hu": "Kattints Bafatá régiójára a közép-keleti országrészben.",
+        "ro": "Apasă pe regiunea Bafatá din partea central-estică.",
+        "en": "Click the Bafatá region in the central east."
+      }
+    },
+    {
+      "id": "gw-region-oio-new",
+      "type": "find_region",
+      "targetRegionId": "GNB-772",
+      "question": {
+        "de": "Finde Oio nördlich von Bissau.",
+        "hu": "Keresd meg Oio régióját Bissautól északra.",
+        "ro": "Găsește Oio la nord de Bissau.",
+        "en": "Find Oio north of Bissau."
+      }
+    },
+    {
+      "id": "gw-region-quinara-new",
+      "type": "find_region",
+      "targetRegionId": "GNB-773",
+      "question": {
+        "de": "Klicke auf Quinara südöstlich der Hauptstadtregion.",
+        "hu": "Kattints Quinara régiójára a fővárosi régiótól délkeletre.",
+        "ro": "Apasă pe Quinara, la sud-est de regiunea capitalei.",
+        "en": "Click Quinara southeast of the capital region."
+      }
+    },
+    {
+      "id": "gw-region-tombali-new",
+      "type": "find_region",
+      "targetRegionId": "GNB-778",
+      "question": {
+        "de": "Finde Tombali im äußersten Süden Guinea-Bissaus.",
+        "hu": "Keresd meg Tombali régióját Bissau-Guinea legdélibb részén.",
+        "ro": "Găsește Tombali în extremitatea sudică a Guineei-Bissau.",
+        "en": "Find Tombali in the far south of Guinea-Bissau."
+      }
+    },
+    {
+      "id": "gw-region-biombo-new",
+      "type": "find_region",
+      "targetRegionId": "GNB-5500",
+      "question": {
+        "de": "Klicke auf Biombo westlich von Oio und nahe der Küste.",
+        "hu": "Kattints Biombo régiójára Oiótól nyugatra, a part közelében.",
+        "ro": "Apasă pe Biombo, la vest de Oio și aproape de coastă.",
+        "en": "Click Biombo west of Oio and close to the coast."
+      }
+    },
+    {
+      "id": "gw-region-bolama-new",
+      "type": "find_region",
+      "targetRegionId": "GNB-770",
+      "question": {
+        "de": "Finde Bolama, die Inselregion im Südwesten.",
+        "hu": "Keresd meg Bolama szigeti régióját délnyugaton.",
+        "ro": "Găsește Bolama, regiunea insulară din sud-vest.",
+        "en": "Find Bolama, the island region in the southwest."
+      }
+    },
+    {
+      "id": "gw-odd-not-cacheu-region-new",
+      "type": "odd_one_out",
+      "poiIds": [
+        "cacheu-cities-v2",
+        "canchungo-cities-v2",
+        "caio-cities-v2",
+        "gabu-cities-v2"
+      ],
+      "targetPoiId": "gabu-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht in der Region Cacheu?",
+        "hu": "Melyik város nem Cacheu régióban található?",
+        "ro": "Care oraș nu se află în regiunea Cacheu?",
+        "en": "Which city is not in the Cacheu region?"
+      }
+    },
+    {
+      "id": "gw-odd-not-bijagos-new",
+      "type": "odd_one_out",
+      "poiIds": [
+        "bubaque-cities-v2",
+        "formosa-cities-v2",
+        "caravela-cities-v2",
+        "mansoa-cities-v2"
+      ],
+      "targetPoiId": "mansoa-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht im Bijagós-Archipel?",
+        "hu": "Melyik hely nem a Bijagós-szigetvilágban található?",
+        "ro": "Care loc nu se află în arhipelagul Bijagós?",
+        "en": "Which place is not in the Bijagós Archipelago?"
+      }
+    },
+    {
+      "id": "gw-odd-not-tombali-new",
+      "type": "odd_one_out",
+      "poiIds": [
+        "catio-cities-v2",
+        "cacine-cities-v2",
+        "bedanda-cities-v2",
+        "farim-cities-v2"
+      ],
+      "targetPoiId": "farim-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht in der Region Tombali?",
+        "hu": "Melyik város nem Tombali régióban fekszik?",
+        "ro": "Care oraș nu se află în regiunea Tombali?",
+        "en": "Which city is not in the Tombali region?"
+      }
+    },
+    {
+      "id": "gw-order-north-south-east-corridor-new",
+      "type": "sequence",
+      "poiIds": [
+        "pirada-cities-v2",
+        "gabu-cities-v2",
+        "bafata-cities-v2",
+        "buba-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "pirada-cities-v2",
+        "gabu-cities-v2",
+        "bafata-cities-v2",
+        "buba-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Pirada, Gabú, Bafatá und Buba von Norden nach Süden an.",
+        "hu": "Kattints Piradára, Gabúra, Bafatára és Bubára északról dél felé.",
+        "ro": "Apasă Pirada, Gabú, Bafatá și Buba de la nord la sud.",
+        "en": "Click Pirada, Gabú, Bafatá and Buba from north to south."
+      }
+    },
+    {
+      "id": "gw-order-west-east-islands-to-mainland-new",
+      "type": "sequence",
+      "poiIds": [
+        "caravela-cities-v2",
+        "bolama-cities-v2",
+        "buba-cities-v2",
+        "quebo-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "caravela-cities-v2",
+        "bolama-cities-v2",
+        "buba-cities-v2",
+        "quebo-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Caravela, Bolama, Buba und Quebo von Westen nach Osten an.",
+        "hu": "Kattints Caravelára, Bolamára, Bubára és Quebóra nyugatról kelet felé.",
+        "ro": "Apasă Caravela, Bolama, Buba și Quebo de la vest la est.",
+        "en": "Click Caravela, Bolama, Buba and Quebo from west to east."
+      }
+    },
+    {
+      "id": "gw-order-west-east-northern-belt-new",
+      "type": "sequence",
+      "poiIds": [
+        "varela-cities-v2",
+        "sao-domingos-cities-v2",
+        "farim-cities-v2",
+        "pirada-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "varela-cities-v2",
+        "sao-domingos-cities-v2",
+        "farim-cities-v2",
+        "pirada-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Varela, São Domingos, Farim und Pirada von Westen nach Osten an.",
+        "hu": "Kattints Varelára, São Domingosra, Farimra és Piradára nyugatról kelet felé.",
+        "ro": "Apasă Varela, São Domingos, Farim și Pirada de la vest la est.",
+        "en": "Click Varela, São Domingos, Farim and Pirada from west to east."
+      }
+    }
+  ]
+}

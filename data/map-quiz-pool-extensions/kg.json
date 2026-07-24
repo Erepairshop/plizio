@@ -1,0 +1,320 @@
+{
+  "kg": [
+    {
+      "id": "kg-find-jalal-abad",
+      "type": "find_poi",
+      "targetPoiId": "jalal-abad-cities-v2",
+      "question": {
+        "de": "Finde Dschalalabat auf der Karte.",
+        "hu": "Keresd meg Dzsalalabadot a térképen.",
+        "ro": "Găsește Jalal-Abad pe hartă.",
+        "en": "Find Jalal-Abad on the map."
+      }
+    },
+    {
+      "id": "kg-find-talas",
+      "type": "find_poi",
+      "targetPoiId": "talas-cities-v2",
+      "question": {
+        "de": "Finde Talas auf der Karte.",
+        "hu": "Keresd meg Talaszt a térképen.",
+        "ro": "Găsește Talas pe hartă.",
+        "en": "Find Talas on the map."
+      }
+    },
+    {
+      "id": "kg-find-tokmok",
+      "type": "find_poi",
+      "targetPoiId": "tokmok-cities-v2",
+      "question": {
+        "de": "Finde Tokmok auf der Karte.",
+        "hu": "Keresd meg Tokmokot a térképen.",
+        "ro": "Găsește Tokmok pe hartă.",
+        "en": "Find Tokmok on the map."
+      }
+    },
+    {
+      "id": "kg-find-cholpon-ata",
+      "type": "find_poi",
+      "targetPoiId": "cholpon-ata-cities-v2",
+      "question": {
+        "de": "Finde Tscholponata auf der Karte.",
+        "hu": "Keresd meg Csolpon-Atát a térképen.",
+        "ro": "Găsește Cholpon-Ata pe hartă.",
+        "en": "Find Cholpon-Ata on the map."
+      }
+    },
+    {
+      "id": "kg-find-burana-tower",
+      "type": "find_poi",
+      "targetPoiId": "burana-tower-landmarks-v2",
+      "question": {
+        "de": "Finde den Burana-Turm auf der Karte.",
+        "hu": "Keresd meg a Burana-tornyot a térképen.",
+        "ro": "Găsește Turnul Burana pe hartă.",
+        "en": "Find the Burana Tower on the map."
+      }
+    },
+    {
+      "id": "kg-region-chuy",
+      "type": "find_region",
+      "targetRegionId": "KGZ-1116",
+      "question": {
+        "de": "Klicke auf die Region Chuy.",
+        "hu": "Kattints Csuj régiójára.",
+        "ro": "Apasă pe regiunea Chuy.",
+        "en": "Click the Chuy region."
+      }
+    },
+    {
+      "id": "kg-region-jalal-abad",
+      "type": "find_region",
+      "targetRegionId": "KGZ-1120",
+      "question": {
+        "de": "Klicke auf die Region Dschalalabat.",
+        "hu": "Kattints Dzsalal-Abad régiójára.",
+        "ro": "Apasă pe regiunea Jalal-Abad.",
+        "en": "Click the Jalal-Abad region."
+      }
+    },
+    {
+      "id": "kg-region-batken",
+      "type": "find_region",
+      "targetRegionId": "KGZ-1119",
+      "question": {
+        "de": "Klicke auf die Region Batken.",
+        "hu": "Kattints Batken régiójára.",
+        "ro": "Apasă pe regiunea Batken.",
+        "en": "Click the Batken region."
+      }
+    },
+    {
+      "id": "kg-region-talas",
+      "type": "find_region",
+      "targetRegionId": "KGZ-1121",
+      "question": {
+        "de": "Klicke auf die Region Talas.",
+        "hu": "Kattints Talasz régiójára.",
+        "ro": "Apasă pe regiunea Talas.",
+        "en": "Click the Talas region."
+      }
+    },
+    {
+      "id": "kg-odd-furthest-west-razzakov",
+      "type": "odd_one_out",
+      "poiIds": [
+        "razzakov-cities-v2",
+        "batken-cities-v2",
+        "osh-cities-v2",
+        "karakol-cities-v2"
+      ],
+      "targetPoiId": "razzakov-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt am weitesten westlich?",
+        "hu": "Melyik város fekszik a legnyugatabbra?",
+        "ro": "Care oraș se află cel mai la vest?",
+        "en": "Which city lies furthest west?"
+      }
+    },
+    {
+      "id": "kg-odd-furthest-east-karakol",
+      "type": "odd_one_out",
+      "poiIds": [
+        "talas-cities-v2",
+        "bishkek-cities-v2",
+        "naryn-cities-v2",
+        "karakol-cities-v2"
+      ],
+      "targetPoiId": "karakol-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt am weitesten östlich?",
+        "hu": "Melyik város fekszik a legkeletebbre?",
+        "ro": "Care oraș se află cel mai la est?",
+        "en": "Which city lies furthest east?"
+      }
+    },
+    {
+      "id": "kg-odd-furthest-south-batken",
+      "type": "odd_one_out",
+      "poiIds": [
+        "talas-cities-v2",
+        "bishkek-cities-v2",
+        "jalal-abad-cities-v2",
+        "batken-cities-v2"
+      ],
+      "targetPoiId": "batken-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt am weitesten südlich?",
+        "hu": "Melyik város fekszik a legdélebbre?",
+        "ro": "Care oraș se află cel mai la sud?",
+        "en": "Which city lies furthest south?"
+      }
+    },
+    {
+      "id": "kg-odd-furthest-north-tokmok",
+      "type": "odd_one_out",
+      "poiIds": [
+        "batken-cities-v2",
+        "osh-cities-v2",
+        "naryn-cities-v2",
+        "tokmok-cities-v2"
+      ],
+      "targetPoiId": "tokmok-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt am weitesten nördlich?",
+        "hu": "Melyik város fekszik a legészakabbra?",
+        "ro": "Care oraș se află cel mai la nord?",
+        "en": "Which city lies furthest north?"
+      }
+    },
+    {
+      "id": "kg-odd-not-batken-region",
+      "type": "odd_one_out",
+      "poiIds": [
+        "batken-cities-v2",
+        "razzakov-cities-v2",
+        "suluktu-cities-v2",
+        "talas-cities-v2"
+      ],
+      "targetPoiId": "talas-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht in der Region Batken?",
+        "hu": "Melyik város nem Batken régióban található?",
+        "ro": "Care oraș nu se află în regiunea Batken?",
+        "en": "Which city is not in Batken Region?"
+      }
+    },
+    {
+      "id": "kg-sequence-west-east-south-cities",
+      "type": "sequence",
+      "poiIds": [
+        "razzakov-cities-v2",
+        "batken-cities-v2",
+        "osh-cities-v2",
+        "uzgen-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "razzakov-cities-v2",
+        "batken-cities-v2",
+        "osh-cities-v2",
+        "uzgen-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die Städte von Westen nach Osten an: Razzakov, Batken, Osch, Ösgön.",
+        "hu": "Kattints a városokra nyugatról keletre: Razzakov, Batken, Os, Özgön.",
+        "ro": "Apasă orașele de la vest la est: Razzakov, Batken, Osh, Uzgen.",
+        "en": "Click the cities from west to east: Razzakov, Batken, Osh, Uzgen."
+      }
+    },
+    {
+      "id": "kg-sequence-north-south-west-corridor",
+      "type": "sequence",
+      "poiIds": [
+        "tokmok-cities-v2",
+        "talas-cities-v2",
+        "jalal-abad-cities-v2",
+        "batken-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "tokmok-cities-v2",
+        "talas-cities-v2",
+        "jalal-abad-cities-v2",
+        "batken-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die Orte von Norden nach Süden an: Tokmok, Talas, Dschalalabat, Batken.",
+        "hu": "Kattints a helyekre északról délre: Tokmok, Talasz, Dzsalalabad, Batken.",
+        "ro": "Apasă locurile de la nord la sud: Tokmok, Talas, Jalal-Abad, Batken.",
+        "en": "Click the places from north to south: Tokmok, Talas, Jalal-Abad, Batken."
+      }
+    },
+    {
+      "id": "kg-sequence-west-east-north-band",
+      "type": "sequence",
+      "poiIds": [
+        "talas-cities-v2",
+        "bishkek-cities-v2",
+        "balykchy-cities-v2",
+        "karakol-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "talas-cities-v2",
+        "bishkek-cities-v2",
+        "balykchy-cities-v2",
+        "karakol-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die Städte von Westen nach Osten an: Talas, Bischkek, Balyktschy, Karakol.",
+        "hu": "Kattints a városokra nyugatról keletre: Talasz, Biskek, Balikcsi, Karakol.",
+        "ro": "Apasă orașele de la vest la est: Talas, Bishkek, Balykchy, Karakol.",
+        "en": "Click the cities from west to east: Talas, Bishkek, Balykchy, Karakol."
+      }
+    },
+    {
+      "id": "kg-sequence-north-south-issyk-kul-shore",
+      "type": "sequence",
+      "poiIds": [
+        "cholpon-ata-cities-v2",
+        "karakol-cities-v2",
+        "kyrgyzstan-kaji-say-cities-v2",
+        "kyrgyzstan-bokonbayevo-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "cholpon-ata-cities-v2",
+        "karakol-cities-v2",
+        "kyrgyzstan-kaji-say-cities-v2",
+        "kyrgyzstan-bokonbayevo-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die Orte von Norden nach Süden an: Tscholponata, Karakol, Kadschy-Sai, Bokonbajewo.",
+        "hu": "Kattints a helyekre északról délre: Csolpon-Ata, Karakol, Kadzsi-Szaj, Bokonbayevo.",
+        "ro": "Apasă locurile de la nord la sud: Cholpon-Ata, Karakol, Kaji-Say, Bokonbayevo.",
+        "en": "Click the places from north to south: Cholpon-Ata, Karakol, Kaji-Say, Bokonbayevo."
+      }
+    },
+    {
+      "id": "kg-sequence-west-east-lakes-and-parks",
+      "type": "sequence",
+      "poiIds": [
+        "kg-forest-ala-archa-nature-v2",
+        "kg-lake-song-kol-nature-v2",
+        "kg-lake-issyk-kul-nature-v2",
+        "kg-lake-ala-kul-nature-v2"
+      ],
+      "orderedPoiIds": [
+        "kg-forest-ala-archa-nature-v2",
+        "kg-lake-song-kol-nature-v2",
+        "kg-lake-issyk-kul-nature-v2",
+        "kg-lake-ala-kul-nature-v2"
+      ],
+      "question": {
+        "de": "Klicke diese Naturorte von Westen nach Osten an: Ala-Artscha-Nationalpark, Song-Köl, Yssyk-Köl, Ala-Köl.",
+        "hu": "Kattints ezekre a természeti helyekre nyugatról keletre: Ala-Arcsa Nemzeti Park, Song-Köl, Iszik-Köl, Ala-Köl.",
+        "ro": "Apasă aceste locuri naturale de la vest la est: Parcul Național Ala Archa, Song-Kul, Issyk-Kul, Ala-Kul.",
+        "en": "Click these natural sites from west to east: Ala Archa National Park, Song-Kul, Issyk-Kul, Ala-Kul."
+      }
+    },
+    {
+      "id": "kg-sequence-north-south-high-mountains",
+      "type": "sequence",
+      "poiIds": [
+        "kg-lake-issyk-kul-nature-v2",
+        "naryn-cities-v2",
+        "kyrgyzstan-sary-mogol-cities-v2",
+        "kg-mountain-lenin-peak-nature-v2"
+      ],
+      "orderedPoiIds": [
+        "kg-lake-issyk-kul-nature-v2",
+        "naryn-cities-v2",
+        "kyrgyzstan-sary-mogol-cities-v2",
+        "kg-mountain-lenin-peak-nature-v2"
+      ],
+      "question": {
+        "de": "Klicke diese Orte von Norden nach Süden an: Yssyk-Köl, Naryn, Sary-Mogol, Pik Lenin.",
+        "hu": "Kattints ezekre a helyekre északról délre: Iszik-Köl, Narin, Sary-Mogol, Lenin-csúcs.",
+        "ro": "Apasă aceste locuri de la nord la sud: Issyk-Kul, Naryn, Sary-Mogol, Vârful Lenin.",
+        "en": "Click these places from north to south: Issyk-Kul, Naryn, Sary-Mogol, Lenin Peak."
+      }
+    }
+  ]
+}

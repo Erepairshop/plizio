@@ -1,0 +1,298 @@
+{
+  "zm": [
+    {
+      "id": "zm-find-petauke-east",
+      "type": "find_poi",
+      "targetPoiId": "petauke-cities-v2",
+      "question": {
+        "de": "Finde Petauke im Osten Sambias.",
+        "hu": "Keresd meg Petauk?t Zambia keleti r?sz?n.",
+        "ro": "G?se?te Petauke ?n estul Zambiei.",
+        "en": "Find Petauke in eastern Zambia."
+      }
+    },
+    {
+      "id": "zm-find-mpulungu-tanganyika",
+      "type": "find_poi",
+      "targetPoiId": "mpulungu-cities-v2",
+      "question": {
+        "de": "Finde Mpulungu am S?dufer des Tanganjikasees.",
+        "hu": "Keresd meg Mpulungut a Tanganyika-t? d?li partj?n.",
+        "ro": "G?se?te Mpulungu pe ??rmul sudic al Lacului Tanganyika.",
+        "en": "Find Mpulungu on the southern shore of Lake Tanganyika."
+      }
+    },
+    {
+      "id": "zm-find-kafue-national-park",
+      "type": "find_poi",
+      "targetPoiId": "zambia-kafue-national-park-cities-v2",
+      "question": {
+        "de": "Finde den Kafue-Nationalpark im westlichen Zentrum des Landes.",
+        "hu": "Keresd meg a Kafue Nemzeti Parkot az orsz?g nyugati-k?z?ps? r?sz?n.",
+        "ro": "G?se?te Parcul Na?ional Kafue ?n partea central-vestic? a ??rii.",
+        "en": "Find Kafue National Park in the west-central part of the country."
+      }
+    },
+    {
+      "id": "zm-find-kalambo-falls",
+      "type": "find_poi",
+      "targetPoiId": "kalambo-falls-nature-v2",
+      "question": {
+        "de": "Finde die Kalambo-F?lle im ?u?ersten Norden Sambias.",
+        "hu": "Keresd meg a Kalambo-v?zes?st Zambia leg?szakibb r?sz?n.",
+        "ro": "G?se?te Cascada Kalambo ?n extremul nord al Zambiei.",
+        "en": "Find Kalambo Falls in the far north of Zambia."
+      }
+    },
+    {
+      "id": "zm-find-kansanshi-mine",
+      "type": "find_poi",
+      "targetPoiId": "zm-kansanshi-copper-gold-mine-economic-v2",
+      "question": {
+        "de": "Finde die Kansanshi-Kupfer-Gold-Mine bei Solwezi.",
+        "hu": "Keresd meg a Kansanshi r?z-arany b?ny?t Solwezi k?zel?ben.",
+        "ro": "G?se?te mina de cupru ?i aur Kansanshi de l?ng? Solwezi.",
+        "en": "Find the Kansanshi Copper-Gold Mine near Solwezi."
+      }
+    },
+    {
+      "id": "zm-find-chitimukulu-palace",
+      "type": "find_poi",
+      "targetPoiId": "chitimukulu-palace-history-v2",
+      "question": {
+        "de": "Finde den Chitimukulu-Palast im Norden Sambias.",
+        "hu": "Keresd meg a Chitimukulu-palot?t Zambia ?szaki r?sz?n.",
+        "ro": "G?se?te Palatul Chitimukulu ?n nordul Zambiei.",
+        "en": "Find Chitimukulu Palace in northern Zambia."
+      }
+    },
+    {
+      "id": "zm-region-lusaka-province",
+      "type": "find_region",
+      "targetRegionId": "ZMB-520",
+      "question": {
+        "de": "Klicke auf die Provinz Lusaka im Zentrum-S?den.",
+        "hu": "Kattints a k?z?p-d?li Lusaka tartom?nyra.",
+        "ro": "Apas? pe provincia Lusaka din partea central-sudic?.",
+        "en": "Click Lusaka Province in the central-southern part of the country."
+      }
+    },
+    {
+      "id": "zm-region-western-province",
+      "type": "find_region",
+      "targetRegionId": "ZMB-523",
+      "question": {
+        "de": "Finde die Westprovinz an der Grenze zu Angola.",
+        "hu": "Keresd meg a Nyugati tartom?nyt Angola hat?ra ment?n.",
+        "ro": "G?se?te Provincia de Vest de-a lungul frontierei cu Angola.",
+        "en": "Find Western Province along the border with Angola."
+      }
+    },
+    {
+      "id": "zm-region-north-western",
+      "type": "find_region",
+      "targetRegionId": "ZMB-521",
+      "question": {
+        "de": "Klicke auf die Nordwestprovinz.",
+        "hu": "Kattints az ?szaknyugati tartom?nyra.",
+        "ro": "Apas? pe Provincia de Nord-Vest.",
+        "en": "Click North-Western Province."
+      }
+    },
+    {
+      "id": "zm-region-luapula",
+      "type": "find_region",
+      "targetRegionId": "ZMB-514",
+      "question": {
+        "de": "Finde die Provinz Luapula im Norden des Landes.",
+        "hu": "Keresd meg a Luapula tartom?nyt az orsz?g ?szaki r?sz?n.",
+        "ro": "G?se?te provincia Luapula ?n nordul ??rii.",
+        "en": "Find Luapula Province in the north of the country."
+      }
+    },
+    {
+      "id": "zm-region-muchinga",
+      "type": "find_region",
+      "targetRegionId": "ZMB-5511",
+      "question": {
+        "de": "Klicke auf die Provinz Muchinga im Nordosten.",
+        "hu": "Kattints az ?szakkeleti Muchinga tartom?nyra.",
+        "ro": "Apas? pe provincia Muchinga din nord-est.",
+        "en": "Click Muchinga Province in the northeast."
+      }
+    },
+    {
+      "id": "zm-odd-mpulungu-tanganyika",
+      "type": "odd_one_out",
+      "poiIds": [
+        "mpulungu-cities-v2",
+        "mansa-cities-v2",
+        "kasama-cities-v2",
+        "chipata-cities-v2"
+      ],
+      "targetPoiId": "mpulungu-cities-v2",
+      "question": {
+        "de": "Welche dieser Orte liegt direkt am Tanganjikasee?",
+        "hu": "Ezek k?z?l melyik hely fekszik k?zvetlen?l a Tanganyika-t?n?l?",
+        "ro": "Care dintre aceste locuri se afl? direct pe malul Lacului Tanganyika?",
+        "en": "Which of these places lies directly on Lake Tanganyika?"
+      }
+    },
+    {
+      "id": "zm-odd-mongu-western",
+      "type": "odd_one_out",
+      "poiIds": [
+        "mongu-cities-v2",
+        "mansa-cities-v2",
+        "chipata-cities-v2",
+        "solwezi-cities-v2"
+      ],
+      "targetPoiId": "mongu-cities-v2",
+      "question": {
+        "de": "Welche dieser St?dte liegt in der Westprovinz?",
+        "hu": "Ezek k?z?l melyik v?ros tal?lhat? a Nyugati tartom?nyban?",
+        "ro": "Care dintre aceste ora?e se afl? ?n Provincia de Vest?",
+        "en": "Which of these cities is in Western Province?"
+      }
+    },
+    {
+      "id": "zm-odd-kalambo-waterfall",
+      "type": "odd_one_out",
+      "poiIds": [
+        "kalambo-falls-nature-v2",
+        "lake-kariba-nature-v2",
+        "bangweulu-swamp-nature-v2",
+        "luangwa-river-nature-v2"
+      ],
+      "targetPoiId": "kalambo-falls-nature-v2",
+      "question": {
+        "de": "Welcher dieser Naturorte ist ein Wasserfall?",
+        "hu": "Ezek k?z?l melyik term?szeti helysz?n v?zes?s?",
+        "ro": "Care dintre aceste locuri naturale este o cascad??",
+        "en": "Which of these natural places is a waterfall?"
+      }
+    },
+    {
+      "id": "zm-odd-kansanshi-copper-gold",
+      "type": "odd_one_out",
+      "poiIds": [
+        "zm-kansanshi-copper-gold-mine-economic-v2",
+        "zm-kafue-gorge-power-station-economic-v2",
+        "zm-mpulungu-harbour-economic-v2",
+        "zm-nakambala-sugar-estate-economic-v2"
+      ],
+      "targetPoiId": "zm-kansanshi-copper-gold-mine-economic-v2",
+      "question": {
+        "de": "Welcher dieser Wirtschaftspunkte ist eine Kupfer-Gold-Mine?",
+        "hu": "Ezek k?z?l melyik gazdas?gi helysz?n r?z-arany b?nya?",
+        "ro": "Care dintre aceste obiective economice este o min? de cupru ?i aur?",
+        "en": "Which of these economic sites is a copper-gold mine?"
+      }
+    },
+    {
+      "id": "zm-odd-lealui-lozi",
+      "type": "odd_one_out",
+      "poiIds": [
+        "lealui-royal-village-history-v2",
+        "chitimukulu-palace-history-v2",
+        "old-drift-settlement-history-v2",
+        "livingstone-memorial-landmarks-v2"
+      ],
+      "targetPoiId": "lealui-royal-village-history-v2",
+      "question": {
+        "de": "Welcher dieser Orte ist ein Lozi-K?nigssitz im Westen Sambias?",
+        "hu": "Ezek k?z?l melyik hely egy lozi kir?lyi k?zpont Nyugat-Zambi?ban?",
+        "ro": "Care dintre aceste locuri este un sit regal lozi din vestul Zambiei?",
+        "en": "Which of these places is a Lozi royal site in western Zambia?"
+      }
+    },
+    {
+      "id": "zm-sequence-west-east-kalabo-petauke",
+      "type": "sequence",
+      "poiIds": [
+        "kalabo-cities-v2",
+        "mongu-cities-v2",
+        "kapiri-mposhi-cities-v2",
+        "petauke-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "kalabo-cities-v2",
+        "mongu-cities-v2",
+        "kapiri-mposhi-cities-v2",
+        "petauke-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Kalabo, Mongu, Kapiri Mposhi und Petauke von West nach Ost an.",
+        "hu": "Kattints Kalab?ra, Mongura, Kapiri Mposhira ?s Petauk?ra nyugatr?l keletre.",
+        "ro": "Apas? Kalabo, Mongu, Kapiri Mposhi ?i Petauke de la vest la est.",
+        "en": "Click Kalabo, Mongu, Kapiri Mposhi and Petauke from west to east."
+      }
+    },
+    {
+      "id": "zm-sequence-north-south-nakonde-siavonga",
+      "type": "sequence",
+      "poiIds": [
+        "nakonde-cities-v2",
+        "chinsali-cities-v2",
+        "kabwe-cities-v2",
+        "siavonga-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "nakonde-cities-v2",
+        "chinsali-cities-v2",
+        "kabwe-cities-v2",
+        "siavonga-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Nakonde, Chinsali, Kabwe und Siavonga von Nord nach S?d an.",
+        "hu": "Kattints Nakond?ra, Chinsalira, Kabw?ra ?s Siavong?ra ?szakr?l d?lre.",
+        "ro": "Apas? Nakonde, Chinsali, Kabwe ?i Siavonga de la nord la sud.",
+        "en": "Click Nakonde, Chinsali, Kabwe and Siavonga from north to south."
+      }
+    },
+    {
+      "id": "zm-sequence-west-east-sesheke-siavonga",
+      "type": "sequence",
+      "poiIds": [
+        "sesheke-cities-v2",
+        "old-drift-settlement-history-v2",
+        "mazabuka-cities-v2",
+        "siavonga-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "sesheke-cities-v2",
+        "old-drift-settlement-history-v2",
+        "mazabuka-cities-v2",
+        "siavonga-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Sesheke, Old Drift, Mazabuka und Siavonga von West nach Ost an.",
+        "hu": "Kattints Seshek?re, Old Driftra, Mazabuk?ra ?s Siavong?ra nyugatr?l keletre.",
+        "ro": "Apas? Sesheke, Old Drift, Mazabuka ?i Siavonga de la vest la est.",
+        "en": "Click Sesheke, Old Drift, Mazabuka and Siavonga from west to east."
+      }
+    },
+    {
+      "id": "zm-sequence-north-south-kalambo-old-drift",
+      "type": "sequence",
+      "poiIds": [
+        "kalambo-falls-nature-v2",
+        "bangweulu-swamp-nature-v2",
+        "livingstone-memorial-landmarks-v2",
+        "old-drift-settlement-history-v2"
+      ],
+      "orderedPoiIds": [
+        "kalambo-falls-nature-v2",
+        "bangweulu-swamp-nature-v2",
+        "livingstone-memorial-landmarks-v2",
+        "old-drift-settlement-history-v2"
+      ],
+      "question": {
+        "de": "Klicke die Kalambo-F?lle, die Bangweulu-S?mpfe, das Livingstone Memorial und Old Drift von Nord nach S?d an.",
+        "hu": "Kattints a Kalambo-v?zes?sre, a Bangweulu-mocsarakra, a Livingstone-eml?km?re ?s Old Driftra ?szakr?l d?lre.",
+        "ro": "Apas? Cascada Kalambo, mla?tinile Bangweulu, Memorialul Livingstone ?i Old Drift de la nord la sud.",
+        "en": "Click Kalambo Falls, the Bangweulu Swamps, the Livingstone Memorial and Old Drift from north to south."
+      }
+    }
+  ]
+}

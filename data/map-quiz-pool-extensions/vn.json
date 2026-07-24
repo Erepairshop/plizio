@@ -1,0 +1,304 @@
+{
+  "vn": [
+    {
+      "id": "vn-find-hanoi-capital-new",
+      "type": "find_poi",
+      "targetPoiId": "vn-hanoi",
+      "question": {
+        "de": "Finde Hanoi, die Hauptstadt Vietnams.",
+        "hu": "Keresd meg Hanoit, Vietnam fővárosát.",
+        "ro": "Găsește Hanoi, capitala Vietnamului.",
+        "en": "Find Hanoi, the capital of Vietnam."
+      }
+    },
+    {
+      "id": "vn-find-ha-long-bay",
+      "type": "find_poi",
+      "targetPoiId": "ha-long-bay-landmarks-v2",
+      "question": {
+        "de": "Finde die Hạ-Long-Bucht an der Nordostküste.",
+        "hu": "Keresd meg a Hạ Long-öblöt az északkeleti parton.",
+        "ro": "Găsește Golful Hạ Long pe coasta de nord-est.",
+        "en": "Find Ha Long Bay on the northeastern coast."
+      }
+    },
+    {
+      "id": "vn-find-hue-citadel",
+      "type": "find_poi",
+      "targetPoiId": "imperial-citadel-hue-history-v2",
+      "question": {
+        "de": "Finde die Kaiserliche Zitadelle von Huế in Zentralvietnam.",
+        "hu": "Keresd meg Huế császári citadelláját Közép-Vietnamban.",
+        "ro": "Găsește Cetatea Imperială din Huế în centrul Vietnamului.",
+        "en": "Find the Imperial Citadel of Hue in central Vietnam."
+      }
+    },
+    {
+      "id": "vn-find-cu-chi-tunnels",
+      "type": "find_poi",
+      "targetPoiId": "cu-chi-tunnels-history-v2",
+      "question": {
+        "de": "Finde die Củ-Chi-Tunnel nordwestlich von Ho-Chi-Minh-Stadt.",
+        "hu": "Keresd meg a Củ Chi-alagutakat Ho Si Minh-várostól északnyugatra.",
+        "ro": "Găsește tunelurile Củ Chi la nord-vest de orașul Ho Și Min.",
+        "en": "Find the Cu Chi Tunnels northwest of Ho Chi Minh City."
+      }
+    },
+    {
+      "id": "vn-find-phu-quoc",
+      "type": "find_poi",
+      "targetPoiId": "vietnam-phu-quoc-cities-v2",
+      "question": {
+        "de": "Finde Phú Quốc im Golf von Thailand.",
+        "hu": "Keresd meg Phú Quốcot a Thai-öbölben.",
+        "ro": "Găsește Phú Quốc în Golful Thailandei.",
+        "en": "Find Phu Quoc in the Gulf of Thailand."
+      }
+    },
+    {
+      "id": "vn-region-hanoi",
+      "type": "find_region",
+      "targetRegionId": "VNM-462",
+      "question": {
+        "de": "Klicke auf Hanoi.",
+        "hu": "Kattints Hanoira.",
+        "ro": "Apasă pe Hanoi.",
+        "en": "Click Hanoi."
+      }
+    },
+    {
+      "id": "vn-region-quang-ninh",
+      "type": "find_region",
+      "targetRegionId": "VNM-429",
+      "question": {
+        "de": "Klicke auf die Provinz Quảng Ninh.",
+        "hu": "Kattints Quảng Ninh tartományra.",
+        "ro": "Apasă pe provincia Quảng Ninh.",
+        "en": "Click Quang Ninh Province."
+      }
+    },
+    {
+      "id": "vn-region-lam-dong",
+      "type": "find_region",
+      "targetRegionId": "VNM-480",
+      "question": {
+        "de": "Klicke auf die Provinz Lâm Đồng.",
+        "hu": "Kattints Lâm Đồng tartományra.",
+        "ro": "Apasă pe provincia Lâm Đồng.",
+        "en": "Click Lam Dong Province."
+      }
+    },
+    {
+      "id": "vn-region-kien-giang",
+      "type": "find_region",
+      "targetRegionId": "VNM-502",
+      "question": {
+        "de": "Klicke auf die Provinz Kiên Giang.",
+        "hu": "Kattints Kiên Giang tartományra.",
+        "ro": "Apasă pe provincia Kiên Giang.",
+        "en": "Click Kien Giang Province."
+      }
+    },
+    {
+      "id": "vn-region-binh-dinh",
+      "type": "find_region",
+      "targetRegionId": "VNM-485",
+      "question": {
+        "de": "Klicke auf die Provinz Bình Định.",
+        "hu": "Kattints Bình Định tartományra.",
+        "ro": "Apasă pe provincia Bình Định.",
+        "en": "Click Binh Dinh Province."
+      }
+    },
+    {
+      "id": "vn-odd-east-northern-trio",
+      "type": "odd_one_out",
+      "poiIds": [
+        "lao-cai-cities-v2",
+        "vn-hanoi",
+        "ha-long-bay-landmarks-v2"
+      ],
+      "targetPoiId": "ha-long-bay-landmarks-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Osten?",
+        "hu": "Melyik hely fekszik a legkeletebbre?",
+        "ro": "Care dintre aceste locuri se află cel mai la est?",
+        "en": "Which of these places lies farthest east?"
+      }
+    },
+    {
+      "id": "vn-odd-west-central-coast",
+      "type": "odd_one_out",
+      "poiIds": [
+        "vn-hue",
+        "vn-danang",
+        "hoi-an-ancient-town-landmarks-v2"
+      ],
+      "targetPoiId": "vn-hue",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Westen?",
+        "hu": "Melyik hely fekszik a legnyugatabbra?",
+        "ro": "Care dintre aceste locuri se află cel mai la vest?",
+        "en": "Which of these places lies farthest west?"
+      }
+    },
+    {
+      "id": "vn-odd-south-major-cities",
+      "type": "odd_one_out",
+      "poiIds": [
+        "vn-hanoi",
+        "vn-dalat",
+        "vn-cantho"
+      ],
+      "targetPoiId": "vn-cantho",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten im Süden?",
+        "hu": "Melyik város fekszik a legdélebbre?",
+        "ro": "Care dintre aceste orașe se află cel mai la sud?",
+        "en": "Which of these cities lies farthest south?"
+      }
+    },
+    {
+      "id": "vn-odd-north-national-cities",
+      "type": "odd_one_out",
+      "poiIds": [
+        "ho-chi-minh-city-cities-v2",
+        "vn-hue",
+        "vn-hanoi"
+      ],
+      "targetPoiId": "vn-hanoi",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten im Norden?",
+        "hu": "Melyik város fekszik a legészakabbra?",
+        "ro": "Care dintre aceste orașe se află cel mai la nord?",
+        "en": "Which of these cities lies farthest north?"
+      }
+    },
+    {
+      "id": "vn-odd-east-southern-trio",
+      "type": "odd_one_out",
+      "poiIds": [
+        "vietnam-phu-quoc-cities-v2",
+        "vn-cantho",
+        "vn-vungtau"
+      ],
+      "targetPoiId": "vn-vungtau",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Osten?",
+        "hu": "Melyik hely fekszik a legkeletebbre?",
+        "ro": "Care dintre aceste locuri se află cel mai la est?",
+        "en": "Which of these places lies farthest east?"
+      }
+    },
+    {
+      "id": "vn-sequence-red-river-corridor",
+      "type": "sequence",
+      "poiIds": [
+        "lao-cai-cities-v2",
+        "vn-hanoi",
+        "phu-ly-cities-v2",
+        "ninh-binh-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "lao-cai-cities-v2",
+        "vn-hanoi",
+        "phu-ly-cities-v2",
+        "ninh-binh-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Lào Cai, Hanoi, Phủ Lý und Ninh Bình von Norden nach Süden an.",
+        "hu": "Kattints Lào Caira, Hanoira, Phủ Lýra és Ninh Bìnhre északról délre.",
+        "ro": "Apasă pe Lào Cai, Hanoi, Phủ Lý și Ninh Bình de la nord la sud.",
+        "en": "Click Lao Cai, Hanoi, Phu Ly and Ninh Binh from north to south."
+      }
+    },
+    {
+      "id": "vn-sequence-northern-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "dien-bien-phu-cities-v2",
+        "vn-hanoi",
+        "vn-haiphong",
+        "vn-halong"
+      ],
+      "orderedPoiIds": [
+        "dien-bien-phu-cities-v2",
+        "vn-hanoi",
+        "vn-haiphong",
+        "vn-halong"
+      ],
+      "question": {
+        "de": "Klicke Điện Biên Phủ, Hanoi, Hải Phòng und Hạ Long von Westen nach Osten an.",
+        "hu": "Kattints Điện Biên Phủre, Hanoira, Hải Phòngra és Hạ Longra nyugatról keletre.",
+        "ro": "Apasă pe Điện Biên Phủ, Hanoi, Hải Phòng și Hạ Long de la vest la est.",
+        "en": "Click Dien Bien Phu, Hanoi, Hai Phong and Ha Long from west to east."
+      }
+    },
+    {
+      "id": "vn-sequence-central-coast",
+      "type": "sequence",
+      "poiIds": [
+        "vietnam-dong-hoi-cities-v2",
+        "vn-hue",
+        "vn-danang",
+        "hoi-an-ancient-town-landmarks-v2"
+      ],
+      "orderedPoiIds": [
+        "vietnam-dong-hoi-cities-v2",
+        "vn-hue",
+        "vn-danang",
+        "hoi-an-ancient-town-landmarks-v2"
+      ],
+      "question": {
+        "de": "Klicke Đồng Hới, Huế, Đà Nẵng und Hội An von Norden nach Süden an.",
+        "hu": "Kattints Đồng Hőire, Huếre, Đà Nẵngra és Hội Anra északról délre.",
+        "ro": "Apasă pe Đồng Hới, Huế, Đà Nẵng și Hội An de la nord la sud.",
+        "en": "Click Dong Hoi, Hue, Da Nang and Hoi An from north to south."
+      }
+    },
+    {
+      "id": "vn-sequence-central-highlands",
+      "type": "sequence",
+      "poiIds": [
+        "kon-tum-cities-v2",
+        "vietnam-pleiku-cities-v2",
+        "buon-ma-thuot-coffee-plantations-life-v2",
+        "gia-nghia-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "kon-tum-cities-v2",
+        "vietnam-pleiku-cities-v2",
+        "buon-ma-thuot-coffee-plantations-life-v2",
+        "gia-nghia-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Kon Tum, Pleiku, die Kaffeeplantagen von Buôn Ma Thuột und Gia Nghĩa von Norden nach Süden an.",
+        "hu": "Kattints Kon Tumra, Pleikura, a Buôn Ma Thuột kávéültetvényeire és Gia Nghĩára északról délre.",
+        "ro": "Apasă pe Kon Tum, Pleiku, plantațiile de cafea din Buôn Ma Thuột și Gia Nghĩa de la nord la sud.",
+        "en": "Click Kon Tum, Pleiku, the Buon Ma Thuot coffee plantations and Gia Nghia from north to south."
+      }
+    },
+    {
+      "id": "vn-sequence-southern-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "vietnam-phu-quoc-cities-v2",
+        "vietnam-rach-gia-cities-v2",
+        "vn-cantho",
+        "ben-tre-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "vietnam-phu-quoc-cities-v2",
+        "vietnam-rach-gia-cities-v2",
+        "vn-cantho",
+        "ben-tre-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Phú Quốc, Rạch Giá, Cần Thơ und Bến Tre von Westen nach Osten an.",
+        "hu": "Kattints Phú Quốcra, Rạch Giára, Cần Thőre és Bến Trére nyugatról keletre.",
+        "ro": "Apasă pe Phú Quốc, Rạch Giá, Cần Thơ și Bến Tre de la vest la est.",
+        "en": "Click Phu Quoc, Rach Gia, Can Tho and Ben Tre from west to east."
+      }
+    }
+  ]
+}

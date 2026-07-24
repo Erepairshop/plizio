@@ -1,0 +1,302 @@
+{
+  "md": [
+    {
+      "id": "md-find-edinet-city",
+      "type": "find_poi",
+      "targetPoiId": "moldova-edinet-cities-v2",
+      "question": {
+        "de": "Finde Edineț im Norden Moldaus.",
+        "hu": "Keresd meg Edineț városát Moldova északi részén.",
+        "ro": "Găsește orașul Edineț din nordul Republicii Moldova.",
+        "en": "Find Edineț in northern Moldova."
+      }
+    },
+    {
+      "id": "md-find-giurgiulesti-port",
+      "type": "find_poi",
+      "targetPoiId": "moldova-giurgiulesti-port-economic-v2",
+      "question": {
+        "de": "Finde den internationalen Hafen von Giurgiulești am äußersten Süden des Landes.",
+        "hu": "Keresd meg Giurgiulești nemzetközi kikötőjét az ország legdélibb részén.",
+        "ro": "Găsește Portul Internațional Giurgiulești din extremul sud al țării.",
+        "en": "Find the Giurgiulești International Port in the far south of the country."
+      }
+    },
+    {
+      "id": "md-find-castel-mimi",
+      "type": "find_poi",
+      "targetPoiId": "moldova-castel-mimi-economic-v2",
+      "question": {
+        "de": "Finde Castel Mimi bei Bulboaca östlich von Chișinău.",
+        "hu": "Keresd meg a Castel Mimit Bulboaca mellett, Chișinăutól keletre.",
+        "ro": "Găsește Castel Mimi de lângă Bulboaca, la est de Chișinău.",
+        "en": "Find Castel Mimi near Bulboaca, east of Chișinău."
+      }
+    },
+    {
+      "id": "md-find-tipova-monastery",
+      "type": "find_poi",
+      "targetPoiId": "moldova-tipova-monastery-landmarks-v2",
+      "question": {
+        "de": "Finde das Kloster Țipova an den Dnisterklippen.",
+        "hu": "Keresd meg a Țipova kolostort a Dnyeszter menti sziklák között.",
+        "ro": "Găsește mănăstirea Țipova de pe falezele Nistrului.",
+        "en": "Find Țipova Monastery on the cliffs above the Dniester."
+      }
+    },
+    {
+      "id": "md-find-hancu-monastery",
+      "type": "find_poi",
+      "targetPoiId": "moldova-hancu-monastery-landmarks-v2",
+      "question": {
+        "de": "Finde das Kloster Hâncu westlich von Chișinău.",
+        "hu": "Keresd meg a Hâncu kolostort Chișinăutól nyugatra.",
+        "ro": "Găsește mănăstirea Hâncu, la vest de Chișinău.",
+        "en": "Find Hâncu Monastery west of Chișinău."
+      }
+    },
+    {
+      "id": "md-region-soroca",
+      "type": "find_region",
+      "targetRegionId": "MD-014",
+      "question": {
+        "de": "Klicke auf die Region Soroca an der Nordostseite des Landes.",
+        "hu": "Kattints Soroca régiójára az ország északkeleti részén.",
+        "ro": "Apasă pe regiunea Soroca din partea de nord-est a țării.",
+        "en": "Click the Soroca region in the northeastern part of the country."
+      }
+    },
+    {
+      "id": "md-region-cahul",
+      "type": "find_region",
+      "targetRegionId": "MD-011",
+      "question": {
+        "de": "Finde die Region Cahul im Südwesten Moldaus.",
+        "hu": "Keresd meg Cahul régióját Moldova délnyugati részén.",
+        "ro": "Găsește regiunea Cahul din sud-vestul Republicii Moldova.",
+        "en": "Find the Cahul region in southwestern Moldova."
+      }
+    },
+    {
+      "id": "md-region-stefan-voda",
+      "type": "find_region",
+      "targetRegionId": "MD-020",
+      "question": {
+        "de": "Klicke auf die Region Ștefan Vodă nahe der südöstlichen Grenze.",
+        "hu": "Kattints Ștefan Vodă régiójára a délkeleti határ közelében.",
+        "ro": "Apasă pe regiunea Ștefan Vodă, aproape de granița din sud-est.",
+        "en": "Click the Ștefan Vodă region near the southeastern border."
+      }
+    },
+    {
+      "id": "md-region-straseni",
+      "type": "find_region",
+      "targetRegionId": "MD-027",
+      "question": {
+        "de": "Finde die Region Strășeni nordwestlich von Chișinău.",
+        "hu": "Keresd meg Strășeni régióját Chișinăutól északnyugatra.",
+        "ro": "Găsește regiunea Strășeni, la nord-vest de Chișinău.",
+        "en": "Find the Strășeni region northwest of Chișinău."
+      }
+    },
+    {
+      "id": "md-region-orhei",
+      "type": "find_region",
+      "targetRegionId": "MD-029",
+      "question": {
+        "de": "Klicke auf die Region Orhei im zentralen Osten Moldaus.",
+        "hu": "Kattints Orhei régiójára Moldova középső-keleti részén.",
+        "ro": "Apasă pe regiunea Orhei din partea central-estică a Moldovei.",
+        "en": "Click the Orhei region in east-central Moldova."
+      }
+    },
+    {
+      "id": "md-odd-southernmost-gagauz-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "moldova-comrat-cities-v2",
+        "moldova-ceadir-lunga-cities-v2",
+        "moldova-vulcanesti-cities-v2"
+      ],
+      "targetPoiId": "moldova-vulcanesti-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten im Süden?",
+        "hu": "Melyik város fekszik a legdélebbre?",
+        "ro": "Care dintre aceste orașe se află cel mai la sud?",
+        "en": "Which of these cities lies farthest south?"
+      }
+    },
+    {
+      "id": "md-odd-easternmost-dniester-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "moldova-dubasari-cities-v2",
+        "moldova-bender-cities-v2",
+        "MD-030-tiraspol-city"
+      ],
+      "targetPoiId": "MD-030-tiraspol-city",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten im Osten?",
+        "hu": "Melyik város fekszik a legkeletebbre?",
+        "ro": "Care dintre aceste orașe se află cel mai la est?",
+        "en": "Which of these cities lies farthest east?"
+      }
+    },
+    {
+      "id": "md-odd-northernmost-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "moldova-briceni-cities-v2",
+        "moldova-edinet-cities-v2",
+        "moldova-soroca-cities-v2"
+      ],
+      "targetPoiId": "moldova-briceni-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten im Norden?",
+        "hu": "Melyik város fekszik a legészakabbra?",
+        "ro": "Care dintre aceste orașe se află cel mai la nord?",
+        "en": "Which of these cities lies farthest north?"
+      }
+    },
+    {
+      "id": "md-odd-danube-port",
+      "type": "odd_one_out",
+      "poiIds": [
+        "moldova-giurgiulesti-port-economic-v2",
+        "moldova-cahul-cities-v2",
+        "moldova-comrat-cities-v2"
+      ],
+      "targetPoiId": "moldova-giurgiulesti-port-economic-v2",
+      "question": {
+        "de": "Welcher dieser Orte ist Moldaus Donauhafen?",
+        "hu": "Melyik hely Moldova dunai kikötője?",
+        "ro": "Care dintre aceste locuri este portul moldovean de la Dunăre?",
+        "en": "Which of these places is Moldova's Danube port?"
+      }
+    },
+    {
+      "id": "md-odd-winery-estate",
+      "type": "odd_one_out",
+      "poiIds": [
+        "moldova-castel-mimi-economic-v2",
+        "moldova-soroca-fortress-history-v2",
+        "moldova-dubasari-dam-economic-v2"
+      ],
+      "targetPoiId": "moldova-castel-mimi-economic-v2",
+      "question": {
+        "de": "Welcher dieser Orte ist ein Weingut?",
+        "hu": "Melyik hely egy borászat?",
+        "ro": "Care dintre aceste locuri este o vinărie?",
+        "en": "Which of these places is a winery estate?"
+      }
+    },
+    {
+      "id": "md-sequence-north-south-prut-line",
+      "type": "sequence",
+      "poiIds": [
+        "moldova-briceni-cities-v2",
+        "moldova-ungheni-cities-v2",
+        "moldova-leova-cities-v2",
+        "moldova-giurgiulesti-port-economic-v2"
+      ],
+      "orderedPoiIds": [
+        "moldova-briceni-cities-v2",
+        "moldova-ungheni-cities-v2",
+        "moldova-leova-cities-v2",
+        "moldova-giurgiulesti-port-economic-v2"
+      ],
+      "question": {
+        "de": "Klicke Briceni, Ungheni, Leova und Giurgiulești von Norden nach Süden an.",
+        "hu": "Kattints Briceni, Ungheni, Leova és Giurgiulești helyére északról délre.",
+        "ro": "Apasă pe Briceni, Ungheni, Leova și Giurgiulești de la nord la sud.",
+        "en": "Click Briceni, Ungheni, Leova, and Giurgiulești from north to south."
+      }
+    },
+    {
+      "id": "md-sequence-west-east-southern-belt",
+      "type": "sequence",
+      "poiIds": [
+        "moldova-cahul-cities-v2",
+        "moldova-comrat-cities-v2",
+        "moldova-ceadir-lunga-cities-v2",
+        "moldova-stefan-voda-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "moldova-cahul-cities-v2",
+        "moldova-comrat-cities-v2",
+        "moldova-ceadir-lunga-cities-v2",
+        "moldova-stefan-voda-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Cahul, Comrat, Ceadîr-Lunga und Ștefan Vodă von Westen nach Osten an.",
+        "hu": "Kattints Cahul, Comrat, Ceadîr-Lunga és Ștefan Vodă helyére nyugatról keletre.",
+        "ro": "Apasă pe Cahul, Comrat, Ceadîr-Lunga și Ștefan Vodă de la vest la est.",
+        "en": "Click Cahul, Comrat, Ceadîr-Lunga, and Ștefan Vodă from west to east."
+      }
+    },
+    {
+      "id": "md-sequence-north-south-dniester-sites",
+      "type": "sequence",
+      "poiIds": [
+        "moldova-soroca-fortress-history-v2",
+        "moldova-saharna-monastery-history-v2",
+        "moldova-orheiul-vechi-history-v2",
+        "moldova-bender-fortress-history-v2"
+      ],
+      "orderedPoiIds": [
+        "moldova-soroca-fortress-history-v2",
+        "moldova-saharna-monastery-history-v2",
+        "moldova-orheiul-vechi-history-v2",
+        "moldova-bender-fortress-history-v2"
+      ],
+      "question": {
+        "de": "Klicke Soroca-Festung, Saharna-Kloster, Orheiul Vechi und Bender-Festung von Norden nach Süden an.",
+        "hu": "Kattints a Soroca-erődre, a Saharna kolostorra, Orheiul Vechire és a Bender-erődre északról délre.",
+        "ro": "Apasă pe Cetatea Soroca, Mănăstirea Saharna, Orheiul Vechi și Cetatea Bender de la nord la sud.",
+        "en": "Click Soroca Fortress, Saharna Monastery, Old Orhei, and Bender Fortress from north to south."
+      }
+    },
+    {
+      "id": "md-sequence-west-east-central-landmarks",
+      "type": "sequence",
+      "poiIds": [
+        "moldova-hancu-monastery-landmarks-v2",
+        "MD-031-triumphal-arch",
+        "moldova-cricova-winery-economic-v2",
+        "moldova-castel-mimi-economic-v2"
+      ],
+      "orderedPoiIds": [
+        "moldova-hancu-monastery-landmarks-v2",
+        "MD-031-triumphal-arch",
+        "moldova-cricova-winery-economic-v2",
+        "moldova-castel-mimi-economic-v2"
+      ],
+      "question": {
+        "de": "Klicke Hâncu-Kloster, Triumphbogen von Chișinău, Cricova und Castel Mimi von Westen nach Osten an.",
+        "hu": "Kattints a Hâncu kolostorra, a chișinăui diadalívre, Cricovára és a Castel Mimire nyugatról keletre.",
+        "ro": "Apasă pe Mănăstirea Hâncu, Arcul de Triumf din Chișinău, Cricova și Castel Mimi de la vest la est.",
+        "en": "Click Hâncu Monastery, the Triumphal Arch of Chișinău, Cricova, and Castel Mimi from west to east."
+      }
+    },
+    {
+      "id": "md-sequence-north-south-gagauzia",
+      "type": "sequence",
+      "poiIds": [
+        "moldova-comrat-cities-v2",
+        "moldova-ceadir-lunga-cities-v2",
+        "moldova-vulcanesti-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "moldova-comrat-cities-v2",
+        "moldova-ceadir-lunga-cities-v2",
+        "moldova-vulcanesti-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Comrat, Ceadîr-Lunga und Vulcănești von Norden nach Süden an.",
+        "hu": "Kattints Comrat, Ceadîr-Lunga és Vulcănești helyére északról délre.",
+        "ro": "Apasă pe Comrat, Ceadîr-Lunga și Vulcănești de la nord la sud.",
+        "en": "Click Comrat, Ceadîr-Lunga, and Vulcănești from north to south."
+      }
+    }
+  ]
+}

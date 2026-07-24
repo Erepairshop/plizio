@@ -1,0 +1,309 @@
+{
+  "me": [
+    {
+      "id": "me-find-djurdjevica-tara-bridge",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde die Đurđevića-Tara-Brücke über der Tara-Schlucht.",
+        "hu": "Keresd meg a Tara-kanyon fölött átívelő Đurđevića Tara hidat.",
+        "ro": "Găsește Podul Đurđevića Tara peste canionul Tara.",
+        "en": "Find the Đurđevića Tara Bridge above the Tara Canyon."
+      },
+      "targetPoiId": "me-djurdjevica-tara"
+    },
+    {
+      "id": "me-find-cetinje-monastery-new",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde das Kloster Cetinje in der alten Königshauptstadt.",
+        "hu": "Keresd meg a cetinjei kolostort a régi királyi fővárosban.",
+        "ro": "Găsește Mănăstirea Cetinje din vechea capitală regală.",
+        "en": "Find Cetinje Monastery in the old royal capital."
+      },
+      "targetPoiId": "me-cetinje-monastery"
+    },
+    {
+      "id": "me-find-porto-montenegro",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Porto Montenegro in Tivat.",
+        "hu": "Keresd meg Porto Montenegrót Tivatban.",
+        "ro": "Găsește Porto Montenegro din Tivat.",
+        "en": "Find Porto Montenegro in Tivat."
+      },
+      "targetPoiId": "me-016-porto-montenegro"
+    },
+    {
+      "id": "me-find-ostrog-monastery",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde das hoch in den Felsen gebaute Kloster Ostrog.",
+        "hu": "Keresd meg a sziklákba épült Ostrog-kolostort.",
+        "ro": "Găsește Mănăstirea Ostrog construită sus în stâncă.",
+        "en": "Find Ostrog Monastery built high into the rock."
+      },
+      "targetPoiId": "montenegro-ostrog-monastery-cities-v2"
+    },
+    {
+      "id": "me-find-lipa-cave",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde die Lipa-Höhle bei Cetinje.",
+        "hu": "Keresd meg a Cetinje melletti Lipa-barlangot.",
+        "ro": "Găsește Peștera Lipa de lângă Cetinje.",
+        "en": "Find Lipa Cave near Cetinje."
+      },
+      "targetPoiId": "montenegro-lipa-cave-cities-v2"
+    },
+    {
+      "id": "me-region-bar-new",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf die Gemeinde Bar.",
+        "hu": "Kattints Bar községére.",
+        "ro": "Apasă pe municipalitatea Bar.",
+        "en": "Click the Bar Municipality."
+      },
+      "targetRegionId": "ME-013"
+    },
+    {
+      "id": "me-region-ulcinj-new",
+      "type": "find_region",
+      "question": {
+        "de": "Finde die Gemeinde Ulcinj ganz im Süden.",
+        "hu": "Keresd meg a legdélebbi Ulcinj községet.",
+        "ro": "Găsește municipalitatea Ulcinj din extremul sud.",
+        "en": "Find Ulcinj Municipality in the far south."
+      },
+      "targetRegionId": "ME-014"
+    },
+    {
+      "id": "me-region-pljevlja-new",
+      "type": "find_region",
+      "question": {
+        "de": "Finde die nördliche Gemeinde Pljevlja.",
+        "hu": "Keresd meg az északi Pljevlja községet.",
+        "ro": "Găsește municipalitatea nordică Pljevlja.",
+        "en": "Find the northern Pljevlja Municipality."
+      },
+      "targetRegionId": "ME-005"
+    },
+    {
+      "id": "me-region-berane-new",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf die Gemeinde Berane im Nordosten.",
+        "hu": "Kattints az északkeleti Berane községre.",
+        "ro": "Apasă pe municipalitatea Berane din nord-est.",
+        "en": "Click the Berane Municipality in the northeast."
+      },
+      "targetRegionId": "ME-003"
+    },
+    {
+      "id": "me-region-danilovgrad-new",
+      "type": "find_region",
+      "question": {
+        "de": "Finde die Gemeinde Danilovgrad westlich von Podgorica.",
+        "hu": "Keresd meg a Podgoricától nyugatra fekvő Danilovgrad községet.",
+        "ro": "Găsește municipalitatea Danilovgrad aflată la vest de Podgorica.",
+        "en": "Find Danilovgrad Municipality west of Podgorica."
+      },
+      "targetRegionId": "ME-021"
+    },
+    {
+      "id": "me-odd-bridge-among-monasteries",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort ist keine Klosteranlage?",
+        "hu": "Melyik hely nem kolostor?",
+        "ro": "Care loc nu este o mănăstire?",
+        "en": "Which place is not a monastery?"
+      },
+      "poiIds": [
+        "me-cetinje-monastery",
+        "me-moraca-monastery",
+        "me-008-piva-monastery",
+        "me-djurdjevica-tara"
+      ],
+      "targetPoiId": "me-djurdjevica-tara"
+    },
+    {
+      "id": "me-odd-coast-vs-inland-town",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort liegt nicht an der Adriaküste?",
+        "hu": "Melyik hely nem az Adria partján fekszik?",
+        "ro": "Care loc nu se află pe coasta Adriaticii?",
+        "en": "Which place is not on the Adriatic coast?"
+      },
+      "poiIds": [
+        "montenegro-budva-cities-v2",
+        "montenegro-tivat-cities-v2",
+        "montenegro-ulcinj-cities-v2",
+        "me-020-city"
+      ],
+      "targetPoiId": "me-020-city"
+    },
+    {
+      "id": "me-odd-not-a-lake",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort ist kein See?",
+        "hu": "Melyik hely nem tó?",
+        "ro": "Care loc nu este un lac?",
+        "en": "Which place is not a lake?"
+      },
+      "poiIds": [
+        "me-black-lake",
+        "me-009-krupac",
+        "montenegro-jezero-biogradsko-nature-v2",
+        "me-003-djurdjevi-stupovi"
+      ],
+      "targetPoiId": "me-003-djurdjevi-stupovi"
+    },
+    {
+      "id": "me-odd-port-among-parks",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort ist kein Nationalpark oder Schutzgebiet?",
+        "hu": "Melyik hely nem nemzeti park vagy védett természeti terület?",
+        "ro": "Care loc nu este parc național sau zonă protejată?",
+        "en": "Which place is not a national park or protected natural area?"
+      },
+      "poiIds": [
+        "me-018-lovcen",
+        "montenegro-durmitor-national-park-cities-v2",
+        "montenegro-prokletije-national-park-cities-v2",
+        "montenegro-luka-bar-port-economic-v2"
+      ],
+      "targetPoiId": "montenegro-luka-bar-port-economic-v2"
+    },
+    {
+      "id": "me-odd-not-bay-of-kotor",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort liegt nicht an der Bucht von Kotor?",
+        "hu": "Melyik hely nem a Kotori-öbölben található?",
+        "ro": "Care loc nu se află în Golful Kotor?",
+        "en": "Which place is not on the Bay of Kotor?"
+      },
+      "poiIds": [
+        "me-010-perast",
+        "montenegro-kotor-cities-v2",
+        "montenegro-tivat-cities-v2",
+        "montenegro-cetinje-cities-v2"
+      ],
+      "targetPoiId": "montenegro-cetinje-cities-v2"
+    },
+    {
+      "id": "me-sequence-coast-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Küstenorte von West nach Ost an.",
+        "hu": "Kattints a tengerparti helyekre nyugatról keletre.",
+        "ro": "Apasă locurile de pe coastă de la vest la est.",
+        "en": "Click the coastal places from west to east."
+      },
+      "poiIds": [
+        "me-010-perast",
+        "montenegro-kotor-cities-v2",
+        "montenegro-budva-cities-v2",
+        "montenegro-bar-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "me-010-perast",
+        "montenegro-kotor-cities-v2",
+        "montenegro-budva-cities-v2",
+        "montenegro-bar-cities-v2"
+      ]
+    },
+    {
+      "id": "me-sequence-inland-north-south",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke diese Städte von Nord nach Süd an.",
+        "hu": "Kattints ezekre a városokra északról délre.",
+        "ro": "Apasă aceste orașe de la nord la sud.",
+        "en": "Click these towns from north to south."
+      },
+      "poiIds": [
+        "me-005-city",
+        "me-006-city",
+        "me-017-city",
+        "me-020-city"
+      ],
+      "orderedPoiIds": [
+        "me-005-city",
+        "me-006-city",
+        "me-017-city",
+        "me-020-city"
+      ]
+    },
+    {
+      "id": "me-sequence-northern-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die nördlichen Sehenswürdigkeiten von West nach Ost an.",
+        "hu": "Kattints az északi látnivalókra nyugatról keletre.",
+        "ro": "Apasă obiectivele nordice de la vest la est.",
+        "en": "Click the northern sights from west to east."
+      },
+      "poiIds": [
+        "me-008-piva-monastery",
+        "me-black-lake",
+        "me-djurdjevica-tara",
+        "me-003-djurdjevi-stupovi"
+      ],
+      "orderedPoiIds": [
+        "me-008-piva-monastery",
+        "me-black-lake",
+        "me-djurdjevica-tara",
+        "me-003-djurdjevi-stupovi"
+      ]
+    },
+    {
+      "id": "me-sequence-south-coast-north-south",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Orte an der Südroute von Nord nach Süd an.",
+        "hu": "Kattints a déli útvonal helyeire északról délre.",
+        "ro": "Apasă locurile de pe ruta sudică de la nord la sud.",
+        "en": "Click the places on the southern route from north to south."
+      },
+      "poiIds": [
+        "montenegro-virpazar-cities-v2",
+        "montenegro-bar-cities-v2",
+        "montenegro-ulcinj-cities-v2",
+        "me-ada-bojana"
+      ],
+      "orderedPoiIds": [
+        "montenegro-virpazar-cities-v2",
+        "montenegro-bar-cities-v2",
+        "montenegro-ulcinj-cities-v2",
+        "me-ada-bojana"
+      ]
+    },
+    {
+      "id": "me-sequence-heritage-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke diese historischen Orte von West nach Ost an.",
+        "hu": "Kattints ezekre a történelmi helyekre nyugatról keletre.",
+        "ro": "Apasă aceste locuri istorice de la vest la est.",
+        "en": "Click these historic places from west to east."
+      },
+      "poiIds": [
+        "me-016-porto-montenegro",
+        "montenegro-kotor-walls-landmarks-v2",
+        "me-cetinje-monastery",
+        "me-012-millennium"
+      ],
+      "orderedPoiIds": [
+        "me-016-porto-montenegro",
+        "montenegro-kotor-walls-landmarks-v2",
+        "me-cetinje-monastery",
+        "me-012-millennium"
+      ]
+    }
+  ]
+}

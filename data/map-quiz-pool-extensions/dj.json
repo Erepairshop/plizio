@@ -1,0 +1,290 @@
+{
+  "dj": [
+    {
+      "id": "dj-exp-find-arta",
+      "type": "find_poi",
+      "targetPoiId": "arta-cities-v2",
+      "question": {
+        "de": "Finde Arta auf der Karte.",
+        "hu": "Keresd meg Arta helyét a térképen.",
+        "ro": "Găsește Arta pe hartă.",
+        "en": "Find Arta on the map."
+      }
+    },
+    {
+      "id": "dj-exp-find-dikhil",
+      "type": "find_poi",
+      "targetPoiId": "dikhil-cities-v2",
+      "question": {
+        "de": "Finde Dikhil auf der Karte.",
+        "hu": "Keresd meg Dikhil helyét a térképen.",
+        "ro": "Găsește Dikhil pe hartă.",
+        "en": "Find Dikhil on the map."
+      }
+    },
+    {
+      "id": "dj-exp-find-balho",
+      "type": "find_poi",
+      "targetPoiId": "balho-cities-v2",
+      "question": {
+        "de": "Finde Balho auf der Karte.",
+        "hu": "Keresd meg Balho helyét a térképen.",
+        "ro": "Găsește Balho pe hartă.",
+        "en": "Find Balho on the map."
+      }
+    },
+    {
+      "id": "dj-exp-find-galafi",
+      "type": "find_poi",
+      "targetPoiId": "galafi-cities-v2",
+      "question": {
+        "de": "Finde Galafi auf der Karte.",
+        "hu": "Keresd meg Galafi helyét a térképen.",
+        "ro": "Găsește Galafi pe hartă.",
+        "en": "Find Galafi on the map."
+      }
+    },
+    {
+      "id": "dj-exp-find-loyada",
+      "type": "find_poi",
+      "targetPoiId": "loyada-cities-v2",
+      "question": {
+        "de": "Finde Loyada auf der Karte.",
+        "hu": "Keresd meg Loyada helyét a térképen.",
+        "ro": "Găsește Loyada pe hartă.",
+        "en": "Find Loyada on the map."
+      }
+    },
+    {
+      "id": "dj-exp-find-khor-angar",
+      "type": "find_poi",
+      "targetPoiId": "khor-angar-cities-v2",
+      "question": {
+        "de": "Finde Khor Angar auf der Karte.",
+        "hu": "Keresd meg Khor Angar helyét a térképen.",
+        "ro": "Găsește Khor Angar pe hartă.",
+        "en": "Find Khor Angar on the map."
+      }
+    },
+    {
+      "id": "dj-exp-find-moulhoule",
+      "type": "find_poi",
+      "targetPoiId": "moulhoule-cities-v2",
+      "question": {
+        "de": "Finde Moulhoule auf der Karte.",
+        "hu": "Keresd meg Moulhoule helyét a térképen.",
+        "ro": "Găsește Moulhoule pe hartă.",
+        "en": "Find Moulhoule on the map."
+      }
+    },
+    {
+      "id": "dj-exp-find-randa",
+      "type": "find_poi",
+      "targetPoiId": "randa-cities-v2",
+      "question": {
+        "de": "Finde Randa auf der Karte.",
+        "hu": "Keresd meg Randa helyét a térképen.",
+        "ro": "Găsește Randa pe hartă.",
+        "en": "Find Randa on the map."
+      }
+    },
+    {
+      "id": "dj-exp-region-arta",
+      "type": "find_region",
+      "targetRegionId": "DJI-1568",
+      "question": {
+        "de": "Klicke auf die Region Arta.",
+        "hu": "Kattints Arta régiójára.",
+        "ro": "Apasă pe regiunea Arta.",
+        "en": "Click the Arta region."
+      }
+    },
+    {
+      "id": "dj-exp-region-djibouti",
+      "type": "find_region",
+      "targetRegionId": "DJI-1567",
+      "question": {
+        "de": "Klicke auf die Region Djibouti.",
+        "hu": "Kattints Djibouti régiójára.",
+        "ro": "Apasă pe regiunea Djibouti.",
+        "en": "Click the Djibouti region."
+      }
+    },
+    {
+      "id": "dj-exp-region-obock",
+      "type": "find_region",
+      "targetRegionId": "DJI-1570",
+      "question": {
+        "de": "Klicke auf die Region Obock.",
+        "hu": "Kattints Obock régiójára.",
+        "ro": "Apasă pe regiunea Obock.",
+        "en": "Click the Obock region."
+      }
+    },
+    {
+      "id": "dj-exp-odd-north-doumera",
+      "type": "odd_one_out",
+      "poiIds": [
+        "doumera-cities-v2",
+        "obock-cities-v2",
+        "djibouti-city-cities-v2",
+        "ali-sabieh-cities-v2"
+      ],
+      "targetPoiId": "doumera-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt am weitesten nördlich?",
+        "hu": "Melyik hely fekszik a legészakabbra?",
+        "ro": "Care loc se află cel mai la nord?",
+        "en": "Which place lies furthest north?"
+      }
+    },
+    {
+      "id": "dj-exp-odd-west-dikhil",
+      "type": "odd_one_out",
+      "poiIds": [
+        "djibouti-city-cities-v2",
+        "tadjourah-cities-v2",
+        "dikhil-cities-v2",
+        "obock-cities-v2"
+      ],
+      "targetPoiId": "dikhil-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt am weitesten westlich?",
+        "hu": "Melyik hely fekszik a legnyugatabbra?",
+        "ro": "Care loc se află cel mai la vest?",
+        "en": "Which place lies furthest west?"
+      }
+    },
+    {
+      "id": "dj-exp-odd-east-obock",
+      "type": "odd_one_out",
+      "poiIds": [
+        "arta-cities-v2",
+        "ali-sabieh-cities-v2",
+        "dikhil-cities-v2",
+        "obock-cities-v2"
+      ],
+      "targetPoiId": "obock-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt am weitesten östlich?",
+        "hu": "Melyik hely fekszik a legkeletebbre?",
+        "ro": "Care loc se află cel mai la est?",
+        "en": "Which place lies furthest east?"
+      }
+    },
+    {
+      "id": "dj-exp-odd-south-galileh",
+      "type": "odd_one_out",
+      "poiIds": [
+        "galileh-cities-v2",
+        "dikhil-cities-v2",
+        "ali-sabieh-cities-v2",
+        "tadjourah-cities-v2"
+      ],
+      "targetPoiId": "galileh-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt am weitesten südlich?",
+        "hu": "Melyik hely fekszik a legdélebbre?",
+        "ro": "Care loc se află cel mai la sud?",
+        "en": "Which place lies furthest south?"
+      }
+    },
+    {
+      "id": "dj-exp-odd-coast-tadjourah",
+      "type": "odd_one_out",
+      "poiIds": [
+        "dikhil-cities-v2",
+        "ali-sabieh-cities-v2",
+        "tadjourah-cities-v2",
+        "galafi-cities-v2"
+      ],
+      "targetPoiId": "tadjourah-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt an der Küste des Golfs von Tadjoura?",
+        "hu": "Melyik hely fekszik a Tadjoura-öböl partján?",
+        "ro": "Care loc se află pe coasta Golfului Tadjoura?",
+        "en": "Which place lies on the coast of the Gulf of Tadjoura?"
+      }
+    },
+    {
+      "id": "dj-exp-seq-north-south-doumera-obock",
+      "type": "sequence",
+      "poiIds": [
+        "doumera-cities-v2",
+        "moulhoule-cities-v2",
+        "obock-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "doumera-cities-v2",
+        "moulhoule-cities-v2",
+        "obock-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Doumera, Moulhoule, Obock von Norden nach Süden an.",
+        "hu": "Kattints ezekre északról délre: Doumera, Moulhoule, Obock.",
+        "ro": "Apasă în ordine de la nord la sud: Doumera, Moulhoule, Obock.",
+        "en": "Click from north to south: Doumera, Moulhoule, Obock."
+      }
+    },
+    {
+      "id": "dj-exp-seq-north-south-balho-arta",
+      "type": "sequence",
+      "poiIds": [
+        "balho-cities-v2",
+        "tadjourah-cities-v2",
+        "arta-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "balho-cities-v2",
+        "tadjourah-cities-v2",
+        "arta-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Balho, Tadjourah, Arta von Norden nach Süden an.",
+        "hu": "Kattints ezekre északról délre: Balho, Tadjourah, Arta.",
+        "ro": "Apasă în ordine de la nord la sud: Balho, Tadjourah, Arta.",
+        "en": "Click from north to south: Balho, Tadjourah, Arta."
+      }
+    },
+    {
+      "id": "dj-exp-seq-west-east-galafi-ali-sabieh",
+      "type": "sequence",
+      "poiIds": [
+        "galafi-cities-v2",
+        "dikhil-cities-v2",
+        "ali-sabieh-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "galafi-cities-v2",
+        "dikhil-cities-v2",
+        "ali-sabieh-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Galafi, Dikhil, Ali Sabieh von Westen nach Osten an.",
+        "hu": "Kattints ezekre nyugatról keletre: Galafi, Dikhil, Ali Sabieh.",
+        "ro": "Apasă în ordine de la vest la est: Galafi, Dikhil, Ali Sabieh.",
+        "en": "Click from west to east: Galafi, Dikhil, Ali Sabieh."
+      }
+    },
+    {
+      "id": "dj-exp-seq-west-east-khor-ambado-loyada",
+      "type": "sequence",
+      "poiIds": [
+        "khor-ambado-cities-v2",
+        "djibouti-city-cities-v2",
+        "loyada-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "khor-ambado-cities-v2",
+        "djibouti-city-cities-v2",
+        "loyada-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Khor Ambado, Djibouti City, Loyada von Westen nach Osten an.",
+        "hu": "Kattints ezekre nyugatról keletre: Khor Ambado, Djibouti City, Loyada.",
+        "ro": "Apasă în ordine de la vest la est: Khor Ambado, Djibouti City, Loyada.",
+        "en": "Click from west to east: Khor Ambado, Djibouti City, Loyada."
+      }
+    }
+  ]
+}

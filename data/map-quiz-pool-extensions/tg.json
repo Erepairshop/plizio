@@ -1,0 +1,309 @@
+{
+  "tg": [
+    {
+      "id": "tg-find-tsevie",
+      "type": "find_poi",
+      "targetPoiId": "tsevie-cities-v2",
+      "question": {
+        "de": "Finde Tsévié nördlich von Lomé in der Maritime-Region.",
+        "hu": "Keresd meg Tséviét Lométól északra, a Maritime régióban.",
+        "ro": "Găsește Tsévié la nord de Lomé, în regiunea Maritime.",
+        "en": "Find Tsévié north of Lomé in the Maritime Region."
+      }
+    },
+    {
+      "id": "tg-find-kara-city",
+      "type": "find_poi",
+      "targetPoiId": "kara-cities-v2",
+      "question": {
+        "de": "Finde Kara, das nördliche Tor zur Kulturlandschaft Koutammakou.",
+        "hu": "Keresd meg Karát, a Koutammakou kultúrtáj északi kapuját.",
+        "ro": "Găsește Kara, poarta nordică spre peisajul cultural Koutammakou.",
+        "en": "Find Kara, the northern gateway to the Koutammakou cultural landscape."
+      }
+    },
+    {
+      "id": "tg-find-notse",
+      "type": "find_poi",
+      "targetPoiId": "notse-cities-v2",
+      "question": {
+        "de": "Finde Notsé im südlichen Binnenland der Plateaux-Region.",
+        "hu": "Keresd meg Notsét a Plateaux régió déli belső részén.",
+        "ro": "Găsește Notsé în interiorul sudic al regiunii Plateaux.",
+        "en": "Find Notsé in the southern interior of the Plateaux Region."
+      }
+    },
+    {
+      "id": "tg-find-cinkasse",
+      "type": "find_poi",
+      "targetPoiId": "cinkasse-cities-v2",
+      "question": {
+        "de": "Finde Cinkassé an der Nordgrenze Togos.",
+        "hu": "Keresd meg Cinkassét Togo északi határán.",
+        "ro": "Găsește Cinkassé la frontiera nordică a Togoului.",
+        "en": "Find Cinkassé on Togo's northern border."
+      }
+    },
+    {
+      "id": "tg-find-lake-togo",
+      "type": "find_poi",
+      "targetPoiId": "lake-togo-nature-v2",
+      "question": {
+        "de": "Finde den Togosee hinter der Küste östlich von Lomé.",
+        "hu": "Keresd meg a Togo-tavat a part mögött, Lométól keletre.",
+        "ro": "Găsește lacul Togo, în spatele coastei, la est de Lomé.",
+        "en": "Find Lake Togo behind the coast east of Lomé."
+      }
+    },
+    {
+      "id": "tg-find-mount-agou",
+      "type": "find_poi",
+      "targetPoiId": "mount-agou-nature-v2",
+      "question": {
+        "de": "Finde den Mount Agou im bergigen Südwesten Togos.",
+        "hu": "Keresd meg az Agou-hegyet Togo hegyvidéki délnyugati részén.",
+        "ro": "Găsește muntele Agou în sud-vestul muntos al Togoului.",
+        "en": "Find Mount Agou in Togo's mountainous southwest."
+      }
+    },
+    {
+      "id": "tg-region-centre-sokode",
+      "type": "find_region",
+      "targetRegionId": "TGO-89",
+      "question": {
+        "de": "Klicke auf Centre, die Region von Sokodé.",
+        "hu": "Kattints Centre régióra, ahol Sokodé található.",
+        "ro": "Apasă pe Centre, regiunea în care se află Sokodé.",
+        "en": "Click Centre, the region where Sokodé is located."
+      }
+    },
+    {
+      "id": "tg-region-kara-kabye",
+      "type": "find_region",
+      "targetRegionId": "TGO-88",
+      "question": {
+        "de": "Finde die Region Kara mit der Stadt Kara und den Kabye-Bergen.",
+        "hu": "Keresd meg a Kara régiót Kara városával és a Kabye-hegységgel.",
+        "ro": "Găsește regiunea Kara, cu orașul Kara și Munții Kabye.",
+        "en": "Find the Kara Region, home to Kara city and the Kabye Mountains."
+      }
+    },
+    {
+      "id": "tg-region-maritime-lome-aneho",
+      "type": "find_region",
+      "targetRegionId": "TGO-87",
+      "question": {
+        "de": "Klicke auf Maritime, die Region von Lomé und Aného.",
+        "hu": "Kattints a Maritime régióra, ahol Lomé és Aného fekszik.",
+        "ro": "Apasă pe Maritime, regiunea orașelor Lomé și Aného.",
+        "en": "Click Maritime, the region of Lomé and Aného."
+      }
+    },
+    {
+      "id": "tg-region-plateaux-kpalime-atakpame",
+      "type": "find_region",
+      "targetRegionId": "TGO-86",
+      "question": {
+        "de": "Finde Plateaux, die Region von Kpalimé und Atakpamé.",
+        "hu": "Keresd meg a Plateaux régiót Kpalimé és Atakpamé városával.",
+        "ro": "Găsește Plateaux, regiunea orașelor Kpalimé și Atakpamé.",
+        "en": "Find Plateaux, the region of Kpalimé and Atakpamé."
+      }
+    },
+    {
+      "id": "tg-odd-not-maritime",
+      "type": "odd_one_out",
+      "poiIds": [
+        "lome-cities-v2",
+        "tsevie-cities-v2",
+        "togoville-cities-v2",
+        "kpalime-cities-v2"
+      ],
+      "targetPoiId": "kpalime-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht in der Region Maritime?",
+        "hu": "Melyik hely nem a Maritime régióban található?",
+        "ro": "Care loc nu se află în regiunea Maritime?",
+        "en": "Which place is not in the Maritime Region?"
+      }
+    },
+    {
+      "id": "tg-odd-not-plateaux",
+      "type": "odd_one_out",
+      "poiIds": [
+        "kpalime-cities-v2",
+        "notse-cities-v2",
+        "mount-agou-nature-v2",
+        "sokode-cities-v2"
+      ],
+      "targetPoiId": "sokode-cities-v2",
+      "question": {
+        "de": "Welches Ziel liegt nicht in der Region Plateaux?",
+        "hu": "Melyik célpont nem a Plateaux régióban van?",
+        "ro": "Care destinație nu se află în regiunea Plateaux?",
+        "en": "Which destination is not in the Plateaux Region?"
+      }
+    },
+    {
+      "id": "tg-odd-not-north",
+      "type": "odd_one_out",
+      "poiIds": [
+        "kara-cities-v2",
+        "kande-cities-v2",
+        "dapaong-cities-v2",
+        "aneho-cities-v2"
+      ],
+      "targetPoiId": "aneho-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht im nördlichen Togo?",
+        "hu": "Melyik hely nem Togo északi részén található?",
+        "ro": "Care loc nu se află în nordul Togoului?",
+        "en": "Which place is not in northern Togo?"
+      }
+    },
+    {
+      "id": "tg-odd-not-kara-region",
+      "type": "odd_one_out",
+      "poiIds": [
+        "kara-river-nature-v2",
+        "keran-forest-nature-v2",
+        "kabye-mountains-relief-v2",
+        "lake-nangbeto-nature-v2"
+      ],
+      "targetPoiId": "lake-nangbeto-nature-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht in der Region Kara?",
+        "hu": "Melyik hely nem a Kara régióban található?",
+        "ro": "Care loc nu se află în regiunea Kara?",
+        "en": "Which place is not in the Kara Region?"
+      }
+    },
+    {
+      "id": "tg-odd-not-savanes",
+      "type": "odd_one_out",
+      "poiIds": [
+        "mandouri-cities-v2",
+        "cinkasse-cities-v2",
+        "oti-elefantenreservat-life-v2",
+        "bassar-cities-v2"
+      ],
+      "targetPoiId": "bassar-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht in der Region Savanes?",
+        "hu": "Melyik hely nem a Savanes régióban található?",
+        "ro": "Care loc nu se află în regiunea Savanes?",
+        "en": "Which place is not in the Savanes Region?"
+      }
+    },
+    {
+      "id": "tg-sequence-west-east-south",
+      "type": "sequence",
+      "poiIds": [
+        "kpalime-cities-v2",
+        "lome-cities-v2",
+        "togoville-cities-v2",
+        "aneho-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "kpalime-cities-v2",
+        "lome-cities-v2",
+        "togoville-cities-v2",
+        "aneho-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Kpalimé, Lomé, Togoville und Aného von Westen nach Osten an.",
+        "hu": "Kattints Kpaliméra, Loméra, Togoville-re és Anéhóra nyugatról kelet felé.",
+        "ro": "Apasă Kpalimé, Lomé, Togoville și Aného de la vest la est.",
+        "en": "Click Kpalimé, Lomé, Togoville, and Aného from west to east."
+      }
+    },
+    {
+      "id": "tg-sequence-south-north-corridor",
+      "type": "sequence",
+      "poiIds": [
+        "aneho-cities-v2",
+        "notse-cities-v2",
+        "atakpame-cities-v2",
+        "sokode-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "aneho-cities-v2",
+        "notse-cities-v2",
+        "atakpame-cities-v2",
+        "sokode-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Aného, Notsé, Atakpamé und Sokodé von Süden nach Norden an.",
+        "hu": "Kattints Anéhóra, Notséra, Atakpaméra és Sokodéra délről észak felé.",
+        "ro": "Apasă Aného, Notsé, Atakpamé și Sokodé de la sud la nord.",
+        "en": "Click Aného, Notsé, Atakpamé, and Sokodé from south to north."
+      }
+    },
+    {
+      "id": "tg-sequence-west-east-kara-belt",
+      "type": "sequence",
+      "poiIds": [
+        "bassar-cities-v2",
+        "kande-cities-v2",
+        "pya-cities-v2",
+        "kara-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "bassar-cities-v2",
+        "kande-cities-v2",
+        "pya-cities-v2",
+        "kara-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Bassar, Kandé, Pya und Kara von Westen nach Osten an.",
+        "hu": "Kattints Bassarra, Kandéra, Pyára és Karára nyugatról kelet felé.",
+        "ro": "Apasă Bassar, Kandé, Pya și Kara de la vest la est.",
+        "en": "Click Bassar, Kandé, Pya, and Kara from west to east."
+      }
+    },
+    {
+      "id": "tg-sequence-south-north-savanes",
+      "type": "sequence",
+      "poiIds": [
+        "sansanne-mango-cities-v2",
+        "tandjouare-cities-v2",
+        "dapaong-cities-v2",
+        "cinkasse-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "sansanne-mango-cities-v2",
+        "tandjouare-cities-v2",
+        "dapaong-cities-v2",
+        "cinkasse-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Sansanné-Mango, Tandjouaré, Dapaong und Cinkassé von Süden nach Norden an.",
+        "hu": "Kattints Sansanné-Mangóra, Tandjouaréra, Dapaongra és Cinkasséra délről észak felé.",
+        "ro": "Apasă Sansanné-Mango, Tandjouaré, Dapaong și Cinkassé de la sud la nord.",
+        "en": "Click Sansanné-Mango, Tandjouaré, Dapaong, and Cinkassé from south to north."
+      }
+    },
+    {
+      "id": "tg-sequence-west-east-centre",
+      "type": "sequence",
+      "poiIds": [
+        "blitta-cities-v2",
+        "sotouboua-cities-v2",
+        "sokode-cities-v2",
+        "tchamba-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "blitta-cities-v2",
+        "sotouboua-cities-v2",
+        "sokode-cities-v2",
+        "tchamba-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Blitta, Sotouboua, Sokodé und Tchamba von Westen nach Osten an.",
+        "hu": "Kattints Blittára, Sotoubouára, Sokodéra és Tchambára nyugatról kelet felé.",
+        "ro": "Apasă Blitta, Sotouboua, Sokodé și Tchamba de la vest la est.",
+        "en": "Click Blitta, Sotouboua, Sokodé, and Tchamba from west to east."
+      }
+    }
+  ]
+}

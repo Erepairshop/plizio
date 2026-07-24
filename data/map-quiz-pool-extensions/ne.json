@@ -1,0 +1,299 @@
+{
+  "ne": [
+    {
+      "id": "ne-find-bilma-oasis-town",
+      "type": "find_poi",
+      "targetPoiId": "bilma-cities-v2",
+      "question": {
+        "de": "Finde Bilma, die Oasenstadt im fernen Nordosten der Sahara.",
+        "hu": "Keresd meg Bilmát, a Szahara távoli északkeleti oázisvárosát.",
+        "ro": "Găsește Bilma, orașul-oază din nord-estul îndepărtat al Saharei.",
+        "en": "Find Bilma, the oasis town in the far northeastern Sahara."
+      }
+    },
+    {
+      "id": "ne-find-gaya-benin-border",
+      "type": "find_poi",
+      "targetPoiId": "gaya-cities-v2",
+      "question": {
+        "de": "Finde Gaya im äußersten Südwesten an der Grenze zu Benin.",
+        "hu": "Keresd meg Gayát a legdélnyugatibb részen, Benin határán.",
+        "ro": "Găsește Gaya în extremul sud-vest, la granița cu Benin.",
+        "en": "Find Gaya in the extreme southwest on the border with Benin."
+      }
+    },
+    {
+      "id": "ne-find-tillaberi-river-town",
+      "type": "find_poi",
+      "targetPoiId": "tillaberi-cities-v2",
+      "question": {
+        "de": "Finde Tillabéri nordwestlich von Niamey am Niger.",
+        "hu": "Keresd meg Tillabérit Niameytől északnyugatra, a Niger folyónál.",
+        "ro": "Găsește Tillabéri la nord-vest de Niamey, pe fluviul Niger.",
+        "en": "Find Tillabéri northwest of Niamey on the Niger River."
+      }
+    },
+    {
+      "id": "ne-find-w-national-park",
+      "type": "find_poi",
+      "targetPoiId": "niger-w-national-park-cities-v2",
+      "question": {
+        "de": "Finde den W-Nationalpark im Südwesten Nigers.",
+        "hu": "Keresd meg a W Nemzeti Parkot Niger délnyugati részén.",
+        "ro": "Găsește Parcul Național W în sud-vestul Nigerului.",
+        "en": "Find W National Park in southwestern Niger."
+      }
+    },
+    {
+      "id": "ne-find-tree-of-tenere-site",
+      "type": "find_poi",
+      "targetPoiId": "niger-tree-of-tenere-site-cities-v2",
+      "question": {
+        "de": "Finde den Standort des Baums der Ténéré tief in der Wüste.",
+        "hu": "Keresd meg a Ténéré fájának emlékhelyét mélyen a sivatagban.",
+        "ro": "Găsește locul Arborelui din Ténéré, adânc în deșert.",
+        "en": "Find the Tree of Ténéré site deep in the desert."
+      }
+    },
+    {
+      "id": "ne-region-dosso-southwest",
+      "type": "find_region",
+      "targetRegionId": "NER-93",
+      "question": {
+        "de": "Klicke auf die Region Dosso im Südwesten.",
+        "hu": "Kattints a délnyugati Dosso régióra.",
+        "ro": "Apasă pe regiunea Dosso din sud-vest.",
+        "en": "Click the Dosso region in the southwest."
+      }
+    },
+    {
+      "id": "ne-region-diffa-southeast",
+      "type": "find_region",
+      "targetRegionId": "NER-796",
+      "question": {
+        "de": "Klicke auf Diffa im Südosten.",
+        "hu": "Kattints a délkeleti Diffa régióra.",
+        "ro": "Apasă pe Diffa în sud-est.",
+        "en": "Click Diffa in the southeast."
+      }
+    },
+    {
+      "id": "ne-region-maradi-south-central",
+      "type": "find_region",
+      "targetRegionId": "NER-91",
+      "question": {
+        "de": "Klicke auf die Region Maradi im südlichen Zentrum nahe Nigeria.",
+        "hu": "Kattints a déli középső, Nigéria közelében fekvő Maradi régióra.",
+        "ro": "Apasă pe regiunea Maradi din sudul central, aproape de Nigeria.",
+        "en": "Click the Maradi region in the south-central area near Nigeria."
+      }
+    },
+    {
+      "id": "ne-region-zinder-east-south",
+      "type": "find_region",
+      "targetRegionId": "NER-92",
+      "question": {
+        "de": "Klicke auf die Region Zinder im Osten des Südens.",
+        "hu": "Kattints a déli keleti részen fekvő Zinder régióra.",
+        "ro": "Apasă pe regiunea Zinder din estul sudului țării.",
+        "en": "Click the Zinder region in the eastern part of the south."
+      }
+    },
+    {
+      "id": "ne-region-tillaberi-west",
+      "type": "find_region",
+      "targetRegionId": "NER-4859",
+      "question": {
+        "de": "Klicke auf Tillabéri, die große westliche Region.",
+        "hu": "Kattints Tillabérire, a nagy nyugati régióra.",
+        "ro": "Apasă pe Tillabéri, marea regiune vestică.",
+        "en": "Click Tillabéri, the large western region."
+      }
+    },
+    {
+      "id": "ne-odd-agadez-region-cities",
+      "type": "odd_one_out",
+      "poiIds": [
+        "arlit-cities-v2",
+        "bilma-cities-v2",
+        "iferouane-cities-v2",
+        "diffa-cities-v2"
+      ],
+      "targetPoiId": "diffa-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht in der Region Agadez?",
+        "hu": "Melyik város nem az Agadez régióban fekszik?",
+        "ro": "Care oraș nu se află în regiunea Agadez?",
+        "en": "Which city is not in the Agadez region?"
+      }
+    },
+    {
+      "id": "ne-odd-niger-river-corridor",
+      "type": "odd_one_out",
+      "poiIds": [
+        "niamey-river-port-economic-v2",
+        "gaya-river-port-economic-v2",
+        "say-river-life-v2",
+        "ne-arlit-uranium-history-v2"
+      ],
+      "targetPoiId": "ne-arlit-uranium-history-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht am Nigerkorridor im Westen des Landes?",
+        "hu": "Melyik hely nem az ország nyugati Niger-folyó menti sávjában fekszik?",
+        "ro": "Care loc nu se află pe coridorul fluviului Niger din vestul țării?",
+        "en": "Which place is not on the Niger River corridor in the west of the country?"
+      }
+    },
+    {
+      "id": "ne-odd-diffa-cluster",
+      "type": "odd_one_out",
+      "poiIds": [
+        "diffa-cities-v2",
+        "nguigmi-cities-v2",
+        "maine-soroa-cities-v2",
+        "dosso-cities-v2"
+      ],
+      "targetPoiId": "dosso-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht im Raum Diffa im Osten Nigers?",
+        "hu": "Melyik város nem Niger keleti, diffai térségéhez tartozik?",
+        "ro": "Care oraș nu aparține zonei Diffa din estul Nigerului?",
+        "en": "Which city is not part of the Diffa area in eastern Niger?"
+      }
+    },
+    {
+      "id": "ne-odd-sahara-features",
+      "type": "odd_one_out",
+      "poiIds": [
+        "air-gebirge-nature-v2",
+        "tenere-wueste-nature-v2",
+        "bilma-oase-nature-v2",
+        "niger-w-national-park-cities-v2"
+      ],
+      "targetPoiId": "niger-w-national-park-cities-v2",
+      "question": {
+        "de": "Welcher Ort gehört nicht zur nördlichen Sahara-Landschaft Nigers?",
+        "hu": "Melyik hely nem Niger északi szaharai tájaihoz tartozik?",
+        "ro": "Care loc nu aparține peisajului saharian din nordul Nigerului?",
+        "en": "Which place does not belong to Niger's northern Saharan landscape?"
+      }
+    },
+    {
+      "id": "ne-odd-southern-border-towns",
+      "type": "odd_one_out",
+      "poiIds": [
+        "maradi-cities-v2",
+        "magaria-cities-v2",
+        "birni-nkonni-cities-v2",
+        "iferouane-cities-v2"
+      ],
+      "targetPoiId": "iferouane-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht im südlichen Grenzraum zu Nigeria?",
+        "hu": "Melyik város nem a Nigériával határos déli sávban fekszik?",
+        "ro": "Care oraș nu se află în zona de frontieră sudică cu Nigeria?",
+        "en": "Which city is not in the southern border zone with Nigeria?"
+      }
+    },
+    {
+      "id": "ne-sequence-west-east-ayorou-tillaberi-ouallam",
+      "type": "sequence",
+      "poiIds": [
+        "ayorou-cities-v2",
+        "tillaberi-cities-v2",
+        "ouallam-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "ayorou-cities-v2",
+        "tillaberi-cities-v2",
+        "ouallam-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Ayorou, Tillabéri und Ouallam von Westen nach Osten an.",
+        "hu": "Kattints Ayoroura, Tillabérire és Ouallamra nyugatról kelet felé.",
+        "ro": "Apasă Ayorou, Tillabéri și Ouallam de la vest la est.",
+        "en": "Click Ayorou, Tillabéri, and Ouallam from west to east."
+      }
+    },
+    {
+      "id": "ne-sequence-north-south-arlit-agadez-zinder",
+      "type": "sequence",
+      "poiIds": [
+        "arlit-cities-v2",
+        "agadez-cities-v2",
+        "zinder-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "arlit-cities-v2",
+        "agadez-cities-v2",
+        "zinder-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Arlit, Agadez und Zinder von Norden nach Süden an.",
+        "hu": "Kattints Arlitra, Agadezre és Zinderre északról dél felé.",
+        "ro": "Apasă Arlit, Agadez și Zinder de la nord la sud.",
+        "en": "Click Arlit, Agadez, and Zinder from north to south."
+      }
+    },
+    {
+      "id": "ne-sequence-west-east-dosso-maradi-diffa",
+      "type": "sequence",
+      "poiIds": [
+        "dosso-cities-v2",
+        "maradi-cities-v2",
+        "diffa-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "dosso-cities-v2",
+        "maradi-cities-v2",
+        "diffa-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Dosso, Maradi und Diffa von Westen nach Osten an.",
+        "hu": "Kattints Dossóra, Maradira és Diffára nyugatról kelet felé.",
+        "ro": "Apasă Dosso, Maradi și Diffa de la vest la est.",
+        "en": "Click Dosso, Maradi, and Diffa from west to east."
+      }
+    },
+    {
+      "id": "ne-sequence-north-south-bilma-goure-gaya",
+      "type": "sequence",
+      "poiIds": [
+        "bilma-cities-v2",
+        "goure-cities-v2",
+        "gaya-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "bilma-cities-v2",
+        "goure-cities-v2",
+        "gaya-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Bilma, Gouré und Gaya von Norden nach Süden an.",
+        "hu": "Kattints Bilmára, Gouréra és Gayára északról dél felé.",
+        "ro": "Apasă Bilma, Gouré și Gaya de la nord la sud.",
+        "en": "Click Bilma, Gouré, and Gaya from north to south."
+      }
+    },
+    {
+      "id": "ne-sequence-west-east-tera-niamey-tahoua",
+      "type": "sequence",
+      "poiIds": [
+        "tera-cities-v2",
+        "niamey-cities-v2",
+        "tahoua-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "tera-cities-v2",
+        "niamey-cities-v2",
+        "tahoua-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Téra, Niamey und Tahoua von Westen nach Osten an.",
+        "hu": "Kattints Térára, Niameyre és Tahouára nyugatról kelet felé.",
+        "ro": "Apasă Téra, Niamey și Tahoua de la vest la est.",
+        "en": "Click Téra, Niamey, and Tahoua from west to east."
+      }
+    }
+  ]
+}

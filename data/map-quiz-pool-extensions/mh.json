@@ -1,0 +1,314 @@
+{
+  "mh": [
+    {
+      "id": "mh-find-ajeltake-west-majuro",
+      "type": "find_poi",
+      "targetPoiId": "marshallislands-ajeltake-cities-v2",
+      "question": {
+        "de": "Finde Ajeltake im westlichen Teil des Majuro-Atolls.",
+        "hu": "Keresd meg Ajeltake települést a Majuro-atoll nyugati részén.",
+        "ro": "Găsește Ajeltake în partea vestică a atolului Majuro.",
+        "en": "Find Ajeltake in the western part of Majuro Atoll."
+      }
+    },
+    {
+      "id": "mh-find-laura-western-tip",
+      "type": "find_poi",
+      "targetPoiId": "marshallislands-laura-cities-v2",
+      "question": {
+        "de": "Finde Laura an der Westspitze des Majuro-Atolls.",
+        "hu": "Keresd meg Laurát a Majuro-atoll nyugati csúcsán.",
+        "ro": "Găsește Laura la capătul vestic al atolului Majuro.",
+        "en": "Find Laura at the western tip of Majuro Atoll."
+      }
+    },
+    {
+      "id": "mh-find-kwajalein-tech-center",
+      "type": "find_poi",
+      "targetPoiId": "marshallislands-kwajalein-tech-center-economic-v2",
+      "question": {
+        "de": "Finde das Kwajalein Technology Center beim Kwajalein-Atoll.",
+        "hu": "Keresd meg a Kwajalein Technology Centert a Kwajalein-atollnál.",
+        "ro": "Găsește Kwajalein Technology Center lângă atolul Kwajalein.",
+        "en": "Find the Kwajalein Technology Center near Kwajalein Atoll."
+      }
+    },
+    {
+      "id": "mh-find-kili-southwest",
+      "type": "find_poi",
+      "targetPoiId": "marshallislands-kili-cities-v2",
+      "question": {
+        "de": "Finde Kili im Südwesten der Marshallinseln.",
+        "hu": "Keresd meg Kili szigetét a Marshall-szigetek délnyugati részén.",
+        "ro": "Găsește Kili în sud-vestul Insulelor Marshall.",
+        "en": "Find Kili in the southwest of the Marshall Islands."
+      }
+    },
+    {
+      "id": "mh-find-mili-southeast",
+      "type": "find_poi",
+      "targetPoiId": "marshallislands-mili-cities-v2",
+      "question": {
+        "de": "Finde Mili im Südosten des Landes.",
+        "hu": "Keresd meg Mili települést az ország délkeleti részén.",
+        "ro": "Găsește Mili în partea de sud-est a țării.",
+        "en": "Find Mili in the southeast of the country."
+      }
+    },
+    {
+      "id": "mh-find-alele-museum",
+      "type": "find_poi",
+      "targetPoiId": "marshallislands-alele-museum-landmarks-v2",
+      "question": {
+        "de": "Finde das Alele Museum in Majuro.",
+        "hu": "Keresd meg az Alele Múzeumot Majurón.",
+        "ro": "Găsește Muzeul Alele din Majuro.",
+        "en": "Find the Alele Museum in Majuro."
+      }
+    },
+    {
+      "id": "mh-region-western-chain",
+      "type": "find_region",
+      "targetRegionId": "MHL-4968",
+      "question": {
+        "de": "Finde die westliche Inselkette der Marshallinseln.",
+        "hu": "Keresd meg a Marshall-szigetek nyugati szigetsorát.",
+        "ro": "Găsește lanțul vestic de insule al Insulelor Marshall.",
+        "en": "Find the western island chain of the Marshall Islands."
+      }
+    },
+    {
+      "id": "mh-region-eastern-chain",
+      "type": "find_region",
+      "targetRegionId": "MHL-4969",
+      "question": {
+        "de": "Finde die östliche Inselkette der Marshallinseln.",
+        "hu": "Keresd meg a Marshall-szigetek keleti szigetsorát.",
+        "ro": "Găsește lanțul estic de insule al Insulelor Marshall.",
+        "en": "Find the eastern island chain of the Marshall Islands."
+      }
+    },
+    {
+      "id": "mh-odd-farthest-west-visible",
+      "type": "odd_one_out",
+      "poiIds": [
+        "marshallislands-ebeye-cities-v2",
+        "marshallislands-kili-cities-v2",
+        "marshallislands-jabor-cities-v2",
+        "marshallislands-majuro-cities-v2"
+      ],
+      "targetPoiId": "marshallislands-ebeye-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten westlich?",
+        "hu": "Melyik hely fekszik a legnyugatabbra?",
+        "ro": "Care dintre aceste locuri se află cel mai la vest?",
+        "en": "Which of these places lies farthest west?"
+      }
+    },
+    {
+      "id": "mh-odd-farthest-east",
+      "type": "odd_one_out",
+      "poiIds": [
+        "marshallislands-ebeye-cities-v2",
+        "marshallislands-kili-cities-v2",
+        "marshallislands-majuro-cities-v2",
+        "marshallislands-mili-cities-v2"
+      ],
+      "targetPoiId": "marshallislands-mili-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten östlich?",
+        "hu": "Melyik hely fekszik a legkeletebbre?",
+        "ro": "Care dintre aceste locuri se află cel mai la est?",
+        "en": "Which of these places lies farthest east?"
+      }
+    },
+    {
+      "id": "mh-odd-farthest-south",
+      "type": "odd_one_out",
+      "poiIds": [
+        "marshallislands-kili-cities-v2",
+        "marshallislands-jabor-cities-v2",
+        "marshallislands-mili-cities-v2",
+        "marshallislands-majuro-cities-v2"
+      ],
+      "targetPoiId": "marshallislands-kili-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten südlich?",
+        "hu": "Melyik hely fekszik a legdélebbre?",
+        "ro": "Care dintre aceste locuri se află cel mai la sud?",
+        "en": "Which of these places lies farthest south?"
+      }
+    },
+    {
+      "id": "mh-odd-not-majuro-atoll",
+      "type": "odd_one_out",
+      "poiIds": [
+        "marshallislands-ajeltake-cities-v2",
+        "marshallislands-laura-cities-v2",
+        "marshallislands-alele-museum-landmarks-v2",
+        "marshallislands-wotje-cities-v2"
+      ],
+      "targetPoiId": "marshallislands-wotje-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht auf dem Majuro-Atoll?",
+        "hu": "Melyik hely nem a Majuro-atollon található?",
+        "ro": "Care dintre aceste locuri nu se află pe atolul Majuro?",
+        "en": "Which of these places is not on Majuro Atoll?"
+      }
+    },
+    {
+      "id": "mh-odd-kwajalein-group",
+      "type": "odd_one_out",
+      "poiIds": [
+        "marshallislands-ebeye-cities-v2",
+        "marshallislands-kwajalein-tech-center-economic-v2",
+        "marshallislands-kwajalein-yokwe-memorial-landmarks-v2",
+        "marshallislands-laura-cities-v2"
+      ],
+      "targetPoiId": "marshallislands-laura-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht auf dem Kwajalein-Atoll?",
+        "hu": "Melyik hely nem a Kwajalein-atollon található?",
+        "ro": "Care dintre aceste locuri nu se află pe atolul Kwajalein?",
+        "en": "Which of these places is not on Kwajalein Atoll?"
+      }
+    },
+    {
+      "id": "mh-odd-lake-vs-atolls",
+      "type": "odd_one_out",
+      "poiIds": [
+        "marshallislands-mejit-lake-life-v2",
+        "marshallislands-bikar-atoll-life-v2",
+        "marshallislands-bokak-atoll-life-v2",
+        "marshallislands-taka-atoll-life-v2"
+      ],
+      "targetPoiId": "marshallislands-mejit-lake-life-v2",
+      "question": {
+        "de": "Welcher dieser Orte ist ein Binnensee und kein Atoll?",
+        "hu": "Melyik hely belső tó, és nem atoll?",
+        "ro": "Care dintre aceste locuri este un lac interior și nu un atol?",
+        "en": "Which of these places is an inland lake rather than an atoll?"
+      }
+    },
+    {
+      "id": "mh-sequence-west-east-kwajalein-arno",
+      "type": "sequence",
+      "poiIds": [
+        "marshallislands-ebeye-cities-v2",
+        "marshallislands-jabor-cities-v2",
+        "marshallislands-arno-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "marshallislands-ebeye-cities-v2",
+        "marshallislands-jabor-cities-v2",
+        "marshallislands-arno-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Ebeye, Jabor und Arno von Westen nach Osten an.",
+        "hu": "Kattints Ebeye-ra, Jaborra és Arnóra nyugatról keletre.",
+        "ro": "Apasă Ebeye, Jabor și Arno de la vest la est.",
+        "en": "Click Ebeye, Jabor and Arno from west to east."
+      }
+    },
+    {
+      "id": "mh-sequence-west-east-settlement-2",
+      "type": "sequence",
+      "poiIds": [
+        "marshallislands-kili-cities-v2",
+        "marshallislands-jabor-cities-v2",
+        "marshallislands-mili-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "marshallislands-kili-cities-v2",
+        "marshallislands-jabor-cities-v2",
+        "marshallislands-mili-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Kili, Jabor und Mili von Westen nach Osten an.",
+        "hu": "Kattints Kilire, Jaborra és Milire nyugatról keletre.",
+        "ro": "Apasă Kili, Jabor și Mili de la vest la est.",
+        "en": "Click Kili, Jabor and Mili from west to east."
+      }
+    },
+    {
+      "id": "mh-sequence-south-north-settlement-1",
+      "type": "sequence",
+      "poiIds": [
+        "marshallislands-ebon-atoll-nature-v2",
+        "marshallislands-jabor-cities-v2",
+        "marshallislands-wotje-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "marshallislands-ebon-atoll-nature-v2",
+        "marshallislands-jabor-cities-v2",
+        "marshallislands-wotje-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Ebon Atoll, Jabor und Wotje von Süden nach Norden an.",
+        "hu": "Kattints az Ebon-atollra, Jaborra és Wotjéra délről északra.",
+        "ro": "Apasă Atolul Ebon, Jabor și Wotje de la sud la nord.",
+        "en": "Click Ebon Atoll, Jabor and Wotje from south to north."
+      }
+    },
+    {
+      "id": "mh-sequence-south-north-settlement-2",
+      "type": "sequence",
+      "poiIds": [
+        "marshallislands-kili-cities-v2",
+        "marshallislands-majuro-cities-v2",
+        "marshallislands-mejit-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "marshallislands-kili-cities-v2",
+        "marshallislands-majuro-cities-v2",
+        "marshallislands-mejit-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Kili, Majuro und Mejit von Süden nach Norden an.",
+        "hu": "Kattints Kilire, Majuróra és Mejitre délről északra.",
+        "ro": "Apasă Kili, Majuro și Mejit de la sud la nord.",
+        "en": "Click Kili, Majuro and Mejit from south to north."
+      }
+    },
+    {
+      "id": "mh-sequence-west-east-nature",
+      "type": "sequence",
+      "poiIds": [
+        "marshallislands-kwajalein-lagoon-relief-v2",
+        "marshallislands-jaluit-atoll-nature-v2",
+        "marshallislands-majuro-atoll-nature-v2"
+      ],
+      "orderedPoiIds": [
+        "marshallislands-kwajalein-lagoon-relief-v2",
+        "marshallislands-jaluit-atoll-nature-v2",
+        "marshallislands-majuro-atoll-nature-v2"
+      ],
+      "question": {
+        "de": "Klicke Kwajalein-Lagune, Jaluit-Atoll und Majuro-Atoll von Westen nach Osten an.",
+        "hu": "Kattints a Kwajalein-lagúnára, a Jaluit-atollra és a Majuro-atollra nyugatról keletre.",
+        "ro": "Apasă Laguna Kwajalein, Atolul Jaluit și Atolul Majuro de la vest la est.",
+        "en": "Click Kwajalein Lagoon, Jaluit Atoll and Majuro Atoll from west to east."
+      }
+    },
+    {
+      "id": "mh-sequence-north-south-atolls",
+      "type": "sequence",
+      "poiIds": [
+        "marshallislands-bikar-atoll-life-v2",
+        "marshallislands-wotje-atoll-nature-v2",
+        "marshallislands-majuro-atoll-nature-v2"
+      ],
+      "orderedPoiIds": [
+        "marshallislands-bikar-atoll-life-v2",
+        "marshallislands-wotje-atoll-nature-v2",
+        "marshallislands-majuro-atoll-nature-v2"
+      ],
+      "question": {
+        "de": "Klicke Bikar-Atoll, Wotje-Atoll und Majuro-Atoll von Norden nach Süden an.",
+        "hu": "Kattints a Bikar-atollra, a Wotje-atollra és a Majuro-atollra északról délre.",
+        "ro": "Apasă Atolul Bikar, Atolul Wotje și Atolul Majuro de la nord la sud.",
+        "en": "Click Bikar Atoll, Wotje Atoll and Majuro Atoll from north to south."
+      }
+    }
+  ]
+}

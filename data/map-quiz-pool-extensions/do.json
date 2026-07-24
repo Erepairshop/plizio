@@ -1,0 +1,309 @@
+{
+  "do": [
+    {
+      "id": "do-find-higuey-east",
+      "type": "find_poi",
+      "targetPoiId": "do-higuey-cities-v2",
+      "question": {
+        "de": "Finde Higüey im Osten der Dominikanischen Republik.",
+        "hu": "Keresd meg Higüeyt a Dominikai Köztársaság keleti részén.",
+        "ro": "Găsește Higüey în estul Republicii Dominicane.",
+        "en": "Find Higüey in the east of the Dominican Republic."
+      }
+    },
+    {
+      "id": "do-find-jarabacoa-mountains",
+      "type": "find_poi",
+      "targetPoiId": "do-jarabacoa-cities-v2",
+      "question": {
+        "de": "Finde Jarabacoa, den Bergort in der Cordillera Central.",
+        "hu": "Keresd meg Jarabacoát, a Cordillera Central hegyvidéki városát.",
+        "ro": "Găsește Jarabacoa, orașul montan din Cordillera Central.",
+        "en": "Find Jarabacoa, the mountain town in the Cordillera Central."
+      }
+    },
+    {
+      "id": "do-find-pico-duarte",
+      "type": "find_poi",
+      "targetPoiId": "do-picoduarte",
+      "question": {
+        "de": "Finde Pico Duarte, den höchsten Gipfel der Karibik.",
+        "hu": "Keresd meg a Pico Duartét, a Karib-térség legmagasabb csúcsát.",
+        "ro": "Găsește Pico Duarte, cel mai înalt vârf din Caraibe.",
+        "en": "Find Pico Duarte, the highest peak in the Caribbean."
+      }
+    },
+    {
+      "id": "do-find-los-haitises",
+      "type": "find_poi",
+      "targetPoiId": "do-haitises",
+      "question": {
+        "de": "Finde den Nationalpark Los Haitises an der Bucht von Samaná.",
+        "hu": "Keresd meg a Los Haitises Nemzeti Parkot a Samaná-öböl térségében.",
+        "ro": "Găsește Parcul Național Los Haitises din zona golfului Samaná.",
+        "en": "Find Los Haitises National Park by Samaná Bay."
+      }
+    },
+    {
+      "id": "do-find-bahia-de-las-aguilas",
+      "type": "find_poi",
+      "targetPoiId": "do-bahiadelasaguilas",
+      "question": {
+        "de": "Finde Bahía de las Águilas an der abgelegenen Südwestküste.",
+        "hu": "Keresd meg a Bahía de las Águilast az eldugott délnyugati parton.",
+        "ro": "Găsește Bahía de las Águilas pe coasta izolată din sud-vest.",
+        "en": "Find Bahía de las Águilas on the remote southwest coast."
+      }
+    },
+    {
+      "id": "do-region-la-altagracia-east",
+      "type": "find_region",
+      "targetRegionId": "DOM-1987",
+      "question": {
+        "de": "Klicke auf La Altagracia an der Ostspitze des Landes.",
+        "hu": "Kattints La Altagraciára az ország keleti csücskében.",
+        "ro": "Apasă pe La Altagracia, la extremitatea estică a țării.",
+        "en": "Click La Altagracia at the eastern tip of the country."
+      }
+    },
+    {
+      "id": "do-region-monte-cristi-northwest",
+      "type": "find_region",
+      "targetRegionId": "DOM-1964",
+      "question": {
+        "de": "Finde Monte Cristi an der Nordwestküste.",
+        "hu": "Keresd meg Monte Cristit az északnyugati partvidéken.",
+        "ro": "Găsește Monte Cristi pe coasta de nord-vest.",
+        "en": "Find Monte Cristi on the northwest coast."
+      }
+    },
+    {
+      "id": "do-region-san-juan-southwest-interior",
+      "type": "find_region",
+      "targetRegionId": "DOM-1393",
+      "question": {
+        "de": "Klicke auf San Juan im südwestlichen Landesinneren.",
+        "hu": "Kattints San Juanra a délnyugati belső területen.",
+        "ro": "Apasă pe San Juan din interiorul sud-vestic al țării.",
+        "en": "Click San Juan in the southwestern interior."
+      }
+    },
+    {
+      "id": "do-region-samana-peninsula",
+      "type": "find_region",
+      "targetRegionId": "DOM-1983",
+      "question": {
+        "de": "Finde Samaná auf der nordöstlichen Halbinsel.",
+        "hu": "Keresd meg Samanát az északkeleti félszigeten.",
+        "ro": "Găsește Samaná pe peninsula din nord-est.",
+        "en": "Find Samaná on the northeastern peninsula."
+      }
+    },
+    {
+      "id": "do-region-san-jose-de-ocoa-mountain",
+      "type": "find_region",
+      "targetRegionId": "DOM-1978",
+      "question": {
+        "de": "Klicke auf San José de Ocoa, die Bergprovinz südlich der Cordillera Central.",
+        "hu": "Kattints San José de Ocoára, a Cordillera Centraltól délre fekvő hegyvidéki tartományra.",
+        "ro": "Apasă pe San José de Ocoa, provincia montană aflată la sud de Cordillera Central.",
+        "en": "Click San José de Ocoa, the mountain province south of the Cordillera Central."
+      }
+    },
+    {
+      "id": "do-odd-caribbean-not-atlantic",
+      "type": "odd_one_out",
+      "poiIds": [
+        "do-puertoplata",
+        "do-nagua-cities-v2",
+        "do-samana",
+        "do-barahona-cities-v2"
+      ],
+      "targetPoiId": "do-barahona-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt als einziger an der Karibikküste statt an der Nord- oder Atlantikseite?",
+        "hu": "Melyik hely fekszik egyedüliként a Karib-tenger partján, nem az északi vagy atlanti oldalon?",
+        "ro": "Care dintre aceste locuri se află singur pe coasta Caraibelor, nu pe latura nordică sau atlantică?",
+        "en": "Which of these places is the only one on the Caribbean coast rather than the north or Atlantic side?"
+      }
+    },
+    {
+      "id": "do-odd-only-west-of-capital",
+      "type": "odd_one_out",
+      "poiIds": [
+        "do-san-cristobal-cities-v2",
+        "do-san-pedro-de-macoris-cities-v2",
+        "do-laromana",
+        "do-higuey-cities-v2"
+      ],
+      "targetPoiId": "do-san-cristobal-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt als einziger westlich von Santo Domingo?",
+        "hu": "Melyik hely található egyedüliként Santo Domingótól nyugatra?",
+        "ro": "Care dintre aceste locuri este singurul aflat la vest de Santo Domingo?",
+        "en": "Which of these places is the only one west of Santo Domingo?"
+      }
+    },
+    {
+      "id": "do-odd-not-island",
+      "type": "odd_one_out",
+      "poiIds": [
+        "do-saona",
+        "do-isla-catalina",
+        "do-cayo-levantado-nature-v2",
+        "do-picoduarte"
+      ],
+      "targetPoiId": "do-picoduarte",
+      "question": {
+        "de": "Welcher dieser Orte ist keine Insel?",
+        "hu": "Melyik hely nem sziget?",
+        "ro": "Care dintre aceste locuri nu este o insulă?",
+        "en": "Which of these places is not an island?"
+      }
+    },
+    {
+      "id": "do-odd-not-far-southwest",
+      "type": "odd_one_out",
+      "poiIds": [
+        "do-pedernales-cities-v2",
+        "do-bahiadelasaguilas",
+        "do-jaragua",
+        "do-puertoplata"
+      ],
+      "targetPoiId": "do-puertoplata",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht im fernen Südwesten nahe Haiti?",
+        "hu": "Melyik hely nem a távoli délnyugaton, Haiti közelében található?",
+        "ro": "Care dintre aceste locuri nu se află în extremul sud-vest, aproape de Haiti?",
+        "en": "Which of these places is not in the far southwest near Haiti?"
+      }
+    },
+    {
+      "id": "do-odd-not-mountain-town",
+      "type": "odd_one_out",
+      "poiIds": [
+        "do-jarabacoa-cities-v2",
+        "do-constanza",
+        "do-janico-cities-v2",
+        "do-boca-chica-cities-v2"
+      ],
+      "targetPoiId": "do-boca-chica-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte ist kein Bergort im Landesinneren?",
+        "hu": "Melyik hely nem hegyvidéki település az ország belsejében?",
+        "ro": "Care dintre aceste locuri nu este o așezare montană din interiorul țării?",
+        "en": "Which of these places is not an inland mountain town?"
+      }
+    },
+    {
+      "id": "do-sequence-north-coast-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "do-monte-cristi-cities-v2",
+        "do-puertoplata",
+        "do-nagua-cities-v2",
+        "do-samana"
+      ],
+      "orderedPoiIds": [
+        "do-monte-cristi-cities-v2",
+        "do-puertoplata",
+        "do-nagua-cities-v2",
+        "do-samana"
+      ],
+      "question": {
+        "de": "Klicke diese Orte an der Nordseite von Westen nach Osten an.",
+        "hu": "Kattints ezekre az északi oldalon fekvő helyekre nyugatról keletre.",
+        "ro": "Apasă aceste locuri de pe partea nordică de la vest la est.",
+        "en": "Click these places on the north side from west to east."
+      }
+    },
+    {
+      "id": "do-sequence-central-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "do-jarabacoa-cities-v2",
+        "do-bonao-cities-v2",
+        "do-santodomingo",
+        "do-laromana"
+      ],
+      "orderedPoiIds": [
+        "do-jarabacoa-cities-v2",
+        "do-bonao-cities-v2",
+        "do-santodomingo",
+        "do-laromana"
+      ],
+      "question": {
+        "de": "Klicke Jarabacoa, Bonao, Santo Domingo und La Romana von Westen nach Osten an.",
+        "hu": "Kattints Jarabacoára, Bonaóra, Santo Domingóra és La Romanára nyugatról keletre.",
+        "ro": "Apasă Jarabacoa, Bonao, Santo Domingo și La Romana de la vest la est.",
+        "en": "Click Jarabacoa, Bonao, Santo Domingo, and La Romana from west to east."
+      }
+    },
+    {
+      "id": "do-sequence-central-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "do-jarabacoa-cities-v2",
+        "do-picoduarte",
+        "do-bonao-cities-v2",
+        "do-bani"
+      ],
+      "orderedPoiIds": [
+        "do-jarabacoa-cities-v2",
+        "do-picoduarte",
+        "do-bonao-cities-v2",
+        "do-bani"
+      ],
+      "question": {
+        "de": "Klicke diese Orte vom zentralen Hochland nach Süden in der richtigen Nord-Süd-Reihenfolge an.",
+        "hu": "Kattints ezekre a helyekre a központi hegyvidéktől dél felé, helyes észak-déli sorrendben.",
+        "ro": "Apasă aceste locuri din zona centrală înaltă spre sud, în ordinea corectă de la nord la sud.",
+        "en": "Click these places from the central highlands toward the south in correct north-to-south order."
+      }
+    },
+    {
+      "id": "do-sequence-east-side-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "do-higuey-cities-v2",
+        "dominican-republic-bayahibe-cities-v2",
+        "do-saona",
+        "do-isla-beata-nature-v2"
+      ],
+      "orderedPoiIds": [
+        "do-higuey-cities-v2",
+        "dominican-republic-bayahibe-cities-v2",
+        "do-saona",
+        "do-isla-beata-nature-v2"
+      ],
+      "question": {
+        "de": "Klicke diese Orte und Inseln von Norden nach Süden an.",
+        "hu": "Kattints ezekre a helyekre és szigetekre északról délre.",
+        "ro": "Apasă aceste locuri și insule de la nord la sud.",
+        "en": "Click these places and islands from north to south."
+      }
+    },
+    {
+      "id": "do-sequence-western-cities-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "do-monte-cristi-cities-v2",
+        "do-mao-cities-v2",
+        "do-santiago",
+        "do-azua-de-compostela-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "do-monte-cristi-cities-v2",
+        "do-mao-cities-v2",
+        "do-santiago",
+        "do-azua-de-compostela-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke diese westlich gelegenen Städte von Norden nach Süden an.",
+        "hu": "Kattints ezekre a nyugatabbra fekvő városokra északról délre.",
+        "ro": "Apasă aceste orașe din vest de la nord la sud.",
+        "en": "Click these more westerly cities from north to south."
+      }
+    }
+  ]
+}

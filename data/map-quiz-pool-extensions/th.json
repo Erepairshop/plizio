@@ -1,0 +1,309 @@
+{
+  "th": [
+    {
+      "id": "th-find-ayutthaya",
+      "type": "find_poi",
+      "targetPoiId": "ayutthaya-cities-v2",
+      "question": {
+        "de": "Finde Ayutthaya nördlich von Bangkok.",
+        "hu": "Keresd meg Ajutthaját Bangkoktól északra.",
+        "ro": "Găsește Ayutthaya la nord de Bangkok.",
+        "en": "Find Ayutthaya north of Bangkok."
+      }
+    },
+    {
+      "id": "th-find-khon-kaen",
+      "type": "find_poi",
+      "targetPoiId": "khon-kaen-cities-v2",
+      "question": {
+        "de": "Finde Khon Kaen im Nordosten Thailands.",
+        "hu": "Keresd meg Khon Kent Thaiföld északkeleti részén.",
+        "ro": "Găsește Khon Kaen în nord-estul Thailandei.",
+        "en": "Find Khon Kaen in northeastern Thailand."
+      }
+    },
+    {
+      "id": "th-find-mae-sai",
+      "type": "find_poi",
+      "targetPoiId": "thailand-mae-sai-cities-v2",
+      "question": {
+        "de": "Finde Mae Sai an der Nordgrenze Thailands.",
+        "hu": "Keresd meg Mae Sait Thaiföld északi határán.",
+        "ro": "Găsește Mae Sai la granița de nord a Thailandei.",
+        "en": "Find Mae Sai on Thailand's northern border."
+      }
+    },
+    {
+      "id": "th-find-ko-samui",
+      "type": "find_poi",
+      "targetPoiId": "thailand-ko-samui-cities-v2",
+      "question": {
+        "de": "Finde Ko Samui im Golf von Thailand.",
+        "hu": "Keresd meg Ko Samuit a Thai-öbölben.",
+        "ro": "Găsește Ko Samui în Golful Thailandei.",
+        "en": "Find Ko Samui in the Gulf of Thailand."
+      }
+    },
+    {
+      "id": "th-find-grand-palace",
+      "type": "find_poi",
+      "targetPoiId": "grand-palace-bangkok-history-v2",
+      "question": {
+        "de": "Finde den Großen Palast in Bangkok.",
+        "hu": "Keresd meg a bangkoki Nagy Palotát.",
+        "ro": "Găsește Marele Palat din Bangkok.",
+        "en": "Find the Grand Palace in Bangkok."
+      }
+    },
+    {
+      "id": "th-region-bangkok-metropolis",
+      "type": "find_region",
+      "targetRegionId": "THA-416",
+      "question": {
+        "de": "Klicke auf Bangkok Metropolis.",
+        "hu": "Kattints Bangkok Metropolis tartományra.",
+        "ro": "Apasă pe Bangkok Metropolis.",
+        "en": "Click Bangkok Metropolis."
+      }
+    },
+    {
+      "id": "th-region-kanchanaburi",
+      "type": "find_region",
+      "targetRegionId": "THA-399",
+      "question": {
+        "de": "Klicke auf die Provinz Kanchanaburi.",
+        "hu": "Kattints Kancsanaburi tartományra.",
+        "ro": "Apasă pe provincia Kanchanaburi.",
+        "en": "Click Kanchanaburi Province."
+      }
+    },
+    {
+      "id": "th-region-phuket",
+      "type": "find_region",
+      "targetRegionId": "THA-377",
+      "question": {
+        "de": "Klicke auf die Provinz Phuket.",
+        "hu": "Kattints Phuket tartományra.",
+        "ro": "Apasă pe provincia Phuket.",
+        "en": "Click Phuket Province."
+      }
+    },
+    {
+      "id": "th-region-surat-thani",
+      "type": "find_region",
+      "targetRegionId": "THA-380",
+      "question": {
+        "de": "Klicke auf die Provinz Surat Thani.",
+        "hu": "Kattints Surat Thani tartományra.",
+        "ro": "Apasă pe provincia Surat Thani.",
+        "en": "Click Surat Thani Province."
+      }
+    },
+    {
+      "id": "th-region-nakhon-ratchasima",
+      "type": "find_region",
+      "targetRegionId": "THA-441",
+      "question": {
+        "de": "Klicke auf die Provinz Nakhon Ratchasima.",
+        "hu": "Kattints Nakhonratcsaszima tartományra.",
+        "ro": "Apasă pe provincia Nakhon Ratchasima.",
+        "en": "Click Nakhon Ratchasima Province."
+      }
+    },
+    {
+      "id": "th-odd-furthest-north",
+      "type": "odd_one_out",
+      "poiIds": [
+        "bangkok-cities-v2",
+        "chiang-mai-cities-v2",
+        "thailand-mae-sai-cities-v2",
+        "phuket-city-cities-v2"
+      ],
+      "targetPoiId": "thailand-mae-sai-cities-v2",
+      "question": {
+        "de": "Welche dieser Orte liegt am weitesten im Norden?",
+        "hu": "Melyik hely fekszik a legészakabbra?",
+        "ro": "Care dintre aceste locuri se află cel mai la nord?",
+        "en": "Which of these places lies farthest north?"
+      }
+    },
+    {
+      "id": "th-odd-furthest-south",
+      "type": "odd_one_out",
+      "poiIds": [
+        "surat-thani-cities-v2",
+        "nakhon-si-thammarat-cities-v2",
+        "hat-yai-cities-v2",
+        "thailand-betong-cities-v2"
+      ],
+      "targetPoiId": "thailand-betong-cities-v2",
+      "question": {
+        "de": "Welche dieser Orte liegt am weitesten im Süden?",
+        "hu": "Melyik hely fekszik a legdélebbre?",
+        "ro": "Care dintre aceste locuri se află cel mai la sud?",
+        "en": "Which of these places lies farthest south?"
+      }
+    },
+    {
+      "id": "th-odd-furthest-east",
+      "type": "odd_one_out",
+      "poiIds": [
+        "kanchanaburi-cities-v2",
+        "ayutthaya-cities-v2",
+        "khon-kaen-cities-v2",
+        "ubon-ratchathani-cities-v2"
+      ],
+      "targetPoiId": "ubon-ratchathani-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten im Osten?",
+        "hu": "Melyik város fekszik a legkeletebbre?",
+        "ro": "Care dintre aceste orașe se află cel mai la est?",
+        "en": "Which of these cities lies farthest east?"
+      }
+    },
+    {
+      "id": "th-odd-andaman-island",
+      "type": "odd_one_out",
+      "poiIds": [
+        "thailand-ko-samui-cities-v2",
+        "thailand-ko-pha-ngan-cities-v2",
+        "thailand-ko-tao-cities-v2",
+        "thailand-ko-lanta-cities-v2"
+      ],
+      "targetPoiId": "thailand-ko-lanta-cities-v2",
+      "question": {
+        "de": "Welche dieser Inseln liegt in der Andamanensee statt im Golf von Thailand?",
+        "hu": "E szigetek közül melyik fekszik az Andamán-tengerben, nem pedig a Thai-öbölben?",
+        "ro": "Care dintre aceste insule se află în Marea Andaman, nu în Golful Thailandei?",
+        "en": "Which of these islands lies in the Andaman Sea rather than the Gulf of Thailand?"
+      }
+    },
+    {
+      "id": "th-odd-furthest-west",
+      "type": "odd_one_out",
+      "poiIds": [
+        "bangkok-cities-v2",
+        "chiang-mai-cities-v2",
+        "thailand-sangkhla-buri-cities-v2",
+        "phuket-city-cities-v2"
+      ],
+      "targetPoiId": "phuket-city-cities-v2",
+      "question": {
+        "de": "Welche dieser Orte liegt am weitesten im Westen?",
+        "hu": "Melyik hely fekszik a legnyugatabbra?",
+        "ro": "Care dintre aceste locuri se află cel mai la vest?",
+        "en": "Which of these places lies farthest west?"
+      }
+    },
+    {
+      "id": "th-sequence-north-south-far-north",
+      "type": "sequence",
+      "poiIds": [
+        "thailand-mae-sai-cities-v2",
+        "chiang-rai-cities-v2",
+        "chiang-mai-cities-v2",
+        "bangkok-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "thailand-mae-sai-cities-v2",
+        "chiang-rai-cities-v2",
+        "chiang-mai-cities-v2",
+        "bangkok-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Mae Sai, Chiang Rai, Chiang Mai und Bangkok von Norden nach Süden an.",
+        "hu": "Kattints Mae Saira, Csiangrajra, Csiangmajra és Bangkokra északról délre.",
+        "ro": "Apasă pe Mae Sai, Chiang Rai, Chiang Mai și Bangkok de la nord la sud.",
+        "en": "Click Mae Sai, Chiang Rai, Chiang Mai and Bangkok from north to south."
+      }
+    },
+    {
+      "id": "th-sequence-west-east-mainland",
+      "type": "sequence",
+      "poiIds": [
+        "kanchanaburi-cities-v2",
+        "bangkok-cities-v2",
+        "khon-kaen-cities-v2",
+        "ubon-ratchathani-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "kanchanaburi-cities-v2",
+        "bangkok-cities-v2",
+        "khon-kaen-cities-v2",
+        "ubon-ratchathani-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Kanchanaburi, Bangkok, Khon Kaen und Ubon Ratchathani von Westen nach Osten an.",
+        "hu": "Kattints Kancsanaburira, Bangkokra, Khon Kenre és Ubonratcsathanira nyugatról keletre.",
+        "ro": "Apasă pe Kanchanaburi, Bangkok, Khon Kaen și Ubon Ratchathani de la vest la est.",
+        "en": "Click Kanchanaburi, Bangkok, Khon Kaen and Ubon Ratchathani from west to east."
+      }
+    },
+    {
+      "id": "th-sequence-north-south-gulf-islands",
+      "type": "sequence",
+      "poiIds": [
+        "thailand-chumphon-cities-v2",
+        "thailand-ko-tao-cities-v2",
+        "thailand-ko-pha-ngan-cities-v2",
+        "thailand-ko-samui-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "thailand-chumphon-cities-v2",
+        "thailand-ko-tao-cities-v2",
+        "thailand-ko-pha-ngan-cities-v2",
+        "thailand-ko-samui-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Chumphon, Ko Tao, Ko Pha-ngan und Ko Samui von Norden nach Süden an.",
+        "hu": "Kattints Chumphonra, Ko Taóra, Ko Pha-nganra és Ko Samuira északról délre.",
+        "ro": "Apasă pe Chumphon, Ko Tao, Ko Pha-ngan și Ko Samui de la nord la sud.",
+        "en": "Click Chumphon, Ko Tao, Ko Pha-ngan and Ko Samui from north to south."
+      }
+    },
+    {
+      "id": "th-sequence-west-east-eastern-islands",
+      "type": "sequence",
+      "poiIds": [
+        "thailand-ko-samet-cities-v2",
+        "thailand-ko-chang-cities-v2",
+        "thailand-ko-mak-cities-v2",
+        "thailand-ko-kood-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "thailand-ko-samet-cities-v2",
+        "thailand-ko-chang-cities-v2",
+        "thailand-ko-mak-cities-v2",
+        "thailand-ko-kood-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Ko Samet, Ko Chang, Ko Mak und Ko Kood von Westen nach Osten an.",
+        "hu": "Kattints Ko Sametre, Ko Changra, Ko Makra és Ko Koodra nyugatról keletre.",
+        "ro": "Apasă pe Ko Samet, Ko Chang, Ko Mak și Ko Kood de la vest la est.",
+        "en": "Click Ko Samet, Ko Chang, Ko Mak and Ko Kood from west to east."
+      }
+    },
+    {
+      "id": "th-sequence-north-south-andaman-coast",
+      "type": "sequence",
+      "poiIds": [
+        "thailand-ranong-cities-v2",
+        "thailand-khao-lak-cities-v2",
+        "phuket-city-cities-v2",
+        "thailand-ko-lipe-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "thailand-ranong-cities-v2",
+        "thailand-khao-lak-cities-v2",
+        "phuket-city-cities-v2",
+        "thailand-ko-lipe-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Ranong, Khao Lak, Phuket-Stadt und Ko Lipe von Norden nach Süden an.",
+        "hu": "Kattints Ranongra, Khao Lakra, Phuket városra és Ko Lipére északról délre.",
+        "ro": "Apasă pe Ranong, Khao Lak, orașul Phuket și Ko Lipe de la nord la sud.",
+        "en": "Click Ranong, Khao Lak, Phuket City and Ko Lipe from north to south."
+      }
+    }
+  ]
+}

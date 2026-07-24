@@ -1,0 +1,303 @@
+{
+  "il": [
+    {
+      "id": "il-find-eilat-city",
+      "type": "find_poi",
+      "targetPoiId": "eilat-cities-v2",
+      "question": {
+        "de": "Finde Eilat am Nordende des Golfs von Akaba.",
+        "hu": "Keresd meg Eilatot az Akabai-öböl északi végén.",
+        "ro": "Găsește Eilat la capătul nordic al Golfului Aqaba.",
+        "en": "Find Eilat at the northern tip of the Gulf of Aqaba."
+      }
+    },
+    {
+      "id": "il-find-tiberias-city",
+      "type": "find_poi",
+      "targetPoiId": "tiberias-cities-v2",
+      "question": {
+        "de": "Finde Tiberias am Westufer des See Genezareth.",
+        "hu": "Keresd meg Tiberiást a Galileai-tenger nyugati partján.",
+        "ro": "Găsește Tiberias pe țărmul vestic al Mării Galileei.",
+        "en": "Find Tiberias on the western shore of the Sea of Galilee."
+      }
+    },
+    {
+      "id": "il-find-nahariya-city",
+      "type": "find_poi",
+      "targetPoiId": "nahariya-cities-v2",
+      "question": {
+        "de": "Finde Naharija an der nördlichen Mittelmeerküste.",
+        "hu": "Keresd meg Nahariját az északi földközi-tengeri parton.",
+        "ro": "Găsește Nahariya pe coasta mediteraneană din nord.",
+        "en": "Find Nahariya on the northern Mediterranean coast."
+      }
+    },
+    {
+      "id": "il-find-western-wall",
+      "type": "find_poi",
+      "targetPoiId": "western-wall-history-v2",
+      "question": {
+        "de": "Finde die Klagemauer in Jerusalem.",
+        "hu": "Keresd meg a Siratófalat Jeruzsálemben.",
+        "ro": "Găsește Zidul de Vest din Ierusalim.",
+        "en": "Find the Western Wall in Jerusalem."
+      }
+    },
+    {
+      "id": "il-find-bahai-gardens",
+      "type": "find_poi",
+      "targetPoiId": "bahai-gardens-haifa-landmarks-v2",
+      "question": {
+        "de": "Finde die Baháʼí-Gärten in Haifa.",
+        "hu": "Keresd meg a bahái kerteket Haifában.",
+        "ro": "Găsește grădinile Bahá'í din Haifa.",
+        "en": "Find the Bahá'í Gardens in Haifa."
+      }
+    },
+    {
+      "id": "il-region-northern-district",
+      "type": "find_region",
+      "targetRegionId": "ISR-3056",
+      "question": {
+        "de": "Klicke auf den Nordbezirk Israels.",
+        "hu": "Kattints Izrael északi körzetére.",
+        "ro": "Apasă pe districtul de nord al Israelului.",
+        "en": "Click Israel's Northern District."
+      }
+    },
+    {
+      "id": "il-region-central-district",
+      "type": "find_region",
+      "targetRegionId": "ISR-3055",
+      "question": {
+        "de": "Klicke auf den Zentralbezirk Israels.",
+        "hu": "Kattints Izrael központi körzetére.",
+        "ro": "Apasă pe districtul central al Israelului.",
+        "en": "Click Israel's Central District."
+      }
+    },
+    {
+      "id": "il-region-tel-aviv-district",
+      "type": "find_region",
+      "targetRegionId": "ISR-3057",
+      "question": {
+        "de": "Klicke auf den Bezirk Tel Aviv.",
+        "hu": "Kattints Tel-Aviv körzetére.",
+        "ro": "Apasă pe districtul Tel Aviv.",
+        "en": "Click Tel Aviv District."
+      }
+    },
+    {
+      "id": "il-region-jerusalem-district",
+      "type": "find_region",
+      "targetRegionId": "ISR-3058",
+      "question": {
+        "de": "Klicke auf den Bezirk Jerusalem.",
+        "hu": "Kattints Jeruzsálem körzetére.",
+        "ro": "Apasă pe districtul Ierusalim.",
+        "en": "Click Jerusalem District."
+      }
+    },
+    {
+      "id": "il-region-southern-district",
+      "type": "find_region",
+      "targetRegionId": "ISR-3053",
+      "question": {
+        "de": "Klicke auf den Südbezirk Israels.",
+        "hu": "Kattints Izrael déli körzetére.",
+        "ro": "Apasă pe districtul de sud al Israelului.",
+        "en": "Click Israel's Southern District."
+      }
+    },
+    {
+      "id": "il-odd-red-sea-port",
+      "type": "odd_one_out",
+      "poiIds": [
+        "il-port-haifa-economic-v2",
+        "il-port-ashdod-economic-v2",
+        "il-port-eilat-economic-v2"
+      ],
+      "targetPoiId": "il-port-eilat-economic-v2",
+      "question": {
+        "de": "Welcher dieser Häfen liegt am Golf von Akaba?",
+        "hu": "E kikötők közül melyik fekszik az Akabai-öböl partján?",
+        "ro": "Care dintre aceste porturi se află la Golful Aqaba?",
+        "en": "Which of these ports lies on the Gulf of Aqaba?"
+      }
+    },
+    {
+      "id": "il-odd-sea-of-galilee-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "tiberias-cities-v2",
+        "haifa-cities-v2",
+        "ashdod-cities-v2"
+      ],
+      "targetPoiId": "tiberias-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt am See Genezareth?",
+        "hu": "E városok közül melyik fekszik a Galileai-tenger partján?",
+        "ro": "Care dintre aceste orașe se află pe malul Mării Galileei?",
+        "en": "Which of these cities lies on the Sea of Galilee?"
+      }
+    },
+    {
+      "id": "il-odd-farthest-north-coast",
+      "type": "odd_one_out",
+      "poiIds": [
+        "nahariya-cities-v2",
+        "netanya-cities-v2",
+        "tel-aviv-cities-v2",
+        "ashkelon-cities-v2"
+      ],
+      "targetPoiId": "nahariya-cities-v2",
+      "question": {
+        "de": "Welche dieser Küstenstädte liegt am weitesten im Norden?",
+        "hu": "E tengerparti városok közül melyik fekszik a legészakabbra?",
+        "ro": "Care dintre aceste orașe de coastă se află cel mai la nord?",
+        "en": "Which of these coastal cities lies farthest north?"
+      }
+    },
+    {
+      "id": "il-odd-negev-landmark",
+      "type": "odd_one_out",
+      "poiIds": [
+        "western-wall-history-v2",
+        "white-city-tel-aviv-landmarks-v2",
+        "makhtesh-ramon-landmarks-v2",
+        "bahai-gardens-haifa-landmarks-v2"
+      ],
+      "targetPoiId": "makhtesh-ramon-landmarks-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt in der Negev-Wüste?",
+        "hu": "E helyek közül melyik a Negev-sivatagban található?",
+        "ro": "Care dintre aceste locuri se află în deșertul Negev?",
+        "en": "Which of these places is in the Negev Desert?"
+      }
+    },
+    {
+      "id": "il-odd-farthest-east-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "ashkelon-cities-v2",
+        "netanya-cities-v2",
+        "jerusalem-cities-v2",
+        "tel-aviv-cities-v2"
+      ],
+      "targetPoiId": "jerusalem-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten im Osten?",
+        "hu": "E városok közül melyik fekszik a legkeletebbre?",
+        "ro": "Care dintre aceste orașe se află cel mai la est?",
+        "en": "Which of these cities lies farthest east?"
+      }
+    },
+    {
+      "id": "il-sequence-coast-north-south-extended",
+      "type": "sequence",
+      "poiIds": [
+        "nahariya-cities-v2",
+        "haifa-cities-v2",
+        "netanya-cities-v2",
+        "ashdod-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "nahariya-cities-v2",
+        "haifa-cities-v2",
+        "netanya-cities-v2",
+        "ashdod-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Naharija, Haifa, Netanja und Aschdod von Norden nach Süden an.",
+        "hu": "Kattints Naharijára, Haifára, Netanjára és Asdodra északról délre.",
+        "ro": "Apasă pe Nahariya, Haifa, Netanya și Așdod de la nord la sud.",
+        "en": "Click Nahariya, Haifa, Netanya and Ashdod from north to south."
+      }
+    },
+    {
+      "id": "il-sequence-country-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "israel-metula-cities-v2",
+        "tiberias-cities-v2",
+        "jerusalem-cities-v2",
+        "eilat-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "israel-metula-cities-v2",
+        "tiberias-cities-v2",
+        "jerusalem-cities-v2",
+        "eilat-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Metula, Tiberias, Jerusalem und Eilat von Norden nach Süden an.",
+        "hu": "Kattints Metulára, Tiberiásra, Jeruzsálemre és Eilatra északról délre.",
+        "ro": "Apasă pe Metula, Tiberias, Ierusalim și Eilat de la nord la sud.",
+        "en": "Click Metula, Tiberias, Jerusalem and Eilat from north to south."
+      }
+    },
+    {
+      "id": "il-sequence-west-east-dead-sea",
+      "type": "sequence",
+      "poiIds": [
+        "tel-aviv-cities-v2",
+        "jerusalem-cities-v2",
+        "il-dead-sea-nature-v2"
+      ],
+      "orderedPoiIds": [
+        "tel-aviv-cities-v2",
+        "jerusalem-cities-v2",
+        "il-dead-sea-nature-v2"
+      ],
+      "question": {
+        "de": "Klicke Tel Aviv, Jerusalem und das Tote Meer von Westen nach Osten an.",
+        "hu": "Kattints Tel-Avivra, Jeruzsálemre és a Holt-tengerre nyugatról keletre.",
+        "ro": "Apasă pe Tel Aviv, Ierusalim și Marea Moartă de la vest la est.",
+        "en": "Click Tel Aviv, Jerusalem and the Dead Sea from west to east."
+      }
+    },
+    {
+      "id": "il-sequence-galilee-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "haifa-cities-v2",
+        "nazareth-cities-v2",
+        "tiberias-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "haifa-cities-v2",
+        "nazareth-cities-v2",
+        "tiberias-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Haifa, Nazareth und Tiberias von Westen nach Osten an.",
+        "hu": "Kattints Haifára, Názáretre és Tiberiásra nyugatról keletre.",
+        "ro": "Apasă pe Haifa, Nazaret și Tiberias de la vest la est.",
+        "en": "Click Haifa, Nazareth and Tiberias from west to east."
+      }
+    },
+    {
+      "id": "il-sequence-negev-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "beersheba-cities-v2",
+        "makhtesh-ramon-landmarks-v2",
+        "timna-park-landmarks-v2",
+        "eilat-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "beersheba-cities-v2",
+        "makhtesh-ramon-landmarks-v2",
+        "timna-park-landmarks-v2",
+        "eilat-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Be'er Scheva, Makhtesh Ramon, den Timna-Park und Eilat von Norden nach Süden an.",
+        "hu": "Kattints Beér-Sevára, a Ramon-kráterre, a Timna parkra és Eilatra északról délre.",
+        "ro": "Apasă pe Beer Șeva, Makhtesh Ramon, parcul Timna și Eilat de la nord la sud.",
+        "en": "Click Beersheba, Makhtesh Ramon, Timna Park and Eilat from north to south."
+      }
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "tl": [
+    {
+      "id": "tl-find-pante-macassar",
+      "type": "find_poi",
+      "targetPoiId": "pante-macassar-cities-v2",
+      "question": {
+        "de": "Finde Pante Macassar in der Exklave Oecusse.",
+        "hu": "Keresd meg Pante Macassart az Oecusse exklávéban.",
+        "ro": "Găsește Pante Macassar în exclava Oecusse.",
+        "en": "Find Pante Macassar in the Oecusse exclave."
+      }
+    },
+    {
+      "id": "tl-find-liquica",
+      "type": "find_poi",
+      "targetPoiId": "liquica-cities-v2",
+      "question": {
+        "de": "Finde Liquiçá westlich von Dili an der Nordküste.",
+        "hu": "Keresd meg Liquiçát Dilitől nyugatra, az északi parton.",
+        "ro": "Găsește Liquiçá la vest de Dili, pe coasta de nord.",
+        "en": "Find Liquiçá west of Dili on the north coast."
+      }
+    },
+    {
+      "id": "tl-find-maubisse",
+      "type": "find_poi",
+      "targetPoiId": "maubisse-cities-v2",
+      "question": {
+        "de": "Klicke auf Maubisse im kühleren Bergland südlich von Dili.",
+        "hu": "Kattints Maubissére a Dilitől délre fekvő hűvösebb hegyvidéken.",
+        "ro": "Apasă pe Maubisse, în zona montană mai răcoroasă la sud de Dili.",
+        "en": "Click Maubisse in the cooler highlands south of Dili."
+      }
+    },
+    {
+      "id": "tl-find-vila-de-atauro",
+      "type": "find_poi",
+      "targetPoiId": "vila-de-atauro-cities-v2",
+      "question": {
+        "de": "Finde Vila de Ataúro auf der Insel nördlich des Festlands.",
+        "hu": "Keresd meg Vila de Ataúrót a szárazföldtől északra fekvő szigeten.",
+        "ro": "Găsește Vila de Ataúro pe insula aflată la nord de continent.",
+        "en": "Find Vila de Atauro on the island north of the mainland."
+      }
+    },
+    {
+      "id": "tl-find-tatamailau",
+      "type": "find_poi",
+      "targetPoiId": "tatamailau-nature-v2",
+      "question": {
+        "de": "Finde den Berg Tatamailau (Ramelau) im zentralen Hochland.",
+        "hu": "Keresd meg a Tatamailau (Ramelau) hegyet a központi hegyvidéken.",
+        "ro": "Găsește muntele Tatamailau (Ramelau) în zona înaltă centrală.",
+        "en": "Find Tatamailau (Ramelau) in the central highlands."
+      }
+    },
+    {
+      "id": "tl-region-ambeno",
+      "type": "find_region",
+      "targetRegionId": "TLS-543",
+      "question": {
+        "de": "Klicke auf Ambeno, die abgetrennte Oecusse-Region.",
+        "hu": "Kattints Ambenóra, az elkülönült Oecusse régióra.",
+        "ro": "Apasă pe Ambeno, regiunea separată Oecusse.",
+        "en": "Click Ambeno, the detached Oecusse region."
+      }
+    },
+    {
+      "id": "tl-region-ainaro",
+      "type": "find_region",
+      "targetRegionId": "TLS-545",
+      "question": {
+        "de": "Klicke auf die Gemeinde Ainaro im südlichen Hochland.",
+        "hu": "Kattints Ainaro községére a déli hegyvidéken.",
+        "ro": "Apasă pe municipalitatea Ainaro din zona înaltă sudică.",
+        "en": "Click Ainaro Municipality in the southern highlands."
+      }
+    },
+    {
+      "id": "tl-region-ermera",
+      "type": "find_region",
+      "targetRegionId": "TLS-549",
+      "question": {
+        "de": "Klicke auf die Gemeinde Ermera westlich von Dili.",
+        "hu": "Kattints Ermera községére Dilitől nyugatra.",
+        "ro": "Apasă pe municipalitatea Ermera, la vest de Dili.",
+        "en": "Click Ermera Municipality west of Dili."
+      }
+    },
+    {
+      "id": "tl-region-lautem",
+      "type": "find_region",
+      "targetRegionId": "TLS-553",
+      "question": {
+        "de": "Klicke auf Lautém, die östlichste Gemeinde des Landes.",
+        "hu": "Kattints Lautémre, az ország legkeletibb községére.",
+        "ro": "Apasă pe Lautém, municipalitatea cea mai estică a țării.",
+        "en": "Click Lautém, the easternmost municipality of the country."
+      }
+    },
+    {
+      "id": "tl-region-manufahi",
+      "type": "find_region",
+      "targetRegionId": "TLS-551",
+      "question": {
+        "de": "Klicke auf die Gemeinde Manufahi.",
+        "hu": "Kattints Manufahi községére.",
+        "ro": "Apasă pe municipalitatea Manufahi.",
+        "en": "Click Manufahi Municipality."
+      }
+    },
+    {
+      "id": "tl-odd-oecusse",
+      "type": "odd_one_out",
+      "poiIds": [
+        "pante-macassar-cities-v2",
+        "suai-cities-v2",
+        "same-cities-v2"
+      ],
+      "targetPoiId": "pante-macassar-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt in der Exklave Oecusse?",
+        "hu": "Ezek közül melyik város fekszik az Oecusse exklávéban?",
+        "ro": "Care dintre aceste orașe se află în exclava Oecusse?",
+        "en": "Which of these towns lies in the Oecusse exclave?"
+      }
+    },
+    {
+      "id": "tl-odd-farthest-east",
+      "type": "odd_one_out",
+      "poiIds": [
+        "baucau-cities-v2",
+        "viqueque-cities-v2",
+        "lospalos-cities-v2"
+      ],
+      "targetPoiId": "lospalos-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten im Osten?",
+        "hu": "Ezek közül melyik város fekszik a legkeletebbre?",
+        "ro": "Care dintre aceste orașe se află cel mai la est?",
+        "en": "Which of these towns lies farthest east?"
+      }
+    },
+    {
+      "id": "tl-odd-inland-highlands",
+      "type": "odd_one_out",
+      "poiIds": [
+        "liquica-cities-v2",
+        "manatuto-cities-v2",
+        "maubisse-cities-v2"
+      ],
+      "targetPoiId": "maubisse-cities-v2",
+      "question": {
+        "de": "Welche dieser Orte liegt im bergigen Inland statt an der Küste?",
+        "hu": "Ezek közül melyik hely fekszik a hegyvidéki belső területen, nem pedig a parton?",
+        "ro": "Care dintre aceste locuri se află în interiorul muntos, nu pe coastă?",
+        "en": "Which of these places lies in the mountainous interior rather than on the coast?"
+      }
+    },
+    {
+      "id": "tl-odd-atauro-beach",
+      "type": "odd_one_out",
+      "poiIds": [
+        "beloi-beach-landmarks-v2",
+        "cristo-rei-dili-history-v2",
+        "dili-seaport-economic-v2"
+      ],
+      "targetPoiId": "beloi-beach-landmarks-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt auf der Insel Atauro?",
+        "hu": "Ezek közül melyik hely található Ataúro szigetén?",
+        "ro": "Care dintre aceste locuri se află pe insula Atauro?",
+        "en": "Which of these places is on Atauro Island?"
+      }
+    },
+    {
+      "id": "tl-odd-lautem-place",
+      "type": "odd_one_out",
+      "poiIds": [
+        "tutuala-cities-v2",
+        "gleno-cities-v2",
+        "manatuto-cities-v2"
+      ],
+      "targetPoiId": "tutuala-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt in der Gemeinde Lautém?",
+        "hu": "Ezek közül melyik hely található Lautém községében?",
+        "ro": "Care dintre aceste locuri se află în municipalitatea Lautém?",
+        "en": "Which of these places lies in Lautém Municipality?"
+      }
+    },
+    {
+      "id": "tl-sequence-north-coast-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "liquica-cities-v2",
+        "dili-cities-v2",
+        "manatuto-cities-v2",
+        "baucau-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "liquica-cities-v2",
+        "dili-cities-v2",
+        "manatuto-cities-v2",
+        "baucau-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Liquiçá, Dili, Manatuto und Baucau von Westen nach Osten an.",
+        "hu": "Kattints Liquiçára, Dilire, Manatutóra és Baucaura nyugatról keletre.",
+        "ro": "Apasă pe Liquiçá, Dili, Manatuto și Baucau de la vest la est.",
+        "en": "Click Liquiçá, Dili, Manatuto and Baucau from west to east."
+      }
+    },
+    {
+      "id": "tl-sequence-island-to-highlands",
+      "type": "sequence",
+      "poiIds": [
+        "vila-de-atauro-cities-v2",
+        "dili-cities-v2",
+        "aileu-cities-v2",
+        "ainaro-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "vila-de-atauro-cities-v2",
+        "dili-cities-v2",
+        "aileu-cities-v2",
+        "ainaro-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Vila de Ataúro, Dili, Aileu und Ainaro von Norden nach Süden an.",
+        "hu": "Kattints Vila de Ataúróra, Dilire, Aileura és Ainaróra északról délre.",
+        "ro": "Apasă pe Vila de Atauro, Dili, Aileu și Ainaro de la nord la sud.",
+        "en": "Click Vila de Atauro, Dili, Aileu and Ainaro from north to south."
+      }
+    },
+    {
+      "id": "tl-sequence-west-east-southern-settlements",
+      "type": "sequence",
+      "poiIds": [
+        "balibo-cities-v2",
+        "maliana-cities-v2",
+        "same-cities-v2",
+        "viqueque-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "balibo-cities-v2",
+        "maliana-cities-v2",
+        "same-cities-v2",
+        "viqueque-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Balibo, Maliana, Same und Viqueque von Westen nach Osten an.",
+        "hu": "Kattints Balibóra, Malianára, Saméra és Viquequére nyugatról keletre.",
+        "ro": "Apasă pe Balibo, Maliana, Same și Viqueque de la vest la est.",
+        "en": "Click Balibo, Maliana, Same and Viqueque from west to east."
+      }
+    },
+    {
+      "id": "tl-sequence-east-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "com-coast-relief-v2",
+        "lake-ira-lalaro-nature-v2",
+        "lospalos-cities-v2",
+        "iliomar-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "com-coast-relief-v2",
+        "lake-ira-lalaro-nature-v2",
+        "lospalos-cities-v2",
+        "iliomar-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die Küste von Com, den Ira-Lalaro-See, Lospalos und Iliomar von Norden nach Süden an.",
+        "hu": "Kattints Com partvidékére, az Ira-Lalaro-tóra, Lospalosra és Iliomarra északról délre.",
+        "ro": "Apasă pe Coasta Com, lacul Ira Lalaro, Lospalos și Iliomar de la nord la sud.",
+        "en": "Click Com Coast, Lake Ira Lalaro, Lospalos and Iliomar from north to south."
+      }
+    },
+    {
+      "id": "tl-sequence-west-east-landmarks",
+      "type": "sequence",
+      "poiIds": [
+        "tibar-bay-port-economic-v2",
+        "cristo-rei-dili-history-v2",
+        "baucau-plateau-relief-v2",
+        "jaco-island-landmarks-v2"
+      ],
+      "orderedPoiIds": [
+        "tibar-bay-port-economic-v2",
+        "cristo-rei-dili-history-v2",
+        "baucau-plateau-relief-v2",
+        "jaco-island-landmarks-v2"
+      ],
+      "question": {
+        "de": "Klicke den Hafen von Tibar Bay, Cristo Rei, das Baucau-Plateau und Jaco Island von Westen nach Osten an.",
+        "hu": "Kattints Tibar Bay kikötőjére, Cristo Reire, a Baucau-fennsíkra és Jaco-szigetre nyugatról keletre.",
+        "ro": "Apasă pe portul Tibar Bay, Cristo Rei, platoul Baucau și insula Jaco de la vest la est.",
+        "en": "Click Tibar Bay Port, Cristo Rei, the Baucau Plateau and Jaco Island from west to east."
+      }
+    }
+  ]
+}

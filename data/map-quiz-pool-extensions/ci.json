@@ -1,0 +1,303 @@
+{
+  "ci": [
+    {
+      "id": "ci-find-grand-bassam-new",
+      "type": "find_poi",
+      "targetPoiId": "grand-bassam-cities-v2",
+      "question": {
+        "de": "Finde Grand-Bassam, die historische erste Hauptstadt an der Küste.",
+        "hu": "Keresd meg Grand-Bassamot, a történelmi első fővárost a tengerparton.",
+        "ro": "Găsește Grand-Bassam, prima capitală istorică de pe coastă.",
+        "en": "Find Grand-Bassam, the historic first capital on the coast."
+      }
+    },
+    {
+      "id": "ci-find-odienne-new",
+      "type": "find_poi",
+      "targetPoiId": "odienn-cities-v2",
+      "question": {
+        "de": "Finde Odienné im Nordwesten nahe Guinea und Mali.",
+        "hu": "Keresd meg Odiennét északnyugaton, Guinea és Mali közelében.",
+        "ro": "Găsește Odienné în nord-vest, aproape de Guineea și Mali.",
+        "en": "Find Odienné in the northwest near Guinea and Mali."
+      }
+    },
+    {
+      "id": "ci-find-bouna-new",
+      "type": "find_poi",
+      "targetPoiId": "bouna-cities-v2",
+      "question": {
+        "de": "Finde Bouna im trockenen Nordosten des Landes.",
+        "hu": "Keresd meg Bounát az ország száraz északkeleti részén.",
+        "ro": "Găsește Bouna în nord-estul mai arid al țării.",
+        "en": "Find Bouna in the drier northeast of the country."
+      }
+    },
+    {
+      "id": "ci-find-mount-nimba-new",
+      "type": "find_poi",
+      "targetPoiId": "mount-nimba-nature-v2",
+      "question": {
+        "de": "Finde den Mont Nimba im äußersten Westen an der Dreiländergrenze.",
+        "hu": "Keresd meg a Nimba-hegyet a legnyugatibb részen, a hármashatárnál.",
+        "ro": "Găsește Muntele Nimba în extremul vest, la frontiera dintre trei țări.",
+        "en": "Find Mount Nimba in the far west at the tripoint border."
+      }
+    },
+    {
+      "id": "ci-find-basilica-peace-new",
+      "type": "find_poi",
+      "targetPoiId": "basilica-of-our-lady-of-peace-history-v2",
+      "question": {
+        "de": "Finde die Basilika Unserer Lieben Frau des Friedens in Yamoussoukro.",
+        "hu": "Keresd meg a Béke Miasszonyunk-bazilikát Yamoussoukróban.",
+        "ro": "Găsește Bazilica Maicii Domnului a Păcii din Yamoussoukro.",
+        "en": "Find the Basilica of Our Lady of Peace in Yamoussoukro."
+      }
+    },
+    {
+      "id": "ci-find-bondoukou-mosques-new",
+      "type": "find_poi",
+      "targetPoiId": "bondoukou-mosques-history-v2",
+      "question": {
+        "de": "Finde Bondoukou, die Stadt der tausend Moscheen, im Osten.",
+        "hu": "Keresd meg Bondoukout, az ezer mecset városát, keleten.",
+        "ro": "Găsește Bondoukou, orașul celor o mie de moschei, în est.",
+        "en": "Find Bondoukou, the city of a thousand mosques, in the east."
+      }
+    },
+    {
+      "id": "ci-region-comoe-new",
+      "type": "find_region",
+      "targetRegionId": "CIV-3460",
+      "question": {
+        "de": "Klicke auf Comoe im östlichen Landesinneren.",
+        "hu": "Kattints Comoe régióra a keleti belső országrészben.",
+        "ro": "Apasă pe Comoe în interiorul estic al țării.",
+        "en": "Click Comoe in the eastern interior of the country."
+      }
+    },
+    {
+      "id": "ci-region-sud-comoe-new",
+      "type": "find_region",
+      "targetRegionId": "CIV-3462",
+      "question": {
+        "de": "Finde Sud-Comoé an der südöstlichen Küste bei Aboisso und Grand-Bassam.",
+        "hu": "Keresd meg Sud-Comoé régiót a délkeleti parton, Aboisso és Grand-Bassam közelében.",
+        "ro": "Găsește Sud-Comoé pe coasta sud-estică, lângă Aboisso și Grand-Bassam.",
+        "en": "Find Sud-Comoé on the southeastern coast near Aboisso and Grand-Bassam."
+      }
+    },
+    {
+      "id": "ci-region-lacs-new",
+      "type": "find_region",
+      "targetRegionId": "CIV-3461",
+      "question": {
+        "de": "Klicke auf Lacs rund um die Hauptstadt Yamoussoukro.",
+        "hu": "Kattints Lacs régióra Yamoussoukro főváros körül.",
+        "ro": "Apasă pe Lacs, regiunea din jurul capitalei Yamoussoukro.",
+        "en": "Click Lacs, the region around the capital Yamoussoukro."
+      }
+    },
+    {
+      "id": "ci-region-dix-huit-montagnes-new",
+      "type": "find_region",
+      "targetRegionId": "CIV-3441",
+      "question": {
+        "de": "Finde Dix-Huit Montagnes im gebirgigen Westen.",
+        "hu": "Keresd meg Dix-Huit Montagnes régiót a hegyvidéki nyugaton.",
+        "ro": "Găsește Dix-Huit Montagnes în vestul muntos.",
+        "en": "Find Dix-Huit Montagnes in the mountainous west."
+      }
+    },
+    {
+      "id": "ci-region-worodougou-new",
+      "type": "find_region",
+      "targetRegionId": "CIV-3443",
+      "question": {
+        "de": "Klicke auf Worodougou im nordwestlichen Binnenland.",
+        "hu": "Kattints Worodougou régióra az északnyugati belső területen.",
+        "ro": "Apasă pe Worodougou în interiorul nord-vestic.",
+        "en": "Click Worodougou in the northwestern interior."
+      }
+    },
+    {
+      "id": "ci-odd-abidjan-area-new",
+      "type": "odd_one_out",
+      "poiIds": [
+        "abidjan-cities-v2",
+        "anyama-cities-v2",
+        "dabou-cities-v2",
+        "bouna-cities-v2"
+      ],
+      "targetPoiId": "bouna-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht im Raum Abidjan an der Südostküste?",
+        "hu": "Melyik hely nem Abidjan délkeleti parti térségében található?",
+        "ro": "Care loc nu se află în zona Abidjanului de pe coasta sud-estică?",
+        "en": "Which place is not in the Abidjan area on the southeastern coast?"
+      }
+    },
+    {
+      "id": "ci-odd-northern-savanes-new",
+      "type": "odd_one_out",
+      "poiIds": [
+        "korhogo-cities-v2",
+        "boundiali-cities-v2",
+        "ferkess-dougou-cities-v2",
+        "grand-bassam-cities-v2"
+      ],
+      "targetPoiId": "grand-bassam-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht in der nördlichen Savannenzone?",
+        "hu": "Melyik hely nem az északi szavannaövezetben fekszik?",
+        "ro": "Care loc nu se află în zona de savană din nord?",
+        "en": "Which place is not in the northern savanna zone?"
+      }
+    },
+    {
+      "id": "ci-odd-western-highlands-new",
+      "type": "odd_one_out",
+      "poiIds": [
+        "man-cities-v2",
+        "danan-cities-v2",
+        "ivory-coast-biankouma-cities-v2",
+        "abengourou-cities-v2"
+      ],
+      "targetPoiId": "abengourou-cities-v2",
+      "question": {
+        "de": "Welcher Ort gehört nicht zum gebirgigen Westen der Elfenbeinküste?",
+        "hu": "Melyik hely nem Elefántcsontpart hegyvidéki nyugati részéhez tartozik?",
+        "ro": "Care loc nu aparține vestului muntos al Coastei de Fildeș?",
+        "en": "Which place does not belong to Ivory Coast's mountainous west?"
+      }
+    },
+    {
+      "id": "ci-odd-lagoon-vs-mountain-new",
+      "type": "odd_one_out",
+      "poiIds": [
+        "lagune-ebrie-nature-v2",
+        "lagune-grand-lahou-nature-v2",
+        "sassandra-river-estuary-nature-v2",
+        "mount-poko-nature-v2"
+      ],
+      "targetPoiId": "mount-poko-nature-v2",
+      "question": {
+        "de": "Welches Ziel ist kein Küstengewässer oder keine Lagune?",
+        "hu": "Melyik célpont nem parti vízfelület vagy lagúna?",
+        "ro": "Care destinație nu este o apă de coastă sau o lagună?",
+        "en": "Which destination is not a coastal water body or lagoon?"
+      }
+    },
+    {
+      "id": "ci-sequence-west-east-interior-new",
+      "type": "sequence",
+      "poiIds": [
+        "odienn-cities-v2",
+        "s-gu-la-cities-v2",
+        "bouak-cities-v2",
+        "abengourou-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "odienn-cities-v2",
+        "s-gu-la-cities-v2",
+        "bouak-cities-v2",
+        "abengourou-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Odienné, Séguéla, Bouaké und Abengourou von Westen nach Osten an.",
+        "hu": "Kattints Odiennére, Séguélára, Bouakéra és Abengouroura nyugatról kelet felé.",
+        "ro": "Apasă Odienné, Séguéla, Bouaké și Abengourou de la vest la est.",
+        "en": "Click Odienné, Séguéla, Bouaké and Abengourou from west to east."
+      }
+    },
+    {
+      "id": "ci-sequence-south-north-east-new",
+      "type": "sequence",
+      "poiIds": [
+        "grand-bassam-cities-v2",
+        "abengourou-cities-v2",
+        "bondoukou-mosques-history-v2",
+        "bouna-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "grand-bassam-cities-v2",
+        "abengourou-cities-v2",
+        "bondoukou-mosques-history-v2",
+        "bouna-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Grand-Bassam, Abengourou, Bondoukou und Bouna von Süden nach Norden an.",
+        "hu": "Kattints Grand-Bassamra, Abengouroura, Bondoukoura és Bounára délről észak felé.",
+        "ro": "Apasă Grand-Bassam, Abengourou, Bondoukou și Bouna de la sud la nord.",
+        "en": "Click Grand-Bassam, Abengourou, Bondoukou and Bouna from south to north."
+      }
+    },
+    {
+      "id": "ci-sequence-coast-west-east-new",
+      "type": "sequence",
+      "poiIds": [
+        "tabou-cities-v2",
+        "san-p-dro-cities-v2",
+        "grand-lahou-cities-v2",
+        "grand-bassam-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "tabou-cities-v2",
+        "san-p-dro-cities-v2",
+        "grand-lahou-cities-v2",
+        "grand-bassam-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Tabou, San-Pédro, Grand-Lahou und Grand-Bassam von Westen nach Osten an der Küste an.",
+        "hu": "Kattints Taboura, San-Pédróra, Grand-Lahoura és Grand-Bassamra a part mentén nyugatról kelet felé.",
+        "ro": "Apasă Tabou, San-Pédro, Grand-Lahou și Grand-Bassam de la vest la est de-a lungul coastei.",
+        "en": "Click Tabou, San-Pédro, Grand-Lahou and Grand-Bassam from west to east along the coast."
+      }
+    },
+    {
+      "id": "ci-sequence-west-east-north-new",
+      "type": "sequence",
+      "poiIds": [
+        "boundiali-cities-v2",
+        "korhogo-cities-v2",
+        "ferkess-dougou-cities-v2",
+        "bouna-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "boundiali-cities-v2",
+        "korhogo-cities-v2",
+        "ferkess-dougou-cities-v2",
+        "bouna-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Boundiali, Korhogo, Ferkessédougou und Bouna von Westen nach Osten an.",
+        "hu": "Kattints Boundialira, Korhogóra, Ferkessédougoura és Bounára nyugatról kelet felé.",
+        "ro": "Apasă Boundiali, Korhogo, Ferkessédougou și Bouna de la vest la est.",
+        "en": "Click Boundiali, Korhogo, Ferkessédougou and Bouna from west to east."
+      }
+    },
+    {
+      "id": "ci-sequence-south-north-west-new",
+      "type": "sequence",
+      "poiIds": [
+        "tabou-cities-v2",
+        "guiglo-cities-v2",
+        "man-cities-v2",
+        "odienn-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "tabou-cities-v2",
+        "guiglo-cities-v2",
+        "man-cities-v2",
+        "odienn-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Tabou, Guiglo, Man und Odienné von Süden nach Norden an.",
+        "hu": "Kattints Taboura, Guiglóra, Manra és Odiennére délről észak felé.",
+        "ro": "Apasă Tabou, Guiglo, Man și Odienné de la sud la nord.",
+        "en": "Click Tabou, Guiglo, Man and Odienné from south to north."
+      }
+    }
+  ]
+}

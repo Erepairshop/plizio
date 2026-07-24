@@ -1,0 +1,304 @@
+{
+  "vu": [
+    {
+      "id": "vu-find-bauerfield-terminal",
+      "type": "find_poi",
+      "targetPoiId": "vanuatu-bauerfield-terminal-landmarks-v2",
+      "question": {
+        "de": "Finde das Terminal des Bauerfield Airport bei Port Vila auf Efate.",
+        "hu": "Keresd meg a Bauerfield repülőtér terminálját Port Vila közelében, Efate szigetén.",
+        "ro": "Găsește terminalul aeroportului Bauerfield de lângă Port Vila, pe insula Efate.",
+        "en": "Find Bauerfield Airport Terminal near Port Vila on Efate."
+      }
+    },
+    {
+      "id": "vu-find-champagne-beach",
+      "type": "find_poi",
+      "targetPoiId": "vanuatu-champagne-beach-nature-v2",
+      "question": {
+        "de": "Finde Champagne Beach an der Küste von Espiritu Santo.",
+        "hu": "Keresd meg a Champagne Beach partját Espiritu Santo szigetén.",
+        "ro": "Găsește plaja Champagne Beach de pe insula Espiritu Santo.",
+        "en": "Find Champagne Beach on Espiritu Santo."
+      }
+    },
+    {
+      "id": "vu-find-mount-yasur",
+      "type": "find_poi",
+      "targetPoiId": "vanuatu-mount-yasur-nature-v2",
+      "question": {
+        "de": "Finde den Vulkan Mount Yasur auf der Insel Tanna.",
+        "hu": "Keresd meg a Mount Yasur vulkánt Tanna szigetén.",
+        "ro": "Găsește vulcanul Mount Yasur de pe insula Tanna.",
+        "en": "Find Mount Yasur on Tanna island."
+      }
+    },
+    {
+      "id": "vu-find-national-museum",
+      "type": "find_poi",
+      "targetPoiId": "vanuatu-national-museum-landmarks-v2",
+      "question": {
+        "de": "Finde das Nationalmuseum von Vanuatu in Port Vila.",
+        "hu": "Keresd meg Vanuatu nemzeti múzeumát Port Vilában.",
+        "ro": "Găsește Muzeul Național al statului Vanuatu din Port Vila.",
+        "en": "Find the Vanuatu National Museum in Port Vila."
+      }
+    },
+    {
+      "id": "vu-find-lake-letas",
+      "type": "find_poi",
+      "targetPoiId": "vanuatu-lake-letas-nature-v2",
+      "question": {
+        "de": "Finde den Lake Letas auf der Insel Gaua im Norden.",
+        "hu": "Keresd meg a Lake Letas tavat az északi Gaua szigeten.",
+        "ro": "Găsește lacul Lake Letas de pe insula nordică Gaua.",
+        "en": "Find Lake Letas on the northern island of Gaua."
+      }
+    },
+    {
+      "id": "vu-find-port-orly",
+      "type": "find_poi",
+      "targetPoiId": "vanuatu-port-orly-nature-v2",
+      "question": {
+        "de": "Finde die Küste von Port Orly im Norden von Espiritu Santo.",
+        "hu": "Keresd meg Port Orly partvidékét Espiritu Santo északi részén.",
+        "ro": "Găsește țărmul Port Orly din nordul insulei Espiritu Santo.",
+        "en": "Find the Port Orly coastline in northern Espiritu Santo."
+      }
+    },
+    {
+      "id": "vu-find-roi-mata-domain",
+      "type": "find_poi",
+      "targetPoiId": "vanuatu-chief-roi-mata-domain-history-v2",
+      "question": {
+        "de": "Finde die historische Stätte Chief Roi Mata's Domain auf Efate.",
+        "hu": "Keresd meg a Chief Roi Mata's Domain történelmi helyszínt Efate szigetén.",
+        "ro": "Găsește situl istoric Chief Roi Mata's Domain de pe Efate.",
+        "en": "Find Chief Roi Mata's Domain on Efate."
+      }
+    },
+    {
+      "id": "vu-region-shefa",
+      "type": "find_region",
+      "targetRegionId": "VUT-565",
+      "question": {
+        "de": "Klicke auf Shefa mit der Hauptstadt Port Vila.",
+        "hu": "Kattints Shefa tartományra, ahol Port Vila is található.",
+        "ro": "Apasă pe provincia Shefa, unde se află și Port Vila.",
+        "en": "Click Shefa, the province that includes Port Vila."
+      }
+    },
+    {
+      "id": "vu-region-malampa",
+      "type": "find_region",
+      "targetRegionId": "VUT-563",
+      "question": {
+        "de": "Finde Malampa in der zentralen Inselkette Vanuatus.",
+        "hu": "Keresd meg Malampa tartományt Vanuatu középső szigetein.",
+        "ro": "Găsește provincia Malampa din lanțul central de insule al statului Vanuatu.",
+        "en": "Find Malampa in Vanuatu's central island chain."
+      }
+    },
+    {
+      "id": "vu-region-penama",
+      "type": "find_region",
+      "targetRegionId": "VUT-564",
+      "question": {
+        "de": "Klicke auf Penama östlich von Sanma.",
+        "hu": "Kattints Penama tartományra, Sanmától keletre.",
+        "ro": "Apasă pe provincia Penama, aflată la est de Sanma.",
+        "en": "Click Penama, east of Sanma."
+      }
+    },
+    {
+      "id": "vu-odd-easternmost-harbor",
+      "type": "odd_one_out",
+      "poiIds": [
+        "vanuatu-luganville-wharf-economic-v2",
+        "vanuatu-port-vila-wharf-economic-v2",
+        "vanuatu-lenakel-wharf-economic-v2"
+      ],
+      "targetPoiId": "vanuatu-lenakel-wharf-economic-v2",
+      "question": {
+        "de": "Welcher dieser Häfen liegt am weitesten im Osten?",
+        "hu": "Melyik kikötő fekszik a legkeletebbre?",
+        "ro": "Care dintre aceste porturi se află cel mai la est?",
+        "en": "Which of these harbors lies farthest east?"
+      }
+    },
+    {
+      "id": "vu-odd-southernmost-air-sea",
+      "type": "odd_one_out",
+      "poiIds": [
+        "vanuatu-sola-port-economic-v2",
+        "vanuatu-pekoa-terminal-landmarks-v2",
+        "vanuatu-whitegrass-terminal-landmarks-v2"
+      ],
+      "targetPoiId": "vanuatu-whitegrass-terminal-landmarks-v2",
+      "question": {
+        "de": "Welcher dieser Verkehrsorte liegt am weitesten im Süden?",
+        "hu": "Melyik közlekedési hely fekszik a legdélebbre?",
+        "ro": "Care dintre aceste puncte de transport se află cel mai la sud?",
+        "en": "Which of these transport sites lies farthest south?"
+      }
+    },
+    {
+      "id": "vu-odd-westernmost-landmark",
+      "type": "odd_one_out",
+      "poiIds": [
+        "vanuatu-million-dollar-point-history-v2",
+        "vanuatu-mele-cascades-nature-v2",
+        "vanuatu-mount-yasur-nature-v2"
+      ],
+      "targetPoiId": "vanuatu-million-dollar-point-history-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Westen?",
+        "hu": "Melyik hely fekszik a legnyugatabbra?",
+        "ro": "Care dintre aceste locuri se află cel mai la vest?",
+        "en": "Which of these places lies farthest west?"
+      }
+    },
+    {
+      "id": "vu-odd-northernmost-volcano",
+      "type": "odd_one_out",
+      "poiIds": [
+        "vanuatu-mount-tabwemasana-nature-v2",
+        "vanuatu-mount-yasur-nature-v2",
+        "vanuatu-mount-marum-nature-v2"
+      ],
+      "targetPoiId": "vanuatu-mount-tabwemasana-nature-v2",
+      "question": {
+        "de": "Welcher dieser Berge liegt am weitesten im Norden?",
+        "hu": "Melyik hegy fekszik a legészakabbra?",
+        "ro": "Care dintre acești munți se află cel mai la nord?",
+        "en": "Which of these mountains lies farthest north?"
+      }
+    },
+    {
+      "id": "vu-odd-southeasternmost-southern-isles",
+      "type": "odd_one_out",
+      "poiIds": [
+        "vanuatu-cooks-bay-nature-v2",
+        "vanuatu-john-frum-village-history-v2",
+        "vanuatu-anityum-church-ruins-history-v2"
+      ],
+      "targetPoiId": "vanuatu-anityum-church-ruins-history-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Südosten?",
+        "hu": "Melyik hely fekszik a legmesszebb délkeleten?",
+        "ro": "Care dintre aceste locuri se află cel mai departe în sud-est?",
+        "en": "Which of these places lies farthest to the southeast?"
+      }
+    },
+    {
+      "id": "vu-sequence-north-south-northern-chain",
+      "type": "sequence",
+      "poiIds": [
+        "vanuatu-sola-hq-landmarks-v2",
+        "vanuatu-lake-letas-nature-v2",
+        "vanuatu-luganville-wharf-economic-v2",
+        "vanuatu-port-vila-market-economic-v2"
+      ],
+      "orderedPoiIds": [
+        "vanuatu-sola-hq-landmarks-v2",
+        "vanuatu-lake-letas-nature-v2",
+        "vanuatu-luganville-wharf-economic-v2",
+        "vanuatu-port-vila-market-economic-v2"
+      ],
+      "question": {
+        "de": "Klicke Sola, Lake Letas, Luganville und den Markt von Port Vila von Norden nach Süden an.",
+        "hu": "Kattints Solára, a Lake Letasra, Luganville-re és Port Vila piacára északról délre.",
+        "ro": "Apasă pe Sola, Lake Letas, Luganville și piața din Port Vila de la nord la sud.",
+        "en": "Click Sola, Lake Letas, Luganville, and Port Vila Market from north to south."
+      }
+    },
+    {
+      "id": "vu-sequence-west-east-santo-maewo",
+      "type": "sequence",
+      "poiIds": [
+        "vanuatu-mount-tabwemasana-nature-v2",
+        "vanuatu-port-orly-nature-v2",
+        "vanuatu-luganville-wharf-economic-v2",
+        "vanuatu-saratamata-station-landmarks-v2"
+      ],
+      "orderedPoiIds": [
+        "vanuatu-mount-tabwemasana-nature-v2",
+        "vanuatu-port-orly-nature-v2",
+        "vanuatu-luganville-wharf-economic-v2",
+        "vanuatu-saratamata-station-landmarks-v2"
+      ],
+      "question": {
+        "de": "Klicke Mount Tabwemasana, Port Orly, Luganville und Saratamata von Westen nach Osten an.",
+        "hu": "Kattints a Mount Tabwemasanára, Port Orlyra, Luganville-re és Saratamatára nyugatról keletre.",
+        "ro": "Apasă pe Mount Tabwemasana, Port Orly, Luganville și Saratamata de la vest la est.",
+        "en": "Click Mount Tabwemasana, Port Orly, Luganville, and Saratamata from west to east."
+      }
+    },
+    {
+      "id": "vu-sequence-south-north-long-span",
+      "type": "sequence",
+      "poiIds": [
+        "vanuatu-mystery-island-nature-v2",
+        "vanuatu-lenakel-wharf-economic-v2",
+        "vanuatu-port-vila-wharf-economic-v2",
+        "vanuatu-sola-port-economic-v2"
+      ],
+      "orderedPoiIds": [
+        "vanuatu-mystery-island-nature-v2",
+        "vanuatu-lenakel-wharf-economic-v2",
+        "vanuatu-port-vila-wharf-economic-v2",
+        "vanuatu-sola-port-economic-v2"
+      ],
+      "question": {
+        "de": "Klicke Mystery Island, Lenakel, Port Vila und Sola von Süden nach Norden an.",
+        "hu": "Kattints Mystery Islandra, Lenakelre, Port Vilára és Solára délről északra.",
+        "ro": "Apasă pe Mystery Island, Lenakel, Port Vila și Sola de la sud la nord.",
+        "en": "Click Mystery Island, Lenakel, Port Vila, and Sola from south to north."
+      }
+    },
+    {
+      "id": "vu-sequence-west-east-efate",
+      "type": "sequence",
+      "poiIds": [
+        "vanuatu-devils-point-wind-economic-v2",
+        "vanuatu-parliament-house-landmarks-v2",
+        "vanuatu-teouma-solar-economic-v2",
+        "vanuatu-eton-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "vanuatu-devils-point-wind-economic-v2",
+        "vanuatu-parliament-house-landmarks-v2",
+        "vanuatu-teouma-solar-economic-v2",
+        "vanuatu-eton-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Devil's Point, das Parlamentsgebäude, den Solarpark Teouma und Eton von Westen nach Osten an.",
+        "hu": "Kattints Devil's Pointra, a parlament épületére, a Teouma naperőműre és Etonra nyugatról keletre.",
+        "ro": "Apasă pe Devil's Point, clădirea Parlamentului, parcul solar Teouma și Eton de la vest la est.",
+        "en": "Click Devil's Point, Parliament House, Teouma Solar Farm, and Eton from west to east."
+      }
+    },
+    {
+      "id": "vu-sequence-west-east-south",
+      "type": "sequence",
+      "poiIds": [
+        "vanuatu-dillons-bay-martyrs-history-v2",
+        "vanuatu-cooks-bay-nature-v2",
+        "vanuatu-whitegrass-terminal-landmarks-v2",
+        "vanuatu-mount-yasur-nature-v2"
+      ],
+      "orderedPoiIds": [
+        "vanuatu-dillons-bay-martyrs-history-v2",
+        "vanuatu-cooks-bay-nature-v2",
+        "vanuatu-whitegrass-terminal-landmarks-v2",
+        "vanuatu-mount-yasur-nature-v2"
+      ],
+      "question": {
+        "de": "Klicke Dillon's Bay, Cook's Bay, Whitegrass und Mount Yasur von Westen nach Osten an.",
+        "hu": "Kattints Dillon's Bayre, Cook's Bayre, Whitegrassre és a Mount Yasurra nyugatról keletre.",
+        "ro": "Apasă pe Dillon's Bay, Cook's Bay, Whitegrass și Mount Yasur de la vest la est.",
+        "en": "Click Dillon's Bay, Cook's Bay, Whitegrass, and Mount Yasur from west to east."
+      }
+    }
+  ]
+}

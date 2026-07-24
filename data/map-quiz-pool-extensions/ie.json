@@ -1,0 +1,305 @@
+{
+  "ie": [
+    {
+      "id": "ie-find-cobh-harbor",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Cobh, die Hafenstadt im Cork Harbour.",
+        "hu": "Keresd meg Cobh kikötővárosát a Cork Harbourben.",
+        "ro": "Găsește Cobh, orașul-port din Cork Harbour.",
+        "en": "Find Cobh, the harbor town in Cork Harbour."
+      },
+      "targetPoiId": "ireland-cobh-cities-v2"
+    },
+    {
+      "id": "ie-find-killarney-national-park",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde den Killarney-Nationalpark im Südwesten Irlands.",
+        "hu": "Keresd meg a Killarney Nemzeti Parkot Írország délnyugati részén.",
+        "ro": "Găsește Parcul Național Killarney în sud-vestul Irlandei.",
+        "en": "Find Killarney National Park in southwestern Ireland."
+      },
+      "targetPoiId": "ireland-killarney-national-park-life-v2"
+    },
+    {
+      "id": "ie-find-bunratty-castle",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Bunratty Castle in der Nähe des Shannon-Ästuars.",
+        "hu": "Keresd meg a Bunratty kastélyt a Shannon tölcsértorkolata közelében.",
+        "ro": "Găsește Castelul Bunratty, aproape de estuarul Shannon.",
+        "en": "Find Bunratty Castle near the Shannon estuary."
+      },
+      "targetPoiId": "ireland-bunratty-castle-landmarks-v2"
+    },
+    {
+      "id": "ie-find-howth",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Howth auf der Halbinsel nordöstlich von Dublin.",
+        "hu": "Keresd meg Howthot a Dublintól északkeletre fekvő félszigeten.",
+        "ro": "Găsește Howth pe peninsula de la nord-est de Dublin.",
+        "en": "Find Howth on the peninsula northeast of Dublin."
+      },
+      "targetPoiId": "ireland-howth-cities-v2"
+    },
+    {
+      "id": "ie-find-nephin",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Nephin, den markanten Gipfel im County Mayo.",
+        "hu": "Keresd meg Nephint, a jellegzetes csúcsot Mayo megyében.",
+        "ro": "Găsește Nephin, vârful distinctiv din comitatul Mayo.",
+        "en": "Find Nephin, the distinctive peak in County Mayo."
+      },
+      "targetPoiId": "ireland-nephin-mountain-relief-v2"
+    },
+    {
+      "id": "ie-region-kerry-southwest",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf Kerry im Südwesten der Insel.",
+        "hu": "Kattints Kerryre a sziget délnyugati részén.",
+        "ro": "Apasă pe Kerry din sud-vestul insulei.",
+        "en": "Click Kerry in the island's southwest."
+      },
+      "targetRegionId": "IE-KY"
+    },
+    {
+      "id": "ie-region-clare-west-coast",
+      "type": "find_region",
+      "question": {
+        "de": "Finde Clare an der Westküste.",
+        "hu": "Keresd meg Clare megyét a nyugati parton.",
+        "ro": "Găsește Clare de pe coasta de vest.",
+        "en": "Find Clare on the west coast."
+      },
+      "targetRegionId": "IE-CE"
+    },
+    {
+      "id": "ie-region-meath-north-of-dublin",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf Meath nördlich von Dublin.",
+        "hu": "Kattints Meath megyére Dublintól északra.",
+        "ro": "Apasă pe Meath, la nord de Dublin.",
+        "en": "Click Meath north of Dublin."
+      },
+      "targetRegionId": "IE-MH"
+    },
+    {
+      "id": "ie-region-wicklow-south-of-dublin",
+      "type": "find_region",
+      "question": {
+        "de": "Finde Wicklow südlich von Dublin.",
+        "hu": "Keresd meg Wicklow megyét Dublintól délre.",
+        "ro": "Găsește Wicklow la sud de Dublin.",
+        "en": "Find Wicklow south of Dublin."
+      },
+      "targetRegionId": "IE-WW"
+    },
+    {
+      "id": "ie-region-mayo-west",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf Mayo im Westen Irlands.",
+        "hu": "Kattints Mayóra Írország nyugati részén.",
+        "ro": "Apasă pe Mayo din vestul Irlandei.",
+        "en": "Click Mayo in western Ireland."
+      },
+      "targetRegionId": "IE-MO"
+    },
+    {
+      "id": "ie-odd-farthest-north-buncrana",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Orte liegt am weitesten im Norden?",
+        "hu": "Melyik hely fekszik ezek közül a legészakabbra?",
+        "ro": "Care dintre aceste locuri se află cel mai la nord?",
+        "en": "Which of these places lies furthest north?"
+      },
+      "poiIds": [
+        "ireland-buncrana-cities-v2",
+        "city-galway",
+        "city-dublin",
+        "city-cork"
+      ],
+      "targetPoiId": "ireland-buncrana-cities-v2"
+    },
+    {
+      "id": "ie-odd-island-great-blasket",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Optionen ist eine Insel weit vor der Westküste?",
+        "hu": "Melyik lehetőség egy sziget messze a nyugati partok előtt?",
+        "ro": "Care dintre aceste opțiuni este o insulă aflată departe de coasta de vest?",
+        "en": "Which of these options is an island far off the west coast?"
+      },
+      "poiIds": [
+        "ireland-great-blasket-island-life-v2",
+        "ireland-bunratty-castle-landmarks-v2",
+        "cult-newgrange",
+        "ireland-national-library-landmarks-v2"
+      ],
+      "targetPoiId": "ireland-great-blasket-island-life-v2"
+    },
+    {
+      "id": "ie-odd-dublin-landmark-library",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher dieser Orte liegt im Zentrum von Dublin statt im Westen des Landes?",
+        "hu": "Melyik hely található Dublin központjában, nem pedig az ország nyugati részén?",
+        "ro": "Care dintre aceste locuri se află în centrul Dublinului, nu în vestul țării?",
+        "en": "Which of these places is in central Dublin rather than western Ireland?"
+      },
+      "poiIds": [
+        "ireland-national-library-landmarks-v2",
+        "nat-cliffs-of-moher",
+        "ireland-killarney-national-park-life-v2",
+        "ireland-nephin-mountain-relief-v2"
+      ],
+      "targetPoiId": "ireland-national-library-landmarks-v2"
+    },
+    {
+      "id": "ie-odd-farthest-east-arklow",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten im Osten?",
+        "hu": "Melyik város fekszik ezek közül a legkeletebbre?",
+        "ro": "Care dintre aceste orașe se află cel mai la est?",
+        "en": "Which of these towns lies furthest east?"
+      },
+      "poiIds": [
+        "ireland-bantry-cities-v2",
+        "city-galway",
+        "ireland-cahir-cities-v2",
+        "ireland-arklow-cities-v2"
+      ],
+      "targetPoiId": "ireland-arklow-cities-v2"
+    },
+    {
+      "id": "ie-odd-farthest-south-cobh",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Süden?",
+        "hu": "Melyik hely fekszik ezek közül a legdélebbre?",
+        "ro": "Care dintre aceste locuri se află cel mai la sud?",
+        "en": "Which of these places lies furthest south?"
+      },
+      "poiIds": [
+        "cult-newgrange",
+        "ireland-bunratty-castle-landmarks-v2",
+        "ireland-killarney-national-park-life-v2",
+        "ireland-cobh-cities-v2"
+      ],
+      "targetPoiId": "ireland-cobh-cities-v2"
+    },
+    {
+      "id": "ie-sequence-west-east-bantry-limerick-arklow",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Bantry, Limerick und Arklow von Westen nach Osten an.",
+        "hu": "Kattints Bantryre, Limerickre és Arklowra nyugatról keletre.",
+        "ro": "Apasă pe Bantry, Limerick și Arklow de la vest la est.",
+        "en": "Click Bantry, Limerick, and Arklow from west to east."
+      },
+      "poiIds": [
+        "ireland-bantry-cities-v2",
+        "city-limerick",
+        "ireland-arklow-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "ireland-bantry-cities-v2",
+        "city-limerick",
+        "ireland-arklow-cities-v2"
+      ]
+    },
+    {
+      "id": "ie-sequence-north-south-buncrana-castlebar-galway-cork",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Buncrana, Castlebar, Galway und Cork von Norden nach Süden an.",
+        "hu": "Kattints Buncranára, Castlebarra, Galwayre és Corkra északról délre.",
+        "ro": "Apasă pe Buncrana, Castlebar, Galway și Cork de la nord la sud.",
+        "en": "Click Buncrana, Castlebar, Galway, and Cork from north to south."
+      },
+      "poiIds": [
+        "ireland-buncrana-cities-v2",
+        "ireland-castlebar-cities-v2",
+        "city-galway",
+        "city-cork"
+      ],
+      "orderedPoiIds": [
+        "ireland-buncrana-cities-v2",
+        "ireland-castlebar-cities-v2",
+        "city-galway",
+        "city-cork"
+      ]
+    },
+    {
+      "id": "ie-sequence-west-east-blasket-carrauntoohil-cashel-howth",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Great Blasket Island, Carrauntoohil, Cashel und Howth von Westen nach Osten an.",
+        "hu": "Kattints Great Blasket Islandre, Carrauntoohilra, Cashelre és Howthra nyugatról keletre.",
+        "ro": "Apasă pe Great Blasket Island, Carrauntoohil, Cashel și Howth de la vest la est.",
+        "en": "Click Great Blasket Island, Carrauntoohil, Cashel, and Howth from west to east."
+      },
+      "poiIds": [
+        "ireland-great-blasket-island-life-v2",
+        "nat-carrauntoohil",
+        "ireland-cashel-cities-v2",
+        "ireland-howth-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "ireland-great-blasket-island-life-v2",
+        "nat-carrauntoohil",
+        "ireland-cashel-cities-v2",
+        "ireland-howth-cities-v2"
+      ]
+    },
+    {
+      "id": "ie-sequence-north-south-newgrange-howth-arklow-cobh",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Newgrange, Howth, Arklow und Cobh von Norden nach Süden an.",
+        "hu": "Kattints Newgrange-re, Howthra, Arklowra és Cobhra északról délre.",
+        "ro": "Apasă pe Newgrange, Howth, Arklow și Cobh de la nord la sud.",
+        "en": "Click Newgrange, Howth, Arklow, and Cobh from north to south."
+      },
+      "poiIds": [
+        "cult-newgrange",
+        "ireland-howth-cities-v2",
+        "ireland-arklow-cities-v2",
+        "ireland-cobh-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "cult-newgrange",
+        "ireland-howth-cities-v2",
+        "ireland-arklow-cities-v2",
+        "ireland-cobh-cities-v2"
+      ]
+    },
+    {
+      "id": "ie-sequence-west-east-dungloe-birr-dublin",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Dungloe, Birr und Dublin von Westen nach Osten an.",
+        "hu": "Kattints Dungloe-ra, Birrre és Dublinra nyugatról keletre.",
+        "ro": "Apasă pe Dungloe, Birr și Dublin de la vest la est.",
+        "en": "Click Dungloe, Birr, and Dublin from west to east."
+      },
+      "poiIds": [
+        "ireland-dungloe-cities-v2",
+        "ireland-birr-cities-v2",
+        "city-dublin"
+      ],
+      "orderedPoiIds": [
+        "ireland-dungloe-cities-v2",
+        "ireland-birr-cities-v2",
+        "city-dublin"
+      ]
+    }
+  ]
+}

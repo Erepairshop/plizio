@@ -1,0 +1,299 @@
+{
+  "ws": [
+    {
+      "id": "ws-exp-find-mulifanua",
+      "type": "find_poi",
+      "targetPoiId": "samoa-mulifanua-cities-v2",
+      "question": {
+        "de": "Finde Mulifanua an der Westspitze von Upolu.",
+        "hu": "Keresd meg Mulifanuát Upolu nyugati csücskén.",
+        "ro": "Găsește Mulifanua la extremitatea vestică a insulei Upolu.",
+        "en": "Find Mulifanua at the western tip of Upolu."
+      }
+    },
+    {
+      "id": "ws-exp-find-vaitele",
+      "type": "find_poi",
+      "targetPoiId": "samoa-vaitele-cities-v2",
+      "question": {
+        "de": "Finde Vaitele westlich des Stadtgebiets von Apia.",
+        "hu": "Keresd meg Vaitelét Apia városi térségétől nyugatra.",
+        "ro": "Găsește Vaitele la vest de zona urbană a capitalei Apia.",
+        "en": "Find Vaitele west of the urban area of Apia."
+      }
+    },
+    {
+      "id": "ws-exp-find-siusega",
+      "type": "find_poi",
+      "targetPoiId": "samoa-siusega-cities-v2",
+      "question": {
+        "de": "Finde Siusega im Raum Apia auf Upolu.",
+        "hu": "Keresd meg Siusegát Upolu szigetén, Apia közelében.",
+        "ro": "Găsește Siusega în zona Apia, pe insula Upolu.",
+        "en": "Find Siusega in the Apia area on Upolu."
+      }
+    },
+    {
+      "id": "ws-exp-find-lefaga",
+      "type": "find_poi",
+      "targetPoiId": "samoa-lefaga-return-to-paradise-beach-cities-v2",
+      "question": {
+        "de": "Finde Lefaga an der Südküste von Upolu.",
+        "hu": "Keresd meg Lefagát Upolu déli partján.",
+        "ro": "Găsește Lefaga pe coasta sudică a insulei Upolu.",
+        "en": "Find Lefaga on the south coast of Upolu."
+      }
+    },
+    {
+      "id": "ws-exp-find-safotulafai",
+      "type": "find_poi",
+      "targetPoiId": "samoa-safotulafai-cities-v2",
+      "question": {
+        "de": "Finde Safotulafai an der Nordk?ste von Savai'i.",
+        "hu": "Keresd meg Safotulafait Savai'i ?szaki partj?n.",
+        "ro": "G?se?te Safotulafai pe coasta de nord a insulei Savai'i.",
+        "en": "Find Safotulafai on the north coast of Savai'i."
+      }
+    },
+    {
+      "id": "ws-exp-region-aana",
+      "type": "find_region",
+      "targetRegionId": "WSM-4985",
+      "question": {
+        "de": "Finde A'ana im Nordwesten von Upolu.",
+        "hu": "Keresd meg A'anát Upolu északnyugati részén.",
+        "ro": "Găsește A'ana în nord-vestul insulei Upolu.",
+        "en": "Find A'ana in northwestern Upolu."
+      }
+    },
+    {
+      "id": "ws-exp-region-aiga-i-le-tai",
+      "type": "find_region",
+      "targetRegionId": "WSM-4986",
+      "question": {
+        "de": "Finde Aiga-i-le-Tai westlich von Upolu mit Manono und Apolima.",
+        "hu": "Keresd meg Aiga-i-le-Tait Upolutól nyugatra, Manono és Apolima szigetével.",
+        "ro": "Găsește Aiga-i-le-Tai la vest de Upolu, cu insulele Manono și Apolima.",
+        "en": "Find Aiga-i-le-Tai west of Upolu, with Manono and Apolima."
+      }
+    },
+    {
+      "id": "ws-exp-region-vaa-o-fonoti",
+      "type": "find_region",
+      "targetRegionId": "WSM-4988",
+      "question": {
+        "de": "Finde Va'a-o-Fonoti an der Ostseite von Upolu.",
+        "hu": "Keresd meg Va'a-o-Fonotit Upolu keleti oldalán.",
+        "ro": "Găsește Va'a-o-Fonoti pe partea estică a insulei Upolu.",
+        "en": "Find Va'a-o-Fonoti on the eastern side of Upolu."
+      }
+    },
+    {
+      "id": "ws-exp-region-gagaemauga",
+      "type": "find_region",
+      "targetRegionId": "WSM-4990",
+      "question": {
+        "de": "Finde Gaga'emauga im Norden von Savai'i.",
+        "hu": "Keresd meg Gaga'emaugát Savai'i északi részén.",
+        "ro": "Găsește Gaga'emauga în nordul insulei Savai'i.",
+        "en": "Find Gaga'emauga in northern Savai'i."
+      }
+    },
+    {
+      "id": "ws-exp-region-satupaitea",
+      "type": "find_region",
+      "targetRegionId": "WSM-4993",
+      "question": {
+        "de": "Finde Satupa'itea an der Südküste von Savai'i.",
+        "hu": "Keresd meg Satupa'iteát Savai'i déli partján.",
+        "ro": "Găsește Satupa'itea pe coasta sudică a insulei Savai'i.",
+        "en": "Find Satupa'itea on the south coast of Savai'i."
+      }
+    },
+    {
+      "id": "ws-exp-odd-savaii-vs-upolu-asau",
+      "type": "odd_one_out",
+      "poiIds": [
+        "samoa-asau-cities-v2",
+        "samoa-mulifanua-cities-v2",
+        "samoa-lefaga-return-to-paradise-beach-cities-v2",
+        "samoa-vaitele-cities-v2"
+      ],
+      "targetPoiId": "samoa-asau-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt auf Savai'i statt auf Upolu?",
+        "hu": "Melyik hely fekszik Savai'i szigetén, nem pedig Upolun?",
+        "ro": "Care loc se află pe Savai'i, nu pe Upolu?",
+        "en": "Which place is on Savai'i rather than Upolu?"
+      }
+    },
+    {
+      "id": "ws-exp-odd-savaii-vs-upolu-safotulafai",
+      "type": "odd_one_out",
+      "poiIds": [
+        "samoa-safotulafai-cities-v2",
+        "samoa-lufilufi-cities-v2",
+        "samoa-falefa-cities-v2",
+        "samoa-lepa-cities-v2"
+      ],
+      "targetPoiId": "samoa-safotulafai-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt auf Savai'i statt auf Upolu?",
+        "hu": "Melyik hely fekszik Savai'i szigetén, nem pedig Upolun?",
+        "ro": "Care loc se află pe Savai'i, nu pe Upolu?",
+        "en": "Which place is on Savai'i rather than Upolu?"
+      }
+    },
+    {
+      "id": "ws-exp-odd-farthest-south",
+      "type": "odd_one_out",
+      "poiIds": [
+        "samoa-mulifanua-cities-v2",
+        "samoa-vaitele-cities-v2",
+        "samoa-lefaga-return-to-paradise-beach-cities-v2",
+        "samoa-lepa-cities-v2"
+      ],
+      "targetPoiId": "samoa-lepa-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt am weitesten im Süden?",
+        "hu": "Melyik hely fekszik a legdélebbre?",
+        "ro": "Care loc se află cel mai departe spre sud?",
+        "en": "Which place lies farthest south?"
+      }
+    },
+    {
+      "id": "ws-exp-odd-farthest-west",
+      "type": "odd_one_out",
+      "poiIds": [
+        "samoa-salelologa-cities-v2",
+        "samoa-mulifanua-cities-v2",
+        "samoa-lefaga-return-to-paradise-beach-cities-v2",
+        "samoa-siusega-cities-v2"
+      ],
+      "targetPoiId": "samoa-salelologa-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt am weitesten im Westen?",
+        "hu": "Melyik hely fekszik a legnyugatabbra?",
+        "ro": "Care loc se află cel mai departe spre vest?",
+        "en": "Which place lies farthest west?"
+      }
+    },
+    {
+      "id": "ws-exp-odd-urban-west-of-apia",
+      "type": "odd_one_out",
+      "poiIds": [
+        "samoa-vaitele-cities-v2",
+        "samoa-mulifanua-cities-v2",
+        "samoa-safotulafai-cities-v2",
+        "samoa-lepa-cities-v2"
+      ],
+      "targetPoiId": "samoa-vaitele-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt im dicht besiedelten Gürtel westlich von Apia statt in kleineren Küstensiedlungen?",
+        "hu": "Melyik hely fekszik az Apiától nyugatra húzódó sűrűbben lakott övben, nem pedig kisebb parti településeken?",
+        "ro": "Care loc se află în zona dens locuită de la vest de Apia, nu într-o așezare de coastă mai mică?",
+        "en": "Which place lies in the densely settled belt west of Apia rather than in smaller coastal settlements?"
+      }
+    },
+    {
+      "id": "ws-exp-seq-west-east-savaii-upolu",
+      "type": "sequence",
+      "poiIds": [
+        "samoa-asau-cities-v2",
+        "samoa-salelologa-cities-v2",
+        "samoa-mulifanua-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "samoa-asau-cities-v2",
+        "samoa-salelologa-cities-v2",
+        "samoa-mulifanua-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Asau, Salelologa und Mulifanua von Westen nach Osten an.",
+        "hu": "Kattints Asau, Salelologa és Mulifanua pontjára nyugatról keletre.",
+        "ro": "Apasă Asau, Salelologa și Mulifanua de la vest la est.",
+        "en": "Click Asau, Salelologa and Mulifanua from west to east."
+      }
+    },
+    {
+      "id": "ws-exp-seq-north-south-asau-lepa",
+      "type": "sequence",
+      "poiIds": [
+        "samoa-asau-cities-v2",
+        "samoa-salelologa-cities-v2",
+        "samoa-lepa-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "samoa-asau-cities-v2",
+        "samoa-salelologa-cities-v2",
+        "samoa-lepa-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Asau, Salelologa und Lepa von Norden nach Süden an.",
+        "hu": "Kattints Asau, Salelologa és Lepa pontjára északról délre.",
+        "ro": "Apasă Asau, Salelologa și Lepa de la nord la sud.",
+        "en": "Click Asau, Salelologa and Lepa from north to south."
+      }
+    },
+    {
+      "id": "ws-exp-seq-west-east-south-upolu",
+      "type": "sequence",
+      "poiIds": [
+        "samoa-mulifanua-cities-v2",
+        "samoa-lefaga-return-to-paradise-beach-cities-v2",
+        "samoa-lepa-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "samoa-mulifanua-cities-v2",
+        "samoa-lefaga-return-to-paradise-beach-cities-v2",
+        "samoa-lepa-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Mulifanua, Lefaga und Lepa von Westen nach Osten an.",
+        "hu": "Kattints Mulifanua, Lefaga és Lepa pontjára nyugatról keletre.",
+        "ro": "Apasă Mulifanua, Lefaga și Lepa de la vest la est.",
+        "en": "Click Mulifanua, Lefaga and Lepa from west to east."
+      }
+    },
+    {
+      "id": "ws-exp-seq-west-east-central-upolu",
+      "type": "sequence",
+      "poiIds": [
+        "samoa-mulifanua-cities-v2",
+        "samoa-siusega-cities-v2",
+        "samoa-apia-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "samoa-mulifanua-cities-v2",
+        "samoa-siusega-cities-v2",
+        "samoa-apia-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Mulifanua, Siusega und Apia von Westen nach Osten an.",
+        "hu": "Kattints Mulifanua, Siusega és Apia pontjára nyugatról keletre.",
+        "ro": "Apasă Mulifanua, Siusega și Apia de la vest la est.",
+        "en": "Click Mulifanua, Siusega and Apia from west to east."
+      }
+    },
+    {
+      "id": "ws-exp-seq-west-east-north-savaii",
+      "type": "sequence",
+      "poiIds": [
+        "samoa-vaisala-cities-v2",
+        "samoa-samalaeulu-cities-v2",
+        "samoa-safotulafai-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "samoa-vaisala-cities-v2",
+        "samoa-samalaeulu-cities-v2",
+        "samoa-safotulafai-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Vaisala, Samalae'ulu und Safotulafai von Westen nach Osten an.",
+        "hu": "Kattints Vaisala, Samalae'ulu ?s Safotulafai pontj?ra nyugatr?l keletre.",
+        "ro": "Apas? Vaisala, Samalae'ulu ?i Safotulafai de la vest la est.",
+        "en": "Click Vaisala, Samalae'ulu and Safotulafai from west to east."
+      }
+    }
+  ]
+}

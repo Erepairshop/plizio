@@ -1,0 +1,326 @@
+{
+  "bh": [
+    {
+      "id": "bh-find-aali-burial-mounds",
+      "type": "find_poi",
+      "targetPoiId": "a-ali-burial-mounds-history-v2",
+      "question": {
+        "de": "Finde die A'ali-Huegelgraeber im Zentrum Bahrains.",
+        "hu": "Keresd meg az A'ali halomsirokat Bahrain kozepso reszen.",
+        "ro": "Gaseste movilele funerare A'ali in partea centrala a Bahrainului.",
+        "en": "Find the A'ali Burial Mounds in central Bahrain."
+      }
+    },
+    {
+      "id": "bh-find-bahrain-fort",
+      "type": "find_poi",
+      "targetPoiId": "bahrain-fort-history-v2",
+      "question": {
+        "de": "Finde das Bahrain Fort an der nordwestlichen Kueste.",
+        "hu": "Keresd meg a Bahrain-erodot az eszaknyugati parton.",
+        "ro": "Gaseste Fortul Bahrain pe coasta de nord-vest.",
+        "en": "Find Bahrain Fort on the northwestern coast."
+      }
+    },
+    {
+      "id": "bh-find-tree-of-life",
+      "type": "find_poi",
+      "targetPoiId": "bh-tree-of-life-landmarks-v2",
+      "question": {
+        "de": "Finde den Baum des Lebens in der suedlichen Wueste Bahrains.",
+        "hu": "Keresd meg az Elet Fajat Bahrain deli sivatagos reszen.",
+        "ro": "Gaseste Copacul Vietii in desertul din sudul Bahrainului.",
+        "en": "Find the Tree of Life in Bahrain's southern desert."
+      }
+    },
+    {
+      "id": "bh-find-bahrain-international-circuit",
+      "type": "find_poi",
+      "targetPoiId": "bh-international-circuit-landmarks-v2",
+      "question": {
+        "de": "Finde den Bahrain International Circuit im Suedwesten des Landes.",
+        "hu": "Keresd meg a Bahrain International Circuitet az orszag delnyugati reszen.",
+        "ro": "Gaseste Bahrain International Circuit in sud-vestul tarii.",
+        "en": "Find the Bahrain International Circuit in the southwest of the country."
+      }
+    },
+    {
+      "id": "bh-find-al-hidd-tip",
+      "type": "find_poi",
+      "targetPoiId": "al-hidd-cities-v2",
+      "question": {
+        "de": "Finde Al Hidd an der suedostlichen Spitze der Insel Muharraq.",
+        "hu": "Keresd meg Al Hiddet Muharraq-sziget delkeleti csucsan.",
+        "ro": "Gaseste Al Hidd la extremitatea sud-estica a insulei Muharraq.",
+        "en": "Find Al Hidd at the southeastern tip of Muharraq Island."
+      }
+    },
+    {
+      "id": "bh-find-hawar-islands",
+      "type": "find_poi",
+      "targetPoiId": "bahrain-hawar-islands-cities-v2",
+      "question": {
+        "de": "Finde die Hawar-Inseln weit im Suedosten Bahrains.",
+        "hu": "Keresd meg a Havar-szigeteket Bahrain tavoli delkeleti reszen.",
+        "ro": "Gaseste Insulele Hawar departe in sud-estul Bahrainului.",
+        "en": "Find the Hawar Islands far to the southeast of Bahrain."
+      }
+    },
+    {
+      "id": "bh-region-al-wusta-central",
+      "type": "find_region",
+      "targetRegionId": "BHR-4928",
+      "question": {
+        "de": "Klicke auf die zentrale Region Al Wusta zwischen dem Norden und dem Sueden der Hauptinsel.",
+        "hu": "Kattints Al Wusta kozepso regiojara a fosziget eszaki es deli resze kozott.",
+        "ro": "Apasa pe regiunea centrala Al Wusta, intre nordul si sudul insulei principale.",
+        "en": "Click the central Al Wusta region between the north and south of the main island."
+      }
+    },
+    {
+      "id": "bh-region-al-muharraq-island",
+      "type": "find_region",
+      "targetRegionId": "BHR-4930",
+      "question": {
+        "de": "Klicke auf die Region Al Muharraq auf der Insel nordoestlich von Manama.",
+        "hu": "Kattints Al Muharraq regiojara a Manamatol eszakkeletre fekvo szigeten.",
+        "ro": "Apasa pe regiunea Al Muharraq de pe insula aflata la nord-est de Manama.",
+        "en": "Click the Al Muharraq region on the island northeast of Manama."
+      }
+    },
+    {
+      "id": "bh-odd-not-on-muharraq-island",
+      "type": "odd_one_out",
+      "poiIds": [
+        "arad-cities-v2",
+        "galali-cities-v2",
+        "busaiteen-cities-v2",
+        "a-ali-cities-v2"
+      ],
+      "targetPoiId": "a-ali-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht auf der Insel Muharraq?",
+        "hu": "Melyik hely nem Muharraq szigeten fekszik?",
+        "ro": "Care loc nu se afla pe insula Muharraq?",
+        "en": "Which place is not on Muharraq Island?"
+      }
+    },
+    {
+      "id": "bh-odd-remote-island-place",
+      "type": "odd_one_out",
+      "poiIds": [
+        "manama-cities-v2",
+        "riffa-cities-v2",
+        "al-hidd-cities-v2",
+        "bahrain-hawar-islands-cities-v2"
+      ],
+      "targetPoiId": "bahrain-hawar-islands-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt auf den abgelegenen Hawar-Inseln?",
+        "hu": "Melyik hely fekszik a tavoli Havar-szigeteken?",
+        "ro": "Care loc se afla pe indepartatele Insule Hawar?",
+        "en": "Which place is located on the remote Hawar Islands?"
+      }
+    },
+    {
+      "id": "bh-odd-archaeological-burial-site",
+      "type": "odd_one_out",
+      "poiIds": [
+        "a-ali-cities-v2",
+        "riffa-cities-v2",
+        "sitra-cities-v2",
+        "a-ali-burial-mounds-history-v2"
+      ],
+      "targetPoiId": "a-ali-burial-mounds-history-v2",
+      "question": {
+        "de": "Welcher Ort ist eine archaeologische Graeberstaette und keine moderne Stadt?",
+        "hu": "Melyik hely regeszeti temetkezesi hely, nem pedig modern varos?",
+        "ro": "Care loc este un sit arheologic funerar, nu un oras modern?",
+        "en": "Which place is an archaeological burial site rather than a modern town?"
+      }
+    },
+    {
+      "id": "bh-odd-not-west-coast",
+      "type": "odd_one_out",
+      "poiIds": [
+        "budaiya-cities-v2",
+        "diraz-cities-v2",
+        "al-malkiya-cities-v2",
+        "sitra-cities-v2"
+      ],
+      "targetPoiId": "sitra-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht an Bahrains Westseite?",
+        "hu": "Melyik varos nem Bahrain nyugati oldalan fekszik?",
+        "ro": "Care oras nu se afla pe partea vestica a Bahrainului?",
+        "en": "Which city is not on Bahrain's western side?"
+      }
+    },
+    {
+      "id": "bh-odd-not-in-muharraq-governorate",
+      "type": "odd_one_out",
+      "poiIds": [
+        "bh-arad-fort-landmarks-v2",
+        "bh-muharraq-souq-landmarks-v2",
+        "bh-shaikh-isa-bin-ali-house-landmarks-v2",
+        "bh-qalat-al-bahrain-landmarks-v2"
+      ],
+      "targetPoiId": "bh-qalat-al-bahrain-landmarks-v2",
+      "question": {
+        "de": "Welches Wahrzeichen liegt nicht im Gouvernement Muharraq?",
+        "hu": "Melyik nevezetesseg nem a Muharraq kormanyzosagban talalhato?",
+        "ro": "Care reper nu se afla in guvernoratul Muharraq?",
+        "en": "Which landmark is not in Muharraq Governorate?"
+      }
+    },
+    {
+      "id": "bh-odd-furthest-southwest",
+      "type": "odd_one_out",
+      "poiIds": [
+        "manama-cities-v2",
+        "isa-town-cities-v2",
+        "zallaq-cities-v2",
+        "muharraq-cities-v2"
+      ],
+      "targetPoiId": "zallaq-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt am weitesten im Suedwesten?",
+        "hu": "Melyik varos fekszik a legdelnyugatabbra?",
+        "ro": "Care oras se afla cel mai la sud-vest?",
+        "en": "Which city lies furthest to the southwest?"
+      }
+    },
+    {
+      "id": "bh-sequence-north-coast-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "budaiya-cities-v2",
+        "manama-cities-v2",
+        "muharraq-cities-v2",
+        "al-hidd-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "budaiya-cities-v2",
+        "manama-cities-v2",
+        "muharraq-cities-v2",
+        "al-hidd-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Budaiya, Manama, Muharraq und Al Hidd von West nach Ost an.",
+        "hu": "Kattints Budaiyara, Manamara, Muharraqra es Al Hiddre nyugatrol keletre.",
+        "ro": "Apasa Budaiya, Manama, Muharraq si Al Hidd de la vest la est.",
+        "en": "Click Budaiya, Manama, Muharraq and Al Hidd from west to east."
+      }
+    },
+    {
+      "id": "bh-sequence-western-settlements-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "budaiya-cities-v2",
+        "saar-cities-v2",
+        "hamad-town-cities-v2",
+        "al-malkiya-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "budaiya-cities-v2",
+        "saar-cities-v2",
+        "hamad-town-cities-v2",
+        "al-malkiya-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Budaiya, Saar, Hamad Town und Al Malkiya von Norden nach Sueden an.",
+        "hu": "Kattints Budaiyara, Saarra, Hamad Townra es Al Malkiyara eszakrol delre.",
+        "ro": "Apasa Budaiya, Saar, Hamad Town si Al Malkiya de la nord la sud.",
+        "en": "Click Budaiya, Saar, Hamad Town and Al Malkiya from north to south."
+      }
+    },
+    {
+      "id": "bh-sequence-historic-sites-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "bahrain-fort-history-v2",
+        "bab-al-bahrain-history-v2",
+        "bh-national-museum-landmarks-v2",
+        "bh-arad-fort-landmarks-v2"
+      ],
+      "orderedPoiIds": [
+        "bahrain-fort-history-v2",
+        "bab-al-bahrain-history-v2",
+        "bh-national-museum-landmarks-v2",
+        "bh-arad-fort-landmarks-v2"
+      ],
+      "question": {
+        "de": "Klicke Bahrain Fort, Bab Al Bahrain, das Bahrain National Museum und Arad Fort von West nach Ost an.",
+        "hu": "Kattints a Bahrain-erodre, Bab Al Bahrainra, a Bahrain Nemzeti Muzeumra es az Arad-erodre nyugatrol keletre.",
+        "ro": "Apasa Fortul Bahrain, Bab Al Bahrain, Muzeul National al Bahrainului si Fortul Arad de la vest la est.",
+        "en": "Click Bahrain Fort, Bab Al Bahrain, the Bahrain National Museum, and Arad Fort from west to east."
+      }
+    },
+    {
+      "id": "bh-sequence-central-cities-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "jidhafs-cities-v2",
+        "a-ali-cities-v2",
+        "riffa-cities-v2",
+        "awali-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "jidhafs-cities-v2",
+        "a-ali-cities-v2",
+        "riffa-cities-v2",
+        "awali-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Jidhafs, A'ali, Riffa und Awali von Norden nach Sueden an.",
+        "hu": "Kattints Jidhafsra, A'alira, Riffara es Awalira eszakrol delre.",
+        "ro": "Apasa Jidhafs, A'ali, Riffa si Awali de la nord la sud.",
+        "en": "Click Jidhafs, A'ali, Riffa, and Awali from north to south."
+      }
+    },
+    {
+      "id": "bh-sequence-southwest-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "zallaq-cities-v2",
+        "bh-international-circuit-landmarks-v2",
+        "awali-cities-v2",
+        "askar-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "zallaq-cities-v2",
+        "bh-international-circuit-landmarks-v2",
+        "awali-cities-v2",
+        "askar-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Zallaq, den Bahrain International Circuit, Awali und Askar von West nach Ost an.",
+        "hu": "Kattints Zallaqra, a Bahrain International Circuitre, Awalira es Askarra nyugatrol keletre.",
+        "ro": "Apasa Zallaq, Bahrain International Circuit, Awali si Askar de la vest la est.",
+        "en": "Click Zallaq, the Bahrain International Circuit, Awali, and Askar from west to east."
+      }
+    },
+    {
+      "id": "bh-sequence-muharraq-island-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "samaheej-cities-v2",
+        "arad-cities-v2",
+        "muharraq-cities-v2",
+        "al-hidd-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "samaheej-cities-v2",
+        "arad-cities-v2",
+        "muharraq-cities-v2",
+        "al-hidd-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Samaheej, Arad, Muharraq und Al Hidd auf der Insel Muharraq von Norden nach Sueden an.",
+        "hu": "Kattints Samaheejre, Aradra, Muharraqra es Al Hiddre Muharraq szigeten eszakrol delre.",
+        "ro": "Apasa Samaheej, Arad, Muharraq si Al Hidd de pe insula Muharraq de la nord la sud.",
+        "en": "Click Samaheej, Arad, Muharraq, and Al Hidd on Muharraq Island from north to south."
+      }
+    }
+  ]
+}

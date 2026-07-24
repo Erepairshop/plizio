@@ -1,0 +1,293 @@
+{
+  "hk": [
+    {
+      "id": "hk-find-tsim-sha-tsui-new",
+      "type": "find_poi",
+      "targetPoiId": "hongkong-tsim-sha-tsui-cities-v2",
+      "question": {
+        "de": "Finde Tsim Sha Tsui an der Südspitze von Kowloon.",
+        "hu": "Keresd meg Tsim Sha Tsuit Kowloon déli csúcsán.",
+        "ro": "Găsește Tsim Sha Tsui, la vârful sudic al Kowloonului.",
+        "en": "Find Tsim Sha Tsui at the southern tip of Kowloon."
+      }
+    },
+    {
+      "id": "hk-find-tung-chung-new",
+      "type": "find_poi",
+      "targetPoiId": "hongkong-tung-chung-cities-v2",
+      "question": {
+        "de": "Finde Tung Chung auf Lantau.",
+        "hu": "Keresd meg Tung Chungot Lantaun.",
+        "ro": "Găsește Tung Chung pe insula Lantau.",
+        "en": "Find Tung Chung on Lantau Island."
+      }
+    },
+    {
+      "id": "hk-find-tai-po-new",
+      "type": "find_poi",
+      "targetPoiId": "hongkong-tai-po-cities-v2",
+      "question": {
+        "de": "Finde Tai Po im Nordosten der New Territories.",
+        "hu": "Keresd meg Tai Pót az Új Területek északkeleti részén.",
+        "ro": "Găsește Tai Po în nord-estul Noilor Teritorii.",
+        "en": "Find Tai Po in the northeastern New Territories."
+      }
+    },
+    {
+      "id": "hk-find-cheung-chau-new",
+      "type": "find_poi",
+      "targetPoiId": "hongkong-cheung-chau-cities-v2",
+      "question": {
+        "de": "Finde Cheung Chau südwestlich von Hong Kong Island.",
+        "hu": "Keresd meg Cheung Chaut Hongkong-szigettől délnyugatra.",
+        "ro": "Găsește Cheung Chau la sud-vest de Insula Hong Kong.",
+        "en": "Find Cheung Chau southwest of Hong Kong Island."
+      }
+    },
+    {
+      "id": "hk-find-peak-tower-new",
+      "type": "find_poi",
+      "targetPoiId": "hongkong-victoria-peak-tower-landmarks-v2",
+      "question": {
+        "de": "Finde den Peak Tower auf dem Victoria Peak.",
+        "hu": "Keresd meg a Peak Towert a Victoria-csúcson.",
+        "ro": "Găsește Peak Tower de pe Victoria Peak.",
+        "en": "Find Peak Tower on Victoria Peak."
+      }
+    },
+    {
+      "id": "hk-find-airport-new",
+      "type": "find_poi",
+      "targetPoiId": "hongkong-international-airport-economic-v2",
+      "question": {
+        "de": "Finde den internationalen Flughafen von Hongkong.",
+        "hu": "Keresd meg Hongkong nemzetközi repülőterét.",
+        "ro": "Găsește Aeroportul Internațional din Hong Kong.",
+        "en": "Find Hong Kong International Airport."
+      }
+    },
+    {
+      "id": "hk-region-central-western-new",
+      "type": "find_region",
+      "targetRegionId": "HKG-5153",
+      "question": {
+        "de": "Finde den Distrikt Central and Western auf Hong Kong Island.",
+        "hu": "Keresd meg a Central and Western körzetet Hongkong-szigeten.",
+        "ro": "Găsește districtul Central and Western de pe Insula Hong Kong.",
+        "en": "Find the Central and Western District on Hong Kong Island."
+      }
+    },
+    {
+      "id": "hk-region-wan-chai-new",
+      "type": "find_region",
+      "targetRegionId": "HKG-5154",
+      "question": {
+        "de": "Finde den Distrikt Wan Chai an der Nordküste von Hong Kong Island.",
+        "hu": "Keresd meg a Wan Chai körzetet Hongkong-sziget északi partján.",
+        "ro": "Găsește districtul Wan Chai de pe coasta nordică a Insulei Hong Kong.",
+        "en": "Find Wan Chai District on the north shore of Hong Kong Island."
+      }
+    },
+    {
+      "id": "hk-region-eastern-new",
+      "type": "find_region",
+      "targetRegionId": "HKG-5155",
+      "question": {
+        "de": "Finde den Eastern District im Osten von Hong Kong Island.",
+        "hu": "Keresd meg az Eastern körzetet Hongkong-sziget keleti részén.",
+        "ro": "Găsește districtul Eastern în estul Insulei Hong Kong.",
+        "en": "Find the Eastern District in the east of Hong Kong Island."
+      }
+    },
+    {
+      "id": "hk-region-yau-tsim-mong-new",
+      "type": "find_region",
+      "targetRegionId": "HKG-5157",
+      "question": {
+        "de": "Finde den Distrikt Yau Tsim Mong in Kowloon.",
+        "hu": "Keresd meg a Yau Tsim Mong körzetet Kowloonban.",
+        "ro": "Găsește districtul Yau Tsim Mong din Kowloon.",
+        "en": "Find Yau Tsim Mong District in Kowloon."
+      }
+    },
+    {
+      "id": "hk-region-tuen-mun-new",
+      "type": "find_region",
+      "targetRegionId": "HKG-5166",
+      "question": {
+        "de": "Finde den Distrikt Tuen Mun im Westen der New Territories.",
+        "hu": "Keresd meg a Tuen Mun körzetet az Új Területek nyugati részén.",
+        "ro": "Găsește districtul Tuen Mun în vestul Noilor Teritorii.",
+        "en": "Find Tuen Mun District in the western New Territories."
+      }
+    },
+    {
+      "id": "hk-odd-outlying-island-new",
+      "type": "odd_one_out",
+      "poiIds": [
+        "hongkong-cheung-chau-cities-v2",
+        "hongkong-tsim-sha-tsui-cities-v2",
+        "hongkong-sha-tin-cities-v2",
+        "hongkong-tai-po-cities-v2"
+      ],
+      "targetPoiId": "hongkong-cheung-chau-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt auf einer vorgelagerten Insel?",
+        "hu": "Melyik hely fekszik egy külső szigeten?",
+        "ro": "Care loc se află pe o insulă periferică?",
+        "en": "Which place lies on an outlying island?"
+      }
+    },
+    {
+      "id": "hk-odd-kowloon-harbour-new",
+      "type": "odd_one_out",
+      "poiIds": [
+        "hongkong-causeway-bay-economic-v2",
+        "hongkong-wan-chai-cities-v2",
+        "hongkong-north-point-cities-v2",
+        "hongkong-tsim-sha-tsui-cities-v2"
+      ],
+      "targetPoiId": "hongkong-tsim-sha-tsui-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt auf der Kowloon-Seite des Hafens statt auf Hong Kong Island?",
+        "hu": "Melyik hely fekszik a kikötő Kowloon felőli oldalán, nem pedig Hongkong-szigeten?",
+        "ro": "Care loc se află pe partea din Kowloon a portului, nu pe Insula Hong Kong?",
+        "en": "Which place is on the Kowloon side of the harbor rather than on Hong Kong Island?"
+      }
+    },
+    {
+      "id": "hk-odd-far-northeast-new",
+      "type": "odd_one_out",
+      "poiIds": [
+        "hongkong-tuen-mun-cities-v2",
+        "hongkong-tsuen-wan-cities-v2",
+        "hongkong-yuen-long-cities-v2",
+        "hongkong-sha-tau-kok-cities-v2"
+      ],
+      "targetPoiId": "hongkong-sha-tau-kok-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt ganz im Nordosten nahe der Grenze zu Shenzhen?",
+        "hu": "Melyik hely fekszik messze északkeleten, Sencsen határa közelében?",
+        "ro": "Care loc se află în extremul nord-est, aproape de granița cu Shenzhen?",
+        "en": "Which place lies in the far northeast near the Shenzhen border?"
+      }
+    },
+    {
+      "id": "hk-odd-lantau-highland-new",
+      "type": "odd_one_out",
+      "poiIds": [
+        "hongkong-central-cities-v2",
+        "hongkong-mong-kok-cities-v2",
+        "hongkong-sha-tin-cities-v2",
+        "hongkong-ngong-ping-cities-v2"
+      ],
+      "targetPoiId": "hongkong-ngong-ping-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt hoch auf Lantau und nicht im dicht bebauten Stadtraum?",
+        "hu": "Melyik hely fekszik magasan Lantaun, nem pedig a sűrűn beépített városi térben?",
+        "ro": "Care loc se află sus pe Lantau, nu în zona urbană dens construită?",
+        "en": "Which place lies high on Lantau rather than in the dense urban core?"
+      }
+    },
+    {
+      "id": "hk-sequence-west-east-lantau-kowloon-new",
+      "type": "sequence",
+      "poiIds": [
+        "hongkong-tai-o-cities-v2",
+        "hongkong-tung-chung-cities-v2",
+        "hongkong-tsim-sha-tsui-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "hongkong-tai-o-cities-v2",
+        "hongkong-tung-chung-cities-v2",
+        "hongkong-tsim-sha-tsui-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Tai O, Tung Chung und Tsim Sha Tsui von Westen nach Osten an.",
+        "hu": "Kattints Tai O-ra, Tung Chunga és Tsim Sha Tsui-ra nyugatról keletre.",
+        "ro": "Apasă Tai O, Tung Chung și Tsim Sha Tsui de la vest la est.",
+        "en": "Click Tai O, Tung Chung, and Tsim Sha Tsui from west to east."
+      }
+    },
+    {
+      "id": "hk-sequence-west-east-hk-island-new",
+      "type": "sequence",
+      "poiIds": [
+        "hongkong-kennedy-town-cities-v2",
+        "hongkong-central-cities-v2",
+        "hongkong-causeway-bay-economic-v2"
+      ],
+      "orderedPoiIds": [
+        "hongkong-kennedy-town-cities-v2",
+        "hongkong-central-cities-v2",
+        "hongkong-causeway-bay-economic-v2"
+      ],
+      "question": {
+        "de": "Klicke Kennedy Town, Central und Causeway Bay von Westen nach Osten an.",
+        "hu": "Kattints Kennedy Townra, Centralra és Causeway Bayre nyugatról keletre.",
+        "ro": "Apasă Kennedy Town, Central și Causeway Bay de la vest la est.",
+        "en": "Click Kennedy Town, Central, and Causeway Bay from west to east."
+      }
+    },
+    {
+      "id": "hk-sequence-north-south-new-territories-new",
+      "type": "sequence",
+      "poiIds": [
+        "hongkong-sheung-shui-cities-v2",
+        "hongkong-tai-po-cities-v2",
+        "hongkong-sha-tin-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "hongkong-sheung-shui-cities-v2",
+        "hongkong-tai-po-cities-v2",
+        "hongkong-sha-tin-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Sheung Shui, Tai Po und Sha Tin von Norden nach Süden an.",
+        "hu": "Kattints Sheung Shuira, Tai Póra és Sha Tinre északról délre.",
+        "ro": "Apasă Sheung Shui, Tai Po și Sha Tin de la nord la sud.",
+        "en": "Click Sheung Shui, Tai Po, and Sha Tin from north to south."
+      }
+    },
+    {
+      "id": "hk-sequence-west-east-urban-kowloon-new",
+      "type": "sequence",
+      "poiIds": [
+        "hongkong-tsuen-wan-cities-v2",
+        "hongkong-mong-kok-cities-v2",
+        "hongkong-kwun-tong-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "hongkong-tsuen-wan-cities-v2",
+        "hongkong-mong-kok-cities-v2",
+        "hongkong-kwun-tong-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Tsuen Wan, Mong Kok und Kwun Tong von Westen nach Osten an.",
+        "hu": "Kattints Tsuen Wanra, Mong Kokra és Kwun Tongra nyugatról keletre.",
+        "ro": "Apasă Tsuen Wan, Mong Kok și Kwun Tong de la vest la est.",
+        "en": "Click Tsuen Wan, Mong Kok, and Kwun Tong from west to east."
+      }
+    },
+    {
+      "id": "hk-sequence-south-north-island-kowloon-new",
+      "type": "sequence",
+      "poiIds": [
+        "hongkong-cheung-chau-cities-v2",
+        "hongkong-wan-chai-cities-v2",
+        "hongkong-kowloon-tong-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "hongkong-cheung-chau-cities-v2",
+        "hongkong-wan-chai-cities-v2",
+        "hongkong-kowloon-tong-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Cheung Chau, Wan Chai und Kowloon Tong von Süden nach Norden an.",
+        "hu": "Kattints Cheung Chaura, Wan Chaira és Kowloon Tongra délről északra.",
+        "ro": "Apasă Cheung Chau, Wan Chai și Kowloon Tong de la sud la nord.",
+        "en": "Click Cheung Chau, Wan Chai, and Kowloon Tong from south to north."
+      }
+    }
+  ]
+}

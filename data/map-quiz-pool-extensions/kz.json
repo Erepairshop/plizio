@@ -1,0 +1,303 @@
+{
+  "kz": [
+    {
+      "id": "kz-find-karaganda",
+      "type": "find_poi",
+      "targetPoiId": "karaganda-cities-v2",
+      "question": {
+        "de": "Finde Qaraghandy auf der Karte.",
+        "hu": "Keresd meg Karagand?t a t?rk?pen.",
+        "ro": "G?se?te Karaganda pe hart?.",
+        "en": "Find Karaganda on the map."
+      }
+    },
+    {
+      "id": "kz-find-atyrau",
+      "type": "find_poi",
+      "targetPoiId": "atyrau-cities-v2",
+      "question": {
+        "de": "Finde Atyrau auf der Karte.",
+        "hu": "Keresd meg Atiraut a t?rk?pen.",
+        "ro": "G?se?te Atyrau pe hart?.",
+        "en": "Find Atyrau on the map."
+      }
+    },
+    {
+      "id": "kz-find-kostanay",
+      "type": "find_poi",
+      "targetPoiId": "kostanay-cities-v2",
+      "question": {
+        "de": "Finde Qostanai auf der Karte.",
+        "hu": "Keresd meg Kosztanajt a t?rk?pen.",
+        "ro": "G?se?te Kostanay pe hart?.",
+        "en": "Find Kostanay on the map."
+      }
+    },
+    {
+      "id": "kz-find-turkistan",
+      "type": "find_poi",
+      "targetPoiId": "turkistan-cities-v2",
+      "question": {
+        "de": "Finde Turkistan auf der Karte.",
+        "hu": "Keresd meg T?rkiszt?nt a t?rk?pen.",
+        "ro": "G?se?te Turkistan pe hart?.",
+        "en": "Find Turkistan on the map."
+      }
+    },
+    {
+      "id": "kz-find-petropavl",
+      "type": "find_poi",
+      "targetPoiId": "petropavl-cities-v2",
+      "question": {
+        "de": "Finde Petropawl auf der Karte.",
+        "hu": "Keresd meg Petropavlt a t?rk?pen.",
+        "ro": "G?se?te Petropavl pe hart?.",
+        "en": "Find Petropavl on the map."
+      }
+    },
+    {
+      "id": "kz-find-aktau",
+      "type": "find_poi",
+      "targetPoiId": "aktau-cities-v2",
+      "question": {
+        "de": "Finde Aktau auf der Karte.",
+        "hu": "Keresd meg Aktaut a t?rk?pen.",
+        "ro": "G?se?te Aktau pe hart?.",
+        "en": "Find Aktau on the map."
+      }
+    },
+    {
+      "id": "kz-region-atyrau",
+      "type": "find_region",
+      "targetRegionId": "KAZ-3198",
+      "question": {
+        "de": "Klicke auf die Region Atyrau.",
+        "hu": "Kattints Atirau r?gi?j?ra.",
+        "ro": "Apas? pe regiunea Atyrau.",
+        "en": "Click the Atyrau region."
+      }
+    },
+    {
+      "id": "kz-region-aqmola",
+      "type": "find_region",
+      "targetRegionId": "KAZ-3202",
+      "question": {
+        "de": "Klicke auf die Region Aqmola.",
+        "hu": "Kattints Akmola r?gi?j?ra.",
+        "ro": "Apas? pe regiunea Aqmola.",
+        "en": "Click the Aqmola region."
+      }
+    },
+    {
+      "id": "kz-region-qaraghandy",
+      "type": "find_region",
+      "targetRegionId": "KAZ-3203",
+      "question": {
+        "de": "Klicke auf die Region Qaraghandy.",
+        "hu": "Kattints Karaganda r?gi?j?ra.",
+        "ro": "Apas? pe regiunea Karaganda.",
+        "en": "Click the Karaganda region."
+      }
+    },
+    {
+      "id": "kz-region-zhambyl",
+      "type": "find_region",
+      "targetRegionId": "KAZ-3252",
+      "question": {
+        "de": "Klicke auf die Region Zhambyl.",
+        "hu": "Kattints Zsambil r?gi?j?ra.",
+        "ro": "Apas? pe regiunea Zhambyl.",
+        "en": "Click the Zhambyl region."
+      }
+    },
+    {
+      "id": "kz-region-astana-city",
+      "type": "find_region",
+      "targetRegionId": "KAZ-4830",
+      "question": {
+        "de": "Klicke auf Astana.",
+        "hu": "Kattints Asztan?ra.",
+        "ro": "Apas? pe Astana.",
+        "en": "Click on Astana."
+      }
+    },
+    {
+      "id": "kz-odd-north",
+      "type": "odd_one_out",
+      "poiIds": [
+        "aktau-cities-v2",
+        "taraz-cities-v2",
+        "petropavl-cities-v2",
+        "shymkent-cities-v2"
+      ],
+      "targetPoiId": "petropavl-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt am weitesten n?rdlich?",
+        "hu": "Melyik v?ros fekszik a leg?szakabbra?",
+        "ro": "Care ora? se afl? cel mai la nord?",
+        "en": "Which city lies furthest north?"
+      }
+    },
+    {
+      "id": "kz-odd-east",
+      "type": "odd_one_out",
+      "poiIds": [
+        "oral-cities-v2",
+        "kostanay-cities-v2",
+        "semey-cities-v2",
+        "aktobe-cities-v2"
+      ],
+      "targetPoiId": "semey-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt am weitesten ?stlich?",
+        "hu": "Melyik v?ros fekszik a legkeletebbre?",
+        "ro": "Care ora? se afl? cel mai la est?",
+        "en": "Which city lies furthest east?"
+      }
+    },
+    {
+      "id": "kz-odd-south",
+      "type": "odd_one_out",
+      "poiIds": [
+        "astana-cities-v2",
+        "balkhash-cities-v2",
+        "konayev-cities-v2",
+        "kazakhstan-saryagash-cities-v2"
+      ],
+      "targetPoiId": "kazakhstan-saryagash-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt am weitesten s?dlich?",
+        "hu": "Melyik v?ros fekszik a legd?lebbre?",
+        "ro": "Care ora? se afl? cel mai la sud?",
+        "en": "Which city lies furthest south?"
+      }
+    },
+    {
+      "id": "kz-odd-caspian-west",
+      "type": "odd_one_out",
+      "poiIds": [
+        "atyrau-cities-v2",
+        "aktau-cities-v2",
+        "jezkazgan-cities-v2",
+        "shymkent-cities-v2"
+      ],
+      "targetPoiId": "aktau-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt am weitesten westlich?",
+        "hu": "Melyik v?ros fekszik a legnyugatabbra?",
+        "ro": "Care ora? se afl? cel mai la vest?",
+        "en": "Which city lies furthest west?"
+      }
+    },
+    {
+      "id": "kz-sequence-west-east-cities",
+      "type": "sequence",
+      "poiIds": [
+        "oral-cities-v2",
+        "aktobe-cities-v2",
+        "astana-cities-v2",
+        "semey-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "oral-cities-v2",
+        "aktobe-cities-v2",
+        "astana-cities-v2",
+        "semey-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die St?dte von Westen nach Osten an: Oral, Aqt?be, Astana, Semei.",
+        "hu": "Kattints a v?rosokra nyugatr?l keletre: Oral, Akt?be, Asztana, Szemey.",
+        "ro": "Apas? ora?ele de la vest la est: Oral, Aktobe, Astana, Semei.",
+        "en": "Click the cities from west to east: Oral, Aktobe, Astana, Semey."
+      }
+    },
+    {
+      "id": "kz-sequence-north-south-steppe",
+      "type": "sequence",
+      "poiIds": [
+        "kostanay-cities-v2",
+        "astana-cities-v2",
+        "jezkazgan-cities-v2",
+        "shymkent-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "kostanay-cities-v2",
+        "astana-cities-v2",
+        "jezkazgan-cities-v2",
+        "shymkent-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die St?dte von Norden nach S?den an: Qostanai, Astana, Zhezkazgan, Schymkent.",
+        "hu": "Kattints a v?rosokra ?szakr?l d?lre: Kosztanaj, Asztana, Zsezkazgan, Simkent.",
+        "ro": "Apas? ora?ele de la nord la sud: Kostanay, Astana, Jezkazgan, Shymkent.",
+        "en": "Click the cities from north to south: Kostanay, Astana, Jezkazgan, Shymkent."
+      }
+    },
+    {
+      "id": "kz-sequence-west-east-belt",
+      "type": "sequence",
+      "poiIds": [
+        "atyrau-cities-v2",
+        "kyzylorda-cities-v2",
+        "balkhash-cities-v2",
+        "oskemen-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "atyrau-cities-v2",
+        "kyzylorda-cities-v2",
+        "balkhash-cities-v2",
+        "oskemen-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die Orte von Westen nach Osten an: Atyrau, Qysylorda, Balchasch, ?skemen.",
+        "hu": "Kattints a helyekre nyugatr?l keletre: Atirau, Kizilorda, Balkas, ?szkemen.",
+        "ro": "Apas? locurile de la vest la est: Atyrau, Kyzylorda, Balkhash, Oskemen.",
+        "en": "Click the places from west to east: Atyrau, Kyzylorda, Balkhash, Oskemen."
+      }
+    },
+    {
+      "id": "kz-sequence-north-south-irtysh",
+      "type": "sequence",
+      "poiIds": [
+        "petropavl-cities-v2",
+        "pavlodar-cities-v2",
+        "karaganda-cities-v2",
+        "balkhash-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "petropavl-cities-v2",
+        "pavlodar-cities-v2",
+        "karaganda-cities-v2",
+        "balkhash-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die St?dte von Norden nach S?den an: Petropawl, Pawlodar, Qaraghandy, Balchasch.",
+        "hu": "Kattints a v?rosokra ?szakr?l d?lre: Petropavl, Pavlodar, Karaganda, Balkas.",
+        "ro": "Apas? ora?ele de la nord la sud: Petropavl, Pavlodar, Karaganda, Balkhash.",
+        "en": "Click the cities from north to south: Petropavl, Pavlodar, Karaganda, Balkhash."
+      }
+    },
+    {
+      "id": "kz-sequence-west-east-south",
+      "type": "sequence",
+      "poiIds": [
+        "aktau-cities-v2",
+        "turkistan-cities-v2",
+        "almaty-cities-v2",
+        "oskemen-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "aktau-cities-v2",
+        "turkistan-cities-v2",
+        "almaty-cities-v2",
+        "oskemen-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die St?dte von Westen nach Osten an: Aktau, Turkistan, Almaty, ?skemen.",
+        "hu": "Kattints a v?rosokra nyugatr?l keletre: Aktau, T?rkiszt?n, Almati, ?szkemen.",
+        "ro": "Apas? ora?ele de la vest la est: Aktau, Turkistan, Almaty, Oskemen.",
+        "en": "Click the cities from west to east: Aktau, Turkistan, Almaty, Oskemen."
+      }
+    }
+  ]
+}

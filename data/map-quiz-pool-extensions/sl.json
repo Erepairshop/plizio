@@ -1,0 +1,303 @@
+{
+  "sl": [
+    {
+      "id": "sl-find-bunce-island",
+      "type": "find_poi",
+      "targetPoiId": "bunce-island-history-v2",
+      "question": {
+        "de": "Finde Bunce Island im Sierra-Leone-Fluss n?rdlich von Freetown.",
+        "hu": "Keresd meg Bunce-szigetet a Sierra Leone foly?ban, Freetownt?l ?szakra.",
+        "ro": "G?se?te insula Bunce ?n estuarul r?ului Sierra Leone, la nord de Freetown.",
+        "en": "Find Bunce Island in the Sierra Leone estuary north of Freetown."
+      }
+    },
+    {
+      "id": "sl-find-lungi-airport",
+      "type": "find_poi",
+      "targetPoiId": "lungi-airport-landmarks-v2",
+      "question": {
+        "de": "Finde den internationalen Flughafen von Lungi auf der Nordseite des ?stuars.",
+        "hu": "Keresd meg a lungi nemzetk?zi rep?l?teret a t?lcs?rtorkolat ?szaki oldal?n.",
+        "ro": "G?se?te aeroportul interna?ional din Lungi pe malul nordic al estuarului.",
+        "en": "Find Lungi International Airport on the northern side of the estuary."
+      }
+    },
+    {
+      "id": "sl-find-river-no-2-beach",
+      "type": "find_poi",
+      "targetPoiId": "sierra-leone-river-no-2-beach-cities-v2",
+      "question": {
+        "de": "Finde River No. 2 Beach an der Halbinsel s?dlich von Freetown.",
+        "hu": "Keresd meg a River No. 2 Beachet a Freetownt?l d?lre fekv? f?lszigeten.",
+        "ro": "G?se?te plaja River No. 2 de pe peninsula aflat? la sud de Freetown.",
+        "en": "Find River No. 2 Beach on the peninsula south of Freetown."
+      }
+    },
+    {
+      "id": "sl-find-outamba-kilimi",
+      "type": "find_poi",
+      "targetPoiId": "outamba-kilimi-nature-v2",
+      "question": {
+        "de": "Finde Outamba-Kilimi im ?u?ersten Nordwesten Sierra Leones.",
+        "hu": "Keresd meg Outamba-Kilimit Sierra Leone leg?szaknyugatibb r?sz?n.",
+        "ro": "G?se?te Outamba-Kilimi ?n extremul nord-vest al statului Sierra Leone.",
+        "en": "Find Outamba-Kilimi in the far northwest of Sierra Leone."
+      }
+    },
+    {
+      "id": "sl-find-mount-bintumani",
+      "type": "find_poi",
+      "targetPoiId": "mount-bintumani-nature-v2",
+      "question": {
+        "de": "Finde den Mount Bintumani im Hochland des Nordens.",
+        "hu": "Keresd meg a Bintumani-hegyet az ?szaki felf?ld?n.",
+        "ro": "G?se?te Muntele Bintumani ?n zonele ?nalte din nord.",
+        "en": "Find Mount Bintumani in the northern highlands."
+      }
+    },
+    {
+      "id": "sl-find-bumbuna-dam",
+      "type": "find_poi",
+      "targetPoiId": "bumbuna-dam-economic-v2",
+      "question": {
+        "de": "Finde den Bumbuna-Staudamm am oberen Rokel-Fluss.",
+        "hu": "Keresd meg a Bumbuna-g?tat a fels? Rokel foly?n.",
+        "ro": "G?se?te barajul Bumbuna de pe cursul superior al r?ului Rokel.",
+        "en": "Find Bumbuna Dam on the upper Rokel River."
+      }
+    },
+    {
+      "id": "sl-find-gola-rainforest",
+      "type": "find_poi",
+      "targetPoiId": "gola-rainforest-nature-v2",
+      "question": {
+        "de": "Finde den Gola-Regenwald nahe der Grenze zu Liberia.",
+        "hu": "Keresd meg a Gola-es?erd?t Lib?ria hat?ra k?zel?ben.",
+        "ro": "G?se?te p?durea tropical? Gola aproape de grani?a cu Liberia.",
+        "en": "Find the Gola Rainforest near the border with Liberia."
+      }
+    },
+    {
+      "id": "sl-find-tiwai-island",
+      "type": "find_poi",
+      "targetPoiId": "tiwai-island-nature-v2",
+      "question": {
+        "de": "Finde Tiwai Island im S?den des Landes.",
+        "hu": "Keresd meg a Tiwai-szigetet az orsz?g d?li r?sz?n.",
+        "ro": "G?se?te insula Tiwai ?n sudul ??rii.",
+        "en": "Find Tiwai Island in the south of the country."
+      }
+    },
+    {
+      "id": "sl-find-sherbro-island",
+      "type": "find_poi",
+      "targetPoiId": "sherbro-island-nature-v2",
+      "question": {
+        "de": "Finde Sherbro Island vor der s?dlichen Atlantikk?ste.",
+        "hu": "Keresd meg Sherbro-szigetet a d?li atlanti partok el?tt.",
+        "ro": "G?se?te insula Sherbro ?n largul coastei sudice a Atlanticului.",
+        "en": "Find Sherbro Island off the southern Atlantic coast."
+      }
+    },
+    {
+      "id": "sl-find-qeii-quay",
+      "type": "find_poi",
+      "targetPoiId": "queen-elizabeth-ii-quay-economic-v2",
+      "question": {
+        "de": "Finde Queen Elizabeth II Quay im Hafen von Freetown.",
+        "hu": "Keresd meg a Queen Elizabeth II Quay kik?t?t Freetownban.",
+        "ro": "G?se?te cheiul Queen Elizabeth II din portul Freetown.",
+        "en": "Find Queen Elizabeth II Quay in Freetown harbor."
+      }
+    },
+    {
+      "id": "sl-region-southern",
+      "type": "find_region",
+      "targetRegionId": "SLE-760",
+      "question": {
+        "de": "Klicke auf Southern, die Region von Bo und der Sherbro-K?ste.",
+        "hu": "Kattints Southern r?gi?ra, ahol Bo ?s a Sherbro-partvid?k tal?lhat?.",
+        "ro": "Apas? pe Southern, regiunea ora?ului Bo ?i a coastei Sherbro.",
+        "en": "Click Southern, the region of Bo and the Sherbro coast."
+      }
+    },
+    {
+      "id": "sl-odd-not-western-area",
+      "type": "odd_one_out",
+      "poiIds": [
+        "bunce-island-history-v2",
+        "banana-islands-nature-v2",
+        "tasso-island-nature-v2",
+        "mount-bintumani-nature-v2"
+      ],
+      "targetPoiId": "mount-bintumani-nature-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht im Westen Sierra Leones oder vor dessen K?ste?",
+        "hu": "Melyik hely nem Sierra Leone nyugati r?sz?n vagy annak partjai el?tt tal?lhat??",
+        "ro": "Care loc nu se afl? ?n vestul statului Sierra Leone sau ?n largul coastei sale?",
+        "en": "Which place is not in western Sierra Leone or just offshore from it?"
+      }
+    },
+    {
+      "id": "sl-odd-not-eastern",
+      "type": "odd_one_out",
+      "poiIds": [
+        "koidu-mine-economic-v2",
+        "gola-rainforest-nature-v2",
+        "kailahun-coffee-farms-life-v2",
+        "bumbuna-dam-economic-v2"
+      ],
+      "targetPoiId": "bumbuna-dam-economic-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht in der Eastern Region?",
+        "hu": "Melyik hely nem az Eastern r?gi?ban tal?lhat??",
+        "ro": "Care loc nu se afl? ?n regiunea Eastern?",
+        "en": "Which place is not in the Eastern region?"
+      }
+    },
+    {
+      "id": "sl-odd-not-northern-highlands",
+      "type": "odd_one_out",
+      "poiIds": [
+        "mount-bintumani-nature-v2",
+        "lake-sonfon-nature-v2",
+        "wara-wara-mountains-nature-v2",
+        "yawri-bay-nature-v2"
+      ],
+      "targetPoiId": "yawri-bay-nature-v2",
+      "question": {
+        "de": "Welcher Ort geh?rt nicht zum n?rdlichen Hochlandraum Sierra Leones?",
+        "hu": "Melyik hely nem Sierra Leone ?szaki hegy- ?s felf?ldi ?vezet?hez tartozik?",
+        "ro": "Care loc nu apar?ine zonei montane ?i ?nalte din nordul statului Sierra Leone?",
+        "en": "Which place does not belong to Sierra Leone?s northern highland zone?"
+      }
+    },
+    {
+      "id": "sl-odd-not-southern-water",
+      "type": "odd_one_out",
+      "poiIds": [
+        "tiwai-island-nature-v2",
+        "sherbro-island-nature-v2",
+        "yawri-bay-nature-v2",
+        "marampa-mine-economic-v2"
+      ],
+      "targetPoiId": "marampa-mine-economic-v2",
+      "question": {
+        "de": "Welcher Ort ist kein s?dliches Insel- oder K?stengew?sserziel?",
+        "hu": "Melyik hely nem d?li szigethez vagy part menti v?zhez kapcsol?d? c?lpont?",
+        "ro": "Care loc nu este o destina?ie sudic? legat? de insule sau ape de coast??",
+        "en": "Which place is not a southern island or coastal-water destination?"
+      }
+    },
+    {
+      "id": "sl-sequence-west-east-peninsula-inland",
+      "type": "sequence",
+      "poiIds": [
+        "sierra-leone-river-no-2-beach-cities-v2",
+        "moyamba-cities-v2",
+        "bo-stadium-landmarks-v2",
+        "gola-rainforest-nature-v2"
+      ],
+      "orderedPoiIds": [
+        "sierra-leone-river-no-2-beach-cities-v2",
+        "moyamba-cities-v2",
+        "bo-stadium-landmarks-v2",
+        "gola-rainforest-nature-v2"
+      ],
+      "question": {
+        "de": "Klicke River No. 2 Beach, Moyamba, das Bo-Stadion und den Gola-Regenwald von Westen nach Osten an.",
+        "hu": "Kattints a River No. 2 Beachre, Moyamb?ra, a boi stadionra ?s a Gola-es?erd?re nyugatr?l kelet fel?.",
+        "ro": "Apas? River No. 2 Beach, Moyamba, stadionul din Bo ?i p?durea tropical? Gola de la vest la est.",
+        "en": "Click River No. 2 Beach, Moyamba, Bo Stadium, and the Gola Rainforest from west to east."
+      }
+    },
+    {
+      "id": "sl-sequence-north-south-highlands",
+      "type": "sequence",
+      "poiIds": [
+        "outamba-kilimi-nature-v2",
+        "mount-bintumani-nature-v2",
+        "makeni-clock-tower-landmarks-v2",
+        "bo-stadium-landmarks-v2"
+      ],
+      "orderedPoiIds": [
+        "outamba-kilimi-nature-v2",
+        "mount-bintumani-nature-v2",
+        "makeni-clock-tower-landmarks-v2",
+        "bo-stadium-landmarks-v2"
+      ],
+      "question": {
+        "de": "Klicke Outamba-Kilimi, Mount Bintumani, den Uhrturm von Makeni und das Bo-Stadion von Norden nach S?den an.",
+        "hu": "Kattints Outamba-Kilimire, a Bintumani-hegyre, a makeni ?ratoronyra ?s a boi stadionra ?szakr?l d?l fel?.",
+        "ro": "Apas? Outamba-Kilimi, Muntele Bintumani, turnul cu ceas din Makeni ?i stadionul din Bo de la nord la sud.",
+        "en": "Click Outamba-Kilimi, Mount Bintumani, Makeni Clock Tower, and Bo Stadium from north to south."
+      }
+    },
+    {
+      "id": "sl-sequence-west-east-eastern-province",
+      "type": "sequence",
+      "poiIds": [
+        "tongo-mine-economic-v2",
+        "koidu-mine-economic-v2",
+        "pendembu-cities-v2",
+        "kailahun-coffee-farms-life-v2"
+      ],
+      "orderedPoiIds": [
+        "tongo-mine-economic-v2",
+        "koidu-mine-economic-v2",
+        "pendembu-cities-v2",
+        "kailahun-coffee-farms-life-v2"
+      ],
+      "question": {
+        "de": "Klicke die Tongo-Diamantenmine, die Koidu-Diamantenmine, Pendembu und die Kaffeeplantagen von Kailahun von Westen nach Osten an.",
+        "hu": "Kattints a tong?i gy?m?ntb?ny?ra, a koidui gy?m?ntb?ny?ra, Pendembura ?s a kailahuni k?v??ltetv?nyekre nyugatr?l kelet fel?.",
+        "ro": "Apas? mina de diamante Tongo, mina de diamante Koidu, Pendembu ?i planta?iile de cafea din Kailahun de la vest la est.",
+        "en": "Click Tongo Diamond Mine, Koidu Diamond Mine, Pendembu, and the Kailahun coffee farms from west to east."
+      }
+    },
+    {
+      "id": "sl-sequence-south-north-interior",
+      "type": "sequence",
+      "poiIds": [
+        "lake-mape-nature-v2",
+        "tiwai-island-nature-v2",
+        "bumbuna-dam-economic-v2",
+        "kamakwie-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "lake-mape-nature-v2",
+        "tiwai-island-nature-v2",
+        "bumbuna-dam-economic-v2",
+        "kamakwie-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Lake Mape, Tiwai Island, den Bumbuna-Staudamm und Kamakwie von S?den nach Norden an.",
+        "hu": "Kattints a Mape-t?ra, a Tiwai-szigetre, a Bumbuna-g?tra ?s Kamakwie v?ros?ra d?lr?l ?szak fel?.",
+        "ro": "Apas? lacul Mape, insula Tiwai, barajul Bumbuna ?i Kamakwie de la sud la nord.",
+        "en": "Click Lake Mape, Tiwai Island, Bumbuna Dam, and Kamakwie from south to north."
+      }
+    },
+    {
+      "id": "sl-sequence-west-east-southern-coast",
+      "type": "sequence",
+      "poiIds": [
+        "bunce-island-history-v2",
+        "yawri-bay-nature-v2",
+        "sherbro-island-nature-v2",
+        "bonthe-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "bunce-island-history-v2",
+        "yawri-bay-nature-v2",
+        "sherbro-island-nature-v2",
+        "bonthe-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Bunce Island, Yawri Bay, Sherbro Island und Bonthe von Westen nach Osten an.",
+        "hu": "Kattints Bunce-szigetre, a Yawri-?b?lre, Sherbro-szigetre ?s Bonthe v?ros?ra nyugatr?l kelet fel?.",
+        "ro": "Apas? insula Bunce, golful Yawri, insula Sherbro ?i Bonthe de la vest la est.",
+        "en": "Click Bunce Island, Yawri Bay, Sherbro Island, and Bonthe from west to east."
+      }
+    }
+  ]
+}

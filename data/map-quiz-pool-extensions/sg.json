@@ -1,0 +1,320 @@
+{
+  "sg": [
+    {
+      "id": "sg-find-jewel-changi-extra",
+      "type": "find_poi",
+      "targetPoiId": "jewel-changi-airport-landmarks-v2",
+      "question": {
+        "de": "Finde Jewel Changi Airport im äußersten Osten Singapurs.",
+        "hu": "Keresd meg a Jewel Changi repülőteret Szingapúr legkeletibb részén.",
+        "ro": "Găsește Jewel Changi Airport în extremitatea estică a Singaporelui.",
+        "en": "Find Jewel Changi Airport in the far east of Singapore."
+      }
+    },
+    {
+      "id": "sg-find-merlion-park-extra",
+      "type": "find_poi",
+      "targetPoiId": "merlion-park-landmarks-v2",
+      "question": {
+        "de": "Finde den Merlion Park an der Marina Bay.",
+        "hu": "Keresd meg a Merlion Parkot a Marina-öbölnél.",
+        "ro": "Găsește Merlion Park la Marina Bay.",
+        "en": "Find Merlion Park on Marina Bay."
+      }
+    },
+    {
+      "id": "sg-find-bukit-timah-hill-extra",
+      "type": "find_poi",
+      "targetPoiId": "sg-bukit-timah-hill-relief-v2",
+      "question": {
+        "de": "Finde den Bukit Timah Hill im zentral-westlichen Teil der Hauptinsel.",
+        "hu": "Keresd meg a Bukit Timah-hegyet a fősziget középső-nyugati részén.",
+        "ro": "Găsește dealul Bukit Timah în partea central-vestică a insulei principale.",
+        "en": "Find Bukit Timah Hill in the central-western part of the main island."
+      }
+    },
+    {
+      "id": "sg-find-sungei-buloh-extra",
+      "type": "find_poi",
+      "targetPoiId": "sg-sungei-buloh-wetland-reserve-nature-v2",
+      "question": {
+        "de": "Finde das Sungei Buloh Wetland Reserve im Nordwesten.",
+        "hu": "Keresd meg a Sungei Buloh Wetland Reserve-et északnyugaton.",
+        "ro": "Găsește rezervația Sungei Buloh Wetland în nord-vest.",
+        "en": "Find Sungei Buloh Wetland Reserve in the north-west."
+      }
+    },
+    {
+      "id": "sg-find-tuas-mega-port-extra",
+      "type": "find_poi",
+      "targetPoiId": "jurong-island-petrochemical-hub-economic-v2",
+      "question": {
+        "de": "Finde den Jurong Island Petrochemical Hub im Südwesten Singapurs.",
+        "hu": "Keresd meg a Jurong Island Petrochemical Hubot Szingapúr délnyugati részén.",
+        "ro": "Găsește Jurong Island Petrochemical Hub în sud-vestul Singaporelui.",
+        "en": "Find the Jurong Island Petrochemical Hub in south-western Singapore."
+      }
+    },
+    {
+      "id": "sg-region-south-west-extra",
+      "type": "find_region",
+      "targetRegionId": "SGP-4872",
+      "question": {
+        "de": "Klicke auf die Region South West.",
+        "hu": "Kattints a South West régióra.",
+        "ro": "Apasă pe regiunea South West.",
+        "en": "Click the South West region."
+      }
+    },
+    {
+      "id": "sg-region-south-east-extra",
+      "type": "find_region",
+      "targetRegionId": "SGP-4875",
+      "question": {
+        "de": "Klicke auf die Region South East.",
+        "hu": "Kattints a South East régióra.",
+        "ro": "Apasă pe regiunea South East.",
+        "en": "Click the South East region."
+      }
+    },
+    {
+      "id": "sg-region-north-west-extra",
+      "type": "find_region",
+      "targetRegionId": "SGP-4873",
+      "question": {
+        "de": "Klicke auf die Region North West.",
+        "hu": "Kattints a North West régióra.",
+        "ro": "Apasă pe regiunea North West.",
+        "en": "Click the North West region."
+      }
+    },
+    {
+      "id": "sg-odd-east-urban-trio-extra",
+      "type": "odd_one_out",
+      "poiIds": [
+        "jurong-east-cities-v2",
+        "bishan-cities-v2",
+        "tampines-cities-v2"
+      ],
+      "targetPoiId": "tampines-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Osten?",
+        "hu": "Melyik hely fekszik a legkeletebbre?",
+        "ro": "Care dintre aceste locuri se află cel mai la est?",
+        "en": "Which of these places lies farthest east?"
+      }
+    },
+    {
+      "id": "sg-odd-west-urban-belt-extra",
+      "type": "odd_one_out",
+      "poiIds": [
+        "tampines-cities-v2",
+        "toa-payoh-cities-v2",
+        "clementi-cities-v2"
+      ],
+      "targetPoiId": "clementi-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Westen?",
+        "hu": "Melyik hely fekszik a legnyugatabbra?",
+        "ro": "Care dintre aceste locuri se află cel mai la vest?",
+        "en": "Which of these places lies farthest west?"
+      }
+    },
+    {
+      "id": "sg-odd-north-corridor-extra",
+      "type": "odd_one_out",
+      "poiIds": [
+        "bedok-cities-v2",
+        "ang-mo-kio-cities-v2",
+        "woodlands-cities-v2"
+      ],
+      "targetPoiId": "woodlands-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Norden?",
+        "hu": "Melyik hely fekszik a legészakabbra?",
+        "ro": "Care dintre aceste locuri se află cel mai la nord?",
+        "en": "Which of these places lies farthest north?"
+      }
+    },
+    {
+      "id": "sg-odd-south-island-edge-extra",
+      "type": "odd_one_out",
+      "poiIds": [
+        "yishun-cities-v2",
+        "toa-payoh-cities-v2",
+        "sg-labrador-nature-reserve-relief-v2"
+      ],
+      "targetPoiId": "sg-labrador-nature-reserve-relief-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Süden?",
+        "hu": "Melyik hely fekszik a legdélebbre?",
+        "ro": "Care dintre aceste locuri se află cel mai la sud?",
+        "en": "Which of these places lies farthest south?"
+      }
+    },
+    {
+      "id": "sg-odd-east-gateway-extra",
+      "type": "odd_one_out",
+      "poiIds": [
+        "sg-admiralty-park-life-v2",
+        "jewel-changi-airport-landmarks-v2",
+        "sg-bukit-timah-hill-relief-v2"
+      ],
+      "targetPoiId": "jewel-changi-airport-landmarks-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Osten?",
+        "hu": "Melyik hely fekszik a legkeletebbre?",
+        "ro": "Care dintre aceste locuri se află cel mai la est?",
+        "en": "Which of these places lies farthest east?"
+      }
+    },
+    {
+      "id": "sg-odd-west-port-belt-extra",
+      "type": "odd_one_out",
+      "poiIds": [
+        "changi-business-park-economic-v2",
+        "port-of-singapore-economic-v2",
+        "jurong-island-petrochemical-hub-economic-v2"
+      ],
+      "targetPoiId": "jurong-island-petrochemical-hub-economic-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Westen?",
+        "hu": "Melyik hely fekszik a legnyugatabbra?",
+        "ro": "Care dintre aceste locuri se află cel mai la vest?",
+        "en": "Which of these places lies farthest west?"
+      }
+    },
+    {
+      "id": "sg-sequence-west-east-industrial-extra",
+      "type": "sequence",
+      "poiIds": [
+        "jurong-island-petrochemical-hub-economic-v2",
+        "jurong-east-cities-v2",
+        "bukit-timah-cities-v2",
+        "singapore-city-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "jurong-island-petrochemical-hub-economic-v2",
+        "jurong-east-cities-v2",
+        "bukit-timah-cities-v2",
+        "singapore-city-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Jurong Island Petrochemical Hub, Jurong East, Bukit Timah und Singapore City von Westen nach Osten an.",
+        "hu": "Kattints a Jurong Island Petrochemical Hubra, Jurong Eastre, Bukit Timahra és Szingapúr városra nyugatról keletre.",
+        "ro": "Apasă pe Jurong Island Petrochemical Hub, Jurong East, Bukit Timah și Singapore City de la vest la est.",
+        "en": "Click the Jurong Island Petrochemical Hub, Jurong East, Bukit Timah and Singapore City from west to east."
+      }
+    },
+    {
+      "id": "sg-sequence-north-south-northern-towns-extra",
+      "type": "sequence",
+      "poiIds": [
+        "sembawang-cities-v2",
+        "woodlands-cities-v2",
+        "yishun-cities-v2",
+        "bishan-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "sembawang-cities-v2",
+        "woodlands-cities-v2",
+        "yishun-cities-v2",
+        "bishan-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Sembawang, Woodlands, Yishun und Bishan von Norden nach Süden an.",
+        "hu": "Kattints Sembawangra, Woodlandsre, Yishunra és Bishanra északról délre.",
+        "ro": "Apasă pe Sembawang, Woodlands, Yishun și Bishan de la nord la sud.",
+        "en": "Click Sembawang, Woodlands, Yishun and Bishan from north to south."
+      }
+    },
+    {
+      "id": "sg-sequence-west-east-heartland-extra",
+      "type": "sequence",
+      "poiIds": [
+        "choa-chu-kang-cities-v2",
+        "ang-mo-kio-cities-v2",
+        "hougang-cities-v2",
+        "pasir-ris-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "choa-chu-kang-cities-v2",
+        "ang-mo-kio-cities-v2",
+        "hougang-cities-v2",
+        "pasir-ris-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Choa Chu Kang, Ang Mo Kio, Hougang und Pasir Ris von Westen nach Osten an.",
+        "hu": "Kattints Choa Chu Kangra, Ang Mo Kióra, Hougangra és Pasir Risre nyugatról keletre.",
+        "ro": "Apasă pe Choa Chu Kang, Ang Mo Kio, Hougang și Pasir Ris de la vest la est.",
+        "en": "Click Choa Chu Kang, Ang Mo Kio, Hougang and Pasir Ris from west to east."
+      }
+    },
+    {
+      "id": "sg-sequence-north-south-northeast-coast-extra",
+      "type": "sequence",
+      "poiIds": [
+        "punggol-cities-v2",
+        "sengkang-cities-v2",
+        "serangoon-cities-v2",
+        "marine-parade-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "punggol-cities-v2",
+        "sengkang-cities-v2",
+        "serangoon-cities-v2",
+        "marine-parade-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Punggol, Sengkang, Serangoon und Marine Parade von Norden nach Süden an.",
+        "hu": "Kattints Punggolra, Sengkangra, Serangoonra és Marine Parade-ra északról délre.",
+        "ro": "Apasă pe Punggol, Sengkang, Serangoon și Marine Parade de la nord la sud.",
+        "en": "Click Punggol, Sengkang, Serangoon and Marine Parade from north to south."
+      }
+    },
+    {
+      "id": "sg-sequence-west-east-waterfront-extra",
+      "type": "sequence",
+      "poiIds": [
+        "sg-mount-faber-park-relief-v2",
+        "merlion-park-landmarks-v2",
+        "singapore-flyer-landmarks-v2",
+        "sg-east-coast-park-life-v2"
+      ],
+      "orderedPoiIds": [
+        "sg-mount-faber-park-relief-v2",
+        "merlion-park-landmarks-v2",
+        "singapore-flyer-landmarks-v2",
+        "sg-east-coast-park-life-v2"
+      ],
+      "question": {
+        "de": "Klicke Mount Faber Park, Merlion Park, Singapore Flyer und East Coast Park von Westen nach Osten an.",
+        "hu": "Kattints a Mount Faber Parkra, a Merlion Parkra, a Singapore Flyerre és az East Coast Parkra nyugatról keletre.",
+        "ro": "Apasă pe Mount Faber Park, Merlion Park, Singapore Flyer și East Coast Park de la vest la est.",
+        "en": "Click Mount Faber Park, Merlion Park, Singapore Flyer and East Coast Park from west to east."
+      }
+    },
+    {
+      "id": "sg-sequence-north-south-nature-span-extra",
+      "type": "sequence",
+      "poiIds": [
+        "sg-sungei-buloh-wetland-reserve-nature-v2",
+        "sg-kranji-marshes-life-v2",
+        "sg-bukit-timah-nature-reserve-nature-v2",
+        "sg-labrador-nature-reserve-relief-v2"
+      ],
+      "orderedPoiIds": [
+        "sg-sungei-buloh-wetland-reserve-nature-v2",
+        "sg-kranji-marshes-life-v2",
+        "sg-bukit-timah-nature-reserve-nature-v2",
+        "sg-labrador-nature-reserve-relief-v2"
+      ],
+      "question": {
+        "de": "Klicke das Sungei Buloh Wetland Reserve, Kranji Marshes, das Bukit Timah Nature Reserve und das Labrador Nature Reserve von Norden nach Süden an.",
+        "hu": "Kattints a Sungei Buloh Wetland Reserve-re, a Kranji Marshesre, a Bukit Timah Nature Reserve-re és a Labrador Nature Reserve-re északról délre.",
+        "ro": "Apasă pe rezervația Sungei Buloh Wetland, Kranji Marshes, rezervația Bukit Timah Nature Reserve și Labrador Nature Reserve de la nord la sud.",
+        "en": "Click Sungei Buloh Wetland Reserve, Kranji Marshes, Bukit Timah Nature Reserve and Labrador Nature Reserve from north to south."
+      }
+    }
+  ]
+}

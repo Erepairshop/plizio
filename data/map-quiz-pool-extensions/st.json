@@ -1,0 +1,314 @@
+{
+  "st": [
+    {
+      "id": "st-find-santana-east-coast",
+      "type": "find_poi",
+      "targetPoiId": "santana-cities-v2",
+      "question": {
+        "de": "Finde Santana an der Ostküste der Insel São Tomé.",
+        "hu": "Keresd meg Santanát São Tomé szigetének keleti partján.",
+        "ro": "Găsește Santana pe coasta estică a insulei São Tomé.",
+        "en": "Find Santana on the eastern coast of São Tomé Island."
+      }
+    },
+    {
+      "id": "st-find-trindade-interior",
+      "type": "find_poi",
+      "targetPoiId": "trindade-cities-v2",
+      "question": {
+        "de": "Finde Trindade im Inselinneren von São Tomé.",
+        "hu": "Keresd meg Trindadét São Tomé belsejében.",
+        "ro": "Găsește Trindade în interiorul insulei São Tomé.",
+        "en": "Find Trindade in the interior of São Tomé Island."
+      }
+    },
+    {
+      "id": "st-find-micolo-north-coast",
+      "type": "find_poi",
+      "targetPoiId": "micolo-cities-v2",
+      "question": {
+        "de": "Finde Micoló an der Nordküste von São Tomé.",
+        "hu": "Keresd meg Micolót São Tomé északi partján.",
+        "ro": "Găsește Micoló pe coasta nordică a insulei São Tomé.",
+        "en": "Find Micoló on the northern coast of São Tomé."
+      }
+    },
+    {
+      "id": "st-find-ribeira-afonso",
+      "type": "find_poi",
+      "targetPoiId": "ribeira-afonso-cities-v2",
+      "question": {
+        "de": "Finde Ribeira Afonso an der Südostküste von São Tomé.",
+        "hu": "Keresd meg Ribeira Afonsót São Tomé délkeleti partján.",
+        "ro": "Găsește Ribeira Afonso pe coasta de sud-est a insulei São Tomé.",
+        "en": "Find Ribeira Afonso on the southeastern coast of São Tomé."
+      }
+    },
+    {
+      "id": "st-find-pantufo",
+      "type": "find_poi",
+      "targetPoiId": "pantufo-cities-v2",
+      "question": {
+        "de": "Finde Pantufo direkt östlich der Hauptstadt São Tomé.",
+        "hu": "Keresd meg Pantufót közvetlenül São Tomé fővárosától keletre.",
+        "ro": "Găsește Pantufo chiar la est de capitala São Tomé.",
+        "en": "Find Pantufo just east of the capital, São Tomé."
+      }
+    },
+    {
+      "id": "st-find-belo-monte",
+      "type": "find_poi",
+      "targetPoiId": "belo-monte-cities-v2",
+      "question": {
+        "de": "Finde Belo Monte auf der Insel Príncipe.",
+        "hu": "Keresd meg Belo Montét Príncipe szigetén.",
+        "ro": "Găsește Belo Monte pe insula Príncipe.",
+        "en": "Find Belo Monte on Príncipe Island."
+      }
+    },
+    {
+      "id": "st-region-capital-island",
+      "type": "find_region",
+      "targetRegionId": "STP-4861",
+      "question": {
+        "de": "Klicke auf die Inselregion, in der die Hauptstadt São Tomé liegt.",
+        "hu": "Kattints arra a sziget-régióra, ahol São Tomé fővárosa található.",
+        "ro": "Apasă pe regiunea insulară în care se află capitala São Tomé.",
+        "en": "Click the island region that contains the capital, São Tomé."
+      }
+    },
+    {
+      "id": "st-region-santo-antonio-island",
+      "type": "find_region",
+      "targetRegionId": "STP-4862",
+      "question": {
+        "de": "Finde die Inselregion, zu der Santo António gehört.",
+        "hu": "Keresd meg azt a sziget-régiót, amelyhez Santo António tartozik.",
+        "ro": "Găsește regiunea insulară din care face parte Santo António.",
+        "en": "Find the island region that includes Santo António."
+      }
+    },
+    {
+      "id": "st-odd-principe-southern-town",
+      "type": "odd_one_out",
+      "poiIds": [
+        "ribeira-afonso-cities-v2",
+        "sao-joao-dos-angolares-cities-v2",
+        "santana-cities-v2",
+        "santo-antonio-cities-v2"
+      ],
+      "targetPoiId": "santo-antonio-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt auf Príncipe statt auf der Insel São Tomé?",
+        "hu": "Melyik település fekszik Príncipe szigetén, nem pedig São Tomé szigetén?",
+        "ro": "Care localitate se află pe Príncipe, nu pe insula São Tomé?",
+        "en": "Which settlement lies on Príncipe rather than on São Tomé Island?"
+      }
+    },
+    {
+      "id": "st-odd-south-coast-town",
+      "type": "odd_one_out",
+      "poiIds": [
+        "micolo-cities-v2",
+        "neves-cities-v2",
+        "santana-cities-v2",
+        "sao-joao-dos-angolares-cities-v2"
+      ],
+      "targetPoiId": "sao-joao-dos-angolares-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt an der Südküste statt im Norden oder Osten von São Tomé?",
+        "hu": "Melyik város a déli parton fekszik, nem pedig São Tomé északi vagy keleti oldalán?",
+        "ro": "Care oraș se află pe coasta sudică, nu în nordul sau estul insulei São Tomé?",
+        "en": "Which town lies on the south coast rather than the north or east of São Tomé?"
+      }
+    },
+    {
+      "id": "st-odd-west-coast-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "santana-cities-v2",
+        "ribeira-afonso-cities-v2",
+        "sao-joao-dos-angolares-cities-v2",
+        "neves-cities-v2"
+      ],
+      "targetPoiId": "neves-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt an der Westküste statt an der Ost- oder Südküste von São Tomé?",
+        "hu": "Melyik város a nyugati parton fekszik, nem pedig São Tomé keleti vagy déli partján?",
+        "ro": "Care oraș se află pe coasta vestică, nu pe coasta estică sau sudică a insulei São Tomé?",
+        "en": "Which town lies on the west coast rather than the east or south coast of São Tomé?"
+      }
+    },
+    {
+      "id": "st-odd-inland-sao-tome-town",
+      "type": "odd_one_out",
+      "poiIds": [
+        "neves-cities-v2",
+        "sao-tome-cities-v2",
+        "santana-cities-v2",
+        "trindade-cities-v2"
+      ],
+      "targetPoiId": "trindade-cities-v2",
+      "question": {
+        "de": "Welche Siedlung liegt im Landesinneren statt direkt an der Küste?",
+        "hu": "Melyik település fekszik a szárazföld belsejében, nem pedig közvetlenül a tengerparton?",
+        "ro": "Care așezare se află în interior, nu direct pe coastă?",
+        "en": "Which settlement lies inland rather than directly on the coast?"
+      }
+    },
+    {
+      "id": "st-odd-east-principe-settlement",
+      "type": "odd_one_out",
+      "poiIds": [
+        "maria-correia-principe-west-cities-v2",
+        "sundy-cities-v2",
+        "ponta-do-sol-principe-north-cities-v2",
+        "nova-estrela-principe-east-cities-v2"
+      ],
+      "targetPoiId": "nova-estrela-principe-east-cities-v2",
+      "question": {
+        "de": "Welche Siedlung liegt auf der Ostseite von Príncipe statt im Westen oder Norden?",
+        "hu": "Melyik település Príncipe keleti oldalán fekszik, nem pedig nyugaton vagy északon?",
+        "ro": "Care așezare se află pe latura estică a insulei Príncipe, nu în vest sau în nord?",
+        "en": "Which settlement lies on the eastern side of Príncipe rather than in the west or north?"
+      }
+    },
+    {
+      "id": "st-odd-principe-inland-valley",
+      "type": "odd_one_out",
+      "poiIds": [
+        "sundy-cities-v2",
+        "ponta-do-sol-principe-north-cities-v2",
+        "belo-monte-principe-coast-cities-v2",
+        "esperanca-principe-valley-cities-v2"
+      ],
+      "targetPoiId": "esperanca-principe-valley-cities-v2",
+      "question": {
+        "de": "Welche Siedlung liegt im Talinneren von Príncipe statt an der Küste?",
+        "hu": "Melyik település Príncipe belső völgyében fekszik, nem pedig a parton?",
+        "ro": "Care așezare se află în valea interioară a insulei Príncipe, nu pe coastă?",
+        "en": "Which settlement lies in an inland valley of Príncipe rather than on the coast?"
+      }
+    },
+    {
+      "id": "st-order-main-island-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "neves-cities-v2",
+        "trindade-cities-v2",
+        "santana-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "neves-cities-v2",
+        "trindade-cities-v2",
+        "santana-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Neves, Trindade und Santana von Westen nach Osten an.",
+        "hu": "Kattints Nevesre, Trindadéra és Santanára nyugatról kelet felé.",
+        "ro": "Apasă Neves, Trindade și Santana de la vest la est.",
+        "en": "Click Neves, Trindade, and Santana from west to east."
+      }
+    },
+    {
+      "id": "st-order-east-coast-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "santana-cities-v2",
+        "ribeira-afonso-cities-v2",
+        "sao-joao-dos-angolares-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "santana-cities-v2",
+        "ribeira-afonso-cities-v2",
+        "sao-joao-dos-angolares-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Santana, Ribeira Afonso und São João dos Angolares von Norden nach Süden an.",
+        "hu": "Kattints Santanára, Ribeira Afonsóra és São João dos Angolaresre északról dél felé.",
+        "ro": "Apasă Santana, Ribeira Afonso și São João dos Angolares de la nord la sud.",
+        "en": "Click Santana, Ribeira Afonso, and São João dos Angolares from north to south."
+      }
+    },
+    {
+      "id": "st-order-capital-area-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "trindade-cities-v2",
+        "sao-tome-cities-v2",
+        "pantufo-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "trindade-cities-v2",
+        "sao-tome-cities-v2",
+        "pantufo-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Trindade, São Tomé und Pantufo von Westen nach Osten an.",
+        "hu": "Kattints Trindadéra, São Toméra és Pantufóra nyugatról kelet felé.",
+        "ro": "Apasă Trindade, São Tomé și Pantufo de la vest la est.",
+        "en": "Click Trindade, São Tomé, and Pantufo from west to east."
+      }
+    },
+    {
+      "id": "st-order-principe-west-east-settlements",
+      "type": "sequence",
+      "poiIds": [
+        "maria-correia-principe-west-cities-v2",
+        "santo-antonio-cities-v2",
+        "nova-estrela-principe-east-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "maria-correia-principe-west-cities-v2",
+        "santo-antonio-cities-v2",
+        "nova-estrela-principe-east-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Maria Correia, Santo António und Nova Estrela auf Príncipe von Westen nach Osten an.",
+        "hu": "Kattints Maria Correiára, Santo Antónióra és Nova Estrelára Príncipe szigetén nyugatról kelet felé.",
+        "ro": "Apasă Maria Correia, Santo António și Nova Estrela pe Príncipe de la vest la est.",
+        "en": "Click Maria Correia, Santo António, and Nova Estrela on Príncipe from west to east."
+      }
+    },
+    {
+      "id": "st-order-principe-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "ponta-do-sol-principe-north-cities-v2",
+        "santo-antonio-cities-v2",
+        "nova-estrela-principe-east-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "ponta-do-sol-principe-north-cities-v2",
+        "santo-antonio-cities-v2",
+        "nova-estrela-principe-east-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Ponta do Sol, Santo António und Nova Estrela auf Príncipe von Norden nach Süden an.",
+        "hu": "Kattints Ponta do Solra, Santo Antónióra és Nova Estrelára Príncipe szigetén északról dél felé.",
+        "ro": "Apasă Ponta do Sol, Santo António și Nova Estrela pe Príncipe de la nord la sud.",
+        "en": "Click Ponta do Sol, Santo António, and Nova Estrela on Príncipe from north to south."
+      }
+    },
+    {
+      "id": "st-order-principe-coast-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "sundy-cities-v2",
+        "picao-principe-hills-cities-v2",
+        "belo-monte-principe-coast-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "sundy-cities-v2",
+        "picao-principe-hills-cities-v2",
+        "belo-monte-principe-coast-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Sundy, Picão und Belo Monte an der Nordseite von Príncipe von Westen nach Osten an.",
+        "hu": "Kattints Sundyra, Picãóra és Belo Montéra Príncipe északi oldalán nyugatról kelet felé.",
+        "ro": "Apasă Sundy, Picão și Belo Monte de pe latura nordică a insulei Príncipe de la vest la est.",
+        "en": "Click Sundy, Picão, and Belo Monte along the north side of Príncipe from west to east."
+      }
+    }
+  ]
+}

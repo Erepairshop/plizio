@@ -1,0 +1,309 @@
+{
+  "bj": [
+    {
+      "id": "bj-find-temple-pythons",
+      "type": "find_poi",
+      "targetPoiId": "temple-pythons-ouidah-history-v2",
+      "question": {
+        "de": "Finde den Python-Tempel in Ouidah.",
+        "hu": "Keresd meg az Ouidah-i Python-templomot.",
+        "ro": "Găsește Templul Pitonilor din Ouidah.",
+        "en": "Find the Temple of Pythons in Ouidah."
+      }
+    },
+    {
+      "id": "bj-find-musee-honme",
+      "type": "find_poi",
+      "targetPoiId": "musee-honme-porto-novo-history-v2",
+      "question": {
+        "de": "Finde das Musée Honmè in Porto-Novo.",
+        "hu": "Keresd meg a Musée Honmè múzeumot Porto-Novóban.",
+        "ro": "Găsește Musée Honmè din Porto-Novo.",
+        "en": "Find Musée Honmè in Porto-Novo."
+      }
+    },
+    {
+      "id": "bj-find-tata-somba",
+      "type": "find_poi",
+      "targetPoiId": "tata-somba-houses-history-v2",
+      "question": {
+        "de": "Finde die Tata-Somba-Häuser im Nordwesten Benins.",
+        "hu": "Keresd meg a Tata Somba házakat Benin északnyugati részén.",
+        "ro": "Găsește casele Tata Somba în nord-vestul Beninului.",
+        "en": "Find the Tata Somba Houses in northwestern Benin."
+      }
+    },
+    {
+      "id": "bj-find-niger-river",
+      "type": "find_poi",
+      "targetPoiId": "niger-river-benin-nature-v2",
+      "question": {
+        "de": "Finde den Niger an Benins Nordostgrenze.",
+        "hu": "Keresd meg a Nigert Benin északkeleti határán.",
+        "ro": "Găsește fluviul Niger la granița nord-estică a Beninului.",
+        "en": "Find the Niger River on Benin's northeastern border."
+      }
+    },
+    {
+      "id": "bj-find-mont-sokbaro",
+      "type": "find_poi",
+      "targetPoiId": "mont-sokbaro-nature-v2",
+      "question": {
+        "de": "Finde den Mont Sokbaro im Département Donga.",
+        "hu": "Keresd meg a Sokbaro-hegyet Donga megyében.",
+        "ro": "Găsește muntele Sokbaro în departamentul Donga.",
+        "en": "Find Mont Sokbaro in Donga Department."
+      }
+    },
+    {
+      "id": "bj-region-atlantique",
+      "type": "find_region",
+      "targetRegionId": "BEN-2174",
+      "question": {
+        "de": "Klicke auf Atlantique westlich von Cotonou.",
+        "hu": "Kattints Atlantique megyére Cotonoutól nyugatra.",
+        "ro": "Apasă pe Atlantique, la vest de Cotonou.",
+        "en": "Click Atlantique, west of Cotonou."
+      }
+    },
+    {
+      "id": "bj-region-mono",
+      "type": "find_region",
+      "targetRegionId": "BEN-2180",
+      "question": {
+        "de": "Finde Mono im äußersten Südwesten an der Grenze zu Togo.",
+        "hu": "Keresd meg Monót a legdélnyugatibb részen, Togo határán.",
+        "ro": "Găsește Mono în extremul sud-vest, la granița cu Togo.",
+        "en": "Find Mono in the far southwest on the border with Togo."
+      }
+    },
+    {
+      "id": "bj-region-borgou",
+      "type": "find_region",
+      "targetRegionId": "BEN-2169",
+      "question": {
+        "de": "Klicke auf Borgou, die Region von Parakou und Nikki.",
+        "hu": "Kattints Borgou megyére, Parakou és Nikki térségére.",
+        "ro": "Apasă pe Borgou, regiunea orașelor Parakou și Nikki.",
+        "en": "Click Borgou, the region of Parakou and Nikki."
+      }
+    },
+    {
+      "id": "bj-region-donga",
+      "type": "find_region",
+      "targetRegionId": "BEN-2182",
+      "question": {
+        "de": "Finde Donga im nördlichen Binnenland südlich von Atakora.",
+        "hu": "Keresd meg Dongát az északi belső területen, Atakora déli oldalán.",
+        "ro": "Găsește Donga în interiorul nordic, la sud de Atakora.",
+        "en": "Find Donga in the northern interior just south of Atakora."
+      }
+    },
+    {
+      "id": "bj-region-collines",
+      "type": "find_region",
+      "targetRegionId": "BEN-2171",
+      "question": {
+        "de": "Klicke auf Collines im zentralen Benin rund um Dassa und Savè.",
+        "hu": "Kattints Collines megyére Benin középső részén, Dassa és Savè körül.",
+        "ro": "Apasă pe Collines în centrul Beninului, în jurul localităților Dassa și Savè.",
+        "en": "Click Collines in central Benin around Dassa and Savè."
+      }
+    },
+    {
+      "id": "bj-odd-ouidah",
+      "type": "odd_one_out",
+      "poiIds": [
+        "temple-pythons-ouidah-history-v2",
+        "portuguese-fort-ouidah-history-v2",
+        "door-no-return-ouidah-history-v2",
+        "great-mosque-porto-novo-history-v2"
+      ],
+      "targetPoiId": "great-mosque-porto-novo-history-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht in Ouidah?",
+        "hu": "Melyik hely nem Ouidahban található?",
+        "ro": "Care loc nu se află în Ouidah?",
+        "en": "Which place is not in Ouidah?"
+      }
+    },
+    {
+      "id": "bj-odd-alibori",
+      "type": "odd_one_out",
+      "poiIds": [
+        "w-park-buffalo-range-life-v2",
+        "alibori-elephant-habitat-life-v2",
+        "kandi-basin-relief-v2",
+        "royal-palaces-abomey-history-v2"
+      ],
+      "targetPoiId": "royal-palaces-abomey-history-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht im Département Alibori?",
+        "hu": "Melyik hely nem Alibori megyében található?",
+        "ro": "Care loc nu se află în departamentul Alibori?",
+        "en": "Which place is not in Alibori Department?"
+      }
+    },
+    {
+      "id": "bj-odd-cotonou",
+      "type": "odd_one_out",
+      "poiIds": [
+        "port-autonome-cotonou-landmarks-v2",
+        "marche-dantokpa-cotonou-landmarks-v2",
+        "aeroport-cadjehoun-cotonou-landmarks-v2",
+        "grand-marche-parakou-landmarks-v2"
+      ],
+      "targetPoiId": "grand-marche-parakou-landmarks-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht in Cotonou?",
+        "hu": "Melyik hely nem Cotonouban található?",
+        "ro": "Care loc nu se află în Cotonou?",
+        "en": "Which place is not in Cotonou?"
+      }
+    },
+    {
+      "id": "bj-odd-donga",
+      "type": "odd_one_out",
+      "poiIds": [
+        "mont-sokbaro-nature-v2",
+        "donga-river-nature-v2",
+        "djougou-cashew-plantations-life-v2",
+        "tata-somba-houses-history-v2"
+      ],
+      "targetPoiId": "tata-somba-houses-history-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht im Département Donga?",
+        "hu": "Melyik hely nem Donga megyében található?",
+        "ro": "Care loc nu se află în departamentul Donga?",
+        "en": "Which place is not in Donga Department?"
+      }
+    },
+    {
+      "id": "bj-odd-southern-water",
+      "type": "odd_one_out",
+      "poiIds": [
+        "lake-nokoue-nature-v2",
+        "mono-river-nature-v2",
+        "lake-aheme-nature-v2",
+        "niger-river-benin-nature-v2"
+      ],
+      "targetPoiId": "niger-river-benin-nature-v2",
+      "question": {
+        "de": "Welches Gewässer liegt nicht im Süden Benins?",
+        "hu": "Melyik vízrajzi elem nem Benin déli részén található?",
+        "ro": "Care întindere de apă nu se află în sudul Beninului?",
+        "en": "Which body of water is not in southern Benin?"
+      }
+    },
+    {
+      "id": "bj-sequence-east-corridor-south-north",
+      "type": "sequence",
+      "poiIds": [
+        "great-mosque-porto-novo-history-v2",
+        "zuckerfabrik-sucobe-save-economic-v2",
+        "grand-marche-parakou-landmarks-v2",
+        "niger-river-benin-nature-v2"
+      ],
+      "orderedPoiIds": [
+        "great-mosque-porto-novo-history-v2",
+        "zuckerfabrik-sucobe-save-economic-v2",
+        "grand-marche-parakou-landmarks-v2",
+        "niger-river-benin-nature-v2"
+      ],
+      "question": {
+        "de": "Klicke Porto-Novo, Savè, Parakou und den Niger von Süden nach Norden an.",
+        "hu": "Kattints Porto-Novóra, Savère, Parakoura és a Nigerre délről észak felé.",
+        "ro": "Apasă Porto-Novo, Savè, Parakou și fluviul Niger de la sud la nord.",
+        "en": "Click Porto-Novo, Savè, Parakou and the Niger River from south to north."
+      }
+    },
+    {
+      "id": "bj-sequence-coast-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "grand-popo-turtle-beach-life-v2",
+        "door-no-return-ouidah-history-v2",
+        "aeroport-cadjehoun-cotonou-landmarks-v2",
+        "great-mosque-porto-novo-history-v2"
+      ],
+      "orderedPoiIds": [
+        "grand-popo-turtle-beach-life-v2",
+        "door-no-return-ouidah-history-v2",
+        "aeroport-cadjehoun-cotonou-landmarks-v2",
+        "great-mosque-porto-novo-history-v2"
+      ],
+      "question": {
+        "de": "Klicke Grand-Popo, Ouidah, den Flughafen von Cotonou und Porto-Novo von Westen nach Osten an.",
+        "hu": "Kattints Grand-Popóra, Ouidahra, a cotonoui repülőtérre és Porto-Novóra nyugatról kelet felé.",
+        "ro": "Apasă Grand-Popo, Ouidah, aeroportul din Cotonou și Porto-Novo de la vest la est.",
+        "en": "Click Grand-Popo, Ouidah, Cotonou Airport and Porto-Novo from west to east."
+      }
+    },
+    {
+      "id": "bj-sequence-northwest-south-north",
+      "type": "sequence",
+      "poiIds": [
+        "royal-palace-kouande-history-v2",
+        "tanguieta-baobab-forest-life-v2",
+        "pendjari-river-nature-v2",
+        "w-park-buffalo-range-life-v2"
+      ],
+      "orderedPoiIds": [
+        "royal-palace-kouande-history-v2",
+        "tanguieta-baobab-forest-life-v2",
+        "pendjari-river-nature-v2",
+        "w-park-buffalo-range-life-v2"
+      ],
+      "question": {
+        "de": "Klicke Kouandé, Tanguiéta, den Pendjari-Fluss und den W-Nationalpark von Süden nach Norden an.",
+        "hu": "Kattints Kouandéra, Tanguiétára, a Pendjari folyóra és a W Nemzeti Parkra délről észak felé.",
+        "ro": "Apasă Kouandé, Tanguiéta, râul Pendjari și Parcul Național W de la sud la nord.",
+        "en": "Click Kouandé, Tanguiéta, the Pendjari River and W National Park from south to north."
+      }
+    },
+    {
+      "id": "bj-sequence-northern-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "tata-somba-houses-history-v2",
+        "djougou-cashew-plantations-life-v2",
+        "grand-marche-parakou-landmarks-v2",
+        "palace-king-nikki-history-v2"
+      ],
+      "orderedPoiIds": [
+        "tata-somba-houses-history-v2",
+        "djougou-cashew-plantations-life-v2",
+        "grand-marche-parakou-landmarks-v2",
+        "palace-king-nikki-history-v2"
+      ],
+      "question": {
+        "de": "Klicke die Tata-Somba-Häuser, Djougou, Parakou und Nikki von Westen nach Osten an.",
+        "hu": "Kattints a Tata Somba házakra, Djougoura, Parakoura és Nikkire nyugatról kelet felé.",
+        "ro": "Apasă casele Tata Somba, Djougou, Parakou și Nikki de la vest la est.",
+        "en": "Click the Tata Somba Houses, Djougou, Parakou and Nikki from west to east."
+      }
+    },
+    {
+      "id": "bj-sequence-relief-south-north",
+      "type": "sequence",
+      "poiIds": [
+        "lake-nokoue-nature-v2",
+        "dassa-hills-relief-v2",
+        "mont-sokbaro-nature-v2",
+        "pendjari-plain-relief-v2"
+      ],
+      "orderedPoiIds": [
+        "lake-nokoue-nature-v2",
+        "dassa-hills-relief-v2",
+        "mont-sokbaro-nature-v2",
+        "pendjari-plain-relief-v2"
+      ],
+      "question": {
+        "de": "Klicke den Nokoué-See, die Dassa-Hügel, den Mont Sokbaro und die Pendjari-Ebene von Süden nach Norden an.",
+        "hu": "Kattints a Nokoué-tóra, a Dassa-dombokra, a Sokbaro-hegyre és a Pendjari-síkságra délről észak felé.",
+        "ro": "Apasă lacul Nokoué, dealurile Dassa, muntele Sokbaro și câmpia Pendjari de la sud la nord.",
+        "en": "Click Lake Nokoué, the Dassa Hills, Mont Sokbaro and the Pendjari Plain from south to north."
+      }
+    }
+  ]
+}

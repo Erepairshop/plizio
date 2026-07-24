@@ -1,0 +1,309 @@
+{
+  "za": [
+    {
+      "id": "za-find-pretoria-executive-capital",
+      "type": "find_poi",
+      "targetPoiId": "southafrica-pretoria-cities-v2",
+      "question": {
+        "de": "Finde Pretoria, die Exekutivhauptstadt Südafrikas.",
+        "hu": "Keresd meg Pretoriát, Dél-Afrika végrehajtó fővárosát.",
+        "ro": "Găsește Pretoria, capitala executivă a Africii de Sud.",
+        "en": "Find Pretoria, the executive capital of South Africa."
+      }
+    },
+    {
+      "id": "za-find-mahikeng-north-west-capital",
+      "type": "find_poi",
+      "targetPoiId": "southafrica-mahikeng-cities-v2",
+      "question": {
+        "de": "Finde Mahikeng, die Hauptstadt der Provinz North West.",
+        "hu": "Keresd meg Mahikenget, a North West tartomány fővárosát.",
+        "ro": "Găsește Mahikeng, capitala provinciei North West.",
+        "en": "Find Mahikeng, the capital of North West Province."
+      }
+    },
+    {
+      "id": "za-find-upington-orange-river",
+      "type": "find_poi",
+      "targetPoiId": "southafrica-upington-cities-v2",
+      "question": {
+        "de": "Finde Upington am Oranje im trockenen Nordwesten.",
+        "hu": "Keresd meg Upingtont az Oranje folyónál, a száraz északnyugaton.",
+        "ro": "Găsește Upington pe râul Orange, în nord-vestul arid.",
+        "en": "Find Upington on the Orange River in the arid northwest."
+      }
+    },
+    {
+      "id": "za-find-kruger-national-park",
+      "type": "find_poi",
+      "targetPoiId": "kruger-national-park-life-v2",
+      "question": {
+        "de": "Finde den Kruger-Nationalpark im Nordosten Südafrikas.",
+        "hu": "Keresd meg a Kruger Nemzeti Parkot Dél-Afrika északkeleti részén.",
+        "ro": "Găsește Parcul Național Kruger în nord-estul Africii de Sud.",
+        "en": "Find Kruger National Park in northeastern South Africa."
+      }
+    },
+    {
+      "id": "za-find-table-mountain",
+      "type": "find_poi",
+      "targetPoiId": "table-mountain-nature-v2",
+      "question": {
+        "de": "Finde den Tafelberg oberhalb von Kapstadt.",
+        "hu": "Keresd meg az Asztal-hegyet Fokváros fölött.",
+        "ro": "Găsește Table Mountain deasupra orașului Cape Town.",
+        "en": "Find Table Mountain above Cape Town."
+      }
+    },
+    {
+      "id": "za-region-eastern-cape",
+      "type": "find_region",
+      "targetRegionId": "ZAF-1926",
+      "question": {
+        "de": "Klicke auf die Provinz Eastern Cape an der Südostküste.",
+        "hu": "Kattints az Eastern Cape tartományra a délkeleti partvidéken.",
+        "ro": "Apasă pe provincia Eastern Cape de pe coasta sud-estică.",
+        "en": "Click Eastern Cape Province on the southeastern coast."
+      }
+    },
+    {
+      "id": "za-region-free-state",
+      "type": "find_region",
+      "targetRegionId": "ZAF-1206",
+      "question": {
+        "de": "Finde den Free State im zentralen Binnenland.",
+        "hu": "Keresd meg a Free State tartományt a központi belső területen.",
+        "ro": "Găsește provincia Free State din interiorul central.",
+        "en": "Find Free State in the central interior."
+      }
+    },
+    {
+      "id": "za-region-limpopo",
+      "type": "find_region",
+      "targetRegionId": "ZAF-1210",
+      "question": {
+        "de": "Klicke auf Limpopo im äußersten Norden.",
+        "hu": "Kattints Limpopo tartományra a legészakibb részen.",
+        "ro": "Apasă pe Limpopo din extremul nord.",
+        "en": "Click Limpopo in the far north."
+      }
+    },
+    {
+      "id": "za-region-mpumalanga",
+      "type": "find_region",
+      "targetRegionId": "ZAF-1209",
+      "question": {
+        "de": "Finde Mpumalanga östlich von Gauteng.",
+        "hu": "Keresd meg Mpumalanga tartományt Gautengtől keletre.",
+        "ro": "Găsește Mpumalanga la est de Gauteng.",
+        "en": "Find Mpumalanga east of Gauteng."
+      }
+    },
+    {
+      "id": "za-region-northern-cape",
+      "type": "find_region",
+      "targetRegionId": "ZAF-1188",
+      "question": {
+        "de": "Klicke auf Northern Cape, die flächenmäßig größte Provinz.",
+        "hu": "Kattints a Northern Cape tartományra, amely területre a legnagyobb.",
+        "ro": "Apasă pe Northern Cape, cea mai mare provincie ca suprafață.",
+        "en": "Click Northern Cape, the largest province by area."
+      }
+    },
+    {
+      "id": "za-odd-not-provincial-capital",
+      "type": "odd_one_out",
+      "poiIds": [
+        "southafrica-bhisho-cities-v2",
+        "southafrica-kimberley-cities-v2",
+        "southafrica-mahikeng-cities-v2",
+        "southafrica-durban-cities-v2"
+      ],
+      "targetPoiId": "southafrica-durban-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte ist keine Provinzhauptstadt?",
+        "hu": "Melyik város nem tartományi főváros ezek közül?",
+        "ro": "Care dintre aceste orașe nu este capitală de provincie?",
+        "en": "Which of these cities is not a provincial capital?"
+      }
+    },
+    {
+      "id": "za-odd-not-indian-ocean-coast",
+      "type": "odd_one_out",
+      "poiIds": [
+        "southafrica-durban-cities-v2",
+        "southafrica-richards-bay-cities-v2",
+        "southafrica-port-shepstone-cities-v2",
+        "southafrica-cape-town-cities-v2"
+      ],
+      "targetPoiId": "southafrica-cape-town-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt nicht am Indischen Ozean?",
+        "hu": "Melyik város nem az Indiai-óceán partján fekszik?",
+        "ro": "Care dintre aceste orașe nu se află la Oceanul Indian?",
+        "en": "Which of these cities is not on the Indian Ocean?"
+      }
+    },
+    {
+      "id": "za-odd-not-in-gauteng",
+      "type": "odd_one_out",
+      "poiIds": [
+        "union-buildings-history-v2",
+        "constitution-hill-history-v2",
+        "south-africa-soweto-cities-v2",
+        "table-mountain-nature-v2"
+      ],
+      "targetPoiId": "table-mountain-nature-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht in Gauteng?",
+        "hu": "Melyik hely nem Gauteng tartományban található?",
+        "ro": "Care loc nu se află în Gauteng?",
+        "en": "Which place is not in Gauteng?"
+      }
+    },
+    {
+      "id": "za-odd-not-a-port",
+      "type": "odd_one_out",
+      "poiIds": [
+        "port-of-durban-economic-v2",
+        "port-of-cape-town-economic-v2",
+        "port-of-richards-bay-economic-v2",
+        "cullinan-diamond-mine-economic-v2"
+      ],
+      "targetPoiId": "cullinan-diamond-mine-economic-v2",
+      "question": {
+        "de": "Welcher dieser Punkte ist kein Seehafen?",
+        "hu": "Melyik pont nem tengeri kikötő?",
+        "ro": "Care dintre aceste puncte nu este un port maritim?",
+        "en": "Which of these points is not a seaport?"
+      }
+    },
+    {
+      "id": "za-odd-not-in-western-cape",
+      "type": "odd_one_out",
+      "poiIds": [
+        "table-mountain-nature-v2",
+        "cape-point-nature-life-v2",
+        "robben-island-nature-v2",
+        "drakensberg-nature-v2"
+      ],
+      "targetPoiId": "drakensberg-nature-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht in der Provinz Western Cape?",
+        "hu": "Melyik hely nem a Western Cape tartományban található?",
+        "ro": "Care loc nu se află în provincia Western Cape?",
+        "en": "Which place is not in Western Cape Province?"
+      }
+    },
+    {
+      "id": "za-sequence-west-east-western-cape-cities",
+      "type": "sequence",
+      "poiIds": [
+        "southafrica-saldanha-cities-v2",
+        "southafrica-cape-town-cities-v2",
+        "southafrica-stellenbosch-cities-v2",
+        "southafrica-george-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "southafrica-saldanha-cities-v2",
+        "southafrica-cape-town-cities-v2",
+        "southafrica-stellenbosch-cities-v2",
+        "southafrica-george-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Saldanha, Kapstadt, Stellenbosch und George von West nach Ost an.",
+        "hu": "Kattints Saldanhára, Fokvárosra, Stellenboschra és George-ra nyugatról keletre.",
+        "ro": "Apasă Saldanha, Cape Town, Stellenbosch și George de la vest la est.",
+        "en": "Click Saldanha, Cape Town, Stellenbosch and George from west to east."
+      }
+    },
+    {
+      "id": "za-sequence-north-south-interior-corridor",
+      "type": "sequence",
+      "poiIds": [
+        "southafrica-polokwane-cities-v2",
+        "southafrica-pretoria-cities-v2",
+        "southafrica-standerton-cities-v2",
+        "southafrica-pietermaritzburg-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "southafrica-polokwane-cities-v2",
+        "southafrica-pretoria-cities-v2",
+        "southafrica-standerton-cities-v2",
+        "southafrica-pietermaritzburg-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Polokwane, Pretoria, Standerton und Pietermaritzburg von Nord nach Süd an.",
+        "hu": "Kattints Polokwanéra, Pretoriára, Standertonra és Pietermaritzburgra északról délre.",
+        "ro": "Apasă Polokwane, Pretoria, Standerton și Pietermaritzburg de la nord la sud.",
+        "en": "Click Polokwane, Pretoria, Standerton and Pietermaritzburg from north to south."
+      }
+    },
+    {
+      "id": "za-sequence-west-east-upington-to-durban",
+      "type": "sequence",
+      "poiIds": [
+        "southafrica-upington-cities-v2",
+        "southafrica-kimberley-cities-v2",
+        "southafrica-bloemfontein-cities-v2",
+        "southafrica-durban-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "southafrica-upington-cities-v2",
+        "southafrica-kimberley-cities-v2",
+        "southafrica-bloemfontein-cities-v2",
+        "southafrica-durban-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Upington, Kimberley, Bloemfontein und Durban von West nach Ost an.",
+        "hu": "Kattints Upingtonra, Kimberleyre, Bloemfonteinre és Durbanra nyugatról keletre.",
+        "ro": "Apasă Upington, Kimberley, Bloemfontein și Durban de la vest la est.",
+        "en": "Click Upington, Kimberley, Bloemfontein and Durban from west to east."
+      }
+    },
+    {
+      "id": "za-sequence-north-south-limpopo-lowveld",
+      "type": "sequence",
+      "poiIds": [
+        "southafrica-thohoyandou-cities-v2",
+        "southafrica-tzaneen-cities-v2",
+        "south-africa-hoedspruit-cities-v2",
+        "southafrica-mbombela-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "southafrica-thohoyandou-cities-v2",
+        "southafrica-tzaneen-cities-v2",
+        "south-africa-hoedspruit-cities-v2",
+        "southafrica-mbombela-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Thohoyandou, Tzaneen, Hoedspruit und Mbombela von Nord nach Süd an.",
+        "hu": "Kattints Thohoyandoura, Tzaneenre, Hoedspruitra és Mbombelára északról délre.",
+        "ro": "Apasă Thohoyandou, Tzaneen, Hoedspruit și Mbombela de la nord la sud.",
+        "en": "Click Thohoyandou, Tzaneen, Hoedspruit and Mbombela from north to south."
+      }
+    },
+    {
+      "id": "za-sequence-west-east-northwest-to-lowveld",
+      "type": "sequence",
+      "poiIds": [
+        "southafrica-mahikeng-cities-v2",
+        "southafrica-rustenburg-cities-v2",
+        "southafrica-pretoria-cities-v2",
+        "southafrica-mbombela-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "southafrica-mahikeng-cities-v2",
+        "southafrica-rustenburg-cities-v2",
+        "southafrica-pretoria-cities-v2",
+        "southafrica-mbombela-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Mahikeng, Rustenburg, Pretoria und Mbombela von West nach Ost an.",
+        "hu": "Kattints Mahikengre, Rustenburgra, Pretoriára és Mbombelára nyugatról keletre.",
+        "ro": "Apasă Mahikeng, Rustenburg, Pretoria și Mbombela de la vest la est.",
+        "en": "Click Mahikeng, Rustenburg, Pretoria and Mbombela from west to east."
+      }
+    }
+  ]
+}

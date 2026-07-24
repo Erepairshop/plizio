@@ -1,0 +1,287 @@
+{
+  "nl": [
+    {
+      "id": "nl-find-amsterdam-new",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Amsterdam, die Hauptstadt der Niederlande.",
+        "hu": "Keresd meg Amszterdamot, Hollandia fovarosat.",
+        "ro": "Gaseste Amsterdam, capitala Tarilor de Jos.",
+        "en": "Find Amsterdam, the capital of the Netherlands."
+      },
+      "targetPoiId": "NL-CT-AMS"
+    },
+    {
+      "id": "nl-find-the-hague-new",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Den Haag an der Nordseekueste?",
+        "hu": "Hol talalhato Haga az Eszaki-tenger partjan?",
+        "ro": "Unde se afla Haga pe coasta Marii Nordului?",
+        "en": "Where is The Hague on the North Sea coast?"
+      },
+      "targetPoiId": "NL-CT-HAA"
+    },
+    {
+      "id": "nl-find-leeuwarden-new",
+      "type": "find_poi",
+      "question": {
+        "de": "Klicke auf Leeuwarden, die Hauptstadt von Friesland.",
+        "hu": "Kattints Leeuwardenre, Friesland fovarosara.",
+        "ro": "Apasa pe Leeuwarden, capitala Friziei.",
+        "en": "Click Leeuwarden, the capital of Friesland."
+      },
+      "targetPoiId": "netherlands-leeuwarden-cities-v2"
+    },
+    {
+      "id": "nl-find-eindhoven-new",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Eindhoven im Sueden der Niederlande.",
+        "hu": "Keresd meg Eindhovent Hollandia deli reszen.",
+        "ro": "Gaseste Eindhoven in sudul Tarilor de Jos.",
+        "en": "Find Eindhoven in the south of the Netherlands."
+      },
+      "targetPoiId": "NL-CT-EIN"
+    },
+    {
+      "id": "nl-find-arnhem-new",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt Arnhem in Gelderland?",
+        "hu": "Hol talalhato Arnhem Gelderland tartomanyban?",
+        "ro": "Unde se afla Arnhem in Gelderland?",
+        "en": "Where is Arnhem in Gelderland?"
+      },
+      "targetPoiId": "nl-arnhem"
+    },
+    {
+      "id": "nl-find-dom-tower-new",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde den Domturm in Utrecht.",
+        "hu": "Keresd meg az utrechti Dom tornyot.",
+        "ro": "Gaseste Turnul Dom din Utrecht.",
+        "en": "Find the Dom Tower in Utrecht."
+      },
+      "targetPoiId": "netherlands-dom-tower-utrecht-landmarks-v2"
+    },
+    {
+      "id": "nl-find-het-loo-new",
+      "type": "find_poi",
+      "question": {
+        "de": "Klicke auf Paleis Het Loo bei Apeldoorn.",
+        "hu": "Kattints a Paleis Het Loora Apeldoorn mellett.",
+        "ro": "Apasa pe Palatul Het Loo de langa Apeldoorn.",
+        "en": "Click Paleis Het Loo near Apeldoorn."
+      },
+      "targetPoiId": "netherlands-het-loo-palace-apeldoorn-landmarks-v2"
+    },
+    {
+      "id": "nl-find-markthal-new",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde die Markthal in Rotterdam.",
+        "hu": "Keresd meg a rotterdami Markthalt.",
+        "ro": "Gaseste Markthal din Rotterdam.",
+        "en": "Find the Markthal in Rotterdam."
+      },
+      "targetPoiId": "netherlands-markthal-rotterdam-landmarks-v2"
+    },
+    {
+      "id": "nl-region-flevoland-new",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf die Provinz Flevoland.",
+        "hu": "Kattints Flevoland tartomanyra.",
+        "ro": "Apasa pe provincia Flevoland.",
+        "en": "Click the province of Flevoland."
+      },
+      "targetRegionId": "NL-FL"
+    },
+    {
+      "id": "nl-region-north-holland-new",
+      "type": "find_region",
+      "question": {
+        "de": "Wo liegt die Provinz Nordholland?",
+        "hu": "Hol talalhato Eszak-Holland tartomany?",
+        "ro": "Unde se afla provincia Olanda de Nord?",
+        "en": "Where is the province of North Holland?"
+      },
+      "targetRegionId": "NL-NH"
+    },
+    {
+      "id": "nl-region-south-holland-new",
+      "type": "find_region",
+      "question": {
+        "de": "Finde die Provinz Suedholland.",
+        "hu": "Keresd meg Del-Holland tartomanyt.",
+        "ro": "Gaseste provincia Olanda de Sud.",
+        "en": "Find the province of South Holland."
+      },
+      "targetRegionId": "NL-ZH"
+    },
+    {
+      "id": "nl-region-overijssel-new",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf die Provinz Overijssel im Osten des Landes.",
+        "hu": "Kattints az orszag keleti reszen levo Overijssel tartomanyra.",
+        "ro": "Apasa pe provincia Overijssel din estul tarii.",
+        "en": "Click the province of Overijssel in the east of the country."
+      },
+      "targetRegionId": "NL-OV"
+    },
+    {
+      "id": "nl-region-north-brabant-new",
+      "type": "find_region",
+      "question": {
+        "de": "Wo liegt die Provinz Nordbrabant?",
+        "hu": "Hol talalhato Eszak-Brabant tartomany?",
+        "ro": "Unde se afla provincia Brabantul de Nord?",
+        "en": "Where is the province of North Brabant?"
+      },
+      "targetRegionId": "NL-NB"
+    },
+    {
+      "id": "nl-odd-north-holland-city-new",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Staedte liegt in Nordholland und nicht in Suedholland?",
+        "hu": "E varosok kozul melyik fekszik Eszak-Hollandban, es nem Del-Hollandban?",
+        "ro": "Care dintre aceste orase se afla in Olanda de Nord, nu in Olanda de Sud?",
+        "en": "Which of these cities is in North Holland rather than South Holland?"
+      },
+      "poiIds": [
+        "NL-CT-AMS",
+        "NL-CT-ROT",
+        "NL-CT-LEI",
+        "NL-CT-DEL"
+      ],
+      "targetPoiId": "NL-CT-AMS"
+    },
+    {
+      "id": "nl-odd-not-gelderland-new",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welche dieser Staedte liegt nicht in Gelderland?",
+        "hu": "Melyik varos nem Gelderland tartomanyban talalhato?",
+        "ro": "Care dintre aceste orase nu se afla in Gelderland?",
+        "en": "Which of these cities is not in Gelderland?"
+      },
+      "poiIds": [
+        "nl-arnhem",
+        "NL-CT-NIJ",
+        "netherlands-apeldoorn-cities-v2",
+        "nl-zwolle"
+      ],
+      "targetPoiId": "nl-zwolle"
+    },
+    {
+      "id": "nl-odd-utrecht-landmark-new",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher dieser Orte ist ein Wahrzeichen in Utrecht und keine Stadt?",
+        "hu": "E helyek kozul melyik egy utrechti nevezetesseg, es nem varos?",
+        "ro": "Care dintre aceste locuri este un reper din Utrecht si nu un oras?",
+        "en": "Which of these places is a landmark in Utrecht rather than a city?"
+      },
+      "poiIds": [
+        "netherlands-dom-tower-utrecht-landmarks-v2",
+        "NL-CT-AMS",
+        "netherlands-groningen-cities-v2",
+        "NL-CT-EIN"
+      ],
+      "targetPoiId": "netherlands-dom-tower-utrecht-landmarks-v2"
+    },
+    {
+      "id": "nl-odd-friesland-port-new",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher dieser Haefen liegt in Friesland und nicht in Nordholland oder Zeeland?",
+        "hu": "E kikotok kozul melyik fekszik Frieslandban, es nem Eszak-Hollandban vagy Zeelandban?",
+        "ro": "Care dintre aceste porturi se afla in Frizia, nu in Olanda de Nord sau Zeeland?",
+        "en": "Which of these ports is in Friesland rather than North Holland or Zeeland?"
+      },
+      "poiIds": [
+        "netherlands-port-harlingen-economic-v2",
+        "netherlands-port-den-helder-economic-v2",
+        "netherlands-port-vlissingen-economic-v2",
+        "netherlands-port-terneuzen-economic-v2"
+      ],
+      "targetPoiId": "netherlands-port-harlingen-economic-v2"
+    },
+    {
+      "id": "nl-sequence-west-east-cities-new",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Alkmaar, Amsterdam, Utrecht, Apeldoorn und Enschede von West nach Ost an.",
+        "hu": "Kattints Alkmaarra, Amszterdamra, Utrechtre, Apeldoornra es Enschedera nyugatrol keletre.",
+        "ro": "Apasa pe Alkmaar, Amsterdam, Utrecht, Apeldoorn si Enschede de la vest la est.",
+        "en": "Click Alkmaar, Amsterdam, Utrecht, Apeldoorn, and Enschede from west to east."
+      },
+      "poiIds": [
+        "nl-alkmaar",
+        "NL-CT-AMS",
+        "netherlands-utrecht-cities-v2",
+        "netherlands-apeldoorn-cities-v2",
+        "nl-enschede"
+      ],
+      "orderedPoiIds": [
+        "nl-alkmaar",
+        "NL-CT-AMS",
+        "netherlands-utrecht-cities-v2",
+        "netherlands-apeldoorn-cities-v2",
+        "nl-enschede"
+      ]
+    },
+    {
+      "id": "nl-sequence-north-south-cities-new",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Leeuwarden, Zwolle, Arnhem, Eindhoven und Maastricht von Nord nach Sued an.",
+        "hu": "Kattints Leeuwardenre, Zwolle-ra, Arnhemre, Eindhovenre es Maastrichtre eszakrol delre.",
+        "ro": "Apasa pe Leeuwarden, Zwolle, Arnhem, Eindhoven si Maastricht de la nord la sud.",
+        "en": "Click Leeuwarden, Zwolle, Arnhem, Eindhoven, and Maastricht from north to south."
+      },
+      "poiIds": [
+        "netherlands-leeuwarden-cities-v2",
+        "nl-zwolle",
+        "nl-arnhem",
+        "NL-CT-EIN",
+        "NL-CT-MAA"
+      ],
+      "orderedPoiIds": [
+        "netherlands-leeuwarden-cities-v2",
+        "nl-zwolle",
+        "nl-arnhem",
+        "NL-CT-EIN",
+        "NL-CT-MAA"
+      ]
+    },
+    {
+      "id": "nl-sequence-south-north-coast-new",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke Terneuzen, Vlissingen, Den Haag, Haarlem und Den Helder von Sued nach Nord an.",
+        "hu": "Kattints Terneuzenre, Vlissingenre, Hagara, Haarlemre es Den Helderre delrol eszakra.",
+        "ro": "Apasa pe Terneuzen, Vlissingen, Haga, Haarlem si Den Helder de la sud la nord.",
+        "en": "Click Terneuzen, Vlissingen, The Hague, Haarlem, and Den Helder from south to north."
+      },
+      "poiIds": [
+        "netherlands-terneuzen-cities-v2",
+        "netherlands-vlissingen-cities-v2",
+        "NL-CT-HAA",
+        "NL-CT-HAR",
+        "netherlands-den-helder-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "netherlands-terneuzen-cities-v2",
+        "netherlands-vlissingen-cities-v2",
+        "NL-CT-HAA",
+        "NL-CT-HAR",
+        "netherlands-den-helder-cities-v2"
+      ]
+    }
+  ]
+}

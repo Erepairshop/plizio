@@ -1,0 +1,299 @@
+{
+  "cm": [
+    {
+      "id": "cm-find-garoua",
+      "type": "find_poi",
+      "targetPoiId": "cameroon-garoua-cities-v2",
+      "question": {
+        "de": "Finde Garoua am Benue-Fluss im Norden Kameruns.",
+        "hu": "Keresd meg Garouát a Benue folyó mentén, Kamerun északi részén.",
+        "ro": "Găsește Garoua pe râul Benue, în nordul Camerunului.",
+        "en": "Find Garoua on the Benue River in northern Cameroon."
+      }
+    },
+    {
+      "id": "cm-find-buea",
+      "type": "find_poi",
+      "targetPoiId": "cameroon-buea-cities-v2",
+      "question": {
+        "de": "Finde Buea am Südosthang des Kamerunbergs.",
+        "hu": "Keresd meg Bueát a Kamerun-hegy délkeleti lejtőjén.",
+        "ro": "Găsește Buea pe versantul sud-estic al Muntelui Camerun.",
+        "en": "Find Buea on the southeastern slope of Mount Cameroon."
+      }
+    },
+    {
+      "id": "cm-find-kribi",
+      "type": "find_poi",
+      "targetPoiId": "cameroon-kribi-cities-v2",
+      "question": {
+        "de": "Finde Kribi an der südlichen Atlantikküste Kameruns.",
+        "hu": "Keresd meg Kribit Kamerun déli atlanti partvidékén.",
+        "ro": "Găsește Kribi pe coasta atlantică sudică a Camerunului.",
+        "en": "Find Kribi on Cameroon's southern Atlantic coast."
+      }
+    },
+    {
+      "id": "cm-find-lake-nyos",
+      "type": "find_poi",
+      "targetPoiId": "lake-nyos-nature-v2",
+      "question": {
+        "de": "Finde den Nyos-See im nordwestlichen Hochland.",
+        "hu": "Keresd meg a Nyos-tavat az északnyugati fennsíkon.",
+        "ro": "Găsește lacul Nyos în înălțimile din nord-vest.",
+        "en": "Find Lake Nyos in the northwestern highlands."
+      }
+    },
+    {
+      "id": "cm-find-lake-chad",
+      "type": "find_poi",
+      "targetPoiId": "lake-chad-nature-v2",
+      "question": {
+        "de": "Finde den Tschadsee am äußersten Nordrand Kameruns.",
+        "hu": "Keresd meg a Csád-tavat Kamerun legészakibb peremén.",
+        "ro": "Găsește lacul Ciad la marginea extrem nordică a Camerunului.",
+        "en": "Find Lake Chad at Cameroon's far northern edge."
+      }
+    },
+    {
+      "id": "cm-region-adamaoua",
+      "type": "find_region",
+      "targetRegionId": "CMR-1482",
+      "question": {
+        "de": "Klicke auf Adamaoua, die breite Plateau-Region im Zentrum des Nordens.",
+        "hu": "Kattints Adamaoua régióra, a széles fennsíkvidékre az ország középső-északi részén.",
+        "ro": "Apasă pe Adamaoua, regiunea de podiș întinsă din centrul nordului țării.",
+        "en": "Click Adamaoua, the broad plateau region in the center-north of the country."
+      }
+    },
+    {
+      "id": "cm-region-nord",
+      "type": "find_region",
+      "targetRegionId": "CMR-1483",
+      "question": {
+        "de": "Finde die Region Nord zwischen Extrême-Nord und Adamaoua.",
+        "hu": "Keresd meg a Nord régiót az Extrême-Nord és Adamaoua között.",
+        "ro": "Găsește regiunea Nord dintre Extrême-Nord și Adamaoua.",
+        "en": "Find the Nord region between Extrême-Nord and Adamaoua."
+      }
+    },
+    {
+      "id": "cm-region-south-west",
+      "type": "find_region",
+      "targetRegionId": "CMR-799",
+      "question": {
+        "de": "Klicke auf Sud-Ouest, wo Buea und der Kamerunberg liegen.",
+        "hu": "Kattints a Sud-Ouest régióra, ahol Buea és a Kamerun-hegy található.",
+        "ro": "Apasă pe Sud-Ouest, unde se află Buea și Muntele Camerun.",
+        "en": "Click Sud-Ouest, home to Buea and Mount Cameroon."
+      }
+    },
+    {
+      "id": "cm-region-est",
+      "type": "find_region",
+      "targetRegionId": "CMR-1481",
+      "question": {
+        "de": "Finde Est, die große östliche Grenzregion.",
+        "hu": "Keresd meg Est régiót, a nagy keleti határvidéket.",
+        "ro": "Găsește Est, marea regiune de frontieră din est.",
+        "en": "Find Est, the large eastern border region."
+      }
+    },
+    {
+      "id": "cm-region-ouest",
+      "type": "find_region",
+      "targetRegionId": "CMR-798",
+      "question": {
+        "de": "Klicke auf Ouest im westlichen Hochland um Bafoussam und Foumban.",
+        "hu": "Kattints Ouest régióra a nyugati hegyvidéken, Bafoussam és Foumban körül.",
+        "ro": "Apasă pe Ouest în înălțimile vestice din jurul orașelor Bafoussam și Foumban.",
+        "en": "Click Ouest in the western highlands around Bafoussam and Foumban."
+      }
+    },
+    {
+      "id": "cm-odd-eastern-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "cameroon-bafoussam-cities-v2",
+        "cameroon-dschang-cities-v2",
+        "cameroon-foumban-cities-v2",
+        "cameroon-bertoua-cities-v2"
+      ],
+      "targetPoiId": "cameroon-bertoua-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt in Ostkamerun statt im westlichen Hochland?",
+        "hu": "Melyik város fekszik Kelet-Kamerunban, nem pedig a nyugati hegyvidéken?",
+        "ro": "Care oraș se află în estul Camerunului, nu în înălțimile vestice?",
+        "en": "Which city lies in eastern Cameroon rather than the western highlands?"
+      }
+    },
+    {
+      "id": "cm-odd-inland-plateau-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "cameroon-douala-cities-v2",
+        "cameroon-limbe-cities-v2",
+        "cameroon-kribi-cities-v2",
+        "cameroon-ngaoundere-cities-v2"
+      ],
+      "targetPoiId": "cameroon-ngaoundere-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt im Binnenland auf dem Adamawa-Plateau statt nahe der Atlantikküste?",
+        "hu": "Melyik város fekszik beljebb, az Adamawa-fennsíkon, nem pedig az atlanti part közelében?",
+        "ro": "Care oraș se află în interior, pe podișul Adamawa, nu aproape de coasta Atlanticului?",
+        "en": "Which city lies inland on the Adamawa Plateau rather than near the Atlantic coast?"
+      }
+    },
+    {
+      "id": "cm-odd-southern-coast",
+      "type": "odd_one_out",
+      "poiIds": [
+        "cameroon-garoua-cities-v2",
+        "cameroon-maroua-cities-v2",
+        "cameroon-kousseri-cities-v2",
+        "cameroon-kribi-cities-v2"
+      ],
+      "targetPoiId": "cameroon-kribi-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt an der südlichen Küste statt im Norden Kameruns?",
+        "hu": "Melyik város fekszik a déli parton, nem pedig Kamerun északi részén?",
+        "ro": "Care oraș se află pe coasta sudică, nu în nordul Camerunului?",
+        "en": "Which city lies on the southern coast rather than in northern Cameroon?"
+      }
+    },
+    {
+      "id": "cm-odd-atlantic-port-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "cameroon-yaounde-cities-v2",
+        "cameroon-bertoua-cities-v2",
+        "cameroon-ebolowa-cities-v2",
+        "cameroon-limbe-cities-v2"
+      ],
+      "targetPoiId": "cameroon-limbe-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt direkt am Atlantik statt im Landesinneren?",
+        "hu": "Melyik város fekszik közvetlenül az Atlanti-óceán partján, nem pedig beljebb az országban?",
+        "ro": "Care oraș se află direct la Atlantic, nu în interiorul țării?",
+        "en": "Which city lies directly on the Atlantic coast rather than inland?"
+      }
+    },
+    {
+      "id": "cm-odd-far-north-feature",
+      "type": "odd_one_out",
+      "poiIds": [
+        "mount-cameroon-nature-v2",
+        "lake-nyos-nature-v2",
+        "mount-o-ku-relief-v2",
+        "lake-chad-nature-v2"
+      ],
+      "targetPoiId": "lake-chad-nature-v2",
+      "question": {
+        "de": "Welches Naturmerkmal liegt im fernen Norden statt im vulkanischen und hochgelegenen Westen?",
+        "hu": "Melyik természeti hely fekszik a távoli északon, nem pedig a vulkanikus, magasabban fekvő nyugaton?",
+        "ro": "Care element natural se află în extremul nord, nu în vestul vulcanic și înalt?",
+        "en": "Which natural feature lies in the far north rather than the volcanic and elevated west?"
+      }
+    },
+    {
+      "id": "cm-order-coast-inland",
+      "type": "sequence",
+      "poiIds": [
+        "cameroon-limbe-cities-v2",
+        "cameroon-douala-cities-v2",
+        "cameroon-yaounde-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "cameroon-limbe-cities-v2",
+        "cameroon-douala-cities-v2",
+        "cameroon-yaounde-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Limbe, Douala und Yaoundé von Westen nach Osten an.",
+        "hu": "Kattints Limbére, Doualára és Yaoundéra nyugatról kelet felé.",
+        "ro": "Apasă Limbe, Douala și Yaoundé de la vest la est.",
+        "en": "Click Limbe, Douala, and Yaoundé from west to east."
+      }
+    },
+    {
+      "id": "cm-order-far-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "cameroon-kousseri-cities-v2",
+        "cameroon-maroua-cities-v2",
+        "cameroon-ngaoundere-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "cameroon-kousseri-cities-v2",
+        "cameroon-maroua-cities-v2",
+        "cameroon-ngaoundere-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Kousséri, Maroua und Ngaoundéré von Norden nach Süden an.",
+        "hu": "Kattints Koussérire, Marouára és Ngaoundérére északról dél felé.",
+        "ro": "Apasă Kousséri, Maroua și Ngaoundéré de la nord la sud.",
+        "en": "Click Kousséri, Maroua, and Ngaoundéré from north to south."
+      }
+    },
+    {
+      "id": "cm-order-western-highlands",
+      "type": "sequence",
+      "poiIds": [
+        "cameroon-dschang-cities-v2",
+        "cameroon-bafoussam-cities-v2",
+        "cameroon-foumban-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "cameroon-dschang-cities-v2",
+        "cameroon-bafoussam-cities-v2",
+        "cameroon-foumban-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Dschang, Bafoussam und Foumban von Westen nach Osten an.",
+        "hu": "Kattints Dschangra, Bafoussamra és Foumbanra nyugatról kelet felé.",
+        "ro": "Apasă Dschang, Bafoussam și Foumban de la vest la est.",
+        "en": "Click Dschang, Bafoussam, and Foumban from west to east."
+      }
+    },
+    {
+      "id": "cm-order-southwest-to-east",
+      "type": "sequence",
+      "poiIds": [
+        "cameroon-buea-cities-v2",
+        "cameroon-yaounde-cities-v2",
+        "cameroon-batouri-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "cameroon-buea-cities-v2",
+        "cameroon-yaounde-cities-v2",
+        "cameroon-batouri-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Buea, Yaoundé und Batouri von Westen nach Osten an.",
+        "hu": "Kattints Bueára, Yaoundéra és Batourira nyugatról kelet felé.",
+        "ro": "Apasă Buea, Yaoundé și Batouri de la vest la est.",
+        "en": "Click Buea, Yaoundé, and Batouri from west to east."
+      }
+    },
+    {
+      "id": "cm-order-lake-to-coast",
+      "type": "sequence",
+      "poiIds": [
+        "lake-chad-nature-v2",
+        "cameroon-garoua-cities-v2",
+        "cameroon-kribi-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "lake-chad-nature-v2",
+        "cameroon-garoua-cities-v2",
+        "cameroon-kribi-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke den Tschadsee, Garoua und Kribi von Norden nach Süden an.",
+        "hu": "Kattints a Csád-tóra, Garouára és Kribire északról dél felé.",
+        "ro": "Apasă lacul Ciad, Garoua și Kribi de la nord la sud.",
+        "en": "Click Lake Chad, Garoua, and Kribi from north to south."
+      }
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "ni": [
+    {
+      "id": "ni-find-leon-cathedral",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde die Kathedrale von León in der alten Universitätsstadt.",
+        "hu": "Keresd meg a leóni katedrálist a régi egyetemvárosban.",
+        "ro": "Găsește Catedrala din León în vechiul oraș universitar.",
+        "en": "Find León Cathedral in the old university city."
+      },
+      "targetPoiId": "ni-leoncathedral"
+    },
+    {
+      "id": "ni-find-masaya-volcano",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt der Vulkan Masaya südöstlich von Managua?",
+        "hu": "Hol található a Masaya-vulkán Managuától délkeletre?",
+        "ro": "Unde se află vulcanul Masaya la sud-est de Managua?",
+        "en": "Where is Masaya Volcano southeast of Managua?"
+      },
+      "targetPoiId": "ni-masayavolcano"
+    },
+    {
+      "id": "ni-find-el-castillo",
+      "type": "find_poi",
+      "question": {
+        "de": "Zeige auf die Festung El Castillo am Río San Juan.",
+        "hu": "Mutasd meg az El Castillo erődöt a San Juan folyón.",
+        "ro": "Indicǎ fortăreața El Castillo de pe râul San Juan.",
+        "en": "Point to El Castillo Fortress on the San Juan River."
+      },
+      "targetPoiId": "ni-el-castillo"
+    },
+    {
+      "id": "ni-find-apanas",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde den Apanás-See bei Jinotega im Norden.",
+        "hu": "Keresd meg az Apanás-tavat Jinotega közelében, északon.",
+        "ro": "Găsește Lacul Apanás lângă Jinotega, în nord.",
+        "en": "Find Lake Apanás near Jinotega in the north."
+      },
+      "targetPoiId": "ni-apanas"
+    },
+    {
+      "id": "ni-find-puerto-cabezas",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Puerto Cabezas an der nördlichen Karibikküste.",
+        "hu": "Keresd meg Puerto Cabezast az északi karibi parton.",
+        "ro": "Găsește Puerto Cabezas pe coasta nordică a Caraibelor.",
+        "en": "Find Puerto Cabezas on the northern Caribbean coast."
+      },
+      "targetPoiId": "ni-puerto-cabezas"
+    },
+    {
+      "id": "ni-region-jinotega",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf Jinotega, das bergige Kaffee-Departamento im Norden.",
+        "hu": "Kattints Jinotegára, az északi hegyvidéki kávétermesztő megyére.",
+        "ro": "Apasă pe Jinotega, departamentul muntos al cafelei din nord.",
+        "en": "Click Jinotega, the mountainous coffee department in the north."
+      },
+      "targetRegionId": "NIC-656"
+    },
+    {
+      "id": "ni-region-atlantico-norte",
+      "type": "find_region",
+      "question": {
+        "de": "Finde Atlántico Norte an der langen Karibikküste.",
+        "hu": "Keresd meg Atlántico Norte régióját a hosszú karibi partvidéken.",
+        "ro": "Găsește Atlántico Norte de pe lunga coastă caraibiană.",
+        "en": "Find Atlántico Norte on the long Caribbean coast."
+      },
+      "targetRegionId": "NIC-657"
+    },
+    {
+      "id": "ni-region-rivas",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf Rivas zwischen dem Nicaraguasee und dem Pazifik.",
+        "hu": "Kattints Rivas megyére a Nicaragua-tó és a Csendes-óceán között.",
+        "ro": "Apasă pe Rivas, între Lacul Nicaragua și Oceanul Pacific.",
+        "en": "Click Rivas between Lake Nicaragua and the Pacific Ocean."
+      },
+      "targetRegionId": "NIC-24"
+    },
+    {
+      "id": "ni-region-matagalpa",
+      "type": "find_region",
+      "question": {
+        "de": "Finde Matagalpa im zentralen Hochland.",
+        "hu": "Keresd meg Matagalpát a központi hegyvidéken.",
+        "ro": "Găsește Matagalpa în zonele înalte centrale.",
+        "en": "Find Matagalpa in the central highlands."
+      },
+      "targetRegionId": "NIC-666"
+    },
+    {
+      "id": "ni-region-granada",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf Granada am Nordwestufer des Nicaraguasees.",
+        "hu": "Kattints Granadára a Nicaragua-tó északnyugati partján.",
+        "ro": "Apasă pe Granada de pe țărmul nord-vestic al Lacului Nicaragua.",
+        "en": "Click Granada on the northwestern shore of Lake Nicaragua."
+      },
+      "targetRegionId": "NIC-655"
+    },
+    {
+      "id": "ni-odd-caribbean-island",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort liegt in der Karibik und nicht an der Pazifik- oder Seenseite im Südwesten?",
+        "hu": "Melyik hely fekszik a Karib-tengeren, nem pedig a csendes-óceáni vagy tóparti délnyugaton?",
+        "ro": "Care loc se află în Caraibe, nu pe latura pacifică sau lacustră din sud-vest?",
+        "en": "Which place is in the Caribbean rather than on the Pacific or lake side in the southwest?"
+      },
+      "poiIds": [
+        "nicaragua-popoyo-cities-v2",
+        "nicaragua-playa-maderas-cities-v2",
+        "ni-cornislands",
+        "nicaragua-playa-hermosa-cities-v2"
+      ],
+      "targetPoiId": "ni-cornislands"
+    },
+    {
+      "id": "ni-odd-northernmost",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Norden?",
+        "hu": "Melyik hely fekszik ezek közül a legészakabbra?",
+        "ro": "Care dintre aceste locuri se află cel mai la nord?",
+        "en": "Which of these places lies farthest north?"
+      },
+      "poiIds": [
+        "ni-puerto-cabezas",
+        "ni-bosawas",
+        "ocotal-cities-v2",
+        "ni-apanas"
+      ],
+      "targetPoiId": "ni-puerto-cabezas"
+    },
+    {
+      "id": "ni-odd-lake-nicaragua",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort liegt nicht am Nicaraguasee oder direkt an seinem Abfluss?",
+        "hu": "Melyik hely nem a Nicaragua-tónál vagy közvetlen kifolyásánál található?",
+        "ro": "Care loc nu se află pe Lacul Nicaragua sau chiar la ieșirea lui?",
+        "en": "Which place is not on Lake Nicaragua or right at its outlet?"
+      },
+      "poiIds": [
+        "ni-ometepe",
+        "ni-islets",
+        "san-carlos-cities-v2",
+        "ni-masayavolcano"
+      ],
+      "targetPoiId": "ni-masayavolcano"
+    },
+    {
+      "id": "ni-odd-masaya-area",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort liegt nicht im Raum Masaya-Granada?",
+        "hu": "Melyik hely nem a Masaya és Granada környékén található?",
+        "ro": "Care loc nu se află în zona Masaya-Granada?",
+        "en": "Which place is not in the Masaya-Granada area?"
+      },
+      "poiIds": [
+        "ni-apoyo",
+        "ni-catarina",
+        "ni-coyotepe",
+        "ni-bosawas"
+      ],
+      "targetPoiId": "ni-bosawas"
+    },
+    {
+      "id": "ni-odd-eastern-outlier",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort liegt deutlich weiter östlich als die anderen drei?",
+        "hu": "Melyik hely fekszik jóval keletebbre, mint a másik három?",
+        "ro": "Care loc se află mult mai la est decât celelalte trei?",
+        "en": "Which place lies much farther east than the other three?"
+      },
+      "poiIds": [
+        "ni-leoncathedral",
+        "ni-san-jacinto",
+        "ni-mombacho",
+        "ni-el-castillo"
+      ],
+      "targetPoiId": "ni-el-castillo"
+    },
+    {
+      "id": "ni-sequence-far-north-to-capital",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke von Norden nach Süden: Ocotal, Somoto, Estelí, Managua.",
+        "hu": "Kattints északról délre: Ocotal, Somoto, Estelí, Managua.",
+        "ro": "Apasă de la nord la sud: Ocotal, Somoto, Estelí, Managua.",
+        "en": "Click from north to south: Ocotal, Somoto, Estelí, Managua."
+      },
+      "poiIds": [
+        "ocotal-cities-v2",
+        "somoto-cities-v2",
+        "ni-esteli",
+        "ni-managua"
+      ],
+      "orderedPoiIds": [
+        "ocotal-cities-v2",
+        "somoto-cities-v2",
+        "ni-esteli",
+        "ni-managua"
+      ]
+    },
+    {
+      "id": "ni-sequence-volcanic-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke von West nach Ost: Cosigüina, San Cristóbal, Cerro Negro, Masaya-Vulkan.",
+        "hu": "Kattints nyugatról keletre: Cosigüina, San Cristóbal, Cerro Negro, Masaya-vulkán.",
+        "ro": "Apasă de la vest la est: Cosigüina, San Cristóbal, Cerro Negro, vulcanul Masaya.",
+        "en": "Click from west to east: Cosigüina, San Cristóbal, Cerro Negro, Masaya Volcano."
+      },
+      "poiIds": [
+        "ni-cosiguina",
+        "ni-san-cristobal",
+        "ni-cerronegro",
+        "ni-masayavolcano"
+      ],
+      "orderedPoiIds": [
+        "ni-cosiguina",
+        "ni-san-cristobal",
+        "ni-cerronegro",
+        "ni-masayavolcano"
+      ]
+    },
+    {
+      "id": "ni-sequence-caribbean-to-river",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke von Norden nach Süden: Puerto Cabezas, Pearl Lagoon, Corn Islands, El Castillo.",
+        "hu": "Kattints északról délre: Puerto Cabezas, Pearl Lagoon, Corn Islands, El Castillo.",
+        "ro": "Apasă de la nord la sud: Puerto Cabezas, Pearl Lagoon, Insulele Corn, El Castillo.",
+        "en": "Click from north to south: Puerto Cabezas, Pearl Lagoon, Corn Islands, El Castillo."
+      },
+      "poiIds": [
+        "ni-puerto-cabezas",
+        "ni-pearl-lagoon",
+        "ni-cornislands",
+        "ni-el-castillo"
+      ],
+      "orderedPoiIds": [
+        "ni-puerto-cabezas",
+        "ni-pearl-lagoon",
+        "ni-cornislands",
+        "ni-el-castillo"
+      ]
+    },
+    {
+      "id": "ni-sequence-southwest-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke von West nach Ost: Playa Gigante, Rivas, Ometepe, San Carlos.",
+        "hu": "Kattints nyugatról keletre: Playa Gigante, Rivas, Ometepe, San Carlos.",
+        "ro": "Apasă de la vest la est: Playa Gigante, Rivas, Ometepe, San Carlos.",
+        "en": "Click from west to east: Playa Gigante, Rivas, Ometepe, San Carlos."
+      },
+      "poiIds": [
+        "nicaragua-playa-gigante-cities-v2",
+        "rivas-cities-v2",
+        "ni-ometepe",
+        "san-carlos-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "nicaragua-playa-gigante-cities-v2",
+        "rivas-cities-v2",
+        "ni-ometepe",
+        "san-carlos-cities-v2"
+      ]
+    },
+    {
+      "id": "ni-sequence-pacific-cities-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke von West nach Ost: León, Tipitapa, Granada, Juigalpa.",
+        "hu": "Kattints nyugatról keletre: León, Tipitapa, Granada, Juigalpa.",
+        "ro": "Apasă de la vest la est: León, Tipitapa, Granada, Juigalpa.",
+        "en": "Click from west to east: León, Tipitapa, Granada, Juigalpa."
+      },
+      "poiIds": [
+        "ni-leon",
+        "tipitapa-cities-v2",
+        "ni-granada",
+        "juigalpa-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "ni-leon",
+        "tipitapa-cities-v2",
+        "ni-granada",
+        "juigalpa-cities-v2"
+      ]
+    }
+  ]
+}

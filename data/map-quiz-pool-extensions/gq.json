@@ -1,0 +1,299 @@
+{
+  "gq": [
+    {
+      "id": "gq-find-ebebiyin",
+      "type": "find_poi",
+      "targetPoiId": "ebebiyin-cities-v2",
+      "question": {
+        "de": "Finde Ebebiyín im Nordosten nahe Kamerun und Gabun.",
+        "hu": "Keresd meg Ebebiyínt északkeleten, Kamerun és Gabon közelében.",
+        "ro": "Găsește Ebebiyín în nord-est, aproape de Camerun și Gabon.",
+        "en": "Find Ebebiyín in the northeast near Cameroon and Gabon."
+      }
+    },
+    {
+      "id": "gq-find-san-antonio-de-pale",
+      "type": "find_poi",
+      "targetPoiId": "san-antonio-de-pale-cities-v2",
+      "question": {
+        "de": "Finde San Antonio de Palé auf der abgelegenen Insel Annobón.",
+        "hu": "Keresd meg San Antonio de Palét a távoli Annobón szigeten.",
+        "ro": "Găsește San Antonio de Palé pe insula îndepărtată Annobón.",
+        "en": "Find San Antonio de Palé on the remote island of Annobón."
+      }
+    },
+    {
+      "id": "gq-find-ciudad-de-la-paz",
+      "type": "find_poi",
+      "targetPoiId": "ciudad-de-la-paz-cities-v2",
+      "question": {
+        "de": "Finde Ciudad de la Paz im Landesinneren des Festlands.",
+        "hu": "Keresd meg Ciudad de la Pazt a szárazföld belsejében.",
+        "ro": "Găsește Ciudad de la Paz în interiorul părții continentale.",
+        "en": "Find Ciudad de la Paz in the interior of the mainland."
+      }
+    },
+    {
+      "id": "gq-find-pico-basile",
+      "type": "find_poi",
+      "targetPoiId": "pico-basile-nature-v2",
+      "question": {
+        "de": "Finde den Pico Basile auf Bioko.",
+        "hu": "Keresd meg a Pico Basile csúcsot Bioko szigetén.",
+        "ro": "Găsește Pico Basile pe insula Bioko.",
+        "en": "Find Pico Basile on Bioko Island."
+      }
+    },
+    {
+      "id": "gq-find-monte-alen",
+      "type": "find_poi",
+      "targetPoiId": "monte-alen-forest-nature-v2",
+      "question": {
+        "de": "Finde den Nationalpark Monte Alén im zentralen Festland.",
+        "hu": "Keresd meg a Monte Alén Nemzeti Parkot a központi szárazföldön.",
+        "ro": "Găsește Parcul Național Monte Alén în centrul continentului.",
+        "en": "Find Monte Alén National Park in the central mainland."
+      }
+    },
+    {
+      "id": "gq-find-corisco-island",
+      "type": "find_poi",
+      "targetPoiId": "corisco-island-nature-v2",
+      "question": {
+        "de": "Finde die Insel Corisco vor der Südküste des Festlands.",
+        "hu": "Keresd meg Corisco szigetét a szárazföld déli partjai előtt.",
+        "ro": "Găsește insula Corisco în largul coastei sudice a continentului.",
+        "en": "Find Corisco Island off the southern coast of the mainland."
+      }
+    },
+    {
+      "id": "gq-region-kie-ntem",
+      "type": "find_region",
+      "targetRegionId": "GNQ-1469",
+      "question": {
+        "de": "Klicke auf Kié-Ntem im Nordosten des Festlands.",
+        "hu": "Kattints Kié-Ntem tartományra a szárazföld északkeleti részén.",
+        "ro": "Apasă pe provincia Kié-Ntem din nord-estul continentului.",
+        "en": "Click Kié-Ntem in the northeastern mainland."
+      }
+    },
+    {
+      "id": "gq-region-centro-sur",
+      "type": "find_region",
+      "targetRegionId": "GNQ-1468",
+      "question": {
+        "de": "Finde Centro Sur im Inneren von Río Muni.",
+        "hu": "Keresd meg Centro Sur tartományt Río Muni belső részén.",
+        "ro": "Găsește provincia Centro Sur în interiorul regiunii Río Muni.",
+        "en": "Find Centro Sur in the interior of Río Muni."
+      }
+    },
+    {
+      "id": "gq-region-wele-nzas",
+      "type": "find_region",
+      "targetRegionId": "GNQ-1471",
+      "question": {
+        "de": "Klicke auf Wele-Nzás im Südosten des Festlands.",
+        "hu": "Kattints Wele-Nzás tartományra a szárazföld délkeleti részén.",
+        "ro": "Apasă pe provincia Wele-Nzás din sud-estul continentului.",
+        "en": "Click Wele-Nzás in the southeastern mainland."
+      }
+    },
+    {
+      "id": "gq-region-bioko-sur",
+      "type": "find_region",
+      "targetRegionId": "GNQ-1479",
+      "question": {
+        "de": "Finde Bioko Sur im südlichen Teil der Insel Bioko.",
+        "hu": "Keresd meg Bioko Sur tartományt Bioko szigetének déli részén.",
+        "ro": "Găsește provincia Bioko Sur în partea sudică a insulei Bioko.",
+        "en": "Find Bioko Sur in the southern part of Bioko Island."
+      }
+    },
+    {
+      "id": "gq-odd-annobon-town",
+      "type": "odd_one_out",
+      "poiIds": [
+        "malabo-cities-v2",
+        "bata-cities-v2",
+        "evinayong-cities-v2",
+        "san-antonio-de-pale-cities-v2"
+      ],
+      "targetPoiId": "san-antonio-de-pale-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt auf Annobón statt auf Bioko oder dem Festland?",
+        "hu": "Melyik város fekszik Annobón szigetén, nem pedig Biokón vagy a szárazföldön?",
+        "ro": "Care oraș se află pe Annobón, nu pe Bioko sau pe continent?",
+        "en": "Which town lies on Annobón rather than on Bioko or the mainland?"
+      }
+    },
+    {
+      "id": "gq-odd-bioko-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "bata-cities-v2",
+        "ebebiyin-cities-v2",
+        "mongomo-cities-v2",
+        "moca-cities-v2"
+      ],
+      "targetPoiId": "moca-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt auf Bioko statt auf dem Festland?",
+        "hu": "Melyik város fekszik Bioko szigetén, nem pedig a szárazföldön?",
+        "ro": "Care oraș se află pe insula Bioko, nu pe continent?",
+        "en": "Which town lies on Bioko rather than on the mainland?"
+      }
+    },
+    {
+      "id": "gq-odd-mainland-park",
+      "type": "odd_one_out",
+      "poiIds": [
+        "pico-basile-nature-v2",
+        "lago-de-biao-nature-v2",
+        "cascadas-de-moca-nature-v2",
+        "monte-alen-forest-nature-v2"
+      ],
+      "targetPoiId": "monte-alen-forest-nature-v2",
+      "question": {
+        "de": "Welcher Naturort liegt auf dem Festland statt auf Bioko?",
+        "hu": "Melyik természeti helyszín fekszik a szárazföldön, nem pedig Bioko szigetén?",
+        "ro": "Care loc natural se află pe continent, nu pe Bioko?",
+        "en": "Which natural site lies on the mainland rather than on Bioko?"
+      }
+    },
+    {
+      "id": "gq-odd-remote-island",
+      "type": "odd_one_out",
+      "poiIds": [
+        "bioko-island-nature-v2",
+        "corisco-island-nature-v2",
+        "elobey-grande-nature-v2",
+        "annobon-island-nature-v2"
+      ],
+      "targetPoiId": "annobon-island-nature-v2",
+      "question": {
+        "de": "Welche Insel liegt weit südwestlich statt nahe dem Festland oder Bioko?",
+        "hu": "Melyik sziget fekszik messze délnyugatra, nem pedig a szárazföld vagy Bioko közelében?",
+        "ro": "Care insulă se află mult spre sud-vest, nu aproape de continent sau Bioko?",
+        "en": "Which island lies far to the southwest rather than near the mainland or Bioko?"
+      }
+    },
+    {
+      "id": "gq-odd-far-northeast-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "mbini-cities-v2",
+        "cogo-cities-v2",
+        "bata-cities-v2",
+        "ebebiyin-cities-v2"
+      ],
+      "targetPoiId": "ebebiyin-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt weit im Nordosten statt an der Küste des südwestlichen Festlands?",
+        "hu": "Melyik város fekszik messze északkeleten, nem pedig a délnyugati szárazföld partvidékén?",
+        "ro": "Care oraș se află departe în nord-est, nu pe coasta sud-vestică a continentului?",
+        "en": "Which city lies far in the northeast rather than on the southwestern mainland coast?"
+      }
+    },
+    {
+      "id": "gq-order-mainland-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "mbini-cities-v2",
+        "evinayong-cities-v2",
+        "ciudad-de-la-paz-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "mbini-cities-v2",
+        "evinayong-cities-v2",
+        "ciudad-de-la-paz-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Mbini, Evinayong und Ciudad de la Paz von Westen nach Osten an.",
+        "hu": "Kattints Mbinire, Evinayongra és Ciudad de la Pazra nyugatról kelet felé.",
+        "ro": "Apasă Mbini, Evinayong și Ciudad de la Paz de la vest la est.",
+        "en": "Click Mbini, Evinayong, and Ciudad de la Paz from west to east."
+      }
+    },
+    {
+      "id": "gq-order-mainland-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "ebebiyin-cities-v2",
+        "anisoc-cities-v2",
+        "mongomo-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "ebebiyin-cities-v2",
+        "anisoc-cities-v2",
+        "mongomo-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Ebebiyín, Añisoc und Mongomo von Norden nach Süden an.",
+        "hu": "Kattints Ebebiyínre, Añisocra és Mongomóra északról dél felé.",
+        "ro": "Apasă Ebebiyín, Añisoc și Mongomo de la nord la sud.",
+        "en": "Click Ebebiyín, Añisoc, and Mongomo from north to south."
+      }
+    },
+    {
+      "id": "gq-order-islands-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "corisco-island-nature-v2",
+        "elobey-chico-nature-v2",
+        "cogo-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "corisco-island-nature-v2",
+        "elobey-chico-nature-v2",
+        "cogo-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Corisco, Elobey Chico und Cogo von Westen nach Osten an.",
+        "hu": "Kattints Coriscóra, Elobey Chicóra és Cogóra nyugatról kelet felé.",
+        "ro": "Apasă Corisco, Elobey Chico și Cogo de la vest la est.",
+        "en": "Click Corisco, Elobey Chico, and Cogo from west to east."
+      }
+    },
+    {
+      "id": "gq-order-country-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "malabo-cities-v2",
+        "bata-cities-v2",
+        "san-antonio-de-pale-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "malabo-cities-v2",
+        "bata-cities-v2",
+        "san-antonio-de-pale-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Malabo, Bata und San Antonio de Palé von Norden nach Süden an.",
+        "hu": "Kattints Malabóra, Batára és San Antonio de Paléra északról dél felé.",
+        "ro": "Apasă Malabo, Bata și San Antonio de Palé de la nord la sud.",
+        "en": "Click Malabo, Bata, and San Antonio de Palé from north to south."
+      }
+    },
+    {
+      "id": "gq-order-bioko-north-south-alt",
+      "type": "sequence",
+      "poiIds": [
+        "baney-cities-v2",
+        "luba-cities-v2",
+        "riaba-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "baney-cities-v2",
+        "luba-cities-v2",
+        "riaba-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Baney, Luba und Riaba auf Bioko von Norden nach Süden an.",
+        "hu": "Kattints Baneyre, Lubára és Riabára Bioko szigetén északról dél felé.",
+        "ro": "Apasă Baney, Luba și Riaba pe Bioko de la nord la sud.",
+        "en": "Click Baney, Luba, and Riaba on Bioko from north to south."
+      }
+    }
+  ]
+}

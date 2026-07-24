@@ -1,0 +1,325 @@
+{
+  "va": [
+    {
+      "id": "va-exp2-find-secretariat-for-economy",
+      "type": "find_poi",
+      "targetPoiId": "vatican-secretariat-for-economy-economic-v2",
+      "question": {
+        "de": "Finde das Wirtschaftssekretariat im westlichen Teil des Museumskomplexes.",
+        "hu": "Keresd meg a Gazdasagi Titkarsagot a muzeumi egyuttes nyugati reszen.",
+        "ro": "Gaseste Secretariatul pentru Economie din partea vestica a complexului muzeal.",
+        "en": "Find the Secretariat for the Economy in the western part of the museum complex."
+      }
+    },
+    {
+      "id": "va-exp2-find-hall-of-animals",
+      "type": "find_poi",
+      "targetPoiId": "vatican-hall-of-animals-history-v2",
+      "question": {
+        "de": "Finde die Halle der Tiere im Bereich des Museo Pio-Clementino.",
+        "hu": "Keresd meg az Allatok Csarnokat a Museo Pio-Clementino reszben.",
+        "ro": "Gaseste Sala Animalelor din zona Muzeului Pio-Clementino.",
+        "en": "Find the Hall of Animals in the Pio-Clementino Museum area."
+      }
+    },
+    {
+      "id": "va-exp2-find-fountain-of-the-sacrament-pond",
+      "type": "find_poi",
+      "targetPoiId": "vatican-fountain-of-the-sacrament-pond-nature-v2",
+      "question": {
+        "de": "Finde den Teich mit dem Brunnen des Sakraments im Gartenbereich.",
+        "hu": "Keresd meg a Szentseg kutjat tartalmazo tavat a kerti reszen.",
+        "ro": "Gaseste iazul Fantanii Sacramentului din zona gradinii.",
+        "en": "Find the Fountain of the Sacrament Pond in the garden area."
+      }
+    },
+    {
+      "id": "va-exp2-find-bunker-access",
+      "type": "find_poi",
+      "targetPoiId": "vatican-bunker-access-cities-v2",
+      "question": {
+        "de": "Finde den Zugang zum Bunker nahe den nordlichen Museumsraumen.",
+        "hu": "Keresd meg a bunker bejaratat az eszaki muzeumi helyisegek kozeleben.",
+        "ro": "Gaseste accesul spre buncar, aproape de salile nordice ale muzeului.",
+        "en": "Find the bunker access near the northern museum rooms."
+      }
+    },
+    {
+      "id": "va-exp2-find-apartment-of-pius-v",
+      "type": "find_poi",
+      "targetPoiId": "vatican-apartment-of-pius-v-history-v2",
+      "question": {
+        "de": "Finde das Apartment von Pius V im nordostlichen Teil des Komplexes.",
+        "hu": "Keresd meg V. Pius apartmanjat a komplexum eszakkeleti reszen.",
+        "ro": "Gaseste Apartamentul lui Pius al V-lea din partea nord-estica a complexului.",
+        "en": "Find the Apartment of Pius V in the northeastern part of the complex."
+      }
+    },
+    {
+      "id": "va-exp2-find-observatory-crest",
+      "type": "find_poi",
+      "targetPoiId": "vatican-observatory-crest-relief-v2",
+      "question": {
+        "de": "Finde den Observatoriumskamm westlich der ostlichen Hangformen.",
+        "hu": "Keresd meg az Obszervatorium gerincet a keleti lejtoformak nyugati oldalan.",
+        "ro": "Gaseste Culmea Observatorului, la vest de formele de relief estice.",
+        "en": "Find Observatory Crest west of the eastern relief features."
+      }
+    },
+    {
+      "id": "va-exp2-find-eastern-ridge-plateau",
+      "type": "find_poi",
+      "targetPoiId": "vatican-eastern-ridge-plateau-relief-v2",
+      "question": {
+        "de": "Finde das ostliche Kammplateau am sudostlichen Rand der dargestellten Formen.",
+        "hu": "Keresd meg a keleti gerinc fennsikot az abralt formak delkeleti peremen.",
+        "ro": "Gaseste Platoul Culmii Estice de la marginea sud-estica a formelor reprezentate.",
+        "en": "Find the Eastern Ridge Plateau on the southeastern edge of the mapped features."
+      }
+    },
+    {
+      "id": "va-exp2-odd-water-feature",
+      "type": "odd_one_out",
+      "poiIds": [
+        "vatican-sala-rotonda-history-v2",
+        "vatican-hall-of-animals-history-v2",
+        "vatican-fountain-of-the-sacrament-pond-nature-v2"
+      ],
+      "targetPoiId": "vatican-fountain-of-the-sacrament-pond-nature-v2",
+      "question": {
+        "de": "Welcher dieser Orte ist ein Teich und kein Museumssaal?",
+        "hu": "Melyik hely to, nem pedig muzeumi terem?",
+        "ro": "Care dintre aceste locuri este un iaz, nu o sala de muzeu?",
+        "en": "Which of these places is a pond rather than a museum hall?"
+      }
+    },
+    {
+      "id": "va-exp2-odd-administrative-office",
+      "type": "odd_one_out",
+      "poiIds": [
+        "vatican-secretariat-for-economy-economic-v2",
+        "vatican-gallery-of-the-candelabra-history-v2",
+        "vatican-gallery-of-tapestries-history-v2"
+      ],
+      "targetPoiId": "vatican-secretariat-for-economy-economic-v2",
+      "question": {
+        "de": "Welcher dieser Orte ist ein Verwaltungsburo und keine Galerie?",
+        "hu": "Melyik hely igazgatasi iroda, nem pedig galeria?",
+        "ro": "Care dintre aceste locuri este un birou administrativ, nu o galerie?",
+        "en": "Which of these places is an administrative office rather than a gallery?"
+      }
+    },
+    {
+      "id": "va-exp2-odd-access-point",
+      "type": "odd_one_out",
+      "poiIds": [
+        "vatican-bunker-access-cities-v2",
+        "vatican-sala-rotonda-history-v2",
+        "vatican-greek-cross-hall-history-v2"
+      ],
+      "targetPoiId": "vatican-bunker-access-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte ist ein Zugangspunkt und kein historischer Saal?",
+        "hu": "Melyik hely bejarati pont, nem pedig tortenelmi terem?",
+        "ro": "Care dintre aceste locuri este un punct de acces, nu o sala istorica?",
+        "en": "Which of these places is an access point rather than a historic hall?"
+      }
+    },
+    {
+      "id": "va-exp2-odd-landform",
+      "type": "odd_one_out",
+      "poiIds": [
+        "vatican-observatory-crest-relief-v2",
+        "vatican-hall-of-animals-history-v2",
+        "vatican-apartment-of-pius-v-history-v2"
+      ],
+      "targetPoiId": "vatican-observatory-crest-relief-v2",
+      "question": {
+        "de": "Welcher dieser Orte ist eine Relief- oder Gelandeform und kein Innenraum?",
+        "hu": "Melyik hely domborzati forma, nem pedig belso ter?",
+        "ro": "Care dintre aceste locuri este o forma de relief, nu un spatiu interior?",
+        "en": "Which of these places is a relief feature rather than an interior space?"
+      }
+    },
+    {
+      "id": "va-exp2-odd-southernmost",
+      "type": "odd_one_out",
+      "poiIds": [
+        "vatican-gallery-of-the-candelabra-history-v2",
+        "vatican-hall-of-animals-history-v2",
+        "vatican-fountain-of-the-sacrament-pond-nature-v2"
+      ],
+      "targetPoiId": "vatican-fountain-of-the-sacrament-pond-nature-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Suden?",
+        "hu": "Melyik hely fekszik a legdelibbre?",
+        "ro": "Care dintre aceste locuri se afla cel mai la sud?",
+        "en": "Which of these places lies farthest south?"
+      }
+    },
+    {
+      "id": "va-exp2-odd-easternmost",
+      "type": "odd_one_out",
+      "poiIds": [
+        "vatican-secretariat-for-economy-economic-v2",
+        "vatican-bunker-access-cities-v2",
+        "vatican-greek-cross-hall-history-v2"
+      ],
+      "targetPoiId": "vatican-greek-cross-hall-history-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Osten?",
+        "hu": "Melyik hely fekszik a legkeletebbre?",
+        "ro": "Care dintre aceste locuri se afla cel mai la est?",
+        "en": "Which of these places lies farthest east?"
+      }
+    },
+    {
+      "id": "va-exp2-odd-northernmost",
+      "type": "odd_one_out",
+      "poiIds": [
+        "vatican-tower-of-innocent-history-v2",
+        "vatican-sala-rotonda-history-v2",
+        "vatican-apartment-of-pius-v-history-v2"
+      ],
+      "targetPoiId": "vatican-apartment-of-pius-v-history-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Norden?",
+        "hu": "Melyik hely fekszik a legeszakabbra?",
+        "ro": "Care dintre aceste locuri se afla cel mai la nord?",
+        "en": "Which of these places lies farthest north?"
+      }
+    },
+    {
+      "id": "va-exp2-sequence-west-east-museum-front",
+      "type": "sequence",
+      "poiIds": [
+        "vatican-secretariat-for-economy-economic-v2",
+        "vatican-observatory-crest-relief-v2",
+        "vatican-gallery-of-the-candelabra-history-v2",
+        "vatican-hall-of-animals-history-v2"
+      ],
+      "orderedPoiIds": [
+        "vatican-secretariat-for-economy-economic-v2",
+        "vatican-observatory-crest-relief-v2",
+        "vatican-gallery-of-the-candelabra-history-v2",
+        "vatican-hall-of-animals-history-v2"
+      ],
+      "question": {
+        "de": "Klicke Wirtschaftssekretariat, Observatoriumskamm, Kandelabergalerie und Halle der Tiere von Westen nach Osten an.",
+        "hu": "Kattints a Gazdasagi Titkarsagra, az Obszervatorium gerincre, a Kandelaberek galeriajara es az Allatok Csarnokara nyugatrol keletre.",
+        "ro": "Apasa pe Secretariatul pentru Economie, Culmea Observatorului, Galeria Candelabrelor si Sala Animalelor de la vest la est.",
+        "en": "Click the Secretariat for the Economy, Observatory Crest, Gallery of the Candelabra and Hall of Animals from west to east."
+      }
+    },
+    {
+      "id": "va-exp2-sequence-west-east-inner-corridor",
+      "type": "sequence",
+      "poiIds": [
+        "vatican-bunker-access-cities-v2",
+        "vatican-vatican-hill-eastern-face-relief-v2",
+        "vatican-gallery-of-tapestries-history-v2",
+        "vatican-greek-cross-hall-history-v2"
+      ],
+      "orderedPoiIds": [
+        "vatican-bunker-access-cities-v2",
+        "vatican-vatican-hill-eastern-face-relief-v2",
+        "vatican-gallery-of-tapestries-history-v2",
+        "vatican-greek-cross-hall-history-v2"
+      ],
+      "question": {
+        "de": "Klicke Bunkerzugang, Osthang des Vatikanhugels, Teppichgalerie und Saal des Griechischen Kreuzes von Westen nach Osten an.",
+        "hu": "Kattints a bunkerbejaratra, a Vatikan-domb keleti oldalara, a Gobelinek galeriajara es a Gorog Kereszt Teremre nyugatrol keletre.",
+        "ro": "Apasa pe accesul spre buncar, versantul estic al Dealului Vaticanului, Galeria Tapiteriilor si Sala Crucii Grecesti de la vest la est.",
+        "en": "Click Bunker Access, Vatican Hill Eastern Face, Gallery of Tapestries and Greek Cross Hall from west to east."
+      }
+    },
+    {
+      "id": "va-exp2-sequence-west-east-south-strip",
+      "type": "sequence",
+      "poiIds": [
+        "vatican-fountain-of-the-sacrament-pond-nature-v2",
+        "vatican-vatican-hill-eastern-face-relief-v2",
+        "vatican-sala-rotonda-history-v2",
+        "vatican-apartment-of-pius-v-history-v2"
+      ],
+      "orderedPoiIds": [
+        "vatican-fountain-of-the-sacrament-pond-nature-v2",
+        "vatican-vatican-hill-eastern-face-relief-v2",
+        "vatican-sala-rotonda-history-v2",
+        "vatican-apartment-of-pius-v-history-v2"
+      ],
+      "question": {
+        "de": "Klicke Teich mit dem Brunnen des Sakraments, Osthang des Vatikanhugels, Sala Rotonda und Apartment von Pius V von Westen nach Osten an.",
+        "hu": "Kattints a Szentseg kutjanak tavajara, a Vatikan-domb keleti oldalara, a Sala Rotondara es V. Pius apartmanjara nyugatrol keletre.",
+        "ro": "Apasa pe iazul Fantanii Sacramentului, versantul estic al Dealului Vaticanului, Sala Rotonda si Apartamentul lui Pius al V-lea de la vest la est.",
+        "en": "Click the Fountain of the Sacrament Pond, Vatican Hill Eastern Face, Sala Rotonda and Apartment of Pius V from west to east."
+      }
+    },
+    {
+      "id": "va-exp2-sequence-north-south-east-wing",
+      "type": "sequence",
+      "poiIds": [
+        "vatican-apartment-of-pius-v-history-v2",
+        "vatican-gallery-of-the-candelabra-history-v2",
+        "vatican-gallery-of-tapestries-history-v2",
+        "vatican-vatican-hill-eastern-face-relief-v2"
+      ],
+      "orderedPoiIds": [
+        "vatican-apartment-of-pius-v-history-v2",
+        "vatican-gallery-of-the-candelabra-history-v2",
+        "vatican-gallery-of-tapestries-history-v2",
+        "vatican-vatican-hill-eastern-face-relief-v2"
+      ],
+      "question": {
+        "de": "Klicke Apartment von Pius V, Kandelabergalerie, Teppichgalerie und Osthang des Vatikanhugels von Norden nach Suden an.",
+        "hu": "Kattints V. Pius apartmanjara, a Kandelaberek galeriajara, a Gobelinek galeriajara es a Vatikan-domb keleti oldalara eszakrol delre.",
+        "ro": "Apasa pe Apartamentul lui Pius al V-lea, Galeria Candelabrelor, Galeria Tapiteriilor si versantul estic al Dealului Vaticanului de la nord la sud.",
+        "en": "Click the Apartment of Pius V, Gallery of the Candelabra, Gallery of Tapestries and Vatican Hill Eastern Face from north to south."
+      }
+    },
+    {
+      "id": "va-exp2-sequence-north-south-pond-line",
+      "type": "sequence",
+      "poiIds": [
+        "vatican-secretariat-for-economy-economic-v2",
+        "vatican-hall-of-animals-history-v2",
+        "vatican-greek-cross-hall-history-v2",
+        "vatican-fountain-of-the-sacrament-pond-nature-v2"
+      ],
+      "orderedPoiIds": [
+        "vatican-secretariat-for-economy-economic-v2",
+        "vatican-hall-of-animals-history-v2",
+        "vatican-greek-cross-hall-history-v2",
+        "vatican-fountain-of-the-sacrament-pond-nature-v2"
+      ],
+      "question": {
+        "de": "Klicke Wirtschaftssekretariat, Halle der Tiere, Saal des Griechischen Kreuzes und Teich mit dem Brunnen des Sakraments von Norden nach Suden an.",
+        "hu": "Kattints a Gazdasagi Titkarsagra, az Allatok Csarnokara, a Gorog Kereszt Teremre es a Szentseg kutjat tartalmazo tora eszakrol delre.",
+        "ro": "Apasa pe Secretariatul pentru Economie, Sala Animalelor, Sala Crucii Grecesti si iazul Fantanii Sacramentului de la nord la sud.",
+        "en": "Click the Secretariat for the Economy, Hall of Animals, Greek Cross Hall and Fountain of the Sacrament Pond from north to south."
+      }
+    },
+    {
+      "id": "va-exp2-sequence-north-south-central-drop",
+      "type": "sequence",
+      "poiIds": [
+        "vatican-apartment-of-pius-v-history-v2",
+        "vatican-hall-of-animals-history-v2",
+        "vatican-sala-rotonda-history-v2",
+        "vatican-eastern-ridge-plateau-relief-v2"
+      ],
+      "orderedPoiIds": [
+        "vatican-apartment-of-pius-v-history-v2",
+        "vatican-hall-of-animals-history-v2",
+        "vatican-sala-rotonda-history-v2",
+        "vatican-eastern-ridge-plateau-relief-v2"
+      ],
+      "question": {
+        "de": "Klicke Apartment von Pius V, Halle der Tiere, Sala Rotonda und ostliches Kammplateau von Norden nach Suden an.",
+        "hu": "Kattints V. Pius apartmanjara, az Allatok Csarnokara, a Sala Rotondara es a keleti gerinc fennsikra eszakrol delre.",
+        "ro": "Apasa pe Apartamentul lui Pius al V-lea, Sala Animalelor, Sala Rotonda si Platoul Culmii Estice de la nord la sud.",
+        "en": "Click the Apartment of Pius V, Hall of Animals, Sala Rotonda and Eastern Ridge Plateau from north to south."
+      }
+    }
+  ]
+}

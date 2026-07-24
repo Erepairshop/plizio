@@ -1,0 +1,307 @@
+{
+  "hr": [
+    {
+      "id": "hr-find-region-istria",
+      "type": "find_region",
+      "question": {
+        "de": "Finde die Gespanschaft Istrien auf der Karte.",
+        "hu": "Keresd meg Isztria megyét a térképen.",
+        "ro": "Găsește comitatul Istria pe hartă.",
+        "en": "Find Istria County on the map."
+      },
+      "targetRegionId": "HR-18"
+    },
+    {
+      "id": "hr-find-region-lika-senj",
+      "type": "find_region",
+      "question": {
+        "de": "Welche Region ist Lika-Senj? Klicke sie an.",
+        "hu": "Melyik terület Lika-Senj megye? Kattints rá.",
+        "ro": "Care regiune este Lika-Senj? Apasă pe ea.",
+        "en": "Which region is Lika-Senj County? Click it."
+      },
+      "targetRegionId": "HR-09"
+    },
+    {
+      "id": "hr-find-region-osijek-baranja",
+      "type": "find_region",
+      "question": {
+        "de": "Finde die Gespanschaft Osijek-Baranja.",
+        "hu": "Keresd meg Eszék-Baranya megyét.",
+        "ro": "Găsește comitatul Osijek-Baranja.",
+        "en": "Find Osijek-Baranja County."
+      },
+      "targetRegionId": "HR-14"
+    },
+    {
+      "id": "hr-find-region-dubrovnik-neretva",
+      "type": "find_region",
+      "question": {
+        "de": "Wo liegt die Gespanschaft Dubrovnik-Neretva?",
+        "hu": "Hol található Dubrovnik-Neretva megye?",
+        "ro": "Unde se află comitatul Dubrovnik-Neretva?",
+        "en": "Where is Dubrovnik-Neretva County?"
+      },
+      "targetRegionId": "HR-19"
+    },
+    {
+      "id": "hr-find-sea-organ",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde die Meeresorgel in Zadar.",
+        "hu": "Keresd meg a zadari Tengeri orgonát.",
+        "ro": "Găsește Orga Mării din Zadar.",
+        "en": "Find the Sea Organ in Zadar."
+      },
+      "targetPoiId": "croatia-sea-organ-landmarks-v2"
+    },
+    {
+      "id": "hr-find-trakoscan-castle",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde das Schloss Trakošćan.",
+        "hu": "Keresd meg a Trakošćan várkastélyt.",
+        "ro": "Găsește Castelul Trakošćan.",
+        "en": "Find Trakošćan Castle."
+      },
+      "targetPoiId": "croatia-trakoscan-castle-history-v2"
+    },
+    {
+      "id": "hr-find-knin-fortress",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt die Festung von Knin?",
+        "hu": "Hol található a knini erőd?",
+        "ro": "Unde se află Fortăreața Knin?",
+        "en": "Where is Knin Fortress?"
+      },
+      "targetPoiId": "croatia-knin-fortress-history-v2"
+    },
+    {
+      "id": "hr-find-kopacki-rit",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde den Naturpark Kopački Rit.",
+        "hu": "Keresd meg a Kopački Rit természetvédelmi területet.",
+        "ro": "Găsește Kopački Rit.",
+        "en": "Find Kopački Rit."
+      },
+      "targetPoiId": "croatia-kopacki-rit-nature-v2"
+    },
+    {
+      "id": "hr-find-rastoke",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Rastoke mit seinen Wasserfällen.",
+        "hu": "Keresd meg Rastokét a vízeséseivel együtt.",
+        "ro": "Găsește Rastoke și cascadele sale.",
+        "en": "Find Rastoke and its waterfalls."
+      },
+      "targetPoiId": "croatia-rastoke-falls-nature-v2"
+    },
+    {
+      "id": "hr-find-papuk",
+      "type": "find_poi",
+      "question": {
+        "de": "Wo liegt der Naturpark Papuk?",
+        "hu": "Hol található a Papuk Natúrpark?",
+        "ro": "Unde se află Parcul Natural Papuk?",
+        "en": "Where is Papuk Nature Park?"
+      },
+      "targetPoiId": "croatia-papuk-life-v2"
+    },
+    {
+      "id": "hr-odd-not-slavonia",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort liegt nicht in Slawonien?",
+        "hu": "Melyik hely nem Szlavóniában található?",
+        "ro": "Care loc nu se află în Slavonia?",
+        "en": "Which place is not in Slavonia?"
+      },
+      "poiIds": [
+        "croatia-slavonski-brod-cities-v2",
+        "croatia-djakovo-cathedral-history-v2",
+        "croatia-vukovar-water-tower-history-v2",
+        "croatia-trakoscan-castle-history-v2"
+      ],
+      "targetPoiId": "croatia-trakoscan-castle-history-v2"
+    },
+    {
+      "id": "hr-odd-not-adriatic-coast",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort liegt nicht an der Adriaküste?",
+        "hu": "Melyik hely nem az Adria partján található?",
+        "ro": "Care loc nu se află pe coasta Adriaticii?",
+        "en": "Which place is not on the Adriatic coast?"
+      },
+      "poiIds": [
+        "croatia-sea-organ-landmarks-v2",
+        "croatia-sibenik-cathedral-history-v2",
+        "croatia-ston-walls-history-v2",
+        "croatia-klis-fortress-history-v2"
+      ],
+      "targetPoiId": "croatia-klis-fortress-history-v2"
+    },
+    {
+      "id": "hr-odd-not-istria",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort gehört nicht zu Istrien?",
+        "hu": "Melyik hely nem Isztriához tartozik?",
+        "ro": "Care loc nu aparține Istriei?",
+        "en": "Which place does not belong to Istria?"
+      },
+      "poiIds": [
+        "croatia-euphrasian-basilica-history-v2",
+        "croatia-morosini-grimani-castle-history-v2",
+        "croatia-lim-fjord-nature-v2",
+        "croatia-rastoke-falls-nature-v2"
+      ],
+      "targetPoiId": "croatia-rastoke-falls-nature-v2"
+    },
+    {
+      "id": "hr-odd-not-fortress",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher dieser Orte ist keine Festung oder Burg?",
+        "hu": "Melyik hely nem erőd vagy vár?",
+        "ro": "Care dintre aceste locuri nu este fortăreață sau castel?",
+        "en": "Which of these places is not a fortress or castle?"
+      },
+      "poiIds": [
+        "croatia-knin-fortress-history-v2",
+        "croatia-klis-fortress-history-v2",
+        "croatia-trsat-castle-history-v2",
+        "croatia-sea-organ-landmarks-v2"
+      ],
+      "targetPoiId": "croatia-sea-organ-landmarks-v2"
+    },
+    {
+      "id": "hr-odd-not-zagreb-area",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort liegt nicht im Raum Zagreb?",
+        "hu": "Melyik hely nem Zágráb térségében található?",
+        "ro": "Care loc nu se află în zona Zagrebului?",
+        "en": "Which place is not in the Zagreb area?"
+      },
+      "poiIds": [
+        "croatia-medvednica-life-v2",
+        "croatia-medvedgrad-history-v2",
+        "croatia-mirogoj-cemetery-history-v2",
+        "croatia-kopacki-rit-nature-v2"
+      ],
+      "targetPoiId": "croatia-kopacki-rit-nature-v2"
+    },
+    {
+      "id": "hr-sequence-west-east-landmarks",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke diese Orte von West nach Ost an.",
+        "hu": "Kattints ezekre a helyekre nyugatról keletre.",
+        "ro": "Apasă aceste locuri de la vest la est.",
+        "en": "Click these places from west to east."
+      },
+      "poiIds": [
+        "croatia-euphrasian-basilica-history-v2",
+        "croatia-bjelovar-cities-v2",
+        "croatia-djakovo-cathedral-history-v2",
+        "croatia-vukovar-water-tower-history-v2"
+      ],
+      "orderedPoiIds": [
+        "croatia-euphrasian-basilica-history-v2",
+        "croatia-bjelovar-cities-v2",
+        "croatia-djakovo-cathedral-history-v2",
+        "croatia-vukovar-water-tower-history-v2"
+      ]
+    },
+    {
+      "id": "hr-sequence-north-south-castles",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Orte von Nord nach Süd an.",
+        "hu": "Kattints a helyekre északról délre.",
+        "ro": "Apasă locurile de la nord la sud.",
+        "en": "Click the places from north to south."
+      },
+      "poiIds": [
+        "croatia-trakoscan-castle-history-v2",
+        "croatia-medvedgrad-history-v2",
+        "croatia-rastoke-falls-nature-v2",
+        "croatia-knin-fortress-history-v2"
+      ],
+      "orderedPoiIds": [
+        "croatia-trakoscan-castle-history-v2",
+        "croatia-medvedgrad-history-v2",
+        "croatia-rastoke-falls-nature-v2",
+        "croatia-knin-fortress-history-v2"
+      ]
+    },
+    {
+      "id": "hr-sequence-south-north-dalmatia",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke diese dalmatinischen Orte von Süd nach Nord an.",
+        "hu": "Kattints ezekre a dalmáciai helyekre délről északra.",
+        "ro": "Apasă aceste locuri dalmate de la sud la nord.",
+        "en": "Click these Dalmatian places from south to north."
+      },
+      "poiIds": [
+        "croatia-metkovic-cities-v2",
+        "croatia-klis-fortress-history-v2",
+        "croatia-sibenik-cathedral-history-v2",
+        "croatia-sea-organ-landmarks-v2"
+      ],
+      "orderedPoiIds": [
+        "croatia-metkovic-cities-v2",
+        "croatia-klis-fortress-history-v2",
+        "croatia-sibenik-cathedral-history-v2",
+        "croatia-sea-organ-landmarks-v2"
+      ]
+    },
+    {
+      "id": "hr-sequence-slavonia-west-east",
+      "type": "sequence",
+      "question": {
+        "de": "Ordne diese Orte in Slawonien von West nach Ost.",
+        "hu": "Rendezd ezeket a szlavóniai helyeket nyugatról keletre.",
+        "ro": "Pune în ordine aceste locuri din Slavonia de la vest la est.",
+        "en": "Order these places in Slavonia from west to east."
+      },
+      "poiIds": [
+        "croatia-papuk-life-v2",
+        "croatia-slatina-cities-v2",
+        "croatia-djakovo-cathedral-history-v2",
+        "croatia-vukovar-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "croatia-papuk-life-v2",
+        "croatia-slatina-cities-v2",
+        "croatia-djakovo-cathedral-history-v2",
+        "croatia-vukovar-cities-v2"
+      ]
+    },
+    {
+      "id": "hr-sequence-coast-to-mountains",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke der Reihe nach vom Meer ins Gebirge: Zadar, Paklenica, Gospić.",
+        "hu": "Kattints sorrendben a tengertől a hegyek felé: Zadar, Paklenica, Gospić.",
+        "ro": "Apasă în ordine de la mare spre munți: Zadar, Paklenica, Gospić.",
+        "en": "Click in order from the sea toward the mountains: Zadar, Paklenica, Gospić."
+      },
+      "poiIds": [
+        "croatia-land-gate-zadar-history-v2",
+        "croatia-paklenica-life-v2",
+        "croatia-gospic-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "croatia-land-gate-zadar-history-v2",
+        "croatia-paklenica-life-v2",
+        "croatia-gospic-cities-v2"
+      ]
+    }
+  ]
+}

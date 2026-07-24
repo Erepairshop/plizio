@@ -1,0 +1,303 @@
+{
+  "ad": [
+    {
+      "id": "ad-find-escaldes",
+      "type": "find_poi",
+      "targetPoiId": "city-escaldes-engordany",
+      "question": {
+        "de": "Finde Escaldes-Engordany, den Thermalort neben der Hauptstadt.",
+        "hu": "Keresd meg Escaldes-Engordanyt, a f?v?ros melletti f?rd?v?rost.",
+        "ro": "G?se?te Escaldes-Engordany, ora?ul balnear de l?ng? capital?.",
+        "en": "Find Escaldes-Engordany, the spa town beside the capital."
+      }
+    },
+    {
+      "id": "ad-find-santa-coloma",
+      "type": "find_poi",
+      "targetPoiId": "city-santa-coloma-extra",
+      "question": {
+        "de": "Klicke auf Santa Coloma s?dlich von Andorra la Vella.",
+        "hu": "Kattints Santa Colom?ra Andorra la Vell?t?l d?lre.",
+        "ro": "Apas? pe Santa Coloma, la sud de Andorra la Vella.",
+        "en": "Click Santa Coloma south of Andorra la Vella."
+      }
+    },
+    {
+      "id": "ad-find-casa-de-la-vall",
+      "type": "find_poi",
+      "targetPoiId": "landmark-casa-de-la-vall",
+      "question": {
+        "de": "Finde Casa de la Vall, den historischen Parlamentssitz.",
+        "hu": "Keresd meg a Casa de la Vall t?rt?nelmi parlamenti ?p?let?t.",
+        "ro": "G?se?te Casa de la Vall, fostul sediu istoric al parlamentului.",
+        "en": "Find Casa de la Vall, the historic parliamentary building."
+      }
+    },
+    {
+      "id": "ad-find-meritxell",
+      "type": "find_poi",
+      "targetPoiId": "landmark-meritxell",
+      "question": {
+        "de": "Wo liegt das Heiligtum von Meritxell?",
+        "hu": "Hol tal?lhat? a Meritxell-szent?ly?",
+        "ro": "Unde se afl? Sanctuarul din Meritxell?",
+        "en": "Where is the Sanctuary of Meritxell?"
+      }
+    },
+    {
+      "id": "ad-find-coma-pedrosa",
+      "type": "find_poi",
+      "targetPoiId": "nature-coma-pedrosa",
+      "question": {
+        "de": "Finde den Gipfel Coma Pedrosa im Westen Andorras.",
+        "hu": "Keresd meg a Coma Pedrosa cs?csot Andorra nyugati r?sz?n.",
+        "ro": "G?se?te v?rful Coma Pedrosa din vestul Andorrei.",
+        "en": "Find Coma Pedrosa peak in western Andorra."
+      }
+    },
+    {
+      "id": "ad-find-tristaina-lakes",
+      "type": "find_poi",
+      "targetPoiId": "nature-tristaina",
+      "question": {
+        "de": "Finde die Tristaina-Seen weit im Norden.",
+        "hu": "Keresd meg az ?szakon fekv? Tristaina-tavakat.",
+        "ro": "G?se?te lacurile Tristaina din extremul nord.",
+        "en": "Find the Tristaina Lakes in the far north."
+      }
+    },
+    {
+      "id": "ad-find-sant-joan-caselles",
+      "type": "find_poi",
+      "targetPoiId": "landmark-sant-joan-caselles",
+      "question": {
+        "de": "Klicke auf die romanische Kirche Sant Joan de Caselles.",
+        "hu": "Kattints a Sant Joan de Caselles rom?n kori templomra.",
+        "ro": "Apas? pe biserica romanic? Sant Joan de Caselles.",
+        "en": "Click the Romanesque church of Sant Joan de Caselles."
+      }
+    },
+    {
+      "id": "ad-region-ordino",
+      "type": "find_region",
+      "targetRegionId": "AD-001",
+      "question": {
+        "de": "Finde die Gemeinde Ordino im Norden.",
+        "hu": "Keresd meg az ?szaki Ordino k?zs?get.",
+        "ro": "G?se?te parohia Ordino din nord.",
+        "en": "Find the northern parish of Ordino."
+      }
+    },
+    {
+      "id": "ad-region-canillo",
+      "type": "find_region",
+      "targetRegionId": "AD-002",
+      "question": {
+        "de": "Wo liegt die gro?e Gebirgsgemeinde Canillo?",
+        "hu": "Hol tal?lhat? a nagy hegyvid?ki Canillo k?zs?g?",
+        "ro": "Unde se afl? marea parohie montan? Canillo?",
+        "en": "Where is the large mountain parish of Canillo?"
+      }
+    },
+    {
+      "id": "ad-region-escaldes",
+      "type": "find_region",
+      "targetRegionId": "AD-006",
+      "question": {
+        "de": "Klicke auf die Gemeinde Escaldes-Engordany.",
+        "hu": "Kattints Escaldes-Engordany k?zs?gre.",
+        "ro": "Apas? pe parohia Escaldes-Engordany.",
+        "en": "Click the parish of Escaldes-Engordany."
+      }
+    },
+    {
+      "id": "ad-region-capital-parish",
+      "type": "find_region",
+      "targetRegionId": "AD-007",
+      "question": {
+        "de": "Finde die Gemeinde Andorra la Vella.",
+        "hu": "Keresd meg Andorra la Vella k?zs?get.",
+        "ro": "G?se?te parohia Andorra la Vella.",
+        "en": "Find the parish of Andorra la Vella."
+      }
+    },
+    {
+      "id": "ad-odd-farthest-north",
+      "type": "odd_one_out",
+      "poiIds": [
+        "city-juberri-extra",
+        "city-aubinya-extra",
+        "city-bixessarri-extra",
+        "city-ordino"
+      ],
+      "targetPoiId": "city-ordino",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten n?rdlich?",
+        "hu": "Melyik hely fekszik a leg?szakabbra?",
+        "ro": "Care dintre aceste locuri se afl? cel mai la nord?",
+        "en": "Which of these places lies farthest north?"
+      }
+    },
+    {
+      "id": "ad-odd-farthest-west",
+      "type": "odd_one_out",
+      "poiIds": [
+        "nature-coma-pedrosa",
+        "city-escaldes-engordany",
+        "city-encamp",
+        "nature-roc-del-quer"
+      ],
+      "targetPoiId": "nature-coma-pedrosa",
+      "question": {
+        "de": "Welcher Marker liegt am weitesten westlich?",
+        "hu": "Melyik jel?l? fekszik a legnyugatabbra?",
+        "ro": "Care marcaj se afl? cel mai la vest?",
+        "en": "Which marker lies farthest west?"
+      }
+    },
+    {
+      "id": "ad-odd-near-spain",
+      "type": "odd_one_out",
+      "poiIds": [
+        "city-juberri-extra",
+        "city-santa-coloma-extra",
+        "city-engordany-extra",
+        "landmark-meritxell"
+      ],
+      "targetPoiId": "city-juberri-extra",
+      "question": {
+        "de": "Welcher dieser Orte liegt am n?chsten an der spanischen Grenze?",
+        "hu": "Melyik hely van a legk?zelebb a spanyol hat?rhoz?",
+        "ro": "Care dintre aceste locuri este cel mai aproape de grani?a cu Spania?",
+        "en": "Which of these places is closest to the Spanish border?"
+      }
+    },
+    {
+      "id": "ad-odd-not-a-settlement",
+      "type": "odd_one_out",
+      "poiIds": [
+        "city-ordino",
+        "city-sispony-extra",
+        "city-el-cortalet-extra",
+        "landmark-casa-de-la-vall"
+      ],
+      "targetPoiId": "landmark-casa-de-la-vall",
+      "question": {
+        "de": "Welcher dieser Marker bezeichnet kein Dorf oder keine Stadt?",
+        "hu": "Melyik jel?l? nem falut vagy v?rost jel?l?",
+        "ro": "Care dintre aceste marcaje nu indic? un sat sau un ora??",
+        "en": "Which of these markers does not indicate a village or town?"
+      }
+    },
+    {
+      "id": "ad-sequence-west-east-high-country",
+      "type": "sequence",
+      "poiIds": [
+        "nature-coma-pedrosa",
+        "city-ordino",
+        "city-canillo",
+        "nature-roc-del-quer"
+      ],
+      "orderedPoiIds": [
+        "nature-coma-pedrosa",
+        "city-ordino",
+        "city-canillo",
+        "nature-roc-del-quer"
+      ],
+      "question": {
+        "de": "Klicke Coma Pedrosa, Ordino, Canillo und den Roc del Quer von West nach Ost an.",
+        "hu": "Kattints Coma Pedros?ra, Ordin?ra, Canill?ra ?s a Roc del Querre nyugatr?l keletre.",
+        "ro": "Apas? Coma Pedrosa, Ordino, Canillo ?i Roc del Quer de la vest la est.",
+        "en": "Click Coma Pedrosa, Ordino, Canillo and Roc del Quer from west to east."
+      }
+    },
+    {
+      "id": "ad-sequence-north-south-mountains",
+      "type": "sequence",
+      "poiIds": [
+        "nature-tristaina",
+        "nature-coma-pedrosa",
+        "city-ordino",
+        "city-santa-coloma-extra"
+      ],
+      "orderedPoiIds": [
+        "nature-tristaina",
+        "nature-coma-pedrosa",
+        "city-ordino",
+        "city-santa-coloma-extra"
+      ],
+      "question": {
+        "de": "Klicke die Orte von Nord nach S?d: Tristaina-Seen, Coma Pedrosa, Ordino, Santa Coloma.",
+        "hu": "Kattints az ?szakr?l d?lre sorrendben ezekre a helyekre: Tristaina-tavak, Coma Pedrosa, Ordino, Santa Coloma.",
+        "ro": "Apas? aceste locuri de la nord la sud: lacurile Tristaina, Coma Pedrosa, Ordino, Santa Coloma.",
+        "en": "Click these places from north to south: Tristaina Lakes, Coma Pedrosa, Ordino, Santa Coloma."
+      }
+    },
+    {
+      "id": "ad-sequence-south-north-main-valley",
+      "type": "sequence",
+      "poiIds": [
+        "city-pont-de-fontaneda-extra",
+        "city-sant-julia",
+        "city-andorra-la-vella",
+        "city-encamp"
+      ],
+      "orderedPoiIds": [
+        "city-pont-de-fontaneda-extra",
+        "city-sant-julia",
+        "city-andorra-la-vella",
+        "city-encamp"
+      ],
+      "question": {
+        "de": "Klicke Pont de Fontaneda, Sant Juli? de L?ria, Andorra la Vella und Encamp von S?d nach Nord an.",
+        "hu": "Kattints Pont de Fontaned?ra, Sant Juli? de L?ri?ra, Andorra la Vell?ra ?s Encampra d?lr?l ?szakra.",
+        "ro": "Apas? Pont de Fontaneda, Sant Juli? de L?ria, Andorra la Vella ?i Encamp de la sud la nord.",
+        "en": "Click Pont de Fontaneda, Sant Juli? de L?ria, Andorra la Vella and Encamp from south to north."
+      }
+    },
+    {
+      "id": "ad-sequence-west-east-southern-route",
+      "type": "sequence",
+      "poiIds": [
+        "city-bixessarri-extra",
+        "city-sant-julia",
+        "city-santa-coloma-extra",
+        "city-andorra-la-vella"
+      ],
+      "orderedPoiIds": [
+        "city-bixessarri-extra",
+        "city-sant-julia",
+        "city-santa-coloma-extra",
+        "city-andorra-la-vella"
+      ],
+      "question": {
+        "de": "Ordne diese Orte von West nach Ost: Bixessarri, Sant Juli? de L?ria, Santa Coloma, Andorra la Vella.",
+        "hu": "Rendezd ezeket a helyeket nyugatr?l keletre: Bixessarri, Sant Juli? de L?ria, Santa Coloma, Andorra la Vella.",
+        "ro": "Ordoneaz? aceste locuri de la vest la est: Bixessarri, Sant Juli? de L?ria, Santa Coloma, Andorra la Vella.",
+        "en": "Order these places from west to east: Bixessarri, Sant Juli? de L?ria, Santa Coloma, Andorra la Vella."
+      }
+    },
+    {
+      "id": "ad-sequence-west-east-central-valley",
+      "type": "sequence",
+      "poiIds": [
+        "city-sispony-extra",
+        "city-andorra-la-vella",
+        "city-escaldes-engordany",
+        "city-encamp"
+      ],
+      "orderedPoiIds": [
+        "city-sispony-extra",
+        "city-andorra-la-vella",
+        "city-escaldes-engordany",
+        "city-encamp"
+      ],
+      "question": {
+        "de": "Klicke Sispony, Andorra la Vella, Escaldes-Engordany und Encamp von West nach Ost an.",
+        "hu": "Kattints Sisponyra, Andorra la Vell?ra, Escaldes-Engordanyra ?s Encampra nyugatr?l keletre.",
+        "ro": "Apas? Sispony, Andorra la Vella, Escaldes-Engordany ?i Encamp de la vest la est.",
+        "en": "Click Sispony, Andorra la Vella, Escaldes-Engordany and Encamp from west to east."
+      }
+    }
+  ]
+}

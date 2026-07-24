@@ -1,0 +1,303 @@
+{
+  "bi": [
+    {
+      "id": "bi-find-ngozi-north",
+      "type": "find_poi",
+      "targetPoiId": "ngozi-cities-v2",
+      "question": {
+        "de": "Finde Ngozi im Norden Burundis.",
+        "hu": "Keresd meg Nguzit Burundi északi részén.",
+        "ro": "Găsește Ngozi în nordul statului Burundi.",
+        "en": "Find Ngozi in northern Burundi."
+      }
+    },
+    {
+      "id": "bi-find-cankuzo-east",
+      "type": "find_poi",
+      "targetPoiId": "cankuzo-cities-v2",
+      "question": {
+        "de": "Finde Cankuzo im Osten des Landes.",
+        "hu": "Keresd meg Cankuzót az ország keleti részén.",
+        "ro": "Găsește Cankuzo în estul țării.",
+        "en": "Find Cankuzo in the east of the country."
+      }
+    },
+    {
+      "id": "bi-find-muramvya-central-west",
+      "type": "find_poi",
+      "targetPoiId": "muramvya-cities-v2",
+      "question": {
+        "de": "Finde Muramvya im zentralen Westen Burundis.",
+        "hu": "Keresd meg Muramvyát Burundi középső nyugati részén.",
+        "ro": "Găsește Muramvya în partea central-vestică a Burundiului.",
+        "en": "Find Muramvya in central-western Burundi."
+      }
+    },
+    {
+      "id": "bi-find-lake-tanganyika",
+      "type": "find_poi",
+      "targetPoiId": "tanganyika-lake-nature-v2",
+      "question": {
+        "de": "Finde den Tanganjikasee an der Westseite Burundis.",
+        "hu": "Keresd meg a Tanganyika-tavat Burundi nyugati oldalán.",
+        "ro": "Găsește lacul Tanganyika pe latura vestică a Burundiului.",
+        "en": "Find Lake Tanganyika along Burundi's western side."
+      }
+    },
+    {
+      "id": "bi-find-kibira-park",
+      "type": "find_poi",
+      "targetPoiId": "kibira-forest-nature-v2",
+      "question": {
+        "de": "Finde den Kibira-Nationalpark im Nordwesten.",
+        "hu": "Keresd meg a Kibira Nemzeti Parkot északnyugaton.",
+        "ro": "Găsește Parcul Național Kibira în nord-vest.",
+        "en": "Find Kibira National Park in the northwest."
+      }
+    },
+    {
+      "id": "bi-find-karera-falls",
+      "type": "find_poi",
+      "targetPoiId": "karera-falls-nature-v2",
+      "question": {
+        "de": "Finde die Karera-Wasserfälle im Südosten.",
+        "hu": "Keresd meg a Karera-vízeséseket délkeleten.",
+        "ro": "Găsește cascadele Karera în sud-est.",
+        "en": "Find the Karera Waterfalls in the southeast."
+      }
+    },
+    {
+      "id": "bi-region-ngozi",
+      "type": "find_region",
+      "targetRegionId": "BDI-2642",
+      "question": {
+        "de": "Klicke auf die Provinz Ngozi im Norden.",
+        "hu": "Kattints az északi Ngozi tartományra.",
+        "ro": "Apasă pe provincia Ngozi din nord.",
+        "en": "Click Ngozi Province in the north."
+      }
+    },
+    {
+      "id": "bi-region-gitega",
+      "type": "find_region",
+      "targetRegionId": "BDI-2639",
+      "question": {
+        "de": "Finde die Provinz Gitega im Zentrum des Landes.",
+        "hu": "Keresd meg Gitega tartományt az ország közepén.",
+        "ro": "Găsește provincia Gitega din centrul țării.",
+        "en": "Find Gitega Province in the center of the country."
+      }
+    },
+    {
+      "id": "bi-region-bubanza",
+      "type": "find_region",
+      "targetRegionId": "BDI-2636",
+      "question": {
+        "de": "Klicke auf die Provinz Bubanza im Westen.",
+        "hu": "Kattints a nyugati Bubanza tartományra.",
+        "ro": "Apasă pe provincia Bubanza din vest.",
+        "en": "Click Bubanza Province in the west."
+      }
+    },
+    {
+      "id": "bi-region-cankuzo",
+      "type": "find_region",
+      "targetRegionId": "BDI-2632",
+      "question": {
+        "de": "Finde die Provinz Cankuzo an der Ostseite Burundis.",
+        "hu": "Keresd meg Cankuzo tartományt Burundi keleti oldalán.",
+        "ro": "Găsește provincia Cankuzo pe latura estică a Burundiului.",
+        "en": "Find Cankuzo Province on Burundi's eastern side."
+      }
+    },
+    {
+      "id": "bi-region-rutana",
+      "type": "find_region",
+      "targetRegionId": "BDI-2634",
+      "question": {
+        "de": "Klicke auf die Provinz Rutana im Südosten.",
+        "hu": "Kattints a délkeleti Rutana tartományra.",
+        "ro": "Apasă pe provincia Rutana din sud-est.",
+        "en": "Click Rutana Province in the southeast."
+      }
+    },
+    {
+      "id": "bi-odd-rumonge-lakeshore",
+      "type": "odd_one_out",
+      "poiIds": [
+        "ngozi-cities-v2",
+        "gitega-cities-v2",
+        "rumonge-cities-v2",
+        "karuzi-cities-v2"
+      ],
+      "targetPoiId": "rumonge-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt direkt am Tanganjikasee?",
+        "hu": "Ezek közül melyik város fekszik közvetlenül a Tanganyika-tó partján?",
+        "ro": "Care dintre aceste orașe se află direct pe malul lacului Tanganyika?",
+        "en": "Which of these cities lies directly on Lake Tanganyika?"
+      }
+    },
+    {
+      "id": "bi-odd-lake-cohoha",
+      "type": "odd_one_out",
+      "poiIds": [
+        "cohoha-lake-nature-v2",
+        "kibira-forest-nature-v2",
+        "karera-falls-nature-v2",
+        "heha-mountain-nature-v2"
+      ],
+      "targetPoiId": "cohoha-lake-nature-v2",
+      "question": {
+        "de": "Welcher dieser Orte ist ein See?",
+        "hu": "Ezek közül melyik hely egy tó?",
+        "ro": "Care dintre aceste locuri este un lac?",
+        "en": "Which of these places is a lake?"
+      }
+    },
+    {
+      "id": "bi-odd-cankuzo-east",
+      "type": "odd_one_out",
+      "poiIds": [
+        "bubanza-cities-v2",
+        "muramvya-cities-v2",
+        "cibitoke-cities-v2",
+        "cankuzo-cities-v2"
+      ],
+      "targetPoiId": "cankuzo-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt im Osten Burundis?",
+        "hu": "Ezek közül melyik város fekszik Burundi keleti részén?",
+        "ro": "Care dintre aceste orașe se află în estul Burundiului?",
+        "en": "Which of these cities is in eastern Burundi?"
+      }
+    },
+    {
+      "id": "bi-odd-karera-waterfall",
+      "type": "odd_one_out",
+      "poiIds": [
+        "rwihinda-lake-nature-v2",
+        "heha-mountain-nature-v2",
+        "karera-falls-nature-v2",
+        "kibira-forest-nature-v2"
+      ],
+      "targetPoiId": "karera-falls-nature-v2",
+      "question": {
+        "de": "Welcher dieser Orte ist ein Wasserfall?",
+        "hu": "Ezek közül melyik hely egy vízesés?",
+        "ro": "Care dintre aceste locuri este o cascadă?",
+        "en": "Which of these places is a waterfall?"
+      }
+    },
+    {
+      "id": "bi-sequence-west-east-cibitoke-gitega",
+      "type": "sequence",
+      "poiIds": [
+        "cibitoke-cities-v2",
+        "bubanza-cities-v2",
+        "muramvya-cities-v2",
+        "gitega-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "cibitoke-cities-v2",
+        "bubanza-cities-v2",
+        "muramvya-cities-v2",
+        "gitega-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Cibitoke, Bubanza, Muramvya und Gitega von West nach Ost an.",
+        "hu": "Kattints Cibitokéra, Bubanzára, Muramvyára és Gitegára nyugatról keletre.",
+        "ro": "Apasă Cibitoke, Bubanza, Muramvya și Gitega de la vest la est.",
+        "en": "Click Cibitoke, Bubanza, Muramvya, and Gitega from west to east."
+      }
+    },
+    {
+      "id": "bi-sequence-north-south-kirundo-cankuzo",
+      "type": "sequence",
+      "poiIds": [
+        "kirundo-cities-v2",
+        "muyinga-cities-v2",
+        "karuzi-cities-v2",
+        "cankuzo-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "kirundo-cities-v2",
+        "muyinga-cities-v2",
+        "karuzi-cities-v2",
+        "cankuzo-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Kirundo, Muyinga, Karuzi und Cankuzo von Nord nach Süd an.",
+        "hu": "Kattints Kirundóra, Muyingára, Karuzira és Cankuzóra északról délre.",
+        "ro": "Apasă Kirundo, Muyinga, Karuzi și Cankuzo de la nord la sud.",
+        "en": "Click Kirundo, Muyinga, Karuzi, and Cankuzo from north to south."
+      }
+    },
+    {
+      "id": "bi-sequence-west-east-parks",
+      "type": "sequence",
+      "poiIds": [
+        "burundi-rusizi-national-park-cities-v2",
+        "kibira-forest-nature-v2",
+        "nile-source-nature-v2",
+        "burundi-ruvubu-national-park-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "burundi-rusizi-national-park-cities-v2",
+        "kibira-forest-nature-v2",
+        "nile-source-nature-v2",
+        "burundi-ruvubu-national-park-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke den Rusizi-Nationalpark, den Kibira-Nationalpark, die Nilquelle und den Ruvubu-Nationalpark von West nach Ost an.",
+        "hu": "Kattints a Rusizi Nemzeti Parkra, a Kibira Nemzeti Parkra, a Nílus forrására és a Ruvubu Nemzeti Parkra nyugatról keletre.",
+        "ro": "Apasă Parcul Național Rusizi, Parcul Național Kibira, Izvorul Nilului și Parcul Național Ruvubu de la vest la est.",
+        "en": "Click Rusizi National Park, Kibira National Park, the Source of the Nile, and Ruvubu National Park from west to east."
+      }
+    },
+    {
+      "id": "bi-sequence-north-south-lakeshore",
+      "type": "sequence",
+      "poiIds": [
+        "bubanza-cities-v2",
+        "bujumbura-cities-v2",
+        "rumonge-cities-v2",
+        "makamba-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "bubanza-cities-v2",
+        "bujumbura-cities-v2",
+        "rumonge-cities-v2",
+        "makamba-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Bubanza, Bujumbura, Rumonge und Makamba von Nord nach Süd an.",
+        "hu": "Kattints Bubanzára, Bujumburára, Rumongéra és Makambára északról délre.",
+        "ro": "Apasă Bubanza, Bujumbura, Rumonge și Makamba de la nord la sud.",
+        "en": "Click Bubanza, Bujumbura, Rumonge, and Makamba from north to south."
+      }
+    },
+    {
+      "id": "bi-sequence-north-south-kayanza-rutana",
+      "type": "sequence",
+      "poiIds": [
+        "kayanza-cities-v2",
+        "muramvya-cities-v2",
+        "mwaro-cities-v2",
+        "rutana-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "kayanza-cities-v2",
+        "muramvya-cities-v2",
+        "mwaro-cities-v2",
+        "rutana-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Kayanza, Muramvya, Mwaro und Rutana von Nord nach Süd an.",
+        "hu": "Kattints Kayanzára, Muramvyára, Mwaróra és Rutanára északról délre.",
+        "ro": "Apasă Kayanza, Muramvya, Mwaro și Rutana de la nord la sud.",
+        "en": "Click Kayanza, Muramvya, Mwaro, and Rutana from north to south."
+      }
+    }
+  ]
+}

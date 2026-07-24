@@ -1,0 +1,293 @@
+{
+  "td": [
+    {
+      "id": "td-find-moundou-logone",
+      "type": "find_poi",
+      "targetPoiId": "moundou-cities-v2",
+      "question": {
+        "de": "Finde Moundou, die große Stadt im südwestlichen Tschad.",
+        "hu": "Keresd meg Moundout, Csád nagyvárosát délnyugaton.",
+        "ro": "Găsește Moundou, marele oraș din sud-vestul Ciadului.",
+        "en": "Find Moundou, the major city in southwestern Chad."
+      }
+    },
+    {
+      "id": "td-find-bol-lake-shore",
+      "type": "find_poi",
+      "targetPoiId": "bol-cities-v2",
+      "question": {
+        "de": "Finde Bol am Südufer des Tschadsees.",
+        "hu": "Keresd meg Bolt a Csád-tó déli partján.",
+        "ro": "Găsește Bol pe țărmul sudic al Lacului Ciad.",
+        "en": "Find Bol on the southern shore of Lake Chad."
+      }
+    },
+    {
+      "id": "td-find-bardai-tibesti",
+      "type": "find_poi",
+      "targetPoiId": "bardai-cities-v2",
+      "question": {
+        "de": "Finde Bardaï im Tibesti-Gebirge ganz im Norden.",
+        "hu": "Keresd meg Bardaït a Tibeszti-hegységben, egészen északon.",
+        "ro": "Găsește Bardaï în Munții Tibesti, foarte departe în nord.",
+        "en": "Find Bardaï in the Tibesti Mountains far in the north."
+      }
+    },
+    {
+      "id": "td-find-emi-koussi",
+      "type": "find_poi",
+      "targetPoiId": "emi-koussi-nature-v2",
+      "question": {
+        "de": "Finde den Vulkan Emi Koussi in der Zentralsahara des Tschad.",
+        "hu": "Keresd meg az Emi Koussi vulkánt Csád középső Szaharájában.",
+        "ro": "Găsește vulcanul Emi Koussi în Sahara centrală a Ciadului.",
+        "en": "Find Emi Koussi, the volcano in Chad's central Sahara."
+      }
+    },
+    {
+      "id": "td-find-ounianga-lakes",
+      "type": "find_poi",
+      "targetPoiId": "chad-lakes-of-ounianga-cities-v2",
+      "question": {
+        "de": "Finde die Seen von Ounianga im nördlichen Wüstenraum.",
+        "hu": "Keresd meg az Ounianga-tavakat az északi sivatagi vidéken.",
+        "ro": "Găsește lacurile din Ounianga în deșertul nordic.",
+        "en": "Find the Lakes of Ounianga in the northern desert."
+      }
+    },
+    {
+      "id": "td-find-palace-abeche",
+      "type": "find_poi",
+      "targetPoiId": "palais-sultan-abeche-landmarks-v2",
+      "question": {
+        "de": "Finde den Sultanpalast von Abéché im Osten des Landes.",
+        "hu": "Keresd meg Abéché szultáni palotáját az ország keleti részén.",
+        "ro": "Găsește Palatul Sultanului din Abéché în estul țării.",
+        "en": "Find the Sultan's Palace of Abéché in the east of the country."
+      }
+    },
+    {
+      "id": "td-region-ndjamena-city",
+      "type": "find_region",
+      "targetRegionId": "TCD-4857",
+      "question": {
+        "de": "Klicke auf die Stadtregion von N'Djamena.",
+        "hu": "Kattints N'Djamena városi régiójára.",
+        "ro": "Apasă pe regiunea urbană a orașului N'Djamena.",
+        "en": "Click the city region of N'Djamena."
+      }
+    },
+    {
+      "id": "td-region-hadjer-lamis",
+      "type": "find_region",
+      "targetRegionId": "TCD-1464",
+      "question": {
+        "de": "Finde Hadjer-Lamis nördlich der Hauptstadt.",
+        "hu": "Keresd meg Hadjer-Lamis régiót a fővárostól északra.",
+        "ro": "Găsește regiunea Hadjer-Lamis la nord de capitală.",
+        "en": "Find Hadjer-Lamis north of the capital."
+      }
+    },
+    {
+      "id": "td-region-kanem",
+      "type": "find_region",
+      "targetRegionId": "TCD-1465",
+      "question": {
+        "de": "Klicke auf Kanem westlich des Borkou-Gebiets.",
+        "hu": "Kattints Kanem régióra, Borkoutól nyugatra.",
+        "ro": "Apasă pe Kanem, la vest de zona Borkou.",
+        "en": "Click Kanem west of the Borkou area."
+      }
+    },
+    {
+      "id": "td-region-mandoul",
+      "type": "find_region",
+      "targetRegionId": "TCD-1488",
+      "question": {
+        "de": "Finde Mandoul im feuchteren Süden des Tschad.",
+        "hu": "Keresd meg Mandoul régiót Csád nedvesebb déli részén.",
+        "ro": "Găsește Mandoul în sudul mai umed al Ciadului.",
+        "en": "Find Mandoul in the wetter south of Chad."
+      }
+    },
+    {
+      "id": "td-region-wadi-fira",
+      "type": "find_region",
+      "targetRegionId": "TCD-1473",
+      "question": {
+        "de": "Klicke auf Wadi Fira an der Grenze zum Sudan.",
+        "hu": "Kattints Wadi Fira régióra, a szudáni határ mentén.",
+        "ro": "Apasă pe Wadi Fira, la granița cu Sudanul.",
+        "en": "Click Wadi Fira along the border with Sudan."
+      }
+    },
+    {
+      "id": "td-odd-lake-chad-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "bol-cities-v2",
+        "moundou-cities-v2",
+        "sarh-cities-v2",
+        "gore-cities-v2"
+      ],
+      "targetPoiId": "bol-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt am Tschadsee statt im feuchten Süden des Landes?",
+        "hu": "Melyik város fekszik a Csád-tónál, nem pedig az ország nedves déli részén?",
+        "ro": "Care oraș se află la Lacul Ciad, nu în sudul mai umed al țării?",
+        "en": "Which city lies by Lake Chad rather than in the country's wetter south?"
+      }
+    },
+    {
+      "id": "td-odd-ennedi-outlier",
+      "type": "odd_one_out",
+      "poiIds": [
+        "pic-tousside-nature-v2",
+        "tarso-voon-nature-v2",
+        "tibesti-mountains-nature-v2",
+        "chad-guelta-d-archei-cities-v2"
+      ],
+      "targetPoiId": "chad-guelta-d-archei-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt in Ennedi statt in der Tibesti-Vulkanlandschaft?",
+        "hu": "Melyik hely fekszik Ennedi térségében, nem pedig a tibeszti vulkáni vidékben?",
+        "ro": "Care loc se află în Ennedi, nu în peisajul vulcanic Tibesti?",
+        "en": "Which place lies in Ennedi rather than in the Tibesti volcanic landscape?"
+      }
+    },
+    {
+      "id": "td-odd-abeche-landmark",
+      "type": "odd_one_out",
+      "poiIds": [
+        "grand-mosque-ndjamena-landmarks-v2",
+        "musee-national-ndjamena-landmarks-v2",
+        "assemblee-nationale-ndjamena-landmarks-v2",
+        "palais-sultan-abeche-landmarks-v2"
+      ],
+      "targetPoiId": "palais-sultan-abeche-landmarks-v2",
+      "question": {
+        "de": "Welches Wahrzeichen liegt in Abéché statt in N'Djamena?",
+        "hu": "Melyik nevezetesség található Abéchében, nem pedig N'Djamenában?",
+        "ro": "Care reper se află în Abéché, nu în N'Djamena?",
+        "en": "Which landmark is in Abéché rather than in N'Djamena?"
+      }
+    },
+    {
+      "id": "td-odd-tibesti-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "abeche-cities-v2",
+        "adre-cities-v2",
+        "goz-beida-cities-v2",
+        "bardai-cities-v2"
+      ],
+      "targetPoiId": "bardai-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt im Tibesti-Gebirge statt im Osten nahe der sudanesischen Grenze?",
+        "hu": "Melyik város fekszik a Tibeszti-hegységben, nem pedig keleten a szudáni határ közelében?",
+        "ro": "Care oraș se află în Munții Tibesti, nu în est aproape de granița cu Sudanul?",
+        "en": "Which city lies in the Tibesti Mountains rather than in the east near the Sudanese border?"
+      }
+    },
+    {
+      "id": "td-sequence-pala-moundou-sarh",
+      "type": "sequence",
+      "poiIds": [
+        "pala-cities-v2",
+        "moundou-cities-v2",
+        "sarh-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "pala-cities-v2",
+        "moundou-cities-v2",
+        "sarh-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Pala, Moundou und Sarh von Westen nach Osten an.",
+        "hu": "Kattints Palára, Moundoura és Sarhra nyugatról kelet felé.",
+        "ro": "Apasă Pala, Moundou și Sarh de la vest la est.",
+        "en": "Click Pala, Moundou and Sarh from west to east."
+      }
+    },
+    {
+      "id": "td-sequence-bol-mao-ati",
+      "type": "sequence",
+      "poiIds": [
+        "bol-cities-v2",
+        "mao-cities-v2",
+        "ati-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "bol-cities-v2",
+        "mao-cities-v2",
+        "ati-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Bol, Mao und Ati von Westen nach Osten an.",
+        "hu": "Kattints Bolra, Maóra és Atira nyugatról kelet felé.",
+        "ro": "Apasă Bol, Mao și Ati de la vest la est.",
+        "en": "Click Bol, Mao and Ati from west to east."
+      }
+    },
+    {
+      "id": "td-sequence-bardai-faya-ati",
+      "type": "sequence",
+      "poiIds": [
+        "bardai-cities-v2",
+        "faya-largeau-cities-v2",
+        "ati-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "bardai-cities-v2",
+        "faya-largeau-cities-v2",
+        "ati-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Bardaï, Faya-Largeau und Ati von Norden nach Süden an.",
+        "hu": "Kattints Bardaïra, Faya-Largeau-ra és Atira északról dél felé.",
+        "ro": "Apasă Bardaï, Faya-Largeau și Ati de la nord la sud.",
+        "en": "Click Bardaï, Faya-Largeau and Ati from north to south."
+      }
+    },
+    {
+      "id": "td-sequence-gore-koumra-mongo",
+      "type": "sequence",
+      "poiIds": [
+        "gore-cities-v2",
+        "koumra-cities-v2",
+        "mongo-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "gore-cities-v2",
+        "koumra-cities-v2",
+        "mongo-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Goré, Koumra und Mongo von Süden nach Norden an.",
+        "hu": "Kattints Goréra, Koumrára és Mongóra délről észak felé.",
+        "ro": "Apasă Goré, Koumra și Mongo de la sud la nord.",
+        "en": "Click Goré, Koumra and Mongo from south to north."
+      }
+    },
+    {
+      "id": "td-sequence-massaguet-dourbali-massenya",
+      "type": "sequence",
+      "poiIds": [
+        "massaguet-cities-v2",
+        "dourbali-cities-v2",
+        "massenya-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "massaguet-cities-v2",
+        "dourbali-cities-v2",
+        "massenya-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Massaguet, Dourbali und Massenya von Norden nach Süden an.",
+        "hu": "Kattints Massaguetre, Dourbalira és Massenyára északról dél felé.",
+        "ro": "Apasă Massaguet, Dourbali și Massenya de la nord la sud.",
+        "en": "Click Massaguet, Dourbali and Massenya from north to south."
+      }
+    }
+  ]
+}

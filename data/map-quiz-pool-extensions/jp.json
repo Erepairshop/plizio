@@ -1,0 +1,299 @@
+{
+  "jp": [
+    {
+      "id": "jp-find-osaka-new",
+      "type": "find_poi",
+      "targetPoiId": "jp-osaka",
+      "question": {
+        "de": "Finde Osaka in der Kansai-Region.",
+        "hu": "Keresd meg Oszakát a Kanszai régióban.",
+        "ro": "Găsește Osaka în regiunea Kansai.",
+        "en": "Find Osaka in the Kansai region."
+      }
+    },
+    {
+      "id": "jp-find-hiroshima-new",
+      "type": "find_poi",
+      "targetPoiId": "jp-hiroshima",
+      "question": {
+        "de": "Finde Hiroshima im Westen von Honshu.",
+        "hu": "Keresd meg Hirosimát Honsú nyugati részén.",
+        "ro": "Găsește Hiroshima în vestul insulei Honshu.",
+        "en": "Find Hiroshima in western Honshu."
+      }
+    },
+    {
+      "id": "jp-find-sendai-new",
+      "type": "find_poi",
+      "targetPoiId": "jp-sendai",
+      "question": {
+        "de": "Finde Sendai im Nordosten von Honshu.",
+        "hu": "Keresd meg Szendajt Honsú északkeleti részén.",
+        "ro": "Găsește Sendai în nord-estul insulei Honshu.",
+        "en": "Find Sendai in northeastern Honshu."
+      }
+    },
+    {
+      "id": "jp-find-kanazawa-new",
+      "type": "find_poi",
+      "targetPoiId": "kanazawa-cities-v2",
+      "question": {
+        "de": "Finde Kanazawa an der Küste des Japanischen Meeres.",
+        "hu": "Keresd meg Kanazawát a Japán-tenger partján.",
+        "ro": "Găsește Kanazawa pe coasta Mării Japoniei.",
+        "en": "Find Kanazawa on the Sea of Japan coast."
+      }
+    },
+    {
+      "id": "jp-find-kagoshima-new",
+      "type": "find_poi",
+      "targetPoiId": "kagoshima-cities-v2",
+      "question": {
+        "de": "Finde Kagoshima im Süden von Kyushu.",
+        "hu": "Keresd meg Kagosimát Kjúsú déli részén.",
+        "ro": "Găsește Kagoshima în sudul insulei Kyushu.",
+        "en": "Find Kagoshima in southern Kyushu."
+      }
+    },
+    {
+      "id": "jp-region-aomori-new",
+      "type": "find_region",
+      "targetRegionId": "JPN-1863",
+      "question": {
+        "de": "Finde Aomori an der Nordspitze von Honshu.",
+        "hu": "Keresd meg Aomorit Honsú északi csúcsán.",
+        "ro": "Găsește Aomori în extremitatea nordică a insulei Honshu.",
+        "en": "Find Aomori at the northern tip of Honshu."
+      }
+    },
+    {
+      "id": "jp-region-miyagi-new",
+      "type": "find_region",
+      "targetRegionId": "JPN-1866",
+      "question": {
+        "de": "Finde Miyagi an der Pazifikküste im Nordosten.",
+        "hu": "Keresd meg Mijagit a csendes-óceáni parton északkeleten.",
+        "ro": "Găsește Miyagi pe coasta Pacificului în nord-est.",
+        "en": "Find Miyagi on the Pacific coast in the northeast."
+      }
+    },
+    {
+      "id": "jp-region-shizuoka-new",
+      "type": "find_region",
+      "targetRegionId": "JPN-1845",
+      "question": {
+        "de": "Finde Shizuoka südwestlich von Tokio.",
+        "hu": "Keresd meg Sizuokát Tokiótól délnyugatra.",
+        "ro": "Găsește Shizuoka la sud-vest de Tokyo.",
+        "en": "Find Shizuoka southwest of Tokyo."
+      }
+    },
+    {
+      "id": "jp-region-nagano-new",
+      "type": "find_region",
+      "targetRegionId": "JPN-1844",
+      "question": {
+        "de": "Finde Nagano im gebirgigen Landesinneren.",
+        "hu": "Keresd meg Naganót a hegyvidéki belső területen.",
+        "ro": "Găsește Nagano în interiorul muntos al țării.",
+        "en": "Find Nagano in the mountainous interior."
+      }
+    },
+    {
+      "id": "jp-region-hiroshima-new",
+      "type": "find_region",
+      "targetRegionId": "JPN-1821",
+      "question": {
+        "de": "Finde die Präfektur Hiroshima am Seto-Binnenmeer.",
+        "hu": "Keresd meg Hirosima prefektúrát a Szeto-beltenger partján.",
+        "ro": "Găsește prefectura Hiroshima la Marea Interioară Seto.",
+        "en": "Find Hiroshima Prefecture on the Seto Inland Sea."
+      }
+    },
+    {
+      "id": "jp-odd-island-city-new",
+      "type": "odd_one_out",
+      "poiIds": [
+        "jp-tokyo",
+        "jp-osaka",
+        "jp-sendai",
+        "naha-cities-v2"
+      ],
+      "targetPoiId": "naha-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt auf Okinawa?",
+        "hu": "Melyik város fekszik Okinaván?",
+        "ro": "Care oraș se află în Okinawa?",
+        "en": "Which city is located on Okinawa?"
+      }
+    },
+    {
+      "id": "jp-odd-sea-of-japan-new",
+      "type": "odd_one_out",
+      "poiIds": [
+        "jp-sendai",
+        "jp-tokyo",
+        "jp-nagoya",
+        "niigata-cities-v2"
+      ],
+      "targetPoiId": "niigata-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt an der Küste des Japanischen Meeres?",
+        "hu": "Melyik város fekszik a Japán-tenger partján?",
+        "ro": "Care oraș se află pe coasta Mării Japoniei?",
+        "en": "Which city lies on the Sea of Japan coast?"
+      }
+    },
+    {
+      "id": "jp-odd-kyushu-new",
+      "type": "odd_one_out",
+      "poiIds": [
+        "jp-hiroshima",
+        "okayama-cities-v2",
+        "jp-kobe",
+        "kumamoto-cities-v2"
+      ],
+      "targetPoiId": "kumamoto-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt auf Kyushu?",
+        "hu": "Melyik város fekszik Kjúsú szigetén?",
+        "ro": "Care oraș se află pe insula Kyushu?",
+        "en": "Which city is on Kyushu?"
+      }
+    },
+    {
+      "id": "jp-odd-shikoku-new",
+      "type": "odd_one_out",
+      "poiIds": [
+        "jp-kobe",
+        "jp-hiroshima",
+        "jp-nagoya",
+        "matsuyama-cities-v2"
+      ],
+      "targetPoiId": "matsuyama-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt auf Shikoku?",
+        "hu": "Melyik város fekszik Sikoku szigetén?",
+        "ro": "Care oraș se află pe insula Shikoku?",
+        "en": "Which city is on Shikoku?"
+      }
+    },
+    {
+      "id": "jp-odd-inland-new",
+      "type": "odd_one_out",
+      "poiIds": [
+        "jp-yokohama",
+        "jp-kobe",
+        "jp-fukuoka",
+        "nagano-cities-v2"
+      ],
+      "targetPoiId": "nagano-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt im Binnenland?",
+        "hu": "Melyik város fekszik a szárazföld belsejében?",
+        "ro": "Care oraș se află în interiorul țării?",
+        "en": "Which city lies inland?"
+      }
+    },
+    {
+      "id": "jp-sequence-aomori-sendai-tokyo",
+      "type": "sequence",
+      "poiIds": [
+        "aomori-cities-v2",
+        "jp-sendai",
+        "jp-tokyo"
+      ],
+      "orderedPoiIds": [
+        "aomori-cities-v2",
+        "jp-sendai",
+        "jp-tokyo"
+      ],
+      "question": {
+        "de": "Klicke Aomori, Sendai und Tokio von Norden nach Süden an.",
+        "hu": "Kattints Aomorira, Szendaira és Tokióra északról délre.",
+        "ro": "Apasă Aomori, Sendai și Tokyo de la nord la sud.",
+        "en": "Click Aomori, Sendai and Tokyo from north to south."
+      }
+    },
+    {
+      "id": "jp-sequence-fukuoka-hiroshima-osaka",
+      "type": "sequence",
+      "poiIds": [
+        "jp-fukuoka",
+        "jp-hiroshima",
+        "jp-osaka"
+      ],
+      "orderedPoiIds": [
+        "jp-fukuoka",
+        "jp-hiroshima",
+        "jp-osaka"
+      ],
+      "question": {
+        "de": "Klicke Fukuoka, Hiroshima und Osaka von Westen nach Osten an.",
+        "hu": "Kattints Fukuokára, Hirosimára és Oszakára nyugatról keletre.",
+        "ro": "Apasă Fukuoka, Hiroshima și Osaka de la vest la est.",
+        "en": "Click Fukuoka, Hiroshima and Osaka from west to east."
+      }
+    },
+    {
+      "id": "jp-sequence-kanazawa-kyoto-hiroshima",
+      "type": "sequence",
+      "poiIds": [
+        "kanazawa-cities-v2",
+        "jp-kyoto",
+        "jp-hiroshima"
+      ],
+      "orderedPoiIds": [
+        "kanazawa-cities-v2",
+        "jp-kyoto",
+        "jp-hiroshima"
+      ],
+      "question": {
+        "de": "Klicke Kanazawa, Kyoto und Hiroshima von Norden nach Süden an.",
+        "hu": "Kattints Kanazawára, Kiotóra és Hirosimára északról délre.",
+        "ro": "Apasă Kanazawa, Kyoto și Hiroshima de la nord la sud.",
+        "en": "Click Kanazawa, Kyoto and Hiroshima from north to south."
+      }
+    },
+    {
+      "id": "jp-sequence-hiroshima-okayama-kobe",
+      "type": "sequence",
+      "poiIds": [
+        "jp-hiroshima",
+        "okayama-cities-v2",
+        "jp-kobe"
+      ],
+      "orderedPoiIds": [
+        "jp-hiroshima",
+        "okayama-cities-v2",
+        "jp-kobe"
+      ],
+      "question": {
+        "de": "Klicke Hiroshima, Okayama und Kobe von Westen nach Osten an.",
+        "hu": "Kattints Hirosimára, Okajamára és Kobéra nyugatról keletre.",
+        "ro": "Apasă Hiroshima, Okayama și Kobe de la vest la est.",
+        "en": "Click Hiroshima, Okayama and Kobe from west to east."
+      }
+    },
+    {
+      "id": "jp-sequence-sapporo-akita-tokyo",
+      "type": "sequence",
+      "poiIds": [
+        "jp-sapporo",
+        "akita-cities-v2",
+        "jp-tokyo"
+      ],
+      "orderedPoiIds": [
+        "jp-sapporo",
+        "akita-cities-v2",
+        "jp-tokyo"
+      ],
+      "question": {
+        "de": "Klicke Sapporo, Akita und Tokio von Norden nach Süden an.",
+        "hu": "Kattints Szapporóra, Akitára és Tokióra északról délre.",
+        "ro": "Apasă Sapporo, Akita și Tokyo de la nord la sud.",
+        "en": "Click Sapporo, Akita and Tokyo from north to south."
+      }
+    }
+  ]
+}

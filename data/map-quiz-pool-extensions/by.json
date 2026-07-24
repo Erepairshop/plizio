@@ -1,0 +1,298 @@
+{
+  "by": [
+    {
+      "id": "by-region-brest-oblast",
+      "type": "find_region",
+      "targetRegionId": "BY-002",
+      "question": {
+        "de": "Klicke auf die Region Brest im Südwesten von Belarus.",
+        "hu": "Kattints a Belarusz délnyugati részén fekvő Breszti területre.",
+        "ro": "Apasă pe regiunea Brest din sud-vestul Belarusului.",
+        "en": "Click the Brest Region in southwestern Belarus."
+      }
+    },
+    {
+      "id": "by-region-vitebsk-oblast",
+      "type": "find_region",
+      "targetRegionId": "BY-003",
+      "question": {
+        "de": "Finde die Region Wizebsk im Norden an der Grenze zu Lettland und Russland.",
+        "hu": "Keresd meg az északi Vicebszki területet Lettország és Oroszország határán.",
+        "ro": "Găsește regiunea Vitebsk din nord, la granița cu Letonia și Rusia.",
+        "en": "Find the Vitebsk Region in the north along the borders with Latvia and Russia."
+      }
+    },
+    {
+      "id": "by-region-mogilev-oblast",
+      "type": "find_region",
+      "targetRegionId": "BY-005",
+      "question": {
+        "de": "Klicke auf die Region Mahiljou im Osten des Landes.",
+        "hu": "Kattints az ország keleti részén fekvő Mahiljovi területre.",
+        "ro": "Apasă pe regiunea Moghilău din estul țării.",
+        "en": "Click the Mogilev Region in the east of the country."
+      }
+    },
+    {
+      "id": "by-region-minsk-city",
+      "type": "find_region",
+      "targetRegionId": "BY-007",
+      "question": {
+        "de": "Finde die eigenständige Stadtregion Minsk inmitten der Region Minsk.",
+        "hu": "Keresd meg a Minszki területen belüli önálló Minszk városi régiót.",
+        "ro": "Găsește regiunea urbană separată a Minskului din interiorul regiunii Minsk.",
+        "en": "Find the separate City of Minsk region inside Minsk Region."
+      }
+    },
+    {
+      "id": "by-find-nesvizh-castle",
+      "type": "find_poi",
+      "targetPoiId": "belarus-nesvizh-castle-history-v2",
+      "question": {
+        "de": "Finde das Schloss Njaswisch südwestlich von Minsk.",
+        "hu": "Keresd meg a Minszktől délnyugatra fekvő Nyaszvizsi kastélyt.",
+        "ro": "Găsește Castelul Nesvizh, la sud-vest de Minsk.",
+        "en": "Find Nesvizh Castle southwest of Minsk."
+      }
+    },
+    {
+      "id": "by-find-polotsk-sophia",
+      "type": "find_poi",
+      "targetPoiId": "belarus-polotsk-st-sophia-history-v2",
+      "question": {
+        "de": "Finde die Sophienkathedrale in Polazk im hohen Norden.",
+        "hu": "Keresd meg a polacki Szent Zsófia-székesegyházat északon.",
+        "ro": "Găsește Catedrala Sfânta Sofia din Polotsk, în nordul îndepărtat.",
+        "en": "Find Saint Sophia Cathedral in Polotsk in the far north."
+      }
+    },
+    {
+      "id": "by-find-lake-narach",
+      "type": "find_poi",
+      "targetPoiId": "belarus-narach-lake-nature-v2",
+      "question": {
+        "de": "Finde den Naratschsee im nordwestlichen Seengebiet von Belarus.",
+        "hu": "Keresd meg a Naracs-tavat Belarusz északnyugati tóvidékén.",
+        "ro": "Găsește Lacul Naraci din zona lacurilor din nord-vestul Belarusului.",
+        "en": "Find Lake Narach in Belarus's northwestern lake district."
+      }
+    },
+    {
+      "id": "by-find-belovezhskaya-pushcha",
+      "type": "find_poi",
+      "targetPoiId": "belarus-belovezhskaya-pushcha-nature-v2",
+      "question": {
+        "de": "Finde den Urwald Beloweschskaja Puschtscha nahe der polnischen Grenze.",
+        "hu": "Keresd meg a lengyel határ közelében fekvő Belavezsszkaja Puscsát.",
+        "ro": "Găsește pădurea Belovezhskaya Pushcha de lângă granița cu Polonia.",
+        "en": "Find Belovezhskaya Pushcha near the Polish border."
+      }
+    },
+    {
+      "id": "by-find-augustow-canal",
+      "type": "find_poi",
+      "targetPoiId": "belarus-augustow-canal-cities-v2",
+      "question": {
+        "de": "Finde den Augustów-Kanal ganz im Westen bei Hrodna.",
+        "hu": "Keresd meg a Hrodna közelében, nyugaton fekvő Augustówi-csatornát.",
+        "ro": "Găsește Canalul Augustów din vest, lângă Grodno.",
+        "en": "Find the Augustow Canal in the far west near Grodno."
+      }
+    },
+    {
+      "id": "by-find-turov-ruins",
+      "type": "find_poi",
+      "targetPoiId": "belarus-turov-cathedral-ruins-history-v2",
+      "question": {
+        "de": "Finde die Kathedralruinen von Turow im Süden von Belarus.",
+        "hu": "Keresd meg a turavi székesegyház romjait Belarusz déli részén.",
+        "ro": "Găsește ruinele catedralei din Turov, în sudul Belarusului.",
+        "en": "Find the cathedral ruins of Turov in southern Belarus."
+      }
+    },
+    {
+      "id": "by-odd-southern-city-east",
+      "type": "odd_one_out",
+      "poiIds": [
+        "belarus-grodno-cities-v2",
+        "belarus-mogilev-cities-v2",
+        "belarus-gomel-cities-v2"
+      ],
+      "targetPoiId": "belarus-gomel-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten im Süden?",
+        "hu": "Melyik város fekszik a legdélebbre?",
+        "ro": "Care dintre aceste orașe se află cel mai la sud?",
+        "en": "Which of these cities lies farthest south?"
+      }
+    },
+    {
+      "id": "by-odd-northern-polessia",
+      "type": "odd_one_out",
+      "poiIds": [
+        "belarus-turov-cities-v2",
+        "belarus-pinsk-cities-v2",
+        "belarus-mozyr-cities-v2"
+      ],
+      "targetPoiId": "belarus-pinsk-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten im Norden?",
+        "hu": "Melyik város fekszik a legészakabbra?",
+        "ro": "Care dintre aceste orașe se află cel mai la nord?",
+        "en": "Which of these cities lies farthest north?"
+      }
+    },
+    {
+      "id": "by-odd-eastern-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "belarus-navahrudak-cities-v2",
+        "belarus-minsk-cities-v2",
+        "belarus-orsha-cities-v2"
+      ],
+      "targetPoiId": "belarus-orsha-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten im Osten?",
+        "hu": "Melyik város fekszik a legkeletebbre?",
+        "ro": "Care dintre aceste orașe se află cel mai la est?",
+        "en": "Which of these cities lies farthest east?"
+      }
+    },
+    {
+      "id": "by-odd-highest-landform",
+      "type": "odd_one_out",
+      "poiIds": [
+        "belarus-narach-lake-nature-v2",
+        "belarus-braslav-lakes-nature-v2",
+        "belarus-dzyarzhynskaya-hara-nature-v2"
+      ],
+      "targetPoiId": "belarus-dzyarzhynskaya-hara-nature-v2",
+      "question": {
+        "de": "Welcher dieser Orte ist ein Gipfel und kein Gewässer?",
+        "hu": "Melyik hely hegycsúcs, nem pedig vízfelület?",
+        "ro": "Care dintre aceste locuri este un vârf și nu o apă?",
+        "en": "Which of these places is a summit rather than a body of water?"
+      }
+    },
+    {
+      "id": "by-odd-western-river",
+      "type": "odd_one_out",
+      "poiIds": [
+        "belarus-neman-river-nature-v2",
+        "belarus-berezina-river-nature-v2",
+        "belarus-dnieper-river-nature-v2"
+      ],
+      "targetPoiId": "belarus-neman-river-nature-v2",
+      "question": {
+        "de": "Welcher dieser Flüsse liegt am weitesten im Westen?",
+        "hu": "Melyik folyó fekszik a legnyugatabbra?",
+        "ro": "Care dintre aceste râuri se află cel mai la vest?",
+        "en": "Which of these rivers lies farthest west?"
+      }
+    },
+    {
+      "id": "by-sequence-castles-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "belarus-navahrudak-cities-v2",
+        "belarus-mir-castle-history-v2",
+        "belarus-nesvizh-castle-history-v2"
+      ],
+      "orderedPoiIds": [
+        "belarus-navahrudak-cities-v2",
+        "belarus-mir-castle-history-v2",
+        "belarus-nesvizh-castle-history-v2"
+      ],
+      "question": {
+        "de": "Klicke Navahrudak, Schloss Mir und Schloss Njaswisch von Westen nach Osten an.",
+        "hu": "Kattints Navahrudakra, a Miri kastélyra és a Nyaszvizsi kastélyra nyugatról keletre.",
+        "ro": "Apasă pe Navahrudak, Castelul Mir și Castelul Nesvizh de la vest la est.",
+        "en": "Click Navahrudak, Mir Castle and Nesvizh Castle from west to east."
+      }
+    },
+    {
+      "id": "by-sequence-north-south-bogs",
+      "type": "sequence",
+      "poiIds": [
+        "belarus-yelnya-bog-nature-v2",
+        "belarus-pastavy-cities-v2",
+        "belarus-minsk-cities-v2",
+        "belarus-turov-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "belarus-yelnya-bog-nature-v2",
+        "belarus-pastavy-cities-v2",
+        "belarus-minsk-cities-v2",
+        "belarus-turov-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Jelnja-Moor, Pastawy, Minsk und Turow von Norden nach Süden an.",
+        "hu": "Kattints a Jelnya-lápra, Pastavyra, Minszkre és Turovra északról délre.",
+        "ro": "Apasă pe mlaștina Yelnya, Pastavy, Minsk și Turov de la nord la sud.",
+        "en": "Click Yelnya Bog, Pastavy, Minsk and Turov from north to south."
+      }
+    },
+    {
+      "id": "by-sequence-northern-cities-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "belarus-pastavy-cities-v2",
+        "belarus-polotsk-cities-v2",
+        "belarus-vitebsk-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "belarus-pastavy-cities-v2",
+        "belarus-polotsk-cities-v2",
+        "belarus-vitebsk-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Pastawy, Polazk und Wizebsk von Westen nach Osten an.",
+        "hu": "Kattints Pastavyra, Polackra és Vicebszkre nyugatról keletre.",
+        "ro": "Apasă pe Pastavy, Polotsk și Vitebsk de la vest la est.",
+        "en": "Click Pastavy, Polotsk and Vitebsk from west to east."
+      }
+    },
+    {
+      "id": "by-sequence-historic-sites-south-north",
+      "type": "sequence",
+      "poiIds": [
+        "belarus-brest-fortress-history-v2",
+        "belarus-mir-castle-history-v2",
+        "belarus-polotsk-st-sophia-history-v2"
+      ],
+      "orderedPoiIds": [
+        "belarus-brest-fortress-history-v2",
+        "belarus-mir-castle-history-v2",
+        "belarus-polotsk-st-sophia-history-v2"
+      ],
+      "question": {
+        "de": "Klicke Festung Brest, Schloss Mir und die Sophienkathedrale von Süden nach Norden an.",
+        "hu": "Kattints a Breszti erődre, a Miri kastélyra és a Szent Zsófia-székesegyházra délről északra.",
+        "ro": "Apasă pe Fortăreața Brest, Castelul Mir și Catedrala Sfânta Sofia de la sud la nord.",
+        "en": "Click Brest Fortress, Mir Castle and Saint Sophia Cathedral from south to north."
+      }
+    },
+    {
+      "id": "by-sequence-southern-belt-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "belarus-brest-fortress-history-v2",
+        "belarus-pinsk-cities-v2",
+        "belarus-mozyr-cities-v2",
+        "belarus-gomel-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "belarus-brest-fortress-history-v2",
+        "belarus-pinsk-cities-v2",
+        "belarus-mozyr-cities-v2",
+        "belarus-gomel-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Festung Brest, Pinsk, Masyr und Homel von Westen nach Osten an.",
+        "hu": "Kattints a Breszti erődre, Pinszkre, Mazirra és Homelre nyugatról keletre.",
+        "ro": "Apasă pe Fortăreața Brest, Pinsk, Mozyr și Gomel de la vest la est.",
+        "en": "Click Brest Fortress, Pinsk, Mozyr and Gomel from west to east."
+      }
+    }
+  ]
+}

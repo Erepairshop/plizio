@@ -1,0 +1,304 @@
+{
+  "mm": [
+    {
+      "id": "mmx-find-myitkyina",
+      "type": "find_poi",
+      "targetPoiId": "myitkyina-cities-v2",
+      "question": {
+        "de": "Finde Myitkyina im hohen Norden Myanmars.",
+        "hu": "Keresd meg Myitkyinat Mianmar tavoli eszaki reszen.",
+        "ro": "Gaseste Myitkyina in nordul indepartat al Myanmarului.",
+        "en": "Find Myitkyina in far northern Myanmar."
+      }
+    },
+    {
+      "id": "mmx-find-bagan",
+      "type": "find_poi",
+      "targetPoiId": "bagan-archaeological-zone-history-v2",
+      "question": {
+        "de": "Finde die archaeologische Zone von Bagan in Zentralmyanmar.",
+        "hu": "Keresd meg Bagan regeszeti ovezetet Mianmar kozepso reszen.",
+        "ro": "Gaseste zona arheologica Bagan in centrul Myanmarului.",
+        "en": "Find the Bagan Archaeological Zone in central Myanmar."
+      }
+    },
+    {
+      "id": "mmx-find-shwedagon",
+      "type": "find_poi",
+      "targetPoiId": "shwedagon-pagoda-history-v2",
+      "question": {
+        "de": "Klicke auf die Shwedagon-Pagode in Yangon.",
+        "hu": "Kattints a yangoni Shwedagon pagodara.",
+        "ro": "Apasa pe Pagoda Shwedagon din Yangon.",
+        "en": "Click the Shwedagon Pagoda in Yangon."
+      }
+    },
+    {
+      "id": "mmx-find-hpa-an",
+      "type": "find_poi",
+      "targetPoiId": "hpa-an-cities-v2",
+      "question": {
+        "de": "Finde Hpa-An im Suedosten Myanmars.",
+        "hu": "Keresd meg Hpa-Ant Mianmar delkeleti reszen.",
+        "ro": "Gaseste Hpa-An in sud-estul Myanmarului.",
+        "en": "Find Hpa-An in southeastern Myanmar."
+      }
+    },
+    {
+      "id": "mmx-find-ngapali-beach",
+      "type": "find_poi",
+      "targetPoiId": "myanmar-ngapali-beach-landmarks-v2",
+      "question": {
+        "de": "Finde den Strand von Ngapali an der Westkueste.",
+        "hu": "Keresd meg az Ngapali partot a nyugati tengerparton.",
+        "ro": "Gaseste plaja Ngapali de pe coasta vestica.",
+        "en": "Find Ngapali Beach on the western coast."
+      }
+    },
+    {
+      "id": "mmx-find-inle-lake",
+      "type": "find_poi",
+      "targetPoiId": "inle-lake-nature-v2",
+      "question": {
+        "de": "Finde den Inle-See im Shan-Hochland.",
+        "hu": "Keresd meg az Inle-to t a Shan-fennsikon.",
+        "ro": "Gaseste lacul Inle din Podisul Shan.",
+        "en": "Find Inle Lake in the Shan Highlands."
+      }
+    },
+    {
+      "id": "mmx-region-kachin",
+      "type": "find_region",
+      "targetRegionId": "MMR-3296",
+      "question": {
+        "de": "Klicke auf den Staat Kachin im Norden.",
+        "hu": "Kattints az eszaki Kachin allamra.",
+        "ro": "Apasa pe statul Kachin din nord.",
+        "en": "Click Kachin State in the north."
+      }
+    },
+    {
+      "id": "mmx-region-shan",
+      "type": "find_region",
+      "targetRegionId": "MMR-3277",
+      "question": {
+        "de": "Finde den Staat Shan im Osten Myanmars.",
+        "hu": "Keresd meg a keleti Shan allamot.",
+        "ro": "Gaseste statul Shan din estul Myanmarului.",
+        "en": "Find Shan State in eastern Myanmar."
+      }
+    },
+    {
+      "id": "mmx-region-yangon",
+      "type": "find_region",
+      "targetRegionId": "MMR-3269",
+      "question": {
+        "de": "Klicke auf die Region Yangon im Sueden.",
+        "hu": "Kattints a deli Yangon regi ora.",
+        "ro": "Apasa pe regiunea Yangon din sud.",
+        "en": "Click the Yangon Region in the south."
+      }
+    },
+    {
+      "id": "mmx-region-tanintharyi",
+      "type": "find_region",
+      "targetRegionId": "MMR-3279",
+      "question": {
+        "de": "Finde die lange Kuestenregion Tanintharyi im aeussersten Sueden.",
+        "hu": "Keresd meg a hosszu tengerparti Tanintharyi regiot a legdelibb reszen.",
+        "ro": "Gaseste lunga regiune de coasta Tanintharyi din extremul sud.",
+        "en": "Find the long Tanintharyi coastal region in the far south."
+      }
+    },
+    {
+      "id": "mmx-odd-farthest-north",
+      "type": "odd_one_out",
+      "poiIds": [
+        "yangon-cities-v2",
+        "naypyidaw-cities-v2",
+        "myitkyina-cities-v2"
+      ],
+      "targetPoiId": "myitkyina-cities-v2",
+      "question": {
+        "de": "Welche dieser Staedte liegt am weitesten im Norden?",
+        "hu": "Melyik varos fekszik a legeszakabbra?",
+        "ro": "Care dintre aceste orase se afla cel mai la nord?",
+        "en": "Which of these cities lies farthest north?"
+      }
+    },
+    {
+      "id": "mmx-odd-easternmost-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "hakha-cities-v2",
+        "taunggyi-cities-v2",
+        "kengtung-cities-v2"
+      ],
+      "targetPoiId": "kengtung-cities-v2",
+      "question": {
+        "de": "Welche dieser Staedte liegt am weitesten im Osten?",
+        "hu": "Melyik varos fekszik a legkeletebbre?",
+        "ro": "Care dintre aceste orase se afla cel mai la est?",
+        "en": "Which of these cities lies farthest east?"
+      }
+    },
+    {
+      "id": "mmx-odd-lake",
+      "type": "odd_one_out",
+      "poiIds": [
+        "inle-lake-nature-v2",
+        "shwedagon-pagoda-history-v2",
+        "myanmar-ngapali-beach-landmarks-v2"
+      ],
+      "targetPoiId": "inle-lake-nature-v2",
+      "question": {
+        "de": "Welcher dieser Orte ist ein See?",
+        "hu": "Ezek kozul melyik hely egy to?",
+        "ro": "Care dintre aceste locuri este un lac?",
+        "en": "Which of these places is a lake?"
+      }
+    },
+    {
+      "id": "mmx-odd-mandalay-area",
+      "type": "odd_one_out",
+      "poiIds": [
+        "myanmar-u-bein-bridge-landmarks-v2",
+        "shwedagon-pagoda-history-v2",
+        "kyaiktiyo-pagoda-history-v2"
+      ],
+      "targetPoiId": "myanmar-u-bein-bridge-landmarks-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt bei Mandalay?",
+        "hu": "Ezek kozul melyik hely talalhato Mandalay kozeleben?",
+        "ro": "Care dintre aceste locuri se afla langa Mandalay?",
+        "en": "Which of these places is near Mandalay?"
+      }
+    },
+    {
+      "id": "mmx-odd-farthest-south",
+      "type": "odd_one_out",
+      "poiIds": [
+        "yangon-cities-v2",
+        "dawei-cities-v2",
+        "myanmar-kawthaung-cities-v2"
+      ],
+      "targetPoiId": "myanmar-kawthaung-cities-v2",
+      "question": {
+        "de": "Welche dieser Staedte liegt am weitesten im Sueden?",
+        "hu": "Melyik varos fekszik a legdelebbre?",
+        "ro": "Care dintre aceste orase se afla cel mai la sud?",
+        "en": "Which of these cities lies farthest south?"
+      }
+    },
+    {
+      "id": "mmx-sequence-north-south-core",
+      "type": "sequence",
+      "poiIds": [
+        "myitkyina-cities-v2",
+        "bagan-archaeological-zone-history-v2",
+        "naypyidaw-cities-v2",
+        "mawlamyine-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "myitkyina-cities-v2",
+        "bagan-archaeological-zone-history-v2",
+        "naypyidaw-cities-v2",
+        "mawlamyine-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Myitkyina, Bagan, Naypyidaw und Mawlamyine von Norden nach Sueden an.",
+        "hu": "Kattints Myitkyinara, Baganra, Naypyidawra es Mawlamyine-re eszakrol delre.",
+        "ro": "Apasa pe Myitkyina, Bagan, Naypyidaw si Mawlamyine de la nord la sud.",
+        "en": "Click Myitkyina, Bagan, Naypyidaw, and Mawlamyine from north to south."
+      }
+    },
+    {
+      "id": "mmx-sequence-west-east-cross-country",
+      "type": "sequence",
+      "poiIds": [
+        "sittwe-cities-v2",
+        "magway-cities-v2",
+        "naypyidaw-cities-v2",
+        "taunggyi-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "sittwe-cities-v2",
+        "magway-cities-v2",
+        "naypyidaw-cities-v2",
+        "taunggyi-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Sittwe, Magway, Naypyidaw und Taunggyi von Westen nach Osten an.",
+        "hu": "Kattints Sittwere, Magwayre, Naypyidawra es Taunggyire nyugatrol keletre.",
+        "ro": "Apasa pe Sittwe, Magway, Naypyidaw si Taunggyi de la vest la est.",
+        "en": "Click Sittwe, Magway, Naypyidaw, and Taunggyi from west to east."
+      }
+    },
+    {
+      "id": "mmx-sequence-southward-andaman",
+      "type": "sequence",
+      "poiIds": [
+        "yangon-cities-v2",
+        "dawei-cities-v2",
+        "myeik-cities-v2",
+        "myanmar-kawthaung-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "yangon-cities-v2",
+        "dawei-cities-v2",
+        "myeik-cities-v2",
+        "myanmar-kawthaung-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Yangon, Dawei, Myeik und Kawthaung von Norden nach Sueden an.",
+        "hu": "Kattints Yangonra, Daweire, Myeikre es Kawthaungra eszakrol delre.",
+        "ro": "Apasa pe Yangon, Dawei, Myeik si Kawthaung de la nord la sud.",
+        "en": "Click Yangon, Dawei, Myeik, and Kawthaung from north to south."
+      }
+    },
+    {
+      "id": "mmx-sequence-west-east-shan-corridor",
+      "type": "sequence",
+      "poiIds": [
+        "mandalay-cities-v2",
+        "pyin-oo-lwin-cities-v2",
+        "myanmar-hsipaw-cities-v2",
+        "lashio-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "mandalay-cities-v2",
+        "pyin-oo-lwin-cities-v2",
+        "myanmar-hsipaw-cities-v2",
+        "lashio-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Mandalay, Pyin Oo Lwin, Hsipaw und Lashio von Westen nach Osten an.",
+        "hu": "Kattints Mandalayra, Pyin Oo Lwinre, Hsipawra es Lashi ora nyugatrol keletre.",
+        "ro": "Apasa pe Mandalay, Pyin Oo Lwin, Hsipaw si Lashio de la vest la est.",
+        "en": "Click Mandalay, Pyin Oo Lwin, Hsipaw, and Lashio from west to east."
+      }
+    },
+    {
+      "id": "mmx-sequence-west-east-sites",
+      "type": "sequence",
+      "poiIds": [
+        "bagan-archaeological-zone-history-v2",
+        "mandalay-palace-history-v2",
+        "inle-lake-nature-v2",
+        "kengtung-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "bagan-archaeological-zone-history-v2",
+        "mandalay-palace-history-v2",
+        "inle-lake-nature-v2",
+        "kengtung-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Bagan, den Mandalay-Palast, den Inle-See und Kengtung von Westen nach Osten an.",
+        "hu": "Kattints Baganra, a Mandalay-palotara, az Inle-to ra es Kengtungra nyugatrol keletre.",
+        "ro": "Apasa pe Bagan, Palatul Mandalay, lacul Inle si Kengtung de la vest la est.",
+        "en": "Click Bagan, Mandalay Palace, Inle Lake, and Kengtung from west to east."
+      }
+    }
+  ]
+}

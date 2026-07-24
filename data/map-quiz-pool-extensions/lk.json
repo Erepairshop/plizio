@@ -1,0 +1,298 @@
+{
+  "lk": [
+    {
+      "id": "lk-find-negombo-west-coast",
+      "type": "find_poi",
+      "targetPoiId": "negombo-cities-v2",
+      "question": {
+        "de": "Finde Negombo an der Westküste nördlich von Colombo.",
+        "hu": "Keresd meg Negombót a nyugati parton, Colombótól északra.",
+        "ro": "Găsește Negombo pe coasta de vest, la nord de Colombo.",
+        "en": "Find Negombo on the western coast north of Colombo."
+      }
+    },
+    {
+      "id": "lk-find-nuwara-eliya-highlands",
+      "type": "find_poi",
+      "targetPoiId": "nuwara-eliya-cities-v2",
+      "question": {
+        "de": "Finde Nuwara Eliya im zentralen Hochland.",
+        "hu": "Keresd meg Nuwara Eliyát a központi hegyvidéken.",
+        "ro": "Găsește Nuwara Eliya în zona montană centrală.",
+        "en": "Find Nuwara Eliya in the central highlands."
+      }
+    },
+    {
+      "id": "lk-find-sigiriya-rock-fortress",
+      "type": "find_poi",
+      "targetPoiId": "sigiriya-history-v2",
+      "question": {
+        "de": "Klicke auf die Felsenfestung Sigiriya im Landesinneren.",
+        "hu": "Kattints a szárazföld belsejében fekvő Sigiriya sziklaerődre.",
+        "ro": "Apasă pe fortăreața de stâncă Sigiriya din interiorul țării.",
+        "en": "Click Sigiriya Rock Fortress in the interior of the country."
+      }
+    },
+    {
+      "id": "lk-find-mannar-northwest",
+      "type": "find_poi",
+      "targetPoiId": "mannar-cities-v2",
+      "question": {
+        "de": "Finde Mannar im Nordwesten Sri Lankas.",
+        "hu": "Keresd meg Mannart Srí Lanka északnyugati részén.",
+        "ro": "Găsește Mannar în nord-vestul Sri Lankăi.",
+        "en": "Find Mannar in northwestern Sri Lanka."
+      }
+    },
+    {
+      "id": "lk-find-arugam-bay-southeast",
+      "type": "find_poi",
+      "targetPoiId": "arugam-bay-landmarks-v2",
+      "question": {
+        "de": "Finde die Arugam Bay an der Südostküste.",
+        "hu": "Keresd meg az Arugam-öblöt a délkeleti parton.",
+        "ro": "Găsește Arugam Bay pe coasta de sud-est.",
+        "en": "Find Arugam Bay on the southeastern coast."
+      }
+    },
+    {
+      "id": "lk-find-adams-peak",
+      "type": "find_poi",
+      "targetPoiId": "adams-peak-landmarks-v2",
+      "question": {
+        "de": "Klicke auf Adam's Peak im südwestlichen Hochland.",
+        "hu": "Kattints az Ádám-csúcsra a délnyugati hegyvidéken.",
+        "ro": "Apasă pe Adam's Peak din zona înaltă sud-vestică.",
+        "en": "Click Adam's Peak in the southwestern highlands."
+      }
+    },
+    {
+      "id": "lk-region-gampaha",
+      "type": "find_region",
+      "targetRegionId": "LKA-2471",
+      "question": {
+        "de": "Klicke auf den Distrikt Gampaha nördlich von Colombo.",
+        "hu": "Kattints a Colombótól északra fekvő Gampaha körzetre.",
+        "ro": "Apasă pe districtul Gampaha, la nord de Colombo.",
+        "en": "Click Gampaha District north of Colombo."
+      }
+    },
+    {
+      "id": "lk-region-jaffna",
+      "type": "find_region",
+      "targetRegionId": "LKA-2459",
+      "question": {
+        "de": "Klicke auf den Distrikt Jaffna auf der nördlichen Halbinsel.",
+        "hu": "Kattints a Jaffna körzetre az északi félszigeten.",
+        "ro": "Apasă pe districtul Jaffna de pe peninsula nordică.",
+        "en": "Click Jaffna District on the northern peninsula."
+      }
+    },
+    {
+      "id": "lk-region-trincomalee",
+      "type": "find_region",
+      "targetRegionId": "LKA-2454",
+      "question": {
+        "de": "Klicke auf den Distrikt Trincomalee an der Ostküste.",
+        "hu": "Kattints a keleti parton fekvő Trincomalee körzetre.",
+        "ro": "Apasă pe districtul Trincomalee de pe coasta de est.",
+        "en": "Click Trincomalee District on the eastern coast."
+      }
+    },
+    {
+      "id": "lk-region-badulla",
+      "type": "find_region",
+      "targetRegionId": "LKA-2467",
+      "question": {
+        "de": "Klicke auf den Distrikt Badulla im Südosten des Hochlands.",
+        "hu": "Kattints a hegyvidék délkeleti részén fekvő Badulla körzetre.",
+        "ro": "Apasă pe districtul Badulla din sud-estul zonei montane.",
+        "en": "Click Badulla District in the southeastern highlands."
+      }
+    },
+    {
+      "id": "lk-odd-westmost-north-coast",
+      "type": "odd_one_out",
+      "poiIds": [
+        "jaffna-cities-v2",
+        "trincomalee-cities-v2",
+        "mannar-cities-v2"
+      ],
+      "targetPoiId": "mannar-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten im Westen?",
+        "hu": "Melyik város fekszik a legnyugatabbra?",
+        "ro": "Care dintre aceste orașe se află cel mai la vest?",
+        "en": "Which of these cities lies farthest west?"
+      }
+    },
+    {
+      "id": "lk-odd-southern-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "colombo-cities-v2",
+        "hambantota-cities-v2",
+        "matara-cities-v2"
+      ],
+      "targetPoiId": "matara-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten im Süden?",
+        "hu": "Melyik város fekszik a legdélebbre?",
+        "ro": "Care dintre aceste orașe se află cel mai la sud?",
+        "en": "Which of these cities lies farthest south?"
+      }
+    },
+    {
+      "id": "lk-odd-eastern-seaboard",
+      "type": "odd_one_out",
+      "poiIds": [
+        "batticaloa-cities-v2",
+        "ampara-cities-v2",
+        "arugam-bay-landmarks-v2"
+      ],
+      "targetPoiId": "arugam-bay-landmarks-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Osten?",
+        "hu": "Melyik hely fekszik a legkeletebbre?",
+        "ro": "Care dintre aceste locuri se află cel mai la est?",
+        "en": "Which of these places lies farthest east?"
+      }
+    },
+    {
+      "id": "lk-odd-northern-trio",
+      "type": "odd_one_out",
+      "poiIds": [
+        "jaffna-cities-v2",
+        "kilinochchi-cities-v2",
+        "vavuniya-cities-v2"
+      ],
+      "targetPoiId": "jaffna-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten im Norden?",
+        "hu": "Melyik város fekszik a legészakabbra?",
+        "ro": "Care dintre aceste orașe se află cel mai la nord?",
+        "en": "Which of these cities lies farthest north?"
+      }
+    },
+    {
+      "id": "lk-odd-westmost-southern-coast",
+      "type": "odd_one_out",
+      "poiIds": [
+        "galle-cities-v2",
+        "sri-lanka-tangalle-cities-v2",
+        "sri-lanka-kirinda-cities-v2"
+      ],
+      "targetPoiId": "galle-cities-v2",
+      "question": {
+        "de": "Welcher dieser Küstenorte liegt am weitesten im Westen?",
+        "hu": "Melyik parti település fekszik a legnyugatabbra?",
+        "ro": "Care dintre aceste localități de coastă se află cel mai la vest?",
+        "en": "Which of these coastal places lies farthest west?"
+      }
+    },
+    {
+      "id": "lk-sequence-west-east-mannar-trincomalee",
+      "type": "sequence",
+      "poiIds": [
+        "mannar-cities-v2",
+        "anuradhapura-cities-v2",
+        "trincomalee-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "mannar-cities-v2",
+        "anuradhapura-cities-v2",
+        "trincomalee-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Mannar, Anuradhapura und Trincomalee von Westen nach Osten an.",
+        "hu": "Kattints Mannarra, Anuradhapurára és Trincomalee-ra nyugatról keletre.",
+        "ro": "Apasă pe Mannar, Anuradhapura și Trincomalee de la vest la est.",
+        "en": "Click Mannar, Anuradhapura, and Trincomalee from west to east."
+      }
+    },
+    {
+      "id": "lk-sequence-north-south-jaffna-hills",
+      "type": "sequence",
+      "poiIds": [
+        "jaffna-cities-v2",
+        "vavuniya-cities-v2",
+        "kandy-cities-v2",
+        "nuwara-eliya-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "jaffna-cities-v2",
+        "vavuniya-cities-v2",
+        "kandy-cities-v2",
+        "nuwara-eliya-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Jaffna, Vavuniya, Kandy und Nuwara Eliya von Norden nach Süden an.",
+        "hu": "Kattints Jaffnára, Vavuniyára, Kandyre és Nuwara Eliyára északról délre.",
+        "ro": "Apasă pe Jaffna, Vavuniya, Kandy și Nuwara Eliya de la nord la sud.",
+        "en": "Click Jaffna, Vavuniya, Kandy, and Nuwara Eliya from north to south."
+      }
+    },
+    {
+      "id": "lk-sequence-west-east-central-highlands",
+      "type": "sequence",
+      "poiIds": [
+        "kegalle-cities-v2",
+        "kandy-cities-v2",
+        "nuwara-eliya-cities-v2",
+        "badulla-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "kegalle-cities-v2",
+        "kandy-cities-v2",
+        "nuwara-eliya-cities-v2",
+        "badulla-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Kegalle, Kandy, Nuwara Eliya und Badulla von Westen nach Osten an.",
+        "hu": "Kattints Kegallére, Kandyre, Nuwara Eliyára és Badullára nyugatról keletre.",
+        "ro": "Apasă pe Kegalle, Kandy, Nuwara Eliya și Badulla de la vest la est.",
+        "en": "Click Kegalle, Kandy, Nuwara Eliya, and Badulla from west to east."
+      }
+    },
+    {
+      "id": "lk-sequence-north-south-east-coast",
+      "type": "sequence",
+      "poiIds": [
+        "trincomalee-cities-v2",
+        "batticaloa-cities-v2",
+        "sri-lanka-pottuvil-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "trincomalee-cities-v2",
+        "batticaloa-cities-v2",
+        "sri-lanka-pottuvil-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Trincomalee, Batticaloa und Pottuvil von Norden nach Süden an.",
+        "hu": "Kattints Trincomalee-ra, Batticaloára és Pottuvilre északról délre.",
+        "ro": "Apasă pe Trincomalee, Batticaloa și Pottuvil de la nord la sud.",
+        "en": "Click Trincomalee, Batticaloa, and Pottuvil from north to south."
+      }
+    },
+    {
+      "id": "lk-sequence-west-east-southern-coast",
+      "type": "sequence",
+      "poiIds": [
+        "galle-cities-v2",
+        "matara-cities-v2",
+        "hambantota-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "galle-cities-v2",
+        "matara-cities-v2",
+        "hambantota-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Galle, Matara und Hambantota von Westen nach Osten an.",
+        "hu": "Kattints Galléra, Matarára és Hambantotára nyugatról keletre.",
+        "ro": "Apasă pe Galle, Matara și Hambantota de la vest la est.",
+        "en": "Click Galle, Matara, and Hambantota from west to east."
+      }
+    }
+  ]
+}

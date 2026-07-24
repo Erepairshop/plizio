@@ -1,0 +1,309 @@
+{
+  "na": [
+    {
+      "id": "na-find-opuwo",
+      "type": "find_poi",
+      "targetPoiId": "opuwo-cities-v2",
+      "question": {
+        "de": "Finde Opuwo im Nordwesten Namibias.",
+        "hu": "Keresd meg Opuw?t Nam?bia ?szaknyugati r?sz?n.",
+        "ro": "G?se?te Opuwo ?n nord-vestul Namibiei.",
+        "en": "Find Opuwo in northwestern Namibia."
+      }
+    },
+    {
+      "id": "na-find-mariental",
+      "type": "find_poi",
+      "targetPoiId": "mariental-cities-v2",
+      "question": {
+        "de": "Finde Mariental im S?den des zentralen Landesinneren.",
+        "hu": "Keresd meg Marientalt a k?z?ps? orsz?gbels? d?li r?sz?n.",
+        "ro": "G?se?te Mariental ?n sudul interiorului central.",
+        "en": "Find Mariental in the southern part of the central interior."
+      }
+    },
+    {
+      "id": "na-find-grootfontein",
+      "type": "find_poi",
+      "targetPoiId": "grootfontein-cities-v2",
+      "question": {
+        "de": "Finde Grootfontein im Nordosten des Landesinneren.",
+        "hu": "Keresd meg Grootfonteint az ?szakkeleti bels? ter?leten.",
+        "ro": "G?se?te Grootfontein ?n interiorul din nord-est.",
+        "en": "Find Grootfontein in the northeastern interior."
+      }
+    },
+    {
+      "id": "na-find-eenhana",
+      "type": "find_poi",
+      "targetPoiId": "eenhana-cities-v2",
+      "question": {
+        "de": "Finde Eenhana nahe der Nordgrenze.",
+        "hu": "Keresd meg Eenhan?t az ?szaki hat?r k?zel?ben.",
+        "ro": "G?se?te Eenhana aproape de grani?a nordic?.",
+        "en": "Find Eenhana near the northern border."
+      }
+    },
+    {
+      "id": "na-find-oranjemund",
+      "type": "find_poi",
+      "targetPoiId": "oranjemund-cities-v2",
+      "question": {
+        "de": "Finde Oranjemund ganz im S?den an der Atlantikk?ste.",
+        "hu": "Keresd meg Oranjemundot a legd?libb atlanti partszakaszon.",
+        "ro": "G?se?te Oranjemund ?n extremul sud, pe coasta Atlanticului.",
+        "en": "Find Oranjemund in the far south on the Atlantic coast."
+      }
+    },
+    {
+      "id": "na-find-henties-bay",
+      "type": "find_poi",
+      "targetPoiId": "henties-bay-cities-v2",
+      "question": {
+        "de": "Finde Henties Bay an der zentralen K?ste.",
+        "hu": "Keresd meg Henties Bayt a k?z?ps? partvid?ken.",
+        "ro": "G?se?te Henties Bay pe coasta central?.",
+        "en": "Find Henties Bay on the central coast."
+      }
+    },
+    {
+      "id": "na-region-hardap",
+      "type": "find_region",
+      "targetRegionId": "NAM-3339",
+      "question": {
+        "de": "Klicke auf die Region Hardap im s?dlichen Zentrum.",
+        "hu": "Kattints a d?li k?z?ps? Hardap r?gi?ra.",
+        "ro": "Apas? pe regiunea Hardap din sudul p?r?ii centrale.",
+        "en": "Click the Hardap Region in the south-central part of the country."
+      }
+    },
+    {
+      "id": "na-region-khomas",
+      "type": "find_region",
+      "targetRegionId": "NAM-3340",
+      "question": {
+        "de": "Finde die Region Khomas rund um Windhoek.",
+        "hu": "Keresd meg a Windhoek k?r?li Khomas r?gi?t.",
+        "ro": "G?se?te regiunea Khomas din jurul ora?ului Windhoek.",
+        "en": "Find the Khomas Region around Windhoek."
+      }
+    },
+    {
+      "id": "na-region-omaheke",
+      "type": "find_region",
+      "targetRegionId": "NAM-3353",
+      "question": {
+        "de": "Klicke auf die ?stliche Region Omaheke.",
+        "hu": "Kattints a keleti Omaheke r?gi?ra.",
+        "ro": "Apas? pe regiunea estic? Omaheke.",
+        "en": "Click the eastern Omaheke Region."
+      }
+    },
+    {
+      "id": "na-region-oshikoto",
+      "type": "find_region",
+      "targetRegionId": "NAM-3355",
+      "question": {
+        "de": "Finde die Region Oshikoto im n?rdlichen Binnenland.",
+        "hu": "Keresd meg az ?szaki bels? ter?leten fekv? Oshikoto r?gi?t.",
+        "ro": "G?se?te regiunea Oshikoto din interiorul nordic.",
+        "en": "Find the Oshikoto Region in the northern interior."
+      }
+    },
+    {
+      "id": "na-odd-inland-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "henties-bay-cities-v2",
+        "walvis-bay-cities-v2",
+        "luderitz-cities-v2",
+        "grootfontein-cities-v2"
+      ],
+      "targetPoiId": "grootfontein-cities-v2",
+      "question": {
+        "de": "Welche dieser St?dte liegt nicht an der Atlantikk?ste?",
+        "hu": "Melyik v?ros nem az Atlanti-?ce?n partj?n fekszik?",
+        "ro": "Care dintre aceste ora?e nu se afl? pe coasta Atlanticului?",
+        "en": "Which of these towns is not on the Atlantic coast?"
+      }
+    },
+    {
+      "id": "na-odd-far-south",
+      "type": "odd_one_out",
+      "poiIds": [
+        "oranjemund-cities-v2",
+        "opuwo-cities-v2",
+        "tsumeb-cities-v2",
+        "rundu-cities-v2"
+      ],
+      "targetPoiId": "oranjemund-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt ganz im S?den Namibias?",
+        "hu": "Melyik hely tal?lhat? Nam?bia legd?libb r?sz?n?",
+        "ro": "Care dintre aceste locuri se afl? ?n extremul sud al Namibiei?",
+        "en": "Which of these places lies in the far south of Namibia?"
+      }
+    },
+    {
+      "id": "na-odd-ghost-town",
+      "type": "odd_one_out",
+      "poiIds": [
+        "kolmanskuppe-history-v2",
+        "luderitz-cities-v2",
+        "keetmanshoop-cities-v2",
+        "karasburg-cities-v2"
+      ],
+      "targetPoiId": "kolmanskuppe-history-v2",
+      "question": {
+        "de": "Welcher dieser Punkte ist eine Geisterstadt und keine heutige Stadt?",
+        "hu": "Melyik pont szellemv?ros, nem pedig ma is lakott telep?l?s?",
+        "ro": "Care dintre aceste puncte este un ora?-fantom?, nu un ora? locuit ?n prezent?",
+        "en": "Which of these points is a ghost town rather than a present-day town?"
+      }
+    },
+    {
+      "id": "na-odd-not-northeast-park",
+      "type": "odd_one_out",
+      "poiIds": [
+        "namibia-bwabwata-animal-habitat-life-v2",
+        "namibia-mudumu-animal-habitat-life-v2",
+        "namibia-caprivi-animal-habitat-life-v2",
+        "namibia-fish-river-animal-habitat-life-v2"
+      ],
+      "targetPoiId": "namibia-fish-river-animal-habitat-life-v2",
+      "question": {
+        "de": "Welcher dieser Nationalpark- oder Schutzgebietspunkte liegt nicht im ?u?ersten Nordosten?",
+        "hu": "Melyik nemzeti park vagy v?dett ter?let nem a leg?szakkeletibb orsz?gr?szben tal?lhat??",
+        "ro": "Care dintre aceste parcuri sau zone protejate nu se afl? ?n extremul nord-est?",
+        "en": "Which of these park or protected-area points is not in the far northeast?"
+      }
+    },
+    {
+      "id": "na-odd-canyon",
+      "type": "odd_one_out",
+      "poiIds": [
+        "na-brandberg-mountain-nature-v2",
+        "na-spitzkoppe-nature-v2",
+        "na-erongo-mountains-nature-v2",
+        "fish-river-canyon-relief-v2"
+      ],
+      "targetPoiId": "fish-river-canyon-relief-v2",
+      "question": {
+        "de": "Welcher dieser Punkte ist ein Canyon und kein Berggebiet?",
+        "hu": "Melyik pont kanyon, ?s nem hegyvid?k?",
+        "ro": "Care dintre aceste puncte este un canion, nu o zon? montan??",
+        "en": "Which of these points is a canyon rather than a mountain area?"
+      }
+    },
+    {
+      "id": "na-sequence-west-east-central",
+      "type": "sequence",
+      "poiIds": [
+        "henties-bay-cities-v2",
+        "usakos-cities-v2",
+        "okahandja-cities-v2",
+        "grootfontein-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "henties-bay-cities-v2",
+        "usakos-cities-v2",
+        "okahandja-cities-v2",
+        "grootfontein-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Henties Bay, Usakos, Okahandja und Grootfontein von West nach Ost an.",
+        "hu": "Kattints Henties Bayre, Usakosra, Okahandj?ra ?s Grootfonteinre nyugatr?l keletre.",
+        "ro": "Apas? Henties Bay, Usakos, Okahandja ?i Grootfontein de la vest la est.",
+        "en": "Click Henties Bay, Usakos, Okahandja and Grootfontein from west to east."
+      }
+    },
+    {
+      "id": "na-sequence-north-south-east",
+      "type": "sequence",
+      "poiIds": [
+        "eenhana-cities-v2",
+        "tsumeb-cities-v2",
+        "otjiwarongo-cities-v2",
+        "rehoboth-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "eenhana-cities-v2",
+        "tsumeb-cities-v2",
+        "otjiwarongo-cities-v2",
+        "rehoboth-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Eenhana, Tsumeb, Otjiwarongo und Rehoboth von Nord nach S?d an.",
+        "hu": "Kattints Eenhan?ra, Tsumebre, Otjiwarong?ra ?s Rehobothra ?szakr?l d?lre.",
+        "ro": "Apas? Eenhana, Tsumeb, Otjiwarongo ?i Rehoboth de la nord la sud.",
+        "en": "Click Eenhana, Tsumeb, Otjiwarongo and Rehoboth from north to south."
+      }
+    },
+    {
+      "id": "na-sequence-west-east-northwest-to-east",
+      "type": "sequence",
+      "poiIds": [
+        "opuwo-cities-v2",
+        "outjo-cities-v2",
+        "otjiwarongo-cities-v2",
+        "gobabis-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "opuwo-cities-v2",
+        "outjo-cities-v2",
+        "otjiwarongo-cities-v2",
+        "gobabis-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Opuwo, Outjo, Otjiwarongo und Gobabis von West nach Ost an.",
+        "hu": "Kattints Opuw?ra, Outj?ra, Otjiwarong?ra ?s Gobabisra nyugatr?l keletre.",
+        "ro": "Apas? Opuwo, Outjo, Otjiwarongo ?i Gobabis de la vest la est.",
+        "en": "Click Opuwo, Outjo, Otjiwarongo and Gobabis from west to east."
+      }
+    },
+    {
+      "id": "na-sequence-west-east-kunene-route",
+      "type": "sequence",
+      "poiIds": [
+        "namibia-epupa-falls-cities-v2",
+        "opuwo-cities-v2",
+        "outjo-cities-v2",
+        "namibia-waterberg-plateau-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "namibia-epupa-falls-cities-v2",
+        "opuwo-cities-v2",
+        "outjo-cities-v2",
+        "namibia-waterberg-plateau-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Epupa Falls, Opuwo, Outjo und Waterberg Plateau von West nach Ost an.",
+        "hu": "Kattints Epupa Fallsra, Opuw?ra, Outj?ra ?s a Waterberg-fenns?kra nyugatr?l keletre.",
+        "ro": "Apas? Epupa Falls, Opuwo, Outjo ?i Waterberg Plateau de la vest la est.",
+        "en": "Click Epupa Falls, Opuwo, Outjo and Waterberg Plateau from west to east."
+      }
+    },
+    {
+      "id": "na-sequence-south-north-southern-axis",
+      "type": "sequence",
+      "poiIds": [
+        "oranjemund-cities-v2",
+        "namibia-fish-river-canyon-cities-v2",
+        "mariental-cities-v2",
+        "rehoboth-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "oranjemund-cities-v2",
+        "namibia-fish-river-canyon-cities-v2",
+        "mariental-cities-v2",
+        "rehoboth-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Oranjemund, Fish River Canyon, Mariental und Rehoboth von S?d nach Nord an.",
+        "hu": "Kattints Oranjemundra, a Fish River-kanyonra, Marientalra ?s Rehobothra d?lr?l ?szakra.",
+        "ro": "Apas? Oranjemund, Fish River Canyon, Mariental ?i Rehoboth de la sud la nord.",
+        "en": "Click Oranjemund, Fish River Canyon, Mariental and Rehoboth from south to north."
+      }
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "sb": [
+    {
+      "id": "sb-find-tulagi",
+      "type": "find_poi",
+      "targetPoiId": "solomonislands-tulagi-cities-v2",
+      "question": {
+        "de": "Finde Tulagi, die frühere Hauptstadt des britischen Protektorats.",
+        "hu": "Keresd meg Tulagit, a brit protektorátus egykori fővárosát.",
+        "ro": "Găsește Tulagi, fosta capitală a protectoratului britanic.",
+        "en": "Find Tulagi, the former capital of the British Protectorate."
+      }
+    },
+    {
+      "id": "sb-find-noro",
+      "type": "find_poi",
+      "targetPoiId": "solomonislands-noro-cities-v2",
+      "question": {
+        "de": "Finde Noro, den wichtigen Hafen der Westprovinz.",
+        "hu": "Keresd meg Norót, a Nyugati tartomány fontos kikötőjét.",
+        "ro": "Găsește Noro, portul important din Provincia de Vest.",
+        "en": "Find Noro, the important port in Western Province."
+      }
+    },
+    {
+      "id": "sb-find-munda",
+      "type": "find_poi",
+      "targetPoiId": "solomonislands-munda-cities-v2",
+      "question": {
+        "de": "Finde Munda auf New Georgia.",
+        "hu": "Keresd meg Mundát New Georgia szigetén.",
+        "ro": "Găsește Munda pe insula New Georgia.",
+        "en": "Find Munda on New Georgia island."
+      }
+    },
+    {
+      "id": "sb-find-kirakira",
+      "type": "find_poi",
+      "targetPoiId": "solomonislands-kirakira-cities-v2",
+      "question": {
+        "de": "Finde Kirakira an der Nordküste von Makira.",
+        "hu": "Keresd meg Kirakirát Makira északi partján.",
+        "ro": "Găsește Kirakira pe coasta de nord a insulei Makira.",
+        "en": "Find Kirakira on Makira's north coast."
+      }
+    },
+    {
+      "id": "sb-find-taro",
+      "type": "find_poi",
+      "targetPoiId": "solomonislands-taro-cities-v2",
+      "question": {
+        "de": "Finde Taro nahe der Nordspitze von Choiseul.",
+        "hu": "Keresd meg Tarót Choiseul északi csúcsa közelében.",
+        "ro": "Găsește Taro lângă extremitatea nordică a insulei Choiseul.",
+        "en": "Find Taro near the northern tip of Choiseul."
+      }
+    },
+    {
+      "id": "sb-find-tigoa",
+      "type": "find_poi",
+      "targetPoiId": "solomonislands-tigoa-cities-v2",
+      "question": {
+        "de": "Finde Tigoa auf Rennell Island im Süden des Landes.",
+        "hu": "Keresd meg Tigoát Rennell szigetén, az ország déli részén.",
+        "ro": "Găsește Tigoa pe insula Rennell, în sudul țării.",
+        "en": "Find Tigoa on Rennell Island in the south of the country."
+      }
+    },
+    {
+      "id": "sb-region-malaita",
+      "type": "find_region",
+      "targetRegionId": "SLB-1260",
+      "question": {
+        "de": "Klicke auf Malaita, die bevölkerungsreichste Provinz.",
+        "hu": "Kattints Malaita tartományra, a legnépesebb tartományra.",
+        "ro": "Apasă pe Malaita, provincia cea mai populată.",
+        "en": "Click Malaita, the most populous province."
+      }
+    },
+    {
+      "id": "sb-region-central",
+      "type": "find_region",
+      "targetRegionId": "SLB-1262",
+      "question": {
+        "de": "Finde die Zentralprovinz rund um Tulagi.",
+        "hu": "Keresd meg a Központi tartományt Tulagi körül.",
+        "ro": "Găsește Provincia Centrală din jurul orașului Tulagi.",
+        "en": "Find Central Province around Tulagi."
+      }
+    },
+    {
+      "id": "sb-region-isabel",
+      "type": "find_region",
+      "targetRegionId": "SLB-1264",
+      "question": {
+        "de": "Klicke auf Isabel, die lange Insel nördlich von Guadalcanal.",
+        "hu": "Kattints Isabel tartományra, a Guadalcanaltól északra fekvő hosszú szigetre.",
+        "ro": "Apasă pe Isabel, insula lungă aflată la nord de Guadalcanal.",
+        "en": "Click Isabel, the long island north of Guadalcanal."
+      }
+    },
+    {
+      "id": "sb-region-choiseul",
+      "type": "find_region",
+      "targetRegionId": "SLB-3508",
+      "question": {
+        "de": "Finde Choiseul im Nordwesten des Archipels.",
+        "hu": "Keresd meg Choiseul tartományt a szigetcsoport északnyugati részén.",
+        "ro": "Găsește Choiseul în nord-vestul arhipelagului.",
+        "en": "Find Choiseul in the northwestern part of the archipelago."
+      }
+    },
+    {
+      "id": "sb-region-rennell-bellona",
+      "type": "find_region",
+      "targetRegionId": "SLB-1261",
+      "question": {
+        "de": "Klicke auf Rennell and Bellona im äußersten Süden.",
+        "hu": "Kattints Rennell and Bellona tartományra a legdélibb részen.",
+        "ro": "Apasă pe Rennell and Bellona din extremitatea sudică.",
+        "en": "Click Rennell and Bellona in the far south."
+      }
+    },
+    {
+      "id": "sb-region-capital-territory",
+      "type": "find_region",
+      "targetRegionId": "SLB-5130",
+      "question": {
+        "de": "Finde das Hauptstadtterritorium von Honiara.",
+        "hu": "Keresd meg Honiara fővárosi területét.",
+        "ro": "Găsește teritoriul capitalei Honiara.",
+        "en": "Find Honiara's Capital Territory."
+      }
+    },
+    {
+      "id": "sb-odd-easternmost",
+      "type": "odd_one_out",
+      "poiIds": [
+        "solomonislands-tulagi-cities-v2",
+        "solomonislands-auki-cities-v2",
+        "solomonislands-kirakira-cities-v2"
+      ],
+      "targetPoiId": "solomonislands-kirakira-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Osten?",
+        "hu": "Melyik hely fekszik a legkeletebbre?",
+        "ro": "Care dintre aceste locuri se află cel mai la est?",
+        "en": "Which of these places lies farthest east?"
+      }
+    },
+    {
+      "id": "sb-odd-northernmost",
+      "type": "odd_one_out",
+      "poiIds": [
+        "solomonislands-auki-cities-v2",
+        "solomonislands-honiara-cities-v2",
+        "solomonislands-kirakira-cities-v2"
+      ],
+      "targetPoiId": "solomonislands-auki-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Norden?",
+        "hu": "Melyik hely fekszik a legészakabbra?",
+        "ro": "Care dintre aceste locuri se află cel mai la nord?",
+        "en": "Which of these places lies farthest north?"
+      }
+    },
+    {
+      "id": "sb-odd-southernmost",
+      "type": "odd_one_out",
+      "poiIds": [
+        "solomonislands-honiara-cities-v2",
+        "solomonislands-tulagi-cities-v2",
+        "solomonislands-tigoa-cities-v2"
+      ],
+      "targetPoiId": "solomonislands-tigoa-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Süden?",
+        "hu": "Melyik hely fekszik a legdélebbre?",
+        "ro": "Care dintre aceste locuri se află cel mai la sud?",
+        "en": "Which of these places lies farthest south?"
+      }
+    },
+    {
+      "id": "sb-odd-west-among-three",
+      "type": "odd_one_out",
+      "poiIds": [
+        "solomonislands-noro-cities-v2",
+        "solomonislands-honiara-cities-v2",
+        "solomonislands-kirakira-cities-v2"
+      ],
+      "targetPoiId": "solomonislands-noro-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Westen?",
+        "hu": "Melyik hely fekszik a legnyugatabbra?",
+        "ro": "Care dintre aceste locuri se află cel mai la vest?",
+        "en": "Which of these places lies farthest west?"
+      }
+    },
+    {
+      "id": "sb-sequence-far-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "solomonislands-taro-cities-v2",
+        "solomonislands-gizo-cities-v2",
+        "solomonislands-honiara-cities-v2",
+        "solomonislands-lata-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "solomonislands-taro-cities-v2",
+        "solomonislands-gizo-cities-v2",
+        "solomonislands-honiara-cities-v2",
+        "solomonislands-lata-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Taro, Gizo, Honiara und Lata von Westen nach Osten an.",
+        "hu": "Kattints Taróra, Gizóra, Honiarára és Latára nyugatról keletre.",
+        "ro": "Apasă pe Taro, Gizo, Honiara și Lata de la vest la est.",
+        "en": "Click Taro, Gizo, Honiara and Lata from west to east."
+      }
+    },
+    {
+      "id": "sb-sequence-central-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "solomonislands-noro-cities-v2",
+        "solomonislands-honiara-cities-v2",
+        "solomonislands-auki-cities-v2",
+        "solomonislands-kirakira-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "solomonislands-noro-cities-v2",
+        "solomonislands-honiara-cities-v2",
+        "solomonislands-auki-cities-v2",
+        "solomonislands-kirakira-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Noro, Honiara, Auki und Kirakira von Westen nach Osten an.",
+        "hu": "Kattints Noróra, Honiarára, Aukira és Kirakirára nyugatról keletre.",
+        "ro": "Apasă pe Noro, Honiara, Auki și Kirakira de la vest la est.",
+        "en": "Click Noro, Honiara, Auki and Kirakira from west to east."
+      }
+    },
+    {
+      "id": "sb-sequence-north-south-western-chain",
+      "type": "sequence",
+      "poiIds": [
+        "solomonislands-taro-cities-v2",
+        "solomonislands-gizo-cities-v2",
+        "solomonislands-honiara-cities-v2",
+        "solomonislands-tigoa-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "solomonislands-taro-cities-v2",
+        "solomonislands-gizo-cities-v2",
+        "solomonislands-honiara-cities-v2",
+        "solomonislands-tigoa-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Taro, Gizo, Honiara und Tigoa von Norden nach Süden an.",
+        "hu": "Kattints Taróra, Gizóra, Honiarára és Tigoára északról délre.",
+        "ro": "Apasă pe Taro, Gizo, Honiara și Tigoa de la nord la sud.",
+        "en": "Click Taro, Gizo, Honiara and Tigoa from north to south."
+      }
+    },
+    {
+      "id": "sb-sequence-north-south-eastern-chain",
+      "type": "sequence",
+      "poiIds": [
+        "solomonislands-auki-cities-v2",
+        "solomonislands-honiara-cities-v2",
+        "solomonislands-kirakira-cities-v2",
+        "solomonislands-lata-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "solomonislands-auki-cities-v2",
+        "solomonislands-honiara-cities-v2",
+        "solomonislands-kirakira-cities-v2",
+        "solomonislands-lata-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Auki, Honiara, Kirakira und Lata von Norden nach Süden an.",
+        "hu": "Kattints Aukira, Honiarára, Kirakirára és Latára északról délre.",
+        "ro": "Apasă pe Auki, Honiara, Kirakira și Lata de la nord la sud.",
+        "en": "Click Auki, Honiara, Kirakira and Lata from north to south."
+      }
+    }
+  ]
+}

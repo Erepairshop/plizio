@@ -1,0 +1,299 @@
+{
+  "pf": [
+    {
+      "id": "pf-find-uturoa-hub",
+      "type": "find_poi",
+      "targetPoiId": "frenchpolynesia-uturoa-cities-v2",
+      "question": {
+        "de": "Finde Uturoa auf Raiatea.",
+        "hu": "Keresd meg Uturoát Raiatea szigetén.",
+        "ro": "Găsește Uturoa pe insula Raiatea.",
+        "en": "Find Uturoa on Raiatea."
+      }
+    },
+    {
+      "id": "pf-find-avatoru-rangiroa",
+      "type": "find_poi",
+      "targetPoiId": "frenchpolynesia-avatoru-cities-v2",
+      "question": {
+        "de": "Finde Avatoru auf Rangiroa.",
+        "hu": "Keresd meg Avatorut Rangiroa atollján.",
+        "ro": "Găsește Avatoru pe atolul Rangiroa.",
+        "en": "Find Avatoru on Rangiroa."
+      }
+    },
+    {
+      "id": "pf-find-rotoava-fakarava",
+      "type": "find_poi",
+      "targetPoiId": "frenchpolynesia-rotoava-cities-v2",
+      "question": {
+        "de": "Finde Rotoava auf Fakarava.",
+        "hu": "Keresd meg Rotoavát Fakarava atollján.",
+        "ro": "Găsește Rotoava pe atolul Fakarava.",
+        "en": "Find Rotoava on Fakarava."
+      }
+    },
+    {
+      "id": "pf-find-atuona-hiva-oa",
+      "type": "find_poi",
+      "targetPoiId": "frenchpolynesia-atuona-cities-v2",
+      "question": {
+        "de": "Finde Atuona auf Hiva Oa.",
+        "hu": "Keresd meg Atuonát Hiva Oa szigetén.",
+        "ro": "Găsește Atuona pe insula Hiva Oa.",
+        "en": "Find Atuona on Hiva Oa."
+      }
+    },
+    {
+      "id": "pf-find-ahurei-rapa",
+      "type": "find_poi",
+      "targetPoiId": "frenchpolynesia-ahurei-cities-v2",
+      "question": {
+        "de": "Finde Ahurei auf Rapa Iti.",
+        "hu": "Keresd meg Ahureit Rapa Iti szigetén.",
+        "ro": "Găsește Ahurei pe insula Rapa Iti.",
+        "en": "Find Ahurei on Rapa Iti."
+      }
+    },
+    {
+      "id": "pf-region-tuamotu-gambier-expanse",
+      "type": "find_region",
+      "targetRegionId": "PYF-4965",
+      "question": {
+        "de": "Finde Tuamotu-Gambier mit Rangiroa, Fakarava und den Gambierinseln.",
+        "hu": "Keresd meg a Tuamotu-Gambier régiót Rangiroával, Fakaravával és a Gambier-szigetekkel.",
+        "ro": "Găsește regiunea Tuamotu-Gambier, cu Rangiroa, Fakarava și Insulele Gambier.",
+        "en": "Find Tuamotu-Gambier, the region with Rangiroa, Fakarava, and the Gambier Islands."
+      }
+    },
+    {
+      "id": "pf-region-austral-south",
+      "type": "find_region",
+      "targetRegionId": "PYF-4966",
+      "question": {
+        "de": "Finde die Austral Islands, die südlichste Inselgruppe des Gebiets.",
+        "hu": "Keresd meg az Austral-szigeteket, a terület legdélibb szigetcsoportját.",
+        "ro": "Găsește Insulele Austral, cel mai sudic grup de insule al teritoriului.",
+        "en": "Find the Austral Islands, the territory's southernmost island group."
+      }
+    },
+    {
+      "id": "pf-region-marquesas-dual-centers",
+      "type": "find_region",
+      "targetRegionId": "PYF-4967",
+      "question": {
+        "de": "Finde die Marquesas Islands mit Nuku Hiva und Hiva Oa.",
+        "hu": "Keresd meg a Marquesas-szigeteket Nuku Hivával és Hiva Oával.",
+        "ro": "Găsește Insulele Marchize, cu Nuku Hiva și Hiva Oa.",
+        "en": "Find the Marquesas Islands, home to Nuku Hiva and Hiva Oa."
+      }
+    },
+    {
+      "id": "pf-region-windward-tahiti-moorea",
+      "type": "find_region",
+      "targetRegionId": "PYF-4963",
+      "question": {
+        "de": "Finde die Windward Islands mit Tahiti und Moorea.",
+        "hu": "Keresd meg a Windward-szigeteket Tahitivel és Mooreával.",
+        "ro": "Găsește Insulele Vântului, cu Tahiti și Moorea.",
+        "en": "Find the Windward Islands, the group containing Tahiti and Moorea."
+      }
+    },
+    {
+      "id": "pf-region-leeward-bora-raiatea",
+      "type": "find_region",
+      "targetRegionId": "PYF-4964",
+      "question": {
+        "de": "Finde die Leeward Islands mit Bora Bora und Raiatea.",
+        "hu": "Keresd meg a Leeward-szigeteket Bora Borával és Raiateával.",
+        "ro": "Găsește Insulele Sub Vânt, cu Bora Bora și Raiatea.",
+        "en": "Find the Leeward Islands, which include Bora Bora and Raiatea."
+      }
+    },
+    {
+      "id": "pf-odd-moorea-vs-tahiti",
+      "type": "odd_one_out",
+      "poiIds": [
+        "frenchpolynesia-vaiare-cities-v2",
+        "frenchpolynesia-papeete-cities-v2",
+        "frenchpolynesia-faaa-cities-v2",
+        "frenchpolynesia-papara-cities-v2"
+      ],
+      "targetPoiId": "frenchpolynesia-vaiare-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt auf Moorea statt auf Tahiti?",
+        "hu": "Melyik hely fekszik Mooreán Tahiti helyett?",
+        "ro": "Care loc se află pe Moorea, nu pe Tahiti?",
+        "en": "Which place is on Moorea rather than Tahiti?"
+      }
+    },
+    {
+      "id": "pf-odd-gambier-vs-society",
+      "type": "odd_one_out",
+      "poiIds": [
+        "frenchpolynesia-rikitea-cities-v2",
+        "frenchpolynesia-vaitape-cities-v2",
+        "frenchpolynesia-uturoa-cities-v2",
+        "frenchpolynesia-fare-cities-v2"
+      ],
+      "targetPoiId": "frenchpolynesia-rikitea-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt auf den Gambierinseln statt auf den Gesellschaftsinseln?",
+        "hu": "Melyik hely fekszik a Gambier-szigeteken a Társaság-szigetek helyett?",
+        "ro": "Care loc se află în Insulele Gambier, nu în Insulele Societății?",
+        "en": "Which place is in the Gambier Islands rather than the Society Islands?"
+      }
+    },
+    {
+      "id": "pf-odd-farthest-south",
+      "type": "odd_one_out",
+      "poiIds": [
+        "frenchpolynesia-ahurei-cities-v2",
+        "frenchpolynesia-mataura-cities-v2",
+        "frenchpolynesia-vaiuru-cities-v2",
+        "frenchpolynesia-rikitea-cities-v2"
+      ],
+      "targetPoiId": "frenchpolynesia-ahurei-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt am weitesten im Süden?",
+        "hu": "Melyik hely fekszik a legdélebbre?",
+        "ro": "Care loc se află cel mai la sud?",
+        "en": "Which place lies farthest south?"
+      }
+    },
+    {
+      "id": "pf-odd-rangiroa-mix",
+      "type": "odd_one_out",
+      "poiIds": [
+        "frenchpolynesia-tiputa-cities-v2",
+        "french-polynesia-tikehau-cities-v2",
+        "frenchpolynesia-rotoava-cities-v2",
+        "frenchpolynesia-papeete-cities-v2"
+      ],
+      "targetPoiId": "frenchpolynesia-tiputa-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt auf Rangiroa?",
+        "hu": "Melyik hely fekszik Rangiroa atollján?",
+        "ro": "Care loc se află pe Rangiroa?",
+        "en": "Which place is on Rangiroa?"
+      }
+    },
+    {
+      "id": "pf-odd-farthest-east",
+      "type": "odd_one_out",
+      "poiIds": [
+        "frenchpolynesia-taiohae-cities-v2",
+        "frenchpolynesia-atuona-cities-v2",
+        "frenchpolynesia-rikitea-cities-v2",
+        "frenchpolynesia-ahurei-cities-v2"
+      ],
+      "targetPoiId": "frenchpolynesia-rikitea-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt am weitesten im Osten?",
+        "hu": "Melyik hely fekszik a legkeletebbre?",
+        "ro": "Care loc se află cel mai la est?",
+        "en": "Which place lies farthest east?"
+      }
+    },
+    {
+      "id": "pf-sequence-society-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "frenchpolynesia-vaitape-cities-v2",
+        "frenchpolynesia-uturoa-cities-v2",
+        "frenchpolynesia-fare-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "frenchpolynesia-vaitape-cities-v2",
+        "frenchpolynesia-uturoa-cities-v2",
+        "frenchpolynesia-fare-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Vaitape, Uturoa und Fare von Westen nach Osten an.",
+        "hu": "Kattints Vaitapéra, Uturoára és Faréra nyugatról keletre.",
+        "ro": "Apasă Vaitape, Uturoa și Fare de la vest la est.",
+        "en": "Click Vaitape, Uturoa, and Fare from west to east."
+      }
+    },
+    {
+      "id": "pf-sequence-marquesas-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "frenchpolynesia-taiohae-cities-v2",
+        "frenchpolynesia-hakahau-cities-v2",
+        "frenchpolynesia-atuona-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "frenchpolynesia-taiohae-cities-v2",
+        "frenchpolynesia-hakahau-cities-v2",
+        "frenchpolynesia-atuona-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Taiohae, Hakahau und Atuona von Westen nach Osten an.",
+        "hu": "Kattints Taiohaéra, Hakahaura és Atuonára nyugatról keletre.",
+        "ro": "Apasă Taiohae, Hakahau și Atuona de la vest la est.",
+        "en": "Click Taiohae, Hakahau, and Atuona from west to east."
+      }
+    },
+    {
+      "id": "pf-sequence-tuamotu-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "french-polynesia-tikehau-cities-v2",
+        "frenchpolynesia-avatoru-cities-v2",
+        "french-polynesia-manihi-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "french-polynesia-tikehau-cities-v2",
+        "frenchpolynesia-avatoru-cities-v2",
+        "french-polynesia-manihi-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Tikehau, Avatoru und Manihi von Westen nach Osten an.",
+        "hu": "Kattints Tikehaura, Avatorura és Manihire nyugatról keletre.",
+        "ro": "Apasă Tikehau, Avatoru și Manihi de la vest la est.",
+        "en": "Click Tikehau, Avatoru, and Manihi from west to east."
+      }
+    },
+    {
+      "id": "pf-sequence-tahiti-iti-east-west",
+      "type": "sequence",
+      "poiIds": [
+        "frenchpolynesia-tautira-cities-v2",
+        "frenchpolynesia-taravao-cities-v2",
+        "frenchpolynesia-papeari-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "frenchpolynesia-tautira-cities-v2",
+        "frenchpolynesia-taravao-cities-v2",
+        "frenchpolynesia-papeari-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Tautira, Taravao und Papeari von Osten nach Westen an.",
+        "hu": "Kattints Tautirára, Taravaóra és Papearira keletről nyugatra.",
+        "ro": "Apasă Tautira, Taravao și Papeari de la est la vest.",
+        "en": "Click Tautira, Taravao, and Papeari from east to west."
+      }
+    },
+    {
+      "id": "pf-sequence-southbound-islands",
+      "type": "sequence",
+      "poiIds": [
+        "frenchpolynesia-mataura-cities-v2",
+        "frenchpolynesia-vaiuru-cities-v2",
+        "frenchpolynesia-ahurei-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "frenchpolynesia-mataura-cities-v2",
+        "frenchpolynesia-vaiuru-cities-v2",
+        "frenchpolynesia-ahurei-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Mataura, Vaiuru und Ahurei von Norden nach Süden an.",
+        "hu": "Kattints Mataurára, Vaiurura és Ahureire északról délre.",
+        "ro": "Apasă Mataura, Vaiuru și Ahurei de la nord la sud.",
+        "en": "Click Mataura, Vaiuru, and Ahurei from north to south."
+      }
+    }
+  ]
+}

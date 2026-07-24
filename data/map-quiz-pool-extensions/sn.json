@@ -1,0 +1,309 @@
+{
+  "sn": [
+    {
+      "id": "sn-find-lake-retba",
+      "type": "find_poi",
+      "targetPoiId": "lac-rose-nature-v2",
+      "question": {
+        "de": "Finde den Lac Rose nordöstlich von Dakar.",
+        "hu": "Keresd meg a Dakartól északkeletre fekvő Rózsaszín-tavat.",
+        "ro": "Găsește Lacul Roz la nord-est de Dakar.",
+        "en": "Find Lake Retba northeast of Dakar."
+      }
+    },
+    {
+      "id": "sn-find-saint-louis-port",
+      "type": "find_poi",
+      "targetPoiId": "port-saint-louis-economic-v2",
+      "question": {
+        "de": "Finde den Hafen von Saint-Louis an der Nordküste.",
+        "hu": "Keresd meg Saint-Louis kikötőjét az északi parton.",
+        "ro": "Găsește portul din Saint-Louis de pe coasta de nord.",
+        "en": "Find the Port of Saint-Louis on the northern coast."
+      }
+    },
+    {
+      "id": "sn-find-ziguinchor-port",
+      "type": "find_poi",
+      "targetPoiId": "port-ziguinchor-economic-v2",
+      "question": {
+        "de": "Finde den Hafen von Ziguinchor im Süden an der Casamance.",
+        "hu": "Keresd meg Ziguinchor kikötőjét délen, a Casamance folyónál.",
+        "ro": "Găsește portul din Ziguinchor în sud, pe râul Casamance.",
+        "en": "Find the Port of Ziguinchor in the south on the Casamance River."
+      }
+    },
+    {
+      "id": "sn-find-faidherbe-bridge",
+      "type": "find_poi",
+      "targetPoiId": "sn-sl-faidherbe-bridge-history-v2",
+      "question": {
+        "de": "Finde die Faidherbe-Brücke in Saint-Louis.",
+        "hu": "Keresd meg a Faidherbe hidat Saint-Louis-ban.",
+        "ro": "Găsește podul Faidherbe din Saint-Louis.",
+        "en": "Find the Faidherbe Bridge in Saint-Louis."
+      }
+    },
+    {
+      "id": "sn-find-mako-gold-mine",
+      "type": "find_poi",
+      "targetPoiId": "mako-gold-mine-economic-v2",
+      "question": {
+        "de": "Finde die Goldmine Mako im äußersten Südosten.",
+        "hu": "Keresd meg a Mako aranybányát a legdélebbi keleten.",
+        "ro": "Găsește mina de aur Mako din extremul sud-est.",
+        "en": "Find the Mako Gold Mine in the far southeast."
+      }
+    },
+    {
+      "id": "sn-region-saint-louis",
+      "type": "find_region",
+      "targetRegionId": "SEN-5517",
+      "question": {
+        "de": "Klicke auf die Region Saint-Louis im Norden.",
+        "hu": "Kattints az északi Saint-Louis régióra.",
+        "ro": "Apasă pe regiunea Saint-Louis din nord.",
+        "en": "Click the Saint-Louis region in the north."
+      }
+    },
+    {
+      "id": "sn-region-ziguinchor",
+      "type": "find_region",
+      "targetRegionId": "SEN-775",
+      "question": {
+        "de": "Finde die Region Ziguinchor im südwestlichen Casamance-Gebiet.",
+        "hu": "Keresd meg a Ziguinchor régiót a délnyugati Casamance térségében.",
+        "ro": "Găsește regiunea Ziguinchor din sud-vestul Casamancei.",
+        "en": "Find the Ziguinchor region in southwestern Casamance."
+      }
+    },
+    {
+      "id": "sn-region-thies",
+      "type": "find_region",
+      "targetRegionId": "SEN-768",
+      "question": {
+        "de": "Klicke auf die Region Thiès westlich im Landesinneren.",
+        "hu": "Kattints a nyugati belső területen fekvő Thiès régióra.",
+        "ro": "Apasă pe regiunea Thiès din interiorul vestic.",
+        "en": "Click the Thiès region in the western interior."
+      }
+    },
+    {
+      "id": "sn-region-fatick",
+      "type": "find_region",
+      "targetRegionId": "SEN-764",
+      "question": {
+        "de": "Finde die Region Fatick an der Sine-Saloum-Küste.",
+        "hu": "Keresd meg a Sine-Saloum partvidékén fekvő Fatick régiót.",
+        "ro": "Găsește regiunea Fatick de pe coasta Sine-Saloum.",
+        "en": "Find the Fatick region on the Sine-Saloum coast."
+      }
+    },
+    {
+      "id": "sn-region-tambacounda",
+      "type": "find_region",
+      "targetRegionId": "SEN-779",
+      "question": {
+        "de": "Klicke auf die große Region Tambacounda im Osten.",
+        "hu": "Kattints a nagy, keleti Tambacounda régióra.",
+        "ro": "Apasă pe marea regiune Tambacounda din est.",
+        "en": "Click the large Tambacounda region in the east."
+      }
+    },
+    {
+      "id": "sn-odd-not-dakar-peninsula",
+      "type": "odd_one_out",
+      "poiIds": [
+        "sn-dk-african-renaissance-history-v2",
+        "sn-massalikoul-jinaan-mosque-landmarks-v2",
+        "lac-rose-nature-v2",
+        "sn-sl-faidherbe-bridge-history-v2"
+      ],
+      "targetPoiId": "sn-sl-faidherbe-bridge-history-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht auf der Halbinsel Cap-Vert oder direkt daneben?",
+        "hu": "Melyik hely nem a Zöld-foki-félszigeten vagy közvetlenül mellette található?",
+        "ro": "Care loc nu se află pe peninsula Cap-Vert sau imediat lângă ea?",
+        "en": "Which place is not on the Cap-Vert peninsula or right next to it?"
+      }
+    },
+    {
+      "id": "sn-odd-not-casamance",
+      "type": "odd_one_out",
+      "poiIds": [
+        "port-ziguinchor-economic-v2",
+        "sn-zg-carabane-history-v2",
+        "senegal-cap-skirring-cities-v2",
+        "sn-sl-faidherbe-bridge-history-v2"
+      ],
+      "targetPoiId": "sn-sl-faidherbe-bridge-history-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht in der Casamance im Süden Senegals?",
+        "hu": "Melyik hely nem Szenegál déli Casamance térségében található?",
+        "ro": "Care loc nu se află în Casamance, în sudul Senegalului?",
+        "en": "Which place is not in the Casamance area of southern Senegal?"
+      }
+    },
+    {
+      "id": "sn-odd-not-saint-louis-valley",
+      "type": "odd_one_out",
+      "poiIds": [
+        "port-saint-louis-economic-v2",
+        "djoudj-sanctuarium-nature-v2",
+        "lac-de-guier-nature-v2",
+        "reserve-bandia-life-v2"
+      ],
+      "targetPoiId": "reserve-bandia-life-v2",
+      "question": {
+        "de": "Welches Ziel liegt nicht im Raum Saint-Louis oder im Senegalflusstal?",
+        "hu": "Melyik célpont nem Saint-Louis térségében vagy a Szenegál folyó völgyében fekszik?",
+        "ro": "Care destinație nu se află în zona Saint-Louis sau în valea fluviului Senegal?",
+        "en": "Which destination is not in the Saint-Louis area or the Senegal River valley?"
+      }
+    },
+    {
+      "id": "sn-odd-not-atlantic-side",
+      "type": "odd_one_out",
+      "poiIds": [
+        "pointe-des-almadies-nature-v2",
+        "port-autonome-de-dakar-economic-v2",
+        "gco-diogo-mine-economic-v2",
+        "mako-gold-mine-economic-v2"
+      ],
+      "targetPoiId": "mako-gold-mine-economic-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht auf der atlantisch geprägten Westseite Senegals?",
+        "hu": "Melyik hely nem Szenegál atlanti, nyugati oldalán található?",
+        "ro": "Care loc nu se află pe partea atlantică, vestică a Senegalului?",
+        "en": "Which place is not on Senegal's Atlantic-facing western side?"
+      }
+    },
+    {
+      "id": "sn-odd-not-sine-saloum",
+      "type": "odd_one_out",
+      "poiIds": [
+        "senegal-mar-lodj-cities-v2",
+        "senegal-palmarin-cities-v2",
+        "sn-fk-sangomar-history-v2",
+        "sn-grande-mosquee-tivaouane-landmarks-v2"
+      ],
+      "targetPoiId": "sn-grande-mosquee-tivaouane-landmarks-v2",
+      "question": {
+        "de": "Welcher Ort gehört nicht in die Sine-Saloum-Region?",
+        "hu": "Melyik hely nem a Sine-Saloum térséghez tartozik?",
+        "ro": "Care loc nu aparține regiunii Sine-Saloum?",
+        "en": "Which place does not belong to the Sine-Saloum area?"
+      }
+    },
+    {
+      "id": "sn-sequence-dakar-coast-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "sn-dk-mamelles-lighthouse-history-v2",
+        "port-autonome-de-dakar-economic-v2",
+        "rufisque-cities-v2",
+        "lac-rose-nature-v2"
+      ],
+      "orderedPoiIds": [
+        "sn-dk-mamelles-lighthouse-history-v2",
+        "port-autonome-de-dakar-economic-v2",
+        "rufisque-cities-v2",
+        "lac-rose-nature-v2"
+      ],
+      "question": {
+        "de": "Klicke Mamelles-Leuchtturm, Hafen von Dakar, Rufisque und Lac Rose von West nach Ost an.",
+        "hu": "Kattints a Mamelles világítótoronyra, Dakar kikötőjére, Rufisque-re és a Rózsaszín-tóra nyugatról keletre.",
+        "ro": "Apasă pe farul Mamelles, portul Dakar, Rufisque și Lacul Roz de la vest la est.",
+        "en": "Click Mamelles Lighthouse, the Port of Dakar, Rufisque, and Lake Retba from west to east."
+      }
+    },
+    {
+      "id": "sn-sequence-north-south-coast",
+      "type": "sequence",
+      "poiIds": [
+        "senegal-djoudj-national-bird-park-cities-v2",
+        "port-saint-louis-economic-v2",
+        "taiba-ndiaye-wind-farm-economic-v2",
+        "reserve-bandia-life-v2"
+      ],
+      "orderedPoiIds": [
+        "senegal-djoudj-national-bird-park-cities-v2",
+        "port-saint-louis-economic-v2",
+        "taiba-ndiaye-wind-farm-economic-v2",
+        "reserve-bandia-life-v2"
+      ],
+      "question": {
+        "de": "Klicke Djoudj, den Hafen von Saint-Louis, den Windpark Taiba Ndiaye und das Bandia-Reservat von Nord nach Süd an.",
+        "hu": "Kattints Djoudjra, Saint-Louis kikötőjére, a Taiba Ndiaye szélerőműparkra és a Bandia rezervátumra északról délre.",
+        "ro": "Apasă pe Djoudj, portul din Saint-Louis, parcul eolian Taiba Ndiaye și rezervația Bandia de la nord la sud.",
+        "en": "Click Djoudj, the Port of Saint-Louis, Taiba Ndiaye Wind Farm, and Bandia Reserve from north to south."
+      }
+    },
+    {
+      "id": "sn-sequence-casamance-eastward",
+      "type": "sequence",
+      "poiIds": [
+        "sn-zg-carabane-history-v2",
+        "port-ziguinchor-economic-v2",
+        "kaolack-cities-v2",
+        "mako-gold-mine-economic-v2"
+      ],
+      "orderedPoiIds": [
+        "sn-zg-carabane-history-v2",
+        "port-ziguinchor-economic-v2",
+        "kaolack-cities-v2",
+        "mako-gold-mine-economic-v2"
+      ],
+      "question": {
+        "de": "Klicke Carabane, den Hafen von Ziguinchor, Kaolack und die Goldmine Mako von West nach Ost an.",
+        "hu": "Kattints Carabane-ra, Ziguinchor kikötőjére, Kaolackra és a Mako aranybányára nyugatról keletre.",
+        "ro": "Apasă pe Carabane, portul din Ziguinchor, Kaolack și mina de aur Mako de la vest la est.",
+        "en": "Click Carabane, the Port of Ziguinchor, Kaolack, and the Mako Gold Mine from west to east."
+      }
+    },
+    {
+      "id": "sn-sequence-lakes-to-south",
+      "type": "sequence",
+      "poiIds": [
+        "lac-de-guier-nature-v2",
+        "sn-grande-mosquee-tivaouane-landmarks-v2",
+        "senegal-palmarin-cities-v2",
+        "senegal-cap-skirring-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "lac-de-guier-nature-v2",
+        "sn-grande-mosquee-tivaouane-landmarks-v2",
+        "senegal-palmarin-cities-v2",
+        "senegal-cap-skirring-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Lac de Guiers, die Große Moschee von Tivaouane, Palmarin und Cap Skirring von Nord nach Süd an.",
+        "hu": "Kattints a Guiers-tóra, Tivaouane nagy mecsetére, Palmarinra és Cap Skirringre északról délre.",
+        "ro": "Apasă pe Lac de Guiers, Marea Moschee din Tivaouane, Palmarin și Cap Skirring de la nord la sud.",
+        "en": "Click Lac de Guiers, the Great Mosque of Tivaouane, Palmarin, and Cap Skirring from north to south."
+      }
+    },
+    {
+      "id": "sn-sequence-peninsula-to-east",
+      "type": "sequence",
+      "poiIds": [
+        "pointe-des-almadies-nature-v2",
+        "sn-basilique-popenguine-landmarks-v2",
+        "sn-grande-mosquee-kaolack-landmarks-v2",
+        "sn-tc-fort-bakel-history-v2"
+      ],
+      "orderedPoiIds": [
+        "pointe-des-almadies-nature-v2",
+        "sn-basilique-popenguine-landmarks-v2",
+        "sn-grande-mosquee-kaolack-landmarks-v2",
+        "sn-tc-fort-bakel-history-v2"
+      ],
+      "question": {
+        "de": "Klicke Pointe des Almadies, die Basilika von Popenguine, die Große Moschee von Kaolack und Fort Bakel von West nach Ost an.",
+        "hu": "Kattints Pointe des Almadiesre, a popenguine-i bazilikára, Kaolack nagy mecsetére és Fort Bakelre nyugatról keletre.",
+        "ro": "Apasă pe Pointe des Almadies, bazilica din Popenguine, Marea Moschee din Kaolack și Fortul Bakel de la vest la est.",
+        "en": "Click Pointe des Almadies, the Basilica of Popenguine, the Great Mosque of Kaolack, and Fort Bakel from west to east."
+      }
+    }
+  ]
+}

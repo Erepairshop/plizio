@@ -1,0 +1,314 @@
+{
+  "qa": [
+    {
+      "id": "qa-find-lusail",
+      "type": "find_poi",
+      "targetPoiId": "qa-lusail-cities-v2",
+      "question": {
+        "de": "Finde Lusail auf der Karte.",
+        "hu": "Keresd meg Lusailt a t?rk?pen.",
+        "ro": "G?se?te Lusail pe hart?.",
+        "en": "Find Lusail on the map."
+      }
+    },
+    {
+      "id": "qa-find-dukhan",
+      "type": "find_poi",
+      "targetPoiId": "qa-dukhan-cities-v2",
+      "question": {
+        "de": "Finde Dukhan auf der Karte.",
+        "hu": "Keresd meg Dukhant a t?rk?pen.",
+        "ro": "G?se?te Dukhan pe hart?.",
+        "en": "Find Dukhan on the map."
+      }
+    },
+    {
+      "id": "qa-find-zubarah",
+      "type": "find_poi",
+      "targetPoiId": "qa-al-zubarah-cities-v2",
+      "question": {
+        "de": "Finde Al Zubarah auf der Karte.",
+        "hu": "Keresd meg Az-Zub?r?t a t?rk?pen.",
+        "ro": "G?se?te Al Zubarah pe hart?.",
+        "en": "Find Al Zubarah on the map."
+      }
+    },
+    {
+      "id": "qa-find-abu-samra",
+      "type": "find_poi",
+      "targetPoiId": "qa-abu-samra-cities-v2",
+      "question": {
+        "de": "Finde Abu Samra auf der Karte.",
+        "hu": "Keresd meg Abu Samr?t a t?rk?pen.",
+        "ro": "G?se?te Abu Samra pe hart?.",
+        "en": "Find Abu Samra on the map."
+      }
+    },
+    {
+      "id": "qa-region-daayen",
+      "type": "find_region",
+      "targetRegionId": "QAT-5487",
+      "question": {
+        "de": "Klicke auf die Region Al Daayen.",
+        "hu": "Kattints Al Daayen r?gi?j?ra.",
+        "ro": "Apas? pe regiunea Al Daayen.",
+        "en": "Click the Al Daayen region."
+      }
+    },
+    {
+      "id": "qa-region-khawr",
+      "type": "find_region",
+      "targetRegionId": "QAT-1105",
+      "question": {
+        "de": "Klicke auf die Region Al Khawr.",
+        "hu": "Kattints Al Khawr r?gi?j?ra.",
+        "ro": "Apas? pe regiunea Al Khawr.",
+        "en": "Click the Al Khawr region."
+      }
+    },
+    {
+      "id": "qa-region-shamal",
+      "type": "find_region",
+      "targetRegionId": "QAT-1106",
+      "question": {
+        "de": "Klicke auf die Region Madinat ach Shamal.",
+        "hu": "Kattints Madinat ash Shamal r?gi?j?ra.",
+        "ro": "Apas? pe regiunea Madinat ach Shamal.",
+        "en": "Click the Madinat ash Shamal region."
+      }
+    },
+    {
+      "id": "qa-region-umm-salal",
+      "type": "find_region",
+      "targetRegionId": "QAT-1107",
+      "question": {
+        "de": "Klicke auf die Region Umm Salal.",
+        "hu": "Kattints Umm Salal r?gi?j?ra.",
+        "ro": "Apas? pe regiunea Umm Salal.",
+        "en": "Click the Umm Salal region."
+      }
+    },
+    {
+      "id": "qa-odd-furthest-north",
+      "type": "odd_one_out",
+      "poiIds": [
+        "qa-doha-cities-v2",
+        "qa-lusail-cities-v2",
+        "qa-al-khor-cities-v2",
+        "qa-mesaieed-cities-v2"
+      ],
+      "targetPoiId": "qa-al-khor-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt am weitesten n?rdlich?",
+        "hu": "Melyik v?ros fekszik a leg?szakabbra?",
+        "ro": "Care ora? se afl? cel mai la nord?",
+        "en": "Which city lies furthest north?"
+      }
+    },
+    {
+      "id": "qa-odd-furthest-south",
+      "type": "odd_one_out",
+      "poiIds": [
+        "qa-al-zubarah-cities-v2",
+        "qa-dukhan-cities-v2",
+        "qa-doha-cities-v2",
+        "qa-abu-samra-cities-v2"
+      ],
+      "targetPoiId": "qa-abu-samra-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt am weitesten s?dlich?",
+        "hu": "Melyik v?ros fekszik a legd?lebbre?",
+        "ro": "Care ora? se afl? cel mai la sud?",
+        "en": "Which city lies furthest south?"
+      }
+    },
+    {
+      "id": "qa-odd-furthest-west",
+      "type": "odd_one_out",
+      "poiIds": [
+        "qa-al-khor-cities-v2",
+        "qa-doha-cities-v2",
+        "qa-al-wakrah-cities-v2",
+        "qa-dukhan-cities-v2"
+      ],
+      "targetPoiId": "qa-dukhan-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt am weitesten westlich?",
+        "hu": "Melyik v?ros fekszik a legnyugatabbra?",
+        "ro": "Care ora? se afl? cel mai la vest?",
+        "en": "Which city lies furthest west?"
+      }
+    },
+    {
+      "id": "qa-odd-furthest-east",
+      "type": "odd_one_out",
+      "poiIds": [
+        "qa-abu-samra-cities-v2",
+        "qa-al-shahaniya-cities-v2",
+        "qa-doha-cities-v2",
+        "qa-al-wakrah-cities-v2"
+      ],
+      "targetPoiId": "qa-al-wakrah-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt am weitesten ?stlich?",
+        "hu": "Melyik v?ros fekszik a legkeletebbre?",
+        "ro": "Care ora? se afl? cel mai la est?",
+        "en": "Which city lies furthest east?"
+      }
+    },
+    {
+      "id": "qa-odd-northern-coast",
+      "type": "odd_one_out",
+      "poiIds": [
+        "qa-lusail-cities-v2",
+        "qa-al-thakhira-cities-v2",
+        "qa-ras-laffan-cities-v2",
+        "qa-doha-cities-v2"
+      ],
+      "targetPoiId": "qa-ras-laffan-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt am weitesten n?rdlich?",
+        "hu": "Melyik hely fekszik a leg?szakabbra?",
+        "ro": "Care loc se afl? cel mai la nord?",
+        "en": "Which place lies furthest north?"
+      }
+    },
+    {
+      "id": "qa-odd-southern-coast",
+      "type": "odd_one_out",
+      "poiIds": [
+        "qa-al-wakrah-cities-v2",
+        "qa-al-wukair-cities-v2",
+        "qa-mesaieed-cities-v2",
+        "qatar-sealine-beach-cities-v2"
+      ],
+      "targetPoiId": "qatar-sealine-beach-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt am weitesten s?dlich?",
+        "hu": "Melyik hely fekszik a legd?lebbre?",
+        "ro": "Care loc se afl? cel mai la sud?",
+        "en": "Which place lies furthest south?"
+      }
+    },
+    {
+      "id": "qa-order-west-east-north",
+      "type": "sequence",
+      "poiIds": [
+        "qa-al-zubarah-cities-v2",
+        "qa-al-ghuwariyah-cities-v2",
+        "qa-ras-laffan-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "qa-al-zubarah-cities-v2",
+        "qa-al-ghuwariyah-cities-v2",
+        "qa-ras-laffan-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Al Zubarah, Al Ghuwariyah und Ras Laffan von Westen nach Osten an.",
+        "hu": "Kattints nyugatr?l keletre: Az-Zub?ra, Al-Ghuw?rija, Ras Laffan.",
+        "ro": "Apas? de la vest la est: Al Zubarah, Al Ghuwariyah, Ras Laffan.",
+        "en": "Click west to east: Al Zubarah, Al Ghuwariyah, Ras Laffan."
+      }
+    },
+    {
+      "id": "qa-order-north-south-east",
+      "type": "sequence",
+      "poiIds": [
+        "qa-ras-laffan-cities-v2",
+        "qa-lusail-cities-v2",
+        "qa-doha-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "qa-ras-laffan-cities-v2",
+        "qa-lusail-cities-v2",
+        "qa-doha-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Ras Laffan, Lusail und Doha von Norden nach S?den an.",
+        "hu": "Kattints ?szakr?l d?lre: Ras Laffan, Lusail, Doha.",
+        "ro": "Apas? de la nord la sud: Ras Laffan, Lusail, Doha.",
+        "en": "Click north to south: Ras Laffan, Lusail, Doha."
+      }
+    },
+    {
+      "id": "qa-order-south-north-coast",
+      "type": "sequence",
+      "poiIds": [
+        "qa-mesaieed-cities-v2",
+        "qa-doha-cities-v2",
+        "qa-al-khor-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "qa-mesaieed-cities-v2",
+        "qa-doha-cities-v2",
+        "qa-al-khor-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Mesaieed, Doha und Al Khor von S?den nach Norden an.",
+        "hu": "Kattints d?lr?l ?szakra: Mesaieed, Doha, Al Khor.",
+        "ro": "Apas? de la sud la nord: Mesaieed, Doha, Al Khor.",
+        "en": "Click south to north: Mesaieed, Doha, Al Khor."
+      }
+    },
+    {
+      "id": "qa-order-west-east-southwest",
+      "type": "sequence",
+      "poiIds": [
+        "qa-dukhan-cities-v2",
+        "qa-al-rayyan-cities-v2",
+        "qa-al-wakrah-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "qa-dukhan-cities-v2",
+        "qa-al-rayyan-cities-v2",
+        "qa-al-wakrah-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Dukhan, Al Rayyan und Al Wakrah von Westen nach Osten an.",
+        "hu": "Kattints nyugatr?l keletre: Dukhan, Al-Rajj?n, Al-Vakra.",
+        "ro": "Apas? de la vest la est: Dukhan, Al Rayyan, Al Wakrah.",
+        "en": "Click west to east: Dukhan, Al Rayyan, Al Wakrah."
+      }
+    },
+    {
+      "id": "qa-order-north-south-west",
+      "type": "sequence",
+      "poiIds": [
+        "qa-al-zubarah-cities-v2",
+        "qa-dukhan-cities-v2",
+        "qa-umm-bab-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "qa-al-zubarah-cities-v2",
+        "qa-dukhan-cities-v2",
+        "qa-umm-bab-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Al Zubarah, Dukhan und Umm Bab von Norden nach S?den an.",
+        "hu": "Kattints ?szakr?l d?lre: Az-Zub?ra, Dukhan, Umm Bab.",
+        "ro": "Apas? de la nord la sud: Al Zubarah, Dukhan, Umm Bab.",
+        "en": "Click north to south: Al Zubarah, Dukhan, Umm Bab."
+      }
+    },
+    {
+      "id": "qa-order-west-east-south",
+      "type": "sequence",
+      "poiIds": [
+        "qa-abu-samra-cities-v2",
+        "qa-al-kharrara-cities-v2",
+        "qa-mesaieed-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "qa-abu-samra-cities-v2",
+        "qa-al-kharrara-cities-v2",
+        "qa-mesaieed-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Abu Samra, Al Kharrara und Mesaieed von Westen nach Osten an.",
+        "hu": "Kattints nyugatr?l keletre: Abu Samra, Al Kharrara, Mesaieed.",
+        "ro": "Apas? de la vest la est: Abu Samra, Al Kharrara, Mesaieed.",
+        "en": "Click west to east: Abu Samra, Al Kharrara, Mesaieed."
+      }
+    }
+  ]
+}

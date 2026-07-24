@@ -1,0 +1,299 @@
+{
+  "ye": [
+    {
+      "id": "ye-find-saada",
+      "type": "find_poi",
+      "targetPoiId": "saada-cities-v2",
+      "question": {
+        "de": "Finde Saada auf der Karte.",
+        "hu": "Keresd meg Szaadát a térképen.",
+        "ro": "Găsește Saada pe hartă.",
+        "en": "Find Saada on the map."
+      }
+    },
+    {
+      "id": "ye-find-marib",
+      "type": "find_poi",
+      "targetPoiId": "marib-cities-v2",
+      "question": {
+        "de": "Finde Marib auf der Karte.",
+        "hu": "Keresd meg Máribot a térképen.",
+        "ro": "Găsește Marib pe hartă.",
+        "en": "Find Marib on the map."
+      }
+    },
+    {
+      "id": "ye-find-ibb",
+      "type": "find_poi",
+      "targetPoiId": "ibb-cities-v2",
+      "question": {
+        "de": "Finde Ibb auf der Karte.",
+        "hu": "Keresd meg Ibbet a térképen.",
+        "ro": "Găsește Ibb pe hartă.",
+        "en": "Find Ibb on the map."
+      }
+    },
+    {
+      "id": "ye-find-hadibu",
+      "type": "find_poi",
+      "targetPoiId": "hadibu-cities-v2",
+      "question": {
+        "de": "Finde Hadibu auf der Karte.",
+        "hu": "Keresd meg Hadibut a térképen.",
+        "ro": "Găsește Hadibu pe hartă.",
+        "en": "Find Hadibu on the map."
+      }
+    },
+    {
+      "id": "ye-find-al-ghaydah",
+      "type": "find_poi",
+      "targetPoiId": "al-ghaydah-cities-v2",
+      "question": {
+        "de": "Finde Al Ghaydah auf der Karte.",
+        "hu": "Keresd meg Al-Ghaidát a térképen.",
+        "ro": "Găsește Al Ghaydah pe hartă.",
+        "en": "Find Al Ghaydah on the map."
+      }
+    },
+    {
+      "id": "ye-region-hajjah",
+      "type": "find_region",
+      "targetRegionId": "YEM-154",
+      "question": {
+        "de": "Klicke auf die Region Hajjah.",
+        "hu": "Kattints Hajjah régiójára.",
+        "ro": "Apasă pe regiunea Hajjah.",
+        "en": "Click the Hajjah region."
+      }
+    },
+    {
+      "id": "ye-region-jawf",
+      "type": "find_region",
+      "targetRegionId": "YEM-335",
+      "question": {
+        "de": "Klicke auf die Region Al Jawf.",
+        "hu": "Kattints Al Jawf régiójára.",
+        "ro": "Apasă pe regiunea Al Jawf.",
+        "en": "Click the Al Jawf region."
+      }
+    },
+    {
+      "id": "ye-region-taizz",
+      "type": "find_region",
+      "targetRegionId": "YEM-158",
+      "question": {
+        "de": "Klicke auf die Region Taizz.",
+        "hu": "Kattints Taizz régiójára.",
+        "ro": "Apasă pe regiunea Taizz.",
+        "en": "Click the Taizz region."
+      }
+    },
+    {
+      "id": "ye-region-ibb",
+      "type": "find_region",
+      "targetRegionId": "YEM-156",
+      "question": {
+        "de": "Klicke auf die Region Ibb.",
+        "hu": "Kattints Ibb régiójára.",
+        "ro": "Apasă pe regiunea Ibb.",
+        "en": "Click the Ibb region."
+      }
+    },
+    {
+      "id": "ye-region-aden",
+      "type": "find_region",
+      "targetRegionId": "YEM-3510",
+      "question": {
+        "de": "Klicke auf die Region Aden.",
+        "hu": "Kattints Áden régiójára.",
+        "ro": "Apasă pe regiunea Aden.",
+        "en": "Click the Aden region."
+      }
+    },
+    {
+      "id": "ye-odd-east-hadibu",
+      "type": "odd_one_out",
+      "poiIds": [
+        "sanaa-cities-v2",
+        "marib-cities-v2",
+        "ataq-cities-v2",
+        "hadibu-cities-v2"
+      ],
+      "targetPoiId": "hadibu-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt am weitesten östlich?",
+        "hu": "Melyik város fekszik a legkeletebbre?",
+        "ro": "Care oraș se află cel mai la est?",
+        "en": "Which city lies furthest east?"
+      }
+    },
+    {
+      "id": "ye-odd-west-hudaydah",
+      "type": "odd_one_out",
+      "poiIds": [
+        "marib-cities-v2",
+        "taiz-cities-v2",
+        "aden-cities-v2",
+        "al-hudaydah-cities-v2"
+      ],
+      "targetPoiId": "al-hudaydah-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt am weitesten westlich?",
+        "hu": "Melyik város fekszik a legnyugatabbra?",
+        "ro": "Care oraș se află cel mai la vest?",
+        "en": "Which city lies furthest west?"
+      }
+    },
+    {
+      "id": "ye-odd-north-saada",
+      "type": "odd_one_out",
+      "poiIds": [
+        "ibb-cities-v2",
+        "dhamar-cities-v2",
+        "sanaa-cities-v2",
+        "saada-cities-v2"
+      ],
+      "targetPoiId": "saada-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt am weitesten nördlich?",
+        "hu": "Melyik város fekszik a legészakabbra?",
+        "ro": "Care oraș se află cel mai la nord?",
+        "en": "Which city lies furthest north?"
+      }
+    },
+    {
+      "id": "ye-odd-south-hadibu",
+      "type": "odd_one_out",
+      "poiIds": [
+        "mocha-cities-v2",
+        "zinjibar-cities-v2",
+        "aden-cities-v2",
+        "hadibu-cities-v2"
+      ],
+      "targetPoiId": "hadibu-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt am weitesten südlich?",
+        "hu": "Melyik város fekszik a legdélebbre?",
+        "ro": "Care oraș se află cel mai la sud?",
+        "en": "Which city lies furthest south?"
+      }
+    },
+    {
+      "id": "ye-odd-east-ghaydah",
+      "type": "odd_one_out",
+      "poiIds": [
+        "al-mahwit-cities-v2",
+        "hajjah-cities-v2",
+        "saada-cities-v2",
+        "al-ghaydah-cities-v2"
+      ],
+      "targetPoiId": "al-ghaydah-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt am weitesten östlich?",
+        "hu": "Melyik város fekszik a legkeletebbre?",
+        "ro": "Care oraș se află cel mai la est?",
+        "en": "Which city lies furthest east?"
+      }
+    },
+    {
+      "id": "ye-order-west-east-hudaydah-marib",
+      "type": "sequence",
+      "poiIds": [
+        "al-hudaydah-cities-v2",
+        "sanaa-cities-v2",
+        "marib-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "al-hudaydah-cities-v2",
+        "sanaa-cities-v2",
+        "marib-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Al-Hudaida, Sanaa und Marib von Westen nach Osten an.",
+        "hu": "Kattints nyugatról keletre: Al-Hudajda, Szanaa, Márib.",
+        "ro": "Apasă de la vest la est: Al Hudaydah, Sanaa, Marib.",
+        "en": "Click west to east: Al Hudaydah, Sanaa, Marib."
+      }
+    },
+    {
+      "id": "ye-order-north-south-amran-dhamar",
+      "type": "sequence",
+      "poiIds": [
+        "amran-cities-v2",
+        "sanaa-cities-v2",
+        "dhamar-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "amran-cities-v2",
+        "sanaa-cities-v2",
+        "dhamar-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Amran, Sanaa und Dhamar von Norden nach Süden an.",
+        "hu": "Kattints északról délre: Amrán, Szanaa, Dhamar.",
+        "ro": "Apasă de la nord la sud: Amran, Sanaa, Dhamar.",
+        "en": "Click north to south: Amran, Sanaa, Dhamar."
+      }
+    },
+    {
+      "id": "ye-order-west-east-mocha-aden",
+      "type": "sequence",
+      "poiIds": [
+        "mocha-cities-v2",
+        "taiz-cities-v2",
+        "aden-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "mocha-cities-v2",
+        "taiz-cities-v2",
+        "aden-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Mocha, Taiz und Aden von Westen nach Osten an.",
+        "hu": "Kattints nyugatról keletre: Mokha, Taiz, Áden.",
+        "ro": "Apasă de la vest la est: Mocha, Taiz, Aden.",
+        "en": "Click west to east: Mocha, Taiz, Aden."
+      }
+    },
+    {
+      "id": "ye-order-north-south-saada-hudaydah",
+      "type": "sequence",
+      "poiIds": [
+        "saada-cities-v2",
+        "hajjah-cities-v2",
+        "al-hudaydah-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "saada-cities-v2",
+        "hajjah-cities-v2",
+        "al-hudaydah-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Saada, Hajjah und Al-Hudaida von Norden nach Süden an.",
+        "hu": "Kattints északról délre: Szaada, Hadda, Al-Hudajda.",
+        "ro": "Apasă de la nord la sud: Saada, Hajjah, Al Hudaydah.",
+        "en": "Click north to south: Saada, Hajjah, Al Hudaydah."
+      }
+    },
+    {
+      "id": "ye-order-west-east-zabid-bayda",
+      "type": "sequence",
+      "poiIds": [
+        "zabid-cities-v2",
+        "ibb-cities-v2",
+        "al-bayda-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "zabid-cities-v2",
+        "ibb-cities-v2",
+        "al-bayda-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Zabid, Ibb und Al Bayda von Westen nach Osten an.",
+        "hu": "Kattints nyugatról keletre: Zabid, Ibb, Al-Bajda.",
+        "ro": "Apasă de la vest la est: Zabid, Ibb, Al Bayda.",
+        "en": "Click west to east: Zabid, Ibb, Al Bayda."
+      }
+    }
+  ]
+}

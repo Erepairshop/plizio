@@ -1,0 +1,299 @@
+{
+  "cg": [
+    {
+      "id": "cg-find-nkayi-sugar-center",
+      "type": "find_poi",
+      "targetPoiId": "cg-nkayi-cities-v2",
+      "question": {
+        "de": "Finde Nkayi, ein wichtiges Zuckeranbauzentrum im Süden des Landes.",
+        "hu": "Keresd meg Nkayit, az ország déli részének fontos cukornád-központját.",
+        "ro": "Găsește Nkayi, un important centru al culturii trestiei de zahăr din sudul țării.",
+        "en": "Find Nkayi, an important sugar-growing center in the south of the country."
+      }
+    },
+    {
+      "id": "cg-find-betou-far-northeast",
+      "type": "find_poi",
+      "targetPoiId": "cg-betou-cities-v2",
+      "question": {
+        "de": "Finde Bétou im äußersten Nordosten nahe dem Ubangi-Gebiet.",
+        "hu": "Keresd meg Bétout a legészakkeletibb részen, az Ubangi térsége közelében.",
+        "ro": "Găsește Bétou în extremul nord-est, aproape de zona Ubangi.",
+        "en": "Find Betou in the far northeast near the Ubangi area."
+      }
+    },
+    {
+      "id": "cg-find-djambala-plateau",
+      "type": "find_poi",
+      "targetPoiId": "cg-djambala-cities-v2",
+      "question": {
+        "de": "Finde Djambala auf den Plateaus nördlich von Brazzaville.",
+        "hu": "Keresd meg Djambalát a Brazzaville-től északra fekvő fennsíkokon.",
+        "ro": "Găsește Djambala pe platourile de la nord de Brazzaville.",
+        "en": "Find Djambala on the plateaus north of Brazzaville."
+      }
+    },
+    {
+      "id": "cg-find-loufoulakari-falls",
+      "type": "find_poi",
+      "targetPoiId": "congo-loufoulakari-falls-cities-v2",
+      "question": {
+        "de": "Finde die Loufoulakari-Fälle südwestlich von Brazzaville.",
+        "hu": "Keresd meg a Loufoulakari-vízesést Brazzaville-től délnyugatra.",
+        "ro": "Găsește cascadele Loufoulakari la sud-vest de Brazzaville.",
+        "en": "Find Loufoulakari Falls southwest of Brazzaville."
+      }
+    },
+    {
+      "id": "cg-find-nouabale-ndoki-park",
+      "type": "find_poi",
+      "targetPoiId": "congo-nouabale-ndoki-national-park-cities-v2",
+      "question": {
+        "de": "Finde den Nationalpark Nouabalé-Ndoki im nordöstlichen Regenwald.",
+        "hu": "Keresd meg a Nouabalé-Ndoki Nemzeti Parkot az északkeleti esőerdőben.",
+        "ro": "Găsește Parcul Național Nouabalé-Ndoki în pădurea tropicală din nord-est.",
+        "en": "Find Nouabalé-Ndoki National Park in the northeastern rainforest."
+      }
+    },
+    {
+      "id": "cg-region-sangha",
+      "type": "find_region",
+      "targetRegionId": "COG-2880",
+      "question": {
+        "de": "Klicke auf Sangha im Nordosten der Republik Kongo.",
+        "hu": "Kattints Sangha megyére a Kongói Köztársaság északkeleti részén.",
+        "ro": "Apasă pe regiunea Sangha din nord-estul Republicii Congo.",
+        "en": "Click Sangha in the northeast of the Republic of the Congo."
+      }
+    },
+    {
+      "id": "cg-region-pool",
+      "type": "find_region",
+      "targetRegionId": "COG-3341",
+      "question": {
+        "de": "Finde die Region Pool, die Brazzaville umgibt.",
+        "hu": "Keresd meg Pool régiót, amely Brazzaville körül fekszik.",
+        "ro": "Găsește regiunea Pool, care înconjoară Brazzaville.",
+        "en": "Find the Pool region surrounding Brazzaville."
+      }
+    },
+    {
+      "id": "cg-region-bouenza",
+      "type": "find_region",
+      "targetRegionId": "COG-2626",
+      "question": {
+        "de": "Klicke auf Bouenza im südlichen Landesinneren.",
+        "hu": "Kattints Bouenza régióra a déli belső területen.",
+        "ro": "Apasă pe Bouenza din interiorul sudic al țării.",
+        "en": "Click Bouenza in the southern interior of the country."
+      }
+    },
+    {
+      "id": "cg-region-pointe-noire",
+      "type": "find_region",
+      "targetRegionId": "COG-5855",
+      "question": {
+        "de": "Finde die kleine Stadtregion Pointe Noire an der Atlantikküste.",
+        "hu": "Keresd meg a kis Pointe Noire városi régiót az Atlanti-óceán partján.",
+        "ro": "Găsește mica regiune urbană Pointe Noire de pe coasta Atlanticului.",
+        "en": "Find the small city region of Pointe Noire on the Atlantic coast."
+      }
+    },
+    {
+      "id": "cg-region-cuvette-ouest",
+      "type": "find_region",
+      "targetRegionId": "COG-2185",
+      "question": {
+        "de": "Klicke auf Cuvette-Ouest im nordwestlichen Landesinneren.",
+        "hu": "Kattints Cuvette-Ouest régióra az északnyugati belső területen.",
+        "ro": "Apasă pe Cuvette-Ouest din interiorul nord-vestic al țării.",
+        "en": "Click Cuvette-Ouest in the northwestern interior of the country."
+      }
+    },
+    {
+      "id": "cg-odd-river-not-coast",
+      "type": "odd_one_out",
+      "poiIds": [
+        "cg-pointe-noire-cities-v2",
+        "pointe-noire-port-economic-v2",
+        "cg-atlantic-ocean-cg-nature-v2",
+        "cg-brazzaville-cities-v2"
+      ],
+      "targetPoiId": "cg-brazzaville-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt am Kongo-Fluss statt an der Atlantikküste?",
+        "hu": "Melyik hely a Kongó folyó mellett fekszik, nem pedig az Atlanti-óceán partján?",
+        "ro": "Care loc se află pe fluviul Congo, nu pe coasta Atlanticului?",
+        "en": "Which place lies on the Congo River rather than on the Atlantic coast?"
+      }
+    },
+    {
+      "id": "cg-odd-pointe-noire-landmark",
+      "type": "odd_one_out",
+      "poiIds": [
+        "cg-sainte-anne-basilica-history-v2",
+        "cg-nabemba-tower-landmarks-v2",
+        "cg-maya-maya-airport-landmarks-v2",
+        "cg-pointe-noire-lighthouse-history-v2"
+      ],
+      "targetPoiId": "cg-pointe-noire-lighthouse-history-v2",
+      "question": {
+        "de": "Welches Wahrzeichen liegt in Pointe-Noire statt in Brazzaville?",
+        "hu": "Melyik nevezetesség Pointe-Noire-ban található, nem pedig Brazzaville-ben?",
+        "ro": "Care reper se află în Pointe-Noire, nu în Brazzaville?",
+        "en": "Which landmark is in Pointe-Noire rather than in Brazzaville?"
+      }
+    },
+    {
+      "id": "cg-odd-coastal-vs-rainforest",
+      "type": "odd_one_out",
+      "poiIds": [
+        "cg-betou-cities-v2",
+        "cg-ouesso-cities-v2",
+        "congo-nouabale-ndoki-national-park-cities-v2",
+        "cg-pointe-noire-cities-v2"
+      ],
+      "targetPoiId": "cg-pointe-noire-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt an der Küste im Südwesten statt im nördlichen Regenwaldgürtel?",
+        "hu": "Melyik hely fekszik a délnyugati partvidéken, nem pedig az északi esőerdő övezetében?",
+        "ro": "Care loc se află pe coastă în sud-vest, nu în zona pădurii tropicale din nord?",
+        "en": "Which place is on the southwestern coast rather than in the northern rainforest belt?"
+      }
+    },
+    {
+      "id": "cg-odd-not-river-port",
+      "type": "odd_one_out",
+      "poiIds": [
+        "mossaka-port-economic-v2",
+        "impfondo-port-economic-v2",
+        "brazzaville-port-economic-v2",
+        "cg-djambala-cities-v2"
+      ],
+      "targetPoiId": "cg-djambala-cities-v2",
+      "question": {
+        "de": "Welcher Ort ist kein Flusshafen?",
+        "hu": "Melyik hely nem folyami kikötő?",
+        "ro": "Care loc nu este un port fluvial?",
+        "en": "Which place is not a river port?"
+      }
+    },
+    {
+      "id": "cg-odd-lake-not-industry",
+      "type": "odd_one_out",
+      "poiIds": [
+        "mayoko-iron-ore-mine-economic-v2",
+        "mindouli-copper-mine-economic-v2",
+        "loutete-cement-plant-economic-v2",
+        "cg-tele-lake-nature-v2"
+      ],
+      "targetPoiId": "cg-tele-lake-nature-v2",
+      "question": {
+        "de": "Welcher Ort ist ein nördlicher See statt ein Industrie- oder Bergbaustandort?",
+        "hu": "Melyik hely északi tó, nem pedig ipari vagy bányászati terület?",
+        "ro": "Care loc este un lac nordic, nu un sit industrial sau minier?",
+        "en": "Which place is a northern lake rather than an industrial or mining site?"
+      }
+    },
+    {
+      "id": "cg-order-coast-to-northeast",
+      "type": "sequence",
+      "poiIds": [
+        "cg-atlantic-ocean-cg-nature-v2",
+        "cg-brazzaville-cities-v2",
+        "cg-betou-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "cg-atlantic-ocean-cg-nature-v2",
+        "cg-brazzaville-cities-v2",
+        "cg-betou-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke den Atlantik, Brazzaville und Bétou von Westen nach Osten an.",
+        "hu": "Kattints az Atlanti-óceánra, Brazzaville-re és Bétoura nyugatról kelet felé.",
+        "ro": "Apasă Oceanul Atlantic, Brazzaville și Bétou de la vest la est.",
+        "en": "Click the Atlantic Ocean, Brazzaville, and Betou from west to east."
+      }
+    },
+    {
+      "id": "cg-order-south-to-north-cities",
+      "type": "sequence",
+      "poiIds": [
+        "cg-pointe-noire-cities-v2",
+        "cg-djambala-cities-v2",
+        "cg-ouesso-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "cg-pointe-noire-cities-v2",
+        "cg-djambala-cities-v2",
+        "cg-ouesso-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Pointe-Noire, Djambala und Ouésso von Süden nach Norden an.",
+        "hu": "Kattints Pointe-Noire-ra, Djambalára és Ouéssóra délről észak felé.",
+        "ro": "Apasă Pointe-Noire, Djambala și Ouésso de la sud la nord.",
+        "en": "Click Pointe-Noire, Djambala, and Ouesso from south to north."
+      }
+    },
+    {
+      "id": "cg-order-west-east-southern-belt",
+      "type": "sequence",
+      "poiIds": [
+        "cg-kimongo-cities-v2",
+        "cg-sibiti-cities-v2",
+        "cg-brazzaville-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "cg-kimongo-cities-v2",
+        "cg-sibiti-cities-v2",
+        "cg-brazzaville-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Kimongo, Sibiti und Brazzaville von Westen nach Osten an.",
+        "hu": "Kattints Kimongóra, Sibitire és Brazzaville-re nyugatról kelet felé.",
+        "ro": "Apasă Kimongo, Sibiti și Brazzaville de la vest la est.",
+        "en": "Click Kimongo, Sibiti, and Brazzaville from west to east."
+      }
+    },
+    {
+      "id": "cg-order-river-ports-south-north",
+      "type": "sequence",
+      "poiIds": [
+        "brazzaville-port-economic-v2",
+        "mossaka-port-economic-v2",
+        "impfondo-port-economic-v2"
+      ],
+      "orderedPoiIds": [
+        "brazzaville-port-economic-v2",
+        "mossaka-port-economic-v2",
+        "impfondo-port-economic-v2"
+      ],
+      "question": {
+        "de": "Klicke die Häfen von Brazzaville, Mossaka und Impfondo von Süden nach Norden an.",
+        "hu": "Kattints Brazzaville, Mossaka és Impfondo kikötőire délről észak felé.",
+        "ro": "Apasă porturile Brazzaville, Mossaka și Impfondo de la sud la nord.",
+        "en": "Click the ports of Brazzaville, Mossaka, and Impfondo from south to north."
+      }
+    },
+    {
+      "id": "cg-order-plateau-towns-south-north",
+      "type": "sequence",
+      "poiIds": [
+        "cg-kinkala-cities-v2",
+        "cg-djambala-cities-v2",
+        "cg-abala-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "cg-kinkala-cities-v2",
+        "cg-djambala-cities-v2",
+        "cg-abala-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Kinkala, Djambala und Abala von Süden nach Norden an.",
+        "hu": "Kattints Kinkalára, Djambalára és Abalára délről észak felé.",
+        "ro": "Apasă Kinkala, Djambala și Abala de la sud la nord.",
+        "en": "Click Kinkala, Djambala, and Abala from south to north."
+      }
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "om": [
+    {
+      "id": "om-find-ibri",
+      "type": "find_poi",
+      "targetPoiId": "ibri-cities-v2",
+      "question": {
+        "de": "Markiere Ibri auf der Karte.",
+        "hu": "Jelöld meg Ibrit a térképen.",
+        "ro": "Marchează Ibri pe hartă.",
+        "en": "Mark Ibri on the map."
+      }
+    },
+    {
+      "id": "om-find-al-buraimi",
+      "type": "find_poi",
+      "targetPoiId": "al-buraimi-cities-v2",
+      "question": {
+        "de": "Finde Al Buraimi auf der Karte.",
+        "hu": "Keresd meg Al-Burajmit a térképen.",
+        "ro": "Găsește Al Buraimi pe hartă.",
+        "en": "Find Al Buraimi on the map."
+      }
+    },
+    {
+      "id": "om-find-haima",
+      "type": "find_poi",
+      "targetPoiId": "haima-cities-v2",
+      "question": {
+        "de": "Suche Haima auf der Karte.",
+        "hu": "Keresd meg Haimát a térképen.",
+        "ro": "Caută Haima pe hartă.",
+        "en": "Locate Haima on the map."
+      }
+    },
+    {
+      "id": "om-find-muttrah-souq",
+      "type": "find_poi",
+      "targetPoiId": "muttrah-souq-landmarks-v2",
+      "question": {
+        "de": "Zeige den Muttrah Souq auf der Karte.",
+        "hu": "Mutasd meg a Muttrah piacot a térképen.",
+        "ro": "Arată bazarul Muttrah pe hartă.",
+        "en": "Show Muttrah Souq on the map."
+      }
+    },
+    {
+      "id": "om-find-jebel-shams",
+      "type": "find_poi",
+      "targetPoiId": "jebel-shams-landmarks-v2",
+      "question": {
+        "de": "Finde den Dschebel Schams auf der Karte.",
+        "hu": "Keresd meg a Jebel Shamst a térképen.",
+        "ro": "Găsește Jebel Shams pe hartă.",
+        "en": "Find Jebel Shams on the map."
+      }
+    },
+    {
+      "id": "om-find-ras-al-jinz",
+      "type": "find_poi",
+      "targetPoiId": "ras-al-jinz-turtle-reserve-landmarks-v2",
+      "question": {
+        "de": "Markiere das Schildkrötenreservat Ras al Jinz auf der Karte.",
+        "hu": "Jelöld meg a Ras al Jinz Teknősrezervátumot a térképen.",
+        "ro": "Marchează rezervația de broaște țestoase Ras al Jinz pe hartă.",
+        "en": "Mark Ras al Jinz Turtle Reserve on the map."
+      }
+    },
+    {
+      "id": "om-region-al-dhahira",
+      "type": "find_region",
+      "targetRegionId": "OMN-2414",
+      "question": {
+        "de": "Wähle die Region Al Dhahira aus.",
+        "hu": "Válaszd ki Al Dhahira régióját.",
+        "ro": "Selectează regiunea Al Dhahira.",
+        "en": "Select the Al Dhahira region."
+      }
+    },
+    {
+      "id": "om-region-dhofar",
+      "type": "find_region",
+      "targetRegionId": "OMN-2411",
+      "question": {
+        "de": "Tippe auf die Region Dhofar.",
+        "hu": "Koppints Dhofar régiójára.",
+        "ro": "Apasă pe regiunea Dhofar.",
+        "en": "Tap the Dhofar region."
+      }
+    },
+    {
+      "id": "om-region-al-wusta",
+      "type": "find_region",
+      "targetRegionId": "OMN-2405",
+      "question": {
+        "de": "Klicke auf die Region Al Wusta.",
+        "hu": "Kattints Al Wusta régiójára.",
+        "ro": "Apasă pe regiunea Al Wusta.",
+        "en": "Click the Al Wusta region."
+      }
+    },
+    {
+      "id": "om-region-ash-sharqiyah-south",
+      "type": "find_region",
+      "targetRegionId": "OMN-2406",
+      "question": {
+        "de": "Finde die Region Ash Sharqiyah South.",
+        "hu": "Keresd meg Ash Sharqiyah South régióját.",
+        "ro": "Găsește regiunea Ash Sharqiyah South.",
+        "en": "Find the Ash Sharqiyah South region."
+      }
+    },
+    {
+      "id": "om-region-muscat",
+      "type": "find_region",
+      "targetRegionId": "OMN-2426",
+      "question": {
+        "de": "Markiere die Region Muscat.",
+        "hu": "Jelöld meg Muscat régióját.",
+        "ro": "Marchează regiunea Muscat.",
+        "en": "Mark the Muscat region."
+      }
+    },
+    {
+      "id": "om-region-ad-dakhliyah",
+      "type": "find_region",
+      "targetRegionId": "OMN-2404",
+      "question": {
+        "de": "Zeige die Region Ad Dakhliyah.",
+        "hu": "Mutasd meg Ad Dakhliyah régióját.",
+        "ro": "Arată regiunea Ad Dakhliyah.",
+        "en": "Show the Ad Dakhliyah region."
+      }
+    },
+    {
+      "id": "om-odd-north",
+      "type": "odd_one_out",
+      "poiIds": [
+        "salalah-cities-v2",
+        "muscat-cities-v2",
+        "nizwa-cities-v2",
+        "khasab-cities-v2"
+      ],
+      "targetPoiId": "khasab-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt am weitesten nördlich?",
+        "hu": "Melyik város fekszik a legészakabbra?",
+        "ro": "Care oraș se află cel mai la nord?",
+        "en": "Which city lies furthest north?"
+      }
+    },
+    {
+      "id": "om-odd-east",
+      "type": "odd_one_out",
+      "poiIds": [
+        "sohar-cities-v2",
+        "muscat-cities-v2",
+        "sur-cities-v2",
+        "al-buraimi-cities-v2"
+      ],
+      "targetPoiId": "sur-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt am weitesten östlich?",
+        "hu": "Melyik város fekszik a legkeletebbre?",
+        "ro": "Care oraș se află cel mai la est?",
+        "en": "Which city lies furthest east?"
+      }
+    },
+    {
+      "id": "om-odd-west",
+      "type": "odd_one_out",
+      "poiIds": [
+        "sur-cities-v2",
+        "nizwa-cities-v2",
+        "ibri-cities-v2",
+        "muscat-cities-v2"
+      ],
+      "targetPoiId": "ibri-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt am weitesten westlich?",
+        "hu": "Melyik város fekszik a legnyugatabbra?",
+        "ro": "Care oraș se află cel mai la vest?",
+        "en": "Which city lies furthest west?"
+      }
+    },
+    {
+      "id": "om-odd-south-central",
+      "type": "odd_one_out",
+      "poiIds": [
+        "sohar-cities-v2",
+        "nizwa-cities-v2",
+        "haima-cities-v2",
+        "duqm-cities-v2"
+      ],
+      "targetPoiId": "duqm-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt am weitesten südlich?",
+        "hu": "Melyik város fekszik a legdélebbre?",
+        "ro": "Care oraș se află cel mai la sud?",
+        "en": "Which city lies furthest south?"
+      }
+    },
+    {
+      "id": "om-order-west-east-interior-capital",
+      "type": "sequence",
+      "poiIds": [
+        "al-buraimi-cities-v2",
+        "nizwa-cities-v2",
+        "muscat-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "al-buraimi-cities-v2",
+        "nizwa-cities-v2",
+        "muscat-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Al Buraimi, Nizwa und Maskat von Westen nach Osten an.",
+        "hu": "Kattints nyugatról keletre: Al-Burajmi, Nizva, Maszkat.",
+        "ro": "Apasă de la vest la est: Al Buraimi, Nizwa, Muscat.",
+        "en": "Click west to east: Al Buraimi, Nizwa, Muscat."
+      }
+    },
+    {
+      "id": "om-order-north-south-sohar-muscat-nizwa",
+      "type": "sequence",
+      "poiIds": [
+        "sohar-cities-v2",
+        "muscat-cities-v2",
+        "nizwa-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "sohar-cities-v2",
+        "muscat-cities-v2",
+        "nizwa-cities-v2"
+      ],
+      "question": {
+        "de": "Ordne Suhar, Maskat und Nizwa von Norden nach Süden.",
+        "hu": "Rendezd északról délre: Szohar, Maszkat, Nizva.",
+        "ro": "Ordonează de la nord la sud: Sohar, Muscat, Nizwa.",
+        "en": "Order from north to south: Sohar, Muscat, Nizwa."
+      }
+    },
+    {
+      "id": "om-order-north-south-shinas-sohar-saham",
+      "type": "sequence",
+      "poiIds": [
+        "shinas-cities-v2",
+        "sohar-cities-v2",
+        "saham-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "shinas-cities-v2",
+        "sohar-cities-v2",
+        "saham-cities-v2"
+      ],
+      "question": {
+        "de": "Bringe Shinas, Suhar und Saham von Norden nach Süden in die richtige Reihenfolge.",
+        "hu": "Tedd helyes sorrendbe északról délre: Sinasz, Szohar, Szaham.",
+        "ro": "Pune în ordine de la nord la sud: Shinas, Sohar, Saham.",
+        "en": "Put these in north-to-south order: Shinas, Sohar, Saham."
+      }
+    },
+    {
+      "id": "om-order-west-east-dhofar-coast",
+      "type": "sequence",
+      "poiIds": [
+        "salalah-cities-v2",
+        "taqah-cities-v2",
+        "mirbat-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "salalah-cities-v2",
+        "taqah-cities-v2",
+        "mirbat-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Salala, Taqah und Mirbat von Westen nach Osten an.",
+        "hu": "Kattints nyugatról keletre: Szalála, Taka, Mirbat.",
+        "ro": "Apasă de la vest la est: Salalah, Taqah, Mirbat.",
+        "en": "Click west to east: Salalah, Taqah, Mirbat."
+      }
+    }
+  ]
+}

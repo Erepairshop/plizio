@@ -1,0 +1,303 @@
+{
+  "rs": [
+    {
+      "id": "rs-find-subotica-synagogue",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde die Synagoge von Subotica.",
+        "hu": "Keresd meg a szabadkai zsinagógát.",
+        "ro": "Găsește Sinagoga din Subotica.",
+        "en": "Find the Subotica Synagogue."
+      },
+      "targetPoiId": "serbia-subotica-synagogue-landmarks-v2"
+    },
+    {
+      "id": "rs-find-golubac-fortress",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde die Festung Golubac an der Donau.",
+        "hu": "Keresd meg a Galambóc várát a Dunánál.",
+        "ro": "Găsește Cetatea Golubac de pe Dunăre.",
+        "en": "Find Golubac Fortress on the Danube."
+      },
+      "targetPoiId": "serbia-golubac-cities-v2"
+    },
+    {
+      "id": "rs-find-studenica-monastery",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde das Kloster Studenica.",
+        "hu": "Keresd meg a Studenica kolostort.",
+        "ro": "Găsește Mănăstirea Studenica.",
+        "en": "Find Studenica Monastery."
+      },
+      "targetPoiId": "serbia-studenica-monastery-cities-v2"
+    },
+    {
+      "id": "rs-find-devils-town",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde die Felsformation Đavolja Varoš.",
+        "hu": "Keresd meg az Đavolja Varoš sziklaalakzatait.",
+        "ro": "Găsește formațiunea stâncoasă Đavolja Varoš.",
+        "en": "Find the rock formations of Devil's Town."
+      },
+      "targetPoiId": "serbia-djavolja-varos-life-v2"
+    },
+    {
+      "id": "rs-find-mediana",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde die römische Ausgrabungsstätte Mediana bei Niš.",
+        "hu": "Keresd meg a Niš melletti Mediana római lelőhelyet.",
+        "ro": "Găsește situl roman Mediana de lângă Niš.",
+        "en": "Find the Roman site of Mediana near Niš."
+      },
+      "targetPoiId": "serbia-mediana-history-v2"
+    },
+    {
+      "id": "rs-find-felix-romuliana",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Gamzigrad (Felix Romuliana).",
+        "hu": "Keresd meg Gamzigradot (Felix Romuliana).",
+        "ro": "Găsește Gamzigrad (Felix Romuliana).",
+        "en": "Find Gamzigrad (Felix Romuliana)."
+      },
+      "targetPoiId": "serbia-gamzigrad-felix-romuliana-cities-v2"
+    },
+    {
+      "id": "rs-region-juzno-backi",
+      "type": "find_region",
+      "question": {
+        "de": "Finde den Bezirk Južno-Backi.",
+        "hu": "Keresd meg a Južno-Backi körzetet.",
+        "ro": "Găsește districtul Južno-Backi.",
+        "en": "Find the Južno-Backi district."
+      },
+      "targetRegionId": "RS-015"
+    },
+    {
+      "id": "rs-region-srednje-banatski",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf den Bezirk Srednje-Banatski.",
+        "hu": "Kattints a Srednje-Banatski körzetre.",
+        "ro": "Apasă pe districtul Srednje-Banatski.",
+        "en": "Click the Srednje-Banatski district."
+      },
+      "targetRegionId": "RS-016"
+    },
+    {
+      "id": "rs-region-nisavski",
+      "type": "find_region",
+      "question": {
+        "de": "Finde den Bezirk Nišavski.",
+        "hu": "Keresd meg a Nišavski körzetet.",
+        "ro": "Găsește districtul Nišavski.",
+        "en": "Find the Nišavski district."
+      },
+      "targetRegionId": "RS-021"
+    },
+    {
+      "id": "rs-region-sumadijski",
+      "type": "find_region",
+      "question": {
+        "de": "Finde den Bezirk Šumadijski.",
+        "hu": "Keresd meg a Šumadijski körzetet.",
+        "ro": "Găsește districtul Šumadijski.",
+        "en": "Find the Šumadijski district."
+      },
+      "targetRegionId": "RS-023"
+    },
+    {
+      "id": "rs-region-podunavski",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf den Bezirk Podunavski.",
+        "hu": "Kattints a Podunavski körzetre.",
+        "ro": "Apasă pe districtul Podunavski.",
+        "en": "Click the Podunavski district."
+      },
+      "targetRegionId": "RS-020"
+    },
+    {
+      "id": "rs-odd-not-monastery",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort ist kein Kloster?",
+        "hu": "Melyik hely nem kolostor?",
+        "ro": "Care loc nu este o mănăstire?",
+        "en": "Which place is not a monastery?"
+      },
+      "poiIds": [
+        "RS-009-zica",
+        "RS-010-manasija",
+        "serbia-studenica-monastery-cities-v2",
+        "serbia-golubac-cities-v2"
+      ],
+      "targetPoiId": "serbia-golubac-cities-v2"
+    },
+    {
+      "id": "rs-odd-not-danube-site",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort liegt nicht an der Donau?",
+        "hu": "Melyik hely nem a Duna mentén található?",
+        "ro": "Care loc nu se află pe Dunăre?",
+        "en": "Which place is not on the Danube?"
+      },
+      "poiIds": [
+        "RS-018-viminacium",
+        "RS-020-smederevo-city",
+        "serbia-golubac-cities-v2",
+        "RS-025-valjevo"
+      ],
+      "targetPoiId": "RS-025-valjevo"
+    },
+    {
+      "id": "rs-odd-not-vojvodina",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort liegt nicht in der Vojvodina?",
+        "hu": "Melyik hely nem a Vajdaságban található?",
+        "ro": "Care loc nu se află în Voivodina?",
+        "en": "Which place is not in Vojvodina?"
+      },
+      "poiIds": [
+        "RS-002-sombor",
+        "serbia-palic-cities-v2",
+        "serbia-novi-sad-cities-v2",
+        "serbia-kragujevac-cities-v2"
+      ],
+      "targetPoiId": "serbia-kragujevac-cities-v2"
+    },
+    {
+      "id": "rs-odd-not-southwest",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort liegt nicht im Südwesten Serbiens?",
+        "hu": "Melyik hely nem Szerbia délnyugati részén található?",
+        "ro": "Care loc nu se află în sud-vestul Serbiei?",
+        "en": "Which place is not in southwestern Serbia?"
+      },
+      "poiIds": [
+        "serbia-mokra-gora-cities-v2",
+        "serbia-uvac-cities-v2",
+        "serbia-prijepolje-cities-v2",
+        "RS-007-pirot"
+      ],
+      "targetPoiId": "RS-007-pirot"
+    },
+    {
+      "id": "rs-sequence-north-south-major-cities",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Städte von Nord nach Süd an.",
+        "hu": "Kattints a városokra északról délre.",
+        "ro": "Apasă orașele de la nord la sud.",
+        "en": "Click the cities from north to south."
+      },
+      "poiIds": [
+        "serbia-subotica-cities-v2",
+        "serbia-novi-sad-cities-v2",
+        "serbia-belgrade-cities-v2",
+        "serbia-nis-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "serbia-subotica-cities-v2",
+        "serbia-novi-sad-cities-v2",
+        "serbia-belgrade-cities-v2",
+        "serbia-nis-cities-v2"
+      ]
+    },
+    {
+      "id": "rs-sequence-west-east-cities",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Orte von West nach Ost an.",
+        "hu": "Kattints a helyekre nyugatról keletre.",
+        "ro": "Apasă locurile de la vest la est.",
+        "en": "Click the places from west to east."
+      },
+      "poiIds": [
+        "serbia-loznica-cities-v2",
+        "RS-025-valjevo",
+        "serbia-kragujevac-cities-v2",
+        "RS-005-bor"
+      ],
+      "orderedPoiIds": [
+        "serbia-loznica-cities-v2",
+        "RS-025-valjevo",
+        "serbia-kragujevac-cities-v2",
+        "RS-005-bor"
+      ]
+    },
+    {
+      "id": "rs-sequence-north-south-plains",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Orte von Nord nach Süd an.",
+        "hu": "Kattints a helyekre északról délre.",
+        "ro": "Apasă locurile de la nord la sud.",
+        "en": "Click the places from north to south."
+      },
+      "poiIds": [
+        "serbia-palic-cities-v2",
+        "RS-003-senta",
+        "serbia-zrenjanin-city-hall-landmarks-v2",
+        "serbia-belgrade-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "serbia-palic-cities-v2",
+        "RS-003-senta",
+        "serbia-zrenjanin-city-hall-landmarks-v2",
+        "serbia-belgrade-cities-v2"
+      ]
+    },
+    {
+      "id": "rs-sequence-west-east-heritage",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die historischen Orte von West nach Ost an.",
+        "hu": "Kattints a történelmi helyekre nyugatról keletre.",
+        "ro": "Apasă locurile istorice de la vest la est.",
+        "en": "Click the historic places from west to east."
+      },
+      "poiIds": [
+        "RS-014-tronosa",
+        "serbia-studenica-monastery-cities-v2",
+        "RS-010-manasija",
+        "serbia-gamzigrad-felix-romuliana-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "RS-014-tronosa",
+        "serbia-studenica-monastery-cities-v2",
+        "RS-010-manasija",
+        "serbia-gamzigrad-felix-romuliana-cities-v2"
+      ]
+    },
+    {
+      "id": "rs-sequence-west-east-travel",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke die Reiseziele von West nach Ost an.",
+        "hu": "Kattints az úti célokra nyugatról keletre.",
+        "ro": "Apasă destinațiile de la vest la est.",
+        "en": "Click the destinations from west to east."
+      },
+      "poiIds": [
+        "serbia-perucac-cities-v2",
+        "RS-024-ovcar-kablar",
+        "serbia-vrnjacka-banja-cities-v2",
+        "serbia-mediana-history-v2"
+      ],
+      "orderedPoiIds": [
+        "serbia-perucac-cities-v2",
+        "RS-024-ovcar-kablar",
+        "serbia-vrnjacka-banja-cities-v2",
+        "serbia-mediana-history-v2"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "au": [
+    {
+      "id": "au-find-melbourne",
+      "type": "find_poi",
+      "targetPoiId": "australia-melbourne-cities-v2",
+      "question": {
+        "de": "Finde Melbourne im Südosten Australiens am Port Phillip.",
+        "hu": "Keresd meg Melbourne-t Ausztrália délkeleti részén, a Port Phillip-öbölnél.",
+        "ro": "Găsește Melbourne în sud-estul Australiei, la golful Port Phillip.",
+        "en": "Find Melbourne in southeastern Australia on Port Phillip Bay."
+      }
+    },
+    {
+      "id": "au-find-adelaide",
+      "type": "find_poi",
+      "targetPoiId": "australia-adelaide-cities-v2",
+      "question": {
+        "de": "Finde Adelaide an der Südküste Australiens.",
+        "hu": "Keresd meg Adelaide városát Ausztrália déli partján.",
+        "ro": "Găsește Adelaide pe coasta sudică a Australiei.",
+        "en": "Find Adelaide on Australia's southern coast."
+      }
+    },
+    {
+      "id": "au-find-hobart",
+      "type": "find_poi",
+      "targetPoiId": "australia-hobart-cities-v2",
+      "question": {
+        "de": "Finde Hobart im Süden Tasmaniens.",
+        "hu": "Keresd meg Hobartot Tasmánia déli részén.",
+        "ro": "Găsește Hobart în sudul Tasmaniei.",
+        "en": "Find Hobart in southern Tasmania."
+      }
+    },
+    {
+      "id": "au-find-alice-springs",
+      "type": "find_poi",
+      "targetPoiId": "australia-alice-springs-cities-v2",
+      "question": {
+        "de": "Finde Alice Springs im roten Zentrum Australiens.",
+        "hu": "Keresd meg Alice Springst Ausztrália vörös belsejében.",
+        "ro": "Găsește Alice Springs în centrul arid al Australiei.",
+        "en": "Find Alice Springs in Australia's red interior."
+      }
+    },
+    {
+      "id": "au-find-cairns",
+      "type": "find_poi",
+      "targetPoiId": "australia-cairns-cities-v2",
+      "question": {
+        "de": "Finde Cairns im tropischen Nordosten Australiens.",
+        "hu": "Keresd meg Cairnst Ausztrália trópusi északkeleti részén.",
+        "ro": "Găsește Cairns în nord-estul tropical al Australiei.",
+        "en": "Find Cairns in tropical northeastern Australia."
+      }
+    },
+    {
+      "id": "au-region-northern-territory",
+      "type": "find_region",
+      "targetRegionId": "AUS-2650",
+      "question": {
+        "de": "Klicke auf das Northern Territory im Norden und Zentrum des Landes.",
+        "hu": "Kattints az Északi Területre az ország északi és középső részén.",
+        "ro": "Apasă pe Teritoriul de Nord din nordul și centrul țării.",
+        "en": "Click the Northern Territory in the north and center of the country."
+      }
+    },
+    {
+      "id": "au-region-south-australia",
+      "type": "find_region",
+      "targetRegionId": "AUS-2655",
+      "question": {
+        "de": "Klicke auf South Australia an der zentralen Südküste.",
+        "hu": "Kattints Dél-Ausztráliára a középső déli partvidéken.",
+        "ro": "Apasă pe South Australia de pe coasta sudică centrală.",
+        "en": "Click South Australia on the central southern coast."
+      }
+    },
+    {
+      "id": "au-region-new-south-wales",
+      "type": "find_region",
+      "targetRegionId": "AUS-2654",
+      "question": {
+        "de": "Finde New South Wales an der Südostküste.",
+        "hu": "Keresd meg Új-Dél-Walest a délkeleti parton.",
+        "ro": "Găsește New South Wales pe coasta de sud-est.",
+        "en": "Find New South Wales on the southeastern coast."
+      }
+    },
+    {
+      "id": "au-region-victoria",
+      "type": "find_region",
+      "targetRegionId": "AUS-2656",
+      "question": {
+        "de": "Klicke auf Victoria südlich von New South Wales.",
+        "hu": "Kattints Victoriára Új-Dél-Walestől délre.",
+        "ro": "Apasă pe Victoria, la sud de New South Wales.",
+        "en": "Click Victoria south of New South Wales."
+      }
+    },
+    {
+      "id": "au-region-act",
+      "type": "find_region",
+      "targetRegionId": "AUS-2653",
+      "question": {
+        "de": "Finde das Australian Capital Territory rund um Canberra.",
+        "hu": "Keresd meg az Ausztrál Fővárosi Területet Canberra körül.",
+        "ro": "Găsește Teritoriul Capitalei Australiene din jurul Canberrei.",
+        "en": "Find the Australian Capital Territory around Canberra."
+      }
+    },
+    {
+      "id": "au-odd-inland-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "australia-perth-cities-v2",
+        "australia-cairns-cities-v2",
+        "australia-alice-springs-cities-v2",
+        "australia-hobart-cities-v2"
+      ],
+      "targetPoiId": "australia-alice-springs-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt im Landesinneren statt an der Küste?",
+        "hu": "Melyik város fekszik ezek közül a szárazföld belsejében, nem a parton?",
+        "ro": "Care dintre aceste orașe se află în interiorul continentului, nu pe coastă?",
+        "en": "Which of these cities lies inland rather than on the coast?"
+      }
+    },
+    {
+      "id": "au-odd-tasmania-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "australia-hobart-cities-v2",
+        "australia-melbourne-cities-v2",
+        "australia-adelaide-cities-v2",
+        "australia-canberra-cities-v2"
+      ],
+      "targetPoiId": "australia-hobart-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt auf Tasmanien statt auf dem Festland?",
+        "hu": "Melyik város fekszik Tasmánián, nem pedig a szárazföldön?",
+        "ro": "Care dintre aceste orașe se află în Tasmania, nu pe continent?",
+        "en": "Which of these cities is on Tasmania rather than the mainland?"
+      }
+    },
+    {
+      "id": "au-odd-farthest-north-extension",
+      "type": "odd_one_out",
+      "poiIds": [
+        "australia-darwin-cities-v2",
+        "australia-cairns-cities-v2",
+        "australia-broome-cities-v2",
+        "australia-townsville-cities-v2"
+      ],
+      "targetPoiId": "australia-darwin-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten im Norden?",
+        "hu": "Melyik város fekszik a legészakabbra?",
+        "ro": "Care dintre aceste orașe se află cel mai la nord?",
+        "en": "Which of these cities lies farthest north?"
+      }
+    },
+    {
+      "id": "au-odd-queensland-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "australia-brisbane-cities-v2",
+        "australia-sydney-cities-v2",
+        "australia-newcastle-cities-v2",
+        "australia-wollongong-cities-v2"
+      ],
+      "targetPoiId": "australia-brisbane-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt in Queensland statt in New South Wales?",
+        "hu": "Melyik város található Queenslandben, nem pedig Új-Dél-Walesben?",
+        "ro": "Care dintre aceste orașe se află în Queensland, nu în New South Wales?",
+        "en": "Which of these cities is in Queensland rather than New South Wales?"
+      }
+    },
+    {
+      "id": "au-odd-farthest-west-extension",
+      "type": "odd_one_out",
+      "poiIds": [
+        "australia-perth-cities-v2",
+        "australia-adelaide-cities-v2",
+        "australia-alice-springs-cities-v2",
+        "australia-melbourne-cities-v2"
+      ],
+      "targetPoiId": "australia-perth-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten im Westen?",
+        "hu": "Melyik város fekszik a legnyugatabbra?",
+        "ro": "Care dintre aceste orașe se află cel mai la vest?",
+        "en": "Which of these cities lies farthest west?"
+      }
+    },
+    {
+      "id": "au-sequence-west-east-south-coast",
+      "type": "sequence",
+      "poiIds": [
+        "australia-perth-cities-v2",
+        "australia-adelaide-cities-v2",
+        "australia-melbourne-cities-v2",
+        "australia-sydney-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "australia-perth-cities-v2",
+        "australia-adelaide-cities-v2",
+        "australia-melbourne-cities-v2",
+        "australia-sydney-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Perth, Adelaide, Melbourne und Sydney von Westen nach Osten an.",
+        "hu": "Kattints Perthre, Adelaide-re, Melbourne-re és Sydney-re nyugatról keletre.",
+        "ro": "Apasă pe Perth, Adelaide, Melbourne și Sydney de la vest la est.",
+        "en": "Click Perth, Adelaide, Melbourne and Sydney from west to east."
+      }
+    },
+    {
+      "id": "au-sequence-north-south-east-coast",
+      "type": "sequence",
+      "poiIds": [
+        "australia-cairns-cities-v2",
+        "australia-mackay-cities-v2",
+        "australia-brisbane-cities-v2",
+        "australia-sydney-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "australia-cairns-cities-v2",
+        "australia-mackay-cities-v2",
+        "australia-brisbane-cities-v2",
+        "australia-sydney-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Cairns, Mackay, Brisbane und Sydney von Norden nach Süden an.",
+        "hu": "Kattints Cairnsre, Mackayre, Brisbane-re és Sydney-re északról délre.",
+        "ro": "Apasă pe Cairns, Mackay, Brisbane și Sydney de la nord la sud.",
+        "en": "Click Cairns, Mackay, Brisbane and Sydney from north to south."
+      }
+    },
+    {
+      "id": "au-sequence-west-east-across-mainland",
+      "type": "sequence",
+      "poiIds": [
+        "australia-broome-cities-v2",
+        "australia-alice-springs-cities-v2",
+        "australia-adelaide-cities-v2",
+        "australia-melbourne-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "australia-broome-cities-v2",
+        "australia-alice-springs-cities-v2",
+        "australia-adelaide-cities-v2",
+        "australia-melbourne-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Broome, Alice Springs, Adelaide und Melbourne von Westen nach Osten an.",
+        "hu": "Kattints Broome-ra, Alice Springsre, Adelaide-re és Melbourne-re nyugatról keletre.",
+        "ro": "Apasă pe Broome, Alice Springs, Adelaide și Melbourne de la vest la est.",
+        "en": "Click Broome, Alice Springs, Adelaide and Melbourne from west to east."
+      }
+    },
+    {
+      "id": "au-sequence-north-south-capitals-extension",
+      "type": "sequence",
+      "poiIds": [
+        "australia-darwin-cities-v2",
+        "australia-brisbane-cities-v2",
+        "australia-melbourne-cities-v2",
+        "australia-hobart-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "australia-darwin-cities-v2",
+        "australia-brisbane-cities-v2",
+        "australia-melbourne-cities-v2",
+        "australia-hobart-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Darwin, Brisbane, Melbourne und Hobart von Norden nach Süden an.",
+        "hu": "Kattints Darwinra, Brisbane-re, Melbourne-re és Hobartra északról délre.",
+        "ro": "Apasă pe Darwin, Brisbane, Melbourne și Hobart de la nord la sud.",
+        "en": "Click Darwin, Brisbane, Melbourne and Hobart from north to south."
+      }
+    },
+    {
+      "id": "au-sequence-north-south-tasmania",
+      "type": "sequence",
+      "poiIds": [
+        "australia-devonport-cities-v2",
+        "australia-launceston-cities-v2",
+        "australia-hobart-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "australia-devonport-cities-v2",
+        "australia-launceston-cities-v2",
+        "australia-hobart-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Devonport, Launceston und Hobart von Norden nach Süden an.",
+        "hu": "Kattints Devonportra, Launcestonra és Hobartra északról délre.",
+        "ro": "Apasă pe Devonport, Launceston și Hobart de la nord la sud.",
+        "en": "Click Devonport, Launceston and Hobart from north to south."
+      }
+    }
+  ]
+}

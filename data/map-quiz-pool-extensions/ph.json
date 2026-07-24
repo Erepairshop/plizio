@@ -1,0 +1,304 @@
+{
+  "ph": [
+    {
+      "id": "ph-find-quezon-city",
+      "type": "find_poi",
+      "targetPoiId": "ph-quezon-city-cities-v2",
+      "question": {
+        "de": "Finde Quezon City nördlich von Manila.",
+        "hu": "Keresd meg Quezon Cityt Manilától északra.",
+        "ro": "Găsește Quezon City, la nord de Manila.",
+        "en": "Find Quezon City north of Manila."
+      }
+    },
+    {
+      "id": "ph-find-baguio",
+      "type": "find_poi",
+      "targetPoiId": "ph-baguio-cities-v2",
+      "question": {
+        "de": "Finde Baguio im Gebirge von Nordluzon.",
+        "hu": "Keresd meg Baguiót Észak-Luzon hegyvidékén.",
+        "ro": "Găsește Baguio în zona montană din nordul Luzonului.",
+        "en": "Find Baguio in the mountains of northern Luzon."
+      }
+    },
+    {
+      "id": "ph-find-iloilo-city",
+      "type": "find_poi",
+      "targetPoiId": "ph-iloilo-city-cities-v2",
+      "question": {
+        "de": "Klicke auf Iloilo City auf der Insel Panay.",
+        "hu": "Kattints Iloilo Cityre Panay szigetén.",
+        "ro": "Apasă pe Iloilo City de pe insula Panay.",
+        "en": "Click Iloilo City on Panay Island."
+      }
+    },
+    {
+      "id": "ph-find-general-santos",
+      "type": "find_poi",
+      "targetPoiId": "ph-general-santos-cities-v2",
+      "question": {
+        "de": "Finde General Santos im Süden Mindanaos.",
+        "hu": "Keresd meg General Santost Mindanao déli részén.",
+        "ro": "Găsește General Santos în sudul insulei Mindanao.",
+        "en": "Find General Santos in southern Mindanao."
+      }
+    },
+    {
+      "id": "ph-find-irri",
+      "type": "find_poi",
+      "targetPoiId": "ph-irri-rice-research-life-v2",
+      "question": {
+        "de": "Finde das Internationale Reisforschungsinstitut (IRRI) in Los Baños.",
+        "hu": "Keresd meg a Nemzetközi Rizskutató Intézetet (IRRI) Los Bañosban.",
+        "ro": "Găsește Institutul Internațional de Cercetare a Orezului (IRRI) din Los Baños.",
+        "en": "Find the International Rice Research Institute (IRRI) in Los Baños."
+      }
+    },
+    {
+      "id": "ph-region-batanes",
+      "type": "find_region",
+      "targetRegionId": "PHL-2543",
+      "question": {
+        "de": "Klicke auf die Provinz Batanes.",
+        "hu": "Kattints Batanes tartományára.",
+        "ro": "Apasă pe provincia Batanes.",
+        "en": "Click Batanes Province."
+      }
+    },
+    {
+      "id": "ph-region-cebu-province",
+      "type": "find_region",
+      "targetRegionId": "PHL-2514",
+      "question": {
+        "de": "Klicke auf die Provinz Cebu.",
+        "hu": "Kattints Cebu tartományára.",
+        "ro": "Apasă pe provincia Cebu.",
+        "en": "Click Cebu Province."
+      }
+    },
+    {
+      "id": "ph-region-bohol",
+      "type": "find_region",
+      "targetRegionId": "PHL-2513",
+      "question": {
+        "de": "Klicke auf die Inselprovinz Bohol.",
+        "hu": "Kattints Bohol szigettartományára.",
+        "ro": "Apasă pe provincia insulară Bohol.",
+        "en": "Click the island province of Bohol."
+      }
+    },
+    {
+      "id": "ph-region-bukidnon",
+      "type": "find_region",
+      "targetRegionId": "PHL-2589",
+      "question": {
+        "de": "Klicke auf die Provinz Bukidnon in Mindanao.",
+        "hu": "Kattints Bukidnon tartományára Mindanaón.",
+        "ro": "Apasă pe provincia Bukidnon din Mindanao.",
+        "en": "Click Bukidnon Province in Mindanao."
+      }
+    },
+    {
+      "id": "ph-region-south-cotabato",
+      "type": "find_region",
+      "targetRegionId": "PHL-2599",
+      "question": {
+        "de": "Klicke auf die Provinz South Cotabato.",
+        "hu": "Kattints South Cotabato tartományára.",
+        "ro": "Apasă pe provincia South Cotabato.",
+        "en": "Click South Cotabato Province."
+      }
+    },
+    {
+      "id": "ph-odd-farthest-south",
+      "type": "odd_one_out",
+      "poiIds": [
+        "ph-manila-cities-v2",
+        "ph-cebu-city-cities-v2",
+        "ph-general-santos-cities-v2"
+      ],
+      "targetPoiId": "ph-general-santos-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten im Süden?",
+        "hu": "Melyik város fekszik a legdélebbre?",
+        "ro": "Care dintre aceste orașe se află cel mai la sud?",
+        "en": "Which of these cities lies farthest south?"
+      }
+    },
+    {
+      "id": "ph-odd-cebu-island",
+      "type": "odd_one_out",
+      "poiIds": [
+        "ph-iloilo-city-cities-v2",
+        "ph-cebu-city-cities-v2",
+        "ph-cagayan-de-oro-cities-v2"
+      ],
+      "targetPoiId": "ph-cebu-city-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt auf der Insel Cebu?",
+        "hu": "Melyik város található Cebu szigetén?",
+        "ro": "Care dintre aceste orașe se află pe insula Cebu?",
+        "en": "Which of these cities is on Cebu Island?"
+      }
+    },
+    {
+      "id": "ph-odd-metro-manila",
+      "type": "odd_one_out",
+      "poiIds": [
+        "ph-baguio-cities-v2",
+        "ph-makati-cities-v2",
+        "ph-bacolod-cities-v2"
+      ],
+      "targetPoiId": "ph-makati-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt in Metro Manila?",
+        "hu": "Melyik város található Metro Manilában?",
+        "ro": "Care dintre aceste orașe se află în Metro Manila?",
+        "en": "Which of these cities is in Metro Manila?"
+      }
+    },
+    {
+      "id": "ph-odd-farthest-east",
+      "type": "odd_one_out",
+      "poiIds": [
+        "ph-zamboanga-city-cities-v2",
+        "ph-iloilo-city-cities-v2",
+        "ph-davao-city-cities-v2"
+      ],
+      "targetPoiId": "ph-davao-city-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten im Osten?",
+        "hu": "Melyik város fekszik a legkeletebbre?",
+        "ro": "Care dintre aceste orașe se află cel mai la est?",
+        "en": "Which of these cities lies farthest east?"
+      }
+    },
+    {
+      "id": "ph-odd-palawan-poi",
+      "type": "odd_one_out",
+      "poiIds": [
+        "ph-calauit-safari-park-life-v2",
+        "ph-philippine-tarsier-sanctuary-life-v2",
+        "ph-burnham-park-life-v2"
+      ],
+      "targetPoiId": "ph-calauit-safari-park-life-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt in Palawan?",
+        "hu": "Melyik hely található Palawanon?",
+        "ro": "Care dintre aceste locuri se află în Palawan?",
+        "en": "Which of these places is in Palawan?"
+      }
+    },
+    {
+      "id": "ph-sequence-luzon-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "ph-baguio-cities-v2",
+        "ph-angeles-city-cities-v2",
+        "ph-quezon-city-cities-v2",
+        "ph-dasmarinas-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "ph-baguio-cities-v2",
+        "ph-angeles-city-cities-v2",
+        "ph-quezon-city-cities-v2",
+        "ph-dasmarinas-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Baguio, Angeles City, Quezon City und Dasmariñas von Norden nach Süden an.",
+        "hu": "Kattints Baguióra, Angeles Cityre, Quezon Cityre és Dasmariñasra északról délre.",
+        "ro": "Apasă pe Baguio, Angeles City, Quezon City și Dasmariñas de la nord la sud.",
+        "en": "Click Baguio, Angeles City, Quezon City and Dasmariñas from north to south."
+      }
+    },
+    {
+      "id": "ph-sequence-metro-manila-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "ph-valenzuela-cities-v2",
+        "ph-quezon-city-cities-v2",
+        "ph-makati-cities-v2",
+        "ph-muntinlupa-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "ph-valenzuela-cities-v2",
+        "ph-quezon-city-cities-v2",
+        "ph-makati-cities-v2",
+        "ph-muntinlupa-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Valenzuela, Quezon City, Makati und Muntinlupa von Norden nach Süden an.",
+        "hu": "Kattints Valenzuelára, Quezon Cityre, Makatira és Muntinlupára északról délre.",
+        "ro": "Apasă pe Valenzuela, Quezon City, Makati și Muntinlupa de la nord la sud.",
+        "en": "Click Valenzuela, Quezon City, Makati and Muntinlupa from north to south."
+      }
+    },
+    {
+      "id": "ph-sequence-visayas-mindanao-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "ph-iloilo-city-cities-v2",
+        "ph-cebu-city-cities-v2",
+        "ph-cagayan-de-oro-cities-v2",
+        "ph-davao-city-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "ph-iloilo-city-cities-v2",
+        "ph-cebu-city-cities-v2",
+        "ph-cagayan-de-oro-cities-v2",
+        "ph-davao-city-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Iloilo City, Cebu City, Cagayan de Oro und Davao City von Westen nach Osten an.",
+        "hu": "Kattints Iloilo Cityre, Cebu Cityre, Cagayan de Oróra és Davao Cityre nyugatról keletre.",
+        "ro": "Apasă pe Iloilo City, Cebu City, Cagayan de Oro și Davao City de la vest la est.",
+        "en": "Click Iloilo City, Cebu City, Cagayan de Oro and Davao City from west to east."
+      }
+    },
+    {
+      "id": "ph-sequence-pois-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "ph-calauit-safari-park-life-v2",
+        "ph-bacolod-cities-v2",
+        "ph-cebu-it-park-economic-v2",
+        "ph-philippine-eagle-center-life-v2"
+      ],
+      "orderedPoiIds": [
+        "ph-calauit-safari-park-life-v2",
+        "ph-bacolod-cities-v2",
+        "ph-cebu-it-park-economic-v2",
+        "ph-philippine-eagle-center-life-v2"
+      ],
+      "question": {
+        "de": "Klicke den Calauit Safari Park, Bacolod, den Cebu IT Park und das Philippine Eagle Center von Westen nach Osten an.",
+        "hu": "Kattints a Calauit Safari Parkra, Bacolodra, a Cebu IT Parkra és a Philippine Eagle Centerre nyugatról keletre.",
+        "ro": "Apasă pe Calauit Safari Park, Bacolod, Cebu IT Park și Philippine Eagle Center de la vest la est.",
+        "en": "Click Calauit Safari Park, Bacolod, Cebu IT Park and the Philippine Eagle Center from west to east."
+      }
+    },
+    {
+      "id": "ph-sequence-mindanao-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "ph-cagayan-de-oro-cities-v2",
+        "ph-davao-city-cities-v2",
+        "ph-eden-nature-park-life-v2",
+        "ph-general-santos-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "ph-cagayan-de-oro-cities-v2",
+        "ph-davao-city-cities-v2",
+        "ph-eden-nature-park-life-v2",
+        "ph-general-santos-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Cagayan de Oro, Davao City, den Eden Nature Park und General Santos von Norden nach Süden an.",
+        "hu": "Kattints Cagayan de Oróra, Davao Cityre, az Eden Nature Parkra és General Santosra északról délre.",
+        "ro": "Apasă pe Cagayan de Oro, Davao City, Eden Nature Park și General Santos de la nord la sud.",
+        "en": "Click Cagayan de Oro, Davao City, Eden Nature Park and General Santos from north to south."
+      }
+    }
+  ]
+}

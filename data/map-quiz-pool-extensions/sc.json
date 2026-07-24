@@ -1,0 +1,299 @@
+{
+  "sc": [
+    {
+      "id": "sc-find-baie-sainte-anne-harbor",
+      "type": "find_poi",
+      "targetPoiId": "sc-baie-sainte-anne-cities-v2",
+      "question": {
+        "de": "Finde Baie Sainte Anne, das Fährtor von Praslin.",
+        "hu": "Keresd meg Baie Sainte Anne települést, Praslin kompforgalmi kapuját.",
+        "ro": "Găsește Baie Sainte Anne, poarta de feribot a insulei Praslin.",
+        "en": "Find Baie Sainte Anne, Praslin's ferry gateway."
+      }
+    },
+    {
+      "id": "sc-find-port-glaud-west-coast",
+      "type": "find_poi",
+      "targetPoiId": "sc-port-glaud-cities-v2",
+      "question": {
+        "de": "Finde Port Glaud an der Westküste von Mahé.",
+        "hu": "Keresd meg Port Glaud települést Mahé nyugati partján.",
+        "ro": "Găsește Port Glaud pe coasta vestică a insulei Mahé.",
+        "en": "Find Port Glaud on Mahé's west coast."
+      }
+    },
+    {
+      "id": "sc-find-vallee-de-mai",
+      "type": "find_poi",
+      "targetPoiId": "vallee-de-mai-nature-v2",
+      "question": {
+        "de": "Finde das Naturgebiet Vallée de Mai auf Praslin.",
+        "hu": "Keresd meg a Vallée de Mai természetvédelmi területet Praslin szigetén.",
+        "ro": "Găsește zona naturală Vallée de Mai de pe insula Praslin.",
+        "en": "Find Vallée de Mai on Praslin."
+      }
+    },
+    {
+      "id": "sc-find-anse-source-d-argent",
+      "type": "find_poi",
+      "targetPoiId": "anse-source-d-argent-nature-v2",
+      "question": {
+        "de": "Finde Anse Source d'Argent auf La Digue.",
+        "hu": "Keresd meg az Anse Source d'Argent partszakaszt La Digue szigetén.",
+        "ro": "Găsește plaja Anse Source d'Argent de pe insula La Digue.",
+        "en": "Find Anse Source d'Argent on La Digue."
+      }
+    },
+    {
+      "id": "sc-find-morne-seychellois",
+      "type": "find_poi",
+      "targetPoiId": "morne-seychellois-nature-v2",
+      "question": {
+        "de": "Finde Morne Seychellois im gebirgigen Inneren von Mahé.",
+        "hu": "Keresd meg a Morne Seychellois hegyet Mahé hegyvidéki belsejében.",
+        "ro": "Găsește Morne Seychellois în interiorul muntos al insulei Mahé.",
+        "en": "Find Morne Seychellois in Mahé's mountainous interior."
+      }
+    },
+    {
+      "id": "sc-region-outer-islands",
+      "type": "find_region",
+      "targetRegionId": "SYC-5197",
+      "question": {
+        "de": "Klicke auf die Region Outer Islands.",
+        "hu": "Kattints az Outer Islands régióra.",
+        "ro": "Apasă pe regiunea Outer Islands.",
+        "en": "Click the Outer Islands region."
+      }
+    },
+    {
+      "id": "sc-region-baie-sainte-anne",
+      "type": "find_region",
+      "targetRegionId": "SYC-5204",
+      "question": {
+        "de": "Klicke auf den Distrikt Baie Sainte Anne auf Praslin.",
+        "hu": "Kattints a Praslin szigetén fekvő Baie Sainte Anne körzetre.",
+        "ro": "Apasă pe districtul Baie Sainte Anne de pe insula Praslin.",
+        "en": "Click Baie Sainte Anne district on Praslin."
+      }
+    },
+    {
+      "id": "sc-region-anse-etoile",
+      "type": "find_region",
+      "targetRegionId": "SYC-5200",
+      "question": {
+        "de": "Klicke auf Anse Etoile nördlich von Victoria.",
+        "hu": "Kattints az Anse Etoile körzetre Victoriától északra.",
+        "ro": "Apasă pe Anse Etoile, la nord de Victoria.",
+        "en": "Click Anse Etoile north of Victoria."
+      }
+    },
+    {
+      "id": "sc-region-roche-caiman",
+      "type": "find_region",
+      "targetRegionId": "SYC-5222",
+      "question": {
+        "de": "Klicke auf Roche Caïman östlich des Zentrums von Mahé.",
+        "hu": "Kattints a Mahé központi részétől keletre fekvő Roche Caïman körzetre.",
+        "ro": "Apasă pe Roche Caïman, la est de zona centrală a insulei Mahé.",
+        "en": "Click Roche Caïman east of central Mahé."
+      }
+    },
+    {
+      "id": "sc-region-beau-vallon",
+      "type": "find_region",
+      "targetRegionId": "SYC-5205",
+      "question": {
+        "de": "Klicke auf den Küstendistrikt Beau Vallon im Nordwesten von Mahé.",
+        "hu": "Kattints Mahé északnyugati partján fekvő Beau Vallon körzetre.",
+        "ro": "Apasă pe districtul de coastă Beau Vallon din nord-vestul insulei Mahé.",
+        "en": "Click the coastal district of Beau Vallon in northwest Mahé."
+      }
+    },
+    {
+      "id": "sc-odd-not-praslin-nature",
+      "type": "odd_one_out",
+      "poiIds": [
+        "vallee-de-mai-nature-v2",
+        "sc-baie-sainte-anne-cities-v2",
+        "anse-lazio-nature-v2",
+        "sc-beau-vallon-cities-v2"
+      ],
+      "targetPoiId": "sc-beau-vallon-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht auf Praslin?",
+        "hu": "Melyik hely nem Praslin szigetén található?",
+        "ro": "Care loc nu se află pe insula Praslin?",
+        "en": "Which place is not on Praslin?"
+      }
+    },
+    {
+      "id": "sc-odd-not-la-digue",
+      "type": "odd_one_out",
+      "poiIds": [
+        "sc-la-passe-cities-v2",
+        "anse-source-d-argent-nature-v2",
+        "veuve-nature-reserve-life-v2",
+        "sc-cote-dor-cities-v2"
+      ],
+      "targetPoiId": "sc-cote-dor-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht auf La Digue?",
+        "hu": "Melyik hely nem La Digue szigetén található?",
+        "ro": "Care loc nu se află pe insula La Digue?",
+        "en": "Which place is not on La Digue?"
+      }
+    },
+    {
+      "id": "sc-odd-not-south-mahe",
+      "type": "odd_one_out",
+      "poiIds": [
+        "sc-baie-lazare-cities-v2",
+        "sc-takamaka-cities-v2",
+        "anse-intendance-nature-v2",
+        "sc-glacis-cities-v2"
+      ],
+      "targetPoiId": "sc-glacis-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht im Süden von Mahé?",
+        "hu": "Melyik hely nem Mahé déli részén található?",
+        "ro": "Care loc nu se află în sudul insulei Mahé?",
+        "en": "Which place is not in southern Mahé?"
+      }
+    },
+    {
+      "id": "sc-odd-not-victoria-area",
+      "type": "odd_one_out",
+      "poiIds": [
+        "sc-victoria-cities-v2",
+        "sc-mont-fleuri-cities-v2",
+        "sc-english-river-cities-v2",
+        "sc-grand-anse-praslin-cities-v2"
+      ],
+      "targetPoiId": "sc-grand-anse-praslin-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht im Raum Victoria?",
+        "hu": "Melyik hely nem Victoria térségében található?",
+        "ro": "Care loc nu se află în zona orașului Victoria?",
+        "en": "Which place is not in the Victoria area?"
+      }
+    },
+    {
+      "id": "sc-odd-not-east-coast-mahe",
+      "type": "odd_one_out",
+      "poiIds": [
+        "sc-cascade-cities-v2",
+        "sc-anse-aux-pins-cities-v2",
+        "sc-au-cap-cities-v2",
+        "sc-port-glaud-cities-v2"
+      ],
+      "targetPoiId": "sc-port-glaud-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht an der Ostküste von Mahé?",
+        "hu": "Melyik hely nem Mahé keleti partján található?",
+        "ro": "Care loc nu se află pe coasta estică a insulei Mahé?",
+        "en": "Which place is not on Mahé's east coast?"
+      }
+    },
+    {
+      "id": "sc-sequence-west-east-portlaunay-victoria-praslin",
+      "type": "sequence",
+      "poiIds": [
+        "sc-port-launay-cities-v2",
+        "sc-victoria-cities-v2",
+        "sc-baie-sainte-anne-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "sc-port-launay-cities-v2",
+        "sc-victoria-cities-v2",
+        "sc-baie-sainte-anne-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Port Launay, Victoria und Baie Sainte Anne von Westen nach Osten an.",
+        "hu": "Kattints Port Launayra, Victoriára és Baie Sainte Anne-re nyugatról kelet felé.",
+        "ro": "Apasă Port Launay, Victoria și Baie Sainte Anne de la vest la est.",
+        "en": "Click Port Launay, Victoria, and Baie Sainte Anne from west to east."
+      }
+    },
+    {
+      "id": "sc-sequence-north-south-glacis-victoria-anse-royale",
+      "type": "sequence",
+      "poiIds": [
+        "sc-glacis-cities-v2",
+        "sc-victoria-cities-v2",
+        "sc-anse-royale-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "sc-glacis-cities-v2",
+        "sc-victoria-cities-v2",
+        "sc-anse-royale-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Glacis, Victoria und Anse Royale von Norden nach Süden an.",
+        "hu": "Kattints Glacisra, Victoriára és Anse Royale-ra északról dél felé.",
+        "ro": "Apasă Glacis, Victoria și Anse Royale de la nord la sud.",
+        "en": "Click Glacis, Victoria, and Anse Royale from north to south."
+      }
+    },
+    {
+      "id": "sc-sequence-west-east-praslin-north-coast",
+      "type": "sequence",
+      "poiIds": [
+        "anse-georgette-nature-v2",
+        "sc-grand-anse-praslin-cities-v2",
+        "zimbabwe-viewpoint-relief-v2"
+      ],
+      "orderedPoiIds": [
+        "anse-georgette-nature-v2",
+        "sc-grand-anse-praslin-cities-v2",
+        "zimbabwe-viewpoint-relief-v2"
+      ],
+      "question": {
+        "de": "Klicke Anse Georgette, Grand Anse (Praslin) und Zimbabwe Viewpoint von Westen nach Osten an.",
+        "hu": "Kattints Anse Georgette-re, Grand Anse (Praslin) településre és a Zimbabwe Viewpointra nyugatról kelet felé.",
+        "ro": "Apasă Anse Georgette, Grand Anse (Praslin) și Zimbabwe Viewpoint de la vest la est.",
+        "en": "Click Anse Georgette, Grand Anse (Praslin), and Zimbabwe Viewpoint from west to east."
+      }
+    },
+    {
+      "id": "sc-sequence-north-south-praslin-ladigue-southmahe",
+      "type": "sequence",
+      "poiIds": [
+        "sc-grand-anse-praslin-cities-v2",
+        "sc-la-passe-cities-v2",
+        "anse-intendance-nature-v2"
+      ],
+      "orderedPoiIds": [
+        "sc-grand-anse-praslin-cities-v2",
+        "sc-la-passe-cities-v2",
+        "anse-intendance-nature-v2"
+      ],
+      "question": {
+        "de": "Klicke Grand Anse (Praslin), La Passe und Anse Intendance von Norden nach Süden an.",
+        "hu": "Kattints Grand Anse (Praslin) településre, La Passe-ra és Anse Intendance-re északról dél felé.",
+        "ro": "Apasă Grand Anse (Praslin), La Passe și Anse Intendance de la nord la sud.",
+        "en": "Click Grand Anse (Praslin), La Passe, and Anse Intendance from north to south."
+      }
+    },
+    {
+      "id": "sc-sequence-west-east-northwest-to-east-mahe",
+      "type": "sequence",
+      "poiIds": [
+        "sc-bel-ombre-cities-v2",
+        "sc-victoria-cities-v2",
+        "sc-cascade-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "sc-bel-ombre-cities-v2",
+        "sc-victoria-cities-v2",
+        "sc-cascade-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Bel Ombre, Victoria und Cascade von Westen nach Osten an.",
+        "hu": "Kattints Bel Ombre-ra, Victoriára és Cascade-ra nyugatról kelet felé.",
+        "ro": "Apasă Bel Ombre, Victoria și Cascade de la vest la est.",
+        "en": "Click Bel Ombre, Victoria, and Cascade from west to east."
+      }
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "sy": [
+    {
+      "id": "sy-find-raqqah",
+      "type": "find_poi",
+      "targetPoiId": "ar-raqqah-cities-v2",
+      "question": {
+        "de": "Finde Raqqa am Euphrat im Norden Zentralsyriens.",
+        "hu": "Keresd meg Rakk\u00e1t az Eufr\u00e1tesz partj\u00e1n, K\u00f6z\u00e9p-Sz\u00edria \u00e9szaki r\u00e9sz\u00e9n.",
+        "ro": "G\u0103se\u0219te Raqqa pe Eufrat, \u00een partea nordic\u0103 a Siriei centrale.",
+        "en": "Find Ar-Raqqah on the Euphrates in north-central Syria."
+      }
+    },
+    {
+      "id": "sy-find-hasakah",
+      "type": "find_poi",
+      "targetPoiId": "al-hasakah-cities-v2",
+      "question": {
+        "de": "Klicke auf Al-Hasaka im \u00e4u\u00dfersten Nordosten Syriens.",
+        "hu": "Kattints Al-Haszak\u00e1ra Sz\u00edria leg\u00e9szakkeletibb r\u00e9sz\u00e9n.",
+        "ro": "Apas\u0103 pe Al-Hasakah, \u00een extremitatea de nord-est a Siriei.",
+        "en": "Click Al-Hasakah in Syria's far northeast."
+      }
+    },
+    {
+      "id": "sy-find-tartus",
+      "type": "find_poi",
+      "targetPoiId": "tartus-cities-v2",
+      "question": {
+        "de": "Finde Tartus an der Mittelmeerk\u00fcste s\u00fcdlich von Latakia.",
+        "hu": "Keresd meg Tart\u00faszt a F\u00f6ldk\u00f6zi-tenger partj\u00e1n, Lataki\u00e1t\u00f3l d\u00e9lre.",
+        "ro": "G\u0103se\u0219te Tartus pe coasta Mediteranei, la sud de Latakia.",
+        "en": "Find Tartus on the Mediterranean coast south of Lattakia."
+      }
+    },
+    {
+      "id": "sy-find-palmyra",
+      "type": "find_poi",
+      "targetPoiId": "palmyra-cities-v2",
+      "question": {
+        "de": "Klicke auf Palmyra in der syrischen W\u00fcste.",
+        "hu": "Kattints Palm\u00fdr\u00e1ra a sz\u00edriai sivatagban.",
+        "ro": "Apas\u0103 pe Palmyra \u00een de\u0219ertul sirian.",
+        "en": "Click Palmyra in the Syrian Desert."
+      }
+    },
+    {
+      "id": "sy-find-daraa",
+      "type": "find_poi",
+      "targetPoiId": "daraa-cities-v2",
+      "question": {
+        "de": "Finde Daraa nahe der jordanischen Grenze im S\u00fcden Syriens.",
+        "hu": "Keresd meg Dar\u00e1t a jord\u00e1niai hat\u00e1r k\u00f6zel\u00e9ben, Sz\u00edria d\u00e9li r\u00e9sz\u00e9n.",
+        "ro": "G\u0103se\u0219te Daraa aproape de grani\u021ba cu Iordania, \u00een sudul Siriei.",
+        "en": "Find Daraa near the Jordanian border in southern Syria."
+      }
+    },
+    {
+      "id": "sy-find-qamishli",
+      "type": "find_poi",
+      "targetPoiId": "qamishli-cities-v2",
+      "question": {
+        "de": "Klicke auf Qamischli an der n\u00f6rdlichen Grenze Syriens.",
+        "hu": "Kattints K\u00e1mislira Sz\u00edria \u00e9szaki hat\u00e1r\u00e1n.",
+        "ro": "Apas\u0103 pe Qamishli, la grani\u021ba nordic\u0103 a Siriei.",
+        "en": "Click Qamishli on Syria's northern border."
+      }
+    },
+    {
+      "id": "sy-find-idlib",
+      "type": "find_poi",
+      "targetPoiId": "idlib-cities-v2",
+      "question": {
+        "de": "Finde Idlib im Nordwesten Syriens im Landesinneren.",
+        "hu": "Keresd meg Idlibet Sz\u00edria \u00e9szaknyugati, bels\u0151 r\u00e9sz\u00e9n.",
+        "ro": "G\u0103se\u0219te Idlib \u00een nord-vestul interior al Siriei.",
+        "en": "Find Idlib in inland northwestern Syria."
+      }
+    },
+    {
+      "id": "sy-region-lattakia",
+      "type": "find_region",
+      "targetRegionId": "SYR-134",
+      "question": {
+        "de": "Klicke auf das Gouvernement Latakia.",
+        "hu": "Kattints Latakia korm\u00e1nyz\u00f3s\u00e1g\u00e1ra.",
+        "ro": "Apas\u0103 pe guvernoratul Latakia.",
+        "en": "Click Lattakia Governorate."
+      }
+    },
+    {
+      "id": "sy-region-homs",
+      "type": "find_region",
+      "targetRegionId": "SYR-139",
+      "question": {
+        "de": "Klicke auf das Gouvernement Homs.",
+        "hu": "Kattints Homsz korm\u00e1nyz\u00f3s\u00e1g\u00e1ra.",
+        "ro": "Apas\u0103 pe guvernoratul Homs.",
+        "en": "Click Homs Governorate."
+      }
+    },
+    {
+      "id": "sy-region-rif-dimashq",
+      "type": "find_region",
+      "targetRegionId": "SYR-144",
+      "question": {
+        "de": "Klicke auf das Gouvernement Rif Dimashq rund um Damaskus.",
+        "hu": "Kattints a Damaszkuszt k\u00f6r\u00fclvev\u0151 Rif Dimashq korm\u00e1nyz\u00f3s\u00e1gra.",
+        "ro": "Apas\u0103 pe guvernoratul Rif Dimashq din jurul Damascului.",
+        "en": "Click Rif Dimashq Governorate around Damascus."
+      }
+    },
+    {
+      "id": "sy-region-deir-ez-zor",
+      "type": "find_region",
+      "targetRegionId": "SYR-142",
+      "question": {
+        "de": "Klicke auf das Gouvernement Deir ez-Zor im Osten Syriens.",
+        "hu": "Kattints a Kelet-Sz\u00edri\u00e1ban fekv\u0151 Deir ez-Z\u00f3r korm\u00e1nyz\u00f3s\u00e1gra.",
+        "ro": "Apas\u0103 pe guvernoratul Deir ez-Zor din estul Siriei.",
+        "en": "Click Deir ez-Zor Governorate in eastern Syria."
+      }
+    },
+    {
+      "id": "sy-region-daraa",
+      "type": "find_region",
+      "targetRegionId": "SYR-146",
+      "question": {
+        "de": "Klicke auf das Gouvernement Daraa im S\u00fcden Syriens.",
+        "hu": "Kattints a D\u00e9l-Sz\u00edri\u00e1ban fekv\u0151 Dar\u00e1 korm\u00e1nyz\u00f3s\u00e1gra.",
+        "ro": "Apas\u0103 pe guvernoratul Daraa din sudul Siriei.",
+        "en": "Click Daraa Governorate in southern Syria."
+      }
+    },
+    {
+      "id": "sy-odd-coastal-port",
+      "type": "odd_one_out",
+      "poiIds": [
+        "hama-cities-v2",
+        "palmyra-cities-v2",
+        "tartus-cities-v2"
+      ],
+      "targetPoiId": "tartus-cities-v2",
+      "question": {
+        "de": "Welche dieser Orte liegt an der Mittelmeerk\u00fcste?",
+        "hu": "Melyik hely fekszik a F\u00f6ldk\u00f6zi-tenger partj\u00e1n?",
+        "ro": "Care dintre aceste locuri se afl\u0103 pe coasta Mediteranei?",
+        "en": "Which of these places is on the Mediterranean coast?"
+      }
+    },
+    {
+      "id": "sy-odd-farthest-east",
+      "type": "odd_one_out",
+      "poiIds": [
+        "aleppo-cities-v2",
+        "ar-raqqah-cities-v2",
+        "al-hasakah-cities-v2"
+      ],
+      "targetPoiId": "al-hasakah-cities-v2",
+      "question": {
+        "de": "Welche dieser St\u00e4dte liegt am weitesten im Osten?",
+        "hu": "Melyik v\u00e1ros fekszik a legkeletebbre?",
+        "ro": "Care dintre aceste ora\u0219e se afl\u0103 cel mai la est?",
+        "en": "Which of these cities lies farthest east?"
+      }
+    },
+    {
+      "id": "sy-odd-farthest-south",
+      "type": "odd_one_out",
+      "poiIds": [
+        "damascus-cities-v2",
+        "as-suwayda-cities-v2",
+        "daraa-cities-v2"
+      ],
+      "targetPoiId": "daraa-cities-v2",
+      "question": {
+        "de": "Welche dieser St\u00e4dte liegt am weitesten im S\u00fcden?",
+        "hu": "Melyik v\u00e1ros fekszik a legd\u00e9lebbre?",
+        "ro": "Care dintre aceste ora\u0219e se afl\u0103 cel mai la sud?",
+        "en": "Which of these cities lies farthest south?"
+      }
+    },
+    {
+      "id": "sy-odd-farthest-north",
+      "type": "odd_one_out",
+      "poiIds": [
+        "tartus-cities-v2",
+        "homs-cities-v2",
+        "idlib-cities-v2"
+      ],
+      "targetPoiId": "idlib-cities-v2",
+      "question": {
+        "de": "Welche dieser St\u00e4dte liegt am weitesten im Norden?",
+        "hu": "Melyik v\u00e1ros fekszik a leg\u00e9szakabbra?",
+        "ro": "Care dintre aceste ora\u0219e se afl\u0103 cel mai la nord?",
+        "en": "Which of these cities lies farthest north?"
+      }
+    },
+    {
+      "id": "sy-sequence-coast-to-euphrates",
+      "type": "sequence",
+      "poiIds": [
+        "tartus-cities-v2",
+        "homs-cities-v2",
+        "palmyra-cities-v2",
+        "deir-ez-zor-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "tartus-cities-v2",
+        "homs-cities-v2",
+        "palmyra-cities-v2",
+        "deir-ez-zor-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Tartus, Homs, Palmyra und Deir ez-Zor von Westen nach Osten an.",
+        "hu": "Kattints Tart\u00faszra, Homszra, Palm\u00fdr\u00e1ra \u00e9s Deir ez-Z\u00f3rra nyugatr\u00f3l keletre.",
+        "ro": "Apas\u0103 pe Tartus, Homs, Palmyra \u0219i Deir ez-Zor de la vest la est.",
+        "en": "Click Tartus, Homs, Palmyra and Deir ez-Zor from west to east."
+      }
+    },
+    {
+      "id": "sy-sequence-northeast-to-south",
+      "type": "sequence",
+      "poiIds": [
+        "qamishli-cities-v2",
+        "al-hasakah-cities-v2",
+        "ar-raqqah-cities-v2",
+        "daraa-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "qamishli-cities-v2",
+        "al-hasakah-cities-v2",
+        "ar-raqqah-cities-v2",
+        "daraa-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Qamischli, Al-Hasaka, Raqqa und Daraa von Norden nach S\u00fcden an.",
+        "hu": "Kattints K\u00e1mislira, Al-Haszak\u00e1ra, Rakk\u00e1ra \u00e9s Dar\u00e1ra \u00e9szakr\u00f3l d\u00e9lre.",
+        "ro": "Apas\u0103 pe Qamishli, Al-Hasakah, Raqqa \u0219i Daraa de la nord la sud.",
+        "en": "Click Qamishli, Al-Hasakah, Ar-Raqqah and Daraa from north to south."
+      }
+    },
+    {
+      "id": "sy-sequence-southern-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "quneitra-cities-v2",
+        "daraa-cities-v2",
+        "damascus-cities-v2",
+        "as-suwayda-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "quneitra-cities-v2",
+        "daraa-cities-v2",
+        "damascus-cities-v2",
+        "as-suwayda-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Quneitra, Daraa, Damaskus und as-Suwaida von Westen nach Osten an.",
+        "hu": "Kattints Kuneit\u00e1r\u00e1ra, Dar\u00e1ra, Damaszkuszra \u00e9s asz-Szuvajd\u00e1ra nyugatr\u00f3l keletre.",
+        "ro": "Apas\u0103 pe Quneitra, Daraa, Damasc \u0219i As-Suwayda de la vest la est.",
+        "en": "Click Quneitra, Daraa, Damascus and As-Suwayda from west to east."
+      }
+    },
+    {
+      "id": "sy-sequence-coastal-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "lattakia-cities-v2",
+        "jableh-cities-v2",
+        "baniyas-cities-v2",
+        "tartus-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "lattakia-cities-v2",
+        "jableh-cities-v2",
+        "baniyas-cities-v2",
+        "tartus-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Latakia, Jableh, Baniyas und Tartus von Norden nach S\u00fcden an.",
+        "hu": "Kattints Lataki\u00e1ra, Dzsabl\u00e9ra, Baniy\u00e1szra \u00e9s Tart\u00faszra \u00e9szakr\u00f3l d\u00e9lre.",
+        "ro": "Apas\u0103 pe Latakia, Jableh, Baniyas \u0219i Tartus de la nord la sud.",
+        "en": "Click Lattakia, Jableh, Baniyas and Tartus from north to south."
+      }
+    }
+  ]
+}

@@ -1,0 +1,294 @@
+{
+  "ua": [
+    {
+      "id": "ua-region-chernihiv-oblast",
+      "type": "find_region",
+      "targetRegionId": "UA-001",
+      "question": {
+        "de": "Klicke auf die Region Tschernihiw im Norden der Ukraine.",
+        "hu": "Kattints a Ukrajna északi részén fekvő Csernyihiv régióra.",
+        "ro": "Apasă pe regiunea Chernihiv din nordul Ucrainei.",
+        "en": "Click the Chernihiv region in northern Ukraine."
+      }
+    },
+    {
+      "id": "ua-region-transcarpathia",
+      "type": "find_region",
+      "targetRegionId": "UA-006",
+      "question": {
+        "de": "Finde die Region Transkarpatien im äußersten Westen.",
+        "hu": "Keresd meg Kárpátalja régióját a legnyugatibb országrészben.",
+        "ro": "Găsește regiunea Transcarpatia din extremitatea vestică.",
+        "en": "Find the Transcarpathia region in the far west."
+      }
+    },
+    {
+      "id": "ua-region-odesa-oblast",
+      "type": "find_region",
+      "targetRegionId": "UA-009",
+      "question": {
+        "de": "Klicke auf die Region Odessa an der Schwarzmeerküste.",
+        "hu": "Kattints az Odessza régióra a Fekete-tenger partján.",
+        "ro": "Apasă pe regiunea Odesa de la Marea Neagră.",
+        "en": "Click the Odesa region on the Black Sea."
+      }
+    },
+    {
+      "id": "ua-region-kherson-oblast",
+      "type": "find_region",
+      "targetRegionId": "UA-016",
+      "question": {
+        "de": "Finde die Region Cherson nördlich der Krim.",
+        "hu": "Keresd meg a Herszon régiót a Krímtől északra.",
+        "ro": "Găsește regiunea Herson aflată la nord de Crimeea.",
+        "en": "Find the Kherson region north of Crimea."
+      }
+    },
+    {
+      "id": "ua-find-uzhhorod",
+      "type": "find_poi",
+      "targetPoiId": "ukraine-uzhhorod-cities-v2",
+      "question": {
+        "de": "Finde Uschhorod nahe der slowakischen Grenze.",
+        "hu": "Keresd meg Ungvárt a szlovák határ közelében.",
+        "ro": "Găsește Ujhorod aproape de granița cu Slovacia.",
+        "en": "Find Uzhhorod near the Slovak border."
+      }
+    },
+    {
+      "id": "ua-find-chernivtsi",
+      "type": "find_poi",
+      "targetPoiId": "ukraine-chernivtsi-cities-v2",
+      "question": {
+        "de": "Finde Czernowitz im Südwesten der Ukraine.",
+        "hu": "Keresd meg Csernyivci városát Délnyugat-Ukrajnában.",
+        "ro": "Găsește Cernăuți în sud-vestul Ucrainei.",
+        "en": "Find Chernivtsi in southwestern Ukraine."
+      }
+    },
+    {
+      "id": "ua-find-vinnytsia",
+      "type": "find_poi",
+      "targetPoiId": "ukraine-vinnytsia-cities-v2",
+      "question": {
+        "de": "Finde Winnyzja in der westlichen Mitte des Landes.",
+        "hu": "Keresd meg Vinnicját az ország nyugati-középső részén.",
+        "ro": "Găsește Vinița în partea central-vestică a țării.",
+        "en": "Find Vinnytsia in the west-central part of the country."
+      }
+    },
+    {
+      "id": "ua-find-mykolaiv",
+      "type": "find_poi",
+      "targetPoiId": "ukraine-mykolaiv-cities-v2",
+      "question": {
+        "de": "Finde Mykolajiw am Unterlauf des Südlichen Bugs.",
+        "hu": "Keresd meg Mikolajivot a Déli-Bug alsó szakaszán.",
+        "ro": "Găsește Mykolaiv pe cursul inferior al Bugului de Sud.",
+        "en": "Find Mykolaiv on the lower Southern Bug."
+      }
+    },
+    {
+      "id": "ua-find-kamianets-castle",
+      "type": "find_poi",
+      "targetPoiId": "ukraine-kamianets-podilskyi-castle-history-v2",
+      "question": {
+        "de": "Finde die Festung von Kamjanez-Podilskyj.",
+        "hu": "Keresd meg a kamjanec-podilszkiji várat.",
+        "ro": "Găsește cetatea din Kamianets-Podilskyi.",
+        "en": "Find the fortress of Kamianets-Podilskyi."
+      }
+    },
+    {
+      "id": "ua-find-synevyr",
+      "type": "find_poi",
+      "targetPoiId": "ukraine-synevyr-nature-v2",
+      "question": {
+        "de": "Finde den Synewyrsee in den Karpaten.",
+        "hu": "Keresd meg a Szinevéri-tavat a Kárpátokban.",
+        "ro": "Găsește lacul Synevyr din Carpați.",
+        "en": "Find Lake Synevyr in the Carpathians."
+      }
+    },
+    {
+      "id": "ua-odd-western-border-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "ukraine-uzhhorod-cities-v2",
+        "ukraine-vinnytsia-cities-v2",
+        "ukraine-sumy-cities-v2"
+      ],
+      "targetPoiId": "ukraine-uzhhorod-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten im Westen?",
+        "hu": "Melyik város fekszik a legnyugatabbra?",
+        "ro": "Care dintre aceste orașe se află cel mai la vest?",
+        "en": "Which of these cities lies farthest west?"
+      }
+    },
+    {
+      "id": "ua-odd-danube-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "ukraine-izmail-cities-v2",
+        "ukraine-cherkasy-cities-v2",
+        "ukraine-kremenchuk-cities-v2"
+      ],
+      "targetPoiId": "ukraine-izmail-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt an der Donau?",
+        "hu": "Melyik város fekszik a Dunán?",
+        "ro": "Care dintre aceste orașe se află pe Dunăre?",
+        "en": "Which of these cities stands on the Danube?"
+      }
+    },
+    {
+      "id": "ua-odd-carpathian-peak",
+      "type": "odd_one_out",
+      "poiIds": [
+        "ukraine-hoverla-nature-v2",
+        "ukraine-askania-nova-nature-v2",
+        "ukraine-khortytsia-cities-v2"
+      ],
+      "targetPoiId": "ukraine-hoverla-nature-v2",
+      "question": {
+        "de": "Welcher dieser Orte ist ein Hochgebirgsgipfel der Karpaten?",
+        "hu": "Melyik hely a Kárpátok egyik magas hegycsúcsa?",
+        "ro": "Care dintre aceste locuri este un vârf înalt din Carpați?",
+        "en": "Which of these places is a high Carpathian mountain peak?"
+      }
+    },
+    {
+      "id": "ua-odd-southernmost-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "ukraine-izmail-cities-v2",
+        "ukraine-kherson-cities-v2",
+        "ukraine-mykolaiv-cities-v2"
+      ],
+      "targetPoiId": "ukraine-izmail-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten im Süden?",
+        "hu": "Melyik város fekszik a legdélebbre?",
+        "ro": "Care dintre aceste orașe se află cel mai la sud?",
+        "en": "Which of these cities lies farthest south?"
+      }
+    },
+    {
+      "id": "ua-odd-western-fortress",
+      "type": "odd_one_out",
+      "poiIds": [
+        "ukraine-khotyn-fortress-history-v2",
+        "ukraine-kamianets-podilskyi-castle-history-v2",
+        "ukraine-khortytsia-cities-v2"
+      ],
+      "targetPoiId": "ukraine-khotyn-fortress-history-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Westen?",
+        "hu": "Melyik hely található a legnyugatabbra?",
+        "ro": "Care dintre aceste locuri se află cel mai la vest?",
+        "en": "Which of these places lies farthest west?"
+      }
+    },
+    {
+      "id": "ua-sequence-transcarpathia-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "ukraine-uzhhorod-cities-v2",
+        "ukraine-mukachevo-cities-v2",
+        "ukraine-khust-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "ukraine-uzhhorod-cities-v2",
+        "ukraine-mukachevo-cities-v2",
+        "ukraine-khust-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Uschhorod, Mukatschewo und Chust von Westen nach Osten an.",
+        "hu": "Kattints Ungvár, Munkács és Huszt városára nyugatról keletre.",
+        "ro": "Apasă pe Ujhorod, Mukacevo și Hust de la vest la est.",
+        "en": "Click Uzhhorod, Mukachevo and Khust from west to east."
+      }
+    },
+    {
+      "id": "ua-sequence-volyn-podillia-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "ukraine-kovel-cities-v2",
+        "ukraine-lutsk-cities-v2",
+        "ukraine-ternopil-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "ukraine-kovel-cities-v2",
+        "ukraine-lutsk-cities-v2",
+        "ukraine-ternopil-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Kowel, Luzk und Ternopil von Norden nach Süden an.",
+        "hu": "Kattints Kovel, Luck és Ternopil városára északról délre.",
+        "ro": "Apasă pe Kovel, Luțk și Ternopil de la nord la sud.",
+        "en": "Click Kovel, Lutsk and Ternopil from north to south."
+      }
+    },
+    {
+      "id": "ua-sequence-nw-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "ukraine-lutsk-cities-v2",
+        "ukraine-rivne-cities-v2",
+        "ukraine-zhytomyr-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "ukraine-lutsk-cities-v2",
+        "ukraine-rivne-cities-v2",
+        "ukraine-zhytomyr-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Luzk, Riwne und Schytomyr von Westen nach Osten an.",
+        "hu": "Kattints Luck, Rivne és Zsitomir városára nyugatról keletre.",
+        "ro": "Apasă pe Luțk, Rivne și Jîtomîr de la vest la est.",
+        "en": "Click Lutsk, Rivne and Zhytomyr from west to east."
+      }
+    },
+    {
+      "id": "ua-sequence-northeast-central-south",
+      "type": "sequence",
+      "poiIds": [
+        "ukraine-sumy-cities-v2",
+        "ukraine-poltava-cities-v2",
+        "ukraine-kropyvnytskyi-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "ukraine-sumy-cities-v2",
+        "ukraine-poltava-cities-v2",
+        "ukraine-kropyvnytskyi-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Sumy, Poltawa und Kropywnyzkyj von Norden nach Süden an.",
+        "hu": "Kattints Szumi, Poltava és Kropivnickij városára északról délre.",
+        "ro": "Apasă pe Sumî, Poltava și Kropîvnîțkîi de la nord la sud.",
+        "en": "Click Sumy, Poltava and Kropyvnytskyi from north to south."
+      }
+    },
+    {
+      "id": "ua-sequence-black-sea-south-north",
+      "type": "sequence",
+      "poiIds": [
+        "ukraine-danube-delta-nature-v2",
+        "ukraine-odesa-cities-v2",
+        "ukraine-mykolaiv-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "ukraine-danube-delta-nature-v2",
+        "ukraine-odesa-cities-v2",
+        "ukraine-mykolaiv-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Donaudelta, Odessa und Mykolajiw von Süden nach Norden an.",
+        "hu": "Kattints a Duna-deltára, Odesszára és Mikolajivra délről északra.",
+        "ro": "Apasă pe Delta Dunării, Odesa și Mykolaiv de la sud la nord.",
+        "en": "Click the Danube Delta, Odesa and Mykolaiv from south to north."
+      }
+    }
+  ]
+}

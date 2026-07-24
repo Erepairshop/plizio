@@ -1,0 +1,309 @@
+{
+  "iq": [
+    {
+      "id": "iq-find-zakho",
+      "type": "find_poi",
+      "targetPoiId": "zakho-cities-v2",
+      "question": {
+        "de": "Finde Zakho auf der Karte.",
+        "hu": "Keresd meg Zakhót a térképen.",
+        "ro": "Găsește Zakho pe hartă.",
+        "en": "Find Zakho on the map."
+      }
+    },
+    {
+      "id": "iq-find-kirkuk",
+      "type": "find_poi",
+      "targetPoiId": "kirkuk-cities-v2",
+      "question": {
+        "de": "Finde Kirkuk auf der Karte.",
+        "hu": "Keresd meg Kirkukot a térképen.",
+        "ro": "Găsește Kirkuk pe hartă.",
+        "en": "Find Kirkuk on the map."
+      }
+    },
+    {
+      "id": "iq-find-halabja",
+      "type": "find_poi",
+      "targetPoiId": "halabja-cities-v2",
+      "question": {
+        "de": "Finde Halabja auf der Karte.",
+        "hu": "Keresd meg Halabját a térképen.",
+        "ro": "Găsește Halabja pe hartă.",
+        "en": "Find Halabja on the map."
+      }
+    },
+    {
+      "id": "iq-find-lake-dukan",
+      "type": "find_poi",
+      "targetPoiId": "dukan-lake-nature-v2",
+      "question": {
+        "de": "Finde den Dukan-See auf der Karte.",
+        "hu": "Keresd meg a Dukan-tavat a térképen.",
+        "ro": "Găsește lacul Dukan pe hartă.",
+        "en": "Find Lake Dukan on the map."
+      }
+    },
+    {
+      "id": "iq-find-ziggurat-ur",
+      "type": "find_poi",
+      "targetPoiId": "ur-ziggurat-history-v2",
+      "question": {
+        "de": "Finde die Zikkurat von Ur auf der Karte.",
+        "hu": "Keresd meg Ur zikkuratját a térképen.",
+        "ro": "Găsește ziguratul din Ur pe hartă.",
+        "en": "Find the Ziggurat of Ur on the map."
+      }
+    },
+    {
+      "id": "iq-region-anbar",
+      "type": "find_region",
+      "targetRegionId": "IRQ-3471",
+      "question": {
+        "de": "Klicke auf die Region Al-Anbar.",
+        "hu": "Kattints Al-Anbar régiójára.",
+        "ro": "Apasă pe regiunea Al-Anbar.",
+        "en": "Click the Al-Anbar region."
+      }
+    },
+    {
+      "id": "iq-region-diyala",
+      "type": "find_region",
+      "targetRegionId": "IRQ-3243",
+      "question": {
+        "de": "Klicke auf die Region Diyala.",
+        "hu": "Kattints Diyala régiójára.",
+        "ro": "Apasă pe regiunea Diyala.",
+        "en": "Click the Diyala region."
+      }
+    },
+    {
+      "id": "iq-region-wasit",
+      "type": "find_region",
+      "targetRegionId": "IRQ-3227",
+      "question": {
+        "de": "Klicke auf die Region Wasit.",
+        "hu": "Kattints Wasit régiójára.",
+        "ro": "Apasă pe regiunea Wasit.",
+        "en": "Click the Wasit region."
+      }
+    },
+    {
+      "id": "iq-region-maysan",
+      "type": "find_region",
+      "targetRegionId": "IRQ-3226",
+      "question": {
+        "de": "Klicke auf die Region Maysan.",
+        "hu": "Kattints Maysan régiójára.",
+        "ro": "Apasă pe regiunea Maysan.",
+        "en": "Click the Maysan region."
+      }
+    },
+    {
+      "id": "iq-region-babil",
+      "type": "find_region",
+      "targetRegionId": "IRQ-3472",
+      "question": {
+        "de": "Klicke auf die Region Babil.",
+        "hu": "Kattints Babil régiójára.",
+        "ro": "Apasă pe regiunea Babil.",
+        "en": "Click the Babil region."
+      }
+    },
+    {
+      "id": "iq-odd-northernmost-zakho",
+      "type": "odd_one_out",
+      "poiIds": [
+        "zakho-cities-v2",
+        "duhok-cities-v2",
+        "mosul-cities-v2",
+        "erbil-cities-v2"
+      ],
+      "targetPoiId": "zakho-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt am weitesten nördlich?",
+        "hu": "Melyik város fekszik a legészakabbra?",
+        "ro": "Care oraș se află cel mai la nord?",
+        "en": "Which city lies furthest north?"
+      }
+    },
+    {
+      "id": "iq-odd-easternmost-kut",
+      "type": "odd_one_out",
+      "poiIds": [
+        "ramadi-cities-v2",
+        "baghdad-cities-v2",
+        "baqubah-cities-v2",
+        "kut-cities-v2"
+      ],
+      "targetPoiId": "kut-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt am weitesten östlich?",
+        "hu": "Melyik város fekszik a legkeletebbre?",
+        "ro": "Care oraș se află cel mai la est?",
+        "en": "Which city lies furthest east?"
+      }
+    },
+    {
+      "id": "iq-odd-southernmost-basra",
+      "type": "odd_one_out",
+      "poiIds": [
+        "najaf-cities-v2",
+        "samawah-cities-v2",
+        "nasiriyah-cities-v2",
+        "basra-cities-v2"
+      ],
+      "targetPoiId": "basra-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt am weitesten südlich?",
+        "hu": "Melyik város fekszik a legdélebbre?",
+        "ro": "Care oraș se află cel mai la sud?",
+        "en": "Which city lies furthest south?"
+      }
+    },
+    {
+      "id": "iq-odd-westernmost-hatra",
+      "type": "odd_one_out",
+      "poiIds": [
+        "kirkuk-cities-v2",
+        "tikrit-cities-v2",
+        "erbil-cities-v2",
+        "iraq-hatra-cities-v2"
+      ],
+      "targetPoiId": "iraq-hatra-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt am weitesten westlich?",
+        "hu": "Melyik hely fekszik a legnyugatabbra?",
+        "ro": "Care loc se află cel mai la vest?",
+        "en": "Which place lies furthest west?"
+      }
+    },
+    {
+      "id": "iq-odd-easternmost-amarah",
+      "type": "odd_one_out",
+      "poiIds": [
+        "najaf-cities-v2",
+        "al-diwaniyah-cities-v2",
+        "kut-cities-v2",
+        "amarah-cities-v2"
+      ],
+      "targetPoiId": "amarah-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt am weitesten östlich?",
+        "hu": "Melyik város fekszik a legkeletebbre?",
+        "ro": "Care oraș se află cel mai la est?",
+        "en": "Which city lies furthest east?"
+      }
+    },
+    {
+      "id": "iq-sequence-zakho-mosul-baghdad-basra-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "zakho-cities-v2",
+        "mosul-cities-v2",
+        "baghdad-cities-v2",
+        "basra-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "zakho-cities-v2",
+        "mosul-cities-v2",
+        "baghdad-cities-v2",
+        "basra-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Zakho, Mossul, Bagdad und Basra von Norden nach Süden an.",
+        "hu": "Kattints északról délre: Zakho, Moszul, Bagdad, Bászra.",
+        "ro": "Apasă de la nord la sud: Zakho, Mosul, Bagdad, Basra.",
+        "en": "Click north to south: Zakho, Mosul, Baghdad, Basra."
+      }
+    },
+    {
+      "id": "iq-sequence-ramadi-baghdad-baqubah-kut-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "ramadi-cities-v2",
+        "baghdad-cities-v2",
+        "baqubah-cities-v2",
+        "kut-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "ramadi-cities-v2",
+        "baghdad-cities-v2",
+        "baqubah-cities-v2",
+        "kut-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Ramadi, Bagdad, Baquba und Kut von Westen nach Osten an.",
+        "hu": "Kattints nyugatról keletre: Ramádi, Bagdad, Bakúba, Kút.",
+        "ro": "Apasă de la vest la est: Ramadi, Bagdad, Baqubah, Kut.",
+        "en": "Click west to east: Ramadi, Baghdad, Baqubah, Kut."
+      }
+    },
+    {
+      "id": "iq-sequence-duhok-erbil-kirkuk-baghdad-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "duhok-cities-v2",
+        "erbil-cities-v2",
+        "kirkuk-cities-v2",
+        "baghdad-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "duhok-cities-v2",
+        "erbil-cities-v2",
+        "kirkuk-cities-v2",
+        "baghdad-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Duhok, Erbil, Kirkuk und Bagdad von Norden nach Süden an.",
+        "hu": "Kattints északról délre: Duhok, Erbíl, Kirkuk, Bagdad.",
+        "ro": "Apasă de la nord la sud: Duhok, Erbil, Kirkuk, Bagdad.",
+        "en": "Click north to south: Duhok, Erbil, Kirkuk, Baghdad."
+      }
+    },
+    {
+      "id": "iq-sequence-hatra-mosul-erbil-sulaymaniyah-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "iraq-hatra-cities-v2",
+        "mosul-cities-v2",
+        "erbil-cities-v2",
+        "sulaymaniyah-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "iraq-hatra-cities-v2",
+        "mosul-cities-v2",
+        "erbil-cities-v2",
+        "sulaymaniyah-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Hatra, Mossul, Erbil und Sulaimaniyya von Westen nach Osten an.",
+        "hu": "Kattints nyugatról keletre: Hatra, Moszul, Erbíl, Szulejmánijja.",
+        "ro": "Apasă de la vest la est: Hatra, Mosul, Erbil, Sulaymaniyah.",
+        "en": "Click west to east: Hatra, Mosul, Erbil, Sulaymaniyah."
+      }
+    },
+    {
+      "id": "iq-sequence-basra-nasiriyah-samawah-amarah-south-north",
+      "type": "sequence",
+      "poiIds": [
+        "basra-cities-v2",
+        "nasiriyah-cities-v2",
+        "samawah-cities-v2",
+        "amarah-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "basra-cities-v2",
+        "nasiriyah-cities-v2",
+        "samawah-cities-v2",
+        "amarah-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Basra, Nasiriyya, Samawa und Amara von Süden nach Norden an.",
+        "hu": "Kattints délről északra: Bászra, Nászirijja, Szamáva, Amára.",
+        "ro": "Apasă de la sud la nord: Basra, Nasiriyah, Samawah, Amarah.",
+        "en": "Click south to north: Basra, Nasiriyah, Samawah, Amarah."
+      }
+    }
+  ]
+}

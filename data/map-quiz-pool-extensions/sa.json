@@ -1,0 +1,314 @@
+{
+  "sa": [
+    {
+      "id": "sa-extra-find-buraidah",
+      "type": "find_poi",
+      "targetPoiId": "buraidah-cities-v2",
+      "question": {
+        "de": "Finde Buraida auf der Karte.",
+        "hu": "Keresd meg Burajdát a térképen.",
+        "ro": "Găsește Buraidah pe hartă.",
+        "en": "Find Buraidah on the map."
+      }
+    },
+    {
+      "id": "sa-extra-find-hail",
+      "type": "find_poi",
+      "targetPoiId": "hail-cities-v2",
+      "question": {
+        "de": "Finde Ha'il auf der Karte.",
+        "hu": "Keresd meg Ha'ilt a térképen.",
+        "ro": "Găsește Ha'il pe hartă.",
+        "en": "Find Ha'il on the map."
+      }
+    },
+    {
+      "id": "sa-extra-find-najran",
+      "type": "find_poi",
+      "targetPoiId": "najran-cities-v2",
+      "question": {
+        "de": "Finde Najran auf der Karte.",
+        "hu": "Keresd meg Nadzsránt a térképen.",
+        "ro": "Găsește Najran pe hartă.",
+        "en": "Find Najran on the map."
+      }
+    },
+    {
+      "id": "sa-extra-find-al-hofuf",
+      "type": "find_poi",
+      "targetPoiId": "al-hofuf-cities-v2",
+      "question": {
+        "de": "Finde Al Hofuf auf der Karte.",
+        "hu": "Keresd meg Al Hofufot a térképen.",
+        "ro": "Găsește Al Hofuf pe hartă.",
+        "en": "Find Al Hofuf on the map."
+      }
+    },
+    {
+      "id": "sa-extra-region-ar-riyad",
+      "type": "find_region",
+      "targetRegionId": "SAU-1097",
+      "question": {
+        "de": "Klicke auf die Region Ar Riyad.",
+        "hu": "Kattints Ar Riyad régiójára.",
+        "ro": "Apasă pe regiunea Ar Riyad.",
+        "en": "Click the Ar Riyad region."
+      }
+    },
+    {
+      "id": "sa-extra-region-al-madinah",
+      "type": "find_region",
+      "targetRegionId": "SAU-845",
+      "question": {
+        "de": "Klicke auf die Region Al Madinah.",
+        "hu": "Kattints Al Madinah régiójára.",
+        "ro": "Apasă pe regiunea Al Madinah.",
+        "en": "Click the Al Madinah region."
+      }
+    },
+    {
+      "id": "sa-extra-region-makkah",
+      "type": "find_region",
+      "targetRegionId": "SAU-888",
+      "question": {
+        "de": "Klicke auf die Region Makkah.",
+        "hu": "Kattints Makkah régiójára.",
+        "ro": "Apasă pe regiunea Makkah.",
+        "en": "Click the Makkah region."
+      }
+    },
+    {
+      "id": "sa-extra-region-jizan",
+      "type": "find_region",
+      "targetRegionId": "SAU-887",
+      "question": {
+        "de": "Klicke auf die Region Jizan.",
+        "hu": "Kattints Jizan régiójára.",
+        "ro": "Apasă pe regiunea Jizan.",
+        "en": "Click the Jizan region."
+      }
+    },
+    {
+      "id": "sa-extra-odd-north-al-qurayyat",
+      "type": "odd_one_out",
+      "poiIds": [
+        "jeddah-cities-v2",
+        "riyadh-cities-v2",
+        "medina-cities-v2",
+        "al-qurayyat-cities-v2"
+      ],
+      "targetPoiId": "al-qurayyat-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt am weitesten nördlich?",
+        "hu": "Melyik hely fekszik a legészakabbra?",
+        "ro": "Care loc se află cel mai la nord?",
+        "en": "Which place lies furthest north?"
+      }
+    },
+    {
+      "id": "sa-extra-odd-east-shaybah",
+      "type": "odd_one_out",
+      "poiIds": [
+        "jeddah-cities-v2",
+        "riyadh-cities-v2",
+        "dammam-cities-v2",
+        "shaybah-oil-field-economic-v2"
+      ],
+      "targetPoiId": "shaybah-oil-field-economic-v2",
+      "question": {
+        "de": "Welcher Ort liegt am weitesten östlich?",
+        "hu": "Melyik hely fekszik a legkeletebbre?",
+        "ro": "Care loc se află cel mai la est?",
+        "en": "Which place lies furthest east?"
+      }
+    },
+    {
+      "id": "sa-extra-odd-west-haql",
+      "type": "odd_one_out",
+      "poiIds": [
+        "riyadh-cities-v2",
+        "medina-cities-v2",
+        "hail-cities-v2",
+        "saudi-arabia-haql-cities-v2"
+      ],
+      "targetPoiId": "saudi-arabia-haql-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt am weitesten westlich?",
+        "hu": "Melyik hely fekszik a legnyugatabbra?",
+        "ro": "Care loc se află cel mai la vest?",
+        "en": "Which place lies furthest west?"
+      }
+    },
+    {
+      "id": "sa-extra-odd-asir-rijal-almaa",
+      "type": "odd_one_out",
+      "poiIds": [
+        "dammam-cities-v2",
+        "buraidah-cities-v2",
+        "sakakah-cities-v2",
+        "rijal-almaa-landmarks-v2"
+      ],
+      "targetPoiId": "rijal-almaa-landmarks-v2",
+      "question": {
+        "de": "Welcher Ort liegt in der Region `Asir?",
+        "hu": "Melyik hely található `Asir régióban?",
+        "ro": "Care loc se află în regiunea `Asir?",
+        "en": "Which place is located in the `Asir region?"
+      }
+    },
+    {
+      "id": "sa-extra-odd-red-sea-port",
+      "type": "odd_one_out",
+      "poiIds": [
+        "riyadh-cities-v2",
+        "buraidah-cities-v2",
+        "dammam-cities-v2",
+        "jeddah-islamic-port-economic-v2"
+      ],
+      "targetPoiId": "jeddah-islamic-port-economic-v2",
+      "question": {
+        "de": "Welcher Ort liegt direkt an der Küste des Roten Meeres?",
+        "hu": "Melyik hely fekszik közvetlenül a Vörös-tenger partján?",
+        "ro": "Care loc se află direct pe coasta Mării Roșii?",
+        "en": "Which place lies directly on the Red Sea coast?"
+      }
+    },
+    {
+      "id": "sa-extra-odd-archaeological-al-ukhdud",
+      "type": "odd_one_out",
+      "poiIds": [
+        "hail-cities-v2",
+        "jizan-cities-v2",
+        "najran-cities-v2",
+        "al-ukhdud-history-v2"
+      ],
+      "targetPoiId": "al-ukhdud-history-v2",
+      "question": {
+        "de": "Welcher Ort ist eine archäologische Stätte und keine Stadt?",
+        "hu": "Melyik hely régészeti lelőhely, nem pedig város?",
+        "ro": "Care loc este un sit arheologic, nu un oraș?",
+        "en": "Which place is an archaeological site rather than a city?"
+      }
+    },
+    {
+      "id": "sa-extra-order-north-south-arar-sakakah-tabuk",
+      "type": "sequence",
+      "poiIds": [
+        "arar-cities-v2",
+        "sakakah-cities-v2",
+        "tabuk-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "arar-cities-v2",
+        "sakakah-cities-v2",
+        "tabuk-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Arar, Sakaka und Tabuk von Norden nach Süden an.",
+        "hu": "Kattints ezekre északról délre: Arar, Sakaka, Tabúk.",
+        "ro": "Apasă în ordine de la nord la sud: Arar, Sakakah, Tabuk.",
+        "en": "Click from north to south: Arar, Sakakah, Tabuk."
+      }
+    },
+    {
+      "id": "sa-extra-order-west-east-haql-tabuk-sakakah",
+      "type": "sequence",
+      "poiIds": [
+        "saudi-arabia-haql-cities-v2",
+        "tabuk-cities-v2",
+        "sakakah-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "saudi-arabia-haql-cities-v2",
+        "tabuk-cities-v2",
+        "sakakah-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Haql, Tabuk und Sakaka von Westen nach Osten an.",
+        "hu": "Kattints ezekre nyugatról keletre: Haql, Tabúk, Sakaka.",
+        "ro": "Apasă în ordine de la vest la est: Haql, Tabuk, Sakakah.",
+        "en": "Click from west to east: Haql, Tabuk, Sakakah."
+      }
+    },
+    {
+      "id": "sa-extra-order-west-east-jeddah-mecca-taif",
+      "type": "sequence",
+      "poiIds": [
+        "jeddah-cities-v2",
+        "mecca-cities-v2",
+        "taif-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "jeddah-cities-v2",
+        "mecca-cities-v2",
+        "taif-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Dschidda, Mekka und Ta'if von Westen nach Osten an.",
+        "hu": "Kattints ezekre nyugatról keletre: Dzsidda, Mekka, Taif.",
+        "ro": "Apasă în ordine de la vest la est: Jeddah, Mecca, Taif.",
+        "en": "Click from west to east: Jeddah, Mecca, Ta'if."
+      }
+    },
+    {
+      "id": "sa-extra-order-west-east-al-wajh-medina-dammam",
+      "type": "sequence",
+      "poiIds": [
+        "saudi-arabia-al-wajh-cities-v2",
+        "medina-cities-v2",
+        "dammam-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "saudi-arabia-al-wajh-cities-v2",
+        "medina-cities-v2",
+        "dammam-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Al Wajh, Medina und Dammam von Westen nach Osten an.",
+        "hu": "Kattints ezekre nyugatról keletre: Al Wajh, Medina, Dammám.",
+        "ro": "Apasă în ordine de la vest la est: Al Wajh, Medina, Dammam.",
+        "en": "Click from west to east: Al Wajh, Medina, Dammam."
+      }
+    },
+    {
+      "id": "sa-extra-order-north-south-abha-najran-jizan",
+      "type": "sequence",
+      "poiIds": [
+        "abha-cities-v2",
+        "najran-cities-v2",
+        "jizan-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "abha-cities-v2",
+        "najran-cities-v2",
+        "jizan-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Abha, Najran und Jizan von Norden nach Süden an.",
+        "hu": "Kattints ezekre északról délre: Abhá, Nadzsrán, Jizan.",
+        "ro": "Apasă în ordine de la nord la sud: Abha, Najran, Jizan.",
+        "en": "Click from north to south: Abha, Najran, Jizan."
+      }
+    },
+    {
+      "id": "sa-extra-order-west-east-farasan-jizan-najran",
+      "type": "sequence",
+      "poiIds": [
+        "farasan-islands-nature-v2",
+        "jizan-cities-v2",
+        "najran-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "farasan-islands-nature-v2",
+        "jizan-cities-v2",
+        "najran-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke das Meeresschutzgebiet der Farasan-Inseln, Jizan und Najran von Westen nach Osten an.",
+        "hu": "Kattints ezekre nyugatról keletre: Faraszan-szigetek tengeri rezervátuma, Jizan, Nadzsrán.",
+        "ro": "Apasă în ordine de la vest la est: sanctuarul marin al Insulelor Farasan, Jizan, Najran.",
+        "en": "Click from west to east: Farasan Islands Marine Sanctuary, Jizan, Najran."
+      }
+    }
+  ]
+}

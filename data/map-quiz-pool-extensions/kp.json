@@ -1,0 +1,301 @@
+{
+  "kp": [
+    {
+      "id": "kp-find-sinuiju-border",
+      "type": "find_poi",
+      "targetPoiId": "kp-sinuiju-cities-v2",
+      "question": {
+        "de": "Finde Sinŭiju am Yalu an der Grenze zu China.",
+        "hu": "Keresd meg Sinidzsut a Jalu folyónál, a kínai határon.",
+        "ro": "Găsește Sinuiju pe râul Yalu, la granița cu China.",
+        "en": "Find Sinuiju on the Yalu River at the border with China."
+      }
+    },
+    {
+      "id": "kp-find-kaesong-dmz",
+      "type": "find_poi",
+      "targetPoiId": "kp-kaesong-cities-v2",
+      "question": {
+        "de": "Finde Kaesŏng nahe der südlichen Grenze.",
+        "hu": "Keresd meg Keszongot a déli határ közelében.",
+        "ro": "Găsește Kaesong aproape de granița sudică.",
+        "en": "Find Kaesong near the southern border."
+      }
+    },
+    {
+      "id": "kp-find-chongjin-east",
+      "type": "find_poi",
+      "targetPoiId": "kp-chongjin-cities-v2",
+      "question": {
+        "de": "Finde Chŏngjin an der nordöstlichen Ostküste.",
+        "hu": "Keresd meg Cshongdzsint az északkeleti keleti parton.",
+        "ro": "Găsește Chongjin pe coasta de est din nord-est.",
+        "en": "Find Chongjin on the northeastern east coast."
+      }
+    },
+    {
+      "id": "kp-find-hyesan-north",
+      "type": "find_poi",
+      "targetPoiId": "kp-hyesan-cities-v2",
+      "question": {
+        "de": "Finde Hyesan im bergigen Norden.",
+        "hu": "Keresd meg Hjeszant az északi hegyvidéken.",
+        "ro": "Găsește Hyesan în nordul muntos.",
+        "en": "Find Hyesan in the mountainous north."
+      }
+    },
+    {
+      "id": "kp-find-haeju-southwest",
+      "type": "find_poi",
+      "targetPoiId": "kp-haeju-cities-v2",
+      "question": {
+        "de": "Finde Haeju im Südwesten des Landes.",
+        "hu": "Keresd meg Hedzsut az ország délnyugati részén.",
+        "ro": "Găsește Haeju în sud-vestul țării.",
+        "en": "Find Haeju in the southwest of the country."
+      }
+    },
+    {
+      "id": "kp-region-north-pyongan",
+      "type": "find_region",
+      "targetRegionId": "PRK-3312",
+      "question": {
+        "de": "Finde P'yŏngan-bukto, die Region von Sinŭiju und Kusŏng.",
+        "hu": "Keresd meg Észak-Phjongan régióját, ahol Sinidzsu és Kuszong található.",
+        "ro": "Găsește P'yŏngan-bukto, regiunea orașelor Sinuiju și Kusong.",
+        "en": "Find North Pyongan, the region of Sinuiju and Kusong."
+      }
+    },
+    {
+      "id": "kp-region-south-pyongan",
+      "type": "find_region",
+      "targetRegionId": "PRK-3313",
+      "question": {
+        "de": "Finde P'yŏngan-namdo, wo Pyongsŏng und Sunch'ŏn liegen.",
+        "hu": "Keresd meg Dél-Phjongan régióját, ahol Phjongszong és Szuncshon fekszik.",
+        "ro": "Găsește P'yŏngan-namdo, unde se află Pyongsong și Sunchon.",
+        "en": "Find South Pyongan, where Pyongsong and Sunchon are located."
+      }
+    },
+    {
+      "id": "kp-region-north-hamgyong",
+      "type": "find_region",
+      "targetRegionId": "PRK-3307",
+      "question": {
+        "de": "Finde Hamgyŏng-bukto mit Chŏngjin und Hoeryŏng.",
+        "hu": "Keresd meg Észak-Hamgjong régióját Cshongdzsinnel és Herjonggal.",
+        "ro": "Găsește Hamgyŏng-bukto, cu Chongjin și Hoeryong.",
+        "en": "Find North Hamgyong, home to Chongjin and Hoeryong."
+      }
+    },
+    {
+      "id": "kp-region-south-hamgyong",
+      "type": "find_region",
+      "targetRegionId": "PRK-3311",
+      "question": {
+        "de": "Finde Hamgyŏng-namdo, die Region von Hamhŭng und Sinp'o.",
+        "hu": "Keresd meg Dél-Hamgjong régióját, Hamhung és Szinpho tartományát.",
+        "ro": "Găsește Hamgyŏng-namdo, regiunea orașelor Hamhung și Sinpho.",
+        "en": "Find South Hamgyong, the region of Hamhung and Sinpho."
+      }
+    },
+    {
+      "id": "kp-region-ryanggang-highlands",
+      "type": "find_region",
+      "targetRegionId": "PRK-3314",
+      "question": {
+        "de": "Finde Ryanggang im hohen Norden bei Hyesan und Samjiyŏn.",
+        "hu": "Keresd meg Rjanggang régióját a messzi északon, Hjeszan és Szamdzsijon körül.",
+        "ro": "Găsește Ryanggang în nordul înalt, în jurul Hyesanului și Samjiyonului.",
+        "en": "Find Ryanggang in the far north around Hyesan and Samjiyon."
+      }
+    },
+    {
+      "id": "kp-odd-china-border",
+      "type": "odd_one_out",
+      "poiIds": [
+        "kp-sinuiju-cities-v2",
+        "kp-pyongyang-cities-v2",
+        "kp-wonsan-cities-v2",
+        "kp-hamhung-cities-v2"
+      ],
+      "targetPoiId": "kp-sinuiju-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt direkt an der Grenze zu China?",
+        "hu": "Melyik város fekszik közvetlenül a kínai határon?",
+        "ro": "Care oraș se află direct la granița cu China?",
+        "en": "Which city lies directly on the border with China?"
+      }
+    },
+    {
+      "id": "kp-odd-not-east-coast",
+      "type": "odd_one_out",
+      "poiIds": [
+        "kp-chongjin-cities-v2",
+        "kp-kimchaek-cities-v2",
+        "kp-wonsan-cities-v2",
+        "kp-pyongsong-cities-v2"
+      ],
+      "targetPoiId": "kp-pyongsong-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht an der Ostküste?",
+        "hu": "Melyik város nem a keleti parton fekszik?",
+        "ro": "Care oraș nu se află pe coasta de est?",
+        "en": "Which city is not on the east coast?"
+      }
+    },
+    {
+      "id": "kp-odd-farthest-south",
+      "type": "odd_one_out",
+      "poiIds": [
+        "kp-pyongyang-cities-v2",
+        "kp-sariwon-cities-v2",
+        "kp-haeju-cities-v2",
+        "kp-chongjin-cities-v2"
+      ],
+      "targetPoiId": "kp-haeju-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten im Süden?",
+        "hu": "Ezek közül melyik város fekszik a legdélebbre?",
+        "ro": "Care dintre aceste orașe se află cel mai la sud?",
+        "en": "Which of these cities lies farthest south?"
+      }
+    },
+    {
+      "id": "kp-odd-ryanggang",
+      "type": "odd_one_out",
+      "poiIds": [
+        "kp-hyesan-cities-v2",
+        "kp-kanggye-cities-v2",
+        "kp-hamhung-cities-v2",
+        "kp-sariwon-cities-v2"
+      ],
+      "targetPoiId": "kp-hyesan-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt in Ryanggang?",
+        "hu": "Melyik város található Rjanggang régiójában?",
+        "ro": "Care oraș se află în Ryanggang?",
+        "en": "Which city is located in Ryanggang?"
+      }
+    },
+    {
+      "id": "kp-odd-west-of-pyongyang",
+      "type": "odd_one_out",
+      "poiIds": [
+        "kp-nampo-cities-v2",
+        "kp-wonsan-cities-v2",
+        "kp-hamhung-cities-v2",
+        "kp-kaesong-cities-v2"
+      ],
+      "targetPoiId": "kp-nampo-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt westlich von Pjöngjang?",
+        "hu": "Melyik város fekszik Phenjantól nyugatra?",
+        "ro": "Care oraș se află la vest de Phenian?",
+        "en": "Which city lies west of Pyongyang?"
+      }
+    },
+    {
+      "id": "kp-sequence-south-north-west-coast",
+      "type": "sequence",
+      "poiIds": [
+        "kp-haeju-cities-v2",
+        "kp-nampo-cities-v2",
+        "kp-sinuiju-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "kp-haeju-cities-v2",
+        "kp-nampo-cities-v2",
+        "kp-sinuiju-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Haeju, Namp'o und Sinŭiju von Süden nach Norden an.",
+        "hu": "Kattints Hedzsura, Nampóra és Sinidzsura délről északra.",
+        "ro": "Apasă Haeju, Nampo și Sinuiju de la sud la nord.",
+        "en": "Click Haeju, Nampo, and Sinuiju from south to north."
+      }
+    },
+    {
+      "id": "kp-sequence-west-east-central",
+      "type": "sequence",
+      "poiIds": [
+        "kp-nampo-cities-v2",
+        "kp-pyongyang-cities-v2",
+        "kp-wonsan-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "kp-nampo-cities-v2",
+        "kp-pyongyang-cities-v2",
+        "kp-wonsan-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Namp'o, Pjöngjang und Wŏnsan von Westen nach Osten an.",
+        "hu": "Kattints Nampóra, Phenjanra és Vonszanra nyugatról keletre.",
+        "ro": "Apasă Nampo, Phenian și Wonsan de la vest la est.",
+        "en": "Click Nampo, Pyongyang, and Wonsan from west to east."
+      }
+    },
+    {
+      "id": "kp-sequence-south-north-east-coast",
+      "type": "sequence",
+      "poiIds": [
+        "kp-wonsan-cities-v2",
+        "kp-hamhung-cities-v2",
+        "kp-chongjin-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "kp-wonsan-cities-v2",
+        "kp-hamhung-cities-v2",
+        "kp-chongjin-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Wŏnsan, Hamhŭng und Chŏngjin von Süden nach Norden an.",
+        "hu": "Kattints Vonszanra, Hamhungra és Cshongdzsinre délről északra.",
+        "ro": "Apasă Wonsan, Hamhung și Chongjin de la sud la nord.",
+        "en": "Click Wonsan, Hamhung, and Chongjin from south to north."
+      }
+    },
+    {
+      "id": "kp-sequence-west-east-northern",
+      "type": "sequence",
+      "poiIds": [
+        "kp-manpo-cities-v2",
+        "kp-hyesan-cities-v2",
+        "kp-rason-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "kp-manpo-cities-v2",
+        "kp-hyesan-cities-v2",
+        "kp-rason-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Manp'o, Hyesan und Rasŏn von Westen nach Osten an.",
+        "hu": "Kattints Manpóra, Hjeszanra és Raszonra nyugatról keletre.",
+        "ro": "Apasă Manpo, Hyesan și Rason de la vest la est.",
+        "en": "Click Manpo, Hyesan, and Rason from west to east."
+      }
+    },
+    {
+      "id": "kp-sequence-south-north-inland",
+      "type": "sequence",
+      "poiIds": [
+        "kp-kaesong-cities-v2",
+        "kp-pyongyang-cities-v2",
+        "kp-kaechon-cities-v2",
+        "kp-kanggye-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "kp-kaesong-cities-v2",
+        "kp-pyongyang-cities-v2",
+        "kp-kaechon-cities-v2",
+        "kp-kanggye-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Kaesŏng, Pjöngjang, Kaech'ŏn und Kanggye von Süden nach Norden an.",
+        "hu": "Kattints Keszongra, Phenjanra, Kecshonra és Kanggjére délről északra.",
+        "ro": "Apasă Kaesong, Phenian, Kaechon și Kanggye de la sud la nord.",
+        "en": "Click Kaesong, Pyongyang, Kaechon, and Kanggye from south to north."
+      }
+    }
+  ]
+}

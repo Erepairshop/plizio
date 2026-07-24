@@ -1,0 +1,309 @@
+{
+  "eg": [
+    {
+      "id": "eg-find-luxor-nile-bend",
+      "type": "find_poi",
+      "targetPoiId": "luxor-cities-v2",
+      "question": {
+        "de": "Finde Luxor am Nil n\u00f6rdlich von Assuan.",
+        "hu": "Keresd meg Luxort a N\u00edlus ment\u00e9n, Asszu\u00e1nt\u00f3l \u00e9szakra.",
+        "ro": "G\u0103se\u0219te Luxor pe Nil, la nord de Aswan.",
+        "en": "Find Luxor on the Nile north of Aswan."
+      }
+    },
+    {
+      "id": "eg-find-sharm-southern-sinai",
+      "type": "find_poi",
+      "targetPoiId": "sharm-el-sheikh-cities-v2",
+      "question": {
+        "de": "Finde Scharm El-Scheich an der S\u00fcdspitze der Sinai-Halbinsel.",
+        "hu": "Keresd meg Sarm es-Sejket a S\u00ednai-f\u00e9lsziget d\u00e9li cs\u00facs\u00e1n.",
+        "ro": "G\u0103se\u0219te Sharm El Sheikh la extremitatea sudic\u0103 a Peninsulei Sinai.",
+        "en": "Find Sharm El Sheikh at the southern tip of the Sinai Peninsula."
+      }
+    },
+    {
+      "id": "eg-find-siwa-western-border",
+      "type": "find_poi",
+      "targetPoiId": "siwa-cities-v2",
+      "question": {
+        "de": "Finde Siwa nahe der westlichen Grenze \u00c4gyptens.",
+        "hu": "Keresd meg Sziw\u00e1t Egyiptom nyugati hat\u00e1ra k\u00f6zel\u00e9ben.",
+        "ro": "G\u0103se\u0219te Siwa aproape de grani\u021ba vestic\u0103 a Egiptului.",
+        "en": "Find Siwa near Egypt's western border."
+      }
+    },
+    {
+      "id": "eg-find-suez-canal-south-end",
+      "type": "find_poi",
+      "targetPoiId": "suez-cities-v2",
+      "question": {
+        "de": "Finde Sues am s\u00fcdlichen Ende des Suezkanals.",
+        "hu": "Keresd meg Szuezt a Szuezi-csatorna d\u00e9li v\u00e9g\u00e9n\u00e9l.",
+        "ro": "G\u0103se\u0219te Suez la cap\u0103tul sudic al Canalului Suez.",
+        "en": "Find Suez at the southern end of the Suez Canal."
+      }
+    },
+    {
+      "id": "eg-find-kharga-western-desert",
+      "type": "find_poi",
+      "targetPoiId": "kharga-cities-v2",
+      "question": {
+        "de": "Finde Kharga in der Westlichen W\u00fcste.",
+        "hu": "Keresd meg Kharg\u00e1t a Nyugati-sivatagban.",
+        "ro": "G\u0103se\u0219te Kharga \u00een De\u0219ertul de Vest.",
+        "en": "Find Kharga in the Western Desert."
+      }
+    },
+    {
+      "id": "eg-region-alexandria-coast",
+      "type": "find_region",
+      "targetRegionId": "EGY-1543",
+      "question": {
+        "de": "Klicke auf die Region Alexandria an der Mittelmeerk\u00fcste.",
+        "hu": "Kattints Alexandria korm\u00e1nyz\u00f3s\u00e1g\u00e1ra a F\u00f6ldk\u00f6zi-tenger partj\u00e1n.",
+        "ro": "Apas\u0103 pe regiunea Alexandria de pe coasta Mediteranei.",
+        "en": "Click the Alexandria region on the Mediterranean coast."
+      }
+    },
+    {
+      "id": "eg-region-giza-west-of-cairo",
+      "type": "find_region",
+      "targetRegionId": "EGY-1544",
+      "question": {
+        "de": "Finde die Region Gizeh westlich von Kairo.",
+        "hu": "Keresd meg G\u00edza korm\u00e1nyz\u00f3s\u00e1g\u00e1t Kair\u00f3t\u00f3l nyugatra.",
+        "ro": "G\u0103se\u0219te regiunea Giza la vest de Cairo.",
+        "en": "Find the Giza region west of Cairo."
+      }
+    },
+    {
+      "id": "eg-region-red-sea-east-coast",
+      "type": "find_region",
+      "targetRegionId": "EGY-1556",
+      "question": {
+        "de": "Klicke auf die Region des Roten Meeres an \u00c4gyptens Ostk\u00fcste.",
+        "hu": "Kattints a V\u00f6r\u00f6s-tenger korm\u00e1nyz\u00f3s\u00e1g\u00e1ra Egyiptom keleti partj\u00e1n.",
+        "ro": "Apas\u0103 pe regiunea M\u0103rii Ro\u0219ii de pe coasta estic\u0103 a Egiptului.",
+        "en": "Click the Red Sea region on Egypt's eastern coast."
+      }
+    },
+    {
+      "id": "eg-region-luxor-upper-egypt",
+      "type": "find_region",
+      "targetRegionId": "EGY-5494",
+      "question": {
+        "de": "Finde die Region Luxor in Ober\u00e4gypten.",
+        "hu": "Keresd meg Luxor korm\u00e1nyz\u00f3s\u00e1g\u00e1t Fels\u0151-Egyiptomban.",
+        "ro": "G\u0103se\u0219te regiunea Luxor din Egiptul de Sus.",
+        "en": "Find the Luxor region in Upper Egypt."
+      }
+    },
+    {
+      "id": "eg-region-north-sinai-northeast",
+      "type": "find_region",
+      "targetRegionId": "EGY-1558",
+      "question": {
+        "de": "Klicke auf Nord-Sinai im Nordosten \u00c4gyptens.",
+        "hu": "Kattints \u00c9szak-S\u00ednaira Egyiptom \u00e9szakkeleti r\u00e9sz\u00e9n.",
+        "ro": "Apas\u0103 pe Sinaiul de Nord din nord-estul Egiptului.",
+        "en": "Click North Sinai in northeastern Egypt."
+      }
+    },
+    {
+      "id": "eg-odd-delta-vs-upper-egypt",
+      "type": "odd_one_out",
+      "poiIds": [
+        "mansoura-cities-v2",
+        "tanta-cities-v2",
+        "kafr-el-sheikh-cities-v2",
+        "luxor-cities-v2"
+      ],
+      "targetPoiId": "luxor-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht im Nildelta?",
+        "hu": "Melyik v\u00e1ros nem a N\u00edlus-delt\u00e1ban fekszik?",
+        "ro": "Care ora\u0219 nu se afl\u0103 \u00een Delta Nilului?",
+        "en": "Which city is not in the Nile Delta?"
+      }
+    },
+    {
+      "id": "eg-odd-suez-canal-line",
+      "type": "odd_one_out",
+      "poiIds": [
+        "port-said-cities-v2",
+        "ismailia-cities-v2",
+        "suez-cities-v2",
+        "minya-cities-v2"
+      ],
+      "targetPoiId": "minya-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht am Suezkanal oder direkt an ihm?",
+        "hu": "Melyik v\u00e1ros nem a Szuezi-csatorna ment\u00e9n fekszik?",
+        "ro": "Care ora\u0219 nu se afl\u0103 pe Canalul Suez sau direct l\u00e2ng\u0103 el?",
+        "en": "Which city is not on or directly by the Suez Canal?"
+      }
+    },
+    {
+      "id": "eg-odd-sinai-coast-vs-nile",
+      "type": "odd_one_out",
+      "poiIds": [
+        "sharm-el-sheikh-cities-v2",
+        "dahab-cities-v2",
+        "nuweiba-cities-v2",
+        "asyut-cities-v2"
+      ],
+      "targetPoiId": "asyut-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht an der Sinai-K\u00fcste?",
+        "hu": "Melyik v\u00e1ros nem a S\u00ednai partvid\u00e9k\u00e9n tal\u00e1lhat\u00f3?",
+        "ro": "Care ora\u0219 nu se afl\u0103 pe coasta Sinaiului?",
+        "en": "Which city is not on the Sinai coast?"
+      }
+    },
+    {
+      "id": "eg-odd-western-oases",
+      "type": "odd_one_out",
+      "poiIds": [
+        "siwa-cities-v2",
+        "kharga-cities-v2",
+        "dakhla-cities-v2",
+        "cairo-cities-v2"
+      ],
+      "targetPoiId": "cairo-cities-v2",
+      "question": {
+        "de": "Welche Stadt ist keine Oase der Westlichen W\u00fcste?",
+        "hu": "Melyik v\u00e1ros nem a Nyugati-sivatag egyik o\u00e1zisa?",
+        "ro": "Care ora\u0219 nu este o oaz\u0103 din De\u0219ertul de Vest?",
+        "en": "Which city is not an oasis of the Western Desert?"
+      }
+    },
+    {
+      "id": "eg-odd-upper-egypt-vs-mediterranean",
+      "type": "odd_one_out",
+      "poiIds": [
+        "luxor-cities-v2",
+        "qena-cities-v2",
+        "sohag-cities-v2",
+        "marsa-matruh-cities-v2"
+      ],
+      "targetPoiId": "marsa-matruh-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht in Ober\u00e4gypten am Nilkorridor?",
+        "hu": "Melyik v\u00e1ros nem Fels\u0151-Egyiptom N\u00edlus menti s\u00e1vj\u00e1ban fekszik?",
+        "ro": "Care ora\u0219 nu se afl\u0103 \u00een coridorul nilotic al Egiptului de Sus?",
+        "en": "Which city is not in Upper Egypt's Nile corridor?"
+      }
+    },
+    {
+      "id": "eg-sequence-south-to-north-upper-nile",
+      "type": "sequence",
+      "poiIds": [
+        "aswan-cities-v2",
+        "luxor-cities-v2",
+        "qena-cities-v2",
+        "sohag-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "aswan-cities-v2",
+        "luxor-cities-v2",
+        "qena-cities-v2",
+        "sohag-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Assuan, Luxor, Qena und Sohag von S\u00fcd nach Nord an.",
+        "hu": "Kattints Asszu\u00e1nra, Luxorra, Ken\u00e1ra \u00e9s Szoh\u00e1gra d\u00e9lr\u0151l \u00e9szak fel\u00e9.",
+        "ro": "Apas\u0103 Aswan, Luxor, Qena \u0219i Sohag de la sud la nord.",
+        "en": "Click Aswan, Luxor, Qena and Sohag from south to north."
+      }
+    },
+    {
+      "id": "eg-sequence-west-to-east-desert-canal",
+      "type": "sequence",
+      "poiIds": [
+        "siwa-cities-v2",
+        "kharga-cities-v2",
+        "cairo-cities-v2",
+        "suez-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "siwa-cities-v2",
+        "kharga-cities-v2",
+        "cairo-cities-v2",
+        "suez-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Siwa, Kharga, Kairo und Sues von West nach Ost an.",
+        "hu": "Kattints Sziw\u00e1ra, Kharg\u00e1ra, Kair\u00f3ra \u00e9s Szuezre nyugatr\u00f3l keletre.",
+        "ro": "Apas\u0103 Siwa, Kharga, Cairo \u0219i Suez de la vest la est.",
+        "en": "Click Siwa, Kharga, Cairo and Suez from west to east."
+      }
+    },
+    {
+      "id": "eg-sequence-south-to-north-sinai-coast",
+      "type": "sequence",
+      "poiIds": [
+        "sharm-el-sheikh-cities-v2",
+        "el-tor-cities-v2",
+        "dahab-cities-v2",
+        "nuweiba-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "sharm-el-sheikh-cities-v2",
+        "el-tor-cities-v2",
+        "dahab-cities-v2",
+        "nuweiba-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Scharm El-Scheich, El Tor, Dahab und Nuweiba von S\u00fcd nach Nord an.",
+        "hu": "Kattints Sarm es-Sejkre, Et-T\u00f3rra, Dahabra \u00e9s Nuweib\u00e1ra d\u00e9lr\u0151l \u00e9szak fel\u00e9.",
+        "ro": "Apas\u0103 Sharm El Sheikh, El Tor, Dahab \u0219i Nuweiba de la sud la nord.",
+        "en": "Click Sharm El Sheikh, El Tor, Dahab and Nuweiba from south to north."
+      }
+    },
+    {
+      "id": "eg-sequence-west-to-east-mediterranean-strip",
+      "type": "sequence",
+      "poiIds": [
+        "marsa-matruh-cities-v2",
+        "rosetta-cities-v2",
+        "damietta-cities-v2",
+        "port-said-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "marsa-matruh-cities-v2",
+        "rosetta-cities-v2",
+        "damietta-cities-v2",
+        "port-said-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Marsa Matruh, Rosette, Damiette und Port Said von West nach Ost an.",
+        "hu": "Kattints Marsza Matruhra, Roszett\u00e1ra, Damiett\u00e1ra \u00e9s Port Sza\u00eddra nyugatr\u00f3l keletre.",
+        "ro": "Apas\u0103 Marsa Matruh, Rosetta, Damietta \u0219i Port Said de la vest la est.",
+        "en": "Click Marsa Matruh, Rosetta, Damietta and Port Said from west to east."
+      }
+    },
+    {
+      "id": "eg-sequence-west-to-east-central-delta",
+      "type": "sequence",
+      "poiIds": [
+        "tanta-cities-v2",
+        "el-mahalla-el-kubra-cities-v2",
+        "mansoura-cities-v2",
+        "damietta-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "tanta-cities-v2",
+        "el-mahalla-el-kubra-cities-v2",
+        "mansoura-cities-v2",
+        "damietta-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Tanta, al-Mahalla al-Kubra, Mansura und Damiette von West nach Ost an.",
+        "hu": "Kattints Tant\u00e1ra, El-Mahalla el-Kubr\u00e1ra, Mansz\u00far\u00e1ra \u00e9s Damiett\u00e1ra nyugatr\u00f3l keletre.",
+        "ro": "Apas\u0103 Tanta, El Mahalla El Kubra, Mansoura \u0219i Damietta de la vest la est.",
+        "en": "Click Tanta, El Mahalla El Kubra, Mansoura and Damietta from west to east."
+      }
+    }
+  ]
+}

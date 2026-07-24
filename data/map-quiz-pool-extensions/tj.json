@@ -1,0 +1,326 @@
+{
+  "tj": [
+    {
+      "id": "tj-find-bokhtar",
+      "type": "find_poi",
+      "targetPoiId": "bokhtar-cities-v2",
+      "question": {
+        "de": "Finde Bochtar auf der Karte.",
+        "hu": "Keresd meg Bohtart a térképen.",
+        "ro": "Găsește Bokhtar pe hartă.",
+        "en": "Find Bokhtar on the map."
+      }
+    },
+    {
+      "id": "tj-find-istaravshan",
+      "type": "find_poi",
+      "targetPoiId": "istaravshan-cities-v2",
+      "question": {
+        "de": "Finde Istarawschan auf der Karte.",
+        "hu": "Keresd meg Isztaravsant a térképen.",
+        "ro": "Găsește Istaravșan pe hartă.",
+        "en": "Find Istaravshan on the map."
+      }
+    },
+    {
+      "id": "tj-find-tursunzoda",
+      "type": "find_poi",
+      "targetPoiId": "tursunzoda-cities-v2",
+      "question": {
+        "de": "Finde Tursunsoda auf der Karte.",
+        "hu": "Keresd meg Turszunzodát a térképen.",
+        "ro": "Găsește Tursunzoda pe hartă.",
+        "en": "Find Tursunzoda on the map."
+      }
+    },
+    {
+      "id": "tj-find-murghob",
+      "type": "find_poi",
+      "targetPoiId": "murghob-cities-v2",
+      "question": {
+        "de": "Finde Murgab auf der Karte.",
+        "hu": "Keresd meg Murgabot a térképen.",
+        "ro": "Găsește Murghob pe hartă.",
+        "en": "Find Murghob on the map."
+      }
+    },
+    {
+      "id": "tj-find-nurek-dam",
+      "type": "find_poi",
+      "targetPoiId": "tj-nurek-dam-landmarks-v2",
+      "question": {
+        "de": "Finde den Nurek-Staudamm auf der Karte.",
+        "hu": "Keresd meg a Nurek-gátat a térképen.",
+        "ro": "Găsește barajul Nurek pe hartă.",
+        "en": "Find Nurek Dam on the map."
+      }
+    },
+    {
+      "id": "tj-find-yamchun-fortress",
+      "type": "find_poi",
+      "targetPoiId": "tj-yamchun-fortress-landmarks-v2",
+      "question": {
+        "de": "Finde die Festung Yamchun auf der Karte.",
+        "hu": "Keresd meg a Yamchun-erődöt a térképen.",
+        "ro": "Găsește cetatea Yamchun pe hartă.",
+        "en": "Find Yamchun Fortress on the map."
+      }
+    },
+    {
+      "id": "tj-region-dushanbe-city",
+      "type": "find_region",
+      "targetRegionId": "TJK-5491",
+      "question": {
+        "de": "Klicke auf Duschanbe.",
+        "hu": "Kattints Dusanbéra.",
+        "ro": "Apasă pe Dușanbe.",
+        "en": "Click on Dushanbe."
+      }
+    },
+    {
+      "id": "tj-region-territories",
+      "type": "find_region",
+      "targetRegionId": "TJK-368",
+      "question": {
+        "de": "Klicke auf die Region Tadzhikistan Territories.",
+        "hu": "Kattints a Tadzhikistan Territories régióra.",
+        "ro": "Apasă pe regiunea Tadzhikistan Territories.",
+        "en": "Click the Tadzhikistan Territories region."
+      }
+    },
+    {
+      "id": "tj-odd-west-dushanbe-corridor",
+      "type": "odd_one_out",
+      "poiIds": [
+        "tursunzoda-cities-v2",
+        "dushanbe-cities-v2",
+        "vahdat-cities-v2",
+        "roghun-cities-v2"
+      ],
+      "targetPoiId": "tursunzoda-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt am weitesten westlich?",
+        "hu": "Melyik város fekszik a legnyugatabbra?",
+        "ro": "Care oraș se află cel mai la vest?",
+        "en": "Which city lies furthest west?"
+      }
+    },
+    {
+      "id": "tj-odd-north-major-cities",
+      "type": "odd_one_out",
+      "poiIds": [
+        "bokhtar-cities-v2",
+        "dushanbe-cities-v2",
+        "panjakent-cities-v2",
+        "khujand-cities-v2"
+      ],
+      "targetPoiId": "khujand-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt am weitesten nördlich?",
+        "hu": "Melyik város fekszik a legészakabbra?",
+        "ro": "Care oraș se află cel mai la nord?",
+        "en": "Which city lies furthest north?"
+      }
+    },
+    {
+      "id": "tj-odd-south-four-cities",
+      "type": "odd_one_out",
+      "poiIds": [
+        "khujand-cities-v2",
+        "dushanbe-cities-v2",
+        "bokhtar-cities-v2",
+        "ishkoshim-cities-v2"
+      ],
+      "targetPoiId": "ishkoshim-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt am weitesten südlich?",
+        "hu": "Melyik város fekszik a legdélebbre?",
+        "ro": "Care oraș se află cel mai la sud?",
+        "en": "Which city lies furthest south?"
+      }
+    },
+    {
+      "id": "tj-odd-east-pamir",
+      "type": "odd_one_out",
+      "poiIds": [
+        "tursunzoda-cities-v2",
+        "kulob-cities-v2",
+        "khujand-cities-v2",
+        "murghob-cities-v2"
+      ],
+      "targetPoiId": "murghob-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt am weitesten östlich?",
+        "hu": "Melyik város fekszik a legkeletebbre?",
+        "ro": "Care oraș se află cel mai la est?",
+        "en": "Which city lies furthest east?"
+      }
+    },
+    {
+      "id": "tj-odd-west-landmarks",
+      "type": "odd_one_out",
+      "poiIds": [
+        "tj-yamchun-fortress-landmarks-v2",
+        "tj-nurek-dam-landmarks-v2",
+        "tj-ismoil-somoni-monument-landmarks-v2",
+        "tj-panjshanbe-bazaar-landmarks-v2"
+      ],
+      "targetPoiId": "tj-ismoil-somoni-monument-landmarks-v2",
+      "question": {
+        "de": "Welcher Ort liegt am weitesten westlich?",
+        "hu": "Melyik hely fekszik a legnyugatabbra?",
+        "ro": "Care loc se află cel mai la vest?",
+        "en": "Which place lies furthest west?"
+      }
+    },
+    {
+      "id": "tj-odd-north-historic-sites",
+      "type": "odd_one_out",
+      "poiIds": [
+        "tj-ancient-penjikent-history-v2",
+        "tj-hisor-fortress-landmarks-v2",
+        "tj-garm-chashma-landmarks-v2",
+        "tj-khujand-fortress-history-v2"
+      ],
+      "targetPoiId": "tj-khujand-fortress-history-v2",
+      "question": {
+        "de": "Welcher Ort liegt am weitesten nördlich?",
+        "hu": "Melyik hely fekszik a legészakabbra?",
+        "ro": "Care loc se află cel mai la nord?",
+        "en": "Which place lies furthest north?"
+      }
+    },
+    {
+      "id": "tj-sequence-west-east-capital-axis",
+      "type": "sequence",
+      "poiIds": [
+        "tursunzoda-cities-v2",
+        "dushanbe-cities-v2",
+        "nurek-cities-v2",
+        "roghun-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "tursunzoda-cities-v2",
+        "dushanbe-cities-v2",
+        "nurek-cities-v2",
+        "roghun-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die Städte von Westen nach Osten an: Tursunsoda, Duschanbe, Nurek, Roghun.",
+        "hu": "Kattints a városokra nyugatról keletre: Turszunzoda, Dusanbe, Nurek, Rogun.",
+        "ro": "Apasă orașele de la vest la est: Tursunzoda, Dușanbe, Nurek, Roghun.",
+        "en": "Click the cities from west to east: Tursunzoda, Dushanbe, Nurek, Roghun."
+      }
+    },
+    {
+      "id": "tj-sequence-west-east-northern-route",
+      "type": "sequence",
+      "poiIds": [
+        "panjakent-cities-v2",
+        "ayni-cities-v2",
+        "istaravshan-cities-v2",
+        "khujand-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "panjakent-cities-v2",
+        "ayni-cities-v2",
+        "istaravshan-cities-v2",
+        "khujand-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die Städte von Westen nach Osten an: Pandschakent, Aini, Istarawschan, Chudschand.",
+        "hu": "Kattints a városokra nyugatról keletre: Pandzsekent, Ajni, Isztaravsan, Hudzsand.",
+        "ro": "Apasă orașele de la vest la est: Pendjikent, Aini, Istaravșan, Hudjand.",
+        "en": "Click the cities from west to east: Panjakent, Ayni, Istaravshan, Khujand."
+      }
+    },
+    {
+      "id": "tj-sequence-west-east-north-belt",
+      "type": "sequence",
+      "poiIds": [
+        "khujand-cities-v2",
+        "buston-cities-v2",
+        "konibodom-cities-v2",
+        "isfara-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "khujand-cities-v2",
+        "buston-cities-v2",
+        "konibodom-cities-v2",
+        "isfara-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die Städte von Westen nach Osten an: Chudschand, Buston, Konibodom, Isfara.",
+        "hu": "Kattints a városokra nyugatról keletre: Hudzsand, Buston, Konibodom, Iszfara.",
+        "ro": "Apasă orașele de la vest la est: Hudjand, Buston, Konibodom, Isfara.",
+        "en": "Click the cities from west to east: Khujand, Buston, Konibodom, Isfara."
+      }
+    },
+    {
+      "id": "tj-sequence-west-east-south-to-pamir",
+      "type": "sequence",
+      "poiIds": [
+        "bokhtar-cities-v2",
+        "kulob-cities-v2",
+        "khorugh-cities-v2",
+        "murghob-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "bokhtar-cities-v2",
+        "kulob-cities-v2",
+        "khorugh-cities-v2",
+        "murghob-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die Städte von Westen nach Osten an: Bochtar, Kulob, Chorugh, Murgab.",
+        "hu": "Kattints a városokra nyugatról keletre: Bohtar, Kulob, Horug, Murgab.",
+        "ro": "Apasă orașele de la vest la est: Bokhtar, Kulob, Horog, Murghob.",
+        "en": "Click the cities from west to east: Bokhtar, Kulob, Khorugh, Murghob."
+      }
+    },
+    {
+      "id": "tj-sequence-north-south-central",
+      "type": "sequence",
+      "poiIds": [
+        "khujand-cities-v2",
+        "panjakent-cities-v2",
+        "dushanbe-cities-v2",
+        "bokhtar-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "khujand-cities-v2",
+        "panjakent-cities-v2",
+        "dushanbe-cities-v2",
+        "bokhtar-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die Städte von Norden nach Süden an: Chudschand, Pandschakent, Duschanbe, Bochtar.",
+        "hu": "Kattints a városokra északról délre: Hudzsand, Pandzsekent, Dusanbe, Bohtar.",
+        "ro": "Apasă orașele de la nord la sud: Hudjand, Pendjikent, Dușanbe, Bokhtar.",
+        "en": "Click the cities from north to south: Khujand, Panjakent, Dushanbe, Bokhtar."
+      }
+    },
+    {
+      "id": "tj-sequence-north-south-east",
+      "type": "sequence",
+      "poiIds": [
+        "roghun-cities-v2",
+        "nurek-cities-v2",
+        "kulob-cities-v2",
+        "ishkoshim-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "roghun-cities-v2",
+        "nurek-cities-v2",
+        "kulob-cities-v2",
+        "ishkoshim-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke die Städte von Norden nach Süden an: Roghun, Nurek, Kulob, Ischkoschim.",
+        "hu": "Kattints a városokra északról délre: Rogun, Nurek, Kulob, Iskoshim.",
+        "ro": "Apasă orașele de la nord la sud: Roghun, Nurek, Kulob, Ishkoshim.",
+        "en": "Click the cities from north to south: Roghun, Nurek, Kulob, Ishkoshim."
+      }
+    }
+  ]
+}

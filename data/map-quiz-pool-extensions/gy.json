@@ -1,0 +1,292 @@
+{
+  "gy": [
+    {
+      "id": "gy-find-anna-regina",
+      "type": "find_poi",
+      "targetPoiId": "anna-regina-cities-v2",
+      "question": {
+        "de": "Finde Anna Regina, den Verwaltungssitz von Pomeroon-Supenaam.",
+        "hu": "Keresd meg Anna Reginát, Pomeroon-Supenaam közigazgatási központját.",
+        "ro": "Găsește Anna Regina, centrul administrativ al regiunii Pomeroon-Supenaam.",
+        "en": "Find Anna Regina, the administrative center of Pomeroon-Supenaam."
+      }
+    },
+    {
+      "id": "gy-find-mabaruma",
+      "type": "find_poi",
+      "targetPoiId": "mabaruma-cities-v2",
+      "question": {
+        "de": "Finde Mabaruma im äußersten Norden Guyanas.",
+        "hu": "Keresd meg Mabarumát Guyana legészakibb részén.",
+        "ro": "Găsește Mabaruma în extremul nord al Guyanei.",
+        "en": "Find Mabaruma in far northern Guyana."
+      }
+    },
+    {
+      "id": "gy-find-mahdia",
+      "type": "find_poi",
+      "targetPoiId": "mahdia-cities-v2",
+      "question": {
+        "de": "Finde Mahdia im inneren Westen von Guyana.",
+        "hu": "Keresd meg Mahdiát Guyana nyugati belső területén.",
+        "ro": "Găsește Mahdia în vestul interior al Guyanei.",
+        "en": "Find Mahdia in Guyana's western interior."
+      }
+    },
+    {
+      "id": "gy-find-parika",
+      "type": "find_poi",
+      "targetPoiId": "parika-cities-v2",
+      "question": {
+        "de": "Finde Parika an der Mündung des Essequibo.",
+        "hu": "Keresd meg Parikát az Essequibo torkolatánál.",
+        "ro": "Găsește Parika la gura fluviului Essequibo.",
+        "en": "Find Parika at the mouth of the Essequibo."
+      }
+    },
+    {
+      "id": "gy-find-kaieteur-falls",
+      "type": "find_poi",
+      "targetPoiId": "guyana-kaieteur-falls-cities-v2",
+      "question": {
+        "de": "Finde die Kaieteur-Fälle im Potaro-Siparuni-Gebiet.",
+        "hu": "Keresd meg a Kaieteur-vízesést Potaro-Siparuni térségében.",
+        "ro": "Găsește cascada Kaieteur din regiunea Potaro-Siparuni.",
+        "en": "Find Kaieteur Falls in the Potaro-Siparuni region."
+      }
+    },
+    {
+      "id": "gy-find-takutu-bridge",
+      "type": "find_poi",
+      "targetPoiId": "takutu-river-bridge-landmarks-v2",
+      "question": {
+        "de": "Finde die Takutu-River-Brücke an der Grenze zu Brasilien.",
+        "hu": "Keresd meg a Takutu folyó hídját a brazil határnál.",
+        "ro": "Găsește podul peste râul Takutu la granița cu Brazilia.",
+        "en": "Find the Takutu River Bridge on the border with Brazil."
+      }
+    },
+    {
+      "id": "gy-region-pomeroon-supenaam",
+      "type": "find_region",
+      "targetRegionId": "GUY-676",
+      "question": {
+        "de": "Klicke auf Pomeroon-Supenaam an Guyanas Nordküste.",
+        "hu": "Kattints Pomeroon-Supenaam régióra Guyana északi partján.",
+        "ro": "Apasă pe Pomeroon-Supenaam de pe coasta nordică a Guyanei.",
+        "en": "Click Pomeroon-Supenaam on Guyana's northern coast."
+      }
+    },
+    {
+      "id": "gy-region-potaro-siparuni",
+      "type": "find_region",
+      "targetRegionId": "GUY-672",
+      "question": {
+        "de": "Finde Potaro-Siparuni im südwestlichen Landesinneren.",
+        "hu": "Keresd meg Potaro-Siparuni régiót a délnyugati belső területen.",
+        "ro": "Găsește Potaro-Siparuni în interiorul sud-vestic al țării.",
+        "en": "Find Potaro-Siparuni in the southwestern interior."
+      }
+    },
+    {
+      "id": "gy-region-demerara-mahaica",
+      "type": "find_region",
+      "targetRegionId": "GUY-678",
+      "question": {
+        "de": "Klicke auf Demerara-Mahaica, die Region von Georgetown.",
+        "hu": "Kattints Demerara-Mahaica régióra, ahol Georgetown található.",
+        "ro": "Apasă pe Demerara-Mahaica, regiunea în care se află Georgetown.",
+        "en": "Click Demerara-Mahaica, the region where Georgetown is located."
+      }
+    },
+    {
+      "id": "gy-region-cuyuni-mazaruni",
+      "type": "find_region",
+      "targetRegionId": "GUY-680",
+      "question": {
+        "de": "Finde Cuyuni-Mazaruni im Westen an der venezolanischen Grenze.",
+        "hu": "Keresd meg Cuyuni-Mazaruni régiót nyugaton, a venezuelai határnál.",
+        "ro": "Găsește Cuyuni-Mazaruni în vest, la granița cu Venezuela.",
+        "en": "Find Cuyuni-Mazaruni in the west along the Venezuelan border."
+      }
+    },
+    {
+      "id": "gy-region-essequibo-islands-west-demerara",
+      "type": "find_region",
+      "targetRegionId": "GUY-679",
+      "question": {
+        "de": "Finde Essequibo Islands-West Demerara westlich von Georgetown.",
+        "hu": "Keresd meg az Essequibo Islands-West Demerara régiót Georgetown nyugati oldalán.",
+        "ro": "Găsește Essequibo Islands-West Demerara la vest de Georgetown.",
+        "en": "Find Essequibo Islands-West Demerara west of Georgetown."
+      }
+    },
+    {
+      "id": "gy-region-mahaica-berbice",
+      "type": "find_region",
+      "targetRegionId": "GUY-671",
+      "question": {
+        "de": "Klicke auf Mahaica-Berbice an Guyanas südöstlicher Küste.",
+        "hu": "Kattints Mahaica-Berbice régióra Guyana délkeleti partvidékén.",
+        "ro": "Apasă pe Mahaica-Berbice de pe coasta sud-estică a Guyanei.",
+        "en": "Click Mahaica-Berbice on Guyana's southeastern coast."
+      }
+    },
+    {
+      "id": "gy-odd-upper-takutu",
+      "type": "odd_one_out",
+      "poiIds": [
+        "annai-cities-v2",
+        "aishalton-cities-v2",
+        "surama-cities-v2",
+        "mahdia-cities-v2"
+      ],
+      "targetPoiId": "mahdia-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht in Upper Takutu-Upper Essequibo?",
+        "hu": "Melyik hely nem Upper Takutu-Upper Essequibo régióban található?",
+        "ro": "Care dintre aceste locuri nu se află în Upper Takutu-Upper Essequibo?",
+        "en": "Which of these places is not in Upper Takutu-Upper Essequibo?"
+      }
+    },
+    {
+      "id": "gy-odd-essequibo-islands-west-demerara",
+      "type": "odd_one_out",
+      "poiIds": [
+        "parika-cities-v2",
+        "vreed-en-hoop-cities-v2",
+        "leonora-cities-v2",
+        "charity-cities-v2"
+      ],
+      "targetPoiId": "charity-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht in Essequibo Islands-West Demerara?",
+        "hu": "Melyik hely nem az Essequibo Islands-West Demerara régióban található?",
+        "ro": "Care dintre aceste locuri nu se află în Essequibo Islands-West Demerara?",
+        "en": "Which of these places is not in Essequibo Islands-West Demerara?"
+      }
+    },
+    {
+      "id": "gy-odd-barima-waini",
+      "type": "odd_one_out",
+      "poiIds": [
+        "mabaruma-cities-v2",
+        "port-kaituma-cities-v2",
+        "matthews-ridge-cities-v2",
+        "bartica-cities-v2"
+      ],
+      "targetPoiId": "bartica-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht in Barima-Waini?",
+        "hu": "Melyik hely nem Barima-Waini régióban található?",
+        "ro": "Care dintre aceste locuri nu se află în Barima-Waini?",
+        "en": "Which of these places is not in Barima-Waini?"
+      }
+    },
+    {
+      "id": "gy-odd-demerara-mahaica",
+      "type": "odd_one_out",
+      "poiIds": [
+        "mahaica-village-cities-v2",
+        "buxton-cities-v2",
+        "victoria-cities-v2",
+        "rosignol-cities-v2"
+      ],
+      "targetPoiId": "rosignol-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt nicht in Demerara-Mahaica?",
+        "hu": "Melyik hely nem Demerara-Mahaica régióban található?",
+        "ro": "Care dintre aceste locuri nu se află în Demerara-Mahaica?",
+        "en": "Which of these places is not in Demerara-Mahaica?"
+      }
+    },
+    {
+      "id": "gy-sequence-coast-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "charity-cities-v2",
+        "anna-regina-cities-v2",
+        "parika-cities-v2",
+        "vreed-en-hoop-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "charity-cities-v2",
+        "anna-regina-cities-v2",
+        "parika-cities-v2",
+        "vreed-en-hoop-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Charity, Anna Regina, Parika und Vreed-en-Hoop von West nach Ost an.",
+        "hu": "Kattints Charityre, Anna Reginára, Parikára és Vreed-en-Hoopra nyugatról keletre.",
+        "ro": "Apasă Charity, Anna Regina, Parika și Vreed-en-Hoop de la vest la est.",
+        "en": "Click Charity, Anna Regina, Parika, and Vreed-en-Hoop from west to east."
+      }
+    },
+    {
+      "id": "gy-sequence-north-south-settlements",
+      "type": "sequence",
+      "poiIds": [
+        "mabaruma-cities-v2",
+        "charity-cities-v2",
+        "mahdia-cities-v2",
+        "aishalton-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "mabaruma-cities-v2",
+        "charity-cities-v2",
+        "mahdia-cities-v2",
+        "aishalton-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Mabaruma, Charity, Mahdia und Aishalton von Nord nach Süd an.",
+        "hu": "Kattints Mabarumára, Charityre, Mahdiára és Aishaltonra északról délre.",
+        "ro": "Apasă Mabaruma, Charity, Mahdia și Aishalton de la nord la sud.",
+        "en": "Click Mabaruma, Charity, Mahdia, and Aishalton from north to south."
+      }
+    },
+    {
+      "id": "gy-sequence-west-east-highlands",
+      "type": "sequence",
+      "poiIds": [
+        "guyana-mount-roraima-nature-v2",
+        "orinduik-cities-v2",
+        "mahdia-cities-v2",
+        "bartica-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "guyana-mount-roraima-nature-v2",
+        "orinduik-cities-v2",
+        "mahdia-cities-v2",
+        "bartica-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Mount Roraima, Orinduik, Mahdia und Bartica von West nach Ost an.",
+        "hu": "Kattints a Mount Roraimára, Orinduikra, Mahdiára és Barticára nyugatról keletre.",
+        "ro": "Apasă Muntele Roraima, Orinduik, Mahdia și Bartica de la vest la est.",
+        "en": "Click Mount Roraima, Orinduik, Mahdia, and Bartica from west to east."
+      }
+    },
+    {
+      "id": "gy-sequence-north-south-routes",
+      "type": "sequence",
+      "poiIds": [
+        "guyana-shell-beach-cities-v2",
+        "port-kaituma-cities-v2",
+        "bartica-cities-v2",
+        "karanambu-wetlands-life-v2"
+      ],
+      "orderedPoiIds": [
+        "guyana-shell-beach-cities-v2",
+        "port-kaituma-cities-v2",
+        "bartica-cities-v2",
+        "karanambu-wetlands-life-v2"
+      ],
+      "question": {
+        "de": "Klicke Shell Beach, Port Kaituma, Bartica und die Karanambu Wetlands von Nord nach Süd an.",
+        "hu": "Kattints Shell Beachre, Port Kaitumára, Barticára és a Karanambu Wetlands területére északról délre.",
+        "ro": "Apasă Shell Beach, Port Kaituma, Bartica și zona umedă Karanambu de la nord la sud.",
+        "en": "Click Shell Beach, Port Kaituma, Bartica, and the Karanambu Wetlands from north to south."
+      }
+    }
+  ]
+}

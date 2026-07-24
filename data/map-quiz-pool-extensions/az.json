@@ -1,0 +1,320 @@
+{
+  "az": [
+    {
+      "id": "az-find-sumqayit-coast",
+      "type": "find_poi",
+      "targetPoiId": "sumqayit-cities-v2",
+      "question": {
+        "de": "Finde Sumqayit nördlich von Baku an der Küste des Kaspischen Meeres.",
+        "hu": "Keresd meg Szumgajitot Bakutól északra, a Kaszpi-tenger partján.",
+        "ro": "Găsește Sumqayit la nord de Baku, pe țărmul Mării Caspice.",
+        "en": "Find Sumqayit north of Baku on the Caspian coast."
+      }
+    },
+    {
+      "id": "az-find-quba-foothills",
+      "type": "find_poi",
+      "targetPoiId": "quba-cities-v2",
+      "question": {
+        "de": "Finde Quba am nordöstlichen Rand des Großen Kaukasus.",
+        "hu": "Keresd meg Kubát a Nagy-Kaukázus északkeleti előterében.",
+        "ro": "Găsește Quba la poalele nord-estice ale Caucazului Mare.",
+        "en": "Find Quba in the northeastern foothills of the Greater Caucasus."
+      }
+    },
+    {
+      "id": "az-find-astara-border",
+      "type": "find_poi",
+      "targetPoiId": "azerbaijan-astara-cities-v2",
+      "question": {
+        "de": "Klicke auf Astara an der südlichen Grenze zum Iran.",
+        "hu": "Kattints Astarára a déli iráni határnál.",
+        "ro": "Apasă pe Astara la granița sudică cu Iranul.",
+        "en": "Click Astara on the southern border with Iran."
+      }
+    },
+    {
+      "id": "az-find-maiden-tower",
+      "type": "find_poi",
+      "targetPoiId": "maiden-tower-landmarks-v2",
+      "question": {
+        "de": "Finde den Jungfrauenturm in der Altstadt von Baku.",
+        "hu": "Keresd meg a Leánytornyot Baku óvárosában.",
+        "ro": "Găsește Turnul Fecioarei în orașul vechi din Baku.",
+        "en": "Find the Maiden Tower in Baku's old city."
+      }
+    },
+    {
+      "id": "az-find-lake-goygol",
+      "type": "find_poi",
+      "targetPoiId": "lake-goygol-nature-v2",
+      "question": {
+        "de": "Klicke auf den Goygol-See westlich von Gandscha.",
+        "hu": "Kattints a Gandzsától nyugatra fekvő Göygöl-tóra.",
+        "ro": "Apasă pe lacul Goygol aflat la vest de Ganja.",
+        "en": "Click Lake Goygol west of Ganja."
+      }
+    },
+    {
+      "id": "az-region-qusar",
+      "type": "find_region",
+      "targetRegionId": "AZE-1729",
+      "question": {
+        "de": "Klicke auf den Rayon Qusar an der Nordgrenze.",
+        "hu": "Kattints a Qusar járásra az északi határ mentén.",
+        "ro": "Apasă pe raionul Qusar de la granița nordică.",
+        "en": "Click the Qusar district on the northern border."
+      }
+    },
+    {
+      "id": "az-region-qabala",
+      "type": "find_region",
+      "targetRegionId": "AZE-1724",
+      "question": {
+        "de": "Finde den Rayon Qabala im nördlichen Landesinneren.",
+        "hu": "Keresd meg a Qabala járást az ország északi belső részén.",
+        "ro": "Găsește raionul Qabala în nordul interior al țării.",
+        "en": "Find the Qabala district in the northern interior."
+      }
+    },
+    {
+      "id": "az-region-astara",
+      "type": "find_region",
+      "targetRegionId": "AZE-1695",
+      "question": {
+        "de": "Klicke auf den südlichsten Rayon Astara.",
+        "hu": "Kattints a legdélibb Astara járásra.",
+        "ro": "Apasă pe raionul Astara, cel mai sudic.",
+        "en": "Click the southernmost Astara district."
+      }
+    },
+    {
+      "id": "az-region-absheron",
+      "type": "find_region",
+      "targetRegionId": "AZE-1690",
+      "question": {
+        "de": "Finde den Rayon Abşeron auf der Halbinsel östlich von Baku.",
+        "hu": "Keresd meg az Abşeron járást a Bakutól keletre nyúló félszigeten.",
+        "ro": "Găsește raionul Abșeron pe peninsula aflată la est de Baku.",
+        "en": "Find the Absheron district on the peninsula east of Baku."
+      }
+    },
+    {
+      "id": "az-odd-northernmost-zaqatala",
+      "type": "odd_one_out",
+      "poiIds": [
+        "azerbaijan-astara-cities-v2",
+        "lankaran-cities-v2",
+        "masalli-cities-v2",
+        "zaqatala-cities-v2"
+      ],
+      "targetPoiId": "zaqatala-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Norden?",
+        "hu": "E helyek közül melyik fekszik a legészakabbra?",
+        "ro": "Care dintre aceste locuri se află cel mai la nord?",
+        "en": "Which of these places lies farthest north?"
+      }
+    },
+    {
+      "id": "az-odd-westernmost-tovuz",
+      "type": "odd_one_out",
+      "poiIds": [
+        "baku-cities-v2",
+        "shirvan-cities-v2",
+        "goychay-cities-v2",
+        "tovuz-cities-v2"
+      ],
+      "targetPoiId": "tovuz-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Westen?",
+        "hu": "E helyek közül melyik fekszik a legnyugatabbra?",
+        "ro": "Care dintre aceste locuri se află cel mai la vest?",
+        "en": "Which of these places lies farthest west?"
+      }
+    },
+    {
+      "id": "az-odd-coast-sumqayit",
+      "type": "odd_one_out",
+      "poiIds": [
+        "ganja-cities-v2",
+        "qabala-cities-v2",
+        "yevlakh-cities-v2",
+        "sumqayit-cities-v2"
+      ],
+      "targetPoiId": "sumqayit-cities-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt direkt an der Küste des Kaspischen Meeres?",
+        "hu": "E helyek közül melyik fekszik közvetlenül a Kaszpi-tenger partján?",
+        "ro": "Care dintre aceste locuri se află direct pe țărmul Mării Caspice?",
+        "en": "Which of these places lies directly on the Caspian coast?"
+      }
+    },
+    {
+      "id": "az-odd-nakhchivan-momine",
+      "type": "odd_one_out",
+      "poiIds": [
+        "momine-khatun-mausoleum-landmarks-v2",
+        "maiden-tower-landmarks-v2",
+        "shaki-khans-palace-landmarks-v2",
+        "gobustan-rock-art-landmarks-v2"
+      ],
+      "targetPoiId": "momine-khatun-mausoleum-landmarks-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt in der Exklave Nachitschewan?",
+        "hu": "E helyek közül melyik fekszik a nahicseváni exklávéban?",
+        "ro": "Care dintre aceste locuri se află în exclava Nahicevan?",
+        "en": "Which of these places lies in the Nakhchivan exclave?"
+      }
+    },
+    {
+      "id": "az-odd-easternmost-yanar-dag",
+      "type": "odd_one_out",
+      "poiIds": [
+        "gobustan-rock-art-landmarks-v2",
+        "maiden-tower-landmarks-v2",
+        "heydar-aliyev-center-landmarks-v2",
+        "yanar-dag-landmarks-v2"
+      ],
+      "targetPoiId": "yanar-dag-landmarks-v2",
+      "question": {
+        "de": "Welcher dieser Orte liegt am weitesten im Osten?",
+        "hu": "E helyek közül melyik fekszik a legkeletebbre?",
+        "ro": "Care dintre aceste locuri se află cel mai la est?",
+        "en": "Which of these places lies farthest east?"
+      }
+    },
+    {
+      "id": "az-sequence-west-east-western-corridor",
+      "type": "sequence",
+      "poiIds": [
+        "tovuz-cities-v2",
+        "ganja-cities-v2",
+        "mingachevir-cities-v2",
+        "baku-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "tovuz-cities-v2",
+        "ganja-cities-v2",
+        "mingachevir-cities-v2",
+        "baku-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Tovuz, Gandscha, Mingəçevir und Baku von Westen nach Osten an.",
+        "hu": "Kattints Tovuzra, Gandzsára, Mingəcsevirre és Bakura nyugatról keletre.",
+        "ro": "Apasă pe Tovuz, Ganja, Mingachevir și Baku de la vest la est.",
+        "en": "Click Tovuz, Ganja, Mingachevir and Baku from west to east."
+      }
+    },
+    {
+      "id": "az-sequence-north-south-caspian-arc",
+      "type": "sequence",
+      "poiIds": [
+        "khachmaz-cities-v2",
+        "quba-cities-v2",
+        "baku-cities-v2",
+        "azerbaijan-astara-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "khachmaz-cities-v2",
+        "quba-cities-v2",
+        "baku-cities-v2",
+        "azerbaijan-astara-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Xaçmaz, Quba, Baku und Astara von Norden nach Süden an.",
+        "hu": "Kattints Xaçmazra, Kubára, Bakura és Astarára északról délre.",
+        "ro": "Apasă pe Xaçmaz, Quba, Baku și Astara de la nord la sud.",
+        "en": "Click Khachmaz, Quba, Baku and Astara from north to south."
+      }
+    },
+    {
+      "id": "az-sequence-west-east-baku-landmarks",
+      "type": "sequence",
+      "poiIds": [
+        "gobustan-rock-art-landmarks-v2",
+        "maiden-tower-landmarks-v2",
+        "heydar-aliyev-center-landmarks-v2",
+        "yanar-dag-landmarks-v2"
+      ],
+      "orderedPoiIds": [
+        "gobustan-rock-art-landmarks-v2",
+        "maiden-tower-landmarks-v2",
+        "heydar-aliyev-center-landmarks-v2",
+        "yanar-dag-landmarks-v2"
+      ],
+      "question": {
+        "de": "Klicke Gobustan-Felskunst, den Jungfrauenturm, das Heydar-Aliyev-Zentrum und Yanar Dağ von Westen nach Osten an.",
+        "hu": "Kattints a Gobusztáni sziklarajzokra, a Leánytoronyra, a Heydər Əliyev Központra és Yanar Dağra nyugatról keletre.",
+        "ro": "Apasă pe arta rupestră din Gobustan, Turnul Fecioarei, Centrul Heydar Aliyev și Yanar Dağ de la vest la est.",
+        "en": "Click Gobustan Rock Art, the Maiden Tower, the Heydar Aliyev Center and Yanar Dag from west to east."
+      }
+    },
+    {
+      "id": "az-sequence-north-south-nakhchivan",
+      "type": "sequence",
+      "poiIds": [
+        "lake-batabat-nature-v2",
+        "nakhchivan-cities-v2",
+        "mount-qapijiq-nature-v2",
+        "zangezur-national-park-nature-v2"
+      ],
+      "orderedPoiIds": [
+        "lake-batabat-nature-v2",
+        "nakhchivan-cities-v2",
+        "mount-qapijiq-nature-v2",
+        "zangezur-national-park-nature-v2"
+      ],
+      "question": {
+        "de": "Klicke den Batabat-See, Nachitschewan, den Berg Qapijiq und den Zəngəzur-Nationalpark von Norden nach Süden an.",
+        "hu": "Kattints a Batabat-tóra, Nahicsevánra, a Qapıcıq-hegyre és a Zəngəzur Nemzeti Parkra északról délre.",
+        "ro": "Apasă pe lacul Batabat, Nahicevan, muntele Qapijiq și Parcul Național Zəngəzur de la nord la sud.",
+        "en": "Click Lake Batabat, Nakhchivan, Mount Qapijiq and Zangezur National Park from north to south."
+      }
+    },
+    {
+      "id": "az-sequence-west-east-greater-caucasus",
+      "type": "sequence",
+      "poiIds": [
+        "zaqatala-cities-v2",
+        "shaki-cities-v2",
+        "qabala-cities-v2",
+        "shamakhi-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "zaqatala-cities-v2",
+        "shaki-cities-v2",
+        "qabala-cities-v2",
+        "shamakhi-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Zaqatala, Şəki, Qabala und Şamaxı von Westen nach Osten an.",
+        "hu": "Kattints Zaqatalára, Şəkire, Qabalára és Şamaxıra nyugatról keletre.",
+        "ro": "Apasă pe Zaqatala, Șəki, Qabala și Șamaxı de la vest la est.",
+        "en": "Click Zaqatala, Shaki, Qabala and Shamakhi from west to east."
+      }
+    },
+    {
+      "id": "az-sequence-north-south-highlands-to-border",
+      "type": "sequence",
+      "poiIds": [
+        "azerbaijan-khinalug-cities-v2",
+        "lahij-village-landmarks-v2",
+        "baku-cities-v2",
+        "azerbaijan-astara-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "azerbaijan-khinalug-cities-v2",
+        "lahij-village-landmarks-v2",
+        "baku-cities-v2",
+        "azerbaijan-astara-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Xınalıq, Lahıc, Baku und Astara von Norden nach Süden an.",
+        "hu": "Kattints Xınalıqra, Lahıcra, Bakura és Astarára északról délre.",
+        "ro": "Apasă pe Xınalıq, Lahıc, Baku și Astara de la nord la sud.",
+        "en": "Click Khinalug, Lahij, Baku and Astara from north to south."
+      }
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "ps": [
+    {
+      "id": "ps-find-jericho-city-extension",
+      "type": "find_poi",
+      "targetPoiId": "palestine-jericho-cities-v2",
+      "question": {
+        "de": "Finde Jericho nahe dem Jordantal.",
+        "hu": "Keresd meg Jerikót a Jordán-völgy közelében.",
+        "ro": "Găsește Ierihonul aproape de valea Iordanului.",
+        "en": "Find Jericho near the Jordan Valley."
+      }
+    },
+    {
+      "id": "ps-find-ramallah-city-extension",
+      "type": "find_poi",
+      "targetPoiId": "palestine-ramallah-cities-v2",
+      "question": {
+        "de": "Klicke auf Ramallah im zentralen Westjordanland.",
+        "hu": "Kattints Rámalláhra Ciszjordánia középső részén.",
+        "ro": "Apasă pe Ramallah în centrul Cisiordaniei.",
+        "en": "Click Ramallah in the central West Bank."
+      }
+    },
+    {
+      "id": "ps-find-tulkarm-city-extension",
+      "type": "find_poi",
+      "targetPoiId": "palestine-tulkarm-cities-v2",
+      "question": {
+        "de": "Finde Tulkarm im Nordwesten des Westjordanlands.",
+        "hu": "Keresd meg Tulkarmot Ciszjordánia északnyugati részén.",
+        "ro": "Găsește Tulkarm în nord-vestul Cisiordaniei.",
+        "en": "Find Tulkarm in the northwestern West Bank."
+      }
+    },
+    {
+      "id": "ps-find-deir-al-balah-city-extension",
+      "type": "find_poi",
+      "targetPoiId": "palestine-deir-al-balah-cities-v2",
+      "question": {
+        "de": "Finde Deir al-Balah im zentralen Gazastreifen.",
+        "hu": "Keresd meg Deir al-Balahot a Gázai övezet középső részén.",
+        "ro": "Găsește Deir al-Balah în partea centrală a Fâșiei Gaza.",
+        "en": "Find Deir al-Balah in the central Gaza Strip."
+      }
+    },
+    {
+      "id": "ps-find-hishams-palace-extension",
+      "type": "find_poi",
+      "targetPoiId": "palestine-hishams-palace-landmarks-v2",
+      "question": {
+        "de": "Finde den Palast von Hischam bei Jericho.",
+        "hu": "Keresd meg Hisham palotáját Jerikó közelében.",
+        "ro": "Găsește Palatul lui Hisham de lângă Ierihon.",
+        "en": "Find Hisham's Palace near Jericho."
+      }
+    },
+    {
+      "id": "ps-find-palestinian-museum-extension",
+      "type": "find_poi",
+      "targetPoiId": "palestine-palestinian-museum-landmarks-v2",
+      "question": {
+        "de": "Klicke auf das Palästinensische Museum bei Birzeit.",
+        "hu": "Kattints a Birzeit melletti Palesztin Múzeumra.",
+        "ro": "Apasă pe Muzeul Palestinian de lângă Birzeit.",
+        "en": "Click the Palestinian Museum near Birzeit."
+      }
+    },
+    {
+      "id": "ps-region-west-bank-extension",
+      "type": "find_region",
+      "targetRegionId": "WEB+00?",
+      "question": {
+        "de": "Klicke auf das Westjordanland.",
+        "hu": "Kattints Ciszjordániára.",
+        "ro": "Apasă pe Cisiordania.",
+        "en": "Click the West Bank."
+      }
+    },
+    {
+      "id": "ps-region-gaza-strip-extension",
+      "type": "find_region",
+      "targetRegionId": "GAZ+00?",
+      "question": {
+        "de": "Klicke auf den schmalen Gazastreifen an der Mittelmeerküste.",
+        "hu": "Kattints a Földközi-tenger partján fekvő keskeny Gázai övezetre.",
+        "ro": "Apasă pe îngusta Fâșie Gaza de pe coasta Mediteranei.",
+        "en": "Click the narrow Gaza Strip on the Mediterranean coast."
+      }
+    },
+    {
+      "id": "ps-odd-coastal-city-extension",
+      "type": "odd_one_out",
+      "poiIds": [
+        "palestine-ramallah-cities-v2",
+        "palestine-jericho-cities-v2",
+        "palestine-gaza-city-cities-v2"
+      ],
+      "targetPoiId": "palestine-gaza-city-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt direkt an der Mittelmeerküste?",
+        "hu": "Melyik város fekszik közvetlenül a Földközi-tenger partján?",
+        "ro": "Care dintre aceste orașe se află direct pe coasta Mediteranei?",
+        "en": "Which of these cities lies directly on the Mediterranean coast?"
+      }
+    },
+    {
+      "id": "ps-odd-farthest-east-corridor-extension",
+      "type": "odd_one_out",
+      "poiIds": [
+        "palestine-gaza-city-cities-v2",
+        "palestine-east-jerusalem-cities-v2",
+        "palestine-jericho-cities-v2"
+      ],
+      "targetPoiId": "palestine-jericho-cities-v2",
+      "question": {
+        "de": "Welche dieser Orte liegt am weitesten im Osten?",
+        "hu": "Melyik hely fekszik a legkeletebbre?",
+        "ro": "Care dintre aceste locuri se află cel mai la est?",
+        "en": "Which of these places lies farthest east?"
+      }
+    },
+    {
+      "id": "ps-odd-south-west-bank-extension",
+      "type": "odd_one_out",
+      "poiIds": [
+        "palestine-nablus-cities-v2",
+        "palestine-ramallah-cities-v2",
+        "palestine-hebron-cities-v2"
+      ],
+      "targetPoiId": "palestine-hebron-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt am weitesten im Süden des Westjordanlands?",
+        "hu": "Melyik város fekszik Ciszjordánia legdélibb részén ezek közül?",
+        "ro": "Care dintre aceste orașe se află cel mai la sud în Cisiordania?",
+        "en": "Which of these cities lies farthest south in the West Bank?"
+      }
+    },
+    {
+      "id": "ps-odd-gaza-member-extension",
+      "type": "odd_one_out",
+      "poiIds": [
+        "palestine-jericho-cities-v2",
+        "palestine-khan-yunis-cities-v2",
+        "palestine-nablus-cities-v2"
+      ],
+      "targetPoiId": "palestine-khan-yunis-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt im Gazastreifen?",
+        "hu": "Melyik város található a Gázai övezetben?",
+        "ro": "Care dintre aceste orașe se află în Fâșia Gaza?",
+        "en": "Which of these cities is in the Gaza Strip?"
+      }
+    },
+    {
+      "id": "ps-odd-northern-gaza-extension",
+      "type": "odd_one_out",
+      "poiIds": [
+        "palestine-rafah-cities-v2",
+        "palestine-khan-yunis-cities-v2",
+        "palestine-gaza-city-cities-v2"
+      ],
+      "targetPoiId": "palestine-gaza-city-cities-v2",
+      "question": {
+        "de": "Welche dieser Städte liegt im Gazastreifen am weitesten im Norden?",
+        "hu": "Melyik város fekszik ezek közül a legészakabbra a Gázai övezetben?",
+        "ro": "Care dintre aceste orașe se află cel mai la nord în Fâșia Gaza?",
+        "en": "Which of these cities lies farthest north in the Gaza Strip?"
+      }
+    },
+    {
+      "id": "ps-sequence-west-east-north-extension",
+      "type": "sequence",
+      "poiIds": [
+        "palestine-tulkarm-cities-v2",
+        "palestine-nablus-cities-v2",
+        "palestine-tubas-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "palestine-tulkarm-cities-v2",
+        "palestine-nablus-cities-v2",
+        "palestine-tubas-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Tulkarm, Nablus und Tubas von Westen nach Osten an.",
+        "hu": "Kattints Tulkarmra, Nabluszra és Tubaszra nyugatról keletre.",
+        "ro": "Apasă pe Tulkarm, Nablus și Tubas de la vest la est.",
+        "en": "Click Tulkarm, Nablus and Tubas from west to east."
+      }
+    },
+    {
+      "id": "ps-sequence-west-east-central-extension",
+      "type": "sequence",
+      "poiIds": [
+        "palestine-ramallah-cities-v2",
+        "palestine-east-jerusalem-cities-v2",
+        "palestine-jericho-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "palestine-ramallah-cities-v2",
+        "palestine-east-jerusalem-cities-v2",
+        "palestine-jericho-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Ramallah, Ostjerusalem und Jericho von Westen nach Osten an.",
+        "hu": "Kattints Rámalláhra, Kelet-Jeruzsálemre és Jerikóra nyugatról keletre.",
+        "ro": "Apasă pe Ramallah, Ierusalimul de Est și Ierihon de la vest la est.",
+        "en": "Click Ramallah, East Jerusalem and Jericho from west to east."
+      }
+    },
+    {
+      "id": "ps-sequence-south-highlands-extension",
+      "type": "sequence",
+      "poiIds": [
+        "palestine-beit-ummar-cities-v2",
+        "palestine-hebron-cities-v2",
+        "palestine-yatta-cities-v2",
+        "palestine-as-samu-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "palestine-beit-ummar-cities-v2",
+        "palestine-hebron-cities-v2",
+        "palestine-yatta-cities-v2",
+        "palestine-as-samu-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Beit Ummar, Hebron, Yatta und as-Samu von Norden nach Süden an.",
+        "hu": "Kattints Beit Ummarra, Hebronra, Yattára és as-Samúra északról délre.",
+        "ro": "Apasă pe Beit Ummar, Hebron, Yatta și as-Samu de la nord la sud.",
+        "en": "Click Beit Ummar, Hebron, Yatta and as-Samu from north to south."
+      }
+    },
+    {
+      "id": "ps-sequence-gaza-corridor-extension",
+      "type": "sequence",
+      "poiIds": [
+        "palestine-beit-hanoun-cities-v2",
+        "palestine-gaza-city-cities-v2",
+        "palestine-deir-al-balah-cities-v2",
+        "palestine-rafah-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "palestine-beit-hanoun-cities-v2",
+        "palestine-gaza-city-cities-v2",
+        "palestine-deir-al-balah-cities-v2",
+        "palestine-rafah-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Beit Hanoun, Gaza-Stadt, Deir al-Balah und Rafah von Norden nach Süden an.",
+        "hu": "Kattints Beit Hanúnra, Gázavárosra, Deir al-Balahra és Rafahra északról délre.",
+        "ro": "Apasă pe Beit Hanoun, Gaza, Deir al-Balah și Rafah de la nord la sud.",
+        "en": "Click Beit Hanoun, Gaza City, Deir al-Balah and Rafah from north to south."
+      }
+    },
+    {
+      "id": "ps-sequence-west-east-hebron-extension",
+      "type": "sequence",
+      "poiIds": [
+        "palestine-idhna-cities-v2",
+        "palestine-hebron-cities-v2",
+        "palestine-bani-naim-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "palestine-idhna-cities-v2",
+        "palestine-hebron-cities-v2",
+        "palestine-bani-naim-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Idhna, Hebron und Bani Na'im von Westen nach Osten an.",
+        "hu": "Kattints Idhnára, Hebronra és Bani Na'imra nyugatról keletre.",
+        "ro": "Apasă pe Idhna, Hebron și Bani Na'im de la vest la est.",
+        "en": "Click Idhna, Hebron and Bani Na'im from west to east."
+      }
+    },
+    {
+      "id": "ps-find-jacobs-well-extension",
+      "type": "find_poi",
+      "targetPoiId": "palestine-jacobs-well-landmarks-v2",
+      "question": {
+        "de": "Finde den Jakobsbrunnen bei Nablus.",
+        "hu": "Keresd meg Jákob kútját Nablusz közelében.",
+        "ro": "Găsește Fântâna lui Iacob de lângă Nablus.",
+        "en": "Find Jacob's Well near Nablus."
+      }
+    },
+    {
+      "id": "ps-sequence-jericho-landmarks-extension",
+      "type": "sequence",
+      "poiIds": [
+        "palestine-mount-of-temptation-landmarks-v2",
+        "palestine-jericho-cities-v2",
+        "palestine-hishams-palace-landmarks-v2"
+      ],
+      "orderedPoiIds": [
+        "palestine-mount-of-temptation-landmarks-v2",
+        "palestine-jericho-cities-v2",
+        "palestine-hishams-palace-landmarks-v2"
+      ],
+      "question": {
+        "de": "Klicke das Kloster am Berg der Versuchung, Jericho und den Palast von Hischam von Westen nach Osten an.",
+        "hu": "Kattints a Kísértés hegyén álló kolostorra, Jerikóra és Hisham palotájára nyugatról keletre.",
+        "ro": "Apasă pe Mănăstirea de pe Muntele Ispitirii, Ierihon și Palatul lui Hisham de la vest la est.",
+        "en": "Click the Monastery of the Mount of Temptation, Jericho and Hisham's Palace from west to east."
+      }
+    }
+  ]
+}

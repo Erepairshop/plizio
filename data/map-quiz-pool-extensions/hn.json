@@ -1,0 +1,303 @@
+{
+  "hn": [
+    {
+      "id": "hn-find-trujillo-colonial-new",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde das koloniale Zentrum von Trujillo an der Karibikküste.",
+        "hu": "Keresd meg Trujillo gyarmati központját a karibi partvidéken.",
+        "ro": "Găsește centrul colonial din Trujillo de pe coasta Caraibelor.",
+        "en": "Find the colonial center of Trujillo on the Caribbean coast."
+      },
+      "targetPoiId": "hn-trujillo-historic"
+    },
+    {
+      "id": "hn-find-pico-bonito-new",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde den Nationalpark Pico Bonito südlich von La Ceiba.",
+        "hu": "Keresd meg a Pico Bonito Nemzeti Parkot La Ceibától délre.",
+        "ro": "Găsește Parcul Național Pico Bonito la sud de La Ceiba.",
+        "en": "Find Pico Bonito National Park south of La Ceiba."
+      },
+      "targetPoiId": "hn-picobonito"
+    },
+    {
+      "id": "hn-find-pulhapanzak-new",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde den Pulhapanzak-Wasserfall nahe dem Yojoa-See.",
+        "hu": "Keresd meg a Pulhapanzak-vízesést a Yojoa-tó közelében.",
+        "ro": "Găsește cascada Pulhapanzak de lângă lacul Yojoa.",
+        "en": "Find Pulhapanzak Waterfall near Lake Yojoa."
+      },
+      "targetPoiId": "hn-pulhapanzak"
+    },
+    {
+      "id": "hn-find-talgua-caves-new",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde die Talgua-Höhlen im Osten des Landes.",
+        "hu": "Keresd meg a Talgua-barlangokat az ország keleti részén.",
+        "ro": "Găsește peșterile Talgua în estul țării.",
+        "en": "Find the Talgua Caves in the east of the country."
+      },
+      "targetPoiId": "hn-talgua"
+    },
+    {
+      "id": "hn-find-el-picacho-new",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde die Christusstatue am El Picacho oberhalb von Tegucigalpa.",
+        "hu": "Keresd meg az El Picachón álló Krisztus-szobrot Tegucigalpa fölött.",
+        "ro": "Găsește statuia lui Hristos de pe El Picacho deasupra orașului Tegucigalpa.",
+        "en": "Find the Christ statue at El Picacho above Tegucigalpa."
+      },
+      "targetPoiId": "hn-el-picacho"
+    },
+    {
+      "id": "hn-find-danli-new",
+      "type": "find_poi",
+      "question": {
+        "de": "Finde Danlí im Osten von Honduras.",
+        "hu": "Keresd meg Danlít Honduras keleti részén.",
+        "ro": "Găsește Danlí în estul Hondurasului.",
+        "en": "Find Danlí in eastern Honduras."
+      },
+      "targetPoiId": "danli-cities-v2"
+    },
+    {
+      "id": "hn-region-francisco-morazan-new",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf Francisco Morazán, das Departamento rund um Tegucigalpa.",
+        "hu": "Kattints Francisco Morazán megyére, amely Tegucigalpát veszi körül.",
+        "ro": "Apasă pe Francisco Morazán, departamentul din jurul orașului Tegucigalpa.",
+        "en": "Click Francisco Morazán, the department around Tegucigalpa."
+      },
+      "targetRegionId": "HND-639"
+    },
+    {
+      "id": "hn-region-atlantida-new",
+      "type": "find_region",
+      "question": {
+        "de": "Finde Atlántida an der nördlichen Karibikküste.",
+        "hu": "Keresd meg Atlántida megyét az északi karibi partvidéken.",
+        "ro": "Găsește Atlántida de pe coasta nordică a Caraibelor.",
+        "en": "Find Atlántida on the northern Caribbean coast."
+      },
+      "targetRegionId": "HND-637"
+    },
+    {
+      "id": "hn-region-gracias-a-dios-new",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf Gracias a Dios im abgelegenen Osten an der Moskitoküste.",
+        "hu": "Kattints Gracias a Dios megyére a távoli keleti, miskitó-parti térségben.",
+        "ro": "Apasă pe Gracias a Dios din estul îndepărtat, pe Coasta Mosquito.",
+        "en": "Click Gracias a Dios in the remote east on the Mosquito Coast."
+      },
+      "targetRegionId": "HND-640"
+    },
+    {
+      "id": "hn-region-copan-new",
+      "type": "find_region",
+      "question": {
+        "de": "Finde Copán im äußersten Westen an der Grenze zu Guatemala.",
+        "hu": "Keresd meg Copán megyét a legnyugatibb részen, Guatemala határánál.",
+        "ro": "Găsește Copán în extremul vest, la granița cu Guatemala.",
+        "en": "Find Copán in the far west on the border with Guatemala."
+      },
+      "targetRegionId": "HND-651"
+    },
+    {
+      "id": "hn-region-choluteca-new",
+      "type": "find_region",
+      "question": {
+        "de": "Klicke auf Choluteca im Süden nahe dem Golf von Fonseca.",
+        "hu": "Kattints Choluteca megyére délen, a Fonseca-öböl közelében.",
+        "ro": "Apasă pe Choluteca în sud, aproape de Golful Fonseca.",
+        "en": "Click Choluteca in the south near the Gulf of Fonseca."
+      },
+      "targetRegionId": "HND-661"
+    },
+    {
+      "id": "hn-odd-not-main-bay-island-new",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort ist keine der drei Hauptinseln der Bay Islands?",
+        "hu": "Melyik hely nem a Bay Islands három fő szigetének egyike?",
+        "ro": "Care loc nu este una dintre cele trei insule principale ale Bay Islands?",
+        "en": "Which place is not one of the three main Bay Islands?"
+      },
+      "poiIds": [
+        "hn-roatan",
+        "hn-utila",
+        "hn-guanaja-island",
+        "hn-cayoscochinos"
+      ],
+      "targetPoiId": "hn-cayoscochinos"
+    },
+    {
+      "id": "hn-odd-not-olancho-new",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort liegt nicht im Departamento Olancho?",
+        "hu": "Melyik hely nem Olancho megyében található?",
+        "ro": "Care loc nu se află în departamentul Olancho?",
+        "en": "Which place is not in Olancho Department?"
+      },
+      "poiIds": [
+        "juticalpa-cities-v2",
+        "hn-talgua",
+        "hn-curruste",
+        "hn-rioplatano"
+      ],
+      "targetPoiId": "hn-rioplatano"
+    },
+    {
+      "id": "hn-odd-not-caribbean-new",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort liegt nicht an der Karibikküste oder auf einer Karibikinsel?",
+        "hu": "Melyik hely nem a karibi parton vagy egy karibi szigeten található?",
+        "ro": "Care loc nu se află pe coasta Caraibelor sau pe o insulă caraibiană?",
+        "en": "Which place is not on the Caribbean coast or on a Caribbean island?"
+      },
+      "poiIds": [
+        "hn-san-fernando",
+        "hn-trujillo-historic",
+        "hn-roatan",
+        "choluteca-cities-v2"
+      ],
+      "targetPoiId": "choluteca-cities-v2"
+    },
+    {
+      "id": "hn-odd-not-western-highlands-new",
+      "type": "odd_one_out",
+      "question": {
+        "de": "Welcher Ort liegt nicht im westlichen Hochland von Honduras?",
+        "hu": "Melyik hely nem Honduras nyugati hegyvidékén található?",
+        "ro": "Care loc nu se află în înălțimile vestice ale Hondurasului?",
+        "en": "Which place is not in the western highlands of Honduras?"
+      },
+      "poiIds": [
+        "hn-copan",
+        "gracias-cities-v2",
+        "la-esperanza-cities-v2",
+        "hn-el-picacho"
+      ],
+      "targetPoiId": "hn-el-picacho"
+    },
+    {
+      "id": "hn-sequence-west-east-western-corridor-new",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke von West nach Ost: Copán-Ruinen, Santa Rosa de Copán, Gracias, Tegucigalpa.",
+        "hu": "Kattints nyugatról keletre: Copán romjai, Santa Rosa de Copán, Gracias, Tegucigalpa.",
+        "ro": "Apasă de la vest la est: ruinele Copán, Santa Rosa de Copán, Gracias, Tegucigalpa.",
+        "en": "Click from west to east: Copán Ruins, Santa Rosa de Copán, Gracias, Tegucigalpa."
+      },
+      "poiIds": [
+        "hn-copan",
+        "santa-rosa-de-copan-cities-v2",
+        "gracias-cities-v2",
+        "hn-tegucigalpa"
+      ],
+      "orderedPoiIds": [
+        "hn-copan",
+        "santa-rosa-de-copan-cities-v2",
+        "gracias-cities-v2",
+        "hn-tegucigalpa"
+      ]
+    },
+    {
+      "id": "hn-sequence-north-south-islands-capital-new",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke von Nord nach Süd: Guanaja, Roatán, La Ceiba, Tegucigalpa.",
+        "hu": "Kattints északról délre: Guanaja, Roatán, La Ceiba, Tegucigalpa.",
+        "ro": "Apasă de la nord la sud: Guanaja, Roatán, La Ceiba, Tegucigalpa.",
+        "en": "Click from north to south: Guanaja, Roatán, La Ceiba, Tegucigalpa."
+      },
+      "poiIds": [
+        "hn-guanaja-island",
+        "hn-roatan",
+        "hn-laceiba",
+        "hn-tegucigalpa"
+      ],
+      "orderedPoiIds": [
+        "hn-guanaja-island",
+        "hn-roatan",
+        "hn-laceiba",
+        "hn-tegucigalpa"
+      ]
+    },
+    {
+      "id": "hn-sequence-west-east-caribbean-coast-new",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke von West nach Ost: Festung San Fernando, Lancetilla, La Ceiba, koloniales Trujillo.",
+        "hu": "Kattints nyugatról keletre: San Fernando-erőd, Lancetilla, La Ceiba, Trujillo gyarmati központja.",
+        "ro": "Apasă de la vest la est: fortăreața San Fernando, Lancetilla, La Ceiba, centrul colonial din Trujillo.",
+        "en": "Click from west to east: San Fernando Fortress, Lancetilla, La Ceiba, colonial Trujillo."
+      },
+      "poiIds": [
+        "hn-san-fernando",
+        "hn-lancetilla",
+        "hn-laceiba",
+        "hn-trujillo-historic"
+      ],
+      "orderedPoiIds": [
+        "hn-san-fernando",
+        "hn-lancetilla",
+        "hn-laceiba",
+        "hn-trujillo-historic"
+      ]
+    },
+    {
+      "id": "hn-sequence-west-east-highland-axis-new",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke von West nach Ost: La Esperanza, Comayagua, El Picacho, Danlí.",
+        "hu": "Kattints nyugatról keletre: La Esperanza, Comayagua, El Picacho, Danlí.",
+        "ro": "Apasă de la vest la est: La Esperanza, Comayagua, El Picacho, Danlí.",
+        "en": "Click from west to east: La Esperanza, Comayagua, El Picacho, Danlí."
+      },
+      "poiIds": [
+        "la-esperanza-cities-v2",
+        "hn-comayagua",
+        "hn-el-picacho",
+        "danli-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "la-esperanza-cities-v2",
+        "hn-comayagua",
+        "hn-el-picacho",
+        "danli-cities-v2"
+      ]
+    },
+    {
+      "id": "hn-sequence-north-south-east-interior-new",
+      "type": "sequence",
+      "question": {
+        "de": "Klicke von Nord nach Süd: Río Plátano, Juticalpa, Danlí, Choluteca.",
+        "hu": "Kattints északról délre: Río Plátano, Juticalpa, Danlí, Choluteca.",
+        "ro": "Apasă de la nord la sud: Río Plátano, Juticalpa, Danlí, Choluteca.",
+        "en": "Click from north to south: Río Plátano, Juticalpa, Danlí, Choluteca."
+      },
+      "poiIds": [
+        "hn-rioplatano",
+        "juticalpa-cities-v2",
+        "danli-cities-v2",
+        "choluteca-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "hn-rioplatano",
+        "juticalpa-cities-v2",
+        "danli-cities-v2",
+        "choluteca-cities-v2"
+      ]
+    }
+  ]
+}

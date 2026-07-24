@@ -1,0 +1,303 @@
+{
+  "gn": [
+    {
+      "id": "gn-find-mamou-crossroads",
+      "type": "find_poi",
+      "targetPoiId": "mamou-cities-v2",
+      "question": {
+        "de": "Finde Mamou, den wichtigen Verkehrsknoten im Zentrum Guineas.",
+        "hu": "Keresd meg Mamout, Guinea kozponti kozlekedesi csomopontjat.",
+        "ro": "Gaseste Mamou, nodul important de transport din centrul Guineei.",
+        "en": "Find Mamou, the important transport hub in central Guinea."
+      }
+    },
+    {
+      "id": "gn-find-boke-bauxite",
+      "type": "find_poi",
+      "targetPoiId": "boke-cities-v2",
+      "question": {
+        "de": "Finde Boke im bauxitreichen Nordwesten.",
+        "hu": "Keresd meg Boke varosat a bauxitban gazdag eszaknyugaton.",
+        "ro": "Gaseste Boke in nord-vestul bogat in bauxita.",
+        "en": "Find Boke in the bauxite-rich northwest."
+      }
+    },
+    {
+      "id": "gn-find-kouroussa-bridge",
+      "type": "find_poi",
+      "targetPoiId": "kouroussa-niger-bridge-landmarks-v2",
+      "question": {
+        "de": "Finde die Nigerbrucke von Kouroussa.",
+        "hu": "Keresd meg a kouroussai Niger-hidat.",
+        "ro": "Gaseste podul peste Niger din Kouroussa.",
+        "en": "Find the Niger bridge at Kouroussa."
+      }
+    },
+    {
+      "id": "gn-find-mount-loura",
+      "type": "find_poi",
+      "targetPoiId": "mount-loura-nature-v2",
+      "question": {
+        "de": "Finde Mount Loura im hohen Norden des Fouta Djallon.",
+        "hu": "Keresd meg a Loura-hegyet Fouta Djallon messzi eszakon.",
+        "ro": "Gaseste Muntele Loura in nordul indepartat al regiunii Fouta Djallon.",
+        "en": "Find Mount Loura in the far north of Fouta Djallon."
+      }
+    },
+    {
+      "id": "gn-find-kassa-island",
+      "type": "find_poi",
+      "targetPoiId": "kassa-island-nature-v2",
+      "question": {
+        "de": "Finde die Insel Kassa vor der Kuste bei Conakry.",
+        "hu": "Keresd meg Kassa szigetet Conakry partjai elott.",
+        "ro": "Gaseste insula Kassa in largul coastei de langa Conakry.",
+        "en": "Find Kassa Island off the coast near Conakry."
+      }
+    },
+    {
+      "id": "gn-find-kinkon-falls",
+      "type": "find_poi",
+      "targetPoiId": "guinea-kinkon-falls-cities-v2",
+      "question": {
+        "de": "Finde die Kinkon-Wasserfalle im Raum Pita.",
+        "hu": "Keresd meg a Kinkon-vizesest Pita tersegeben.",
+        "ro": "Gaseste cascada Kinkon din zona Pita.",
+        "en": "Find Kinkon Falls in the Pita area."
+      }
+    },
+    {
+      "id": "gn-region-kindia-new",
+      "type": "find_region",
+      "targetRegionId": "GIN-5643",
+      "question": {
+        "de": "Klicke auf Kindia, die Region am Fuss des Fouta Djallon.",
+        "hu": "Kattints Kindia regi ora, amely a Fouta Djallon labanal fekszik.",
+        "ro": "Apasa pe Kindia, regiunea de la poalele Fouta Djallon.",
+        "en": "Click Kindia, the region at the foot of Fouta Djallon."
+      }
+    },
+    {
+      "id": "gn-region-labe-new",
+      "type": "find_region",
+      "targetRegionId": "GIN-5648",
+      "question": {
+        "de": "Finde Labe im zentralen Hochland Guineas.",
+        "hu": "Keresd meg Labe regiot Guinea kozepso felfoldjen.",
+        "ro": "Gaseste Labe in podisul central al Guineei.",
+        "en": "Find Labe in Guinea's central highlands."
+      }
+    },
+    {
+      "id": "gn-region-mamou-new",
+      "type": "find_region",
+      "targetRegionId": "GIN-5653",
+      "question": {
+        "de": "Klicke auf Mamou, wo mehrere Hauptstrassen zusammenlaufen.",
+        "hu": "Kattints Mamou regi ojara, ahol tobb fou tvonal talalkozik.",
+        "ro": "Apasa pe Mamou, unde se intalnesc mai multe drumuri principale.",
+        "en": "Click Mamou, where several main roads meet."
+      }
+    },
+    {
+      "id": "gn-region-faranah-new",
+      "type": "find_region",
+      "targetRegionId": "GIN-5636",
+      "question": {
+        "de": "Finde Faranah im ostlichen Landesinneren.",
+        "hu": "Keresd meg Faranah regiot az orszag keleti belso reszen.",
+        "ro": "Gaseste Faranah in interiorul estic al tarii.",
+        "en": "Find Faranah in the eastern interior of the country."
+      }
+    },
+    {
+      "id": "gn-region-kankan-new",
+      "type": "find_region",
+      "targetRegionId": "GIN-5641",
+      "question": {
+        "de": "Klicke auf Kankan in Oberguinea nahe Mali.",
+        "hu": "Kattints Kankan regi ojara Felso-Guineaban, Mali kozeleben.",
+        "ro": "Apasa pe Kankan din Guineea Superioara, aproape de Mali.",
+        "en": "Click Kankan in Upper Guinea near Mali."
+      }
+    },
+    {
+      "id": "gn-odd-conakry-sites",
+      "type": "odd_one_out",
+      "poiIds": [
+        "conakry-grand-mosque-landmarks-v2",
+        "conakry-cathedral-landmarks-v2",
+        "palais-du-peuple-landmarks-v2",
+        "labe-grand-mosque-landmarks-v2"
+      ],
+      "targetPoiId": "labe-grand-mosque-landmarks-v2",
+      "question": {
+        "de": "Welcher Ort liegt nicht in Conakry?",
+        "hu": "Melyik helyszin nem Conakryban talalhato?",
+        "ro": "Care loc nu se afla in Conakry?",
+        "en": "Which place is not in Conakry?"
+      }
+    },
+    {
+      "id": "gn-odd-islands",
+      "type": "odd_one_out",
+      "poiIds": [
+        "kassa-island-nature-v2",
+        "roume-island-nature-v2",
+        "fotoba-island-nature-v2",
+        "mount-kakoulima-nature-v2"
+      ],
+      "targetPoiId": "mount-kakoulima-nature-v2",
+      "question": {
+        "de": "Welches Ziel ist keine Insel?",
+        "hu": "Melyik celpont nem sziget?",
+        "ro": "Care destinatie nu este o insula?",
+        "en": "Which destination is not an island?"
+      }
+    },
+    {
+      "id": "gn-odd-coastal-towns",
+      "type": "odd_one_out",
+      "poiIds": [
+        "boke-cities-v2",
+        "kamsar-cities-v2",
+        "boffa-cities-v2",
+        "labe-cities-v2"
+      ],
+      "targetPoiId": "labe-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht im nordwestlichen Kustenraum?",
+        "hu": "Melyik varos nem az eszaknyugati partvidekhez tartozik?",
+        "ro": "Care oras nu se afla in zona de coasta din nord-vest?",
+        "en": "Which city is not in the northwestern coastal zone?"
+      }
+    },
+    {
+      "id": "gn-odd-mountains",
+      "type": "odd_one_out",
+      "poiIds": [
+        "mount-loura-nature-v2",
+        "mount-soumba-nature-v2",
+        "mount-kakoulima-nature-v2",
+        "milo-river-nature-v2"
+      ],
+      "targetPoiId": "milo-river-nature-v2",
+      "question": {
+        "de": "Welches Ziel ist kein Berg?",
+        "hu": "Melyik celpont nem hegy?",
+        "ro": "Care destinatie nu este un munte?",
+        "en": "Which destination is not a mountain?"
+      }
+    },
+    {
+      "id": "gn-sequence-islands-to-inland",
+      "type": "sequence",
+      "poiIds": [
+        "guinea-kassa-island-cities-v2",
+        "conakry-cities-v2",
+        "forecariah-cities-v2",
+        "kindia-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "guinea-kassa-island-cities-v2",
+        "conakry-cities-v2",
+        "forecariah-cities-v2",
+        "kindia-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Kassa Island, Conakry, Forecariah und Kindia von Westen nach Osten an.",
+        "hu": "Kattints Kassa Islandra, Conakryra, Forecariahra es Kindiara nyugatrol kelet fele.",
+        "ro": "Apasa Kassa Island, Conakry, Forecariah si Kindia de la vest la est.",
+        "en": "Click Kassa Island, Conakry, Forecariah and Kindia from west to east."
+      }
+    },
+    {
+      "id": "gn-sequence-boke-north-south",
+      "type": "sequence",
+      "poiIds": [
+        "koundara-cities-v2",
+        "gaoual-cities-v2",
+        "boke-cities-v2",
+        "boffa-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "koundara-cities-v2",
+        "gaoual-cities-v2",
+        "boke-cities-v2",
+        "boffa-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Koundara, Gaoual, Boke und Boffa von Norden nach Suden an.",
+        "hu": "Kattints Koundarara, Gaoualra, Bokera es Boffara eszakrol del fele.",
+        "ro": "Apasa Koundara, Gaoual, Boke si Boffa de la nord la sud.",
+        "en": "Click Koundara, Gaoual, Boke and Boffa from north to south."
+      }
+    },
+    {
+      "id": "gn-sequence-coast-west-east",
+      "type": "sequence",
+      "poiIds": [
+        "boffa-cities-v2",
+        "dubreka-cities-v2",
+        "maferinyah-cities-v2",
+        "forecariah-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "boffa-cities-v2",
+        "dubreka-cities-v2",
+        "maferinyah-cities-v2",
+        "forecariah-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Boffa, Dubreka, Maferinyah und Forecariah von Westen nach Osten an.",
+        "hu": "Kattints Boffara, Dubrekara, Maferinyahra es Forecariahra nyugatrol kelet fele.",
+        "ro": "Apasa Boffa, Dubreka, Maferinyah si Forecariah de la vest la est.",
+        "en": "Click Boffa, Dubreka, Maferinyah and Forecariah from west to east."
+      }
+    },
+    {
+      "id": "gn-sequence-forest-south-north",
+      "type": "sequence",
+      "poiIds": [
+        "yomou-cities-v2",
+        "nzerekore-cities-v2",
+        "macenta-cities-v2",
+        "beyla-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "yomou-cities-v2",
+        "nzerekore-cities-v2",
+        "macenta-cities-v2",
+        "beyla-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Yomou, Nzerekore, Macenta und Beyla von Suden nach Norden an.",
+        "hu": "Kattints Yomoura, Nzerekorera, Macentara es Beylara delrol eszak fele.",
+        "ro": "Apasa Yomou, Nzerekore, Macenta si Beyla de la sud la nord.",
+        "en": "Click Yomou, Nzerekore, Macenta and Beyla from south to north."
+      }
+    },
+    {
+      "id": "gn-sequence-eastward-upper-guinea",
+      "type": "sequence",
+      "poiIds": [
+        "kouroussa-cities-v2",
+        "kankan-cities-v2",
+        "kerouane-cities-v2",
+        "nzerekore-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "kouroussa-cities-v2",
+        "kankan-cities-v2",
+        "kerouane-cities-v2",
+        "nzerekore-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Kouroussa, Kankan, Kerouane und Nzerekore von Westen nach Osten an.",
+        "hu": "Kattints Kouroussara, Kankanra, Kerouane-ra es Nzerekore-ra nyugatrol kelet fele.",
+        "ro": "Apasa Kouroussa, Kankan, Kerouane si Nzerekore de la vest la est.",
+        "en": "Click Kouroussa, Kankan, Kerouane and Nzerekore from west to east."
+      }
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "ly": [
+    {
+      "id": "ly-find-ghadames-oasis-town",
+      "type": "find_poi",
+      "targetPoiId": "ghadames-cities-v2",
+      "question": {
+        "de": "Finde Ghadames, die Oasenstadt im ?u?ersten Westen Libyens.",
+        "hu": "Keresd meg Ghadam?szt, a L?bia legnyugatibb r?sz?n fekv? o?zisv?rost.",
+        "ro": "G?se?te Ghadames, ora?ul-oaz? din extremul vestic al Libiei.",
+        "en": "Find Ghadames, the oasis town in far western Libya."
+      }
+    },
+    {
+      "id": "ly-find-bayda-jabal-akhdar",
+      "type": "find_poi",
+      "targetPoiId": "bayda-cities-v2",
+      "question": {
+        "de": "Finde al-Bayda im nord?stlichen Hochland des Dschabal al-Akhdar.",
+        "hu": "Keresd meg al-Bajd?t a Dzsebel el-Ahdar ?szakkeleti fenns?kvid?k?n.",
+        "ro": "G?se?te Al Bayda ?n podi?ul nord-estic al Jabal al Akhdar.",
+        "en": "Find Al Bayda in the northeastern highlands of Jabal al Akhdar."
+      }
+    },
+    {
+      "id": "ly-find-ghat-southwest",
+      "type": "find_poi",
+      "targetPoiId": "ghat-cities-v2",
+      "question": {
+        "de": "Finde Ghat im fernen S?dwesten nahe Algerien und Niger.",
+        "hu": "Keresd meg G?tot a t?voli d?lnyugaton, Alg?ria ?s Niger k?zel?ben.",
+        "ro": "G?se?te Ghat ?n extremul sud-vest, aproape de Algeria ?i Niger.",
+        "en": "Find Ghat in the far southwest near Algeria and Niger."
+      }
+    },
+    {
+      "id": "ly-find-bani-walid-inland",
+      "type": "find_poi",
+      "targetPoiId": "bani-walid-cities-v2",
+      "question": {
+        "de": "Finde Bani Walid im Binnenland s?d?stlich von Tripolis.",
+        "hu": "Keresd meg Bani Validot a bels? ter?leten, Tripolit?l d?lkeletre.",
+        "ro": "G?se?te Bani Walid ?n interior, la sud-est de Tripoli.",
+        "en": "Find Bani Walid inland southeast of Tripoli."
+      }
+    },
+    {
+      "id": "ly-find-awjila-oasis",
+      "type": "find_poi",
+      "targetPoiId": "awjila-cities-v2",
+      "question": {
+        "de": "Finde Awjila, die Oase ?stlich des zentralen W?stenraums.",
+        "hu": "Keresd meg Adzsil?t, a k?z?ps? sivatagi t?rs?gt?l keletre fekv? o?zist.",
+        "ro": "G?se?te Awjila, oaza aflat? la est de zona de?ertic? central?.",
+        "en": "Find Awjila, the oasis east of Libya?s central desert zone."
+      }
+    },
+    {
+      "id": "ly-region-ghat-southwest",
+      "type": "find_region",
+      "targetRegionId": "LBY-2968",
+      "question": {
+        "de": "Klicke auf die Region Ghat im ?u?ersten S?dwesten.",
+        "hu": "Kattints a legd?lnyugatibb G?t r?gi?ra.",
+        "ro": "Apas? pe regiunea Ghat din extremul sud-vest.",
+        "en": "Click the Ghat region in the far southwest."
+      }
+    },
+    {
+      "id": "ly-region-al-butnan-far-east",
+      "type": "find_region",
+      "targetRegionId": "LBY-2987",
+      "question": {
+        "de": "Klicke auf die Region al-Butnan im ?u?ersten Osten.",
+        "hu": "Kattints a legkeletibb Al Butnan r?gi?ra.",
+        "ro": "Apas? pe regiunea Al Butnan din extremul estic.",
+        "en": "Click the Al Butnan region in the far east."
+      }
+    },
+    {
+      "id": "ly-region-al-jufrah-central",
+      "type": "find_region",
+      "targetRegionId": "LBY-2964",
+      "question": {
+        "de": "Klicke auf die zentrale W?stenregion al-Dschufra.",
+        "hu": "Kattints a k?zponti sivatagi Al-Dzsufra r?gi?ra.",
+        "ro": "Apas? pe regiunea de?ertic? central? Al Jufrah.",
+        "en": "Click the central desert region of Al Jufrah."
+      }
+    },
+    {
+      "id": "ly-region-az-zawiyah-northwest",
+      "type": "find_region",
+      "targetRegionId": "LBY-2975",
+      "question": {
+        "de": "Klicke auf die nordwestliche K?stenregion az-Zawiyah.",
+        "hu": "Kattints az ?szaknyugati parti Az Z?wija r?gi?ra.",
+        "ro": "Apas? pe regiunea de coast? Az Zawiyah din nord-vest.",
+        "en": "Click the northwestern coastal region of Az Zawiyah."
+      }
+    },
+    {
+      "id": "ly-region-jabal-akhdar-northeast",
+      "type": "find_region",
+      "targetRegionId": "LBY-2982",
+      "question": {
+        "de": "Klicke auf die Region al-Dschabal al-Achdar im Nordosten.",
+        "hu": "Kattints az ?szakkeleti Al Dzsabal al Ahdar r?gi?ra.",
+        "ro": "Apas? pe regiunea Al Jabal al Akhdar din nord-est.",
+        "en": "Click the Al Jabal al Akhdar region in the northeast."
+      }
+    },
+    {
+      "id": "ly-odd-only-inland-among-coastal-cities",
+      "type": "odd_one_out",
+      "poiIds": [
+        "zuwara-cities-v2",
+        "khoms-cities-v2",
+        "derna-cities-v2",
+        "bani-walid-cities-v2"
+      ],
+      "targetPoiId": "bani-walid-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt im Binnenland und nicht an der Mittelmeerk?ste?",
+        "hu": "Melyik v?ros fekszik beljebb, nem pedig a F?ldk?zi-tenger partj?n?",
+        "ro": "Care ora? se afl? ?n interior ?i nu pe coasta M?rii Mediterane?",
+        "en": "Which city lies inland rather than on the Mediterranean coast?"
+      }
+    },
+    {
+      "id": "ly-odd-southernmost-desert-town",
+      "type": "odd_one_out",
+      "poiIds": [
+        "zintan-cities-v2",
+        "sabha-cities-v2",
+        "murzuq-cities-v2",
+        "ghat-cities-v2"
+      ],
+      "targetPoiId": "ghat-cities-v2",
+      "question": {
+        "de": "Welcher Ort liegt am weitesten s?dlich?",
+        "hu": "Melyik hely fekszik a legd?lebbre?",
+        "ro": "Care loc se afl? cel mai la sud?",
+        "en": "Which place lies furthest south?"
+      }
+    },
+    {
+      "id": "ly-odd-easternmost-major-city",
+      "type": "odd_one_out",
+      "poiIds": [
+        "sirte-cities-v2",
+        "ajdabiya-cities-v2",
+        "bayda-cities-v2",
+        "tobruk-cities-v2"
+      ],
+      "targetPoiId": "tobruk-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt am weitesten ?stlich?",
+        "hu": "Melyik v?ros fekszik a legkeletebbre?",
+        "ro": "Care ora? se afl? cel mai la est?",
+        "en": "Which city lies furthest east?"
+      }
+    },
+    {
+      "id": "ly-odd-not-jabal-akhdar-cluster",
+      "type": "odd_one_out",
+      "poiIds": [
+        "bayda-cities-v2",
+        "marj-cities-v2",
+        "derna-cities-v2",
+        "zliten-cities-v2"
+      ],
+      "targetPoiId": "zliten-cities-v2",
+      "question": {
+        "de": "Welche Stadt liegt nicht im nord?stlichen Raum des Dschabal al-Achdar?",
+        "hu": "Melyik v?ros nem a Dzsebel el-Ahdar ?szakkeleti t?rs?g?hez tartozik?",
+        "ro": "Care ora? nu apar?ine zonei nord-estice a Jabal al Akhdar?",
+        "en": "Which city is not in the northeastern Jabal al Akhdar area?"
+      }
+    },
+    {
+      "id": "ly-odd-not-desert-oasis-settlement",
+      "type": "odd_one_out",
+      "poiIds": [
+        "awjila-cities-v2",
+        "jalu-cities-v2",
+        "kufra-cities-v2",
+        "zawiya-cities-v2"
+      ],
+      "targetPoiId": "zawiya-cities-v2",
+      "question": {
+        "de": "Welcher Ort ist keine Oasensiedlung im W?steninneren?",
+        "hu": "Melyik hely nem bels?-sivatagi o?zistelep?l?s?",
+        "ro": "Care loc nu este o a?ezare-oaz? din interiorul de?ertului?",
+        "en": "Which place is not an oasis settlement in the desert interior?"
+      }
+    },
+    {
+      "id": "ly-sequence-west-east-ghadames-ajdabiya",
+      "type": "sequence",
+      "poiIds": [
+        "ghadames-cities-v2",
+        "zintan-cities-v2",
+        "bani-walid-cities-v2",
+        "ajdabiya-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "ghadames-cities-v2",
+        "zintan-cities-v2",
+        "bani-walid-cities-v2",
+        "ajdabiya-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Ghadames, Zintan, Bani Walid und Ajdabiya von Westen nach Osten an.",
+        "hu": "Kattints Ghadam?szre, Zintanra, Bani Validra ?s Adzsd?bij?ra nyugatr?l keletre.",
+        "ro": "Apas? Ghadames, Zintan, Bani Walid ?i Ajdabiya de la vest la est.",
+        "en": "Click Ghadames, Zintan, Bani Walid, and Ajdabiya from west to east."
+      }
+    },
+    {
+      "id": "ly-sequence-north-south-zuwara-ghat",
+      "type": "sequence",
+      "poiIds": [
+        "zuwara-cities-v2",
+        "gharyan-cities-v2",
+        "mizda-cities-v2",
+        "ghat-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "zuwara-cities-v2",
+        "gharyan-cities-v2",
+        "mizda-cities-v2",
+        "ghat-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Zuwara, Gharyan, Mizda und Ghat von Norden nach S?den an.",
+        "hu": "Kattints Zu?r?ra, Garj?nra, Mizd?ra ?s G?tra ?szakr?l d?lre.",
+        "ro": "Apas? Zuwara, Gharyan, Mizda ?i Ghat de la nord la sud.",
+        "en": "Click Zuwara, Gharyan, Mizda, and Ghat from north to south."
+      }
+    },
+    {
+      "id": "ly-sequence-west-east-northwest-coast",
+      "type": "sequence",
+      "poiIds": [
+        "zuwara-cities-v2",
+        "zawiya-cities-v2",
+        "khoms-cities-v2",
+        "zliten-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "zuwara-cities-v2",
+        "zawiya-cities-v2",
+        "khoms-cities-v2",
+        "zliten-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Zuwara, az-Zawiyah, Khoms und Zliten von Westen nach Osten an.",
+        "hu": "Kattints Zu?r?ra, az-Z?wij?ra, Homszra ?s Zlitenre nyugatr?l keletre.",
+        "ro": "Apas? Zuwara, Az Zawiyah, Khoms ?i Zliten de la vest la est.",
+        "en": "Click Zuwara, Az Zawiyah, Khoms, and Zliten from west to east."
+      }
+    },
+    {
+      "id": "ly-sequence-north-south-cyrenaica-inland",
+      "type": "sequence",
+      "poiIds": [
+        "bayda-cities-v2",
+        "ajdabiya-cities-v2",
+        "awjila-cities-v2",
+        "kufra-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "bayda-cities-v2",
+        "ajdabiya-cities-v2",
+        "awjila-cities-v2",
+        "kufra-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke al-Bayda, Ajdabiya, Awjila und Kufra von Norden nach S?den an.",
+        "hu": "Kattints al-Bajd?ra, Adzsd?bij?ra, Adzsil?ra ?s Kufr?ra ?szakr?l d?lre.",
+        "ro": "Apas? Al Bayda, Ajdabiya, Awjila ?i Kufra de la nord la sud.",
+        "en": "Click Al Bayda, Ajdabiya, Awjila, and Kufra from north to south."
+      }
+    },
+    {
+      "id": "ly-sequence-west-east-southern-desert",
+      "type": "sequence",
+      "poiIds": [
+        "ghat-cities-v2",
+        "awbari-cities-v2",
+        "murzuq-cities-v2",
+        "kufra-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "ghat-cities-v2",
+        "awbari-cities-v2",
+        "murzuq-cities-v2",
+        "kufra-cities-v2"
+      ],
+      "question": {
+        "de": "Klicke Ghat, Awbari, Murzuq und Kufra von Westen nach Osten an.",
+        "hu": "Kattints G?tra, Aub?rira, Murzukra ?s Kufr?ra nyugatr?l keletre.",
+        "ro": "Apas? Ghat, Awbari, Murzuq ?i Kufra de la vest la est.",
+        "en": "Click Ghat, Awbari, Murzuq, and Kufra from west to east."
+      }
+    }
+  ]
+}
