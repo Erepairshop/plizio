@@ -21,6 +21,7 @@ import { createInitialGalaxyMap } from "./map/engine";
 import { defaultAllocation } from "./battle/avatarCombat";
 import { createInitialConcordState, normalizeConcordState } from "./concord/engine";
 import { createInitialNpcStationsState, normalizeNpcStationsState } from "./npcstations/engine";
+import { PVE_ARCHETYPE_ORDER } from "./map/pveArchetypes";
 import type { WarRoomState, WarRoomUnitId } from "./warroom/types";
 import type { RepairBayState } from "./repairbay/types";
 import { runMaintenance } from "./maintenance";
@@ -49,13 +50,14 @@ function migrateGalaxyCoords(galaxy: import("./map/types").GalaxyMapState): impo
     return { ...galaxy, transientNodes: [], activeFleets: [] };
   }
   // Backfill new meta fields for nodes and fleets
-  const needsNodeMigration = galaxy.transientNodes.some(n => (n as any).nodeState === undefined);
+  const needsNodeMigration = galaxy.transientNodes.some(
+    n => (n as any).nodeState === undefined || (n.type === "pve_base" && !n.pveArchetypeId),
+  );
   const needsFleetMigration = (galaxy.activeFleets ?? []).some(f => (f as any).travelTimeTicks === undefined || (f as any).composition === undefined || (f as any).payload === undefined);
 
   if (needsNodeMigration || needsFleetMigration) {
     const migratedNodes = galaxy.transientNodes.map(n => {
-      if ((n as any).nodeState !== undefined) return n;
-      return {
+      const baseNode = (n as any).nodeState !== undefined ? n : {
         ...n,
         nodeState: "undiscovered" as const,
         priority: (Math.min(5, Math.max(1, Math.round(n.stealthLevel / 10))) || 1) as 1|2|3|4|5,
@@ -69,6 +71,12 @@ function migrateGalaxyCoords(galaxy: import("./map/types").GalaxyMapState): impo
         instability: n.type === "anomaly" ? 40 : 0,
         actionLog: [] as import("./map/types").NodeActionLog[],
         cooldownUntil: 0,
+      };
+      if (baseNode.type !== "pve_base" || baseNode.pveArchetypeId) return baseNode;
+      const hash = Array.from(baseNode.id).reduce((sum, char) => sum + char.charCodeAt(0), 0);
+      return {
+        ...baseNode,
+        pveArchetypeId: PVE_ARCHETYPE_ORDER[hash % PVE_ARCHETYPE_ORDER.length],
       };
     });
 

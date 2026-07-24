@@ -8,6 +8,7 @@ import { pushArchiveEvent } from "../archive/manager";
 import type { GalaxyMaterialId } from "../../world/mission";
 import type { WarRoomUnitId } from "../warroom/types";
 import { getAssignedOfficer } from "../officers/engine";
+import { getPveArchetype, PVE_ARCHETYPE_ORDER } from "./pveArchetypes";
 
 export function createInitialGalaxyMap(): GalaxyMapState {
   return {
@@ -95,7 +96,12 @@ function resolveFleetArrival(
     }
   } 
   else if (currentFleet.missionType === "attack" && node.type === "pve_base") {
-    const attackPower = Object.entries(currentFleet.composition).reduce((sum, [id, count]) => sum + count * 10, 0);
+    const archetype = getPveArchetype(node.pveArchetypeId);
+    const totalUnits = Object.values(currentFleet.composition).reduce((sum, count) => sum + count, 0);
+    const counterUnits = archetype ? currentFleet.composition[archetype.counterUnitId] ?? 0 : 0;
+    const counterBonus = totalUnits > 0 ? 1 + (counterUnits / totalUnits) * 0.35 : 1;
+    const attackPower = Object.entries(currentFleet.composition)
+      .reduce((sum, [, count]) => sum + count * 10, 0) * counterBonus;
     const defence = node.defenceRating;
     const powerRatio = attackPower / Math.max(1, defence);
     const { value: combatRoll, nextState: rng2 } = nextRandom(rng);
@@ -114,11 +120,11 @@ function resolveFleetArrival(
         payload[entry.resourceId as keyof import("../types").StarholdResources | GalaxyMaterialId] = entry.amount;
       }
       // Casualties based on ratio
-      const lossRatio = Math.max(0.05, 0.4 - powerRatio * 0.1);
+      const lossRatio = Math.max(0.05, 0.4 - powerRatio * 0.1) * (archetype?.casualtyMultiplier ?? 1);
       for (const [unitId, count] of Object.entries(currentFleet.composition)) {
         const { value: luck, nextState: rng3 } = nextRandom(rng);
         rng = rng3;
-        const totalLost = Math.round(count * lossRatio * (0.5 + luck));
+        const totalLost = Math.min(count, Math.round(count * lossRatio * (0.5 + luck)));
         if (totalLost > 0) {
           const killedCount = Math.floor(totalLost * 0.4);
           const woundedCount = totalLost - killedCount;
@@ -134,9 +140,9 @@ function resolveFleetArrival(
         de: "Flotte durch schwere Verteidigung zurückgeschlagen.",
         ro: "Flota a fost respinsă de apărări grele."
       };
-      const lossRatio = Math.min(1, 0.6 + (1 / powerRatio) * 0.2);
+      const lossRatio = Math.min(1, (0.6 + (1 / powerRatio) * 0.2) * (archetype?.casualtyMultiplier ?? 1));
       for (const [unitId, count] of Object.entries(currentFleet.composition)) {
-        const totalLost = Math.round(count * lossRatio);
+        const totalLost = Math.min(count, Math.round(count * lossRatio));
         if (totalLost > 0) {
           const killedCount = Math.floor(totalLost * 0.6); // Higher lethality on defeat
           const woundedCount = totalLost - killedCount;
@@ -492,6 +498,14 @@ export function spawnTransientNodes(state: StarholdState): StarholdState {
   if (rType > 0.6 && rType <= 0.9) nodeType = "anomaly";
   else if (rType > 0.9) nodeType = "pve_base";
 
+  let pveArchetypeId: import("./types").PveArchetypeId | undefined;
+  if (nodeType === "pve_base") {
+    const generated = randomInt(currentRngState, 0, PVE_ARCHETYPE_ORDER.length - 1);
+    pveArchetypeId = PVE_ARCHETYPE_ORDER[generated.value];
+    currentRngState = generated.nextState;
+  }
+  const pveArchetype = getPveArchetype(pveArchetypeId);
+
   const { value: rStealth, nextState: s4 } = randomInt(currentRngState, 0, 50);
   currentRngState = s4;
 
@@ -523,7 +537,9 @@ export function spawnTransientNodes(state: StarholdState): StarholdState {
   // Defence for PvE
   const { value: rDefence, nextState: s11 } = randomInt(currentRngState, 10, 60);
   currentRngState = s11;
-  const defenceRating = nodeType === "pve_base" ? rDefence + risk * 8 : 0;
+  const defenceRating = nodeType === "pve_base"
+    ? Math.round((rDefence + risk * 8) * (pveArchetype?.defenceMultiplier ?? 1))
+    : 0;
 
   // Instability for anomaly
   const { value: rInstability, nextState: s12 } = randomInt(currentRngState, 10, 80);
@@ -531,8 +547,12 @@ export function spawnTransientNodes(state: StarholdState): StarholdState {
   const instability = nodeType === "anomaly" ? rInstability : 0;
 
   // Generate yield table
-  const { yield_: expectedYield, nextRng: rngAfterYield } = generateYield(nodeType, currentRngState, risk);
+  const { yield_: baseYield, nextRng: rngAfterYield } = generateYield(nodeType, currentRngState, risk);
   currentRngState = rngAfterYield;
+  const expectedYield = baseYield.map(entry => ({
+    ...entry,
+    amount: Math.max(1, Math.round(entry.amount * (pveArchetype?.lootMultiplier ?? 1))),
+  }));
 
   const newNode: MapNode = {
     id: `node_${state.tick}_${rId}`,
@@ -552,6 +572,7 @@ export function spawnTransientNodes(state: StarholdState): StarholdState {
     harvestCount: 0,
     maxHarvests,
     defenceRating,
+    pveArchetypeId,
     instability,
     actionLog: [],
     cooldownUntil: 0,

@@ -1,4 +1,10 @@
 export type MapNodeType = "meteorite" | "pve_base" | "anomaly";
+export type PveArchetypeId =
+  | "synthoid_sentinel"
+  | "korgath_drone_hive"
+  | "drex_scrap_foundry"
+  | "velari_mirror_array"
+  | "noma_void_engine";
 
 /** Lifecycle state of a map node */
 export type MapNodeState =
@@ -64,6 +70,8 @@ export interface MapNode {
   maxHarvests: number;
   /** Defence strength for pve_base nodes (0 for others) */
   defenceRating: number;
+  /** Visible combat identity and modifiers for generated PvE bases */
+  pveArchetypeId?: PveArchetypeId;
   /** Instability for anomaly nodes (0-100, higher = more dangerous) */
   instability: number;
   /** Completed action log */

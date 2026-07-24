@@ -23,6 +23,7 @@ import { nextRandom, randomInt } from "../rng";
 import { addResourceDelta, pushJournal, clamp } from "../shared";
 import { calculateTravelTimeTicks, calculateFuelCost, nodeDistance, calculateFleetWeight } from "./navigation";
 import { reserveUnits, updateAllocationStatus } from "../warroom/ledger";
+import { getPveArchetype } from "./pveArchetypes";
 
 // ─── Constants ──────────────────────────────────────────────────────────────
 
@@ -290,6 +291,7 @@ export function resolveAttackNode(state: StarholdState, nodeId: string): Starhol
   const idx = state.galaxy.transientNodes.findIndex((n) => n.id === nodeId);
   if (idx === -1) return state;
   const node = state.galaxy.transientNodes[idx];
+  const archetype = getPveArchetype(node.pveArchetypeId);
   if (node.type !== "pve_base") return alertWrongType(state, "attack", "pve_base");
   if (node.cooldownUntil > state.tick) return alertCooldown(state);
   if (node.nodeState === "depleted") return alertDepleted(state);
@@ -350,16 +352,16 @@ export function resolveAttackNode(state: StarholdState, nodeId: string): Starhol
 
   const journal: LocalizedString = success
     ? {
-        en: `Enemy base ${node.id} destroyed. Loot secured.`,
-        hu: `Ellenséges bázis ${node.id} megsemmisítve. Zsákmány biztosítva.`,
-        de: `Feindbasis ${node.id} zerstört. Beute gesichert.`,
-        ro: `Baza inamică ${node.id} distrusă. Pradă asigurată.`,
+        en: `${archetype?.name.en ?? "Enemy base"} destroyed. Loot secured.`,
+        hu: `${archetype?.name.hu ?? "Ellenséges bázis"} megsemmisítve. Zsákmány biztosítva.`,
+        de: `${archetype?.name.de ?? "Feindbasis"} zerstört. Beute gesichert.`,
+        ro: `${archetype?.name.ro ?? "Bază inamică"} distrusă. Pradă asigurată.`,
       }
     : {
-        en: `Attack on ${node.id} repelled. Hull damaged. Enemy defences weakened.`,
-        hu: `Támadás ${node.id}-ra visszaverve. Páncélzat sérült. Ellenséges védelem gyengült.`,
-        de: `Angriff auf ${node.id} abgewehrt. Hüllenschaden. Feindverteidigung geschwächt.`,
-        ro: `Atac asupra ${node.id} respins. Corp deteriorat. Apărarea inamicului slăbită.`,
+        en: `Attack on ${archetype?.name.en ?? node.id} repelled. Hull damaged. Enemy defences weakened.`,
+        hu: `${archetype?.name.hu ?? node.id}: a támadás visszaverve. A páncélzat sérült, az ellenséges védelem gyengült.`,
+        de: `Angriff auf ${archetype?.name.de ?? node.id} abgewehrt. Hüllenschaden, Feindverteidigung geschwächt.`,
+        ro: `Atacul asupra ${archetype?.name.ro ?? node.id} a fost respins. Corp avariat, apărarea inamică slăbită.`,
       };
 
   let nextState: StarholdState = {

@@ -17,6 +17,7 @@ import {
 } from "lucide-react";
 import type { GalaxyMapState, FleetMovement, MapNode, NodePreview, NodeActionId } from "@/lib/gravitas/sim/map/types";
 import type { LocalizedString } from "@/lib/gravitas/sim/types";
+import { getPveArchetype } from "@/lib/gravitas/sim/map/pveArchetypes";
 
 import type { GarrisonEntry, WarRoomUnitId } from "@/lib/gravitas/sim/warroom/types";
 import { WARROOM_UNITS, WARROOM_UNIT_ORDER } from "@/lib/gravitas/sim/warroom/units";
@@ -130,7 +131,7 @@ function getNodeLabel(node: MapNode): LocalizedString {
     };
   }
   if (node.type === "pve_base") {
-    return {
+    return getPveArchetype(node.pveArchetypeId)?.name ?? {
       en: "Enemy Base",
       hu: "Ellenséges bázis",
       de: "Feindbasis",
@@ -155,7 +156,7 @@ function getNodeDescription(node: MapNode): LocalizedString {
     };
   }
   if (node.type === "pve_base") {
-    return {
+    return getPveArchetype(node.pveArchetypeId)?.description ?? {
       en: "Hostile construction with active defenses.",
       hu: "Ellenséges építmény aktív védelemmel.",
       de: "Feindliche Struktur mit aktiver Verteidigung.",
@@ -171,7 +172,9 @@ function getNodeDescription(node: MapNode): LocalizedString {
 }
 
 function getNodeAsset(node: MapNode) {
-  if (node.type === "pve_base") return "/gravitas/galaxy/enemy-hq.webp";
+  if (node.type === "pve_base") {
+    return getPveArchetype(node.pveArchetypeId)?.assetSrc ?? "/gravitas/galaxy/enemy-hq.webp";
+  }
   if (node.type === "anomaly") return "/gravitas/galaxy/signal-fog.webp";
   const variants = [
     "/gravitas/galaxy/meteor-aether.webp",
@@ -920,6 +923,16 @@ export default function GalaxyMapView({
                   <p className="text-[11px] leading-snug text-white/68">
                     {localize(lang, getNodeDescription(selectedNode.node))}
                   </p>
+                  {selectedNode.node.type === "pve_base" && getPveArchetype(selectedNode.node.pveArchetypeId) && (
+                    <div className="rounded-xl border border-rose-400/15 bg-rose-400/8 px-3 py-2 text-[10px] text-rose-100/80">
+                      <span className="font-black uppercase tracking-widest text-rose-300">
+                        {getPveArchetype(selectedNode.node.pveArchetypeId)!.factionId}
+                      </span>
+                      <span className="ml-2">
+                        {localize(lang, getPveArchetype(selectedNode.node.pveArchetypeId)!.counterHint)}
+                      </span>
+                    </div>
+                  )}
                   <div className="flex flex-wrap gap-1.5">
                     <span className="rounded-full border border-cyan-300/14 bg-cyan-400/8 px-2 py-1 text-[8px] font-black uppercase tracking-[0.16em] text-cyan-100/88">
                       {localize(lang, { en: "ID", hu: "Azonosító", de: "ID", ro: "ID" })}: {shortId(selectedNode.node.id)}
