@@ -265,6 +265,8 @@ export interface StarholdState {
   avatarAwake: boolean;
   resonance: number; // Current energy resonance/heat during transfer
   lastEventTick: Partial<Record<StarholdEventId, number>>;
+  lastEmergencyScavengeTick: number;
+  lastFactionAidTick: number;
   pendingEvent: StarholdPendingEvent | null;
   eventQuietTicks: number;
   worldPulse: number;
@@ -363,6 +365,11 @@ export interface StarholdState {
       cargoSeized: number;
       ambushesSuffered: number;
     };
+    operational: {
+      droneRepairsTotal: number;
+      emergencyScavengesTotal: number;
+      factionAidRequestsTotal: number;
+    };
   };
   archive: StarholdArchiveState;
   derived?: StarholdDerivedState;
@@ -384,6 +391,8 @@ export interface ModuleUpgradeSlot {
 
 export type StarholdCommand =
   | { type: "SCAVENGE" }
+  | { type: "EMERGENCY_SCAVENGE" }
+  | { type: "REQUEST_FACTION_AID"; factionId: import("./faction/types").FactionId }
   | { type: "STABILIZE_REACTOR" }
   | { type: "REPAIR_MODULE"; moduleId: StarholdModuleId }
   | { type: "REROUTE_TO_CORE" }

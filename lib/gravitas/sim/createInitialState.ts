@@ -121,6 +121,8 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
       avatarAwake: true,
       resonance: 0,
       lastEventTick: {},
+      lastEmergencyScavengeTick: -3600,
+      lastFactionAidTick: -86400,
       pendingEvent: null,
       eventQuietTicks: 0,
       worldPulse: 8,
@@ -217,6 +219,11 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
           cargoSeized: 0,
           ambushesSuffered: 0,
         },
+        operational: {
+          droneRepairsTotal: 0,
+          emergencyScavengesTotal: 0,
+          factionAidRequestsTotal: 0,
+        },
       },
       archive: {
         events: [],
@@ -301,6 +308,8 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
     avatarAwake: false,
     resonance: 0,
     lastEventTick: {},
+    lastEmergencyScavengeTick: -3600,
+    lastFactionAidTick: -86400,
     pendingEvent: null,
     eventQuietTicks: 0,
     worldPulse: 0,
@@ -395,6 +404,11 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
         expeditionCasualties: 0,
         cargoSeized: 0,
         ambushesSuffered: 0,
+      },
+      operational: {
+        droneRepairsTotal: 0,
+        emergencyScavengesTotal: 0,
+        factionAidRequestsTotal: 0,
       },
     },
     archive: {

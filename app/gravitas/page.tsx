@@ -64,6 +64,7 @@ import { resolveBattle } from "@/lib/gravitas/sim/battle/engine";
 import { getEnemyBuildingById, getFactionFleetAsEnemy } from "@/lib/gravitas/sim/battle/enemies";
 import { BUILDING_DESCRIPTORS } from "@/lib/gravitas/sim/battle/buildingDescriptors";
 import { GALAXY_FACTIONS } from "@/lib/gravitas/sim/battle/factions";
+import type { FactionId } from "@/lib/gravitas/sim/faction/types";
 
 const GravitasScene = dynamic(() => import("@/components/gravitas/GravitasScene"), { ssr: false });
 const BattleView = dynamic(() => import("@/components/gravitas/battle/BattleView"), { ssr: false });
@@ -1153,6 +1154,12 @@ export default function GravitasPage() {
     : state.modules.sensor.integrity < 50 || !state.modules.sensor.online
       ? "danger"
       : "warning";
+  const inventoryTotal = Object.values(state.inventory).reduce((sum, amount) => sum + amount, 0);
+  const emergencyScavengeReady = state.tick - state.lastEmergencyScavengeTick >= 3600;
+  const factionAidReady = state.tick - state.lastFactionAidTick >= 86400;
+  const bestFriendlyFaction = (Object.entries(state.factionReputation.reputation) as Array<[FactionId, number]>)
+    .filter(([, reputation]) => reputation >= 20)
+    .sort((left, right) => right[1] - left[1])[0]?.[0] ?? null;
   const primaryActions: QuickActionItem[] = [
     {
       key: "scavenge",
@@ -1165,6 +1172,36 @@ export default function GravitasPage() {
       tone: "default",
       mobilePriority: isScavengeActive ? 95 : guide.focus === "scavenge" ? 82 : 58,
     },
+    ...(state.chapter === "continuation" && inventoryTotal < 10
+      ? [{
+          key: "emergency-scavenge",
+          label: emergencyScavengeReady
+            ? localize({ en: "Emergency Scavenge", hu: "Sürgősségi gyűjtés", de: "Notbergung", ro: "Colectare de urgență" })
+            : localize({ en: "Emergency sweep recharging", hu: "Sürgősségi gyűjtés újratölt", de: "Notbergung lädt", ro: "Colectarea se reîncarcă" }),
+          shortLabel: localize({ en: "Emergency", hu: "Vészgyűjtés", de: "Notfall", ro: "Urgență" }),
+          icon: <Package size={15} className="shrink-0" />,
+          onClick: () => doAction({ type: "EMERGENCY_SCAVENGE" }, "rgba(245,158,11,0.4)"),
+          disabled: !emergencyScavengeReady,
+          highlight: emergencyScavengeReady,
+          tone: "warning" as QuickActionTone,
+          mobilePriority: emergencyScavengeReady ? 91 : 20,
+        }]
+      : []),
+    ...(state.chapter === "continuation" && inventoryTotal < 10 && bestFriendlyFaction
+      ? [{
+          key: "faction-aid",
+          label: factionAidReady
+            ? localize({ en: `Request aid from ${bestFriendlyFaction}`, hu: `Segélykérés: ${bestFriendlyFaction}`, de: `Hilfe von ${bestFriendlyFaction}`, ro: `Ajutor de la ${bestFriendlyFaction}` })
+            : localize({ en: "Faction aid on cooldown", hu: "Frakciósegély várakozik", de: "Fraktionshilfe in Abklingzeit", ro: "Ajutorul facțiunii este în așteptare" }),
+          shortLabel: localize({ en: "Faction Aid", hu: "Frakciósegély", de: "Fraktionshilfe", ro: "Ajutor facțiune" }),
+          icon: <Users size={15} className="shrink-0" />,
+          onClick: () => doAction({ type: "REQUEST_FACTION_AID", factionId: bestFriendlyFaction }, "rgba(34,197,94,0.4)"),
+          disabled: !factionAidReady,
+          highlight: factionAidReady,
+          tone: "warning" as QuickActionTone,
+          mobilePriority: factionAidReady ? 89 : 18,
+        }]
+      : []),
     ...(reactorNeedsAttention
       ? [{
           key: "reactor",

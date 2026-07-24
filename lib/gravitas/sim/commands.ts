@@ -247,6 +247,96 @@ function applyStarholdCommandInternal(state: StarholdState, command: StarholdCom
   const mods = getStarholdModifiers(state);
 
   switch (command.type) {
+    case "EMERGENCY_SCAVENGE": {
+      const cooldownTicks = 3600;
+      if (state.tick - state.lastEmergencyScavengeTick < cooldownTicks) {
+        const remaining = cooldownTicks - (state.tick - state.lastEmergencyScavengeTick);
+        return withAlert(state, {
+          en: `Emergency sweep recharging: ${Math.ceil(remaining / 60)}m.`,
+          hu: `A sürgősségi gyűjtés újratölt: ${Math.ceil(remaining / 60)} perc.`,
+          de: `Notbergung lädt: ${Math.ceil(remaining / 60)} Min.`,
+          ro: `Colectarea de urgență se reîncarcă: ${Math.ceil(remaining / 60)} min.`,
+        });
+      }
+      const amount = state.tick % 2 === 0 ? 2 : 1;
+      const text: LocalizedString = {
+        en: `Emergency drones recovered ${amount} lumen dust.`,
+        hu: `A sürgősségi drónok ${amount} lumenport mentettek ki.`,
+        de: `Notfalldrohnen bargen ${amount} Lumenstaub.`,
+        ro: `Dronele de urgență au recuperat ${amount} praf lumen.`,
+      };
+      return {
+        ...state,
+        inventory: {
+          ...state.inventory,
+          lumen_dust: (state.inventory.lumen_dust ?? 0) + amount,
+        },
+        lastEmergencyScavengeTick: state.tick,
+        statistics: {
+          ...state.statistics,
+          operational: {
+            ...state.statistics.operational,
+            emergencyScavengesTotal: state.statistics.operational.emergencyScavengesTotal + 1,
+          },
+        },
+        alert: text,
+        journal: pushJournal(state, text),
+      };
+    }
+    case "REQUEST_FACTION_AID": {
+      const reputation = state.factionReputation.reputation[command.factionId] ?? 0;
+      if (reputation < 20) {
+        return withAlert(state, {
+          en: "Faction aid requires friendly standing (20 reputation).",
+          hu: "Frakciósegélyhez baráti viszony szükséges (20 reputáció).",
+          de: "Fraktionshilfe erfordert freundlichen Status (20 Ruf).",
+          ro: "Ajutorul facțiunii necesită relații prietenoase (20 reputație).",
+        });
+      }
+      const cooldownTicks = 86400;
+      if (state.tick - state.lastFactionAidTick < cooldownTicks) {
+        const remaining = cooldownTicks - (state.tick - state.lastFactionAidTick);
+        return withAlert(state, {
+          en: `Faction aid available in ${Math.ceil(remaining / 3600)}h.`,
+          hu: `Újabb frakciósegély ${Math.ceil(remaining / 3600)} óra múlva kérhető.`,
+          de: `Fraktionshilfe in ${Math.ceil(remaining / 3600)} Std. verfügbar.`,
+          ro: `Ajutorul facțiunii este disponibil în ${Math.ceil(remaining / 3600)}h.`,
+        });
+      }
+      const text: LocalizedString = {
+        en: `${command.factionId} delivered 5 lumen dust as emergency aid.`,
+        hu: `A(z) ${command.factionId} 5 lumenport küldött sürgősségi segélyként.`,
+        de: `${command.factionId} lieferte 5 Lumenstaub als Nothilfe.`,
+        ro: `${command.factionId} a livrat 5 praf lumen ca ajutor de urgență.`,
+      };
+      return {
+        ...state,
+        inventory: {
+          ...state.inventory,
+          lumen_dust: (state.inventory.lumen_dust ?? 0) + 5,
+        },
+        factionReputation: {
+          ...state.factionReputation,
+          reputation: applyReputationChange(
+            state.factionReputation.reputation,
+            command.factionId,
+            -3,
+            "event",
+            state,
+          ),
+        },
+        lastFactionAidTick: state.tick,
+        statistics: {
+          ...state.statistics,
+          operational: {
+            ...state.statistics.operational,
+            factionAidRequestsTotal: state.statistics.operational.factionAidRequestsTotal + 1,
+          },
+        },
+        alert: text,
+        journal: pushJournal(state, text),
+      };
+    }
     case "SCAVENGE": {
       if (state.scavengeOperation) {
         return {

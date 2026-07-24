@@ -461,6 +461,8 @@ export function loadGravitasState(): StarholdState | null {
       firstLoopShown: parsed.firstLoopShown ?? false,
       eventQuietTicks: parsed.eventQuietTicks ?? 0,
       lastEventTick: parsed.lastEventTick ?? {},
+      lastEmergencyScavengeTick: parsed.lastEmergencyScavengeTick ?? -3600,
+      lastFactionAidTick: parsed.lastFactionAidTick ?? -86400,
       worldPulse: parsed.worldPulse ?? 0,
       worldPhase: parsed.worldPhase ?? 0,
       activeOperation: parsed.activeOperation?.type === "scavenge" ? null : parsed.activeOperation ?? null,
@@ -669,12 +671,18 @@ export function loadGravitasState(): StarholdState | null {
         claimedTaskIds: [],
         lastWeeklyRefreshTick: -1000000,
       },
-      statistics: parsed.statistics ?? {
+      statistics: {
+        ...(parsed.statistics ?? {}),
         trauma: {
-          agentsLost: 0,
-          expeditionCasualties: 0,
-          cargoSeized: 0,
-          ambushesSuffered: 0,
+          agentsLost: parsed.statistics?.trauma?.agentsLost ?? 0,
+          expeditionCasualties: parsed.statistics?.trauma?.expeditionCasualties ?? 0,
+          cargoSeized: parsed.statistics?.trauma?.cargoSeized ?? 0,
+          ambushesSuffered: parsed.statistics?.trauma?.ambushesSuffered ?? 0,
+        },
+        operational: {
+          droneRepairsTotal: parsed.statistics?.operational?.droneRepairsTotal ?? 0,
+          emergencyScavengesTotal: parsed.statistics?.operational?.emergencyScavengesTotal ?? 0,
+          factionAidRequestsTotal: parsed.statistics?.operational?.factionAidRequestsTotal ?? 0,
         },
       },
       archive: parsed.archive ?? {
