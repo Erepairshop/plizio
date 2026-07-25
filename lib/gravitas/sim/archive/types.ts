@@ -42,6 +42,7 @@ export interface ArchiveEvent {
     researchId?: string;
   };
   isRead: boolean;
+  isPinned: boolean;
 }
 
 export interface ArchiveState {

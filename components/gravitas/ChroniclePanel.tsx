@@ -6,15 +6,16 @@ import {
   X, History, Sword, Rocket, Compass, 
   ArrowLeftRight, FlaskConical, AlertTriangle, 
   Unlock, Settings, Gift, ChevronDown, ChevronUp,
-  Filter, Search
+  Pin, Trash2, CheckCheck
 } from "lucide-react";
-import type { StarholdState, LocalizedString } from "@/lib/gravitas/sim/types";
+import type { StarholdState, StarholdCommand, LocalizedString } from "@/lib/gravitas/sim/types";
 import type { ArchiveEvent, ArchiveCategory } from "@/lib/gravitas/sim/archive/types";
 
 interface Props {
   state: StarholdState;
   lang: string;
   onClose: () => void;
+  doAction: (cmd: StarholdCommand, color: string) => void;
 }
 
 const CATEGORY_ICONS: Record<ArchiveCategory, any> = {
@@ -41,16 +42,20 @@ const CATEGORY_COLORS: Record<ArchiveCategory, string> = {
   reward: "text-yellow-400 bg-yellow-400/10",
 };
 
-export default function ChroniclePanel({ state, lang, onClose }: Props) {
+export default function ChroniclePanel({ state, lang, onClose, doAction }: Props) {
   const [filter, setFilter] = useState<ArchiveCategory | "all">("all");
   const [expandedId, setExpandedId] = useState<string | null>(null);
   const events = state.archive.events;
+  const unreadCount = events.filter(event => !event.isRead).length;
 
   const localize = (ls: LocalizedString) => ls[lang as keyof LocalizedString] ?? ls.en;
 
   const filteredEvents = useMemo(() => {
-    if (filter === "all") return events;
-    return events.filter(e => e.category === filter);
+    const matching = filter === "all" ? events : events.filter(e => e.category === filter);
+    return [...matching].sort((a, b) => {
+      if (Boolean(a.isPinned) !== Boolean(b.isPinned)) return a.isPinned ? -1 : 1;
+      return b.tick - a.tick;
+    });
   }, [events, filter]);
 
   const formatTick = (tick: number) => {
@@ -79,13 +84,26 @@ export default function ChroniclePanel({ state, lang, onClose }: Props) {
               {localize({ en: "Chronicle", hu: "Krónika", de: "Chronik", ro: "Cronică" })}
             </h2>
             <p className="text-[10px] text-white/30 uppercase font-bold tracking-widest">
-              {localize({ en: "Station Archive Log", hu: "Állomás Archívum Napló", de: "Stationsarchiv-Protokoll", ro: "Jurnal Arhivă Stație" })}
+              {unreadCount > 0
+                ? `${unreadCount} ${localize({ en: "unread", hu: "olvasatlan", de: "ungelesen", ro: "necitite" })}`
+                : localize({ en: "Station Archive Log", hu: "Állomás Archívum Napló", de: "Stationsarchiv-Protokoll", ro: "Jurnal Arhivă Stație" })}
             </p>
           </div>
         </div>
-        <button onClick={onClose} className="w-8 h-8 rounded-full border border-white/10 flex items-center justify-center hover:bg-white/5 transition text-white/50 hover:text-white">
-          <X size={16} />
-        </button>
+        <div className="flex items-center gap-2">
+          {unreadCount > 0 && (
+            <button
+              onClick={() => doAction({ type: "MARK_ALL_CHRONICLE_READ" }, "rgba(129,140,248,0.2)")}
+              title={localize({ en: "Mark all read", hu: "Összes olvasott", de: "Alle gelesen", ro: "Marchează toate citite" })}
+              className="w-8 h-8 rounded-full border border-white/10 flex items-center justify-center hover:bg-white/5 transition text-white/50 hover:text-indigo-300"
+            >
+              <CheckCheck size={15} />
+            </button>
+          )}
+          <button onClick={onClose} className="w-8 h-8 rounded-full border border-white/10 flex items-center justify-center hover:bg-white/5 transition text-white/50 hover:text-white">
+            <X size={16} />
+          </button>
+        </div>
       </div>
 
       {/* Filters */}
@@ -135,20 +153,23 @@ export default function ChroniclePanel({ state, lang, onClose }: Props) {
             const isExpanded = expandedId === event.id;
 
             return (
-              <div 
+              <div
                 key={event.id}
-                className={`group rounded-xl border transition-all duration-300 ${isExpanded ? "border-white/20 bg-white/5" : "border-white/5 bg-white/[0.02] hover:border-white/10"}`}
+                className={`group rounded-xl border transition-all duration-300 ${event.isPinned ? "border-amber-400/20 bg-amber-400/[0.03]" : isExpanded ? "border-white/20 bg-white/5" : event.isRead ? "border-white/5 bg-white/[0.02] hover:border-white/10" : "border-indigo-400/20 bg-indigo-400/[0.04]"}`}
               >
-                <div 
+                <div
                   className="p-3 cursor-pointer flex items-start gap-3"
-                  onClick={() => setExpandedId(isExpanded ? null : event.id)}
+                  onClick={() => {
+                    setExpandedId(isExpanded ? null : event.id);
+                    if (!event.isRead) doAction({ type: "MARK_CHRONICLE_READ", eventId: event.id }, "rgba(129,140,248,0.12)");
+                  }}
                 >
                   <div className={`w-8 h-8 rounded-lg flex items-center justify-center shrink-0 ${CATEGORY_COLORS[event.category]}`}>
                     <Icon size={16} />
                   </div>
                   <div className="flex-1 min-w-0">
                     <div className="flex justify-between items-start gap-2">
-                      <h4 className="text-xs font-black text-white truncate">{localize(event.title)}</h4>
+                      <h4 className={`text-xs font-black truncate ${event.isRead ? "text-white/80" : "text-white"}`}>{localize(event.title)}</h4>
                       <span className="text-[9px] font-mono text-white/30 shrink-0">{formatTick(event.tick)}</span>
                     </div>
                     <p className="text-[10px] text-white/50 line-clamp-1 mt-0.5">{localize(event.summary)}</p>
@@ -227,6 +248,29 @@ export default function ChroniclePanel({ state, lang, onClose }: Props) {
                             )}
                           </div>
                         )}
+                        <div className="flex justify-end gap-2 border-t border-white/5 pt-2">
+                          <button
+                            type="button"
+                            onClick={() => doAction({ type: "TOGGLE_CHRONICLE_PINNED", eventId: event.id }, "rgba(251,191,36,0.16)")}
+                            className={`flex items-center gap-1 rounded-lg border px-2 py-1 text-[9px] font-black uppercase transition ${event.isPinned ? "border-amber-400/30 bg-amber-400/10 text-amber-300" : "border-white/10 text-white/40 hover:text-white/70"}`}
+                          >
+                            <Pin size={11} />
+                            {event.isPinned
+                              ? localize({ en: "Unpin", hu: "Feloldás", de: "Lösen", ro: "Anulează fixarea" })
+                              : localize({ en: "Pin", hu: "Rögzítés", de: "Anheften", ro: "Fixează" })}
+                          </button>
+                          <button
+                            type="button"
+                            onClick={() => {
+                              doAction({ type: "DISMISS_CHRONICLE_ENTRY", eventId: event.id }, "rgba(244,63,94,0.12)");
+                              setExpandedId(null);
+                            }}
+                            className="flex items-center gap-1 rounded-lg border border-rose-400/15 px-2 py-1 text-[9px] font-black uppercase text-rose-300/60 transition hover:bg-rose-400/10 hover:text-rose-300"
+                          >
+                            <Trash2 size={11} />
+                            {localize({ en: "Delete", hu: "Törlés", de: "Löschen", ro: "Șterge" })}
+                          </button>
+                        </div>
                       </div>
                     </motion.div>
                   )}

@@ -16,7 +16,7 @@ export type DroneMissionState = {
   droneIndex: number; // 0-11, which slot
   targetNodeId: string;
   materialId: GalaxyMaterialId;
-  phase: "traveling" | "mining" | "returning";
+  phase: "traveling" | "mining" | "returning" | "damaged" | "repairing";
   startedAt: number;
   arrivalAt: number;
   miningCompleteAt: number;
@@ -28,7 +28,12 @@ export type DroneMissionState = {
   returnStartPosition?: GalaxyWorldPosition;
   committedUnits?: number;
   failed?: boolean;
+  damageLevel?: "damaged" | "critical";
+  repairStartedAt?: number;
+  repairCompletesAt?: number;
 };
+
+export type DroneRepairCost = Partial<GalaxyInventory>;
 
 type NormalizedDroneMissionsResult = {
   missions: DroneMissionState[];
@@ -41,6 +46,14 @@ const DRONE_MISSIONS_STORAGE_KEY_V2 = "gravitas_galaxy_drone_missions_v2";
 const GALAXY_INVENTORY_STORAGE_KEY = "gravitas_galaxy_inventory_v1";
 const GALAXY_LIVE_PREVIEW_STORAGE_KEY = "gravitas_galaxy_live_preview_v1";
 export const GALAXY_STATE_UPDATED_EVENT = "gravitas:galaxy-state-updated";
+export const DRONE_REPAIR_DURATION_MS = {
+  damaged: 30 * 60_000,
+  critical: 2 * 60 * 60_000,
+} as const;
+export const DRONE_REPAIR_COST: Record<NonNullable<DroneMissionState["damageLevel"]>, DroneRepairCost> = {
+  damaged: { lumen_dust: 3 },
+  critical: { lumen_dust: 8, aether_ore: 2 },
+};
 
 function emitGalaxyStateUpdated(): void {
   if (typeof window === "undefined") return;
@@ -116,6 +129,24 @@ function normalizeDroneMissions(missions: DroneMissionState[], now: number): Nor
   for (const mission of missions) {
     if (!mission) continue;
 
+    if (mission.phase === "damaged") {
+      nextMissions.push({
+        ...mission,
+        damageLevel: mission.damageLevel ?? "damaged",
+      });
+      if (!mission.damageLevel) changed = true;
+      continue;
+    }
+
+    if (mission.phase === "repairing") {
+      if (mission.repairCompletesAt && now >= mission.repairCompletesAt) {
+        changed = true;
+        continue;
+      }
+      nextMissions.push(mission);
+      continue;
+    }
+
     const travelMs = Math.max(1, mission.travelDurationMinutes * 60_000);
     const miningMs = Math.max(1, mission.miningDurationMinutes * 60_000);
     const returnMs = travelMs;
@@ -130,10 +161,14 @@ function normalizeDroneMissions(missions: DroneMissionState[], now: number): Nor
       const returnCompleteAt = miningCompleteAt + returnMs;
 
       if (now >= returnCompleteAt) {
-        completed.push({
-          materialId: mission.materialId,
-          amount: mission.failed ? 0 : mission.targetYieldUnits,
-        });
+        if (mission.failed) {
+          nextMissions.push(createDamagedDroneMission(mission));
+        } else {
+          completed.push({
+            materialId: mission.materialId,
+            amount: mission.targetYieldUnits,
+          });
+        }
         changed = true;
         continue;
       }
@@ -159,10 +194,14 @@ function normalizeDroneMissions(missions: DroneMissionState[], now: number): Nor
       }
 
       if (now >= returnCompleteAt) {
-        completed.push({
-          materialId: mission.materialId,
-          amount: mission.failed ? 0 : (mission.committedUnits ?? mission.targetYieldUnits),
-        });
+        if (mission.failed) {
+          nextMissions.push(createDamagedDroneMission(mission));
+        } else {
+          completed.push({
+            materialId: mission.materialId,
+            amount: mission.committedUnits ?? mission.targetYieldUnits,
+          });
+        }
         changed = true;
         continue;
       }
@@ -181,10 +220,14 @@ function normalizeDroneMissions(missions: DroneMissionState[], now: number): Nor
     if (mission.phase === "returning") {
       const returnCompleteAt = mission.returnCompleteAt ?? (mission.miningCompleteAt + returnMs);
       if (now >= returnCompleteAt) {
-        completed.push({
-          materialId: mission.materialId,
-          amount: mission.failed ? 0 : (mission.committedUnits ?? mission.targetYieldUnits),
-        });
+        if (mission.failed) {
+          nextMissions.push(createDamagedDroneMission(mission));
+        } else {
+          completed.push({
+            materialId: mission.materialId,
+            amount: mission.committedUnits ?? mission.targetYieldUnits,
+          });
+        }
         changed = true;
         continue;
       }
@@ -204,6 +247,15 @@ function normalizeDroneMissions(missions: DroneMissionState[], now: number): Nor
   }
 
   return { missions: nextMissions, completed, changed };
+}
+
+function createDamagedDroneMission(mission: DroneMissionState): DroneMissionState {
+  return {
+    ...mission,
+    phase: "damaged",
+    committedUnits: 0,
+    damageLevel: mission.damageLevel ?? (mission.startedAt % 4 === 0 ? "critical" : "damaged"),
+  };
 }
 
 export function saveAllDroneMissions(missions: DroneMissionState[]): void {
@@ -302,6 +354,28 @@ export function cancelDroneMission(missions: DroneMissionState[], droneIndex: nu
   return missions.filter(m => m.droneIndex !== droneIndex);
 }
 
+export function getRepairableDroneMissions(missions: DroneMissionState[]): DroneMissionState[] {
+  return missions.filter(mission => mission.phase === "damaged" || mission.phase === "repairing");
+}
+
+export function startDroneRepair(
+  missions: DroneMissionState[],
+  droneIndex: number,
+  now = Date.now(),
+): DroneMissionState[] {
+  return missions.map(mission => {
+    if (mission.droneIndex !== droneIndex || mission.phase !== "damaged") return mission;
+    const damageLevel = mission.damageLevel ?? "damaged";
+    return {
+      ...mission,
+      phase: "repairing",
+      damageLevel,
+      repairStartedAt: now,
+      repairCompletesAt: now + DRONE_REPAIR_DURATION_MS[damageLevel],
+    };
+  });
+}
+
 export function getActiveMissionCount(missions: DroneMissionState[]): number {
   return missions.length;
 }
@@ -322,13 +396,21 @@ export function getFreeDroneSlots(missions: DroneMissionState[], logisticsLevel:
 
 export function loadSavedDroneMission(): DroneMissionState | null {
   const missions = loadAllDroneMissions();
-  return missions.find(m => m.droneIndex === 0) ?? null;
+  return missions.find(m =>
+    m.droneIndex === 0 &&
+    (m.phase === "traveling" || m.phase === "mining" || m.phase === "returning")
+  ) ?? null;
 }
 
 export function saveDroneMission(mission: DroneMissionState | null): void {
   const missions = loadAllDroneMissions();
-  let nextMissions = missions.filter(m => m.droneIndex !== 0);
+  let nextMissions = missions.filter(m =>
+    m.droneIndex !== 0 ||
+    m.phase === "damaged" ||
+    m.phase === "repairing"
+  );
   if (mission) {
+    nextMissions = nextMissions.filter(m => m.droneIndex !== 0);
     nextMissions.push({ ...mission, droneIndex: 0 });
   }
   saveAllDroneMissions(nextMissions);

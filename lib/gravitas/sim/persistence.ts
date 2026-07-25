@@ -685,7 +685,21 @@ export function loadGravitasState(): StarholdState | null {
           factionAidRequestsTotal: parsed.statistics?.operational?.factionAidRequestsTotal ?? 0,
         },
       },
-      archive: parsed.archive ?? {
+      archive: parsed.archive ? {
+        ...parsed.archive,
+        events: (parsed.archive.events ?? []).map((event: any) => ({
+          ...event,
+          isRead: event.isRead ?? false,
+          isPinned: event.isPinned ?? false,
+        })),
+        lastViewedTick: parsed.archive.lastViewedTick ?? 0,
+        expiredMapNodes: parsed.archive.expiredMapNodes ?? [],
+        completedFleets: parsed.archive.completedFleets ?? [],
+        completedExpeditions: parsed.archive.completedExpeditions ?? [],
+        completedTrades: parsed.archive.completedTrades ?? [],
+        completedMissions: parsed.archive.completedMissions ?? [],
+        battleHistory: parsed.archive.battleHistory ?? [],
+      } : {
         events: [],
         lastViewedTick: 0,
         expiredMapNodes: [],

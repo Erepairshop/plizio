@@ -15,7 +15,14 @@ import { reserveUnits, releaseAllocation, releaseAllocationWithCasualties, updat
 import { takeBestUnits, incrementVeteranStats, mergeGarrisonEntries } from "./warroom/veteran";
 import { canStartRepair, startRepair, cancelRepair } from "./repairbay";
 import { type UpgradableModuleId, getLevelCost, canUpgradeModule } from "../economy";
-import { loadSavedGalaxyInventory, saveGalaxyInventory } from "../world/mission";
+import {
+  DRONE_REPAIR_COST,
+  loadAllDroneMissions,
+  loadSavedGalaxyInventory,
+  saveAllDroneMissions,
+  saveGalaxyInventory,
+  startDroneRepair,
+} from "../world/mission";
 import type { GalaxyMaterialId } from "../world/mission";
 import { computeInnateBonus, defaultAllocation } from "./battle/avatarCombat";
 import { getBattleXP, getCombatLevel } from "./battle/xp";
@@ -34,7 +41,13 @@ import { markCodexRead } from "./codex/index";
 import { dismissNotification, markAllNotificationsRead, pushNotification } from "./notifications/engine";
 import { recruitOfficer, dismissOfficer, assignOfficer, sendOnMission } from "./officers/engine";
 import { launchExpedition, recallExpedition } from "./expeditions/engine";
-import { pushArchiveEvent } from "./archive/manager";
+import {
+  dismissArchiveEvent,
+  markArchiveAsRead,
+  markArchiveEventRead,
+  pushArchiveEvent,
+  toggleArchiveEventPinned,
+} from "./archive/manager";
 import { unlockStarChamberItem, activateStarChamberItem } from "./starchamber/engine";
 import { claimStarChamberOffer } from "./starchamber/rotation/engine";
 import { claimTaskReward, updateTaskProgress } from "./tasks/engine";
@@ -157,6 +170,11 @@ function withDerived(state: StarholdState): StarholdState {
 }
 
 export function applyStarholdCommand(state: StarholdState, command: StarholdCommand): StarholdState {
+  if (command.type === "MARK_CHRONICLE_READ") return withDerived(markArchiveEventRead(state, command.eventId));
+  if (command.type === "MARK_ALL_CHRONICLE_READ") return withDerived(markArchiveAsRead(state));
+  if (command.type === "TOGGLE_CHRONICLE_PINNED") return withDerived(toggleArchiveEventPinned(state, command.eventId));
+  if (command.type === "DISMISS_CHRONICLE_ENTRY") return withDerived(dismissArchiveEvent(state, command.eventId));
+  if (command.type === "REPAIR_DRONE") return withDerived(handleDroneRepair(state, command.droneIndex));
   if (command.type === "DISMISS_NOTIFICATION") return withDerived(dismissNotification(state, command.id));
   if (command.type === "MARK_NOTIFICATIONS_READ") return withDerived(markAllNotificationsRead(state));
   if (command.type === "INSPECT_NODE") return withDerived(updateTaskProgress(resolveInspectNode(state, command.nodeId), "discovery", 1));
@@ -195,6 +213,73 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
     return withDerived(pushNotification(nextState, type, nextState.alert, nextState.alert, icon));
   }
   return withDerived(nextState);
+}
+
+function handleDroneRepair(state: StarholdState, droneIndex: number): StarholdState {
+  const missions = loadAllDroneMissions();
+  const mission = missions.find(item => item.droneIndex === droneIndex && item.phase === "damaged");
+  if (!mission) {
+    return withAlert(state, {
+      en: "No damaged drone is waiting in that bay.",
+      hu: "Ebben a dokkban nincs javításra váró sérült drón.",
+      de: "In dieser Bucht wartet keine beschädigte Drohne.",
+      ro: "În acest doc nu așteaptă nicio dronă avariată.",
+    });
+  }
+
+  const damageLevel = mission.damageLevel ?? "damaged";
+  const cost = DRONE_REPAIR_COST[damageLevel];
+  const inventory = loadSavedGalaxyInventory();
+  const missingMaterial = Object.entries(cost).find(([materialId, amount]) =>
+    (inventory[materialId as GalaxyMaterialId] ?? 0) < (amount ?? 0)
+  );
+  if (missingMaterial) {
+    return withAlert(state, {
+      en: "Insufficient materials for the drone repair.",
+      hu: "Nincs elegendő anyag a drón javításához.",
+      de: "Nicht genügend Material für die Drohnenreparatur.",
+      ro: "Materiale insuficiente pentru repararea dronei.",
+    });
+  }
+
+  const nextInventory = { ...inventory };
+  for (const [materialId, amount] of Object.entries(cost)) {
+    nextInventory[materialId as GalaxyMaterialId] -= amount ?? 0;
+  }
+  saveGalaxyInventory(nextInventory);
+  saveAllDroneMissions(startDroneRepair(missions, droneIndex));
+
+  const text: LocalizedString = {
+    en: `Drone ${droneIndex + 1} entered ${damageLevel === "critical" ? "critical" : "standard"} repair.`,
+    hu: `${droneIndex + 1}. drón ${damageLevel === "critical" ? "kritikus" : "normál"} javítása elindult.`,
+    de: `Reparatur von Drohne ${droneIndex + 1} (${damageLevel === "critical" ? "kritisch" : "standard"}) gestartet.`,
+    ro: `Repararea ${damageLevel === "critical" ? "critică" : "standard"} a dronei ${droneIndex + 1} a început.`,
+  };
+  const nextState = {
+    ...state,
+    inventory: nextInventory,
+    statistics: {
+      ...state.statistics,
+      operational: {
+        ...state.statistics.operational,
+        droneRepairsTotal: state.statistics.operational.droneRepairsTotal + 1,
+      },
+    },
+    alert: text,
+    journal: pushJournal(state, text),
+  };
+  return pushArchiveEvent(nextState, {
+    category: "system",
+    severity: damageLevel === "critical" ? "warning" : "info",
+    importance: damageLevel === "critical" ? 3 : 2,
+    title: {
+      en: "Drone repair initiated",
+      hu: "Drónjavítás elindítva",
+      de: "Drohnenreparatur gestartet",
+      ro: "Repararea dronei a început",
+    },
+    summary: text,
+  });
 }
 
 function applyStarholdCommandInternal(state: StarholdState, command: StarholdCommand): StarholdState {

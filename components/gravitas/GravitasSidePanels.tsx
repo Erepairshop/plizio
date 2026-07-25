@@ -40,6 +40,7 @@ export default function GravitasSidePanels({ state, lang, panels, doAction }: Pr
           state={state}
           lang={lang}
           onClose={() => panels.setChronicleOpen(false)}
+          doAction={doAction}
         />
       )}
       {panels.espionageOpen && (

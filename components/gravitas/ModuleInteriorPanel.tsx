@@ -5,7 +5,14 @@ import type { StarholdState, StarholdCommand } from "@/lib/gravitas/sim/types";
 import type { UpgradableModuleId, MaterialCost } from "@/lib/gravitas/economy";
 import { getLevelCost, canUpgradeModule } from "@/lib/gravitas/economy";
 import { METEOR_MATERIAL_META } from "@/lib/gravitas/world/demo";
-import { loadSavedGalaxyInventory } from "@/lib/gravitas/world/mission";
+import {
+  DRONE_REPAIR_COST,
+  GALAXY_STATE_UPDATED_EVENT,
+  getRepairableDroneMissions,
+  loadAllDroneMissions,
+  loadSavedGalaxyInventory,
+  type DroneMissionState,
+} from "@/lib/gravitas/world/mission";
 
 type Lang = "en" | "hu" | "de" | "ro";
 
@@ -26,6 +33,10 @@ function formatTimeTicks(ticks: number): string {
   if (d > 0) return h > 0 ? `${d}d ${h}h` : `${d}d`;
   if (h > 0) return m > 0 ? `${h}h ${m}m` : `${h}h`;
   return `${m}m`;
+}
+
+function formatTimeMs(ms: number): string {
+  return formatTimeTicks(Math.ceil(Math.max(0, ms) / 1000));
 }
 
 function CostChips({ cost, lang }: { cost: MaterialCost; lang: Lang }) {
@@ -96,6 +107,19 @@ export default function ModuleInteriorPanel({
   const isUpgrading = state.upgradeQueue.some(s => s.moduleId === moduleId);
   const activeSlot = state.upgradeQueue.find(s => s.moduleId === moduleId);
   const slotsFull = state.upgradeQueue.length >= state.upgradeSlotCount;
+  const [repairableDrones, setRepairableDrones] = useState<DroneMissionState[]>([]);
+
+  useEffect(() => {
+    if (moduleId !== "logistics") return undefined;
+    const refresh = () => setRepairableDrones(getRepairableDroneMissions(loadAllDroneMissions()));
+    refresh();
+    window.addEventListener(GALAXY_STATE_UPDATED_EVENT, refresh);
+    const interval = window.setInterval(refresh, 10_000);
+    return () => {
+      window.removeEventListener(GALAXY_STATE_UPDATED_EVENT, refresh);
+      window.clearInterval(interval);
+    };
+  }, [moduleId]);
 
   const inventory = loadSavedGalaxyInventory();
   const check = canUpgradeModule(moduleId, state.moduleLevels, inventory);
@@ -162,6 +186,62 @@ export default function ModuleInteriorPanel({
           </div>
         )}
       </div>
+
+      {moduleId === "logistics" && (
+        <div className={`rounded-2xl border ${c.border} ${c.bg} p-3`}>
+          <div className="mb-2 flex items-center justify-between gap-2">
+            <span className="text-[9px] font-black uppercase tracking-wider text-white/40">
+              {{ en: "Drone repair queue", hu: "Drón javítási sor", de: "Drohnen-Reparatur", ro: "Reparare drone" }[l]}
+            </span>
+            <span className={`rounded-full border px-2 py-0.5 text-[9px] font-black ${repairableDrones.length > 0 ? "border-amber-400/20 bg-amber-400/10 text-amber-300" : "border-emerald-400/20 bg-emerald-400/10 text-emerald-300"}`}>
+              {repairableDrones.length}
+            </span>
+          </div>
+          {repairableDrones.length === 0 ? (
+            <p className="text-[10px] text-white/40">
+              {{ en: "All mining drones are operational.", hu: "Minden bányászdrón üzemképes.", de: "Alle Bergbaudrohnen sind einsatzbereit.", ro: "Toate dronele miniere sunt operaționale." }[l]}
+            </p>
+          ) : (
+            <div className="space-y-2">
+              {repairableDrones.map(drone => {
+                const damageLevel = drone.damageLevel ?? "damaged";
+                const cost = DRONE_REPAIR_COST[damageLevel];
+                const canRepair = Object.entries(cost).every(([materialId, amount]) =>
+                  (inventory[materialId as keyof typeof inventory] ?? 0) >= (amount ?? 0)
+                );
+                const isRepairing = drone.phase === "repairing";
+                return (
+                  <div key={drone.id} className="rounded-xl border border-white/8 bg-black/20 p-2.5">
+                    <div className="flex items-center justify-between gap-2">
+                      <div>
+                        <div className="text-[11px] font-black text-white/80">
+                          {{ en: "Drone", hu: "Drón", de: "Drohne", ro: "Dronă" }[l]} {drone.droneIndex + 1}
+                        </div>
+                        <div className={`text-[9px] font-bold uppercase ${damageLevel === "critical" ? "text-rose-400" : "text-amber-300"}`}>
+                          {isRepairing
+                            ? `${{ en: "Repairing", hu: "Javítás alatt", de: "In Reparatur", ro: "În reparație" }[l]} · ${formatTimeMs((drone.repairCompletesAt ?? Date.now()) - Date.now())}`
+                            : ({ en: damageLevel, hu: damageLevel === "critical" ? "kritikus" : "sérült", de: damageLevel === "critical" ? "kritisch" : "beschädigt", ro: damageLevel === "critical" ? "critic" : "avariat" }[l])}
+                        </div>
+                      </div>
+                      {!isRepairing && (
+                        <button
+                          type="button"
+                          disabled={!canRepair}
+                          onClick={() => dispatch({ type: "REPAIR_DRONE", droneIndex: drone.droneIndex })}
+                          className={`rounded-lg border px-3 py-1.5 text-[9px] font-black uppercase tracking-wider transition ${canRepair ? c.btn : "cursor-not-allowed border-white/5 bg-white/[0.02] text-white/25"}`}
+                        >
+                          {{ en: "Repair", hu: "Javítás", de: "Reparieren", ro: "Repară" }[l]}
+                        </button>
+                      )}
+                    </div>
+                    {!isRepairing && <div className="mt-2"><CostChips cost={cost} lang={l} /></div>}
+                  </div>
+                );
+              })}
+            </div>
+          )}
+        </div>
+      )}
 
       {/* Danger warning */}
       {isDanger && (

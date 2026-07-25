@@ -440,6 +440,11 @@ export type StarholdCommand =
   | { type: "ESTABLISH_ROUTE"; factionId: import("./faction/types").FactionId; materialId: import("../world/mission").GalaxyMaterialId }
   | { type: "ABANDON_ROUTE"; routeId: string }
   | { type: "MARK_CODEX_READ"; entryId: string }
+  | { type: "MARK_CHRONICLE_READ"; eventId: string }
+  | { type: "MARK_ALL_CHRONICLE_READ" }
+  | { type: "TOGGLE_CHRONICLE_PINNED"; eventId: string }
+  | { type: "DISMISS_CHRONICLE_ENTRY"; eventId: string }
+  | { type: "REPAIR_DRONE"; droneIndex: number }
   | { type: "DISMISS_NOTIFICATION"; id: string }
   | { type: "MARK_NOTIFICATIONS_READ" }
   | { type: "RECRUIT_OFFICER"; officerId: string }

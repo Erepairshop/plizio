@@ -32,16 +32,17 @@ export function pushArchiveEvent(
     summary: data.summary,
     details: data.details,
     isRead: false,
+    isPinned: false,
   };
 
   let nextEvents = [newEvent, ...state.archive.events];
 
   // Pruning: if we exceed the limit, remove oldest low-importance events first
   if (nextEvents.length > MAX_ARCHIVE_EVENTS) {
-    // Keep all importance 5 (milestones)
+    // Keep pinned entries and all importance 5 milestones.
     // Sort by importance (asc) then tick (asc) to find candidates for removal
     const candidates = nextEvents
-      .filter(e => e.importance < 5)
+      .filter(e => e.importance < 5 && !e.isPinned)
       .sort((a, b) => {
         if (a.importance !== b.importance) return a.importance - b.importance;
         return a.tick - b.tick;
@@ -74,5 +75,39 @@ export function markArchiveAsRead(state: StarholdState): StarholdState {
       events: state.archive.events.map(e => ({ ...e, isRead: true })),
       lastViewedTick: state.tick,
     }
+  };
+}
+
+export function markArchiveEventRead(state: StarholdState, eventId: string): StarholdState {
+  return {
+    ...state,
+    archive: {
+      ...state.archive,
+      events: state.archive.events.map(event =>
+        event.id === eventId ? { ...event, isRead: true } : event
+      ),
+    },
+  };
+}
+
+export function toggleArchiveEventPinned(state: StarholdState, eventId: string): StarholdState {
+  return {
+    ...state,
+    archive: {
+      ...state.archive,
+      events: state.archive.events.map(event =>
+        event.id === eventId ? { ...event, isPinned: !event.isPinned } : event
+      ),
+    },
+  };
+}
+
+export function dismissArchiveEvent(state: StarholdState, eventId: string): StarholdState {
+  return {
+    ...state,
+    archive: {
+      ...state.archive,
+      events: state.archive.events.filter(event => event.id !== eventId),
+    },
   };
 }
