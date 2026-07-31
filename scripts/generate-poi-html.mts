@@ -211,7 +211,14 @@ function imageExists(p?: string | null): boolean {
   return IMG_SET.has(p.split("/").pop() || "");
 }
 function resolveHeroImage(poi: POI): string | null {
-  if (poi.image && imageExists(poi.image)) return poi.image;
+  if (poi.image && imageExists(poi.image)) {
+    const filename = poi.image.split("/").pop() || "";
+    // The VPS manifest contains canonical shared/poi-images filenames. Some
+    // older POIs still point at removed /geo-images/<country>/ paths; returning
+    // that stale source produces a 404 and also suppresses the upload fallback.
+    if (IMG_INDEX_READY && IMG_SET.has(filename)) return `/poi-images/${filename}`;
+    return poi.image;
+  }
   return lookupFallbackImage(poi.id);
 }
 
