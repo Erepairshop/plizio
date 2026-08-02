@@ -1765,7 +1765,21 @@ function exitQuiz(){
   if(quizPanel){quizPanel.classList.remove('open');quizPanel.innerHTML=''}
   applyGrpFilter();
 }
-if(quizLaunch)quizLaunch.addEventListener('click',showQuizIntro);
+if(quizLaunch){
+  quizLaunch.addEventListener('click',showQuizIntro);
+  const quizParams=new URLSearchParams(window.location.search);
+  let quizFromPoi=false;
+  try{
+    const referrer=new URL(document.referrer);
+    quizFromPoi=referrer.origin===window.location.origin&&referrer.pathname.split('/').filter(Boolean).length>=4;
+  }catch(e){}
+  if(quizParams.get('quiz')==='start'||quizFromPoi){
+    quizParams.delete('quiz');
+    const cleanQuery=quizParams.toString();
+    history.replaceState(null,'',window.location.pathname+(cleanQuery?'?'+cleanQuery:'')+window.location.hash);
+    requestAnimationFrame(startQuiz);
+  }
+}
 svg.addEventListener('keydown',function(e){
   if(!quizActive||(e.key!=='Enter'&&e.key!==' '))return;
   const poi=e.target.closest&&e.target.closest('.poi');const region=e.target.closest&&e.target.closest('.region');

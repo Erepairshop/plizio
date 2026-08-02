@@ -1362,8 +1362,9 @@ function renderPostcardCta(poi: POI, lang: Lang, countryId: string): string {
 }
 
 function renderMapQuizCta(countryId: string, countryName: string, lang: Lang): string {
-  const href = countryMapQuizUrl(countryId, lang);
-  if (!href) return "";
+  const mapUrl = countryMapQuizUrl(countryId, lang);
+  if (!mapUrl) return "";
+  const href = `${mapUrl}?quiz=start`;
 
   const COPY: Partial<Record<Lang, { eyebrow: string; title: string; body: string; count: string; button: string }>> = {
     de: {

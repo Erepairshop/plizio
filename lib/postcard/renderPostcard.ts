@@ -1,4 +1,5 @@
 export type PostcardTheme = "sunset" | "coast" | "paper";
+export type PostcardLanguage = "hu" | "de" | "en" | "ro";
 
 export type PostcardContent = {
   place: string;
@@ -7,7 +8,17 @@ export type PostcardContent = {
   sender: string;
   date: string;
   theme: PostcardTheme;
+  lang: PostcardLanguage;
 };
+
+const FALLBACK_COPY: Record<PostcardLanguage, { memory: string; journey: string; keepsake: string; message: string; signoff: string }> = {
+  de: { memory: "REISEERINNERUNG", journey: "Meine Reise", keepsake: "Eine Erinnerung zum Bewahren", message: "Grüße von diesem wunderschönen Ort!", signoff: "mit lieben Grüßen" },
+  hu: { memory: "ÚTI EMLÉK", journey: "Az én utazásom", keepsake: "Egy emlék, amit jó megőrizni", message: "Üdvözlet erről a csodálatos helyről!", signoff: "szeretettel" },
+  en: { memory: "TRAVEL MEMORY", journey: "My journey", keepsake: "A memory worth keeping", message: "Greetings from this wonderful place!", signoff: "with love" },
+  ro: { memory: "AMINTIRE DE CĂLĂTORIE", journey: "Călătoria mea", keepsake: "O amintire de păstrat", message: "Salutări din acest loc minunat!", signoff: "cu drag" },
+};
+
+const UPPERCASE_LOCALE: Record<PostcardLanguage, string> = { de: "de-DE", hu: "hu-HU", en: "en-US", ro: "ro-RO" };
 
 const PALETTES: Record<PostcardTheme, { ink: string; accent: string; paper: string }> = {
   sunset: { ink: "#401f18", accent: "#ef5b3f", paper: "#f7c66c" },
@@ -59,6 +70,8 @@ function fitFont(ctx: CanvasRenderingContext2D, text: string, maxWidth: number, 
 
 function drawStamp(ctx: CanvasRenderingContext2D, content: PostcardContent, x: number, y: number) {
   const palette = PALETTES[content.theme];
+  const copy = FALLBACK_COPY[content.lang];
+  const locale = UPPERCASE_LOCALE[content.lang];
   ctx.save();
   ctx.translate(x, y);
   ctx.rotate(-0.09);
@@ -75,8 +88,8 @@ function drawStamp(ctx: CanvasRenderingContext2D, content: PostcardContent, x: n
   ctx.arc(0, 0, 104, 0, Math.PI * 2);
   ctx.stroke();
   ctx.textAlign = "center";
-  const stampPlace = (content.place || "ÚTI EMLÉK").toLocaleUpperCase("hu");
-  const stampCountry = (content.country || "PLIZIO").toLocaleUpperCase("hu");
+  const stampPlace = (content.place || copy.memory).toLocaleUpperCase(locale);
+  const stampCountry = (content.country || "PLIZIO").toLocaleUpperCase(locale);
   fitFont(ctx, stampPlace, 174, 28, 12, "700 {size}px Georgia, serif");
   ctx.fillText(stampPlace, 0, -38);
   fitFont(ctx, stampCountry, 166, 22, 11, "700 {size}px Georgia, serif");
@@ -91,8 +104,9 @@ export function renderPostcard(canvas: HTMLCanvasElement, image: HTMLImageElemen
   if (!ctx) return;
   canvas.width = 1200;
   const palette = PALETTES[content.theme];
+  const copy = FALLBACK_COPY[content.lang];
   ctx.font = "italic 43px Georgia, serif";
-  const messageLines = wrappedLines(ctx, content.message || "Üdvözlet erről a csodálatos helyről!", 620);
+  const messageLines = wrappedLines(ctx, content.message || copy.message, 620);
   const canvasHeight = Math.max(1500, 1055 + (messageLines.length - 1) * 62 + 230);
   canvas.height = canvasHeight;
 
@@ -143,10 +157,10 @@ export function renderPostcard(canvas: HTMLCanvasElement, image: HTMLImageElemen
   ctx.restore();
 
   ctx.fillStyle = "#fff";
-  const place = content.place || "Az én utazásom";
+  const place = content.place || copy.journey;
   fitFont(ctx, place, 910, 86, 38, "700 {size}px Georgia, serif");
   ctx.fillText(place, 145, 845);
-  const country = content.country || "Egy emlék, amit jó megőrizni";
+  const country = content.country || copy.keepsake;
   fitFont(ctx, country, 900, 31, 20, "600 {size}px Arial, sans-serif");
   ctx.fillText(country, 150, 902);
 
@@ -154,7 +168,7 @@ export function renderPostcard(canvas: HTMLCanvasElement, image: HTMLImageElemen
   ctx.font = "italic 43px Georgia, serif";
   drawLines(ctx, messageLines, 130, 1055, 62);
   ctx.font = "600 30px Arial, sans-serif";
-  ctx.fillText(content.sender ? `– ${content.sender}` : "– szeretettel", 130, canvasHeight - 170);
+  ctx.fillText(content.sender ? `– ${content.sender}` : `– ${copy.signoff}`, 130, canvasHeight - 170);
   drawStamp(ctx, content, 930, canvasHeight - 335);
 
   ctx.fillStyle = palette.ink;

@@ -2,13 +2,13 @@ import type { Metadata } from "next";
 import PostcardEditor from "@/components/postcard/PostcardEditor";
 
 export const metadata: Metadata = {
-  title: "Ingyenes digitális képeslap készítő",
+  title: "Kostenloser digitaler Postkarten-Designer",
   description:
-    "Készíts személyes utazási képeslapot saját fotóval és helybélyegzővel. Letöltés és megosztás regisztráció nélkül.",
+    "Gestalte eine persönliche Reisepostkarte mit eigenem Foto und Ortsstempel. Kostenlos herunterladen und teilen, ohne Anmeldung.",
   alternates: { canonical: "https://plizio.com/postcard/" },
   openGraph: {
-    title: "Küldj személyes képeslapot az utazásodról",
-    description: "Saját fotó, egyedi helybélyegző, ingyenes letöltés és megosztás.",
+    title: "Versende eine persönliche Postkarte von deiner Reise",
+    description: "Eigenes Foto, individueller Ortsstempel, kostenloser Download und einfaches Teilen.",
     url: "https://plizio.com/postcard/",
     type: "website",
   },

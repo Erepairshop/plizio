@@ -17,9 +17,19 @@ env:
 jobs:
   deploy:
     runs-on: [self-hosted, vps-plizio]
-    timeout-minutes: 5
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: 'npm'
+
+      - name: Build static map HTMLs from source
+        run: |
+          npm ci
+          npx tsx scripts/build-static-maps.mts
 
       - name: Locate active VPS release
         id: release
