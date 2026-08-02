@@ -336,3 +336,14 @@ Nem váltja ki a `CLAUDE.md`-t, hanem gyors képbehozásra szolgál.
   A `Deploy App` is futtatja a `scripts/build-static-maps.mts` generatort, hogy
   egy uj app release ne irja vissza a regi statikus terkepeket.
 - Feature commit: `b6a0b717bb9`; deploy-integracio: `f605b41aeb9`.
+
+## POI fetch-kepek aktivalasa - 2026-08-02
+
+- Az osszes Azure fetch audit `accepted` es manualis `review` jeloltjet a
+  `C:\Users\User\azure-audit\activate_all_fetched_images.py` aktivalja ugy, hogy letezo
+  live kepet nem ir felul, accepted jelolt elsobbseget kap, es WebP fejlecet ellenoriz.
+- VPS eredmeny: 184 accepted + 296 review kep aktivalva, 22 mar letezett, 0 invalid.
+- Visszakeresheto naplo:
+  `/home/erik/plizio/shared/audits/fetch-activation-20260802-190157.json`.
+- A POI hero kepek inline `onerror` fallbacket kapnak a tipus szerinti SVG-re; a footer
+  globalis error listenere onmagaban nem eleg, mert az eager 404 a listener elott is johet.

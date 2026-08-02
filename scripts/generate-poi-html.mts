@@ -3521,15 +3521,16 @@ function renderHtml(poi: POI, lang: Lang): string | null {
   const heroImages: { src: string; alt: string }[] = [];
   const heroImg = resolveHeroImage(poi);
   if (heroImg) heroImages.push({ src: heroImg, alt: buildAlt(name) });
+  const heroFallback = poiPlaceholderSvg(poi.type);
+  const heroOnError = `onerror="this.onerror=null;this.dataset.phf='1';this.src='${heroFallback}'"`;
   let heroHtml: string;
   if (heroImages.length === 0) {
     // Approved community images use a stable URL and become visible without a rebuild.
-    const fallback = poiPlaceholderSvg(poi.type);
-    heroHtml = `<div class="plz-hero plz-hero-ph"><img id="plz-user-hero" src="/poi-user-images/${encodeURIComponent(poi.id)}.webp" alt="${escapeHtml(buildAlt(name))}" loading="eager" fetchpriority="high" decoding="async" onload="if(this.currentSrc.indexOf('/poi-user-images/')>=0)this.dataset.userImageLoaded='1'" onerror="this.onerror=null;this.dataset.phf='1';this.src='${fallback}'"/></div>`;
+    heroHtml = `<div class="plz-hero plz-hero-ph"><img id="plz-user-hero" src="/poi-user-images/${encodeURIComponent(poi.id)}.webp" alt="${escapeHtml(buildAlt(name))}" loading="eager" fetchpriority="high" decoding="async" onload="if(this.currentSrc.indexOf('/poi-user-images/')>=0)this.dataset.userImageLoaded='1'" ${heroOnError}/></div>`;
   } else if (heroImages.length === 1) {
-    heroHtml = `<div class="plz-hero"><img src="${escapeHtml(heroImages[0].src)}" alt="${escapeHtml(heroImages[0].alt)}" loading="eager" fetchpriority="high" decoding="async"/></div>`;
+    heroHtml = `<div class="plz-hero"><img src="${escapeHtml(heroImages[0].src)}" alt="${escapeHtml(heroImages[0].alt)}" loading="eager" fetchpriority="high" decoding="async" ${heroOnError}/></div>`;
   } else {
-    const slides = heroImages.map((h, i) => `<div class="plz-hero-slide" data-slide="${i}"><img src="${escapeHtml(h.src)}" alt="${escapeHtml(h.alt)}" loading="${i === 0 ? "eager" : "lazy"}"${i === 0 ? ' fetchpriority="high"' : ""} decoding="async"/></div>`).join("");
+    const slides = heroImages.map((h, i) => `<div class="plz-hero-slide" data-slide="${i}"><img src="${escapeHtml(h.src)}" alt="${escapeHtml(h.alt)}" loading="${i === 0 ? "eager" : "lazy"}"${i === 0 ? ' fetchpriority="high"' : ""} decoding="async" ${heroOnError}/></div>`).join("");
     const dots = heroImages.map((_, i) => `<span class="plz-hero-dot${i === 0 ? " active" : ""}" data-dot="${i}"></span>`).join("");
     heroHtml = `<div class="plz-hero plz-hero-swiper"><div class="plz-hero-track" id="plz-hero-track">${slides}</div><div class="plz-hero-dots">${dots}</div></div>
 <script>(function(){var tr=document.getElementById('plz-hero-track');if(!tr)return;var dots=tr.parentElement.querySelectorAll('.plz-hero-dot');function sync(){var w=tr.clientWidth;var i=Math.round(tr.scrollLeft/w);dots.forEach(function(d,j){d.classList.toggle('active',i===j);});}tr.addEventListener('scroll',function(){sync();},{passive:true});dots.forEach(function(d,i){d.addEventListener('click',function(){tr.scrollTo({left:i*tr.clientWidth,behavior:'smooth'});});});})();</script>`;
