@@ -101,30 +101,6 @@ jobs:
           echo "POI HTML count after rsync: $COUNT"
           test "$COUNT" -gt 100000
 
-      - name: Link shared image dirs into runner workspace (for image-fallback lookup)
-        shell: bash
-        run: |
-          set -euo pipefail
-          # generate-poi-html.mts scans public/poi-images + public/geo-images at
-          # startup to backfill missing hero images. The actual files live in
-          # ~/plizio/shared/{poi,geo}-images on the VPS — symlink them so the
-          # IMG_SET gets populated.
-          if [ -d "${{ env.RELEASE_BASE }}/shared/poi-images" ]; then
-            ln -sfn "${{ env.RELEASE_BASE }}/shared/poi-images" public/poi-images
-            echo "Linked public/poi-images → shared (files: $(ls public/poi-images | wc -l))"
-          fi
-          if [ -d "${{ env.RELEASE_BASE }}/shared/geo-images" ]; then
-            ln -sfn "${{ env.RELEASE_BASE }}/shared/geo-images" public/geo-images
-            echo "Linked public/geo-images → shared (files: $(ls public/geo-images | wc -l))"
-          fi
-
-      - name: Regenerate POI HTML with image fallback (overrides rsync'd HTMLs)
-        env:
-          OUT_DIR: out
-          GEN_LIMIT: '0'
-          NODE_OPTIONS: --max-old-space-size=16384
-        run: npx tsx scripts/generate-poi-html.mts
-
       # Build the sitemap.xml INDEX from the actual chunk files in out/ (Next
       # chunks + reused poi-a/b/c overflow + hubs/beach/sightpages). The old
       # step here copied a HARDCODED public/sitemap.xml frozen at 9 chunks,
@@ -141,8 +117,20 @@ jobs:
           set -euo pipefail
           TS=$(date -u +%Y%m%d-%H%M%S)
           REL_DIR="${{ env.RELEASE_BASE }}/releases/${TS}"
-          mkdir -p "$REL_DIR"
           PREV=$(readlink -f "${{ env.RELEASE_BASE }}/current" 2>/dev/null || echo "")
+          # A killed deploy can leave a large, incomplete release behind. Mark
+          # the known-good current release and remove only unmarked leftovers.
+          if [ -n "$PREV" ] && [ -d "$PREV" ]; then
+            touch "$PREV/.deploy-complete"
+          fi
+          for CANDIDATE in "${{ env.RELEASE_BASE }}"/releases/*; do
+            [ -d "$CANDIDATE" ] || continue
+            [ "$(readlink -f "$CANDIDATE")" = "$PREV" ] && continue
+            [ -f "$CANDIDATE/.deploy-complete" ] && continue
+            echo "Removing incomplete release: $CANDIDATE"
+            rm -rf -- "$CANDIDATE"
+          done
+          mkdir -p "$REL_DIR"
           if [ -n "$PREV" ] && [ -d "$PREV" ]; then
             rsync -a --delete --link-dest="$PREV/" out/ "$REL_DIR/"
           else
@@ -158,6 +146,7 @@ jobs:
           if [ -d "${{ env.RELEASE_BASE }}/shared/poi-images" ]; then
             ln -sfn "${{ env.RELEASE_BASE }}/shared/poi-images" "$REL_DIR/poi-images"
           fi
+          touch "$REL_DIR/.deploy-complete"
           ln -sfn "$REL_DIR" "${{ env.RELEASE_BASE }}/current.new"
           mv -Tf "${{ env.RELEASE_BASE }}/current.new" "${{ env.RELEASE_BASE }}/current"
           CURRENT_TARGET=$(readlink -f "${{ env.RELEASE_BASE }}/current" 2>/dev/null || echo "")
