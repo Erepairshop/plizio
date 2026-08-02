@@ -155,7 +155,7 @@ function buildSmoothPath(islands: typeof K3_ISLANDS): string {
   return d;
 }
 
-function IslandMapSVG({ progress, onIsland, onCheckpoint }: {
+function IslandMapSVG({ progress, onIsland, onCheckpoint, lang }: {
   progress: DeutschProgress;
   onIsland: (island: IslandDef) => void;
   onCheckpoint: (testId: string) => void;
