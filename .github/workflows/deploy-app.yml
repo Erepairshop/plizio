@@ -23,7 +23,7 @@ env:
 jobs:
   build-deploy:
     runs-on: [self-hosted, vps-plizio]
-    timeout-minutes: 60
+    timeout-minutes: 150
     steps:
       - uses: actions/checkout@v4
 
