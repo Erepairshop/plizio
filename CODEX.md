@@ -319,3 +319,20 @@ Nem váltja ki a `CLAUDE.md`-t, hanem gyors képbehozásra szolgál.
   `scripts/audit-astro-game-rounds.mts`.
 - Minden 13 tantárgyi M2/M3 registry roundját az engine guardokkal együtt kell
   ellenőrizni az `audit-astro-game-rounds.mts` futtatásával.
+
+## Terkepkviz CTA es postcard lokalizacio - 2026-08-02
+
+- A POI HTML terkepkviz CTA most `?quiz=start` parameterrel nyitja a statikus
+  orszagterkepet; forras: `scripts/generate-poi-html.mts`.
+- A statikus terkep a parametert egyszer elfogyasztja, majd kozvetlenul a
+  `startQuiz()` fuggvenyt hivja, a bevezeto panel kihagyasaval.
+- Regi, parameter nelkuli live POI HTML-ek kompatibilitasa: az azonos originrol,
+  legalabb negy URL-szegmens melysegu POI oldalrol erkezo latogatot is automatikus
+  kvizinditasnak tekinti. Orszag- es fooldalrol a terkep tovabbra sem indul magatol.
+- A `/postcard/` felulet es a generalt canvas/PNG mar `de`, `hu`, `ro`, `en`
+  nyelven mukodik. Elsobbseg: explicit `lang` query parameter, utana a mentett
+  Plizio-nyelv. A hely/orszag lokalizalt query parameterei megmaradtak.
+- A `Deploy Static Maps` workflow mindig ujrageneralja a terkepeket forrasbol.
+  A `Deploy App` is futtatja a `scripts/build-static-maps.mts` generatort, hogy
+  egy uj app release ne irja vissza a regi statikus terkepeket.
+- Feature commit: `b6a0b717bb9`; deploy-integracio: `f605b41aeb9`.
