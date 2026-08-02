@@ -26,6 +26,7 @@ import MatchPairsInteractive from "@/components/interactive/MatchPairs";
 import HighlightText from "@/components/interactive/HighlightText";
 import LabelDiagram from "@/components/interactive/LabelDiagram";
 import type { DiagramArea } from "@/components/interactive/LabelDiagram";
+import { createSeededRandom, useTimeoutRegistry } from "@/components/astro-games/utils";
 import PhysicsDropGame from "@/app/astroenglish/PhysicsDropGame";
 import PhysicsMagnetGame from "@/app/astroenglish/PhysicsMagnetGame";
 import PhysicsSlingshotGame from "@/app/astroenglish/PhysicsSlingshotGame";
@@ -367,8 +368,15 @@ type AISubject = "math" | "deutsch" | "romana" | "english" | "biologie" | "sachk
 
 function shuffle<T>(arr: T[]): T[] {
   const result = [...arr];
+  const random = createSeededRandom(JSON.stringify(arr.map((item, index) => {
+    if (item && typeof item === "object") {
+      const candidate = item as { infoTitle?: string; question?: string; answer?: string; instruction?: string; id?: string; label?: string };
+      return candidate.infoTitle ?? candidate.question ?? candidate.answer ?? candidate.instruction ?? candidate.id ?? candidate.label ?? index;
+    }
+    return item ?? index;
+  })));
   for (let i = result.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
+    const j = Math.floor(random() * (i + 1));
     [result[i], result[j]] = [result[j], result[i]];
   }
   return result;
@@ -391,12 +399,12 @@ type Phase = "welcome" | "info" | "question" | "think-first" | "interactive" | "
 
 // ─── Play count tracking (localStorage) ──────────────────────────────────
 function getPlayCount(id: string): number {
-  if (typeof window === "undefined") return 0;
-  try { return parseInt(localStorage.getItem(`explorer_plays_${id}`) || "0", 10); } catch { return 0; }
+  if (typeof window === "undefined" || !window.localStorage) return 0;
+  try { return parseInt(window.localStorage.getItem(`explorer_plays_${id}`) || "0", 10); } catch { return 0; }
 }
 function incrementPlayCount(id: string): void {
-  if (typeof window === "undefined") return;
-  try { localStorage.setItem(`explorer_plays_${id}`, String(getPlayCount(id) + 1)); } catch { /* */ }
+  if (typeof window === "undefined" || !window.localStorage) return;
+  try { window.localStorage.setItem(`explorer_plays_${id}`, String(getPlayCount(id) + 1)); } catch { /* */ }
 }
 
 function hasRenderableExplorerContent(def: ExplorerDef): boolean {
@@ -423,6 +431,7 @@ function deriveSubject(explorerId?: string): AISubject {
 }
 
 function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", explorerId, subject, grade }: Props) {
+  const scheduleTimeout = useTimeoutRegistry();
   const langCode = lang || "en";
   const t = def.labels[langCode] ?? def.labels.en ?? def.labels.de ?? Object.values(def.labels)[0] ?? {};
   const tFallback = def.labels.en ?? def.labels.de ?? Object.values(def.labels)[0] ?? {};
@@ -547,8 +556,8 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
   const [funFact, setFunFact] = useState<string | null>(null);
   const [funFactLoading, setFunFactLoading] = useState(false);
   const recognitionRef = useRef<any>(null);
-  const autoAdvanceRef = useRef<ReturnType<typeof setTimeout> | null>(null);
-  const topicAutoAdvanceRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const autoAdvanceRef = useRef<number | null>(null);
+  const topicAutoAdvanceRef = useRef<number | null>(null);
 
   const scoreRef = useRef(0);
   const totalRef = useRef(0);
@@ -672,7 +681,7 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
       if (choice === currentQ.answer) {
         // Correct — auto-advance after 1.5s
         if (autoAdvanceRef.current) clearTimeout(autoAdvanceRef.current);
-        autoAdvanceRef.current = setTimeout(() => advanceSub(), 1500);
+        autoAdvanceRef.current = scheduleTimeout(() => advanceSub(), 1500);
       }
       // Wrong — NO auto-advance, user must click "Next" or "Why?"
     },
@@ -690,7 +699,7 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
 
       if (!correct) {
         setOrderWrong(true);
-        setTimeout(() => setOrderWrong(false), 400);
+        scheduleTimeout(() => setOrderWrong(false), 400);
         return;
       }
 
@@ -700,10 +709,10 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
       setTapped(newTapped);
 
       if (newTapped.length === seq.length) {
-        setTimeout(() => advanceRound(), 1000);
+        scheduleTimeout(() => advanceRound(), 1000);
       }
     },
-    [tapped, currentRound, advanceRound]
+    [tapped, currentRound, advanceRound, scheduleTimeout]
   );
 
   // Label lookup helper
@@ -765,13 +774,13 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
       setPhase("topic-interact");
       // Auto-TTS: read the interactive instruction
       const inter = topics[topicIdx]?.interactive;
-      if (inter) setTimeout(() => speak(L(inter.instruction ?? "")), 400);
+      if (inter) scheduleTimeout(() => speak(L(inter.instruction ?? "")), 400);
     } else if (topicPhase === "topic-interact") {
       setTopicPhase("topic-quiz");
       setPhase("topic-quiz");
       // Auto-TTS: read the quiz question
       const quiz = topics[topicIdx]?.quiz;
-      if (quiz) setTimeout(() => speak(L(quiz.question)), 400);
+      if (quiz) scheduleTimeout(() => speak(L(quiz.question)), 400);
     } else {
       // quiz done → next topic or finish
       if (topicIdx < totalTopics - 1) {
@@ -785,14 +794,14 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
         onDone?.(scoreRef.current, totalRef.current);
       }
     }
-  }, [topicPhase, topicIdx, totalTopics, onDone]);
+  }, [topicPhase, topicIdx, totalTopics, onDone, scheduleTimeout, topics, speak, L]);
 
   // Topic interactive done handler
   const handleTopicInteractiveDone = useCallback((correct: boolean) => {
     totalRef.current += 1;
     if (correct) scoreRef.current += 1;
-    setTimeout(() => advanceTopicPhase(), 800);
-  }, [advanceTopicPhase]);
+    scheduleTimeout(() => advanceTopicPhase(), 800);
+  }, [advanceTopicPhase, scheduleTimeout]);
 
   // Topic quiz answer handler
   const [topicQuizSelected, setTopicQuizSelected] = useState<string | null>(null);
@@ -811,13 +820,13 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
 
     if (isCorrect) {
       if (topicAutoAdvanceRef.current) clearTimeout(topicAutoAdvanceRef.current);
-      topicAutoAdvanceRef.current = setTimeout(() => {
+      topicAutoAdvanceRef.current = scheduleTimeout(() => {
         setTopicQuizSelected(null);
         setTopicQuizLocked(false);
         advanceTopicPhase();
       }, 1500);
     }
-  }, [topicQuizLocked, topics, topicIdx, advanceTopicPhase]);
+  }, [topicQuizLocked, topics, topicIdx, advanceTopicPhase, scheduleTimeout]);
 
   // ── AI: "Think first" — constructivist question at round start ──────────
   const handleThinkSubmit = useCallback(async (text: string) => {
@@ -1723,7 +1732,18 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
                         />
                       );
                     }
-                    return null;
+                    return (
+                      <div className="w-full rounded-2xl border border-amber-300/30 bg-amber-950/30 p-5 text-center text-white" role="alert">
+                        <p className="text-sm font-bold">{ui.unavailableTitle}</p>
+                        <p className="mt-2 text-xs text-white/60">{ui.unavailableBody}</p>
+                        <button
+                          onClick={() => handleTopicInteractiveDone(false)}
+                          className="mt-4 rounded-xl bg-white/10 px-5 py-2 text-sm font-bold text-white hover:bg-white/20"
+                        >
+                          {ui.next}
+                        </button>
+                      </div>
+                    );
                   })()}
                 </motion.div>
               )}

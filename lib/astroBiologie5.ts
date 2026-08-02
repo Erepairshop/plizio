@@ -115,7 +115,7 @@ export const BIO_K5_ISLANDS: IslandDef[] = [
     id: "i7",
     name: { en: "Body Systems", hu: "Testrendszerek", de: "Körpersysteme", ro: "Sisteme corporale" },
     icon: "💪", color: "#F57C00", sortRange: [1, 10],
-    topicKeys: ["body_systems"],
+    topicKeys: ["body_systems", "skeleton", "muscles", "digestive_system"],
     missions: [
       { id: "m1", category: "explore",   gameType: "bio-explore", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
       { id: "m2", category: "build",     gameType: "m2", gameKey: "true-false-blitz", icon: "🌪️", label: { en: "Practice", hu: "Gyakorlás", de: "Üben", ro: "Practică" } },

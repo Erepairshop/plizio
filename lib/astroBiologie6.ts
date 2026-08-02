@@ -99,7 +99,7 @@ export const BIO_K6_ISLANDS: IslandDef[] = [
     id: "i6",
     name: { en: "Circulation", hu: "Vérkeringés", de: "Kreislauf", ro: "Circulație" },
     icon: "🩺", color: "#C0392B", sortRange: [1, 10],
-    topicKeys: ["circulation", "blood_types"],
+    topicKeys: ["blood_components", "heart", "circulation", "blood_types"],
     missions: [
       { id: "m1", category: "explore",   gameType: "bio-explore", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
       { id: "m2", category: "build",     gameType: "m2", gameKey: "speed-match", icon: "🕳️", label: { en: "Practice", hu: "Gyakorlás", de: "Üben", ro: "Practică" } },

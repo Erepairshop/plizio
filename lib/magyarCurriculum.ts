@@ -72,7 +72,30 @@ function generateMagyarQuestions(topicKey: string, _lang: string, osztaly: numbe
     "meggyozes": "erveles_alap",
     "elemzes": "ertelmez_halado",
     "mozaikszó": "tulajdonnev",
-    "jellemzes": "essze"
+    "jellemzes": "essze",
+    "targyas": "targyas_ragozas",
+    "igemódok": "ige_igemódok",
+    "szemelyes": "szemelyes_nevmas",
+    "mutato": "mutato_nevmas",
+    "kerdo": "kerdo_nevmas",
+    "hely": "helyhataroza",
+    "ido": "idohataroza",
+    "mod": "modhataroza",
+    "mellerendelo": "mellerendelés",
+    "alarendelo": "alárendelés",
+    "kuloniro_haladó": "kuloniro",
+    "határozószó": "hatarozoSzo",
+    "irónia_szatira": "ironia_szatira",
+    "tudomanyos": "tudomanyos_szoveg",
+    "hivatkozas": "tudomanyos_szoveg",
+    "erveles_technika": "ervales_technika",
+    "cáfolás": "cafolás",
+    "nyelvhasznalat": "kozmagyar",
+    "osszetett_haladó": "osszetett_halado",
+    "csoportnyelv": "tajnyelv",
+    "publicisztika": "ervelo_szoveg",
+    "nonverbalis": "verbalis",
+    "manipulacio": "mediaszoveg"
   };
 
   if (aliases[subtopicId]) {
@@ -781,12 +804,42 @@ export function getMagyarCurriculumQuestions(
     const theme = themes.find((t) => t.id === themeId);
     const subtopic = theme?.subtopics.find((s) => s.id === subtopicId);
 
-    if (!subtopic || subtopic.questions.length === 0) continue;
+    const generatedQuestions = subtopic?.questions.length
+      ? subtopic.questions
+      : generateMagyarQuestions(key, "hu", osztaly);
 
-    const question = subtopic.questions[Math.floor(Math.random() * subtopic.questions.length)];
+    const mcqQuestions = generatedQuestions.filter((q) => q.type === "mcq") as MagyarMCQ[];
+    if (mcqQuestions.length === 0) continue;
+
+    const question = mcqQuestions[Math.floor(Math.random() * mcqQuestions.length)];
     if (!seen.has(question.question)) {
       seen.add(question.question);
       pool.push(question);
+    }
+  }
+
+  if (pool.length > 0 && pool.length < count) {
+    const generatorPool =
+      osztaly === 2 ? G2_Generators_Hungarian :
+      osztaly === 3 ? G3_Generators_Hungarian :
+      osztaly === 4 ? G4_Generators_Hungarian :
+      osztaly === 5 ? G5_Generators_Hungarian :
+      osztaly === 6 ? G6_Generators_Hungarian :
+      osztaly === 7 ? G7_Generators_Hungarian :
+      osztaly === 8 ? G8_Generators_Hungarian :
+      G1_Generators_Hungarian;
+
+    const fallbackKeys = Object.keys(generatorPool).filter((key) => !key.endsWith("_typing"));
+    for (let attempt = 0; fallbackKeys.length > 0 && attempt < count * 30 && pool.length < count; attempt++) {
+      const key = fallbackKeys[attempt % fallbackKeys.length];
+      const generatedQuestions = generateMagyarQuestions(`fallback/${key}`, "hu", osztaly)
+        .filter((q) => q.type === "mcq") as MagyarMCQ[];
+      if (generatedQuestions.length === 0) continue;
+      const question = generatedQuestions[Math.floor(Math.random() * generatedQuestions.length)];
+      if (!seen.has(question.question)) {
+        seen.add(question.question);
+        pool.push(question);
+      }
     }
   }
 

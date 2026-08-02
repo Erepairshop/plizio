@@ -75,7 +75,7 @@ export const BIO_K7_ISLANDS: IslandDef[] = [
     id: "i4",
     name: { en: "Cellular Respiration", hu: "Sejt-légzés", de: "Zellatmung", ro: "Respirație Celulară" },
     icon: "🌬️", color: "#16A085", sortRange: [1, 10],
-    topicKeys: ["cellular_respiration"],
+    topicKeys: ["cellular_respiration", "energy_transfer"],
     missions: [
       { id: "m1", category: "explore",   gameType: "bio-explore", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
       { id: "m2", category: "build",     gameType: "m2", gameKey: "word-chain", icon: "🚀", label: { en: "Practice", hu: "Gyakorlás", de: "Üben", ro: "Practică" } },

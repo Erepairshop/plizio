@@ -278,7 +278,7 @@ export default function MatheTestKlasse({ grade }: { grade: number }) {
 
           {/* CTA */}
           <a
-            href="/mathtest"
+            href={`/mathtest/?grade=${grade}`}
             className="inline-flex items-center gap-2 mt-5 px-6 py-3 rounded-2xl font-black text-black text-sm"
             style={{ background: "linear-gradient(135deg, #00FF88, #00D4FF)" }}
           >
@@ -404,7 +404,7 @@ export default function MatheTestKlasse({ grade }: { grade: number }) {
             Bereit für den Mathe Test Klasse {grade}? Starte jetzt kostenlos!
           </p>
           <a
-            href="/mathtest"
+            href={`/mathtest/?grade=${grade}`}
             className="inline-flex items-center gap-2 px-8 py-4 rounded-2xl font-black text-black text-base"
             style={{ background: "linear-gradient(135deg, #00FF88, #00D4FF)" }}
           >

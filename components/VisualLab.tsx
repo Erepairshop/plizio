@@ -451,7 +451,7 @@ function VisualLabInner({ subject, grade, lang, open, onClose }: VisualLabProps)
     }
   }, [vlabPoiId]);
 
-  const handleClose = () => {
+  function handleClose() {
     if (isForcedOpen) {
       const params = new URLSearchParams(searchParams?.toString() ?? "");
       params.delete("vlab");
@@ -459,7 +459,18 @@ function VisualLabInner({ subject, grade, lang, open, onClose }: VisualLabProps)
       router.replace(next ? `?${next}` : window.location.pathname, { scroll: false });
     }
     onClose();
-  };
+  }
+
+  useEffect(() => {
+    if (!isOpen) return;
+    const handleKeyDown = (event: KeyboardEvent) => {
+      if (event.key === "Escape") {
+        handleClose();
+      }
+    };
+    window.addEventListener("keydown", handleKeyDown);
+    return () => window.removeEventListener("keydown", handleKeyDown);
+  }, [isOpen, isForcedOpen, onClose, router, searchParams]);
 
   return (
     <AnimatePresence>
@@ -471,13 +482,16 @@ function VisualLabInner({ subject, grade, lang, open, onClose }: VisualLabProps)
           exit={{ opacity: 0 }}
           className="fixed inset-0 z-[120] bg-[#020408]/95 backdrop-blur-md flex flex-col"
           style={{ overscrollBehavior: "contain", touchAction: "pan-y" }}
+          role="dialog"
+          aria-modal="true"
+          aria-labelledby="visual-lab-title"
         >
           {/* Header */}
           <header className="flex items-center justify-between px-4 py-3 border-b border-cyan-500/20">
             <div className="flex items-center gap-3">
               <VisualLabIcon size={36} />
               <div>
-                <h1 className="text-white/90 text-base font-semibold leading-tight">
+                <h1 id="visual-lab-title" className="text-white/90 text-base font-semibold leading-tight">
                   {t.title}
                 </h1>
                 <p className="text-white/60 text-xs">{t.subtitle}</p>
@@ -554,6 +568,11 @@ function GamePicker({
       <h2 className="text-white/80 text-sm uppercase tracking-wider mb-4">
         {t.pickGame}
       </h2>
+      {games.length === 0 ? (
+        <div className="rounded-xl border border-amber-300/30 bg-amber-950/30 p-5 text-center text-white" role="alert">
+          <p className="text-sm font-bold">{t.soon}</p>
+        </div>
+      ) : (
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
         {games.map((g) => (
           <button
@@ -579,10 +598,11 @@ function GamePicker({
           </button>
         ))}
       </div>
+      )}
 
-      <div className="mt-8 text-center text-white/50 text-sm border border-white/10 rounded-lg p-4 bg-white/[0.02]">
+      {games.length > 0 && <div className="mt-8 text-center text-white/50 text-sm border border-white/10 rounded-lg p-4 bg-white/[0.02]">
         {t.soon}
-      </div>
+      </div>}
     </div>
   );
 }

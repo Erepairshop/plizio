@@ -131,10 +131,16 @@ function shuffle<T>(arr: T[]): T[] {
 }
 
 function toMathQuestion(q: any): MathQuestion {
+  const options = Array.isArray(q.options) ? q.options.map(String) : [];
+  const rawCorrect = String(options[q.correct] ?? q.answer ?? q.correctAnswer ?? "").trim();
+  if (!rawCorrect) throw new Error(`Invalid Sachkunde K3 answer for: ${q.question}`);
+  const correctAnswer = rawCorrect;
+  const cleanOptions = options.map((option) => option.trim()).filter(Boolean);
+  const safeOptions = cleanOptions.includes(correctAnswer) ? cleanOptions : [correctAnswer, ...cleanOptions].slice(0, 4);
   return {
     question: q.question,
-    correctAnswer: q.options ? q.options[q.correct] : String(q.correct),
-    options: q.options || [],
+    correctAnswer,
+    options: safeOptions,
     topic: q.subtopic || q.topic || "sachkunde",
     isWordProblem: false,
   };
@@ -541,7 +547,7 @@ export const SK_G3_ISLANDS: IslandDef[] = [
     icon: "⚙️",
     color: "#F0B27A",
     sortRange: [1, 10],
-    topicKeys: ["einfache_maschinen", "energie_quellen", "verkehrsmittel_g3"],
+    topicKeys: ["einfache_maschinen", "energie_quellen", "verkehrsmittel"],
     missions: [
       {
         id: "m1",

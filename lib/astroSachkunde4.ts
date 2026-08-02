@@ -131,10 +131,16 @@ function shuffle<T>(arr: T[]): T[] {
 }
 
 function toMathQuestion(q: any): MathQuestion {
+  const options = Array.isArray(q.options) ? q.options.map(String) : [];
+  const rawCorrect = String(options[q.correct] ?? q.answer ?? q.correctAnswer ?? "").trim();
+  if (!rawCorrect) throw new Error(`Invalid Sachkunde K4 answer for: ${q.question}`);
+  const correctAnswer = rawCorrect;
+  const cleanOptions = options.map((option) => option.trim()).filter(Boolean);
+  const safeOptions = cleanOptions.includes(correctAnswer) ? cleanOptions : [correctAnswer, ...cleanOptions].slice(0, 4);
   return {
     question: q.question,
-    correctAnswer: q.options ? q.options[q.correct] : String(q.correct),
-    options: q.options || [],
+    correctAnswer,
+    options: safeOptions,
     topic: q.subtopic || q.topic || "sachkunde",
     isWordProblem: false,
   };

@@ -305,7 +305,7 @@ export default function MathTestGrade({ grade }: Props) {
             </p>
 
             {/* CTA Button */}
-            <Link href="/mathtest/" style={{
+            <Link href={`/mathtest/?grade=${grade}`} style={{
               display: "inline-flex", alignItems: "center", gap: 8,
               background: "linear-gradient(90deg, #00D4FF, #B44DFF)",
               color: "white", fontWeight: 800, fontSize: 17,
@@ -342,7 +342,7 @@ export default function MathTestGrade({ grade }: Props) {
             <p style={{ color: "#9090bb", marginBottom: 24, lineHeight: 1.6 }}>
               Unlimited questions · Instant feedback · No account needed · Works on any device
             </p>
-            <Link href="/mathtest/" style={{
+            <Link href={`/mathtest/?grade=${grade}`} style={{
               display: "inline-block",
               background: "linear-gradient(90deg, #00D4FF, #B44DFF)",
               color: "white", fontWeight: 700, fontSize: 17,

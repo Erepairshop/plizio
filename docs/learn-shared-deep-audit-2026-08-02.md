@@ -105,3 +105,38 @@ Further deep-audit waves still need to cover the remaining route families, espec
 AstroMagyar/Magyar Test and a final visual browser smoke of every live grade. Existing
 shared Math, Biology, Geography, History, Sachkunde and AI/Informatics checks remain
 green, but this does not replace route-by-route visual testing.
+
+## Wave 3 - remaining core routes and shared runtime
+
+The third persistent five-worker wave covered AstroMagyar/Magyar Test, AstroMath/Math
+Test, AstroBiologie/BiologieTest, live AstroSachkunde/SachkundeTest K1-K4, and the
+shared Learn/Astro/Test runtime and visual layer.
+
+- Hungarian K1-K8 island/checkpoint generation now resolves curriculum aliases,
+  filters generator output to valid MCQs and tops up narrow pools to complete flows.
+- AstroMath validation now checks every live mission game type, M2/M3 game key,
+  duplicate mission ID and required checkpoint. Grade landing-page CTAs preserve the
+  selected grade through `?grade=N`.
+- Biology K5-K8 narrow island wiring was expanded where it produced short flows, and
+  generated MCQs now expose 2-4 distinct selectable options without fake distractors.
+- Sachkunde remains intentionally live only for K1-K4. K2 array-generators and the K3
+  traffic topic wiring were repaired; question adapters and K4 options were hardened.
+- Shared engines reject malformed/unsupported rounds visibly instead of rendering dead
+  screens. Quiz/explorer/test timers are cleanup-backed, storage access is guarded, and
+  Visual Lab has dialog/Escape semantics and an empty-picker fallback.
+- Shared quiz empty/close states are localized in DE/EN/HU/RO.
+
+Wave 3 validation:
+
+- `npx tsx scripts/audit-astromagyar.mts`: PASS, 8 grades, 72 islands, 24 checkpoints.
+- `npx tsx scripts/check-astromath.ts`: PASS for G1-G8.
+- `npx tsx scripts/audit-astrobiologie.mts`: PASS for K5-K8.
+- `npx tsx scripts/audit-astrosachkunde.mts`: PASS for live K1-K4.
+- `node scripts/audit-shared-learn-runtime.mjs`: PASS.
+- `npx tsx scripts/audit-astro-game-rounds.mts`: PASS for all 13 subject registries.
+- `npm run validate`: PASS, 210 quiz tasks.
+- Focused TypeScript/TSX transpile: PASS for 31 Wave 3 files.
+
+Remaining work is primarily a real-browser desktop/mobile visual smoke in a working
+preview or deployment environment. Full repo typecheck remains impractical because it
+times out or exhausts the Node heap; focused audits are the project policy.

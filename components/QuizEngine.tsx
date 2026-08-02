@@ -7,6 +7,7 @@
 import { memo, useState, useCallback, useRef, useEffect, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight, Volume2, Zap, Trophy, X } from "lucide-react";
+import { createSeededRandom, useTimeoutRegistry } from "./astro-games/utils";
 
 // ─── Types ───────────────────────────────────────────────────────────────────
 
@@ -49,10 +50,10 @@ interface Props {
 // ─── Labels ──────────────────────────────────────────────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
-  en: { correct: "Correct!", wrong: "Not quite!", next: "Next", done: "Done!", streak: "Streak", score: "Score", timeUp: "Time's up!" },
-  de: { correct: "Richtig!", wrong: "Nicht ganz!", next: "Weiter", done: "Fertig!", streak: "Serie", score: "Punkte", timeUp: "Zeit abgelaufen!" },
-  hu: { correct: "Helyes!", wrong: "Nem egészen!", next: "Tovább", done: "Kész!", streak: "Sorozat", score: "Pont", timeUp: "Lejárt az idő!" },
-  ro: { correct: "Corect!", wrong: "Nu tocmai!", next: "Înainte", done: "Gata!", streak: "Serie", score: "Puncte", timeUp: "Timpul a expirat!" },
+  en: { correct: "Correct!", wrong: "Not quite!", next: "Next", done: "Done!", streak: "Streak", score: "Score", timeUp: "Time's up!", close: "Close quiz", empty: "No quiz questions available." },
+  de: { correct: "Richtig!", wrong: "Nicht ganz!", next: "Weiter", done: "Fertig!", streak: "Serie", score: "Punkte", timeUp: "Zeit abgelaufen!", close: "Quiz schließen", empty: "Keine Quizfragen verfügbar." },
+  hu: { correct: "Helyes!", wrong: "Nem egészen!", next: "Tovább", done: "Kész!", streak: "Sorozat", score: "Pont", timeUp: "Lejárt az idő!", close: "Kvíz bezárása", empty: "Nincsenek elérhető kvízkérdések." },
+  ro: { correct: "Corect!", wrong: "Nu tocmai!", next: "Înainte", done: "Gata!", streak: "Serie", score: "Puncte", timeUp: "Timpul a expirat!", close: "Închide testul", empty: "Nu sunt disponibile întrebări." },
 };
 
 // ─── Helpers ─────────────────────────────────────────────────────────────────
@@ -61,6 +62,7 @@ const PARTICLE_COLORS = ["#FFD700", "#00FF88", "#FF6B9D", "#00D4FF", "#B44DFF"];
 
 function Particles({ color, active }: { color: string; active: boolean }) {
   if (!active) return null;
+  const random = createSeededRandom(`quiz-particles:${color}`);
   return (
     <div className="absolute inset-0 pointer-events-none overflow-hidden">
       {Array.from({ length: 12 }, (_, i) => (
@@ -69,15 +71,15 @@ function Particles({ color, active }: { color: string; active: boolean }) {
           className="absolute w-2 h-2 rounded-full"
           style={{
             background: PARTICLE_COLORS[i % PARTICLE_COLORS.length],
-            left: `${30 + Math.random() * 40}%`,
+            left: `${30 + random() * 40}%`,
             top: "50%",
           }}
           initial={{ opacity: 1, scale: 1, x: 0, y: 0 }}
           animate={{
             opacity: 0,
             scale: [1, 1.5, 0],
-            x: (Math.random() - 0.5) * 200,
-            y: (Math.random() - 0.5) * 200 - 50,
+            x: (random() - 0.5) * 200,
+            y: (random() - 0.5) * 200 - 50,
           }}
           transition={{ duration: 0.8, ease: "easeOut", delay: i * 0.03 }}
         />
@@ -123,6 +125,7 @@ import { speak as speakText } from "@/lib/astromath-tts";
 
 function QuizEngine({ questions, color, onDone, onCorrect, onWrong, onClose, config, lang = "de" }: Props) {
   const t = LABELS[lang] || LABELS.en;
+  const scheduleTimeout = useTimeoutRegistry();
   const cfg = useMemo(() => ({
     timer: config?.timer ?? 0,
     showStreak: config?.showStreak ?? true,
@@ -143,6 +146,7 @@ function QuizEngine({ questions, color, onDone, onCorrect, onWrong, onClose, con
   const [timeLeft, setTimeLeft] = useState(cfg.timer);
 
   const scoreRef = useRef(0);
+  const finishedRef = useRef(false);
   const timerRef = useRef<ReturnType<typeof setInterval> | null>(null);
 
   const q = questions[idx];
@@ -164,7 +168,7 @@ function QuizEngine({ questions, color, onDone, onCorrect, onWrong, onClose, con
           setLocked(true);
           setStreak(0);
           onWrong?.();
-          setTimeout(() => advance(), cfg.advanceDelay);
+          scheduleTimeout(() => advance(), cfg.advanceDelay);
           return 0;
         }
         return prev - 0.1;
@@ -188,7 +192,7 @@ function QuizEngine({ questions, color, onDone, onCorrect, onWrong, onClose, con
       if (newStreak > bestStreak) setBestStreak(newStreak);
       setShowParticles(true);
       setShowScorePopup(true);
-      setTimeout(() => { setShowParticles(false); setShowScorePopup(false); }, 800);
+      scheduleTimeout(() => { setShowParticles(false); setShowScorePopup(false); }, 800);
       onCorrect?.();
     } else {
       setStreak(0);
@@ -196,12 +200,14 @@ function QuizEngine({ questions, color, onDone, onCorrect, onWrong, onClose, con
     }
 
     const delay = correct ? cfg.advanceDelay - 300 : cfg.advanceDelay;
-    setTimeout(() => advance(), delay);
-  }, [locked, q, streak, bestStreak, cfg.advanceDelay, onCorrect, onWrong]); // eslint-disable-line react-hooks/exhaustive-deps
+    scheduleTimeout(() => advance(), delay);
+  }, [locked, q, streak, bestStreak, cfg.advanceDelay, onCorrect, onWrong, scheduleTimeout]); // eslint-disable-line react-hooks/exhaustive-deps
 
   // ── Advance ──
   const advance = useCallback(() => {
     if (idx + 1 >= total) {
+      if (finishedRef.current) return;
+      finishedRef.current = true;
       onDone(scoreRef.current, total);
     } else {
       setIdx(i => i + 1);
@@ -210,7 +216,13 @@ function QuizEngine({ questions, color, onDone, onCorrect, onWrong, onClose, con
     }
   }, [idx, total, onDone]);
 
-  if (!q) return null;
+  if (!q) {
+    return (
+      <div className="w-full max-w-md mx-auto rounded-2xl border border-amber-300/30 bg-amber-950/30 p-5 text-center text-white" role="alert">
+        <p className="text-sm font-bold">{t.empty}</p>
+      </div>
+    );
+  }
 
   // Option label letters
   const OPTION_LETTERS = ["A", "B", "C", "D", "E", "F"];
@@ -220,6 +232,7 @@ function QuizEngine({ questions, color, onDone, onCorrect, onWrong, onClose, con
       {/* ── Close button ── */}
       {onClose && (
         <button onClick={onClose}
+          aria-label={t.close}
           className="absolute -top-1 -right-1 z-10 w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/60 hover:bg-white/20 hover:text-white transition-colors">
           <X size={14} />
         </button>

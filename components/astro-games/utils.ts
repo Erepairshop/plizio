@@ -56,7 +56,7 @@ export function useTimeoutRegistry() {
     const timeoutId = window.setTimeout(() => {
       timeoutsRef.current.delete(timeoutId);
       callback();
-    }, delayMs);
+    }, Math.max(0, delayMs));
 
     timeoutsRef.current.add(timeoutId);
     return timeoutId;

@@ -43,23 +43,26 @@ function createMCQ(
   wrongOptions: string[],
   rng?: () => number
 ): CurriculumMCQ {
+  const safeCorrect = String(correct || "").trim();
+  if (!safeCorrect) throw new Error(`Invalid Sachkunde K4 answer for: ${question}`);
   const seen = new Set<string>();
   const unique: string[] = [];
   for (const w of wrongOptions) {
-    if (w !== correct && !seen.has(w)) {
-      seen.add(w);
-      unique.push(w);
+    const option = String(w || "").trim();
+    if (option && option !== safeCorrect && !seen.has(option)) {
+      seen.add(option);
+      unique.push(option);
     }
   }
   const randomFn = rng || (() => Math.random());
-  const opts = shuffle([correct, ...unique.slice(0, 3)], randomFn);
+  const opts = shuffle([safeCorrect, ...unique.slice(0, 3)], randomFn);
   return {
     type: "mcq",
     topic,
     subtopic,
     question,
     options: opts,
-    correct: opts.indexOf(correct)
+    correct: opts.indexOf(safeCorrect)
   };
 }
 

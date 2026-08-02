@@ -14,6 +14,7 @@ import { getActiveFace, getFaceDef } from "@/lib/faces";
 import { getActive, getTopDef, getBottomDef, getShoeDef, getCapeDef, getGlassesDef, getGloveDef } from "@/lib/clothing";
 import { getActiveHat, getHatDef, getActiveTrail, getTrailDef } from "@/lib/accessories";
 import type { LanguageTestConfig, CurriculumQuestion, CurriculumTheme } from "@/lib/curriculumTypes";
+import { createSeededRandom, shuffleDeterministic, useTimeoutRegistry } from "@/components/astro-games/utils";
 
 // ─── AVATAR LOADER ────────────────────────────────────────────────────────────
 
@@ -51,16 +52,19 @@ function useAvatarProps(): Record<string, any> {
 // ─── FLOATING BACKGROUND ──────────────────────────────────────────────────────
 
 function FloatingBackground({ chars, colors, animName }: { chars: string[]; colors: string[]; animName: string }) {
-  const items = useMemo(() => Array.from({ length: 28 }, (_, i) => ({
-    char: chars[i % chars.length],
-    x: Math.random() * 100,
-    y: Math.random() * 100,
-    size: 16 + Math.random() * 48,
-    duration: 8 + Math.random() * 16,
-    delay: Math.random() * 8,
-    color: colors[Math.floor(Math.random() * colors.length)],
-    opacity: 0.04 + Math.random() * 0.10,
-  })), [chars, colors]);
+  const items = useMemo(() => {
+    const random = createSeededRandom(animName);
+    return Array.from({ length: 28 }, (_, i) => ({
+      char: chars[i % Math.max(chars.length, 1)] ?? "",
+      x: random() * 100,
+      y: random() * 100,
+      size: 16 + random() * 48,
+      duration: 8 + random() * 16,
+      delay: random() * 8,
+      color: colors[Math.floor(random() * Math.max(colors.length, 1))] ?? "#FFFFFF",
+      opacity: 0.04 + random() * 0.10,
+    }));
+  }, [chars, colors, animName]);
 
   return (
     <div className="absolute inset-0 overflow-hidden pointer-events-none">
@@ -113,6 +117,7 @@ function resolveText(value: string | Record<string, string> | undefined, lang: s
 
 export default function LanguageTestGame({ config }: { config: LanguageTestConfig }) {
   const avatarProps = useAvatarProps();
+  const scheduleTimeout = useTimeoutRegistry();
   const { labels } = config;
   const tLabel = (value: string | Record<string, string> | undefined) => resolveText(value, "en");
 
@@ -151,7 +156,7 @@ export default function LanguageTestGame({ config }: { config: LanguageTestConfi
     const qs = rawQs.map(q => {
       if (q.type === "mcq" && q.options && typeof q.correct === "number") {
         const correctStr = q.options[q.correct];
-        const shuffledOptions = [...q.options].sort(() => Math.random() - 0.5);
+        const shuffledOptions = shuffleDeterministic(q.options, `${config.gameId}:${grade}:${selectedIds.join("|")}:${q.question}`);
         const newCorrect = shuffledOptions.indexOf(correctStr);
         return { ...q, options: shuffledOptions, correct: newCorrect };
       }
@@ -192,7 +197,7 @@ export default function LanguageTestGame({ config }: { config: LanguageTestConfi
     setAvatarMood(correct ? "happy" : "disappointed");
     if (correct) setJumpTrigger({ reaction: "happy", timestamp: Date.now() });
     setAnswers((prev) => [...prev, { correct, given, expected }]);
-    setTimeout(() => {
+    scheduleTimeout(() => {
       setShowFeedback(false);
       setTypingInput("");
       if (idx + 1 >= totalQ) {
@@ -200,7 +205,7 @@ export default function LanguageTestGame({ config }: { config: LanguageTestConfi
       } else {
         setIdx((i) => i + 1);
         setAvatarMood("focused");
-        setTimeout(() => inputRef.current?.focus(), 100);
+        scheduleTimeout(() => inputRef.current?.focus(), 100);
       }
     }, 1500);
   }
@@ -220,7 +225,7 @@ export default function LanguageTestGame({ config }: { config: LanguageTestConfi
     setEarnedCard(rarity);
     setAvatarMood(pct >= 50 ? "victory" : "disappointed");
     setScreen("result");
-    setTimeout(() => setShowReward(true), 600);
+    scheduleTimeout(() => setShowReward(true), 600);
   }
 
   function restart() {

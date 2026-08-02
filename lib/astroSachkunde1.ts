@@ -251,10 +251,16 @@ function isMCQQuestion(q: CurriculumMCQ): boolean {
 }
 
 function convertMCQToMathQuestion(mcq: CurriculumMCQ): MathQuestion {
+  const options = mcq.options.map(String);
+  const rawCorrect = String(options[mcq.correct] ?? "").trim();
+  if (!rawCorrect) throw new Error(`Invalid Sachkunde K1 answer for: ${mcq.question}`);
+  const correctAnswer = rawCorrect;
+  const cleanOptions = options.map((option) => option.trim()).filter(Boolean);
+  const safeOptions = cleanOptions.includes(correctAnswer) ? cleanOptions : [correctAnswer, ...cleanOptions].slice(0, 4);
   return {
     question: mcq.question,
-    correctAnswer: mcq.options[mcq.correct],
-    options: mcq.options,
+    correctAnswer,
+    options: safeOptions,
     topic: mcq.subtopic,
     isWordProblem: false,
   };

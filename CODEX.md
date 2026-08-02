@@ -298,3 +298,24 @@ Nem váltja ki a `CLAUDE.md`-t, hanem gyors képbehozásra szolgál.
   fel az angol generátorokat. Audit: `npx tsx scripts/audit-astroenglish-generators.mts`.
 - A következő mély audit hullám fő célja AstroMagyar/Magyar Test, majd minden élő route
   desktop/mobil vizuális smoke tesztje működő preview környezetben.
+
+### Tartós audit wave 3
+
+- Task Scheduler név: `PlizioLearnAuditWave3`.
+- Runner: `C:\Users\User\plizio_orch\learn_audit_wave3\runner.py`.
+- Állapot: `C:\Users\User\plizio_orch\learn_audit_wave3\state.json`.
+- Logok: `C:\Users\User\plizio_orch\learn_audit_wave3\logs`.
+- Státuszparancs:
+  `powershell -NoProfile -ExecutionPolicy Bypass -File C:\Users\User\plizio_orch\learn_audit_wave3\status.ps1`
+- Öt scope: AstroMagyar/Magyar Test, AstroMath/Math Test, AstroBiologie/BiologieTest,
+  AstroSachkunde/SachkundeTest csak K1-K4, valamint a közös Learn/Astro/Test engine és
+  vizuális réteg.
+- Maximum 5 párhuzamos `gpt-5.5` worker, legfeljebb 3 próbálkozás. Nincs automatikus
+  commit, push vagy deploy; a végén közös review, validáció és szelektív commit kell.
+- A Wave 3 mind az 5 workerrel első próbálkozásra befejeződött. A közös review és minden
+  célzott validáció sikeres; részletek: `docs/learn-shared-deep-audit-2026-08-02.md`.
+- Új ellenőrzések: `scripts/audit-astromagyar.mts`, `scripts/audit-astrobiologie.mts`,
+  `scripts/audit-astrosachkunde.mts`, `scripts/audit-shared-learn-runtime.mjs` és
+  `scripts/audit-astro-game-rounds.mts`.
+- Minden 13 tantárgyi M2/M3 registry roundját az engine guardokkal együtt kell
+  ellenőrizni az `audit-astro-game-rounds.mts` futtatásával.

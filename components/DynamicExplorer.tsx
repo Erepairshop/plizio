@@ -13,6 +13,7 @@ import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
 import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
 import type { PoolTopicDef } from "@/lib/explorerPools/types";
 import { getRandomTopicsWithHistory } from "@/lib/explorerUtils";
+import { createSeededRandom, shuffleDeterministic } from "./astro-games/utils";
 import { GENERATORS as DEUTSCH_GENERATORS } from "@/lib/deutschGenerators";
 import { ALL_GENERATORS as ENGLISH_GENERATOR_GRADES } from "@/lib/englishGenerators";
 import { K5_Generators } from "@/lib/biologieGenerators";
@@ -196,6 +197,7 @@ function resolveQuiz(
   lang: string,
   subject?: ExplorerSubject,
   grade = 1,
+  seedKey = `${p.infoTitle}:${lang}:${grade}`,
 ): { question: string; choices: string[]; answer: string } {
   const q = p.quiz;
   if ("generate" in q) {
@@ -210,7 +212,8 @@ function resolveQuiz(
     const englishGen = subject === "english" ? ENGLISH_GENERATORS_BY_GRADE[grade]?.[q.generate] : undefined;
     const gen = englishGen || deutschGen || bioGen || physikGen || chemieGen || geoGen || magyarGen || sachkundeGen || geschichteGen;
     if (gen) {
-      const seed = Math.floor(Math.random() * 1000000);
+      const random = createSeededRandom(`${seedKey}:${q.generate}`);
+      const seed = Math.floor(random() * 1000000);
       let result;
       if (englishGen) {
         result = gen(seed);
@@ -227,9 +230,9 @@ function resolveQuiz(
       }
       const pool = Array.isArray(result) ? result : [result];
       const mcqs = pool.filter((item) => item && item.type === "mcq" && Array.isArray(item.options));
-      const qObj = mcqs[Math.floor(Math.random() * Math.max(mcqs.length, 1))];
+      const qObj = mcqs[Math.floor(random() * Math.max(mcqs.length, 1))];
       if (qObj) {
-        const shuffledChoices = [...qObj.options].sort(() => Math.random() - 0.5);
+        const shuffledChoices = shuffleDeterministic(qObj.options, `${seedKey}:${q.generate}:choices:${qObj.question}`);
         return {
           question: qObj.question,
           choices:  shuffledChoices,
@@ -266,14 +269,16 @@ export default function DynamicExplorer({
   onClose,
 }: Props) {
   const [mounted, setMounted] = useState(false);
+  const [sessionSeed, setSessionSeed] = useState<string | null>(null);
 
   useEffect(() => {
+    setSessionSeed(`${explorerId}:${Date.now()}:${Math.random()}`);
     setMounted(true);
-  }, []);
+  }, [explorerId]);
 
   // useMemo with [] → randomised once per mount, different each visit
   const def = useMemo<ExplorerDef>(() => {
-    if (!mounted) {
+    if (!mounted || !sessionSeed) {
       return { labels, title, icon, rounds: [] };
     }
     const selected = getRandomTopicsWithHistory(pool, count, explorerId, mix);
@@ -283,12 +288,12 @@ export default function DynamicExplorer({
     const usedTitles = new Set(selected.map(p => p.infoTitle));
     const usedQuestions = new Set<string>();
     const deduped = selected.map(p => {
-      const quiz = resolveQuiz(p, lang, subject, grade);
+      const quiz = resolveQuiz(p, lang, subject, grade, `${sessionSeed}:${p.infoTitle}`);
       if (usedQuestions.has(quiz.question)) {
         // Try to find a replacement from pool with a unique question text
         const replacement = pool
           .filter(t => !usedTitles.has(t.infoTitle))
-          .map(t => ({ t, quiz: resolveQuiz(t, lang, subject, grade) }))
+          .map(t => ({ t, quiz: resolveQuiz(t, lang, subject, grade, `${sessionSeed}:${t.infoTitle}`) }))
           .find(({ quiz: rq }) => !usedQuestions.has(rq.question));
         if (replacement) {
           usedTitles.delete(p.infoTitle);
@@ -312,7 +317,7 @@ export default function DynamicExplorer({
       quiz,
     }));
     return { labels, title, icon, topics, rounds: [] };
-  }, [mounted, pool, labels, title, icon, count, mix, explorerId, lang, subject, grade]);
+  }, [mounted, pool, labels, title, icon, count, mix, explorerId, lang, subject, grade, sessionSeed]);
 
   if (!mounted) {
     return <div className="min-h-screen bg-[#060614]" />;

@@ -2,7 +2,7 @@
 // AstroMagyar — O1 (1. osztály) island system + common types + MagyarQuestion bridge
 // 1. osztály: Betűk, szótagok, hangok, szavak, ellentétek, mondatok, szókincsen
 
-import { MAGYAR_CURRICULUM, type MagyarMCQ } from "./magyarCurriculum";
+import { getMagyarCurriculumQuestions, type MagyarMCQ } from "./magyarCurriculum";
 import type { GameType, Lang, L10n, MissionDef, MissionCategory, IslandDef, SortRound, MatchPair } from "./astromath";
 
 export type { GameType, Lang, L10n, MissionDef, MissionCategory, IslandDef, SortRound, MatchPair };
@@ -46,28 +46,8 @@ export function generateMagyarIslandQuestions(
   count = 10,
 ): MathQuestion[] {
   const osztaly = typeof _lang === "number" ? _lang : 1;
-  const themes = MAGYAR_CURRICULUM[osztaly] ?? [];
-  const pool: MathQuestion[] = [];
-  const seen = new Set<string>();
-  const keys = shuffleArr([...island.topicKeys]);
-
-  for (let attempt = 0; attempt < count * 20 && pool.length < count; attempt++) {
-    const key = keys[attempt % keys.length];
-    const [themeId, subtopicId] = key.split("/");
-    const theme = themes.find((t) => t.id === themeId);
-    const subtopic = theme?.subtopics.find((s) => s.id === subtopicId);
-    if (!subtopic) continue;
-
-    const mcqs = subtopic.questions.filter((q) => q.type === "mcq") as MagyarMCQ[];
-    if (mcqs.length === 0) continue;
-
-    const q = mcqs[Math.floor(Math.random() * mcqs.length)];
-    if (!seen.has(q.question)) {
-      seen.add(q.question);
-      pool.push(magyarToMathQuestion(q));
-    }
-  }
-  return pool;
+  return getMagyarCurriculumQuestions(shuffleArr([...island.topicKeys]), count, osztaly)
+    .map(magyarToMathQuestion);
 }
 
 // ─── Match pairs (unique answers for StarMatch) ───────────────────────────────
@@ -90,29 +70,8 @@ export function generateMagyarCheckpointQuestions(
   count = 10,
 ): MathQuestion[] {
   const osztaly = typeof _lang === "number" ? _lang : 1;
-  const themes = MAGYAR_CURRICULUM[osztaly] ?? [];
-  const keys = shuffleArr([...(checkpointTopics[testId] ?? [])]);
-  const pool: MathQuestion[] = [];
-  const seen = new Set<string>();
-
-  for (let attempt = 0; attempt < count * 20 && pool.length < count; attempt++) {
-    const key = keys[attempt % keys.length];
-    if (!key) continue;
-    const [themeId, subtopicId] = key.split("/");
-    const theme = themes.find((t) => t.id === themeId);
-    const subtopic = theme?.subtopics.find((s) => s.id === subtopicId);
-    if (!subtopic) continue;
-
-    const mcqs = subtopic.questions.filter((q) => q.type === "mcq") as MagyarMCQ[];
-    if (mcqs.length === 0) continue;
-
-    const q = mcqs[Math.floor(Math.random() * mcqs.length)];
-    if (!seen.has(q.question)) {
-      seen.add(q.question);
-      pool.push(magyarToMathQuestion(q));
-    }
-  }
-  return pool;
+  return getMagyarCurriculumQuestions(shuffleArr([...(checkpointTopics[testId] ?? [])]), count, osztaly)
+    .map(magyarToMathQuestion);
 }
 
 // ─── Progress helpers (generic, reused by all grades) ─────────────────────────

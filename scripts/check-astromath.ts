@@ -17,6 +17,7 @@ import { G5_ISLANDS, G5_CHECKPOINT_TOPICS } from "../lib/astromath5";
 import { G6_ISLANDS, G6_CHECKPOINT_TOPICS } from "../lib/astromath6";
 import { G7_ISLANDS, G7_CHECKPOINT_TOPICS } from "../lib/astromath7";
 import { G8_ISLANDS, G8_CHECKPOINT_TOPICS } from "../lib/astromath8";
+import { MATH_M2_POOLS, MATH_M3_POOLS } from "../lib/astro/mathGameRegistry";
 
 // ─── Konfiguráció ─────────────────────────────────────────────────────────────
 
@@ -28,15 +29,16 @@ const GRADE_DATA: Array<{
   grade: number;
   islands: IslandDef[];
   checkpointTopics: Record<string, string[]>;
+  renderableGameTypes: Set<string>;
 }> = [
-  { grade: 1, islands: G1_ISLANDS, checkpointTopics: G1_CHECKPOINT_TOPICS },
-  { grade: 2, islands: G2_ISLANDS, checkpointTopics: G2_CHECKPOINT_TOPICS },
-  { grade: 3, islands: G3_ISLANDS, checkpointTopics: G3_CHECKPOINT_TOPICS },
-  { grade: 4, islands: G4_ISLANDS, checkpointTopics: G4_CHECKPOINT_TOPICS },
-  { grade: 5, islands: G5_ISLANDS as unknown as IslandDef[], checkpointTopics: G5_CHECKPOINT_TOPICS },
-  { grade: 6, islands: G6_ISLANDS as unknown as IslandDef[], checkpointTopics: G6_CHECKPOINT_TOPICS },
-  { grade: 7, islands: G7_ISLANDS as unknown as IslandDef[], checkpointTopics: G7_CHECKPOINT_TOPICS },
-  { grade: 8, islands: G8_ISLANDS as unknown as IslandDef[], checkpointTopics: G8_CHECKPOINT_TOPICS },
+  { grade: 1, islands: G1_ISLANDS, checkpointTopics: G1_CHECKPOINT_TOPICS, renderableGameTypes: new Set(["orbit-quiz", "black-hole", "gravity-sort", "star-match", "number-duel", "true-false-blitz", "missing-number", "teaching-slide", "counting-explorer", "addsub-explorer", "subtraction-explorer", "double-half-explorer", "place-value-20", "word-problem-intro", "shapes-explorer", "clock-coins-explorer", "pattern-explorer", "rocket-launch", "m2", "m3"]) },
+  { grade: 2, islands: G2_ISLANDS, checkpointTopics: G2_CHECKPOINT_TOPICS, renderableGameTypes: new Set(["orbit-quiz", "black-hole", "gravity-sort", "star-match", "number-duel", "g2-teaching", "place-value-100", "mental-math-explorer", "column-addsub", "carry-borrow", "multiplication-explorer", "division-intro", "g2-measurement", "rocket-launch", "m2", "m3"]) },
+  { grade: 3, islands: G3_ISLANDS, checkpointTopics: G3_CHECKPOINT_TOPICS, renderableGameTypes: new Set(["orbit-quiz", "black-hole", "gravity-sort", "star-match", "number-duel", "speed-round", "equation-drill", "fraction-visual", "concept-explorer", "place-value-explorer", "addition-explorer", "subtraction-explorer", "multiplication-explorer", "division-explorer", "word-problem-explorer", "unit-explorer", "area-explorer", "true-false-blitz", "chain-calc", "m2", "m3"]) },
+  { grade: 4, islands: G4_ISLANDS, checkpointTopics: G4_CHECKPOINT_TOPICS, renderableGameTypes: new Set(["orbit-quiz", "black-hole", "gravity-sort", "star-match", "number-duel", "speed-round", "equation-drill", "fraction-visual", "concept-explorer", "place-value-explorer", "multiplication-explorer", "division-explorer", "fraction-explorer", "area-explorer", "angle-explorer", "word-problem-explorer", "unit-explorer", "true-false-blitz", "chain-calc", "m2", "m3"]) },
+  { grade: 5, islands: G5_ISLANDS as unknown as IslandDef[], checkpointTopics: G5_CHECKPOINT_TOPICS, renderableGameTypes: new Set(["orbit-quiz", "black-hole", "gravity-sort", "star-match", "number-duel", "speed-round", "equation-drill", "fraction-visual", "concept-explorer", "place-value-explorer", "decimal-explorer", "word-problem-explorer", "unit-explorer", "angle-explorer", "true-false-blitz", "chain-calc", "addsub-explorer", "fraction-explorer-5", "m2", "m3"]) },
+  { grade: 6, islands: G6_ISLANDS as unknown as IslandDef[], checkpointTopics: G6_CHECKPOINT_TOPICS, renderableGameTypes: new Set(["orbit-quiz", "black-hole", "gravity-sort", "star-match", "number-duel", "speed-round", "equation-drill", "fraction-visual", "fraction-pro-explorer", "concept-explorer", "word-problem-explorer", "area-explorer", "true-false-blitz", "negative-number-line", "percent-bar", "ratio-explorer", "algebra-explorer", "stat-explorer", "visual-challenge", "m2", "m3"]) },
+  { grade: 7, islands: G7_ISLANDS as unknown as IslandDef[], checkpointTopics: G7_CHECKPOINT_TOPICS, renderableGameTypes: new Set(["orbit-quiz", "black-hole", "gravity-sort", "star-match", "number-duel", "speed-round", "equation-drill", "fraction-visual", "power-explorer", "equation-explorer", "inequality-explorer", "algebra-explorer", "triangle-explorer", "pythagoras-explorer", "circle-explorer", "stat-explorer", "visual-challenge", "m2", "m3"]) },
+  { grade: 8, islands: G8_ISLANDS as unknown as IslandDef[], checkpointTopics: G8_CHECKPOINT_TOPICS, renderableGameTypes: new Set(["orbit-quiz", "black-hole", "gravity-sort", "star-match", "number-duel", "speed-round", "equation-drill", "fraction-visual", "stat-explorer", "true-false-blitz", "equation-explorer", "sqrt-explorer", "quadratic-explorer", "system-explorer", "function-explorer", "probability-explorer", "transform-explorer", "visual-challenge", "m2", "m3"]) },
 ];
 
 // ─── Kérdés validátor ─────────────────────────────────────────────────────────
@@ -181,7 +183,7 @@ function testGenerateTest(grade: number): string[] {
 
 // ─── Sziget struktúra ellenőrzés ──────────────────────────────────────────────
 
-function checkIslandDefs(grade: number, islands: IslandDef[]): string[] {
+function checkIslandDefs(grade: number, islands: IslandDef[], renderableGameTypes: Set<string>): string[] {
   const errors: string[] = [];
 
   if (islands.length !== 9) {
@@ -203,12 +205,34 @@ function checkIslandDefs(grade: number, islands: IslandDef[]): string[] {
       errors.push(`${ctx}: ${island.missions?.length ?? 0} misszió (várható: 3)`);
     }
 
+    const missionIds = new Set<string>();
     for (const mission of island.missions || []) {
+      if (missionIds.has(mission.id)) {
+        errors.push(`${ctx} ${mission.id}: Duplikált mission id`);
+      }
+      missionIds.add(mission.id);
+
       if (!mission.gameType) {
         errors.push(`${ctx} ${mission.id}: Hiányzó gameType`);
+      } else if (!renderableGameTypes.has(mission.gameType)) {
+        errors.push(`${ctx} ${mission.id}: Nem renderelhető gameType "${mission.gameType}"`);
       }
       if (!mission.category) {
         errors.push(`${ctx} ${mission.id}: Hiányzó category`);
+      }
+      if (mission.gameType === "m2") {
+        if (!mission.gameKey) {
+          errors.push(`${ctx} ${mission.id}: m2 gameKey hiányzik`);
+        } else if (!MATH_M2_POOLS[mission.gameKey]) {
+          errors.push(`${ctx} ${mission.id}: Ismeretlen m2 gameKey "${mission.gameKey}"`);
+        }
+      }
+      if (mission.gameType === "m3") {
+        if (!mission.gameKey) {
+          errors.push(`${ctx} ${mission.id}: m3 gameKey hiányzik`);
+        } else if (!MATH_M3_POOLS[mission.gameKey]) {
+          errors.push(`${ctx} ${mission.id}: Ismeretlen m3 gameKey "${mission.gameKey}"`);
+        }
       }
     }
   }
@@ -223,6 +247,12 @@ function checkCheckpointTopics(
   checkpointTopics: Record<string, string[]>
 ): string[] {
   const errors: string[] = [];
+
+  for (const testId of ["test1", "test2", "test3"]) {
+    if (!checkpointTopics[testId]) {
+      errors.push(`G${grade} ${testId}: Hiányzó checkpoint`);
+    }
+  }
 
   for (const [testId, topicKeys] of Object.entries(checkpointTopics)) {
     if (topicKeys.length === 0) {
@@ -259,12 +289,12 @@ async function main() {
 
   let totalErrors = 0;
 
-  for (const { grade, islands, checkpointTopics } of grades) {
+  for (const { grade, islands, checkpointTopics, renderableGameTypes } of grades) {
     console.log(`\n📐 Grade ${grade}`);
     let gradeErrors = 0;
 
     // 1. Sziget struktúra
-    const islandErrors = checkIslandDefs(grade, islands);
+    const islandErrors = checkIslandDefs(grade, islands, renderableGameTypes);
     if (islandErrors.length > 0) {
       console.log(`  ⚠️  Sziget definíció hibák:`);
       islandErrors.forEach(e => console.log(`    ${e}`));
