@@ -49,6 +49,32 @@ jobs:
           fi
           rm -rf out
 
+      - name: Prune stale releases before build
+        shell: bash
+        run: |
+          set -euo pipefail
+          RELEASES="${{ env.RELEASE_BASE }}/releases"
+          CURRENT=$(readlink -f "${{ env.RELEASE_BASE }}/current" 2>/dev/null || true)
+          mkdir -p "$RELEASES"
+          if [ -n "$CURRENT" ] && [ -d "$CURRENT" ]; then
+            touch "$CURRENT/.deploy-complete"
+          fi
+          for CANDIDATE in "$RELEASES"/*; do
+            [ -d "$CANDIDATE" ] || continue
+            [ "$(readlink -f "$CANDIDATE")" = "$CURRENT" ] && continue
+            if [ ! -f "$CANDIDATE/.deploy-complete" ]; then
+              echo "Removing incomplete release: $CANDIDATE"
+              rm -rf -- "$CANDIDATE"
+            fi
+          done
+          mapfile -t COMPLETE < <(find "$RELEASES" -mindepth 1 -maxdepth 1 -type d \
+            -exec test -f '{}/.deploy-complete' ';' -print | sort -r)
+          for ((i=KEEP_RELEASES; i<${#COMPLETE[@]}; i++)); do
+            [ "$(readlink -f "${COMPLETE[$i]}")" = "$CURRENT" ] && continue
+            echo "Removing old release: ${COMPLETE[$i]}"
+            rm -rf -- "${COMPLETE[$i]}"
+          done
+
       - run: npm ci
 
       - name: Patch Next worker memory limit (4GB → 12GB)
@@ -72,6 +98,11 @@ jobs:
         env:
           NODE_OPTIONS: --max-old-space-size=16384
         run: npx tsx scripts/split_pois_by_country.mts
+
+      - name: Build POI URL index
+        env:
+          NODE_OPTIONS: --max-old-space-size=16384
+        run: npx tsx scripts/build-poi-url-index.mts
 
       - name: Build static map HTMLs from source
         run: npx tsx scripts/build-static-maps.mts
@@ -153,8 +184,14 @@ jobs:
           ln -sfn "$REL_DIR" "${{ env.RELEASE_BASE }}/current.new"
           mv -Tf "${{ env.RELEASE_BASE }}/current.new" "${{ env.RELEASE_BASE }}/current"
           CURRENT_TARGET=$(readlink -f "${{ env.RELEASE_BASE }}/current" 2>/dev/null || echo "")
-          find "${{ env.RELEASE_BASE }}/releases" -mindepth 1 -maxdepth 1 -type d -mmin +1440 \
-            ! -path "$CURRENT_TARGET" -print -exec rm -rf {} + || true
+          mapfile -t COMPLETE < <(find "${{ env.RELEASE_BASE }}/releases" \
+            -mindepth 1 -maxdepth 1 -type d \
+            -exec test -f '{}/.deploy-complete' ';' -print | sort -r)
+          for ((i=KEEP_RELEASES; i<${#COMPLETE[@]}; i++)); do
+            [ "$(readlink -f "${COMPLETE[$i]}")" = "$CURRENT_TARGET" ] && continue
+            echo "Removing old release: ${COMPLETE[$i]}"
+            rm -rf -- "${COMPLETE[$i]}"
+          done
           sudo install -d -o www-data -g www-data -m 0775 "${{ env.RELEASE_BASE }}/shared/poi-image-submissions"
           sudo install -d -o www-data -g www-data -m 0775 "${{ env.RELEASE_BASE }}/shared/poi-user-images"
           sudo install -o erik -g www-data -m 0644 deploy/php/poi-image.php "${{ env.RELEASE_BASE }}/endpoint/poi-image.php"
