@@ -884,8 +884,16 @@ function getPoiAlternates(poi: POI): Record<string, string> {
 // Pre-index POIs by parent ONCE (built lazily) so getRelatedPois is O(siblings)
 // instead of scanning all ~48K POIs per page (which was O(n²) over the full build).
 let _poisByParent: Map<string, POI[]> | null = null;
+let _relatedCachePoiId = "";
+const _relatedCache = new Map<number, POI[]>();
 function getRelatedPois(poi: POI, limit = 6): POI[] {
   if (!poi.parent) return [];
+  if (_relatedCachePoiId !== poi.id) {
+    _relatedCachePoiId = poi.id;
+    _relatedCache.clear();
+  }
+  const cached = _relatedCache.get(limit);
+  if (cached) return cached;
   if (!_poisByParent) {
     _poisByParent = new Map();
     for (const p of pois) {
@@ -916,7 +924,9 @@ function getRelatedPois(poi: POI, limit = 6): POI[] {
   if (nearest.some((p) => popOf(p.id) > 0)) {
     nearest.sort((a, b) => (popOf(b.id) - popOf(a.id)) || (distOf(a) - distOf(b)));
   }
-  return nearest.slice(0, limit);
+  const result = nearest.slice(0, limit);
+  _relatedCache.set(limit, result);
+  return result;
 }
 
 // Normalize a POI coords array to [lat, lon]. Plizio standard is [lon, lat],
@@ -1041,7 +1051,16 @@ function renderKeyFacts(
   return `<section class="plz-keyfacts"><ul>${rows.join("")}</ul></section>`;
 }
 
+let _nearbyCachePoiId = "";
+const _nearbyCache = new Map<string, { p: POI; km: number }[]>();
 function getNearbyPois(poi: POI, limit = 8, maxKm = 150): { p: POI; km: number }[] {
+  if (_nearbyCachePoiId !== poi.id) {
+    _nearbyCachePoiId = poi.id;
+    _nearbyCache.clear();
+  }
+  const cacheKey = `${limit}|${maxKm}`;
+  const cached = _nearbyCache.get(cacheKey);
+  if (cached) return cached;
   const c0 = coordLatLon(poi.coords);
   if (!c0) return [];
   const [lat0, lon0] = c0;
@@ -1081,6 +1100,7 @@ function getNearbyPois(poi: POI, limit = 8, maxKm = 150): { p: POI; km: number }
     out.push(e);
     if (out.length >= limit) break;
   }
+  _nearbyCache.set(cacheKey, out);
   return out;
 }
 
@@ -1089,7 +1109,16 @@ function getNearbyPois(poi: POI, limit = 8, maxKm = 150): { p: POI; km: number }
 // discovers an unfamiliar town from within our system. City-like types only —
 // no streets/landmarks. Grid is already indexable-only (buildNearbyGrid).
 const CITY_TYPES = new Set(["city", "capital", "town", "village", "municipality", "commune"]);
+let _nearbyCitiesCachePoiId = "";
+const _nearbyCitiesCache = new Map<string, { p: POI; km: number }[]>();
 function getNearbyCities(poi: POI, limit = 6, maxKm = 90, minKm = 4): { p: POI; km: number }[] {
+  if (_nearbyCitiesCachePoiId !== poi.id) {
+    _nearbyCitiesCachePoiId = poi.id;
+    _nearbyCitiesCache.clear();
+  }
+  const cacheKey = `${limit}|${maxKm}|${minKm}`;
+  const cached = _nearbyCitiesCache.get(cacheKey);
+  if (cached) return cached;
   const c0 = coordLatLon(poi.coords);
   if (!c0) return [];
   const [lat0, lon0] = c0;
@@ -1123,6 +1152,7 @@ function getNearbyCities(poi: POI, limit = 6, maxKm = 90, minKm = 4): { p: POI; 
     out.push(e);
     if (out.length >= limit) break;
   }
+  _nearbyCitiesCache.set(cacheKey, out);
   return out;
 }
 

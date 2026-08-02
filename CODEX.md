@@ -347,3 +347,15 @@ Nem váltja ki a `CLAUDE.md`-t, hanem gyors képbehozásra szolgál.
   `/home/erik/plizio/shared/audits/fetch-activation-20260802-190157.json`.
 - A POI hero kepek inline `onerror` fallbacket kapnak a tipus szerinti SVG-re; a footer
   globalis error listenere onmagaban nem eleg, mert az eager 404 a listener elott is johet.
+
+## VPS tarhely es POI generator - 2026-08-02
+
+- A sikertelen POI Full deploy utan a felkesz release megtoltotte a lemezt. A mar
+  legeneralt `out` helyben lett az aktiv release-be szinkronizalva, majd a 34 GiB-os
+  runner `out` torolve lett. A Meissen POI uj kepe es SVG fallbackje eloben ellenorizve.
+- Az Ollama/Open WebUI/SearXNG/document-tools tesztkornyezet, az Ollama modellek es a
+  ket Qwen treningmentes torolve lett. A szabad hely 22 GiB-rol 87 GiB-ra nott.
+- VPS-en a `disk` parancs inditja az `ncdu -x /` interaktiv tarhelybongeszot.
+- A POI generator nyelvenkent ujraszamolta ugyanazokat a related/nearby listakat.
+  Az aktualis POI-ra korlatozott cache nem halmoz memoriat; 1000 POI-s VPS meresen
+  4641 HTML keszult 22,5 masodperc alatt, kb. 206 fajl/s sebesseggel.
