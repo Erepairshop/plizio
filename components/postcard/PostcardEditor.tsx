@@ -5,11 +5,7 @@ import { Camera, Download, ImagePlus, MapPin, Send, ShieldCheck, Sparkles } from
 import { canvasToBlob, renderPostcard, type PostcardTheme } from "@/lib/postcard/renderPostcard";
 import { getLanguage, type Language } from "@/lib/language";
 
-const themes: { id: PostcardTheme; colors: string }[] = [
-  { id: "sunset", colors: "from-[#f8c76c] to-[#ef674b]" },
-  { id: "coast", colors: "from-[#c9e7df] to-[#4aa6aa]" },
-  { id: "paper", colors: "from-[#eee4d2] to-[#bda789]" },
-];
+const themes: PostcardTheme[] = ["vintage", "polaroid", "airmail", "scrapbook", "minimal"];
 
 const COPY = {
   de: {
@@ -17,7 +13,7 @@ const COPY = {
     studio: "Postkartenstudio", eyebrow: "Eine Reise wird zur persönlichen Erinnerung", titleA: "Sende ein Stück", titleB: "der Welt.",
     intro: "Gestalte eine echte, persönliche Postkarte aus deinem eigenen Foto. Ohne Anmeldung, und dein Bild verlässt dein Gerät nicht.",
     place: "Ort", country: "Land", choosePhoto: "Eigenes Foto auswählen", photoHint: "JPG, PNG oder Smartphone-Foto", message: "Nachricht",
-    sender: "Unterschrift", senderPlaceholder: "Dein Name (optional)", style: "Stil", themes: { sunset: "Sonnenuntergang", coast: "Küste", paper: "Vintage" },
+    sender: "Unterschrift", senderPlaceholder: "Dein Name (optional)", style: "Stil", themes: { vintage: "Vintage", polaroid: "Polaroid", airmail: "Luftpost", scrapbook: "Reisetagebuch", minimal: "Minimal" },
     share: "Teilen", download: "Herunterladen", privacy: "Das Foto wird in deinem Browser verarbeitet. Es wird weder hochgeladen noch gespeichert.",
     preview: "Die Vorschau wird automatisch aktualisiert", previewLabel: "Postkartenvorschau", invalidImage: "Bitte wähle eine Bilddatei aus.",
     imageError: "Das Bild konnte nicht geöffnet werden.", ready: "Die Postkarte ist fertig.", shareTitle: (place: string) => `Grüße aus ${place}`,
@@ -29,7 +25,7 @@ const COPY = {
     studio: "Képeslapstúdió", eyebrow: "Egy utazásból személyes emlék", titleA: "Küldj egy darabot", titleB: "a világból.",
     intro: "Készíts valódi, személyes képeslapot saját fotódból. Nincs regisztráció, a képed nem hagyja el a telefonodat.",
     place: "Hely", country: "Ország", choosePhoto: "Saját fotó kiválasztása", photoHint: "JPG, PNG vagy telefonos fotó", message: "Üzenet",
-    sender: "Aláírás", senderPlaceholder: "A neved (nem kötelező)", style: "Stílus", themes: { sunset: "Naplemente", coast: "Tengerpart", paper: "Régi képeslap" },
+    sender: "Aláírás", senderPlaceholder: "A neved (nem kötelező)", style: "Stílus", themes: { vintage: "Vintage", polaroid: "Polaroid", airmail: "Légiposta", scrapbook: "Utazási napló", minimal: "Minimal" },
     share: "Megosztás", download: "Letöltés", privacy: "A fotót a böngésződ dolgozza fel. Nem töltjük fel és nem tároljuk.",
     preview: "Az előnézet automatikusan frissül", previewLabel: "A képeslap előnézete", invalidImage: "Kérlek, képfájlt válassz.",
     imageError: "A képet nem sikerült megnyitni.", ready: "A képeslap elkészült.", shareTitle: (place: string) => `Üdvözlet ${place} városából`,
@@ -41,7 +37,7 @@ const COPY = {
     studio: "Postcard studio", eyebrow: "Turn a journey into a personal memory", titleA: "Send a piece", titleB: "of the world.",
     intro: "Create a real, personal postcard from your own photo. No sign-up, and your image never leaves your device.",
     place: "Place", country: "Country", choosePhoto: "Choose your own photo", photoHint: "JPG, PNG or smartphone photo", message: "Message",
-    sender: "Signature", senderPlaceholder: "Your name (optional)", style: "Style", themes: { sunset: "Sunset", coast: "Coast", paper: "Vintage" },
+    sender: "Signature", senderPlaceholder: "Your name (optional)", style: "Style", themes: { vintage: "Vintage", polaroid: "Polaroid", airmail: "Air mail", scrapbook: "Scrapbook", minimal: "Minimal" },
     share: "Share", download: "Download", privacy: "Your photo is processed in your browser. It is not uploaded or stored.",
     preview: "The preview updates automatically", previewLabel: "Postcard preview", invalidImage: "Please choose an image file.",
     imageError: "The image could not be opened.", ready: "Your postcard is ready.", shareTitle: (place: string) => `Greetings from ${place}`,
@@ -53,7 +49,7 @@ const COPY = {
     studio: "Studio de cărți poștale", eyebrow: "Transformă o călătorie într-o amintire personală", titleA: "Trimite o parte", titleB: "din lume.",
     intro: "Creează o carte poștală personală din fotografia ta. Fără înregistrare, iar imaginea nu părăsește dispozitivul.",
     place: "Loc", country: "Țară", choosePhoto: "Alege fotografia ta", photoHint: "JPG, PNG sau fotografie de telefon", message: "Mesaj",
-    sender: "Semnătură", senderPlaceholder: "Numele tău (opțional)", style: "Stil", themes: { sunset: "Apus", coast: "Litoral", paper: "Vintage" },
+    sender: "Semnătură", senderPlaceholder: "Numele tău (opțional)", style: "Stil", themes: { vintage: "Vintage", polaroid: "Polaroid", airmail: "Poștă aeriană", scrapbook: "Jurnal de călătorie", minimal: "Minimal" },
     share: "Distribuie", download: "Descarcă", privacy: "Fotografia este procesată în browser. Nu este încărcată și nu este stocată.",
     preview: "Previzualizarea se actualizează automat", previewLabel: "Previzualizarea cărții poștale", invalidImage: "Alege un fișier imagine.",
     imageError: "Imaginea nu a putut fi deschisă.", ready: "Cartea poștală este gata.", shareTitle: (place: string) => `Salutări din ${place}`,
@@ -77,6 +73,22 @@ function trackPostcard(event: string, data?: Record<string, string>) {
   }
 }
 
+function ThemePreview({ theme }: { theme: PostcardTheme }) {
+  if (theme === "vintage") {
+    return <span className="relative block h-16 overflow-hidden rounded-lg bg-[#c6a674]"><span className="absolute inset-2 border border-[#60452d]/60 bg-[#ead9b8]" /><span className="absolute inset-x-4 bottom-3 top-3 bg-gradient-to-b from-[#8da59c] to-[#b8784f] opacity-75" /><span className="absolute bottom-2 right-2 h-6 w-6 rounded-full border-2 border-[#9a3e2c]/70" /></span>;
+  }
+  if (theme === "polaroid") {
+    return <span className="relative block h-16 overflow-hidden rounded-lg bg-[#5d665f]"><span className="absolute left-1/2 top-1/2 h-14 w-11 -translate-x-1/2 -translate-y-1/2 -rotate-3 bg-white p-1 shadow-md"><span className="block h-9 bg-gradient-to-br from-[#8cb5bb] to-[#d38b60]" /></span></span>;
+  }
+  if (theme === "airmail") {
+    return <span className="relative block h-16 overflow-hidden rounded-lg bg-[repeating-linear-gradient(135deg,#b63337_0_7px,#f5ead4_7px_14px,#285d88_14px_21px,#f5ead4_21px_28px)] p-1.5"><span className="relative block h-full bg-[#fffaf0]"><span className="absolute left-2 top-2 h-7 w-10 bg-[#8db7c6]" /><span className="absolute bottom-2 right-2 h-6 w-6 rounded-full border-2 border-[#b63337]/70" /></span></span>;
+  }
+  if (theme === "scrapbook") {
+    return <span className="relative block h-16 overflow-hidden rounded-lg bg-[#a67d52]"><span className="absolute left-3 top-2 h-12 w-14 rotate-3 bg-[#f2e6cc] shadow"><span className="m-1 block h-7 bg-[#6f9b9a]" /></span><span className="absolute left-8 top-0 h-3 w-8 -rotate-6 bg-[#e7cc87]/80" /><span className="absolute bottom-2 right-2 text-lg text-[#f3d46b]">&#10022;</span></span>;
+  }
+  return <span className="relative block h-16 overflow-hidden rounded-lg border border-[#d8d4ca] bg-[#fbfaf6]"><span className="absolute bottom-2 left-2 top-2 w-[58%] bg-gradient-to-br from-[#b9c9c3] to-[#7f9c98]" /><span className="absolute right-2 top-3 h-px w-7 bg-[#252a28]" /><span className="absolute right-2 top-6 h-1.5 w-8 bg-[#252a28]" /><span className="absolute right-2 top-9 h-px w-6 bg-[#8a8d87]" /></span>;
+}
+
 export default function PostcardEditor() {
   const canvasRef = useRef<HTMLCanvasElement>(null);
   const imageRef = useRef<HTMLImageElement | null>(null);
@@ -86,7 +98,7 @@ export default function PostcardEditor() {
   const [country, setCountry] = useState(COPY.en.countryDefault);
   const [message, setMessage] = useState(COPY.en.messageDefault);
   const [sender, setSender] = useState("");
-  const [theme, setTheme] = useState<PostcardTheme>("sunset");
+  const [theme, setTheme] = useState<PostcardTheme>("vintage");
   const [photoName, setPhotoName] = useState("");
   const [imageRevision, setImageRevision] = useState(0);
   const [notice, setNotice] = useState("");
@@ -225,7 +237,7 @@ export default function PostcardEditor() {
             <label className="mt-5 block"><span className="mb-2 block text-xs font-bold uppercase tracking-widest">{t.message}</span><textarea value={message} maxLength={500} rows={5} onChange={(e) => setMessage(e.target.value)} className="w-full resize-y rounded-xl border border-[#6d5037]/20 bg-white/70 px-4 py-3 outline-none focus:border-[#b7462f]" /><span className="mt-1 block text-right text-xs text-[#76685b]">{message.length}/500</span></label>
             <label className="mt-3 block"><span className="mb-2 block text-xs font-bold uppercase tracking-widest">{t.sender}</span><input value={sender} maxLength={30} placeholder={t.senderPlaceholder} onChange={(e) => setSender(e.target.value)} className="w-full rounded-xl border border-[#6d5037]/20 bg-white/70 px-4 py-3 outline-none focus:border-[#b7462f]" /></label>
 
-            <fieldset className="mt-6"><legend className="text-xs font-bold uppercase tracking-widest">{t.style}</legend><div className="mt-3 grid grid-cols-3 gap-2">{themes.map((item) => <button type="button" key={item.id} onClick={() => setTheme(item.id)} className={`rounded-xl border p-2 text-xs font-bold transition ${theme === item.id ? "border-[#28231e] bg-white shadow-md" : "border-transparent"}`}><span className={`mx-auto mb-2 block h-8 rounded-lg bg-gradient-to-br ${item.colors}`} />{t.themes[item.id]}</button>)}</div></fieldset>
+            <fieldset className="mt-6 min-w-0"><legend className="text-xs font-bold uppercase tracking-widest">{t.style}</legend><div className="-mx-1 mt-3 overflow-x-auto px-1 pb-2 [scrollbar-width:thin]"><div className="grid auto-cols-[128px] grid-flow-col gap-3 sm:auto-cols-[142px]">{themes.map((item) => <button type="button" key={item} aria-pressed={theme === item} onClick={() => setTheme(item)} className={`snap-start rounded-2xl border p-2 text-left text-xs font-bold transition ${theme === item ? "border-[#28231e] bg-white shadow-md ring-2 ring-[#b7462f]/20" : "border-[#6d5037]/15 bg-white/35 hover:border-[#6d5037]/35 hover:bg-white/60"}`}><ThemePreview theme={item} /><span className="mt-2 block truncate px-1">{t.themes[item]}</span></button>)}</div></div></fieldset>
 
             <div className="mt-7 grid gap-3 sm:grid-cols-2 lg:grid-cols-1 xl:grid-cols-2">
               <button type="button" onClick={share} className="flex items-center justify-center gap-2 rounded-full bg-[#b7462f] px-5 py-3.5 font-bold text-white shadow-[0_10px_24px_rgba(183,70,47,.28)] transition hover:-translate-y-0.5"><Send size={18} /> {t.share}</button>

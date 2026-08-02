@@ -359,3 +359,14 @@ Nem váltja ki a `CLAUDE.md`-t, hanem gyors képbehozásra szolgál.
 - A POI generator nyelvenkent ujraszamolta ugyanazokat a related/nearby listakat.
   Az aktualis POI-ra korlatozott cache nem halmoz memoriat; 1000 POI-s VPS meresen
   4641 HTML keszult 22,5 masodperc alatt, kb. 206 fajl/s sebesseggel.
+
+## Postcard stilusmotor - 2026-08-02
+
+- A regi, csak szinben eltero temak helyett ot onallo Canvas-layout van:
+  `vintage`, `polaroid`, `airmail`, `scrapbook`, `minimal`.
+- A rendereles forrasa: `lib/postcard/renderStyledPostcard.ts`; a publikus API es
+  tipusok tovabbra is a `lib/postcard/renderPostcard.ts` fajlbol jonnek.
+- A stilusvalaszto vizszintesen gorgetheto, fix szelessegu elonezeti kartyakat hasznal,
+  ezert tovabbi temak hozzaadasakor nem nyomja szet az urlapot.
+- Az ot layout fallback keppel, tobbsoros uzenettel es dinamikus Canvas-magassaggal
+  izolalt Chrome renderben vizualisan ellenorizve lett.
