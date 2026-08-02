@@ -161,6 +161,7 @@ function IslandMapSVG({ progress, onIsland, onCheckpoint }: {
   progress: DeutschProgress;
   onIsland: (island: IslandDef) => void;
   onCheckpoint: (testId: string) => void;
+  lang: string;
 }) {
   const pathD = buildSmoothPath(K1_ISLANDS);
   return (
@@ -200,10 +201,28 @@ function IslandMapSVG({ progress, onIsland, onCheckpoint }: {
         const done = isCheckpointDoneK1(progress, testId);
         const color = done ? "#00FF88" : unlocked ? "#FFD700" : "rgba(255,255,255,0.2)";
         const fillAlpha = done ? "rgba(0,255,136,0.15)" : unlocked ? "rgba(255,215,0,0.15)" : "rgba(255,255,255,0.03)";
+        const isInteractive = unlocked && !done;
+        const checkpointLabel = done
+          ? (lang === "hu" ? "Kész" : lang === "ro" ? "Gata" : lang === "de" ? "Fertig" : "Done")
+          : unlocked
+            ? "Test"
+            : (lang === "hu" ? "Zárolva" : lang === "ro" ? "Blocat" : lang === "de" ? "Gesperrt" : "Locked");
         return (
-          <g key={testId} onClick={() => unlocked && !done && onCheckpoint(testId)}
-            style={{ cursor: unlocked && !done ? "pointer" : "default" }}>
-            {unlocked && !done && (
+          <g
+            key={testId}
+            role={isInteractive ? "button" : undefined}
+            tabIndex={isInteractive ? 0 : -1}
+            aria-label={checkpointLabel}
+            onClick={() => isInteractive && onCheckpoint(testId)}
+            onKeyDown={(event) => {
+              if (isInteractive && (event.key === "Enter" || event.key === " ")) {
+                event.preventDefault();
+                onCheckpoint(testId);
+              }
+            }}
+            style={{ cursor: isInteractive ? "pointer" : "default" }}
+          >
+            {isInteractive && (
               <circle cx={pos.x} cy={pos.y} r={22} fill="none" stroke={color} strokeWidth={1}
                 opacity={0.3} strokeDasharray="4 3" />
             )}
@@ -212,9 +231,7 @@ function IslandMapSVG({ progress, onIsland, onCheckpoint }: {
             <text x={pos.x - 32} y={pos.y + 5} textAnchor="middle" fontSize={13}>
               {done ? "✅" : unlocked ? "🚀" : "🔒"}
             </text>
-            <text x={pos.x + 8} y={pos.y + 5} textAnchor="middle" fontSize={10} fontWeight="bold" fill={color}>
-              {done ? "Fertig!" : unlocked ? "Test!" : "Test"}
-            </text>
+            <text x={pos.x + 8} y={pos.y + 5} textAnchor="middle" fontSize={10} fontWeight="bold" fill={color}>{done ? `${checkpointLabel}!` : checkpointLabel}</text>
           </g>
         );
       })}
@@ -572,7 +589,7 @@ export default function AstroDeutschK1Page() {
         <div className="relative z-10 flex-1 min-h-0 overflow-y-auto" ref={attachAutoScrollToBottom}>
           <div className="max-w-sm mx-auto px-2 pb-6" style={{ minHeight: MAP_H + 40 }}>
             <div className="relative">
-              <IslandMapSVG progress={progress} onIsland={handleIslandSelect} onCheckpoint={startCheckpoint} />
+              <IslandMapSVG progress={progress} onIsland={handleIslandSelect} onCheckpoint={startCheckpoint} lang={lang} />
               <motion.div
                 className="absolute pointer-events-none z-10"
                 style={{ width: 72, height: 72, transform: "translate(-50%, -50%)" }}

@@ -2484,6 +2484,31 @@ export const G2_Generators = {
       }
       return q;
     },
+    antonyms_g2: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const oppositePairs = [
+        { word: "hot", opposite: "cold" },
+        { word: "big", opposite: "small" },
+        { word: "happy", opposite: "sad" },
+        { word: "fast", opposite: "slow" },
+        { word: "up", opposite: "down" },
+        { word: "open", opposite: "closed" },
+        { word: "hard", opposite: "soft" },
+        { word: "thick", opposite: "thin" },
+        { word: "early", opposite: "late" },
+        { word: "light", opposite: "dark" },
+        { word: "full", opposite: "empty" },
+        { word: "inside", opposite: "outside" },
+      ];
+      const distractors = oppositePairs.map((pair) => pair.opposite);
+      for (let i = 0; i < 20; i++) {
+        const pair = pick(oppositePairs, rng);
+        const wrong = shuffle(distractors.filter((word) => word !== pair.opposite), rng).slice(0, 3);
+        q.push(createMCQ("vocab_g2", "antonyms_g2", `Which word is the opposite of '${pair.word}'?`, pair.opposite, wrong, rng));
+      }
+      return q;
+    },
     locations_g2: (seed?: number) => {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
       const q: CurriculumQuestion[] = [];

@@ -147,7 +147,7 @@ export function getK7Questions(
             if (themeGens[sub.id]) { generatorFn = themeGens[sub.id]; break; }
           }
           if (generatorFn) {
-            pool.push(...generatorFn("en", Math.floor(Math.random() * 1000000)));
+            pool.push(...generatorFn("de", Math.floor(Math.random() * 1000000)));
           } else {
             pool.push(...sub.questions);
           }
@@ -159,7 +159,7 @@ export function getK7Questions(
             if (themeGens[typingKey]) { typingFn = themeGens[typingKey]; break; }
           }
           if (typingFn) {
-            pool.push(...typingFn("en", Math.floor(Math.random() * 1000000)));
+            pool.push(...typingFn("de", Math.floor(Math.random() * 1000000)));
           }
         }
       }

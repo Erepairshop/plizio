@@ -278,3 +278,23 @@ Nem váltja ki a `CLAUDE.md`-t, hanem gyors képbehozásra szolgál.
 - Geography K5-K8 pool audit: `npx tsx scripts/audit-geography-pools.mts`; minden DE/EN/HU/RO témának nem üres poolt kell adnia.
 - Fő route audit: `npx tsx scripts/audit-learn-routes.mts`.
 - A lokális Next dev jelenleg Turbopackkal és Webpackkal is beragad a `/learn/` fordításánál; vizuális smoke-ot működő preview környezetben kell pótolni.
+
+### Tartós audit wave 2
+
+- A második ötagenses audit sessiontől független Windows Task Scheduler workflowként fut.
+- Task neve: `PlizioLearnAuditWave2`.
+- Runner: `C:\Users\User\plizio_orch\learn_audit_wave2\runner.py`.
+- Állapot: `C:\Users\User\plizio_orch\learn_audit_wave2\state.json`.
+- Worker logok: `C:\Users\User\plizio_orch\learn_audit_wave2\logs`.
+- Rövid státusz:
+  `powershell -NoProfile -ExecutionPolicy Bypass -File C:\Users\User\plizio_orch\learn_audit_wave2\status.ps1`
+- Öt diszjunkt scope: AstroDeutsch, AstroRomana+RomanianTest, AstroKemia+KemiaTest,
+  AstroPhysik+PhysikTest, AstroEnglish+EnglishTest.
+- Maximum 5 párhuzamos worker, legfeljebb 3 automatikus próbálkozás. A workerek nem
+  commitolnak és nem deployolnak; befejezés után közös review és validáció szükséges.
+- A workflow 2026-08-02-án mind az 5 scope-pal sikeresen befejeződött; a közös review és
+  validáció is lefutott. Az állapot/log fájlok megmaradnak későbbi mintának.
+- Az AstroEnglish generátoros pooloknál a `DynamicExplorer` subject+grade alapján oldja
+  fel az angol generátorokat. Audit: `npx tsx scripts/audit-astroenglish-generators.mts`.
+- A következő mély audit hullám fő célja AstroMagyar/Magyar Test, majd minden élő route
+  desktop/mobil vizuális smoke tesztje működő preview környezetben.

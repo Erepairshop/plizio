@@ -13,7 +13,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
   return (
     <>
       <JsonLd data={buildCourseSchema({ name: "AstroKemia 5", description: "Chemie Klasse 5 mit Stoffen, Teilchenmodell, Gemischen, Wasser, Luft und Laborgrundlagen.", url: "/astrokemia/5/" })} />
-      <JsonLd data={buildBreadcrumbSchema([{ name: "Home", item: "/" }, { name: "AstroKemia", item: "/astrokemia/" }, { name: "Grade 5", item: "/astrokemia/5/" }])} />
+      <JsonLd data={buildBreadcrumbSchema([{ name: "Home", item: "/" }, { name: "AstroKemia", item: "/astrokemia/" }, { name: "Klasse 5", item: "/astrokemia/5/" }])} />
       {children}
     </>
   );

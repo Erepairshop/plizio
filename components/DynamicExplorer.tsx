@@ -14,6 +14,7 @@ import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerE
 import type { PoolTopicDef } from "@/lib/explorerPools/types";
 import { getRandomTopicsWithHistory } from "@/lib/explorerUtils";
 import { GENERATORS as DEUTSCH_GENERATORS } from "@/lib/deutschGenerators";
+import { ALL_GENERATORS as ENGLISH_GENERATOR_GRADES } from "@/lib/englishGenerators";
 import { K5_Generators } from "@/lib/biologieGenerators";
 import { K6_Generators } from "@/lib/biologieGenerators6";
 import { K7_Generators } from "@/lib/biologieGenerators7";
@@ -60,6 +61,25 @@ const GEO_GENERATORS: Record<string, (...args: any[]) => any> = {};
 const MAGYAR_GENERATORS: Record<string, (...args: any[]) => any> = {};
 const SACHKUNDE_GENERATORS: Record<string, (...args: any[]) => any> = {};
 const GESCHICHTE_GENERATORS: Record<string, (...args: any[]) => any> = {};
+const ENGLISH_GENERATORS_BY_GRADE: Record<number, Record<string, (...args: any[]) => any>> = {};
+
+Object.entries(ENGLISH_GENERATOR_GRADES).forEach(([gradeKey, topics]) => {
+  const grade = Number(gradeKey.slice(1));
+  const flat: Record<string, (...args: any[]) => any> = {};
+  Object.entries(topics as Record<string, Record<string, (...args: any[]) => any>>).forEach(([topic, generators]) => {
+    Object.entries(generators).forEach(([subtopic, generator]) => {
+      flat[subtopic] = generator;
+      flat[`${topic}_${subtopic}`] = generator;
+      flat[subtopic.replace(`_g${grade}`, `_k${grade}`)] = generator;
+    });
+  });
+  if (grade === 1) {
+    flat.uppercase_k1 = flat.uppercase_lowercase_g1;
+    flat.declarative_k1 = flat.declarative_interrogative_g1;
+    flat.story_k1 = flat.story_comprehension_g1;
+  }
+  ENGLISH_GENERATORS_BY_GRADE[grade] = flat;
+});
 // Magyar/Hungarian — G1-G8 flat registration
 [G1_Generators_Hungarian, G2_Generators_Hungarian, G3_Generators_Hungarian, G4_Generators_Hungarian,
  G5_Generators_Hungarian, G6_Generators_Hungarian, G7_Generators_Hungarian, G8_Generators_Hungarian].forEach((gradeMap) => {
@@ -171,7 +191,12 @@ interface Props {
  *   (ExplorerEngine's L() falls back to the key itself when not found in labels,
  *    so passing actual text works transparently)
  */
-function resolveQuiz(p: PoolTopicDef, lang: string): { question: string; choices: string[]; answer: string } {
+function resolveQuiz(
+  p: PoolTopicDef,
+  lang: string,
+  subject?: ExplorerSubject,
+  grade = 1,
+): { question: string; choices: string[]; answer: string } {
   const q = p.quiz;
   if ("generate" in q) {
     const deutschGen = DEUTSCH_GENERATORS[q.generate] as ((...args: any[]) => any) | undefined;
@@ -182,11 +207,14 @@ function resolveQuiz(p: PoolTopicDef, lang: string): { question: string; choices
     const magyarGen = MAGYAR_GENERATORS[q.generate] as ((...args: any[]) => any) | undefined;
     const sachkundeGen = SACHKUNDE_GENERATORS[q.generate] as ((...args: any[]) => any) | undefined;
     const geschichteGen = GESCHICHTE_GENERATORS[q.generate] as ((...args: any[]) => any) | undefined;
-    const gen = deutschGen || bioGen || physikGen || chemieGen || geoGen || magyarGen || sachkundeGen || geschichteGen;
+    const englishGen = subject === "english" ? ENGLISH_GENERATORS_BY_GRADE[grade]?.[q.generate] : undefined;
+    const gen = englishGen || deutschGen || bioGen || physikGen || chemieGen || geoGen || magyarGen || sachkundeGen || geschichteGen;
     if (gen) {
       const seed = Math.floor(Math.random() * 1000000);
       let result;
-      if (bioGen) {
+      if (englishGen) {
+        result = gen(seed);
+      } else if (bioGen) {
         result = gen(seed, lang);
       } else if (chemieGen || geoGen || physikGen || deutschGen) {
         if (PHYSIK_SEED_ONLY_KEYS.has(q.generate)) {
@@ -211,7 +239,7 @@ function resolveQuiz(p: PoolTopicDef, lang: string): { question: string; choices
     }
     // fallback if generator key unknown — log for dev + show key in UI
     if (typeof console !== "undefined") {
-      console.warn(`[DynamicExplorer] Missing generator for key: "${q.generate}" — add to deutsch/bio/physik/chemie/geo/magyar/sachkunde/geschichte generators`);
+      console.warn(`[DynamicExplorer] Missing generator for key: "${q.generate}" — add to english/deutsch/bio/physik/chemie/geo/magyar/sachkunde/geschichte generators`);
     }
     return {
       question: `⚠️ Missing generator: ${q.generate}`,
@@ -255,12 +283,12 @@ export default function DynamicExplorer({
     const usedTitles = new Set(selected.map(p => p.infoTitle));
     const usedQuestions = new Set<string>();
     const deduped = selected.map(p => {
-      const quiz = resolveQuiz(p, lang);
+      const quiz = resolveQuiz(p, lang, subject, grade);
       if (usedQuestions.has(quiz.question)) {
         // Try to find a replacement from pool with a unique question text
         const replacement = pool
           .filter(t => !usedTitles.has(t.infoTitle))
-          .map(t => ({ t, quiz: resolveQuiz(t, lang) }))
+          .map(t => ({ t, quiz: resolveQuiz(t, lang, subject, grade) }))
           .find(({ quiz: rq }) => !usedQuestions.has(rq.question));
         if (replacement) {
           usedTitles.delete(p.infoTitle);
@@ -284,7 +312,7 @@ export default function DynamicExplorer({
       quiz,
     }));
     return { labels, title, icon, topics, rounds: [] };
-  }, [mounted, pool, labels, title, icon, count, mix, explorerId, lang]);
+  }, [mounted, pool, labels, title, icon, count, mix, explorerId, lang, subject, grade]);
 
   if (!mounted) {
     return <div className="min-h-screen bg-[#060614]" />;

@@ -1,5 +1,5 @@
 "use client";
-import { memo } from "react";
+import { memo, useId } from "react";
 
 // ─── LABELS ────────────────────────────────────────────────────────────────
 
@@ -26,12 +26,13 @@ const SAFETY_LABELS = {
 
 // ─── ATOM SVG ──────────────────────────────────────────────────────────────
 
-export const AtomSvg = memo(({ lang = "hu" }: { lang?: string }) => {
+export const AtomSvg = memo(({ lang = "de" }: { lang?: string }) => {
   const l = (ATOM_LABELS as any)[lang] || ATOM_LABELS.en;
+  const nucleusGradientId = useId();
   return (
     <svg viewBox="0 0 240 140" className="w-full h-auto max-h-36">
       <defs>
-        <radialGradient id="nucGrad" cx="50%" cy="50%" r="50%">
+        <radialGradient id={nucleusGradientId} cx="50%" cy="50%" r="50%">
           <stop offset="0%" stopColor="#ef4444" />
           <stop offset="100%" stopColor="#991b1b" />
         </radialGradient>
@@ -43,7 +44,7 @@ export const AtomSvg = memo(({ lang = "hu" }: { lang?: string }) => {
       <circle cx="120" cy="70" r="50" fill="none" stroke="#334155" strokeWidth="1" />
       
       {/* Nucleus */}
-      <circle cx="120" cy="70" r="12" fill="url(#nucGrad)" />
+      <circle cx="120" cy="70" r="12" fill={`url(#${nucleusGradientId})`} />
       
       {/* Electrons */}
       <circle cx="120" cy="40" r="4" fill="#60a5fa" />
@@ -87,12 +88,13 @@ export const BeakerSvg = memo(() => {
 
 // ─── PH SCALE SVG ──────────────────────────────────────────────────────────
 
-export const PhScaleSvg = memo(({ lang = "hu" }: { lang?: string }) => {
+export const PhScaleSvg = memo(({ lang = "de" }: { lang?: string }) => {
   const l = (PH_LABELS as any)[lang] || PH_LABELS.en;
+  const phGradientId = useId();
   return (
     <svg viewBox="0 0 240 140" className="w-full h-auto max-h-36">
       <defs>
-        <linearGradient id="phGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <linearGradient id={phGradientId} x1="0%" y1="0%" x2="100%" y2="0%">
           <stop offset="0%" stopColor="#ef4444" />
           <stop offset="50%" stopColor="#10b981" />
           <stop offset="100%" stopColor="#1e3a8a" />
@@ -100,7 +102,7 @@ export const PhScaleSvg = memo(({ lang = "hu" }: { lang?: string }) => {
       </defs>
       <rect width="240" height="140" fill="#fafafa" rx="12" />
       
-      <rect x="20" y="60" width="200" height="20" rx="10" fill="url(#phGrad)" />
+      <rect x="20" y="60" width="200" height="20" rx="10" fill={`url(#${phGradientId})`} />
       
       <text x="25" y="95" fontSize="8" fill="#64748b" textAnchor="middle">0</text>
       <text x="120" y="95" fontSize="8" fill="#64748b" textAnchor="middle">7</text>
@@ -137,7 +139,7 @@ export const MoleculeSvg = memo(() => {
 
 // ─── LAB SAFETY SVG ────────────────────────────────────────────────────────
 
-export const LabSafetySvg = memo(({ lang = "hu" }: { lang?: string }) => {
+export const LabSafetySvg = memo(({ lang = "de" }: { lang?: string }) => {
   const l = (SAFETY_LABELS as any)[lang] || SAFETY_LABELS.en;
   return (
     <svg viewBox="0 0 240 140" className="w-full h-auto max-h-36">

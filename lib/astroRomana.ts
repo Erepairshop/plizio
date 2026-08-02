@@ -2,7 +2,7 @@
 // AstroRomână — C1 island system + common types + bridge
 // Clasa 1: Alfabetul, vocale, consoane, silabe, cuvinte, propoziții
 
-import { ROMANIAN_CURRICULUM } from "./romanianCurriculum";
+import { ROMANIAN_CURRICULUM, getRomanianQuestions } from "./romanianCurriculum";
 import type { CurriculumMCQ } from "./curriculumTypes";
 import type { GameType, Lang, L10n, MissionDef, MissionCategory, IslandDef, SortRound, MatchPair } from "./astromath";
 
@@ -20,6 +20,23 @@ export function romanaMCQToMathQuestion(q: CurriculumMCQ): MathQuestion {
     isWordProblem: false,
     hasStringOptions: true,
   };
+}
+
+function getGeneratedRomanaMCQs(clasa: number, subtopicIds: string[], count: number): MathQuestion[] {
+  const mcqs = getRomanianQuestions(clasa, subtopicIds, Math.max(count * 4, 24))
+    .filter((q) => q.type === "mcq") as CurriculumMCQ[];
+  if (mcqs.length === 0) return [];
+
+  const pool = mcqs.map(romanaMCQToMathQuestion);
+  const out: MathQuestion[] = [];
+  for (let i = 0; i < count; i++) {
+    const q = pool[i % pool.length];
+    out.push({
+      ...q,
+      options: q.options ? shuffleArr(q.options) : q.options,
+    });
+  }
+  return out;
 }
 
 // ─── Progress type ─────────────────────────────────────────────────────────────
@@ -46,6 +63,12 @@ export function generateRomanaIslandQuestions(
   clasa: number,
   count = 10,
 ): MathQuestion[] {
+  const subtopicIds = island.topicKeys.map((key) => key.split("/")[1]).filter(Boolean);
+  const generated = getGeneratedRomanaMCQs(clasa, subtopicIds, count);
+  if (generated.length > 0) {
+    return generated;
+  }
+
   const themes = ROMANIAN_CURRICULUM[clasa] ?? [];
   const pool: MathQuestion[] = [];
   const seen = new Set<string>();
@@ -89,8 +112,14 @@ export function generateRomanaCheckpointQuestions(
   clasa: number,
   count = 10,
 ): MathQuestion[] {
-  const themes = ROMANIAN_CURRICULUM[clasa] ?? [];
   const keys = shuffleArr([...(checkpointTopics[testId] ?? [])]);
+  const subtopicIds = keys.map((key) => key.split("/")[1]).filter(Boolean);
+  const generated = getGeneratedRomanaMCQs(clasa, subtopicIds, count);
+  if (generated.length > 0) {
+    return generated;
+  }
+
+  const themes = ROMANIAN_CURRICULUM[clasa] ?? [];
   const pool: MathQuestion[] = [];
   const seen = new Set<string>();
 
@@ -284,7 +313,7 @@ export const C1_ISLANDS: IslandDef[] = [
   },
   {
     id: "i6",
-    name: { en: "Punctuation Island", hu: "Írásjelszıget", de: "Zeicheninsel", ro: "Insula Punctuației" },
+    name: { en: "Punctuation Island", hu: "Írásjelsziget", de: "Zeicheninsel", ro: "Insula Punctuației" },
     icon: "❗", color: "#10B981", sortRange: [1, 10],
     topicKeys: ["propozitia_c1/punctuatie_c1"],
     missions: [
@@ -296,7 +325,7 @@ export const C1_ISLANDS: IslandDef[] = [
   },
   {
     id: "i7",
-    name: { en: "Capital Letters Island", hu: "Nagybetűszıget", de: "Großbuchstaben-Insel", ro: "Insula Majusculelor" },
+    name: { en: "Capital Letters Island", hu: "Nagybetűsziget", de: "Großbuchstaben-Insel", ro: "Insula Majusculelor" },
     icon: "🔠", color: "#FF9500", sortRange: [1, 10],
     topicKeys: ["propozitia_c1/litera_mare_c1", "ortografie_c1/scrierea_corecta_c1"],
     missions: [

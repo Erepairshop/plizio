@@ -26,8 +26,11 @@ import SpeedRound from "@/app/astromath/games/SpeedRound";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
+import M2Engine from "@/components/astro-games/M2Engine";
+import M3Engine from "@/components/astro-games/M3Engine";
 import type { MathQuestion } from "@/lib/mathCurriculum";
 import type { RomanaProgress, IslandDef, MissionDef, Lang, MissionCategory } from "@/lib/astroRomana";
+import { ROMANA_M2_POOLS, ROMANA_M3_POOLS } from "@/lib/astro/romanaGameRegistry";
 import VisualLab, { VisualLabFab } from "@/components/VisualLab";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
@@ -345,6 +348,12 @@ function IslandMapSVG({ config, progress, onIsland, onCheckpoint }: {
   const islandGlowId = `islandGlowR${grade}`;
   const nebula1Id = `nebula1r${grade}`;
   const nebula2Id = `nebula2r${grade}`;
+  const handleKeyActivate = (event: React.KeyboardEvent<SVGGElement>, action: () => void) => {
+    if (event.key === "Enter" || event.key === " ") {
+      event.preventDefault();
+      action();
+    }
+  };
 
   return (
     <svg viewBox={`0 -${MAP_VB_OFFSET} ${MAP_W} ${MAP_H}`} width="100%" style={{ minHeight: MAP_H, display: "block" }}>
@@ -384,7 +393,15 @@ function IslandMapSVG({ config, progress, onIsland, onCheckpoint }: {
         const fillAlpha = done ? "rgba(0,255,136,0.15)" : unlocked ? "rgba(255,215,0,0.15)" : "rgba(255,255,255,0.03)";
 
         return (
-          <g key={testId} onClick={() => unlocked && !done && onCheckpoint(testId)} style={{ cursor: unlocked && !done ? "pointer" : "default" }}>
+          <g
+            key={testId}
+            role={unlocked && !done ? "button" : undefined}
+            tabIndex={unlocked && !done ? 0 : undefined}
+            aria-label={`${done ? "Gata" : "Test"} ${testId}`}
+            onClick={() => unlocked && !done && onCheckpoint(testId)}
+            onKeyDown={(event) => unlocked && !done && handleKeyActivate(event, () => onCheckpoint(testId))}
+            style={{ cursor: unlocked && !done ? "pointer" : "default", outline: "none" }}
+          >
             {unlocked && !done && (
               <circle cx={pos.x} cy={pos.y} r={22} fill="none" stroke={color} strokeWidth={1} opacity={0.3} strokeDasharray="4 3" />
             )}
@@ -402,7 +419,15 @@ function IslandMapSVG({ config, progress, onIsland, onCheckpoint }: {
         const total = config.islandTotalStars(progress, island.id);
 
         return (
-          <g key={island.id} onClick={() => unlocked && onIsland(island)} style={{ cursor: unlocked ? "pointer" : "default" }}>
+          <g
+            key={island.id}
+            role={unlocked ? "button" : undefined}
+            tabIndex={unlocked ? 0 : undefined}
+            aria-label={island.name[lang as Lang] ?? island.name.ro}
+            onClick={() => unlocked && onIsland(island)}
+            onKeyDown={(event) => unlocked && handleKeyActivate(event, () => onIsland(island))}
+            style={{ cursor: unlocked ? "pointer" : "default", outline: "none" }}
+          >
             {unlocked && !done && <circle cx={island.svgX} cy={island.svgY} r={40} fill={island.color} opacity={0.08} />}
             {done && <circle cx={island.svgX} cy={island.svgY} r={36} fill="none" stroke="#FFD700" strokeWidth={1.5} opacity={0.5} strokeDasharray="5 3" />}
             {unlocked ? (
@@ -636,7 +661,7 @@ export default function AstroRomanaGradePage({ config }: { config: AstroRomanaGr
       <div className="min-h-screen bg-[#060614] flex flex-col relative overflow-hidden">
         <Starfield />
         <div className="relative z-10 flex items-center justify-between px-4 pt-5 pb-2 flex-shrink-0">
-          <button onClick={() => router.push("/astroromana")} className="w-9 h-9 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 transition-colors">
+          <button aria-label={t.back} onClick={() => router.push("/astroromana")} className="w-9 h-9 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 transition-colors">
             <ChevronLeft size={18} />
           </button>
           <div className="text-center">
@@ -687,7 +712,7 @@ export default function AstroRomanaGradePage({ config }: { config: AstroRomanaGr
       <div className="min-h-screen flex flex-col relative overflow-hidden" style={{ background: `radial-gradient(ellipse at 50% 0%, ${bgColor}22 0%, #060614 55%)` }}>
         <Starfield />
         <div className="relative z-10 flex items-center justify-between px-4 pt-5 pb-4">
-          <button onClick={goToMap} className="w-9 h-9 flex items-center justify-center rounded-full bg-white/10 text-white/70"><X size={16} /></button>
+          <button aria-label={t.back} onClick={goToMap} className="w-9 h-9 flex items-center justify-center rounded-full bg-white/10 text-white/70"><X size={16} /></button>
           <div className="w-9" />
         </div>
         <div className="relative z-10 flex-1 flex flex-col items-center justify-center px-6 gap-6 text-center pb-6">
@@ -718,7 +743,7 @@ export default function AstroRomanaGradePage({ config }: { config: AstroRomanaGr
       <div className="min-h-screen flex flex-col relative overflow-hidden" style={{ background: `radial-gradient(ellipse at 50% 0%, ${bgColor}22 0%, #060614 55%)` }}>
         <Starfield />
         <div className="relative z-10 flex items-center justify-between px-4 pt-5 pb-2">
-          <button onClick={goToMap} className="w-9 h-9 flex items-center justify-center rounded-full bg-white/10 text-white/70"><X size={16} /></button>
+          <button aria-label={t.back} onClick={goToMap} className="w-9 h-9 flex items-center justify-center rounded-full bg-white/10 text-white/70"><X size={16} /></button>
           <div className="text-center">
             <h2 className="font-black text-white text-base">{activeIsland.icon} {activeIsland.name[lang as Lang] ?? activeIsland.name.ro}</h2>
             {totalStars > 0 && (
@@ -801,7 +826,7 @@ export default function AstroRomanaGradePage({ config }: { config: AstroRomanaGr
     <div className="min-h-screen flex flex-col relative overflow-hidden" style={{ background: `radial-gradient(ellipse at 50% 0%, ${bgColor}18 0%, #060614 55%)` }}>
       <Starfield />
       <div className="relative z-10 flex items-center gap-3 px-4 pt-5 pb-3">
-        <button onClick={() => setScreen("mission-select")} className="w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70"><X size={14} /></button>
+        <button aria-label={t.back} onClick={() => setScreen("mission-select")} className="w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70"><X size={14} /></button>
         <div className="flex-1">
           <p className="text-white/70 text-xs font-bold">{activeIsland?.icon} {activeIsland?.name[lang as Lang] ?? activeIsland?.name.ro}</p>
           <p className="text-white/50 text-[10px]">{activeMission?.label[lang as Lang] ?? activeMission?.label.ro}</p>
@@ -845,11 +870,33 @@ export default function AstroRomanaGradePage({ config }: { config: AstroRomanaGr
         {screen === "romana-explore" && activeIsland && (
           <ExplorerComponent island={activeIsland} grade={config.grade} color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
+        {screen === "m2" && activeMission?.gameKey && ROMANA_M2_POOLS[activeMission.gameKey] && (
+          <M2Engine
+            gameKey={activeMission.gameKey}
+            rounds={ROMANA_M2_POOLS[activeMission.gameKey]}
+            color={bgColor}
+            lang={lang as any}
+            onDone={handleMissionDone}
+            onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }}
+            onWrong={() => setAvatarMood("disappointed")}
+          />
+        )}
+        {screen === "m3" && activeMission?.gameKey && ROMANA_M3_POOLS[activeMission.gameKey] && (
+          <M3Engine
+            gameKey={activeMission.gameKey}
+            rounds={ROMANA_M3_POOLS[activeMission.gameKey]}
+            color={bgColor}
+            lang={lang as any}
+            onDone={handleMissionDone}
+            onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }}
+            onWrong={() => setAvatarMood("disappointed")}
+          />
+        )}
       </div>
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "star-match", "gravity-sort", "speed-round", "romana-explore"].includes(screen)) {
+  if (["orbit-quiz", "black-hole", "star-match", "gravity-sort", "speed-round", "romana-explore", "m2", "m3"].includes(screen)) {
     return (
       <>
         {gameScreen}
@@ -864,7 +911,7 @@ export default function AstroRomanaGradePage({ config }: { config: AstroRomanaGr
         <div className="min-h-screen flex flex-col relative overflow-hidden" style={{ background: "radial-gradient(ellipse at 50% 0%, rgba(255,165,0,0.18) 0%, #060614 55%)" }}>
           <Starfield />
           <div className="relative z-10 flex items-center gap-3 px-4 pt-5 pb-3">
-            <button onClick={goToMap} className="w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70"><X size={14} /></button>
+            <button aria-label={t.back} onClick={goToMap} className="w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70"><X size={14} /></button>
             <div className="flex-1">
               <p className="text-white font-black text-sm">{t.rocketTitle}</p>
               <p className="text-white/50 text-[10px]">{t.rocketDesc}</p>
@@ -948,7 +995,7 @@ export default function AstroRomanaGradePage({ config }: { config: AstroRomanaGr
       <div className="min-h-screen flex flex-col items-center justify-center relative overflow-hidden px-5 gap-6" style={{ background: "radial-gradient(ellipse at 50% 30%, rgba(255,215,0,0.12) 0%, #060614 60%)" }}>
         <Starfield />
         <div className="relative z-10 flex flex-col items-center gap-5 text-center w-full max-w-sm">
-          <button onClick={goToMap} className="absolute top-0 right-0 w-9 h-9 flex items-center justify-center rounded-full bg-white/10 text-white/70"><X size={16} /></button>
+          <button aria-label={t.back} onClick={goToMap} className="absolute top-0 right-0 w-9 h-9 flex items-center justify-center rounded-full bg-white/10 text-white/70"><X size={16} /></button>
           <motion.div className="text-6xl" animate={{ rotate: [0, -5, 5, 0] }} transition={{ duration: 2, repeat: Infinity }}>🎓</motion.div>
           <div>
             <h2 className="text-2xl font-black text-[#FFD700]">{t.checkpointReady}</h2>
@@ -969,7 +1016,7 @@ export default function AstroRomanaGradePage({ config }: { config: AstroRomanaGr
         <div className="min-h-screen flex flex-col relative overflow-hidden" style={{ background: "radial-gradient(ellipse at 50% 0%, rgba(255,215,0,0.12) 0%, #060614 55%)" }}>
           <Starfield />
           <div className="relative z-10 flex items-center gap-3 px-4 pt-5 pb-3">
-            <button onClick={goToMap} className="w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70"><X size={14} /></button>
+            <button aria-label={t.back} onClick={goToMap} className="w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70"><X size={14} /></button>
             <p className="text-white/70 text-sm font-bold flex-1">{t.checkpointTitle}</p>
           </div>
           <div className="relative z-10 flex-1 flex flex-col justify-center px-4 pb-6">

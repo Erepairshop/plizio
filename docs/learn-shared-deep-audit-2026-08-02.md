@@ -80,3 +80,28 @@ Sachkunde is intentionally live only for grades K1-K4. Internal K5-K8 material m
 1. Run a desktop/mobile visual smoke in a working preview or deployment environment.
 2. If national Geography curricula are required later, add explicit country datasets before exposing a country selector.
 3. The new country-history explorer is functional but visually simpler than the generic `DynamicExplorer`; enriching it is optional UI work, not a routing blocker.
+
+## Wave 2 - language and science routes
+
+The second five-worker wave covered AstroDeutsch, AstroRomana/Romanian Test,
+AstroKemia/Kemia Test, AstroPhysik/Physik Test and AstroEnglish/English Test.
+
+- AstroDeutsch K1-K8 map checkpoints and islands are keyboard accessible and expose localized state labels.
+- AstroRomana K5-K8 now use the shared grade shell instead of four duplicated thousand-line pages. The shared shell retains explorer, M2/M3, checkpoint and progress behavior. Generated Romanian curriculum questions now supply formerly empty upper-grade islands and checkpoints.
+- AstroKemia SVG defaults now match the live German route, repeated SVG instances use scoped gradient IDs, and K5-K8 structured data says `Klasse` rather than `Grade`.
+- AstroPhysik K5-K8 generator calls use German consistently. K8 energy/communication gained missing curriculum aliases and typing rounds, and German slots no longer contain Hungarian text in that module.
+- AstroEnglish K1-K2 generator-backed explorer quizzes are now resolved by subject and grade. Legacy pool keys are mapped explicitly, and the missing K2 antonym MCQ generator was implemented rather than redirected to unrelated content.
+
+Wave 2 validation:
+
+- `node scripts/check-english-pools.mjs`: PASS, 1080 topics.
+- `npx tsx scripts/audit-astroenglish-generators.mts`: PASS, all 37 referenced generator keys resolve and return valid MCQs.
+- `npx tsx scripts/audit-astroromana.mts`: PASS.
+- `npx tsx scripts/audit-astrokemia.mts`: PASS.
+- `npx tsx scripts/audit-astrophysik.mts`: PASS; remaining language-signal findings are warnings, not empty/broken generators.
+- Focused TypeScript/TSX transpile: PASS for all Wave 2 runtime files.
+
+Further deep-audit waves still need to cover the remaining route families, especially
+AstroMagyar/Magyar Test and a final visual browser smoke of every live grade. Existing
+shared Math, Biology, Geography, History, Sachkunde and AI/Informatics checks remain
+green, but this does not replace route-by-route visual testing.
