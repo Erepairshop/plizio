@@ -360,6 +360,20 @@ Nem váltja ki a `CLAUDE.md`-t, hanem gyors képbehozásra szolgál.
   Az aktualis POI-ra korlatozott cache nem halmoz memoriat; 1000 POI-s VPS meresen
   4641 HTML keszult 22,5 masodperc alatt, kb. 206 fajl/s sebesseggel.
 
+## Jamestown/Yorktown POI-kepek - 2026-08-03
+
+- A `jamestown-settlement-history-v2` es `yorktown-battlefield-history-v2` byte-ra
+  azonos, kezzel rajzolt tortenelmi terkepet hasznalt; regi SHA-256:
+  `764273aaa1c4588112ebc465635a536639b30aee0725bc41ed2562e58dea8af5`.
+- Celozott, Azure `high` detail audit utan Jamestown a Historic Jamestowne folyoparti
+  regeszeti alapfalainak Commons-fotojat kapta (0,86; CC BY-SA 2.0), Yorktown pedig a
+  Yorktown Victory Monument fotojat (0,90; Aude, CC BY-SA 2.5).
+- Az uj kepek verziozott `*-photo-20260803.webp` nevet hasznalnak, mert a regi URL-eket
+  a Cloudflare egy evig `immutable` modon cache-elte. Azonos URL-en torteno csere nem eleg.
+- A jovobeli Azure kepaudit `high` detail modban fut, es explicit tiltja az antik vagy
+  kezzel rajzolt terkepet, festmenyt, metszetet es mas nem fotografikus illusztraciot.
+- VPS auditnaplo: `/home/erik/plizio-audits/azure-refetch-test/targeted-jamestown-yorktown-20260803/`.
+
 ## Postcard stilusmotor - 2026-08-02
 
 - A regi, csak szinben eltero temak helyett ot onallo Canvas-layout van:

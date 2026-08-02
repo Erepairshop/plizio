@@ -2979,7 +2979,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       hu: "Jamestowni település",
       ro: "Așezarea Jamestown",
       en: "Jamestown Settlement"},
-    image: "/poi-images/jamestown-settlement-history-v2.webp",
+    image: "/poi-images/jamestown-settlement-history-v2-photo-20260803.webp",
     description: {
       de: "Die erste dauerhafte englische Kolonie in Nordamerika, gegründet 1607.",
       hu: "Az első állandó angol gyarmat Észak-Amerikában, 1607-ben alapították.",
@@ -2997,7 +2997,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       es: ["Fundada por la Compañía de Virginia de Londres", "Capital de la colonia de Virginia durante 83 años", "Lugar de muchos conflictos con los indios Powhatan", "Lugar clave en la historia estadounidense"],
       pt: ["Fundada pela Companhia de Virgínia de Londres", "Capital da colónia da Virgínia durante 83 anos", "Local de muitos conflitos com os índios Powhatan", "Local fundamental na história americana"],
       fr: ["Fondée par la Virginia Company de Londres", "Capitale de la colonie de Virginie pendant 83 ans", "Lieu de nombreux conflits avec les Powhatans", "Site historique majeur des États-Unis"],
-    }, image: "/poi-images/jamestown-settlement-history-v2.webp",
+    }, image: "/poi-images/jamestown-settlement-history-v2-photo-20260803.webp",
     descriptionAdvanced: {
       de: "Das Jamestown Settlement in Virginia war die erste dauerhaft erfolgreiche englische Kolonie auf dem nordamerikanischen Kontinent, gegründet im Jahr 1607 von der Virginia Company of London. Die frühen Jahre der auf einer sumpfigen Insel liegenden Siedlung waren geprägt von katastrophalen Misserfolgen, Krankheiten, Konflikten mit der indigenen Powhatan-Konföderation und einer schrecklichen Hungerperiode ('Starving Time'). Das Überleben der Kolonie wurde maßgeblich durch die strenge Führung von John Smith und die spätere Einführung des extrem lukrativen Tabakanbaus durch John Rolfe gesichert. 1619 traf hier zudem das erste Schiff mit versklavten Afrikanern in Nordamerika ein, was den düsteren Beginn der institutionellen Sklaverei in den englischen Kolonien markierte. Geschichte K8 â€” Das Überleben der ersten englischen Siedler und der Tabakanbau.",
       hu: "A virginiai Jamestown volt az első sikeres és tartós angol település az észak-amerikai kontinensen, amelyet 1607-ben alapítottak egy mocsaras félszigeten a James folyó partján. A telepesek elsődleges célja az aranykeresés volt a befektetők (Virginia Company) számára, ami majdnem a kolónia teljes pusztulásához vezetett az éhezés, a betegségek és a póheten (powhatan) indiánokkal vívott konfliktusok miatt. A kolóniát John Smith kapitány kemény keze, majd a dohánytermesztés bevezetése (John Rolfe révén) mentette meg a teljes kudarctól. Jamestown volt az első helyszíne mind a képviseleti demokráciának (1619), mind pedig az első afrikai rabszolgák érkezésének Észak-Amerikában. Történelem K7 â€” a korai angol gyarmatosítás és a dohánytermesztés.",
@@ -7995,7 +7995,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       hu: "Yorktowni csatatér",
       ro: "Câmpul de luptă de la Yorktown",
       en: "Yorktown Battlefield"},
-    image: "/poi-images/yorktown-battlefield-history-v2.webp",
+    image: "/poi-images/yorktown-battlefield-history-v2-photo-20260803.webp",
     description: {
       de: "Der Ort der entscheidenden Schlacht des Amerikanischen Unabhängigkeitskrieges im Jahr 1781.",
       hu: "Az amerikai függetlenségi háború döntő csatájának helyszíne 1781-ben.",
@@ -8013,7 +8013,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       es: ["Capitulación del General Cornwallis", "Aseguró la independencia estadounidense", "Victoria conjunta de fuerzas americanas y francesas", "Parte del Colonial National Historical Park"],
       pt: ["Rendição do General Cornwallis", "Assegurou a independência americana", "Vitória conjunta das forças americanas e francesas", "Parte do Colonial National Historical Park"],
       fr: ["Capitulation du général Cornwallis", "A assuré l'indépendance américaine", "Victoire conjointe des forces américaines et françaises", "Fait partie du Colonial National Historical Park"],
-    }, image: "/poi-images/yorktown-battlefield-history-v2.webp",
+    }, image: "/poi-images/yorktown-battlefield-history-v2-photo-20260803.webp",
     descriptionAdvanced: {
       de: "Das Yorktown Battlefield in Virginia ist der Schauplatz des entscheidenden Sieges der amerikanisch-französischen Streitkräfte über die britische Armee im Jahr 1781. Unter der Führung von General George Washington und dem französischen Grafen de Rochambeau begann Ende September die Belagerung der Stadt, in der sich Lord Cornwallis verschanzt hatte. Nach wochenlangen Kämpfen und der strategischen Blockade durch die französische Flotte in der Schlacht von Chesapeake musste Cornwallis am 19. Oktober 1781 kapitulieren. Dieser Sieg markierte das Ende der größeren Kampfhandlungen im Amerikanischen Unabhängigkeitskrieg und führte schließlich zum Frieden von Paris im Jahr 1783. Heute ist das Schlachtfeld Teil des Colonial National Historical Park und bewahrt die ursprünglichen Erdbefestigungen, Schützengräben und Kanonenstellungen. Besucher können auf geführten Touren die Schauplätze der Redouten 9 und 10 besichtigen, die für den Durchbruch entscheidend waren. Das Yorktown Victory Monument erinnert an das Bündnis zwischen den USA und Frankreich, das die Unabhängigkeit sicherte.",
       hu: "A virginiai Yorktown Battlefield az amerikai függetlenségi háború sorsdöntő helyszíne, ahol 1781-ben az amerikai és francia csapatok döntő győzelmet arattak a brit hadsereg felett. George Washington tábornok és a francia Rochambeau gróf vezetésével szeptember végén vette kezdetét a város ostroma, ahol Lord Cornwallis csapatai kerestek menedéket. A hetekig tartó harcok és a francia flotta által a Chesapeake-öbölben fenntartott tengeri blokád után Cornwallis 1781. október 19-én kénytelen volt letenni a fegyvert. Ez a győzelem gyakorlatilag véget vetett a nagyobb katonai műveleteknek az észak-amerikai földrészen, és elvezetett az 1783-as párizsi békéhez. Napjainkban a csatatér a Colonial National Historical Park része, ahol megőrizték az eredeti földsáncokat, lövészárkokat és ágyúállásokat. A látogatók bejárhatják a stratégiai fontosságú 9-es és 10-es számú redutokat, amelyek elfoglalása megnyitotta az utat a végső roham előtt. A helyszínen álló Yorktown Victory Monument az amerikai-francia szövetség és a kivívott szabadság örök emlékműve.",
