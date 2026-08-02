@@ -36,6 +36,106 @@ const makeIslandLabels = (topics: ChemTopic[]): Record<string, Record<string, st
   return labels;
 };
 
+const prefixTopicLabelKey = (topicId: string, key?: string): string | undefined => (
+  key ? `${topicId}_${key}` : key
+);
+
+const prefixInteractiveLabels = (topicId: string, interactive: PoolTopicDef["interactive"]): PoolTopicDef["interactive"] => {
+  const prefixedBase = {
+    ...interactive,
+    instruction: prefixTopicLabelKey(topicId, interactive.instruction),
+    hint1: prefixTopicLabelKey(topicId, interactive.hint1),
+    hint2: prefixTopicLabelKey(topicId, interactive.hint2),
+  };
+
+  switch (prefixedBase.type) {
+    case "word-order":
+    case "physics-stacker":
+      return {
+        ...prefixedBase,
+        words: prefixedBase.words.map((word) => prefixTopicLabelKey(topicId, word)),
+      };
+    case "gap-fill":
+      return {
+        ...prefixedBase,
+        sentence: prefixTopicLabelKey(topicId, prefixedBase.sentence),
+        choices: prefixedBase.choices.map((choice) => prefixTopicLabelKey(topicId, choice)),
+      };
+    case "drag-to-bucket":
+      return {
+        ...prefixedBase,
+        buckets: prefixedBase.buckets.map((bucket) => ({
+          ...bucket,
+          label: prefixTopicLabelKey(topicId, bucket.label),
+        })),
+        items: prefixedBase.items.map((item) => ({
+          ...item,
+          text: prefixTopicLabelKey(topicId, item.text),
+        })),
+      };
+    case "sentence-build":
+      return {
+        ...prefixedBase,
+        fragments: prefixedBase.fragments.map((fragment) => prefixTopicLabelKey(topicId, fragment)),
+      };
+    case "match-pairs":
+    case "physics-magnet":
+      return {
+        ...prefixedBase,
+        pairs: prefixedBase.pairs.map((pair) => ({
+          ...pair,
+          left: prefixTopicLabelKey(topicId, pair.left),
+          right: prefixTopicLabelKey(topicId, pair.right),
+        })),
+      };
+    case "highlight-text":
+      return {
+        ...prefixedBase,
+        tokens: prefixedBase.tokens.map((token) => prefixTopicLabelKey(topicId, token)),
+      };
+    case "label-diagram":
+      return {
+        ...prefixedBase,
+        areas: prefixedBase.areas.map((area) => ({
+          ...area,
+          label: prefixTopicLabelKey(topicId, area.label),
+        })),
+      };
+    case "physics-bucket":
+      if ("buckets" in prefixedBase) {
+        return {
+          ...prefixedBase,
+          buckets: prefixedBase.buckets.map((bucket) => ({
+            ...bucket,
+            label: prefixTopicLabelKey(topicId, bucket.label),
+          })),
+          items: prefixedBase.items.map((item) => ({
+            ...item,
+            text: prefixTopicLabelKey(topicId, item.text),
+          })),
+        };
+      }
+
+      return {
+        ...prefixedBase,
+        bucket1: prefixTopicLabelKey(topicId, prefixedBase.bucket1),
+        bucket2: prefixTopicLabelKey(topicId, prefixedBase.bucket2),
+        items: prefixedBase.items.map((item) => prefixTopicLabelKey(topicId, item)),
+      };
+    case "physics-slingshot":
+      return {
+        ...prefixedBase,
+        question: prefixTopicLabelKey(topicId, prefixedBase.question),
+        targets: prefixedBase.targets.map((target) => ({
+          ...target,
+          text: prefixTopicLabelKey(topicId, target.text),
+        })),
+      };
+    default:
+      return prefixedBase;
+  }
+};
+
 const makePool = (topics: ChemTopic[]): PoolTopicDef[] =>
   topics.map((topic) => ({
     difficulty: topic.difficulty,
@@ -43,7 +143,7 @@ const makePool = (topics: ChemTopic[]): PoolTopicDef[] =>
     infoText: `${topic.id}_text`,
     svg: topic.svg,
     hintKey: `${topic.id}_h1`,
-    interactive: topic.interactive,
+    interactive: prefixInteractiveLabels(topic.id, topic.interactive),
     quiz: topic.quiz,
   }));
 

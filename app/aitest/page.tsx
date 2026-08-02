@@ -1,11 +1,11 @@
 "use client";
 
-import { LanguageTestEngine } from "@/app/deutschtest/page";
+import { LanguageTestEngine, calculateCountryAwareMark } from "@/app/deutschtest/page";
 import { AI_K5_CURRICULUM, getAIK5Questions } from "@/lib/aiCurriculum5";
 import { AI_K6_CURRICULUM, getAIK6Questions } from "@/lib/aiCurriculum6";
 import { AI_K7_CURRICULUM, getAIK7Questions } from "@/lib/aiCurriculum7";
 import { AI_K8_CURRICULUM, getAIK8Questions } from "@/lib/aiCurriculum8";
-import { asCurriculumThemes, calculateKemiaMark } from "@/lib/kemiaCurriculumShared";
+import { asCurriculumThemes } from "@/lib/kemiaCurriculumShared";
 import type { LanguageTestEngineConfig } from "@/lib/languageTestTypes";
 
 const AI_CHARS = ["🤖", "🧠", "💬", "⚖️", "🛠️", "🚀", "📊", "🔒", "💡", "📡", "🔋"];
@@ -39,7 +39,7 @@ const AI_CONFIG: LanguageTestEngineConfig = {
     { code: "AT", flag: "🇦🇹", label: "Österreich", sub: "Note 1–5" },
     { code: "CH", flag: "🇨🇭", label: "Schweiz", sub: "Note 6–1" },
   ],
-  calculateMark: (pct) => calculateKemiaMark(pct),
+  calculateMark: calculateCountryAwareMark,
 
   curriculum: {
     5: asCurriculumThemes(AI_K5_CURRICULUM),
@@ -48,11 +48,24 @@ const AI_CONFIG: LanguageTestEngineConfig = {
     8: asCurriculumThemes(AI_K8_CURRICULUM),
   },
 
-  getQuestions: (grade, subtopicIds, count) => {
-    if (grade === 5) return getAIK5Questions(subtopicIds, count);
-    if (grade === 6) return getAIK6Questions(subtopicIds, count);
-    if (grade === 7) return getAIK7Questions(subtopicIds, count);
-    return getAIK8Questions(subtopicIds, count);
+  getQuestions: (grade, subtopicIds, count, countryCode) => {
+    const lang =
+      countryCode === "HU"
+        ? "hu"
+        : countryCode === "RO"
+          ? "ro"
+          : countryCode === "US" ||
+              countryCode === "GB" ||
+              countryCode === "AU" ||
+              countryCode === "CA" ||
+              countryCode === "IE" ||
+              countryCode === "NZ"
+            ? "en"
+            : "de";
+    if (grade === 5) return getAIK5Questions(subtopicIds, count, lang);
+    if (grade === 6) return getAIK6Questions(subtopicIds, count, lang);
+    if (grade === 7) return getAIK7Questions(subtopicIds, count, lang);
+    return getAIK8Questions(subtopicIds, count, lang);
   },
 
   labels: {

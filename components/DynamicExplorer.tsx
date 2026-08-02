@@ -16,6 +16,8 @@ import { getRandomTopicsWithHistory } from "@/lib/explorerUtils";
 import { GENERATORS as DEUTSCH_GENERATORS } from "@/lib/deutschGenerators";
 import { K5_Generators } from "@/lib/biologieGenerators";
 import { K6_Generators } from "@/lib/biologieGenerators6";
+import { K7_Generators } from "@/lib/biologieGenerators7";
+import { K8_Generators } from "@/lib/biologieGenerators8";
 import { G1_Generators_Hungarian } from "@/lib/hungarianGenerators";
 import { G2_Generators_Hungarian } from "@/lib/hungarianGenerators2";
 import { G3_Generators_Hungarian } from "@/lib/hungarianGenerators3";
@@ -101,10 +103,11 @@ Object.entries(K5_Generators).forEach(([cat, subs]) => {
     BIO_GENERATORS[`${cat}_${sub}`] = gen;
   });
 });
-// Register K6_Generators directly (flat structure, not nested like K5)
-// Keys are used directly: "arthropods", "insects", "blood_components", etc.
-Object.entries(K6_Generators).forEach(([key, gen]) => {
-  BIO_GENERATORS[key] = gen as () => any;
+// Register K6-K8 generators directly (flat structure, not nested like K5).
+[K6_Generators, K7_Generators, K8_Generators].forEach((gradeMap) => {
+  Object.entries(gradeMap).forEach(([key, gen]) => {
+    BIO_GENERATORS[key] = gen as () => any;
+  });
 });
 
 [K5_GENERATOR_MAP, K6_GENERATOR_MAP, K7_GENERATOR_MAP, K8_GENERATOR_MAP].forEach((gradeMap) => {

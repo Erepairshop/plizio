@@ -114,7 +114,7 @@ export const G8_ISLANDS: IslandDef[] = [
     topicKeys: ["g8_stat_mean", "g8_stat_median", "g8_stat_mode", "g8_stat_range"],
     missions: [
       { id: "m1", category: "explore",   gameType: "stat-explorer",         icon: "🔍", label: { en: "Discover Statistics",  hu: "Statisztika felfedezése", de: "Statistik entdecken",         ro: "Descoperă statistica"     } },
-      { id: "m2", category: "build",     gameType: "m2", gameKey: "true-false-blitz",    icon: "🥫", label: { en: "Cylinder Surface",     hu: "Henger felszín",          de: "Zylinderoberfläche",          ro: "Suprafața cilindrului"    }, visualType: "cylinder-surface" },
+      { id: "m2", category: "build",     gameType: "visual-challenge", icon: "🥫", label: { en: "Cylinder Surface",     hu: "Henger felszín",          de: "Zylinderoberfläche",          ro: "Suprafața cilindrului"    }, visualType: "cylinder-surface" },
       { id: "m3", category: "challenge", gameType: "m3", gameKey: "fill-blank",         icon: "⚡", label: { en: "Speed Round",           hu: "Gyors kör",               de: "Speedrunde",                  ro: "Rundă rapidă"             } },
     ],
     svgX: 230, svgY: 55,
@@ -126,7 +126,7 @@ export const G8_ISLANDS: IslandDef[] = [
     topicKeys: ["g8_trans_translate", "g8_trans_reflectX", "g8_trans_reflectY", "g8_trans_rotate"],
     missions: [
       { id: "m1", category: "explore",   gameType: "transform-explorer",  icon: "🔍", label: { en: "Discover Transformations",  hu: "Transzformációk felfedezése", de: "Transformationen entdecken", ro: "Descoperă transformările" } },
-      { id: "m2", category: "build",     gameType: "m2", gameKey: "word-chain",   icon: "🔄", label: { en: "Transform Practice",   hu: "Transzformáció gyakorlás",    de: "Transformation üben",        ro: "Practică transformări"    }, visualType: "transformation" },
+      { id: "m2", category: "build",     gameType: "visual-challenge", icon: "🔄", label: { en: "Transform Practice",   hu: "Transzformáció gyakorlás",    de: "Transformation üben",        ro: "Practică transformări"    }, visualType: "transformation" },
       { id: "m3", category: "challenge", gameType: "m3", gameKey: "mcq4-explanation",         icon: "🕳️", label: { en: "Black Hole",            hu: "Fekete lyuk",                 de: "Schwarzes Loch",             ro: "Gaura neagră"             } },
     ],
     svgX: 80, svgY: -20,

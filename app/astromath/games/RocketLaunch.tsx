@@ -1,5 +1,5 @@
 "use client";
-import { memo, useState, useEffect, useCallback, useMemo, useRef } from "react";
+import { memo, useState, useCallback, useMemo, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 import { useLang } from "@/components/LanguageProvider";
@@ -8,7 +8,6 @@ import { T } from "@/app/astromath/games/translations";
 import type { MathQuestion } from "@/lib/mathCurriculum";
 
 const ROCKET_ROUNDS = 7;
-const ROCKET_TIME = 5; // seconds per question
 
 const RocketLaunch = memo(function RocketLaunch({ questions, color, onDone }: {
   questions: MathQuestion[]; color: string; onDone: (score: number, total: number) => void;
@@ -16,8 +15,7 @@ const RocketLaunch = memo(function RocketLaunch({ questions, color, onDone }: {
   const { lang } = useLang();
   const t = T[lang as keyof typeof T] ?? T.en;
   const [idx, setIdx] = useState(0);
-  const [timeLeft, setTimeLeft] = useState(ROCKET_TIME);
-  const [answered, setAnswered] = useState<"correct" | "wrong" | "timeout" | null>(null);
+  const [answered, setAnswered] = useState<"correct" | "wrong" | null>(null);
   const [fuelFilled, setFuelFilled] = useState(0);
   const [done, setDone] = useState(false);
   const [tappedOpt, setTappedOpt] = useState<string | null>(null);
@@ -37,15 +35,7 @@ const RocketLaunch = memo(function RocketLaunch({ questions, color, onDone }: {
     return Math.random() > 0.5 ? [correct, wrong] : [wrong, correct];
   }, [idx, q]); // eslint-disable-line react-hooks/exhaustive-deps
 
-  // Timer
-  useEffect(() => {
-    if (answered || done) return;
-    if (timeLeft <= 0) { advance("timeout"); return; }
-    const id = setTimeout(() => setTimeLeft((t) => t - 0.05), 50);
-    return () => clearTimeout(id);
-  }, [timeLeft, answered, done]); // eslint-disable-line react-hooks/exhaustive-deps
-
-  const advance = useCallback((result: "correct" | "wrong" | "timeout") => {
+  const advance = useCallback((result: "correct" | "wrong") => {
     if (lockRef.current) return;
     lockRef.current = true;
     setAnswered(result);
@@ -59,7 +49,6 @@ const RocketLaunch = memo(function RocketLaunch({ questions, color, onDone }: {
         setDone(true);
       } else {
         setIdx(nextIdx);
-        setTimeLeft(ROCKET_TIME);
         setAnswered(null);
         setTappedOpt(null);
         lockRef.current = false;
@@ -104,8 +93,6 @@ const RocketLaunch = memo(function RocketLaunch({ questions, color, onDone }: {
   }
 
   if (!q) return null;
-  const timePct = (timeLeft / ROCKET_TIME) * 100;
-  const timerColor = timePct > 50 ? "#00FF88" : timePct > 25 ? "#FFD700" : "#FF4444";
 
   return (
     <div className="flex flex-col gap-4 w-full max-w-sm mx-auto items-center">
@@ -117,12 +104,6 @@ const RocketLaunch = memo(function RocketLaunch({ questions, color, onDone }: {
             style={{ width: `${(fuelFilled / ROCKET_ROUNDS) * 100}%`, background: `linear-gradient(90deg, ${color}, #00FF88)` }} />
         </div>
         <span className="text-white/50 text-xs font-bold">{fuelFilled}/{ROCKET_ROUNDS}</span>
-      </div>
-
-      {/* Timer bar */}
-      <div className="w-full h-2 bg-white/10 rounded-full overflow-hidden">
-        <motion.div className="h-full rounded-full transition-colors"
-          style={{ width: `${timePct}%`, background: timerColor }} />
       </div>
 
       {/* Question */}
@@ -160,16 +141,12 @@ const RocketLaunch = memo(function RocketLaunch({ questions, color, onDone }: {
 
       {/* Feedback flash */}
       <AnimatePresence>
-        {answered && answered !== "timeout" && (
+        {answered && (
           <motion.div initial={{ opacity: 0, scale: 0.7 }} animate={{ opacity: 1, scale: 1 }}
             className="text-xl font-black"
             style={{ color: answered === "correct" ? "#00FF88" : "#FF6666" }}>
             {answered === "correct" ? "⚡ " + t.correct : "✗ " + t.wrong}
           </motion.div>
-        )}
-        {answered === "timeout" && (
-          <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }}
-            className="text-xl font-black text-white/40">⏱</motion.div>
         )}
       </AnimatePresence>
 

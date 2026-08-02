@@ -1,5 +1,5 @@
 "use client";
-// SpeedRound — timed quiz using QuizEngine with timer config
+
 import { memo, useMemo } from "react";
 import QuizEngine from "@/components/QuizEngine";
 import type { QuizQuestion } from "@/components/QuizEngine";
@@ -14,9 +14,11 @@ function toQuizQuestions(mqs: MathQuestion[]): QuizQuestion[] {
 }
 
 const SpeedRound = memo(function SpeedRound({ questions, color, onDone, onCorrect, onWrong, lang = "en" }: {
-  questions: MathQuestion[]; color: string;
+  questions: MathQuestion[];
+  color: string;
   onDone: (score: number, total: number) => void;
-  onCorrect?: () => void; onWrong?: () => void;
+  onCorrect?: () => void;
+  onWrong?: () => void;
   lang?: string;
 }) {
   const quizQs = useMemo(() => toQuizQuestions(questions), [questions]);
@@ -30,7 +32,6 @@ const SpeedRound = memo(function SpeedRound({ questions, color, onDone, onCorrec
       onWrong={onWrong}
       lang={lang}
       config={{
-        timer: 11,
         showStreak: true,
         showScore: true,
         particles: true,

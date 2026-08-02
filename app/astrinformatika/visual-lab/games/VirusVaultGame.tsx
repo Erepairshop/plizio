@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect, useRef, useMemo } from "react";
+import { useState, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import type { TippSturmRound, Language } from "@/lib/visualLab/languageTypes";
 
@@ -54,7 +54,6 @@ export default function VirusVaultGame({
   const t = T[lang] ?? T.de;
 
   const [phase, setPhase] = useState<Phase>("flash");
-  const [timeLeft, setTimeLeft] = useState(round.flashDuration);
   const [selected, setSelected] = useState<Set<string>>(new Set());
   const [done, setDone] = useState(false);
   const [finalScore, setFinalScore] = useState(0);
@@ -64,24 +63,6 @@ export default function VirusVaultGame({
     const decoys = generateDecoys(originals);
     return shuffle([...originals, ...decoys]);
   }, [round.id]);
-
-  const timerRef = useRef<ReturnType<typeof setInterval> | null>(null);
-
-  useEffect(() => {
-    if (phase !== "flash") return;
-    const interval = 100;
-    timerRef.current = setInterval(() => {
-      setTimeLeft((prev) => {
-        if (prev <= interval) {
-          clearInterval(timerRef.current!);
-          setPhase("select");
-          return 0;
-        }
-        return prev - interval;
-      });
-    }, interval);
-    return () => { if (timerRef.current) clearInterval(timerRef.current); };
-  }, [phase]);
 
   const toggleSelect = (item: string) => {
     if (phase !== "select") return;
@@ -107,8 +88,6 @@ export default function VirusVaultGame({
     setPhase("result");
     onDone?.(score);
   };
-
-  const pct = timeLeft / round.flashDuration;
 
   return (
     <div className="relative w-full h-[500px] rounded-xl overflow-hidden flex flex-col" style={{ background: "#150505" }}>
@@ -136,18 +115,6 @@ export default function VirusVaultGame({
         <div className="bg-black/60 px-3 py-1 rounded-full border border-red-400/20 text-xs font-mono text-red-300/70">
           {phase === "flash" ? t.memorize : phase === "select" ? t.pick : t.done}
         </div>
-        {phase === "flash" && (
-          <div className="flex items-center gap-2">
-            <div className="w-24 h-2 bg-black/50 rounded-full border border-red-400/20 overflow-hidden">
-              <motion.div
-                className="h-full rounded-full"
-                style={{ background: "#f87171", width: `${pct * 100}%` }}
-                animate={{ width: `${pct * 100}%` }}
-                transition={{ duration: 0.1 }}
-              />
-            </div>
-          </div>
-        )}
         {phase !== "flash" && (
           <div className="bg-black/60 px-3 py-1 rounded-full border border-red-400/20 text-xs font-mono">
             <span className="text-red-400/50 mr-1">{t.score}</span>
@@ -229,6 +196,25 @@ export default function VirusVaultGame({
           </div>
         )}
       </div>
+
+      {phase === "flash" && (
+        <div className="relative z-20 shrink-0 px-3 pb-4">
+          <motion.button
+            onClick={() => setPhase("select")}
+            className="w-full h-[52px] rounded-xl border-2 font-black text-lg font-mono uppercase tracking-widest"
+            style={{
+              background: "rgba(21,5,5,0.85)",
+              borderColor: "#f87171",
+              color: "#fca5a5",
+              boxShadow: "0 0 16px rgba(248,113,113,0.4)",
+            }}
+            whileHover={{ scale: 1.02, boxShadow: "0 0 28px rgba(248,113,113,0.6)" }}
+            whileTap={{ scale: 0.97 }}
+          >
+            {t.select}
+          </motion.button>
+        </div>
+      )}
 
       {/* Confirm button */}
       {phase === "select" && (

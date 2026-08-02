@@ -57,7 +57,7 @@ export const BIO_K5_ISLANDS: IslandDef[] = [
     icon: "🦎", color: "#45A049", sortRange: [1, 10],
     topicKeys: ["reptile", "bird"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "reptile-explorer", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
+      { id: "m1", category: "explore",   gameType: "bio-explore", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
       { id: "m2", category: "build",     gameType: "m2", gameKey: "speed-match", icon: "🌪️", label: { en: "Practice", hu: "Gyakorlás", de: "Üben", ro: "Practică" } },
       { id: "m3", category: "challenge", gameType: "m3", gameKey: "fill-blank", icon: "🚀", label: { en: "Challenge", hu: "Kihívás", de: "Herausforderung", ro: "Provocare" } },
     ],
@@ -69,7 +69,7 @@ export const BIO_K5_ISLANDS: IslandDef[] = [
     icon: "🦊", color: "#388E3C", sortRange: [1, 10],
     topicKeys: ["mammal", "vertebrate_comparison"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "mammal-explorer", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
+      { id: "m1", category: "explore",   gameType: "bio-explore", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
       { id: "m2", category: "build",     gameType: "m2", gameKey: "true-false-blitz", icon: "🚀", label: { en: "Practice", hu: "Gyakorlás", de: "Üben", ro: "Practică" } },
       { id: "m3", category: "challenge", gameType: "m3", gameKey: "mcq4-explanation", icon: "⭐", label: { en: "Challenge", hu: "Kihívás", de: "Herausforderung", ro: "Provocare" } },
     ],
@@ -81,7 +81,7 @@ export const BIO_K5_ISLANDS: IslandDef[] = [
     icon: "🌱", color: "#2196F3", sortRange: [1, 10],
     topicKeys: ["plant_parts", "photosynthesis"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "plant-explorer", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
+      { id: "m1", category: "explore",   gameType: "bio-explore", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
       { id: "m2", category: "build",     gameType: "m2", gameKey: "word-chain", icon: "🚀", label: { en: "Practice", hu: "Gyakorlás", de: "Üben", ro: "Practică" } },
       { id: "m3", category: "challenge", gameType: "m3", gameKey: "sort-puzzle", icon: "🌪️", label: { en: "Challenge", hu: "Kihívás", de: "Herausforderung", ro: "Provocare" } },
     ],
@@ -93,7 +93,7 @@ export const BIO_K5_ISLANDS: IslandDef[] = [
     icon: "🌸", color: "#1565C0", sortRange: [1, 10],
     topicKeys: ["flower_structure", "plant_reproduction", "plant_types"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "flower-explorer", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
+      { id: "m1", category: "explore",   gameType: "bio-explore", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
       { id: "m2", category: "build",     gameType: "m2", gameKey: "category-rush", icon: "🕳️", label: { en: "Practice", hu: "Gyakorlás", de: "Üben", ro: "Practică" } },
       { id: "m3", category: "challenge", gameType: "m3", gameKey: "gap-fill-story", icon: "⭐", label: { en: "Challenge", hu: "Kihívás", de: "Herausforderung", ro: "Provocare" } },
     ],
@@ -105,7 +105,7 @@ export const BIO_K5_ISLANDS: IslandDef[] = [
     icon: "🦴", color: "#FF9800", sortRange: [1, 10],
     topicKeys: ["skeleton", "muscles", "skin"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "skeleton-explorer", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
+      { id: "m1", category: "explore",   gameType: "bio-explore", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
       { id: "m2", category: "build",     gameType: "m2", gameKey: "speed-match", icon: "⭐", label: { en: "Practice", hu: "Gyakorlás", de: "Üben", ro: "Practică" } },
       { id: "m3", category: "challenge", gameType: "m3", gameKey: "timeline-slider", icon: "🕳️", label: { en: "Challenge", hu: "Kihívás", de: "Herausforderung", ro: "Provocare" } },
     ],
@@ -117,7 +117,7 @@ export const BIO_K5_ISLANDS: IslandDef[] = [
     icon: "💪", color: "#F57C00", sortRange: [1, 10],
     topicKeys: ["body_systems"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "bodysystem-explorer", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
+      { id: "m1", category: "explore",   gameType: "bio-explore", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
       { id: "m2", category: "build",     gameType: "m2", gameKey: "true-false-blitz", icon: "🌪️", label: { en: "Practice", hu: "Gyakorlás", de: "Üben", ro: "Practică" } },
       { id: "m3", category: "challenge", gameType: "m3", gameKey: "fill-blank", icon: "🚀", label: { en: "Challenge", hu: "Kihívás", de: "Herausforderung", ro: "Provocare" } },
     ],
@@ -129,7 +129,7 @@ export const BIO_K5_ISLANDS: IslandDef[] = [
     icon: "👁️", color: "#E91E63", sortRange: [1, 10],
     topicKeys: ["eye", "ear", "nose", "tongue", "skin_sense"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "sense-explorer", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
+      { id: "m1", category: "explore",   gameType: "bio-explore", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
       { id: "m2", category: "build",     gameType: "m2", gameKey: "word-chain", icon: "🚀", label: { en: "Practice", hu: "Gyakorlás", de: "Üben", ro: "Practică" } },
       { id: "m3", category: "challenge", gameType: "m3", gameKey: "mcq4-explanation", icon: "🕳️", label: { en: "Challenge", hu: "Kihívás", de: "Herausforderung", ro: "Provocare" } },
     ],

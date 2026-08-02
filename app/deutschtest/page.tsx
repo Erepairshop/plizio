@@ -29,10 +29,12 @@ import {
   type DeutschTheme,
   type DeutschCountry,
 } from "@/lib/deutschCurriculum";
+import { calculateEnglishGrade } from "@/lib/englishCurriculum";
 import { getRandomPassage, type Lesepassage, type LeseQuestion } from "@/lib/deutschLesetest";
 import { generateForSubtopics } from "@/lib/deutschGenerators";
 import { checkAnswer } from "@/lib/deutschValidation";
 import { getUsername } from "@/lib/username";
+import { calculateRomanianGrade } from "@/lib/romanianCurriculum";
 import { InlineTeacherNote } from "@/components/TeacherNote";
 import GenusSortierung from "@/components/deutsch-visual/GenusSortierung";
 import SatzOrdnen from "@/components/deutsch-visual/SatzOrdnen";
@@ -52,7 +54,7 @@ import { genGenusSortierung, genSatzOrdnen, genBildBeschriften, genFehlerFinden,
 import { playCorrect, playIncorrect, playClick } from "@/lib/soundEffects";
 import { generateDeutschTestPdf } from "@/lib/generateDeutschTestPdf";
 import { speak as centralSpeak } from "@/lib/astromath-tts";
-import type { LanguageTestEngineConfig, VisualQuestionType } from "@/lib/languageTestTypes";
+import type { LanguageTestEngineConfig, TestGradeMark, VisualQuestionType } from "@/lib/languageTestTypes";
 
 // ─── TTS HELPER ──────────────────────────────────────────────────────────────
 // Delegates to central strict-voice helper — skips silently if no native voice
@@ -65,6 +67,243 @@ function speakText(text: string, ttsLang = "de-DE", _ttsRate?: number, _ttsPitch
 
 const DE_CHARS = ["A","B","C","Ä","Ö","Ü","ß","!","?",",",".",";","Z","W","R","S","T"];
 const DE_COLORS = ["#FFD700","#FF4444","#00D4FF","#FFFFFF","#B44DFF"];
+
+const DEFAULT_SUPPORTED_GRADES = [1, 2, 3, 4, 5, 6, 7, 8] as const;
+const ENGLISH_COUNTRY_CODES = new Set(["US", "GB", "AU", "CA", "IE", "NZ"]);
+const GERMAN_COUNTRY_CODES = new Set(["DE", "AT", "CH"]);
+const COUNTRY_LOCALES: Record<string, string> = {
+  DE: "de-DE",
+  AT: "de-AT",
+  CH: "de-CH",
+  HU: "hu-HU",
+  RO: "ro-RO",
+  US: "en-US",
+  GB: "en-GB",
+  AU: "en-AU",
+  CA: "en-CA",
+  IE: "en-IE",
+  NZ: "en-NZ",
+};
+const DEFAULT_LOCALE_BY_LANG: Record<string, string> = {
+  de: "de-DE",
+  en: "en-US",
+  hu: "hu-HU",
+  ro: "ro-RO",
+};
+
+function assertSourceInvariant(condition: unknown, message: string): asserts condition {
+  if (!condition) throw new Error(message);
+}
+
+function getCountryLangPrefix(countryCode: string): string | null {
+  if (ENGLISH_COUNTRY_CODES.has(countryCode)) return "en";
+  if (countryCode === "RO") return "ro";
+  if (countryCode === "HU") return "hu";
+  if (GERMAN_COUNTRY_CODES.has(countryCode)) return "de";
+  return null;
+}
+
+function calculateHungarianGrade(pct: number): TestGradeMark {
+  if (pct >= 87) return { note: "1", label: "Jeles", color: "#FFD700", emoji: "🌟" };
+  if (pct >= 73) return { note: "2", label: "Jó", color: "#00FF88", emoji: "😊" };
+  if (pct >= 57) return { note: "3", label: "Közepes", color: "#00D4FF", emoji: "🙂" };
+  if (pct >= 40) return { note: "4", label: "Elégséges", color: "#FF6B00", emoji: "😐" };
+  return { note: "5", label: "Elégtelen", color: "#FF4444", emoji: "😟" };
+}
+
+export function resolveCountryLocale(countryCode: string, fallbackLangOrLocale = "de-DE"): string {
+  if (COUNTRY_LOCALES[countryCode]) return COUNTRY_LOCALES[countryCode];
+  const fallbackLang = fallbackLangOrLocale.includes("-")
+    ? fallbackLangOrLocale.split("-")[0].toLowerCase()
+    : fallbackLangOrLocale.toLowerCase();
+  return DEFAULT_LOCALE_BY_LANG[fallbackLang] ?? fallbackLangOrLocale;
+}
+
+export function calculateCountryAwareMark(pct: number, countryCode: string): TestGradeMark {
+  if (ENGLISH_COUNTRY_CODES.has(countryCode)) return calculateEnglishGrade(pct, countryCode);
+  if (countryCode === "RO") return calculateRomanianGrade(pct, countryCode);
+  if (countryCode === "HU") return calculateHungarianGrade(pct);
+  const deutschMark = calculateDeutschMark(pct, (GERMAN_COUNTRY_CODES.has(countryCode) ? countryCode : "DE") as DeutschCountry);
+  return {
+    note: deutschMark.note,
+    label: deutschMark.label,
+    color: deutschMark.color,
+    emoji: deutschMark.emoji,
+  };
+}
+
+const PRINT_I18N = {
+  de: {
+    visualTypeLabels: {
+      "genus-sort": "Artikel bestimmen",
+      "satz-ordnen": "Satz ordnen",
+      "bild-beschriften": "Bild beschriften",
+      "fehler-finden": "Fehler finden",
+      "wortfamilien-baum": "Wortfamilie",
+      "geschichte-sortieren": "Geschichte ordnen",
+      "wortarten-sortieren": "Wortarten bestimmen",
+      "zeitformen-zuordnen": "Zeitform bestimmen",
+      "satzglied-markieren": "Satzglieder markieren",
+      "kasus-markieren": "Kasus bestimmen",
+      "adjektiv-endungen": "Adjektiv-Endung",
+      "luecken-text": "Lueckentext ergaenzen",
+      "satzgefuge-diagram": "Satzgefuege analysieren",
+      "epochen-zeitstrahl": "Epoche zuordnen",
+    },
+    wordTypesHint: "N = Nomen, V = Verb, A = Adjektiv",
+    tenseOptions: ["Praesens", "Praeteritum", "Perfekt"],
+    sentencePartsHint: "S = Subjekt, P = Praedikat, O = Objekt",
+    cases: ["Nominativ", "Akkusativ", "Dativ", "Genitiv"],
+    mainClause: "HS",
+    subClause: "NS",
+    conjunction: "Konjunktion",
+    hint: "Hinweis",
+    waterCycleOrder: "Ordne die Phasen des Wasserkreislaufs:",
+    orderPrompt: "In die richtige Reihenfolge bringen:",
+    vertebrate: "Wirbeltier",
+    invertebrate: "Wirbellos",
+    mammal: "Saeugetier",
+    bird: "Vogel",
+    fish: "Fisch",
+    reptile: "Reptil",
+    amphibian: "Amphibie",
+    diagram: "Diagramm",
+  },
+  en: {
+    visualTypeLabels: {
+      "genus-sort": "Determine article",
+      "satz-ordnen": "Arrange sentence",
+      "bild-beschriften": "Label picture",
+      "fehler-finden": "Find the error",
+      "wortfamilien-baum": "Word family",
+      "geschichte-sortieren": "Arrange story",
+      "wortarten-sortieren": "Sort word types",
+      "zeitformen-zuordnen": "Identify tense",
+      "satzglied-markieren": "Mark sentence parts",
+      "kasus-markieren": "Identify case",
+      "adjektiv-endungen": "Adjective ending",
+      "luecken-text": "Complete cloze text",
+      "satzgefuge-diagram": "Analyze clause structure",
+      "epochen-zeitstrahl": "Match literary period",
+    },
+    wordTypesHint: "N = Noun, V = Verb, A = Adjective",
+    tenseOptions: ["Present", "Preterite", "Perfect"],
+    sentencePartsHint: "S = Subject, P = Predicate, O = Object",
+    cases: ["Nominative", "Accusative", "Dative", "Genitive"],
+    mainClause: "Main clause",
+    subClause: "Subordinate clause",
+    conjunction: "Conjunction",
+    hint: "Hint",
+    waterCycleOrder: "Put the water cycle stages in order:",
+    orderPrompt: "Put in the correct order:",
+    vertebrate: "Vertebrate",
+    invertebrate: "Invertebrate",
+    mammal: "Mammal",
+    bird: "Bird",
+    fish: "Fish",
+    reptile: "Reptile",
+    amphibian: "Amphibian",
+    diagram: "Diagram",
+  },
+  hu: {
+    visualTypeLabels: {
+      "genus-sort": "Nevelo kivalasztasa",
+      "satz-ordnen": "Mondat rendezese",
+      "bild-beschriften": "Kep feliratozasa",
+      "fehler-finden": "Hiba keresese",
+      "wortfamilien-baum": "Szocsalad",
+      "geschichte-sortieren": "Tortenet rendezese",
+      "wortarten-sortieren": "Szofaj meghatarozasa",
+      "zeitformen-zuordnen": "Igeido meghatarozasa",
+      "satzglied-markieren": "Mondatreszek jelolese",
+      "kasus-markieren": "Eset meghatarozasa",
+      "adjektiv-endungen": "Melleknevi vegzodes",
+      "luecken-text": "Hianyos szoveg kiegeszitese",
+      "satzgefuge-diagram": "Mondatszerkezet elemzese",
+      "epochen-zeitstrahl": "Korszak parositasa",
+    },
+    wordTypesHint: "N = Fonev, V = Ige, A = Melleknev",
+    tenseOptions: ["Jelen", "Praeteritum", "Perfekt"],
+    sentencePartsHint: "S = Alany, P = Allitmany, O = Targy",
+    cases: ["Alanyeset", "Targyeset", "Reszes eset", "Birtokos eset"],
+    mainClause: "Fo mondat",
+    subClause: "Mellekmondat",
+    conjunction: "Kotoszo",
+    hint: "Tipp",
+    waterCycleOrder: "Rendezd sorba a vizkorforgas fazisait:",
+    orderPrompt: "Tedd helyes sorrendbe:",
+    vertebrate: "Gerinces",
+    invertebrate: "Gerinctelen",
+    mammal: "Emlos",
+    bird: "Madar",
+    fish: "Hal",
+    reptile: "Hullo",
+    amphibian: "Keteltu",
+    diagram: "Abra",
+  },
+  ro: {
+    visualTypeLabels: {
+      "genus-sort": "Alege articolul",
+      "satz-ordnen": "Ordoneaza propozitia",
+      "bild-beschriften": "Eticheteaza imaginea",
+      "fehler-finden": "Gaseste greseala",
+      "wortfamilien-baum": "Familie de cuvinte",
+      "geschichte-sortieren": "Ordoneaza povestea",
+      "wortarten-sortieren": "Sorteaza partile de vorbire",
+      "zeitformen-zuordnen": "Identifica timpul",
+      "satzglied-markieren": "Marcheaza partile propozitiei",
+      "kasus-markieren": "Identifica cazul",
+      "adjektiv-endungen": "Terminatie adjectivala",
+      "luecken-text": "Completeaza textul lacunar",
+      "satzgefuge-diagram": "Analizeaza fraza",
+      "epochen-zeitstrahl": "Asociaza epoca",
+    },
+    wordTypesHint: "N = Substantiv, V = Verb, A = Adjectiv",
+    tenseOptions: ["Prezent", "Preterit", "Perfect"],
+    sentencePartsHint: "S = Subiect, P = Predicat, O = Obiect",
+    cases: ["Nominativ", "Acuzativ", "Dativ", "Genitiv"],
+    mainClause: "Propozitie principala",
+    subClause: "Propozitie secundara",
+    conjunction: "Conjunctie",
+    hint: "Indiciu",
+    waterCycleOrder: "Pune in ordine etapele circuitului apei:",
+    orderPrompt: "Pune in ordinea corecta:",
+    vertebrate: "Vertebrat",
+    invertebrate: "Nevertebrat",
+    mammal: "Mamifer",
+    bird: "Pasare",
+    fish: "Peste",
+    reptile: "Reptila",
+    amphibian: "Amfibian",
+    diagram: "Diagrama",
+  },
+} satisfies Record<string, {
+  visualTypeLabels: Record<string, string>;
+  wordTypesHint: string;
+  tenseOptions: string[];
+  sentencePartsHint: string;
+  cases: string[];
+  mainClause: string;
+  subClause: string;
+  conjunction: string;
+  hint: string;
+  waterCycleOrder: string;
+  orderPrompt: string;
+  vertebrate: string;
+  invertebrate: string;
+  mammal: string;
+  bird: string;
+  fish: string;
+  reptile: string;
+  amphibian: string;
+  diagram: string;
+}>;
+
+type PrintLangKey = keyof typeof PRINT_I18N;
+
+function getPrintLangKey(lang: string): PrintLangKey {
+  return lang in PRINT_I18N ? (lang as PrintLangKey) : "de";
+}
 
 function LanguageBackground({ chars = DE_CHARS, colors = DE_COLORS }: { chars?: string[]; colors?: string[] }) {
   const [mounted, setMounted] = useState(false);
@@ -240,27 +479,50 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
   // Check for ?grade=N query param — if present, skip grade-select and go to topics
   const gradeParam = searchParams?.get("grade");
   const parsedGradeParam = gradeParam ? parseInt(gradeParam, 10) : NaN;
-  const hasGradeParam = Number.isFinite(parsedGradeParam) && parsedGradeParam >= 1 && parsedGradeParam <= 8;
+  const supportedGrades = config.grades?.length ? config.grades : [...DEFAULT_SUPPORTED_GRADES];
+  const fallbackGrade = supportedGrades[0] ?? 1;
+  const hasGradeParam = Number.isFinite(parsedGradeParam) && supportedGrades.includes(parsedGradeParam);
+  if (process.env.NODE_ENV !== "production") {
+    assertSourceInvariant(supportedGrades.length > 0, `[${config.gameId}] supportedGrades must not be empty.`);
+    assertSourceInvariant(effectiveCountries.length > 0, `[${config.gameId}] effectiveCountries must not be empty for lang ${globalLang}.`);
+    const resolvedCountryCodes = new Set(effectiveCountries.map((item) => item.code));
+    assertSourceInvariant(
+      resolvedCountryCodes.has(countryFromLang),
+      `[${config.gameId}] countryFromLang ${countryFromLang} must exist in resolved countries for lang ${globalLang}.`,
+    );
+    if (globalLang === "en") {
+      const missingEnglishCountryCodes = [...ENGLISH_COUNTRY_CODES].filter((code) => !resolvedCountryCodes.has(code));
+      assertSourceInvariant(
+        missingEnglishCountryCodes.length === 0,
+        `[${config.gameId}] English country group is missing ${missingEnglishCountryCodes.join(", ")}.`,
+      );
+    }
+  }
   // Initial screen: ha country-valasztos nyelv (DE/EN) → country elso; egyebkent ha van ?grade= → topics; fallback: grade
   const [screen, setScreen] = useState<Screen>(
     hasCountryChoice ? "country" : (hasGradeParam ? "topics" : "grade")
   );
   const [country, setCountry] = useState<string>(countryFromLang);
-  // Sync country if lang changes
-  useEffect(() => { setCountry(countryFromLang); }, [countryFromLang]);
+  if (process.env.NODE_ENV !== "production") {
+    assertSourceInvariant(
+      effectiveCountries.some((item) => item.code === country),
+      `[${config.gameId}] selected country ${country} must exist in resolved countries for lang ${globalLang}.`,
+    );
+  }
+  // Restore a saved choice only when it belongs to the countries available for
+  // the current language. Do not overwrite that choice during lang hydration.
+  useEffect(() => {
+    const savedCountry = localStorage.getItem(config.storageKey);
+    const restoredCountry = effectiveCountries.some((item) => item.code === savedCountry)
+      ? savedCountry!
+      : countryFromLang;
+    setCountry(restoredCountry);
+  }, [globalLang, config.storageKey, countryFromLang]); // eslint-disable-line react-hooks/exhaustive-deps
 
   // Label language: derived from selected country so test paper labels match
   // the language of the questions (country=HU → Hungarian 'Feladat' etc.).
   const labels = useMemo(() => {
-    const labelLang = country === "US" || country === "GB" || country === "AU" || country === "CA" || country === "IE" || country === "NZ"
-      ? "en"
-      : country === "RO"
-        ? "ro"
-        : country === "HU"
-          ? "hu"
-          : (country === "DE" || country === "AT" || country === "CH")
-            ? "de"
-            : globalLang;
+    const labelLang = getCountryLangPrefix(country) ?? globalLang;
     const out: Record<string, string> = {};
     for (const [k, v] of Object.entries(rawLabels)) {
       if (!v) out[k] = "";
@@ -276,7 +538,7 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
       setScreen((prev) => (prev === "grade" || prev === "topics" ? "country" : prev));
     }
   }, [hasCountryChoice]);
-  const [grade, setGrade] = useState(hasGradeParam ? parsedGradeParam : 1);
+  const [grade, setGrade] = useState(hasGradeParam ? parsedGradeParam : fallbackGrade);
   const [selectedIds, setSelectedIds] = useState<string[]>([]);
   const [includeLesetest, setIncludeLesetest] = useState(false);
   const [questions, setQuestions] = useState<TestQuestion[]>([]);
@@ -286,10 +548,19 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
   const [avatarMood, setAvatarMood] = useState<AvatarMood>("idle");
   const [earnedCard, setEarnedCard] = useState<string | null>(null);
   const [dateStr, setDateStr] = useState("");
+  const langPrefix = getCountryLangPrefix(country) ?? globalLang;
+  const printLangKey = getPrintLangKey(langPrefix);
+  const effectiveLocale = resolveCountryLocale(country, globalLang || config.dateLocale || config.ttsLang);
+  const printStrings = PRINT_I18N[printLangKey];
+
+  if (process.env.NODE_ENV !== "production") {
+    assertSourceInvariant(Boolean(PRINT_I18N[printLangKey]), `[${config.gameId}] missing print translations for lang ${langPrefix}.`);
+    assertSourceInvariant(Boolean(effectiveLocale), `[${config.gameId}] missing effective locale for country ${country}.`);
+  }
 
   useEffect(() => {
-    setDateStr(new Date().toLocaleDateString(config.dateLocale, { weekday: "long", year: "numeric", month: "long", day: "numeric" }));
-  }, []);
+    setDateStr(new Date().toLocaleDateString(effectiveLocale, { weekday: "long", year: "numeric", month: "long", day: "numeric" }));
+  }, [effectiveLocale]);
 
   // Country-aware curriculum: if config exposes getCurriculumForCountry,
   // call it so subtopic lists can vary by selected country (e.g. geschichte
@@ -300,7 +571,6 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
   ) as DeutschTheme[];
   const totalQ = questions.length;
   const answeredCount = Object.keys(paperAnswers).length;
-  const langPrefix = country === "US" || country === "GB" ? "en" : country === "RO" ? "ro" : country === "HU" ? "hu" : "de";
 
   // ─── CONFIG VISUAL TYPES (pluggable per-language visual components) ────────
   const configVisualMap = useMemo(() => {
@@ -884,7 +1154,7 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
 
     // No card if only reading test was selected (no regular subtopics)
     if (selectedIds.length === 0) {
-      setScreen("reward");
+      setScreen("result");
       return;
     }
 
@@ -938,20 +1208,7 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
   // ─── DRUCK — leeres Arbeitsblatt ─────────────────────────────────────────────
 
   const VISUAL_TYPE_LABELS_PRINT: Record<string, string> = {
-    "genus-sort": "Artikel bestimmen",
-    "satz-ordnen": "Satz ordnen",
-    "bild-beschriften": "Bild beschriften",
-    "fehler-finden": "Fehler finden",
-    "wortfamilien-baum": "Wortfamilie",
-    "geschichte-sortieren": "Geschichte ordnen",
-    "wortarten-sortieren": "Wortarten bestimmen",
-    "zeitformen-zuordnen": "Zeitform bestimmen",
-    "satzglied-markieren": "Satzglieder markieren",
-    "kasus-markieren": "Kasus bestimmen",
-    "adjektiv-endungen": "Adjektiv-Endung",
-    "luecken-text": "Lückentext ergänzen",
-    "satzgefuge-diagram": "Satzgefüge analysieren",
-    "epochen-zeitstrahl": "Epoche zuordnen",
+    ...printStrings.visualTypeLabels,
     ...Object.fromEntries((config.visualTypes ?? []).map(vt => [vt.type, vt.printLabel])),
   };
 
@@ -1124,21 +1381,21 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
           const words = q.words ?? (q as any).words ?? [];
           const wordList = words.map((w: string) => `<span class="word-chip">${w}</span>`).join(" ");
           parts.push(`<div class="word-chips">${wordList}</div>`);
-          parts.push(`<div class="hint-text">N = Nomen, V = Verb, A = Adjektiv</div>`);
+          parts.push(`<div class="hint-text">${printStrings.wordTypesHint}</div>`);
           parts.push(`<div class="answer-line"></div>`);
           break;
         }
         case "ro-zeitformen-zuordnen":
         case "zeitformen-zuordnen": {
           parts.push(`<div class="q-sentence">${q.sentence ?? q.question}</div>`);
-          parts.push(`<div class="options-inline">☐ Präsens &nbsp;&nbsp;&nbsp; ☐ Präteritum &nbsp;&nbsp;&nbsp; ☐ Perfekt</div>`);
+          parts.push(`<div class="options-inline">☐ ${printStrings.tenseOptions[0]} &nbsp;&nbsp;&nbsp; ☐ ${printStrings.tenseOptions[1]} &nbsp;&nbsp;&nbsp; ☐ ${printStrings.tenseOptions[2]}</div>`);
           break;
         }
         case "satzglied-markieren": {
           const words = q.words ?? (q as any).words ?? [];
           const wordList = words.map((w: string) => `<span class="word-chip">${w}</span>`).join(" ");
           parts.push(`<div class="word-chips">${wordList}</div>`);
-          parts.push(`<div class="hint-text">S = Subjekt, P = Prädikat, O = Objekt</div>`);
+          parts.push(`<div class="hint-text">${printStrings.sentencePartsHint}</div>`);
           parts.push(`<div class="answer-line"></div>`);
           break;
         }
@@ -1149,7 +1406,7 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
             ? sentence.replace(highlight, `<u><strong>${highlight}</strong></u>`)
             : sentence;
           parts.push(`<div class="q-sentence">${displaySent}</div>`);
-          parts.push(`<div class="options-inline">☐ Nominativ &nbsp;&nbsp;&nbsp; ☐ Akkusativ &nbsp;&nbsp;&nbsp; ☐ Dativ &nbsp;&nbsp;&nbsp; ☐ Genitiv</div>`);
+          parts.push(`<div class="options-inline">☐ ${printStrings.cases[0]} &nbsp;&nbsp;&nbsp; ☐ ${printStrings.cases[1]} &nbsp;&nbsp;&nbsp; ☐ ${printStrings.cases[2]} &nbsp;&nbsp;&nbsp; ☐ ${printStrings.cases[3]}</div>`);
           break;
         }
         case "adjektiv-endungen": {
@@ -1172,9 +1429,9 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
           break;
         }
         case "satzgefuge-diagram": {
-          parts.push(`<div class="q-sentence"><strong>HS:</strong> ${q.hauptsatz ?? ""}</div>`);
-          parts.push(`<div class="q-sentence"><strong>NS:</strong> ${q.nebensatz ?? ""}</div>`);
-          if (q.konjunktion) parts.push(`<div class="hint-text">Konjunktion: <em>${q.konjunktion}</em></div>`);
+          parts.push(`<div class="q-sentence"><strong>${printStrings.mainClause}:</strong> ${q.hauptsatz ?? ""}</div>`);
+          parts.push(`<div class="q-sentence"><strong>${printStrings.subClause}:</strong> ${q.nebensatz ?? ""}</div>`);
+          if (q.konjunktion) parts.push(`<div class="hint-text">${printStrings.conjunction}: <em>${q.konjunktion}</em></div>`);
           const sgOpts = q.satzgefugeOptions ?? [];
           parts.push(`<div class="options">`);
           sgOpts.forEach((opt, oi) => {
@@ -1186,7 +1443,7 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
         }
         case "epochen-zeitstrahl": {
           parts.push(`<div class="q-word"><strong>${q.epochenAuthor ?? ""}</strong></div>`);
-          if (q.epochenHint) parts.push(`<div class="hint-text">Hinweis: ${q.epochenHint}</div>`);
+          if (q.epochenHint) parts.push(`<div class="hint-text">${printStrings.hint}: ${q.epochenHint}</div>`);
           const eOpts = q.epochenOptions ?? [];
           parts.push(`<div class="options">`);
           eOpts.forEach((opt, oi) => {
@@ -1237,7 +1494,7 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
         case "wasserkreislauf-ordnen": {
           const stages = (q as any).stages ?? [];
           const stageSvgs = (q as any).stageSvgs ?? {};
-          parts.push(`<div class="hint-text">Ordne die Phasen des Wasserkreislaufs:</div>`);
+          parts.push(`<div class="hint-text">${printStrings.waterCycleOrder}</div>`);
           parts.push(`<div style="display:flex; gap:10px; justify-content:center; margin:10px 0;">`);
           stages.forEach((s: string) => {
             const svgName = stageSvgs[s];
@@ -1296,14 +1553,14 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
           parts.push(`<div class="q-word">${animal}</div>`);
           parts.push(`<div class="visual-options-row">`);
           if ((q as any).type === "tier-klassifizierung-bio") {
-             parts.push(`<span class="visual-option-chip">☐ Wirbeltier</span>`);
-             parts.push(`<span class="visual-option-chip">☐ Wirbellos</span>`);
+             parts.push(`<span class="visual-option-chip">☐ ${printStrings.vertebrate}</span>`);
+             parts.push(`<span class="visual-option-chip">☐ ${printStrings.invertebrate}</span>`);
           } else {
-             parts.push(`<span class="visual-option-chip">☐ Säugetier</span>`);
-             parts.push(`<span class="visual-option-chip">☐ Vogel</span>`);
-             parts.push(`<span class="visual-option-chip">☐ Fisch</span>`);
-             parts.push(`<span class="visual-option-chip">☐ Reptil</span>`);
-             parts.push(`<span class="visual-option-chip">☐ Amphibie</span>`);
+             parts.push(`<span class="visual-option-chip">☐ ${printStrings.mammal}</span>`);
+             parts.push(`<span class="visual-option-chip">☐ ${printStrings.bird}</span>`);
+             parts.push(`<span class="visual-option-chip">☐ ${printStrings.fish}</span>`);
+             parts.push(`<span class="visual-option-chip">☐ ${printStrings.reptile}</span>`);
+             parts.push(`<span class="visual-option-chip">☐ ${printStrings.amphibian}</span>`);
           }
           parts.push(`</div>`);
           break;
@@ -1330,7 +1587,7 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
           const items = (q as any).stages ?? (q as any).organisms ?? [];
           const emojis = (q as any).stageEmojis ?? {};
           if (title) parts.push(`<div class="q-word">${title}</div>`);
-          parts.push(`<div class="hint-text">In die richtige Reihenfolge bringen:</div>`);
+          parts.push(`<div class="hint-text">${printStrings.orderPrompt}</div>`);
           parts.push(`<div class="visual-order-row">`);
           items.forEach((s: string) => parts.push(`<span class="visual-order-item"><span class="visual-order-num">___</span>${emojis[s] ?? ""} ${s}</span>`));
           parts.push(`</div>`);
@@ -1341,7 +1598,7 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
           parts.push(`<div class="q-word">${(q as any).prompt ?? ""}</div>`);
           const diagrams = (q as any).diagrams ?? [];
           parts.push(`<div class="visual-options-row">`);
-          diagrams.forEach((d: any, i: number) => parts.push(`<span class="visual-option-chip">☐ Diagramm ${i+1}</span>`));
+          diagrams.forEach((d: any, i: number) => parts.push(`<span class="visual-option-chip">☐ ${printStrings.diagram} ${i+1}</span>`));
           parts.push(`</div>`);
           break;
         }
@@ -1396,7 +1653,7 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
     const questionsHtml = questions.map((q, qi) => renderQuestionPrint(q, qi)).join("\n");
 
     const html = `<!DOCTYPE html>
-<html lang="${config.ttsLang.split("-")[0]}">
+<html lang="${langPrefix}">
 <head>
   <meta charset="UTF-8">
   <title>${titleStr} – ${labels.gradeFull} ${grade}</title>
@@ -1828,7 +2085,7 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
               className="relative z-10 grid grid-cols-4 gap-3 w-full max-w-xs"
               initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.2 }}
             >
-              {(config.grades ?? [1, 2, 3, 4, 5, 6, 7, 8]).map((g, i) => (
+              {supportedGrades.map((g, i) => (
                 <motion.button
                   key={g}
                   initial={{ opacity: 0, scale: 0.8 }}
@@ -2153,7 +2410,7 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
                     {/* Optional Inline SVG Figure */}
                     {(q as any).svgRef && (
                       <div className="my-4 flex justify-center" style={{ maxHeight: 240 }}>
-                        <TopicSvgRenderer config={(q as any).svgRef} lang={config.gameId === "astromagyar" ? "hu" : (config.ttsLang?.split("-")[0] || "de")} />
+                        <TopicSvgRenderer config={(q as any).svgRef} lang={config.gameId === "astromagyar" ? "hu" : langPrefix} />
                       </div>
                     )}
 
@@ -2176,12 +2433,11 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
                               : q.type === "satz-ordnen"
                                 ? (Array.isArray(q.answer) ? q.answer[0] : q.answer ?? q.question)
                                 : q.question,
-                          config.ttsLang, config.ttsRate, config.ttsPitch
+                          effectiveLocale, config.ttsRate, config.ttsPitch
                         )}
                         className="shrink-0 w-6 h-6 flex items-center justify-center rounded-full bg-blue-50 hover:bg-blue-100 border border-blue-200 text-blue-400 transition-colors text-xs"
                         style={{ marginTop: 1 }}
                         title={labels.readAloud}
-                        tabIndex={-1}
                       >🔊</button>
                       {/* Correction mark after submit */}
                       {submitted && ans && (
@@ -2750,7 +3006,7 @@ const DEUTSCH_CONFIG: LanguageTestEngineConfig = {
     { code: "AT", flag: "🇦🇹", label: "Österreich", sub: "Note 1–5" },
     { code: "CH", flag: "🇨🇭", label: "Schweiz", sub: "Note 6–1" },
   ],
-  calculateMark: (pct, country) => calculateDeutschMark(pct, country as DeutschCountry),
+  calculateMark: calculateCountryAwareMark,
   /* eslint-disable @typescript-eslint/no-explicit-any */
   curriculum: DEUTSCH_CURRICULUM as any,
   getQuestions: getDeutschQuestions as any,

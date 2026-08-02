@@ -37,14 +37,14 @@ export default function ShapeSpotterView({
   const totalTargets = currentRound.shapes.filter(s => s.isTarget).length;
   const targetProgress = foundTargets.size;
 
-  const handleNextRound = () => {
+  const handleNextRound = (finalScore = score) => {
     if (roundIdx + 1 < rounds.length) {
       setRoundIdx(roundIdx + 1);
       setFoundTargets(new Set());
       setErrorIds(new Set());
     } else {
       const maxScore = rounds.reduce((acc, r) => acc + r.shapes.filter(s => s.isTarget).length * 10, 0);
-      onDone(score, maxScore);
+      onDone(finalScore, maxScore);
     }
   };
 
@@ -53,18 +53,19 @@ export default function ShapeSpotterView({
 
     if (shape.isTarget) {
       const newFound = new Set(foundTargets).add(shape.id);
+      const nextScore = score + 10;
       setFoundTargets(newFound);
-      setScore(s => s + 10);
+      setScore(nextScore);
       onCorrect?.();
 
       if (newFound.size === totalTargets) {
-        setTimeout(handleNextRound, 800);
+        setTimeout(() => handleNextRound(nextScore), 800);
       }
     } else {
       setErrorIds(prev => new Set(prev).add(shape.id));
       setScore(s => Math.max(0, s - 2));
       onWrong?.();
-      
+
       setTimeout(() => {
         setErrorIds(prev => {
           const next = new Set(prev);
@@ -156,7 +157,7 @@ export default function ShapeSpotterView({
     de: "Finde alle Ziele!",
     ro: "Găsește toate țintele!"
   };
-  const taskText = currentRound.taskDescription 
+  const taskText = currentRound.taskDescription
     ? (currentRound.taskDescription[lang as keyof LocalizedText] || currentRound.taskDescription.en)
     : (defaultTasks[lang] || defaultTasks.en);
 

@@ -1,11 +1,11 @@
 "use client";
 
-import { LanguageTestEngine } from "@/app/deutschtest/page";
+import { LanguageTestEngine, calculateCountryAwareMark } from "@/app/deutschtest/page";
 import { INFO_K5_CURRICULUM, getInfoK5Questions } from "@/lib/informatikaCurriculum5";
 import { INFO_K6_CURRICULUM, getInfoK6Questions } from "@/lib/informatikaCurriculum6";
 import { INFO_K7_CURRICULUM, getInfoK7Questions } from "@/lib/informatikaCurriculum7";
 import { INFO_K8_CURRICULUM, getInfoK8Questions } from "@/lib/informatikaCurriculum8";
-import { asCurriculumThemes, calculateKemiaMark } from "@/lib/kemiaCurriculumShared";
+import { asCurriculumThemes } from "@/lib/kemiaCurriculumShared";
 import type { LanguageTestEngineConfig } from "@/lib/languageTestTypes";
 
 const INFO_CHARS = ["💻", "🖥️", "⌨️", "🖱️", "📱", "🌐", "🔐", "💡", "🤖", "📊", "🔌", "💾", "📡", "🧠"];
@@ -39,7 +39,7 @@ const INFO_CONFIG: LanguageTestEngineConfig = {
     { code: "AT", flag: "🇦🇹", label: "Österreich", sub: "Note 1–5" },
     { code: "CH", flag: "🇨🇭", label: "Schweiz", sub: "Note 6–1" },
   ],
-  calculateMark: (pct) => calculateKemiaMark(pct),
+  calculateMark: calculateCountryAwareMark,
 
   curriculum: {
     5: asCurriculumThemes(INFO_K5_CURRICULUM),

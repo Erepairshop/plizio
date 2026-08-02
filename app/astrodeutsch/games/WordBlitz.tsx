@@ -1,6 +1,6 @@
 "use client";
 // WordBlitz — True/False Blitz for AstroDeutsch Klasse 1
-// 12 rapid-fire German language statements, 5s per question, auto-advance
+// 12 German language statements, learner advances by answering
 // Topics: Vokale/Konsonanten, Artikel, Reime, Silben, Farben, Zahlen
 
 import { memo, useState, useEffect, useRef, useCallback } from "react";
@@ -13,7 +13,7 @@ import { fireWrongAnswer } from "@/components/AITutorOverlay";
 interface Statement {
   text: string;
   isTrue: boolean;
-  explanation: string; // shown when wrong/missed
+  explanation: string; // shown when wrong
 }
 
 // ─── Labels ───────────────────────────────────────────────────────────────────
@@ -23,7 +23,6 @@ const LABELS: Record<string, Record<string, string>> = {
     falseBtn: "FALSE ✗",
     correct: "Correct! ✓",
     wrong: "Not quite!",
-    missed: "Time's up!",
     hint: "Correct answer:",
     done: "Done!",
     score: "Score",
@@ -34,7 +33,6 @@ const LABELS: Record<string, Record<string, string>> = {
     falseBtn: "HAMIS ✗",
     correct: "Helyes! ✓",
     wrong: "Nem egészen!",
-    missed: "Idő lejárt!",
     hint: "A helyes válasz:",
     done: "Kész!",
     score: "Pont",
@@ -45,7 +43,6 @@ const LABELS: Record<string, Record<string, string>> = {
     falseBtn: "FALSCH ✗",
     correct: "Richtig! ✓",
     wrong: "Nicht ganz!",
-    missed: "Zeit um!",
     hint: "Richtige Antwort:",
     done: "Fertig!",
     score: "Punkte",
@@ -56,7 +53,6 @@ const LABELS: Record<string, Record<string, string>> = {
     falseBtn: "FALS ✗",
     correct: "Corect! ✓",
     wrong: "Nu chiar!",
-    missed: "Timp expirat!",
     hint: "Răspuns corect:",
     done: "Gata!",
     score: "Puncte",
@@ -124,11 +120,7 @@ function buildStatements(): Statement[] {
   return shuffle(STATEMENT_POOL).slice(0, 12);
 }
 
-type FBState = "correct" | "wrong" | "missed" | null;
-
-// K1 (6-7 yrs): ~2s TTS read-aloud + ~4s think + ~1s tap = ~7s
-// Higher grades can pass shorter timers via grade prop later
-const TIMER_SECONDS = 8;
+type FBState = "correct" | "wrong" | null;
 
 // ─── Main Component ───────────────────────────────────────────────────────────
 const WordBlitz = memo(function WordBlitz({
@@ -145,7 +137,6 @@ const WordBlitz = memo(function WordBlitz({
   const [idx, setIdx] = useState(0);
   const [score, setScore] = useState(0);
   const [fb, setFb] = useState<FBState>(null);
-  const [timeLeft, setTimeLeft] = useState(TIMER_SECONDS);
   const [done, setDone] = useState(false);
   const answeredRef = useRef(false);
   const total = statements.length;
@@ -153,7 +144,6 @@ const WordBlitz = memo(function WordBlitz({
   const advance = useCallback(() => {
     answeredRef.current = false;
     setFb(null);
-    setTimeLeft(TIMER_SECONDS);
     setIdx(prev => {
       const next = prev + 1;
       if (next >= total) {
@@ -177,17 +167,6 @@ const WordBlitz = memo(function WordBlitz({
     if (!done) speak(statements[idx].text, "de");
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [idx]);
-
-  // Timer countdown
-  useEffect(() => {
-    if (done || fb !== null) return;
-    if (timeLeft <= 0) {
-      respond("missed", false);
-      return;
-    }
-    const id = setTimeout(() => setTimeLeft(t => Math.max(0, t - 0.1)), 100);
-    return () => clearTimeout(id);
-  }, [timeLeft, fb, done, respond]);
 
   const handleTap = (userTrue: boolean) => {
     if (answeredRef.current || done || fb !== null) return;
@@ -237,16 +216,11 @@ const WordBlitz = memo(function WordBlitz({
   }
 
   const stmt = statements[idx];
-  const timerPct = (timeLeft / TIMER_SECONDS) * 100;
-  const timerColor = timerPct > 55 ? "#00FF88" : timerPct > 25 ? "#FFD700" : "#FF4444";
-
   const fbBg =
     fb === "correct"
       ? "rgba(0,255,136,0.15)"
       : fb === "wrong"
       ? "rgba(255,80,80,0.15)"
-      : fb === "missed"
-      ? "rgba(120,120,120,0.15)"
       : "rgba(255,255,255,0.06)";
 
   return (
@@ -278,20 +252,6 @@ const WordBlitz = memo(function WordBlitz({
         </span>
       </div>
 
-      {/* Timer bar */}
-      <div className="h-2.5 bg-white/10 rounded-full overflow-hidden">
-        {fb === null && (
-          <motion.div
-            key={`timer-${idx}`}
-            className="h-full rounded-full origin-left"
-            style={{ background: timerColor }}
-            initial={{ scaleX: 1 }}
-            animate={{ scaleX: 0 }}
-            transition={{ duration: TIMER_SECONDS, ease: "linear" }}
-          />
-        )}
-      </div>
-
       {/* Statement card */}
       <AnimatePresence mode="wait">
         <motion.div
@@ -302,13 +262,13 @@ const WordBlitz = memo(function WordBlitz({
           className="rounded-3xl px-6 py-7 min-h-[140px] flex flex-col items-center justify-center gap-3 transition-colors"
           style={{
             background: fbBg,
-            border: `2px solid ${
-              fb === "correct"
-                ? "#00FF88"
-                : fb === "wrong" || fb === "missed"
-                ? "#FF4444"
-                : `${color}40`
-            }`,
+              border: `2px solid ${
+                fb === "correct"
+                  ? "#00FF88"
+                  : fb === "wrong"
+                  ? "#FF4444"
+                  : `${color}40`
+              }`,
           }}
         >
           {fb === null ? (
@@ -325,7 +285,7 @@ const WordBlitz = memo(function WordBlitz({
               className="flex flex-col items-center gap-2"
             >
               <span className="text-4xl">
-                {fb === "correct" ? "✓" : fb === "wrong" ? "✗" : "⏱"}
+                {fb === "correct" ? "✓" : "✗"}
               </span>
               <span
                 className="text-base font-black"
@@ -333,14 +293,12 @@ const WordBlitz = memo(function WordBlitz({
                   color:
                     fb === "correct"
                       ? "#00FF88"
-                      : fb === "wrong"
-                      ? "#FF6B6B"
-                      : "#888",
+                      : "#FF6B6B",
                 }}
               >
-                {fb === "correct" ? t.correct : fb === "wrong" ? t.wrong : t.missed}
+                {fb === "correct" ? t.correct : t.wrong}
               </span>
-              {fb !== "correct" && (
+              {fb === "wrong" && (
                 <p className="text-sm font-bold text-white/60 text-center mt-1">
                   <span className="text-white/40">{t.hint} </span>
                   {stmt.explanation}

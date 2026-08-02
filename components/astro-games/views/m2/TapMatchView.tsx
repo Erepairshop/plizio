@@ -20,13 +20,13 @@ export default function TapMatchView({ rounds, color, lang, mode, onDone, onCorr
 
   const currentRound = rounds[roundIdx];
 
-  const handleNextRound = () => {
+  const handleNextRound = (finalScore = score) => {
      if (roundIdx + 1 < rounds.length) {
         setRoundIdx(roundIdx + 1);
         setMatchedPairs(new Set());
         setSelectedLeft(null);
      } else {
-        onDone(score, rounds.reduce((acc, r) => acc + r.correctPairs.length * 10, 0));
+        onDone(finalScore, rounds.reduce((acc, r) => acc + r.correctPairs.length * 10, 0));
      }
   };
 
@@ -34,12 +34,13 @@ export default function TapMatchView({ rounds, color, lang, mode, onDone, onCorr
      if (!selectedLeft) return;
      const isCorrect = currentRound.correctPairs.some(p => p.leftId === selectedLeft && p.rightId === rightId);
      if (isCorrect) {
-        setScore(s => s + 10);
+        const nextScore = score + 10;
+        setScore(nextScore);
         setMatchedPairs(prev => new Set(prev).add(selectedLeft).add(rightId));
         setSelectedLeft(null);
         onCorrect?.();
         if (matchedPairs.size + 2 === currentRound.correctPairs.length * 2) {
-           handleNextRound();
+           handleNextRound(nextScore);
         }
      } else {
         setScore(s => Math.max(0, s - 2));
@@ -67,7 +68,7 @@ export default function TapMatchView({ rounds, color, lang, mode, onDone, onCorr
     de: "Finde die passenden Paare!",
     ro: "Găsește perechile potrivite!"
   };
-  const taskText = currentRound.taskDescription 
+  const taskText = currentRound.taskDescription
     ? (currentRound.taskDescription[lang as keyof LocalizedText] || currentRound.taskDescription.en)
     : (defaultTasks[lang] || defaultTasks.en);
 
@@ -99,7 +100,7 @@ export default function TapMatchView({ rounds, color, lang, mode, onDone, onCorr
                      onClick={() => !isMatched && setSelectedLeft(item.id)}
                      disabled={isMatched}
                      className="p-3 rounded-xl border-2 font-bold min-h-[44px] text-white"
-                     style={{ 
+                     style={{
                         borderColor: isSelected ? color : 'rgba(255,255,255,0.2)',
                         background: isMatched ? 'rgba(255,255,255,0.1)' : 'rgba(0,0,0,0.5)',
                         opacity: isMatched ? 0.5 : 1
@@ -120,7 +121,7 @@ export default function TapMatchView({ rounds, color, lang, mode, onDone, onCorr
                      onClick={() => !isMatched && handleRightClick(item.id)}
                      disabled={isMatched}
                      className="p-3 rounded-xl border-2 font-bold min-h-[44px] text-white"
-                     style={{ 
+                     style={{
                         borderColor: 'rgba(255,255,255,0.2)',
                         background: isMatched ? 'rgba(255,255,255,0.1)' : 'rgba(0,0,0,0.5)',
                         opacity: isMatched ? 0.5 : 1

@@ -39,29 +39,32 @@ export default function CategoryRushView({ rounds, color, lang, mode, onDone, on
 
    const currentItem = shuffledItems[itemIdx];
 
-   const handleNextRound = () => {
+   const handleNextRound = (finalScore = score) => {
       if (roundIdx + 1 < rounds.length) {
          setRoundIdx(roundIdx + 1);
          setItemIdx(0);
       } else {
-         onDone(score, rounds.reduce((acc, r) => acc + r.items.length * 6, 0));
+         onDone(finalScore, rounds.reduce((acc, r) => acc + r.items.length * 6, 0));
       }
    };
 
    const handleCategoryClick = (categoryId: string) => {
       if (!currentItem) return;
-      if (currentItem.correctCategoryId === categoryId) {
-         setScore(s => s + 6);
+      const isCorrect = currentItem.correctCategoryId === categoryId;
+      const nextScore = isCorrect ? score + 6 : Math.max(0, score - 3);
+
+      if (isCorrect) {
+         setScore(nextScore);
          onCorrect?.();
       } else {
-         setScore(s => Math.max(0, s - 3));
+         setScore(nextScore);
          onWrong?.();
       }
-      
+
       if (itemIdx + 1 < currentRound.items.length) {
          setItemIdx(itemIdx + 1);
       } else {
-         handleNextRound();
+         handleNextRound(nextScore);
       }
    };
 
@@ -73,7 +76,7 @@ export default function CategoryRushView({ rounds, color, lang, mode, onDone, on
     de: "Ordne die Elemente den richtigen Kategorien zu!",
     ro: "Sortează elementele în categoriile corecte!"
    };
-   const taskText = currentRound.taskDescription 
+   const taskText = currentRound.taskDescription
     ? (currentRound.taskDescription[lang as keyof LocalizedText] || currentRound.taskDescription.en)
     : (defaultTasks[lang] || defaultTasks.en);
 

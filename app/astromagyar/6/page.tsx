@@ -524,6 +524,36 @@ export default function O6Page() {
         </div>
       )}
 
+      {screen === "m2" && activeMission?.gameKey && MAGYAR_M2_POOLS[activeMission.gameKey] && (
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <M2Engine
+            gameKey={activeMission.gameKey}
+            rounds={MAGYAR_M2_POOLS[activeMission.gameKey]}
+            color={bgColor}
+            lang={lang as any}
+            onDone={handleMissionSuccess}
+            onCorrect={() => {}}
+            onWrong={() => {}}
+          />
+        </div>
+      )}
+
+      {screen === "m3" && activeMission?.gameKey && MAGYAR_M3_POOLS[activeMission.gameKey] && (
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <M3Engine
+            gameKey={activeMission.gameKey}
+            rounds={MAGYAR_M3_POOLS[activeMission.gameKey]}
+            color={bgColor}
+            lang={lang as any}
+            onDone={handleMissionSuccess}
+            onCorrect={() => {}}
+            onWrong={() => {}}
+          />
+        </div>
+      )}
+
       {/* REWARD */}
       {screen === "reward" && earnedCard && (
         <RewardReveal

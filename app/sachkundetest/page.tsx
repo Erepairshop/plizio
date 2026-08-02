@@ -1,10 +1,9 @@
 "use client";
 
-import { LanguageTestEngine } from "@/app/deutschtest/page";
+import { LanguageTestEngine, calculateCountryAwareMark } from "@/app/deutschtest/page";
 import {
   SACHKUNDE_CURRICULUM,
   getSachkundeQuestions,
-  calculateSachkundeMark,
   SACHKUNDE_SUBTOPIC_HINTS,
 } from "@/lib/sachkundeCurriculum";
 import { SACHKUNDE_VISUAL_TYPES } from "@/lib/sachkundeVisualGenerators";
@@ -39,12 +38,13 @@ const SACHKUNDE_CONFIG: LanguageTestEngineConfig = {
     { code: "AT", flag: "🇦🇹", label: "Österreich", sub: "Note 1–5" },
     { code: "CH", flag: "🇨🇭", label: "Schweiz", sub: "Note 6–1" },
   ],
-  calculateMark: (pct, country) => calculateSachkundeMark(pct, country),
+  calculateMark: calculateCountryAwareMark,
 
   curriculum: SACHKUNDE_CURRICULUM as any,
   getQuestions: getSachkundeQuestions as any,
   subtopicHints: SACHKUNDE_SUBTOPIC_HINTS,
   visualTypes: SACHKUNDE_VISUAL_TYPES,
+  grades: [1, 2, 3, 4],
   visualGrades: [1, 2, 3, 4],
   hideLesetest: true,
 

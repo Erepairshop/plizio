@@ -1,7 +1,6 @@
 "use client";
 // SpellRace — Spelling Race for AstroDeutsch Klasse 1
 // 8 rounds: emoji hint shown, scrambled letters, tap in correct order to spell the word
-// Timer: 10 seconds per word, auto-advance on timeout
 
 import { memo, useState, useEffect, useRef, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
@@ -15,7 +14,6 @@ const LABELS: Record<string, Record<string, string>> = {
     hint: "Spell the word!",
     correct: "Great! ✓",
     wrong: "Almost!",
-    missed: "Time's up!",
     done: "Done!",
     tapLetters: "Tap the letters in order",
     correctWord: "Correct word:",
@@ -24,7 +22,6 @@ const LABELS: Record<string, Record<string, string>> = {
     hint: "Írd le a szót!",
     correct: "Szuper! ✓",
     wrong: "Majdnem!",
-    missed: "Idő lejárt!",
     done: "Kész!",
     tapLetters: "Betűk sorban",
     correctWord: "Helyes szó:",
@@ -33,7 +30,6 @@ const LABELS: Record<string, Record<string, string>> = {
     hint: "Buchstabiere das Wort!",
     correct: "Toll! ✓",
     wrong: "Fast!",
-    missed: "Zeit um!",
     done: "Fertig!",
     tapLetters: "Tippe die Buchstaben der Reihe nach",
     correctWord: "Richtiges Wort:",
@@ -42,7 +38,6 @@ const LABELS: Record<string, Record<string, string>> = {
     hint: "Scrie cuvântul!",
     correct: "Bravo! ✓",
     wrong: "Aproape!",
-    missed: "Timp expirat!",
     done: "Gata!",
     tapLetters: "Apasă literele în ordine",
     correctWord: "Cuvântul corect:",
@@ -80,8 +75,6 @@ const WORD_POOL: WordEntry[] = [
   { word: "NASE",   emoji: "👃" },
 ];
 
-// K1: ~2s TTS + ~8s to tap 4-6 scrambled letters + ~2s think = ~12s
-const TIMER_SECONDS = 14;
 const ROUNDS = 8;
 
 // Fisher-Yates shuffle
@@ -105,7 +98,7 @@ function buildTiles(word: string): number[] {
 }
 
 type Phase = "active" | "feedback";
-type FeedbackType = "correct" | "wrong" | "missed";
+type FeedbackType = "correct" | "wrong";
 
 interface TileState {
   letterIndex: number; // index into word
@@ -129,7 +122,6 @@ const SpellRace = memo(function SpellRace({
   const [score, setScore] = useState(0);
   const [phase, setPhase] = useState<Phase>("active");
   const [feedback, setFeedback] = useState<FeedbackType | null>(null);
-  const [timeLeft, setTimeLeft] = useState(TIMER_SECONDS);
   const [tiles, setTiles] = useState<TileState[]>(() => {
     const word = rounds[0].word;
     return buildTiles(word).map((li) => ({ letterIndex: li, placed: false, wrong: false }));
@@ -160,7 +152,6 @@ const SpellRace = memo(function SpellRace({
       setAnswer([]);
       setFeedback(null);
       setPhase("active");
-      setTimeLeft(TIMER_SECONDS);
       setWrongTile(null);
     }, 1100);
   }, [roundIdx, score, rounds, onDone]);
@@ -170,17 +161,6 @@ const SpellRace = memo(function SpellRace({
     speak(rounds[roundIdx].word, "de");
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [roundIdx]);
-
-  // Timer
-  useEffect(() => {
-    if (phase !== "active") return;
-    if (timeLeft <= 0) {
-      advance("missed", false);
-      return;
-    }
-    const id = setTimeout(() => setTimeLeft((t) => Math.max(0, t - 0.1)), 100);
-    return () => clearTimeout(id);
-  }, [timeLeft, phase, advance]);
 
   const handleTileTap = useCallback((tileIdx: number) => {
     if (phase !== "active") return;
@@ -210,9 +190,6 @@ const SpellRace = memo(function SpellRace({
     }
   }, [phase, tiles, answer, currentWord, advance]);
 
-  const timerPct = (timeLeft / TIMER_SECONDS) * 100;
-  const timerColor = timerPct > 55 ? "#00FF88" : timerPct > 25 ? "#FFD700" : "#FF4444";
-
   return (
     <div className="flex flex-col gap-4 w-full max-w-sm mx-auto">
       {/* Progress + score */}
@@ -240,20 +217,6 @@ const SpellRace = memo(function SpellRace({
           {score}
           <span className="text-white/30">/{ROUNDS}</span>
         </span>
-      </div>
-
-      {/* Timer bar */}
-      <div className="h-2.5 bg-white/10 rounded-full overflow-hidden">
-        {phase === "active" && (
-          <motion.div
-            key={`timer-${roundIdx}`}
-            className="h-full rounded-full origin-left"
-            style={{ background: timerColor }}
-            initial={{ scaleX: 1 }}
-            animate={{ scaleX: 0 }}
-            transition={{ duration: TIMER_SECONDS, ease: "linear" }}
-          />
-        )}
       </div>
 
       {/* Emoji + Instruction */}
@@ -339,7 +302,7 @@ const SpellRace = memo(function SpellRace({
                 ? t.correct
                 : feedback === "wrong"
                 ? t.wrong
-                : t.missed}
+                : ""}
             </span>
             {feedback !== "correct" && (
               <span className="text-sm text-white/50">

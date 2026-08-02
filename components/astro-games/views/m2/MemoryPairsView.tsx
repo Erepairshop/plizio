@@ -72,12 +72,12 @@ export default function MemoryPairsView({
     setIsProcessing(false);
   }, [currentRound]);
 
-  const handleNextRound = () => {
+  const handleNextRound = (finalScore = score) => {
     if (roundIdx + 1 < rounds.length) {
       setRoundIdx(roundIdx + 1);
     } else {
       const totalPairs = rounds.reduce((acc, r) => acc + r.pairs.length, 0);
-      onDone(score, totalPairs * 10);
+      onDone(finalScore, totalPairs * 10);
     }
   };
 
@@ -102,6 +102,8 @@ export default function MemoryPairsView({
       const secondCard = cards.find((c) => c.uniqueId === secondId);
 
       if (firstCard && secondCard && firstCard.pairId === secondCard.pairId) {
+        const nextScore = score + 10;
+
         // Match
         setTimeout(() => {
           setCards((prev) =>
@@ -112,7 +114,7 @@ export default function MemoryPairsView({
             )
           );
           setMatchedPairs((prev) => new Set(prev).add(firstCard.pairId));
-          setScore((s) => s + 10);
+          setScore(nextScore);
           setFlippedIds([]);
           setIsProcessing(false);
           onCorrect?.();
@@ -120,7 +122,7 @@ export default function MemoryPairsView({
           // Check round completion
           const currentMatches = matchedPairs.size + 1;
           if (currentMatches === currentRound.pairs.length) {
-            setTimeout(handleNextRound, 800);
+            setTimeout(() => handleNextRound(nextScore), 800);
           }
         }, 500);
       } else {
@@ -150,7 +152,7 @@ export default function MemoryPairsView({
     de: "Finde die passenden Paare!",
     ro: "Găsește perechile potrivite!"
   };
-  const taskText = currentRound.taskDescription 
+  const taskText = currentRound.taskDescription
     ? (currentRound.taskDescription[lang as keyof LocalizedText] || currentRound.taskDescription.en)
     : (defaultTasks[lang] || defaultTasks.en);
 
@@ -196,12 +198,12 @@ export default function MemoryPairsView({
                 disabled={card.isMatched || isProcessing && !flippedIds.includes(card.uniqueId)}
                 className="relative w-full h-full rounded-xl flex flex-col items-center justify-center p-2 text-center shadow-md focus:outline-none focus:ring-4 focus:ring-offset-2 overflow-hidden"
                 style={{
-                  background: card.isMatched 
-                    ? 'rgba(255,255,255,0.1)' 
-                    : card.isFlipped 
-                      ? 'rgba(255,255,255,0.9)' 
+                  background: card.isMatched
+                    ? 'rgba(255,255,255,0.1)'
+                    : card.isFlipped
+                      ? 'rgba(255,255,255,0.9)'
                       : 'rgba(0,0,0,0.5)',
-                  borderColor: card.isMatched 
+                  borderColor: card.isMatched
                     ? color || '#4ade80'
                     : 'rgba(255,255,255,0.2)',
                   borderWidth: '2px',
@@ -215,9 +217,9 @@ export default function MemoryPairsView({
                 transition={{ duration: 0.4 }}
                 aria-label={isVisible ? card.content[lang as keyof LocalizedText] || card.content.en : "Hidden card"}
               >
-                <div 
+                <div
                   className="flex flex-col items-center justify-center w-full h-full"
-                  style={{ 
+                  style={{
                     transform: isVisible ? "rotateY(180deg)" : "none",
                     opacity: isVisible ? 1 : 0
                   }}

@@ -1,32 +1,30 @@
 "use client";
-// TrueFalseBlitz — rapid-fire true/false challenge for Grade 4
-// 12 statements, 4s per question, big ✓ / ✗ buttons
+// TrueFalseBlitz - rapid-fire true/false challenge for Grade 4
+// 12 statements, big true/false buttons
 // Supports: mul, div, units, angles topics
 
-import { memo, useState, useEffect, useRef, useCallback } from "react";
-import { motion, AnimatePresence } from "framer-motion";
+import { memo, useCallback, useRef, useState } from "react";
+import { AnimatePresence, motion } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 import { SpeakButton } from "@/lib/astromath-tts";
 
-// ─── Helpers ──────────────────────────────────────────────────────────────────
 const rand = (a: number, b: number) => Math.floor(Math.random() * (b - a + 1)) + a;
 const pick = <T,>(arr: T[]): T => arr[rand(0, arr.length - 1)];
 
-// ─── Types ────────────────────────────────────────────────────────────────────
 interface TFQuestion {
   statement: string;
   isTrue: boolean;
-  correctStatement: string; // always the true version, shown on wrong
+  correctStatement: string;
 }
 
-// ─── Question generators ──────────────────────────────────────────────────────
-
 function mulTF(): TFQuestion {
-  const a = rand(2, 9), b = rand(2, 9);
+  const a = rand(2, 9);
+  const b = rand(2, 9);
   const correct = a * b;
   const isTrue = Math.random() > 0.5;
   const offsets = [-3, -2, -1, 1, 2, 3].filter(o => correct + o > 0);
   const wrong = correct + pick(offsets);
+
   return {
     statement: `${a} × ${b} = ${isTrue ? correct : wrong}`,
     isTrue,
@@ -35,10 +33,12 @@ function mulTF(): TFQuestion {
 }
 
 function divTF(): TFQuestion {
-  const b = rand(2, 9), c = rand(2, 9);
+  const b = rand(2, 9);
+  const c = rand(2, 9);
   const a = b * c;
   const isTrue = Math.random() > 0.5;
   const wrongC = Math.max(1, c + pick([-2, -1, 1, 2]));
+
   return {
     statement: `${a} ÷ ${b} = ${isTrue ? c : wrongC}`,
     isTrue,
@@ -47,17 +47,18 @@ function divTF(): TFQuestion {
 }
 
 const CONVERSIONS = [
-  { from: "km", to: "m",   mult: 1000, wrongMult: 100  },
-  { from: "m",  to: "cm",  mult: 100,  wrongMult: 10   },
-  { from: "kg", to: "g",   mult: 1000, wrongMult: 100  },
-  { from: "h",  to: "min", mult: 60,   wrongMult: 6    },
-  { from: "l",  to: "ml",  mult: 1000, wrongMult: 100  },
+  { from: "km", to: "m", mult: 1000, wrongMult: 100 },
+  { from: "m", to: "cm", mult: 100, wrongMult: 10 },
+  { from: "kg", to: "g", mult: 1000, wrongMult: 100 },
+  { from: "h", to: "min", mult: 60, wrongMult: 6 },
+  { from: "l", to: "ml", mult: 1000, wrongMult: 100 },
 ];
 
 function unitsTF(): TFQuestion {
   const conv = pick(CONVERSIONS);
   const n = rand(1, 9);
   const isTrue = Math.random() > 0.5;
+
   return {
     statement: `${n} ${conv.from} = ${isTrue ? n * conv.mult : n * conv.wrongMult} ${conv.to}`,
     isTrue,
@@ -66,24 +67,30 @@ function unitsTF(): TFQuestion {
 }
 
 type AngleType = "acute" | "right" | "obtuse" | "straight";
+
 const ANGLE_POOL: { deg: number; type: AngleType }[] = [
-  { deg: 30,  type: "acute"    }, { deg: 45,  type: "acute"    },
-  { deg: 60,  type: "acute"    }, { deg: 90,  type: "right"    },
-  { deg: 120, type: "obtuse"   }, { deg: 135, type: "obtuse"   },
-  { deg: 150, type: "obtuse"   }, { deg: 180, type: "straight" },
+  { deg: 30, type: "acute" },
+  { deg: 45, type: "acute" },
+  { deg: 60, type: "acute" },
+  { deg: 90, type: "right" },
+  { deg: 120, type: "obtuse" },
+  { deg: 135, type: "obtuse" },
+  { deg: 150, type: "obtuse" },
+  { deg: 180, type: "straight" },
 ];
+
 const ANGLE_NAMES: Record<string, Record<AngleType, string>> = {
   de: { acute: "spitzer Winkel", right: "rechter Winkel", obtuse: "stumpfer Winkel", straight: "gestreckter Winkel" },
-  en: { acute: "acute angle",    right: "right angle",    obtuse: "obtuse angle",    straight: "straight angle"    },
-  hu: { acute: "hegyes szög",    right: "derékszög",      obtuse: "tompaszög",       straight: "nyújtott szög"     },
-  ro: { acute: "unghi ascuțit",  right: "unghi drept",    obtuse: "unghi obtuz",     straight: "unghi plat"        },
+  en: { acute: "acute angle", right: "right angle", obtuse: "obtuse angle", straight: "straight angle" },
+  hu: { acute: "hegyes szög", right: "derékszög", obtuse: "tompaszög", straight: "nyújtott szög" },
+  ro: { acute: "unghi ascuțit", right: "unghi drept", obtuse: "unghi obtuz", straight: "unghi plat" },
 };
 
 function buildAngleStmt(deg: number, name: string, lang: string): string {
   if (lang === "de") return `Ein ${deg}°-Winkel ist ein ${name}.`;
   if (lang === "en") {
-    const art = name.startsWith("a") || name.startsWith("o") ? "an" : "a";
-    return `A ${deg}° angle is ${art} ${name}.`;
+    const article = name.startsWith("a") || name.startsWith("o") ? "an" : "a";
+    return `A ${deg}° angle is ${article} ${name}.`;
   }
   if (lang === "hu") return `A ${deg}°-os szög ${name}.`;
   return `Un unghi de ${deg}° este un ${name}.`;
@@ -93,9 +100,10 @@ function angleTF(lang: string): TFQuestion {
   const item = pick(ANGLE_POOL);
   const names = ANGLE_NAMES[lang] ?? ANGLE_NAMES.en;
   const isTrue = Math.random() > 0.5;
-  const wrongTypes = (Object.keys(names) as AngleType[]).filter(t => t !== item.type);
+  const wrongTypes = (Object.keys(names) as AngleType[]).filter(type => type !== item.type);
   const wrongName = names[pick(wrongTypes)];
   const correctName = names[item.type];
+
   return {
     statement: buildAngleStmt(item.deg, isTrue ? correctName : wrongName, lang),
     isTrue,
@@ -103,12 +111,13 @@ function angleTF(lang: string): TFQuestion {
   };
 }
 
-// ─── G1 generators ────────────────────────────────────────────────────────────
 function g1AddTF(max: number): TFQuestion {
-  const a = rand(1, max - 1), b = rand(1, max - a);
+  const a = rand(1, max - 1);
+  const b = rand(1, max - a);
   const correct = a + b;
   const isTrue = Math.random() > 0.45;
   const wrong = Math.max(1, correct + pick([-2, -1, 1, 2]));
+
   return {
     statement: `${a} + ${b} = ${isTrue ? correct : wrong}`,
     isTrue,
@@ -117,10 +126,12 @@ function g1AddTF(max: number): TFQuestion {
 }
 
 function g1SubTF(max: number): TFQuestion {
-  const a = rand(2, max), b = rand(1, a);
+  const a = rand(2, max);
+  const b = rand(1, a);
   const correct = a - b;
   const isTrue = Math.random() > 0.45;
   const wrong = Math.max(0, correct + pick([-2, -1, 1, 2]));
+
   return {
     statement: `${a} − ${b} = ${isTrue ? correct : wrong}`,
     isTrue,
@@ -129,11 +140,14 @@ function g1SubTF(max: number): TFQuestion {
 }
 
 function g1CompareTF(max: number): TFQuestion {
-  const a = rand(1, max), b = rand(1, max);
+  const a = rand(1, max);
+  const b = rand(1, max);
   if (a === b) return g1CompareTF(max);
+
   const showOp = Math.random() > 0.5 ? ">" : "<";
   const isTrue = showOp === ">" ? a > b : a < b;
   const actualOp = a > b ? ">" : "<";
+
   return {
     statement: `${a} ${showOp} ${b}`,
     isTrue,
@@ -146,6 +160,7 @@ function g1VerdoppelnTF(): TFQuestion {
   const correct = n * 2;
   const isTrue = Math.random() > 0.45;
   const wrong = Math.max(1, correct + pick([-2, -1, 1, 2]));
+
   return {
     statement: `${n} + ${n} = ${isTrue ? correct : wrong}`,
     isTrue,
@@ -154,8 +169,7 @@ function g1VerdoppelnTF(): TFQuestion {
 }
 
 function generateQuestions(topicKeys: string[], lang: string): TFQuestion[] {
-  // G1 detection — all G1 island topic keys
-  const ALL_G1_KEYS = [
+  const allG1Keys = [
     "add10", "add20", "sub10", "sub20",
     "g1_tausch", "g1_zahlzerlegung", "g1_ergaenzen", "g1_verdoppeln", "g1_halbieren",
     "g1_count", "g1_compare", "g1_pos", "g1_visual", "g1_fraction",
@@ -164,35 +178,33 @@ function generateQuestions(topicKeys: string[], lang: string): TFQuestion[] {
     "g1_clock", "g1_coins", "g1_weight", "g1_volume", "g1_laenger", "g1_wochentage",
     "word",
   ];
-  const isG1 = topicKeys.some(k => ALL_G1_KEYS.includes(k));
+  const isG1 = topicKeys.some(key => allG1Keys.includes(key));
 
   if (isG1) {
-    const max = topicKeys.some(k =>
-      k.includes("20") || k === "g1_sequence" || k === "g1_data" ||
-      k === "g1_num1120" || k === "g1_place_value20"
+    const max = topicKeys.some(key =>
+      key.includes("20") || key === "g1_sequence" || key === "g1_data" ||
+      key === "g1_num1120" || key === "g1_place_value20"
     ) ? 20 : 10;
-    const hasVerd    = topicKeys.some(k => ["g1_verdoppeln", "g1_halbieren"].includes(k));
-    const hasCompare = topicKeys.some(k => ["g1_compare", "g1_count", "g1_pos"].includes(k));
-    const hasSub     = topicKeys.some(k => ["sub10", "sub20", "g1_ergaenzen"].includes(k));
+    const hasVerd = topicKeys.some(key => ["g1_verdoppeln", "g1_halbieren"].includes(key));
+    const hasSub = topicKeys.some(key => ["sub10", "sub20", "g1_ergaenzen"].includes(key));
 
-    const gens: (() => TFQuestion)[] = [() => g1AddTF(max)];
-    if (hasSub)     gens.push(() => g1SubTF(max));
-    if (hasVerd)    gens.push(() => g1VerdoppelnTF());
-    // compare uses the island's max so numbers stay in range
-    gens.push(() => g1CompareTF(max));
-    if (!hasSub && !hasVerd) gens.push(() => g1SubTF(max)); // ensure variety for pure-compare islands
+    const generators: Array<() => TFQuestion> = [() => g1AddTF(max)];
+    if (hasSub) generators.push(() => g1SubTF(max));
+    if (hasVerd) generators.push(() => g1VerdoppelnTF());
+    generators.push(() => g1CompareTF(max));
+    if (!hasSub && !hasVerd) generators.push(() => g1SubTF(max));
 
-    return Array.from({ length: 12 }, () => gens[rand(0, gens.length - 1)]());
+    return Array.from({ length: 12 }, () => generators[rand(0, generators.length - 1)]());
   }
 
-  const hasUnits  = topicKeys.some(k => k.includes("unit"));
-  const hasAngles = topicKeys.some(k => k === "angles" || k === "symmetry_en");
-  const hasMul    = topicKeys.includes("mul");
-  const hasDiv    = topicKeys.includes("div");
+  const hasUnits = topicKeys.some(key => key.includes("unit"));
+  const hasAngles = topicKeys.some(key => key === "angles" || key === "symmetry_en");
+  const hasMul = topicKeys.includes("mul");
+  const hasDiv = topicKeys.includes("div");
 
-  const gen = (): TFQuestion => {
+  const generator = (): TFQuestion => {
     if (hasUnits && hasAngles) return Math.random() > 0.5 ? unitsTF() : angleTF(lang);
-    if (hasUnits)  return unitsTF();
+    if (hasUnits) return unitsTF();
     if (hasAngles) return angleTF(lang);
     if (hasMul && hasDiv) return Math.random() > 0.5 ? mulTF() : divTF();
     if (hasMul) return mulTF();
@@ -200,30 +212,28 @@ function generateQuestions(topicKeys: string[], lang: string): TFQuestion[] {
     return Math.random() > 0.5 ? mulTF() : divTF();
   };
 
-  return Array.from({ length: 12 }, gen);
+  return Array.from({ length: 12 }, generator);
 }
 
-// ─── Translations ─────────────────────────────────────────────────────────────
 const L: Record<string, Record<string, string>> = {
-  en: { trueBtn: "TRUE ✓", falseBtn: "FALSE ✗", correct: "Correct! ✓", wrong: "Not quite!", missed: "Time's up!",
-        hint: "Correct answer:", next: "Done!", score: "Score" },
-  hu: { trueBtn: "IGAZ ✓",  falseBtn: "HAMIS ✗", correct: "Helyes! ✓", wrong: "Nem egészen!", missed: "Idő lejárt!",
-        hint: "A helyes válasz:", next: "Kész!", score: "Pontszám" },
-  de: { trueBtn: "WAHR ✓",  falseBtn: "FALSCH ✗", correct: "Richtig! ✓", wrong: "Nicht ganz!", missed: "Zeit um!",
-        hint: "Richtige Antwort:", next: "Fertig!", score: "Punkte" },
-  ro: { trueBtn: "ADEVĂRAT ✓", falseBtn: "FALS ✗", correct: "Corect! ✓", wrong: "Nu chiar!", missed: "Timp expirat!",
-        hint: "Răspuns corect:", next: "Gata!", score: "Puncte" },
+  en: { trueBtn: "TRUE ✓", falseBtn: "FALSE ✗", correct: "Correct! ✓", wrong: "Not quite!", hint: "Correct answer:", next: "Done!", score: "Score" },
+  hu: { trueBtn: "IGAZ ✓", falseBtn: "HAMIS ✗", correct: "Helyes! ✓", wrong: "Nem egészen!", hint: "A helyes válasz:", next: "Kész!", score: "Pontszám" },
+  de: { trueBtn: "WAHR ✓", falseBtn: "FALSCH ✗", correct: "Richtig! ✓", wrong: "Nicht ganz!", hint: "Richtige Antwort:", next: "Fertig!", score: "Punkte" },
+  ro: { trueBtn: "ADEVĂRAT ✓", falseBtn: "FALS ✗", correct: "Corect! ✓", wrong: "Nu chiar!", hint: "Răspuns corect:", next: "Gata!", score: "Puncte" },
 };
 
-type FBState = "correct" | "wrong" | "missed" | null;
+type FBState = "correct" | "wrong" | null;
 
-// ─── Main Component ───────────────────────────────────────────────────────────
 const TrueFalseBlitz = memo(function TrueFalseBlitz({
-  topicKeys, color, onDone, lang = "en", timerSeconds = 9,
+  topicKeys,
+  color,
+  onDone,
+  lang = "en",
 }: {
-  topicKeys: string[]; color: string;
-  onDone: (score: number, total: number) => void; lang?: string;
-  timerSeconds?: number; // 0 = no timer, no auto-advance (G1 mode)
+  topicKeys: string[];
+  color: string;
+  onDone: (score: number, total: number) => void;
+  lang?: string;
 }) {
   const t = L[lang] ?? L.en;
   const [qs] = useState(() => generateQuestions(topicKeys, lang));
@@ -234,32 +244,24 @@ const TrueFalseBlitz = memo(function TrueFalseBlitz({
   const answeredRef = useRef(false);
   const total = qs.length;
 
-
   const advance = useCallback(() => {
-    answeredRef.current = false; // Reset for next question (needed when timerSeconds=0)
+    answeredRef.current = false;
     setFb(null);
     setIdx(prev => {
       const next = prev + 1;
-      if (next >= total) { setDone(true); return prev; }
+      if (next >= total) {
+        setDone(true);
+        return prev;
+      }
       return next;
     });
   }, [total]);
 
   const respond = useCallback((result: FBState) => {
     setFb(result);
-    if (result === "correct") setScore(s => s + 1);
+    if (result === "correct") setScore(current => current + 1);
     setTimeout(advance, 750);
   }, [advance]);
-
-  // Auto-advance timer (disabled when timerSeconds=0)
-  useEffect(() => {
-    if (done || timerSeconds === 0) return;
-    answeredRef.current = false;
-    const t = setTimeout(() => {
-      if (!answeredRef.current) { answeredRef.current = true; respond("missed"); }
-    }, timerSeconds * 1000);
-    return () => clearTimeout(t);
-  }, [idx, done, respond, timerSeconds]);
 
   const handleTap = (userTrue: boolean) => {
     if (answeredRef.current || done || fb !== null) return;
@@ -269,46 +271,54 @@ const TrueFalseBlitz = memo(function TrueFalseBlitz({
 
   const q = qs[Math.min(idx, total - 1)];
 
-  // ── Done screen ──
   if (done) {
     const stars = score >= 10 ? 3 : score >= 8 ? 2 : 1;
-    const msgs: Record<string, string[]> = {
+    const messages: Record<string, string[]> = {
       en: ["Keep going! 💪", "Very good! ⭐⭐", "Perfect! ⭐⭐⭐"],
       hu: ["Tovább! 💪", "Nagyon jó! ⭐⭐", "Tökéletes! ⭐⭐⭐"],
       de: ["Weiter so! 💪", "Sehr gut! ⭐⭐", "Fantastisch! ⭐⭐⭐"],
       ro: ["Continuă! 💪", "Foarte bine! ⭐⭐", "Perfect! ⭐⭐⭐"],
     };
-    const msg = (msgs[lang] ?? msgs.en)[stars - 1];
+    const message = (messages[lang] ?? messages.en)[stars - 1];
+
     return (
-      <motion.div initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }}
-        className="flex flex-col items-center gap-6 py-8 px-4">
+      <motion.div
+        initial={{ opacity: 0, scale: 0.9 }}
+        animate={{ opacity: 1, scale: 1 }}
+        className="flex flex-col items-center gap-6 px-4 py-8"
+      >
         <div className="text-6xl font-black" style={{ color }}>
           {score}<span className="text-2xl text-white/40">/{total}</span>
         </div>
-        <p className="text-xl font-black text-white/90 text-center">{msg}</p>
-        <motion.button onClick={() => onDone(score, total)}
-          className="w-full max-w-xs py-4 rounded-2xl font-black text-white text-base flex items-center justify-center gap-2"
+        <p className="text-center text-xl font-black text-white/90">{message}</p>
+        <motion.button
+          onClick={() => onDone(score, total)}
+          className="flex w-full max-w-xs items-center justify-center gap-2 rounded-2xl py-4 text-base font-black text-white"
           style={{ background: `linear-gradient(135deg, ${color}55, ${color}AA)`, border: `2px solid ${color}` }}
-          whileTap={{ scale: 0.97 }}>
+          whileTap={{ scale: 0.97 }}
+        >
           {t.next} <ChevronRight size={18} />
         </motion.button>
       </motion.div>
     );
   }
 
-  const fbBg = fb === "correct" ? "rgba(0,255,136,0.18)"
-             : fb === "wrong"   ? "rgba(255,80,80,0.18)"
-             : fb === "missed"  ? "rgba(120,120,120,0.18)"
-             : "transparent";
+  const fbBg = fb === "correct"
+    ? "rgba(0,255,136,0.18)"
+    : fb === "wrong"
+      ? "rgba(255,80,80,0.18)"
+      : "transparent";
 
   return (
-    <div className="flex flex-col gap-4 w-full max-w-sm mx-auto">
-      {/* Progress + score */}
+    <div className="mx-auto flex w-full max-w-sm flex-col gap-4">
       <div className="flex items-center gap-3">
-        <div className="flex-1 flex gap-1">
+        <div className="flex flex-1 gap-1">
           {qs.map((_, i) => (
-            <div key={i} className="flex-1 h-1.5 rounded-full"
-              style={{ background: i < idx ? "#00FF88" : i === idx ? color : "rgba(255,255,255,0.12)" }} />
+            <div
+              key={i}
+              className="h-1.5 flex-1 rounded-full"
+              style={{ background: i < idx ? "#00FF88" : i === idx ? color : "rgba(255,255,255,0.12)" }}
+            />
           ))}
         </div>
         <span className="text-xs font-black" style={{ color }}>
@@ -316,30 +326,38 @@ const TrueFalseBlitz = memo(function TrueFalseBlitz({
         </span>
       </div>
 
-      {/* Statement card */}
       <AnimatePresence mode="wait">
-        <motion.div key={idx}
-          initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }}
-          className="rounded-2xl px-5 py-6 flex flex-col items-center justify-center gap-3 min-h-[130px] transition-colors"
-          style={{ background: fb ? fbBg : "rgba(255,255,255,0.06)", border: `2px solid ${fb ? "transparent" : "rgba(255,255,255,0.1)"}` }}>
-
+        <motion.div
+          key={idx}
+          initial={{ opacity: 0, y: 10 }}
+          animate={{ opacity: 1, y: 0 }}
+          exit={{ opacity: 0 }}
+          className="flex min-h-[130px] flex-col items-center justify-center gap-3 rounded-2xl px-5 py-6 transition-colors"
+          style={{
+            background: fb ? fbBg : "rgba(255,255,255,0.06)",
+            border: `2px solid ${fb ? "transparent" : "rgba(255,255,255,0.1)"}`,
+          }}
+        >
           {fb === null ? (
-            <div className="flex items-center gap-2 justify-center">
-              <p className="text-xl font-black text-white/95 text-center leading-snug flex-1">{q.statement}</p>
+            <div className="flex items-center justify-center gap-2">
+              <p className="flex-1 text-center text-xl font-black leading-snug text-white/95">{q.statement}</p>
               <SpeakButton text={q.statement} lang={lang} size={16} />
             </div>
           ) : (
-            <motion.div initial={{ scale: 0.7, opacity: 0 }} animate={{ scale: 1, opacity: 1 }}
-              className="flex flex-col items-center gap-2">
-              <span className="text-5xl">
-                {fb === "correct" ? "✓" : fb === "wrong" ? "✗" : "⏱"}
-              </span>
-              <span className="text-base font-black"
-                style={{ color: fb === "correct" ? "#00FF88" : fb === "wrong" ? "#FF6B6B" : "#888" }}>
+            <motion.div
+              initial={{ scale: 0.7, opacity: 0 }}
+              animate={{ scale: 1, opacity: 1 }}
+              className="flex flex-col items-center gap-2"
+            >
+              <span className="text-5xl">{fb === "correct" ? "✓" : "✗"}</span>
+              <span
+                className="text-base font-black"
+                style={{ color: fb === "correct" ? "#00FF88" : "#FF6B6B" }}
+              >
                 {fb === "correct" ? t.correct : t.wrong}
               </span>
               {fb !== "correct" && (
-                <p className="text-sm font-bold text-white/60 text-center mt-1">
+                <p className="mt-1 text-center text-sm font-bold text-white/60">
                   <span className="text-white/40">{t.hint} </span>{q.correctStatement}
                 </p>
               )}
@@ -348,27 +366,14 @@ const TrueFalseBlitz = memo(function TrueFalseBlitz({
         </motion.div>
       </AnimatePresence>
 
-      {/* Timer bar (only when waiting) */}
-      {timerSeconds > 0 && (
-        <div className="h-2 bg-white/10 rounded-full overflow-hidden">
-          {fb === null && (
-            <motion.div key={`timer-${idx}`}
-              className="h-full rounded-full origin-left"
-              style={{ background: color }}
-              initial={{ scaleX: 1 }} animate={{ scaleX: 0 }}
-              transition={{ duration: timerSeconds, ease: "linear" }} />
-          )}
-        </div>
-      )}
-
-      {/* True / False buttons */}
       <div className="grid grid-cols-2 gap-3">
         <motion.button
           onClick={() => handleTap(true)}
           disabled={fb !== null}
-          className="py-6 rounded-2xl font-black text-xl flex flex-col items-center gap-1"
+          className="flex flex-col items-center gap-1 rounded-2xl py-6 text-xl font-black"
           style={{ background: "rgba(0,255,136,0.12)", border: "2px solid rgba(0,255,136,0.4)", color: "#00FF88" }}
-          whileTap={{ scale: 0.94 }}>
+          whileTap={{ scale: 0.94 }}
+        >
           <span className="text-3xl">✓</span>
           <span className="text-sm">{t.trueBtn}</span>
         </motion.button>
@@ -376,9 +381,10 @@ const TrueFalseBlitz = memo(function TrueFalseBlitz({
         <motion.button
           onClick={() => handleTap(false)}
           disabled={fb !== null}
-          className="py-6 rounded-2xl font-black text-xl flex flex-col items-center gap-1"
+          className="flex flex-col items-center gap-1 rounded-2xl py-6 text-xl font-black"
           style={{ background: "rgba(255,80,80,0.12)", border: "2px solid rgba(255,80,80,0.4)", color: "#FF6B6B" }}
-          whileTap={{ scale: 0.94 }}>
+          whileTap={{ scale: 0.94 }}
+        >
           <span className="text-3xl">✗</span>
           <span className="text-sm">{t.falseBtn}</span>
         </motion.button>

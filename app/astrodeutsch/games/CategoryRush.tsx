@@ -1,6 +1,6 @@
 "use client";
-// CategoryRush — Category Sorting Rush for AstroDeutsch Klasse 1
-// 15 items, tap the correct category zone before time runs out
+// CategoryRush — Category Sorting for AstroDeutsch Klasse 1
+// 15 items, tap the correct category zone
 // Themes: Vokal/Konsonant, der/die/das, Nomen/Verb
 
 import { memo, useState, useEffect, useRef, useCallback } from "react";
@@ -12,10 +12,9 @@ import { fireWrongAnswer } from "@/components/AITutorOverlay";
 // ─── Labels ───────────────────────────────────────────────────────────────────
 const LABELS: Record<string, Record<string, string>> = {
   en: {
-    hint: "Sort quickly!",
+    hint: "Choose the right category!",
     correct: "Correct! ✓",
     wrong: "Wrong!",
-    missed: "Too slow!",
     done: "Done!",
     score: "Score",
     combo: "Combo",
@@ -24,10 +23,9 @@ const LABELS: Record<string, Record<string, string>> = {
     themeNomenTitle: "Word type",
   },
   hu: {
-    hint: "Rendezz gyorsan!",
+    hint: "Válaszd ki a megfelelő kategóriát!",
     correct: "Helyes! ✓",
     wrong: "Téves!",
-    missed: "Túl lassú!",
     done: "Kész!",
     score: "Pont",
     combo: "Kombó",
@@ -36,10 +34,9 @@ const LABELS: Record<string, Record<string, string>> = {
     themeNomenTitle: "Szófaj",
   },
   de: {
-    hint: "Sortiere schnell!",
+    hint: "Wähle die richtige Kategorie!",
     correct: "Richtig! ✓",
     wrong: "Falsch!",
-    missed: "Zu langsam!",
     done: "Fertig!",
     score: "Punkte",
     combo: "Kombo",
@@ -48,10 +45,9 @@ const LABELS: Record<string, Record<string, string>> = {
     themeNomenTitle: "Wortart",
   },
   ro: {
-    hint: "Sortează rapid!",
+    hint: "Alege categoria corectă!",
     correct: "Corect! ✓",
     wrong: "Greșit!",
-    missed: "Prea lent!",
     done: "Gata!",
     score: "Puncte",
     combo: "Combo",
@@ -157,8 +153,6 @@ const THEMES: Theme[] = [
   },
 ];
 
-// K1: ~1s TTS reads word + ~3s think which category + ~1s tap = ~5s
-const TIMER_SECONDS = 6;
 const TOTAL_ITEMS = 15;
 
 function shuffle<T>(arr: T[]): T[] {
@@ -171,7 +165,7 @@ function shuffle<T>(arr: T[]): T[] {
 }
 
 type Phase = "active" | "feedback";
-type FeedbackType = "correct" | "wrong" | "missed";
+type FeedbackType = "correct" | "wrong";
 
 // ─── Main Component ───────────────────────────────────────────────────────────
 const CategoryRush = memo(function CategoryRush({
@@ -192,7 +186,6 @@ const CategoryRush = memo(function CategoryRush({
   const [combo, setCombo] = useState(0);
   const [phase, setPhase] = useState<Phase>("active");
   const [feedback, setFeedback] = useState<FeedbackType | null>(null);
-  const [timeLeft, setTimeLeft] = useState(TIMER_SECONDS);
   const [highlightCat, setHighlightCat] = useState<string | null>(null); // highlight correct zone on wrong
   const advancingRef = useRef(false);
   const scoreRef = useRef(0);
@@ -216,10 +209,10 @@ const CategoryRush = memo(function CategoryRush({
     setCombo(newCombo);
     comboRef.current = newCombo;
 
-    // Highlight correct zone on wrong/missed
+    // Highlight correct zone on wrong answer
     if (!correct) {
       setHighlightCat(currentItem.category);
-      fireWrongAnswer({ question: currentItem.item, wrongAnswer: fb === "missed" ? "—" : currentItem.item, correctAnswer: currentItem.category, topic: "Category Rush", lang: "de" });
+      fireWrongAnswer({ question: currentItem.item, wrongAnswer: currentItem.item, correctAnswer: currentItem.category, topic: "Category Rush", lang: "de" });
     }
 
     const delay = correct ? 700 : 900;
@@ -234,7 +227,6 @@ const CategoryRush = memo(function CategoryRush({
       setItemIdx(next);
       setFeedback(null);
       setPhase("active");
-      setTimeLeft(TIMER_SECONDS);
     }, delay);
   }, [itemIdx, currentItem, onDone]);
 
@@ -244,25 +236,11 @@ const CategoryRush = memo(function CategoryRush({
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [itemIdx]);
 
-  // Timer
-  useEffect(() => {
-    if (phase !== "active") return;
-    if (timeLeft <= 0) {
-      advance("missed", false);
-      return;
-    }
-    const id = setTimeout(() => setTimeLeft((v) => Math.max(0, v - 0.1)), 100);
-    return () => clearTimeout(id);
-  }, [timeLeft, phase, advance]);
-
   const handleCategoryTap = useCallback((catKey: string) => {
     if (phase !== "active") return;
     const correct = catKey === currentItem.category;
     advance(correct ? "correct" : "wrong", correct);
   }, [phase, currentItem, advance]);
-
-  const timerPct = (timeLeft / TIMER_SECONDS) * 100;
-  const timerColor = timerPct > 55 ? "#00FF88" : timerPct > 25 ? "#FFD700" : "#FF4444";
   const catLabels = theme.categoriesLabel(lang);
 
   return (
@@ -292,20 +270,6 @@ const CategoryRush = memo(function CategoryRush({
           {score}
           <span className="text-white/30">/{TOTAL_ITEMS}</span>
         </span>
-      </div>
-
-      {/* Timer bar */}
-      <div className="h-2.5 bg-white/10 rounded-full overflow-hidden">
-        {phase === "active" && (
-          <motion.div
-            key={`timer-${itemIdx}`}
-            className="h-full rounded-full origin-left"
-            style={{ background: timerColor }}
-            initial={{ scaleX: 1 }}
-            animate={{ scaleX: 0 }}
-            transition={{ duration: TIMER_SECONDS, ease: "linear" }}
-          />
-        )}
       </div>
 
       {/* Instruction + combo */}
@@ -370,19 +334,13 @@ const CategoryRush = memo(function CategoryRush({
             exit={{ opacity: 0 }}
             className="text-center font-black text-base"
             style={{
-              color:
-                feedback === "correct"
-                  ? "#00FF88"
-                  : feedback === "wrong"
-                  ? "#FF6B6B"
-                  : "#888",
-            }}
-          >
-            {feedback === "correct"
-              ? t.correct
-              : feedback === "wrong"
-              ? t.wrong
-              : t.missed}
+                color:
+                  feedback === "correct"
+                    ? "#00FF88"
+                  : "#FF6B6B",
+              }}
+            >
+            {feedback === "correct" ? t.correct : t.wrong}
           </motion.div>
         )}
       </AnimatePresence>

@@ -86,8 +86,8 @@ export default function EnglishTestHub() {
           acquisition, and figurative language.
         </p>
         <p className="text-white/65 text-sm leading-relaxed">
-          Students can select their grade, choose the topics they want to practice, and take a 10–15 question quiz
-          with instant feedback. The test covers multiple-choice and short-answer questions across all key ELA
+          Students can select their grade, choose the topics they want to practice, and take a quiz containing at
+          least 30 questions with instant feedback. The test covers multiple-choice and short-answer questions across all key ELA
           Language topics. At the end, students receive a letter grade (A–F) based on their performance.
         </p>
         <p className="text-white/65 text-sm leading-relaxed">

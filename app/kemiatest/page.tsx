@@ -1,7 +1,7 @@
 "use client";
 
-import { LanguageTestEngine } from "@/app/deutschtest/page";
-import { K5_CURRICULUM, getK5Questions, calculateKemiaMark } from "@/lib/kemiaCurriculum5";
+import { LanguageTestEngine, calculateCountryAwareMark } from "@/app/deutschtest/page";
+import { K5_CURRICULUM, getK5Questions } from "@/lib/kemiaCurriculum5";
 import { K6_CURRICULUM, getK6Questions } from "@/lib/kemiaCurriculum6";
 import { K7_CURRICULUM, getK7Questions } from "@/lib/kemiaCurriculum7";
 import { K8_CURRICULUM, getK8Questions } from "@/lib/kemiaCurriculum8";
@@ -41,7 +41,7 @@ const KEMIA_CONFIG: LanguageTestEngineConfig = {
     { code: "AT", flag: "🇦🇹", label: "Österreich", sub: "Note 1–5" },
     { code: "CH", flag: "🇨🇭", label: "Schweiz", sub: "Note 6–1" },
   ],
-  calculateMark: (pct) => calculateKemiaMark(pct),
+  calculateMark: calculateCountryAwareMark,
 
   curriculum: {
     5: asCurriculumThemes(K5_CURRICULUM),

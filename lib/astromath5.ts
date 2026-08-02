@@ -3,13 +3,13 @@
 
 import { generateTopicQuestions, type MathQuestion } from "./mathCurriculum";
 import type { GameType, SortRound, MatchPair } from "./astromath";
-import type { 
-  Lang, 
-  LocalizedString as L10n, 
-  MathMissionCategory as MissionCategory, 
-  MathMissionConfig as MissionDef, 
-  MathIslandConfig as IslandDef, 
-  MathProgress 
+import type {
+  Lang,
+  LocalizedString as L10n,
+  MathMissionCategory as MissionCategory,
+  MathMissionConfig as MissionDef,
+  MathIslandConfig as IslandDef,
+  MathProgress
 } from "./astroMathConfigShared";
 
 // Re-export shared types with local names for compatibility
@@ -99,9 +99,9 @@ export const G5_ISLANDS: IslandDef[] = [
     id: "i6",
     name: { en: "Geometry", hu: "Geometria", de: "Geometrie", ro: "Geometrie" },
     icon: "📐", color: "#F59E0B", sortRange: [0, 90],
-    topicKeys: ["g5_geo_shapes", "g5_ang_types", "g5_geo_rect"],
+    topicKeys: ["g5_geo_shapes", "g5_ang_types", "g5_geo_coord"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "geometry-explorer-5", icon: "🔍", label: { en: "Shapes Explorer",   hu: "Alakzatok felfedezése",   de: "Formen entdecken",         ro: "Explorare forme"       } },
+      { id: "m1", category: "explore",   gameType: "angle-explorer", icon: "🔍", label: { en: "Shapes Explorer",   hu: "Alakzatok felfedezése",   de: "Formen entdecken",         ro: "Explorare forme"       } },
       { id: "m2", category: "build",     gameType: "m2", gameKey: "speed-match", icon: "⭐", label: { en: "Star Match",       hu: "Csillagpárosítás",        de: "Sternenpaare",             ro: "Perechi stele"         } },
       { id: "m3", category: "challenge", gameType: "m3", gameKey: "timeline-slider", icon: "⚡", label: { en: "Speed Round",       hu: "Gyors kör",               de: "Speedrunde",               ro: "Rundă rapidă"          } },
     ],
@@ -113,7 +113,7 @@ export const G5_ISLANDS: IslandDef[] = [
     icon: "📏", color: "#10B981", sortRange: [1, 1000],
     topicKeys: ["g5_units_len", "g5_units_mass", "g5_units_time"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "unit-explorer-5",   icon: "🔍", label: { en: "Unit Explorer",     hu: "Mértékegységek",          de: "Einheiten entdecken",      ro: "Unități de măsură"      } },
+      { id: "m1", category: "explore",   gameType: "unit-explorer",   icon: "🔍", label: { en: "Unit Explorer",     hu: "Mértékegységek",          de: "Einheiten entdecken",      ro: "Unități de măsură"      } },
       { id: "m2", category: "build",     gameType: "m2", gameKey: "true-false-blitz", icon: "⭐", label: { en: "Star Match",       hu: "Csillagpárosítás",        de: "Sternenpaare",             ro: "Perechi stele"          } },
       { id: "m3", category: "challenge", gameType: "m3", gameKey: "fill-blank", icon: "⚡", label: { en: "Speed Round",       hu: "Gyors kör",               de: "Speedrunde",               ro: "Rundă rapidă"           } },
     ],
@@ -123,7 +123,7 @@ export const G5_ISLANDS: IslandDef[] = [
     id: "i8",
     name: { en: "Area & Volume", hu: "Terület & Térfogat", de: "Fläche & Volumen", ro: "Arie & Volum" },
     icon: "📦", color: "#F97316", sortRange: [1, 500],
-    topicKeys: ["g5_area_rect", "g5_vol_cuboid", "g5_geo_peri"],
+    topicKeys: ["g5_area_rect", "g5_vol_cuboid", "g5_peri_rect"],
     missions: [
       { id: "m1", category: "explore",   gameType: "concept-explorer", icon: "🔍", label: { en: "Area Explorer",     hu: "Terület felfedezése",     de: "Flächen entdecken",        ro: "Explorare arie"        } },
       { id: "m2", category: "build",     gameType: "m2", gameKey: "word-chain", icon: "⭐", label: { en: "Star Match",       hu: "Csillagpárosítás",        de: "Sternenpaare",             ro: "Perechi stele"         } },
@@ -135,7 +135,7 @@ export const G5_ISLANDS: IslandDef[] = [
     id: "i9",
     name: { en: "Statistics", hu: "Statisztika", de: "Statistik", ro: "Statistică" },
     icon: "📊", color: "#EC4899", sortRange: [1, 100],
-    topicKeys: ["g5_stat_mean", "g5_stat_graph", "g5_word_mul"],
+    topicKeys: ["g5_stat_mean", "g5_stat_read", "g5_word_mul"],
     missions: [
       { id: "m1", category: "explore",   gameType: "word-problem-explorer", icon: "🔍", label: { en: "Story Explorer",    hu: "Szöveges feladatok",      de: "Sachaufgaben entdecken",   ro: "Explorare probleme"    } },
       { id: "m2", category: "build",     gameType: "m2", gameKey: "category-rush", icon: "🌪️", label: { en: "Sort Numbers",      hu: "Számrendezés",            de: "Zahlen sortieren",         ro: "Sortează numerele"     } },

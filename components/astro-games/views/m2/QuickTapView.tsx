@@ -59,12 +59,12 @@ export default function QuickTapView({
 
   if (!currentRound) return null;
 
-  const handleNextRound = () => {
+  const handleNextRound = (finalScore = score) => {
     if (roundIdx + 1 < rounds.length) {
       setRoundIdx(roundIdx + 1);
     } else {
       const maxScore = rounds.reduce((acc, r) => acc + r.items.filter(i => i.isTarget).length * 10, 0);
-      onDone(score, maxScore);
+      onDone(finalScore, maxScore);
     }
   };
 
@@ -74,11 +74,12 @@ export default function QuickTapView({
     if (item.isTarget) {
       onCorrect?.();
       const newTapped = new Set(tappedIds).add(item.id);
+      const nextScore = score + 10;
       setTappedIds(newTapped);
-      setScore((s) => s + 10);
+      setScore(nextScore);
 
       if (newTapped.size === targetCount) {
-        setTimeout(handleNextRound, 800);
+        setTimeout(() => handleNextRound(nextScore), 800);
       }
     } else {
       onWrong?.();
@@ -101,14 +102,14 @@ export default function QuickTapView({
     de: "Tippe auf die richtigen Elemente!",
     ro: "Atinge elementele corecte!"
   };
-  const taskText = currentRound.taskDescription 
+  const taskText = currentRound.taskDescription
     ? (currentRound.taskDescription[lang as keyof LocalizedText] || currentRound.taskDescription.en)
     : (defaultTasks[lang] || defaultTasks.en);
 
-  const gridColsClass = currentRound.items.length > 12 
-    ? "grid-cols-4 md:grid-cols-5" 
-    : currentRound.items.length > 8 
-      ? "grid-cols-3 md:grid-cols-4" 
+  const gridColsClass = currentRound.items.length > 12
+    ? "grid-cols-4 md:grid-cols-5"
+    : currentRound.items.length > 8
+      ? "grid-cols-3 md:grid-cols-4"
       : "grid-cols-3";
 
   return (
@@ -155,16 +156,16 @@ export default function QuickTapView({
                 disabled={isTapped}
                 className="relative w-full h-full flex flex-col items-center justify-center rounded-xl font-bold shadow-md focus:outline-none focus:ring-4 focus:ring-offset-2 overflow-hidden"
                 style={{
-                  background: isTapped 
-                    ? 'rgba(255,255,255,0.1)' 
-                    : isError 
-                      ? '#fee2e2' 
+                  background: isTapped
+                    ? 'rgba(255,255,255,0.1)'
+                    : isError
+                      ? '#fee2e2'
                       : 'rgba(255,255,255,0.95)',
                   borderWidth: '2px',
-                  borderColor: isTapped 
-                    ? color || '#4ade80' 
-                    : isError 
-                      ? '#ef4444' 
+                  borderColor: isTapped
+                    ? color || '#4ade80'
+                    : isError
+                      ? '#ef4444'
                       : 'transparent',
                   color: isTapped ? color || '#4ade80' : isError ? '#ef4444' : '#1f2937',
                   minHeight: "64px",

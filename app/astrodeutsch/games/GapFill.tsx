@@ -1,7 +1,6 @@
 "use client";
-// GapFill — Speed Gap Filling for AstroDeutsch Klasse 1
+// GapFill — Gap Filling for AstroDeutsch Klasse 1
 // 10 rounds: sentence with one missing word, pick from 3 options
-// Timer: 6 seconds per question, auto-advance
 
 import { memo, useState, useEffect, useRef, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
@@ -15,7 +14,6 @@ const LABELS: Record<string, Record<string, string>> = {
     hint: "Pick the right word!",
     correct: "Correct! ✓",
     wrong: "Not quite!",
-    missed: "Time's up!",
     done: "Done!",
     score: "Score",
     answer: "Answer:",
@@ -24,7 +22,6 @@ const LABELS: Record<string, Record<string, string>> = {
     hint: "Válaszd a megfelelő szót!",
     correct: "Helyes! ✓",
     wrong: "Nem egészen!",
-    missed: "Idő lejárt!",
     done: "Kész!",
     score: "Pont",
     answer: "Válasz:",
@@ -33,7 +30,6 @@ const LABELS: Record<string, Record<string, string>> = {
     hint: "Wähle das richtige Wort!",
     correct: "Richtig! ✓",
     wrong: "Nicht ganz!",
-    missed: "Zeit um!",
     done: "Fertig!",
     score: "Punkte",
     answer: "Antwort:",
@@ -42,7 +38,6 @@ const LABELS: Record<string, Record<string, string>> = {
     hint: "Alege cuvântul corect!",
     correct: "Corect! ✓",
     wrong: "Nu chiar!",
-    missed: "Timp expirat!",
     done: "Gata!",
     score: "Puncte",
     answer: "Răspuns:",
@@ -96,8 +91,6 @@ const QUESTION_POOL: GapQuestion[] = [
   { before: "Wir lesen ein",    after: ".",               correct: "Buch",    options: ["Buch", "schnell", "spielen"] },
 ];
 
-// K1: ~2s TTS reads sentence + ~4s read 3 options + ~2s decide + ~1s tap = ~9s
-const TIMER_SECONDS = 10;
 const ROUNDS = 10;
 
 function shuffle<T>(arr: T[]): T[] {
@@ -114,7 +107,7 @@ function buildRounds(): GapQuestion[] {
 }
 
 type Phase = "active" | "feedback";
-type FeedbackType = "correct" | "wrong" | "missed";
+type FeedbackType = "correct" | "wrong";
 
 const OPTION_COLORS = ["#3b82f6", "#10b981", "#f59e0b"];
 
@@ -135,7 +128,6 @@ const GapFill = memo(function GapFill({
   const [phase, setPhase] = useState<Phase>("active");
   const [feedback, setFeedback] = useState<FeedbackType | null>(null);
   const [selected, setSelected] = useState<string | null>(null);
-  const [timeLeft, setTimeLeft] = useState(TIMER_SECONDS);
   const advancingRef = useRef(false);
   const scoreRef = useRef(0);
 
@@ -167,7 +159,6 @@ const GapFill = memo(function GapFill({
       setFeedback(null);
       setSelected(null);
       setPhase("active");
-      setTimeLeft(TIMER_SECONDS);
     }, 1000);
   }, [qIdx, onDone]);
 
@@ -179,25 +170,11 @@ const GapFill = memo(function GapFill({
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [qIdx]);
 
-  // Timer
-  useEffect(() => {
-    if (phase !== "active") return;
-    if (timeLeft <= 0) {
-      advance("missed", false, null);
-      return;
-    }
-    const id = setTimeout(() => setTimeLeft((v) => Math.max(0, v - 0.1)), 100);
-    return () => clearTimeout(id);
-  }, [timeLeft, phase, advance]);
-
   const handlePick = useCallback((option: string) => {
     if (phase !== "active") return;
     const correct = option === q.correct;
     advance(correct ? "correct" : "wrong", correct, option);
   }, [phase, q, advance]);
-
-  const timerPct = (timeLeft / TIMER_SECONDS) * 100;
-  const timerColor = timerPct > 55 ? "#00FF88" : timerPct > 25 ? "#FFD700" : "#FF4444";
 
   return (
     <div className="flex flex-col gap-4 w-full max-w-sm mx-auto">
@@ -226,20 +203,6 @@ const GapFill = memo(function GapFill({
           {score}
           <span className="text-white/30">/{ROUNDS}</span>
         </span>
-      </div>
-
-      {/* Timer bar */}
-      <div className="h-2.5 bg-white/10 rounded-full overflow-hidden">
-        {phase === "active" && (
-          <motion.div
-            key={`timer-${qIdx}`}
-            className="h-full rounded-full origin-left"
-            style={{ background: timerColor }}
-            initial={{ scaleX: 1 }}
-            animate={{ scaleX: 0 }}
-            transition={{ duration: TIMER_SECONDS, ease: "linear" }}
-          />
-        )}
       </div>
 
       {/* Instruction */}
@@ -284,8 +247,6 @@ const GapFill = memo(function GapFill({
                   ? "rgba(0,255,136,0.25)"
                   : phase === "feedback" && selected
                   ? "rgba(255,80,80,0.25)"
-                  : phase === "feedback" && !selected
-                  ? "rgba(120,120,120,0.25)"
                   : `${color}30`,
               border: `2px solid ${
                 phase === "feedback" && selected === q.correct
@@ -335,16 +296,10 @@ const GapFill = memo(function GapFill({
                 color:
                   feedback === "correct"
                     ? "#00FF88"
-                    : feedback === "wrong"
-                    ? "#FF6B6B"
-                    : "#888",
+                    : "#FF6B6B",
               }}
             >
-              {feedback === "correct"
-                ? t.correct
-                : feedback === "wrong"
-                ? t.wrong
-                : t.missed}
+              {feedback === "correct" ? t.correct : t.wrong}
             </span>
             {feedback !== "correct" && (
               <span className="text-sm text-white/50">

@@ -89,7 +89,7 @@ export const BIO_K8_ISLANDS: IslandDef[] = [
     icon: "🔬", color: "#E67E22", sortRange: [1, 10],
     topicKeys: ["geschlechtsbestimmung", "contraception"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "sexdetermination-explorer", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
+      { id: "m1", category: "explore",   gameType: "bio-explore", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
       { id: "m2", category: "build",     gameType: "m2", gameKey: "category-rush", icon: "⭐", label: { en: "Practice", hu: "Gyakorlás", de: "Üben", ro: "Practică" } },
       { id: "m3", category: "challenge", gameType: "m3", gameKey: "gap-fill-story", icon: "🚀", label: { en: "Challenge", hu: "Kihívás", de: "Herausforderung", ro: "Provocare" } },
     ],

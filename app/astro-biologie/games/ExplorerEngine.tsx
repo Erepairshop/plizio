@@ -376,17 +376,17 @@ function shuffle<T>(arr: T[]): T[] {
 
 // Common UI labels (not content-specific)
 const UI_LABELS: Record<string, Record<string, string>> = {
-  en: { gotIt: "Got it! →", next: "Next", finish: "Finish", correct: "Correct! ✓", wrong: "Not quite!", orderInProgress: "Keep going!", orderDone: "Perfect! ✓", askWhy: "Why?", askAnything: "Ask anything...", listening: "Listening...", thinking: "Thinking...", aiError: "Couldn't get an answer. Try again!", whatDoYouThink: "What do you think?", funFact: "Fun fact", shareThought: "Share your thought...", letsFind: "Let's find out! →", goodThought: "Interesting thought!", tapToCount: "Tap each one to count!", counted: "counted", great: "Great!", thereAre: "There are", objects: "objects!", whichMore: "Which group has MORE?", leftHas: "Left has", rightHas: "Right has", isMore: "is more!", isEqual: "They are equal!", tapReveal: "Tap to see the answer", wellDone: "Well done!", typeAnswer: "Type your answer...", check: "Check", welcomeHi: "Hey", welcomeTopics: "Today we'll explore:", welcomeGo: "Let's go! →", simpler: "Simpler", example: "Example", similar: "Similar one" },
-  de: { gotIt: "Verstanden! →", next: "Weiter", finish: "Fertig", correct: "Richtig! ✓", wrong: "Nicht ganz!", orderInProgress: "Weiter so!", orderDone: "Perfekt! ✓", askWhy: "Warum?", askAnything: "Frag etwas...", listening: "Hört zu...", thinking: "Denkt nach...", aiError: "Keine Antwort möglich. Versuch nochmal!", whatDoYouThink: "Was denkst du?", funFact: "Wusstest du?", shareThought: "Teile deine Idee...", letsFind: "Lass uns herausfinden! →", goodThought: "Interessanter Gedanke!", tapToCount: "Tippe auf jedes, um zu zählen!", counted: "gezählt", great: "Super!", thereAre: "Es gibt", objects: "Stück!", whichMore: "Welche Gruppe hat MEHR?", leftHas: "Links hat", rightHas: "Rechts hat", isMore: "ist mehr!", isEqual: "Sie sind gleich!", tapReveal: "Tippe für die Antwort", wellDone: "Toll gemacht!", typeAnswer: "Antwort eingeben...", check: "Prüfen", welcomeHi: "Hallo", welcomeTopics: "Heute lernen wir:", welcomeGo: "Los geht's! →", simpler: "Einfacher", example: "Beispiel", similar: "Ähnlich" },
-  hu: { gotIt: "Értem! →", next: "Tovább", finish: "Kész", correct: "Helyes! ✓", wrong: "Nem egészen!", orderInProgress: "Folytasd!", orderDone: "Tökéletes! ✓", askWhy: "Miért?", askAnything: "Kérdezz bármit...", listening: "Hallgatom...", thinking: "Gondolkodom...", aiError: "Nem sikerült válaszolni. Próbáld újra!", whatDoYouThink: "Mit gondolsz?", funFact: "Tudtad?", shareThought: "Oszd meg a gondolatod...", letsFind: "Derítsük ki! →", goodThought: "Érdekes gondolat!", tapToCount: "Koppints mindegyikre a számoláshoz!", counted: "megszámolva", great: "Szuper!", thereAre: "Összesen", objects: "van!", whichMore: "Melyik csoportban van TÖBB?", leftHas: "Bal oldalon", rightHas: "Jobb oldalon", isMore: "a több!", isEqual: "Egyenlőek!", tapReveal: "Koppints a válaszhoz", wellDone: "Ügyes!", typeAnswer: "Írd be a válaszod...", check: "Ellenőrzés", welcomeHi: "Szia", welcomeTopics: "Ma ezeket fedezzük fel:", welcomeGo: "Rajt! →", simpler: "Egyszerűbben", example: "Példával", similar: "Hasonló" },
-  ro: { gotIt: "Înțeles! →", next: "Următorul", finish: "Gata", correct: "Corect! ✓", wrong: "Nu tocmai!", orderInProgress: "Continuă!", orderDone: "Perfect! ✓", askWhy: "De ce?", askAnything: "Întreabă orice...", listening: "Ascult...", thinking: "Mă gândesc...", aiError: "Nu am putut răspunde. Încearcă din nou!", whatDoYouThink: "Ce crezi?", funFact: "Știai că?", shareThought: "Împărtășește gândul tău...", letsFind: "Hai să aflăm! →", goodThought: "Gând interesant!", tapToCount: "Atinge fiecare pentru a număra!", counted: "numărate", great: "Super!", thereAre: "Sunt", objects: "obiecte!", whichMore: "Care grup are MAI MULTE?", leftHas: "Stânga are", rightHas: "Dreapta are", isMore: "este mai mult!", isEqual: "Sunt egale!", tapReveal: "Atinge pentru răspuns", wellDone: "Bravo!", typeAnswer: "Scrie răspunsul...", check: "Verifică", welcomeHi: "Salut", welcomeTopics: "Azi vom explora:", welcomeGo: "Să începem! →", simpler: "Mai simplu", example: "Exemplu", similar: "Una similară" },
+  en: { gotIt: "Got it! →", next: "Next", finish: "Finish", correct: "Correct! ✓", wrong: "Not quite!", orderInProgress: "Keep going!", orderDone: "Perfect! ✓", askWhy: "Why?", askAnything: "Ask anything...", listening: "Listening...", thinking: "Thinking...", aiError: "Couldn't get an answer. Try again!", whatDoYouThink: "What do you think?", funFact: "Fun fact", shareThought: "Share your thought...", letsFind: "Let's find out! →", goodThought: "Interesting thought!", tapToCount: "Tap each one to count!", counted: "counted", great: "Great!", thereAre: "There are", objects: "objects!", whichMore: "Which group has MORE?", leftHas: "Left has", rightHas: "Right has", isMore: "is more!", isEqual: "They are equal!", tapReveal: "Tap to see the answer", wellDone: "Well done!", typeAnswer: "Type your answer...", check: "Check", welcomeHi: "Hey", welcomeTopics: "Today we'll explore:", welcomeGo: "Let's go! →", simpler: "Simpler", example: "Example", similar: "Similar one", unavailableTitle: "This explorer is unavailable right now.", unavailableBody: "There isn't any content to show here yet.", close: "Close", back: "Back" },
+  de: { gotIt: "Verstanden! →", next: "Weiter", finish: "Fertig", correct: "Richtig! ✓", wrong: "Nicht ganz!", orderInProgress: "Weiter so!", orderDone: "Perfekt! ✓", askWhy: "Warum?", askAnything: "Frag etwas...", listening: "Hört zu...", thinking: "Denkt nach...", aiError: "Keine Antwort möglich. Versuch nochmal!", whatDoYouThink: "Was denkst du?", funFact: "Wusstest du?", shareThought: "Teile deine Idee...", letsFind: "Lass uns herausfinden! →", goodThought: "Interessanter Gedanke!", tapToCount: "Tippe auf jedes, um zu zählen!", counted: "gezählt", great: "Super!", thereAre: "Es gibt", objects: "Stück!", whichMore: "Welche Gruppe hat MEHR?", leftHas: "Links hat", rightHas: "Rechts hat", isMore: "ist mehr!", isEqual: "Sie sind gleich!", tapReveal: "Tippe für die Antwort", wellDone: "Toll gemacht!", typeAnswer: "Antwort eingeben...", check: "Prüfen", welcomeHi: "Hallo", welcomeTopics: "Heute lernen wir:", welcomeGo: "Los geht's! →", simpler: "Einfacher", example: "Beispiel", similar: "Ähnlich", unavailableTitle: "Dieser Explorer ist gerade nicht verfügbar.", unavailableBody: "Hier gibt es noch keine Inhalte zum Anzeigen.", close: "Schließen", back: "Zurück" },
+  hu: { gotIt: "Értem! →", next: "Tovább", finish: "Kész", correct: "Helyes! ✓", wrong: "Nem egészen!", orderInProgress: "Folytasd!", orderDone: "Tökéletes! ✓", askWhy: "Miért?", askAnything: "Kérdezz bármit...", listening: "Hallgatom...", thinking: "Gondolkodom...", aiError: "Nem sikerült válaszolni. Próbáld újra!", whatDoYouThink: "Mit gondolsz?", funFact: "Tudtad?", shareThought: "Oszd meg a gondolatod...", letsFind: "Derítsük ki! →", goodThought: "Érdekes gondolat!", tapToCount: "Koppints mindegyikre a számoláshoz!", counted: "megszámolva", great: "Szuper!", thereAre: "Összesen", objects: "van!", whichMore: "Melyik csoportban van TÖBB?", leftHas: "Bal oldalon", rightHas: "Jobb oldalon", isMore: "a több!", isEqual: "Egyenlőek!", tapReveal: "Koppints a válaszhoz", wellDone: "Ügyes!", typeAnswer: "Írd be a válaszod...", check: "Ellenőrzés", welcomeHi: "Szia", welcomeTopics: "Ma ezeket fedezzük fel:", welcomeGo: "Rajt! →", simpler: "Egyszerűbben", example: "Példával", similar: "Hasonló", unavailableTitle: "Ez a felfedező most nem érhető el.", unavailableBody: "Itt még nincs megjeleníthető tartalom.", close: "Bezárás", back: "Vissza" },
+  ro: { gotIt: "Înțeles! →", next: "Următorul", finish: "Gata", correct: "Corect! ✓", wrong: "Nu tocmai!", orderInProgress: "Continuă!", orderDone: "Perfect! ✓", askWhy: "De ce?", askAnything: "Întreabă orice...", listening: "Ascult...", thinking: "Mă gândesc...", aiError: "Nu am putut răspunde. Încearcă din nou!", whatDoYouThink: "Ce crezi?", funFact: "Știai că?", shareThought: "Împărtășește gândul tău...", letsFind: "Hai să aflăm! →", goodThought: "Gând interesant!", tapToCount: "Atinge fiecare pentru a număra!", counted: "numărate", great: "Super!", thereAre: "Sunt", objects: "obiecte!", whichMore: "Care grup are MAI MULTE?", leftHas: "Stânga are", rightHas: "Dreapta are", isMore: "este mai mult!", isEqual: "Sunt egale!", tapReveal: "Atinge pentru răspuns", wellDone: "Bravo!", typeAnswer: "Scrie răspunsul...", check: "Verifică", welcomeHi: "Salut", welcomeTopics: "Azi vom explora:", welcomeGo: "Să începem! →", simpler: "Mai simplu", example: "Exemplu", similar: "Una similară", unavailableTitle: "Acest explorer nu este disponibil acum.", unavailableBody: "Nu există încă vreun conținut de afișat aici.", close: "Închide", back: "Înapoi" },
 };
 
 // ─────────────────────────────────────────────────────────────────────────────
 // Engine Component
 // ─────────────────────────────────────────────────────────────────────────────
 
-type Phase = "welcome" | "info" | "question" | "think-first" | "interactive"
+type Phase = "welcome" | "info" | "question" | "think-first" | "interactive" | "unavailable"
   | "topic-teach" | "topic-interact" | "topic-quiz";
 
 // ─── Play count tracking (localStorage) ──────────────────────────────────
@@ -397,6 +397,10 @@ function getPlayCount(id: string): number {
 function incrementPlayCount(id: string): void {
   if (typeof window === "undefined") return;
   try { localStorage.setItem(`explorer_plays_${id}`, String(getPlayCount(id) + 1)); } catch { /* */ }
+}
+
+function hasRenderableExplorerContent(def: ExplorerDef): boolean {
+  return (def.topics?.length ?? 0) > 0 || (def.rounds?.length ?? 0) > 0;
 }
 
 function deriveSubject(explorerId?: string): AISubject {
@@ -423,9 +427,10 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
   const t = def.labels[langCode] ?? def.labels.en ?? def.labels.de ?? Object.values(def.labels)[0] ?? {};
   const tFallback = def.labels.en ?? def.labels.de ?? Object.values(def.labels)[0] ?? {};
   const ui = UI_LABELS[langCode] || UI_LABELS.en;
-  const rounds = def.rounds;
+  const rounds = def.rounds ?? [];
   const totalRounds = rounds.length;
   const aiSubject = useMemo(() => subject || deriveSubject(explorerId), [explorerId, subject]);
+  const hasRenderableContent = hasRenderableExplorerContent(def);
 
   // AI auto mode disabled: keep only manual helper buttons.
   const aiEnhanced = false;
@@ -483,11 +488,18 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
   const [topicPhase, setTopicPhase] = useState<"topic-teach" | "topic-interact" | "topic-quiz">("topic-teach");
 
   const [phase, setPhase] = useState<Phase>(
-    hasWelcome ? "welcome"
+    !hasRenderableContent ? "unavailable"
+    : hasWelcome ? "welcome"
     : isTopicMode ? "topic-teach"
     : firstIsInteractive ? "interactive"
     : "info"
   );
+
+  useEffect(() => {
+    if (!hasRenderableContent && process.env.NODE_ENV !== "production") {
+      console.error("[ExplorerEngine] ExplorerDef invariant failed: expected at least one round or topic.", def);
+    }
+  }, [def, hasRenderableContent]);
 
   // Mascot image — changes based on current phase
   const mascotSrc =
@@ -581,6 +593,7 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
   }, [round, currentRound, shuffledQuestions]);
 
   const advanceRound = useCallback(() => {
+    if (totalRounds === 0) return;
     if (round < totalRounds - 1) {
       const nextRound = rounds[round + 1];
       const nextIsInteractive = nextRound && (nextRound.type === "tap-count" || nextRound.type === "compare" || nextRound.type === "fill-in" || nextRound.type === "custom");
@@ -733,15 +746,20 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
   // Dismiss welcome → go to first round
   const dismissWelcome = useCallback(() => {
     window.speechSynthesis.cancel();
+    if (!hasRenderableContent) {
+      setPhase("unavailable");
+      return;
+    }
     if (isTopicMode) {
       setPhase("topic-teach");
     } else {
       setPhase(firstIsInteractive ? "interactive" : "info");
     }
-  }, [firstIsInteractive, isTopicMode]);
+  }, [firstIsInteractive, hasRenderableContent, isTopicMode]);
 
   // ── Topic-mode: advance through teach → interact → quiz → next topic ───
   const advanceTopicPhase = useCallback(() => {
+    if (totalTopics === 0) return;
     if (topicPhase === "topic-teach") {
       setTopicPhase("topic-interact");
       setPhase("topic-interact");
@@ -981,11 +999,23 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
     setThinkFeedback(null);
   }, [round]);
 
+  const handleClose = useCallback(() => {
+    window.speechSynthesis?.cancel?.();
+    if (onClose) {
+      onClose();
+      return;
+    }
+    if (typeof window !== "undefined") {
+      window.history.back();
+    }
+  }, [onClose]);
+
   return (
     <div className="min-h-screen bg-[#060614] text-white px-4 py-6 flex flex-col items-center justify-center relative overflow-hidden">
       {/* Close button */}
       <button
-        onClick={() => onClose ? onClose() : onDone?.(scoreRef.current, totalRef.current)}
+        onClick={handleClose}
+        aria-label={onClose ? ui.close : ui.back}
         className="absolute top-4 left-4 w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 hover:text-white transition-colors text-lg font-bold z-10"
       >✕</button>
 
@@ -1098,8 +1128,44 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
         </motion.div>
       )}
 
-      {/* ── TOPIC-MODE PROGRESS + RENDER ── */}
-      {isTopicMode && phase !== "welcome" ? (
+      {phase === "unavailable" ? (
+        <motion.div
+          key="unavailable"
+          initial={{ opacity: 0, y: 16 }}
+          animate={{ opacity: 1, y: 0 }}
+          className="w-full max-w-md"
+        >
+          <div
+            className="rounded-3xl border p-6 text-center shadow-[0_20px_60px_rgba(0,0,0,0.35)]"
+            style={{ background: "rgba(255,255,255,0.06)", borderColor: `${color}33` }}
+          >
+            {def.icon && (
+              <div
+                className="mx-auto mb-4 flex h-16 w-16 items-center justify-center rounded-2xl text-3xl"
+                style={{ background: `${color}1f`, border: `1px solid ${color}44` }}
+              >
+                {def.icon}
+              </div>
+            )}
+            {def.title && (
+              <p className="mb-2 text-sm font-bold uppercase tracking-[0.2em]" style={{ color }}>
+                {L(def.title)}
+              </p>
+            )}
+            <h2 className="text-2xl font-black text-white">{ui.unavailableTitle}</h2>
+            <p className="mt-3 text-sm leading-relaxed text-white/70">{ui.unavailableBody}</p>
+            <button
+              onClick={handleClose}
+              className="mt-5 inline-flex min-w-36 items-center justify-center rounded-2xl px-5 py-3 font-bold text-white transition-transform hover:scale-[1.01]"
+              style={{ background: `linear-gradient(135deg, ${color}, ${color}cc)` }}
+            >
+              {onClose ? ui.close : ui.back}
+            </button>
+          </div>
+        </motion.div>
+      ) : (
+      /* ── TOPIC-MODE PROGRESS + RENDER ── */
+      isTopicMode && phase !== "welcome" ? (
         <>
           {/* Topic progress: grouped dots (teach·interact·quiz) per topic */}
           <div className="flex gap-3 mb-6 items-center">
@@ -1432,10 +1498,17 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
                       );
                     }
                     if (inter.type === "word-order") {
-                      // Filter out empty-resolved words; rebuild correctOrder to match filtered array
-                      const woWords = inter.words.map(w => L(w)).filter(w => w !== "");
-                      // correctOrder maps positions; if original is sequential, rebuilt is sequential too
-                      const woCorrectOrder = woWords.map((_, i) => i);
+                      // Preserve the configured order while remapping indices after empty labels are removed.
+                      const resolvedWords = inter.words
+                        .map((word, originalIndex) => ({ word: L(word), originalIndex }))
+                        .filter(({ word }) => word !== "");
+                      const woWords = resolvedWords.map(({ word }) => word);
+                      const remappedIndices = new Map(
+                        resolvedWords.map(({ originalIndex }, newIndex) => [originalIndex, newIndex]),
+                      );
+                      const woCorrectOrder = inter.correctOrder
+                        .map((originalIndex) => remappedIndices.get(originalIndex))
+                        .filter((index): index is number => index !== undefined);
                       return (
                         <WordOrder
                           words={woWords}
@@ -2498,7 +2571,7 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
         </AnimatePresence>
       </div>
         </>
-      ) : null}
+      ) : null)}
 
       {/* ── MASCOT ── phase-aware robot character, top-right corner */}
       <motion.div

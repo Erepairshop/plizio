@@ -1,10 +1,9 @@
 "use client";
 
-import { LanguageTestEngine } from "@/app/deutschtest/page";
+import { LanguageTestEngine, calculateCountryAwareMark } from "@/app/deutschtest/page";
 import {
   GESCHICHTE_CURRICULUM,
   getGeschichteQuestions,
-  calculateGeschichteMark,
   GESCHICHTE_SUBTOPIC_HINTS,
   getCurriculumForCountry,
 } from "@/lib/geschichteCurriculum";
@@ -40,10 +39,7 @@ const GESCHICHTE_CONFIG: LanguageTestEngineConfig = {
     { code: "AT", flag: "🇦🇹", label: "Österreich", sub: "Note 1–5" },
     { code: "CH", flag: "🇨🇭", label: "Schweiz", sub: "Note 6–1" },
   ],
-  calculateMark: (pct, country) => {
-    const m = calculateGeschichteMark(pct);
-    return { note: m.label, label: m.description, color: m.color, emoji: m.emoji };
-  },
+  calculateMark: calculateCountryAwareMark,
 
   curriculum: GESCHICHTE_CURRICULUM as any,
   getCurriculumForCountry: getCurriculumForCountry as any,

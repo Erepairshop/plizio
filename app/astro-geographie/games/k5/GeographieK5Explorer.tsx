@@ -2,7 +2,7 @@
 
 import DynamicExplorer from "@/components/DynamicExplorer";
 import { useLang } from "@/components/LanguageProvider";
-import { GEO_K5_LABELS, GEO_K5_POOL } from "@/lib/explorerPools/geographieK5";
+import * as geo from "@/lib/explorerPools/geographieK5";
 
 interface Props {
   island?: any;
@@ -13,18 +13,21 @@ interface Props {
   onClose?: () => void;
 }
 
-export default function GeographieK5Explorer({ color = "#06B6D4", lang: langProp, onDone, onClose }: Props) {
+export default function GeographieK5Explorer({ island, color = "#06B6D4", lang: langProp, onDone, onClose }: Props) {
   const { lang: contextLang } = useLang();
   const lang = langProp ?? (contextLang as "de" | "en" | "hu" | "ro") ?? "de";
+  const islandId = /^i[1-9]$/.test(island?.id ?? "") ? island.id : "i1";
+  const pool = geo[`GEO_K5_${islandId.toUpperCase()}_POOL` as keyof typeof geo] as typeof geo.GEO_K5_POOL;
+  const labels = geo[`GEO_K5_${islandId.toUpperCase()}_LABELS` as keyof typeof geo] as typeof geo.GEO_K5_LABELS;
 
   return (
     <DynamicExplorer
-      pool={GEO_K5_POOL}
-      labels={GEO_K5_LABELS}
+      pool={pool}
+      labels={labels}
       title="explorer_title"
       icon="🗺️"
       count={5}
-      explorerId="geographie_k5_core"
+      explorerId={`geographie_k5_${islandId}`}
       subject="geographie"
       color={color}
       lang={lang}

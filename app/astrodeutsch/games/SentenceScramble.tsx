@@ -1,7 +1,6 @@
 "use client";
 // SentenceScramble — Sentence Building Challenge for AstroDeutsch Klasse 1
 // 8 rounds: shuffled word tiles, tap to build the sentence in correct order
-// Timer: 12 seconds per sentence, auto-advance on timeout
 
 import { memo, useState, useEffect, useRef, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
@@ -15,7 +14,6 @@ const LABELS: Record<string, Record<string, string>> = {
     hint: "Build the sentence!",
     correct: "Perfect! ✓",
     wrong: "Not quite!",
-    missed: "Time's up!",
     done: "Done!",
     tapWords: "Tap the words in order",
     correctSentence: "Correct:",
@@ -25,7 +23,6 @@ const LABELS: Record<string, Record<string, string>> = {
     hint: "Rakd össze a mondatot!",
     correct: "Tökéletes! ✓",
     wrong: "Nem egészen!",
-    missed: "Idő lejárt!",
     done: "Kész!",
     tapWords: "Érintsd meg a szavakat sorban",
     correctSentence: "Helyes:",
@@ -35,7 +32,6 @@ const LABELS: Record<string, Record<string, string>> = {
     hint: "Bilde den Satz!",
     correct: "Super! ✓",
     wrong: "Nicht ganz!",
-    missed: "Zeit um!",
     done: "Fertig!",
     tapWords: "Tippe die Wörter der Reihe nach",
     correctSentence: "Richtig:",
@@ -45,7 +41,6 @@ const LABELS: Record<string, Record<string, string>> = {
     hint: "Formează propoziția!",
     correct: "Perfect! ✓",
     wrong: "Nu chiar!",
-    missed: "Timp expirat!",
     done: "Gata!",
     tapWords: "Apasă cuvintele în ordine",
     correctSentence: "Corect:",
@@ -84,8 +79,6 @@ const SENTENCE_POOL: Sentence[] = [
   { words: ["Papa", "fährt", "Auto"], punct: "." },
 ];
 
-// K1: ~3s TTS reads sentence + ~10s tap 4-6 words in order + ~2s think = ~15s
-const TIMER_SECONDS = 18;
 const ROUNDS = 8;
 
 function shuffle<T>(arr: T[]): T[] {
@@ -102,7 +95,7 @@ function buildRounds(): Sentence[] {
 }
 
 type Phase = "active" | "feedback";
-type FeedbackType = "correct" | "wrong" | "missed";
+type FeedbackType = "correct" | "wrong";
 
 // ─── Main Component ───────────────────────────────────────────────────────────
 const SentenceScramble = memo(function SentenceScramble({
@@ -120,7 +113,6 @@ const SentenceScramble = memo(function SentenceScramble({
   const [score, setScore] = useState(0);
   const [phase, setPhase] = useState<Phase>("active");
   const [feedback, setFeedback] = useState<FeedbackType | null>(null);
-  const [timeLeft, setTimeLeft] = useState(TIMER_SECONDS);
   // tileOrder[i] = index into current sentence's words (shuffled)
   const [tileOrder, setTileOrder] = useState<number[]>(() =>
     shuffle(Array.from({ length: rounds[0].words.length }, (_, i) => i))
@@ -155,7 +147,6 @@ const SentenceScramble = memo(function SentenceScramble({
       setPlacedTiles([]);
       setFeedback(null);
       setPhase("active");
-      setTimeLeft(TIMER_SECONDS);
     }, 1200);
   }, [roundIdx, rounds, onDone]);
 
@@ -165,17 +156,6 @@ const SentenceScramble = memo(function SentenceScramble({
     speak(sentence, "de");
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [roundIdx]);
-
-  // Timer
-  useEffect(() => {
-    if (phase !== "active") return;
-    if (timeLeft <= 0) {
-      advance("missed", false);
-      return;
-    }
-    const id = setTimeout(() => setTimeLeft((v) => Math.max(0, v - 0.1)), 100);
-    return () => clearTimeout(id);
-  }, [timeLeft, phase, advance]);
 
   const handleTileTap = useCallback((wordIdx: number) => {
     if (phase !== "active") return;
@@ -196,9 +176,6 @@ const SentenceScramble = memo(function SentenceScramble({
       fireWrongAnswer({ question: currentSentence.words.join(" ") + currentSentence.punct, wrongAnswer: currentSentence.words[wordIdx] || "", correctAnswer: currentSentence.words[nextPos] || "", topic: "Sentence Scramble", lang: "de" });
     }
   }, [phase, placedTiles, currentSentence, advance]);
-
-  const timerPct = (timeLeft / TIMER_SECONDS) * 100;
-  const timerColor = timerPct > 55 ? "#00FF88" : timerPct > 25 ? "#FFD700" : "#FF4444";
 
   return (
     <div className="flex flex-col gap-4 w-full max-w-sm mx-auto">
@@ -227,20 +204,6 @@ const SentenceScramble = memo(function SentenceScramble({
           {score}
           <span className="text-white/30">/{ROUNDS}</span>
         </span>
-      </div>
-
-      {/* Timer bar */}
-      <div className="h-2.5 bg-white/10 rounded-full overflow-hidden">
-        {phase === "active" && (
-          <motion.div
-            key={`timer-${roundIdx}`}
-            className="h-full rounded-full origin-left"
-            style={{ background: timerColor }}
-            initial={{ scaleX: 1 }}
-            animate={{ scaleX: 0 }}
-            transition={{ duration: TIMER_SECONDS, ease: "linear" }}
-          />
-        )}
       </div>
 
       {/* Instruction */}
@@ -311,16 +274,10 @@ const SentenceScramble = memo(function SentenceScramble({
                 color:
                   feedback === "correct"
                     ? "#00FF88"
-                    : feedback === "wrong"
-                    ? "#FF6B6B"
-                    : "#888",
+                    : "#FF6B6B",
               }}
             >
-              {feedback === "correct"
-                ? t.correct
-                : feedback === "wrong"
-                ? t.wrong
-                : t.missed}
+              {feedback === "correct" ? t.correct : t.wrong}
             </span>
             {feedback !== "correct" && (
               <span className="text-sm text-white/50 text-center">
