@@ -1,6 +1,7 @@
 // lib/astroGeographie6.ts
 import type { IslandDef, Lang, MathQuestion, GeographieProgress } from "./astroGeographie";
 import {
+  buildGeographieSaveKey,
   loadGeographieProgress, saveGeographieProgress, isMissionDone, isIslandDone,
   isIslandUnlocked, isCheckpointUnlocked, isCheckpointDone,
   completeMission, islandTotalStars, completeTest,
@@ -69,8 +70,9 @@ export const K6_ISLANDS: IslandDef[] = [
     ], svgX: 190, svgY: -90 },
 ];
 
-export function loadK6Progress(): GeographieProgress { return loadGeographieProgress(K6_SAVE_KEY, K6_ISLANDS); }
-export function saveK6Progress(p: GeographieProgress): void { saveGeographieProgress(K6_SAVE_KEY, p); }
+export function getK6ProgressKey(variantId?: string): string { return buildGeographieSaveKey(K6_SAVE_KEY, variantId); }
+export function loadK6Progress(variantId?: string): GeographieProgress { return loadGeographieProgress(getK6ProgressKey(variantId), K6_ISLANDS); }
+export function saveK6Progress(p: GeographieProgress, variantId?: string): void { saveGeographieProgress(getK6ProgressKey(variantId), p); }
 export function isMissionDoneK6(p: GeographieProgress, i: string, m: string): boolean { return isMissionDone(p, i, m); }
 export function isIslandDoneK6(p: GeographieProgress, i: string): boolean { return isIslandDone(p, i); }
 export function isIslandUnlockedK6(p: GeographieProgress, i: string): boolean { return isIslandUnlocked(p, K6_ISLANDS, i); }

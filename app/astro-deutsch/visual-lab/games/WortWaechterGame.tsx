@@ -78,7 +78,7 @@ export default function WortWaechterGame({
   };
 
   return (
-    <div className="relative w-full h-[500px] rounded-xl overflow-hidden" style={{ background: round.theme.bg }}>
+    <div className="relative w-full h-[clamp(360px,72dvh,500px)] rounded-xl overflow-hidden" style={{ background: round.theme.bg }}>
       {/* BG radial glow */}
       <div className="absolute inset-0 pointer-events-none"
         style={{ background: `radial-gradient(ellipse at 50% 100%, ${round.theme.accent}22, transparent 65%)` }} />
@@ -95,7 +95,7 @@ export default function WortWaechterGame({
         </div>
         <div className="bg-black/50 px-3 py-1 rounded-full border text-xs font-bold"
           style={{ borderColor: `${round.theme.accent}50`, color: round.theme.accent }}>
-          {round.instruction.de}
+          {round.instruction[lang] ?? round.instruction.de}
         </div>
       </div>
 

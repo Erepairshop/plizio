@@ -215,19 +215,19 @@ export default function FormulaBlitzGame({ grade, lang, onDone }: FormulaBlitzGa
     <motion.div
       animate={shake ? { x: [-10, 10, -10, 10, 0] } : {}}
       transition={{ duration: 0.4 }}
-      className="relative w-full max-w-4xl h-[800px] overflow-hidden bg-gradient-to-b from-slate-950 via-indigo-950/20 to-slate-950 font-sans mx-auto shadow-[0_0_50px_rgba(6,182,212,0.15)] rounded-2xl border border-slate-800"
+      className="relative w-full max-w-4xl h-[calc(100dvh-2rem)] min-h-[520px] max-h-[800px] overflow-hidden bg-gradient-to-b from-slate-950 via-indigo-950/20 to-slate-950 font-sans mx-auto shadow-[0_0_50px_rgba(6,182,212,0.15)] rounded-2xl border border-slate-800"
     >
       <Starfield />
 
       {/* HEADER: Progress, Pontok, Életek */}
-      <div className="absolute top-0 left-0 right-0 p-6 z-20 flex flex-col gap-4 select-none bg-gradient-to-b from-slate-950/80 to-transparent">
+      <div className="absolute top-0 left-0 right-0 p-3 sm:p-6 z-20 flex flex-col gap-2 sm:gap-4 select-none bg-gradient-to-b from-slate-950/80 to-transparent">
         <div className="flex justify-between items-center text-white">
           <div className="flex flex-col">
-            <h1 className="text-3xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-500 drop-shadow-sm">
+            <h1 className="text-lg sm:text-3xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-500 drop-shadow-sm">
               {t.title}
             </h1>
             <div className="flex items-center gap-3 mt-1">
-              <p className="text-lg text-slate-300">
+              <p className="text-sm sm:text-lg text-slate-300">
                 {t.score}: <span className="font-mono text-cyan-300 font-bold">{score}</span> / {goal}
               </p>
               {combo >= 2 && (
@@ -240,7 +240,7 @@ export default function FormulaBlitzGame({ grade, lang, onDone }: FormulaBlitzGa
               )}
             </div>
           </div>
-          <div className="flex space-x-2 text-3xl drop-shadow-[0_0_10px_rgba(239,68,68,0.5)]">
+          <div className="flex space-x-1 sm:space-x-2 text-xl sm:text-3xl drop-shadow-[0_0_10px_rgba(239,68,68,0.5)]">
             {[...Array(3)].map((_, i) => (
               <motion.span key={i} animate={i >= lives ? { opacity: 0.3, scale: 0.8, filter: "grayscale(100%)" } : { scale: [1, 1.1, 1] }} transition={{ duration: 0.5 }}>
                 ❤️
@@ -267,7 +267,7 @@ export default function FormulaBlitzGame({ grade, lang, onDone }: FormulaBlitzGa
             initial={{ opacity: 0, scale: 0.8 }} animate={{ opacity: 1, scale: 1 }} exit={{ opacity: 0, scale: 0.8 }}
             className="absolute inset-0 flex flex-col items-center justify-center pointer-events-none select-none z-10"
           >
-            <p className="text-cyan-200 text-xl mb-6 bg-cyan-950/40 border border-cyan-800/50 px-6 py-2 rounded-full backdrop-blur-md shadow-lg">
+            <p className="mx-3 text-center text-cyan-200 text-sm sm:text-xl mb-3 sm:mb-6 bg-cyan-950/40 border border-cyan-800/50 px-3 sm:px-6 py-2 rounded-full backdrop-blur-md shadow-lg">
               {question.question[lang]}
             </p>
             
@@ -277,21 +277,21 @@ export default function FormulaBlitzGame({ grade, lang, onDone }: FormulaBlitzGa
                 feedback === "wrong" ? { x: [-10, 10, -10, 10, 0], borderColor: "#ef4444", boxShadow: "0 0 60px rgba(239, 68, 68, 0.4)" } : 
                 { scale: 1, borderColor: "#06b6d4", boxShadow: "0 0 30px rgba(6, 182, 212, 0.1)" }
               }
-              className="border-4 rounded-3xl p-12 bg-slate-900/60 backdrop-blur-xl flex flex-col items-center relative overflow-hidden group"
+              className="border-2 sm:border-4 rounded-2xl sm:rounded-3xl p-6 sm:p-12 bg-slate-900/60 backdrop-blur-xl flex flex-col items-center relative overflow-hidden group"
             >
               {/* Glass reflection */}
               <div className="absolute inset-0 bg-gradient-to-tr from-white/5 to-transparent opacity-50"></div>
-              <h2 className="text-7xl font-mono font-bold text-white tracking-widest drop-shadow-[0_0_15px_rgba(255,255,255,0.5)] z-10">
+              <h2 className="text-4xl sm:text-7xl font-mono font-bold text-white tracking-wide sm:tracking-widest drop-shadow-[0_0_15px_rgba(255,255,255,0.5)] z-10">
                 {question.formula}
               </h2>
             </motion.div>
             
-            <p className="text-slate-400 text-lg mt-6 font-mono tracking-widest">[{question.unit}]</p>
+            <p className="text-slate-400 text-sm sm:text-lg mt-3 sm:mt-6 font-mono tracking-widest">[{question.unit}]</p>
             
             <AnimatePresence>
               {feedback && (
                 <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }}
-                  className={`absolute mt-64 text-4xl font-extrabold tracking-wider uppercase drop-shadow-xl ${feedback === "correct" ? "text-green-400" : "text-red-500"}`}
+                  className={`absolute mt-48 sm:mt-64 text-2xl sm:text-4xl font-extrabold tracking-wider uppercase drop-shadow-xl ${feedback === "correct" ? "text-green-400" : "text-red-500"}`}
                 >
                   {feedback === "correct" ? t.correct : t.wrong}
                 </motion.div>
@@ -328,14 +328,14 @@ export default function FormulaBlitzGame({ grade, lang, onDone }: FormulaBlitzGa
             transition={{ y: { repeat: Infinity, duration: fallDuration, ease: "linear" } }}
             style={{ left: item.xPos }}
             onClick={(e) => handleMeteorClick(e, item.isCorrect)}
-            className="absolute top-0 w-24 h-24 cursor-pointer group z-20 flex items-center justify-center"
+            className="absolute top-0 w-16 h-16 sm:w-24 sm:h-24 cursor-pointer group z-20 flex items-center justify-center"
           >
             {/* Láng csóva effekt */}
             <div className="absolute -top-12 w-12 h-20 bg-gradient-to-t from-orange-500 via-yellow-500/50 to-transparent blur-xl rounded-t-full opacity-70 group-hover:opacity-100 transition-opacity"></div>
             {/* Maga a meteor test (Glassmorphism) */}
             <div className="relative w-full h-full bg-gradient-to-br from-orange-400 to-red-600 rounded-2xl shadow-[0_0_30px_rgba(249,115,22,0.6)] border border-orange-300/50 flex items-center justify-center overflow-hidden transform group-hover:scale-110 group-active:scale-95 transition-all">
               <div className="absolute inset-0 bg-white/20"></div>
-              <span className="text-white text-3xl font-bold font-mono z-10 drop-shadow-[0_2px_2px_rgba(0,0,0,0.8)]">
+              <span className="text-white text-xl sm:text-3xl font-bold font-mono z-10 drop-shadow-[0_2px_2px_rgba(0,0,0,0.8)]">
                 {item.text}
               </span>
             </div>
@@ -351,12 +351,12 @@ export default function FormulaBlitzGame({ grade, lang, onDone }: FormulaBlitzGa
           >
             <motion.div
               initial={{ scale: 0.8, y: 50 }} animate={{ scale: 1, y: 0 }}
-              className="bg-slate-900 border border-slate-700/50 p-10 rounded-3xl shadow-[0_0_100px_rgba(0,0,0,0.8)] text-center max-w-md w-full mx-4 relative overflow-hidden"
+              className="bg-slate-900 border border-slate-700/50 p-6 sm:p-10 rounded-3xl shadow-[0_0_100px_rgba(0,0,0,0.8)] text-center max-w-md w-full mx-4 relative overflow-hidden"
             >
               {/* Glow a modal mögött */}
               <div className={`absolute -top-32 -left-32 w-64 h-64 rounded-full blur-3xl opacity-20 ${gameState === "won" ? "bg-green-500" : "bg-red-500"}`}></div>
               
-              <h2 className={`text-5xl font-extrabold mb-2 drop-shadow-md ${gameState === "won" ? "text-green-400" : "text-red-500"}`}>
+              <h2 className={`text-3xl sm:text-5xl font-extrabold mb-2 drop-shadow-md ${gameState === "won" ? "text-green-400" : "text-red-500"}`}>
                 {gameState === "won" ? t.win : t.gameOver}
               </h2>
               <p className="text-2xl text-slate-300 mb-8 font-light">

@@ -107,7 +107,7 @@ export default function VirusVaultGame({
 
       {/* Title */}
       <div className="relative z-20 text-center pt-2 pb-0 shrink-0">
-        <span className="text-[11px] tracking-widest uppercase font-mono" style={{ color: "rgba(248,113,113,0.5)" }}>🔐 Virus Vault</span>
+        <span className="text-[11px] tracking-widest uppercase font-mono" style={{ color: "rgba(248,113,113,0.5)" }}>🔐 {round.title[lang] ?? round.title.en}</span>
       </div>
 
       {/* HUD */}

@@ -74,6 +74,7 @@ const T: Record<Lang, Record<string, string>> = {
     next: "Nächste Runde",
     task: "Deine Aufgabe",
     go: "LOS!",
+    goal: "Ziel",
   },
   hu: {
     title: "Math Ninja",
@@ -97,6 +98,7 @@ const T: Record<Lang, Record<string, string>> = {
     next: "Következő kör",
     task: "A feladatod",
     go: "RAJT!",
+    goal: "Cél",
   },
   ro: {
     title: "Math Ninja",
@@ -120,6 +122,7 @@ const T: Record<Lang, Record<string, string>> = {
     next: "Runda următoare",
     task: "Sarcina ta",
     go: "START!",
+    goal: "Obiectiv",
   },
   en: {
     title: "Math Ninja",
@@ -143,6 +146,7 @@ const T: Record<Lang, Record<string, string>> = {
     next: "Next round",
     task: "Your task",
     go: "GO!",
+    goal: "Goal",
   },
 };
 
@@ -251,14 +255,12 @@ export default function MathNinjaGame({ grade, lang, onDone }: Props) {
   const t = T[lang] ?? T.en;
   const [phase, setPhase] = useState<"reveal" | "playing" | "won" | "lost">("reveal");
   const [pool, setPool] = useState<RoundPool>(() => poolFor(grade, Math.floor(Math.random() * 1000)));
-  const [revealLeft, setRevealLeft] = useState(3);
 
   const [blades, setBlades] = useState<Blade[]>([]);
   const [slashPoints, setSlashPoints] = useState<SlashPoint[]>([]);
   const [score, setScore] = useState(0);
   const [combo, setCombo] = useState(0);
   const [lives, setLives] = useState(3);
-  const [timeLeftMs, setTimeLeftMs] = useState(45_000);
   const [correctHits, setCorrectHits] = useState(0);
   const [flash, setFlash] = useState<"good" | "bad" | null>(null);
   const [lastComboText, setLastComboText] = useState<string | null>(null);
@@ -283,25 +285,12 @@ export default function MathNinjaGame({ grade, lang, onDone }: Props) {
     scoreRef.current = 0;
     setCombo(0);
     setLives(p.maxLives);
-    setTimeLeftMs(p.durationMs);
     setCorrectHits(0);
     setFlash(null);
     setLastComboText(null);
     pendingPairRef.current = null;
-    setRevealLeft(3);
     setPhase("reveal");
   }, [grade]);
-
-  /* Reveal countdown — 3…2…1…0→playing */
-  useEffect(() => {
-    if (phase !== "reveal") return;
-    if (revealLeft <= 0) {
-      setPhase("playing");
-      return;
-    }
-    const timer = setTimeout(() => setRevealLeft((n) => n - 1), 1000);
-    return () => clearTimeout(timer);
-  }, [phase, revealLeft]);
 
   /* Spawner */
   useEffect(() => {
@@ -379,24 +368,6 @@ export default function MathNinjaGame({ grade, lang, onDone }: Props) {
     };
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [phase, pool]);
-
-  /* Timer — scoreRef avoids restarting on every score change */
-  useEffect(() => {
-    if (phase !== "playing") return;
-    const interval = setInterval(() => {
-      setTimeLeftMs((prev) => {
-        const next = prev - 100;
-        if (next <= 0) {
-          clearInterval(interval);
-          setPhase("won");
-          onDone?.(scoreRef.current);
-          return 0;
-        }
-        return next;
-      });
-    }, 100);
-    return () => clearInterval(interval);
-  }, [phase, onDone]);
 
   /* Win / lose watchers */
   useEffect(() => {
@@ -616,24 +587,10 @@ export default function MathNinjaGame({ grade, lang, onDone }: Props) {
           </div>
         </div>
 
-        {/* Time bar */}
-        <div className="absolute top-[3.8rem] left-3 right-3 h-1.5 bg-white/10 rounded-full overflow-hidden z-20 pointer-events-none">
-          <div
-            className="h-full rounded-full transition-[width] duration-100 ease-linear"
-            style={{
-              width: `${(timeLeftMs / pool.durationMs) * 100}%`,
-              background:
-                timeLeftMs < 8000
-                  ? "linear-gradient(90deg, #ef4444, #f59e0b)"
-                  : "linear-gradient(90deg, #22d3ee, #a78bfa)",
-            }}
-          />
-        </div>
-
         {/* Progress */}
         <div className="absolute top-20 left-3 z-20 pointer-events-none">
           <div className="flex items-center gap-1 bg-black/50 backdrop-blur rounded-full px-2.5 py-0.5">
-            <span className="text-white/55 text-[10px] uppercase tracking-wider">Goal</span>
+            <span className="text-white/55 text-[10px] uppercase tracking-wider">{t.goal}</span>
             <span className="text-emerald-300 font-bold text-xs tabular-nums">
               {correctHits}/{pool.goal}
             </span>
@@ -815,7 +772,7 @@ export default function MathNinjaGame({ grade, lang, onDone }: Props) {
           )}
         </svg>
 
-        {/* ── Reveal overlay: show task + countdown ── */}
+        {/* ── Reveal overlay: the learner starts when ready ── */}
         {phase === "reveal" && (
           <div className="absolute inset-0 z-40 flex flex-col items-center justify-center bg-black/80 backdrop-blur-sm p-6 text-center">
             <p className="text-[11px] uppercase tracking-[0.28em] text-white/45 font-semibold mb-4">
@@ -829,27 +786,13 @@ export default function MathNinjaGame({ grade, lang, onDone }: Props) {
                 {prompt}
               </p>
             </div>
-            <AnimatePresence mode="wait">
-              <motion.p
-                key={revealLeft}
-                initial={{ scale: 0.4, opacity: 0 }}
-                animate={{ scale: 1, opacity: 1 }}
-                exit={{ scale: 1.6, opacity: 0 }}
-                transition={{ duration: 0.35 }}
-                className="font-black tabular-nums"
-                style={{
-                  fontSize: revealLeft > 0 ? "6rem" : "3.5rem",
-                  lineHeight: 1,
-                  color: revealLeft > 0 ? "#67E8F9" : "#FBBF24",
-                  textShadow:
-                    revealLeft > 0
-                      ? "0 0 30px rgba(34,211,238,0.7)"
-                      : "0 0 30px rgba(251,191,36,0.7)",
-                }}
-              >
-                {revealLeft > 0 ? revealLeft : t.go}
-              </motion.p>
-            </AnimatePresence>
+            <button
+              type="button"
+              onClick={() => setPhase("playing")}
+              className="rounded-2xl border border-cyan-300/50 bg-cyan-500/20 px-8 py-4 text-2xl font-black text-cyan-100 shadow-[0_0_28px_rgba(34,211,238,0.25)] active:scale-95"
+            >
+              {t.start}
+            </button>
           </div>
         )}
 

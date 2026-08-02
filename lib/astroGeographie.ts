@@ -29,6 +29,42 @@ export interface GeographieProgress {
   missionStars: Record<string, number>;
 }
 
+export interface GeographieVariantProfile {
+  id: string;
+  lang: Lang;
+  contentKind: "generic";
+  label: Record<Lang, string>;
+}
+
+const GEOGRAPHIE_VARIANT_LABELS: Record<Lang, Record<Lang, string>> = {
+  de: { de: "Deutsch", en: "German", hu: "Nemet", ro: "Germana" },
+  en: { de: "Englisch", en: "English", hu: "Angol", ro: "Engleza" },
+  hu: { de: "Ungarisch", en: "Hungarian", hu: "Magyar", ro: "Maghiara" },
+  ro: { de: "Rumänisch", en: "Romanian", hu: "Roman", ro: "Romana" },
+};
+
+export function normalizeAstroLang(lang: string | null | undefined): Lang {
+  return lang === "de" || lang === "en" || lang === "hu" || lang === "ro" ? lang : "de";
+}
+
+export function getGeographieVariantProfile(lang: string | null | undefined): GeographieVariantProfile {
+  const normalized = normalizeAstroLang(lang);
+  return {
+    id: `generic-${normalized}`,
+    lang: normalized,
+    contentKind: "generic",
+    label: GEOGRAPHIE_VARIANT_LABELS[normalized],
+  };
+}
+
+export function buildGeographieSaveKey(baseKey: string, variantId?: string): string {
+  return variantId ? `${baseKey}_${variantId}` : baseKey;
+}
+
+export function buildGeographieExplorerId(baseId: string, variantId?: string): string {
+  return variantId ? `${baseId}_${variantId}` : baseId;
+}
+
 export function shuffleArr<T>(arr: T[]): T[] {
   const a = [...arr];
   for (let i = a.length - 1; i > 0; i--) {

@@ -20,6 +20,35 @@ const GEO_COLORS = [
   "rgba(34,211,238,0.10)",
 ];
 
+const GEO_ENGLISH_COUNTRIES = new Set(["US", "GB", "AU", "CA", "IE", "NZ"]);
+const GEO_GERMAN_COUNTRIES = new Set(["DE", "AT", "CH"]);
+const GEO_COUNTRIES_BY_LANG: Record<string, LanguageTestEngineConfig["countries"]> = {
+  de: [
+    { code: "DE", flag: "🇩🇪", label: "Deutschland", sub: "Note 1–6" },
+    { code: "AT", flag: "🇦🇹", label: "Österreich", sub: "Note 1–5" },
+    { code: "CH", flag: "🇨🇭", label: "Schweiz", sub: "Note 6–1" },
+  ],
+  hu: [{ code: "HU", flag: "🇭🇺", label: "Magyarország", sub: "1–5 osztályzat" }],
+  ro: [{ code: "RO", flag: "🇷🇴", label: "România", sub: "Note 1–10" }],
+  en: [{ code: "US", flag: "🌐", label: "English curriculum", sub: "A / B / C / D / F" }],
+};
+
+function resolveGeoQuestionLanguage(countryCode: string | undefined, fallbackLang: string): string {
+  const cc = (countryCode || "").toUpperCase();
+  if (cc === "HU") return "hu";
+  if (cc === "RO") return "ro";
+  if (GEO_ENGLISH_COUNTRIES.has(cc)) return "en";
+  if (GEO_GERMAN_COUNTRIES.has(cc)) return "de";
+  return fallbackLang;
+}
+
+function getGeoCurriculumForGrade(grade: number) {
+  if (grade === 5) return asCurriculumThemes(K5_CURRICULUM);
+  if (grade === 6) return asCurriculumThemes(K6_CURRICULUM);
+  if (grade === 7) return asCurriculumThemes(K7_CURRICULUM);
+  return asCurriculumThemes(K8_CURRICULUM);
+}
+
 function createGeoConfig(lang: string): LanguageTestEngineConfig {
   return {
   gameId: "geographietest",
@@ -36,11 +65,9 @@ function createGeoConfig(lang: string): LanguageTestEngineConfig {
   bgChars: GEO_CHARS,
   bgColors: GEO_COLORS,
   visualTypes: GEOGRAPHIE_VISUAL_TYPES,
-  countries: [
-    { code: "DE", flag: "🇩🇪", label: "Deutschland", sub: "Note 1–6" },
-    { code: "AT", flag: "🇦🇹", label: "Österreich", sub: "Note 1–5" },
-    { code: "CH", flag: "🇨🇭", label: "Schweiz", sub: "Note 6–1" },
-  ],
+  // Geography currently has one localized international curriculum, not
+  // separate national pools. Only expose grading variants for the UI language.
+  countries: GEO_COUNTRIES_BY_LANG[lang] ?? GEO_COUNTRIES_BY_LANG.de,
   calculateMark: calculateCountryAwareMark,
   curriculum: {
     5: asCurriculumThemes(K5_CURRICULUM),
@@ -48,11 +75,13 @@ function createGeoConfig(lang: string): LanguageTestEngineConfig {
     7: asCurriculumThemes(K7_CURRICULUM),
     8: asCurriculumThemes(K8_CURRICULUM),
   },
-  getQuestions: (grade, subtopicIds, count) => {
-    if (grade === 5) return getK5Questions(subtopicIds, lang, count);
-    if (grade === 6) return getK6Questions(subtopicIds, lang, count);
-    if (grade === 7) return getK7Questions(subtopicIds, lang, count);
-    return getK8Questions(subtopicIds, lang, count);
+  getCurriculumForCountry: (grade) => getGeoCurriculumForGrade(grade),
+  getQuestions: (grade, subtopicIds, count, countryCode) => {
+    const questionLang = resolveGeoQuestionLanguage(countryCode, lang);
+    if (grade === 5) return getK5Questions(subtopicIds, questionLang, count);
+    if (grade === 6) return getK6Questions(subtopicIds, questionLang, count);
+    if (grade === 7) return getK7Questions(subtopicIds, questionLang, count);
+    return getK8Questions(subtopicIds, questionLang, count);
   },
   labels: {
     selectCountry: { de: "Wähle dein Land", hu: "Válassz országot", ro: "Alege țara", en: "Select your country" },

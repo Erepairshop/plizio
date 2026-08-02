@@ -2,6 +2,7 @@
 import React, { useMemo, useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { AstroGameProps, LocalizedText } from "../../types";
+import { shuffleDeterministic } from "../../utils";
 
 export type MCQ4ExplanationRound = {
   id: string;
@@ -32,12 +33,10 @@ export default function MCQ4ExplanationView({
 
   const shuffledIndices = useMemo(() => {
     if (!currentRound) return [];
-    const arr = Array.from({ length: currentRound.options.length }, (_, i) => i);
-    for (let i = arr.length - 1; i > 0; i--) {
-      const j = Math.floor(Math.random() * (i + 1));
-      [arr[i], arr[j]] = [arr[j], arr[i]];
-    }
-    return arr;
+    return shuffleDeterministic(
+      Array.from({ length: currentRound.options.length }, (_, i) => i),
+      `${currentRound.id}-options`,
+    );
   }, [currentRound]);
 
   const handleSelect = (idx: number) => {
@@ -59,7 +58,7 @@ export default function MCQ4ExplanationView({
       setSelectedOpt(null);
       setHasAnswered(false);
     } else {
-      onDone(score + (selectedOpt === currentRound.correctIndex ? 10 : 0), totalRounds * 10);
+      onDone(score, totalRounds * 10);
     }
   };
 

@@ -20,7 +20,7 @@ export const INFO_K5_I9_LABELS: Record<string, Record<string, string>> = {
     t7_title: "KI in der Schule", t7_text: "KI kann beim Lernen helfen, indem sie Aufgaben an dein Tempo anpasst.", t7_inst: "Fülle die Lücke aus:", t7_h1: "Besser lernen.", t7_h2: "Personalisiert.", t7_q: "Wie hilft KI Schülern?", t7_qa: "Individuelle Hilfe", t7_qb: "Hausaufgaben klauen", t7_qc: "Lehrer ersetzen", t7_qd: "Ferien verlängern",
     t7_sent: "Eine Lern-KI passt sich an dein ___ an.", t7_qa2: "Tempo", t7_qb2: "Aussehen", t7_qc2: "Fahrrad", t7_qd2: "Mittagessen",
     t8_title: "Jobs der Zukunft", t8_text: "KI wird viele Berufe verändern. Neue Jobs wie 'Prompt Engineer' entstehen.", t8_inst: "Sortiere in die Eimer:", t8_h1: "Was bleibt? Was kommt?", t8_h2: "Arbeitswelt.", t8_q: "Was ist ein Prompt Engineer?", t8_qa: "KI-Befehl-Experte", t8_qb: "Ein Lokführer", t8_qc: "Ein Koch", t8_qd: "Ein Gärtner",
-    t8_bl1: "Klassisch", t8_bl2: "KI-Beruf", t8_i1: "Bäcker", t8_i2: "KI-Trainer", t3_i3: "Tischler", t3_i4: "Daten-Ethiker",
+    t8_bl1: "Klassisch", t8_bl2: "KI-Beruf", t8_i1: "Bäcker", t8_i2: "KI-Trainer", t8_i3: "Tischler", t8_i4: "Daten-Ethiker",
     t9_title: "Mensch & KI", t9_text: "Am besten arbeitet KI, wenn sie Menschen unterstützt, statt sie zu ersetzen.", t9_inst: "Bringe die Wörter in Ordnung:", t9_h1: "Teamarbeit.", t9_h2: "Zusammenarbeit.", t9_q: "Was ist das Ziel der KI?", t9_qa: "Den Menschen helfen", t9_qb: "Die Weltherrschaft", t9_qc: "Menschen ärgern", t9_qd: "Nichts tun",
     t9_w1: "Mensch", t9_w2: "und", t9_w3: "Maschine", t9_w4: "sind", t9_w5: "zusammen", t9_w6: "ein", t9_w7: "starkes Team.",
     t10_title: "Energie & KI", t10_text: "KI braucht sehr viel Strom. Wir müssen sie nachhaltiger machen.", t10_inst: "Markiere das Wort für umweltfreundliche KI:", t10_h1: "Umwelt.", t10_h2: "Stromverbrauch.", t10_q: "Was ist ein Problem bei KI?", t10_qa: "Hoher Stromverbrauch", t10_qb: "Zu viel Wasser", t10_qc: "Kein Internet", t10_qd: "Zu laut",
@@ -152,7 +152,7 @@ export const INFO_K5_I9_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t3_title", infoText: "t3_text",
-    svg: { type: "icon-grid", items: [{emoji:"👤",label:"Echt"},{emoji:"🤖",label:"Maschine"}] },
+    svg: { type: "icon-grid", items: [{emoji:"👤",label:"Real"},{emoji:"🤖",label:"Machine"}] },
     interactive: { type: "drag-to-bucket", instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2", buckets: [{id:"b1",label:"t3_bl1"},{id:"b2",label:"t3_bl2"}], items: [{text:"t3_i1",bucketId:"b1"},{text:"t3_i2",bucketId:"b2"},{text:"t3_i3",bucketId:"b1"},{text:"t3_i4",bucketId:"b2"}] },
     quiz: { question: "t3_q", choices: ["t3_qa", "t3_qb", "t3_qc", "t3_qd"], answer: "t3_qa" }
   },
@@ -182,7 +182,7 @@ export const INFO_K5_I9_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t8_title", infoText: "t8_text",
-    svg: { type: "icon-grid", items: [{emoji:"🥯",label:"Klassisch"},{emoji:"🦾",label:"KI-Job"}] },
+    svg: { type: "icon-grid", items: [{emoji:"🥯",label:"Classic"},{emoji:"🦾",label:"AI Job"}] },
     interactive: { type: "drag-to-bucket", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", buckets: [{id:"b1",label:"t8_bl1"},{id:"b2",label:"t8_bl2"}], items: [{text:"t8_i1",bucketId:"b1"},{text:"t8_i2",bucketId:"b2"},{text:"t8_i3",bucketId:"b1"},{text:"t8_i4",bucketId:"b2"}] },
     quiz: { question: "t8_q", choices: ["t8_qa", "t8_qb", "t8_qc", "t8_qd"], answer: "t8_qa" }
   },
@@ -212,7 +212,7 @@ export const INFO_K5_I9_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t13_title", infoText: "t13_text",
-    svg: { type: "icon-grid", items: [{emoji:"📅",label:"Heute"},{emoji:"🚀",label:"Zukunft"}] },
+    svg: { type: "icon-grid", items: [{emoji:"📅",label:"Today"},{emoji:"🚀",label:"Future"}] },
     interactive: { type: "drag-to-bucket", instruction: "t13_inst", hint1: "t13_h1", hint2: "t13_h2", buckets: [{id:"b1",label:"t13_bl1"},{id:"b2",label:"t13_bl2"}], items: [{text:"t13_i1",bucketId:"b1"},{text:"t13_i2",bucketId:"b2"},{text:"t13_i3",bucketId:"b1"},{text:"t13_i4",bucketId:"b2"}] },
     quiz: { question: "t13_q", choices: ["t13_qa", "t13_qb", "t13_qc", "t13_qd"], answer: "t13_qa" }
   },

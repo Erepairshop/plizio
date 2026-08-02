@@ -10,6 +10,7 @@ import MCQ4ExplanationView, { MCQ4ExplanationRound } from "./views/m3/MCQ4Explan
 import SortPuzzleView, { SortPuzzleRound } from "./views/m3/SortPuzzleView";
 import GapFillStoryView, { GapFillStoryRound } from "./views/m3/GapFillStoryView";
 import { AstroGameProps } from "./types";
+import GameUnavailable from "./GameUnavailable";
 
 type M3Props = Omit<AstroGameProps<any>, "rounds" | "mode"> & {
   gameKey: string;
@@ -18,27 +19,30 @@ type M3Props = Omit<AstroGameProps<any>, "rounds" | "mode"> & {
 
 export default function M3Engine(props: M3Props) {
   const { gameKey, ...rest } = props;
+  const rounds = Array.isArray(props.rounds) ? props.rounds.filter(Boolean) : [];
+
+  if (rounds.length === 0) return <GameUnavailable lang={props.lang} />;
 
   switch (gameKey) {
     case "drag-sort":
-      return <DragSortView {...rest} mode="m3" rounds={props.rounds as DragSortRound[]} />;
+      return <DragSortView {...rest} mode="m3" rounds={rounds as DragSortRound[]} />;
     case "timeline-slider":
-      return <TimelineSliderView {...rest} mode="m3" rounds={props.rounds as TimelineSliderRound[]} />;
+      return <TimelineSliderView {...rest} mode="m3" rounds={rounds as TimelineSliderRound[]} />;
     case "pattern-finish":
-      return <PatternFinishView {...rest} mode="m3" rounds={props.rounds as PatternFinishRound[]} />;
+      return <PatternFinishView {...rest} mode="m3" rounds={rounds as PatternFinishRound[]} />;
     case "count-catch":
-      return <CountCatchView {...rest} mode="m3" rounds={props.rounds as CountCatchRound[]} />;
+      return <CountCatchView {...rest} mode="m3" rounds={rounds as CountCatchRound[]} />;
     case "sound-match":
-      return <SoundMatchView {...rest} mode="m3" rounds={props.rounds as SoundMatchRound[]} />;
+      return <SoundMatchView {...rest} mode="m3" rounds={rounds as SoundMatchRound[]} />;
     case "fill-blank":
-      return <FillBlankView {...rest} mode="m3" rounds={props.rounds as FillBlankRound[]} />;
+      return <FillBlankView {...rest} mode="m3" rounds={rounds as FillBlankRound[]} />;
     case "mcq4-explanation":
-      return <MCQ4ExplanationView {...rest} mode="m3" rounds={props.rounds as MCQ4ExplanationRound[]} />;
+      return <MCQ4ExplanationView {...rest} mode="m3" rounds={rounds as MCQ4ExplanationRound[]} />;
     case "sort-puzzle":
-      return <SortPuzzleView {...rest} mode="m3" rounds={props.rounds as SortPuzzleRound[]} />;
+      return <SortPuzzleView {...rest} mode="m3" rounds={rounds as SortPuzzleRound[]} />;
     case "gap-fill-story":
-      return <GapFillStoryView {...rest} mode="m3" rounds={props.rounds as GapFillStoryRound[]} />;
+      return <GapFillStoryView {...rest} mode="m3" rounds={rounds as GapFillStoryRound[]} />;
     default:
-      return <div className="text-white p-4">Unknown M3 gameKey: {gameKey}</div>;
+      return <GameUnavailable lang={props.lang} />;
   }
 }

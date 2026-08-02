@@ -77,10 +77,10 @@ const CATEGORY_CONFIG: Record<string, {
   challenge: {
     label: { en: "Challenge", hu: "Kihívás", de: "Herausforderung", ro: "Provocare" },
     desc: {
-      en: "Fast & timed — show what you know!",
-      hu: "Gyors és időre — mutasd meg tudásod!",
-      de: "Schnell & timed — zeig was du kannst!",
-      ro: "Rapid și la timp — arată ce știi!",
+      en: "Focused challenge: show what you know!",
+      hu: "Összpontosító kihívás: mutasd meg tudásod!",
+      de: "Konzentrierte Herausforderung: Zeig, was du kannst!",
+      ro: "Provocare de concentrare: arată ce știi!",
     },
     color: "#FB923C", bg: "rgba(251,146,60,0.12)", border: "rgba(251,146,60,0.35)",
   },
@@ -176,10 +176,11 @@ function buildSmoothPath(islands: typeof K8_ISLANDS): string {
   return d;
 }
 
-function IslandMapSVG({ progress, onIsland, onCheckpoint }: {
+function IslandMapSVG({ progress, onIsland, onCheckpoint, lang }: {
   progress: BioK8Progress;
   onIsland: (island: IslandDef) => void;
   onCheckpoint: (testId: string) => void;
+  lang: string;
 }) {
   const pathD = buildSmoothPath(K8_ISLANDS);
 
@@ -299,7 +300,7 @@ function IslandMapSVG({ progress, onIsland, onCheckpoint }: {
             {unlocked && (
               <text x={island.svgX} y={island.svgY + 48} textAnchor="middle" fontSize={9} fontWeight="bold"
                 fill={total === 9 ? "#FFD700" : total > 0 ? island.color : "rgba(255,255,255,0.25)"}>
-                {total > 0 ? `${total}/9 ⭐` : island.name.de.split(" ")[0]}
+                {total > 0 ? `${total}/9 ⭐` : (island.name[lang as Lang] ?? island.name.de).split(" ")[0]}
               </text>
             )}
           </g>
@@ -645,7 +646,7 @@ export default function AstroBiologieK8Page() {
         <div className="relative z-10 flex-1 min-h-0 overflow-y-auto" ref={attachAutoScrollToBottom}>
           <div className="max-w-sm mx-auto px-2 pb-6" style={{ minHeight: MAP_H + 40 }}>
             <div className="relative">
-              <IslandMapSVG progress={progress} onIsland={handleIslandSelect} onCheckpoint={startCheckpoint} />
+              <IslandMapSVG progress={progress} onIsland={handleIslandSelect} onCheckpoint={startCheckpoint} lang={lang} />
               <motion.div
                 className="absolute pointer-events-none z-10"
                 style={{ width: 72, height: 72, transform: "translate(-50%, -50%)" }}

@@ -12,6 +12,7 @@ import "@/lib/biologieGenerators7";
 import "@/lib/biologieGenerators8";
 import type { LanguageTestEngineConfig } from "@/lib/languageTestTypes";
 import { BIOLOGIE_VISUAL_TYPES } from "@/lib/biologieVisualGenerators";
+import { useLang } from "@/components/LanguageProvider";
 
 const BIO_CHARS = ["🧬", "🔬", "🌿", "🐾", "🦋", "🐟", "🌱", "🫀", "🧠", "🦴", "🌳", "🐝", "🦎", "🐸", "🌺", "🧪"];
 const BIO_COLORS = [
@@ -93,5 +94,7 @@ const BIO_CONFIG: LanguageTestEngineConfig = {
 };
 
 export default function BiologieTestPage() {
-  return <LanguageTestEngine config={BIO_CONFIG} />;
+  const { lang } = useLang();
+  const locale = { de: "de-DE", hu: "hu-HU", ro: "ro-RO", en: "en-US" }[lang] ?? "de-DE";
+  return <LanguageTestEngine config={{ ...BIO_CONFIG, ttsLang: locale, dateLocale: locale }} />;
 }

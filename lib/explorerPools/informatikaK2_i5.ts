@@ -17,7 +17,7 @@ export const INFO_K2_I5_LABELS: Record<string, Record<string, string>> = {
     t5_l1: "Heller", t5_r1: "Licht", t5_l2: "Sonne", t5_r2: "Symbol", t5_l3: "Dunkel", t5_r3: "Vorher",
     t6_title: "Abdunkeln", t6_text: "Mache ein zu helles Bild etwas dunkler.", t6_inst: "Verbinde die Paare:", t6_h1: "Weniger Licht.", t6_h2: "Schatten.", t6_q: "Was passiert beim Abdunkeln?", t6_qa: "Das Bild wird dunkler", t6_qb: "Das Bild wird weiß", t6_qc: "Das Bild verschwindet", t6_qd: "Es wird bunt",
     t6_l1: "Dunkler", t6_r1: "Schatten", t6_l2: "Mond", t6_r2: "Symbol", t6_l3: "Hell", t6_r3: "Vorher",
-    t7_title: "Farben anpassen", t7_text: "Mache die Farben kräftiger oder ändere sie ganz.", t1_inst: "Verbinde die Paare:", t7_h1: "Bunter machen.", t7_h2: "Sättigung.", t7_q: "Was änderst du hier?", t7_qa: "Die Farben", t7_qb: "Die Größe", t7_qc: "Den Namen", t7_qd: "Das Datum",
+    t7_title: "Farben anpassen", t7_text: "Mache die Farben kräftiger oder ändere sie ganz.", t7_inst: "Verbinde die Paare:", t7_h1: "Bunter machen.", t7_h2: "Sättigung.", t7_q: "Was änderst du hier?", t7_qa: "Die Farben", t7_qb: "Die Größe", t7_qc: "Den Namen", t7_qd: "Das Datum",
     t7_l1: "Farbe", t7_r1: "Bunt", t7_l2: "Grau", t7_r2: "Farblos", t7_l3: "Palette", t7_r3: "Auswahl",
     t8_title: "Filter benutzen", t8_text: "Mit Filtern kannst du dein Bild schnell verändern, z.B. in Schwarz-Weiß.", t8_inst: "Verbinde die Paare:", t8_h1: "Schneller Effekt.", t8_h2: "Zauberei.", t8_q: "Was ist ein Filter?", t8_qa: "Ein fertiger Effekt", t8_qb: "Ein Putzmittel", t8_qc: "Ein neues Bild", t8_qd: "Eine Kamera",
     t8_l1: "Filter", t8_r1: "Effekt", t8_l2: "Sepia", t8_r2: "Alt", t8_l3: "S/W", t8_r3: "Grau",

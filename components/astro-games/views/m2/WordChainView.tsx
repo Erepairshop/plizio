@@ -2,6 +2,7 @@
 import React, { useMemo, useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { AstroGameProps, LocalizedText } from "../../types";
+import { shuffleDeterministic, useTimeoutRegistry } from "../../utils";
 
 export type WordChainRound = {
   id: string;
@@ -24,6 +25,7 @@ export default function WordChainView({
   const [score, setScore] = useState(0);
   const [hasAnswered, setHasAnswered] = useState(false);
   const [selectedOption, setSelectedOption] = useState<number | null>(null);
+  const scheduleTimeout = useTimeoutRegistry();
 
   if (!rounds || rounds.length === 0) return null;
 
@@ -33,12 +35,10 @@ export default function WordChainView({
 
   const shuffledIndices = useMemo(() => {
     if (!currentRound) return [];
-    const arr = Array.from({ length: currentRound.options.length }, (_, i) => i);
-    for (let i = arr.length - 1; i > 0; i--) {
-      const j = Math.floor(Math.random() * (i + 1));
-      [arr[i], arr[j]] = [arr[j], arr[i]];
-    }
-    return arr;
+    return shuffleDeterministic(
+      Array.from({ length: currentRound.options.length }, (_, i) => i),
+      `${currentRound.id}-options`,
+    );
   }, [currentRound]);
 
   const handleOptionClick = (index: number) => {
@@ -56,7 +56,7 @@ export default function WordChainView({
       onWrong?.();
     }
 
-    setTimeout(() => {
+    scheduleTimeout(() => {
       handleNext(isCorrect);
     }, 1500); // Auto-advance after 1.5s
   };

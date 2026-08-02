@@ -2,6 +2,7 @@
 import React, { useState, useEffect, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { AstroGameProps, LocalizedText } from "../../types";
+import { shuffleDeterministic, useTimeoutRegistry } from "../../utils";
 
 export type GapFillStoryRound = {
   id: string;
@@ -16,15 +17,6 @@ export type GapFillStoryRound = {
     }[];
   }[];
 };
-
-function shuffle<T>(arr: T[]): T[] {
-  const a = [...arr];
-  for (let i = a.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [a[i], a[j]] = [a[j], a[i]];
-  }
-  return a;
-}
 
 export default function GapFillStoryView({
   rounds,
@@ -41,6 +33,7 @@ export default function GapFillStoryView({
   const [selectedBlankIndex, setSelectedBlankIndex] = useState<number | null>(null);
   const [isChecking, setIsChecking] = useState(false);
   const [errors, setErrors] = useState<Record<number, boolean>>({});
+  const scheduleTimeout = useTimeoutRegistry();
 
   if (!rounds || rounds.length === 0) return null;
   const currentRound = rounds[roundIdx];
@@ -79,7 +72,7 @@ export default function GapFillStoryView({
     if (!currentRound) return {};
     const map: Record<number, any[]> = {};
     currentRound.blanks.forEach(b => {
-      map[b.index] = shuffle(b.options);
+      map[b.index] = shuffleDeterministic(b.options, `${currentRound.id}-blank-${b.index}`);
     });
     return map;
   }, [currentRound?.id]);
@@ -119,7 +112,7 @@ export default function GapFillStoryView({
     if (allCorrect) {
       setScore(s => s + 10);
       onCorrect?.();
-      setTimeout(() => {
+      scheduleTimeout(() => {
         if (roundIdx + 1 < totalRounds) {
           setRoundIdx(r => r + 1);
         } else {
@@ -129,7 +122,7 @@ export default function GapFillStoryView({
     } else {
       setErrors(newErrors);
       onWrong?.();
-      setTimeout(() => {
+      scheduleTimeout(() => {
         setIsChecking(false);
         const firstErr = Object.keys(newErrors)[0];
         if (firstErr) setSelectedBlankIndex(parseInt(firstErr, 10));

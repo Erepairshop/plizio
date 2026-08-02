@@ -467,11 +467,18 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
     hu: [{ code: "HU", flag: "🇭🇺", label: "Magyarország", sub: "1–5 osztályzat" }],
     ro: [{ code: "RO", flag: "🇷🇴", label: "România", sub: "Note 1–10" }],
   };
-  const effectiveCountries = COUNTRIES_BY_LANG[globalLang] ?? config.countries;
+  const effectiveCountries = useMemo(
+    () => (config.countries.length > 0 ? config.countries : (COUNTRIES_BY_LANG[globalLang] ?? [])),
+    [config.countries, globalLang],
+  );
   // Főoldali nyelvválasztó → country mapping
   const langToCountry: Record<string, string> = { de: "DE", hu: "HU", ro: "RO", en: "US" };
-  const countryFromLang = langToCountry[globalLang] ?? (effectiveCountries[0]?.code ?? "DE");
-  // Multi-country nyelveknel (DE/EN) van country-picker, egyebb esetben (HU/RO) nincs
+  const preferredCountryFromLang = langToCountry[globalLang];
+  const countryFromLang = effectiveCountries.some((item) => item.code === preferredCountryFromLang)
+    ? preferredCountryFromLang!
+    : (effectiveCountries[0]?.code ?? "DE");
+  const effectiveCountryCodesKey = effectiveCountries.map((item) => item.code).join("|");
+  // Multi-country nyelveknel van country-picker, egyebkent nincs
   const hasCountryChoice = effectiveCountries.length > 1;
   const g1Icons = config.g1Icons ?? G1_ICONS;
   const g1WordLabels = config.g1WordLabels ?? G1_WORD_LABELS;
@@ -517,7 +524,7 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
       ? savedCountry!
       : countryFromLang;
     setCountry(restoredCountry);
-  }, [globalLang, config.storageKey, countryFromLang]); // eslint-disable-line react-hooks/exhaustive-deps
+  }, [config.storageKey, countryFromLang, effectiveCountryCodesKey]);
 
   // Label language: derived from selected country so test paper labels match
   // the language of the questions (country=HU → Hungarian 'Feladat' etc.).
@@ -571,6 +578,29 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
   ) as DeutschTheme[];
   const totalQ = questions.length;
   const answeredCount = Object.keys(paperAnswers).length;
+
+  function resetTopicAndTestState(nextScreen?: Screen) {
+    setSelectedIds([]);
+    setIncludeLesetest(false);
+    setQuestions([]);
+    setAnswers([]);
+    setPaperAnswers({});
+    setSubmitted(false);
+    setEarnedCard(null);
+    setAvatarMood("idle");
+    if (nextScreen) setScreen(nextScreen);
+  }
+
+  function selectCountry(nextCountry: string) {
+    const nextScreen: Screen = hasGradeParam ? "topics" : "grade";
+    setCountry(nextCountry);
+    try {
+      localStorage.setItem(config.storageKey, nextCountry);
+    } catch {
+      // Storage can be unavailable in private/restricted browser contexts.
+    }
+    resetTopicAndTestState(nextScreen);
+  }
 
   // ─── CONFIG VISUAL TYPES (pluggable per-language visual components) ────────
   const configVisualMap = useMemo(() => {
@@ -1188,9 +1218,7 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
 
   function changeGrade(g: number) {
     setGrade(g);
-    setSelectedIds([]);
-    setIncludeLesetest(false);
-    setScreen("topics");
+    resetTopicAndTestState("topics");
   }
 
   // ─── SUBTOPIC TOGGLE ─────────────────────────────────────────────────────────
@@ -1994,12 +2022,7 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
                   transition={{ delay: 0.15 + i * 0.08 }}
                   whileHover={{ scale: 1.03 }}
                   whileTap={{ scale: 0.97 }}
-                  onClick={() => {
-                    setCountry(c.code);
-                    localStorage.setItem(config.storageKey, c.code);
-                    // /learn mindig kuld ?grade=N-t, igy grade-picker-t atugorjuk
-                    setScreen(hasGradeParam ? "topics" : "grade");
-                  }}
+                  onClick={() => selectCountry(c.code)}
                   className="flex items-center gap-4 px-5 py-4 rounded-2xl border transition-all text-left"
                   style={{
                     background: "rgba(0,212,255,0.05)",
@@ -2433,7 +2456,7 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
                               : q.type === "satz-ordnen"
                                 ? (Array.isArray(q.answer) ? q.answer[0] : q.answer ?? q.question)
                                 : q.question,
-                          effectiveLocale, config.ttsRate, config.ttsPitch
+                          config.ttsLang, config.ttsRate, config.ttsPitch
                         )}
                         className="shrink-0 w-6 h-6 flex items-center justify-center rounded-full bg-blue-50 hover:bg-blue-100 border border-blue-200 text-blue-400 transition-colors text-xs"
                         style={{ marginTop: 1 }}

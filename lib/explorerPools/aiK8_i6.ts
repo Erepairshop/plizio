@@ -214,7 +214,7 @@ export const INFO_K8_I6_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t13_title", infoText: "t13_text",
-    svg: { type: "icon-grid", items: [{emoji:"⚖️",label:"Gov"},{emoji:"💡",label:"Ethic"}] },
+    svg: { type: "icon-grid", items: [{emoji:"⚖️",label:"Governance"},{emoji:"💡",label:"Ethics"}] },
     interactive: { type: "drag-to-bucket", instruction: "t13_inst", hint1: "t13_h1", hint2: "t13_h2", buckets: [{id:"b1",label:"t13_bl1"},{id:"b2",label:"t13_bl2"}], items: [{text:"t13_i1",bucketId:"b1"},{text:"t13_i2",bucketId:"b2"},{text:"t13_i3",bucketId:"b1"},{text:"t13_i4",bucketId:"b2"}] },
     quiz: { question: "t13_q", choices: ["t13_qa", "t13_qb", "t13_qc", "t13_qd"], answer: "t13_qa" }
   },

@@ -133,7 +133,7 @@ const LABELS: Record<string, Record<string, string>> = {
     explorer_title: "The Respiratory System",
     t1_title: "Path of the Air", t1_text: "The respiratory system brings oxygen-rich air into the body. The air travels a long path from the nasal cavity to the lungs.",
     t1_b1: "Nasal cavity: warms, moistens, and filters the air.", t1_b2: "Larynx and trachea: guide the air toward the lungs.", t1_b3: "Bronchi: the trachea splits into two branches entering the lungs.",
-    t1_inst: "Put the words in order!", t1_w1: "Air", t1_w2: "flows", t1_w3: "through", t1_w4: "the", t1_w5: "trachea.",
+    t1_inst: "Put the words in order!", t1_w1: "Air", t1_w2: "flows", t1_w3: "through", t1_w4: "the", t1_w5: "trachea", t1_w6: "onward.",
     t1_q: "Why is it better to breathe through our nose than our mouth?", t1_q_a: "Because the nasal cavity warms and cleans the air.", t1_q_b: "Because oxygen enters faster.", t1_q_c: "Because the mouth only exhales carbon dioxide.", t1_q_d: "Because there is no air in the mouth.",
 
     t2_title: "Breathing Movements", t2_text: "The lungs don't have their own muscles. Breathing is done by chest muscles and a large, dome-shaped muscle called the diaphragm.",

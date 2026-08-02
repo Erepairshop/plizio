@@ -43,7 +43,7 @@ function DraftPanel({ testId, questionId, suggestedType, countryCode = "DE" }: D
       }}
     >
       {/* Tab bar */}
-      <div className="flex gap-1 bg-gray-200/80 rounded-lg p-0.5">
+      <div className="flex gap-1 bg-gray-200/80 rounded-lg p-0.5" aria-label={t.tabCalc}>
         {TABS.map((tab) => (
           <button
             key={tab.type}
@@ -57,7 +57,8 @@ function DraftPanel({ testId, questionId, suggestedType, countryCode = "DE" }: D
                   : "text-gray-600 hover:text-gray-800 hover:bg-white/50"
               }
             `}
-            tabIndex={-1}
+            aria-pressed={activeType === tab.type}
+            aria-controls={`draft-panel-${questionId}`}
           >
             {tab.icon}
             <span className="hidden sm:inline">{tab.label}</span>
@@ -67,7 +68,7 @@ function DraftPanel({ testId, questionId, suggestedType, countryCode = "DE" }: D
       </div>
 
       {/* Active draft */}
-      <div className="relative">
+      <div id={`draft-panel-${questionId}`} className="relative" aria-live="polite">
         {activeType === "calc" && (
           <StepCalcDraft countryCode={countryCode} />
         )}

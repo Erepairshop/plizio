@@ -85,24 +85,36 @@ export const GESCHICHTE_CURRICULUM: Record<number, CurriculumTheme[]> = {
 
 export const GESCHICHTE_SUBTOPIC_HINTS: Record<string, string> = {};
 
+const COUNTRY_SPECIFIC_HISTORY_CODES = new Set(["us", "gb", "uk", "hu", "ro"]);
+const SHARED_GERMAN_HISTORY_CODES = new Set(["de", "at", "ch"]);
+const UNSUPPORTED_ENGLISH_HISTORY_CODES = new Set(["au", "ca", "ie", "nz"]);
+
+function normalizeHistoryCountryCode(countryCode?: string): string {
+  const cc = (countryCode || "").toLowerCase();
+  return cc === "uk" ? "gb" : cc;
+}
+
 // Country-aware curriculum: returns themes with country-specific subtopics
 // when a supported country (US/GB/HU/RO) is selected. Falls back to the
 // grade's default curriculum (DE generator-backed).
 const COUNTRY_THEME_META: Record<string, { icon: string; color: string; name: Record<string, string> }> = {
   us: { icon: "🇺🇸", color: "#3B82F6", name: { de: "US-Geschichte", hu: "USA történelem", ro: "Istoria SUA", en: "US History" } },
   gb: { icon: "🇬🇧", color: "#6366F1", name: { de: "UK-Geschichte", hu: "UK történelem", ro: "Istoria UK", en: "UK History" } },
-  uk: { icon: "🇬🇧", color: "#6366F1", name: { de: "UK-Geschichte", hu: "UK történelem", ro: "Istoria UK", en: "UK History" } },
   hu: { icon: "🇭🇺", color: "#EF4444", name: { de: "Ungarische Geschichte", hu: "Magyar történelem", ro: "Istoria Ungariei", en: "Hungarian History" } },
   ro: { icon: "🇷🇴", color: "#F59E0B", name: { de: "Rumänische Geschichte", hu: "Román történelem", ro: "Istoria României", en: "Romanian History" } },
 };
 
 export function getCurriculumForCountry(grade: number, countryCode?: string): CurriculumTheme[] {
   const defaultTheme = GESCHICHTE_CURRICULUM[grade] || [];
-  const cc = (countryCode || "").toLowerCase();
+  const cc = normalizeHistoryCountryCode(countryCode);
+  if (UNSUPPORTED_ENGLISH_HISTORY_CODES.has(cc)) {
+    return [];
+  }
   const meta = COUNTRY_THEME_META[cc];
   const countrySubs = getCountrySubtopics(cc, grade);
   if (!meta || countrySubs.length === 0) {
-    // No country override — return default (DE generator content)
+    // Shared D-A-CH pool and all other non-country-specific fallbacks use the
+    // default generator-backed curriculum.
     return defaultTheme;
   }
   // Country theme with country-specific subtopics
@@ -128,7 +140,6 @@ export function getGeschichteQuestions(
   count: number = 10,
   countryCode?: string
 ): CurriculumQuestion[] {
-  const lang = (countryCode || "EN").toLowerCase();
   const pool: CurriculumQuestion[] = [];
 
   const fetch: Record<number, (id: string, cc: string, c: number) => CurriculumQuestion[]> = {
@@ -140,22 +151,31 @@ export function getGeschichteQuestions(
   const fn = fetch[grade];
   if (!fn) return [];
 
-  const cc = (countryCode || "").toLowerCase();
-  const hasCountrySpecific = cc === "us" || cc === "gb" || cc === "uk" || cc === "hu" || cc === "ro";
+  const cc = normalizeHistoryCountryCode(countryCode);
+  const hasCountrySpecific = COUNTRY_SPECIFIC_HISTORY_CODES.has(cc);
+  if (UNSUPPORTED_ENGLISH_HISTORY_CODES.has(cc)) {
+    return [];
+  }
 
   // Prefix that country-specific subtopic IDs actually use for the selected country.
   // GB data uses the "uk_" prefix; the rest use their own country code.
-  const ccPrefix = cc === "gb" || cc === "uk" ? "uk_" : `${cc}_`;
+  const ccPrefix = cc === "gb" ? "uk_" : `${cc}_`;
+  const generatorLang = SHARED_GERMAN_HISTORY_CODES.has(cc) || !cc ? "DE" : cc.toUpperCase();
 
   for (const id of subtopicIds) {
-    // If user selected a supported country AND the subtopic ID belongs to THAT country, use country data.
-    if (hasCountrySpecific && id.startsWith(ccPrefix)) {
+    if (hasCountrySpecific) {
+      if (!id.startsWith(ccPrefix)) {
+        continue;
+      }
       const qs = getCountryQuestions(cc, grade, id, 35);
-      if (qs.length > 0) { pool.push(...qs); continue; }
+      if (qs.length > 0) {
+        pool.push(...qs);
+      }
+      continue;
     }
-    // Fallback: default DE-generator curriculum
+
     const realId = mapToGeneratorKey(grade, id) || id;
-    const qs = fn(realId, lang, 35);
+    const qs = fn(realId, generatorLang, 35);
     pool.push(...qs);
   }
 

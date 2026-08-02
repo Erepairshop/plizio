@@ -3,6 +3,7 @@
 import React, { useState, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { AstroGameProps, LocalizedText } from "../../types";
+import { seededNumber, shuffleDeterministic, useTimeoutRegistry } from "../../utils";
 
 export type CountCatchRound = {
   id: string;
@@ -10,15 +11,6 @@ export type CountCatchRound = {
   itemsToCount: { id: string; emoji: string; x: number; y: number }[]; // x, y percentages
   options: { id: string; number: number; isCorrect: boolean }[];
 };
-
-function shuffle<T>(arr: T[]): T[] {
-  const a = [...arr];
-  for (let i = a.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [a[i], a[j]] = [a[j], a[i]];
-  }
-  return a;
-}
 
 export default function CountCatchView({
   rounds,
@@ -32,12 +24,13 @@ export default function CountCatchView({
   const [score, setScore] = useState(0);
   const [selectedId, setSelectedId] = useState<string | null>(null);
   const [isRevealing, setIsRevealing] = useState(false);
+  const scheduleTimeout = useTimeoutRegistry();
 
   const round = rounds[currentIdx];
 
   const shuffledOptions = useMemo(() => {
     if (!round) return [];
-    return shuffle(round.options);
+    return shuffleDeterministic(round.options, `${round.id}-options`);
   }, [round?.id]);
 
   const handleSelect = (optionId: string, isCorrect: boolean) => {
@@ -52,7 +45,7 @@ export default function CountCatchView({
       onWrong?.();
     }
 
-    setTimeout(() => {
+    scheduleTimeout(() => {
       setSelectedId(null);
       setIsRevealing(false);
       if (currentIdx + 1 < rounds.length) {
@@ -111,8 +104,8 @@ export default function CountCatchView({
                   transform: `translate(-50%, -50%)`
                 }}
                 initial={{ opacity: 0, scale: 0 }}
-                animate={{ 
-                  opacity: 1, 
+                animate={{
+                  opacity: 1,
                   scale: 1,
                   y: [0, -15, 0],
                   rotate: [-5, 5, -5]
@@ -120,8 +113,18 @@ export default function CountCatchView({
                 transition={{
                   scale: { duration: 0.4, delay: idx * 0.1, type: "spring", bounce: 0.5 },
                   opacity: { duration: 0.4, delay: idx * 0.1 },
-                  y: { duration: 2 + Math.random(), repeat: Infinity, ease: "easeInOut", delay: Math.random() },
-                  rotate: { duration: 3 + Math.random(), repeat: Infinity, ease: "easeInOut", delay: Math.random() }
+                  y: {
+                    duration: seededNumber(`${round.id}-${item.id}-y-duration`, 2, 3),
+                    repeat: Infinity,
+                    ease: "easeInOut",
+                    delay: seededNumber(`${round.id}-${item.id}-y-delay`, 0, 1),
+                  },
+                  rotate: {
+                    duration: seededNumber(`${round.id}-${item.id}-rotate-duration`, 3, 4),
+                    repeat: Infinity,
+                    ease: "easeInOut",
+                    delay: seededNumber(`${round.id}-${item.id}-rotate-delay`, 0, 1),
+                  }
                 }}
               >
                 {item.emoji}

@@ -90,7 +90,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_bucket_kontra: "Kockázat (Kontra)",
     t3_item_p1: "Nagyobb terméshozam", t3_item_p2: "Kevesebb növényvédő szer",
     t3_item_k1: "Ökoszisztéma felborulása", t3_item_k2: "Allergiás reakciók esélye",
-    t1_q_3: "Mi a legfőbb környezeti aggály a GMO növényekkel kapcsolatban?",
+    t3_q: "Mi a legfőbb környezeti aggály a GMO növényekkel kapcsolatban?",
     t3_q_a: "Hogy kereszteződhetnek vadon élő rokonfajaikkal", t3_q_b: "Hogy túl szépek lesznek", t3_q_c: "Hogy elfogy tőlük a víz", t3_q_d: "Hogy megváltoztatják az időjárást",
 
     // T4: Klónozás (Word-order)
@@ -308,7 +308,7 @@ const TOPICS: TopicDef[] = [
       hint2: "t3_b2",
     },
     quiz: {
-      question: "t1_q_3",
+      question: "t3_q",
       choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
       answer: "t3_q_a",
     },

@@ -3,6 +3,7 @@
 import React, { useMemo, useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { AstroGameProps, LocalizedText } from "../../types";
+import { shuffleDeterministic, useTimeoutRegistry } from "../../utils";
 
 export type PatternFinishRound = {
   id: string;
@@ -23,17 +24,13 @@ export default function PatternFinishView({
   const [score, setScore] = useState(0);
   const [selectedId, setSelectedId] = useState<string | null>(null);
   const [isRevealing, setIsRevealing] = useState(false);
+  const scheduleTimeout = useTimeoutRegistry();
 
   const round = rounds[currentIdx];
 
   const shuffledOptions = useMemo(() => {
     if (!round) return [];
-    const arr = [...round.options];
-    for (let i = arr.length - 1; i > 0; i--) {
-      const j = Math.floor(Math.random() * (i + 1));
-      [arr[i], arr[j]] = [arr[j], arr[i]];
-    }
-    return arr;
+    return shuffleDeterministic(round.options, `${round.id}-options`);
   }, [round]);
 
   const handleSelect = (optionId: string, isCorrect: boolean) => {
@@ -48,7 +45,7 @@ export default function PatternFinishView({
       onWrong?.();
     }
 
-    setTimeout(() => {
+    scheduleTimeout(() => {
       setSelectedId(null);
       setIsRevealing(false);
       if (currentIdx + 1 < rounds.length) {

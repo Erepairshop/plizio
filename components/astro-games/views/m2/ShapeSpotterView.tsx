@@ -3,6 +3,7 @@
 import React, { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { AstroGameProps, LocalizedText } from "../../types";
+import { useTimeoutRegistry } from "../../utils";
 
 export type ShapeItem = {
   id: string;
@@ -29,6 +30,7 @@ export default function ShapeSpotterView({
   const [score, setScore] = useState(0);
   const [foundTargets, setFoundTargets] = useState<Set<string>>(new Set());
   const [errorIds, setErrorIds] = useState<Set<string>>(new Set());
+  const scheduleTimeout = useTimeoutRegistry();
 
   const currentRound = rounds[roundIdx];
 
@@ -59,14 +61,14 @@ export default function ShapeSpotterView({
       onCorrect?.();
 
       if (newFound.size === totalTargets) {
-        setTimeout(() => handleNextRound(nextScore), 800);
+        scheduleTimeout(() => handleNextRound(nextScore), 800);
       }
     } else {
       setErrorIds(prev => new Set(prev).add(shape.id));
       setScore(s => Math.max(0, s - 2));
       onWrong?.();
 
-      setTimeout(() => {
+      scheduleTimeout(() => {
         setErrorIds(prev => {
           const next = new Set(prev);
           next.delete(shape.id);

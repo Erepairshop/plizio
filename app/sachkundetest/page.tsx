@@ -8,6 +8,7 @@ import {
 } from "@/lib/sachkundeCurriculum";
 import { SACHKUNDE_VISUAL_TYPES } from "@/lib/sachkundeVisualGenerators";
 import type { LanguageTestEngineConfig } from "@/lib/languageTestTypes";
+import { useLang } from "@/components/LanguageProvider";
 
 const SK_CHARS = ["🌿", "🐾", "🧲", "🌍", "💧", "☀️", "🌡️", "🧪", "🔬", "🗺️", "⚡", "🌳", "🦋", "🐝"];
 const SK_COLORS = [
@@ -84,5 +85,7 @@ const SACHKUNDE_CONFIG: LanguageTestEngineConfig = {
 };
 
 export default function SachkundeTestPage() {
-  return <LanguageTestEngine config={SACHKUNDE_CONFIG} />;
+  const { lang } = useLang();
+  const locale = { de: "de-DE", hu: "hu-HU", ro: "ro-RO", en: "en-US" }[lang] ?? "de-DE";
+  return <LanguageTestEngine config={{ ...SACHKUNDE_CONFIG, ttsLang: locale, dateLocale: locale }} />;
 }

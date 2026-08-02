@@ -26,13 +26,13 @@ export function LanguageProvider({
   useEffect(() => {
     if (initialLang) {
       setLangState(initialLang);
-      saveLanguage(initialLang);
+      try { saveLanguage(initialLang); } catch { /* Storage may be disabled. */ }
     } else {
-      setLangState(getLanguage());
+      try { setLangState(getLanguage()); } catch { /* Keep the render-safe default. */ }
     }
 
     const handleStorage = () => {
-      setLangState(getLanguage());
+      try { setLangState(getLanguage()); } catch { /* Ignore inaccessible storage. */ }
     };
 
     window.addEventListener("storage", handleStorage);
@@ -41,7 +41,7 @@ export function LanguageProvider({
 
   const setLang = (l: Language) => {
     setLangState(l);
-    saveLanguage(l);
+    try { saveLanguage(l); } catch { /* Language still changes for this session. */ }
   };
 
   return (

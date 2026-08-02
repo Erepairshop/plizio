@@ -65,8 +65,9 @@ const FIXED_COUNTRY_SETS: Record<string, string[]> = {
   biologietest: ["DE", "AT", "CH"],
   physiktest: ["DE", "AT", "CH"],
   kemiatest: ["DE", "AT", "CH"],
-  geographietest: ["DE", "AT", "CH"],
-  geschichtetest: ["DE", "AT", "CH"],
+  // Geography uses a localized shared curriculum and derives its single
+  // language/grading variant dynamically, so it has no fixed national set.
+  geschichtetest: ["DE", "AT", "CH", "HU", "RO", "US", "GB"],
   informatikatest: ["DE", "AT", "CH"],
   aitest: ["DE", "AT", "CH"],
   codekidstest: ["DE", "AT", "CH"],

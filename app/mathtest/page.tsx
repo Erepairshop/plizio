@@ -137,12 +137,6 @@ function MathTestPageInner() {
   const [schoolAnswers, setSchoolAnswers] = useState<SchoolTaskAnswers>({});
   const [schoolResult, setSchoolResult] = useState<{ earned: number; total: number; percentage: number } | null>(null);
 
-  // ─── Klassenarbeit timer (30 minutes) ───────────────────────
-  const [klassenarbeitStartTime, setKlassenarbeitStartTime] = useState<number | null>(null);
-  const [klassenarbeitTimeLeft, setKlassenarbeitTimeLeft] = useState(1800); // 30 * 60 = 1800 seconds
-  const klassenarbeitTimerRef = useRef<ReturnType<typeof setInterval> | null>(null);
-  const klassenarbeitMaxTimeRef = useRef(40 * 60); // default 40 minutes, updated dynamically
-
   const timerRef = useRef<ReturnType<typeof setInterval> | null>(null);
 
   // ─── Supabase integration state ───────────────────────
@@ -278,58 +272,6 @@ function MathTestPageInner() {
       if (timerRef.current) clearInterval(timerRef.current);
     };
   }, [gameState]);
-
-  // ─── Klassenarbeit Timer (30 minutes) ─────────────────────
-  useEffect(() => {
-    if (gameState !== "playing" || testType !== "klassenarbeit") {
-      if (klassenarbeitTimerRef.current) clearInterval(klassenarbeitTimerRef.current);
-      return;
-    }
-
-    // Load start time from localStorage if available (page refresh recovery)
-    let startTime = klassenarbeitStartTime;
-    if (!startTime) {
-      const stored = localStorage.getItem("klassenarbeitStartTime");
-      if (stored) {
-        startTime = parseInt(stored, 10);
-        setKlassenarbeitStartTime(startTime);
-      }
-    }
-
-    if (!startTime) {
-      startTime = Date.now();
-      setKlassenarbeitStartTime(startTime);
-      localStorage.setItem("klassenarbeitStartTime", startTime.toString());
-    }
-
-    // Calculate remaining time based on elapsed time since start
-    const calculateTimeLeft = () => {
-      const elapsed = Math.floor((Date.now() - startTime!) / 1000);
-      const remaining = Math.max(0, klassenarbeitMaxTimeRef.current - elapsed);
-      return remaining;
-    };
-
-    // Update time left
-    const updateTimeLeft = () => {
-      const remaining = calculateTimeLeft();
-      setKlassenarbeitTimeLeft(remaining);
-
-      // Auto-submit when time runs out
-      if (remaining <= 0) {
-        if (klassenarbeitTimerRef.current) clearInterval(klassenarbeitTimerRef.current);
-        // Trigger grading flow which will auto-submit
-        setGameState("grading");
-        setSubmitting(true);
-      }
-    };
-
-    klassenarbeitTimerRef.current = setInterval(updateTimeLeft, 1000);
-    updateTimeLeft(); // Initial call to update immediately
-
-    return () => {
-      if (klassenarbeitTimerRef.current) clearInterval(klassenarbeitTimerRef.current);
-    };
-  }, [gameState, testType, klassenarbeitStartTime]);
 
   // Grading animation
   useEffect(() => {
@@ -589,13 +531,6 @@ function MathTestPageInner() {
     answerTimesRef.current = [];
     lastAnswerTimeRef.current = 0;
 
-    // ─── Initialize timer (all grades) ──────────────────
-    const now = Date.now();
-    setKlassenarbeitStartTime(now);
-    klassenarbeitMaxTimeRef.current = 40 * 60; // will be updated after tasks are generated
-    setKlassenarbeitTimeLeft(40 * 60);
-    localStorage.setItem("klassenarbeitStartTime", now.toString());
-
     // Supabase HU slug → HU_THEMES generator topic key mapping
     const HU_SLUG_TO_KEY: Record<string, string> = {
       // Grade 1
@@ -820,11 +755,6 @@ function MathTestPageInner() {
         }
         tasks = interleaved;
       }
-      // Dynamic timer: 40 min base + 3 min per extra block beyond 10
-      const extraBlocks = Math.max(0, tasks.length - 10);
-      const dynamicMaxTime = 40 * 60 + extraBlocks * 3 * 60;
-      klassenarbeitMaxTimeRef.current = dynamicMaxTime;
-      setKlassenarbeitTimeLeft(dynamicMaxTime);
       setSchoolTasks(tasks);
       setSchoolAnswers({});
       setRealisticKlassenarbeit(null);
@@ -852,13 +782,6 @@ function MathTestPageInner() {
     setTestSession(null);
     answerTimesRef.current = [];
     lastAnswerTimeRef.current = 0;
-
-    // ─── Initialize Klassenarbeit timer (40 minutes for theme-based tests) ─────────────────────
-    const now = Date.now();
-    setKlassenarbeitStartTime(now);
-    klassenarbeitMaxTimeRef.current = 40 * 60;
-    setKlassenarbeitTimeLeft(40 * 60); // 40 minutes = 2400 seconds
-    localStorage.setItem("klassenarbeitStartTime", now.toString());
 
     try {
       // Generate theme-based test (15 questions: 5 easy, 7 medium, 3 hard)
@@ -1384,7 +1307,7 @@ function MathTestPageInner() {
           title={ui?.subject || ui?.title || "MATH TEST"}
           gradeLabel={country?.gradeLabel(selectedGrade!) || `${selectedGrade}. ${ui?.classLabel || "Class"}`}
           date={new Date().toISOString()}
-          timeLeft={testType === "klassenarbeit" ? klassenarbeitTimeLeft : elapsedTime}
+          timeLeft={elapsedTime}
           solved={schoolTasks.length > 0
             ? Object.values(schoolAnswers).filter((v) => String(v).trim() !== '').length
             : answers.filter((a) => a !== null).length}
@@ -1846,12 +1769,12 @@ function MathTestPageInner() {
       <>
         <main className="min-h-screen bg-bg text-white px-4 py-8 flex flex-col items-center">
           <button onClick={() => router.push("/")} className="absolute top-4 left-4 text-white/60 hover:text-white flex items-center gap-2">
-            <ArrowLeft size={18} /> <span className="text-sm">Back</span>
+            <ArrowLeft size={18} /> <span className="text-sm">{country.ui.exit}</span>
           </button>
           <div className="mt-20 mb-8 text-center">
             <div className="inline-flex items-center gap-3 mb-3">
               <Calculator size={32} className="text-gold" />
-              <h1 className="text-2xl sm:text-3xl font-black tracking-wider">MATH TEST</h1>
+              <h1 className="text-2xl sm:text-3xl font-black tracking-wider">{country.ui.title}</h1>
             </div>
             <p className="text-white/70 text-sm sm:text-base">
               {country.ui?.gradeQuestion ?? "Select your grade"}

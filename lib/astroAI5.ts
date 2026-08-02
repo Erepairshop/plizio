@@ -22,5 +22,5 @@ export function isCheckpointDoneAIK5(progress: AIProgress, testId: string): bool
 export function completeMissionAIK5(progress: AIProgress, islandId: string, missionId: string, stars = 1): AIProgress { return completeMission(progress, AI_K5_ISLANDS, islandId, missionId, stars); }
 export function islandTotalStarsAIK5(progress: AIProgress, islandId: string): number { return islandTotalStars(progress, AI_K5_ISLANDS, islandId); }
 export function completeTestAIK5(progress: AIProgress, testId: string): AIProgress { return completeTest(progress, testId); }
-export function generateIslandQuestionsAIK5(island: IslandDef, count = 10) { return generateIslandQuestions(island, getAIK5Questions, count); }
-export function generateCheckpointQuestionsAIK5(testId: string, count = 15) { return generateCheckpointQuestions(AI_K5_CHECKPOINT_TOPICS, testId, getAIK5Questions, count); }
+export function generateIslandQuestionsAIK5(island: IslandDef, count = 10, lang = "hu") { return generateIslandQuestions(island, (ids, amount) => getAIK5Questions(ids, amount, lang), count); }
+export function generateCheckpointQuestionsAIK5(testId: string, count = 15, lang = "hu") { return generateCheckpointQuestions(AI_K5_CHECKPOINT_TOPICS, testId, (ids, amount) => getAIK5Questions(ids, amount, lang), count); }

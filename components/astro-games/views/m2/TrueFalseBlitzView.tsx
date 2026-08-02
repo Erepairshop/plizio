@@ -2,6 +2,7 @@
 import React, { useState, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { AstroGameProps, LocalizedText } from "../../types";
+import { useTimeoutRegistry } from "../../utils";
 
 export type TrueFalseBlitzRound = {
   id: string;
@@ -33,6 +34,7 @@ export default function TrueFalseBlitzView({ rounds, color, lang = "en", mode, o
   const [score, setScore] = useState(0);
   const [showExplanation, setShowExplanation] = useState(false);
   const [lastAnswerCorrect, setLastAnswerCorrect] = useState<boolean | null>(null);
+  const scheduleTimeout = useTimeoutRegistry();
 
   const currentQ = allStatements[globalIdx];
 
@@ -53,7 +55,7 @@ export default function TrueFalseBlitzView({ rounds, color, lang = "en", mode, o
       setShowExplanation(true);
     } else {
       setLastAnswerCorrect(isCorrect);
-      setTimeout(() => proceedNext(isCorrect), 800);
+      scheduleTimeout(() => proceedNext(isCorrect), 800);
     }
   };
 

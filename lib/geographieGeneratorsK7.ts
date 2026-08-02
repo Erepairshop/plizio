@@ -7,11 +7,16 @@ const q = (hu: string, en: string, de: string, ro: string, lang: string) => {
   return en;
 };
 
+const TRANSLATION_DRILL_RE = /\((?:EN|DE)\)|\b(?:in|auf)\s+(?:English|German|Hungarian|Romanian|Englisch|Deutsch|Ungarisch|Rum\u00e4nisch)\b|angolul|n\u00e9met\u00fcl|magyarul|rom\u00e1nul|(?:^|\s)\u00een\s+(?:englez\u0103|german\u0103|maghiar\u0103|rom\u00e2n\u0103)|\(germ\)/i;
+
+const isTranslationDrill = (d: any) =>
+  Array.isArray(d?.q) && d.q.some((text: string) => TRANSLATION_DRILL_RE.test(String(text)));
+
 const makeMCQs = (subtopic: string, lang: string, rng: any, data: any[]) =>
-  data.map(d => createMCQ("geographie", subtopic, q(d.q[0], d.q[1], d.q[2], d.q[3], lang), q(d.c[0], d.c[1], d.c[2], d.c[3], lang), [q(d.w1[0], d.w1[1], d.w1[2], d.w1[3], lang), q(d.w2[0], d.w2[1], d.w2[2], d.w2[3], lang), q(d.w3[0], d.w3[1], d.w3[2], d.w3[3], lang)], rng));
+  data.filter(d => !isTranslationDrill(d)).map(d => createMCQ("geographie", subtopic, q(d.q[0], d.q[1], d.q[2], d.q[3], lang), q(d.c[0], d.c[1], d.c[2], d.c[3], lang), [q(d.w1[0], d.w1[1], d.w1[2], d.w1[3], lang), q(d.w2[0], d.w2[1], d.w2[2], d.w2[3], lang), q(d.w3[0], d.w3[1], d.w3[2], d.w3[3], lang)], rng));
 
 const makeTyping = (subtopic: string, lang: string, data: any[]) =>
-  data.map(d => createTyping("geographie", subtopic, q(d.q[0], d.q[1], d.q[2], d.q[3], lang), [q(d.a[0], d.a[1], d.a[2], d.a[3], lang)]));
+  data.filter(d => !isTranslationDrill(d)).map(d => createTyping("geographie", subtopic, q(d.q[0], d.q[1], d.q[2], d.q[3], lang), [q(d.a[0], d.a[1], d.a[2], d.a[3], lang)]));
 
 // ─── DATA SOURCES K7 ────────────────────────────────────────────────────────
 

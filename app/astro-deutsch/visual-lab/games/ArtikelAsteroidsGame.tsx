@@ -1,14 +1,14 @@
 "use client";
 
-import { useState, useEffect, useRef } from "react";
+import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import type { ArtikelAsteroidsRound, Language } from "@/lib/visualLab/languageTypes";
 
-const T: Record<Language, { correct: string; wrong: string; lives: string; done: string; score: string }> = {
-  de: { correct: "Richtig!", wrong: "Falsch!", lives: "Leben", done: "Geschafft!", score: "Punkte" },
-  hu: { correct: "Helyes!", wrong: "Hibás!", lives: "Élet", done: "Kész!", score: "Pont" },
-  ro: { correct: "Corect!", wrong: "Greșit!", lives: "Vieți", done: "Gata!", score: "Scor" },
-  en: { correct: "Correct!", wrong: "Wrong!", lives: "Lives", done: "Done!", score: "Score" },
+const T: Record<Language, { correct: string; wrong: string; lives: string; done: string; score: string; noTasks: string }> = {
+  de: { correct: "Richtig!", wrong: "Falsch!", lives: "Leben", done: "Geschafft!", score: "Punkte", noTasks: "Für diese Runde sind keine Wörter verfügbar." },
+  hu: { correct: "Helyes!", wrong: "Hibás!", lives: "Élet", done: "Kész!", score: "Pont", noTasks: "Ehhez a körhöz még nincsenek szavak." },
+  ro: { correct: "Corect!", wrong: "Greșit!", lives: "Vieți", done: "Gata!", score: "Scor", noTasks: "Nu există cuvinte pentru această rundă." },
+  en: { correct: "Correct!", wrong: "Wrong!", lives: "Lives", done: "Done!", score: "Score", noTasks: "No words are available for this round." },
 };
 
 const ZONE_STYLE: Record<string, { border: string; glow: string; cls: string }> = {
@@ -21,10 +21,7 @@ const ZONE_STYLE: Record<string, { border: string; glow: string; cls: string }> 
 };
 const DEFAULT_ZONE = { border: "#a855f7", glow: "rgba(168,85,247,0.45)", cls: "text-purple-300" };
 
-const FALL_SECS = [0, 5.5, 5, 4.5, 4, 3.5, 3, 2.7, 2.4];
-
 export default function ArtikelAsteroidsGame({
-  grade,
   lang,
   round,
   onDone,
@@ -35,31 +32,19 @@ export default function ArtikelAsteroidsGame({
   onDone?: (score: number) => void;
 }) {
   const t = T[lang] ?? T.de;
-  const fallSecs = FALL_SECS[Math.min(grade, 8)] ?? 4;
 
   const [queue] = useState(() => [...round.words].sort(() => Math.random() - 0.5));
   const [idx, setIdx] = useState(0);
   const [lives, setLives] = useState(3);
   const [score, setScore] = useState(0);
   const [flash, setFlash] = useState<"correct" | "wrong" | null>(null);
-  const [active, setActive] = useState(true); // word currently falling
+  const [active, setActive] = useState(true);
   const [done, setDone] = useState(false);
-  const [wordX, setWordX] = useState(() => 25 + Math.random() * 50);
-  const timerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
 
   const current = queue[idx];
 
-  // Timeout when word hits bottom without a click
-  useEffect(() => {
-    if (done || !active || !current) return;
-    timerRef.current = setTimeout(() => pick("__miss__"), (fallSecs + 0.1) * 1000);
-    return () => { if (timerRef.current) clearTimeout(timerRef.current); };
-  // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [idx, active, done]);
-
   const pick = (article: string) => {
     if (!active || done || !current) return;
-    if (timerRef.current) clearTimeout(timerRef.current);
     setActive(false);
 
     const ok = article === current.article;
@@ -78,14 +63,21 @@ export default function ArtikelAsteroidsGame({
         onDone?.(newScore);
       } else {
         setIdx(nextIdx);
-        setWordX(25 + Math.random() * 50);
         setActive(true);
       }
     }, 850);
   };
 
+  if (!current) {
+    return (
+      <div className="w-full rounded-xl border border-white/10 bg-slate-950 p-6 text-center text-sm font-semibold text-white/70" role="status">
+        {t.noTasks}
+      </div>
+    );
+  }
+
   return (
-    <div className="relative w-full h-[500px] rounded-xl overflow-hidden flex flex-col" style={{ background: round.theme.bg }}>
+    <div className="relative w-full h-[clamp(360px,72dvh,500px)] rounded-xl overflow-hidden flex flex-col" style={{ background: round.theme.bg }}>
       {/* Glow */}
       <div className="absolute inset-0 pointer-events-none"
         style={{ background: `radial-gradient(ellipse at 50% 0%, ${round.theme.accent}18, transparent 55%)` }} />
@@ -104,7 +96,7 @@ export default function ArtikelAsteroidsGame({
 
       {/* Instruction */}
       <p className="relative z-10 text-center text-white/40 text-xs uppercase tracking-widest pb-1 shrink-0">
-        {round.instruction.de}
+        {round.instruction[lang] ?? round.instruction.de}
       </p>
 
       {/* Fall zone */}
@@ -113,11 +105,10 @@ export default function ArtikelAsteroidsGame({
           {current && !done && (
             <motion.div
               key={`word-${idx}`}
-              className="absolute z-10"
-              style={{ left: `${wordX}%`, x: "-50%" }}
-              initial={{ y: -60 }}
-              animate={active ? { y: 310 } : { opacity: 0, scale: 0.5 }}
-              transition={active ? { duration: fallSecs, ease: "linear" } : { duration: 0.25 }}
+              className="absolute inset-0 z-10 flex items-center justify-center px-4"
+              initial={{ opacity: 0, scale: 0.9 }}
+              animate={active ? { opacity: 1, scale: 1 } : { opacity: 0, scale: 0.5 }}
+              transition={{ duration: 0.25 }}
             >
               <div
                 className="px-6 py-3 rounded-2xl border-2 font-black text-white text-xl backdrop-blur-sm whitespace-nowrap"

@@ -19,7 +19,7 @@ export const INFO_K8_I8_LABELS: Record<string, Record<string, string>> = {
     t6_l1: "Historie", t6_r1: "Gesehene Videos", t6_l2: "Ranking", t6_r2: "Beliebtheit", t6_l3: "Vorschlag", t6_r3: "Neues Video",
     t7_title: "Generative KI (Bilder)", t7_text: "KIs wie Midjourney können aus einer Textbeschreibung (Prompt) neue Bilder erstellen.", t7_inst: "Fülle die Lücke aus:", t7_h1: "Text zu Bild.", t7_h2: "Eingabe-Befehl.", t7_q: "Wie nennt man die Texteingabe bei Bild-KIs?", t7_qa: "Prompt", t7_qb: "Passwort", t7_qc: "Email", t7_qd: "SMS",
     t7_sent: "Ein guter ___ führt zu besseren Bildern.", t7_qa2: "Prompt", t7_qb2: "Drucker", t7_qc2: "Monitor", t7_qd2: "Kaffee",
-    t8_title: "Large Language Models", t8_text: "LLMs (wie ChatGPT) wurden mit riesigen Textmengen trainiert, um Dialoge zu führen.", t8_inst: "Sortiere in die Eimer:", t8_h1: "Was kann ChatGPT?", t8_h2: "Text-Fähigkeiten.", t8_q: "Wofür steht das 'G' in GPT?", t8_qa: "Generative", t8_qb: "Gross", t3_qc: "Gehirn", t3_qd: "Global",
+    t8_title: "Large Language Models", t8_text: "LLMs (wie ChatGPT) wurden mit riesigen Textmengen trainiert, um Dialoge zu führen.", t8_inst: "Sortiere in die Eimer:", t8_h1: "Was kann ChatGPT?", t8_h2: "Text-Fähigkeiten.", t8_q: "Wofür steht das 'G' in GPT?", t8_qa: "Generative", t8_qb: "Gross", t8_qc: "Gehirn", t8_qd: "Global",
     t8_bl1: "Training", t8_bl2: "Anwendung", t8_i1: "Milliarden Wörter", t8_i2: "Aufsatz schreiben", t8_i3: "Internet-Archiv", t8_i4: "Code korrigieren",
     t9_title: "Virtuelle Assistenten", t9_text: "Siri und Alexa nutzen Spracherkennung und KI, um deine Fragen zu beantworten.", t9_inst: "Bringe die Wörter in Ordnung:", t9_h1: "Stimmsteuerung.", t9_h2: "Helfer im Alltag.", t9_q: "Wie aktiviert man meistens Alexa?", t9_qa: "Durch ein Signalwort", t9_qb: "Durch Klatschen", t9_qc: "Durch Pfeifen", t9_qd: "Durch Tanzen",
     t9_w1: "Digitale", t9_w2: "Assistenten", t9_w3: "verstehen", t9_w4: "gesprochene", t9_w5: "Befehle", t9_w6: "sehr", t9_w7: "gut.",
@@ -52,7 +52,7 @@ export const INFO_K8_I8_LABELS: Record<string, Record<string, string>> = {
     t6_l1: "History", t6_r1: "Watched videos", t6_l2: "Ranking", t6_r2: "Popularity", t6_l3: "Suggestion", t6_r3: "New video",
     t7_title: "Generative AI (Images)", t7_text: "AIs like Midjourney can create new images from a text description (prompt).", t7_inst: "Fill in the blank:", t7_h1: "Text to image.", t7_h2: "Input command.", t7_q: "What do you call the text input for image AIs?", t7_qa: "Prompt", t7_qb: "Password", t7_qc: "Email", t7_qd: "SMS",
     t7_sent: "A good ___ leads to better images.", t7_qa2: "prompt", t7_qb2: "printer", t7_qc2: "monitor", t7_qd2: "coffee",
-    t8_title: "Large Language Models", t8_text: "LLMs (like ChatGPT) were trained with massive amounts of text to hold dialogues.", t8_inst: "Sort into buckets:", t8_h1: "What can ChatGPT do?", t8_h2: "Text abilities.", t8_q: "What does the 'G' stand for in GPT?", t8_qa: "Generative", t8_qb: "Great", t3_qc: "Gbrain", t3_qd: "Global",
+    t8_title: "Large Language Models", t8_text: "LLMs (like ChatGPT) were trained with massive amounts of text to hold dialogues.", t8_inst: "Sort into buckets:", t8_h1: "What can ChatGPT do?", t8_h2: "Text abilities.", t8_q: "What does the 'G' stand for in GPT?", t8_qa: "Generative", t8_qb: "Great", t8_qc: "Gbrain", t8_qd: "Global",
     t8_bl1: "Training", t8_bl2: "Application", t8_i1: "Billions of words", t8_i2: "Write essay", t8_i3: "Internet archive", t8_i4: "Fix code",
     t9_title: "Virtual Assistants", t9_text: "Siri and Alexa use voice recognition and AI to answer your questions.", t9_inst: "Put the words in order:", t9_h1: "Voice control.", t9_h2: "Everyday helper.", t9_q: "How do you usually activate Alexa?", t9_qa: "Through a wake word", t9_qb: "By clapping", t9_qc: "By whistling", t9_qd: "By dancing",
     t9_w1: "Digital", t9_w2: "assistants", t9_w3: "understand", t9_w4: "spoken", t9_w5: "commands", t9_w6: "very", t9_w7: "well.",
@@ -152,7 +152,7 @@ export const INFO_K8_I8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t3_title", infoText: "t3_text",
-    svg: { type: "icon-grid", items: [{emoji:"🎮",label:"Spieler"},{emoji:"🤖",label:"KI"}] },
+    svg: { type: "icon-grid", items: [{emoji:"🎮",label:"Player"},{emoji:"🤖",label:"AI"}] },
     interactive: { type: "drag-to-bucket", instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2", buckets: [{id:"b1",label:"t3_bl1"},{id:"b2",label:"t3_bl2"}], items: [{text:"t3_i1",bucketId:"b1"},{text:"t3_i2",bucketId:"b2"},{text:"t3_i3",bucketId:"b1"},{text:"t3_i4",bucketId:"b2"}] },
     quiz: { question: "t3_q", choices: ["t3_qa", "t3_qb", "t3_qc", "t3_qd"], answer: "t3_qa" }
   },
@@ -182,7 +182,7 @@ export const INFO_K8_I8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t8_title", infoText: "t8_text",
-    svg: { type: "icon-grid", items: [{emoji:"📚",label:"Training"},{emoji:"✍️",label:"Anwendung"}] },
+    svg: { type: "icon-grid", items: [{emoji:"📚",label:"Training"},{emoji:"✍️",label:"Application"}] },
     interactive: { type: "drag-to-bucket", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", buckets: [{id:"b1",label:"t8_bl1"},{id:"b2",label:"t8_bl2"}], items: [{text:"t8_i1",bucketId:"b1"},{text:"t8_i2",bucketId:"b2"},{text:"t8_i3",bucketId:"b1"},{text:"t8_i4",bucketId:"b2"}] },
     quiz: { question: "t8_q", choices: ["t8_qa", "t8_qb", "t8_qc", "t8_qd"], answer: "t8_qa" }
   },
@@ -212,7 +212,7 @@ export const INFO_K8_I8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t13_title", infoText: "t13_text",
-    svg: { type: "icon-grid", items: [{emoji:"📊",label:"Datenquelle"},{emoji:"🔮",label:"Vorhersage"}] },
+    svg: { type: "icon-grid", items: [{emoji:"📊",label:"Data Source"},{emoji:"🔮",label:"Prediction"}] },
     interactive: { type: "drag-to-bucket", instruction: "t13_inst", hint1: "t13_h1", hint2: "t13_h2", buckets: [{id:"b1",label:"t13_bl1"},{id:"b2",label:"t13_bl2"}], items: [{text:"t13_i1",bucketId:"b1"},{text:"t13_i2",bucketId:"b2"},{text:"t13_i3",bucketId:"b1"},{text:"t13_i4",bucketId:"b2"}] },
     quiz: { question: "t13_q", choices: ["t13_qa", "t13_qb", "t13_qc", "t13_qd"], answer: "t13_qa" }
   },

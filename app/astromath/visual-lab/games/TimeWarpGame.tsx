@@ -66,7 +66,7 @@ const AnalogClock = ({ hours, minutes, size = 100, onClick }: { hours: number; m
       height={size}
       viewBox={`0 0 ${size} ${size}`}
       onClick={onClick}
-      className="cursor-pointer drop-shadow-[0_0_10px_rgba(79,209,197,0.6)] hover:drop-shadow-[0_0_20px_rgba(246,224,94,0.8)] transition-all"
+      className="w-[88px] sm:w-[120px] h-auto cursor-pointer drop-shadow-[0_0_10px_rgba(79,209,197,0.6)] hover:drop-shadow-[0_0_20px_rgba(246,224,94,0.8)] transition-all"
     >
       <circle cx={center} cy={center} r={radius} fill="#111827" stroke="#06b6d4" strokeWidth="4" />
       
@@ -251,7 +251,7 @@ export default function TimeWarpGame({ grade, lang, onDone }: TimeWarpGameProps)
   };
 
   return (
-    <div className="relative w-full h-[600px] bg-gray-950 overflow-hidden font-mono rounded-2xl shadow-[0_0_30px_rgba(6,182,212,0.3)] border border-cyan-900/50 flex flex-col select-none">
+    <div className="relative w-full h-[calc(100dvh-2rem)] min-h-[420px] max-h-[600px] bg-gray-950 overflow-hidden font-mono rounded-2xl shadow-[0_0_30px_rgba(6,182,212,0.3)] border border-cyan-900/50 flex flex-col select-none">
       
       {/* Background Starfield Effect */}
       <div className="absolute inset-0 opacity-20 pointer-events-none">

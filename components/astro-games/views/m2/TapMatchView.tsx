@@ -2,6 +2,7 @@
 import React, { useMemo, useState } from "react";
 import { motion } from "framer-motion";
 import { AstroGameProps, LocalizedText } from "../../types";
+import { shuffleDeterministic } from "../../utils";
 
 export type TapMatchRound = {
   id: string;
@@ -52,12 +53,7 @@ export default function TapMatchView({ rounds, color, lang, mode, onDone, onCorr
   // Shuffle right-side items per round so the answer isn't always next to its left counterpart
   const shuffledRight = useMemo(() => {
     if (!currentRound) return [];
-    const arr = [...currentRound.right];
-    for (let i = arr.length - 1; i > 0; i--) {
-      const j = Math.floor(Math.random() * (i + 1));
-      [arr[i], arr[j]] = [arr[j], arr[i]];
-    }
-    return arr;
+    return shuffleDeterministic(currentRound.right, `${currentRound.id}-right`);
   }, [currentRound]);
 
   if (!currentRound) return null;

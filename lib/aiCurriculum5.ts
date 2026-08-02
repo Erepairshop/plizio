@@ -28,7 +28,7 @@ const AI_DATA_INLINE: Record<string, RawQuestion[]> = {
     { type: "mcq", question: { de: "Was ist ein Roboter?", hu: "Mi az a robot?", ro: "Ce este un robot?", en: "What is a robot?" }, options: { de: ["Maschine", "Tier", "Pflanze", "Geist"], hu: ["Gép", "Állat", "Növény", "Szellem"], ro: ["Mașină", "Animal", "Plantă", "Spirit"], en: ["Machine", "Animal", "Plant", "Ghost"] }, correct: 0 },
     { type: "mcq", question: { de: "Wo arbeiten Roboter?", hu: "Hol dolgoznak robotok?", ro: "Unde lucrează roboții?", en: "Where do robots work?" }, options: { de: ["Fabrik", "Wald", "Meer", "Bett"], hu: ["Gyárban", "Erdőben", "Tengeren", "Ágyban"], ro: ["Fabrică", "Pădure", "Mare", "Pat"], en: ["Factory", "Forest", "Sea", "Bed"] }, correct: 0 },
     { type: "mcq", question: { de: "Was sieht ein Roboter?", hu: "Mivel lát a robot?", ro: "Cu ce vede robotul?", en: "What does a robot use to see?" }, options: { de: ["Kamera", "Brille", "Auge", "Licht"], hu: ["Kamerával", "Szemüveggel", "Szemmel", "Fénnyel"], ro: ["Cameră", "Ochelari", "Ochi", "Lumină"], en: ["Camera", "Glasses", "Eye", "Light"] }, correct: 0 },
-    { type: "typing", question: { de: "Was ist egy Mars-Fahrzeug?", hu: "Hogy hívják a Mars-járót?", ro: "Cum se numește vehiculul de pe Marte?", en: "What is a Mars vehicle called?" }, answer: "Rover" },
+    { type: "typing", question: { de: "Wie heißt ein Mars-Fahrzeug?", hu: "Hogy hívják a Mars-járót?", ro: "Cum se numește vehiculul de pe Marte?", en: "What is a Mars vehicle called?" }, answer: "Rover" },
     { type: "typing", question: { de: "Woraus besteht ein Robot?", hu: "Miből készül a robot?", ro: "Din ce este făcut robotul?", en: "What is a robot made of?" }, answer: { de: "Metall", hu: "Fém", ro: "Metal", en: "Metal" } }
   ]
 };

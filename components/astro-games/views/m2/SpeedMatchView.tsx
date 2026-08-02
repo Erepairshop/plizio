@@ -2,6 +2,7 @@
 import React, { useState, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { AstroGameProps, LocalizedText } from "../../types";
+import { useTimeoutRegistry } from "../../utils";
 
 export type SpeedMatchRound = {
   id: string;
@@ -32,6 +33,7 @@ export default function SpeedMatchView({ rounds, color, lang = "en", mode, onDon
   const [globalIdx, setGlobalIdx] = useState(0);
   const [score, setScore] = useState(0);
   const [lastAnswer, setLastAnswer] = useState<boolean | null>(null);
+  const scheduleTimeout = useTimeoutRegistry();
 
   const currentQ = allQuestions[globalIdx];
 
@@ -48,7 +50,7 @@ export default function SpeedMatchView({ rounds, color, lang = "en", mode, onDon
       onWrong?.();
     }
 
-    setTimeout(() => {
+    scheduleTimeout(() => {
       setLastAnswer(null);
       if (globalIdx + 1 < allQuestions.length) {
         setGlobalIdx(globalIdx + 1);

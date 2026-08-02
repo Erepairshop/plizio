@@ -9,7 +9,8 @@ import { EcologyEvolutionSvg, FoodWebSvg } from "@/app/astro-biologie/svg";
 
 // ─── INLINE SVG ILLUSTRATIONS ───────────────────────────────────────
 
-const Topic2Svg = memo(function Topic2Svg() {
+const Topic2Svg = memo(function Topic2Svg({ lang }: { lang: string }) {
+  const fossil = { de: "FOSSIL", en: "FOSSIL", hu: "KÖVÜLET", ro: "FOSILĂ" }[lang] ?? "FOSSIL";
   return (
     <svg width="100%" viewBox="0 0 240 140">
       <rect width="240" height="140" fill="#F1F5F9" rx="20" />
@@ -18,7 +19,7 @@ const Topic2Svg = memo(function Topic2Svg() {
         <path d="M -40,20 L 40,20 M -30,10 L 30,10 M -20,0 L 20,0" stroke="#94A3B8" strokeWidth="4" strokeLinecap="round" />
         <circle cx="0" cy="-20" r="25" fill="#CBD5E1" />
         <path d="M -10,-25 L 10,-15 M -10,-15 L 10,-25" stroke="#64748B" strokeWidth="2" />
-        <text x="0" y="45" fontSize="12" fill="#475569" fontWeight="bold" textAnchor="middle">FOSSIL</text>
+        <text x="0" y="45" fontSize="12" fill="#475569" fontWeight="bold" textAnchor="middle">{fossil}</text>
       </g>
     </svg>
   );
@@ -268,7 +269,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t2_title",
     infoText: "t2_text",
-    svg: () => <Topic2Svg />,
+    svg: (lang) => <Topic2Svg lang={lang} />,
     bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     interactive: {
       type: "gap-fill",

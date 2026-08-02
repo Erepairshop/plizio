@@ -14,14 +14,14 @@ const jsonLdWebPage = {
 };
 
 const GRADES = [
-  { n: 1, age: "6–7", summary: "Alfabetul, silabe, sunete, citire și scriere", available: false },
+  { n: 1, age: "6–7", summary: "Alfabetul, silabe, sunete, citire și scriere", available: true },
   { n: 2, age: "7–8", summary: "Ortografie, părți de vorbire, propoziția, text narativ", available: true },
-  { n: 3, age: "8–9", summary: "Substantiv, verb, adjectiv, propoziție dezvoltată", available: false },
-  { n: 4, age: "9–10", summary: "Analiză gramaticală, compunere, ortografie avansată", available: false },
-  { n: 5, age: "10–11", summary: "Morfologie, fonetică, lexic, sintaxă", available: false },
-  { n: 6, age: "11–12", summary: "Morfologie avansată, text literar, stilistică", available: false },
-  { n: 7, age: "12–13", summary: "Sintaxă avansată, figuri de stil, comentariu literar", available: false },
-  { n: 8, age: "13–14", summary: "Evaluare națională, sintaxă și morfologie completă", available: false },
+  { n: 3, age: "8–9", summary: "Substantiv, verb, adjectiv, propoziție dezvoltată", available: true },
+  { n: 4, age: "9–10", summary: "Analiză gramaticală, compunere, ortografie avansată", available: true },
+  { n: 5, age: "10–11", summary: "Morfologie, fonetică, lexic, sintaxă", available: true },
+  { n: 6, age: "11–12", summary: "Morfologie avansată, text literar, stilistică", available: true },
+  { n: 7, age: "12–13", summary: "Sintaxă avansată, figuri de stil, comentariu literar", available: true },
+  { n: 8, age: "13–14", summary: "Evaluare națională, sintaxă și morfologie completă", available: true },
 ];
 
 export default function TestLimbaRomanaHubPage() {

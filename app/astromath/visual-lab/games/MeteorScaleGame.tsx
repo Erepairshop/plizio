@@ -157,17 +157,17 @@ export default function MeteorScaleGame({ grade, lang, onDone }: MeteorScaleGame
 
 
   return (
-    <div className="flex flex-col items-center w-full max-w-4xl mx-auto p-4 bg-slate-900 rounded-2xl shadow-2xl border border-slate-700 font-sans">
-      <div className="flex justify-between w-full mb-4 px-4">
-        <h2 className="text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-orange-400 to-yellow-300">
+    <div className="flex flex-col items-center w-full max-w-4xl mx-auto p-2 sm:p-4 bg-slate-900 rounded-2xl shadow-2xl border border-slate-700 font-sans">
+      <div className="flex justify-between items-center gap-2 w-full mb-3 sm:mb-4 px-2 sm:px-4">
+        <h2 className="text-lg sm:text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-orange-400 to-yellow-300">
           {t.title}
         </h2>
-        <div className="text-xl font-bold text-white bg-slate-800 px-4 py-1 rounded-full border border-slate-600">
+        <div className="text-sm sm:text-xl font-bold text-white bg-slate-800 px-3 sm:px-4 py-1 rounded-full border border-slate-600 whitespace-nowrap">
           {t.score}: <span className="text-orange-400">{score}</span>
         </div>
       </div>
 
-       <div className="relative w-full h-[500px] sm:h-[600px] bg-slate-950 overflow-hidden rounded-xl border-2 border-slate-800 select-none">
+       <div className="relative w-full h-[calc(100dvh-7rem)] min-h-[430px] max-h-[600px] bg-slate-950 overflow-hidden rounded-xl border-2 border-slate-800 select-none">
         <div className="absolute inset-0 opacity-40" style={{ backgroundImage: 'radial-gradient(circle, #fff 1.5px, transparent 1.5px)', backgroundSize: '40px 40px' }} />
         <div className="absolute inset-0 opacity-20" style={{ backgroundImage: 'radial-gradient(circle, #67e8f9 1px, transparent 1px)', backgroundSize: '60px 60px', backgroundPosition: '20px 20px' }} />
 
@@ -177,7 +177,7 @@ export default function MeteorScaleGame({ grade, lang, onDone }: MeteorScaleGame
             animate={{ opacity: 1, scale: 1 }}
             className="absolute inset-0 z-50 flex flex-col items-center justify-center bg-slate-950/85 backdrop-blur-sm"
           >
-            <h1 className="text-5xl font-bold text-white mb-3 drop-shadow-[0_0_10px_#f97316]">{t.gameOver}</h1>
+            <h1 className="text-3xl sm:text-5xl font-bold text-white mb-3 text-center drop-shadow-[0_0_10px_#f97316]">{t.gameOver}</h1>
             <p className="text-3xl text-orange-400 font-bold mb-8">{t.score}: {score}</p>
             <button
               onClick={restart}

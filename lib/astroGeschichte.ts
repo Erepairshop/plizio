@@ -4,10 +4,8 @@
 import type { GameType, Lang, L10n, MissionDef, MissionCategory, IslandDef, SortRound, MatchPair } from "./astromath";
 import type { MathQuestion } from "./mathCurriculum";
 import type { CurriculumQuestion, CurriculumMCQ } from "./curriculumTypes";
-import { getG5GeschichteQuestions } from "./geschichteCurriculum5";
-import { getG6GeschichteQuestions } from "./geschichteCurriculum6";
-import { getG7GeschichteQuestions } from "./geschichteCurriculum7";
-import { getG8GeschichteQuestions } from "./geschichteCurriculum8";
+import { getGeschichteQuestions } from "./geschichteCurriculum";
+import { getCountrySubtopics } from "./geschichteCountryContent";
 
 export type { GameType, Lang, L10n, MissionDef, MissionCategory, IslandDef, SortRound, MatchPair, MathQuestion };
 
@@ -33,6 +31,59 @@ export interface GeschichteProgress {
 }
 
 // ─── Shuffle helper ────────────────────────────────────────────────────────────
+export interface GeschichteVariantProfile {
+  id: string;
+  lang: Lang;
+  contentKind: "generic" | "country";
+  countryCode?: "hu" | "ro";
+  label: Record<Lang, string>;
+}
+
+export interface GeschichteVariantContent {
+  variant: GeschichteVariantProfile;
+  islands: IslandDef[];
+  checkpointTopics: Record<string, string[]>;
+  usesCountryContent: boolean;
+}
+
+const GESCHICHTE_VARIANT_LABELS_NORMALIZED: Record<string, Record<Lang, string>> = {
+  "generic-de": { de: "Allgemeine Geschichte", en: "Generic History", hu: "Általános történelem", ro: "Istorie generală" },
+  "generic-en": { de: "Allgemeine Geschichte", en: "Generic History", hu: "Általános történelem", ro: "Istorie generală" },
+  "country-hu": { de: "Ungarische Geschichte", en: "Hungarian History", hu: "Magyar történelem", ro: "Istoria Ungariei" },
+  "country-ro": { de: "Rumänische Geschichte", en: "Romanian History", hu: "Román történelem", ro: "Istoria României" },
+};
+
+const COUNTRY_QUIZ_LABEL_NORMALIZED: Record<Lang, string> = {
+  de: "Themen-Quiz",
+  en: "Topic Quiz",
+  hu: "Témakvíz",
+  ro: "Quiz tematic",
+};
+
+export function normalizeAstroLang(lang: string | null | undefined): Lang {
+  return lang === "de" || lang === "en" || lang === "hu" || lang === "ro" ? lang : "de";
+}
+
+export function getGeschichteVariantProfile(lang: string | null | undefined): GeschichteVariantProfile {
+  const normalized = normalizeAstroLang(lang);
+  if (normalized === "hu") {
+    return { id: "country-hu", lang: normalized, contentKind: "country", countryCode: "hu", label: GESCHICHTE_VARIANT_LABELS_NORMALIZED["country-hu"] };
+  }
+  if (normalized === "ro") {
+    return { id: "country-ro", lang: normalized, contentKind: "country", countryCode: "ro", label: GESCHICHTE_VARIANT_LABELS_NORMALIZED["country-ro"] };
+  }
+  const genericId = normalized === "en" ? "generic-en" : "generic-de";
+  return { id: genericId, lang: normalized, contentKind: "generic", label: GESCHICHTE_VARIANT_LABELS_NORMALIZED[genericId] };
+}
+
+export function buildGeschichteSaveKey(baseKey: string, variantId?: string): string {
+  return variantId ? `${baseKey}_${variantId}` : baseKey;
+}
+
+export function buildGeschichteExplorerId(baseId: string, variantId?: string): string {
+  return variantId ? `${baseId}_${variantId}` : baseId;
+}
+
 export function shuffleArr<T>(arr: T[]): T[] {
   const a = [...arr];
   for (let i = a.length - 1; i > 0; i--) {
@@ -43,15 +94,13 @@ export function shuffleArr<T>(arr: T[]): T[] {
 }
 
 // ─── Question fetcher by grade ────────────────────────────────────────────────
-function getQuestionsForGrade(grade: number, subtopicId: string, seed: number): CurriculumQuestion[] {
-  void seed; // currently unused; kept for API compatibility
-  switch (grade) {
-    case 5: return getG5GeschichteQuestions(subtopicId, "de");
-    case 6: return getG6GeschichteQuestions(subtopicId, "de");
-    case 7: return getG7GeschichteQuestions(subtopicId, "de");
-    case 8: return getG8GeschichteQuestions(subtopicId, "de");
-    default: return [];
-  }
+function getQuestionsForGrade(
+  grade: number,
+  subtopicIds: string[],
+  variant: GeschichteVariantProfile,
+  count: number,
+): CurriculumQuestion[] {
+  return getGeschichteQuestions(grade, subtopicIds, count, variant.countryCode ?? variant.lang);
 }
 
 // ─── Common question generator ────────────────────────────────────────────────
@@ -59,14 +108,16 @@ export function generateGeschichteIslandQuestions(
   island: IslandDef,
   grade: number,
   count = 10,
+  variant: GeschichteVariantProfile = getGeschichteVariantProfile("de"),
 ): MathQuestion[] {
   const pool: MathQuestion[] = [];
   const seen = new Set<string>();
   const keys = shuffleArr([...island.topicKeys]);
+  if (keys.length === 0) return [];
 
   for (let attempt = 0; attempt < count * 20 && pool.length < count; attempt++) {
     const subtopicId = keys[attempt % keys.length];
-    const questions = getQuestionsForGrade(grade, subtopicId, Math.floor(Math.random() * 1000));
+    const questions = getQuestionsForGrade(grade, [subtopicId], variant, 35);
     const mcqs = questions.filter((q) => q.type === "mcq") as CurriculumMCQ[];
     if (mcqs.length === 0) continue;
 
@@ -85,16 +136,18 @@ export function generateGeschichteCheckpointQuestions(
   checkpointTopics: Record<string, string[]>,
   grade: number,
   count = 10,
+  variant: GeschichteVariantProfile = getGeschichteVariantProfile("de"),
 ): MathQuestion[] {
   const keys = shuffleArr([...(checkpointTopics[testId] ?? [])]);
   const pool: MathQuestion[] = [];
   const seen = new Set<string>();
+  if (keys.length === 0) return [];
 
   for (let attempt = 0; attempt < count * 20 && pool.length < count; attempt++) {
     const subtopicId = keys[attempt % keys.length];
     if (!subtopicId) continue;
-    
-    const questions = getQuestionsForGrade(grade, subtopicId, Math.floor(Math.random() * 1000));
+
+    const questions = getQuestionsForGrade(grade, [subtopicId], variant, 35);
     const mcqs = questions.filter((q) => q.type === "mcq") as CurriculumMCQ[];
     if (mcqs.length === 0) continue;
 
@@ -119,7 +172,9 @@ export function loadGeschichteProgress(saveKey: string, islands: IslandDef[]): G
 
 export function saveGeschichteProgress(saveKey: string, p: GeschichteProgress): void {
   if (typeof window !== "undefined") {
-    localStorage.setItem(saveKey, JSON.stringify(p));
+    try {
+      localStorage.setItem(saveKey, JSON.stringify(p));
+    } catch {}
   }
 }
 
@@ -187,4 +242,109 @@ export function islandTotalStars(progress: GeschichteProgress, islands: IslandDe
 export function completeTest(progress: GeschichteProgress, testId: string): GeschichteProgress {
   if (progress.completedTests.includes(testId)) return progress;
   return { ...progress, completedTests: [...progress.completedTests, testId] };
+}
+
+function deriveCheckpointTopics(
+  islands: IslandDef[],
+  checkpointMap: Record<string, string[]>,
+  fallbackTopics: Record<string, string[]>,
+): Record<string, string[]> {
+  return Object.fromEntries(
+    Object.entries(checkpointMap).map(([testId, islandIds]) => {
+      const topicKeys = islandIds.flatMap((islandId) => islands.find((island) => island.id === islandId)?.topicKeys ?? []);
+      return [testId, topicKeys.length > 0 ? topicKeys : (fallbackTopics[testId] ?? [])];
+    }),
+  );
+}
+
+function chunkCountrySubtopics<T>(items: T[], chunkCount: number): T[][] {
+  const groups = Array.from({ length: chunkCount }, () => [] as T[]);
+  if (items.length === 0) return groups;
+  items.forEach((item, index) => {
+    const bucket = Math.min(chunkCount - 1, Math.floor((index * chunkCount) / items.length));
+    groups[bucket].push(item);
+  });
+  return groups;
+}
+
+function buildCountryIslandName(
+  names: Array<Record<Lang, string>>,
+  fallback: Record<string, string>,
+): Record<Lang, string> {
+  if (names.length === 0) {
+    return {
+      de: fallback.de ?? fallback.en ?? "Geschichte",
+      en: fallback.en ?? fallback.de ?? "History",
+      hu: fallback.hu ?? fallback.de ?? "Tortenelem",
+      ro: fallback.ro ?? fallback.de ?? "Istorie",
+    };
+  }
+  const first = names[0];
+  if (names.length === 1) return first;
+  return {
+    de: `${first.de} +${names.length - 1}`,
+    en: `${first.en} +${names.length - 1}`,
+    hu: `${first.hu} +${names.length - 1}`,
+    ro: `${first.ro} +${names.length - 1}`,
+  };
+}
+
+export function createGeschichteVariantContent(
+  grade: number,
+  lang: string | null | undefined,
+  baseIslands: IslandDef[],
+  checkpointMap: Record<string, string[]>,
+  fallbackTopics: Record<string, string[]>,
+): GeschichteVariantContent {
+  const variant = getGeschichteVariantProfile(lang);
+  if (variant.contentKind !== "country" || !variant.countryCode) {
+    return {
+      variant,
+      islands: baseIslands,
+      checkpointTopics: fallbackTopics,
+      usesCountryContent: false,
+    };
+  }
+
+  const countrySubtopics = getCountrySubtopics(variant.countryCode, grade);
+  if (countrySubtopics.length === 0) {
+    return {
+      variant,
+      islands: baseIslands,
+      checkpointTopics: fallbackTopics,
+      usesCountryContent: false,
+    };
+  }
+
+  const groupedSubtopics = chunkCountrySubtopics(countrySubtopics, baseIslands.length);
+  const islands = baseIslands.map((island, index) => {
+    const group = groupedSubtopics[index];
+    if (!group || group.length === 0) return island;
+    return {
+      ...island,
+      name: buildCountryIslandName(group.map((entry) => entry.names), island.name as Record<string, string>),
+      topicKeys: group.map((entry) => entry.id),
+      missions: island.missions.map((mission, missionIndex) =>
+        missionIndex === 0
+          ? {
+              ...mission,
+              gameType: "speed-round",
+              label: {
+                de: COUNTRY_QUIZ_LABEL_NORMALIZED.de,
+                en: COUNTRY_QUIZ_LABEL_NORMALIZED.en,
+                hu: COUNTRY_QUIZ_LABEL_NORMALIZED.hu,
+                ro: COUNTRY_QUIZ_LABEL_NORMALIZED.ro,
+              },
+            }
+          : mission,
+      ),
+    };
+  });
+
+  return {
+    variant,
+    islands,
+    checkpointTopics: deriveCheckpointTopics(islands, checkpointMap, fallbackTopics),
+    usesCountryContent: true,
+  };
 }

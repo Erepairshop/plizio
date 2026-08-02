@@ -99,7 +99,7 @@ export default function CodeCommanderGame({
 
       {/* Title */}
       <div className="relative z-20 text-center pt-2 pb-0 shrink-0">
-        <span className="font-mono text-[11px] tracking-widest uppercase" style={{ color: "rgba(57,255,20,0.5)" }}>🤖 Code Commander</span>
+        <span className="font-mono text-[11px] tracking-widest uppercase" style={{ color: "rgba(57,255,20,0.5)" }}>🤖 {round.title[lang] ?? round.title.en}</span>
       </div>
 
       {/* HUD */}
@@ -109,7 +109,7 @@ export default function CodeCommanderGame({
         </div>
         <div className="bg-black/60 px-3 py-1 rounded-full border border-green-400/20 text-xs font-mono"
           style={{ color: "#39ff14" }}>
-          {round.instruction.hu}
+          {round.instruction[lang] ?? round.instruction.en}
         </div>
       </div>
 

@@ -1,10 +1,12 @@
 // lib/astroGeschichte6.ts — AstroGeschichte K6 island definitions & progress
 import type { IslandDef, Lang, MathQuestion, GeschichteProgress } from "./astroGeschichte";
 import {
+  buildGeschichteSaveKey,
+  createGeschichteVariantContent,
   loadGeschichteProgress, saveGeschichteProgress, isMissionDone, isIslandDone,
   isIslandUnlocked, isCheckpointUnlocked, isCheckpointDone,
   completeMission, islandTotalStars, completeTest,
-  generateGeschichteIslandQuestions, generateGeschichteCheckpointQuestions,
+  generateGeschichteIslandQuestions, generateGeschichteCheckpointQuestions, getGeschichteVariantProfile,
 } from "./astroGeschichte";
 
 export const K6_SAVE_KEY = "astrogeschichte_k6_v1";
@@ -132,8 +134,10 @@ export const K6_ISLANDS: IslandDef[] = [
   },
 ];
 
-export function loadK6Progress(): GeschichteProgress { return loadGeschichteProgress(K6_SAVE_KEY, K6_ISLANDS); }
-export function saveK6Progress(p: GeschichteProgress): void { saveGeschichteProgress(K6_SAVE_KEY, p); }
+export function getK6ProgressKey(variantId?: string): string { return buildGeschichteSaveKey(K6_SAVE_KEY, variantId); }
+export function getK6VariantContent(lang: Lang) { return createGeschichteVariantContent(6, lang, K6_ISLANDS, K6_CHECKPOINT_MAP, K6_CHECKPOINT_TOPICS); }
+export function loadK6Progress(variantId?: string): GeschichteProgress { return loadGeschichteProgress(getK6ProgressKey(variantId), K6_ISLANDS); }
+export function saveK6Progress(p: GeschichteProgress, variantId?: string): void { saveGeschichteProgress(getK6ProgressKey(variantId), p); }
 export function isMissionDoneK6(p: GeschichteProgress, i: string, m: string): boolean { return isMissionDone(p, i, m); }
 export function isIslandDoneK6(p: GeschichteProgress, i: string): boolean { return isIslandDone(p, i); }
 export function isIslandUnlockedK6(p: GeschichteProgress, i: string): boolean { return isIslandUnlocked(p, K6_ISLANDS, i); }
@@ -142,5 +146,5 @@ export function isCheckpointDoneK6(p: GeschichteProgress, t: string): boolean { 
 export function completeMissionK6(p: GeschichteProgress, i: string, m: string, s = 1): GeschichteProgress { return completeMission(p, K6_ISLANDS, i, m, s); }
 export function islandTotalStarsK6(p: GeschichteProgress, i: string): number { return islandTotalStars(p, K6_ISLANDS, i); }
 export function completeTestK6(p: GeschichteProgress, t: string): GeschichteProgress { return completeTest(p, t); }
-export function generateIslandQuestionsK6(island: IslandDef, _lang: Lang, count = 10): MathQuestion[] { return generateGeschichteIslandQuestions(island, 6, count); }
-export function generateCheckpointQuestionsK6(testId: string, _lang: Lang, count = 10): MathQuestion[] { return generateGeschichteCheckpointQuestions(testId, K6_CHECKPOINT_TOPICS, 6, count); }
+export function generateIslandQuestionsK6(island: IslandDef, lang: Lang, count = 10): MathQuestion[] { return generateGeschichteIslandQuestions(island, 6, count, getGeschichteVariantProfile(lang)); }
+export function generateCheckpointQuestionsK6(testId: string, lang: Lang, count = 10, checkpointTopics: Record<string, string[]> = K6_CHECKPOINT_TOPICS): MathQuestion[] { return generateGeschichteCheckpointQuestions(testId, checkpointTopics, 6, count, getGeschichteVariantProfile(lang)); }

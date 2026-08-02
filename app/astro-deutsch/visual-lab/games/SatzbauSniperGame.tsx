@@ -91,7 +91,7 @@ export default function SatzbauSniperGame({
   };
 
   return (
-    <div className="relative w-full h-[500px] rounded-xl overflow-hidden flex flex-col" style={{ background: round.theme.bg }}>
+    <div className="relative w-full h-[clamp(360px,72dvh,500px)] rounded-xl overflow-hidden flex flex-col" style={{ background: round.theme.bg }}>
       {/* BG glow */}
       <div className="absolute inset-0 pointer-events-none"
         style={{ background: `radial-gradient(ellipse at 50% 50%, ${round.theme.accent}18, transparent 65%)` }} />

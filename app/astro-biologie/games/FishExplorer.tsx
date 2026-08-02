@@ -36,7 +36,8 @@ const Topic3Svg = memo(function Topic3Svg() {
   );
 });
 
-const Topic5Svg = memo(function Topic5Svg() {
+const Topic5Svg = memo(function Topic5Svg({ lang }: { lang: string }) {
+  const quiz = { de: "QUIZ", en: "QUIZ", hu: "KVÍZ", ro: "TEST" }[lang] ?? "QUIZ";
   return (
     <svg width="100%" viewBox="0 0 240 140">
       <rect width="240" height="140" fill="#FEF08A" rx="20" />
@@ -44,7 +45,7 @@ const Topic5Svg = memo(function Topic5Svg() {
         <circle cx="0" cy="0" r="40" fill="#FDE047" stroke="#CA8A04" strokeWidth="2" />
         <text x="-15" y="5" fontSize="25" textAnchor="middle">🐟</text>
         <text x="15" y="5" fontSize="25" textAnchor="middle">🐸</text>
-        <text x="0" y="50" fontSize="14" fontWeight="black" fill="#A16207" textAnchor="middle">QUIZ</text>
+        <text x="0" y="50" fontSize="14" fontWeight="black" fill="#A16207" textAnchor="middle">{quiz}</text>
       </g>
     </svg>
   );
@@ -315,7 +316,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t5_title",
     infoText: "t5_text",
-    svg: () => <Topic5Svg />,
+    svg: (lang) => <Topic5Svg lang={lang} />,
     bulletKeys: ["t5_b1", "t5_b2", "t5_b3"],
     interactive: {
       type: "gap-fill",

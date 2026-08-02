@@ -247,7 +247,7 @@ function IslandMapSVG({ progress, onIsland, onCheckpoint }: {
             {unlocked && (
               <text x={island.svgX} y={island.svgY + 48} textAnchor="middle" fontSize={9} fontWeight="bold"
                 fill={total === 9 ? "#FFD700" : total > 0 ? island.color : "rgba(255,255,255,0.25)"}>
-                {total > 0 ? `${total}/9 ⭐` : island.name.en.split(" ")[0]}
+                {total > 0 ? `${total}/9 ⭐` : island.name.hu.split(" ")[0]}
               </text>
             )}
           </g>

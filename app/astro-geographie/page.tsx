@@ -5,6 +5,11 @@ import { useRouter } from "next/navigation";
 import { ChevronLeft } from "lucide-react";
 import { useLang } from "@/components/LanguageProvider";
 import { GRADE_PLANETS } from "../astrodeutsch/planets";
+import { getGeographieVariantProfile } from "@/lib/astroGeographie";
+import { loadK5Progress } from "@/lib/astroGeographie5";
+import { loadK6Progress } from "@/lib/astroGeographie6";
+import { loadK7Progress } from "@/lib/astroGeographie7";
+import { loadK8Progress } from "@/lib/astroGeographie8";
 
 const STAR_DATA = Array.from({ length: 80 }, (_, i) => ({
   id: i, x: (i * 37 + 13) % 100, y: (i * 53 + 7) % 100,
@@ -78,10 +83,21 @@ const HUB_LABELS: Record<string, Record<string, string>> = {
 export default function AstroGeographieHubPage() {
   const { lang } = useLang();
   const router = useRouter();
-
-  // Progress will be tracked properly once the progress logic is added for Geography.
-  // For now we set them to [0,0,0,0] as mock data.
   const [progress, setProgress] = useState<number[]>([0, 0, 0, 0]);
+  const variant = getGeographieVariantProfile(lang);
+
+  useEffect(() => {
+    const p5 = loadK5Progress(variant.id);
+    const p6 = loadK6Progress(variant.id);
+    const p7 = loadK7Progress(variant.id);
+    const p8 = loadK8Progress(variant.id);
+    setProgress([
+      p5.completedIslands.length,
+      p6.completedIslands.length,
+      p7.completedIslands.length,
+      p8.completedIslands.length,
+    ]);
+  }, [variant.id]);
 
   type L = "en" | "hu" | "de" | "ro";
   const l = (["en","hu","de","ro"].includes(lang) ? lang : "en") as L;

@@ -1,5 +1,5 @@
 "use client";
-import React, { useState, useEffect, useCallback, useRef } from "react";
+import React, { useState, useEffect, useCallback, useMemo, useRef } from "react";
 import { motion } from "framer-motion";
 import { useRouter } from "next/navigation";
 import { X, ChevronRight, ChevronLeft } from "lucide-react";
@@ -28,6 +28,7 @@ import M2Engine from "@/components/astro-games/M2Engine";
 import M3Engine from "@/components/astro-games/M3Engine";
 import { GEOGRAPHIE_M2_POOLS, GEOGRAPHIE_M3_POOLS } from "@/lib/astro/geographieGameRegistry";
 import type { MathQuestion } from "@/lib/mathCurriculum";
+import { getGeographieVariantProfile } from "@/lib/astroGeographie";
 import type { IslandDef, MissionDef, Lang, MissionCategory, GeographieProgress } from "@/lib/astroGeographie";
 import {
   K7_ISLANDS, K7_CHECKPOINT_MAP, K7_CHECKPOINT_TOPICS,
@@ -80,10 +81,10 @@ const CATEGORY_CONFIG: Record<string, {
   challenge: {
     label: { en: "Challenge", hu: "Kihívás", de: "Herausforderung", ro: "Provocare" },
     desc: {
-      en: "Fast & timed — show what you know!",
-      hu: "Gyors és időre — mutasd meg tudásod!",
-      de: "Schnell & timed — zeig was du kannst!",
-      ro: "Rapid și la timp — arată ce știi!",
+      en: "Focused challenge: show what you know!",
+      hu: "Összpontosító kihívás: mutasd meg tudásod!",
+      de: "Konzentrierte Herausforderung: Zeig, was du kannst!",
+      ro: "Provocare de concentrare: arată ce știi!",
     },
     color: "#FB923C", bg: "rgba(251,146,60,0.12)", border: "rgba(251,146,60,0.35)",
   },
@@ -220,6 +221,7 @@ export default function AstroGeographieK7Page() {
   const { lang } = useLang();
   const router = useRouter();
   const t = T[lang as keyof typeof T] ?? T.en;
+  const variant = useMemo(() => getGeographieVariantProfile(lang), [lang]);
 
   const [screen, setScreen] = useState<Screen>("island-map");
   const [progress, setProgress] = useState<GeographieProgress>({ completedMissions: [], completedIslands: [], completedTests: [], missionStars: {} });
@@ -248,16 +250,28 @@ export default function AstroGeographieK7Page() {
   const [avatarMood, setAvatarMood] = useState<any>("idle");
   const [jumpTrigger, setJumpTrigger] = useState<any>(undefined);
   const [avatarIslandId, setAvatarIslandId] = useState<string>("i1");
+  const previousVariantIdRef = useRef<string | null>(null);
 
   const avatarIsland = K7_ISLANDS.find(i => i.id === avatarIslandId) ?? K7_ISLANDS[0];
   const avatarProps = { gender, activeSkin, activeFace, activeTop, activeBottom, activeShoe, activeCape, activeGlasses, activeGloves, activeHat, activeTrail };
 
   useEffect(() => {
-    const p = loadK7Progress();
+    const p = loadK7Progress(variant.id);
     setProgress(p);
     const lastDone = [...K7_ISLANDS].reverse().find(i => p.completedIslands.includes(i.id));
     if (lastDone) setAvatarIslandId(lastDone.id);
-  }, []);
+  }, [variant.id]);
+
+  useEffect(() => {
+    if (previousVariantIdRef.current && previousVariantIdRef.current !== variant.id) {
+      setScreen("island-map");
+      setActiveIsland(null);
+      setActiveMission(null);
+      setActiveTestId(null);
+      setQuestions([]);
+    }
+    previousVariantIdRef.current = variant.id;
+  }, [variant.id]);
 
   const handleIslandSelect = useCallback((island: IslandDef) => {
     setActiveIsland(island);
@@ -299,11 +313,11 @@ export default function AstroGeographieK7Page() {
     const newProgress = completeMissionK7(progress, activeIsland.id, activeMission.id, stars);
     const isNowIslandDone = newProgress.completedIslands.includes(activeIsland.id);
     setJustUnlockedIsland(!wasIslandDone && isNowIslandDone);
-    saveK7Progress(newProgress);
+    saveK7Progress(newProgress, variant.id);
     setProgress(newProgress);
     setAvatarMood(pct >= 60 ? "victory" : "disappointed");
     setScreen("mission-done");
-  }, [activeIsland, activeMission, progress]);
+  }, [activeIsland, activeMission, progress, variant.id]);
 
   const handleAfterMission = useCallback(() => {
     if (justUnlockedIsland) setScreen("island-complete-anim");
@@ -333,7 +347,7 @@ export default function AstroGeographieK7Page() {
     if (!activeTestId) return;
     setCheckpointScore({ score, total });
     const newProgress = completeTestK7(progress, activeTestId);
-    saveK7Progress(newProgress);
+    saveK7Progress(newProgress, variant.id);
     setProgress(newProgress);
     const rarity = calculateRarity(score, total, 0, false);
     saveCard({ id: generateCardId(), game: "astrogeographie", rarity, score, total, date: new Date().toISOString() });
@@ -343,7 +357,7 @@ export default function AstroGeographieK7Page() {
     setEarnedCard(rarity);
     setRewardScore({ score, total });
     setScreen("reward");
-  }, [activeTestId, progress]);
+  }, [activeTestId, progress, variant.id]);
 
   const goToMap = () => { setScreen("island-map"); setActiveIsland(null); };
 
@@ -440,7 +454,7 @@ export default function AstroGeographieK7Page() {
           {screen === "m3" && activeMission?.gameKey && GEOGRAPHIE_M3_POOLS[activeMission.gameKey] && (
             <M3Engine gameKey={activeMission.gameKey} rounds={GEOGRAPHIE_M3_POOLS[activeMission.gameKey]} color={bgColor} lang={lang as any} onDone={handleMissionDone} onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }} onWrong={() => setAvatarMood("disappointed")} />
           )}
-          {screen === "geographie-explore" && activeIsland && <GeographieK7Explorer island={activeIsland} grade={7} color={bgColor} lang={lang} onDone={handleMissionDone} />}
+          {screen === "geographie-explore" && activeIsland && <GeographieK7Explorer island={activeIsland} grade={7} color={bgColor} lang={lang} variantId={variant.id} onDone={handleMissionDone} />}
         </div>
         <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />
       </div>
@@ -450,7 +464,7 @@ export default function AstroGeographieK7Page() {
   if (screen === "mission-done") return <div className="min-h-screen bg-[#060614] flex flex-col items-center justify-center p-6"><Starfield /><h2 className="text-white text-2xl font-black mb-4">{{ de: "Mission beendet!", en: "Mission complete!", hu: "Küldetés teljesítve!", ro: "Misiune îndeplinită!" }[lang] ?? "Mission beendet!"}</h2><button onClick={handleAfterMission} className="py-4 px-8 rounded-xl bg-white/10 text-white font-bold">{t.next}</button></div>;
   if (screen === "reward") return <RewardReveal rarity={earnedCard!} game="astrogeographie" score={rewardScore.score} total={rewardScore.total} onDone={() => setScreen("island-done")} />;
   if (screen === "island-done") return <div className="min-h-screen bg-[#060614] flex flex-col items-center justify-center p-6"><Starfield /><h2 className="text-white text-3xl font-black mb-4">{activeIsland?.icon} {{ de: "Insel abgeschlossen!", en: "Island complete!", hu: "Sziget teljesítve!", ro: "Insulă finalizată!" }[lang] ?? "Insel abgeschlossen!"}</h2><button onClick={goToMap} className="py-4 px-8 rounded-xl bg-white/10 text-white font-bold">{t.back}</button></div>;
-  if (screen === "island-complete-anim") return <IslandCompleteAnimation islandIcon={activeIsland!.icon} islandColor={activeIsland!.color} islandName={activeIsland!.name.de} lang={lang} grade={7} score={missionScore.score} total={missionScore.total} onDone={handleIslandAnimDone} />;
+  if (screen === "island-complete-anim") return <IslandCompleteAnimation islandIcon={activeIsland!.icon} islandColor={activeIsland!.color} islandName={activeIsland!.name[lang as Lang] ?? activeIsland!.name.de} lang={lang} grade={7} score={missionScore.score} total={missionScore.total} onDone={handleIslandAnimDone} />;
   if (screen === "rocket-launch") return <div className="min-h-screen bg-[#060614]"><Starfield /><RocketLaunch questions={questions} color="#FFD700" onDone={() => setScreen("checkpoint-quiz")} /></div>;
   if (screen === "checkpoint-quiz") return <div className="min-h-screen bg-[#060614] flex flex-col"><Starfield /><div className="flex-1"><OrbitQuiz questions={questions} color="#FFD700" onDone={handleCheckpointDone} /></div><AvatarCompanion fixed={true} mood={avatarMood} {...avatarProps} /></div>;
 

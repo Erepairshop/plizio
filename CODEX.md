@@ -265,3 +265,16 @@ Nem váltja ki a `CLAUDE.md`-t, hanem gyors képbehozásra szolgál.
 - Ha workflow vagy deploy kérdés: előbb ezt a fájlt.
 - Ha mélyebb repo-specifikus részlet kell: `CLAUDE.md`.
 - Ha egy konkrét feature-ön dolgozol, csak a szükséges részt olvasd be, ne az egész dokumentációt.
+
+## Learn/Astro/Test audit - 2026-08-02
+
+- Részletes jelentés: `docs/learn-shared-deep-audit-2026-08-02.md`.
+- Sachkunde élő támogatás kizárólag K1-K4; K5-K8 belső anyag nem jelenhet meg a Learn UI-ban.
+- History Test országmátrix: DE/AT/CH közös német, HU/RO/US/GB valódi országos pool. Más országot ne kínáljon fel és ne legyen csendes generic fallback.
+- Astro History: HU és RO országos tartalom; DE és EN őszintén generic. A progress/cache kulcs része a variant ID.
+- Geography K5-K8 jelenleg lokalizált nemzetközi curriculum, nem országos. Országválasztót csak külön országadatokkal szabad megjeleníteni.
+- AI/Informatics explorer audit: `node scripts/audit-learn-ai-explorer.mjs` (109 pool, üres label és duplicate key ellenőrzés).
+- History country audit: `npx tsx scripts/audit-history-country-pools.mts`.
+- Geography K5-K8 pool audit: `npx tsx scripts/audit-geography-pools.mts`; minden DE/EN/HU/RO témának nem üres poolt kell adnia.
+- Fő route audit: `npx tsx scripts/audit-learn-routes.mts`.
+- A lokális Next dev jelenleg Turbopackkal és Webpackkal is beragad a `/learn/` fordításánál; vizuális smoke-ot működő preview környezetben kell pótolni.

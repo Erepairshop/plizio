@@ -6,6 +6,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import { X, Map, Globe2, Landmark, Star } from "lucide-react";
 import dynamic from "next/dynamic";
 import VisualLabIcon from "./VisualLabIcon";
+import { shuffleDeterministic, useTimeoutRegistry } from "./astro-games/utils";
 
 // Dynamic imports — keep map bundles OUT of the main page chunk.
 // First country click downloads ~5-10 MB map chunk (was 30s on first load);
@@ -607,6 +608,7 @@ function GameHost({
   initialPoiId?: string | null;
   onBack: () => void;
 }) {
+  const scheduleTimeout = useTimeoutRegistry();
   const isMap = subject === "geographie" && (gameId === "deutschland-map" || gameId === "europe-map" || gameId === "magyarorszag-map" || gameId === "romania-map");
   return (
     <div className={isMap ? "w-full h-full flex flex-col" : "max-w-3xl mx-auto"}>
@@ -620,9 +622,9 @@ function GameHost({
       {subject === "astromath" ? (
         <AstromathGameSwitch gameId={gameId} grade={grade} lang={lang} tSoon={t.soon} />
       ) : ["deutsch", "english", "magyar", "romana"].includes(subject) ? (
-        <DeutschGameSwitch gameId={gameId} grade={grade} lang={lang} tSoon={t.soon} onDone={() => setTimeout(onBack, 2500)} />
+        <DeutschGameSwitch gameId={gameId} grade={grade} lang={lang} tSoon={t.soon} onDone={() => scheduleTimeout(onBack, 2500)} />
       ) : subject === "informatika" ? (
-        <InformatikaGameSwitch gameId={gameId} grade={grade} lang={lang} tSoon={t.soon} onDone={() => setTimeout(onBack, 2500)} />
+        <InformatikaGameSwitch gameId={gameId} grade={grade} lang={lang} tSoon={t.soon} onDone={() => scheduleTimeout(onBack, 2500)} />
       ) : subject === "geographie" ? (
         <GeographieGameSwitch gameId={gameId} grade={grade} lang={lang} initialPoiId={initialPoiId} tSoon={t.soon} />
       ) : subject === "physik" ? (
@@ -640,10 +642,19 @@ function GameHost({
   );
 }
 
-function pickRound<T>(arr: T[] | undefined, fallback: T[] | undefined): T | undefined {
+function pickRound<T>(arr: T[] | undefined, fallback: T[] | undefined, seed = "visual-lab"): T | undefined {
   const src = (arr && arr.length > 0) ? arr : (fallback && fallback.length > 0 ? fallback : undefined);
   if (!src || src.length === 0) return undefined;
-  return src[Math.floor(Math.random() * src.length)];
+  const identitySeed = src
+    .map((item, index) => {
+      if (item && typeof item === "object") {
+        const candidate = item as { id?: string; slug?: string; key?: string; name?: string };
+        return candidate.id ?? candidate.slug ?? candidate.key ?? candidate.name ?? `${index}`;
+      }
+      return `${item ?? index}`;
+    })
+    .join("|");
+  return shuffleDeterministic(src, `${seed}:${identitySeed}`)[0];
 }
 
 function AstromathGameSwitch({

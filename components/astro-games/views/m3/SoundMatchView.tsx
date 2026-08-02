@@ -2,6 +2,7 @@
 import React, { useMemo, useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { AstroGameProps, LocalizedText } from "../../types";
+import { shuffleDeterministic, useTimeoutRegistry } from "../../utils";
 
 export type SoundMatchRound = {
   id: string;
@@ -26,17 +27,13 @@ export default function SoundMatchView({
   const [score, setScore] = useState(0);
   const [selectedId, setSelectedId] = useState<string | null>(null);
   const [isRevealing, setIsRevealing] = useState(false);
+  const scheduleTimeout = useTimeoutRegistry();
 
   const currentRound = rounds[roundIdx];
 
   const shuffledOptions = useMemo(() => {
     if (!currentRound) return [];
-    const arr = [...currentRound.options];
-    for (let i = arr.length - 1; i > 0; i--) {
-      const j = Math.floor(Math.random() * (i + 1));
-      [arr[i], arr[j]] = [arr[j], arr[i]];
-    }
-    return arr;
+    return shuffleDeterministic(currentRound.options, `${currentRound.id}-options`);
   }, [currentRound]);
 
   const handleSelect = (optionId: string, isCorrect: boolean) => {
@@ -52,7 +49,7 @@ export default function SoundMatchView({
       onWrong?.();
     }
 
-    setTimeout(() => {
+    scheduleTimeout(() => {
       setSelectedId(null);
       setIsRevealing(false);
       if (roundIdx + 1 < rounds.length) {

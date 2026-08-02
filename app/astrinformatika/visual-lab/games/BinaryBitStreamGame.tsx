@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect, useRef, useMemo } from "react";
+import { useState, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import type { ArtikelAsteroidsRound, Language } from "@/lib/visualLab/languageTypes";
 
@@ -19,8 +19,6 @@ const T: Record<Language, { correct: string; wrong: string; lives: string; done:
   ro: { correct: "Corect!", wrong: "Greșit!", lives: "Vieți", done: "Gata!", score: "Scor" },
   en: { correct: "Correct!", wrong: "Wrong!", lives: "Lives", done: "Done!", score: "Score" },
 };
-
-const FALL_SECS = [0, 5.5, 5, 4.5, 4, 3.5, 3, 2.7, 2.4];
 
 const CAT_COLORS = [
   { border: "#38bdf8", glow: "rgba(56,189,248,0.5)", text: "#7dd3fc" },
@@ -41,7 +39,7 @@ export default function BinaryBitStreamGame({
   onDone?: (score: number) => void;
 }) {
   const t = T[lang] ?? T.de;
-  const fallSecs = FALL_SECS[Math.min(grade, 8)] ?? 4;
+  void grade;
 
   const queue = useMemo(() => shuffle([...round.words]), [round.id]);
   const [idx, setIdx] = useState(0);
@@ -50,21 +48,10 @@ export default function BinaryBitStreamGame({
   const [flash, setFlash] = useState<"correct" | "wrong" | null>(null);
   const [active, setActive] = useState(true);
   const [done, setDone] = useState(false);
-  const [wordX, setWordX] = useState(() => 20 + Math.random() * 60);
-  const timerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
-
   const current = queue[idx];
-
-  useEffect(() => {
-    if (done || !active || !current) return;
-    timerRef.current = setTimeout(() => pick("__miss__"), (fallSecs + 0.1) * 1000);
-    return () => { if (timerRef.current) clearTimeout(timerRef.current); };
-  // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [idx, active, done]);
 
   const pick = (cat: string) => {
     if (!active || done || !current) return;
-    if (timerRef.current) clearTimeout(timerRef.current);
     setActive(false);
 
     const ok = cat === current.article;
@@ -83,7 +70,6 @@ export default function BinaryBitStreamGame({
         onDone?.(newScore);
       } else {
         setIdx(nextIdx);
-        setWordX(20 + Math.random() * 60);
         setActive(true);
       }
     }, 850);
@@ -105,7 +91,7 @@ export default function BinaryBitStreamGame({
 
       {/* Title */}
       <div className="relative z-20 text-center pt-2 pb-0 shrink-0">
-        <span className="font-mono text-[11px] text-cyan-400/60 tracking-widest uppercase">💾 Binary Bit-Stream</span>
+        <span className="font-mono text-[11px] text-cyan-400/60 tracking-widest uppercase">💾 {round.title[lang] ?? round.title.en}</span>
       </div>
 
       {/* HUD */}
@@ -122,20 +108,19 @@ export default function BinaryBitStreamGame({
 
       {/* Instruction */}
       <p className="relative z-10 text-center text-cyan-300/40 text-xs font-mono uppercase tracking-widest pb-1 shrink-0">
-        {round.instruction.hu}
+        {round.instruction[lang] ?? round.instruction.en}
       </p>
 
-      {/* Fall zone */}
+      {/* Untimed decision zone */}
       <div className="relative flex-1 overflow-hidden">
         <AnimatePresence mode="wait">
           {current && !done && (
             <motion.div
               key={`word-${idx}`}
-              className="absolute z-10"
-              style={{ left: `${wordX}%`, x: "-50%" }}
-              initial={{ y: -60 }}
-              animate={active ? { y: 310 } : { opacity: 0, scale: 0.5 }}
-              transition={active ? { duration: fallSecs, ease: "linear" } : { duration: 0.25 }}
+              className="absolute inset-0 z-10 flex items-center justify-center"
+              initial={{ opacity: 0, scale: 0.85 }}
+              animate={active ? { opacity: 1, scale: 1 } : { opacity: 0, scale: 0.5 }}
+              transition={{ duration: 0.25 }}
             >
               <div
                 className="px-5 py-2.5 rounded-lg border-2 font-black text-white text-xl backdrop-blur-sm whitespace-nowrap font-mono"

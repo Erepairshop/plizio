@@ -222,6 +222,7 @@ const GRADE_DATA: Record<number, {
 export default function RomanianTestClasa({ grade }: { grade: number }) {
   const data = GRADE_DATA[grade];
   if (!data) return null;
+  const testHref = `/romaniantest?grade=${grade}&clasa=${grade}`;
 
   const jsonLdFaq = {
     "@context": "https://schema.org",
@@ -272,13 +273,13 @@ export default function RomanianTestClasa({ grade }: { grade: number }) {
             <span style={{ color: "#00FF88" }}>Exersează online gratuit</span>
           </h1>
           <p className="text-white/65 text-base leading-relaxed mb-5">{data.intro}</p>
-          <a
-            href="/romaniantest"
+          <Link
+            href={testHref}
             className="inline-flex items-center gap-2 px-6 py-3 rounded-2xl font-black text-black text-sm"
             style={{ background: "linear-gradient(135deg, #3B82F6, #00FF88)" }}
           >
             ▶ Începe testul
-          </a>
+          </Link>
         </div>
 
         {/* Topics */}
@@ -321,13 +322,13 @@ export default function RomanianTestClasa({ grade }: { grade: number }) {
             <p className="font-black text-white text-base mb-1">Ești pregătit pentru test?</p>
             <p className="text-white/50 text-xs">Alege clasa direct în joc – gratuit, fără înregistrare.</p>
           </div>
-          <a
-            href="/romaniantest"
+          <Link
+            href={testHref}
             className="flex-shrink-0 px-6 py-3 rounded-2xl font-black text-black text-sm"
             style={{ background: "linear-gradient(135deg, #3B82F6, #00FF88)" }}
           >
             ▶ Începe acum
-          </a>
+          </Link>
         </div>
 
         {/* FAQ */}
@@ -372,13 +373,13 @@ export default function RomanianTestClasa({ grade }: { grade: number }) {
           style={{ background: "rgba(0,255,136,0.04)", border: "1px solid rgba(0,255,136,0.12)" }}
         >
           <p className="text-white/60 text-sm mb-3">Începe testul de limba română pentru clasa {grade} acum!</p>
-          <a
-            href="/romaniantest"
+          <Link
+            href={testHref}
             className="inline-flex items-center gap-2 px-8 py-4 rounded-2xl font-black text-black text-base"
             style={{ background: "linear-gradient(135deg, #00FF88, #3B82F6)" }}
           >
             🚀 Începe testul de Română
-          </a>
+          </Link>
           <p className="text-white/25 text-xs mt-3">Gratuit · Fără cont · Clasa {grade} · Disponibil imediat</p>
         </div>
 

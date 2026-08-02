@@ -210,10 +210,11 @@ function buildSmoothPath(islands: typeof SK_G2_ISLANDS): string {
   return d;
 }
 
-function IslandMapSVG({ progress, onIsland, onCheckpoint }: {
+function IslandMapSVG({ progress, onIsland, onCheckpoint, lang }: {
   progress: SachkundeProgress;
   onIsland: (island: IslandDef) => void;
   onCheckpoint: (testId: string) => void;
+  lang: string;
 }) {
   const pathD = buildSmoothPath(SK_G2_ISLANDS);
 
@@ -346,7 +347,7 @@ function IslandMapSVG({ progress, onIsland, onCheckpoint }: {
             {unlocked && (
               <text x={island.svgX} y={island.svgY + 48} textAnchor="middle" fontSize={9} fontWeight="bold"
                 fill={total === 9 ? "#FFD700" : total > 0 ? island.color : "rgba(255,255,255,0.25)"}>
-                {total > 0 ? `${total}/9 ⭐` : island.name.de.split(" ")[0]}
+                {total > 0 ? `${total}/9 ⭐` : (island.name[lang as Lang] ?? island.name.de).split(" ")[0]}
               </text>
             )}
           </g>
@@ -674,7 +675,7 @@ export default function AstroSachkundeG2Page() {
         <div className="relative z-10 flex-1 min-h-0 overflow-y-auto" ref={attachAutoScrollToBottom}>
           <div className="max-w-sm mx-auto px-2 pb-6" style={{ minHeight: MAP_H + 40 }}>
             <div className="relative">
-              <IslandMapSVG progress={progress} onIsland={handleIslandSelect} onCheckpoint={startCheckpoint} />
+              <IslandMapSVG progress={progress} onIsland={handleIslandSelect} onCheckpoint={startCheckpoint} lang={lang} />
               <motion.div
                 className="absolute pointer-events-none z-10"
                 style={{ width: 72, height: 72, transform: "translate(-50%, -50%)" }}

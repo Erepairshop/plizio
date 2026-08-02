@@ -1,11 +1,23 @@
 "use client";
 import { memo } from "react";
+import ScopedSvg from "@/components/astro-games/ScopedSvg";
+
+const SVG_LABELS = {
+  de: { shapes: "Formen", area: "Fläche", hundredChart: "Hundertertafel", acute: "SPITZ", obtuse: "STUMPF", sumWords: "SUMME • GESAMT • ALLE" },
+  en: { shapes: "Shapes", area: "Area", hundredChart: "Hundred chart", acute: "ACUTE", obtuse: "OBTUSE", sumWords: "SUM • TOTAL • ALL" },
+  hu: { shapes: "Alakzatok", area: "Terület", hundredChart: "Százas tábla", acute: "HEGYES", obtuse: "TOMPA", sumWords: "ÖSSZEG • ÖSSZES • MIND" },
+  ro: { shapes: "Forme", area: "Arie", hundredChart: "Tabelul sutelor", acute: "ASCUȚIT", obtuse: "OBTUZ", sumWords: "SUMĂ • TOTAL • TOATE" },
+};
+
+function svgLabels(lang: string) {
+  return SVG_LABELS[lang as keyof typeof SVG_LABELS] ?? SVG_LABELS.en;
+}
 
 // ─── FRACTION SVG ──────────────────────────────────────────────────────────
 
 export const FractionSvg = memo(({ parts = 4, filled = 3 }: { parts?: number; filled?: number }) => {
   return (
-    <svg viewBox="0 0 240 140" className="w-full h-auto max-h-36">
+    <ScopedSvg viewBox="0 0 240 140" className="w-full h-auto max-h-36">
       <defs>
         <linearGradient id="fracGrad" x1="0%" y1="0%" x2="100%" y2="100%">
           <stop offset="0%" stopColor="#3b82f6" />
@@ -13,7 +25,7 @@ export const FractionSvg = memo(({ parts = 4, filled = 3 }: { parts?: number; fi
         </linearGradient>
       </defs>
       <rect width="240" height="140" fill="#f8fafc" rx="12" />
-      
+
       <g transform="translate(120, 70)">
         {/* Circle Fraction */}
         <circle r="50" fill="white" stroke="#e2e8f0" strokeWidth="2" />
@@ -43,35 +55,36 @@ export const FractionSvg = memo(({ parts = 4, filled = 3 }: { parts?: number; fi
           );
         })}
       </g>
-      
+
       <text x="120" y="130" fontSize="12" fontWeight="bold" fill="#1e40af" textAnchor="middle">
         {filled} / {parts}
       </text>
-    </svg>
+    </ScopedSvg>
   );
 });
 
 // ─── GEOMETRY SVG ──────────────────────────────────────────────────────────
 
-export const GeometrySvg = memo(() => {
+export const GeometrySvg = memo(({ lang = "hu" }: { lang?: string }) => {
+  const l = svgLabels(lang);
   return (
-    <svg viewBox="0 0 240 140" className="w-full h-auto max-h-36">
+    <ScopedSvg viewBox="0 0 240 140" className="w-full h-auto max-h-36">
       <rect width="240" height="140" fill="#f0fdf4" rx="12" />
-      
+
       {/* Triangle */}
       <path d="M 40 100 L 100 100 L 70 40 Z" fill="#dcfce7" stroke="#16a34a" strokeWidth="2" />
-      
+
       {/* Square */}
       <rect x="130" y="40" width="50" height="50" fill="#dcfce7" stroke="#16a34a" strokeWidth="2" />
-      
+
       {/* Circle */}
       <circle cx="70" cy="100" r="2" fill="#16a34a" />
       <circle cx="100" cy="100" r="2" fill="#16a34a" />
       <circle cx="40" cy="100" r="2" fill="#16a34a" />
-      
-      <text x="70" y="120" fontSize="10" fill="#15803d" textAnchor="middle">Shapes</text>
-      <text x="155" y="110" fontSize="10" fill="#15803d" textAnchor="middle">Area = a²</text>
-    </svg>
+
+      <text x="70" y="120" fontSize="10" fill="#15803d" textAnchor="middle">{l.shapes}</text>
+      <text x="155" y="110" fontSize="10" fill="#15803d" textAnchor="middle">{l.area} = a²</text>
+    </ScopedSvg>
   );
 });
 
@@ -79,22 +92,22 @@ export const GeometrySvg = memo(() => {
 
 export const PercentSvg = memo(({ value = 75 }: { value?: number }) => {
   return (
-    <svg viewBox="0 0 240 140" className="w-full h-auto max-h-36">
+    <ScopedSvg viewBox="0 0 240 140" className="w-full h-auto max-h-36">
       <rect width="240" height="140" fill="#fef2f2" rx="12" />
-      
+
       {/* Background Bar */}
       <rect x="40" y="60" width="160" height="20" rx="10" fill="#fee2e2" />
-      
+
       {/* Progress Bar */}
       <rect x="40" y="60" width={(160 * value) / 100} height="20" rx="10" fill="#ef4444" />
-      
+
       <text x="120" y="50" fontSize="14" fontWeight="bold" fill="#991b1b" textAnchor="middle">
         {value}%
       </text>
-      
+
       <text x="40" y="95" fontSize="8" fill="#b91c1c" textAnchor="middle">0%</text>
       <text x="200" y="95" fontSize="8" fill="#b91c1c" textAnchor="middle">100%</text>
-    </svg>
+    </ScopedSvg>
   );
 });
 
@@ -102,9 +115,9 @@ export const PercentSvg = memo(({ value = 75 }: { value?: number }) => {
 
 export const AlgebraSvg = memo(() => {
   return (
-    <svg viewBox="0 0 240 140" className="w-full h-auto max-h-36">
+    <ScopedSvg viewBox="0 0 240 140" className="w-full h-auto max-h-36">
       <rect width="240" height="140" fill="#f5f3ff" rx="12" />
-      
+
       <g transform="translate(120, 70)">
         <text x="0" y="0" fontSize="24" fontWeight="black" fill="#7c3AED" textAnchor="middle">
           2x + 5 = 15
@@ -113,13 +126,13 @@ export const AlgebraSvg = memo(() => {
           x = ?
         </text>
       </g>
-      
+
       {/* Symbols */}
       <text x="40" y="40" fontSize="20" fill="#ddd6fe" opacity="0.5">∑</text>
       <text x="200" y="110" fontSize="20" fill="#ddd6fe" opacity="0.5">√</text>
       <text x="40" y="110" fontSize="20" fill="#ddd6fe" opacity="0.5">π</text>
       <text x="200" y="40" fontSize="20" fill="#ddd6fe" opacity="0.5">∞</text>
-    </svg>
+    </ScopedSvg>
   );
 });
 
@@ -127,28 +140,28 @@ export const AlgebraSvg = memo(() => {
 
 export const GraphSvg = memo(() => {
   return (
-    <svg viewBox="0 0 240 140" className="w-full h-auto max-h-36">
+    <ScopedSvg viewBox="0 0 240 140" className="w-full h-auto max-h-36">
       <rect width="240" height="140" fill="#fafafa" rx="12" />
-      
+
       <g transform="translate(40, 110)">
         {/* Axis */}
         <line x1="0" y1="0" x2="170" y2="0" stroke="#94a3b8" strokeWidth="2" markerEnd="url(#arrow)" />
         <line x1="0" y1="0" x2="0" y2="-80" stroke="#94a3b8" strokeWidth="2" markerEnd="url(#arrow)" />
-        
+
         {/* Function Curve */}
         <path d="M 10 -10 Q 40 -80 80 -40 T 150 -70" fill="none" stroke="#0ea5e9" strokeWidth="3" />
-        
+
         {/* Points */}
         <circle cx="40" cy="-45" r="3" fill="#0284c7" />
         <circle cx="80" cy="-40" r="3" fill="#0284c7" />
       </g>
-      
+
       <defs>
         <marker id="arrow" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto">
           <path d="M 0 0 L 6 3 L 0 6 z" fill="#94a3b8" />
         </marker>
       </defs>
-    </svg>
+    </ScopedSvg>
   );
 });
 
@@ -156,7 +169,7 @@ export const GraphSvg = memo(() => {
 
 export const NumberLineSvg = memo(({ highlight = 5, max = 10 }: { highlight?: number; max?: number }) => {
   return (
-    <svg width="100%" viewBox="0 0 240 90">
+    <ScopedSvg width="100%" viewBox="0 0 240 90">
       <defs>
         <linearGradient id="nlG" x1="0%" y1="0%" x2="100%" y2="100%">
           <stop offset="0%" stopColor="#B44DFF" stopOpacity="0.12" />
@@ -178,7 +191,7 @@ export const NumberLineSvg = memo(({ highlight = 5, max = 10 }: { highlight?: nu
           </g>
         );
       })}
-    </svg>
+    </ScopedSvg>
   );
 });
 
@@ -186,7 +199,7 @@ export const NumberLineSvg = memo(({ highlight = 5, max = 10 }: { highlight?: nu
 
 export const CountingSvg = memo(({ emoji = "🍎", count = 4 }: { emoji?: string; count?: number }) => {
   return (
-    <svg width="100%" viewBox="0 0 240 140">
+    <ScopedSvg width="100%" viewBox="0 0 240 140">
       <defs>
         <linearGradient id="cntG" x1="0%" y1="0%" x2="100%" y2="100%">
           <stop offset="0%" stopColor="#06B6D4" stopOpacity="0.12" />
@@ -212,7 +225,7 @@ export const CountingSvg = memo(({ emoji = "🍎", count = 4 }: { emoji?: string
       <text x="120" y="128" fontSize="13" fontWeight="bold" fill="#0891B2" textAnchor="middle" opacity="0.7">
         = {count}
       </text>
-    </svg>
+    </ScopedSvg>
   );
 });
 
@@ -237,7 +250,7 @@ export const CompareSvg = memo(({
     </g>
   );
   return (
-    <svg width="100%" viewBox="0 0 240 130">
+    <ScopedSvg width="100%" viewBox="0 0 240 130">
       <defs>
         <linearGradient id="cmpG" x1="0%" y1="0%" x2="100%" y2="100%">
           <stop offset="0%" stopColor="#10B981" stopOpacity="0.12" />
@@ -248,7 +261,7 @@ export const CompareSvg = memo(({
       {renderGroup(leftEmoji, leftCount, 65)}
       <text x="120" y="60" fontSize="16" fontWeight="bold" fill="#10B981" textAnchor="middle" opacity="0.5">?</text>
       {renderGroup(rightEmoji, rightCount, 175)}
-    </svg>
+    </ScopedSvg>
   );
 });
 
@@ -257,7 +270,7 @@ export const CompareSvg = memo(({
 export const SubtractLineSvg = memo(({ start = 8, jumps = 3, max = 10 }: { start?: number; jumps?: number; max?: number }) => {
   const end = start - jumps;
   return (
-    <svg width="100%" viewBox="0 0 240 90">
+    <ScopedSvg width="100%" viewBox="0 0 240 90">
       <defs>
         <linearGradient id="subLineG" x1="0%" y1="0%" x2="100%" y2="100%">
           <stop offset="0%" stopColor="#FF6B6B" stopOpacity="0.12" />
@@ -291,7 +304,7 @@ export const SubtractLineSvg = memo(({ start = 8, jumps = 3, max = 10 }: { start
           </g>
         );
       })}
-    </svg>
+    </ScopedSvg>
   );
 });
 
@@ -299,7 +312,7 @@ export const SubtractLineSvg = memo(({ start = 8, jumps = 3, max = 10 }: { start
 
 export const CrossOutSvg = memo(({ total = 7, remove = 3, emoji = "🍎" }: { total?: number; remove?: number; emoji?: string }) => {
   return (
-    <svg width="100%" viewBox="0 0 240 120">
+    <ScopedSvg width="100%" viewBox="0 0 240 120">
       <defs>
         <linearGradient id="crossG" x1="0%" y1="0%" x2="100%" y2="100%">
           <stop offset="0%" stopColor="#FF6B6B" stopOpacity="0.12" />
@@ -329,7 +342,7 @@ export const CrossOutSvg = memo(({ total = 7, remove = 3, emoji = "🍎" }: { to
       <text x="120" y="95" fontSize="14" fontWeight="bold" fill="#b91c1c" textAnchor="middle">
         {total} − {remove} = {total - remove}
       </text>
-    </svg>
+    </ScopedSvg>
   );
 });
 
@@ -337,7 +350,7 @@ export const CrossOutSvg = memo(({ total = 7, remove = 3, emoji = "🍎" }: { to
 
 export const TenFrameSvg = memo(({ have = 6, target = 10, color = "#FF6B6B" }: { have?: number; target?: number; color?: string }) => {
   return (
-    <svg width="100%" viewBox="0 0 240 130">
+    <ScopedSvg width="100%" viewBox="0 0 240 130">
       <rect width="240" height="130" fill="#f8fafc" rx="16" />
       {Array.from({ length: 10 }, (_, i) => {
         const col = i % 5;
@@ -366,7 +379,7 @@ export const TenFrameSvg = memo(({ have = 6, target = 10, color = "#FF6B6B" }: {
       <text x="120" y="115" fontSize="13" fontWeight="bold" fill={color} textAnchor="middle" opacity="0.7">
         {have} + ? = {target}
       </text>
-    </svg>
+    </ScopedSvg>
   );
 });
 
@@ -382,7 +395,7 @@ const SHAPE_LABELS = {
 export const BasicShapesSvg = memo(({ lang = "hu" }: { lang?: string }) => {
   const l = (SHAPE_LABELS as any)[lang] || SHAPE_LABELS.en;
   return (
-    <svg width="100%" viewBox="0 0 240 140">
+    <ScopedSvg width="100%" viewBox="0 0 240 140">
       <defs>
         <linearGradient id="shapeG" x1="0%" y1="0%" x2="100%" y2="100%">
           <stop offset="0%" stopColor="#A78BFA" stopOpacity="0.12" />
@@ -402,7 +415,7 @@ export const BasicShapesSvg = memo(({ lang = "hu" }: { lang?: string }) => {
         <circle cx="0" cy="0" r="18" fill="#F59E0B" opacity="0.8" stroke="#D97706" strokeWidth="2" />
         <text x="0" y="38" fontSize="10" fontWeight="bold" fill="#8B5CF6" textAnchor="middle">{l.circle}</text>
       </g>
-    </svg>
+    </ScopedSvg>
   );
 });
 
@@ -418,7 +431,7 @@ const SPATIAL_LABELS = {
 export const SpatialSvg = memo(({ lang = "hu" }: { lang?: string }) => {
   const l = (SPATIAL_LABELS as any)[lang] || SPATIAL_LABELS.en;
   return (
-    <svg width="100%" viewBox="0 0 240 140">
+    <ScopedSvg width="100%" viewBox="0 0 240 140">
       <defs>
         <linearGradient id="spatialG" x1="0%" y1="0%" x2="100%" y2="100%">
           <stop offset="0%" stopColor="#06B6D4" stopOpacity="0.12" />
@@ -435,7 +448,7 @@ export const SpatialSvg = memo(({ lang = "hu" }: { lang?: string }) => {
       <circle cx="180" cy="70" r="8" fill="#06B6D4" opacity="0.7" stroke="#0891B2" strokeWidth="1.5" />
       <text x="202" y="75" fontSize="9" fontWeight="bold" fill="#0891B2" textAnchor="middle">{l.right}</text>
       <circle cx="120" cy="105" r="8" fill="#06B6D4" opacity="0.7" stroke="#0891B2" strokeWidth="1.5" />
-    </svg>
+    </ScopedSvg>
   );
 });
 
@@ -443,7 +456,7 @@ export const SpatialSvg = memo(({ lang = "hu" }: { lang?: string }) => {
 
 export const PatternsSvg = memo(() => {
   return (
-    <svg width="100%" viewBox="0 0 240 100">
+    <ScopedSvg width="100%" viewBox="0 0 240 100">
       <rect width="240" height="100" fill="#fff7ed" rx="16" />
       <g transform="translate(30, 50)">
         <circle cx="0" cy="0" r="12" fill="#EC4899" />
@@ -452,7 +465,7 @@ export const PatternsSvg = memo(() => {
         <rect x="114" y="-12" width="24" height="24" fill="#3B82F6" />
         <text x="160" y="10" fontSize="30" fontWeight="900" fill="#f59e0b">?</text>
       </g>
-    </svg>
+    </ScopedSvg>
   );
 });
 
@@ -460,7 +473,7 @@ export const PatternsSvg = memo(() => {
 
 export const AdditionSvg = memo(({ a = 3, b = 2 }: { a?: number; b?: number }) => {
   return (
-    <svg width="100%" viewBox="0 0 240 140">
+    <ScopedSvg width="100%" viewBox="0 0 240 140">
       <rect width="240" height="140" fill="#f0fdf4" rx="16" />
       <g transform="translate(60, 70)">
         {Array.from({ length: a }).map((_, i) => (
@@ -474,7 +487,7 @@ export const AdditionSvg = memo(({ a = 3, b = 2 }: { a?: number; b?: number }) =
         ))}
       </g>
       <text x="180" y="75" fontSize="20" fontWeight="bold" fill="#059669">= ?</text>
-    </svg>
+    </ScopedSvg>
   );
 });
 
@@ -482,7 +495,7 @@ export const AdditionSvg = memo(({ a = 3, b = 2 }: { a?: number; b?: number }) =
 
 export const DoubleHalfSvg = memo(({ val = 4, mode = "double" }: { val?: number; mode?: "double" | "half" }) => {
   return (
-    <svg width="100%" viewBox="0 0 240 140">
+    <ScopedSvg width="100%" viewBox="0 0 240 140">
       <rect width="240" height="140" fill="#fafafa" rx="16" />
       <g transform="translate(120, 50)">
         {Array.from({ length: val }).map((_, i) => (
@@ -501,7 +514,7 @@ export const DoubleHalfSvg = memo(({ val = 4, mode = "double" }: { val?: number;
           ))
         )}
       </g>
-    </svg>
+    </ScopedSvg>
   );
 });
 
@@ -510,9 +523,9 @@ export const DoubleHalfSvg = memo(({ val = 4, mode = "double" }: { val?: number;
 export const ClockSvg = memo(({ hours = 3, minutes = 0 }: { hours?: number; minutes?: number }) => {
   const hAngle = (hours % 12) * 30 + (minutes / 60) * 30 - 90;
   const mAngle = minutes * 6 - 90;
-  
+
   return (
-    <svg width="100%" viewBox="0 0 240 140">
+    <ScopedSvg width="100%" viewBox="0 0 240 140">
       <rect width="240" height="140" fill="#f8fafc" rx="16" />
       <g transform="translate(120, 70)">
         {/* Face */}
@@ -526,7 +539,7 @@ export const ClockSvg = memo(({ hours = 3, minutes = 0 }: { hours?: number; minu
         <line x1="0" y1="0" x2={45 * Math.cos(mAngle * Math.PI / 180)} y2={45 * Math.sin(mAngle * Math.PI / 180)} stroke="#64748b" strokeWidth="2" strokeLinecap="round" />
         <circle r="3" fill="#1e293b" />
       </g>
-    </svg>
+    </ScopedSvg>
   );
 });
 
@@ -534,7 +547,7 @@ export const ClockSvg = memo(({ hours = 3, minutes = 0 }: { hours?: number; minu
 
 export const MoneySvg = memo(({ value = 10 }: { value?: number }) => {
   return (
-    <svg width="100%" viewBox="0 0 240 140">
+    <ScopedSvg width="100%" viewBox="0 0 240 140">
       <defs>
         <linearGradient id="coinG" x1="0%" y1="0%" x2="100%" y2="100%">
           <stop offset="0%" stopColor="#FCD34D" stopOpacity="0.15" />
@@ -547,7 +560,7 @@ export const MoneySvg = memo(({ value = 10 }: { value?: number }) => {
         <circle cx="-12" cy="-12" r="10" fill="white" opacity="0.3" />
         <text y="10" fontSize="24" fontWeight="900" fill="#92400E" textAnchor="middle">{value}¢</text>
       </g>
-    </svg>
+    </ScopedSvg>
   );
 });
 
@@ -555,7 +568,7 @@ export const MoneySvg = memo(({ value = 10 }: { value?: number }) => {
 
 export const LengthSvg = memo(({ val1 = 15, val2 = 5 }: { val1?: number; val2?: number }) => {
   return (
-    <svg width="100%" viewBox="0 0 240 140">
+    <ScopedSvg width="100%" viewBox="0 0 240 140">
       <rect width="240" height="140" fill="#f0fdf4" rx="16" />
       <g transform="translate(40, 45)">
         <rect width={val1 * 8} height="10" fill="#EC4899" rx="2" />
@@ -565,7 +578,7 @@ export const LengthSvg = memo(({ val1 = 15, val2 = 5 }: { val1?: number; val2?: 
         <rect width={val2 * 8} height="10" fill="#3B82F6" rx="2" />
         <text y="25" fontSize="10" fontWeight="bold" fill="#1e40af">{val2} cm</text>
       </g>
-    </svg>
+    </ScopedSvg>
   );
 });
 
@@ -573,7 +586,7 @@ export const LengthSvg = memo(({ val1 = 15, val2 = 5 }: { val1?: number; val2?: 
 
 export const PlaceValueSvg = memo(({ tens = 3, ones = 4 }: { tens?: number; ones?: number }) => {
   return (
-    <svg width="100%" viewBox="0 0 240 140">
+    <ScopedSvg width="100%" viewBox="0 0 240 140">
       <rect width="240" height="140" fill="#ecfeff" rx="16" />
       {Array.from({ length: tens }, (_, i) => (
         <g key={i} transform={`translate(${20 + i * 22}, 20)`}>
@@ -586,7 +599,7 @@ export const PlaceValueSvg = memo(({ tens = 3, ones = 4 }: { tens?: number; ones
         <rect key={i} x={25 + tens * 22 + (i % 5) * 18} y={20 + Math.floor(i / 5) * 18} width="14" height="14" rx="3" fill="#facc15" stroke="#d97706" strokeWidth="0.5" />
       ))}
       <text x="120" y="130" fontSize="14" fontWeight="bold" fill="#0369a1" textAnchor="middle">{tens * 10 + ones}</text>
-    </svg>
+    </ScopedSvg>
   );
 });
 
@@ -595,7 +608,7 @@ export const PlaceValueSvg = memo(({ tens = 3, ones = 4 }: { tens?: number; ones
 export const SequenceSvg = memo(({ start = 20, step = 10, count = 4 }: { start?: number; step?: number; count?: number }) => {
   const nums = Array.from({ length: count }, (_, i) => start + i * step);
   return (
-    <svg width="100%" viewBox="0 0 240 100">
+    <ScopedSvg width="100%" viewBox="0 0 240 100">
       <rect width="240" height="100" fill="#f5f3ff" rx="16" />
       {nums.map((n, i) => (
         <g key={i} transform={`translate(${35 + i * 55}, 50)`}>
@@ -606,7 +619,7 @@ export const SequenceSvg = memo(({ start = 20, step = 10, count = 4 }: { start?:
           )}
         </g>
       ))}
-    </svg>
+    </ScopedSvg>
   );
 });
 
@@ -615,7 +628,7 @@ export const SequenceSvg = memo(({ start = 20, step = 10, count = 4 }: { start?:
 export const GroupsSvg = memo(({ groups = 3, perGroup = 4, emoji = "🍎" }: { groups?: number; perGroup?: number; emoji?: string }) => {
   const cols = Math.min(groups, 4);
   return (
-    <svg width="100%" viewBox="0 0 240 145">
+    <ScopedSvg width="100%" viewBox="0 0 240 145">
       <rect width="240" height="145" fill="#fffbeb" rx="16" />
       {Array.from({ length: groups }, (_, gi) => {
         const gcol = gi % cols;
@@ -632,7 +645,7 @@ export const GroupsSvg = memo(({ groups = 3, perGroup = 4, emoji = "🍎" }: { g
         );
       })}
       <text x="120" y="132" fontSize="12" fontWeight="bold" fill="#d97706" textAnchor="middle">{groups} × {perGroup} = {groups * perGroup}</text>
-    </svg>
+    </ScopedSvg>
   );
 });
 
@@ -641,7 +654,7 @@ export const GroupsSvg = memo(({ groups = 3, perGroup = 4, emoji = "🍎" }: { g
 export const RepAddSvg = memo(({ groups = 4, perGroup = 3 }: { groups?: number; perGroup?: number }) => {
   const res = groups * perGroup;
   return (
-    <svg width="100%" viewBox="0 0 240 130">
+    <ScopedSvg width="100%" viewBox="0 0 240 130">
       <rect width="240" height="130" fill="#f0fdf4" rx="16" />
       <text x="120" y="40" fontSize="14" fill="#15803d" textAnchor="middle">
         {Array.from({ length: groups }).map(() => perGroup).join(" + ")} = {res}
@@ -650,7 +663,7 @@ export const RepAddSvg = memo(({ groups = 4, perGroup = 3 }: { groups?: number; 
       <text x="120" y="100" fontSize="24" fontWeight="900" fill="#16a34a" textAnchor="middle">
         {groups} × {perGroup} = {res}
       </text>
-    </svg>
+    </ScopedSvg>
   );
 });
 
@@ -658,7 +671,7 @@ export const RepAddSvg = memo(({ groups = 4, perGroup = 3 }: { groups?: number; 
 
 export const TimesTableSvg = memo(({ table = 3 }: { table?: number }) => {
   return (
-    <svg width="100%" viewBox="0 0 240 140">
+    <ScopedSvg width="100%" viewBox="0 0 240 140">
       <rect width="240" height="140" fill="#f0f9ff" rx="16" />
       {[1, 2, 3, 4, 5].map((n, i) => (
         <g key={n} transform={`translate(120, ${30 + i * 22})`}>
@@ -667,7 +680,7 @@ export const TimesTableSvg = memo(({ table = 3 }: { table?: number }) => {
           <text x="40" y="0" fontSize="14" fontWeight="bold" fill="#0284c7" textAnchor="middle">{n * table}</text>
         </g>
       ))}
-    </svg>
+    </ScopedSvg>
   );
 });
 
@@ -676,7 +689,7 @@ export const TimesTableSvg = memo(({ table = 3 }: { table?: number }) => {
 export const ScaleSvg = memo(({ leftVal = 2, rightVal = 2, unit = "kg" }: { leftVal?: number; rightVal?: number; unit?: string }) => {
   const tilt = (rightVal - leftVal) * 8;
   return (
-    <svg width="100%" viewBox="0 0 240 130">
+    <ScopedSvg width="100%" viewBox="0 0 240 130">
       <rect width="240" height="130" fill="#f0fdfa" rx="16" />
       <rect x="115" y="70" width="10" height="50" rx="3" fill="#cbd5e1" />
       <rect x="95" y="115" width="50" height="8" rx="4" fill="#94a3b8" />
@@ -685,7 +698,7 @@ export const ScaleSvg = memo(({ leftVal = 2, rightVal = 2, unit = "kg" }: { left
       <text x="62" y={72 - tilt + 4} fontSize="12" fontWeight="bold" fill="#15803d" textAnchor="middle" dominantBaseline="middle">{leftVal} {unit}</text>
       <ellipse cx="178" cy={72 + tilt} rx="28" ry="8" fill="#dcfce7" stroke="#10b981" strokeWidth="1.5" />
       <text x="178" y={72 + tilt + 4} fontSize="12" fontWeight="bold" fill="#15803d" textAnchor="middle" dominantBaseline="middle">{rightVal} {unit}</text>
-    </svg>
+    </ScopedSvg>
   );
 });
 
@@ -693,7 +706,7 @@ export const ScaleSvg = memo(({ leftVal = 2, rightVal = 2, unit = "kg" }: { left
 
 export const RulerSvg = memo(({ length = 7 }: { length?: number }) => {
   return (
-    <svg width="100%" viewBox="0 0 240 110">
+    <ScopedSvg width="100%" viewBox="0 0 240 110">
       <rect width="240" height="110" fill="#f0f9ff" rx="16" />
       <rect x="15" y="42" width="210" height="30" rx="4" fill="white" stroke="#0ea5e9" strokeWidth="1.5" />
       {Array.from({ length: 21 }, (_, i) => {
@@ -708,7 +721,7 @@ export const RulerSvg = memo(({ length = 7 }: { length?: number }) => {
       })}
       <rect x="15" y="25" width={length * 20} height="8" rx="2" fill="#3b82f6" opacity="0.8" />
       <text x={15 + length * 10} y="20" fontSize="10" fontWeight="bold" fill="#1e40af" textAnchor="middle">{length} cm</text>
-    </svg>
+    </ScopedSvg>
   );
 });
 
@@ -717,7 +730,7 @@ export const RulerSvg = memo(({ length = 7 }: { length?: number }) => {
 export const SharingSvg = memo(({ total = 12, people = 3, emoji = "🍪" }: { total?: number; people?: number; emoji?: string }) => {
   const perPerson = Math.floor(total / people);
   return (
-    <svg width="100%" viewBox="0 0 240 145">
+    <ScopedSvg width="100%" viewBox="0 0 240 145">
       <rect width="240" height="145" fill="#f0fdf4" rx="16" />
       {Array.from({ length: people }, (_, pi) => {
         const bx = 15 + pi * 70;
@@ -731,7 +744,7 @@ export const SharingSvg = memo(({ total = 12, people = 3, emoji = "🍪" }: { to
         );
       })}
       <text x="120" y="128" fontSize="12" fontWeight="bold" fill="#15803d" textAnchor="middle">{total} ÷ {people} = {perPerson}</text>
-    </svg>
+    </ScopedSvg>
   );
 });
 
@@ -740,7 +753,7 @@ export const SharingSvg = memo(({ total = 12, people = 3, emoji = "🍪" }: { to
 export const DivNLSvg = memo(({ total = 15, step = 3, max = 17 }: { total?: number; step?: number; max?: number }) => {
   const jumps = total / step;
   return (
-    <svg width="100%" viewBox="0 0 240 100">
+    <ScopedSvg width="100%" viewBox="0 0 240 100">
       <rect width="240" height="100" fill="#f0f9ff" rx="16" />
       <line x1="15" y1="55" x2="225" y2="55" stroke="#94a3b8" strokeWidth="2" strokeLinecap="round" />
       {Array.from({ length: max + 1 }, (_, n) => {
@@ -765,7 +778,7 @@ export const DivNLSvg = memo(({ total = 15, step = 3, max = 17 }: { total?: numb
           <path d="M 0 0 L 6 3 L 0 6 z" fill="#0ea5e9" />
         </marker>
       </defs>
-    </svg>
+    </ScopedSvg>
   );
 });
 
@@ -774,21 +787,22 @@ export const DivNLSvg = memo(({ total = 15, step = 3, max = 17 }: { total?: numb
 export const DivMulSvg = memo(({ a = 4, b = 3 }: { a?: number; b?: number }) => {
   const res = a * b;
   return (
-    <svg width="100%" viewBox="0 0 240 120">
+    <ScopedSvg width="100%" viewBox="0 0 240 120">
       <rect width="240" height="120" fill="#fdf2f8" rx="16" />
       <text x="120" y="40" fontSize="18" fontWeight="bold" fill="#be185d" textAnchor="middle">{a} × {b} = {res}</text>
       <text x="120" y="65" fontSize="16" fill="#94a3b8" textAnchor="middle">↕</text>
       <text x="70" y="95" fontSize="16" fontWeight="bold" fill="#db2777" textAnchor="middle">{res} ÷ {a} = {b}</text>
       <text x="170" y="95" fontSize="16" fontWeight="bold" fill="#db2777" textAnchor="middle">{res} ÷ {b} = {a}</text>
-    </svg>
+    </ScopedSvg>
   );
 });
 
 // ─── HUNDRED GRID SVG ──────────────────────────────────────────────────────
 
-export const HundredGridSvg = memo(({ highlight = [10, 50, 100] }: { highlight?: number[] }) => {
+export const HundredGridSvg = memo(({ highlight = [10, 50, 100], lang = "hu" }: { highlight?: number[]; lang?: string }) => {
+  const l = svgLabels(lang);
   return (
-    <svg width="100%" viewBox="0 0 240 160">
+    <ScopedSvg width="100%" viewBox="0 0 240 160">
       <rect width="240" height="160" fill="#f8fafc" rx="16" />
       <g transform="translate(45, 20)">
         {Array.from({ length: 100 }).map((_, i) => {
@@ -803,8 +817,8 @@ export const HundredGridSvg = memo(({ highlight = [10, 50, 100] }: { highlight?:
           );
         })}
       </g>
-      <text x="120" y="152" fontSize="11" fontWeight="bold" fill="#2A9D94" textAnchor="middle" opacity="0.7">Hundred Chart</text>
-    </svg>
+      <text x="120" y="152" fontSize="11" fontWeight="bold" fill="#2A9D94" textAnchor="middle" opacity="0.7">{l.hundredChart}</text>
+    </ScopedSvg>
   );
 });
 
@@ -812,7 +826,7 @@ export const HundredGridSvg = memo(({ highlight = [10, 50, 100] }: { highlight?:
 
 export const PlaceValue3DSvg = memo(({ hundreds = 3, tens = 4, ones = 7 }: { hundreds?: number; tens?: number; ones?: number }) => {
   return (
-    <svg width="100%" viewBox="0 0 240 150">
+    <ScopedSvg width="100%" viewBox="0 0 240 150">
       <defs>
         <linearGradient id="pv3dG" x1="0%" y1="0%" x2="100%" y2="100%">
           <stop offset="0%" stopColor="#B44DFF" stopOpacity="0.12" />
@@ -820,7 +834,7 @@ export const PlaceValue3DSvg = memo(({ hundreds = 3, tens = 4, ones = 7 }: { hun
         </linearGradient>
       </defs>
       <rect width="240" height="150" fill="url(#pv3dG)" rx="16" />
-      
+
       {/* Hundreds (Stacks of 100) */}
       <g transform="translate(30, 40)">
         {Array.from({ length: hundreds }).map((_, i) => (
@@ -846,7 +860,7 @@ export const PlaceValue3DSvg = memo(({ hundreds = 3, tens = 4, ones = 7 }: { hun
       </g>
 
       <text x="120" y="130" fontSize="18" fontWeight="black" fill="#1e293b" textAnchor="middle">{hundreds * 100 + tens * 10 + ones}</text>
-    </svg>
+    </ScopedSvg>
   );
 });
 
@@ -854,7 +868,7 @@ export const PlaceValue3DSvg = memo(({ hundreds = 3, tens = 4, ones = 7 }: { hun
 
 export const PerimeterSvg = memo(({ w = 7, h = 5 }: { w?: number; h?: number }) => {
   return (
-    <svg width="100%" viewBox="0 0 240 140">
+    <ScopedSvg width="100%" viewBox="0 0 240 140">
       <rect width="240" height="140" fill="#fffbeb" rx="16" />
       <rect x="50" y="35" width="140" height="70" fill="none" stroke="#f59e0b" strokeWidth="3" rx="2" />
       <text x="120" y="25" fontSize="12" fontWeight="bold" fill="#d97706" textAnchor="middle">{w} cm</text>
@@ -862,7 +876,7 @@ export const PerimeterSvg = memo(({ w = 7, h = 5 }: { w?: number; h?: number }) 
       <text x="120" y="120" fontSize="12" fontWeight="bold" fill="#d97706" textAnchor="middle">{w} cm</text>
       <text x="205" y="75" fontSize="12" fontWeight="bold" fill="#d97706" textAnchor="middle">{h} cm</text>
       <text x="120" y="132" fontSize="10" fill="#92400e" textAnchor="middle" opacity="0.7">P = {w} + {h} + {w} + {h} = {2 * (w + h)} cm</text>
-    </svg>
+    </ScopedSvg>
   );
 });
 
@@ -871,7 +885,7 @@ export const PerimeterSvg = memo(({ w = 7, h = 5 }: { w?: number; h?: number }) 
 export const GroupingSvg = memo(({ total = 12, groupSize = 3 }: { total?: number; groupSize?: number }) => {
   const numGroups = total / groupSize;
   return (
-    <svg width="100%" viewBox="0 0 240 140">
+    <ScopedSvg width="100%" viewBox="0 0 240 140">
       <rect width="240" height="140" fill="#f0fdf4" rx="16" />
       {Array.from({ length: numGroups }).map((_, g) => {
         const startX = 20 + (g % 2) * 110;
@@ -886,7 +900,7 @@ export const GroupingSvg = memo(({ total = 12, groupSize = 3 }: { total?: number
         );
       })}
       <text x="120" y="128" fontSize="12" fontWeight="bold" fill="#15803d" textAnchor="middle">{total} ÷ {groupSize} = {numGroups}</text>
-    </svg>
+    </ScopedSvg>
   );
 });
 
@@ -895,7 +909,7 @@ export const GroupingSvg = memo(({ total = 12, groupSize = 3 }: { total?: number
 export const InverseSvg = memo(({ a = 3, b = 4 }: { a?: number; b?: number }) => {
   const res = a * b;
   return (
-    <svg width="100%" viewBox="0 0 240 140">
+    <ScopedSvg width="100%" viewBox="0 0 240 140">
       <rect width="240" height="140" fill="#f0f9ff" rx="16" />
       <g transform="translate(120, 45)">
         <text x="0" y="0" fontSize="16" fontWeight="bold" fill="#0369a1" textAnchor="middle">{a} × {b} = {res}</text>
@@ -904,7 +918,7 @@ export const InverseSvg = memo(({ a = 3, b = 4 }: { a?: number; b?: number }) =>
       <g transform="translate(120, 100)">
         <text x="0" y="0" fontSize="16" fontWeight="bold" fill="#0284c7" textAnchor="middle">{res} ÷ {b} = {a}</text>
       </g>
-    </svg>
+    </ScopedSvg>
   );
 });
 
@@ -912,14 +926,14 @@ export const InverseSvg = memo(({ a = 3, b = 4 }: { a?: number; b?: number }) =>
 
 export const TenThousandBlockSvg = memo(() => {
   return (
-    <svg width="100%" viewBox="0 0 240 140">
+    <ScopedSvg width="100%" viewBox="0 0 240 140">
       <rect width="240" height="140" fill="#f5f3ff" rx="16" />
       <g transform="translate(120, 60)">
         <rect x="-40" y="-30" width="80" height="60" fill="#8B5CF6" rx="8" opacity="0.8" />
         <text x="0" y="5" fontSize="18" fontWeight="bold" fill="white" textAnchor="middle">10 000</text>
         <path d="M -50,0 L -70,0 M 50,0 L 70,0" stroke="#8B5CF6" strokeWidth="3" strokeLinecap="round" opacity="0.5" />
       </g>
-    </svg>
+    </ScopedSvg>
   );
 });
 
@@ -927,7 +941,7 @@ export const TenThousandBlockSvg = memo(() => {
 
 export const PlaceValueColsSvg = memo(() => {
   return (
-    <svg width="100%" viewBox="0 0 240 140">
+    <ScopedSvg width="100%" viewBox="0 0 240 140">
       <rect width="240" height="140" fill="#eff6ff" rx="16" />
       <g transform="translate(40, 40)">
         <rect x="0" y="0" width="40" height="60" fill="#3B82F6" rx="4" opacity="0.3" />
@@ -937,7 +951,7 @@ export const PlaceValueColsSvg = memo(() => {
         <text x="70" y="80" fontSize="10" fill="#1E40AF" textAnchor="middle">10</text>
         <text x="120" y="80" fontSize="10" fill="#1E40AF" textAnchor="middle">1</text>
       </g>
-    </svg>
+    </ScopedSvg>
   );
 });
 
@@ -945,13 +959,13 @@ export const PlaceValueColsSvg = memo(() => {
 
 export const NumberLine40kSvg = memo(() => {
   return (
-    <svg width="100%" viewBox="0 0 240 140">
+    <ScopedSvg width="100%" viewBox="0 0 240 140">
       <rect width="240" height="140" fill="#ecfdf5" rx="16" />
       <line x1="30" y1="70" x2="210" y2="70" stroke="#059669" strokeWidth="2" />
       <circle cx="120" cy="70" r="6" fill="#059669" />
       <text x="30" y="95" fontSize="12" fill="#059669" textAnchor="middle">40 000</text>
       <text x="210" y="95" fontSize="12" fill="#059669" textAnchor="middle">50 000</text>
-    </svg>
+    </ScopedSvg>
   );
 });
 
@@ -959,7 +973,7 @@ export const NumberLine40kSvg = memo(() => {
 
 export const G4AngleT1Svg = memo(function G4AngleT1Svg() {
   return (
-    <svg width="100%" viewBox="0 0 240 140">
+    <ScopedSvg width="100%" viewBox="0 0 240 140">
       <defs>
         <linearGradient id="symGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
           <stop offset="0%" stopColor="#6366F1" stopOpacity="0.15" />
@@ -974,7 +988,7 @@ export const G4AngleT1Svg = memo(function G4AngleT1Svg() {
         <circle cx="4" cy="-4" r="1" fill="#4338CA" />
         <text x="70" y="5" fontSize="12" fontWeight="bold" fill="#4338CA">90°</text>
       </g>
-    </svg>
+    </ScopedSvg>
   );
 });
 
@@ -983,7 +997,7 @@ export const G4AngleT1Svg = memo(function G4AngleT1Svg() {
 
 export const G4AngleT2Svg = memo(function G4AngleT2Svg() {
   return (
-    <svg width="100%" viewBox="0 0 240 140">
+    <ScopedSvg width="100%" viewBox="0 0 240 140">
       <defs>
         <linearGradient id="symGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
           <stop offset="0%" stopColor="#EC4899" stopOpacity="0.15" />
@@ -997,16 +1011,17 @@ export const G4AngleT2Svg = memo(function G4AngleT2Svg() {
         <path d="M 40,-30 Q 60,0 40,30 L 0,0 Z" fill="#EC4899" opacity="0.6" stroke="#BE185D" />
         <line x1="0" y1="-45" x2="0" y2="45" stroke="#BE185D" strokeWidth="2" strokeDasharray="5 3" />
       </g>
-    </svg>
+    </ScopedSvg>
   );
 });
 
 
 // ─── G4 ANGLE T3 SVG ────────────────────────────────────────────────
 
-export const G4AngleT3Svg = memo(function G4AngleT3Svg() {
+export const G4AngleT3Svg = memo(function G4AngleT3Svg({ lang = "hu" }: { lang?: string }) {
+  const l = svgLabels(lang);
   return (
-    <svg width="100%" viewBox="0 0 240 140">
+    <ScopedSvg width="100%" viewBox="0 0 240 140">
       <defs>
         <linearGradient id="symGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
           <stop offset="0%" stopColor="#14B8A6" stopOpacity="0.15" />
@@ -1017,13 +1032,13 @@ export const G4AngleT3Svg = memo(function G4AngleT3Svg() {
       {/* Acute vs Obtuse angle visual */}
       <g transform="translate(70, 90)">
         <path d="M 0,-40 L 0,0 L 30,0" fill="none" stroke="#0D9488" strokeWidth="3" opacity="0.5" />
-        <text x="0" y="15" fontSize="10" fill="#0D9488" textAnchor="middle">ACUTE</text>
+        <text x="0" y="15" fontSize="10" fill="#0D9488" textAnchor="middle">{l.acute}</text>
       </g>
       <g transform="translate(170, 90)">
         <path d="M -30,-30 L 0,0 L 40,0" fill="none" stroke="#0D9488" strokeWidth="3" />
-        <text x="0" y="15" fontSize="10" fill="#0D9488" textAnchor="middle">OBTUSE</text>
+        <text x="0" y="15" fontSize="10" fill="#0D9488" textAnchor="middle">{l.obtuse}</text>
       </g>
-    </svg>
+    </ScopedSvg>
   );
 });
 
@@ -1032,7 +1047,7 @@ export const G4AngleT3Svg = memo(function G4AngleT3Svg() {
 
 export const G4AreaT1Svg = memo(function G4AreaT1Svg() {
   return (
-    <svg width="100%" viewBox="0 0 240 140">
+    <ScopedSvg width="100%" viewBox="0 0 240 140">
       <defs>
         <linearGradient id="geoGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
           <stop offset="0%" stopColor="#10B981" stopOpacity="0.15" />
@@ -1048,7 +1063,7 @@ export const G4AreaT1Svg = memo(function G4AreaT1Svg() {
         <text x="95" y="35" fontSize="12" fill="#059669" textAnchor="middle" fontWeight="bold">6</text>
       </g>
       <text x="120" y="125" fontSize="13" fontWeight="bold" fill="#065F46" textAnchor="middle">P = 8 + 6 + 8 + 6 = 28</text>
-    </svg>
+    </ScopedSvg>
   );
 });
 
@@ -1057,7 +1072,7 @@ export const G4AreaT1Svg = memo(function G4AreaT1Svg() {
 
 export const G4AreaT2Svg = memo(function G4AreaT2Svg() {
   return (
-    <svg width="100%" viewBox="0 0 240 140">
+    <ScopedSvg width="100%" viewBox="0 0 240 140">
       <defs>
         <linearGradient id="geoGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
           <stop offset="0%" stopColor="#3B82F6" stopOpacity="0.15" />
@@ -1078,16 +1093,17 @@ export const G4AreaT2Svg = memo(function G4AreaT2Svg() {
         <text x="-12" y="30" fontSize="12" fill="#1E40AF" textAnchor="middle" fontWeight="bold">5</text>
       </g>
       <text x="120" y="125" fontSize="13" fontWeight="bold" fill="#1E40AF" textAnchor="middle">A = 7 × 5 = 35</text>
-    </svg>
+    </ScopedSvg>
   );
 });
 
 
 // ─── G4 AREA T3 SVG ────────────────────────────────────────────────
 
-export const G4AreaT3Svg = memo(function G4AreaT3Svg() {
+export const G4AreaT3Svg = memo(function G4AreaT3Svg({ lang = "hu" }: { lang?: string }) {
+  const l = svgLabels(lang);
   return (
-    <svg width="100%" viewBox="0 0 240 140">
+    <ScopedSvg width="100%" viewBox="0 0 240 140">
       <defs>
         <linearGradient id="geoGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
           <stop offset="0%" stopColor="#F43F5E" stopOpacity="0.15" />
@@ -1098,11 +1114,11 @@ export const G4AreaT3Svg = memo(function G4AreaT3Svg() {
       {/* Square visual - P vs A */}
       <g transform="translate(90, 30)">
         <rect width="60" height="60" fill="#F43F5E" fillOpacity="0.1" stroke="#E11D48" strokeWidth="2" />
-        <text x="30" y="35" fontSize="10" fill="#E11D48" textAnchor="middle">AREA</text>
+        <text x="30" y="35" fontSize="10" fill="#E11D48" textAnchor="middle">{l.area.toUpperCase()}</text>
         <path d="M -5,0 L -5,60" stroke="#E11D48" strokeWidth="1" />
         <text x="-15" y="35" fontSize="12" fill="#E11D48" textAnchor="middle" fontWeight="bold">4</text>
       </g>
-    </svg>
+    </ScopedSvg>
   );
 });
 
@@ -1111,7 +1127,7 @@ export const G4AreaT3Svg = memo(function G4AreaT3Svg() {
 
 export const G4DivisionT1Svg = memo(function G4DivisionT1Svg() {
   return (
-    <svg width="100%" viewBox="0 0 240 140">
+    <ScopedSvg width="100%" viewBox="0 0 240 140">
       <defs>
         <linearGradient id="divGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
           <stop offset="0%" stopColor="#3B82F6" stopOpacity="0.15" />
@@ -1132,7 +1148,7 @@ export const G4DivisionT1Svg = memo(function G4DivisionT1Svg() {
         ))}
       </g>
       <text x="120" y="125" fontSize="14" fontWeight="bold" fill="#1E40AF" textAnchor="middle">12 ÷ 3 = 4</text>
-    </svg>
+    </ScopedSvg>
   );
 });
 
@@ -1141,7 +1157,7 @@ export const G4DivisionT1Svg = memo(function G4DivisionT1Svg() {
 
 export const G4DivisionT2Svg = memo(function G4DivisionT2Svg() {
   return (
-    <svg width="100%" viewBox="0 0 240 140">
+    <ScopedSvg width="100%" viewBox="0 0 240 140">
       <defs>
         <linearGradient id="divGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
           <stop offset="0%" stopColor="#F59E0B" stopOpacity="0.15" />
@@ -1156,7 +1172,7 @@ export const G4DivisionT2Svg = memo(function G4DivisionT2Svg() {
         <text x="60" y="-15" fontSize="16" fontWeight="bold" fill="#B45309" textAnchor="middle">20 ÷ 4 = 5</text>
         <path d="M 30,-35 Q 0,-55 -30,-35" stroke="#B45309" fill="none" strokeWidth="2" markerEnd="url(#arrow)" />
       </g>
-    </svg>
+    </ScopedSvg>
   );
 });
 
@@ -1165,7 +1181,7 @@ export const G4DivisionT2Svg = memo(function G4DivisionT2Svg() {
 
 export const G4DivisionT3Svg = memo(function G4DivisionT3Svg() {
   return (
-    <svg width="100%" viewBox="0 0 240 140">
+    <ScopedSvg width="100%" viewBox="0 0 240 140">
       <defs>
         <linearGradient id="divGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
           <stop offset="0%" stopColor="#8B5CF6" stopOpacity="0.15" />
@@ -1180,7 +1196,7 @@ export const G4DivisionT3Svg = memo(function G4DivisionT3Svg() {
         ))}
         <rect x="-10" y="-10" width="160" height="20" rx="10" fill="none" stroke="#8B5CF6" strokeWidth="2" strokeDasharray="5 3" />
       </g>
-    </svg>
+    </ScopedSvg>
   );
 });
 
@@ -1189,7 +1205,7 @@ export const G4DivisionT3Svg = memo(function G4DivisionT3Svg() {
 
 export const G4FractionT1Svg = memo(function G4FractionT1Svg() {
   return (
-    <svg width="100%" viewBox="0 0 240 140">
+    <ScopedSvg width="100%" viewBox="0 0 240 140">
       <defs>
         <linearGradient id="fracGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
           <stop offset="0%" stopColor="#FB923C" stopOpacity="0.15" />
@@ -1205,7 +1221,7 @@ export const G4FractionT1Svg = memo(function G4FractionT1Svg() {
         <line x1="0" y1="-40" x2="0" y2="40" stroke="#FB923C" strokeWidth="1" />
       </g>
       <text x="120" y="125" fontSize="14" fontWeight="bold" fill="#C2410C" textAnchor="middle">1 / 4</text>
-    </svg>
+    </ScopedSvg>
   );
 });
 
@@ -1214,7 +1230,7 @@ export const G4FractionT1Svg = memo(function G4FractionT1Svg() {
 
 export const G4FractionT2Svg = memo(function G4FractionT2Svg() {
   return (
-    <svg width="100%" viewBox="0 0 240 140">
+    <ScopedSvg width="100%" viewBox="0 0 240 140">
       <defs>
         <linearGradient id="fracGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
           <stop offset="0%" stopColor="#22D3EE" stopOpacity="0.15" />
@@ -1231,7 +1247,7 @@ export const G4FractionT2Svg = memo(function G4FractionT2Svg() {
         <line x1="66.6" y1="0" x2="66.6" y2="50" stroke="#0891B2" strokeWidth="1" />
       </g>
       <text x="120" y="125" fontSize="14" fontWeight="bold" fill="#0E7490" textAnchor="middle">2 / 3</text>
-    </svg>
+    </ScopedSvg>
   );
 });
 
@@ -1240,7 +1256,7 @@ export const G4FractionT2Svg = memo(function G4FractionT2Svg() {
 
 export const G4FractionT3Svg = memo(function G4FractionT3Svg() {
   return (
-    <svg width="100%" viewBox="0 0 240 140">
+    <ScopedSvg width="100%" viewBox="0 0 240 140">
       <defs>
         <linearGradient id="fracGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
           <stop offset="0%" stopColor="#4ADE80" stopOpacity="0.15" />
@@ -1258,7 +1274,7 @@ export const G4FractionT3Svg = memo(function G4FractionT3Svg() {
         <text x="100" y="25" fontSize="12" fill="#059669" fontWeight="bold" textAnchor="middle">1/2</text>
         <text x="200" y="25" fontSize="12" fill="#059669" textAnchor="middle">1</text>
       </g>
-    </svg>
+    </ScopedSvg>
   );
 });
 
@@ -1267,7 +1283,7 @@ export const G4FractionT3Svg = memo(function G4FractionT3Svg() {
 
 export const G4MultiplicationT1Svg = memo(function G4MultiplicationT1Svg() {
   return (
-    <svg width="100%" viewBox="0 0 240 140">
+    <ScopedSvg width="100%" viewBox="0 0 240 140">
       <defs>
         <linearGradient id="mulGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
           <stop offset="0%" stopColor="#F59E0B" stopOpacity="0.15" />
@@ -1286,7 +1302,7 @@ export const G4MultiplicationT1Svg = memo(function G4MultiplicationT1Svg() {
         </g>
       ))}
       <text x="120" y="125" fontSize="14" fontWeight="bold" fill="#B45309" textAnchor="middle">3 × 4 = 12</text>
-    </svg>
+    </ScopedSvg>
   );
 });
 
@@ -1295,7 +1311,7 @@ export const G4MultiplicationT1Svg = memo(function G4MultiplicationT1Svg() {
 
 export const G4MultiplicationT2Svg = memo(function G4MultiplicationT2Svg() {
   return (
-    <svg width="100%" viewBox="0 0 240 140">
+    <ScopedSvg width="100%" viewBox="0 0 240 140">
       <defs>
         <linearGradient id="mulGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
           <stop offset="0%" stopColor="#10B981" stopOpacity="0.15" />
@@ -1305,7 +1321,7 @@ export const G4MultiplicationT2Svg = memo(function G4MultiplicationT2Svg() {
       <rect width="240" height="140" fill="url(#mulGrad2)" rx="16" />
       {/* Area model / Grid */}
       <g transform="translate(85, 35)">
-        {Array.from({ length: 5 }).map((_, r) => 
+        {Array.from({ length: 5 }).map((_, r) =>
           Array.from({ length: 7 }).map((_, c) => (
             <rect key={`${r}-${c}`} x={c * 10} y={r * 10} width="8" height="8" fill="#10B981" rx="1" opacity={0.6} />
           ))
@@ -1313,7 +1329,7 @@ export const G4MultiplicationT2Svg = memo(function G4MultiplicationT2Svg() {
         <text x="-15" y="30" fontSize="12" fill="#059669" fontWeight="bold">5</text>
         <text x="35" y="-10" fontSize="12" fill="#059669" fontWeight="bold">7</text>
       </g>
-    </svg>
+    </ScopedSvg>
   );
 });
 
@@ -1322,7 +1338,7 @@ export const G4MultiplicationT2Svg = memo(function G4MultiplicationT2Svg() {
 
 export const G4MultiplicationT3Svg = memo(function G4MultiplicationT3Svg() {
   return (
-    <svg width="100%" viewBox="0 0 240 140">
+    <ScopedSvg width="100%" viewBox="0 0 240 140">
       <defs>
         <linearGradient id="mulGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
           <stop offset="0%" stopColor="#EC4899" stopOpacity="0.15" />
@@ -1338,7 +1354,7 @@ export const G4MultiplicationT3Svg = memo(function G4MultiplicationT3Svg() {
         <path d="M 60,0 L 80,0 L 75,-5 M 80,0 L 75,5" stroke="#DB2777" fill="none" strokeWidth="2" />
         <text x="105" y="5" fontSize="20" fontWeight="800" fill="#DB2777" textAnchor="middle">420</text>
       </g>
-    </svg>
+    </ScopedSvg>
   );
 });
 
@@ -1347,7 +1363,7 @@ export const G4MultiplicationT3Svg = memo(function G4MultiplicationT3Svg() {
 
 export const G4PlaceValueT1Svg = memo(function G4PlaceValueT1Svg() {
   return (
-    <svg width="100%" viewBox="0 0 240 140">
+    <ScopedSvg width="100%" viewBox="0 0 240 140">
       <defs>
         <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
           <stop offset="0%" stopColor="#8B5CF6" stopOpacity="0.15" />
@@ -1361,7 +1377,7 @@ export const G4PlaceValueT1Svg = memo(function G4PlaceValueT1Svg() {
         <text x="0" y="5" fontSize="18" fontWeight="bold" fill="white" textAnchor="middle">10 000</text>
         <path d="M -50,0 L -70,0 M 50,0 L 70,0" stroke="#8B5CF6" strokeWidth="3" strokeLinecap="round" opacity="0.5" />
       </g>
-    </svg>
+    </ScopedSvg>
   );
 });
 
@@ -1370,7 +1386,7 @@ export const G4PlaceValueT1Svg = memo(function G4PlaceValueT1Svg() {
 
 export const G4PlaceValueT2Svg = memo(function G4PlaceValueT2Svg() {
   return (
-    <svg width="100%" viewBox="0 0 240 140">
+    <ScopedSvg width="100%" viewBox="0 0 240 140">
       <defs>
         <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="100%">
           <stop offset="0%" stopColor="#3B82F6" stopOpacity="0.15" />
@@ -1387,7 +1403,7 @@ export const G4PlaceValueT2Svg = memo(function G4PlaceValueT2Svg() {
         <text x="70" y="80" fontSize="10" fill="#1E40AF" textAnchor="middle">10</text>
         <text x="120" y="80" fontSize="10" fill="#1E40AF" textAnchor="middle">1</text>
       </g>
-    </svg>
+    </ScopedSvg>
   );
 });
 
@@ -1396,7 +1412,7 @@ export const G4PlaceValueT2Svg = memo(function G4PlaceValueT2Svg() {
 
 export const G4PlaceValueT3Svg = memo(function G4PlaceValueT3Svg() {
   return (
-    <svg width="100%" viewBox="0 0 240 140">
+    <ScopedSvg width="100%" viewBox="0 0 240 140">
       <defs>
         <linearGradient id="grad3" x1="0%" y1="0%" x2="100%" y2="100%">
           <stop offset="0%" stopColor="#10B981" stopOpacity="0.15" />
@@ -1408,7 +1424,7 @@ export const G4PlaceValueT3Svg = memo(function G4PlaceValueT3Svg() {
       <circle cx="120" cy="70" r="6" fill="#059669" />
       <text x="30" y="95" fontSize="12" fill="#059669" textAnchor="middle">40 000</text>
       <text x="210" y="95" fontSize="12" fill="#059669" textAnchor="middle">50 000</text>
-    </svg>
+    </ScopedSvg>
   );
 });
 
@@ -1417,7 +1433,7 @@ export const G4PlaceValueT3Svg = memo(function G4PlaceValueT3Svg() {
 
 export const G4UnitT1Svg = memo(function G4UnitT1Svg() {
   return (
-    <svg width="100%" viewBox="0 0 240 140">
+    <ScopedSvg width="100%" viewBox="0 0 240 140">
       <defs>
         <linearGradient id="unitGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
           <stop offset="0%" stopColor="#0EA5E9" stopOpacity="0.15" />
@@ -1434,7 +1450,7 @@ export const G4UnitT1Svg = memo(function G4UnitT1Svg() {
         <text x="50" y="45" fontSize="10" fill="#0EA5E9" textAnchor="middle">5 cm</text>
         <text x="100" y="45" fontSize="10" fill="#0EA5E9" textAnchor="middle">10 cm</text>
       </g>
-    </svg>
+    </ScopedSvg>
   );
 });
 
@@ -1443,7 +1459,7 @@ export const G4UnitT1Svg = memo(function G4UnitT1Svg() {
 
 export const G4UnitT2Svg = memo(function G4UnitT2Svg() {
   return (
-    <svg width="100%" viewBox="0 0 240 140">
+    <ScopedSvg width="100%" viewBox="0 0 240 140">
       <defs>
         <linearGradient id="unitGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
           <stop offset="0%" stopColor="#F43F5E" stopOpacity="0.15" />
@@ -1458,7 +1474,7 @@ export const G4UnitT2Svg = memo(function G4UnitT2Svg() {
         <circle cx="-35" cy="-55" r="8" fill="#FB7185" />
         <text x="0" y="25" fontSize="14" fontWeight="bold" fill="#9F1239" textAnchor="middle">1 kg = 1000 g</text>
       </g>
-    </svg>
+    </ScopedSvg>
   );
 });
 
@@ -1467,7 +1483,7 @@ export const G4UnitT2Svg = memo(function G4UnitT2Svg() {
 
 export const G4UnitT3Svg = memo(function G4UnitT3Svg() {
   return (
-    <svg width="100%" viewBox="0 0 240 140">
+    <ScopedSvg width="100%" viewBox="0 0 240 140">
       <defs>
         <linearGradient id="unitGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
           <stop offset="0%" stopColor="#10B981" stopOpacity="0.15" />
@@ -1484,7 +1500,7 @@ export const G4UnitT3Svg = memo(function G4UnitT3Svg() {
         <line x1="40" y1="60" x2="45" y2="60" stroke="#059669" />
         <text x="65" y="45" fontSize="12" fontWeight="bold" fill="#065F46">1 L</text>
       </g>
-    </svg>
+    </ScopedSvg>
   );
 });
 
@@ -1493,7 +1509,7 @@ export const G4UnitT3Svg = memo(function G4UnitT3Svg() {
 
 export const G4WordProblemT1Svg = memo(function G4WordProblemT1Svg() {
   return (
-    <svg width="100%" viewBox="0 0 240 140">
+    <ScopedSvg width="100%" viewBox="0 0 240 140">
       <defs>
         <linearGradient id="wpGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
           <stop offset="0%" stopColor="#F59E0B" stopOpacity="0.15" />
@@ -1513,16 +1529,17 @@ export const G4WordProblemT1Svg = memo(function G4WordProblemT1Svg() {
         ))}
       </g>
       <text x="120" y="120" fontSize="14" fontWeight="bold" fill="#92400E" textAnchor="middle">3 × 5 = ?</text>
-    </svg>
+    </ScopedSvg>
   );
 });
 
 
 // ─── G4 WORDPROBLEM T2 SVG ────────────────────────────────────────────────
 
-export const G4WordProblemT2Svg = memo(function G4WordProblemT2Svg() {
+export const G4WordProblemT2Svg = memo(function G4WordProblemT2Svg({ lang = "hu" }: { lang?: string }) {
+  const l = svgLabels(lang);
   return (
-    <svg width="100%" viewBox="0 0 240 140">
+    <ScopedSvg width="100%" viewBox="0 0 240 140">
       <defs>
         <linearGradient id="wpGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
           <stop offset="0%" stopColor="#3B82F6" stopOpacity="0.15" />
@@ -1533,11 +1550,11 @@ export const G4WordProblemT2Svg = memo(function G4WordProblemT2Svg() {
       {/* Keywords visual */}
       <g transform="translate(120, 70)">
         <rect x="-80" y="-30" width="160" height="60" fill="white" fillOpacity="0.3" rx="8" stroke="#2563EB" strokeDasharray="4 2" />
-        <text x="0" y="-5" fontSize="12" fontWeight="bold" fill="#1E40AF" textAnchor="middle">SUM • TOTAL • ALL</text>
+        <text x="0" y="-5" fontSize="11" fontWeight="bold" fill="#1E40AF" textAnchor="middle">{l.sumWords}</text>
         <line x1="-60" y1="5" x2="60" y2="5" stroke="#2563EB" strokeWidth="1" opacity="0.5" />
         <text x="0" y="22" fontSize="16" fontWeight="900" fill="#1E40AF" textAnchor="middle">+</text>
       </g>
-    </svg>
+    </ScopedSvg>
   );
 });
 
@@ -1546,7 +1563,7 @@ export const G4WordProblemT2Svg = memo(function G4WordProblemT2Svg() {
 
 export const G4WordProblemT3Svg = memo(function G4WordProblemT3Svg() {
   return (
-    <svg width="100%" viewBox="0 0 240 140">
+    <ScopedSvg width="100%" viewBox="0 0 240 140">
       <defs>
         <linearGradient id="wpGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
           <stop offset="0%" stopColor="#8B5CF6" stopOpacity="0.15" />
@@ -1561,7 +1578,6 @@ export const G4WordProblemT3Svg = memo(function G4WordProblemT3Svg() {
         <path d="M -10,5 L 10,5" stroke="#6D28D9" strokeWidth="2" strokeLinecap="round" />
         <text x="60" y="0" fontSize="18" fontWeight="bold" fill="#6D28D9" textAnchor="middle">≈ 100</text>
       </g>
-    </svg>
+    </ScopedSvg>
   );
 });
-

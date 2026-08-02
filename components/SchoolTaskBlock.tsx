@@ -388,7 +388,11 @@ export default function SchoolTaskBlock({
       case 'g3-area-compare':
         return <G3AreaCompare shapeA={p.shapeA} shapeB={p.shapeB} lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
       default:
-        return null;
+        return (
+          <div className="rounded-lg border border-amber-300 bg-amber-50 p-3 text-sm font-semibold text-amber-900" role="alert">
+            {{ de: 'Diese Aufgabe kann nicht angezeigt werden.', en: 'This task cannot be displayed.', hu: 'Ez a feladat nem jeleníthető meg.', ro: 'Această sarcină nu poate fi afișată.' }[lang]}
+          </div>
+        );
     }
   };
 
@@ -448,6 +452,24 @@ export default function SchoolTaskBlock({
       case 'visual_g1_coins':
       case 'visual_g1_timeline':
       case 'visual_g1_fraction':
+      case 'visual_g1_dots':
+      case 'visual_g1_dice':
+      case 'visual_g1_fingers':
+      case 'visual_g1_compare':
+      case 'visual_g1_predecessor':
+      case 'visual_g1_successor':
+      case 'visual_g1_addition_pics':
+      case 'visual_g1_subtraction_pics':
+      case 'visual_g1_decompose':
+      case 'visual_g1_completion':
+      case 'visual_g1_shapes':
+      case 'visual_g1_directions':
+      case 'visual_g1_patterns':
+      case 'visual_g1_length':
+      case 'visual_g1_weight':
+      case 'visual_g1_volume':
+      case 'visual_g1_shopping':
+      case 'visual_g1_wordproblem':
       case 'visual_g3_place_value':
       case 'visual_g3_pattern':
       case 'visual_g3_scale':
@@ -494,7 +516,15 @@ export default function SchoolTaskBlock({
       case 'visual_g7_power_grid':
       case 'visual_g7_circle':
       case 'visual_g7_cylinder_volume':
-      case 'visual_g7_statistics': {
+      case 'visual_g7_statistics':
+      case 'visual_g8_function_graph':
+      case 'visual_g8_probability_tree':
+      case 'visual_g8_quadratic_sqrt':
+      case 'visual_g8_systems_balance':
+      case 'visual_g8_transformation_grid':
+      case 'visual_g8_statistics_histogram':
+      case 'visual_g8_cylinder_surface':
+      case 'visual_g8_inequality_line': {
         return (
           <div className="space-y-3">
             {block.subQuestions.map((sq, idx) => (
@@ -512,7 +542,11 @@ export default function SchoolTaskBlock({
       }
 
       default:
-        return null;
+        return (
+          <div className="rounded-lg border border-amber-300 bg-amber-50 p-3 text-sm font-semibold text-amber-900" role="alert">
+            {{ de: 'Diese Aufgabe kann nicht angezeigt werden.', en: 'This task cannot be displayed.', hu: 'Ez a feladat nem jeleníthető meg.', ro: 'Această sarcină nu poate fi afișată.' }[lang]}
+          </div>
+        );
     }
   };
 

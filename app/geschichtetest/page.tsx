@@ -8,6 +8,7 @@ import {
   getCurriculumForCountry,
 } from "@/lib/geschichteCurriculum";
 import type { LanguageTestEngineConfig } from "@/lib/languageTestTypes";
+import { useLang } from "@/components/LanguageProvider";
 
 const BG_CHARS = ["⚔️", "🏰", "👑", "📜", "🗡️"];
 const BG_COLORS = [
@@ -38,6 +39,10 @@ const GESCHICHTE_CONFIG: LanguageTestEngineConfig = {
     { code: "DE", flag: "🇩🇪", label: "Deutschland", sub: "Note 1–6" },
     { code: "AT", flag: "🇦🇹", label: "Österreich", sub: "Note 1–5" },
     { code: "CH", flag: "🇨🇭", label: "Schweiz", sub: "Note 6–1" },
+    { code: "HU", flag: "🇭🇺", label: "Magyarország", sub: "1–5 osztályzat" },
+    { code: "RO", flag: "🇷🇴", label: "România", sub: "Note 1–10" },
+    { code: "US", flag: "🇺🇸", label: "United States", sub: "A / B / C / D / F" },
+    { code: "GB", flag: "🇬🇧", label: "United Kingdom", sub: "Grade 9–1 (GCSE)" },
   ],
   calculateMark: calculateCountryAwareMark,
 
@@ -82,5 +87,7 @@ const GESCHICHTE_CONFIG: LanguageTestEngineConfig = {
 };
 
 export default function GeschichteTestPage() {
-  return <LanguageTestEngine config={GESCHICHTE_CONFIG} />;
+  const { lang } = useLang();
+  const locale = { de: "de-DE", hu: "hu-HU", ro: "ro-RO", en: "en-US" }[lang] ?? "de-DE";
+  return <LanguageTestEngine config={{ ...GESCHICHTE_CONFIG, ttsLang: locale, dateLocale: locale }} />;
 }

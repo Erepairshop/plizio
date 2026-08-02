@@ -2,6 +2,7 @@
 import React, { useState, useEffect } from "react";
 import { motion, Reorder, AnimatePresence } from "framer-motion";
 import { AstroGameProps, LocalizedText } from "../../types";
+import { shuffleDeterministic, useTimeoutRegistry } from "../../utils";
 
 export type SortPuzzleRound = {
   id: string;
@@ -27,6 +28,7 @@ export default function SortPuzzleView({
   const [items, setItems] = useState<{id: string, label: LocalizedText}[]>([]);
   const [isChecking, setIsChecking] = useState(false);
   const [correctFlags, setCorrectFlags] = useState<Record<string, boolean>>({});
+  const scheduleTimeout = useTimeoutRegistry();
 
   if (!rounds || rounds.length === 0) return null;
   const currentRound = rounds[roundIdx];
@@ -34,8 +36,7 @@ export default function SortPuzzleView({
 
   useEffect(() => {
     if (currentRound) {
-      // Create a safely shuffled copy
-      const shuffled = [...currentRound.items].sort(() => Math.random() - 0.5);
+      const shuffled = shuffleDeterministic(currentRound.items, `${currentRound.id}-items`);
       // Ensure it's not already correct by chance
       if (shuffled.map(i => i.id).join(",") === currentRound.correctOrder.join(",")) {
         shuffled.reverse();
@@ -62,7 +63,7 @@ export default function SortPuzzleView({
     if (allCorrect) {
       setScore(s => s + 10);
       onCorrect?.();
-      setTimeout(() => {
+      scheduleTimeout(() => {
         if (roundIdx + 1 < totalRounds) {
           setRoundIdx(r => r + 1);
         } else {
@@ -71,7 +72,7 @@ export default function SortPuzzleView({
       }, 1500);
     } else {
       onWrong?.();
-      setTimeout(() => {
+      scheduleTimeout(() => {
         setIsChecking(false);
         setCorrectFlags({});
       }, 1500);

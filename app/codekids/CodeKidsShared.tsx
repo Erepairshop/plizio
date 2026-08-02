@@ -122,7 +122,7 @@ function BubbleBackground() {
 }
 
 const MAP_W = 320;
-const MAP_H = 860;
+const MAP_H = 920;
 const MAP_VB_OFFSET = 220;
 
 const CP_POS: Record<string, { x: number; y: number }> = {
@@ -144,11 +144,17 @@ function buildSmoothPath(islands: IslandDef[]): string {
   return d;
 }
 
-function IslandMapSVG({ gradeVal, islands, progress, onIsland, onCheckpoint, isUnlocked, isDone, isCpUnlocked, isCpDone, getTotalStars }: any) {
+function IslandMapSVG({ lang, islands, progress, onIsland, onCheckpoint, isUnlocked, isDone, isCpUnlocked, isCpDone, getTotalStars }: any) {
   const pathD = buildSmoothPath(islands);
+  const mapText = {
+    de: { done: "Fertig!", ready: "Test!", locked: "Test", checkpoint: "Checkpoint", island: "Insel", map: "Code-Kids-Lernkarte" },
+    hu: { done: "Kész!", ready: "Teszt!", locked: "Teszt", checkpoint: "Ellenőrző", island: "Sziget", map: "Code Kids tanulótérkép" },
+    ro: { done: "Gata!", ready: "Test!", locked: "Test", checkpoint: "Verificare", island: "Insulă", map: "Harta Code Kids" },
+    en: { done: "Done!", ready: "Test!", locked: "Test", checkpoint: "Checkpoint", island: "Island", map: "Code Kids learning map" },
+  }[lang as Lang] ?? { done: "Done!", ready: "Test!", locked: "Test", checkpoint: "Checkpoint", island: "Island", map: "Code Kids learning map" };
 
   return (
-    <svg viewBox={`0 -${MAP_VB_OFFSET} ${MAP_W} ${MAP_H}`} width="100%" style={{ minHeight: MAP_H, display: "block" }}>
+    <svg viewBox={`0 -${MAP_VB_OFFSET} ${MAP_W} ${MAP_H}`} width="100%" style={{ minHeight: MAP_H, display: "block" }} aria-label={mapText.map}>
       <path d={pathD} fill="none" stroke="#DBEAFE" strokeWidth={12} strokeLinecap="round" />
       <path d={pathD} fill="none" stroke="#60A5FA" strokeWidth={4} strokeDasharray="12 8" strokeLinecap="round" />
 
@@ -158,10 +164,14 @@ function IslandMapSVG({ gradeVal, islands, progress, onIsland, onCheckpoint, isU
         const color = done ? "#10B981" : unlocked ? "#F59E0B" : "#9CA3AF";
         const fillAlpha = done ? "#D1FAE5" : unlocked ? "#FEF3C7" : "#F3F4F6";
         return (
-          <g key={testId} onClick={() => unlocked && !done && onCheckpoint(testId)} style={{ cursor: unlocked && !done ? "pointer" : "default" }}>
+          <g key={testId} onClick={() => unlocked && !done && onCheckpoint(testId)}
+            onKeyDown={(event) => (event.key === "Enter" || event.key === " ") && unlocked && !done && onCheckpoint(testId)}
+            role={unlocked && !done ? "button" : undefined} tabIndex={unlocked && !done ? 0 : -1}
+            aria-label={`${mapText.checkpoint} ${testId.slice(-1)}: ${done ? mapText.done : unlocked ? mapText.ready : mapText.locked}`}
+            style={{ cursor: unlocked && !done ? "pointer" : "default" }}>
             <rect x={pos.x - 48} y={pos.y - 16} width={96} height={32} rx={16} fill={fillAlpha} stroke={color} strokeWidth={2} />
             <text x={pos.x - 32} y={pos.y + 5} textAnchor="middle" fontSize={14}>{done ? "✅" : unlocked ? "🚀" : "🔒"}</text>
-            <text x={pos.x + 8} y={pos.y + 5} textAnchor="middle" fontSize={11} fontWeight="bold" fill={color}>{done ? "Kész!" : unlocked ? "Teszt!" : "Teszt"}</text>
+            <text x={pos.x + 8} y={pos.y + 5} textAnchor="middle" fontSize={11} fontWeight="bold" fill={color}>{done ? mapText.done : unlocked ? mapText.ready : mapText.locked}</text>
           </g>
         );
       })}
@@ -172,7 +182,11 @@ function IslandMapSVG({ gradeVal, islands, progress, onIsland, onCheckpoint, isU
         const total = getTotalStars(progress, island.id);
 
         return (
-          <g key={island.id} onClick={() => unlocked && onIsland(island)} style={{ cursor: unlocked ? "pointer" : "default" }}>
+          <g key={island.id} onClick={() => unlocked && onIsland(island)}
+            onKeyDown={(event) => (event.key === "Enter" || event.key === " ") && unlocked && onIsland(island)}
+            role={unlocked ? "button" : undefined} tabIndex={unlocked ? 0 : -1}
+            aria-label={`${mapText.island} ${idx + 1}: ${island.name[lang as Lang] ?? island.name.en}`}
+            style={{ cursor: unlocked ? "pointer" : "default" }}>
             {unlocked && !done && <circle cx={island.svgX} cy={island.svgY} r={44} fill={island.color} opacity={0.2} />}
             {done && <circle cx={island.svgX} cy={island.svgY} r={40} fill="none" stroke="#F59E0B" strokeWidth={3} strokeDasharray="6 4" />}
             
@@ -195,7 +209,7 @@ function IslandMapSVG({ gradeVal, islands, progress, onIsland, onCheckpoint, isU
             )}
             {unlocked && (
               <text x={island.svgX} y={island.svgY + 52} textAnchor="middle" fontSize={11} fontWeight="bold" fill={total === 9 ? "#F59E0B" : island.color}>
-                {total > 0 ? `${total}/9 ⭐` : island.name.en.split(" ")[0]}
+                {total > 0 ? `${total}/9 ⭐` : (island.name[lang as Lang] ?? island.name.en).split(" ")[0]}
               </text>
             )}
           </g>
@@ -212,6 +226,7 @@ export default function CodeKidsShared({ grade: gradeProp }: { grade: number }) 
   const gradeStr = String(gradeProp);
   const gradeVal = parseInt(gradeStr, 10);
   const t = T[lang as keyof typeof T] ?? T.en;
+  const countryCode = { de: "DE", hu: "HU", ro: "RO", en: "US" }[lang as Lang] ?? "US";
 
   const validGrade = [1, 2, 3, 4].includes(gradeVal);
 
@@ -306,10 +321,10 @@ export default function CodeKidsShared({ grade: gradeProp }: { grade: number }) 
     }
 
     const qCount = mission.gameType === "star-match" ? 20 : 10;
-    const qs = api.genIslQ(activeIsland, qCount);
+    const qs = api.genIslQ(activeIsland, qCount, countryCode);
     setQuestions(qs);
     setScreen(mission.gameType as Screen);
-  }, [activeIsland]);
+  }, [activeIsland, countryCode]);
 
   const handleMissionDone = useCallback((score: number, total: number) => {
     if (!activeIsland || !activeMission) return;
@@ -349,17 +364,17 @@ export default function CodeKidsShared({ grade: gradeProp }: { grade: number }) 
   const startCheckpoint = useCallback((testId: string) => {
     setActiveTestId(testId);
     setAvatarMood("focused");
-    const qs = api.genCpQ(testId, 7);
+    const qs = api.genCpQ(testId, 7, countryCode);
     setQuestions(qs);
     setScreen("rocket-launch");
-  }, []);
+  }, [countryCode]);
 
   const startCheckpointQuiz = useCallback(() => {
     if (!activeTestId) return;
-    const qs = api.genCpQ(activeTestId, 15);
+    const qs = api.genCpQ(activeTestId, 15, countryCode);
     setQuestions(qs);
     setScreen("checkpoint-quiz");
-  }, [activeTestId]);
+  }, [activeTestId, countryCode]);
 
   const handleCheckpointDone = useCallback((score: number, total: number) => {
     if (!activeTestId) return;
@@ -389,7 +404,10 @@ export default function CodeKidsShared({ grade: gradeProp }: { grade: number }) 
     setActiveTestId(null);
   }, []);
 
-  if (!validGrade) return <div className="p-10 text-center">Invalid grade</div>;
+  if (!validGrade) {
+    const invalidGrade = { de: "Ungültige Klasse", hu: "Érvénytelen osztály", ro: "Clasă invalidă", en: "Invalid grade" }[lang as Lang] ?? "Invalid grade";
+    return <div className="p-10 text-center">{invalidGrade}</div>;
+  }
 
   const bgColor = activeIsland?.color ?? "#60A5FA";
   const bgPastel = "#060614";
@@ -405,7 +423,7 @@ export default function CodeKidsShared({ grade: gradeProp }: { grade: number }) 
             <ChevronLeft size={20} />
           </button>
           <div className="text-center">
-            <h1 className="text-xl font-black">🗺️ {t.islandMap ?? "Térkép"}</h1>
+            <h1 className="text-xl font-black">🗺️ {t.islandMap}</h1>
             <p className="text-xs text-gray-500 font-bold uppercase">{CODEKIDS_LABELS[lang] ?? CODEKIDS_LABELS.en} • {lang === "hu" ? "Osztály" : lang === "de" ? "Klasse" : lang === "ro" ? "Clasa" : "Grade"} {gradeVal}</p>
           </div>
           <div className="w-10 h-10 flex items-center justify-center rounded-full bg-white shadow font-black text-gray-600">
@@ -416,7 +434,7 @@ export default function CodeKidsShared({ grade: gradeProp }: { grade: number }) 
           <div className="max-w-sm mx-auto px-2 pb-6" style={{ minHeight: MAP_H + 40 }}>
             <div className="relative mt-8">
               <IslandMapSVG
-                gradeVal={gradeVal} islands={api.islands} progress={progress}
+                lang={lang} islands={api.islands} progress={progress}
                 onIsland={handleIslandSelect} onCheckpoint={startCheckpoint}
                 isUnlocked={api.isIslUnl} isDone={api.isIslDone} isCpUnlocked={api.isCpUnl} isCpDone={api.isCpDone} getTotalStars={api.getStars}
               />
@@ -450,12 +468,12 @@ export default function CodeKidsShared({ grade: gradeProp }: { grade: number }) 
           </motion.div>
           <div>
             <h2 className="text-3xl font-black">{activeIsland.name[lang as Lang] ?? activeIsland.name.en}</h2>
-            <p className="text-gray-500 font-bold mt-2">{activeIsland.missions.length} {t.missions ?? "Feladat"}</p>
+            <p className="text-gray-500 font-bold mt-2">{activeIsland.missions.length} {t.missions}</p>
           </div>
           <motion.button onClick={() => setScreen("mission-select")}
             className="w-full max-w-xs py-4 rounded-3xl font-black text-white text-lg flex items-center justify-center gap-2 shadow-lg"
             style={{ background: bgColor }} whileTap={{ scale: 0.95 }}>
-            {t.start ?? "Start"} <ChevronRight size={24} />
+            {t.start} <ChevronRight size={24} />
           </motion.button>
         </div>
       </div>
@@ -588,7 +606,7 @@ export default function CodeKidsShared({ grade: gradeProp }: { grade: number }) 
     <div className="min-h-screen flex flex-col relative bg-white">
       <div className="relative z-10 flex items-center gap-3 px-4 pt-5 pb-3">
         <button onClick={goToMap} className="w-10 h-10 flex items-center justify-center rounded-full bg-gray-100"><X size={20} /></button>
-        <p className="font-black text-lg text-gray-800">🚀 {t.rocketTitle ?? "Teszt"}</p>
+        <p className="font-black text-lg text-gray-800">🚀 {t.rocketTitle}</p>
       </div>
       <div className="relative z-10 flex-1 flex flex-col justify-center px-4 pb-6">
         <RocketLaunch questions={questions} color="#F59E0B" onDone={() => setScreen("checkpoint-intro")} />
@@ -600,8 +618,9 @@ export default function CodeKidsShared({ grade: gradeProp }: { grade: number }) 
     <div className="min-h-screen flex flex-col items-center justify-center bg-[#060614] text-white px-5">
       <div className="relative z-10 w-full max-w-sm flex flex-col items-center gap-6 text-center">
         <motion.div className="text-8xl">🎓</motion.div>
-        <h2 className="text-3xl font-black text-[#F59E0B]">Teszt!</h2>
-        <motion.button onClick={startCheckpointQuiz} className="w-full py-4 rounded-3xl font-black text-white text-lg bg-[#F59E0B] shadow-lg" whileTap={{ scale: 0.95 }}>Start 🚀</motion.button>
+        <h2 className="text-3xl font-black text-[#F59E0B]">{t.checkpointReady}</h2>
+        <p className="text-white/70">{t.checkpointDesc}</p>
+        <motion.button onClick={startCheckpointQuiz} className="w-full py-4 rounded-3xl font-black text-white text-lg bg-[#F59E0B] shadow-lg" whileTap={{ scale: 0.95 }}>{t.startTest} 🚀</motion.button>
       </div>
     </div>
   );
@@ -611,7 +630,7 @@ export default function CodeKidsShared({ grade: gradeProp }: { grade: number }) 
       <div className="min-h-screen flex flex-col relative bg-white">
         <div className="relative z-10 flex items-center gap-3 px-4 pt-5 pb-3">
           <button onClick={goToMap} className="w-10 h-10 flex items-center justify-center rounded-full bg-gray-100"><X size={20} /></button>
-          <p className="font-black text-lg text-gray-800">Teszt</p>
+          <p className="font-black text-lg text-gray-800">{t.checkpointTitle}</p>
         </div>
         <div className="relative z-10 flex-1 flex flex-col justify-center px-4 pb-6">
           <OrbitQuiz questions={questions} color="#F59E0B" onDone={handleCheckpointDone} onCorrect={() => setAvatarMood("happy")} onWrong={() => setAvatarMood("disappointed")} />
@@ -626,7 +645,7 @@ export default function CodeKidsShared({ grade: gradeProp }: { grade: number }) 
       <div className="relative z-10 w-full max-w-sm flex flex-col items-center gap-6 text-center">
         <motion.div className="text-8xl">🏆</motion.div>
         <h2 className="text-3xl font-black text-[#F59E0B]">{checkpointScore.score}/{checkpointScore.total}</h2>
-        <motion.button onClick={goToMap} className="w-full py-4 rounded-3xl font-black text-white text-lg bg-[#F59E0B] shadow-lg" whileTap={{ scale: 0.95 }}>Térkép 🗺️</motion.button>
+        <motion.button onClick={goToMap} className="w-full py-4 rounded-3xl font-black text-white text-lg bg-[#F59E0B] shadow-lg" whileTap={{ scale: 0.95 }}>{t.islandMap} 🗺️</motion.button>
       </div>
       <MilestonePopup />
     </div>

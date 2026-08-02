@@ -1,10 +1,12 @@
 // lib/astroGeschichte8.ts — AstroGeschichte K8 island definitions & progress
 import type { IslandDef, Lang, MathQuestion, GeschichteProgress } from "./astroGeschichte";
 import {
+  buildGeschichteSaveKey,
+  createGeschichteVariantContent,
   loadGeschichteProgress, saveGeschichteProgress, isMissionDone, isIslandDone,
   isIslandUnlocked, isCheckpointUnlocked, isCheckpointDone,
   completeMission, islandTotalStars, completeTest,
-  generateGeschichteIslandQuestions, generateGeschichteCheckpointQuestions,
+  generateGeschichteIslandQuestions, generateGeschichteCheckpointQuestions, getGeschichteVariantProfile,
 } from "./astroGeschichte";
 
 export const K8_SAVE_KEY = "astrogeschichte_k8_v1";
@@ -132,8 +134,10 @@ export const K8_ISLANDS: IslandDef[] = [
   },
 ];
 
-export function loadK8Progress(): GeschichteProgress { return loadGeschichteProgress(K8_SAVE_KEY, K8_ISLANDS); }
-export function saveK8Progress(p: GeschichteProgress): void { saveGeschichteProgress(K8_SAVE_KEY, p); }
+export function getK8ProgressKey(variantId?: string): string { return buildGeschichteSaveKey(K8_SAVE_KEY, variantId); }
+export function getK8VariantContent(lang: Lang) { return createGeschichteVariantContent(8, lang, K8_ISLANDS, K8_CHECKPOINT_MAP, K8_CHECKPOINT_TOPICS); }
+export function loadK8Progress(variantId?: string): GeschichteProgress { return loadGeschichteProgress(getK8ProgressKey(variantId), K8_ISLANDS); }
+export function saveK8Progress(p: GeschichteProgress, variantId?: string): void { saveGeschichteProgress(getK8ProgressKey(variantId), p); }
 export function isMissionDoneK8(p: GeschichteProgress, i: string, m: string): boolean { return isMissionDone(p, i, m); }
 export function isIslandDoneK8(p: GeschichteProgress, i: string): boolean { return isIslandDone(p, i); }
 export function isIslandUnlockedK8(p: GeschichteProgress, i: string): boolean { return isIslandUnlocked(p, K8_ISLANDS, i); }
@@ -142,5 +146,5 @@ export function isCheckpointDoneK8(p: GeschichteProgress, t: string): boolean { 
 export function completeMissionK8(p: GeschichteProgress, i: string, m: string, s = 1): GeschichteProgress { return completeMission(p, K8_ISLANDS, i, m, s); }
 export function islandTotalStarsK8(p: GeschichteProgress, i: string): number { return islandTotalStars(p, K8_ISLANDS, i); }
 export function completeTestK8(p: GeschichteProgress, t: string): GeschichteProgress { return completeTest(p, t); }
-export function generateIslandQuestionsK8(island: IslandDef, _lang: Lang, count = 10): MathQuestion[] { return generateGeschichteIslandQuestions(island, 8, count); }
-export function generateCheckpointQuestionsK8(testId: string, _lang: Lang, count = 10): MathQuestion[] { return generateGeschichteCheckpointQuestions(testId, K8_CHECKPOINT_TOPICS, 8, count); }
+export function generateIslandQuestionsK8(island: IslandDef, lang: Lang, count = 10): MathQuestion[] { return generateGeschichteIslandQuestions(island, 8, count, getGeschichteVariantProfile(lang)); }
+export function generateCheckpointQuestionsK8(testId: string, lang: Lang, count = 10, checkpointTopics: Record<string, string[]> = K8_CHECKPOINT_TOPICS): MathQuestion[] { return generateGeschichteCheckpointQuestions(testId, checkpointTopics, 8, count, getGeschichteVariantProfile(lang)); }

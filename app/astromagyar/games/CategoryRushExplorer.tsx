@@ -1,5 +1,5 @@
 "use client";
-import React, { memo, useState, useCallback, useRef, useMemo } from "react";
+import React, { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { useLang } from "@/components/LanguageProvider";
 import { fireWrongAnswer } from "@/components/AITutorOverlay";
@@ -16,6 +16,7 @@ interface CategoryRushExplorerProps {
   color: string;
   onDone: (score: number, total: number) => void;
   lang?: string;
+  /** Retained for older content definitions; rounds are intentionally untimed. */
   timeLimit?: number;
 }
 
@@ -24,41 +25,37 @@ const LABELS = {
     sortWord: "Which category?",
     correct: "Yes!",
     notQuite: "Not quite...",
-    timeUp: "Time's up!",
     score: "Score",
-    time: "Time",
     didYouKnow: "Did you know?",
     learnFromThis: "Learn from this!",
+    noTasks: "No tasks are available for this round.",
   },
   hu: {
     sortWord: "Melyik kategória?",
     correct: "Igen!",
     notQuite: "Nem egészen...",
-    timeUp: "Lejárt az idő!",
     score: "Pont",
-    time: "Idő",
     didYouKnow: "Tudtad?",
     learnFromThis: "Tanulj ebből!",
+    noTasks: "Ehhez a körhöz még nincs elérhető feladat.",
   },
   de: {
     sortWord: "Welche Kategorie?",
     correct: "Ja!",
     notQuite: "Nicht ganz...",
-    timeUp: "Zeit ist um!",
     score: "Punkte",
-    time: "Zeit",
     didYouKnow: "Wusstest du?",
     learnFromThis: "Lerne daraus!",
+    noTasks: "Für diese Runde sind keine Aufgaben verfügbar.",
   },
   ro: {
     sortWord: "Ce categorie?",
     correct: "Da!",
     notQuite: "Nu chiar...",
-    timeUp: "Timpul a expirat!",
     score: "Scor",
-    time: "Timp",
     didYouKnow: "Știai?",
     learnFromThis: "Învață din asta!",
+    noTasks: "Nu există exerciții disponibile pentru această rundă.",
   },
 } as const;
 
@@ -68,7 +65,6 @@ const CategoryRushExplorer = memo(function CategoryRushExplorer({
   color,
   onDone,
   lang: langProp,
-  timeLimit,
 }: CategoryRushExplorerProps) {
   const { lang: ctxLang } = useLang();
   const lang = (langProp || ctxLang) as keyof typeof LABELS;
@@ -79,35 +75,13 @@ const CategoryRushExplorer = memo(function CategoryRushExplorer({
   const [showExplanation, setShowExplanation] = useState(false);
   const [showDiscovery, setShowDiscovery] = useState(false);
   const [currentDiscovery, setCurrentDiscovery] = useState("");
-  const [timeLeft, setTimeLeft] = useState(timeLimit ?? 0);
-  const [gameEnded, setGameEnded] = useState(false);
   const [flashIdx, setFlashIdx] = useState<number | null>(null);
   const [flashIsCorrect, setFlashIsCorrect] = useState(false);
 
-  const wrongCountRef = useRef(0);
   const scoreRef = useRef(0);
-  const timerRef = useRef<NodeJS.Timeout | null>(null);
 
   const currentItem = items[idx];
-  const progress = idx / items.length;
-
-  // Start timer on mount
-  React.useEffect(() => {
-    if (timeLimit && !gameEnded) {
-      timerRef.current = setInterval(() => {
-        setTimeLeft((prev) => {
-          if (prev <= 1) {
-            setGameEnded(true);
-            return 0;
-          }
-          return prev - 1;
-        });
-      }, 1000);
-      return () => {
-        if (timerRef.current) clearInterval(timerRef.current);
-      };
-    }
-  }, [timeLimit, gameEnded]);
+  const progress = items.length > 0 ? idx / items.length : 0;
 
   // Auto-advance after explanation
   React.useEffect(() => {
@@ -130,21 +104,17 @@ const CategoryRushExplorer = memo(function CategoryRushExplorer({
   }, [showDiscovery]);
 
   const advanceToNext = useCallback(() => {
-    if (idx + 1 >= items.length || gameEnded) {
-      if (timerRef.current) clearInterval(timerRef.current);
-      // Real scoring: score = max(1, totalRounds - min(wrongCount, totalRounds - 1))
-      const totalRounds = items.length;
-      const finalScore = Math.max(1, totalRounds - Math.min(wrongCountRef.current, totalRounds - 1));
-      onDone(finalScore, totalRounds);
+    if (idx + 1 >= items.length) {
+      onDone(scoreRef.current, items.length);
     } else {
       setIdx((i) => i + 1);
       setShowExplanation(false);
     }
-  }, [idx, items.length, gameEnded, onDone]);
+  }, [idx, items.length, onDone]);
 
   const handleCategoryTap = useCallback(
     (categoryIdx: number) => {
-      if (showExplanation || gameEnded) return;
+      if (showExplanation) return;
 
       const isCorrect = categoryIdx === currentItem.categoryIndex;
 
@@ -154,11 +124,12 @@ const CategoryRushExplorer = memo(function CategoryRushExplorer({
       setTimeout(() => setFlashIdx(null), 800);
 
       if (isCorrect) {
+        scoreRef.current += 1;
+        setScore(scoreRef.current);
         // Correct: advance after flash
         setTimeout(() => advanceToNext(), 800);
       } else {
         // Wrong: increment error count and show explanation + discovery
-        wrongCountRef.current += 1;
         fireWrongAnswer({
           question: currentItem.text,
           wrongAnswer: categories[categoryIdx].label,
@@ -167,35 +138,29 @@ const CategoryRushExplorer = memo(function CategoryRushExplorer({
           lang: lang as string,
         });
         setShowExplanation(true);
-        if (currentItem.explanation) {
-          setCurrentDiscovery(currentItem.explanation);
-        }
+        setCurrentDiscovery(currentItem.explanation ?? "");
       }
     },
-    [showExplanation, gameEnded, currentItem.categoryIndex, currentItem.explanation, advanceToNext]
+    [showExplanation, currentItem, advanceToNext, categories, lang, t.sortWord]
   );
 
-  if (!currentItem) return null;
-
-  const timerColor =
-    timeLeft > timeLimit! * 0.6 ? "#00FF88" : timeLeft > timeLimit! * 0.3 ? "#FFD700" : "#FF4444";
+  if (!currentItem) {
+    return (
+      <div className="w-full max-w-sm mx-auto rounded-2xl border border-white/15 bg-white/5 p-6 text-center text-sm font-semibold text-white/70" role="status">
+        {t.noTasks}
+      </div>
+    );
+  }
 
   return (
     <div className="flex flex-col gap-6 w-full max-w-sm mx-auto">
-      {/* Header: Score + Timer */}
+      {/* Header */}
       <div className="flex items-center justify-between gap-3">
         <div className="flex-1">
           <div className="text-xs font-bold uppercase text-white/60 mb-1">{t.score}</div>
           <div className="text-3xl font-black text-white">{score}</div>
         </div>
-        {timeLimit ? (
-          <div className="flex-1 text-right">
-            <div className="text-xs font-bold uppercase text-white/60 mb-1">{t.time}</div>
-            <div className="text-3xl font-black" style={{ color: timerColor }}>
-              {timeLeft}s
-            </div>
-          </div>
-        ) : null}
+        <div className="text-sm font-bold text-white/60">{idx + 1}/{items.length}</div>
       </div>
 
       {/* Progress bar */}
@@ -205,17 +170,6 @@ const CategoryRushExplorer = memo(function CategoryRushExplorer({
         animate={{ width: `${progress * 100}%` }}
         style={{ background: color }}
       />
-
-      {/* Timer bar (if timeLimit) */}
-      {timeLimit ? (
-        <motion.div
-          className="h-1 rounded-full"
-          initial={{ width: "100%" }}
-          animate={{ width: `${(timeLeft / timeLimit) * 100}%` }}
-          style={{ background: timerColor }}
-          transition={{ duration: 1 }}
-        />
-      ) : null}
 
       {/* Word card - centered, large */}
       <AnimatePresence mode="wait">
@@ -276,7 +230,7 @@ const CategoryRushExplorer = memo(function CategoryRushExplorer({
       </AnimatePresence>
 
       {/* Category buttons */}
-      <div className={`grid gap-2 ${categories.length === 2 ? "grid-cols-2" : "grid-cols-4"}`}>
+      <div className={`grid gap-2 ${categories.length === 2 ? "grid-cols-2" : categories.length === 3 ? "grid-cols-1 sm:grid-cols-3" : "grid-cols-2 sm:grid-cols-4"}`}>
         {categories.map((cat, i) => {
           const isCorrect = i === currentItem.categoryIndex;
           const isFlashing = flashIdx === i;
@@ -285,7 +239,7 @@ const CategoryRushExplorer = memo(function CategoryRushExplorer({
             <motion.button
               key={i}
               onClick={() => handleCategoryTap(i)}
-              disabled={showExplanation || gameEnded}
+              disabled={showExplanation}
               className="py-4 px-3 rounded-2xl font-bold text-sm text-center transition-colors"
               style={{
                 background: isFlashing
@@ -304,7 +258,7 @@ const CategoryRushExplorer = memo(function CategoryRushExplorer({
                 }`,
                 color: isFlashing ? flashColor : cat.color,
               }}
-              whileTap={!showExplanation && !gameEnded ? { scale: 0.95 } : {}}
+              whileTap={!showExplanation ? { scale: 0.95 } : {}}
             >
               {cat.label}
             </motion.button>
@@ -312,24 +266,6 @@ const CategoryRushExplorer = memo(function CategoryRushExplorer({
         })}
       </div>
 
-      {/* Game ended message */}
-      <AnimatePresence>
-        {gameEnded ? (
-          <motion.div
-            initial={{ opacity: 0 }}
-            animate={{ opacity: 1 }}
-            className="rounded-2xl p-4 text-center"
-            style={{ background: `${color}20`, border: `1.5px solid ${color}` }}
-          >
-            <p className="text-base font-black" style={{ color }}>
-              {t.timeUp}
-            </p>
-            <p className="text-xs font-bold uppercase text-white/60 mt-2">
-              {score}/{items.length}
-            </p>
-          </motion.div>
-        ) : null}
-      </AnimatePresence>
     </div>
   );
 });

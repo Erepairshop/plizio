@@ -25,7 +25,8 @@ const DICT = {
     start: "Engage Reactor",
     exit: "Abort Mission",
     tryAgain: "Incorrect Frequency!",
-    correct: "Match Detected!"
+    correct: "Match Detected!",
+    core: "Reactor Core"
   },
   hu: {
     title: "Tört Reaktor",
@@ -38,7 +39,8 @@ const DICT = {
     start: "Reaktor Indítása",
     exit: "Küldetés Megszakítása",
     tryAgain: "Hibás Frekvencia!",
-    correct: "Egyezés Észlelve!"
+    correct: "Egyezés Észlelve!",
+    core: "Reaktormag"
   },
   de: {
     title: "Bruchreaktor",
@@ -51,7 +53,8 @@ const DICT = {
     start: "Reaktor Starten",
     exit: "Mission Abbrechen",
     tryAgain: "Falsche Frequenz!",
-    correct: "Übereinstimmung!"
+    correct: "Übereinstimmung!",
+    core: "Reaktorkern"
   },
   ro: {
     title: "Reactorul de Fracții",
@@ -64,7 +67,8 @@ const DICT = {
     start: "Activare Reactor",
     exit: "Abandonare Misiune",
     tryAgain: "Frecvență Incorectă!",
-    correct: "Potrivire Detectată!"
+    correct: "Potrivire Detectată!",
+    core: "Miezul reactorului"
   }
 };
 
@@ -212,11 +216,11 @@ export default function FractionReactorGame({ grade, lang, onDone }: Props) {
 
   const dropZones: DropZone[] = [{
     id: 'reactor-core',
-    label: 'Reactor Core'
+    label: T.core
   }];
 
   return (
-    <div className="relative w-full max-w-4xl mx-auto h-[650px] bg-slate-950 overflow-hidden border-2 border-slate-800 rounded-2xl shadow-2xl font-sans select-none">
+    <div className="relative w-full max-w-4xl mx-auto h-[calc(100dvh-2rem)] min-h-[520px] max-h-[650px] bg-slate-950 overflow-hidden border-2 border-slate-800 rounded-2xl shadow-2xl font-sans select-none">
       {/* Background stars */}
       <div className="absolute inset-0 pointer-events-none opacity-40">
         {Array.from({ length: 40 }).map((_, i) => (
@@ -237,7 +241,7 @@ export default function FractionReactorGame({ grade, lang, onDone }: Props) {
           <span className="text-3xl font-black text-cyan-400 drop-shadow-[0_0_8px_rgba(34,211,238,0.5)]">{score}</span>
         </div>
 
-        <div className="flex flex-col items-center bg-slate-900/80 px-8 py-2 rounded-xl border border-slate-700/50 shadow-lg backdrop-blur-sm">
+        <div className="flex flex-col items-center bg-slate-900/80 px-3 sm:px-8 py-2 rounded-xl border border-slate-700/50 shadow-lg backdrop-blur-sm">
           <span className="text-slate-400 text-xs uppercase tracking-widest font-bold mb-2">{T.target}</span>
           <div className="flex flex-col items-center leading-none text-4xl font-black text-white drop-shadow-[0_0_10px_rgba(255,255,255,0.3)]">
             <span>{target.num}</span>
@@ -259,7 +263,7 @@ export default function FractionReactorGame({ grade, lang, onDone }: Props) {
       <AnimatePresence>
         {status === 'start' && (
           <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} className="absolute inset-0 bg-slate-950/80 backdrop-blur-sm flex flex-col items-center justify-center z-50">
-            <h1 className="text-5xl md:text-6xl font-black mb-8 text-transparent bg-clip-text bg-gradient-to-br from-cyan-400 to-blue-600 drop-shadow-[0_0_15px_rgba(34,211,238,0.4)] text-center px-4">
+            <h1 className="text-3xl sm:text-5xl md:text-6xl font-black mb-6 sm:mb-8 text-transparent bg-clip-text bg-gradient-to-br from-cyan-400 to-blue-600 drop-shadow-[0_0_15px_rgba(34,211,238,0.4)] text-center px-4">
               {T.title}
             </h1>
             <button onClick={startGame} className="px-10 py-4 bg-gradient-to-r from-blue-600 to-cyan-600 hover:from-blue-500 hover:to-cyan-500 text-white font-black rounded-full text-xl uppercase tracking-wider transition-all hover:scale-105 hover:shadow-[0_0_20px_rgba(34,211,238,0.6)] active:scale-95 mb-4">
@@ -275,7 +279,7 @@ export default function FractionReactorGame({ grade, lang, onDone }: Props) {
 
         {status === 'won' && (
           <motion.div initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }} exit={{ opacity: 0 }} className="absolute inset-0 bg-slate-950/90 backdrop-blur-md flex flex-col items-center justify-center z-50">
-            <h2 className="text-5xl font-black mb-2 text-emerald-400 drop-shadow-[0_0_15px_rgba(52,211,153,0.6)] uppercase tracking-widest text-center">
+            <h2 className="text-3xl sm:text-5xl font-black mb-2 text-emerald-400 drop-shadow-[0_0_15px_rgba(52,211,153,0.6)] uppercase tracking-widest text-center">
               {T.won}
             </h2>
             <p className="text-2xl text-slate-300 font-bold mb-10">{T.score}: <span className="text-cyan-400">{score}</span></p>
@@ -292,7 +296,7 @@ export default function FractionReactorGame({ grade, lang, onDone }: Props) {
 
         {status === 'gameover' && (
           <motion.div initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }} exit={{ opacity: 0 }} className="absolute inset-0 bg-slate-950/90 backdrop-blur-md flex flex-col items-center justify-center z-50">
-            <h2 className="text-5xl font-black mb-2 text-rose-500 drop-shadow-[0_0_15px_rgba(244,63,94,0.6)] uppercase tracking-widest text-center">
+            <h2 className="text-3xl sm:text-5xl font-black mb-2 text-rose-500 drop-shadow-[0_0_15px_rgba(244,63,94,0.6)] uppercase tracking-widest text-center">
               {T.gameOver}
             </h2>
             <p className="text-2xl text-slate-300 font-bold mb-10">{T.score}: <span className="text-cyan-400">{score}</span></p>
@@ -310,7 +314,7 @@ export default function FractionReactorGame({ grade, lang, onDone }: Props) {
       </AnimatePresence>
 
       {status === 'playing' && (
-        <div className="w-full h-full pt-32 flex flex-col items-center justify-between pb-12 px-4">
+        <div className="w-full h-full pt-28 sm:pt-32 flex flex-col items-center justify-between pb-6 sm:pb-12 px-2 sm:px-4">
           <DragAndDropContainer
             items={isCorrectDrop ? [] : dragItems}
             zones={dropZones}
@@ -338,7 +342,7 @@ export default function FractionReactorGame({ grade, lang, onDone }: Props) {
 
               return (
                 <div className="relative flex flex-col items-center">
-                  <div className={`w-48 h-48 rounded-full border-4 flex items-center justify-center bg-slate-900/80 transition-all duration-300 ${ringColor} ${glowColor} relative overflow-hidden`}>
+                  <div className={`w-36 h-36 sm:w-48 sm:h-48 rounded-full border-4 flex items-center justify-center bg-slate-900/80 transition-all duration-300 ${ringColor} ${glowColor} relative overflow-hidden`}>
                     {/* Inner core animation */}
                     <motion.div 
                       animate={{ 

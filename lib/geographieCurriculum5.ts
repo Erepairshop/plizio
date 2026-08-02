@@ -38,15 +38,15 @@ const K5: GeographieTheme[] = [
   },
   {
     id: "germany_landscapes",
-    name: { de: "Deutschland: Landschaften", hu: "Magyarország tájai", ro: "Peisajele României", en: "USA: Landscapes" },
+    name: { de: "Landschaften und Regionen", hu: "Tájak és régiók", ro: "Peisaje și regiuni", en: "Landscapes and Regions" },
     icon: "⛰️",
     color: "#F59E0B",
     subtopics: [
-      { id: "germany_states", name: { de: "Bundesländer & Landeshauptstädte", en: "States & State Capitals", hu: "Megyék és megyeszékhelyek", ro: "Județe și reședințe" }, questions: [], hasGenerator: true },
-      { id: "coasts_north_baltic", name: { de: "Nord- und Ostsee", en: "Coasts & Great Lakes", hu: "Tavak és folyók", ro: "Litoralul Mării Negre" }, questions: [], hasGenerator: true },
-      { id: "lowlands_north", name: { de: "Norddeutsches Tiefland", en: "Great Plains", hu: "Az Alföld", ro: "Câmpia Română" }, questions: [], hasGenerator: true },
-      { id: "central_uplands", name: { de: "Mittelgebirge", en: "Appalachian Mountains", hu: "Középhegységeink", ro: "Dealuri și podișuri" }, questions: [], hasGenerator: true },
-      { id: "alps_foothills", name: { de: "Alpen und Alpenvorland", en: "Rocky Mountains", hu: "Legmagasabb hegyeink", ro: "Munții Carpați" }, questions: [], hasGenerator: true },
+      { id: "germany_states", name: { de: "Regionen und Hauptorte", en: "Regions and Key Centers", hu: "Régiók és központok", ro: "Regiuni și centre" }, questions: [], hasGenerator: true },
+      { id: "coasts_north_baltic", name: { de: "Küsten, Seen und Flüsse", en: "Coasts, Lakes and Rivers", hu: "Partok, tavak és folyók", ro: "Coaste, lacuri și râuri" }, questions: [], hasGenerator: true },
+      { id: "lowlands_north", name: { de: "Ebenen und Tiefländer", en: "Plains and Lowlands", hu: "Síkságok és alföldek", ro: "Câmpii și zone joase" }, questions: [], hasGenerator: true },
+      { id: "central_uplands", name: { de: "Hügel- und Mittelgebirgsräume", en: "Hills and Uplands", hu: "Dombságok és középhegységek", ro: "Dealuri și podișuri" }, questions: [], hasGenerator: true },
+      { id: "alps_foothills", name: { de: "Gebirge und Hochlagen", en: "Mountains and Highlands", hu: "Hegységek és magasabb tájak", ro: "Munți și zone înalte" }, questions: [], hasGenerator: true },
     ],
   },
   {
@@ -67,8 +67,8 @@ const K5: GeographieTheme[] = [
     icon: "🇪🇺",
     color: "#8B5CF6",
     subtopics: [
-      { id: "europe_countries_capitals", name: { de: "Länder und Hauptstädte", en: "Countries & Capitals (Americas)", hu: "Országok és fővárosok", ro: "Țări și capitale" }, questions: [], hasGenerator: true },
-      { id: "europe_mountains_rivers", name: { de: "Gebirge und Flüsse", en: "Mountains & Rivers (Americas)", hu: "Hegységek és folyók", ro: "Munți și fluvii" }, questions: [], hasGenerator: true },
+      { id: "europe_countries_capitals", name: { de: "Länder und Hauptstädte", en: "Countries and Capitals", hu: "Országok és fővárosok", ro: "Țări și capitale" }, questions: [], hasGenerator: true },
+      { id: "europe_mountains_rivers", name: { de: "Gebirge und Flüsse", en: "Mountains and Rivers", hu: "Hegységek és folyók", ro: "Munți și fluvii" }, questions: [], hasGenerator: true },
       { id: "europe_climates", name: { de: "Klimazonen Europas", en: "European Climates", hu: "Európa éghajlatai", ro: "Climele Europei" }, questions: [], hasGenerator: true },
       { id: "eu_basics", name: { de: "Die Europäische Union", en: "EU Basics", hu: "Európai Unió alapok", ro: "Bazele UE" }, questions: [], hasGenerator: true },
     ],

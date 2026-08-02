@@ -164,7 +164,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_b2: "Amikor egy izom megfeszül, megrövidül és húz.",
     t3_b3: "Még a mosolygáshoz is rengeteg izomra van szükségünk!",
     t3_inst: "Keresd meg és jelöld meg a mondatban az 'izmok' és a 'csontokat' szavakat!",
-    t3_tok0: "Az", t3_tok1: "izmok", t3_tok2: "húzzák", t3_tok3: "a", t3_tok4: "csontokat", t3_tok5: "mozgáskor.",
+    t3_tok0: "Az", t3_tok1: "izmok", t3_tok2: "húzzák", t3_tok3: "a", t3_tok4: "csontokat", t3_tok5: "amikor", t3_tok6: "mozgunk.",
     t3_q: "Mik mozgatják a csontjainkat?",
     t3_q_a: "Az izmok", t3_q_b: "A tüdő", t3_q_c: "A bőr", t3_q_d: "A vér",
 

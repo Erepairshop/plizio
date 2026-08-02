@@ -3,6 +3,7 @@
 import React, { useState, useEffect, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { AstroGameProps, LocalizedText } from "../../types";
+import { shuffleDeterministic, useTimeoutRegistry } from "../../utils";
 
 export type QuickTapItem = {
   id: string;
@@ -17,15 +18,6 @@ export type QuickTapRound = {
   items: QuickTapItem[];
 };
 
-function shuffle<T>(arr: T[]): T[] {
-  const a = [...arr];
-  for (let i = a.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [a[i], a[j]] = [a[j], a[i]];
-  }
-  return a;
-}
-
 export default function QuickTapView({
   rounds,
   color,
@@ -38,12 +30,13 @@ export default function QuickTapView({
   const [tappedIds, setTappedIds] = useState<Set<string>>(new Set());
   const [errorIds, setErrorIds] = useState<Set<string>>(new Set());
   const [score, setScore] = useState(0);
+  const scheduleTimeout = useTimeoutRegistry();
 
   const currentRound = rounds[roundIdx];
 
   const shuffledItems = useMemo(() => {
     if (!currentRound) return [];
-    return shuffle(currentRound.items);
+    return shuffleDeterministic(currentRound.items, `${currentRound.id}-items`);
   }, [currentRound?.id]);
 
   const targetCount = useMemo(() => {
@@ -79,14 +72,14 @@ export default function QuickTapView({
       setScore(nextScore);
 
       if (newTapped.size === targetCount) {
-        setTimeout(() => handleNextRound(nextScore), 800);
+        scheduleTimeout(() => handleNextRound(nextScore), 800);
       }
     } else {
       onWrong?.();
       setErrorIds((prev) => new Set(prev).add(item.id));
       setScore((s) => Math.max(0, s - 2));
 
-      setTimeout(() => {
+      scheduleTimeout(() => {
         setErrorIds((prev) => {
           const updated = new Set(prev);
           updated.delete(item.id);
@@ -125,7 +118,7 @@ export default function QuickTapView({
             className="h-full rounded-full"
             style={{ backgroundColor: color || "#4ade80" }}
             initial={{ width: 0 }}
-            animate={{ width: `${(tappedIds.size / targetCount) * 100}%` }}
+            animate={{ width: `${targetCount > 0 ? (tappedIds.size / targetCount) * 100 : 100}%` }}
             transition={{ duration: 0.3 }}
           />
         </div>

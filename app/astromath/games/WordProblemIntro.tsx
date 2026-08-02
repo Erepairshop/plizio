@@ -64,7 +64,7 @@ const AdditionSvg = memo(function AdditionSvg() {
 
 const SubtractionSvg = memo(function SubtractionSvg() {
   return (
-    <svg width="100%" viewBox="0 0 240 160">
+    <svg width="100%" viewBox="0 0 240 175">
       <defs>
         <linearGradient id="subG" x1="0%" y1="0%" x2="100%" y2="100%">
           <stop offset="0%" stopColor="#EC4899" stopOpacity="0.12" />
@@ -110,7 +110,15 @@ const SubtractionSvg = memo(function SubtractionSvg() {
 
 // ─── SVG: Mixed Problem (Number Line) ─────────────────────────────────────────────
 
-const MixedSvg = memo(function MixedSvg() {
+const MIXED_SVG_LABELS = {
+  de: { start: "Start", end: "Ziel", line1: "6 Vögel sitzen auf dem Zaun", line2: "3 fliegen weg → Wie viele bleiben?" },
+  en: { start: "Start", end: "End", line1: "6 birds sit on the fence", line2: "3 fly away → How many are left?" },
+  hu: { start: "Kezdés", end: "Cél", line1: "6 madár ül a kerítésen", line2: "3 elrepül → Hány marad?" },
+  ro: { start: "Start", end: "Final", line1: "6 păsări stau pe gard", line2: "3 zboară → Câte rămân?" },
+};
+
+const MixedSvg = memo(function MixedSvg({ lang = "en" }: { lang?: string }) {
+  const l = MIXED_SVG_LABELS[lang as keyof typeof MIXED_SVG_LABELS] ?? MIXED_SVG_LABELS.en;
   return (
     <svg width="100%" viewBox="0 0 240 160">
       <defs>
@@ -141,7 +149,7 @@ const MixedSvg = memo(function MixedSvg() {
 
       {/* Start position: 8 (highlighted) */}
       <circle cx="100" cy="47" r="4.5" fill="#6366F1" />
-      <text x="100" y="35" fontSize="12" fontWeight="bold" fill="#6366F1" textAnchor="middle">Start: 8</text>
+      <text x="100" y="35" fontSize="12" fontWeight="bold" fill="#6366F1" textAnchor="middle">{l.start}: 8</text>
 
       {/* Jump indicator: +5 */}
       <path d="M 100 47 Q 140 20 180 47" stroke="#6366F1" strokeWidth="2.5" fill="none" strokeDasharray="5,3" />
@@ -149,12 +157,12 @@ const MixedSvg = memo(function MixedSvg() {
 
       {/* End position: 13 (highlighted) */}
       <circle cx="180" cy="47" r="4.5" fill="#10B981" />
-      <text x="180" y="35" fontSize="12" fontWeight="bold" fill="#10B981" textAnchor="middle">End: 13</text>
+      <text x="180" y="35" fontSize="12" fontWeight="bold" fill="#10B981" textAnchor="middle">{l.end}: 13</text>
 
       {/* Question text */}
       <rect x="50" y="100" width="140" height="50" fill="rgba(99,102,241,0.1)" rx="8" />
-      <text x="120" y="120" fontSize="13" fontWeight="bold" fill="#6366F1" textAnchor="middle">6 birds on fence</text>
-      <text x="120" y="138" fontSize="13" fontWeight="bold" fill="#6366F1" textAnchor="middle">3 fly away → How many left?</text>
+      <text x="120" y="120" fontSize="11" fontWeight="bold" fill="#6366F1" textAnchor="middle">{l.line1}</text>
+      <text x="120" y="138" fontSize="10" fontWeight="bold" fill="#6366F1" textAnchor="middle">{l.line2}</text>
     </svg>
   );
 });
@@ -432,7 +440,13 @@ const WordProblemIntro = memo(function WordProblemIntro({
   onDone: (s: number, t: number) => void;
   lang?: string;
 }) {
-  return <ExplorerEngine def={DEF} grade={1} explorerId="math_g1_wordproblem" color={color} lang={lang} onDone={onDone} />;
+  const localizedDef: ExplorerDef = {
+    ...DEF,
+    topics: DEF.topics.map((topic, index) =>
+      index === 2 ? { ...topic, svg: () => <MixedSvg lang={lang} /> } : topic
+    ),
+  };
+  return <ExplorerEngine def={localizedDef} grade={1} explorerId="math_g1_wordproblem" color={color} lang={lang} onDone={onDone} />;
 });
 
 export default WordProblemIntro;

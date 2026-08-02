@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState, useEffect, useMemo } from "react";
+import React, { useState, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight, CheckCircle2, XCircle } from "lucide-react";
 import { getInfoK1Questions } from "@/lib/informatikaCurriculum1";
@@ -18,41 +18,40 @@ interface Props {
 }
 
 export default function GenericInfoExplorer({ island, grade, onDone, color = "#3B82F6", lang = "hu" }: Props) {
-  const l = (lang as Lang) || "hu";
+  const l: Lang = ["de", "en", "hu", "ro"].includes(lang) ? (lang as Lang) : "hu";
+  const countryCode = { de: "DE", hu: "HU", ro: "RO", en: "US" }[l] ?? "US";
+  const labels = {
+    de: { explore: "Erkundung", grade: "Klasse", soon: "Demnächst...", empty: "Für diese Mission sind noch keine Aufgaben verfügbar.", answer: "Antwort eingeben", check: "Prüfen", next: "WEITER", finish: "BEENDEN" },
+    hu: { explore: "Felfedezés", grade: "Osztály", soon: "Hamarosan...", empty: "Ehhez a küldetéshez még nincsenek feladatok.", answer: "Írd be a választ", check: "Ellenőrzés", next: "KÖVETKEZŐ", finish: "BEFEJEZÉS" },
+    ro: { explore: "Explorare", grade: "Clasa", soon: "În curând...", empty: "Nu există încă exerciții pentru această misiune.", answer: "Scrie răspunsul", check: "Verifică", next: "URMĂTORUL", finish: "FINALIZARE" },
+    en: { explore: "Explorer", grade: "Grade", soon: "Coming soon...", empty: "No questions are available for this mission yet.", answer: "Type your answer", check: "Check", next: "NEXT", finish: "FINISH" },
+  }[l] ?? { explore: "Explorer", grade: "Grade", soon: "Coming soon...", empty: "No questions are available for this mission yet.", answer: "Type your answer", check: "Check", next: "NEXT", finish: "FINISH" };
   
   const questions = useMemo(() => {
     const topicKeys = island.topicKeys || [];
-    if (grade === 1) return getInfoK1Questions(topicKeys, 10);
-    if (grade === 2) return getInfoK2Questions(topicKeys, 10);
-    if (grade === 3) return getInfoK3Questions(topicKeys, 10);
-    if (grade === 4) return getInfoK4Questions(topicKeys, 10);
+    if (grade === 1) return getInfoK1Questions(topicKeys, 10, countryCode);
+    if (grade === 2) return getInfoK2Questions(topicKeys, 10, countryCode);
+    if (grade === 3) return getInfoK3Questions(topicKeys, 10, countryCode);
+    if (grade === 4) return getInfoK4Questions(topicKeys, 10, countryCode);
     return [];
-  }, [island.topicKeys, grade]);
+  }, [island.topicKeys, grade, countryCode]);
 
   const [currentIndex, setCurrentIndex] = useState(0);
   const [score, setScore] = useState(0);
   const [selectedOption, setSelectedOption] = useState<number | null>(null);
   const [isAnswered, setIsAnswered] = useState(false);
   const [showFeedback, setShowFeedback] = useState<"correct" | "wrong" | null>(null);
-
-  useEffect(() => {
-    if (questions.length === 0) {
-      const timer = setTimeout(() => {
-        onDone(0, 0);
-      }, 2000);
-      return () => clearTimeout(timer);
-    }
-  }, [questions, onDone]);
+  const [typedAnswer, setTypedAnswer] = useState("");
 
   if (questions.length === 0) {
     return (
       <div className="flex flex-col items-center justify-center h-64 text-white bg-[#060614] rounded-2xl border border-white/10 p-8 text-center">
         <div className="text-4xl mb-4">🚧</div>
         <h3 className="text-xl font-bold mb-2">
-          {l === "hu" ? "Hamarosan..." : l === "de" ? "Demnächst..." : l === "ro" ? "În curând..." : "Coming Soon..."}
+          {labels.soon}
         </h3>
         <p className="text-gray-400">
-          {l === "hu" ? "Ez a felfedező küldetés még készül." : "This explorer mission is still under construction."}
+          {labels.empty}
         </p>
       </div>
     );
@@ -82,24 +81,49 @@ export default function GenericInfoExplorer({ island, grade, onDone, color = "#3
       setSelectedOption(null);
       setIsAnswered(false);
       setShowFeedback(null);
+      setTypedAnswer("");
     } else {
-      onDone(score + (showFeedback === "correct" ? 1 : 0), questions.length);
+      onDone(score, questions.length);
     }
   };
 
-  // Typing questions fallback to auto-correct for now or simple display
   if (currentQuestion.type !== "mcq") {
+     const expected = Array.isArray(currentQuestion.answer) ? currentQuestion.answer : [currentQuestion.answer];
+     const normalize = (value: string) => value.trim().toLocaleLowerCase(l).normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+     const submitTyped = () => {
+       if (isAnswered || !typedAnswer.trim()) return;
+       const correct = expected.some((answer) => normalize(answer) === normalize(typedAnswer));
+       if (correct) setScore((value) => value + 1);
+       setShowFeedback(correct ? "correct" : "wrong");
+       setIsAnswered(true);
+     };
      return (
-        <div className="flex flex-col items-center justify-center h-64 text-white bg-[#060614] rounded-2xl border border-white/10 p-8 text-center">
-          <p className="mb-4">{currentQuestion.question}</p>
-          <button 
-            onClick={() => {
-                if (currentIndex + 1 < questions.length) setCurrentIndex(currentIndex + 1);
-                else onDone(score + 1, questions.length);
-            }}
-            className="px-6 py-2 rounded-xl bg-white/10 hover:bg-white/20 transition-colors"
+        <div className="flex min-h-[24rem] flex-col justify-center text-white bg-[#060614] rounded-2xl border border-white/10 p-5 sm:p-8">
+          <div className="mb-5 flex items-center justify-between text-xs font-bold uppercase tracking-wider text-white/50">
+            <span>{labels.explore} · {grade}. {labels.grade}</span>
+            <span>{currentIndex + 1}/{questions.length}</span>
+          </div>
+          <p className="mb-6 text-xl font-bold leading-relaxed">{currentQuestion.question}</p>
+          <input
+            value={typedAnswer}
+            onChange={(event) => setTypedAnswer(event.target.value)}
+            onKeyDown={(event) => event.key === "Enter" && submitTyped()}
+            disabled={isAnswered}
+            placeholder={labels.answer}
+            autoComplete="off"
+            className="min-h-12 w-full rounded-xl border border-white/20 bg-white/10 px-4 py-3 text-base outline-none focus:border-white/60 disabled:opacity-70"
+          />
+          {isAnswered && (
+            <p className={`mt-3 font-bold ${showFeedback === "correct" ? "text-emerald-400" : "text-rose-400"}`} role="status">
+              {showFeedback === "correct" ? "✓" : `✗ ${expected.join(" / ")}`}
+            </p>
+          )}
+          <button
+            onClick={isAnswered ? handleNext : submitTyped}
+            disabled={!isAnswered && !typedAnswer.trim()}
+            className="mt-6 min-h-12 rounded-xl bg-white px-6 py-3 font-black text-black disabled:cursor-not-allowed disabled:opacity-30"
           >
-            OK
+            {isAnswered ? (currentIndex + 1 === questions.length ? labels.finish : labels.next) : labels.check}
           </button>
         </div>
      )
@@ -111,7 +135,7 @@ export default function GenericInfoExplorer({ island, grade, onDone, color = "#3
       <div className="p-6 bg-white/5 border-b border-white/5">
         <div className="flex justify-between items-center mb-4">
           <span className="text-xs font-black uppercase tracking-widest text-gray-500">
-            {l === "hu" ? "Felfedezés" : l === "de" ? "Erkundung" : l === "ro" ? "Explorare" : "Explorer"} • {grade}. {l === "hu" ? "Osztály" : "Grade"}
+            {labels.explore} • {grade}. {labels.grade}
           </span>
           <span className="text-sm font-bold text-gray-400">{currentIndex + 1} / {questions.length}</span>
         </div>
@@ -186,8 +210,8 @@ export default function GenericInfoExplorer({ island, grade, onDone, color = "#3
           `}
         >
           {currentIndex + 1 === questions.length 
-            ? (l === "hu" ? "BEFEJEZÉS" : "FINISH") 
-            : (l === "hu" ? "KÖVETKEZŐ" : "NEXT")}
+            ? labels.finish
+            : labels.next}
           <ChevronRight size={20} />
         </button>
       </div>

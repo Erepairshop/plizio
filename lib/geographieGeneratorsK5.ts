@@ -7,11 +7,16 @@ const q = (hu: string, en: string, de: string, ro: string, lang: string) => {
   return en;
 };
 
+const TRANSLATION_DRILL_RE = /\((?:EN|DE)\)|\b(?:in|auf)\s+(?:English|German|Hungarian|Romanian|Englisch|Deutsch|Ungarisch|Rum\u00e4nisch)\b|angolul|n\u00e9met\u00fcl|magyarul|rom\u00e1nul|(?:^|\s)\u00een\s+(?:englez\u0103|german\u0103|maghiar\u0103|rom\u00e2n\u0103)|\(germ\)/i;
+
+const isTranslationDrill = (d: any) =>
+  Array.isArray(d?.q) && d.q.some((text: string) => TRANSLATION_DRILL_RE.test(String(text)));
+
 const makeMCQs = (subtopic: string, lang: string, rng: any, data: any[]) =>
-  data.map(d => createMCQ("geographie", subtopic, q(d.q[0], d.q[1], d.q[2], d.q[3], lang), q(d.c[0], d.c[1], d.c[2], d.c[3], lang), [q(d.w1[0], d.w1[1], d.w1[2], d.w1[3], lang), q(d.w2[0], d.w2[1], d.w2[2], d.w2[3], lang), q(d.w3[0], d.w3[1], d.w3[2], d.w3[3], lang)], rng));
+  data.filter(d => !isTranslationDrill(d)).map(d => createMCQ("geographie", subtopic, q(d.q[0], d.q[1], d.q[2], d.q[3], lang), q(d.c[0], d.c[1], d.c[2], d.c[3], lang), [q(d.w1[0], d.w1[1], d.w1[2], d.w1[3], lang), q(d.w2[0], d.w2[1], d.w2[2], d.w2[3], lang), q(d.w3[0], d.w3[1], d.w3[2], d.w3[3], lang)], rng));
 
 const makeTyping = (subtopic: string, lang: string, data: any[]) =>
-  data.map(d => createTyping("geographie", subtopic, q(d.q[0], d.q[1], d.q[2], d.q[3], lang), [q(d.a[0], d.a[1], d.a[2], d.a[3], lang)]));
+  data.filter(d => !isTranslationDrill(d)).map(d => createTyping("geographie", subtopic, q(d.q[0], d.q[1], d.q[2], d.q[3], lang), [q(d.a[0], d.a[1], d.a[2], d.a[3], lang)]));
 
 // ─── DATA SOURCES ──────────────────────────────────────────────────────────
 
@@ -555,6 +560,17 @@ Object.assign(K5_GEOGRAPHIE_GENERATORS, {
   landform_basics_mcq: K5_GEOGRAPHIE_GENERATORS.europe_mountains_rivers_mcq,
   landform_basics_typing: K5_GEOGRAPHIE_GENERATORS.europe_mountains_rivers_typing,
 });
+
+// These pools are appended below. The adapters resolve DATA_K5 lazily, after
+// module initialization has populated the question arrays.
+for (const key of ["village_life", "agriculture_basics", "industry_zones"] as const) {
+  (K5_GEOGRAPHIE_GENERATORS as any)[key] = (lang: string, seed: number) =>
+    makeMCQs(key, lang, mulberry32(seed), DATA_K5[key].mcq);
+  (K5_GEOGRAPHIE_GENERATORS as any)[`${key}_mcq`] = (lang: string, seed: number) =>
+    makeMCQs(key, lang, mulberry32(seed), DATA_K5[key].mcq);
+  (K5_GEOGRAPHIE_GENERATORS as any)[`${key}_typing`] = (lang: string) =>
+    makeTyping(key, lang, DATA_K5[key].typing);
+}
 
 Object.assign(DATA_K5 as Record<string, any>, {
   village_life: {

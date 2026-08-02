@@ -152,7 +152,7 @@ export const INFO_K6_I1_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t3_title", infoText: "t3_text",
-    svg: { type: "icon-grid", items: [{emoji:"🤖",label:"MI"},{emoji:"📜",label:"Fix"}] },
+    svg: { type: "icon-grid", items: [{emoji:"🤖",label:"AI"},{emoji:"📜",label:"Fix"}] },
     interactive: { type: "drag-to-bucket", instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2", buckets: [{id:"b1",label:"t3_bl1"},{id:"b2",label:"t3_bl2"}], items: [{text:"t3_i1",bucketId:"b1"},{text:"t3_i2",bucketId:"b2"},{text:"t3_i3",bucketId:"b1"},{text:"t3_i4",bucketId:"b2"}] },
     quiz: { question: "t3_q", choices: ["t3_qa", "t3_qb", "t3_qc", "t3_qd"], answer: "t3_qa" }
   },

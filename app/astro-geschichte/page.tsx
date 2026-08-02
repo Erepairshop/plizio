@@ -5,6 +5,7 @@ import { useRouter } from "next/navigation";
 import { ChevronLeft } from "lucide-react";
 import { useLang } from "@/components/LanguageProvider";
 import { GRADE_PLANETS } from "../astrodeutsch/planets";
+import { getGeschichteVariantProfile } from "@/lib/astroGeschichte";
 import { loadK5Progress } from "@/lib/astroGeschichte5";
 import { loadK6Progress } from "@/lib/astroGeschichte6";
 import { loadK7Progress } from "@/lib/astroGeschichte7";
@@ -84,19 +85,20 @@ export default function AstroGeschichteHubPage() {
   const router = useRouter();
 
   const [progress, setProgress] = useState<number[]>([0, 0, 0, 0]);
+  const variant = getGeschichteVariantProfile(lang);
 
   useEffect(() => {
-    const p5 = loadK5Progress();
-    const p6 = loadK6Progress();
-    const p7 = loadK7Progress();
-    const p8 = loadK8Progress();
+    const p5 = loadK5Progress(variant.id);
+    const p6 = loadK6Progress(variant.id);
+    const p7 = loadK7Progress(variant.id);
+    const p8 = loadK8Progress(variant.id);
     setProgress([
       p5.completedIslands.length,
       p6.completedIslands.length,
       p7.completedIslands.length,
       p8.completedIslands.length,
     ]);
-  }, []);
+  }, [variant.id]);
 
   type L = "en" | "hu" | "de" | "ro";
   const l = (["en","hu","de","ro"].includes(lang) ? lang : "en") as L;

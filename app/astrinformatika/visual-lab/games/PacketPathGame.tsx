@@ -89,7 +89,7 @@ export default function PacketPathGame({
 
       {/* Title */}
       <div className="relative z-20 text-center pt-2 pb-0 shrink-0">
-        <span className="text-[11px] tracking-widest uppercase font-mono" style={{ color: "rgba(34,211,238,0.5)" }}>🌐 Packet Path</span>
+        <span className="text-[11px] tracking-widest uppercase font-mono" style={{ color: "rgba(34,211,238,0.5)" }}>🌐 {round.title[lang] ?? round.title.en}</span>
       </div>
 
       {/* HUD */}
@@ -106,7 +106,7 @@ export default function PacketPathGame({
 
       {/* Instruction */}
       <p className="relative z-10 text-center text-cyan-300/40 text-xs font-mono uppercase tracking-widest pb-1 shrink-0">
-        {round.instruction.hu}
+        {round.instruction[lang] ?? round.instruction.en}
       </p>
 
       {/* Center packet display */}
@@ -132,7 +132,7 @@ export default function PacketPathGame({
                   textShadow: "0 0 8px rgba(34,211,238,0.7)",
                 }}
               >
-                <div className="text-[10px] text-cyan-400/40 mb-1 tracking-widest">PACKET</div>
+                <div className="text-[10px] text-cyan-400/40 mb-1 tracking-widest">{lang === "de" ? "PAKET" : lang === "hu" ? "CSOMAG" : lang === "ro" ? "PACHET" : "PACKET"}</div>
                 {current.label}
               </div>
             </motion.div>

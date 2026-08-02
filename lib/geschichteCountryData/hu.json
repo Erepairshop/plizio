@@ -13,7 +13,7 @@
         {"question": "Melyik néppel kerültek szoros kapcsolatba a magyarok Levédiában?", "correct": "Kazárok", "wrong": ["Besenyők", "Bolgárok", "Frankok"]},
         {"question": "Mit jelent a 'finnugor' kifejezés eredetileg?", "correct": "Nyelvi rokonságot", "wrong": ["Vérségi köteléket", "Közös vallást", "Közös uralkodót"]},
         {"question": "Melyik folyók között terült el Etelköz?", "correct": "Dnyeper és Duna", "wrong": ["Volga és Don", "Tisza és Maros", "Rajna és Elba"]},
-        {"question": "Hogy hívták a magyar törzsek szövetségét?", "correct": "Hétmagyar", "wrong": ["Tíznyíl", "Vérszerződés", "Honfoglukók"]},
+        {"question": "Hogy hívták a magyar törzsek szövetségét?", "correct": "Hétmagyar", "wrong": ["Tíznyíl", "Vérszerződés", "Honfoglalók"]},
         {"question": "Melyik volt a legfontosabb magyar törzs?", "correct": "Megyer", "wrong": ["Nyék", "Kürtgyarmat", "Tarján"]},
         {"question": "Ki volt a katonai vezető a kettős fejedelemségben?", "correct": "Gyula", "wrong": ["Kende", "Horka", "Ispán"]},
         {"question": "Milyen életmódot folytattak az ősmagyarok?", "correct": "Nomád pásztorkodás", "wrong": ["Letelepedett földművelés", "Városi kereskedelem", "Halászat és vadászat"]},

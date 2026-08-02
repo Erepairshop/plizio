@@ -19,7 +19,7 @@ export const INFO_K2_I8_LABELS: Record<string, Record<string, string>> = {
     t6_l1: "Formel", t6_r1: "Rechnen", t6_l2: "Plus", t6_r2: "Addieren", t6_l3: "Ergebnis", t6_r3: "Summe",
     t7_title: "Die SUMME", t7_text: "Die SUMME-Funktion zählt ganz viele Zahlen auf einmal zusammen.", t7_inst: "Verbinde die Paare:", t7_h1: "Alles addieren.", t7_h2: "Ganz schnell.", t7_q: "Was macht die SUMME?", t7_qa: "Zahlen addieren", t7_qb: "Zahlen löschen", t7_qc: "Zahlen verstecken", t7_qd: "Zahlen malen",
     t7_l1: "SUMME", t7_r1: "Addieren", t7_l2: "Bereich", t7_r2: "Viele Zellen", t7_l3: "Schnell", t7_r3: "Automatisch",
-    t8_title: "Der Durchschnitt", t8_text: "Excel kann den Mittelwert (Durchschnitt) von Zahlen berechnen.", t8_inst: "Verbinde die Paare:", t8_h1: "Die Mitte finden.", t8_h2: "Mittelwert.", t1_q: "Was berechnet MITTELWERT?", t8_qa: "Den Durchschnitt", t8_qb: "Das Wetter", t8_qc: "Die Uhrzeit", t8_qd: "Die Farbe",
+    t8_title: "Der Durchschnitt", t8_text: "Excel kann den Mittelwert (Durchschnitt) von Zahlen berechnen.", t8_inst: "Verbinde die Paare:", t8_h1: "Die Mitte finden.", t8_h2: "Mittelwert.", t8_q: "Was berechnet MITTELWERT?", t8_qa: "Den Durchschnitt", t8_qb: "Das Wetter", t8_qc: "Die Uhrzeit", t8_qd: "Die Farbe",
     t8_l1: "Mittelwert", t8_r1: "Durchschnitt", t8_l2: "Rechnen", t8_r2: "Formel", t8_l3: "Zahlen", t8_r3: "Mitte",
     t9_title: "Max und Min", t9_text: "Finde blitzschnell die größte (Max) oder kleinste (Min) Zahl.", t9_inst: "Verbinde die Paare:", t9_h1: "Groß und klein.", t9_h2: "Suchen lassen.", t9_q: "Was findet MAX?", t9_qa: "Die größte Zahl", t9_qb: "Die kleinste Zahl", t9_qc: "Einen Hund", t9_qd: "Ein Auto",
     t9_l1: "MAX", t9_r1: "Größte", t9_l2: "MIN", t9_r2: "Kleinste", t9_l3: "Suche", t9_r3: "Finden",

@@ -1,6 +1,7 @@
 "use client";
 import DynamicExplorer from "@/components/DynamicExplorer";
 import { useLang } from "@/components/LanguageProvider";
+import { buildGeschichteExplorerId, getGeschichteVariantProfile } from "@/lib/astroGeschichte";
 import type { IslandDef } from "@/lib/astromath";
 import type { PoolTopicDef } from "@/lib/explorerPools/types";
 import {
@@ -40,11 +41,13 @@ interface Props {
   onDone: (score: number, total: number) => void;
   color?: string;
   lang?:  string;
+  variantId?: string;
 }
 
-export default function K8Explorer({ island, onDone, color = "#EF4444", lang: langProp }: Props) {
+export default function K8Explorer({ island, onDone, color = "#EF4444", lang: langProp, variantId }: Props) {
   const { lang: contextLang } = useLang();
   const lang = langProp ?? (contextLang as "de" | "en" | "hu" | "ro") ?? "de";
+  const variant = getGeschichteVariantProfile(lang);
 
   const cfg = ISLAND_CONFIG[island.id];
   if (cfg) {
@@ -52,7 +55,7 @@ export default function K8Explorer({ island, onDone, color = "#EF4444", lang: la
       <DynamicExplorer
         pool={cfg.pool} labels={cfg.labels} title={cfg.title} icon={cfg.icon}
         count={5}
-        explorerId={`geschichte_k8_${island.id}`}
+        explorerId={buildGeschichteExplorerId(`geschichte_k8_${island.id}`, variantId ?? variant.id)}
         subject="geschichte"
         color={color} lang={lang} grade={8}
         onDone={onDone}

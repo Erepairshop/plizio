@@ -1,13 +1,14 @@
 "use client";
 
-import { useState, useRef, useEffect, useCallback } from "react";
+import { useState, useRef, useEffect, useCallback, useId } from "react";
 import { useRouter } from "next/navigation";
-import { motion, AnimatePresence, useMotionValue, useTransform } from "framer-motion";
+import { motion, AnimatePresence } from "framer-motion";
 import Link from "next/link";
 import { ChevronLeft, type LucideIcon } from "lucide-react";
 import dynamic from "next/dynamic";
 import type { AvatarCompanionProps } from "@/components/AvatarCompanion";
 import { useLang } from "@/components/LanguageProvider";
+import { useTimeoutRegistry } from "@/components/astro-games/utils";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
 
@@ -47,7 +48,13 @@ interface IslandMapProps {
 /* ------------------------------------------------------------------ */
 const LETTER_COLORS = ["#FF2D78", "#00D4FF", "#00FF88", "#FFD700", "#B44DFF", "#FF2D78"];
 const LETTERS = ["P", "L", "I", "Z", "I", "O"];
-const R = 46; // planet radius — bigger for mobile visibility
+const TAGLINE_LABELS = {
+  de: "SPIELEN · LERNEN · DENKEN",
+  en: "PLAY · LEARN · THINK",
+  hu: "JÁTÉK · TANULÁS · GONDOLKODÁS",
+  ro: "JOACĂ · ÎNVAȚĂ · GÂNDEȘTE",
+} as const;
+const R = 46; // planet radius â€” bigger for mobile visibility
 
 /* ------------------------------------------------------------------ */
 /* Per-category planet surface details                                 */
@@ -60,7 +67,7 @@ interface PlanetTheme {
 }
 
 const PLANET_THEMES: Record<string, PlanetTheme> = {
-  /* Quiz & Reflex — electric/lightning feel */
+  /* Quiz & Reflex â€” electric/lightning feel */
   quizreflex: {
     details: (cx, cy, r, color) => (
       <g>
@@ -76,7 +83,7 @@ const PLANET_THEMES: Record<string, PlanetTheme> = {
       </g>
     ),
   },
-  /* Adventure — mountain/terrain */
+  /* Adventure â€” mountain/terrain */
   adventure: {
     details: (cx, cy, _r, color) => (
       <g>
@@ -88,7 +95,7 @@ const PLANET_THEMES: Record<string, PlanetTheme> = {
       </g>
     ),
   },
-  /* Learn — open book with knowledge glow */
+  /* Learn â€” open book with knowledge glow */
   brain: {
     details: (cx, cy, _r, color) => (
       <g>
@@ -116,7 +123,7 @@ const PLANET_THEMES: Record<string, PlanetTheme> = {
       </g>
     ),
   },
-  /* Logic — grid/puzzle pattern */
+  /* Logic â€” grid/puzzle pattern */
   logic: {
     details: (cx, cy, _r, color) => (
       <g>
@@ -135,7 +142,7 @@ const PLANET_THEMES: Record<string, PlanetTheme> = {
       </g>
     ),
   },
-  /* Sport — ball with motion lines */
+  /* Sport â€” ball with motion lines */
   sport: {
     details: (cx, cy, _r, color) => (
       <g>
@@ -146,7 +153,7 @@ const PLANET_THEMES: Record<string, PlanetTheme> = {
       </g>
     ),
   },
-  /* Maps — Earth-like planet with stylized continents on a blue ocean */
+  /* Maps â€” Earth-like planet with stylized continents on a blue ocean */
   maps: {
     ring: "#4FC3F7",
     details: (cx, cy, r, _color) => (
@@ -186,7 +193,7 @@ const DEFAULT_THEME: PlanetTheme = {
 };
 
 /* ------------------------------------------------------------------ */
-/* Star field — more stars, denser, with parallax support              */
+/* Star field â€” more stars, denser, with parallax support              */
 /* ------------------------------------------------------------------ */
 const STARS = (() => {
   const stars: { x: number; y: number; r: number; speed: number; brightness: number }[] = [];
@@ -238,7 +245,7 @@ function UniverseBg({ mouseX, mouseY }: { mouseX: number; mouseY: number }) {
       <ellipse cx={130} cy={400} rx={140} ry={120} fill="rgba(0,80,255,0.02)" />
       <ellipse cx={400} cy={250} rx={100} ry={80} fill="rgba(180,77,255,0.015)" />
       <ellipse cx={300} cy={700} rx={120} ry={90} fill="rgba(0,200,150,0.012)" />
-      {/* Far stars layer — subtle parallax */}
+      {/* Far stars layer â€” subtle parallax */}
       <g transform={`translate(${farOffset.x}, ${farOffset.y})`}>
         {STARS.slice(0, 30).map((s, i) => (
           <motion.circle
@@ -250,7 +257,7 @@ function UniverseBg({ mouseX, mouseY }: { mouseX: number; mouseY: number }) {
         ))}
       </g>
 
-      {/* Mid stars layer — more parallax */}
+      {/* Mid stars layer â€” more parallax */}
       <g transform={`translate(${midOffset.x}, ${midOffset.y})`}>
         {STARS.slice(30, 60).map((s, i) => (
           <motion.circle
@@ -341,6 +348,8 @@ function Planet({
 }) {
   const { cx, cy, color, glow, label, id } = island;
   const theme = PLANET_THEMES[id] ?? DEFAULT_THEME;
+  const defsScope = useId().replace(/:/g, "-");
+  const gradientId = `pg-${id}-${defsScope}`;
 
   // Idle floating Y offset
   const floatY = cy + floatOffset;
@@ -353,7 +362,7 @@ function Planet({
       tabIndex={0}
       aria-label={label}
       animate={{ y: floatOffset }}
-      transition={{ duration: 0 }} // instant — floatOffset is animated externally
+      transition={{ duration: 0 }} // instant â€” floatOffset is animated externally
     >
       {/* big soft ambient glow behind planet */}
       <motion.circle
@@ -375,7 +384,7 @@ function Planet({
         transition={{ duration: 5, repeat: Infinity, ease: "easeInOut", delay: floatOffset * 0.3 }}
       />
 
-      {/* outer ring glow — enhanced on selected */}
+      {/* outer ring glow â€” enhanced on selected */}
       <motion.circle
         cx={cx} cy={cy}
         fill="none" stroke={glow}
@@ -407,7 +416,7 @@ function Planet({
 
       {/* atmosphere glow */}
       <defs>
-        <radialGradient id={`pg-${id}`} cx="35%" cy="30%">
+        <radialGradient id={gradientId} cx="35%" cy="30%">
           <stop offset="0%" stopColor={color} stopOpacity={0.6} />
           <stop offset="40%" stopColor={color} stopOpacity={0.3} />
           <stop offset="75%" stopColor={color} stopOpacity={0.12} />
@@ -415,10 +424,10 @@ function Planet({
         </radialGradient>
       </defs>
 
-      {/* planet body — scale up on hover/tap */}
+      {/* planet body â€” scale up on hover/tap */}
       <motion.circle
         cx={cx} cy={cy} r={R}
-        fill={`url(#pg-${id})`}
+        fill={`url(#${gradientId})`}
         stroke={color} strokeWidth={1.5} strokeOpacity={0.35}
         whileHover={{ scale: 1.12 }}
         whileTap={{ scale: 1.15 }}
@@ -456,7 +465,7 @@ function Planet({
 }
 
 /* ------------------------------------------------------------------ */
-/* Orbit paths between planets — brighter, with energy pulse           */
+/* Orbit paths between planets â€” brighter, with energy pulse           */
 /* ------------------------------------------------------------------ */
 function OrbitPaths({ islands }: { islands: Island[] }) {
   if (islands.length < 2) return null;
@@ -471,7 +480,7 @@ function OrbitPaths({ islands }: { islands: Island[] }) {
         const blendColor = a.color;
         return (
           <g key={i}>
-            {/* Base path — brighter */}
+            {/* Base path â€” brighter */}
             <motion.path
               d={pathD}
               fill="none" stroke="rgba(255,255,255,0.08)" strokeWidth={1.2} strokeDasharray="5 5"
@@ -597,7 +606,7 @@ function AvatarGlow({ cx, cy, color }: { cx: number; cy: number; color: string }
 }
 
 /* ------------------------------------------------------------------ */
-/* Hook: SVG viewBox → DOM pixel position                              */
+/* Hook: SVG viewBox â†’ DOM pixel position                              */
 /* ------------------------------------------------------------------ */
 function useSvgToDOM(svgRef: React.RefObject<SVGSVGElement | null>, vx: number, vy: number) {
   const [pos, setPos] = useState<{ left: number; top: number } | null>(null);
@@ -633,7 +642,6 @@ function useSvgToDOM(svgRef: React.RefObject<SVGSVGElement | null>, vx: number, 
 /* ------------------------------------------------------------------ */
 function usePlanetFloats(count: number) {
   const [offsets, setOffsets] = useState<number[]>(() => new Array(count).fill(0));
-  const frameRef = useRef(0);
 
   useEffect(() => {
     let raf: number;
@@ -657,10 +665,11 @@ function usePlanetFloats(count: number) {
 }
 
 /* ------------------------------------------------------------------ */
-/* Card flash effect — listens for plizio-cards-changed event          */
+/* Card flash effect â€” listens for plizio-cards-changed event          */
 /* ------------------------------------------------------------------ */
 function useCardFlash() {
   const [flashCat, setFlashCat] = useState<string | null>(null);
+  const scheduleTimeout = useTimeoutRegistry();
 
   useEffect(() => {
     const handler = () => {
@@ -673,25 +682,26 @@ function useCardFlash() {
           );
           const lastGame = sorted[0]?.game;
           if (lastGame) {
-            // Use the GAME_TO_CATEGORY mapping indirectly — we flash the category that owns this game
+            // Use the GAME_TO_CATEGORY mapping indirectly â€” we flash the category that owns this game
             setFlashCat(lastGame);
-            setTimeout(() => setFlashCat(null), 2000);
+            scheduleTimeout(() => setFlashCat(null), 2000);
           }
         }
       } catch {}
     };
     window.addEventListener("plizio-cards-changed", handler);
     return () => window.removeEventListener("plizio-cards-changed", handler);
-  }, []);
+  }, [scheduleTimeout]);
 
   return flashCat;
 }
 
 /* ------------------------------------------------------------------ */
-/* Main — Fullscreen Island Map                                        */
+/* Main â€” Fullscreen Island Map                                        */
 /* ------------------------------------------------------------------ */
 export default function IslandMap({ islands, username, streak, specialCount, cardCount, lastPlayedCategory, avatarProps }: IslandMapProps) {
   const router = useRouter();
+  const { lang } = useLang();
   const [selectedId, setSelectedId] = useState<string | null>(null);
   const selectedIsland = islands.find((i) => i.id === selectedId) ?? null;
   const svgRef = useRef<SVGSVGElement | null>(null);
@@ -700,6 +710,7 @@ export default function IslandMap({ islands, username, streak, specialCount, car
   // Avatar tap state (handler defined after targetIsland below)
   const [avatarJump, setAvatarJump] = useState<{ reaction: "wave" | null; timestamp: number }>({ reaction: null, timestamp: 0 });
   const [interacting, setInteracting] = useState(false);
+  const scheduleTimeout = useTimeoutRegistry();
 
   // Mouse/touch parallax
   const [mouseOffset, setMouseOffset] = useState({ x: 0, y: 0 });
@@ -732,11 +743,11 @@ export default function IslandMap({ islands, username, streak, specialCount, car
   const avatarSvgY = targetIsland ? targetIsland.cy + R - 18 : 0; // sit on top of planet
   const avatarPos = useSvgToDOM(svgRef, avatarSvgX, avatarSvgY);
 
-  // Avatar tap → wave reaction + open planet panel (defined after targetIsland)
+  // Avatar tap â†’ wave reaction + open planet panel (defined after targetIsland)
   const handleAvatarTap = useCallback(() => {
     setAvatarJump({ reaction: "wave", timestamp: Date.now() });
     setInteracting(true);
-    setTimeout(() => setInteracting(false), 2000);
+    scheduleTimeout(() => setInteracting(false), 2000);
     if (targetIsland) {
       // Direct-navigate islands (brain/learn) honor href instead of opening panel
       if (targetIsland.href) {
@@ -745,7 +756,7 @@ export default function IslandMap({ islands, username, streak, specialCount, car
         setSelectedId(targetIsland.id);
       }
     }
-  }, [targetIsland, router]);
+  }, [scheduleTimeout, targetIsland, router]);
 
   // Track previous position for smooth movement
   useEffect(() => {
@@ -753,13 +764,13 @@ export default function IslandMap({ islands, username, streak, specialCount, car
       const prev = prevTargetRef.current;
       if (prev.cx !== targetIsland.cx || prev.cy !== targetIsland.cy) {
         setAvatarAnimating(true);
-        setTimeout(() => setAvatarAnimating(false), 800);
+        scheduleTimeout(() => setAvatarAnimating(false), 800);
       }
     }
     if (targetIsland) {
       prevTargetRef.current = { cx: targetIsland.cx, cy: targetIsland.cy };
     }
-  }, [targetIsland?.cx, targetIsland?.cy]);
+  }, [scheduleTimeout, targetIsland?.cx, targetIsland?.cy]);
 
   const AVATAR_SIZE = 90;
 
@@ -784,7 +795,7 @@ export default function IslandMap({ islands, username, streak, specialCount, car
         >
           <UniverseBg mouseX={mouseOffset.x} mouseY={mouseOffset.y} />
 
-          {/* Logo — PLIZIO */}
+          {/* Logo â€” PLIZIO */}
           <g>
             {LETTERS.map((letter, i) => (
               <text
@@ -801,7 +812,7 @@ export default function IslandMap({ islands, username, streak, specialCount, car
               </text>
             ))}
             <text x={250} y={118} textAnchor="middle" fontSize={8} fontWeight={700} letterSpacing={3} fill="rgba(255,255,255,0.72)">
-              PLAY · LEARN · THINK
+              {TAGLINE_LABELS[lang] ?? TAGLINE_LABELS.en}
             </text>
             {username && (
               <text x={250} y={138} textAnchor="middle" fontSize={11} fontWeight={700} fill="rgba(255,255,255,0.45)" letterSpacing={0.8}>
@@ -810,7 +821,7 @@ export default function IslandMap({ islands, username, streak, specialCount, car
             )}
           </g>
 
-          {/* Stats — centered row */}
+          {/* Stats â€” centered row */}
           <g>
             {(() => {
               const items: { emoji: string; value: number; color: string }[] = [];

@@ -3,6 +3,7 @@
 import React, { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { AstroGameProps, LocalizedText } from "../../types";
+import { shuffleDeterministic, useTimeoutRegistry } from "../../utils";
 
 export type MemoryPairsRound = {
   id: string;
@@ -33,6 +34,7 @@ export default function MemoryPairsView({
   const [matchedPairs, setMatchedPairs] = useState<Set<string>>(new Set());
   const [score, setScore] = useState(0);
   const [isProcessing, setIsProcessing] = useState(false);
+  const scheduleTimeout = useTimeoutRegistry();
 
   const currentRound = rounds[roundIdx];
 
@@ -60,13 +62,7 @@ export default function MemoryPairsView({
       });
     });
 
-    // Shuffle
-    for (let i = newCards.length - 1; i > 0; i--) {
-      const j = Math.floor(Math.random() * (i + 1));
-      [newCards[i], newCards[j]] = [newCards[j], newCards[i]];
-    }
-
-    setCards(newCards);
+    setCards(shuffleDeterministic(newCards, `${currentRound.id}-pairs`));
     setFlippedIds([]);
     setMatchedPairs(new Set());
     setIsProcessing(false);
@@ -105,7 +101,7 @@ export default function MemoryPairsView({
         const nextScore = score + 10;
 
         // Match
-        setTimeout(() => {
+        scheduleTimeout(() => {
           setCards((prev) =>
             prev.map((c) =>
               c.uniqueId === firstId || c.uniqueId === secondId
@@ -122,12 +118,12 @@ export default function MemoryPairsView({
           // Check round completion
           const currentMatches = matchedPairs.size + 1;
           if (currentMatches === currentRound.pairs.length) {
-            setTimeout(() => handleNextRound(nextScore), 800);
+            scheduleTimeout(() => handleNextRound(nextScore), 800);
           }
         }, 500);
       } else {
         // No match
-        setTimeout(() => {
+        scheduleTimeout(() => {
           setCards((prev) =>
             prev.map((c) =>
               c.uniqueId === firstId || c.uniqueId === secondId

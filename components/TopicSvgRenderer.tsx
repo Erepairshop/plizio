@@ -15,6 +15,25 @@ interface Props {
   lang?: string;
 }
 
+const MISSING_SVG_COPY: Record<string, string> = {
+  de: "Abbildung nicht verfügbar",
+  en: "Diagram unavailable",
+  hu: "Az ábra nem érhető el",
+  ro: "Diagrama nu este disponibilă",
+};
+
+function MissingSvg({ name, lang }: { name: string; lang: string }) {
+  const label = MISSING_SVG_COPY[lang] ?? MISSING_SVG_COPY.en;
+  if (process.env.NODE_ENV !== "production") console.warn(`SVG not found: ${name}`);
+  return (
+    <svg width="100%" viewBox="0 0 240 140" role="img" aria-label={label}>
+      <title>{label}</title>
+      <rect width="240" height="140" fill="#FEF2F2" rx="20" />
+      <text x="120" y="75" fontSize="13" fill="#B91C1C" textAnchor="middle">{label}</text>
+    </svg>
+  );
+}
+
 export default function TopicSvgRenderer({ config, lang = "en" }: Props) {
   switch (config.type) {
 
@@ -22,12 +41,7 @@ export default function TopicSvgRenderer({ config, lang = "en" }: Props) {
     case "biologie-diagram": {
       const { name, color, bg } = config;
       const SvgComp = (BioSvgs as any)[name];
-      if (!SvgComp) return (
-        <svg width="100%" viewBox="0 0 240 140">
-          <rect width="240" height="140" fill="#FEF2F2" rx="20" />
-          <text x="120" y="70" fontSize="12" fill="#EF4444" textAnchor="middle">SVG not found: {name}</text>
-        </svg>
-      );
+      if (!SvgComp) return <MissingSvg name={name} lang={lang} />;
       return (
         <div className="w-full h-full flex items-center justify-center p-1 rounded-2xl overflow-hidden" 
              style={{ backgroundColor: bg ?? "transparent" }}>
@@ -40,12 +54,7 @@ export default function TopicSvgRenderer({ config, lang = "en" }: Props) {
     case "kemia-diagram": {
       const { name, color, bg } = config;
       const SvgComp = (KemiaSvgs as any)[name];
-      if (!SvgComp) return (
-        <svg width="100%" viewBox="0 0 240 140">
-          <rect width="240" height="140" fill="#FEF2F2" rx="20" />
-          <text x="120" y="70" fontSize="12" fill="#EF4444" textAnchor="middle">SVG not found: {name}</text>
-        </svg>
-      );
+      if (!SvgComp) return <MissingSvg name={name} lang={lang} />;
       return (
         <div className="w-full h-full flex items-center justify-center p-1 rounded-2xl overflow-hidden" 
              style={{ backgroundColor: bg ?? "transparent" }}>
@@ -58,12 +67,7 @@ export default function TopicSvgRenderer({ config, lang = "en" }: Props) {
     case "physik-diagram": {
       const { name, color, bg } = config;
       const SvgComp = (PhysikSvgs as any)[name];
-      if (!SvgComp) return (
-        <svg width="100%" viewBox="0 0 240 140">
-          <rect width="240" height="140" fill="#FEF2F2" rx="20" />
-          <text x="120" y="70" fontSize="12" fill="#EF4444" textAnchor="middle">SVG not found: {name}</text>
-        </svg>
-      );
+      if (!SvgComp) return <MissingSvg name={name} lang={lang} />;
       return (
         <div className="w-full h-full flex items-center justify-center p-1 rounded-2xl overflow-hidden" 
              style={{ backgroundColor: bg ?? "transparent" }}>
@@ -76,12 +80,7 @@ export default function TopicSvgRenderer({ config, lang = "en" }: Props) {
     case "geschichte-diagram": {
       const { name, color, bg } = config;
       const SvgComp = (GeschichteSvgs as any)[name];
-      if (!SvgComp) return (
-        <svg width="100%" viewBox="0 0 240 140">
-          <rect width="240" height="140" fill="#FEF2F2" rx="20" />
-          <text x="120" y="70" fontSize="12" fill="#EF4444" textAnchor="middle">SVG not found: {name}</text>
-        </svg>
-      );
+      if (!SvgComp) return <MissingSvg name={name} lang={lang} />;
       return (
         <div className="w-full h-full flex items-center justify-center p-1 rounded-2xl overflow-hidden" 
              style={{ backgroundColor: bg ?? "transparent" }}>
@@ -94,12 +93,7 @@ export default function TopicSvgRenderer({ config, lang = "en" }: Props) {
     case "math-diagram": {
       const { name, props, bg } = config;
       const SvgComp = (MathSvgs as any)[name];
-      if (!SvgComp) return (
-        <svg width="100%" viewBox="0 0 240 140">
-          <rect width="240" height="140" fill="#FEF2F2" rx="20" />
-          <text x="120" y="70" fontSize="12" fill="#EF4444" textAnchor="middle">SVG not found: {name}</text>
-        </svg>
-      );
+      if (!SvgComp) return <MissingSvg name={name} lang={lang} />;
       return (
         <div className="w-full h-full flex items-center justify-center p-1 rounded-2xl overflow-hidden" 
              style={{ backgroundColor: bg ?? "transparent" }}>
@@ -322,27 +316,33 @@ export default function TopicSvgRenderer({ config, lang = "en" }: Props) {
     // ── Sentence with highlighted words ──────────────────────────────
     case "sentence-display": {
       const { words, highlightIndices = [], color } = config;
-      const lineW = 200;
-      const charPx = 11;
-      const totalChars = words.join(" ").length;
-      const scale = totalChars > 18 ? Math.min(1, 18 / totalChars) : 1;
-      const fs = Math.round(16 * scale);
       return (
         <svg width="100%" viewBox="0 0 240 140">
           <rect width="240" height="140" fill={color + "10"} rx="20" />
-          <g transform="translate(120, 75)">
-            {/* Rough word placement */}
-            {words.map((word, i) => {
-              const isHighlighted = highlightIndices.includes(i);
-              const offset = (i - (words.length - 1) / 2) * (word.length * charPx * scale + 6);
-              return (
-                <text key={i} x={offset} y="0" fontSize={fs} fontWeight={isHighlighted ? "900" : "600"}
-                  fill={isHighlighted ? color : "#475569"} textAnchor="middle">
+          <foreignObject x="16" y="20" width="208" height="100">
+            <div
+              xmlns="http://www.w3.org/1999/xhtml"
+              style={{
+                alignItems: "center",
+                display: "flex",
+                flexWrap: "wrap",
+                gap: "6px",
+                height: "100%",
+                justifyContent: "center",
+                overflowWrap: "anywhere",
+                textAlign: "center",
+              }}
+            >
+              {words.map((word, i) => (
+                <span
+                  key={i}
+                  style={{ color: highlightIndices.includes(i) ? color : "#475569", fontSize: 16, fontWeight: highlightIndices.includes(i) ? 900 : 600 }}
+                >
                   {word}
-                </text>
-              );
-            })}
-          </g>
+                </span>
+              ))}
+            </div>
+          </foreignObject>
         </svg>
       );
     }
@@ -368,7 +368,14 @@ export default function TopicSvgRenderer({ config, lang = "en" }: Props) {
               );
             })}
             {subtitle && (
-              <text y="38" fontSize="12" fill="#94A3B8" textAnchor="middle">{subtitle}</text>
+              <text
+                y="38"
+                fontSize="12"
+                fill="#64748B"
+                textAnchor="middle"
+                textLength={subtitle.length > 24 ? 190 : undefined}
+                lengthAdjust={subtitle.length > 24 ? "spacingAndGlyphs" : undefined}
+              >{subtitle}</text>
             )}
           </g>
         </svg>
@@ -384,7 +391,8 @@ export default function TopicSvgRenderer({ config, lang = "en" }: Props) {
           <rect width="240" height="140" fill={cfg.bg ?? "#F8FAFC"} rx="20" />
           <text x="120" y="75" fontSize="52" textAnchor="middle">{cfg.icon}</text>
           {cfg.title && (
-            <text x="120" y="115" fontSize="13" fontWeight="700" fill={cfg.color ?? "#475569"} textAnchor="middle">
+            <text x="120" y="115" fontSize="13" fontWeight="700" fill={cfg.color ?? "#475569"} textAnchor="middle"
+              textLength={cfg.title.length > 26 ? 200 : undefined} lengthAdjust={cfg.title.length > 26 ? "spacingAndGlyphs" : undefined}>
               {cfg.title}
             </text>
           )}

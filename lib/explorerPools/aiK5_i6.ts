@@ -146,7 +146,7 @@ export const INFO_K5_I6_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t2_title", infoText: "t2_text",
-    svg: { type: "icon-grid", items: [{emoji:"🏗️",label:"Robot"},{emoji:"🧘",label:"Mensch"}] },
+    svg: { type: "icon-grid", items: [{emoji:"🏗️",label:"Robot"},{emoji:"🧘",label:"Human"}] },
     interactive: { type: "drag-to-bucket", instruction: "t2_inst", hint1: "t2_h1", hint2: "t2_h2", buckets: [{id:"b1",label:"t2_bl1"},{id:"b2",label:"t2_bl2"}], items: [{text:"t2_i1",bucketId:"b1"},{text:"t2_i2",bucketId:"b2"},{text:"t2_i3",bucketId:"b1"},{text:"t2_i4",bucketId:"b2"}] },
     quiz: { question: "t2_q", choices: ["t2_qa", "t2_qb", "t2_qc", "t2_qd"], answer: "t2_qa" }
   },
@@ -182,7 +182,7 @@ export const INFO_K5_I6_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t8_title", infoText: "t8_text",
-    svg: { type: "icon-grid", items: [{emoji:"🛡️",label:"Sicher"},{emoji:"⚠️",label:"Gefahr"}] },
+    svg: { type: "icon-grid", items: [{emoji:"🛡️",label:"Safe"},{emoji:"⚠️",label:"Danger"}] },
     interactive: { type: "drag-to-bucket", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", buckets: [{id:"b1",label:"t8_bl1"},{id:"b2",label:"t8_bl2"}], items: [{text:"t8_i1",bucketId:"b1"},{text:"t8_i2",bucketId:"b2"},{text:"t8_i3",bucketId:"b1"},{text:"t8_i4",bucketId:"b2"}] },
     quiz: { question: "t8_q", choices: ["t8_qa", "t8_qb", "t8_qc", "t8_qd"], answer: "t8_qa" }
   },
@@ -212,7 +212,7 @@ export const INFO_K5_I6_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t13_title", infoText: "t13_text",
-    svg: { type: "icon-grid", items: [{emoji:"✅",label:"Sinnvoll"},{emoji:"❌",label:"Andres"}] },
+    svg: { type: "icon-grid", items: [{emoji:"✅",label:"Useful"},{emoji:"❌",label:"Other"}] },
     interactive: { type: "drag-to-bucket", instruction: "t13_inst", hint1: "t13_h1", hint2: "t13_h2", buckets: [{id:"b1",label:"t13_bl1"},{id:"b2",label:"t13_bl2"}], items: [{text:"t13_i1",bucketId:"b1"},{text:"t13_i2",bucketId:"b2"},{text:"t13_i3",bucketId:"b1"},{text:"t13_i4",bucketId:"b2"}] },
     quiz: { question: "t13_q", choices: ["t13_qa", "t13_qb", "t13_qc", "t13_qd"], answer: "t13_qa" }
   },

@@ -69,10 +69,10 @@ export function completeTestInfoK5(progress: InformatikaProgress, testId: string
   return completeTest(progress, testId);
 }
 
-export function generateIslandQuestionsInfoK5(island: IslandDef, count = 10) {
-  return generateIslandQuestions(island, getInfoK5Questions, count);
+export function generateIslandQuestionsInfoK5(island: IslandDef, count = 10, countryCode = "HU") {
+  return generateIslandQuestions(island, (ids, amount) => getInfoK5Questions(ids, amount, countryCode), count);
 }
 
-export function generateCheckpointQuestionsInfoK5(testId: string, count = 15) {
-  return generateCheckpointQuestions(INFO_K5_CHECKPOINT_TOPICS, testId, getInfoK5Questions, count);
+export function generateCheckpointQuestionsInfoK5(testId: string, count = 15, countryCode = "HU") {
+  return generateCheckpointQuestions(INFO_K5_CHECKPOINT_TOPICS, testId, (ids, amount) => getInfoK5Questions(ids, amount, countryCode), count);
 }

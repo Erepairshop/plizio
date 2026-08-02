@@ -84,7 +84,7 @@ export const INFO_K7_I1_LABELS: Record<string, Record<string, string>> = {
     t6_title: "Neurális hálózatok", t6_text: "Az emberi agy működését utánozzák.", t6_inst: "Számold meg a neuronokat:", t6_h1: "Biológiai minta.", t6_h2: "A hálózat a lényeg.", t6_q: "Mit utánoznak a neurális hálók?", t6_qa: "Az agyat", t6_qb: "A szívet", t6_qc: "A tüdőt", t6_qd: "A gyomrot",
     t6_tap_count: "5", t6_tap_inst: "Kattints 5-ször a hálózatra!",
     t7_title: "Felügyelt tanulás", t7_text: "A MI feliratozott példákból tanul (pl. kutya/macska).", t7_inst: "Párosítsd össze:", t7_h1: "Címkék használata.", t7_h2: "A tanár visszajelzést ad.", t7_q: "Mi jellemző a felügyelt tanulásra?", t7_qa: "Címkézett adatok", t7_qb: "Nincsenek adatok", t7_qc: "Véletlenszerűség", t7_qd: "Semmi",
-    t1_l1: "Bevitel", t1_r1: "Kép", t1_l2: "Címke", t1_r2: "Kutya", t1_l3: "Jóslat", t1_r3: "Eredmény",
+    t7_l1: "Bevitel", t7_r1: "Kép", t7_l2: "Címke", t7_r2: "Kutya", t7_l3: "Jóslat", t7_r3: "Eredmény",
     t8_title: "Nem felügyelt tanulás", t8_text: "A MI magától talál mintákat az adatokban segítség nélkül.", t8_inst: "Töltsd ki a hiányt:", t8_h1: "Nincs tanár.", t8_h2: "Minták felismerése.", t8_q: "Hogyan tanul itt a MI?", t8_qa: "Önállóan", t8_qb: "Könyvből", t8_qc: "Sehogy", t8_qd: "Csak éjjel",
     t8_sent: "A MI ___ keres az adatokban.", t8_qa2: "mintákat", t8_qb2: "édességet", t8_qc2: "kulcsokat", t8_qd2: "hibákat",
     t9_title: "Megerősítéses tanulás", t9_text: "Tanulás jutalmazással és büntetéssel (mint a kutyatréningnél).", t9_inst: "Válogasd szét:", t9_h1: "Jó vagy rossz?", t9_h2: "Visszacsatolás.", t9_q: "Hogy hívják ezt a tanulást?", t9_qa: "Reinforcement Learning", t9_qb: "Lusta tanulás", t9_qc: "Nehéz tanulás", t9_qd: "Gyors tanulás",

@@ -22,14 +22,15 @@ const Topic1Svg = memo(function Topic1Svg() {
   );
 });
 
-const Topic4Svg = memo(function Topic4Svg() {
+const Topic4Svg = memo(function Topic4Svg({ lang }: { lang: string }) {
+  const safety = { de: "SCHUTZ", en: "SAFETY", hu: "VÉDELEM", ro: "PROTECȚIE" }[lang] ?? "SAFETY";
   return (
     <svg width="100%" viewBox="0 0 240 140">
       <rect width="240" height="140" fill="#F0FDF4" rx="20" />
       <g transform="translate(120, 70)">
         <circle cx="0" cy="0" r="40" fill="none" stroke="#16A34A" strokeWidth="3" />
         <path d="M -20,0 L 20,0 M 0,-20 L 0,20" stroke="#16A34A" strokeWidth="4" />
-        <text x="0" y="55" fontSize="14" fill="#15803D" fontWeight="bold" textAnchor="middle">SAFETY</text>
+        <text x="0" y="55" fontSize="14" fill="#15803D" fontWeight="bold" textAnchor="middle">{safety}</text>
       </g>
     </svg>
   );
@@ -88,7 +89,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_l1: "Ivarszervek", t3_r1: "Elsődleges nemi jelleg",
     t3_l2: "Szakáll / Mellek", t3_r2: "Másodlagos nemi jelleg",
     t3_l3: "Hormonok", t3_r3: "A fejlődés irányítói",
-    t2_q_3: "Melyik szakaszban alakulnak ki a másodlagos nemi jellegek?",
+    t3_q: "Melyik szakaszban alakulnak ki a másodlagos nemi jellegek?",
     t3_q_a: "Serdülőkorban (Pubertás)", t3_q_b: "Csecsemőkorban", t3_q_c: "Magzati korban", t3_q_d: "Öregkorban",
 
     // T4: Fogamzásgátlás
@@ -302,7 +303,7 @@ const TOPICS: TopicDef[] = [
       hint2: "t3_b2",
     },
     quiz: {
-      question: "t2_q_3",
+      question: "t3_q",
       choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
       answer: "t3_q_a",
     },
@@ -310,7 +311,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t4_title",
     infoText: "t4_text",
-    svg: () => <Topic4Svg />,
+    svg: (lang) => <Topic4Svg lang={lang} />,
     bulletKeys: ["t4_b1", "t4_b2", "t4_b3"],
     interactive: {
       type: "gap-fill",

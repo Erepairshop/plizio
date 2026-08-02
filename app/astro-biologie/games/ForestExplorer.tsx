@@ -87,7 +87,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t4_b2: "Az állatok szén-dioxidot lélegeznek ki a növényeknek.",
     t4_b3: "A ragadozók szabályozzák a növényevők számát, védve az erdőt.",
     t4_inst: "Tedd sorba a mondat szavait!",
-    t4_w1: "Az", t4_w2: "erdő", t4_w3: "egy", t4_w4: "bonyolult", t4_w5: "és", t4_w6: "érzékeny", t4_w7: "ökoszisztéma.",
+    t4_w1: "Az", t4_w2: "erdő", t4_w3: "egy", t4_w4: "bonyolult", t4_w5: "és", t4_w6: "érzékeny ökoszisztéma.",
     t4_q: "Mi történik, ha egy erdőből eltűnnek a ragadozók?",
     t4_q_a: "Túlszaporodnak a növényevők, és lelegelik az erdőt.", t4_q_b: "Több lesz a növény.", t4_q_c: "A fák gyorsabban nőnek.", t4_q_d: "Semmi sem változik.",
 
@@ -193,7 +193,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t4_title: "Echilibrul Ecosistemului", t4_text: "Pădurea este un sistem închis, care se auto-susține. Dacă o singură specie dispare (ex. lupii), întregul echilibru se poate prăbuși.",
     t4_b1: "Plantele produc oxigen pentru animale.", t4_b2: "Animalele expiră dioxid de carbon pentru plante.", t4_b3: "Prădătorii controlează numărul erbivorelor, protejând pădurea.",
     t4_inst: "Pune cuvintele în ordine!",
-    t4_w1: "Pădurea", t4_w2: "este", t4_w3: "un", t4_w4: "ecosistem", t4_w5: "complex.",
+    t4_w1: "Pădurea", t4_w2: "este", t4_w3: "un", t4_w4: "ecosistem", t4_w5: "foarte", t4_w6: "complex.",
     t4_q: "Ce se întâmplă dacă prădătorii dispar dintr-o pădure?", t4_q_a: "Erbivorele se înmulțesc prea mult și distrug pădurea.", t4_q_b: "Vor fi mai multe plante.", t4_q_c: "Copacii cresc mai repede.", t4_q_d: "Nu se schimbă nimic.",
 
     t5_title: "Test Recapitulativ", t5_text: "Testează-ți cunoștințele despre ecosistemul pădurii!",

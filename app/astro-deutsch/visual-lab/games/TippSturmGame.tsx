@@ -10,7 +10,7 @@ const T: Record<Language, {
   memorize: string; type: string; correct: string; wrong: string;
   score: string; streak: string; done: string; total: string;
   placeholder: string; pressEnter: string;
-  word: string; of: string;
+  word: string; of: string; ready: string; submit: string; noTasks: string;
 }> = {
   de: {
     memorize: "Merke das Wort!",
@@ -25,6 +25,9 @@ const T: Record<Language, {
     pressEnter: "Enter zum Bestätigen",
     word: "Wort",
     of: "von",
+    ready: "Ich habe es mir gemerkt",
+    submit: "Prüfen",
+    noTasks: "Für diese Runde sind keine Wörter verfügbar.",
   },
   hu: {
     memorize: "Jegyezd meg a szót!",
@@ -39,6 +42,9 @@ const T: Record<Language, {
     pressEnter: "Enter a megerősítéshez",
     word: "Szó",
     of: "/",
+    ready: "Megjegyeztem",
+    submit: "Ellenőrzés",
+    noTasks: "Ehhez a körhöz még nincsenek szavak.",
   },
   ro: {
     memorize: "Memorează cuvântul!",
@@ -53,6 +59,9 @@ const T: Record<Language, {
     pressEnter: "Enter pentru confirmare",
     word: "Cuvânt",
     of: "din",
+    ready: "Am memorat",
+    submit: "Verifică",
+    noTasks: "Nu există cuvinte pentru această rundă.",
   },
   en: {
     memorize: "Memorize the word!",
@@ -67,6 +76,9 @@ const T: Record<Language, {
     pressEnter: "Press Enter to confirm",
     word: "Word",
     of: "of",
+    ready: "I have memorized it",
+    submit: "Check",
+    noTasks: "No words are available for this round.",
   },
 };
 
@@ -122,16 +134,6 @@ export default function TippSturmGame({
   const submitCalledRef = useRef(false);
 
   const currentWord = wordQueue[index] ?? "";
-  const flashMs = round.flashDuration;
-
-  // Flash → type
-  useEffect(() => {
-    if (phase !== "flash") return;
-    submitCalledRef.current = false;
-    const timer = setTimeout(() => setPhase("type"), flashMs);
-    return () => clearTimeout(timer);
-  }, [phase, flashMs, index]);
-
   // Focus on type phase
   useEffect(() => {
     if (phase === "type") {
@@ -176,13 +178,21 @@ export default function TippSturmGame({
 
   const progress = (index / wordQueue.length) * 100;
 
+  if (wordQueue.length === 0) {
+    return (
+      <div className="w-full rounded-xl border border-white/10 bg-slate-950 p-6 text-center text-sm font-semibold text-white/70" role="status">
+        {t.noTasks}
+      </div>
+    );
+  }
+
   if (phase === "done") {
     const maxScore = wordQueue.length * 10;
     const pct = Math.round((score / maxScore) * 100);
     const emoji = pct >= 80 ? "🏆" : pct >= 50 ? "🌟" : "💪";
     return (
       <div
-        className="relative w-full h-[500px] rounded-xl overflow-hidden flex flex-col items-center justify-center gap-5"
+        className="relative w-full h-[clamp(360px,72dvh,500px)] rounded-xl overflow-hidden flex flex-col items-center justify-center gap-5"
         style={{ background: round.theme.bg }}
       >
         <div
@@ -215,7 +225,7 @@ export default function TippSturmGame({
 
   return (
     <div
-      className="relative w-full h-[500px] rounded-xl overflow-hidden flex flex-col"
+      className="relative w-full h-[clamp(360px,72dvh,500px)] rounded-xl overflow-hidden flex flex-col"
       style={{ background: round.theme.bg }}
     >
       {/* BG glow */}
@@ -299,22 +309,16 @@ export default function TippSturmGame({
               >
                 {currentWord}
               </motion.div>
-              {/* Flash dots countdown */}
-              <div className="flex gap-2">
-                {Array.from({ length: 3 }).map((_, i) => (
-                  <motion.div
-                    key={i}
-                    className="w-1.5 h-1.5 rounded-full"
-                    style={{ background: round.theme.accent }}
-                    animate={{ opacity: [1, 0.15, 1] }}
-                    transition={{
-                      duration: flashMs / 1000,
-                      delay: i * (flashMs / 3000),
-                      repeat: Infinity,
-                    }}
-                  />
-                ))}
-              </div>
+              <button
+                type="button"
+                onClick={() => {
+                  submitCalledRef.current = false;
+                  setPhase("type");
+                }}
+                className="min-h-11 rounded-xl border border-white/20 bg-white/10 px-5 py-2 text-sm font-bold text-white transition-colors hover:bg-white/15 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white"
+              >
+                {t.ready}
+              </button>
             </motion.div>
           )}
 
@@ -346,6 +350,15 @@ export default function TippSturmGame({
                 spellCheck={false}
               />
               <p className="text-white/25 text-xs">{t.pressEnter}</p>
+              <button
+                type="button"
+                onClick={() => handleSubmit(typed)}
+                disabled={!typed.trim()}
+                className="min-h-11 w-full rounded-xl px-4 py-2 font-bold text-slate-950 transition-opacity disabled:cursor-not-allowed disabled:opacity-40"
+                style={{ backgroundColor: round.theme.accent }}
+              >
+                {t.submit}
+              </button>
             </motion.div>
           )}
 

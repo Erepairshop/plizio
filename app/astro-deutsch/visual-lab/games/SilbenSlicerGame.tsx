@@ -109,7 +109,7 @@ export default function SilbenSlicerGame({
   };
 
   return (
-    <div className="relative w-full h-[500px] rounded-xl overflow-hidden flex flex-col" style={{ background: round.theme.bg }}>
+    <div className="relative w-full h-[clamp(360px,72dvh,500px)] rounded-xl overflow-hidden flex flex-col" style={{ background: round.theme.bg }}>
       {/* BG glow */}
       <div className="absolute inset-0 pointer-events-none"
         style={{ background: `radial-gradient(circle at 50% 60%, ${round.theme.accent}22, transparent 65%)` }} />

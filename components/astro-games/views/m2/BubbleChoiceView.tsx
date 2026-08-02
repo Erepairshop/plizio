@@ -3,6 +3,7 @@
 import React, { useMemo, useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { AstroGameProps, LocalizedText } from "../../types";
+import { shuffleDeterministic, useTimeoutRegistry } from "../../utils";
 
 export type BubbleItem = {
   id: string;
@@ -28,17 +29,13 @@ export default function BubbleChoiceView({
   const [roundIdx, setRoundIdx] = useState(0);
   const [score, setScore] = useState(0);
   const [selectedId, setSelectedId] = useState<string | null>(null);
+  const scheduleTimeout = useTimeoutRegistry();
 
   const currentRound = rounds[roundIdx];
 
   const shuffledBubbles = useMemo(() => {
     if (!currentRound) return [];
-    const arr = [...currentRound.bubbles];
-    for (let i = arr.length - 1; i > 0; i--) {
-      const j = Math.floor(Math.random() * (i + 1));
-      [arr[i], arr[j]] = [arr[j], arr[i]];
-    }
-    return arr;
+    return shuffleDeterministic(currentRound.bubbles, `${currentRound.id}-bubbles`);
   }, [currentRound]);
 
   if (!currentRound) return null;
@@ -55,7 +52,7 @@ export default function BubbleChoiceView({
       setScore((s) => Math.max(0, s - 2));
     }
 
-    setTimeout(() => {
+    scheduleTimeout(() => {
       setSelectedId(null);
       if (roundIdx + 1 < rounds.length) {
         setRoundIdx((i) => i + 1);

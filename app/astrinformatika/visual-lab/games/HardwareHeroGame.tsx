@@ -14,7 +14,7 @@ function shuffle<T>(arr: T[]): T[] {
 }
 
 const T: Record<Language, { correct: string; wrong: string; lives: string; done: string; score: string; next: string }> = {
-  de: { correct: "Helyes! ✓", wrong: "Hibás!", lives: "Leben", done: "Fertig!", score: "Punkte", next: "Weiter" },
+  de: { correct: "Richtig! ✓", wrong: "Falsch!", lives: "Leben", done: "Fertig!", score: "Punkte", next: "Weiter" },
   hu: { correct: "Helyes! ✓", wrong: "Hibás!", lives: "Élet", done: "Kész!", score: "Pont", next: "Következő" },
   ro: { correct: "Corect! ✓", wrong: "Greșit!", lives: "Vieți", done: "Gata!", score: "Scor", next: "Următor" },
   en: { correct: "Correct! ✓", wrong: "Wrong!", lives: "Lives", done: "Done!", score: "Score", next: "Next" },
@@ -95,7 +95,7 @@ export default function HardwareHeroGame({
 
       {/* Title */}
       <div className="relative z-20 text-center pt-2 pb-0 shrink-0">
-        <span className="text-[11px] tracking-widest uppercase" style={{ color: "rgba(129,140,248,0.6)" }}>🖥️ Hardware Hero</span>
+        <span className="text-[11px] tracking-widest uppercase" style={{ color: "rgba(129,140,248,0.6)" }}>🖥️ {round.title[lang] ?? round.title.en}</span>
       </div>
 
       {/* HUD */}
@@ -112,7 +112,7 @@ export default function HardwareHeroGame({
 
       {/* Instruction */}
       <p className="relative z-10 text-center text-indigo-300/40 text-xs uppercase tracking-widest pb-1 shrink-0">
-        {round.instruction.hu}
+        {round.instruction[lang] ?? round.instruction.en}
       </p>
 
       {/* Center item display */}

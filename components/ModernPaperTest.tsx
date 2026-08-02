@@ -65,7 +65,7 @@ export default function ModernPaperTest({
       {/* Paper sheet container */}
       <div className="relative z-10">
         {/* Header - Sticky & Modern */}
-        <div className="fixed top-0 left-0 right-0 z-40 backdrop-blur-md bg-white/80 border-b border-slate-200/70 shadow-sm">
+        <div className="fixed top-0 left-0 right-0 z-40 backdrop-blur-md bg-white/80 border-b border-slate-200/70 shadow-sm print:hidden">
           <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-2.5 sm:py-3">
             <div className="flex items-center justify-between gap-4">
               {/* Left: Title & Grade */}
@@ -121,8 +121,9 @@ export default function ModernPaperTest({
                     whileHover={{ scale: 1.05 }}
                     whileTap={{ scale: 0.95 }}
                     title="Drucken"
+                    aria-label="Drucken"
                   >
-                    <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <svg aria-hidden="true" className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2}
                         d="M6 9V2h12v7M6 18H4a2 2 0 01-2-2v-5a2 2 0 012-2h16a2 2 0 012 2v5a2 2 0 01-2 2h-2M6 14h12v8H6v-8z" />
                     </svg>
@@ -137,8 +138,10 @@ export default function ModernPaperTest({
                     whileHover={{ scale: 1.05 }}
                     whileTap={{ scale: 0.95 }}
                     title={exitLabel}
+                    aria-label={exitLabel}
                   >
                     <svg
+                      aria-hidden="true"
                       className="w-4 h-4"
                       fill="none"
                       stroke="currentColor"
@@ -159,14 +162,14 @@ export default function ModernPaperTest({
         </div>
 
         {/* Main content area */}
-        <main className="pt-20 pb-8">
+        <main className="pt-20 pb-8 print:p-0">
           <div className="max-w-2xl mx-auto px-3 sm:px-6 py-6">
             {/* White ruled paper sheet */}
             <motion.div
               initial={{ opacity: 0, y: 16 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.4 }}
-              className="rounded-xl shadow-lg border border-slate-200 overflow-hidden"
+              className="rounded-xl shadow-lg border border-slate-200 overflow-hidden print:rounded-none print:border-0 print:shadow-none"
               style={{
                 background: '#fff',
                 backgroundImage: `
@@ -181,7 +184,7 @@ export default function ModernPaperTest({
               }}
             >
               {/* Content with left margin offset */}
-              <div className="relative pl-14 pr-5 pb-8 sm:pr-8 min-h-screen" style={{ paddingTop: 28 }}>
+              <div className="relative pl-14 pr-5 pb-8 sm:pr-8 min-h-screen print:min-h-0" style={{ paddingTop: 28 }}>
                 {children}
               </div>
 

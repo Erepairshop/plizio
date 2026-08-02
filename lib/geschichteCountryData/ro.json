@@ -18,7 +18,7 @@
         { "question": "Cum se numea steagul dacilor?", "correct": "Draco", "wrong": ["Vexillum", "Aquila", "Standard"] },
         { "question": "Dacii credeau în nemurire. Ce înseamnă acest lucru?", "correct": "Că sufletul nu moare", "wrong": ["Că trăiesc veșnic pe pământ", "Că se transformă în plante", "Că devin zei"] },
         { "question": "Ce fel de îmbrăcăminte purtau dacii?", "correct": "Cămăși și ițari din in sau lână", "wrong": ["Togi de mătase", "Armuri de aur", "Costume de piele"] },
-        { "question": "În ce zonă geografică trăiau dacii?", "correct": "Carpato-danubiano-pontică", "wrong": ["Insupele Mediteranei", "Munții Alpi", "Valea Nilului"] },
+        { "question": "În ce zonă geografică trăiau dacii?", "correct": "Carpato-danubiano-pontică", "wrong": ["Insulele Mediteranei", "Munții Alpi", "Valea Nilului"] },
         { "question": "Ce băutură preparau dacii din orz?", "correct": "Bere", "wrong": ["Vin", "Suc", "Cafea"] },
         { "question": "Dacii erau cunoscuți și pentru creșterea:", "correct": "Animalelor", "wrong": ["Elefanților", "Cămilelor", "Papagalilor"] },
         { "question": "Cine a scris că geții sunt 'cei mai viteji și mai drepți dintre traci'?", "correct": "Herodot", "wrong": ["Aristotel", "Platon", "Homer"] }
@@ -56,7 +56,7 @@
         { "question": "Ce fel de armată avea Burebista?", "correct": "O armată numeroasă și disciplinată", "wrong": ["O armată de mercenari străini", "O armată formată doar din preoți", "Nu avea armată"] },
         { "question": "Cum îl descria geograful Strabon pe Burebista?", "correct": "Cel mai mare rege al tracilor", "wrong": ["Un rege slab", "Un zeu", "Un negustor bogat"] },
         { "question": "Ce a ordonat Burebista să se construiască în munți?", "correct": "Cetăți de piatră", "wrong": ["Temple de aur", "Drumuri asfaltate", "Baraje"] },
-        { "question": "Unde a fost asasinat Burebista?", "correct": "În urma unei complot", "wrong": ["Pe câmpul de luptă", "La Roma", "În somn, de bătrânețe"] },
+        { "question": "Cum a murit Burebista?", "correct": "Asasinat în urma unui complot", "wrong": ["Pe câmpul de luptă", "La Roma", "De bătrânețe"] },
         { "question": "Care era numele preotului care i-a succedat lui Burebista?", "correct": "Deceneu", "wrong": ["Vezina", "Decebal", "Burebista al II-lea"] }
       ],
       "typing": [
@@ -304,7 +304,7 @@
         { "question": "Cum numim perioada de după retragere?", "correct": "Epoca migrațiilor", "wrong": ["Epoca de aur", "Epoca modernă", "Preistoria"] },
         { "question": "Dunărea a rămas după 271:", "correct": "Granița Imperiului Roman", "wrong": ["Un râu interior", "Un drum spre America", "Secată"] },
         { "question": "Ce religie a început să se răspândească după retragere?", "correct": "Creștinismul", "wrong": ["Islamul", "Iudaismul", "Budismul"] },
-        { "question": "Dacia a fost prima provincie romană:", "correct": "Părăsită oficial", "wrong": ["Cucerit", "Bogată", "Mare"] },
+        { "question": "Dacia a fost prima provincie romană:", "correct": "Părăsită oficial", "wrong": ["Cucerită", "Bogată", "Mare"] },
         { "question": "Împăratul Aurelian este poreclit:", "correct": "Restitutor Orbis (Restauratorul lumii)", "wrong": ["Cel Rău", "Cuceritorul Daciei", "Bătrânul"] },
         { "question": "Unde s-a adăpostit populația în timpul invaziilor?", "correct": "În zonele muntoase și păduroase", "wrong": ["În buncăre", "Pe corăbii", "La Roma"] },
         { "question": "Continuitatea populației în Dacia este demonstrată de:", "correct": "Descoperirile arheologice și limba", "wrong": ["Televiziune", "Ziarele vremii", "Internet"] },
@@ -1048,7 +1048,7 @@
         { "question": "Câți ani a domnit Carol I?", "correct": "48 de ani (cea mai lungă domnie)", "wrong": ["7 ani", "20 de ani", "10 ani"] },
         { "question": "În ce an a sosit Carol I în România?", "correct": "1866", "wrong": ["1859", "1877", "1881"] },
         { "question": "Ce eveniment major a avut loc în 1877 sub conducerea sa?", "correct": "Războiul de Independență", "wrong": ["Marea Unire", "Revoluția de la 1848", "Al Doilea Război Mondial"] },
-        { "question": "În ce an a fost proclamat Regatul României?", "correct": "1881", "wrong": ["1866", "1877", "1918"] },
+        { "question": "Ce statut nou a primit România în 1881?", "correct": "Regat", "wrong": ["Republică", "Colonie", "Principat otoman"] },
         { "question": "Care a fost deviza lui Carol I?", "correct": "Nihil Sine Deo (Nimic fără Dumnezeu)", "wrong": ["Prin noi înșine", "Dreptate, Frăție", "Toți în unu"] },
         { "question": "Ce castel celebru a construit Carol I la Sinaia?", "correct": "Castelul Peleș", "wrong": ["Castelul Bran", "Castelul Corvinilor", "Palatul Parlamentului"] },
         { "question": "Cine a fost soția lui Carol I, cunoscută sub numele de Carmen Sylva?", "correct": "Regina Elisabeta", "wrong": ["Regina Maria", "Doamna Stanca", "Elena Cuza"] },

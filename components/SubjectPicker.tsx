@@ -13,9 +13,7 @@ import {
   Navigation,
   Castle,
   Cpu,
-  PenLine,
   Calculator,
-  ScrollText,
   Sparkles,
   ClipboardCheck,
   type LucideIcon,
@@ -169,19 +167,24 @@ const UI: Record<Lang, { pickGrade: string; astro: string; test: string; gradeLa
 };
 
 const STORAGE_KEY = "plizio:subject-picker:grade";
+const SUPPORTED_LANGS: Lang[] = ["de", "hu", "ro", "en"];
 
 export default function SubjectPicker() {
   const router = useRouter();
   const { lang } = useLang();
-  const l = (lang as Lang) ?? "de";
+  const l: Lang = SUPPORTED_LANGS.includes(lang as Lang) ? (lang as Lang) : "de";
   const t = UI[l];
 
   const [grade, setGrade] = useState<number | null>(null);
 
   useEffect(() => {
-    const saved = localStorage.getItem(STORAGE_KEY);
-    const n = saved ? parseInt(saved, 10) : NaN;
-    setGrade(Number.isFinite(n) && n >= 1 && n <= 8 ? n : 5);
+    try {
+      const saved = localStorage.getItem(STORAGE_KEY);
+      const n = saved ? parseInt(saved, 10) : NaN;
+      setGrade(Number.isFinite(n) && n >= 1 && n <= 8 ? n : 5);
+    } catch {
+      setGrade(5);
+    }
   }, []);
 
   const setAndStoreGrade = (g: number) => {
@@ -190,7 +193,11 @@ export default function SubjectPicker() {
   };
 
   const go = (subject: SubjectDef, mode: Mode) => {
-    if (grade == null) return;
+    if (
+      grade == null ||
+      !subject.grades.includes(grade) ||
+      (subject.langOnly != null && subject.langOnly !== l)
+    ) return;
     // Code Kids (K1-K4 Informatika) uses separate routes
     const isCodeKids = subject.id === "informatika" && grade <= 4;
     if (mode === "astro") {
@@ -233,6 +240,7 @@ export default function SubjectPicker() {
                     : "bg-white/5 text-white/60 border border-white/10 hover:bg-white/10"}
                 `}
                 aria-label={`${t.gradeLabel} ${g}`}
+                aria-pressed={active}
               >
                 {g}
               </button>

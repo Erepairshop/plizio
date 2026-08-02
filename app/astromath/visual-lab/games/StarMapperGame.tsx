@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef, useMemo } from 'react';
+import React, { useState, useRef, useMemo } from 'react';
 import { motion, AnimatePresence, useMotionValue, useTransform } from 'framer-motion';
 import { Language } from '@/components/i18n/LocalizedText';
 
@@ -12,7 +12,6 @@ const DICT = {
   en: {
     title: "Star Mapper",
     score: "Score",
-    time: "Time",
     lockOn: "LOCK ON",
     gameOver: "Game Over",
     playAgain: "Play Again",
@@ -25,7 +24,6 @@ const DICT = {
   de: {
     title: "Sternen-Mapper",
     score: "Punkte",
-    time: "Zeit",
     lockOn: "ZIELERFASSUNG",
     gameOver: "Spiel Beendet",
     playAgain: "Nochmal spielen",
@@ -38,7 +36,6 @@ const DICT = {
   hu: {
     title: "Csillagtérképész",
     score: "Pont",
-    time: "Idő",
     lockOn: "CÉLZÁS",
     gameOver: "Játék Vége",
     playAgain: "Újra",
@@ -51,7 +48,6 @@ const DICT = {
   ro: {
     title: "Cartografic Stelar",
     score: "Scor",
-    time: "Timp",
     lockOn: "FIXARE ȚINTĂ",
     gameOver: "Joc Terminat",
     playAgain: "Joacă din nou",
@@ -74,7 +70,6 @@ export default function StarMapperGame({ grade, lang, onDone }: StarMapperGamePr
 
   const [gameState, setGameState] = useState<'start' | 'playing' | 'end'>('start');
   const [score, setScore] = useState(0);
-  const [timeLeft, setTimeLeft] = useState(60);
   const [correctCount, setCorrectCount] = useState(0);
   const maxCorrect = grade <= 5 ? 3 : 3 + (grade - 5);
   const [target, setTarget] = useState({ x: 0, y: 0 });
@@ -116,20 +111,8 @@ export default function StarMapperGame({ grade, lang, onDone }: StarMapperGamePr
     setFeedback(null);
   };
 
-  // Timer
-  useEffect(() => {
-    if (gameState === 'playing' && timeLeft > 0) {
-      const timer = setTimeout(() => setTimeLeft(prev => prev - 1), 1000);
-      return () => clearTimeout(timer);
-    } else if (timeLeft === 0 && gameState === 'playing') {
-      setGameState('end');
-      if (onDone) onDone(score);
-    }
-  }, [timeLeft, gameState, score, onDone]);
-
   const startGame = () => {
     setScore(0);
-    setTimeLeft(60);
     setCorrectCount(0);
     setGameState('playing');
     generateTarget();
@@ -168,7 +151,7 @@ export default function StarMapperGame({ grade, lang, onDone }: StarMapperGamePr
   const yAxisX = config.minX <= 0 && config.maxX >= 0 ? 0 : config.minX;
 
   return (
-    <div className="flex flex-col items-center justify-center w-full max-w-2xl mx-auto min-h-[600px] bg-slate-900 rounded-2xl overflow-hidden shadow-2xl relative border border-slate-700 text-slate-100 font-sans p-6 select-none">
+    <div className="flex flex-col items-center justify-center w-full max-w-2xl mx-auto min-h-[calc(100dvh-2rem)] sm:min-h-[600px] bg-slate-900 rounded-2xl overflow-hidden shadow-2xl relative border border-slate-700 text-slate-100 font-sans p-3 sm:p-6 select-none">
       
       {/* Background Effects */}
       <div className="absolute inset-0 pointer-events-none overflow-hidden opacity-30">
@@ -183,10 +166,6 @@ export default function StarMapperGame({ grade, lang, onDone }: StarMapperGamePr
         </h2>
         {gameState === 'playing' && (
           <div className="flex gap-6 text-lg font-mono">
-            <div className="flex flex-col items-end">
-              <span className="text-slate-400 text-xs uppercase">{t.time}</span>
-              <span className={`font-bold ${timeLeft <= 10 ? 'text-red-500 animate-pulse' : 'text-slate-200'}`}>0:{timeLeft.toString().padStart(2, '0')}</span>
-            </div>
             <div className="flex flex-col items-end">
               <span className="text-slate-400 text-xs uppercase">{t.score}</span>
               <span className="font-bold text-cyan-400">{score}</span>

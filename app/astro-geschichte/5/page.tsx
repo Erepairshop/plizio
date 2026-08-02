@@ -1,5 +1,5 @@
 "use client";
-import React, { useState, useEffect, useCallback, useRef } from "react";
+import React, { useState, useEffect, useCallback, useMemo, useRef } from "react";
 import { motion } from "framer-motion";
 import { useRouter } from "next/navigation";
 import { X, ChevronRight, ChevronLeft } from "lucide-react";
@@ -25,6 +25,7 @@ import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import type { MathQuestion } from "@/lib/mathCurriculum";
+import { getK5VariantContent } from "@/lib/astroGeschichte5";
 import type { IslandDef, MissionDef, Lang, MissionCategory, GeschichteProgress } from "@/lib/astroGeschichte";
 import M2Engine from "@/components/astro-games/M2Engine";
 import M3Engine from "@/components/astro-games/M3Engine";
@@ -41,6 +42,7 @@ import {
 import VisualLab, { VisualLabFab } from "@/components/VisualLab";
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
 const K5Explorer = dynamic(() => import("@/app/astro-geschichte/games/k5/K5Explorer"), { ssr: false });
+const CountryHistoryExplorer = dynamic(() => import("@/app/astro-geschichte/games/CountryHistoryExplorer"), { ssr: false });
 
 const CATEGORY_CONFIG: Record<string, {
   label: Record<string, string>;
@@ -70,10 +72,10 @@ const CATEGORY_CONFIG: Record<string, {
   challenge: {
     label: { en: "Challenge", hu: "Kihívás", de: "Herausforderung", ro: "Provocare" },
     desc: {
-      en: "Fast & timed — show what you know!",
-      hu: "Gyors és időre — mutasd meg tudásod!",
-      de: "Schnell & timed — zeig was du kannst!",
-      ro: "Rapid și la timp — arată ce știi!",
+      en: "Focused challenge: show what you know!",
+      hu: "Összpontosító kihívás: mutasd meg tudásod!",
+      de: "Konzentrierte Herausforderung: Zeig, was du kannst!",
+      ro: "Provocare de concentrare: arată ce știi!",
     },
     color: "#FB923C", bg: "rgba(251,146,60,0.12)", border: "rgba(251,146,60,0.35)",
   },
@@ -124,7 +126,7 @@ const CP_POS: Record<string, { x: number; y: number }> = {
   test3: { x: 155, y: -165 },
 };
 
-function buildSmoothPath(islands: typeof K5_ISLANDS): string {
+function buildSmoothPath(islands: readonly IslandDef[]): string {
   const pts = islands.map((i) => ({ x: i.svgX, y: i.svgY }));
   if (pts.length < 2) return "";
   let d = `M ${pts[0].x},${pts[0].y}`;
@@ -137,12 +139,13 @@ function buildSmoothPath(islands: typeof K5_ISLANDS): string {
   return d;
 }
 
-function IslandMapSVG({ progress, onIsland, onCheckpoint }: {
+function IslandMapSVG({ islands, progress, onIsland, onCheckpoint }: {
+  islands: IslandDef[];
   progress: GeschichteProgress;
   onIsland: (island: IslandDef) => void;
   onCheckpoint: (testId: string) => void;
 }) {
-  const pathD = buildSmoothPath(K5_ISLANDS);
+  const pathD = buildSmoothPath(islands);
   return (
     <svg viewBox={`0 -${MAP_VB_OFFSET} ${MAP_W} ${MAP_H}`} width="100%" style={{ minHeight: MAP_H, display: "block" }}>
       <defs>
@@ -182,7 +185,7 @@ function IslandMapSVG({ progress, onIsland, onCheckpoint }: {
         );
       })}
 
-      {K5_ISLANDS.map((island, idx) => {
+      {islands.map((island, idx) => {
         const unlocked = isIslandUnlockedK5(progress, island.id);
         const done = isIslandDoneK5(progress, island.id);
         const total = islandTotalStarsK5(progress, island.id);
@@ -211,6 +214,8 @@ export default function AstroGeschichteK5Page() {
   const { lang } = useLang();
   const router = useRouter();
   const t = T[lang as keyof typeof T] ?? T.en;
+  const content = useMemo(() => getK5VariantContent(lang as Lang), [lang]);
+  const islands = content.islands;
 
   const [visualLabOpen, setVisualLabOpen] = useState(false);
   const [screen, setScreen] = useState<Screen>("island-map");
@@ -239,16 +244,28 @@ export default function AstroGeschichteK5Page() {
   const [avatarMood, setAvatarMood] = useState<any>("idle");
   const [jumpTrigger, setJumpTrigger] = useState<any>(undefined);
   const [avatarIslandId, setAvatarIslandId] = useState<string>("i1");
+  const previousVariantIdRef = useRef<string | null>(null);
 
-  const avatarIsland = K5_ISLANDS.find(i => i.id === avatarIslandId) ?? K5_ISLANDS[0];
+  const avatarIsland = islands.find(i => i.id === avatarIslandId) ?? islands[0];
   const avatarProps = { gender, activeSkin, activeFace, activeTop, activeBottom, activeShoe, activeCape, activeGlasses, activeGloves, activeHat, activeTrail };
 
   useEffect(() => {
-    const p = loadK5Progress();
+    const p = loadK5Progress(content.variant.id);
     setProgress(p);
-    const lastDone = [...K5_ISLANDS].reverse().find(i => p.completedIslands.includes(i.id));
+    const lastDone = [...islands].reverse().find(i => p.completedIslands.includes(i.id));
     if (lastDone) setAvatarIslandId(lastDone.id);
-  }, []);
+  }, [content.variant.id, islands]);
+
+  useEffect(() => {
+    if (previousVariantIdRef.current && previousVariantIdRef.current !== content.variant.id) {
+      setScreen("island-map");
+      setActiveIsland(null);
+      setActiveMission(null);
+      setActiveTestId(null);
+      setQuestions([]);
+    }
+    previousVariantIdRef.current = content.variant.id;
+  }, [content.variant.id]);
 
   const handleIslandSelect = useCallback((island: IslandDef) => {
     setActiveIsland(island);
@@ -261,10 +278,10 @@ export default function AstroGeschichteK5Page() {
     const p = new URLSearchParams(window.location.search);
     const id = p.get("island");
     if (id) {
-      const target = K5_ISLANDS.find(i => i.id === id);
+      const target = islands.find(i => i.id === id);
       if (target) handleIslandSelect(target);
     }
-  }, [handleIslandSelect]);
+  }, [handleIslandSelect, islands]);
 
 
   const startMission = useCallback((mission: MissionDef) => {
@@ -290,11 +307,11 @@ export default function AstroGeschichteK5Page() {
     const newProgress = completeMissionK5(progress, activeIsland.id, activeMission.id, stars);
     const isNowIslandDone = newProgress.completedIslands.includes(activeIsland.id);
     setJustUnlockedIsland(!wasIslandDone && isNowIslandDone);
-    saveK5Progress(newProgress);
+    saveK5Progress(newProgress, content.variant.id);
     setProgress(newProgress);
     setAvatarMood(pct >= 60 ? "victory" : "disappointed");
     setScreen("mission-done");
-  }, [activeIsland, activeMission, progress]);
+  }, [activeIsland, activeMission, content.variant.id, progress]);
 
   const handleAfterMission = useCallback(() => {
     if (justUnlockedIsland) setScreen("island-complete-anim");
@@ -315,16 +332,16 @@ export default function AstroGeschichteK5Page() {
   const startCheckpoint = useCallback((testId: string) => {
     setActiveTestId(testId);
     setAvatarMood("focused");
-    const qs = generateCheckpointQuestionsK5(testId, lang as Lang, 10);
+    const qs = generateCheckpointQuestionsK5(testId, lang as Lang, 10, content.checkpointTopics);
     setQuestions(qs);
     setScreen("rocket-launch");
-  }, [lang]);
+  }, [content.checkpointTopics, lang]);
 
   const handleCheckpointDone = useCallback((score: number, total: number) => {
     if (!activeTestId) return;
     setCheckpointScore({ score, total });
     const newProgress = completeTestK5(progress, activeTestId);
-    saveK5Progress(newProgress);
+    saveK5Progress(newProgress, content.variant.id);
     setProgress(newProgress);
     const rarity = calculateRarity(score, total, 0, false);
     saveCard({ id: generateCardId(), game: "astrogeschichte", rarity, score, total, date: new Date().toISOString() });
@@ -334,7 +351,7 @@ export default function AstroGeschichteK5Page() {
     setEarnedCard(rarity);
     setRewardScore({ score, total });
     setScreen("reward");
-  }, [activeTestId, progress]);
+  }, [activeTestId, content.variant.id, progress]);
 
   const goToMap = () => { setScreen("island-map"); setActiveIsland(null); };
 
@@ -355,7 +372,7 @@ export default function AstroGeschichteK5Page() {
         </div>
         <div className="relative z-10 flex-1 overflow-y-auto" ref={attachAutoScrollToBottom}>
           <div className="max-w-sm mx-auto relative" style={{ minHeight: MAP_H }}>
-            <IslandMapSVG progress={progress} onIsland={handleIslandSelect} onCheckpoint={startCheckpoint} />
+            <IslandMapSVG islands={islands} progress={progress} onIsland={handleIslandSelect} onCheckpoint={startCheckpoint} />
             <motion.div className="absolute pointer-events-none z-10" style={{ width: 72, height: 72, transform: "translate(-50%, -50%)" }}
               animate={{ left: `${((avatarIsland.svgX + (avatarIsland.svgX > MAP_W / 2 ? -54 : 54)) / MAP_W) * 100}%`, top: `${((avatarIsland.svgY + MAP_VB_OFFSET) / MAP_H) * 100}%`, opacity: 1 }} initial={{ opacity: 0 }}>
               <AvatarCompanion fixed={false} mood="idle" {...avatarProps} />
@@ -411,10 +428,6 @@ export default function AstroGeschichteK5Page() {
     );
   }
 
-  if (screen === "geschichte-explore" && activeIsland) {
-    return <K5Explorer island={activeIsland} grade={5} color={bgColor} lang={lang} onDone={handleMissionDone} />;
-  }
-
   if (screen === "orbit-quiz" || screen === "black-hole" || screen === "star-match" || screen === "speed-round" || screen === "geschichte-explore" || screen === "m2" || screen === "m3") {
     return (
       <div className="min-h-screen flex flex-col relative overflow-hidden bg-[#060614]">
@@ -432,6 +445,8 @@ export default function AstroGeschichteK5Page() {
           {screen === "black-hole" && <BlackHole questions={questions} color={bgColor} onDone={handleMissionDone} onCorrect={() => setAvatarMood("happy")} onWrong={() => setAvatarMood("disappointed")} />}
           {screen === "star-match" && <StarMatch questions={questions} color={bgColor} onDone={handleMissionDone} />}
           {screen === "speed-round" && <SpeedRound questions={questions} color={bgColor} lang={lang} onDone={handleMissionDone} onCorrect={() => setAvatarMood("happy")} onWrong={() => setAvatarMood("disappointed")} />}
+          {screen === "geschichte-explore" && activeIsland && content.usesCountryContent && <CountryHistoryExplorer island={activeIsland} grade={5} color={bgColor} lang={lang} onDone={handleMissionDone} onClose={() => setScreen("mission-select")} />}
+          {screen === "geschichte-explore" && activeIsland && !content.usesCountryContent && <K5Explorer island={activeIsland} grade={5} color={bgColor} lang={lang} variantId={content.variant.id} onDone={handleMissionDone} />}
         </div>
         <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />
       </div>
@@ -441,10 +456,10 @@ export default function AstroGeschichteK5Page() {
   // catch-all
 
   // Simplify for other screens to fit limits, following standard Plizio patterns
-  if (screen === "mission-done") return <div className="min-h-screen bg-[#060614] flex flex-col items-center justify-center p-6"><Starfield /><h2 className="text-white text-2xl font-black mb-4">Mission befehdet!</h2><button onClick={handleAfterMission} className="py-4 px-8 rounded-xl bg-white/10 text-white font-bold">{t.next}</button></div>;
+  if (screen === "mission-done") return <div className="min-h-screen bg-[#060614] flex flex-col items-center justify-center p-6"><Starfield /><h2 className="text-white text-2xl font-black mb-4">{{ de: "Mission beendet!", en: "Mission complete!", hu: "Küldetés teljesítve!", ro: "Misiune îndeplinită!" }[lang as Lang] ?? "Mission beendet!"}</h2><button onClick={handleAfterMission} className="py-4 px-8 rounded-xl bg-white/10 text-white font-bold">{t.next}</button></div>;
   if (screen === "reward") return <RewardReveal rarity={earnedCard!} game="astrogeschichte" score={rewardScore.score} total={rewardScore.total} onDone={() => setScreen("island-done")} />;
-  if (screen === "island-done") return <div className="min-h-screen bg-[#060614] flex flex-col items-center justify-center p-6"><Starfield /><h2 className="text-white text-3xl font-black mb-4">{activeIsland?.icon} Insel beendet!</h2><button onClick={goToMap} className="py-4 px-8 rounded-xl bg-white/10 text-white font-bold">{t.back}</button></div>;
-  if (screen === "island-complete-anim") return <IslandCompleteAnimation islandIcon={activeIsland!.icon} islandColor={activeIsland!.color} islandName={activeIsland!.name.de} lang={lang} grade={5} score={missionScore.score} total={missionScore.total} onDone={handleIslandAnimDone} />;
+  if (screen === "island-done") return <div className="min-h-screen bg-[#060614] flex flex-col items-center justify-center p-6"><Starfield /><h2 className="text-white text-3xl font-black mb-4">{activeIsland?.icon} {{ de: "Insel abgeschlossen!", en: "Island complete!", hu: "Sziget teljesítve!", ro: "Insulă finalizată!" }[lang as Lang] ?? "Insel abgeschlossen!"}</h2><button onClick={goToMap} className="py-4 px-8 rounded-xl bg-white/10 text-white font-bold">{t.back}</button></div>;
+  if (screen === "island-complete-anim") return <IslandCompleteAnimation islandIcon={activeIsland!.icon} islandColor={activeIsland!.color} islandName={activeIsland!.name[lang as Lang] ?? activeIsland!.name.de} lang={lang} grade={5} score={missionScore.score} total={missionScore.total} onDone={handleIslandAnimDone} />;
   if (screen === "rocket-launch") return <div className="min-h-screen bg-[#060614]"><Starfield /><RocketLaunch questions={questions} color="#FFD700" onDone={() => setScreen("checkpoint-quiz")} /></div>;
   if (screen === "checkpoint-quiz") return <div className="min-h-screen bg-[#060614] flex flex-col"><Starfield /><div className="flex-1"><OrbitQuiz questions={questions} color="#FFD700" onDone={handleCheckpointDone} /></div><AvatarCompanion fixed={true} mood={avatarMood} {...avatarProps} /></div>;
 

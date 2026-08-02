@@ -2,6 +2,7 @@
 import React, { useState, useMemo } from "react";
 import { motion } from "framer-motion";
 import { AstroGameProps, LocalizedText } from "../../types";
+import { shuffleDeterministic } from "../../utils";
 
 export type CategoryRushRound = {
   id: string;
@@ -10,15 +11,6 @@ export type CategoryRushRound = {
   items: { id: string; label: LocalizedText; correctCategoryId: string }[];
   durationMs?: number;
 };
-
-function shuffle<T>(arr: T[]): T[] {
-  const a = [...arr];
-  for (let i = a.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [a[i], a[j]] = [a[j], a[i]];
-  }
-  return a;
-}
 
 export default function CategoryRushView({ rounds, color, lang, mode, onDone, onCorrect, onWrong }: AstroGameProps<CategoryRushRound>) {
    const [roundIdx, setRoundIdx] = useState(0);
@@ -29,12 +21,12 @@ export default function CategoryRushView({ rounds, color, lang, mode, onDone, on
 
    const shuffledItems = useMemo(() => {
      if (!currentRound) return [];
-     return shuffle(currentRound.items);
+     return shuffleDeterministic(currentRound.items, `${currentRound.id}-items`);
    }, [currentRound?.id]);
 
    const shuffledCategories = useMemo(() => {
      if (!currentRound) return [];
-     return shuffle(currentRound.categories);
+     return shuffleDeterministic(currentRound.categories, `${currentRound.id}-categories`);
    }, [currentRound?.id]);
 
    const currentItem = shuffledItems[itemIdx];

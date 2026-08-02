@@ -13,6 +13,13 @@ const LANGS: { code: Language; flag: string; label: string }[] = [
   { code: "ro", flag: "🇷🇴", label: "Română" },
 ];
 
+const SWITCHER_LABEL: Record<Language, string> = {
+  de: "Sprache auswählen",
+  en: "Choose language",
+  hu: "Nyelv kiválasztása",
+  ro: "Alege limba",
+};
+
 export default function LanguageSwitcher() {
   const { lang, setLang } = useLang();
   const [open, setOpen] = useState(false);
@@ -25,8 +32,15 @@ export default function LanguageSwitcher() {
     const handler = (e: MouseEvent) => {
       if (ref.current && !ref.current.contains(e.target as Node)) setOpen(false);
     };
+    const handleKeyDown = (e: KeyboardEvent) => {
+      if (e.key === "Escape") setOpen(false);
+    };
     document.addEventListener("mousedown", handler);
-    return () => document.removeEventListener("mousedown", handler);
+    document.addEventListener("keydown", handleKeyDown);
+    return () => {
+      document.removeEventListener("mousedown", handler);
+      document.removeEventListener("keydown", handleKeyDown);
+    };
   }, [open]);
 
   return (
@@ -34,6 +48,10 @@ export default function LanguageSwitcher() {
       {/* Trigger — small globe + active flag */}
       <motion.button
         onClick={() => setOpen(!open)}
+        aria-label={SWITCHER_LABEL[lang]}
+        aria-haspopup="menu"
+        aria-expanded={open}
+        aria-controls="language-switcher-menu"
         className="flex items-center gap-1.5 bg-white/[0.06] border border-white/10 rounded-full px-2.5 py-1.5 hover:bg-white/10 transition-colors"
         whileTap={{ scale: 0.92 }}
       >
@@ -45,6 +63,9 @@ export default function LanguageSwitcher() {
       <AnimatePresence>
         {open && (
           <motion.div
+            id="language-switcher-menu"
+            role="menu"
+            aria-label={SWITCHER_LABEL[lang]}
             className="absolute top-full left-0 mt-1.5 flex flex-col bg-[#12122A]/95 backdrop-blur-xl border border-white/10 rounded-xl overflow-hidden shadow-2xl z-50"
             initial={{ opacity: 0, y: -8, scale: 0.95 }}
             animate={{ opacity: 1, y: 0, scale: 1 }}
@@ -57,6 +78,8 @@ export default function LanguageSwitcher() {
                 <button
                   key={l.code}
                   onClick={() => { setLang(l.code); setOpen(false); }}
+                  role="menuitemradio"
+                  aria-checked={isActive}
                   className={`flex items-center gap-2.5 px-3.5 py-2 text-sm transition-colors whitespace-nowrap ${
                     isActive
                       ? "bg-[#00D4FF]/10 text-white"

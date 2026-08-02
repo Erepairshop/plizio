@@ -76,10 +76,10 @@ const CATEGORY_CONFIG: Record<string, {
   challenge: {
     label: { en: "Challenge", hu: "Kihívás", de: "Herausforderung", ro: "Provocare" },
     desc: {
-      en: "Fast & timed — show what you know!",
-      hu: "Gyors és időre — mutasd meg tudásod!",
-      de: "Schnell & timed — zeig was du kannst!",
-      ro: "Rapid și la timp — arată ce știi!",
+      en: "A deeper challenge — take the time you need!",
+      hu: "Összetettebb kihívás — dolgozz a saját tempódban!",
+      de: "Eine anspruchsvollere Aufgabe — arbeite in deinem Tempo!",
+      ro: "O provocare mai complexă — lucrează în ritmul tău!",
     },
     color: "#FB923C", bg: "rgba(251,146,60,0.12)", border: "rgba(251,146,60,0.35)",
   },
@@ -153,7 +153,7 @@ function Starfield() {
 
 // ─── Island Map SVG ────────────────────────────────────────────────────────────
 const MAP_W = 320;
-const MAP_H = 860;
+const MAP_H = 920;
 const MAP_VB_OFFSET = 220;
 
 const CP_POS: Record<string, { x: number; y: number }> = {
@@ -175,15 +175,22 @@ function buildSmoothPath(islands: typeof K6_ISLANDS): string {
   return d;
 }
 
-function IslandMapSVG({ progress, onIsland, onCheckpoint }: {
+function IslandMapSVG({ progress, onIsland, onCheckpoint, lang }: {
   progress: K6Progress;
   onIsland: (island: IslandDef) => void;
   onCheckpoint: (testId: string) => void;
+  lang: Lang;
 }) {
   const pathD = buildSmoothPath(K6_ISLANDS);
+  const mapText = {
+    de: { done: "Fertig!", ready: "Test!", locked: "Test", checkpoint: "Checkpoint", island: "Insel", map: "Informatik-Lernkarte" },
+    hu: { done: "Kész!", ready: "Teszt!", locked: "Teszt", checkpoint: "Ellenőrző", island: "Sziget", map: "Informatika-tanulótérkép" },
+    ro: { done: "Gata!", ready: "Test!", locked: "Test", checkpoint: "Verificare", island: "Insulă", map: "Harta de informatică" },
+    en: { done: "Done!", ready: "Test!", locked: "Test", checkpoint: "Checkpoint", island: "Island", map: "Informatics learning map" },
+  }[lang];
 
   return (
-    <svg viewBox={`0 -${MAP_VB_OFFSET} ${MAP_W} ${MAP_H}`} width="100%" style={{ minHeight: MAP_H, display: "block" }}>
+    <svg viewBox={`0 -${MAP_VB_OFFSET} ${MAP_W} ${MAP_H}`} width="100%" style={{ minHeight: MAP_H, display: "block" }} aria-label={mapText.map}>
       <defs>
         <filter id="pathGlowInfo6" x="-20%" y="-20%" width="140%" height="140%">
           <feGaussianBlur stdDeviation="3" result="blur" />
@@ -224,6 +231,9 @@ function IslandMapSVG({ progress, onIsland, onCheckpoint }: {
         const fillAlpha = done ? "rgba(0,255,136,0.15)" : unlocked ? "rgba(255,215,0,0.15)" : "rgba(255,255,255,0.03)";
         return (
           <g key={testId} onClick={() => unlocked && !done && onCheckpoint(testId)}
+            onKeyDown={(event) => (event.key === "Enter" || event.key === " ") && unlocked && !done && onCheckpoint(testId)}
+            role={unlocked && !done ? "button" : undefined} tabIndex={unlocked && !done ? 0 : -1}
+            aria-label={`${mapText.checkpoint} ${testId.slice(-1)}: ${done ? mapText.done : unlocked ? mapText.ready : mapText.locked}`}
             style={{ cursor: unlocked && !done ? "pointer" : "default" }}>
             {unlocked && !done && (
               <circle cx={pos.x} cy={pos.y} r={22} fill="none" stroke={color} strokeWidth={1}
@@ -235,7 +245,7 @@ function IslandMapSVG({ progress, onIsland, onCheckpoint }: {
               {done ? "✅" : unlocked ? "🚀" : "🔒"}
             </text>
             <text x={pos.x + 8} y={pos.y + 5} textAnchor="middle" fontSize={10} fontWeight="bold" fill={color}>
-              {done ? "Fertig!" : unlocked ? "Test!" : "Test"}
+              {done ? mapText.done : unlocked ? mapText.ready : mapText.locked}
             </text>
           </g>
         );
@@ -248,6 +258,9 @@ function IslandMapSVG({ progress, onIsland, onCheckpoint }: {
 
         return (
           <g key={island.id} onClick={() => unlocked && onIsland(island)}
+            onKeyDown={(event) => (event.key === "Enter" || event.key === " ") && unlocked && onIsland(island)}
+            role={unlocked ? "button" : undefined} tabIndex={unlocked ? 0 : -1}
+            aria-label={`${mapText.island} ${idx + 1}: ${island.name[lang] ?? island.name.en}`}
             style={{ cursor: unlocked ? "pointer" : "default" }}>
             {unlocked && !done && (
               <circle cx={island.svgX} cy={island.svgY} r={40}
@@ -298,7 +311,7 @@ function IslandMapSVG({ progress, onIsland, onCheckpoint }: {
             {unlocked && (
               <text x={island.svgX} y={island.svgY + 48} textAnchor="middle" fontSize={9} fontWeight="bold"
                 fill={total === 9 ? "#FFD700" : total > 0 ? island.color : "rgba(255,255,255,0.25)"}>
-                {total > 0 ? `${total}/9 ⭐` : island.name.de.split(" ")[0]}
+                {total > 0 ? `${total}/9 ⭐` : (island.name[lang] ?? island.name.en).split(" ")[0]}
               </text>
             )}
           </g>
@@ -314,7 +327,7 @@ function MissionDoneScreen({ mission, island, score, total, onContinue }: {
 }) {
   const { lang } = useLang();
   const t = T[lang as keyof typeof T] ?? T.en;
-  const pct = Math.round((score / total) * 100);
+  const pct = total > 0 ? Math.round((score / total) * 100) : 0;
   const stars = pct >= 80 ? 3 : pct >= 60 ? 2 : 1;
 
   return (
@@ -386,7 +399,7 @@ function CheckpointDoneScreen({ score, total, onContinue }: {
 }) {
   const { lang } = useLang();
   const t = T[lang as keyof typeof T] ?? T.en;
-  const pct = Math.round((score / total) * 100);
+  const pct = total > 0 ? Math.round((score / total) * 100) : 0;
   const emoji = pct >= 80 ? "🏆" : pct >= 60 ? "🎯" : "💪";
 
   return (
@@ -521,10 +534,11 @@ export default function AstroInformatikaK6Page() {
     }
 
     const qCount = mission.gameType === "star-match" ? 20 : 10;
-    const qs = generateIslandQuestionsK6(activeIsland, qCount);
+    const countryCode = { de: "DE", hu: "HU", ro: "RO", en: "US" }[lang as Lang] ?? "US";
+    const qs = generateIslandQuestionsK6(activeIsland, qCount, countryCode);
     setQuestions(qs);
     setScreen(mission.gameType as Screen);
-  }, [activeIsland]);
+  }, [activeIsland, lang]);
 
   // ── Mission finished ─────────────────────────────────────────────────────────
   const handleMissionDone = useCallback((score: number, total: number) => {
@@ -571,14 +585,16 @@ export default function AstroInformatikaK6Page() {
   const startCheckpoint = useCallback((testId: string) => {
     setActiveTestId(testId);
     setAvatarMood("focused");
-    const qs = generateCheckpointQuestionsK6(testId, 7);
+    const countryCode = { de: "DE", hu: "HU", ro: "RO", en: "US" }[lang as Lang] ?? "US";
+    const qs = generateCheckpointQuestionsK6(testId, 7, countryCode);
     setQuestions(qs);
     setScreen("rocket-launch");
   }, [lang]);
 
   const startCheckpointQuiz = useCallback(() => {
     if (!activeTestId) return;
-    const qs = generateCheckpointQuestionsK6(activeTestId, 15);
+    const countryCode = { de: "DE", hu: "HU", ro: "RO", en: "US" }[lang as Lang] ?? "US";
+    const qs = generateCheckpointQuestionsK6(activeTestId, 15, countryCode);
     setQuestions(qs);
     setScreen("checkpoint-quiz");
   }, [activeTestId, lang]);
@@ -645,7 +661,7 @@ export default function AstroInformatikaK6Page() {
         <div className="relative z-10 flex-1 min-h-0 overflow-y-auto" ref={attachAutoScrollToBottom}>
           <div className="max-w-sm mx-auto px-2 pb-6" style={{ minHeight: MAP_H + 40 }}>
             <div className="relative">
-              <IslandMapSVG progress={progress} onIsland={handleIslandSelect} onCheckpoint={startCheckpoint} />
+              <IslandMapSVG progress={progress} onIsland={handleIslandSelect} onCheckpoint={startCheckpoint} lang={lang as Lang} />
               <motion.div
                 className="absolute pointer-events-none z-10"
                 style={{ width: 72, height: 72, transform: "translate(-50%, -50%)" }}

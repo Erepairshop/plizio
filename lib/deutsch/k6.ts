@@ -1281,7 +1281,7 @@ export const K6: DeutschTheme[] = [
 { type: "typing", topic: "zeichensetzung_k6", subtopic: "gedankenstrich_k6", question: "Vervollständige: 'Kein Weg zurück _ leider.'", answer: ["-"] },
 { type: "mcq", topic: "zeichensetzung_k6", subtopic: "gedankenstrich_k6", question: "Was kündigt ein Gedankenstrich oft an?", options: ["Einen Themenwechsel", "Eine Fortsetzung", "Einen Widerspruch"], correct: 0 },
 { type: "typing", topic: "zeichensetzung_k6", subtopic: "gedankenstrich_k6", question: "Setze das Zeichen: 'Ich warte _ bis morgen.'", answer: ["-"] },
-          // TODO: további Fragen ↓
+          // TODO: weitere Fragen
         ],
       },
       {

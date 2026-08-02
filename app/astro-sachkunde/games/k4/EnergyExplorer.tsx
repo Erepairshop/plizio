@@ -59,7 +59,8 @@ const Topic3Svg = memo(function Topic3Svg() {
   );
 });
 
-const Topic4Svg = memo(function Topic4Svg() {
+const Topic4Svg = memo(function Topic4Svg({ lang }: { lang: string }) {
+  const rubber = { de: "Gummi", en: "Rubber", hu: "Gumi", ro: "Cauciuc" }[lang] ?? "Rubber";
   return (
     <svg width="100%" viewBox="0 0 240 140">
       <rect width="240" height="140" fill="#FDFCFB" rx="20" />
@@ -70,7 +71,7 @@ const Topic4Svg = memo(function Topic4Svg() {
       </g>
       <g transform="translate(180, 70)">
         <rect x="-30" y="-15" width="60" height="30" fill="#111" rx="5" /> {/* Gumi */}
-        <text x="0" y="35" textAnchor="middle" fontSize="12" fill="#444">Gumi</text>
+        <text x="0" y="35" textAnchor="middle" fontSize="12" fill="#444">{rubber}</text>
       </g>
     </svg>
   );
@@ -127,7 +128,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_inst: "Keresd meg a szövegben a zárt út és az anyag nevét!",
     t3_tok0: "Egy", t3_tok1: "zárt", t3_tok2: "elektromos", t3_tok3: "áramkör", t3_tok4: "szükséges,", t3_tok5: "amit", t3_tok6: "vezető", t3_tok7: "alkot.",
     t3_q: "Mi történik, ha megszakítjuk az áramkört egy kapcsolóval?",
-    t3_q_a: "Az áram nem folyik tovább", b: "Az áram gyorsabb lesz", c: "Az elem felrobban", d: "Semmi nem változik",
+    t3_q_a: "Az áram nem folyik tovább", t3_q_b: "Az áram gyorsabb lesz", t3_q_c: "Az elem felrobban", t3_q_d: "Semmi nem változik",
 
     t4_title: "Vezetők és szigetelők",
     t4_text: "Nem minden anyag engedi át az áramot. Vannak jó vezetők és jó szigetelők.",
@@ -175,7 +176,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_inst: "Find the words for the path and the material!",
     t3_tok0: "A", t3_tok1: "closed", t3_tok2: "electrical", t3_tok3: "circuit", t3_tok4: "uses", t3_tok5: "a", t3_tok6: "conductor", t3_tok7: "wire.",
     t3_q: "What happens if we break the circuit with a switch?",
-    t3_q_a: "Current stops flowing", b: "Current goes faster", c: "Battery explodes", d: "Nothing changes",
+    t3_q_a: "Current stops flowing", t3_q_b: "Current goes faster", t3_q_c: "Battery explodes", t3_q_d: "Nothing changes",
 
     t4_title: "Conductors & Insulators", t4_text: "Not all materials allow electricity to pass through.",
     t4_b1: "Metals (copper, gold) are great conductors.", t4_b2: "Plastic, glass, and rubber are insulators.", t4_b3: "Wet hands conduct, so it's dangerous!",
@@ -189,6 +190,33 @@ const LABELS: Record<string, Record<string, string>> = {
     t5_inst: "Click the 5 lightning bolts (⚡) to charge the storage!",
     t5_q: "Which one is a renewable energy source?",
     t5_q_a: "Wind energy", t5_q_b: "Coal", t5_q_c: "Natural gas", t5_q_d: "Batteries",
+  },
+  de: {
+    explorer_title: "Energie und Elektrizität",
+    t1_title: "Energieformen", t1_text: "Energie bewirkt Bewegung oder Veränderung. Sie wird umgewandelt, geht aber nicht verloren.",
+    t1_b1: "Bewegungsenergie steckt in allem, was sich bewegt.", t1_b2: "Wärmeenergie entsteht durch bewegte Teilchen.", t1_b3: "Elektrische Energie entsteht durch fließende Ladungen.",
+    t1_inst: "Ordne Energieform und Quelle zu!", t1_l1: "Lichtenergie", t1_r1: "Sonnenstrahlen", t1_l2: "Bewegungsenergie", t1_r2: "Windrad", t1_l3: "Wärmeenergie", t1_r3: "Heißes Bügeleisen",
+    t1_q: "Was besagt der Energieerhaltungssatz?", t1_q_a: "Energie wird nur umgewandelt", t1_q_b: "Energie verschwindet", t1_q_c: "Nur Batterien haben Energie", t1_q_d: "Energie ist immer blau",
+    t2_title: "Energieumwandlung", t2_text: "Im Alltag wandeln wir Energie von einer Form in eine andere um.",
+    t2_b1: "Pflanzen wandeln Licht in chemische Energie um.", t2_b2: "Ein Bügeleisen wandelt Strom in Wärme um.", t2_b3: "Wasserkraft wandelt Bewegung in Strom um.",
+    t2_inst: "Was wird woraus? Sortiere!", t2_bucket_elektro: "Aus Elektrizität...", t2_bucket_mozgas: "Aus Bewegung...", t2_item_e1: "...Licht (Lampe)", t2_item_e2: "...Wärme (Föhn)", t2_item_m1: "...Strom (Generator)", t2_item_m2: "...Wärme (Reibung)",
+    t1_q_2: "In was wandelt eine Taschenlampe Batterieenergie um?", t1_q_2_a: "In Lichtenergie", t1_q_2_b: "In Schallenergie", t1_q_2_c: "In Wasser", t1_q_2_d: "In Gedanken",
+    t3_title: "Der Stromkreis", t3_text: "Strom fließt nur auf einem geschlossenen Weg, dem Stromkreis.", t3_b1: "Er braucht eine Stromquelle.", t3_b2: "Er braucht einen Verbraucher.", t3_b3: "Leitungen verbinden die Bauteile.",
+    t3_inst: "Finde die Wörter für Weg und Material!", t3_tok0: "Ein", t3_tok1: "geschlossener", t3_tok2: "elektrischer", t3_tok3: "Stromkreis", t3_tok4: "besteht", t3_tok5: "aus", t3_tok6: "leitendem", t3_tok7: "Material.",
+    t3_q: "Was passiert beim Öffnen des Stromkreises?", t3_q_a: "Der Strom fließt nicht weiter", t3_q_b: "Der Strom wird schneller", t3_q_c: "Die Batterie explodiert", t3_q_d: "Nichts verändert sich",
+    t4_title: "Leiter und Isolatoren", t4_text: "Nicht jedes Material lässt Strom hindurch.", t4_b1: "Metalle wie Kupfer leiten gut.", t4_b2: "Kunststoff, Glas und Gummi isolieren.", t4_b3: "Nasse Hände leiten Strom und sind gefährlich.",
+    t4_inst: "Ordne nach Leitfähigkeit!", t4_w1: "Kupferdraht", t4_w2: "Leitungswasser", t4_w3: "Holzstab", t4_w4: "Kunststofflineal", t4_q: "Was steckt meist im Inneren von Kabeln?", t4_q_a: "Kupfer", t4_q_b: "Knete", t4_q_c: "Papier", t4_q_d: "Luft",
+    t5_title: "Lade das System!", t5_text: "Geräte benötigen Energie. Lade den Speicher auf!", t5_b1: "Wind und Sonne liefern erneuerbare Energie.", t5_b2: "Energiesparen schützt die Umwelt.", t5_b3: "Sammle Blitze zum Laden!", t5_inst: "Klicke auf die 5 Blitze!", t5_q: "Was ist erneuerbar?", t5_q_a: "Windenergie", t5_q_b: "Kohle", t5_q_c: "Erdgas", t5_q_d: "Batterien",
+  },
+  ro: {
+    explorer_title: "Energie și electricitate",
+    t1_title: "Forme de energie", t1_text: "Energia produce mișcare sau schimbare. Nu dispare, ci se transformă.", t1_b1: "Energia cinetică există în corpurile care se mișcă.", t1_b2: "Energia termică provine din mișcarea particulelor.", t1_b3: "Energia electrică provine din sarcini în mișcare.",
+    t1_inst: "Potrivește energia cu sursa!", t1_l1: "Energie luminoasă", t1_r1: "Razele Soarelui", t1_l2: "Energie cinetică", t1_r2: "Turbină eoliană", t1_l3: "Energie termică", t1_r3: "Fier încins", t1_q: "Ce spune conservarea energiei?", t1_q_a: "Energia doar se transformă", t1_q_b: "Energia dispare", t1_q_c: "Doar bateriile au energie", t1_q_d: "Energia este albastră",
+    t2_title: "Transformarea energiei", t2_text: "Transformăm energia dintr-o formă în alta.", t2_b1: "Plantele transformă lumina în energie chimică.", t2_b2: "Fierul transformă electricitatea în căldură.", t2_b3: "Apa în mișcare poate produce electricitate.",
+    t2_inst: "Sortează transformările!", t2_bucket_elektro: "Din electricitate...", t2_bucket_mozgas: "Din mișcare...", t2_item_e1: "...lumină (bec)", t2_item_e2: "...căldură (uscător)", t2_item_m1: "...electricitate (generator)", t2_item_m2: "...căldură (frecare)", t1_q_2: "În ce transformă lanterna energia?", t1_q_2_a: "În lumină", t1_q_2_b: "În sunet", t1_q_2_c: "În apă", t1_q_2_d: "În gânduri",
+    t3_title: "Circuitul electric", t3_text: "Curentul circulă doar într-un circuit închis.", t3_b1: "Este necesară o sursă.", t3_b2: "Este necesar un consumator.", t3_b3: "Firele leagă componentele.", t3_inst: "Găsește circuitul și conductorul!", t3_tok0: "Un", t3_tok1: "traseu", t3_tok2: "electric", t3_tok3: "circuit", t3_tok4: "închis", t3_tok5: "folosește", t3_tok6: "conductor", t3_tok7: "adecvat.", t3_q: "Ce se întâmplă când deschidem circuitul?", t3_q_a: "Curentul se oprește", t3_q_b: "Curentul accelerează", t3_q_c: "Bateria explodează", t3_q_d: "Nimic",
+    t4_title: "Conductori și izolatori", t4_text: "Nu toate materialele lasă curentul să treacă.", t4_b1: "Cuprul conduce bine.", t4_b2: "Plasticul, sticla și cauciucul izolează.", t4_b3: "Mâinile ude conduc și sunt periculoase.", t4_inst: "Ordonează după conductivitate!", t4_w1: "Fir de cupru", t4_w2: "Apă", t4_w3: "Băț de lemn", t4_w4: "Riglă de plastic", t4_q: "Ce se află de obicei în cabluri?", t4_q_a: "Cupru", t4_q_b: "Plastilină", t4_q_c: "Hârtie", t4_q_d: "Aer",
+    t5_title: "Încarcă sistemul!", t5_text: "Aparatele au nevoie de energie.", t5_b1: "Vântul și soarele sunt surse regenerabile.", t5_b2: "Economisirea protejează mediul.", t5_b3: "Colectează fulgere!", t5_inst: "Apasă cele 5 fulgere!", t5_q: "Care sursă este regenerabilă?", t5_q_a: "Vântul", t5_q_b: "Cărbunele", t5_q_c: "Gazul natural", t5_q_d: "Bateriile",
   }
 };
 
@@ -259,14 +287,14 @@ const TOPICS: TopicDef[] = [
     },
     quiz: {
       question: "t3_q",
-      choices: ["t3_q_a", "b", "c", "d"],
+      choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
       answer: "t3_q_a",
     },
   },
   {
     infoTitle: "t4_title",
     infoText: "t4_text",
-    svg: () => <Topic4Svg />,
+    svg: (lang) => <Topic4Svg lang={lang} />,
     bulletKeys: ["t4_b1", "t4_b2", "t4_b3"],
     interactive: {
       type: "word-order",

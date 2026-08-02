@@ -1,6 +1,7 @@
 // lib/astroGeographie8.ts
 import type { IslandDef, Lang, MathQuestion, GeographieProgress } from "./astroGeographie";
 import {
+  buildGeographieSaveKey,
   loadGeographieProgress, saveGeographieProgress, isMissionDone, isIslandDone,
   isIslandUnlocked, isCheckpointUnlocked, isCheckpointDone,
   completeMission, islandTotalStars, completeTest,
@@ -69,8 +70,9 @@ export const K8_ISLANDS: IslandDef[] = [
     ], svgX: 190, svgY: -90 },
 ];
 
-export function loadK8Progress(): GeographieProgress { return loadGeographieProgress(K8_SAVE_KEY, K8_ISLANDS); }
-export function saveK8Progress(p: GeographieProgress): void { saveGeographieProgress(K8_SAVE_KEY, p); }
+export function getK8ProgressKey(variantId?: string): string { return buildGeographieSaveKey(K8_SAVE_KEY, variantId); }
+export function loadK8Progress(variantId?: string): GeographieProgress { return loadGeographieProgress(getK8ProgressKey(variantId), K8_ISLANDS); }
+export function saveK8Progress(p: GeographieProgress, variantId?: string): void { saveGeographieProgress(getK8ProgressKey(variantId), p); }
 export function isMissionDoneK8(p: GeographieProgress, i: string, m: string): boolean { return isMissionDone(p, i, m); }
 export function isIslandDoneK8(p: GeographieProgress, i: string): boolean { return isIslandDone(p, i); }
 export function isIslandUnlockedK8(p: GeographieProgress, i: string): boolean { return isIslandUnlocked(p, K8_ISLANDS, i); }

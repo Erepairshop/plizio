@@ -2,7 +2,7 @@
 
 import { useRouter } from "next/navigation";
 import { motion } from "framer-motion";
-import { ChevronLeft, Map, Code2 } from "lucide-react";
+import { ChevronLeft, Map } from "lucide-react";
 import { useLang } from "@/components/LanguageProvider";
 import SubjectPicker from "@/components/SubjectPicker";
 
@@ -57,17 +57,17 @@ const GLOBE_LABEL: Record<Lang, string> = {
   en: "3D Globe",
 };
 
-const CODEKIDS_LABEL: Record<Lang, string> = {
-  de: "Code Kids",
-  hu: "Code Kids",
-  ro: "Code Kids",
-  en: "Code Kids",
+const BACK_LABEL: Record<Lang, string> = {
+  de: "Zurück",
+  hu: "Vissza",
+  ro: "Înapoi",
+  en: "Back",
 };
 
 export default function LearnPage() {
   const router = useRouter();
   const { lang } = useLang();
-  const l = (lang as Lang) ?? "de";
+  const l: Lang = ["de", "hu", "ro", "en"].includes(lang) ? (lang as Lang) : "de";
 
   return (
     <div className="min-h-screen bg-[#060614] relative overflow-hidden">
@@ -91,11 +91,12 @@ export default function LearnPage() {
 
       <div className="relative z-10">
         {/* Header */}
-        <header className="flex items-center gap-3 px-4 pt-5 pb-3 max-w-4xl mx-auto">
+        <header className="flex flex-col items-stretch gap-3 px-4 pt-5 pb-3 max-w-4xl mx-auto sm:flex-row sm:items-center">
+          <div className="flex min-w-0 items-center gap-3">
           <button
             onClick={() => router.push("/")}
             className="w-9 h-9 rounded-full bg-white/10 text-white/70 flex items-center justify-center hover:bg-white/20 transition"
-            aria-label="back"
+            aria-label={BACK_LABEL[l]}
           >
             <ChevronLeft size={18} />
           </button>
@@ -103,7 +104,8 @@ export default function LearnPage() {
             <h1 className="text-xl font-black text-white leading-tight">{TITLE[l]}</h1>
             <p className="text-white/50 text-xs">{SUBTITLE[l]}</p>
           </div>
-          <div className="flex flex-wrap items-center gap-2">
+          </div>
+          <nav className="flex flex-wrap items-center gap-2" aria-label={SUBTITLE[l]}>
             <button
               onClick={() => router.push("/world-globe")}
               aria-label={GLOBE_LABEL[l]}
@@ -144,7 +146,7 @@ export default function LearnPage() {
               <Map size={14} className="text-rose-300" />
               {NAM_LABEL[l]}
             </button>
-          </div>
+          </nav>
         </header>
 
         <SubjectPicker />

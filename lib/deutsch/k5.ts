@@ -1601,7 +1601,7 @@ export const K5_EXTRA: DeutschTheme[] = [
         id: "ss_beta_k5",
         name: "ss oder ß?",
         questions: [
-          { type: "mcq", topic: "rechtschreibung_k5", subtopic: "ss_beta_k5", question: "Welche Schreibweise ist richtig?", options: ["Strase", "Straße", "Strasse", "Stráße"], correct: 1 },
+          { type: "mcq", topic: "rechtschreibung_k5", subtopic: "ss_beta_k5", question: "Welche Schreibweise ist richtig?", options: ["Strase", "Straße", "Strasse", "Straaße"], correct: 1 },
           { type: "typing", topic: "rechtschreibung_k5", subtopic: "ss_beta_k5", question: "Ergänze das fehlende ß oder ss: Die Klä_e der Schule ist groß.", answer: ["ss"] },
           { type: "mcq", topic: "rechtschreibung_k5", subtopic: "ss_beta_k5", question: "Nach welchem Laut kommt ein ss (nach kurzer Aussprache)?", options: ["nach langer Aussprache", "nach kurzer Aussprache", "nach Diphthong", "am Wort Ende"], correct: 1 },
           { type: "typing", topic: "rechtschreibung_k5", subtopic: "ss_beta_k5", question: "Schreibe das Wort korrekt: Mu_ter (mit kurzer Aussprache).", answer: ["mutter"] },
