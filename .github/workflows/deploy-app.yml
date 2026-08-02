@@ -73,6 +73,9 @@ jobs:
           NODE_OPTIONS: --max-old-space-size=16384
         run: npx tsx scripts/split_pois_by_country.mts
 
+      - name: Build static map HTMLs from source
+        run: npx tsx scripts/build-static-maps.mts
+
       - name: Build (static export → out/)
         env:
           NODE_OPTIONS: --max-old-space-size=12288
