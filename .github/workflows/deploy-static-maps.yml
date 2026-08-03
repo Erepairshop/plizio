@@ -26,10 +26,20 @@ jobs:
           node-version: '24'
           cache: 'npm'
 
+      - name: Install dependencies
+        run: npm ci
+
+      # The URL index is generated, not committed. Static maps reject an empty
+      # index so POI markers can never silently lose their canonical links.
+      - name: Build POI URL index
+        env:
+          NODE_OPTIONS: --max-old-space-size=16384
+        run: npx tsx scripts/build-poi-url-index.mts
+
       - name: Build static map HTMLs from source
-        run: |
-          npm ci
-          npx tsx scripts/build-static-maps.mts
+        env:
+          NODE_OPTIONS: --max-old-space-size=8192
+        run: npx tsx scripts/build-static-maps.mts all
 
       - name: Locate active VPS release
         id: release
