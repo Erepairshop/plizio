@@ -385,6 +385,36 @@ Nem váltja ki a `CLAUDE.md`-t, hanem gyors képbehozásra szolgál.
 - Az ot layout fallback keppel, tobbsoros uzenettel es dinamikus Canvas-magassaggal
   izolalt Chrome renderben vizualisan ellenorizve lett.
 
+## Postcard publikus megosztas - 2026-08-03
+
+- A kepeslap alapertelmezetten tovabbra is csak a bongeszoben keszul. A publikus,
+  listazatlan link kulon hozzajarulassal hozhato letre 7 napos, 30 napos vagy lejarat
+  nelkuli elerhetoseggel; UI: `components/postcard/PostcardEditor.tsx`.
+- A privat kepmegosztas es PNG-letoltes megmaradt. Feltolteshez 84%-os WebP keszul,
+  igy a normal letoltes minosege nem romlik.
+- Backend: `deploy/php/postcard-share.php`, eles endpoint: `/postcard-share.php`.
+  Tarhely: `/home/erik/plizio/shared/postcards/<64-char-token>/`.
+- A backend origin-ellenorzest, honeypotot, napi 12/IP limitet, meret- es pixelszam
+  korlatot, Imagick ujrakodolast, metadata-eltavolitast es automatikus lejartkartya-
+  takaritast hasznal. A szemelyes uzenet nincs kulon tarolva, csak a raster kepben.
+- Minden kartya ket assetet kap: `card.webp` a gyors viewerhez es `card.jpg` az
+  Open Graph/Twitter kompatibilitashoz. Szep URL-ek:
+  `/postcard/p/<token>/` es `/postcard-assets/<token>.(webp|jpg)`.
+- A dinamikus PHP viewer lokalizalt `de/hu/en/ro`, `noindex`, egyedi OG/Twitter
+  metat ad, es CSS boriteknyito, GIF-szeru erkezesi animaciot hasznal. CTA-val visszavisz
+  a szerkesztobe; Umami esemenyek: `postcard_open`, `postcard_recipient_share`.
+- Szerkesztoi esemenyek: `postcard_link_created`, `postcard_link_copied`,
+  `postcard_link_shared`. Tartalom- vagy fotomodositas utan a regi snapshot linkje
+  eltunik a UI-bol, nehogy az uj kepre mutato linknek tunjon.
+- Nginx: `deploy/nginx/plizio-static.conf`. Az endpointot es a shared konyvtarat a
+  `deploy-app`, `deploy-vps` es `deploy-poi-full` workflow telepiti.
+- A `/postcard/` fo oldal 1200x630, kb. 198 KB-os fallback OG JPEG-et hasznal:
+  `public/postcard-social-preview.jpg`.
+- Ellenorzes: izolalt TSX/esbuild, VPS PHP 8.3 lint, valodi multipart upload ->
+  lokalizalt OG viewer -> WebP/JPEG asset integracios teszt, valamint kulon Nginx
+  konfiguracios teszt. A repo globalis duplicate-key lintje sok ezer korabbi POI
+  adatduplikacio miatt eleve hibas, a postcard fajlokban az esbuild nem jelzett hibat.
+
 ## Terkepkviz vizualis rendszer - 2026-08-03
 
 - A POI HTML terkepkviz CTA regi iskolai faliterkep-illusztraciot hasznal fa lecekkel,

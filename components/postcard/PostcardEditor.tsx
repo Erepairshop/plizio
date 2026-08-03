@@ -1,11 +1,12 @@
 "use client";
 
 import { ChangeEvent, useEffect, useRef, useState } from "react";
-import { Camera, Download, ImagePlus, MapPin, Send, ShieldCheck, Sparkles } from "lucide-react";
+import { Camera, Check, Copy, Download, Globe2, ImagePlus, Link2, LoaderCircle, MapPin, Send, ShieldCheck, Sparkles } from "lucide-react";
 import { canvasToBlob, renderPostcard, type PostcardTheme } from "@/lib/postcard/renderPostcard";
 import { getLanguage, type Language } from "@/lib/language";
 
 const themes: PostcardTheme[] = ["vintage", "polaroid", "airmail", "scrapbook", "minimal"];
+type ShareExpiry = "7" | "30" | "forever";
 
 const COPY = {
   de: {
@@ -14,10 +15,14 @@ const COPY = {
     intro: "Gestalte eine echte, persönliche Postkarte aus deinem eigenen Foto. Ohne Anmeldung, und dein Bild verlässt dein Gerät nicht.",
     place: "Ort", country: "Land", choosePhoto: "Eigenes Foto auswählen", photoHint: "JPG, PNG oder Smartphone-Foto", message: "Nachricht",
     sender: "Unterschrift", senderPlaceholder: "Dein Name (optional)", style: "Stil", themes: { vintage: "Vintage", polaroid: "Polaroid", airmail: "Luftpost", scrapbook: "Reisetagebuch", minimal: "Minimal" },
-    share: "Teilen", download: "Herunterladen", privacy: "Das Foto wird in deinem Browser verarbeitet. Es wird weder hochgeladen noch gespeichert.",
+    share: "Teilen", download: "Herunterladen", privacy: "Standardmäßig bleibt dein Foto auf dem Gerät. Es wird nur hochgeladen, wenn du ausdrücklich einen teilbaren Link erstellst.",
     preview: "Die Vorschau wird automatisch aktualisiert", previewLabel: "Postkartenvorschau", invalidImage: "Bitte wähle eine Bilddatei aus.",
     imageError: "Das Bild konnte nicht geöffnet werden.", ready: "Die Postkarte ist fertig.", shareTitle: (place: string) => `Grüße aus ${place}`,
     shareText: "Diese Postkarte habe ich für dich mit Plizio gestaltet.", shareFallback: "Direktes Teilen wird von deinem Browser nicht unterstützt. Die Postkarte wurde stattdessen heruntergeladen.",
+    publicShare: "Teilbaren Link erstellen", publicIntro: "Erstelle eine private, nicht gelistete Momentaufnahme. Nur Personen mit dem Link können sie öffnen.",
+    expiry: "Verfügbarkeit", expiryOptions: { "7": "7 Tage", "30": "30 Tage", forever: "Unbegrenzt" },
+    consent: "Ich stimme zu, dass diese Postkarte zur Bereitstellung des Links auf Plizio hochgeladen wird.", createLink: "Link erstellen", creating: "Link wird erstellt…",
+    copyLink: "Link kopieren", copied: "Kopiert", shareLink: "Link teilen", publicReady: "Der teilbare Link ist fertig.", publicError: "Der Link konnte nicht erstellt werden. Bitte versuche es erneut.",
     file: "plizio-postkarte", locale: "de-DE",
   },
   hu: {
@@ -26,10 +31,14 @@ const COPY = {
     intro: "Készíts valódi, személyes képeslapot saját fotódból. Nincs regisztráció, a képed nem hagyja el a telefonodat.",
     place: "Hely", country: "Ország", choosePhoto: "Saját fotó kiválasztása", photoHint: "JPG, PNG vagy telefonos fotó", message: "Üzenet",
     sender: "Aláírás", senderPlaceholder: "A neved (nem kötelező)", style: "Stílus", themes: { vintage: "Vintage", polaroid: "Polaroid", airmail: "Légiposta", scrapbook: "Utazási napló", minimal: "Minimal" },
-    share: "Megosztás", download: "Letöltés", privacy: "A fotót a böngésződ dolgozza fel. Nem töltjük fel és nem tároljuk.",
+    share: "Megosztás", download: "Letöltés", privacy: "Alapértelmezésben a fotó az eszközödön marad. Csak akkor töltjük fel, ha külön megosztható linket készítesz.",
     preview: "Az előnézet automatikusan frissül", previewLabel: "A képeslap előnézete", invalidImage: "Kérlek, képfájlt válassz.",
     imageError: "A képet nem sikerült megnyitni.", ready: "A képeslap elkészült.", shareTitle: (place: string) => `Üdvözlet ${place} városából`,
     shareText: "Ezt a képeslapot neked készítettem a Plizión.", shareFallback: "A böngésződön a közvetlen megosztás nem elérhető, ezért letöltöttem a képet.",
+    publicShare: "Megosztható link létrehozása", publicIntro: "Készíts egy privát, listázatlan pillanatképet. Csak az tudja megnyitni, akinek elküldöd a linket.",
+    expiry: "Elérhetőség", expiryOptions: { "7": "7 nap", "30": "30 nap", forever: "Korlátlan" },
+    consent: "Hozzájárulok, hogy ezt a képeslapot a link működéséhez feltöltsük a Plizióra.", createLink: "Link létrehozása", creating: "Link készítése…",
+    copyLink: "Link másolása", copied: "Másolva", shareLink: "Link megosztása", publicReady: "A megosztható link elkészült.", publicError: "Nem sikerült létrehozni a linket. Próbáld újra.",
     file: "plizio-kepeslap", locale: "hu-HU",
   },
   en: {
@@ -38,10 +47,14 @@ const COPY = {
     intro: "Create a real, personal postcard from your own photo. No sign-up, and your image never leaves your device.",
     place: "Place", country: "Country", choosePhoto: "Choose your own photo", photoHint: "JPG, PNG or smartphone photo", message: "Message",
     sender: "Signature", senderPlaceholder: "Your name (optional)", style: "Style", themes: { vintage: "Vintage", polaroid: "Polaroid", airmail: "Air mail", scrapbook: "Scrapbook", minimal: "Minimal" },
-    share: "Share", download: "Download", privacy: "Your photo is processed in your browser. It is not uploaded or stored.",
+    share: "Share", download: "Download", privacy: "By default, your photo stays on your device. It is uploaded only when you explicitly create a shareable link.",
     preview: "The preview updates automatically", previewLabel: "Postcard preview", invalidImage: "Please choose an image file.",
     imageError: "The image could not be opened.", ready: "Your postcard is ready.", shareTitle: (place: string) => `Greetings from ${place}`,
     shareText: "I made this postcard for you with Plizio.", shareFallback: "Direct sharing is not supported by your browser, so the postcard was downloaded instead.",
+    publicShare: "Create a shareable link", publicIntro: "Create a private, unlisted snapshot. Only people you send the link to can open it.",
+    expiry: "Availability", expiryOptions: { "7": "7 days", "30": "30 days", forever: "Unlimited" },
+    consent: "I agree that this postcard will be uploaded to Plizio so the link can work.", createLink: "Create link", creating: "Creating link…",
+    copyLink: "Copy link", copied: "Copied", shareLink: "Share link", publicReady: "Your shareable link is ready.", publicError: "The link could not be created. Please try again.",
     file: "plizio-postcard", locale: "en-GB",
   },
   ro: {
@@ -50,10 +63,14 @@ const COPY = {
     intro: "Creează o carte poștală personală din fotografia ta. Fără înregistrare, iar imaginea nu părăsește dispozitivul.",
     place: "Loc", country: "Țară", choosePhoto: "Alege fotografia ta", photoHint: "JPG, PNG sau fotografie de telefon", message: "Mesaj",
     sender: "Semnătură", senderPlaceholder: "Numele tău (opțional)", style: "Stil", themes: { vintage: "Vintage", polaroid: "Polaroid", airmail: "Poștă aeriană", scrapbook: "Jurnal de călătorie", minimal: "Minimal" },
-    share: "Distribuie", download: "Descarcă", privacy: "Fotografia este procesată în browser. Nu este încărcată și nu este stocată.",
+    share: "Distribuie", download: "Descarcă", privacy: "În mod implicit, fotografia rămâne pe dispozitiv. Este încărcată doar dacă creezi în mod explicit un link de distribuire.",
     preview: "Previzualizarea se actualizează automat", previewLabel: "Previzualizarea cărții poștale", invalidImage: "Alege un fișier imagine.",
     imageError: "Imaginea nu a putut fi deschisă.", ready: "Cartea poștală este gata.", shareTitle: (place: string) => `Salutări din ${place}`,
     shareText: "Am creat această carte poștală pentru tine cu Plizio.", shareFallback: "Browserul nu permite distribuirea directă, așa că am descărcat cartea poștală.",
+    publicShare: "Creează un link de distribuire", publicIntro: "Creează o copie privată, nelistată. Doar persoanele cărora le trimiți linkul o pot deschide.",
+    expiry: "Disponibilitate", expiryOptions: { "7": "7 zile", "30": "30 de zile", forever: "Nelimitat" },
+    consent: "Sunt de acord ca această carte poștală să fie încărcată pe Plizio pentru ca linkul să funcționeze.", createLink: "Creează linkul", creating: "Se creează linkul…",
+    copyLink: "Copiază linkul", copied: "Copiat", shareLink: "Distribuie linkul", publicReady: "Linkul de distribuire este gata.", publicError: "Linkul nu a putut fi creat. Încearcă din nou.",
     file: "plizio-carte-postala", locale: "ro-RO",
   },
 } satisfies Record<Language, Record<string, unknown>>;
@@ -102,6 +119,12 @@ export default function PostcardEditor() {
   const [photoName, setPhotoName] = useState("");
   const [imageRevision, setImageRevision] = useState(0);
   const [notice, setNotice] = useState("");
+  const [showPublicShare, setShowPublicShare] = useState(false);
+  const [shareExpiry, setShareExpiry] = useState<ShareExpiry>("30");
+  const [shareConsent, setShareConsent] = useState(false);
+  const [publicUrl, setPublicUrl] = useState("");
+  const [creatingLink, setCreatingLink] = useState(false);
+  const [linkCopied, setLinkCopied] = useState(false);
   const t = COPY[lang];
   const date = new Intl.DateTimeFormat(t.locale, { year: "numeric", month: "short", day: "numeric" }).format(new Date());
 
@@ -152,6 +175,11 @@ export default function PostcardEditor() {
     if (objectUrlRef.current) URL.revokeObjectURL(objectUrlRef.current);
   }, []);
 
+  useEffect(() => {
+    setPublicUrl("");
+    setLinkCopied(false);
+  }, [place, country, message, sender, theme, photoName, imageRevision]);
+
   function loadPhoto(event: ChangeEvent<HTMLInputElement>) {
     const file = event.target.files?.[0];
     if (!file) return;
@@ -173,10 +201,11 @@ export default function PostcardEditor() {
     image.src = url;
   }
 
-  async function getFile() {
+  async function getFile(type: "image/png" | "image/webp" = "image/png") {
     if (!canvasRef.current) return null;
-    const blob = await canvasToBlob(canvasRef.current);
-    return blob ? new File([blob], `${t.file}-${place.toLowerCase().replace(/[^a-z0-9]+/gi, "-") || "travel"}.png`, { type: "image/png" }) : null;
+    const blob = await canvasToBlob(canvasRef.current, type, type === "image/webp" ? 0.84 : 0.94);
+    const extension = type === "image/webp" ? "webp" : "png";
+    return blob ? new File([blob], `${t.file}-${place.toLowerCase().replace(/[^a-z0-9]+/gi, "-") || "travel"}.${extension}`, { type }) : null;
   }
 
   async function download() {
@@ -196,13 +225,84 @@ export default function PostcardEditor() {
     const file = await getFile();
     if (!file) return;
     if (navigator.share && navigator.canShare?.({ files: [file] })) {
-      await navigator.share({ files: [file], title: t.shareTitle(place), text: t.shareText });
-      trackPostcard("postcard_share", { theme, has_photo: imageRef.current ? "yes" : "no" });
+      try {
+        await navigator.share({ files: [file], title: t.shareTitle(place), text: t.shareText });
+        trackPostcard("postcard_share", { theme, has_photo: imageRef.current ? "yes" : "no" });
+      } catch (error) {
+        if (error instanceof DOMException && error.name === "AbortError") return;
+        trackPostcard("postcard_share_fallback", { theme });
+        await download();
+        setNotice(t.shareFallback);
+      }
       return;
     }
     trackPostcard("postcard_share_fallback", { theme });
     await download();
     setNotice(t.shareFallback);
+  }
+
+  async function createPublicLink() {
+    if (!shareConsent || creatingLink) return;
+    const file = await getFile("image/webp");
+    if (!file) return;
+    setCreatingLink(true);
+    setNotice("");
+    setLinkCopied(false);
+    try {
+      const body = new FormData();
+      body.append("card", file);
+      body.append("place", place);
+      body.append("country", country);
+      body.append("lang", lang);
+      body.append("theme", theme);
+      body.append("expiry", shareExpiry);
+      body.append("consent", "yes");
+      body.append("website", "");
+      const response = await fetch("/postcard-share.php", { method: "POST", body, credentials: "same-origin" });
+      const result = await response.json().catch(() => ({}));
+      if (!response.ok || typeof result.url !== "string") throw new Error("share_failed");
+      const url = new URL(result.url, window.location.origin).href;
+      setPublicUrl(url);
+      setNotice(t.publicReady);
+      trackPostcard("postcard_link_created", { theme, expiry: shareExpiry, has_photo: imageRef.current ? "yes" : "no" });
+    } catch {
+      setNotice(t.publicError);
+    } finally {
+      setCreatingLink(false);
+    }
+  }
+
+  async function copyPublicLink() {
+    if (!publicUrl) return;
+    try {
+      await navigator.clipboard.writeText(publicUrl);
+    } catch {
+      const input = document.createElement("textarea");
+      input.value = publicUrl;
+      input.style.position = "fixed";
+      input.style.opacity = "0";
+      document.body.appendChild(input);
+      input.select();
+      document.execCommand("copy");
+      input.remove();
+    }
+    setLinkCopied(true);
+    trackPostcard("postcard_link_copied", { theme });
+    setTimeout(() => setLinkCopied(false), 1800);
+  }
+
+  async function sharePublicLink() {
+    if (!publicUrl) return;
+    if (navigator.share) {
+      try {
+        await navigator.share({ url: publicUrl, title: t.shareTitle(place), text: t.shareText });
+        trackPostcard("postcard_link_shared", { theme });
+        return;
+      } catch (error) {
+        if (error instanceof DOMException && error.name === "AbortError") return;
+      }
+    }
+    await copyPublicLink();
   }
 
   return (
@@ -242,6 +342,37 @@ export default function PostcardEditor() {
             <div className="mt-7 grid gap-3 sm:grid-cols-2 lg:grid-cols-1 xl:grid-cols-2">
               <button type="button" onClick={share} className="flex items-center justify-center gap-2 rounded-full bg-[#b7462f] px-5 py-3.5 font-bold text-white shadow-[0_10px_24px_rgba(183,70,47,.28)] transition hover:-translate-y-0.5"><Send size={18} /> {t.share}</button>
               <button type="button" onClick={download} className="flex items-center justify-center gap-2 rounded-full border border-[#28231e]/25 bg-white/70 px-5 py-3.5 font-bold transition hover:bg-white"><Download size={18} /> {t.download}</button>
+            </div>
+
+            <div className="mt-4 overflow-hidden rounded-2xl border border-[#47745f]/25 bg-[#eef1e7]/70">
+              <button type="button" onClick={() => setShowPublicShare((value) => !value)} aria-expanded={showPublicShare} className="flex w-full items-center justify-between gap-3 px-4 py-3.5 text-left font-bold text-[#345847] transition hover:bg-white/45">
+                <span className="flex items-center gap-2"><Globe2 size={18} /> {t.publicShare}</span>
+                <Link2 size={17} className={`transition ${showPublicShare ? "rotate-45" : ""}`} />
+              </button>
+              {showPublicShare ? <div className="border-t border-[#47745f]/20 px-4 pb-4 pt-3">
+                <p className="text-sm leading-6 text-[#526158]">{t.publicIntro}</p>
+                <label className="mt-3 block text-xs font-bold uppercase tracking-widest text-[#445248]">{t.expiry}
+                  <select value={shareExpiry} onChange={(event) => setShareExpiry(event.target.value as ShareExpiry)} className="mt-2 w-full rounded-xl border border-[#47745f]/25 bg-white/80 px-3 py-2.5 text-sm font-semibold normal-case tracking-normal outline-none focus:border-[#47745f]">
+                    {(["7", "30", "forever"] as ShareExpiry[]).map((value) => <option key={value} value={value}>{t.expiryOptions[value]}</option>)}
+                  </select>
+                </label>
+                <label className="mt-3 flex cursor-pointer items-start gap-2.5 text-xs leading-5 text-[#4f5d54]">
+                  <input type="checkbox" checked={shareConsent} onChange={(event) => setShareConsent(event.target.checked)} className="mt-1 h-4 w-4 shrink-0 accent-[#47745f]" />
+                  <span>{t.consent}</span>
+                </label>
+                {!publicUrl ? <button type="button" disabled={!shareConsent || creatingLink} onClick={createPublicLink} className="mt-4 flex w-full items-center justify-center gap-2 rounded-full bg-[#47745f] px-5 py-3 font-bold text-white shadow-[0_8px_20px_rgba(71,116,95,.2)] transition hover:bg-[#365d4a] disabled:cursor-not-allowed disabled:opacity-45">
+                  {creatingLink ? <LoaderCircle size={18} className="animate-spin" /> : <Link2 size={18} />}{creatingLink ? t.creating : t.createLink}
+                </button> : <div className="mt-4 space-y-3">
+                  <div className="flex items-center gap-2 rounded-xl border border-[#47745f]/25 bg-white/75 p-2 pl-3">
+                    <input readOnly value={publicUrl} aria-label={t.publicReady} className="min-w-0 flex-1 bg-transparent text-xs text-[#3d4c43] outline-none" />
+                    <button type="button" onClick={copyPublicLink} className="grid h-9 w-9 shrink-0 place-items-center rounded-lg bg-[#e0e8dc] text-[#345847]" aria-label={t.copyLink}>{linkCopied ? <Check size={17} /> : <Copy size={17} />}</button>
+                  </div>
+                  <div className="grid grid-cols-2 gap-2">
+                    <button type="button" onClick={copyPublicLink} className="flex items-center justify-center gap-2 rounded-full border border-[#47745f]/30 bg-white/70 px-3 py-2.5 text-sm font-bold text-[#345847]"><Copy size={16} /> {linkCopied ? t.copied : t.copyLink}</button>
+                    <button type="button" onClick={sharePublicLink} className="flex items-center justify-center gap-2 rounded-full bg-[#47745f] px-3 py-2.5 text-sm font-bold text-white"><Send size={16} /> {t.shareLink}</button>
+                  </div>
+                </div>}
+              </div> : null}
             </div>
             {notice ? <p className="mt-4 text-center text-sm font-semibold text-[#8f3928]" role="status">{notice}</p> : null}
             <p className="mt-5 flex items-start gap-2 text-xs leading-5 text-[#65584c]"><ShieldCheck size={17} className="mt-0.5 shrink-0 text-[#47745f]" />{t.privacy}</p>

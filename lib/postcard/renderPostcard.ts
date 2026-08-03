@@ -17,6 +17,10 @@ export function renderPostcard(canvas: HTMLCanvasElement, image: HTMLImageElemen
   renderStyledPostcard(canvas, image, content);
 }
 
-export function canvasToBlob(canvas: HTMLCanvasElement) {
-  return new Promise<Blob | null>((resolve) => canvas.toBlob(resolve, "image/png", 0.94));
+export function canvasToBlob(
+  canvas: HTMLCanvasElement,
+  type: "image/png" | "image/webp" = "image/png",
+  quality = 0.88,
+) {
+  return new Promise<Blob | null>((resolve) => canvas.toBlob(resolve, type, quality));
 }
