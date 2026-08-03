@@ -1670,7 +1670,9 @@ function renderQuizTask(){
     svg.classList.add('quiz-region-task');
     gR.querySelectorAll('.region').forEach(function(r){r.setAttribute('tabindex','0')});
   }else{
-    showQuizPois(quizVisibleFor(quizTask),quizTask.type==='odd_one_out'||quizTask.type==='sequence');
+    // Labels are injected only for the active quiz task and clearQuizMap removes
+    // them again, so the normal exploration map stays uncluttered.
+    showQuizPois(quizVisibleFor(quizTask),true);
   }
   const seq=quizTask.type==='sequence'?quizEsc(QUIZ_UI.sequence)+' 1 / '+quizTask.orderedPoiIds.length:'';
   quizPanel.innerHTML=quizHeader()+'<div class="quiz-question">'+quizEsc(quizTask.question)+'</div><div class="quiz-sub" id="quizSub">'+seq+'</div><div class="quiz-feedback" id="quizFeedback"></div><div class="quiz-actions"><button type="button" class="quiz-btn" id="quizNext" style="display:none">'+quizEsc(QUIZ_UI.next)+'</button></div>';

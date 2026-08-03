@@ -397,6 +397,9 @@ Nem váltja ki a `CLAUDE.md`-t, hanem gyors képbehozásra szolgál.
 - Mobilon a feladatlap alul rogzitett, gorgetheto panel, hogy a terkep es a kijelolheto
   pontok nagy resze lathato maradjon. A panel `border-box` meretezese megelozi a jobb
   oldali pontszam es bezaras kilogasat.
+- Minden POI-alapu kvizfeladat alatt latszik a legfeljebb 30 aktiv POI neve. A feliratok
+  dinamikusan kerulnek az SVG-be, es feladatvaltaskor vagy kilepeskor torlodnek, ezert a
+  normal terkepnezetet nem zsufoljak.
 - A logika, a 10 feladat, a negy nyelv, a localStorage eredmenymentes es a POI oldalrol
   torteno `?quiz=start` automatikus inditas valtozatlan maradt.
 - Ellenorzes: esbuild szintaxis, `git diff --check`, 212/212 statikus terkep sikeres
