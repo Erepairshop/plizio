@@ -1439,12 +1439,27 @@ function renderMapQuizCta(countryId: string, countryName: string, lang: Lang): s
     </div>
   </div>
   <div class="plz-map-quiz-art" aria-hidden="true">
-    <svg viewBox="0 0 280 180">
-      <path class="plz-map-quiz-route" d="M31 139C62 108 72 65 119 77s49 58 95 30c18-11 26-29 35-53"/>
-      <path class="plz-map-quiz-land" d="M31 65c15-30 56-39 83-24 19 10 34 3 56 5 33 2 59 31 53 62-6 32-40 48-70 39-21-6-32 11-61 7-43-6-79-50-61-89Z"/>
-      <circle cx="49" cy="129" r="7"/><circle cx="119" cy="77" r="7"/><circle cx="214" cy="107" r="7"/>
-      <path class="plz-map-quiz-pin" d="M212 40c0-13 10-23 23-23s23 10 23 23c0 18-23 41-23 41s-23-23-23-41Z"/>
-      <circle class="plz-map-quiz-pin-hole" cx="235" cy="40" r="7"/>
+    <svg viewBox="0 0 320 220">
+      <path class="plz-map-quiz-hanger" d="M70 21 160 5l90 16"/>
+      <rect class="plz-map-quiz-rail" x="42" y="18" width="236" height="14" rx="4"/>
+      <path class="plz-map-quiz-paper" d="M50 32c20 3 38-2 58 0 21 2 39-2 58 0 21 3 39-2 58 0 19 2 32-1 46 0v150c-17-3-31 2-48 0-20-2-38 2-58 0-20-3-39 2-59 0-19-2-36 2-55 0Z"/>
+      <g class="plz-map-quiz-grid">
+        <path d="M94 34v146M138 33v148M182 33v148M226 33v147"/>
+        <path d="M52 70h216M51 107h218M51 144h218"/>
+      </g>
+      <path class="plz-map-quiz-coast" d="M72 55c19 9 27 1 43 7 14 5 12 19 28 24 18 6 33-8 49-2 12 4 8 17 23 23 14 5 27-4 39 4v49c-16 7-29-2-44 4-18 7-32 2-45-9-14-12-29-2-45-6-17-5-17-20-30-27-9-5-20 2-28-5Z"/>
+      <path class="plz-map-quiz-river" d="M79 62c31 21 15 42 48 52s39-13 69 4c19 11 29 27 57 28"/>
+      <g class="plz-map-quiz-contours">
+        <path d="M89 91c15-14 35-11 43 1s-4 25-19 26-30-13-24-27Z"/>
+        <path d="M94 93c11-9 25-7 31 1s-3 17-14 18-21-10-17-19Z"/>
+        <path d="M181 126c13-12 32-9 39 2s-5 23-18 23-27-13-21-25Z"/>
+      </g>
+      <g class="plz-map-quiz-mark plz-map-quiz-mark-one" transform="translate(105 74)"><circle r="11"/><text y="4">1</text></g>
+      <g class="plz-map-quiz-mark plz-map-quiz-mark-two" transform="translate(163 119)"><circle r="11"/><text y="4">2</text></g>
+      <g class="plz-map-quiz-mark plz-map-quiz-mark-three" transform="translate(229 92)"><circle r="11"/><text y="4">3</text></g>
+      <text class="plz-map-quiz-question" x="224" y="158">?</text>
+      <rect class="plz-map-quiz-rail plz-map-quiz-rail-bottom" x="38" y="178" width="244" height="14" rx="4"/>
+      <g class="plz-map-quiz-pointer"><path d="m294 207-105-79"/><circle cx="188" cy="127" r="4"/><path d="m294 207 9 7"/></g>
     </svg>
     <strong>10</strong>
   </div>
@@ -3763,13 +3778,26 @@ ready();})();</script>
 .plz-map-quiz-button:focus-visible{outline:3px solid #30271e;outline-offset:3px}
 .plz-map-quiz-count{padding:.46rem .7rem;border:1px solid rgba(91,68,40,.25);border-radius:999px;background:rgba(255,255,255,.48);font-size:.8rem;font-weight:800;color:#5d4a37}
 .plz-map-quiz-art{position:relative;display:grid;place-items:center;min-height:220px;padding:1rem;background:linear-gradient(145deg,rgba(121,79,38,.08),rgba(255,255,255,.35))}
-.plz-map-quiz-art svg{width:min(100%,290px);height:auto;filter:drop-shadow(0 8px 9px rgba(80,49,24,.12))}
-.plz-map-quiz-land{fill:#d9b778;stroke:#6d5b3d;stroke-width:3}
-.plz-map-quiz-route{fill:none;stroke:#9a4f25;stroke-width:4;stroke-linecap:round;stroke-dasharray:7 8}
-.plz-map-quiz-art circle{fill:#fffaf0;stroke:#9a4f25;stroke-width:4}
-.plz-map-quiz-pin{fill:#9a4f25;stroke:#fffaf0;stroke-width:3}
-.plz-map-quiz-pin-hole{fill:#fffaf0!important;stroke:none!important}
-.plz-map-quiz-art strong{position:absolute;right:14%;bottom:12%;display:grid;place-items:center;width:58px;height:58px;border:2px solid #9a4f25;border-radius:50%;background:#fffaf0;color:#9a4f25;font:800 1.55rem/1 Georgia,serif;transform:rotate(7deg);box-shadow:0 5px 13px rgba(80,49,24,.18)}
+.plz-map-quiz-art svg{width:min(100%,320px);height:auto;overflow:visible;filter:drop-shadow(0 10px 10px rgba(80,49,24,.14))}
+.plz-map-quiz-hanger{fill:none;stroke:#6b533a;stroke-width:2;stroke-linecap:round}
+.plz-map-quiz-rail{fill:#76502f;stroke:#4f3521;stroke-width:2}
+.plz-map-quiz-rail-bottom{fill:#68452a}
+.plz-map-quiz-paper{fill:#e8d5a9;stroke:#6d5b3d;stroke-width:2}
+.plz-map-quiz-grid path{fill:none;stroke:#8d7956;stroke-width:.8;opacity:.38}
+.plz-map-quiz-coast{fill:#99aa87;stroke:#53634d;stroke-width:2.4;stroke-linejoin:round}
+.plz-map-quiz-river{fill:none;stroke:#6d8f9b;stroke-width:3;stroke-linecap:round}
+.plz-map-quiz-contours path{fill:none;stroke:#65745c;stroke-width:1;opacity:.72}
+.plz-map-quiz-mark circle{fill:#f7efd9;stroke:#9a4f25;stroke-width:2.5}
+.plz-map-quiz-mark text{fill:#74391c;font:800 12px Georgia,serif;text-anchor:middle}
+.plz-map-quiz-question{fill:#f6efdc;stroke:#f6efdc;stroke-width:.6;paint-order:stroke;font:italic 700 48px Georgia,serif;transform:rotate(-7deg);transform-origin:224px 158px;filter:drop-shadow(1px 1px 0 rgba(75,57,36,.28))}
+.plz-map-quiz-pointer{fill:none;stroke:#68452a;stroke-width:5;stroke-linecap:round;transform-origin:298px 210px;transition:transform .35s ease}
+.plz-map-quiz-pointer circle{fill:#9a4f25;stroke:#f7efd9;stroke-width:2}
+.plz-map-quiz-cta:hover .plz-map-quiz-pointer{transform:rotate(-5deg)}
+.plz-map-quiz-mark{transition:transform .22s ease}
+.plz-map-quiz-cta:hover .plz-map-quiz-mark-one{transform:translate(105px,70px)}
+.plz-map-quiz-cta:hover .plz-map-quiz-mark-two{transform:translate(163px,115px);transition-delay:.06s}
+.plz-map-quiz-cta:hover .plz-map-quiz-mark-three{transform:translate(229px,88px);transition-delay:.12s}
+.plz-map-quiz-art strong{position:absolute;right:10%;bottom:9%;display:grid;place-items:center;width:56px;height:56px;border:3px double #9a4f25;border-radius:50%;background:#f7efd9;color:#9a4f25;font:800 1.45rem/1 Georgia,serif;transform:rotate(6deg);box-shadow:0 4px 10px rgba(80,49,24,.16)}
 @media(max-width:700px){.plz-map-quiz-cta{grid-template-columns:1fr}.plz-map-quiz-art{min-height:155px;border-top:1px dashed rgba(91,68,40,.28)}.plz-map-quiz-art svg{max-height:145px}.plz-map-quiz-copy{padding:1.3rem}.plz-map-quiz-copy h2{font-size:1.65rem}}
 .plz-sight-img-btn{padding:0;border:0;background:none;cursor:zoom-in;display:block}
 .plz-sight-img-btn:focus-visible{outline:2px solid var(--accent);outline-offset:2px}

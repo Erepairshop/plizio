@@ -384,3 +384,20 @@ Nem váltja ki a `CLAUDE.md`-t, hanem gyors képbehozásra szolgál.
   ezert tovabbi temak hozzaadasakor nem nyomja szet az urlapot.
 - Az ot layout fallback keppel, tobbsoros uzenettel es dinamikus Canvas-magassaggal
   izolalt Chrome renderben vizualisan ellenorizve lett.
+
+## Terkepkviz vizualis rendszer - 2026-08-03
+
+- A POI HTML terkepkviz CTA regi iskolai faliterkep-illusztraciot hasznal fa lecekkel,
+  terkepmutatoval, szamozott pontokkal es tanari pecsetkent megjeleno 10-es jelzessel.
+- A tenyleges statikus terkepkviz forrasa `scripts/build-static-maps.mts`. A korabbi
+  sotet, neon jatekpanel helyett vilagos foldrajzi feladatlapot hasznal papirtexturaval,
+  ragasztoszalaggal, tizmezos vonalzo-haladassal es pecsetelt pontszammal.
+- A helyes es hibas valaszok tanari zold pipa/piros javitas stilust kaptak eros neon
+  ragyogas helyett. Az eredmenykepernyo bizonyitvanyszeru, vonalazott nevmezovel.
+- Mobilon a feladatlap alul rogzitett, gorgetheto panel, hogy a terkep es a kijelolheto
+  pontok nagy resze lathato maradjon. A panel `border-box` meretezese megelozi a jobb
+  oldali pontszam es bezaras kilogasat.
+- A logika, a 10 feladat, a negy nyelv, a localStorage eredmenymentes es a POI oldalrol
+  torteno `?quiz=start` automatikus inditas valtozatlan maradt.
+- Ellenorzes: esbuild szintaxis, `git diff --check`, 212/212 statikus terkep sikeres
+  generalasa, valamint valodi Chrome desktop es 390x844 mobil render.
