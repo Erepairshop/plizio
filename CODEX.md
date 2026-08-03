@@ -24,7 +24,7 @@ Nem váltja ki a `CLAUDE.md`-t, hanem gyors képbehozásra szolgál.
   Németország referencia-poolja továbbra is a generátorban van.
 - Feladattípusok: POI-keresés, régiókeresés, kakukktojás és földrajzi sorrend.
 - Ha egy országhoz nincs pool, a generált oldalon sem kvízgomb, sem kvízpanel nem jelenik meg.
-- Kvíz közben legfeljebb 30 POI lehet látható.
+- Kvíz közben asztali nézetben legfeljebb 24, mobilon legfeljebb 12 POI lehet látható.
 - A kvíz végén nevet kér; a meglévő `plizio_username` localStorage-kulcsot használja.
 - A helyi eredménylista kulcsa: `plizio_map_quiz_scores_v1`.
   Egy rekord: `{ map, lang, name, score, total, at }`; legfeljebb 100 rekord marad.
@@ -431,9 +431,10 @@ Nem váltja ki a `CLAUDE.md`-t, hanem gyors képbehozásra szolgál.
 - Mobilon a feladatlap alul rogzitett, gorgetheto panel, hogy a terkep es a kijelolheto
   pontok nagy resze lathato maradjon. A panel `border-box` meretezese megelozi a jobb
   oldali pontszam es bezaras kilogasat.
-- Minden POI-alapu kvizfeladat alatt latszik a legfeljebb 30 aktiv POI neve. A feliratok
-  dinamikusan kerulnek az SVG-be, es feladatvaltaskor vagy kilepeskor torlodnek, ezert a
-  normal terkepnezetet nem zsufoljak.
+- Minden POI-alapu kvizfeladat alatt latszik az aktiv POI neve. A feliratok nyolc lehetseges
+  iranyban utkozesmentes helyet keresnek, hosszu nevnel ket sorosak, es papirszinu hatteret
+  kapnak. Asztali nezetben legfeljebb 24, mobilon 12 POI jelenik meg, igy a terkep nem
+  zsufolodik. A feliratok feladatvaltaskor vagy kilepeskor torlodnek.
 - A logika, a 10 feladat, a negy nyelv, a localStorage eredmenymentes es a POI oldalrol
   torteno `?quiz=start` automatikus inditas valtozatlan maradt.
 - Ellenorzes: esbuild szintaxis, `git diff --check`, 212/212 statikus terkep sikeres
