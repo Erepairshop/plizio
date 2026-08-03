@@ -12,7 +12,7 @@ const COPY = {
   de: {
     placeDefault: "Berlin", countryDefault: "Deutschland", messageDefault: "Grüße von diesem wunderschönen Ort!",
     studio: "Postkartenstudio", eyebrow: "Eine Reise wird zur persönlichen Erinnerung", titleA: "Sende ein Stück", titleB: "der Welt.",
-    intro: "Gestalte eine echte, persönliche Postkarte aus deinem eigenen Foto. Ohne Anmeldung, und dein Bild verlässt dein Gerät nicht.",
+    intro: "Gestalte eine echte, persönliche Postkarte aus deinem eigenen Foto. Ohne Anmeldung; dein Bild bleibt auf dem Gerät, bis du bewusst einen teilbaren Link erstellst.",
     place: "Ort", country: "Land", choosePhoto: "Eigenes Foto auswählen", photoHint: "JPG, PNG oder Smartphone-Foto", message: "Nachricht",
     sender: "Unterschrift", senderPlaceholder: "Dein Name (optional)", style: "Stil", themes: { vintage: "Vintage", polaroid: "Polaroid", airmail: "Luftpost", scrapbook: "Reisetagebuch", minimal: "Minimal" },
     share: "Teilen", download: "Herunterladen", privacy: "Standardmäßig bleibt dein Foto auf dem Gerät. Es wird nur hochgeladen, wenn du ausdrücklich einen teilbaren Link erstellst.",
@@ -28,7 +28,7 @@ const COPY = {
   hu: {
     placeDefault: "Budapest", countryDefault: "Magyarország", messageDefault: "Üdvözlet erről a csodálatos helyről!",
     studio: "Képeslapstúdió", eyebrow: "Egy utazásból személyes emlék", titleA: "Küldj egy darabot", titleB: "a világból.",
-    intro: "Készíts valódi, személyes képeslapot saját fotódból. Nincs regisztráció, a képed nem hagyja el a telefonodat.",
+    intro: "Készíts valódi, személyes képeslapot saját fotódból. Nincs regisztráció; a képed addig marad az eszközödön, amíg külön megosztható linket nem készítesz.",
     place: "Hely", country: "Ország", choosePhoto: "Saját fotó kiválasztása", photoHint: "JPG, PNG vagy telefonos fotó", message: "Üzenet",
     sender: "Aláírás", senderPlaceholder: "A neved (nem kötelező)", style: "Stílus", themes: { vintage: "Vintage", polaroid: "Polaroid", airmail: "Légiposta", scrapbook: "Utazási napló", minimal: "Minimal" },
     share: "Megosztás", download: "Letöltés", privacy: "Alapértelmezésben a fotó az eszközödön marad. Csak akkor töltjük fel, ha külön megosztható linket készítesz.",
@@ -44,7 +44,7 @@ const COPY = {
   en: {
     placeDefault: "London", countryDefault: "United Kingdom", messageDefault: "Greetings from this wonderful place!",
     studio: "Postcard studio", eyebrow: "Turn a journey into a personal memory", titleA: "Send a piece", titleB: "of the world.",
-    intro: "Create a real, personal postcard from your own photo. No sign-up, and your image never leaves your device.",
+    intro: "Create a real, personal postcard from your own photo. No sign-up; your image stays on your device until you deliberately create a shareable link.",
     place: "Place", country: "Country", choosePhoto: "Choose your own photo", photoHint: "JPG, PNG or smartphone photo", message: "Message",
     sender: "Signature", senderPlaceholder: "Your name (optional)", style: "Style", themes: { vintage: "Vintage", polaroid: "Polaroid", airmail: "Air mail", scrapbook: "Scrapbook", minimal: "Minimal" },
     share: "Share", download: "Download", privacy: "By default, your photo stays on your device. It is uploaded only when you explicitly create a shareable link.",
@@ -60,7 +60,7 @@ const COPY = {
   ro: {
     placeDefault: "București", countryDefault: "România", messageDefault: "Salutări din acest loc minunat!",
     studio: "Studio de cărți poștale", eyebrow: "Transformă o călătorie într-o amintire personală", titleA: "Trimite o parte", titleB: "din lume.",
-    intro: "Creează o carte poștală personală din fotografia ta. Fără înregistrare, iar imaginea nu părăsește dispozitivul.",
+    intro: "Creează o carte poștală personală din fotografia ta. Fără înregistrare; imaginea rămâne pe dispozitiv până când creezi în mod intenționat un link de distribuire.",
     place: "Loc", country: "Țară", choosePhoto: "Alege fotografia ta", photoHint: "JPG, PNG sau fotografie de telefon", message: "Mesaj",
     sender: "Semnătură", senderPlaceholder: "Numele tău (opțional)", style: "Stil", themes: { vintage: "Vintage", polaroid: "Polaroid", airmail: "Poștă aeriană", scrapbook: "Jurnal de călătorie", minimal: "Minimal" },
     share: "Distribuie", download: "Descarcă", privacy: "În mod implicit, fotografia rămâne pe dispozitiv. Este încărcată doar dacă creezi în mod explicit un link de distribuire.",

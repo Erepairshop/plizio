@@ -414,6 +414,10 @@ Nem váltja ki a `CLAUDE.md`-t, hanem gyors képbehozásra szolgál.
   lokalizalt OG viewer -> WebP/JPEG asset integracios teszt, valamint kulon Nginx
   konfiguracios teszt. A repo globalis duplicate-key lintje sok ezer korabbi POI
   adatduplikacio miatt eleve hibas, a postcard fajlokban az esbuild nem jelzett hibat.
+- Az elso eles smoke teszt egy korabbi kezi teszt altal `erik` tulajdonba kerult
+  `.rate.json` jogosultsagi hibat talalt. A harom deploy workflow ezentul helyreallitja
+  a fajl `www-data` tulajdonosat. A viewer mobil renderje `height:auto`, levagott 3D
+  tulnyulas es kulon soros fo CTA javitast kapott.
 
 ## Terkepkviz vizualis rendszer - 2026-08-03
 
