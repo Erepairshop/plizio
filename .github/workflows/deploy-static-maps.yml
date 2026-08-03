@@ -8,7 +8,10 @@ on:
   workflow_dispatch:
 
 concurrency:
-  group: deploy-static-maps
+  # Share the release lock with full/app/POI deploys. Otherwise this workflow
+  # could copy maps into the old active release while another job prepares an
+  # atomic swap, and its changes would disappear at that swap.
+  group: deploy-vps
   cancel-in-progress: false
 
 env:
