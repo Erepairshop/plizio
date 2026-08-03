@@ -29,6 +29,14 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Generate V2 POI JSON chunks
+        run: npx tsx scripts/prepare_v2_data.mjs
+
+      - name: Split POIs per country
+        env:
+          NODE_OPTIONS: --max-old-space-size=16384
+        run: npx tsx scripts/split_pois_by_country.mts
+
       # The URL index is generated, not committed. Static maps reject an empty
       # index so POI markers can never silently lose their canonical links.
       - name: Build POI URL index
