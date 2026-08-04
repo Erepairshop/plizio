@@ -109,13 +109,12 @@ export default function HamburgerMenu() {
       {/* Toggle button */}
       <motion.button
         onClick={() => setOpen(true)}
-        className="bg-card/80 backdrop-blur-sm border border-white/10 p-2.5 rounded-full"
-        style={{ boxShadow: "0 0 12px rgba(255,255,255,0.08)" }}
+        className="border border-[#ddd4c2] bg-[#fbf8f1]/95 p-2.5 text-[#211d18] shadow-[2px_2px_0_rgba(33,29,24,.14)] backdrop-blur-sm"
         whileHover={{ scale: 1.15 }}
         whileTap={{ scale: 0.9 }}
         aria-label="Open menu"
       >
-        <Menu size={18} className="text-white/80" />
+        <Menu size={18} className="text-[#6b6356]" />
       </motion.button>
 
       {/* Drawer — portaled to <body> so an ancestor's transform (entrance
@@ -139,17 +138,17 @@ export default function HamburgerMenu() {
               animate={{ x: 0 }}
               exit={{ x: "-100%" }}
               transition={{ type: "spring", damping: 26, stiffness: 260 }}
-              className="fixed top-0 left-0 border-r border-white/10 flex flex-col"
-              style={{ background: "#0A0A1A", zIndex: 101, width: "85%", maxWidth: "24rem", height: "100%" }}
+              className="fixed top-0 left-0 flex flex-col border-r border-[#ddd4c2]"
+              style={{ background: "#f6f1e7", color: "#211d18", zIndex: 101, width: "85%", maxWidth: "24rem", height: "100%" }}
             >
-              <header className="flex items-center justify-between px-5 py-4 border-b border-white/10">
-                <h2 className="text-white/90 font-black text-lg">{TITLE[l]}</h2>
+              <header className="flex items-center justify-between border-b border-[#ddd4c2] px-5 py-4">
+                <h2 className="text-lg font-black text-[#211d18]">{TITLE[l]}</h2>
                 <button
                   onClick={() => setOpen(false)}
-                  className="w-9 h-9 rounded-full bg-white/5 hover:bg-white/10 flex items-center justify-center"
+                  className="flex h-9 w-9 items-center justify-center border border-[#ddd4c2] bg-[#fbf8f1] hover:border-[#b4502a]"
                   aria-label="Close"
                 >
-                  <X size={18} className="text-white/70" />
+                  <X size={18} className="text-[#6b6356]" />
                 </button>
               </header>
               <nav className="overflow-y-auto px-3 py-3" style={{ flex: "1 1 auto", minHeight: 0 }}>
@@ -161,14 +160,14 @@ export default function HamburgerMenu() {
                         <Link
                           href={item.href}
                           onClick={() => setOpen(false)}
-                          style={{ display: "flex", alignItems: "center", gap: "12px", padding: "12px", borderRadius: "12px", color: "rgba(255,255,255,0.9)", textDecoration: "none" }}
+                          style={{ display: "flex", alignItems: "center", gap: "12px", padding: "12px", color: "#211d18", textDecoration: "none" }}
                         >
                           <span
                             style={{ width: "36px", height: "36px", borderRadius: "8px", display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0, background: `${item.color}22`, border: `1px solid ${item.color}40` }}
                           >
                             <Icon size={18} style={{ color: item.color }} />
                           </span>
-                          <span style={{ fontWeight: 500, fontSize: "14px", color: "rgba(255,255,255,0.9)" }}>
+                          <span style={{ fontWeight: 500, fontSize: "14px", color: "#211d18" }}>
                             {item.label[l] ?? item.label.de}
                           </span>
                         </Link>
@@ -177,7 +176,7 @@ export default function HamburgerMenu() {
                   })}
                 </ul>
               </nav>
-              <footer className="px-5 py-4 border-t border-white/10 text-white/40 text-xs">
+              <footer className="border-t border-[#ddd4c2] px-5 py-4 text-xs text-[#6b6356]">
                 plizio.com — © 2026
               </footer>
             </motion.aside>

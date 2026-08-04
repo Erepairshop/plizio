@@ -223,9 +223,9 @@ export default function SubjectPicker() {
       );
 
   return (
-    <div className="w-full max-w-4xl mx-auto px-3 py-4">
-      <div className="mb-3">
-        <p className="text-white/70 text-xs font-medium uppercase tracking-widest mb-2">{t.pickGrade}</p>
+    <div className="mx-auto w-full max-w-5xl px-4 py-6">
+      <div className="mb-5">
+        <p className="paper-kicker mb-3">{t.pickGrade}</p>
         <div className="grid grid-cols-8 gap-1.5 sm:gap-2">
           {[1, 2, 3, 4, 5, 6, 7, 8].map((g) => {
             const active = g === grade;
@@ -233,12 +233,8 @@ export default function SubjectPicker() {
               <button
                 key={g}
                 onClick={() => setAndStoreGrade(g)}
-                className={`
-                  py-2 sm:py-3 rounded-xl font-black text-base sm:text-lg transition-all
-                  ${active
-                    ? "bg-gradient-to-br from-cyan-400 to-sky-500 text-white shadow-[0_0_18px_rgba(34,211,238,0.45)] scale-105"
-                    : "bg-white/5 text-white/60 border border-white/10 hover:bg-white/10"}
-                `}
+                className="subject-grade py-2 text-base font-black transition-all sm:py-3 sm:text-lg"
+                data-active={active}
                 aria-label={`${t.gradeLabel} ${g}`}
                 aria-pressed={active}
               >
@@ -261,36 +257,35 @@ export default function SubjectPicker() {
                 initial={{ opacity: 0, y: 8 }}
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ delay: i * 0.03 }}
-                className="rounded-2xl border border-white/10 bg-white/[0.03] overflow-hidden"
-                style={{ boxShadow: `0 0 0 1px ${s.color}22 inset` }}
+                className="subject-card"
               >
-                <div className="flex items-center gap-3 px-3 py-2.5">
+                <div className="subject-card-head flex items-center gap-3 px-3 py-3">
                   <div
-                    className="w-10 h-10 sm:w-11 sm:h-11 rounded-xl flex items-center justify-center flex-shrink-0"
+                    className="subject-card-icon h-10 w-10 flex-shrink-0 sm:h-11 sm:w-11"
                     style={{ background: `${s.color}22`, border: `1.5px solid ${s.color}55` }}
                   >
                     <Icon size={22} color={s.color} />
                   </div>
                   <div className="flex-1 min-w-0">
-                    <div className="text-white font-bold text-sm sm:text-base truncate">{localName}</div>
-                    <div className="text-white/50 text-[10px] sm:text-xs font-medium">
+                    <div className="truncate text-sm font-bold text-[#211d18] sm:text-base">{localName}</div>
+                    <div className="text-[10px] font-medium text-[#6b6356] sm:text-xs">
                       {t.gradeLabel} {grade}
                     </div>
                   </div>
                 </div>
-                <div className="grid grid-cols-2 gap-px bg-white/5">
+                <div className="grid grid-cols-2">
                   <button
                     onClick={() => go(s, "astro")}
-                    className="py-2.5 sm:py-3 bg-white/[0.02] hover:bg-white/10 transition text-white font-bold text-sm active:scale-95 flex items-center justify-center gap-1.5"
+                    className="subject-action flex items-center justify-center gap-1.5 py-2.5 text-sm font-bold active:scale-95 sm:py-3"
                   >
-                    <Sparkles size={16} className="text-cyan-300" />
+                    <Sparkles size={16} className="text-[#b4502a]" />
                     <span>{t.astro}</span>
                   </button>
                   <button
                     onClick={() => go(s, "test")}
-                    className="py-2.5 sm:py-3 bg-white/[0.02] hover:bg-white/10 transition text-white font-bold text-sm active:scale-95 flex items-center justify-center gap-1.5"
+                    className="subject-action flex items-center justify-center gap-1.5 py-2.5 text-sm font-bold active:scale-95 sm:py-3"
                   >
-                    <ClipboardCheck size={16} className="text-amber-300" />
+                    <ClipboardCheck size={16} className="text-[#8f3d1f]" />
                     <span>{t.test}</span>
                   </button>
                 </div>

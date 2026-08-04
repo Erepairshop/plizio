@@ -15,34 +15,41 @@
 <meta property="og:description" content="Tippe auf ein Land, um die Karte zu öffnen">
 <meta property="og:url" content="https://plizio.com/northamerica-map/de/">
 <meta property="og:type" content="website">
+<meta name="theme-color" content="#f6f1e7">
 <style>
 *{box-sizing:border-box}
-html,body{margin:0;padding:0;height:100%;background:#060614;color:#fff;font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;overflow:hidden}
-header{display:flex;align-items:center;gap:.6rem;padding:.65rem .9rem;background:#0a0a1f;border-bottom:1px solid #ffffff14;position:relative;z-index:5}
-header a.back{display:inline-flex;align-items:center;justify-content:center;width:34px;height:34px;border-radius:50%;background:#ffffff14;color:#fff;text-decoration:none;font-weight:700}
-header h1{margin:0;font-size:1rem;font-weight:800;flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+:root{--paper:#f6f1e7;--paper2:#efe8da;--panel:#fbf8f1;--ink:#211d18;--soft:#6b6356;--rule:#ddd4c2;--accent:#b4502a;--deep:#8f3d1f;--wash:#f3e7df}
+html,body{margin:0;padding:0;height:100%;background:var(--paper);color:var(--ink);font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;overflow:hidden}
+header{display:flex;align-items:center;gap:.65rem;padding:.65rem .9rem;background:rgba(246,241,231,.96);border-bottom:1px solid var(--rule);position:relative;z-index:5;box-shadow:0 3px 14px rgba(64,45,27,.06)}
+header a.back{display:inline-flex;align-items:center;justify-content:center;width:36px;height:36px;background:var(--panel);border:1px solid var(--rule);color:var(--ink);text-decoration:none;box-shadow:2px 2px 0 rgba(33,29,24,.15)}
+header a.back:hover{border-color:var(--accent);color:var(--deep)}
+header .title{flex:1;min-width:0}
+header .eyebrow{display:block;color:var(--accent);font-size:.53rem;font-weight:800;letter-spacing:.16em;text-transform:uppercase}
+header h1{margin:.05rem 0 0;font-family:Georgia,'Times New Roman',serif;font-size:1rem;font-weight:700;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 header .langs{display:flex;gap:.25rem}
-.lang{font-size:.7rem;font-weight:700;padding:.25rem .45rem;border-radius:6px;color:#ffffffb0;text-decoration:none;background:#ffffff10}
-.lang.on{background:#3b82f6;color:#fff}
-#stage{position:absolute;inset:48px 0 0 0;overflow:hidden;touch-action:none;background:radial-gradient(ellipse at 50% 30%,#0e1233 0%,#060614 70%)}
+.lang{font-size:.68rem;font-weight:750;padding:.3rem .45rem;color:var(--soft);text-decoration:none;background:var(--paper2);border:1px solid var(--rule)}
+.lang.on{background:var(--accent);border-color:var(--deep);color:#fff}
+#stage{position:absolute;inset:58px 0 0 0;overflow:hidden;touch-action:none;background-color:var(--paper2);background-image:linear-gradient(rgba(73,55,35,.045) 1px,transparent 1px),linear-gradient(90deg,rgba(73,55,35,.045) 1px,transparent 1px);background-size:26px 26px}
 #svg{width:100%;height:100%;display:block;cursor:grab}
 #svg.drag{cursor:grabbing}
-.country{fill:#1a2240;stroke:#7aa8ff;stroke-width:1.1;stroke-opacity:.75;transition:fill .15s,stroke .15s;cursor:pointer}
-.country:hover,.country.hover{fill:#2d3a78;stroke:#fff}
-.country.disabled{cursor:not-allowed;opacity:.6}
-.cname{fill:#fff;font-size:11px;font-weight:700;pointer-events:none;text-anchor:middle;paint-order:stroke;stroke:#0a0a1f;stroke-width:3;stroke-linejoin:round}
-.hint{position:absolute;top:54px;left:50%;transform:translateX(-50%);background:#000000a0;backdrop-filter:blur(8px);padding:.4rem .8rem;border-radius:999px;font-size:.75rem;color:#ffffffc0;pointer-events:none;z-index:3;animation:fadeOut 4s 2s forwards}
+.country{fill:#dfd1bd;stroke:#9b684f;stroke-width:1.1;stroke-opacity:.9;transition:fill .15s,stroke .15s;cursor:pointer}
+.country:hover,.country.hover{fill:#b4502a;stroke:#8f3d1f}
+.country.disabled{cursor:not-allowed;fill:#e5dfd3;stroke:#b9ae9d;opacity:.72}
+.cname{fill:var(--ink);font-size:11px;font-weight:750;pointer-events:none;text-anchor:middle;paint-order:stroke;stroke:var(--paper);stroke-width:3.5;stroke-linejoin:round}
+.hint{position:absolute;top:66px;left:50%;transform:translateX(-50%);max-width:calc(100% - 2rem);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;background:rgba(251,248,241,.94);border:1px solid var(--rule);padding:.42rem .8rem;font-size:.72rem;color:var(--soft);pointer-events:none;z-index:3;box-shadow:2px 2px 0 rgba(33,29,24,.1);animation:fadeOut 4s 2s forwards}
 @keyframes fadeOut{to{opacity:0}}
-.toast{position:absolute;bottom:1rem;left:50%;transform:translate(-50%,200%);background:#0d1230;border:1px solid #ffffff20;padding:.7rem 1rem;border-radius:10px;font-size:.85rem;z-index:8;transition:transform .25s;pointer-events:none}
+.toast{position:absolute;bottom:1rem;left:50%;transform:translate(-50%,200%);background:var(--ink);border:1px solid var(--ink);color:#fff;padding:.7rem 1rem;font-size:.85rem;z-index:8;transition:transform .25s;pointer-events:none;box-shadow:4px 4px 0 var(--accent)}
 .toast.show{transform:translate(-50%,0)}
 .zoom{position:absolute;right:.7rem;bottom:.7rem;display:flex;flex-direction:column;gap:.35rem;z-index:4}
-.zoom button{width:38px;height:38px;border-radius:8px;border:1px solid #ffffff20;background:#0d1230;color:#fff;font-size:1.2rem;font-weight:800;cursor:pointer}
+.zoom button{width:40px;height:40px;border:1px solid var(--ink);background:var(--panel);color:var(--ink);font-size:1.2rem;font-weight:800;cursor:pointer;box-shadow:3px 3px 0 var(--ink)}
+.zoom button:active{transform:translate(2px,2px);box-shadow:1px 1px 0 var(--ink)}
+@media(max-width:520px){header{padding:.55rem .6rem}.lang{padding:.28rem .35rem;font-size:.62rem}header h1{font-size:.9rem}#stage{inset:54px 0 0}.hint{top:62px}}
 </style>
 </head>
 <body>
 <header>
-<a class="back" href="/learn/" aria-label="Zurück">‹</a>
-<h1>Nordamerika-Karte</h1>
+<a class="back" href="/learn/" aria-label="Zurück"><svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true"><path d="m15 18-6-6 6-6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
+<div class="title"><span class="eyebrow">PLIZIO / MAP LAB</span><h1>Nordamerika-Karte</h1></div>
 <div class="langs"><span class="lang on">DE</span><a class="lang" href="/northamerica-map/">HU</a><a class="lang" href="/northamerica-map/ro/">RO</a><a class="lang" href="/northamerica-map/en/">EN</a></div>
 </header>
 <div id="stage">

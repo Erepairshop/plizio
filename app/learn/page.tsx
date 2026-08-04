@@ -1,156 +1,81 @@
 "use client";
 
 import { useRouter } from "next/navigation";
-import { motion } from "framer-motion";
-import { ChevronLeft, Map } from "lucide-react";
+import { ChevronLeft } from "lucide-react";
 import { useLang } from "@/components/LanguageProvider";
 import SubjectPicker from "@/components/SubjectPicker";
+import ContinentIcon, { type Continent } from "@/components/ContinentIcon";
 
 type Lang = "de" | "hu" | "ro" | "en";
 
-const TITLE: Record<Lang, string> = {
-  de: "Lernen",
-  hu: "Tanulás",
-  ro: "Învățare",
-  en: "Learn",
+const COPY: Record<Lang, { title: string; subtitle: string; back: string; maps: string }> = {
+  de: { title: "Lernen", subtitle: "Wähle Klasse und Fach", back: "Zurück", maps: "Interaktive Karten" },
+  hu: { title: "Tanulás", subtitle: "Válassz osztályt és tantárgyat", back: "Vissza", maps: "Interaktív térképek" },
+  ro: { title: "Învățare", subtitle: "Alege clasa și materia", back: "Înapoi", maps: "Hărți interactive" },
+  en: { title: "Learn", subtitle: "Pick grade and subject", back: "Back", maps: "Interactive maps" },
 };
 
-const SUBTITLE: Record<Lang, string> = {
-  de: "Wähle Klasse und Fach",
-  hu: "Válassz osztályt és tantárgyat",
-  ro: "Alege clasa și materia",
-  en: "Pick grade and subject",
-};
-
-const EUROPA_LABEL: Record<Lang, string> = {
-  de: "Europakarte",
-  hu: "Európa térkép",
-  ro: "Harta Europei",
-  en: "Europe Map",
-};
-
-const AFRICA_LABEL: Record<Lang, string> = {
-  de: "Afrika",
-  hu: "Afrika",
-  ro: "Africa",
-  en: "Africa",
-};
-
-const SAM_LABEL: Record<Lang, string> = {
-  de: "Südamerika",
-  hu: "Dél-Amerika",
-  ro: "America de Sud",
-  en: "South America",
-};
-
-const NAM_LABEL: Record<Lang, string> = {
-  de: "Nordamerika",
-  hu: "Észak-Amerika",
-  ro: "America de Nord",
-  en: "North America",
-};
-
-const GLOBE_LABEL: Record<Lang, string> = {
-  de: "3D Globus",
-  hu: "3D Glóbusz",
-  ro: "Glob 3D",
-  en: "3D Globe",
-};
-
-const BACK_LABEL: Record<Lang, string> = {
-  de: "Zurück",
-  hu: "Vissza",
-  ro: "Înapoi",
-  en: "Back",
-};
+const MAPS: Array<{
+  route: string;
+  continent: Continent;
+  label: Record<Lang, string>;
+}> = [
+  { route: "/world-globe", continent: "world", label: { de: "3D Globus", hu: "3D glóbusz", ro: "Glob 3D", en: "3D Globe" } },
+  { route: "/europe-map", continent: "europe", label: { de: "Europa", hu: "Európa", ro: "Europa", en: "Europe" } },
+  { route: "/northamerica-map", continent: "northamerica", label: { de: "Nordamerika", hu: "Észak-Amerika", ro: "America de Nord", en: "North America" } },
+  { route: "/southamerica-map", continent: "southamerica", label: { de: "Südamerika", hu: "Dél-Amerika", ro: "America de Sud", en: "South America" } },
+  { route: "/africa-map", continent: "africa", label: { de: "Afrika", hu: "Afrika", ro: "Africa", en: "Africa" } },
+  { route: "/asia-map", continent: "asia", label: { de: "Asien", hu: "Ázsia", ro: "Asia", en: "Asia" } },
+  { route: "/oceania-map", continent: "oceania", label: { de: "Ozeanien", hu: "Óceánia", ro: "Oceania", en: "Oceania" } },
+];
 
 export default function LearnPage() {
   const router = useRouter();
   const { lang } = useLang();
   const l: Lang = ["de", "hu", "ro", "en"].includes(lang) ? (lang as Lang) : "de";
+  const t = COPY[l];
 
   return (
-    <div className="min-h-screen bg-[#060614] relative overflow-hidden">
-      {/* Background stars */}
-      <div className="absolute inset-0 pointer-events-none">
-        {Array.from({ length: 40 }).map((_, i) => (
-          <motion.div
-            key={i}
-            className="absolute rounded-full bg-white"
-            style={{
-              left: `${(i * 37 + 13) % 100}%`,
-              top: `${(i * 53 + 7) % 100}%`,
-              width: (i % 4) * 0.5 + 0.5,
-              height: (i % 4) * 0.5 + 0.5,
-            }}
-            animate={{ opacity: [0.1, 0.8, 0.1] }}
-            transition={{ duration: 2 + (i % 5) * 0.4, delay: (i % 9) * 0.3, repeat: Infinity }}
-          />
-        ))}
-      </div>
-
-      <div className="relative z-10">
-        {/* Header */}
-        <header className="flex flex-col items-stretch gap-3 px-4 pt-5 pb-3 max-w-4xl mx-auto sm:flex-row sm:items-center">
-          <div className="flex min-w-0 items-center gap-3">
-          <button
-            onClick={() => router.push("/")}
-            className="w-9 h-9 rounded-full bg-white/10 text-white/70 flex items-center justify-center hover:bg-white/20 transition"
-            aria-label={BACK_LABEL[l]}
-          >
-            <ChevronLeft size={18} />
-          </button>
-          <div className="flex-1">
-            <h1 className="text-xl font-black text-white leading-tight">{TITLE[l]}</h1>
-            <p className="text-white/50 text-xs">{SUBTITLE[l]}</p>
+    <main className="plizio-paper relative min-h-screen overflow-hidden pb-12">
+      <header className="learn-paper-header relative z-10">
+        <div className="mx-auto max-w-5xl px-4 py-5">
+          <div className="flex items-center gap-3">
+            <button
+              onClick={() => router.push("/")}
+              className="paper-icon-button shrink-0"
+              aria-label={t.back}
+            >
+              <ChevronLeft size={19} />
+            </button>
+            <div className="min-w-0 flex-1">
+              <p className="paper-kicker">PLIZIO / LEARNING LAB</p>
+              <h1 className="text-3xl font-black leading-tight text-[#211d18]">{t.title}</h1>
+              <p className="text-sm text-[#6b6356]">{t.subtitle}</p>
+            </div>
           </div>
-          </div>
-          <nav className="flex flex-wrap items-center gap-2" aria-label={SUBTITLE[l]}>
-            <button
-              onClick={() => router.push("/world-globe")}
-              aria-label={GLOBE_LABEL[l]}
-              className="flex items-center gap-1.5 rounded-full bg-gradient-to-r from-indigo-500/30 to-purple-500/30 hover:from-indigo-500/45 hover:to-purple-500/45 border border-white/15 text-white/90 px-3 py-1.5 text-xs font-bold transition"
-            >
-              <Map size={14} className="text-indigo-300" />
-              {GLOBE_LABEL[l]}
-            </button>
-            <button
-              onClick={() => router.push("/europe-map")}
-              aria-label={EUROPA_LABEL[l]}
-              className="flex items-center gap-1.5 rounded-full bg-gradient-to-r from-cyan-500/30 to-blue-500/30 hover:from-cyan-500/45 hover:to-blue-500/45 border border-white/15 text-white/90 px-3 py-1.5 text-xs font-bold transition"
-            >
-              <Map size={14} className="text-cyan-300" />
-              {EUROPA_LABEL[l]}
-            </button>
-            <button
-              onClick={() => router.push("/africa-map")}
-              aria-label={AFRICA_LABEL[l]}
-              className="flex items-center gap-1.5 rounded-full bg-gradient-to-r from-amber-500/30 to-orange-500/30 hover:from-amber-500/45 hover:to-orange-500/45 border border-white/15 text-white/90 px-3 py-1.5 text-xs font-bold transition"
-            >
-              <Map size={14} className="text-amber-300" />
-              {AFRICA_LABEL[l]}
-            </button>
-            <button
-              onClick={() => router.push("/southamerica-map")}
-              aria-label={SAM_LABEL[l]}
-              className="flex items-center gap-1.5 rounded-full bg-gradient-to-r from-emerald-500/30 to-teal-500/30 hover:from-emerald-500/45 hover:to-teal-500/45 border border-white/15 text-white/90 px-3 py-1.5 text-xs font-bold transition"
-            >
-              <Map size={14} className="text-emerald-300" />
-              {SAM_LABEL[l]}
-            </button>
-            <button
-              onClick={() => router.push("/northamerica-map")}
-              aria-label={NAM_LABEL[l]}
-              className="flex items-center gap-1.5 rounded-full bg-gradient-to-r from-rose-500/30 to-pink-500/30 hover:from-rose-500/45 hover:to-pink-500/45 border border-white/15 text-white/90 px-3 py-1.5 text-xs font-bold transition"
-            >
-              <Map size={14} className="text-rose-300" />
-              {NAM_LABEL[l]}
-            </button>
-          </nav>
-        </header>
 
+          <div className="mt-5 border-t border-[#ddd4c2] pt-4">
+            <p className="mb-2 text-[10px] font-extrabold uppercase tracking-[.18em] text-[#6b6356]">{t.maps}</p>
+            <nav className="flex gap-2 overflow-x-auto pb-1" aria-label={t.maps}>
+              {MAPS.map((map) => (
+                <button
+                  key={map.route}
+                  onClick={() => router.push(map.route)}
+                  aria-label={map.label[l]}
+                  className="learn-map-link shrink-0"
+                >
+                  <ContinentIcon continent={map.continent} size={25} title={map.label[l]} />
+                  {map.label[l]}
+                </button>
+              ))}
+            </nav>
+          </div>
+        </div>
+      </header>
+
+      <section className="relative z-10 mx-auto max-w-5xl">
         <SubjectPicker />
-      </div>
-    </div>
+      </section>
+    </main>
   );
 }

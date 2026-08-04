@@ -4,7 +4,7 @@ import { useState, useEffect } from "react";
 import dynamic from "next/dynamic";
 import { useRouter } from "next/navigation";
 import Link from "next/link";
-import { Crosshair, Zap, Brain, Mountain, Trophy, Layers, Star, User, BookOpen, Car, Search, Hash, Shuffle, Crown, Calculator, Swords, PenLine, Puzzle, Lightbulb, Merge, Grid3x3, Navigation, Medal, CircleDot, Rocket, Languages, Microscope, Leaf, GitBranch, Ghost, History as HistoryIcon, Radio, ScrollText, Castle, Cpu, Sparkles, GraduationCap, Gamepad2, ChevronDown, Map as MapIcon, type LucideIcon } from "lucide-react";
+import { Crosshair, Zap, Brain, Mountain, Trophy, Layers, BookOpen, Car, Search, Hash, Shuffle, Crown, Calculator, Swords, PenLine, Puzzle, Lightbulb, Merge, Grid3x3, Navigation, Medal, CircleDot, Rocket, Languages, Microscope, Leaf, GitBranch, Ghost, History as HistoryIcon, Radio, ScrollText, Castle, Cpu, Sparkles, GraduationCap, Gamepad2, ChevronDown, Map as MapIcon, type LucideIcon } from "lucide-react";
 import LanguageSwitcher from "@/components/LanguageSwitcher";
 import HamburgerMenu from "@/components/HamburgerMenu";
 import { getCards } from "@/lib/cards";
@@ -13,6 +13,7 @@ import { getStats } from "@/lib/milestones";
 import { claimDailyReward, awardPendingDailyStars, type DailyRewardResult } from "@/lib/dailyReward";
 import { getUsername, hasUsername } from "@/lib/username";
 import { useLang } from "@/components/LanguageProvider";
+import ContinentIcon, { type Continent } from "@/components/ContinentIcon";
 
 const AuthModal = dynamic(() => import("@/components/AuthModal"), { ssr: false });
 const UsernameModal = dynamic(() => import("@/components/UsernameModal"), { ssr: false });
@@ -845,9 +846,6 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
   },
 ];
 
-const LETTERS = ["P", "L", "I", "Z", "I", "O"];
-const LETTER_COLORS = ["#FF2D78", "#00D4FF", "#00FF88", "#FFD700", "#B44DFF", "#FF2D78"];
-
 /* The 3 homepage module cards (Karte / Lernen / Spiele) */
 const HOME_T = {
   de: { karte: "Karte", karteSub: "6 Kontinente spielerisch erkunden", lernen: "Lernen", lernenSub: "Fächer, Astro-Spiele und Tests", spiele: "Spiele", spieleSub: "Quiz, Logik, Abenteuer und Sport", allSubjects: "Alle Fächer öffnen" },
@@ -904,11 +902,21 @@ function getStreak(): number {
   return 0;
 }
 
-function GamePill({ href, icon: GIcon, name, color }: { href: string; icon: LucideIcon; name: string; color: string }) {
+const CONTINENT_BY_GAME: Partial<Record<string, Continent>> = {
+  "europe-map": "europe",
+  "northamerica-map": "northamerica",
+  "southamerica-map": "southamerica",
+  "africa-map": "africa",
+  "asia-map": "asia",
+  "oceania-map": "oceania",
+};
+
+function GamePill({ id, href, icon: GIcon, name, color }: { id: string; href: string; icon: LucideIcon; name: string; color: string }) {
+  const continent = CONTINENT_BY_GAME[id];
   return (
-    <Link href={href} className="flex items-center gap-2 rounded-xl border border-white/10 bg-white/[0.04] px-3 py-2.5 transition-colors hover:border-white/25 hover:bg-white/10">
-      <GIcon size={16} className="shrink-0" style={{ color }} />
-      <span className="truncate text-sm font-semibold text-white/80">{name}</span>
+    <Link href={href} className="paper-game-pill">
+      {continent ? <ContinentIcon continent={continent} size={24} title={name} /> : <GIcon size={17} className="shrink-0" style={{ color }} />}
+      <span className="truncate text-sm font-semibold">{name}</span>
     </Link>
   );
 }
@@ -922,7 +930,7 @@ export default function Home() {
   const [showAuth, setShowAuth] = useState(false);
   const [showUsernameModal, setShowUsernameModal] = useState(false);
   const [username, setUsernameState] = useState<string | null>(null);
-  const [isLoggedIn, setIsLoggedIn] = useState(false);
+  const [, setIsLoggedIn] = useState(false);
   const [dailyReward, setDailyReward] = useState<DailyRewardResult | null>(null);
   const [openCard, setOpenCard] = useState<"maps" | "learn" | "games" | null>("maps");
 
@@ -1039,12 +1047,12 @@ export default function Home() {
   return (
     <>
       {/* Homepage — hero + 3 module cards (Karte / Lernen / Spiele), pure CSS, SSR-rendered */}
-      <main className="relative min-h-screen w-full overflow-x-hidden bg-[#060614]">
-      {/* Ambient glow background */}
+      <main className="plizio-paper relative min-h-screen w-full overflow-x-hidden">
+      {/* Editorial map-grid atmosphere */}
       <div className="pointer-events-none absolute inset-0 overflow-hidden" aria-hidden>
-        <div className="absolute -top-32 left-1/2 h-[420px] w-[680px] -translate-x-1/2 rounded-full bg-[#4FC3F7]/10 blur-[120px]" />
-        <div className="absolute top-1/3 -left-44 h-[380px] w-[380px] rounded-full bg-[#B44DFF]/10 blur-[120px]" />
-        <div className="absolute -right-44 bottom-0 h-[380px] w-[420px] rounded-full bg-[#FF2D78]/[0.08] blur-[120px]" />
+        <div className="absolute -right-24 top-28 h-72 w-72 rounded-full border border-[#b4502a]/15" />
+        <div className="absolute -right-12 top-40 h-72 w-72 rounded-full border border-[#b4502a]/10" />
+        <div className="absolute -left-40 bottom-24 h-80 w-80 rotate-12 border border-[#211d18]/10" />
       </div>
 
       {/* Top bar — nav buttons right, language switcher left */}
@@ -1068,12 +1076,9 @@ export default function Home() {
         {/* Nav buttons — right */}
         <div className="flex items-center gap-2 pointer-events-auto">
           {([
-            { href: "/learn", icon: MapIcon, color: "#22D3EE", border: "border-cyan-400/20", glow: "0 0 12px rgba(34,211,238,0.2)", delay: 0.42 },
-            { href: "/multiplayer", icon: Swords, color: "#FF2D78", border: "border-neon-pink/20", glow: "0 0 12px rgba(255,45,120,0.2)", delay: 0.45 },
-            { href: "/profile", icon: User, color: isLoggedIn ? "#00FF88" : "rgba(255,255,255,0.4)", border: isLoggedIn ? "border-neon-green/20" : "border-white/10", glow: isLoggedIn ? "0 0 12px rgba(0,255,136,0.15)" : undefined, delay: 0.5 },
-            // { href: "/room", icon: HomeIcon, color: "#00D4FF", border: "border-neon-blue/20", glow: "0 0 12px rgba(0,212,255,0.15)", delay: 0.6 },
-            { href: "/shop", icon: Star, color: "#E040FB", border: "border-[#E040FB]/20", glow: "0 0 12px rgba(224,64,251,0.2)", delay: 0.7 },
-            { href: "/collection", icon: Trophy, color: "#FFD700", border: "border-gold/20", glow: "0 0 12px rgba(255,215,0,0.2)", delay: 0.8 },
+            { href: "/learn", icon: GraduationCap, delay: 0.42 },
+            { href: "/multiplayer", icon: Swords, delay: 0.48 },
+            { href: "/collection", icon: Trophy, delay: 0.54 },
           ] as const).map((btn) => {
             const Icon = btn.icon;
             return (
@@ -1084,10 +1089,9 @@ export default function Home() {
               >
                 <button
                   onClick={() => router.push(btn.href)}
-                  className={`bg-card/80 backdrop-blur-sm border ${btn.border} p-2.5 rounded-full transition-transform duration-200 hover:scale-110 active:scale-90`}
-                  style={btn.glow ? { boxShadow: btn.glow } : undefined}
+                  className="paper-icon-button active:scale-90"
                 >
-                  <Icon size={18} style={{ color: btn.color, filter: `drop-shadow(0 0 4px ${btn.color}80)` }} />
+                  <Icon size={18} />
                 </button>
               </div>
             );
@@ -1098,18 +1102,15 @@ export default function Home() {
       {/* Hero + module cards */}
       <div className="relative z-10 mx-auto w-full max-w-2xl px-4 pb-14 pt-20">
         <header className="text-center">
-          <h1 className="flex items-baseline justify-center gap-[2px] text-5xl font-black tracking-tight">
-            {LETTERS.map((letter, i) => (
-              <span key={i} style={{ color: LETTER_COLORS[i], textShadow: `0 0 18px ${LETTER_COLORS[i]}50` }}>{letter}</span>
-            ))}
-          </h1>
-          <p className="mt-2 text-[10px] font-bold tracking-[0.35em] text-white/70">PLAY · LEARN · THINK</p>
-          {username && <p className="mt-2 text-xs font-bold tracking-wider text-white/60">{username}</p>}
+          <p className="paper-kicker mb-2">INTERACTIVE ATLAS · LEARNING LAB</p>
+          <h1 className="paper-wordmark text-6xl font-bold tracking-[-.06em]">PLIZIO</h1>
+          <p className="mt-2 text-[10px] font-bold tracking-[0.35em] text-[#6b6356]">PLAY · LEARN · THINK</p>
+          {username && <p className="mt-2 text-xs font-bold tracking-wider text-[#6b6356]">{username}</p>}
           {(streak > 0 || specialCount > 0 || cardCount > 0) && (
             <div className="mt-2 flex items-center justify-center gap-5 text-xs font-extrabold">
               {streak > 0 && <span className="opacity-90" style={{ color: "#FFD700" }}>🔥 {streak}</span>}
               {specialCount > 0 && <span className="opacity-90" style={{ color: "#E040FB" }}>⭐ {specialCount}</span>}
-              {cardCount > 0 && <span className="text-white/60">🃏 {cardCount}</span>}
+              {cardCount > 0 && <span className="text-[#6b6356]">🃏 {cardCount}</span>}
             </div>
           )}
         </header>
@@ -1125,23 +1126,23 @@ export default function Home() {
             return (
               <section
                 key={mod.id}
-                className={`overflow-hidden rounded-3xl border bg-white/[0.03] backdrop-blur-sm transition-all duration-300 ${open ? "border-white/20" : "border-white/10 hover:border-white/20"}`}
-                style={open ? { boxShadow: `0 0 50px ${mod.accent}1f, inset 0 1px 0 rgba(255,255,255,0.06)` } : { boxShadow: "inset 0 1px 0 rgba(255,255,255,0.04)" }}
+                className="paper-module"
+                data-open={open}
               >
                 <button
                   onClick={() => setOpenCard(open ? null : mod.id)}
                   className="flex w-full items-center gap-4 p-5 text-left"
                   aria-expanded={open}
                 >
-                  <div className="grid h-14 w-14 shrink-0 place-items-center rounded-2xl" style={{ background: `${mod.accent}1a`, boxShadow: `0 0 26px ${mod.accent}30` }}>
-                    <ModIcon size={28} style={{ color: mod.accent, filter: `drop-shadow(0 0 6px ${mod.accent}80)` }} />
+                  <div className="paper-module-icon">
+                    <ModIcon size={28} />
                   </div>
                   <div className="min-w-0 flex-1">
-                    <h2 className="text-xl font-extrabold text-white">{mod.title}</h2>
-                    <p className="truncate text-sm text-white/60">{mod.sub}</p>
+                    <h2 className="paper-module-title text-xl font-extrabold">{mod.title}</h2>
+                    <p className="paper-module-copy truncate text-sm">{mod.sub}</p>
                   </div>
-                  <span className="shrink-0 rounded-full border border-white/10 bg-white/5 px-2.5 py-1 text-xs font-bold text-white/60">{mod.count}</span>
-                  <ChevronDown size={20} className={`shrink-0 transition-transform duration-300 ${open ? "rotate-180" : ""}`} style={{ color: mod.accent }} />
+                  <span className="paper-count shrink-0 px-2.5 py-1 text-xs font-bold">{mod.count}</span>
+                  <ChevronDown size={20} className={`shrink-0 text-[#b4502a] transition-transform duration-300 ${open ? "rotate-180" : ""}`} />
                 </button>
                 <div className={`grid transition-[grid-template-rows] duration-300 ease-out ${open ? "grid-rows-[1fr]" : "grid-rows-[0fr]"}`}>
                   <div className="min-h-0 overflow-hidden">
@@ -1149,18 +1150,18 @@ export default function Home() {
                       {mod.id === "maps" && (
                         <div className="grid grid-cols-2 gap-2 sm:grid-cols-3">
                           {(catById.maps?.games ?? []).map((g) => (
-                            <GamePill key={g.id} href={gameHref(g.id)} icon={g.icon} name={g.name} color={g.color} />
+                            <GamePill key={g.id} id={g.id} href={gameHref(g.id)} icon={g.icon} name={g.name} color={g.color} />
                           ))}
                         </div>
                       )}
                       {mod.id === "learn" && (
                         <>
-                          <Link href="/learn" className="mb-3 flex items-center justify-center gap-2 rounded-xl border border-[#00FF88]/30 bg-[#00FF88]/10 px-4 py-3 text-sm font-bold text-[#00FF88] transition-colors hover:bg-[#00FF88]/20">
+                          <Link href="/learn" className="paper-primary-link mb-3 flex items-center justify-center gap-2 px-4 py-3 text-sm font-bold transition-colors">
                             <GraduationCap size={18} /> {ht.allSubjects}
                           </Link>
                           <div className="grid grid-cols-2 gap-2">
                             {(catById.brain?.games ?? []).map((g) => (
-                              <GamePill key={g.id} href={gameHref(g.id)} icon={g.icon} name={g.name} color={g.color} />
+                              <GamePill key={g.id} id={g.id} href={gameHref(g.id)} icon={g.icon} name={g.name} color={g.color} />
                             ))}
                           </div>
                         </>
@@ -1175,11 +1176,11 @@ export default function Home() {
                               <div key={cid}>
                                 <div className="mb-2 flex items-center gap-1.5">
                                   <CIcon size={13} style={{ color: cat.color }} />
-                                  <span className="text-[11px] font-bold tracking-widest text-white/60">{cat.label}</span>
+                                  <span className="text-[11px] font-bold tracking-widest text-[#6b6356]">{cat.label}</span>
                                 </div>
                                 <div className="grid grid-cols-2 gap-2">
                                   {cat.games.map((g) => (
-                                    <GamePill key={g.id} href={gameHref(g.id)} icon={g.icon} name={g.name} color={g.color} />
+                                    <GamePill key={g.id} id={g.id} href={gameHref(g.id)} icon={g.icon} name={g.name} color={g.color} />
                                   ))}
                                 </div>
                               </div>

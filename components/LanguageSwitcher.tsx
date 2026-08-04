@@ -52,10 +52,10 @@ export default function LanguageSwitcher() {
         aria-haspopup="menu"
         aria-expanded={open}
         aria-controls="language-switcher-menu"
-        className="flex items-center gap-1.5 bg-white/[0.06] border border-white/10 rounded-full px-2.5 py-1.5 hover:bg-white/10 transition-colors"
+        className="flex items-center gap-1.5 border border-[#ddd4c2] bg-[#fbf8f1]/95 px-2.5 py-1.5 text-[#211d18] shadow-[2px_2px_0_rgba(33,29,24,.14)] transition-colors hover:border-[#b4502a]"
         whileTap={{ scale: 0.92 }}
       >
-        <Globe size={13} className="text-white/30" />
+        <Globe size={13} className="text-[#6b6356]" />
         <span suppressHydrationWarning className="text-base leading-none select-none">{active.flag}</span>
       </motion.button>
 
@@ -66,7 +66,7 @@ export default function LanguageSwitcher() {
             id="language-switcher-menu"
             role="menu"
             aria-label={SWITCHER_LABEL[lang]}
-            className="absolute top-full left-0 mt-1.5 flex flex-col bg-[#12122A]/95 backdrop-blur-xl border border-white/10 rounded-xl overflow-hidden shadow-2xl z-50"
+            className="absolute top-full left-0 z-50 mt-1.5 flex flex-col overflow-hidden border border-[#ddd4c2] bg-[#fbf8f1]/95 shadow-xl backdrop-blur-xl"
             initial={{ opacity: 0, y: -8, scale: 0.95 }}
             animate={{ opacity: 1, y: 0, scale: 1 }}
             exit={{ opacity: 0, y: -8, scale: 0.95 }}
@@ -82,8 +82,8 @@ export default function LanguageSwitcher() {
                   aria-checked={isActive}
                   className={`flex items-center gap-2.5 px-3.5 py-2 text-sm transition-colors whitespace-nowrap ${
                     isActive
-                      ? "bg-[#00D4FF]/10 text-white"
-                      : "text-white/60 hover:bg-white/5 hover:text-white/90"
+                      ? "bg-[#f3e7df] text-[#8f3d1f]"
+                      : "text-[#6b6356] hover:bg-[#efe8da] hover:text-[#211d18]"
                   }`}
                 >
                   <span className="text-base leading-none">{l.flag}</span>

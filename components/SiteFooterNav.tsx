@@ -105,8 +105,6 @@ const GROUPS: Group[] = [
       { href: "/faq", label: "FAQ" },
       { href: "/parents", label: "For Parents" },
       { href: "/teachers", label: "For Teachers" },
-      { href: "/profile", label: "Profile" },
-      { href: "/shop", label: "Shop" },
       { href: "/collection", label: "Collection" },
       { href: "/daily", label: "Daily Rewards" },
       { href: "/stickers", label: "Stickers" },
@@ -118,7 +116,7 @@ const GROUPS: Group[] = [
 
 export default function SiteFooterNav() {
   return (
-    <footer className="border-t border-white/10 bg-bg/80 px-4 py-8 text-sm" aria-label="Site map">
+    <footer className="plizio-site-footer border-t border-white/10 bg-bg/80 px-4 py-8 text-sm" aria-label="Site map">
       <nav className="mx-auto grid max-w-6xl grid-cols-2 gap-x-6 gap-y-6 sm:grid-cols-3 md:grid-cols-5">
         {GROUPS.map((g) => (
           <div key={g.title}>
