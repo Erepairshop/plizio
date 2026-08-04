@@ -1,6 +1,8 @@
 import type { Metadata } from "next";
 import {
   SUPPORTED_LANGS,
+  ALL_LANGS,
+  extraLangsFor,
   buildCountryPath,
   buildPoiPath,
   buildStatePath,
@@ -30,6 +32,7 @@ export const SEO_LOCALES: Record<Lang, string> = {
   hu: "hu_HU",
   ro: "ro_RO",
   en: "en_US",
+  it: "it_IT",
 };
 
 // Sablon-alapú ország-szintű meta (title, description) generálás —
@@ -58,6 +61,13 @@ function templateCopy(countryId: string, lang: Lang): { title: string; descripti
     return {
       title: `Hartă interactivă: ${name}`,
       description: `Pagini statice de studiu despre regiuni, orașe, natură, istorie și obiective turistice din ${name}.`,
+      name,
+    };
+  }
+  if (lang === "it") {
+    return {
+      title: `Mappa interattiva dell'${name}`,
+      description: `Pagine dedicate a regioni, città, natura, storia e luoghi d'interesse in ${name}.`,
       name,
     };
   }
@@ -167,10 +177,25 @@ export const SEO_COPY = {
     landmarks: "Landmarks",
     capital: "Capital",
   },
+  it: {
+    home: "Home",
+    related: "Luoghi correlati",
+    facts: "Informazioni",
+    geography: "Dati geografici",
+    openMap: "Apri in OpenStreetMap",
+    backToMap: "Vedi sulla mappa",
+    more: "Scopri di più",
+    states: "Regioni",
+    cities: "Città",
+    nature: "Natura",
+    history: "Storia",
+    landmarks: "Luoghi d'interesse",
+    capital: "Capitale",
+  },
 } as const;
 
 export function isLang(value: string): value is Lang {
-  return SUPPORTED_LANGS.includes(value as Lang);
+  return ALL_LANGS.includes(value as Lang);
 }
 
 export function truncateDescription(value: string, max = 160) {
@@ -182,15 +207,18 @@ export function absoluteUrl(path: string) {
 }
 
 export function getCountryAlternates(countryId: string = "germany") {
-  return Object.fromEntries(SUPPORTED_LANGS.map((lang) => [lang, absoluteUrl(buildCountryPath(lang, countryId))]));
+  const langs: Lang[] = countryId === "italy" ? [...SUPPORTED_LANGS, "it"] : SUPPORTED_LANGS;
+  return Object.fromEntries(langs.map((lang) => [lang, absoluteUrl(buildCountryPath(lang, countryId))]));
 }
 
 export function getStateAlternates(stateId: string) {
-  return Object.fromEntries(SUPPORTED_LANGS.map((lang) => [lang, absoluteUrl(buildStatePath(lang, stateId))]));
+  const langs: Lang[] = getCountryId(stateId) === "italy" ? [...SUPPORTED_LANGS, "it"] : SUPPORTED_LANGS;
+  return Object.fromEntries(langs.map((lang) => [lang, absoluteUrl(buildStatePath(lang, stateId))]));
 }
 
 export function getPoiAlternates(poi: POI) {
-  return Object.fromEntries(SUPPORTED_LANGS.map((lang) => [lang, absoluteUrl(buildPoiPath(lang, poi))]));
+  const langs = [...SUPPORTED_LANGS, ...extraLangsFor(poi)];
+  return Object.fromEntries(langs.map((lang) => [lang, absoluteUrl(buildPoiPath(lang, poi))]));
 }
 
 /**

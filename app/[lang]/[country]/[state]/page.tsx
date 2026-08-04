@@ -37,13 +37,17 @@ import {
 export const dynamicParams = false;
 
 export function generateStaticParams() {
-  return SUPPORTED_LANGS.flatMap((lang) =>
+  const core = SUPPORTED_LANGS.flatMap((lang) =>
     regions.map((state) => ({
       lang,
       country: countrySlugFor(lang, getCountryId(state.id)),
       state: stateSlugFor(state.id, lang),
     })),
   );
+  const italian = regions
+    .filter((state) => getCountryId(state.id) === "italy")
+    .map((state) => ({ lang: "it", country: countrySlugFor("it", "italy"), state: stateSlugFor(state.id, "it") }));
+  return core.concat(italian);
 }
 
 export async function generateMetadata({
@@ -109,8 +113,9 @@ export default async function StatePage({
   const groups = groupPoisForState(region.id);
   const subregions = (bundeslandSubregions as any)[region.id];
   const mapSlug = mapSlugForCountry(countryId);
-  const mapHref = mapSlug ? `/${mapSlug}-map/${lang === "hu" ? "" : lang + "/"}` : null;
-  const MAP_CTA = ({ de: "Auf der interaktiven Karte ansehen", hu: "Megtekintés az interaktív térképen", ro: "Vezi pe harta interactivă", en: "View on the interactive map" } as const)[lang];
+  const mapLang = lang === "it" ? "en" : lang;
+  const mapHref = mapSlug ? `/${mapSlug}-map/${mapLang === "hu" ? "" : mapLang + "/"}` : null;
+  const MAP_CTA = ({ de: "Auf der interaktiven Karte ansehen", hu: "Megtekintés az interaktív térképen", ro: "Vezi pe harta interactivă", en: "View on the interactive map", it: "Vedi sulla mappa interattiva" } as const)[lang as "de" | "hu" | "ro" | "en" | "it"];
 
   return (
     <main className="min-h-screen bg-[#020408] text-white">

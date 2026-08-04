@@ -10,7 +10,7 @@ import { SEO_POIS, SEO_REGIONS } from "@/lib/seo/_seo-data.generated";
 // remains in per-country JSON under public/data/pois/<CC>.json and is read on
 // demand by the POI detail page render path (out of scope here).
 
-export type Lang = "de" | "hu" | "ro" | "en" | "fr" | "tr" | "hr";
+export type Lang = "de" | "hu" | "ro" | "en" | "fr" | "tr" | "hr" | "it";
 
 // Core 4 langs build everywhere. `fr` and `tr` are conditional:
 //   - fr: emitted for French POIs (parent starts with "FR")
@@ -19,14 +19,14 @@ export type Lang = "de" | "hu" | "ro" | "en" | "fr" | "tr" | "hr";
 // NOT in SUPPORTED_LANGS to avoid sitemap bloat for non-applicable pages.
 // Use `extraLangsFor(poi)` to detect per-POI extras.
 export const SUPPORTED_LANGS: Lang[] = ["de", "hu", "ro", "en"];
-export const ALL_LANGS: Lang[] = ["de", "hu", "ro", "en", "fr", "tr"];
+export const ALL_LANGS: Lang[] = ["de", "hu", "ro", "en", "fr", "tr", "hr", "it"];
 
 // Emit the extra lang URL in the sitemap when EITHER:
 //   - the POI lives in the lang's target country (FR-parent for fr, DE-parent for tr)
 //   - OR the POI has a real ≥700-char descriptionAdvanced in that lang
 //     (frLong / trLong, computed at build-seo-index time).
 // Short pages stay out so Google doesn't soft-404 them.
-export function extraLangsFor(poi: { parent?: string; frLong?: boolean; trLong?: boolean; hrLong?: boolean }): Lang[] {
+export function extraLangsFor(poi: { parent?: string; frLong?: boolean; trLong?: boolean; hrLong?: boolean; itLong?: boolean }): Lang[] {
   const extras: Lang[] = [];
   // FONTOS: fr CSAK France POI-kra, tr CSAK DE POI-kra. A generate-poi-html.mts
   // is csak ezekre keszit oldalt — ha a sitemap a frLong/trLong alapjan szelesebb
@@ -38,6 +38,17 @@ export function extraLangsFor(poi: { parent?: string; frLong?: boolean; trLong?:
   // hr = native Croatian, only for HR POIs that have hr-native content (hrLong flag,
   // set in build-seo-index from poi-hr-native.json).
   if (poi.hrLong) extras.push("hr");
+  // Italian POIs commonly use semantic parents such as `rome`, `lombardy` or
+  // `reg-campania`, not an IT-* code. REGION_BY_ID is initialized before the
+  // first call made while POI_SLUGS is built below.
+  const parentRegion = poi.parent ? REGION_BY_ID.get(poi.parent) : undefined;
+  if (
+    poi.itLong ||
+    poi.parent === "italy" ||
+    poi.parent?.startsWith("IT") ||
+    parentRegion?.parent === "IT" ||
+    parentRegion?.parent?.startsWith("IT-")
+  ) extras.push("it");
   return extras;
 }
 
@@ -102,7 +113,7 @@ export const COUNTRY_SLUGS: Record<string, Partial<Record<Lang, string>> & { de:
   austria:        { de: "oesterreich", hu: "ausztria", ro: "austria", en: "austria" },
   switzerland:    { de: "schweiz", hu: "svajc", ro: "elvetia", en: "switzerland" },
   france:         { de: "frankreich", hu: "franciaorszag", ro: "franta", en: "france" },
-  italy:          { de: "italien", hu: "olaszorszag", ro: "italia", en: "italy" },
+  italy:          { de: "italien", hu: "olaszorszag", ro: "italia", en: "italy", it: "italia" },
   spain:          { de: "spanien", hu: "spanyolorszag", ro: "spania", en: "spain" },
   portugal:       { de: "portugal", hu: "portugalia", ro: "portugalia", en: "portugal" },
   netherlands:    { de: "niederlande", hu: "hollandia", ro: "olanda", en: "netherlands" },
@@ -421,7 +432,7 @@ export const POI_SLUGS: Record<string, Record<Lang, string>> = Object.fromEntrie
   poisOnly.map((poi) => [
     poi.id,
     Object.fromEntries(
-      SUPPORTED_LANGS.map((lang) => [lang, disambiguatedPoiSlug(poi, lang)]),
+      [...SUPPORTED_LANGS, ...extraLangsFor(poi)].map((lang) => [lang, disambiguatedPoiSlug(poi, lang)]),
     ) as Record<Lang, string>,
   ]),
 );
@@ -515,7 +526,7 @@ export const COUNTRY_NAMES: Record<string, Record<Lang, string>> = {
   austria: { de: "Österreich", hu: "Ausztria", ro: "Austria", en: "Austria" },
   switzerland: { de: "Schweiz", hu: "Svájc", ro: "Elveția", en: "Switzerland" },
   france: { de: "Frankreich", hu: "Franciaország", ro: "Franța", en: "France" },
-  italy: { de: "Italien", hu: "Olaszország", ro: "Italia", en: "Italy" },
+  italy: { de: "Italien", hu: "Olaszország", ro: "Italia", en: "Italy", it: "Italia" },
   spain: { de: "Spanien", hu: "Spanyolország", ro: "Spania", en: "Spain" },
   portugal: { de: "Portugal", hu: "Portugália", ro: "Portugalia", en: "Portugal" },
   netherlands: { de: "Niederlande", hu: "Hollandia", ro: "Olanda", en: "Netherlands" },
@@ -796,7 +807,7 @@ function _warnUnknownParent(id: string) {
 
 export function countrySlugFor(lang: Lang, countryId: string = "germany") {
   // Fallback: fr → en, tr → de (Turkish DE pages use German state names where TR slug missing), hr → en.
-  const fallback: Lang = lang === "fr" ? "en" : lang === "tr" ? "de" : lang === "hr" ? "en" : lang;
+  const fallback: Lang = lang === "fr" ? "en" : lang === "tr" ? "de" : lang === "hr" || lang === "it" ? "en" : lang;
   const effLang: Lang = (COUNTRY_SLUGS[countryId]?.[lang] ? lang : fallback);
   return COUNTRY_SLUGS[countryId]?.[effLang] ?? COUNTRY_SLUGS.germany[effLang] ?? COUNTRY_SLUGS.germany.en;
 }
@@ -817,7 +828,7 @@ export function stateSlugFor(stateId: string, lang: Lang) {
   // HU legacy id (pl "fejer") -> ugyanaz
   if (HU_LEGACY_IDS.has(stateId)) return stateId;
   // Fallback: fr → en (FR-* states already natively French), tr → de (DE-* states use German slug), hr → en.
-  const fallback: Lang = lang === "fr" ? "en" : lang === "tr" ? "de" : lang === "hr" ? "en" : lang;
+  const fallback: Lang = lang === "fr" ? "en" : lang === "tr" ? "de" : lang === "hr" || lang === "it" ? "en" : lang;
   const effLang: Lang = STATE_SLUGS[stateId]?.[lang] ? lang : fallback;
   return STATE_SLUGS[stateId]?.[effLang] ?? slugify(REGION_BY_ID.get(stateId)?.name?.[effLang] || REGION_BY_ID.get(stateId)?.name?.de || stateId);
 }

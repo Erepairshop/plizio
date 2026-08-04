@@ -40,7 +40,7 @@ export function generateStaticParams() {
   const countryIds = Object.keys(COUNTRY_SLUGS);
   return SUPPORTED_LANGS.flatMap((lang) =>
     countryIds.map((countryId) => ({ lang, country: countrySlugFor(lang, countryId) }))
-  );
+  ).concat([{ lang: "it", country: countrySlugFor("it", "italy") }]);
 }
 
 export async function generateMetadata({
@@ -98,12 +98,14 @@ export default async function CountryPage({
   const hubSlug = sightsHubSlug(countryId, lang);
   const beachHref = beachHubHref(lang as Lang, countryId);
   const citiesHref = citiesHubHref(lang as Lang, countryId);
-  const mapHref = mapSlug ? `/${mapSlug}-map/${lang === "hu" ? "" : lang + "/"}` : null;
+  const mapLang = lang === "it" ? "en" : lang;
+  const mapHref = mapSlug ? `/${mapSlug}-map/${mapLang === "hu" ? "" : mapLang + "/"}` : null;
   const ML = ({
     de: { kicker: "Interaktive Karte", cta: `${countryCopy.name} entdecken`, sub: "Sehenswürdigkeiten, Städte, Karte & Suche", world: "Weltkarte ansehen", open: "Karte öffnen" },
     hu: { kicker: "Interaktív térkép", cta: `${countryCopy.name} felfedezése`, sub: "Látnivalók, városok, térkép és kereső", world: "Világtérkép", open: "Térkép megnyitása" },
     ro: { kicker: "Hartă interactivă", cta: `Explorează ${countryCopy.name}`, sub: "Obiective, orașe, hartă și căutare", world: "Harta lumii", open: "Deschide harta" },
     en: { kicker: "Interactive map", cta: `Explore ${countryCopy.name}`, sub: "Sights, cities, map & search", world: "World map", open: "Open map" },
+    it: { kicker: "Mappa interattiva", cta: `Esplora ${countryCopy.name}`, sub: "Luoghi, città, mappa e ricerca", world: "Mappa del mondo", open: "Apri la mappa" },
   } as const)[lang as Lang];
 
   return (

@@ -52,6 +52,24 @@ Nem váltja ki a `CLAUDE.md`-t, hanem gyors képbehozásra szolgál.
 - Böngészős ellenőrzésnél tesztelendő: mind a négy feladattípus, mobilnézet, 30-as POI-limit,
   név- és pontmentés, valamint a POI-kártya SEO-linkje.
 
+## POI deduplikáció
+
+- Globális audit: `npx tsx scripts/audit-poi-duplicates.mts`.
+- Jelentés: `outputs/poi-duplicate-audit.json`.
+- Konzervatív alkalmazás: `npx tsx scripts/audit-poi-duplicates.mts --apply-safe`.
+- A `--apply-safe` csak akkor blokkol automatikusan, ha legalább két fő nyelven azonos a név,
+  és a rekordok helytípusa azonos, vagy mindkettő településjellegű. A megtartott rekordot elsősorban
+  a négy fő nyelv összesített `descriptionAdvanced`-hossza választja ki.
+- A központi kizárólista: `lib/visualLab/data/_dedup_blocklist.json`; minden teljes POI-pipeline ezt használja.
+- 2026-08-03: Wittenbergnél a leggazdagabb `hist-wittenberg-stadtkirche-extra` maradt meg;
+  `wittenberg-extra` és `lutherstadt-wittenberg` blokkolva. A külön `hist-wittenberg-schlosskirche`
+  látványosság nem duplikátum és megmarad.
+- Ugyanekkor 180 további szigorúan biztonságos globális duplikátum került a blokkolólistára
+  (összesen 313 blokkolt ID). A fennmaradó eltérő típusú vagy részleges névegyezésű jelöltek
+  kézi ellenőrzést igényelnek.
+- A blokkolólista forrásoldali megoldás. Már publikált régi HTML-eket/markerfájlokat csak egy teljes
+  POI-generálás és atomic release távolít el; a delta deploy nem törli a korábbi fájlokat.
+
 ## Memo backup
 
 - Windows Task Scheduler feladat: `PlizioMemoryBackup`, naponta 18:00.
@@ -224,6 +242,16 @@ Nem váltja ki a `CLAUDE.md`-t, hanem gyors képbehozásra szolgál.
 - Az astro grade selector maradjon a meglévő bolygós mintán.
 - Az island oldalaknál mobilon fontos a lefelé autoscroll, hogy az alsó szigetrész rögtön látható legyen.
 - Ha egy astro játékban hiányzik az autoscroll, a meglévő minta szerint kell javítani.
+
+## Editorial light arculat - Home, Learn, kontinensek (2026-08-04)
+
+- A POI HTML-ek vizuális tokenjei az irányadók: `public/poi-static/poi.css`.
+- Fő színek: paper `#f6f1e7`, paper-2 `#efe8da`, panel `#fbf8f1`, ink `#211d18`, soft ink `#6b6356`, rule `#ddd4c2`, terracotta accent `#b4502a`.
+- React oldalak közös light utility osztályai az `app/globals.css` fájlban vannak `plizio-paper`, `paper-*`, `learn-*` és `subject-*` néven. Ezeket csak az editorial light felületeken használd; a játékok sötét témáját ne írd felül globálisan.
+- A kontinensikonok közös inline SVG-komponense: `components/ContinentIcon.tsx`. A főoldali Térképek kártya és a `/learn` térképnavigáció ugyanazt használja.
+- A főoldali Shop és profil/avatar belépők ideiglenesen rejtve vannak. A crawlable footerből is kikerültek; akkor kerüljenek vissza, ha a kapcsolódó funkciók teljesek.
+- A hat statikus kontinensoldal arculatának hiteles forrása továbbra is `scripts/build-static-continent-maps.mts`. Ne módosítsd külön a 30 generált HTML-t; változtatás után futtasd: `npx tsx scripts/build-static-continent-maps.mts`.
+- A kontinensoldalak vissza gombja szándékosan `/learn/` címre vezet.
 
 ## Kritikus technikai csapdák
 
@@ -439,3 +467,56 @@ Nem váltja ki a `CLAUDE.md`-t, hanem gyors képbehozásra szolgál.
   torteno `?quiz=start` automatikus inditas valtozatlan maradt.
 - Ellenorzes: esbuild szintaxis, `git diff --check`, 212/212 statikus terkep sikeres
   generalasa, valamint valodi Chrome desktop es 390x844 mobil render.
+
+## Native orszag-nyelvi rollout - 2026-08-04
+
+- Az elso teljes rollout Olaszorszag/olasz (`it`). Az `it` nem globalis alapnyelv:
+  csak olasz POI-k, orszag-, regio- es kategoriaoldalak kapjak, igy nem sokszorozza
+  meg a teljes globalis HTML-keszletet.
+- A teljes, ujrafelhasznalhato menet, Spark izolacio, sessionfuggetlen futtatas,
+  validalas/apply es kodintegracios lista itt van:
+  `C:\Users\User\plizio_orch\NATIVE_COUNTRY_ROLLOUT_PLAYBOOK.md`.
+- Olasz rollout vegeredmeny: 71,210/71,210 string, 0 hiba. A Spark-limit utan a
+  befejezo es repair korok `gpt-5.4-mini` modellel futottak; az utolso repackolt
+  queue 919 batch volt, legfeljebb ot parhuzamos workerrel. Allapot:
+  `C:\Users\User\plizio_orch\state_it_spark.json`.
+- Fontos tanulsag: a terminalbol kozvetlenul inditott hatterfolyamatot a tool
+  process-job leallithatja. Valodi fuggetlen futashoz kesleltetett Windows Task
+  Scheduler trigger kell. A tesztelt task neve: `Plizio Italy Spark`.
+- A regi 372 olasz sidecar kozott valodi UTF-8/Latin-1 mojibake van. Az apply script
+  ezt iras elott javitja; nyersen nem szabad elesiteni.
+- Az uj orszagok teljes sablonja es checklistje a
+  `C:\Users\User\plizio_orch\NATIVE_COUNTRY_ROLLOUT_PLAYBOOK.md` fajlban van.
+  A finalizer sorrendje: 100% queue -> exact-key validalas -> apply -> SEO index ->
+  orszag-only HTML smoke -> ntfy. Commit/push/deploy soha nem automatikus.
+- A natív sidecar `name` mezojet a `scripts/build-seo-index.mts` is beolvassa; enelkul
+  a natív URL slug a regi angol/nemet nevre esne vissza.
+- A `scripts/verify-italian-sitemap.mts` minden indexelheto olasz POI-t es a kotelezo
+  olasz hubokat ellenorzi a tenyleges XML sitemap chunkokban. Uj nyelvi URL-ekhez
+  teljes sitemapot epito deploy kell; a POI Delta a regi chunkokat hasznalja.
+- Spark forditasnal az 55 kulcsos batch atlagosan 5,9 KB volt; a 120 kulcsos proba
+  elerte a kb. 16 KB hard output szelt es nehany egykulcsos hibat okozott. A stabil
+  sablon 18 000 input karakter / legfeljebb 85 kulcs, kb. 11-12 KB celkimenettel.
+  Ujrageneralas elott mindig exact-key validalas kell; a mar valid batch megmarad.
+- A teljes SEO index import Windows alatt tullepi a Node alap 4 GB heapjet; a natív
+  rollout finalizer `NODE_OPTIONS=--max-old-space-size=12288` beallitassal futtatja.
+- Az olasz `public/data/pois/IT.json` 1136 POI-t tartalmaz, ezek nagy resze nincs a
+  TS source manifestben. A SEO-index epito ezt deduplikalt kiegeszito forraskent
+  beolvassa, kulonben tobb mint ezer olasz URL kimaradna az XML sitemapbol.
+- Finalizalas: 1,135 core sidecar + 1,577 layer fajl alkalmazva, 61,239 POI-s SEO
+  index, 1,132 olasz POI 13 XML sitemap chunkban, olasz HTML smoke sikeres.
+- Windows Task Scheduler alatt a finalizer ne regisztralja ujra a mar letezo worker
+  taskot: ez `Zugriff verweigert` hibara futhat. Repairnel a meglevo
+  `Plizio Italy Spark` taskot inditsa `Start-ScheduledTask` paranccsal.
+
+## Teutoburger Wald POI-kep - 2026-08-04
+
+- POI: `germany-teutoburger-wald-ridge-relief-v2` (`Teutoburger Wald Kamm`).
+- A hibas terkep helyett verziozott valodi tajfoto kerult a VPS shared kepterbe:
+  `/home/erik/plizio/shared/poi-images/germany-teutoburger-wald-ridge-relief-v2-photo-20260804.webp`.
+- Forras: Wikimedia Commons `File:Teutoburger-Wald.jpg`, szerzo Jakob.D029,
+  CC BY 4.0. A kep 1280x721 WebP, 144,926 byte; az uj fajlnev megkeruli a regi
+  immutable Cloudflare cache-t.
+- Tartós felülírás: `lib/seo/poiImageOverrides.ts`. Erre azért van szükség, mert
+  az ignorált aggregált POI-chunk gazdagabb duplikátuma felülírhatja a közvetlen
+  TS-forrás képmezőjét; az override-ot a SEO-index és a full POI-loader is alkalmazza.

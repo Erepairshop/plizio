@@ -5,6 +5,7 @@
 (function () {
   "use strict";
   var L = {
+    it: { h: "Informazioni sulla visita", sunrise: "Alba", sunset: "Tramonto", golden: "Ora d'oro", photo: "ideale per le foto", daylight: "Luce diurna", localtime: "Ora locale", season: "Stagione", h_: "h", m_: "min", polarDay: "Sole di mezzanotte (non tramonta)", polarNight: "Notte polare (il sole non sorge)", seasons: ["inverno", "primavera", "estate", "autunno"] },
     de: { h: "Besuchsinfo", sunrise: "Sonnenaufgang", sunset: "Sonnenuntergang", golden: "Goldene Stunde", photo: "beste Fotozeit", daylight: "Tageslicht", localtime: "Ortszeit", season: "Jahreszeit", h_: "Std", m_: "Min", polarDay: "Mitternachtssonne (geht nicht unter)", polarNight: "Polarnacht (geht nicht auf)", seasons: ["Winter", "Frühling", "Sommer", "Herbst"] },
     hu: { h: "Látogatói infó", sunrise: "Napkelte", sunset: "Napnyugta", golden: "Aranyóra", photo: "fotózáshoz ideális", daylight: "Nappal", localtime: "Helyi idő", season: "Évszak", h_: "ó", m_: "p", polarDay: "Éjféli nap (nem nyugszik le)", polarNight: "Sarki éjszaka (nem kel fel)", seasons: ["tél", "tavasz", "nyár", "ősz"] },
     ro: { h: "Info vizită", sunrise: "Răsărit", sunset: "Apus", golden: "Ora de aur", photo: "ideal pentru fotografii", daylight: "Lumină de zi", localtime: "Ora locală", season: "Anotimp", h_: "h", m_: "min", polarDay: "Soare de miezul nopții (nu apune)", polarNight: "Noapte polară (nu răsare)", seasons: ["iarnă", "primăvară", "vară", "toamnă"] },

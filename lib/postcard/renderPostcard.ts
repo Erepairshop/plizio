@@ -1,7 +1,7 @@
 import { renderStyledPostcard } from "./renderStyledPostcard";
 
 export type PostcardTheme = "vintage" | "polaroid" | "airmail" | "scrapbook" | "minimal";
-export type PostcardLanguage = "hu" | "de" | "en" | "ro";
+export type PostcardLanguage = "hu" | "de" | "en" | "ro" | "it";
 
 export type PostcardContent = {
   place: string;

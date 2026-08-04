@@ -15,9 +15,10 @@ const COPY: Record<PostcardLanguage, { journey: string; keepsake: string; messag
   hu: { journey: "Az én utazásom", keepsake: "Egy emlék, amit jó megőrizni", message: "Üdvözlet erről a csodálatos helyről!", signoff: "szeretettel" },
   en: { journey: "My journey", keepsake: "A memory worth keeping", message: "Greetings from this wonderful place!", signoff: "with love" },
   ro: { journey: "Călătoria mea", keepsake: "O amintire de păstrat", message: "Salutări din acest loc minunat!", signoff: "cu drag" },
+  it: { journey: "Il mio viaggio", keepsake: "Un ricordo da conservare", message: "Saluti da questo luogo meraviglioso!", signoff: "con affetto" },
 };
 
-const UPPERCASE_LOCALE: Record<PostcardLanguage, string> = { de: "de-DE", hu: "hu-HU", en: "en-US", ro: "ro-RO" };
+const UPPERCASE_LOCALE: Record<PostcardLanguage, string> = { de: "de-DE", hu: "hu-HU", en: "en-US", ro: "ro-RO", it: "it-IT" };
 
 function coverImage(ctx: CanvasRenderingContext2D, image: HTMLImageElement, x: number, y: number, w: number, h: number) {
   const scale = Math.max(w / image.naturalWidth, h / image.naturalHeight);

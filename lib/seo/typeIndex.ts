@@ -16,33 +16,33 @@ export const TYPE_BUCKETS: Record<string, string[]> = {
 };
 
 // Type-bucket slug per language
-export const TYPE_SLUGS: Record<string, Record<Lang, string>> = {
-  cities:     { de: "staedte",            hu: "varosok",           ro: "orase",                en: "cities" },
-  villages:   { de: "doerfer",            hu: "falvak",            ro: "sate",                 en: "villages" },
-  castles:    { de: "burgen",             hu: "varak",             ro: "castele",              en: "castles" },
-  mountains:  { de: "berge",              hu: "hegyek",            ro: "munti",                en: "mountains" },
-  lakes:      { de: "seen",               hu: "tavak",             ro: "lacuri",               en: "lakes" },
-  rivers:     { de: "fluesse",            hu: "folyok",            ro: "rauri",                en: "rivers" },
-  historical: { de: "historische-orte",   hu: "tortenelmi-helyek", ro: "locuri-istorice",      en: "historical-sites" },
-  landmarks:  { de: "sehenswuerdigkeiten", hu: "latnivalok",       ro: "obiective-turistice",  en: "landmarks" },
-  nature:     { de: "naturwunder",        hu: "termeszet",         ro: "natura",               en: "nature" },
+export const TYPE_SLUGS: Record<string, Partial<Record<Lang, string>>> = {
+  cities:     { de: "staedte",            hu: "varosok",           ro: "orase",                en: "cities", it: "citta" },
+  villages:   { de: "doerfer",            hu: "falvak",            ro: "sate",                 en: "villages", it: "borghi" },
+  castles:    { de: "burgen",             hu: "varak",             ro: "castele",              en: "castles", it: "castelli" },
+  mountains:  { de: "berge",              hu: "hegyek",            ro: "munti",                en: "mountains", it: "montagne" },
+  lakes:      { de: "seen",               hu: "tavak",             ro: "lacuri",               en: "lakes", it: "laghi" },
+  rivers:     { de: "fluesse",            hu: "folyok",            ro: "rauri",                en: "rivers", it: "fiumi" },
+  historical: { de: "historische-orte",   hu: "tortenelmi-helyek", ro: "locuri-istorice",      en: "historical-sites", it: "luoghi-storici" },
+  landmarks:  { de: "sehenswuerdigkeiten", hu: "latnivalok",       ro: "obiective-turistice",  en: "landmarks", it: "luoghi-interesse" },
+  nature:     { de: "naturwunder",        hu: "termeszet",         ro: "natura",               en: "nature", it: "natura" },
 };
 
 // Display heading per bucket × lang
-export const TYPE_HEADINGS: Record<string, Record<Lang, string>> = {
-  cities:     { de: "Städte",              hu: "Városok",          ro: "Orașe",                en: "Cities" },
-  villages:   { de: "Dörfer",              hu: "Falvak",           ro: "Sate",                 en: "Villages" },
-  castles:    { de: "Burgen und Festungen", hu: "Várak és erődök", ro: "Castele și fortărețe", en: "Castles & Forts" },
-  mountains:  { de: "Berge",               hu: "Hegyek",           ro: "Munți",                en: "Mountains" },
-  lakes:      { de: "Seen",                hu: "Tavak",            ro: "Lacuri",               en: "Lakes" },
-  rivers:     { de: "Flüsse",              hu: "Folyók",           ro: "Râuri",                en: "Rivers" },
-  historical: { de: "Historische Orte",    hu: "Történelmi helyek", ro: "Locuri istorice",     en: "Historical Sites" },
-  landmarks:  { de: "Sehenswürdigkeiten",  hu: "Látnivalók",       ro: "Obiective turistice",  en: "Landmarks" },
-  nature:     { de: "Naturwunder",         hu: "Természeti helyek", ro: "Locuri naturale",     en: "Nature" },
+export const TYPE_HEADINGS: Record<string, Partial<Record<Lang, string>>> = {
+  cities:     { de: "Städte",              hu: "Városok",          ro: "Orașe",                en: "Cities", it: "Città" },
+  villages:   { de: "Dörfer",              hu: "Falvak",           ro: "Sate",                 en: "Villages", it: "Borghi" },
+  castles:    { de: "Burgen und Festungen", hu: "Várak és erődök", ro: "Castele și fortărețe", en: "Castles & Forts", it: "Castelli e fortezze" },
+  mountains:  { de: "Berge",               hu: "Hegyek",           ro: "Munți",                en: "Mountains", it: "Montagne" },
+  lakes:      { de: "Seen",                hu: "Tavak",            ro: "Lacuri",               en: "Lakes", it: "Laghi" },
+  rivers:     { de: "Flüsse",              hu: "Folyók",           ro: "Râuri",                en: "Rivers", it: "Fiumi" },
+  historical: { de: "Historische Orte",    hu: "Történelmi helyek", ro: "Locuri istorice",     en: "Historical Sites", it: "Luoghi storici" },
+  landmarks:  { de: "Sehenswürdigkeiten",  hu: "Látnivalók",       ro: "Obiective turistice",  en: "Landmarks", it: "Luoghi d'interesse" },
+  nature:     { de: "Naturwunder",         hu: "Természeti helyek", ro: "Locuri naturale",     en: "Nature", it: "Natura" },
 };
 
 export function typeSlugFor(bucket: string, lang: Lang): string {
-  return TYPE_SLUGS[bucket]?.[lang] || bucket;
+  return TYPE_SLUGS[bucket]?.[lang] || TYPE_SLUGS[bucket]?.en || bucket;
 }
 
 export function bucketFromSlug(lang: Lang, slug: string): string | null {

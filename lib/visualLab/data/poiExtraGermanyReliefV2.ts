@@ -659,7 +659,7 @@ export const germanyReliefV2: POI[] = [
       fr: ["La longueur de la chaîne de montagnes est d'environ 105 kilomètres.", "Le sommet le plus élevé est le Barnacken à 446 mètres.", "Lieu de la bataille de Teutobourg en l'an 9 ap. J.-C.", "Le monument de Hermann a été inauguré en 1875.", "Les Externsteine sont une formation de grès remarquable.", "Le sentier de randonnée 'Hermannsweg' mesure 156 kilomètres de long."],
     
       "tr": ["Dağ sırasının uzunluğu yaklaşık 105 kilometredir.", "En yüksek zirve 446 metre ile Barnacken'dir.", "M.S. 9 yılında Varusschlacht'ın (Teutoburg Ormanı Savaşı) gerçekleştiği yer.", "Hermannsdenkmal 1875 yılında açılmıştır.", "Externsteine belirgin bir kumtaşı oluşumudur.", "Sırt yolu olan 'Hermannsweg' 156 kilometre uzunluğundadır."]},
-    image: "/poi-images/germany-teutoburger-wald-ridge-relief-v2.webp",
+    image: "/poi-images/germany-teutoburger-wald-ridge-relief-v2-photo-20260804.webp",
   },
   {
     id: "germany-donau-moos-relief-v2",

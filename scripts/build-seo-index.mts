@@ -9,6 +9,10 @@
 
 import fs from "node:fs";
 import path from "node:path";
+import * as _poiImageOverridesNs from "../lib/seo/poiImageOverrides";
+
+const _poiImageOverrides: any = (_poiImageOverridesNs as any).default ?? _poiImageOverridesNs;
+const applyPoiImageOverride = _poiImageOverrides.applyPoiImageOverride as <T extends { id?: string; image?: string } | null | undefined>(poi: T) => T;
 
 const OUT = path.resolve("lib/seo/_seo-data.generated.ts");
 
@@ -58,7 +62,23 @@ async function main() {
   const _DEDUP_BLOCK = new Set<string>(
     JSON.parse(fs.readFileSync(path.resolve(process.cwd(), "lib/visualLab/data/_dedup_blocklist.json"), "utf-8")),
   );
-  const allSources: POI[] = (ALL_POI_SOURCES as POI[]).concat([vaticanCountry as POI])
+  // Country JSON can contain generated/imported POIs that are not represented in
+  // the TS manifest. Italy is a native-language rollout target, so those POIs must
+  // also enter the lite SEO index and its sitemap URL set.
+  let italianCountryPois: POI[] = [];
+  try {
+    const itPoisPath = path.resolve(process.cwd(), "public", "data", "pois", "IT.json");
+    if (fs.existsSync(itPoisPath)) {
+      const parsed = JSON.parse(fs.readFileSync(itPoisPath, "utf-8"));
+      if (Array.isArray(parsed?.pois)) italianCountryPois = parsed.pois as POI[];
+    }
+  } catch (error) {
+    console.warn(`[build-seo-index] Italian country POI read warning: ${String(error)}`);
+  }
+  console.log(`[build-seo-index] Italian country JSON POIs: ${italianCountryPois.length}`);
+
+  const allSources: POI[] = (ALL_POI_SOURCES as POI[]).concat(italianCountryPois, [vaticanCountry as POI])
+    .map((poi) => applyPoiImageOverride(poi))
     .filter((p) => !(p && p.id && _DEDUP_BLOCK.has(p.id)));
   console.log(`[build-seo-index] raw sources: ${allSources.length} (dedup-block: ${_DEDUP_BLOCK.size})`);
 
@@ -131,20 +151,43 @@ async function main() {
   } catch { /* sidecar optional */ }
   console.log(`[build-seo-index] hr-native POIs: ${HR_NATIVE_IDS.size}`);
 
+  // Country-native sidecars are deliberately kept outside the large TS POI
+  // sources. Merge only the fields needed by routing/index generation here.
+  const IT_NATIVE = new Map<string, Record<string, unknown>>();
+  const itDir = path.resolve(process.cwd(), "public", "data", "i18n", "it");
+  try {
+    if (fs.existsSync(itDir)) {
+      for (const file of fs.readdirSync(itDir)) {
+        if (!file.endsWith(".json")) continue;
+        const id = file.slice(0, -5);
+        const value = JSON.parse(fs.readFileSync(path.join(itDir, file), "utf-8"));
+        if (value && typeof value === "object") IT_NATIVE.set(id, value);
+      }
+    }
+  } catch (error) {
+    console.warn(`[build-seo-index] Italian sidecar read warning: ${String(error)}`);
+  }
+  console.log(`[build-seo-index] it-native POIs: ${IT_NATIVE.size}`);
+
   // Lite shape — only what slugs.ts / sitemap.ts / page generators need.
-  const lite = finalPois.map((p) => ({
-    id: p.id,
-    type: p.type,
-    parent: p.parent,
-    coords: p.coords,
-    image: p.image,
-    frLong: longLang(p, "fr"),
-    trLong: longLang(p, "tr"),
-    hrLong: HR_NATIVE_IDS.has(p.id),
-    coa: p.coa,
-    name: p.name,
-    hasIndexable: hasIndexable(p),
-  }));
+  const lite = finalPois.map((p) => {
+    const nativeIt = p.id ? IT_NATIVE.get(p.id) : undefined;
+    const nativeItName = typeof nativeIt?.name === "string" ? nativeIt.name : undefined;
+    return {
+      id: p.id,
+      type: p.type,
+      parent: p.parent,
+      coords: p.coords,
+      image: p.image,
+      frLong: longLang(p, "fr"),
+      trLong: longLang(p, "tr"),
+      hrLong: HR_NATIVE_IDS.has(p.id),
+      itLong: Boolean(nativeIt),
+      coa: p.coa,
+      name: nativeItName ? { ...(p.name || {}), it: nativeItName } : p.name,
+      hasIndexable: hasIndexable(p),
+    };
+  });
 
   // Regions — match slugs.ts: deRegions + romaniaRegions + hungaryRegions + region/country POIs
   const regionById = new Map<string, POI>();

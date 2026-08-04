@@ -2,8 +2,8 @@
 
 import { ChangeEvent, useEffect, useRef, useState } from "react";
 import { Camera, Check, Copy, Download, Globe2, ImagePlus, Link2, LoaderCircle, MapPin, Send, ShieldCheck, Sparkles } from "lucide-react";
-import { canvasToBlob, renderPostcard, type PostcardTheme } from "@/lib/postcard/renderPostcard";
-import { getLanguage, type Language } from "@/lib/language";
+import { canvasToBlob, renderPostcard, type PostcardLanguage, type PostcardTheme } from "@/lib/postcard/renderPostcard";
+import { getLanguage } from "@/lib/language";
 
 const themes: PostcardTheme[] = ["vintage", "polaroid", "airmail", "scrapbook", "minimal"];
 type ShareExpiry = "7" | "30" | "forever";
@@ -73,10 +73,26 @@ const COPY = {
     copyLink: "Copiază linkul", copied: "Copiat", shareLink: "Distribuie linkul", publicReady: "Linkul de distribuire este gata.", publicError: "Linkul nu a putut fi creat. Încearcă din nou.",
     file: "plizio-carte-postala", locale: "ro-RO",
   },
-} satisfies Record<Language, Record<string, unknown>>;
+  it: {
+    placeDefault: "Roma", countryDefault: "Italia", messageDefault: "Saluti da questo luogo meraviglioso!",
+    studio: "Studio di cartoline", eyebrow: "Trasforma un viaggio in un ricordo personale", titleA: "Invia un pezzo", titleB: "di mondo.",
+    intro: "Crea una cartolina personale con la tua foto. Non serve registrarsi; l'immagine resta sul dispositivo finché non scegli di creare un link condivisibile.",
+    place: "Luogo", country: "Paese", choosePhoto: "Scegli una foto", photoHint: "JPG, PNG o foto dello smartphone", message: "Messaggio",
+    sender: "Firma", senderPlaceholder: "Il tuo nome (opzionale)", style: "Stile", themes: { vintage: "Vintage", polaroid: "Polaroid", airmail: "Posta aerea", scrapbook: "Diario di viaggio", minimal: "Minimal" },
+    share: "Condividi", download: "Scarica", privacy: "La foto resta sul dispositivo per impostazione predefinita. Viene caricata solo quando crei esplicitamente un link condivisibile.",
+    preview: "L'anteprima si aggiorna automaticamente", previewLabel: "Anteprima della cartolina", invalidImage: "Scegli un file immagine.",
+    imageError: "Impossibile aprire l'immagine.", ready: "La cartolina è pronta.", shareTitle: (place: string) => `Saluti da ${place}`,
+    shareText: "Ho creato questa cartolina per te con Plizio.", shareFallback: "Il browser non supporta la condivisione diretta, quindi la cartolina è stata scaricata.",
+    publicShare: "Crea un link condivisibile", publicIntro: "Crea una copia privata e non elencata. Solo chi riceve il link può aprirla.",
+    expiry: "Disponibilità", expiryOptions: { "7": "7 giorni", "30": "30 giorni", forever: "Senza scadenza" },
+    consent: "Accetto che questa cartolina venga caricata su Plizio per rendere disponibile il link.", createLink: "Crea link", creating: "Creazione del link…",
+    copyLink: "Copia link", copied: "Copiato", shareLink: "Condividi link", publicReady: "Il link condivisibile è pronto.", publicError: "Impossibile creare il link. Riprova.",
+    file: "plizio-cartolina", locale: "it-IT",
+  },
+} satisfies Record<PostcardLanguage, Record<string, unknown>>;
 
-function isLanguage(value: string | null): value is Language {
-  return value === "de" || value === "hu" || value === "en" || value === "ro";
+function isLanguage(value: string | null): value is PostcardLanguage {
+  return value === "de" || value === "hu" || value === "en" || value === "ro" || value === "it";
 }
 
 function trackPostcard(event: string, data?: Record<string, string>) {
@@ -110,7 +126,7 @@ export default function PostcardEditor() {
   const canvasRef = useRef<HTMLCanvasElement>(null);
   const imageRef = useRef<HTMLImageElement | null>(null);
   const objectUrlRef = useRef<string | null>(null);
-  const [lang, setLang] = useState<Language>("en");
+  const [lang, setLang] = useState<PostcardLanguage>("en");
   const [place, setPlace] = useState(COPY.en.placeDefault);
   const [country, setCountry] = useState(COPY.en.countryDefault);
   const [message, setMessage] = useState(COPY.en.messageDefault);

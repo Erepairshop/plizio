@@ -13,6 +13,10 @@
 import fs from "node:fs";
 import path from "node:path";
 import type { POI } from "../lib/visualLab/data/poi";
+import * as _poiImageOverridesNs from "../lib/seo/poiImageOverrides";
+
+const _poiImageOverrides: any = (_poiImageOverridesNs as any).default ?? _poiImageOverridesNs;
+const applyPoiImageOverride = _poiImageOverrides.applyPoiImageOverride as <T extends { id?: string; image?: string } | null | undefined>(poi: T) => T;
 
 // IDs collapsed at the dedup stage (same place, ≤2km). Excluded everywhere so the kept
 // (richest) POI owns the canonical sitemap slug. See _dedup_blocklist.json.
@@ -120,7 +124,9 @@ export async function loadFullPois(): Promise<POI[]> {
     const prev = byId.get(p.id);
     if (!prev || richness(p) > richness(prev)) byId.set(p.id, p);
   }
-  const out = Array.from(byId.values()).filter((p) => !DEDUP_BLOCK.has(p.id));
+  const out = Array.from(byId.values())
+    .filter((p) => !DEDUP_BLOCK.has(p.id))
+    .map((poi) => applyPoiImageOverride(poi));
   console.log(`[load-full-pois] loaded ${out.length} full POIs (dedup-block: ${DEDUP_BLOCK.size})`);
   return out;
 }

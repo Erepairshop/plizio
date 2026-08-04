@@ -79,6 +79,8 @@ export async function generateSitemaps() {
   // so they MUST be counted here too or the last chunk gets dropped.
   let extraLangUrls = 0;
   for (const poi of indexablePois) extraLangUrls += extraLangsFor(poi).length;
+  const italyRegions = INDEXABLE_REGIONS.filter((state) => getCountryIdStrict(state.id) === "italy").length;
+  const italyCategories = CATEGORY_PARAMS.filter(({ countryId }) => countryId === "italy").length;
   const totalUrls =
     ROOT_FIXED +
     GAME_FIXED * SUPPORTED_LANGS.length +
@@ -88,7 +90,8 @@ export async function generateSitemaps() {
     indexablePois.length * SUPPORTED_LANGS.length +
     extraLangUrls +
     SIGHT_PAGES.length * SUPPORTED_LANGS.length;
-  const n = Math.max(1, Math.ceil(totalUrls / CHUNK_SIZE));
+  const totalWithItalianHubs = totalUrls + 1 + italyRegions + italyCategories;
+  const n = Math.max(1, Math.ceil(totalWithItalianHubs / CHUNK_SIZE));
   return Array.from({ length: n }, (_, id) => ({ id }));
 }
 
@@ -111,7 +114,7 @@ export default async function sitemap(props: { id: Promise<string> }): Promise<M
     ALL_COUNTRY_IDS.map((cid) =>
       createEntry(buildCountryPath(lang, cid), "app/[lang]/[country]/page.tsx", 0.9),
     ),
-  );
+  ).concat([createEntry(buildCountryPath("it", "italy"), "app/[lang]/[country]/page.tsx", 0.9)]);
   // Category hub pages: /<lang>/<country>/category/<type>/ (cities, castles, mountains, …).
   const categoryUrls = SUPPORTED_LANGS.flatMap((lang) =>
     CATEGORY_PARAMS.map(({ countryId, bucket }) =>
@@ -122,6 +125,10 @@ export default async function sitemap(props: { id: Promise<string> }): Promise<M
       ),
     ),
   );
+  for (const { countryId, bucket } of CATEGORY_PARAMS) {
+    if (countryId !== "italy") continue;
+    categoryUrls.push(createEntry(`/it/italia/category/${typeSlugFor(bucket, "it")}/`, "app/[lang]/[country]/category/[type]/page.tsx", 0.7));
+  }
 
   const rootUrls = [
     createEntry("/", "app/page.tsx", 1),
@@ -184,6 +191,9 @@ export default async function sitemap(props: { id: Promise<string> }): Promise<M
   const stateUrls = SUPPORTED_LANGS.flatMap((lang) =>
     INDEXABLE_REGIONS.map((state) => createEntry(buildStatePath(lang, state.id), "app/[lang]/[country]/[state]/page.tsx", 0.8)),
   );
+  for (const state of INDEXABLE_REGIONS) {
+    if (getCountryIdStrict(state.id) === "italy") stateUrls.push(createEntry(buildStatePath("it", state.id), "app/[lang]/[country]/[state]/page.tsx", 0.8));
+  }
 
   // SEO: csak az indexálható (megfelelő tartalmú) POI-kat tesszük a sitemap-ba.
   // Az üres POI-k a robots:noindex flag-et kapnak a page.tsx metadata-jában.

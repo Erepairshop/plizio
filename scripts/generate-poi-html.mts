@@ -25,9 +25,12 @@ let _tzLookup: ((lat: number, lng: number) => string) | null = null;
 try { _tzLookup = _tzRequire("tz-lookup"); } catch { _tzLookup = null; }
 import * as _slugsNs from "../lib/seo/slugs";
 import type { POI } from "../lib/visualLab/data/poi";
+import * as _poiImageOverridesNs from "../lib/seo/poiImageOverrides";
 import * as _loaderNs from "./_load-full-pois";
 import { renderPoiImageContribution } from "./lib/render-poi-image-contribution.mts";
 const _loader: any = (_loaderNs as any).default ?? _loaderNs;
+const _poiImageOverrides: any = (_poiImageOverridesNs as any).default ?? _poiImageOverridesNs;
+const POI_IMAGE_OVERRIDES: Readonly<Record<string, string>> = _poiImageOverrides.POI_IMAGE_OVERRIDES;
 const loadFullPois: () => Promise<POI[]> = _loader.loadFullPois;
 const hasIndexableContent: (poi: POI) => boolean = _loader.hasIndexableContent;
 import * as _exploreNs from "../lib/explore/explore-block";
@@ -211,6 +214,8 @@ function imageExists(p?: string | null): boolean {
   return IMG_SET.has(p.split("/").pop() || "");
 }
 function resolveHeroImage(poi: POI): string | null {
+  const trustedOverride = POI_IMAGE_OVERRIDES[poi.id];
+  if (trustedOverride) return trustedOverride;
   if (poi.image && imageExists(poi.image)) {
     const filename = poi.image.split("/").pop() || "";
     // The VPS manifest contains canonical shared/poi-images filenames. Some
@@ -242,6 +247,7 @@ try {
 // hr FAQ is a separate native set (different questions), populated from the
 // poi-hr-native.json merge below; renderFAQ uses it for lang === "hr".
 const HR_FAQS: Record<string, FAQItem[]> = {};
+const IT_FAQS: Record<string, FAQItem[]> = {};
 
 // Climate sidecar — 12-month normals (mean/max temp, precip mm) per 0.5° grid
 // cell (NASA POWER climatology). SSR "best time to visit" block; non-duplicate,
@@ -326,7 +332,7 @@ const REGION_BY_ID = new Map<string, POI>((regions as POI[]).map((r) => [r.id, r
 const FAQ_HEAD: Record<string, string> = {
   de: "Häufige Fragen", hu: "Gyakori kérdések", ro: "Întrebări frecvente",
   en: "Frequently asked questions", fr: "Questions fréquentes", tr: "Sıkça sorulan sorular",
-  hr: "Često postavljana pitanja",
+  hr: "Često postavljana pitanja", it: "Domande frequenti",
 };
 const FAQ_CHEV = `<svg class="plz-faq-chev" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9l6 6 6-6"/></svg>`;
 function pickFaqStr(o: Record<string, unknown> | undefined, lang: Lang): string {
@@ -338,12 +344,14 @@ function pickFaqStr(o: Record<string, unknown> | undefined, lang: Lang): string 
   return "";
 }
 function renderFAQ(poi: POI, lang: Lang): string {
-  const items = (lang === "hr" && HR_FAQS[poi.id]) ? HR_FAQS[poi.id] : FAQS[poi.id];
+  const items = lang === "it" && IT_FAQS[poi.id]
+    ? IT_FAQS[poi.id]
+    : (lang === "hr" && HR_FAQS[poi.id]) ? HR_FAQS[poi.id] : FAQS[poi.id];
   if (!items || items.length === 0) return "";
   const heading: Record<string, string> = {
     de: "Häufige Fragen", hu: "Gyakori kérdések", ro: "Întrebări frecvente",
     en: "Frequently asked questions", fr: "Questions fréquentes", tr: "Sıkça sorulan sorular",
-    hr: "Često postavljana pitanja",
+    hr: "Često postavljana pitanja", it: "Domande frequenti",
   };
   const head = heading[lang] || heading.en!;
   const accordion = items.map((it, i) => {
@@ -535,7 +543,7 @@ try {
 } catch {}
 // Build a global id→POI lookup for cross-referencing (e.g. sight name internal links).
 const allById = new Map<string, POI>(pois.filter(p => p?.id).map(p => [p.id, p]));
-type Lang = "de" | "hu" | "ro" | "en" | "fr" | "tr" | "hr";
+type Lang = "de" | "hu" | "ro" | "en" | "fr" | "tr" | "hr" | "it";
 
 // hr = native Croatian: merge the poi-hr-native.json sidecar INTO each POI's
 // Record<Lang> fields (name/description/descriptionAdvanced/facts/sights) + faq, so
@@ -567,6 +575,38 @@ try {
   }
 } catch (e: any) {
   console.log(`[generate-poi-html] hr-native merge skipped: ${e?.message?.slice(0, 80)}`);
+}
+
+// Italian is country-scoped. Sidecars keep the native corpus out of the heavy
+// TypeScript POI modules while exposing it through the normal language renderer.
+try {
+  const itDir = path.resolve(process.cwd(), "public", "data", "i18n", "it");
+  if (fs.existsSync(itDir)) {
+    let merged = 0;
+    for (const poi of pois) {
+      if (!poi.parent?.startsWith("IT")) continue;
+      const itPath = path.join(itDir, `${poi.id}.json`);
+      if (!fs.existsSync(itPath)) continue;
+      const it = JSON.parse(fs.readFileSync(itPath, "utf-8")) as {
+        name?: string; description?: string; descAdv?: string;
+        descriptionAdvanced?: string; facts?: string[];
+        faq?: { q: string; a: string }[];
+      };
+      const p = poi as unknown as Record<string, any>;
+      if (it.name) { p.name = p.name || {}; p.name.it = it.name; }
+      if (it.description) { p.description = p.description || {}; p.description.it = it.description; }
+      const advanced = it.descriptionAdvanced || it.descAdv;
+      if (advanced) { p.descriptionAdvanced = p.descriptionAdvanced || {}; p.descriptionAdvanced.it = advanced; }
+      if (Array.isArray(it.facts) && it.facts.length) { p.facts = p.facts || {}; p.facts.it = it.facts; }
+      if (Array.isArray(it.faq) && it.faq.length) {
+        IT_FAQS[poi.id] = it.faq.map((f) => ({ q: { it: f.q }, a: { it: f.a } }));
+      }
+      merged++;
+    }
+    console.log(`[generate-poi-html] it-native merged into ${merged} POIs`);
+  }
+} catch (e: any) {
+  console.log(`[generate-poi-html] it-native merge skipped: ${e?.message?.slice(0, 80)}`);
 }
 
 // Merge OSM-extra sights (public/data/_sights_extra.json) into THIN POIs that
@@ -1023,6 +1063,7 @@ const _KEYFACTS_LABELS: Record<string, { loc: string; sights: string; near: stri
   fr: { loc: "Situation", sights: "À voir", near: "À proximité", pop: "Population" },
   tr: { loc: "Konum", sights: "Başlıca yerler", near: "Yakında", pop: "Nüfus" },
   hr: { loc: "Lokacija", sights: "Znamenitosti", near: "U blizini", pop: "Stanovništvo" },
+  it: { loc: "Posizione", sights: "Luoghi principali", near: "Nelle vicinanze", pop: "Popolazione" },
 };
 function renderKeyFacts(
   poi: POI, lang: Lang, countryName: string,
@@ -1355,6 +1396,7 @@ const TRUST_T: Record<string, { team: string; updated: string }> = {
   fr: { team: "Rédaction Plizio", updated: "Mis à jour" },
   tr: { team: "Plizio editör ekibi", updated: "Güncellendi" },
   hr: { team: "Plizio uredništvo", updated: "Ažurirano" },
+  it: { team: "Redazione Plizio", updated: "Aggiornato" },
 };
 // Theme-agnostic (opacity + color:inherit) so it adapts to the page's text color.
 function renderPostcardCta(poi: POI, lang: Lang, countryId: string): string {
@@ -1368,6 +1410,7 @@ function renderPostcardCta(poi: POI, lang: Lang, countryId: string): string {
     fr: { eyebrow: "Votre voyage, votre souvenir", title: `Une carte postale de ${placeName}`, body: "Transformez votre photo en carte postale personnelle avec un cachet local. Gratuit, sans inscription.", button: "Créer une carte postale", stamp: "Souvenir de" },
     tr: { eyebrow: "Yolculuğun, hatıran", title: `${placeName} hatırası bir kartpostal`, body: "Kendi fotoğrafını yer damgalı kişisel bir kartpostala dönüştür. Ücretsiz ve kayıt gerektirmez.", button: "Kartpostal oluştur", stamp: "Sevgiler" },
     hr: { eyebrow: "Tvoje putovanje, tvoja uspomena", title: `Razglednica iz mjesta ${placeName}`, body: "Pretvori svoju fotografiju u osobnu razglednicu s pečatom mjesta. Besplatno i bez registracije.", button: "Izradi razglednicu", stamp: "Pozdrav iz" },
+    it: { eyebrow: "Il tuo viaggio, il tuo ricordo", title: `Una cartolina da ${placeName}`, body: "Trasforma la tua foto in una cartolina personale con il timbro del luogo. Gratis e senza registrazione.", button: "Crea una cartolina", stamp: "Saluti da" },
   };
   const t = COPY[lang] || COPY.en!;
   const params = new URLSearchParams({ place: String(placeName), country: countryName, lang });
@@ -1424,6 +1467,13 @@ function renderMapQuizCta(countryId: string, countryName: string, lang: Lang): s
       body: "Find cities, landscapes and regions in 10 varied challenges on the interactive map.",
       count: "10 challenges",
       button: "Start the map quiz",
+    },
+    it: {
+      eyebrow: "Esplora sulla mappa",
+      title: `Quanto conosci ${countryName}?`,
+      body: "Trova città, paesaggi e regioni in 10 sfide diverse sulla mappa interattiva.",
+      count: "10 sfide",
+      button: "Avvia il quiz sulla mappa",
     },
   };
   const t = COPY[lang] || COPY.en!;
@@ -1490,6 +1540,7 @@ const TIP_T: Record<string, { head: string; best: (n: string, b: string) => stri
   fr: { head: "Notre conseil", best: (n, b) => `${n} est le plus agréable autour de ${b}.`, sight: (s) => `Ne manquez pas ${s}.`, near: (c, km) => `Pour une excursion d'une journée, ${c} (environ ${km} km) vaut le détour.` },
   tr: { head: "Plizio önerisi", best: (n, b) => `${n} en keyifli ${b} döneminde.`, sight: (s) => `${s} mutlaka görülmeli.`, near: (c, km) => `Bir günlük gezi için ${c} (yaklaşık ${km} km) ideal.` },
   hr: { head: "Naš savjet", best: (n, b) => `${n} je najugodniji u razdoblju ${b}.`, sight: (s) => `Ne propustite ${s}.`, near: (c, km) => `Za jednodnevni izlet, ${c} (oko ${km} km) je odličan izbor.` },
+  it: { head: "Il consiglio di Plizio", best: (n, b) => `${n} è particolarmente piacevole nel periodo ${b}.`, sight: (s) => `Non perdere ${s}.`, near: (c, km) => `Per una gita in giornata, ${c} (circa ${km} km) merita una visita.` },
 };
 function renderPlizioTip(poi: POI, lang: Lang, name: string, sightNames: string[], nearbyCity: { name: string; km: number } | null): string {
   const t = TIP_T[lang] || TIP_T.en;
@@ -1572,7 +1623,7 @@ function poiPlaceholderSvg(type?: string): string {
 }
 
 // Lang fallback: tr → de, fr → en (most strings only have 4 langs filled).
-function _langFallback(lang: Lang): Lang { return lang === "tr" ? "de" : lang === "fr" ? "en" : lang; }
+function _langFallback(lang: Lang): Lang { return lang === "tr" ? "de" : lang === "fr" || lang === "it" ? "en" : lang; }
 const I = (k: string, lang: Lang) => I18N[k]?.[lang] ?? I18N[k]?.[_langFallback(lang)] ?? k;
 const T = (type: string, lang: Lang) => TYPE_LABEL[type]?.[lang] ?? TYPE_LABEL[type]?.[_langFallback(lang)] ?? type;
 
@@ -1586,6 +1637,7 @@ const FOOTER_COPY: Record<string, { privacy: string; about: string; imprint: str
   fr: { privacy: "Confidentialité", about: "À propos", imprint: "Mentions légales", europe: "Europe", sources: "Sources de données" },
   tr: { privacy: "Gizlilik", about: "Hakkımızda", imprint: "Künye", europe: "Avrupa", sources: "Veri Kaynakları" },
   hr: { privacy: "Privatnost", about: "O nama", imprint: "Impressum", europe: "Europa", sources: "Izvori podataka" },
+  it: { privacy: "Privacy", about: "Chi siamo", imprint: "Note legali", europe: "Europa", sources: "Fonti dei dati" },
 };
 function footerHtml(lang: Lang): string {
   const f = FOOTER_COPY[lang] ?? FOOTER_COPY.en;
@@ -1803,6 +1855,7 @@ const PRACTICAL_COPY: Record<string, Record<string, string>> = {
   fr: { title: "📋 Infos pratiques", address: "Adresse", openingHours: "Horaires", entranceFee: "Entrée", website: "Site officiel", publicTransport: "Transports", parking: "Stationnement", accessibility: "Accessibilité", photoRules: "Photos", bestTimeToVisit: "Meilleur moment", audioGuide: "Audioguide" },
   tr: { title: "📋 Pratik bilgiler", address: "Adres", openingHours: "Çalışma saatleri", entranceFee: "Giriş", website: "Resmi site", publicTransport: "Toplu taşıma", parking: "Otopark", accessibility: "Erişilebilirlik", photoRules: "Fotoğraf", bestTimeToVisit: "En iyi zaman", audioGuide: "Sesli rehber" },
   hr: { title: "📋 Praktične informacije", address: "Adresa", openingHours: "Radno vrijeme", entranceFee: "Ulaznica", website: "Službena stranica", publicTransport: "Javni prijevoz", parking: "Parking", accessibility: "Pristupačnost", photoRules: "Fotografiranje", bestTimeToVisit: "Najbolje vrijeme", audioGuide: "Audiovodič" },
+  it: { title: "📋 Informazioni pratiche", address: "Indirizzo", openingHours: "Orari", entranceFee: "Ingresso", website: "Sito ufficiale", publicTransport: "Trasporto pubblico", parking: "Parcheggio", accessibility: "Accessibilità", photoRules: "Fotografie", bestTimeToVisit: "Periodo migliore", audioGuide: "Audioguida" },
 };
 
 // Pinfo v1: tipus-csaladonkenti mezok (lasd _build_pinfo_full.py)
@@ -1826,6 +1879,7 @@ const PINFO_LABELS: Record<string, Record<string, string>> = {
   fr: { access: "Accès", season: "Meilleure saison", terrain: "Terrain et sentiers", gear: "Équipement", parking: "Stationnement", safety: "Sécurité", duration: "Durée", visiting: "Visite", hours_hint: "Horaires habituels", photo: "Photographie", combine: "À combiner avec", tip: "Conseil local", time_of_day: "Meilleur moment", rules: "Règles de conduite", patience_tip: "À quoi s'attendre", what_role: "Qu'est-ce que c'est ?", visitability: "Visite", viewpoint: "Point de vue", local_products: "Produits locaux", when_active: "Saison active", nearby_combo: "À proximité" },
   tr: { access: "Ulaşım", season: "En iyi mevsim", terrain: "Arazi ve yollar", gear: "Ekipman", parking: "Otopark", safety: "Güvenlik", duration: "Gerekli süre", visiting: "Ziyaret", hours_hint: "Olağan saatler", photo: "Fotoğraf", combine: "Birlikte gezilebilir", tip: "Yerel ipucu", time_of_day: "En iyi zaman", rules: "Davranış kuralları", patience_tip: "Gerçekçi beklenti", what_role: "Burası nedir?", visitability: "Ziyaret", viewpoint: "Nereden izlenir", local_products: "Yerel ürünler", when_active: "Aktif sezon", nearby_combo: "Yakınında" },
   hr: { access: "Pristup", season: "Najbolja sezona", terrain: "Teren i staze", gear: "Oprema", parking: "Parking", safety: "Sigurnost", duration: "Potrebno vrijeme", visiting: "Posjet", hours_hint: "Uobičajeno radno vrijeme", photo: "Fotografiranje", combine: "Kombinirajte s", tip: "Lokalni savjet", time_of_day: "Najbolje doba dana", rules: "Pravila ponašanja", patience_tip: "Realna očekivanja", what_role: "Što je ovo mjesto?", visitability: "Posjet", viewpoint: "Odakle promatrati", local_products: "Lokalni proizvodi", when_active: "Aktivna sezona", nearby_combo: "U blizini" },
+  it: { access: "Come arrivare", season: "Stagione migliore", terrain: "Terreno e sentieri", gear: "Cosa portare", parking: "Parcheggio", safety: "Sicurezza", duration: "Tempo necessario", visiting: "Visita", hours_hint: "Orari abituali", photo: "Fotografie", combine: "Da abbinare a", tip: "Consiglio locale", time_of_day: "Momento migliore", rules: "Regole di comportamento", patience_tip: "Cosa aspettarsi", what_role: "Che luogo è?", visitability: "Visita", viewpoint: "Punto panoramico", local_products: "Prodotti locali", when_active: "Stagione attiva", nearby_combo: "Nelle vicinanze" },
 };
 
 function renderPracticalInfo(poi: POI, lang: Lang): string {
@@ -1885,6 +1939,7 @@ const ITIN_COPY: Record<Lang, Record<string, string>> = {
   fr: { title: "Une journée dans la ville", intro: "Choisis la météo + ton mode de transport, reçois un plan concret.", modeWalk: "🚶 À pied", modeBike: "🚲 Vélo", modeCar: "🚗 Voiture", modeTransit: "🚌 Transports", unitWalk: "marche", unitBike: "vélo", unitCar: "route", unitTransit: "trajet", places: "lieux", tipsHeading: "💡 Conseils locaux", moreTipsHeading: "⭐ Autres recommandations", navHere: "Itinéraire", navTo: "S'y rendre", resTitle: "🧰 Outils à portée de main", resIntro: "Tout ce qu'il faut pour la visite — en un clic.", bestTime: "📅 Quand y aller", warnings: "⚠️ Où faire attention", langTips: "🗣️ Astuce linguistique", wSunny: "☀️ Beau temps", wRainy: "☔ Pluie", wWinter: "❄️ Hiver", goLabel: "C'est parti", extrasLabel: "⭐ Autres recommandations", toolsLabel: "🧰 Outils à portée de main", swipeHint: "← glisse pour plus →" },
   tr: { title: "Şehirde bir gün", intro: "Hava + ulaşım modunu seç, somut bir günlük plan al.", modeWalk: "🚶 Yürüyerek", modeBike: "🚲 Bisiklet", modeCar: "🚗 Araba", modeTransit: "🚌 Toplu taşıma", unitWalk: "yürüyüş", unitBike: "sürüş", unitCar: "yolculuk", unitTransit: "yolculuk", places: "yer", tipsHeading: "💡 Yerel ipuçları", moreTipsHeading: "⭐ Daha fazla öneri", navHere: "Rota", navTo: "Buraya git", resTitle: "🧰 Elinizin altında", resIntro: "Ziyaret için gereken her şey — bir tık uzakta.", bestTime: "📅 Ne zaman gidilmeli", warnings: "⚠️ Nerede dikkatli olunmalı", langTips: "🗣️ Dil ipucu", wSunny: "☀️ Güneşli", wRainy: "☔ Yağmurlu", wWinter: "❄️ Kış", goLabel: "Haydi", extrasLabel: "⭐ Daha fazla öneri", toolsLabel: "🧰 Elinizin altında", swipeHint: "← daha fazla yer için kaydır →" },
   hr: { title: "Jedan dan u gradu", intro: "Odaberi vrijeme + način prijevoza i dobij konkretan dnevni plan.", modeWalk: "🚶 Pješice", modeBike: "🚲 Bicikl", modeCar: "🚗 Auto", modeTransit: "🚌 Javni prijevoz", unitWalk: "hodanja", unitBike: "vožnje", unitCar: "vožnje", unitTransit: "puta", places: "mjesta", tipsHeading: "💡 Lokalni savjeti", moreTipsHeading: "⭐ Više preporuka", navHere: "Ruta", navTo: "Kreni ovamo", resTitle: "🧰 Alati pri ruci", resIntro: "Sve što ti treba za posjet — jedan klik daleko.", bestTime: "📅 Kada posjetiti", warnings: "⚠️ Gdje biti oprezan", langTips: "🗣️ Brzi jezični savjet", wSunny: "☀️ Sunčano", wRainy: "☔ Kiša", wWinter: "❄️ Zima", goLabel: "Idemo", extrasLabel: "⭐ Više preporuka", toolsLabel: "🧰 Alati pri ruci", swipeHint: "← klizni za više mjesta →" },
+  it: { title: "Un giorno in città", intro: "Scegli il meteo e il mezzo di trasporto per ottenere un itinerario concreto.", modeWalk: "🚶 A piedi", modeBike: "🚲 Bicicletta", modeCar: "🚗 Auto", modeTransit: "🚌 Trasporto pubblico", unitWalk: "a piedi", unitBike: "in bici", unitCar: "in auto", unitTransit: "di viaggio", places: "luoghi", tipsHeading: "💡 Consigli locali", moreTipsHeading: "⭐ Altri consigli", navHere: "Itinerario", navTo: "Vai qui", resTitle: "🧰 Strumenti utili", resIntro: "Tutto ciò che serve per la visita, a portata di clic.", bestTime: "📅 Quando andare", warnings: "⚠️ Dove fare attenzione", langTips: "🗣️ Suggerimento linguistico", wSunny: "☀️ Bel tempo", wRainy: "☔ Pioggia", wWinter: "❄️ Inverno", goLabel: "Parti", extrasLabel: "⭐ Altri consigli", toolsLabel: "🧰 Strumenti utili", swipeHint: "← scorri per altri luoghi →" },
 };
 const TRAVEL_MODE: Record<string, string> = { walk: "walking", bike: "bicycling", car: "driving", transit: "transit" };
 const CAT_ICON: Record<string, string> = { square: "📍", historical: "🏛️", religious: "⛪", museum: "🎨", park: "🏞️", gastro: "🍽️", panorama: "🌅" };
@@ -1917,6 +1972,7 @@ function renderCostEstimate(stops: any[], mode: string, totalKm: number, lang: L
     fr: { cost: "Budget jour", entry: "Entrées", trans: "Transport" },
     tr: { cost: "Günlük bütçe", entry: "Giriş", trans: "Ulaşım" },
     hr: { cost: "Dnevni proračun", entry: "Ulaznice", trans: "Prijevoz" },
+    it: { cost: "Budget giornaliero", entry: "Ingressi", trans: "Trasporto" },
   };
   const t = L[lang] || L.en!;
   return `<div class="plz-itin-cost"><svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 000 7h5a3.5 3.5 0 010 7H6"/></svg><strong>${t.cost}: ≈ ${lo}–${hi} €</strong><span class="plz-itin-cost-detail">${t.entry} ${entries}€ · ${t.trans} ${transport}€</span></div>`;
@@ -1933,16 +1989,19 @@ function renderSightRadius(poi: POI, lang: Lang): string {
     de: "Sehenswürdigkeiten im Umkreis", hu: "Látnivalók a környéken",
     ro: "Obiective în împrejurimi", en: "Sights nearby",
     fr: "À voir aux alentours", tr: "Çevredeki gezilecek yerler", hr: "Znamenitosti u okolici",
+    it: "Luoghi da vedere nei dintorni",
   };
   const NONE: Partial<Record<Lang, string>> = {
     de: "Keine Treffer in diesem Umkreis.", hu: "Nincs találat ebben a körzetben.",
     ro: "Niciun rezultat în această rază.", en: "No results in this radius.",
     fr: "Aucun résultat dans ce rayon.", tr: "Bu yarıçapta sonuç yok.", hr: "Nema rezultata u ovom krugu.",
+    it: "Nessun risultato in questo raggio.",
   };
   // Label of the details-page link inside the expanded description block.
   const MORE: Partial<Record<Lang, string>> = {
     de: "Zur Detailseite", hu: "Részletes oldal", ro: "Pagina detaliată", en: "Details page",
     fr: "Page détaillée", tr: "Detay sayfası", hr: "Stranica s detaljima",
+    it: "Pagina dettagliata",
   };
   const radii = [5, 10, 20, 50];
   const chips = radii.map((r) => `<button type="button" class="plz-sgr-chip" data-r="${r}">${r} km</button>`).join("");
@@ -1957,6 +2016,7 @@ function renderSightRadius(poi: POI, lang: Lang): string {
     fr: { all: "Tout", kul: "Culture et sites", nat: "Nature", rec: "Loisirs", fam: "Famille" },
     tr: { all: "Tümü", kul: "Kültür ve simgeler", nat: "Doğa", rec: "Eğlence", fam: "Aile" },
     hr: { all: "Sve", kul: "Kultura i znamenitosti", nat: "Priroda", rec: "Rekreacija", fam: "Obitelj" },
+    it: { all: "Tutti", kul: "Cultura e luoghi", nat: "Natura", rec: "Tempo libero", fam: "Famiglia" },
   };
   const ct = CT[lang] || CT.en!;
   const CAT_ICON: Record<string, string> = {
@@ -1973,7 +2033,7 @@ function renderSightRadius(poi: POI, lang: Lang): string {
   <div class="plz-sgr-chips">${chips}<span class="plz-sgr-sep"></span>${catBtns}</div>
   <div class="plz-sgr-list" id="plzSgrList" hidden></div>
   <script>(function(){
-  var LAT=${plat.toFixed(5)},LNG=${plng.toFixed(5)},LANG=${JSON.stringify(lang)};
+  var LAT=${plat.toFixed(5)},LNG=${plng.toFixed(5)},LANG=${JSON.stringify(lang === "it" ? "en" : lang)};
   var CELL=.5,cache={},list=document.getElementById('plzSgrList');
   var PEG='<svg viewBox="0 0 24 24" width="12" height="12" fill="currentColor" aria-hidden="true"><circle cx="12" cy="6" r="3.1"/><path d="M12 9.8c-2 0-3.4 1.1-3.4 2.6v3l1.5.6.5 5h2.8l.5-5 1.5-.6v-3c0-1.5-1.4-2.6-3.4-2.6z"/></svg>';
   var PIN='<svg viewBox="0 0 24 24" width="12" height="12" fill="none" aria-hidden="true"><path d="M12 2c-3.9 0-7 3.1-7 7 0 5.2 7 13 7 13s7-7.8 7-13c0-3.9-3.1-7-7-7z" fill="currentColor"/><circle cx="12" cy="9" r="2.6" fill="#fff"/></svg>';
@@ -2074,6 +2134,7 @@ function renderInfoCard(poi: POI, lang: Lang, countryId: string): string {
     fr: { title: "Infos pratiques", wx: "Météo — 5 jours", near: "Aux alentours", tips: "Conseils", gastro: "Gastro", shop: "Shopping", quiet: "Coins calmes", fei: "Jour férié", feiWarn: "jour férié — de nombreux magasins peuvent être fermés !", feiNone: "Aucun jour férié dans les 5 prochains jours." },
     tr: { title: "Pratik bilgiler", wx: "Hava — 5 gün", near: "Çevrede", tips: "İpuçları", gastro: "Yeme-içme", shop: "Alışveriş", quiet: "Sakin yerler", fei: "Tatil", feiWarn: "resmî tatil — birçok dükkân kapalı olabilir!", feiNone: "Önümüzdeki 5 günde resmi tatil yok." },
     hr: { title: "Praktične informacije", wx: "Vrijeme — 5 dana", near: "U okolici", tips: "Savjeti", gastro: "Gastro", shop: "Kupovina", quiet: "Mirna mjesta", fei: "Blagdan", feiWarn: "blagdan — mnoge trgovine mogu biti zatvorene!", feiNone: "Nema blagdana u sljedećih 5 dana." },
+    it: { title: "Informazioni pratiche", wx: "Meteo — 5 giorni", near: "Nei dintorni", tips: "Consigli", gastro: "Gastronomia", shop: "Shopping", quiet: "Luoghi tranquilli", fei: "Festività", feiWarn: "giorno festivo — molti negozi potrebbero essere chiusi!", feiNone: "Nessuna festività nazionale nei prossimi 5 giorni." },
   };
   const t = T[lang] || T.en;
   // City-tips sidecar (build-time bake). Always render when present — the city-info
@@ -2139,6 +2200,7 @@ const RP_COPY: Record<string, Record<string, string>> = {
   en: { h: "Route planner — Car & Motorhome", sub: "Where do you start? We build the route here, with stops and country notes along the way.", to: "Destination", from: "Start", fromPh: "e.g. Munich", via: "Via (optional)", viaPh: "e.g. Zagreb", nights: "Overnight stops", vehicle: "Vehicle", car: "🚗 Car", camper: "🚐 Motorhome", filter: "Only stops with (optional):", water: "💧 Water", dump: "♻️ Disposal", power: "🔌 Power", wc: "🚻 Toilets", shower: "🚿 Shower", tierAB: "Aires + campsites", tierA: "Aires only", tierB: "Campsites only", tierABC: "Also rest/nature areas", b10: "Detour max 10 km", b20: "max 20 km", b30: "max 30 km", b50: "max 50 km", plan: "🧭 Plan route" },
   ro: { h: "Planificator traseu — Mașină & Rulotă", sub: "De unde pleci? Construim traseul până aici, cu opriri și informații pe țări.", to: "Destinație", from: "Plecare", fromPh: "ex. Cluj", via: "Prin (opțional)", viaPh: "ex. Zagreb", nights: "Opriri peste noapte", vehicle: "Vehicul", car: "🚗 Mașină", camper: "🚐 Rulotă", filter: "Doar opriri cu (opțional):", water: "💧 Apă", dump: "♻️ Golire", power: "🔌 Curent", wc: "🚻 Toaletă", shower: "🚿 Duș", tierAB: "Popasuri + camping", tierA: "Doar popasuri", tierB: "Doar camping", tierABC: "Și locuri de odihnă/natură", b10: "Ocol max 10 km", b20: "max 20 km", b30: "max 30 km", b50: "max 50 km", plan: "🧭 Planifică traseul" },
   fr: { h: "Planificateur d'itinéraire — Voiture & Camping-car", sub: "D'où partez-vous ? Nous construisons l'itinéraire jusqu'ici, avec des étapes et des infos par pays.", to: "Destination", from: "Départ", fromPh: "ex. Paris", via: "Via (optionnel)", viaPh: "ex. Zagreb", nights: "Étapes nuitées", vehicle: "Véhicule", car: "🚗 Voiture", camper: "🚐 Camping-car", filter: "Étapes avec (optionnel) :", water: "💧 Eau", dump: "♻️ Vidange", power: "🔌 Électricité", wc: "🚻 WC", shower: "🚿 Douche", tierAB: "Aires + campings", tierA: "Aires seulement", tierB: "Campings seulement", tierABC: "Aussi aires nature/repos", b10: "Détour max 10 km", b20: "max 20 km", b30: "max 30 km", b50: "max 50 km", plan: "🧭 Planifier l'itinéraire" },
+  it: { h: "Pianificatore — Auto e camper", sub: "Da dove parti? Creiamo il percorso fino a qui con soste e informazioni sui paesi attraversati.", to: "Destinazione", from: "Partenza", fromPh: "es. Roma", via: "Via (opzionale)", viaPh: "es. Firenze", nights: "Soste notturne", vehicle: "Veicolo", car: "🚗 Auto", camper: "🚐 Camper", filter: "Solo soste con (opzionale):", water: "💧 Acqua", dump: "♻️ Scarico", power: "🔌 Elettricità", wc: "🚻 WC", shower: "🚿 Doccia", tierAB: "Aree sosta + campeggi", tierA: "Solo aree sosta", tierB: "Solo campeggi", tierABC: "Anche aree di riposo/natura", b10: "Deviazione max 10 km", b20: "max 20 km", b30: "max 30 km", b50: "max 50 km", plan: "🧭 Pianifica itinerario" },
 };
 const RP_VEHICLE_COPY: Record<string, Record<string, string>> = {
   de: { title: "Wohnmobil-Maße", compact: "Kompaktvan", standard: "Wohnmobil 3,5 t", large: "Großes Wohnmobil", custom: "Eigene Maße", length: "Länge", width: "Breite", height: "Höhe", weight: "Gewicht" },
@@ -2146,6 +2208,7 @@ const RP_VEHICLE_COPY: Record<string, Record<string, string>> = {
   en: { title: "Motorhome dimensions", compact: "Compact van", standard: "3.5 t motorhome", large: "Large motorhome", custom: "Custom dimensions", length: "Length", width: "Width", height: "Height", weight: "Weight" },
   ro: { title: "Dimensiuni autorulotă", compact: "Camper compact", standard: "Autorulotă 3,5 t", large: "Autorulotă mare", custom: "Dimensiuni proprii", length: "Lungime", width: "Lățime", height: "Înălțime", weight: "Greutate" },
   fr: { title: "Dimensions du camping-car", compact: "Fourgon compact", standard: "Camping-car 3,5 t", large: "Grand camping-car", custom: "Dimensions personnalisées", length: "Longueur", width: "Largeur", height: "Hauteur", weight: "Poids" },
+  it: { title: "Dimensioni del camper", compact: "Furgone compatto", standard: "Camper 3,5 t", large: "Camper grande", custom: "Misure personalizzate", length: "Lunghezza", width: "Larghezza", height: "Altezza", weight: "Peso" },
 };
 const RP_DYN: Record<string, Record<string, string>> = {
   de: { notFound: "Ort nicht gefunden", needOrigin: "Bitte Startort eingeben.", searching: "📍 Ort wird gesucht…", routing: "🛣️ Route wird berechnet…", km: "km", hrs: "Std.", nights: "Übernachtungen", matchStops: "passende Stopps", mapsAll: "Ganze Route in Maps", advisory: "Länder-Hinweise", toll: "Maut", lez: "Umweltzone", overnight: "Übernachten", mandatory: "Pflicht", keepStop: "diesen Stopp behalten", day: "TAG", dest: "ZIEL", swipe: "← Karten wischen →", regen: "Neu generieren — behaltene Stopps fixieren", regenKept: "🔄 Route mit behaltenen Stopps…", regenNew: "🔄 Neue Variante…" },
@@ -2153,6 +2216,7 @@ const RP_DYN: Record<string, Record<string, string>> = {
   en: { notFound: "Place not found", needOrigin: "Please enter a start point.", searching: "📍 Locating…", routing: "🛣️ Calculating route…", km: "km", hrs: "h", nights: "nights", matchStops: "matching stops", mapsAll: "Whole route in Maps", advisory: "Country notes", toll: "Toll", lez: "Low-emission zone", overnight: "Overnight", mandatory: "Required", keepStop: "keep this stop", day: "DAY", dest: "GOAL", swipe: "← swipe cards →", regen: "Regenerate — fix kept stops", regenKept: "🔄 Route with kept stops…", regenNew: "🔄 New variant…" },
   ro: { notFound: "Locul nu a fost găsit", needOrigin: "Introdu punctul de plecare.", searching: "📍 Se caută locul…", routing: "🛣️ Se calculează traseul…", km: "km", hrs: "ore", nights: "nopți", matchStops: "opriri potrivite", mapsAll: "Tot traseul în Maps", advisory: "Informații pe țări", toll: "Taxă drum", lez: "Zonă ecologică", overnight: "Înnoptare", mandatory: "Obligatoriu", keepStop: "păstrează această oprire", day: "ZIUA", dest: "ȚINTĂ", swipe: "← glisează cardurile →", regen: "Regenerează — fixează opririle păstrate", regenKept: "🔄 Traseu cu opririle păstrate…", regenNew: "🔄 Variantă nouă…" },
   fr: { notFound: "Lieu introuvable", needOrigin: "Entrez un point de départ.", searching: "📍 Recherche du lieu…", routing: "🛣️ Calcul de l'itinéraire…", km: "km", hrs: "h", nights: "nuitées", matchStops: "étapes correspondantes", mapsAll: "Tout l'itinéraire dans Maps", advisory: "Infos par pays", toll: "Péage", lez: "Zone à faibles émissions", overnight: "Nuitée", mandatory: "Obligatoire", keepStop: "garder cette étape", day: "JOUR", dest: "BUT", swipe: "← faites glisser →", regen: "Régénérer — fixer les étapes gardées", regenKept: "🔄 Itinéraire avec étapes gardées…", regenNew: "🔄 Nouvelle variante…" },
+  it: { notFound: "Luogo non trovato", needOrigin: "Inserisci un punto di partenza.", searching: "📍 Ricerca del luogo…", routing: "🛣️ Calcolo dell'itinerario…", km: "km", hrs: "h", nights: "notti", matchStops: "soste adatte", mapsAll: "Intero itinerario in Maps", advisory: "Informazioni sui paesi", toll: "Pedaggio", lez: "Zona a basse emissioni", overnight: "Pernottamento", mandatory: "Obbligatorio", keepStop: "mantieni questa sosta", day: "GIORNO", dest: "ARRIVO", swipe: "← scorri le schede →", regen: "Rigenera mantenendo le soste selezionate", regenKept: "🔄 Itinerario con soste mantenute…", regenNew: "🔄 Nuova variante…" },
 };
 // Route planner shows on EVERY POI with usable coords (POI = prefilled destination).
 function hasRoutePlanner(poi: POI): boolean {
@@ -2603,6 +2667,7 @@ const PG_TABS: Record<string, { dest: string; day: string }> = {
   en: { dest: "Destination", day: "A day in the city" },
   ro: { dest: "Destinație", day: "O zi în oraș" },
   fr: { dest: "Destination", day: "Une journée en ville" },
+  it: { dest: "Destinazione", day: "Un giorno in città" },
 };
 // Tab icons (inline SVG, inherit currentColor) — compass = route/destination, calendar = a-day-in-the-city.
 const PG_TAB_SVG = (p: string) => `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${p}</svg>`;
@@ -2681,6 +2746,7 @@ const CLIMATE_MON: Partial<Record<Lang, string[]>> = {
   fr: ["Jan","Fév","Mar","Avr","Mai","Juin","Juil","Aoû","Sep","Oct","Nov","Déc"],
   tr: ["Oca","Şub","Mar","Nis","May","Haz","Tem","Ağu","Eyl","Eki","Kas","Ara"],
   hr: ["Sij","Velj","Ožu","Tra","Svi","Lip","Srp","Kol","Ruj","Lis","Stu","Pro"],
+  it: ["Gen","Feb","Mar","Apr","Mag","Giu","Lug","Ago","Set","Ott","Nov","Dic"],
 };
 // Universal climate block: monthly mini-table + "best time to visit" derived from
 // the grid-cell normals. Coordinate-driven, no notability needed.
@@ -2724,6 +2790,7 @@ function renderClimate(poi: POI, lang: Lang): string {
     fr: { title: "Meilleure période & climat", best: (m) => `La période la plus agréable est ${m}.`, t: "Moy. °C", p: "Pluie mm" },
     tr: { title: "En iyi ziyaret zamanı & iklim", best: (m) => `En keyifli dönem: ${m}.`, t: "Ort. °C", p: "Yağmur mm" },
     hr: { title: "Najbolje vrijeme za posjet & klima", best: (m) => `Najugodnije je razdoblje ${m}.`, t: "Pros. °C", p: "Kiša mm" },
+    it: { title: "Periodo migliore e clima", best: (m) => `Il periodo più piacevole è ${m}.`, t: "Media °C", p: "Pioggia mm" },
   };
   const t = L[lang] || L.en;
   const bset = new Set(best);
@@ -2746,6 +2813,7 @@ function renderWebcam(poi: POI, lang: Lang): string {
     fr: { title: (n) => `Webcam en direct – ${n}`, lead: (n) => `Voyez à quoi ressemblent les environs de ${n} en ce moment.`, courtesy: "Webcams fournies par Windy.com", open: "Ouvrir la webcam sur Windy" },
     tr: { title: (n) => `Canlı webcam – ${n}`, lead: (n) => `${n} çevresinin şu anki görünümü.`, courtesy: "Web kameralar Windy.com tarafından sağlanmaktadır", open: "Webcam'i Windy'de aç" },
     hr: { title: (n) => `Webcam uživo – ${n}`, lead: (n) => `Pogledajte kako trenutno izgleda blizu ${n}.`, courtesy: "Web kamere omogućuje Windy.com", open: "Otvori web kameru na Windyju" },
+    it: { title: (n) => `Webcam in diretta – ${n}`, lead: (n) => `Guarda com'è la situazione vicino a ${n} in questo momento.`, courtesy: "Webcam fornite da Windy.com", open: "Apri la webcam su Windy" },
   };
   const t = L[lang] || L.en;
   const detail = w.detailUrl || `https://www.windy.com/webcams/${w.camId}`;
@@ -2771,6 +2839,7 @@ function renderRouteInfo(poi: POI, lang: Lang, countryName: string, regionName: 
     fr: { title: (n) => `Accès & itinéraire – ${n}`, lead: (n, l) => `${n} se situe en ${l}. Planifiez votre trajet et explorez les environs.`, nearest: "À proximité", modes: (n) => `Planifiez votre itinéraire vers ${n} – en voiture, en camping-car ou à pied.`, mlead: "Lancer l'itinéraire", car: "Voiture", camper: "Camping-car", hike: "Randonnée" },
     tr: { title: (n) => `Ulaşım & rota planlama – ${n}`, lead: (n, l) => `${n}, ${l} bölgesinde yer alır. Yolculuğunu planla ve çevreyi keşfet.`, nearest: "Yakında", modes: (n) => `${n} için rota planla – araba, karavan veya yürüyüş ile.`, mlead: "Rotayı başlat", car: "Araba", camper: "Karavan", hike: "Yürüyüş" },
     hr: { title: (n) => `Kako doći & planiranje rute – ${n}`, lead: (n, l) => `${n} se nalazi u ${l}. Isplaniraj put i istraži okolicu.`, nearest: "U blizini", modes: (n) => `Isplaniraj rutu do ${n} – automobilom, kamperom ili pješice.`, mlead: "Pokreni rutu", car: "Auto", camper: "Kamper", hike: "Planinarenje" },
+    it: { title: (n) => `Come arrivare e itinerario – ${n}`, lead: (n, l) => `${n} si trova in ${l}. Pianifica il viaggio ed esplora i dintorni.`, nearest: "Nelle vicinanze", modes: (n) => `Pianifica il percorso verso ${n} in auto, camper o a piedi.`, mlead: "Avvia percorso", car: "Auto", camper: "Camper", hike: "A piedi" },
   };
   const t = L[lang] || L.en;
   const nearHtml = near.length
@@ -2811,6 +2880,7 @@ function renderTabNav(lang: Lang, opts: { hasItin: boolean; hasSights: boolean; 
     fr: { overview: "Aperçu", itin: "Itinéraire", sights: "Sites", info: "Info" },
     tr: { overview: "Genel", itin: "Plan", sights: "Yerler", info: "Bilgi" },
     hr: { overview: "Pregled", itin: "Plan puta", sights: "Znamenitosti", info: "Info" },
+    it: { overview: "Panoramica", itin: "Itinerario", sights: "Luoghi", info: "Info" },
   };
   const t = L[lang] || L.en!;
   const tabs: string[] = [`<a class="plz-tab" href="#sec-overview" data-tab="overview">${t.overview}</a>`];
@@ -2834,6 +2904,7 @@ const _REP_T: Record<string, { btn: string; title: string; ph: string; email: st
   fr: { btn: "Signaler une erreur", title: "Signaler une erreur sur cette page", ph: "Quel est le problème ? (données, image, traduction, lien …)", email: "E-mail (facultatif, pour une réponse)", send: "Envoyer", cancel: "Annuler", thanks: "Merci pour votre signalement !", err: "Échec de l'envoi, réessayez plus tard." },
   tr: { btn: "Hata bildir", title: "Bu sayfadaki bir hatayı bildir", ph: "Sorun nedir? (yanlış veri, görsel, çeviri, bağlantı …)", email: "E-posta (isteğe bağlı, yanıt için)", send: "Gönder", cancel: "İptal", thanks: "Bildirdiğiniz için teşekkürler!", err: "Gönderim başarısız, lütfen sonra tekrar deneyin." },
   hr: { btn: "Prijavi grešku", title: "Prijavi grešku na ovoj stranici", ph: "Što nije u redu? (podaci, slika, prijevod, poveznica …)", email: "E-pošta (neobavezno, za odgovor)", send: "Pošalji", cancel: "Odustani", thanks: "Hvala na prijavi!", err: "Slanje nije uspjelo, pokušajte kasnije." },
+  it: { btn: "Segnala un errore", title: "Segnala un errore in questa pagina", ph: "Cosa non va? (dati, immagine, traduzione, link…)", email: "Email (opzionale, per una risposta)", send: "Invia", cancel: "Annulla", thanks: "Grazie per la segnalazione!", err: "Invio non riuscito, riprova più tardi." },
 };
 function renderReportWidget(lang: Lang): string {
   const t = _REP_T[lang] || _REP_T.en;
@@ -3102,7 +3173,9 @@ function renderHtml(poi: POI, lang: Lang): string | null {
     }
   };
   // 1) sharded FAQS (primary, LLM-authored) — same source renderFAQ used.
-  const _shardFaqs = (lang === "hr" && HR_FAQS[poi.id]) ? HR_FAQS[poi.id] : FAQS[poi.id];
+  const _shardFaqs = lang === "it" && IT_FAQS[poi.id]
+    ? IT_FAQS[poi.id]
+    : (lang === "hr" && HR_FAQS[poi.id]) ? HR_FAQS[poi.id] : FAQS[poi.id];
   if (Array.isArray(_shardFaqs)) for (const it of _shardFaqs) _pushFaq(pickFaqStr(it.q, lang), pickFaqStr(it.a, lang));
   // 2) inline poi.faq (legacy/embedded).
   if (Array.isArray(poi.faq)) {
@@ -3292,6 +3365,7 @@ function renderHtml(poi: POI, lang: Lang): string | null {
     fr: { now: "Maintenant", forecast: "Prévisions sur 5 jours", loading: "Météo…" },
     tr: { now: "Şimdi", forecast: "5 günlük tahmin", loading: "Hava durumu…" },
     hr: { now: "Sada", forecast: "Prognoza za 5 dana", loading: "Vrijeme…" },
+    it: { now: "Ora", forecast: "Previsioni a 5 giorni", loading: "Meteo…" },
   };
   const wc = weatherCopy[lang] || weatherCopy.en;
   const weatherHtml = (poi.coords && poi.coords.length >= 2)
@@ -3313,6 +3387,7 @@ function renderHtml(poi: POI, lang: Lang): string | null {
     fr: { now: "Température de l'eau", forecast: "Tendance 7 jours", loading: "Température de l'eau…" },
     tr: { now: "Su sıcaklığı", forecast: "7 günlük trend", loading: "Su sıcaklığı…" },
     hr: { now: "Temperatura mora", forecast: "Trend za 7 dana", loading: "Temperatura mora…" },
+    it: { now: "Temperatura dell'acqua", forecast: "Tendenza a 7 giorni", loading: "Temperatura dell'acqua…" },
   };
   const mc = marineCopy[lang] || marineCopy.en;
   const marineHtml = (poi.coords && poi.coords.length >= 2)
@@ -3329,6 +3404,7 @@ function renderHtml(poi: POI, lang: Lang): string | null {
     fr: { heading: "Actualités récentes", via: "via" },
     tr: { heading: "Son haberler", via: "kaynak" },
     hr: { heading: "Najnovije vijesti", via: "izvor" },
+    it: { heading: "Notizie recenti", via: "fonte" },
   };
   const nc = newsCopy[lang] || newsCopy.en;
 
@@ -3338,7 +3414,7 @@ function renderHtml(poi: POI, lang: Lang): string | null {
   try {
     const links = (OFFICIAL_LINKS as Record<string, { site?: string; fb?: string }>)[poi.id];
     if (links?.site || links?.fb) {
-      const siteLabel: Partial<Record<Lang, string>> = { de: "Webseite", hu: "Honlap", ro: "Site", en: "Website", fr: "Site web", tr: "Web sitesi", hr: "Web stranica" };
+      const siteLabel: Partial<Record<Lang, string>> = { de: "Webseite", hu: "Honlap", ro: "Site", en: "Website", fr: "Site web", tr: "Web sitesi", hr: "Web stranica", it: "Sito web" };
       const buttons: string[] = [];
       if (links.site) buttons.push(`<a href="${escapeHtml(links.site)}" target="_blank" rel="noopener noreferrer" class="plz-official-link plz-official-site">🌐 ${escapeHtml(siteLabel[lang] || siteLabel.en)}</a>`);
       if (links.fb) buttons.push(`<a href="${escapeHtml(links.fb)}" target="_blank" rel="noopener noreferrer" class="plz-official-link plz-official-fb">📘 Facebook</a>`);
@@ -3360,6 +3436,7 @@ function renderHtml(poi: POI, lang: Lang): string | null {
         fr: "Faits marquants de 2026",
         tr: "2026'nın öne çıkan olayları",
         hr: "Najvažniji događaji 2026.",
+        it: "Eventi principali del 2026",
       };
       // For FR POIs (DATAtourisme upcoming events), sort ASC so the next-up event
       // appears first. For other POIs (Opus-curated yearly recap), keep DESC
@@ -3658,7 +3735,7 @@ ${heroImg ? `<meta property="og:image" content="${SITE_URL}${escapeHtml(heroImg)
 <link rel="preconnect" href="https://fonts.googleapis.com"/>
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&display=swap" rel="stylesheet"/>
-<link rel="stylesheet" href="/poi-static/poi.css?v=20260712pc1"/>
+<link rel="stylesheet" href="/poi-static/poi.css?v=20260801hero1"/>
 ${structuredData(poi, lang, url, metaDesc, countryId, countryName, faqItems, [
   { name: I("home", lang), url: `/${navLang}/` },
   { name: countryName, url: buildCountryPath(navLang, countryId) },
@@ -4063,10 +4140,7 @@ async function main() {
 
   for (const poi of target) {
     // FR POIs get an additional `fr` page; DE → `tr`; HR (hr-native) → `hr`.
-    const extraPoi: Lang[] = [];
-    if (poi.parent?.startsWith("FR")) extraPoi.push("fr");
-    if (poi.parent?.startsWith("DE")) extraPoi.push("tr");
-    if ((poi as unknown as { hrLong?: boolean }).hrLong) extraPoi.push("hr");
+    const extraPoi = slugs.extraLangsFor(poi as any) as Lang[];
     const poiLangs: Lang[] = [...SUPPORTED_LANGS, ...extraPoi];
     for (const lang of poiLangs) {
       const url = buildPoiPath(lang, poi);
