@@ -166,12 +166,12 @@
       "id": "gb-odd-scotland-st-andrews",
       "type": "odd_one_out",
       "poiIds": [
-        "uk-st-andrews-cities-v2",
+        "uk-edinburgh-cities-v2",
         "uk-bath-cities-v2",
         "uk-oxford",
         "uk-canterbury-cities-v2"
       ],
-      "targetPoiId": "uk-st-andrews-cities-v2",
+      "targetPoiId": "uk-edinburgh-cities-v2",
       "question": {
         "de": "Welche dieser Orte liegt in Schottland?",
         "hu": "Melyik hely tal?lhat? ezek k?z?l Sk?ci?ban?",
@@ -201,13 +201,13 @@
       "type": "sequence",
       "poiIds": [
         "uk-aberdeen-cities-v2",
-        "uk-edinburgh",
+        "uk-edinburgh-cities-v2",
         "uk-york",
         "uk-london"
       ],
       "orderedPoiIds": [
         "uk-aberdeen-cities-v2",
-        "uk-edinburgh",
+        "uk-edinburgh-cities-v2",
         "uk-york",
         "uk-london"
       ],
@@ -246,13 +246,13 @@
       "poiIds": [
         "uk-belfast",
         "uk-glasgow-cities-v2",
-        "uk-edinburgh",
+        "uk-edinburgh-cities-v2",
         "uk-aberdeen-cities-v2"
       ],
       "orderedPoiIds": [
         "uk-belfast",
         "uk-glasgow-cities-v2",
-        "uk-edinburgh",
+        "uk-edinburgh-cities-v2",
         "uk-aberdeen-cities-v2"
       ],
       "question": {
@@ -310,13 +310,13 @@
       "id": "gb-sequence-south-north-cardiff-inverness",
       "type": "sequence",
       "poiIds": [
-        "uk-cardiff",
+        "uk-cardiff-cities-v2",
         "uk-birmingham-cities-v2",
         "uk-leeds-cities-v2",
         "uk-inverness-cities-v2"
       ],
       "orderedPoiIds": [
-        "uk-cardiff",
+        "uk-cardiff-cities-v2",
         "uk-birmingham-cities-v2",
         "uk-leeds-cities-v2",
         "uk-inverness-cities-v2"

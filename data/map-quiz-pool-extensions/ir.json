@@ -36,7 +36,7 @@
     {
       "id": "ir-find-damavand",
       "type": "find_poi",
-      "targetPoiId": "mount-damavand-nature-v2",
+      "targetPoiId": "damavand-relief-v2",
       "question": {
         "de": "Finde den Damavand auf der Karte.",
         "hu": "Keresd meg a Damávand-hegyet a térképen.",
@@ -182,7 +182,7 @@
       "id": "ir-odd-southernmost-natural-sites",
       "type": "odd_one_out",
       "poiIds": [
-        "mount-damavand-nature-v2",
+        "damavand-relief-v2",
         "lake-urmia-nature-v2",
         "zayanderud-river-nature-v2",
         "hara-forests-nature-v2"
@@ -266,13 +266,13 @@
       "type": "sequence",
       "poiIds": [
         "mount-sabalan-nature-v2",
-        "mount-damavand-nature-v2",
+        "damavand-relief-v2",
         "iran-persepolis-history-v2",
         "chabahar-port-economic-v2"
       ],
       "orderedPoiIds": [
         "mount-sabalan-nature-v2",
-        "mount-damavand-nature-v2",
+        "damavand-relief-v2",
         "iran-persepolis-history-v2",
         "chabahar-port-economic-v2"
       ],

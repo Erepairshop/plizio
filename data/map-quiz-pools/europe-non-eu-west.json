@@ -20,7 +20,7 @@
         "ro": "Unde se află Edinburgh, capitala Scoției?",
         "en": "Where is Edinburgh, the capital of Scotland?"
       },
-      "targetPoiId": "uk-edinburgh"
+      "targetPoiId": "uk-edinburgh-cities-v2"
     },
     {
       "id": "gb-find-belfast",
@@ -87,7 +87,7 @@
         "en": "Which of these cities is not in Scotland?"
       },
       "poiIds": [
-        "uk-edinburgh",
+        "uk-edinburgh-cities-v2",
         "uk-glasgow-cities-v2",
         "uk-manchester-cities-v2"
       ],
@@ -125,16 +125,16 @@
         "en": "Click Edinburgh, Manchester, Birmingham and Cardiff from north to south."
       },
       "poiIds": [
-        "uk-edinburgh",
+        "uk-edinburgh-cities-v2",
         "uk-manchester-cities-v2",
         "uk-birmingham-cities-v2",
-        "uk-cardiff"
+        "uk-cardiff-cities-v2"
       ],
       "orderedPoiIds": [
-        "uk-edinburgh",
+        "uk-edinburgh-cities-v2",
         "uk-manchester-cities-v2",
         "uk-birmingham-cities-v2",
-        "uk-cardiff"
+        "uk-cardiff-cities-v2"
       ]
     }
   ],
@@ -447,15 +447,15 @@
       "targetPoiId": "iceland-hofn-cities-v2"
     },
     {
-      "id": "is-find-gullfoss",
+      "id": "is-find-skogafoss",
       "type": "find_poi",
       "question": {
-        "de": "Finde den Wasserfall Gullfoss.",
-        "hu": "Keresd meg a Gullfoss-vízesést.",
-        "ro": "Găsește cascada Gullfoss.",
-        "en": "Find Gullfoss waterfall."
+        "de": "Finde den Wasserfall Skógafoss.",
+        "hu": "Keresd meg a Skógafoss-vízesést.",
+        "ro": "Găsește cascada Skógafoss.",
+        "en": "Find Skógafoss waterfall."
       },
-      "targetPoiId": "iceland-gullfoss-nature-v2"
+      "targetPoiId": "iceland-skogafoss-nature-v2"
     },
     {
       "id": "is-region-reykjavik",

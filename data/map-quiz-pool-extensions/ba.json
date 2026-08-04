@@ -139,7 +139,7 @@
       "poiIds": [
         "ba-bascarsija",
         "ba-bjelasnica",
-        "ba-lukomir",
+        "bosniaherzegovina-hadzici-cities-v2",
         "ba-andricgrad"
       ],
       "targetPoiId": "ba-andricgrad"
@@ -155,7 +155,7 @@
       },
       "poiIds": [
         "ba-blagaj",
-        "ba-pocitelj",
+        "bosniaherzegovina-pocitelj-history-v2",
         "ba-kravica",
         "ba-vranduk"
       ],

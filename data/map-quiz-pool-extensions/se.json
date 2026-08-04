@@ -282,12 +282,12 @@
       "type": "sequence",
       "poiIds": [
         "sweden-stockholm-city-hall-landmarks-v2",
-        "sweden-stockholm-palace-landmarks-v2",
+        "sweden-royal-palace-stockholm-history-v2",
         "sweden-skansen-landmarks-v2"
       ],
       "orderedPoiIds": [
         "sweden-stockholm-city-hall-landmarks-v2",
-        "sweden-stockholm-palace-landmarks-v2",
+        "sweden-royal-palace-stockholm-history-v2",
         "sweden-skansen-landmarks-v2"
       ],
       "question": {

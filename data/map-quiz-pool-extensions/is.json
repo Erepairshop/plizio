@@ -114,12 +114,12 @@
       "id": "is-odd-westfjords-town-extra",
       "type": "odd_one_out",
       "poiIds": [
-        "iceland-patreksfjordur-cities-v2",
+        "iceland-talgnafjordur-cities-v2",
         "iceland-borgarnes-cities-v2",
         "iceland-selfoss-cities-v2",
         "iceland-hella-cities-v2"
       ],
-      "targetPoiId": "iceland-patreksfjordur-cities-v2",
+      "targetPoiId": "iceland-talgnafjordur-cities-v2",
       "question": {
         "de": "Welcher dieser Orte liegt in den Westfjorden?",
         "hu": "Ezek közül melyik hely fekszik a Nyugati-fjordokban?",
@@ -168,7 +168,7 @@
         "iceland-seydisfjordur-cities-v2",
         "iceland-selfoss-cities-v2",
         "iceland-borgarnes-cities-v2",
-        "iceland-patreksfjordur-cities-v2"
+        "iceland-talgnafjordur-cities-v2"
       ],
       "targetPoiId": "iceland-seydisfjordur-cities-v2",
       "question": {
@@ -199,13 +199,13 @@
       "id": "is-sequence-west-east-westfjords-north-extra",
       "type": "sequence",
       "poiIds": [
-        "iceland-patreksfjordur-cities-v2",
+        "iceland-talgnafjordur-cities-v2",
         "iceland-isafjordur-cities-v2",
         "iceland-holmavik-cities-v2",
         "iceland-blonduos-cities-v2"
       ],
       "orderedPoiIds": [
-        "iceland-patreksfjordur-cities-v2",
+        "iceland-talgnafjordur-cities-v2",
         "iceland-isafjordur-cities-v2",
         "iceland-holmavik-cities-v2",
         "iceland-blonduos-cities-v2"
@@ -290,19 +290,19 @@
         "iceland-blue-lagoon-grindavik-cities-v2",
         "iceland-thingvellir-history-v2",
         "iceland-geysir-cities-v2",
-        "iceland-gullfoss-nature-v2"
+        "iceland-skogafoss-nature-v2"
       ],
       "orderedPoiIds": [
         "iceland-blue-lagoon-grindavik-cities-v2",
         "iceland-thingvellir-history-v2",
         "iceland-geysir-cities-v2",
-        "iceland-gullfoss-nature-v2"
+        "iceland-skogafoss-nature-v2"
       ],
       "question": {
-        "de": "Klicke Blaue Lagune, Þingvellir, Geysir und Gullfoss von West nach Ost an.",
-        "hu": "Kattints a Kék Lagúnára, Þingvellirre, Geysirre és Gullfossra nyugatról keletre.",
-        "ro": "Apasă Laguna Albastră, Þingvellir, Geysir și Gullfoss de la vest la est.",
-        "en": "Click the Blue Lagoon, Þingvellir, Geysir, and Gullfoss from west to east."
+        "de": "Klicke Blaue Lagune, Þingvellir, Geysir und Skógafoss von West nach Ost an.",
+        "hu": "Kattints a Kék Lagúnára, Þingvellirre, Geysirre és Skógafossra nyugatról keletre.",
+        "ro": "Apasă Laguna Albastră, Þingvellir, Geysir și Skógafoss de la vest la est.",
+        "en": "Click the Blue Lagoon, Þingvellir, Geysir, and Skógafoss from west to east."
       }
     }
   ]

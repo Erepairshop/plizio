@@ -124,8 +124,8 @@
     {
       "id": "fr-odd-corsica-city-extension",
       "type": "odd_one_out",
-      "poiIds": ["nantes", "reims", "ajaccio", "lyon"],
-      "targetPoiId": "ajaccio",
+      "poiIds": ["nantes", "reims", "france-ajaccio-cities-v2", "lyon"],
+      "targetPoiId": "france-ajaccio-cities-v2",
       "question": {
         "de": "Welche dieser Städte liegt auf Korsika statt auf dem französischen Festland?",
         "hu": "Melyik város található Korzikán, nem pedig a francia szárazföldön?",

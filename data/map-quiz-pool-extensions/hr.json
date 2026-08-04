@@ -89,15 +89,15 @@
       "targetPoiId": "croatia-kopacki-rit-nature-v2"
     },
     {
-      "id": "hr-find-rastoke",
+      "id": "hr-find-slunjcica-plateau",
       "type": "find_poi",
       "question": {
-        "de": "Finde Rastoke mit seinen Wasserfällen.",
-        "hu": "Keresd meg Rastokét a vízeséseivel együtt.",
-        "ro": "Găsește Rastoke și cascadele sale.",
-        "en": "Find Rastoke and its waterfalls."
+        "de": "Finde das Slunjčica-Plateau.",
+        "hu": "Keresd meg a Slunjčica-fennsíkot.",
+        "ro": "Găsește Podișul Slunjčica.",
+        "en": "Find the Slunjčica Plateau."
       },
-      "targetPoiId": "croatia-rastoke-falls-nature-v2"
+      "targetPoiId": "croatia-slunjcica-plateau-relief-v2"
     },
     {
       "id": "hr-find-papuk",
@@ -157,9 +157,9 @@
         "croatia-euphrasian-basilica-history-v2",
         "croatia-morosini-grimani-castle-history-v2",
         "croatia-lim-fjord-nature-v2",
-        "croatia-rastoke-falls-nature-v2"
+        "croatia-slunjcica-plateau-relief-v2"
       ],
-      "targetPoiId": "croatia-rastoke-falls-nature-v2"
+      "targetPoiId": "croatia-slunjcica-plateau-relief-v2"
     },
     {
       "id": "hr-odd-not-fortress",
@@ -229,13 +229,13 @@
       "poiIds": [
         "croatia-trakoscan-castle-history-v2",
         "croatia-medvedgrad-history-v2",
-        "croatia-rastoke-falls-nature-v2",
+        "croatia-slunjcica-plateau-relief-v2",
         "croatia-knin-fortress-history-v2"
       ],
       "orderedPoiIds": [
         "croatia-trakoscan-castle-history-v2",
         "croatia-medvedgrad-history-v2",
-        "croatia-rastoke-falls-nature-v2",
+        "croatia-slunjcica-plateau-relief-v2",
         "croatia-knin-fortress-history-v2"
       ]
     },

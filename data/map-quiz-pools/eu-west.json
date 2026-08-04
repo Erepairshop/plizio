@@ -573,7 +573,7 @@
         "ro": "Care dintre aceste orașe nu se află pe coasta Mediteranei?",
         "en": "Which of these cities is not on the Mediterranean coast?"
       },
-      "poiIds": ["marseille", "city-montpellier-extra", "nice", "ajaccio", "bordeaux"],
+      "poiIds": ["marseille", "city-montpellier-extra", "nice", "france-ajaccio-cities-v2", "bordeaux"],
       "targetPoiId": "bordeaux"
     },
     {
@@ -597,8 +597,8 @@
         "ro": "Apasă Lille, Lyon, Marsilia și Ajaccio de la nord la sud.",
         "en": "Click Lille, Lyon, Marseille and Ajaccio from north to south."
       },
-      "poiIds": ["lille", "lyon", "marseille", "ajaccio"],
-      "orderedPoiIds": ["lille", "lyon", "marseille", "ajaccio"]
+      "poiIds": ["lille", "lyon", "marseille", "france-ajaccio-cities-v2"],
+      "orderedPoiIds": ["lille", "lyon", "marseille", "france-ajaccio-cities-v2"]
     }
   ]
 }

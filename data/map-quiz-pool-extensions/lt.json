@@ -20,7 +20,7 @@
         "ro": "Unde se afla Kernave, un vechi sit de capitala din sud-estul Lituaniei?",
         "en": "Where is Kernave, an early capital site in southeastern Lithuania?"
       },
-      "targetPoiId": "lt-kernave"
+      "targetPoiId": "lithuania-kernave-archaeological-site-history-v2"
     },
     {
       "id": "lt-find-druskininkai",
@@ -278,13 +278,13 @@
       "poiIds": [
         "lithuania-vente-cape-nature-v2",
         "lithuania-pazaislis-monastery-history-v2",
-        "lt-kernave",
+        "lithuania-kernave-archaeological-site-history-v2",
         "lithuania-tauragnas-lake-nature-v2"
       ],
       "orderedPoiIds": [
         "lithuania-vente-cape-nature-v2",
         "lithuania-pazaislis-monastery-history-v2",
-        "lt-kernave",
+        "lithuania-kernave-archaeological-site-history-v2",
         "lithuania-tauragnas-lake-nature-v2"
       ]
     }

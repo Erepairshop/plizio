@@ -47,7 +47,7 @@
     {
       "id": "ps-find-hishams-palace-extension",
       "type": "find_poi",
-      "targetPoiId": "palestine-hishams-palace-landmarks-v2",
+      "targetPoiId": "palestine-hishams-palace-history-v2",
       "question": {
         "de": "Finde den Palast von Hischam bei Jericho.",
         "hu": "Keresd meg Hisham palotáját Jerikó közelében.",
@@ -289,12 +289,12 @@
       "poiIds": [
         "palestine-mount-of-temptation-landmarks-v2",
         "palestine-jericho-cities-v2",
-        "palestine-hishams-palace-landmarks-v2"
+        "palestine-hishams-palace-history-v2"
       ],
       "orderedPoiIds": [
         "palestine-mount-of-temptation-landmarks-v2",
         "palestine-jericho-cities-v2",
-        "palestine-hishams-palace-landmarks-v2"
+        "palestine-hishams-palace-history-v2"
       ],
       "question": {
         "de": "Klicke das Kloster am Berg der Versuchung, Jericho und den Palast von Hischam von Westen nach Osten an.",

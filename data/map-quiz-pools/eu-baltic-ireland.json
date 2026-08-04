@@ -170,15 +170,15 @@
       "targetPoiId": "lt-klaipeda"
     },
     {
-      "id": "lt-find-hill-of-crosses",
+      "id": "lt-find-three-crosses",
       "type": "find_poi",
       "question": {
-        "de": "Wo liegt der berühmte Berg der Kreuze?",
-        "hu": "Hol található a híres Keresztek hegye?",
-        "ro": "Unde se află celebrul Deal al Crucilor?",
-        "en": "Where is the famous Hill of Crosses?"
+        "de": "Wo liegt das Drei-Kreuze-Denkmal in Vilnius?",
+        "hu": "Hol található a vilniusi Három kereszt emlékmű?",
+        "ro": "Unde se află monumentul Trei Cruci din Vilnius?",
+        "en": "Where is the Three Crosses monument in Vilnius?"
       },
-      "targetPoiId": "lt-hill-of-crosses"
+      "targetPoiId": "lithuania-three-crosses-landmarks-v2"
     },
     {
       "id": "lt-find-curonian-spit",

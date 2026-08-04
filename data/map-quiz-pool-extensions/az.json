@@ -154,12 +154,12 @@
       "id": "az-odd-nakhchivan-momine",
       "type": "odd_one_out",
       "poiIds": [
-        "momine-khatun-mausoleum-landmarks-v2",
+        "momine-khatun-history-v2",
         "maiden-tower-landmarks-v2",
         "shaki-khans-palace-landmarks-v2",
         "gobustan-rock-art-landmarks-v2"
       ],
-      "targetPoiId": "momine-khatun-mausoleum-landmarks-v2",
+      "targetPoiId": "momine-khatun-history-v2",
       "question": {
         "de": "Welcher dieser Orte liegt in der Exklave Nachitschewan?",
         "hu": "E helyek közül melyik fekszik a nahicseváni exklávéban?",

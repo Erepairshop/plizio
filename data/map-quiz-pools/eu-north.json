@@ -423,12 +423,12 @@
       "id": "ee-find-tartu",
       "type": "find_poi",
       "question": {
-        "de": "Finde die Universitätsstadt Tartu.",
-        "hu": "Keresd meg Tartu egyetemi városát.",
-        "ro": "Găsește orașul universitar Tartu.",
-        "en": "Find the university city of Tartu."
+        "de": "Finde den Wissenschaftspark Tartu.",
+        "hu": "Keresd meg a Tartu Tudományos Parkot.",
+        "ro": "Găsește Parcul Științific Tartu.",
+        "en": "Find Tartu Science Park."
       },
-      "targetPoiId": "ee-tartu"
+      "targetPoiId": "estonia-tartu-science-park-v2"
     },
     {
       "id": "ee-find-narva",
@@ -489,14 +489,14 @@
       "id": "ee-odd-russian-border",
       "type": "odd_one_out",
       "question": {
-        "de": "Welche dieser Städte liegt direkt an der Grenze zu Russland?",
-        "hu": "Melyik város fekszik közvetlenül az orosz határon?",
-        "ro": "Care dintre aceste orașe se află direct la granița cu Rusia?",
-        "en": "Which of these cities lies directly on the border with Russia?"
+        "de": "Welcher dieser Orte liegt direkt an der Grenze zu Russland?",
+        "hu": "Melyik hely fekszik közvetlenül az orosz határon?",
+        "ro": "Care dintre aceste locuri se află direct la granița cu Rusia?",
+        "en": "Which of these places lies directly on the border with Russia?"
       },
       "poiIds": [
         "ee-tallinn",
-        "ee-tartu",
+        "estonia-tartu-science-park-v2",
         "ee-narva"
       ],
       "targetPoiId": "ee-narva"
@@ -505,19 +505,19 @@
       "id": "ee-sequence-west-east",
       "type": "sequence",
       "question": {
-        "de": "Klicke die Städte von Westen nach Osten an.",
-        "hu": "Kattints a városokra nyugatról keletre haladva.",
-        "ro": "Apasă orașele de la vest la est.",
-        "en": "Click the cities from west to east."
+        "de": "Klicke die Orte von Westen nach Osten an.",
+        "hu": "Kattints a helyekre nyugatról keletre haladva.",
+        "ro": "Apasă locurile de la vest la est.",
+        "en": "Click the places from west to east."
       },
       "poiIds": [
         "ee-parnu",
-        "ee-tartu",
+        "estonia-tartu-science-park-v2",
         "ee-narva"
       ],
       "orderedPoiIds": [
         "ee-parnu",
-        "ee-tartu",
+        "estonia-tartu-science-park-v2",
         "ee-narva"
       ]
     },
@@ -525,19 +525,19 @@
       "id": "ee-sequence-north-south",
       "type": "sequence",
       "question": {
-        "de": "Klicke die Städte von Norden nach Süden an.",
-        "hu": "Kattints a városokra északról délre haladva.",
-        "ro": "Apasă orașele de la nord la sud.",
-        "en": "Click the cities from north to south."
+        "de": "Klicke die Orte von Norden nach Süden an.",
+        "hu": "Kattints a helyekre északról délre haladva.",
+        "ro": "Apasă locurile de la nord la sud.",
+        "en": "Click the places from north to south."
       },
       "poiIds": [
         "ee-tallinn",
-        "ee-tartu",
+        "estonia-tartu-science-park-v2",
         "city-valga"
       ],
       "orderedPoiIds": [
         "ee-tallinn",
-        "ee-tartu",
+        "estonia-tartu-science-park-v2",
         "city-valga"
       ]
     }

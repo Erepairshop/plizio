@@ -23,15 +23,15 @@
       "targetPoiId": "AT-Hallstatt"
     },
     {
-      "id": "at-find-melk-abbey",
+      "id": "at-find-seckau-abbey",
       "type": "find_poi",
       "question": {
-        "de": "Wo liegt das Stift Melk an der Donau?",
-        "hu": "Hol található a Dunánál fekvő melk-i apátság?",
-        "ro": "Unde se află Abația Melk de pe Dunăre?",
-        "en": "Where is Melk Abbey on the Danube?"
+        "de": "Wo liegt die Abtei Seckau?",
+        "hu": "Hol található a seckaui apátság?",
+        "ro": "Unde se află Abația Seckau?",
+        "en": "Where is Seckau Abbey?"
       },
-      "targetPoiId": "AT-Melk"
+      "targetPoiId": "austria-kloster-seckau-landmarks-v2"
     },
     {
       "id": "at-find-schoenbrunn-palace",
@@ -243,19 +243,19 @@
       "id": "at-sequence-lower-austria-west-east",
       "type": "sequence",
       "question": {
-        "de": "Klicke Melk, Schallaburg, Krems und Grafenegg von West nach Ost an.",
-        "hu": "Kattints Melkre, Schallaburgra, Kremsre és Grafeneggre nyugatról keletre.",
-        "ro": "Apasă Melk, Schallaburg, Krems și Grafenegg de la vest la est.",
-        "en": "Click Melk, Schallaburg, Krems and Grafenegg from west to east."
+        "de": "Klicke Seckau, Schallaburg, Krems und Grafenegg von West nach Ost an.",
+        "hu": "Kattints Seckaura, Schallaburgra, Kremsre és Grafeneggre nyugatról keletre.",
+        "ro": "Apasă Seckau, Schallaburg, Krems și Grafenegg de la vest la est.",
+        "en": "Click Seckau, Schallaburg, Krems and Grafenegg from west to east."
       },
       "poiIds": [
-        "AT-Melk",
+        "austria-kloster-seckau-landmarks-v2",
         "historical-schallaburg-extra",
         "austria-krems-cities-v2",
         "austria-schloss-grafenegg-history-v2"
       ],
       "orderedPoiIds": [
-        "AT-Melk",
+        "austria-kloster-seckau-landmarks-v2",
         "historical-schallaburg-extra",
         "austria-krems-cities-v2",
         "austria-schloss-grafenegg-history-v2"
