@@ -46,6 +46,7 @@ export function extraLangsFor(poi: { parent?: string; frLong?: boolean; trLong?:
     poi.itLong ||
     poi.parent === "italy" ||
     poi.parent?.startsWith("IT") ||
+    parentRegion?.parent === "italy" ||
     parentRegion?.parent === "IT" ||
     parentRegion?.parent?.startsWith("IT-")
   ) extras.push("it");
@@ -53,6 +54,7 @@ export function extraLangsFor(poi: { parent?: string; frLong?: boolean; trLong?:
     poi.esLong ||
     poi.parent === "spain" ||
     poi.parent?.startsWith("ES") ||
+    parentRegion?.parent === "spain" ||
     parentRegion?.parent === "ES" ||
     parentRegion?.parent?.startsWith("ES-")
   ) extras.push("es");
