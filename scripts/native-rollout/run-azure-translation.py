@@ -61,10 +61,20 @@ def parse_translations(text: str, expected: set[str]) -> dict:
 
 
 def request_batch(endpoint: str, key: str, deployment: str, language_name: str, task: dict, limiter: RateLimiter, retries: int) -> dict:
+    # Models occasionally normalize long semantic keys. Stable aliases keep the
+    # response schema small while preserving the original keys in stored output.
+    original_by_alias = {
+        f"k{index:04d}": original
+        for index, original in enumerate(task["items"])
+    }
+    aliased_items = {
+        alias: task["items"][original]
+        for alias, original in original_by_alias.items()
+    }
     payload = {
         "model": deployment,
         "instructions": INSTRUCTIONS.format(language_name=language_name),
-        "input": json.dumps(task["items"], ensure_ascii=False, separators=(",", ":")),
+        "input": json.dumps(aliased_items, ensure_ascii=False, separators=(",", ":")),
         "reasoning": {"effort": "minimal"},
         "max_output_tokens": 12000,
     }
@@ -81,7 +91,11 @@ def request_batch(endpoint: str, key: str, deployment: str, language_name: str, 
         try:
             with urllib.request.urlopen(request, timeout=180) as response:
                 raw = json.loads(response.read())
-            translated = parse_translations(output_text(raw), set(task["items"]))
+            translated_aliases = parse_translations(output_text(raw), set(original_by_alias))
+            translated = {
+                original_by_alias[alias]: value
+                for alias, value in translated_aliases.items()
+            }
             return {
                 "id": task["id"], "status": "completed", "translations": translated,
                 "usage": raw.get("usage", {}), "attempts": attempt + 1,
