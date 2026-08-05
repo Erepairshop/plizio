@@ -591,7 +591,7 @@ try {
   if (fs.existsSync(itDir)) {
     let merged = 0;
     for (const poi of pois) {
-      if (!poi.parent?.startsWith("IT")) continue;
+      if (!poi.parent || slugs.getCountryIdStrict(poi.parent) !== "italy") continue;
       const itPath = path.join(itDir, `${poi.id}.json`);
       if (!fs.existsSync(itPath)) continue;
       const it = JSON.parse(fs.readFileSync(itPath, "utf-8")) as {
@@ -609,6 +609,7 @@ try {
       if (Array.isArray(it.faq) && it.faq.length) {
         IT_FAQS[poi.id] = it.faq.map((f) => ({ q: { it: f.q }, a: { it: f.a } }));
       }
+      p.itLong = true;
       merged++;
     }
     console.log(`[generate-poi-html] it-native merged into ${merged} POIs`);
@@ -623,7 +624,7 @@ try {
   if (fs.existsSync(esDir)) {
     let merged = 0;
     for (const poi of pois) {
-      if (!poi.parent?.startsWith("ES")) continue;
+      if (!poi.parent || slugs.getCountryIdStrict(poi.parent) !== "spain") continue;
       const esPath = path.join(esDir, `${poi.id}.json`);
       if (!fs.existsSync(esPath)) continue;
       const es = JSON.parse(fs.readFileSync(esPath, "utf-8")) as {
