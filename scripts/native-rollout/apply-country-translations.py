@@ -106,7 +106,7 @@ def main() -> int:
             path = data_root / "i18n" / language / f"{target['poi']}.json"
             sidecar = document(path, {})
             field = target["field"]
-            if field in {"name", "description"}:
+            if field in {"name", "description", "descAdv", "descriptionAdvanced"}:
                 sidecar[field] = value
             elif field == "facts":
                 index = int(target["index"])

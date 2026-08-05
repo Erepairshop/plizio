@@ -7,6 +7,12 @@ on:
         description: "Pending batches to translate; 0 means all"
         required: true
         default: "2"
+      mode:
+        description: "Translation queue"
+        type: choice
+        required: true
+        default: "full"
+        options: [full, missing-descadv]
 
 concurrency:
   group: spanish-azure-translation
@@ -22,14 +28,16 @@ jobs:
       - name: Build deterministic Spanish queue
         run: |
           set -euo pipefail
+          MODE="${{ inputs.mode }}"
           WORK=/home/erik/plizio-translations/es-20260805
+          [ "$MODE" = "missing-descadv" ] && WORK=/home/erik/plizio-translations/es-descadv-20260805
           SOURCE_REPO=/home/erik/plizio/current
           if [ ! -s "$SOURCE_REPO/data/_poi-url-index.json" ] || [ ! -s "$SOURCE_REPO/data/pois/ES.json" ]; then
             echo "Generated Plizio data is missing from $SOURCE_REPO" >&2
             exit 1
           fi
           mkdir -p "$WORK"
-          python3 scripts/native-rollout/build-spanish-queue.py --repo "$SOURCE_REPO" --output-dir "$WORK"
+          python3 scripts/native-rollout/build-spanish-queue.py --repo "$SOURCE_REPO" --output-dir "$WORK" --mode "$MODE"
           cat "$WORK/summary.json"
 
       - name: Translate through Azure OpenAI
@@ -38,6 +46,7 @@ jobs:
         run: |
           set -euo pipefail
           WORK=/home/erik/plizio-translations/es-20260805
+          [ "${{ inputs.mode }}" = "missing-descadv" ] && WORK=/home/erik/plizio-translations/es-descadv-20260805
           set -a
           source /home/erik/plizio-audits/poi-only-technical-20260731/.azure-openai.env
           set +a
@@ -53,6 +62,7 @@ jobs:
         run: |
           set -euo pipefail
           WORK=/home/erik/plizio-translations/es-20260805
+          [ "${{ inputs.mode }}" = "missing-descadv" ] && WORK=/home/erik/plizio-translations/es-descadv-20260805
           python3 - "$WORK" <<'PY'
           import json, sys
           from pathlib import Path
@@ -95,4 +105,7 @@ jobs:
             /home/erik/plizio-translations/es-20260805/summary.json
             /home/erik/plizio-translations/es-20260805/run-summary.json
             /home/erik/plizio-translations/es-20260805/translation-sample.json
+            /home/erik/plizio-translations/es-descadv-20260805/summary.json
+            /home/erik/plizio-translations/es-descadv-20260805/run-summary.json
+            /home/erik/plizio-translations/es-descadv-20260805/translation-sample.json
           if-no-files-found: warn

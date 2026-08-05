@@ -2,7 +2,7 @@ import { opendir, open, readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
 
 const OUT_DIR = path.resolve(process.env.OUT_DIR || "out");
-const LANGS = new Set(["de", "en", "fr", "hr", "hu", "ro", "tr"]);
+const LANGS = new Set(["de", "en", "es", "fr", "hr", "hu", "it", "ro", "tr"]);
 const HTML_LANG_RE = /<html\b([^>]*?)\blang=(['"])[^'"]*\2([^>]*)>/i;
 
 async function* walk(dir) {

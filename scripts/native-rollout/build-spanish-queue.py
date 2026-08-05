@@ -5,7 +5,9 @@ from __future__ import annotations
 
 import argparse
 import hashlib
+import html
 import json
+import re
 from pathlib import Path
 
 
@@ -83,6 +85,36 @@ def collect_core(data: Path, ids: set[str], records: list, targets: dict) -> Non
                     {"kind": "core", "poi": poi_id, "field": "faq", "index": index, "part": "a"})
 
 
+def collect_missing_descadv(repo: Path, data: Path, ids: set[str], records: list, targets: dict) -> int:
+    url_index = load_json(data / "_poi-url-index.json", {})
+    missing_source = []
+    for poi_id in sorted(ids):
+        sidecar = load_json(data / f"i18n/es/{poi_id}.json", {})
+        if sidecar.get("descAdv") or sidecar.get("descriptionAdvanced"):
+            continue
+        url = str((url_index.get(poi_id) or {}).get("en") or "")
+        relative = url.removeprefix("https://plizio.com").strip("/")
+        page = repo / relative / "index.html"
+        if not relative or not page.exists():
+            missing_source.append(poi_id)
+            continue
+        source_html = page.read_text(encoding="utf-8")
+        match = re.search(r'<p class="poi-lead-paragraph">(.*?)</p>', source_html, re.DOTALL)
+        if not match:
+            missing_source.append(poi_id)
+            continue
+        text = html.unescape(re.sub(r"<[^>]+>", " ", match.group(1)))
+        text = re.sub(r"\s+", " ", text).strip()
+        add(records, targets, f"core::{poi_id}::descAdv", text,
+            {"kind": "core", "poi": poi_id, "field": "descAdv"})
+    if missing_source:
+        raise SystemExit(
+            f"Missing English lead paragraph for {len(missing_source)} POIs: "
+            + ", ".join(missing_source[:10])
+        )
+    return len(records)
+
+
 def layer_key(layer: str, poi_id: str, relative: str, path: list, index=None) -> str:
     raw = json.dumps([layer, poi_id, relative, path, index], ensure_ascii=False, separators=(",", ":"))
     return f"{layer}::{poi_id}::{hashlib.sha1(raw.encode()).hexdigest()[:16]}"
@@ -142,7 +174,7 @@ def collect_layers(data: Path, ids: set[str], records: list, targets: dict) -> d
     return counts
 
 
-def make_batches(records: list) -> list[dict]:
+def make_batches(records: list, prefix: str = "esfull-v1") -> list[dict]:
     batches, current, size = [], [], 0
     for item in records:
         item_size = len(item["key"]) + len(item["text"]) + 30
@@ -154,7 +186,7 @@ def make_batches(records: list) -> list[dict]:
     if current:
         batches.append(current)
     return [
-        {"id": f"esfull-v1-b{number:04d}", "items": {item["key"]: item["text"] for item in batch}}
+        {"id": f"{prefix}-b{number:04d}", "items": {item["key"]: item["text"] for item in batch}}
         for number, batch in enumerate(batches, 1)
     ]
 
@@ -163,6 +195,7 @@ def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--repo", type=Path, default=Path.cwd())
     parser.add_argument("--output-dir", type=Path, required=True)
+    parser.add_argument("--mode", choices=("full", "missing-descadv"), default="full")
     args = parser.parse_args()
     repo = args.repo.resolve()
     args.output_dir.mkdir(parents=True, exist_ok=True)
@@ -175,13 +208,20 @@ def main() -> int:
             "Use the generated-data working tree, not a clean Git checkout."
         )
     records, targets = [], {}
-    collect_core(data, ids, records, targets)
-    file_counts = collect_layers(data, ids, records, targets)
-    batches = make_batches(records)
+    if args.mode == "missing-descadv":
+        collect_missing_descadv(repo, data, ids, records, targets)
+        file_counts = {"descAdv": len(records)}
+        batch_prefix = "esdescadv-v1"
+    else:
+        collect_core(data, ids, records, targets)
+        file_counts = collect_layers(data, ids, records, targets)
+        batch_prefix = "esfull-v1"
+    batches = make_batches(records, batch_prefix)
     source_chars = sum(len(item["text"]) for item in records)
     existing = list((data / "i18n/es").glob("*.json"))
     summary = {
         "version": 1,
+        "mode": args.mode,
         "country": "spain",
         "language": "es",
         "poiCount": len(ids),
