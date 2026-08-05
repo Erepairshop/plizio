@@ -124,7 +124,7 @@ export default async function TypeIndexPage({ params }: { params: Promise<{ lang
           {(() => {
             const ms = mapSlugForCountry(r.countryId);
             if (!ms) return null;
-            const mapLang = r.lang === "it" || r.lang === "es" ? "en" : r.lang;
+            const mapLang = r.lang;
             const href = `/${ms}-map/${mapLang === "hu" ? "" : mapLang + "/"}`;
             const label = ({ de: "Auf der interaktiven Karte ansehen", hu: "Megtekintés az interaktív térképen", ro: "Vezi pe harta interactivă", en: "View on the interactive map", it: "Vedi sulla mappa interattiva", es: "Ver en el mapa interactivo" } as const)[r.lang as "de" | "hu" | "ro" | "en" | "it" | "es"];
             return (

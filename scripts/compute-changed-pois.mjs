@@ -16,8 +16,8 @@ if (!BEFORE || !AFTER || !OUTFILE) {
 }
 const FULL = (msg) => { console.error(`[delta] FULL regen required: ${msg}`); process.exit(3); };
 const sh = (cmd) => execSync(cmd, { encoding: "utf8", maxBuffer: 1 << 30 });
-const scopeLang = SCOPE_LANG_RAW.trim().toLowerCase();
-if (scopeLang && !/^[a-z]{2}$/.test(scopeLang)) {
+const scopeLangs = SCOPE_LANG_RAW.split(",").map((lang) => lang.trim().toLowerCase()).filter(Boolean);
+if (scopeLangs.some((lang) => !/^[a-z]{2}$/.test(lang))) {
   FULL(`invalid language scope: ${SCOPE_LANG_RAW}`);
 }
 
@@ -100,21 +100,23 @@ const ids = new Set();
 // A native-language rollout may change shared renderer/SEO files while only the
 // POIs with that language sidecar gain new output. The explicit scope keeps this
 // safe and auditable instead of regenerating every POI globally.
-if (scopeLang) {
-  const scopeDir = `public/data/i18n/${scopeLang}`;
-  if (!fs.existsSync(scopeDir) || !fs.statSync(scopeDir).isDirectory()) {
-    FULL(`language scope directory not found: ${scopeDir}`);
+if (scopeLangs.length) {
+  for (const scopeLang of scopeLangs) {
+    const scopeDir = `public/data/i18n/${scopeLang}`;
+    if (!fs.existsSync(scopeDir) || !fs.statSync(scopeDir).isDirectory()) {
+      FULL(`language scope directory not found: ${scopeDir}`);
+    }
+    for (const name of fs.readdirSync(scopeDir)) {
+      if (name.endsWith(".json")) ids.add(name.slice(0, -5));
+    }
   }
-  for (const name of fs.readdirSync(scopeDir)) {
-    if (name.endsWith(".json")) ids.add(name.slice(0, -5));
-  }
-  if (ids.size === 0) FULL(`language scope has no POI sidecars: ${scopeDir}`);
-  console.log(`[delta] explicit language scope ${scopeLang}: ${ids.size} POIs`);
+  if (ids.size === 0) FULL(`language scopes have no POI sidecars: ${scopeLangs.join(",")}`);
+  console.log(`[delta] explicit language scopes ${scopeLangs.join(",")}: ${ids.size} POIs`);
 }
 
 for (const f of changed) {
   if (forcesFull(f)) {
-    if (!scopeLang) FULL(`template/SEO file changed: ${f}`);
+    if (!scopeLangs.length) FULL(`template/SEO file changed: ${f}`);
     console.log(`[delta] scoped template/SEO change: ${f}`);
     continue;
   }

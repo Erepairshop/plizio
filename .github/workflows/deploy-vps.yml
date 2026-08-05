@@ -9,7 +9,7 @@ on:
         default: delta
         options: [delta, full]
       poi_scope_language:
-        description: "Optional native-language scope (for example es); limits template changes to POIs with that i18n sidecar"
+        description: "Optional comma-separated native-language scope (for example es,it); limits template changes to POIs with those i18n sidecars"
         type: string
         required: false
         default: ""

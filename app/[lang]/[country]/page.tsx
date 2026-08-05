@@ -101,7 +101,7 @@ export default async function CountryPage({
   const hubSlug = sightsHubSlug(countryId, lang);
   const beachHref = beachHubHref(lang as Lang, countryId);
   const citiesHref = citiesHubHref(lang as Lang, countryId);
-  const mapLang = lang === "it" || lang === "es" ? "en" : lang;
+  const mapLang = lang;
   const mapHref = mapSlug ? `/${mapSlug}-map/${mapLang === "hu" ? "" : mapLang + "/"}` : null;
   const ML = ({
     de: { kicker: "Interaktive Karte", cta: `${countryCopy.name} entdecken`, sub: "Sehenswürdigkeiten, Städte, Karte & Suche", world: "Weltkarte ansehen", open: "Karte öffnen" },

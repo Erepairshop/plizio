@@ -1387,6 +1387,19 @@ function countryMapUrl(countryId: string): string | null {
   return null;
 }
 
+function localizedCountryMapUrl(countryId: string, lang: Lang): string | null {
+  const mapUrl = countryMapUrl(countryId);
+  if (!mapUrl) return null;
+  const mapLang = lang === "it" && countryId === "italy"
+    ? "it"
+    : lang === "es" && countryId === "spain"
+      ? "es"
+      : lang === "de" || lang === "hu" || lang === "ro" || lang === "en"
+        ? lang
+        : "en";
+  return mapLang === "hu" ? mapUrl : `${mapUrl}${mapLang}/`;
+}
+
 const MAP_QUIZ_AVAILABILITY = new Map<string, boolean>();
 function countryMapQuizUrl(countryId: string, lang: Lang): string | null {
   const mapUrl = countryMapUrl(countryId);
@@ -1402,10 +1415,7 @@ function countryMapQuizUrl(countryId: string, lang: Lang): string | null {
   }
   if (!available) return null;
 
-  const quizLang = lang === "de" || lang === "hu" || lang === "ro" || lang === "en"
-    ? lang
-    : "en";
-  return quizLang === "hu" ? mapUrl : `${mapUrl}${quizLang}/`;
+  return localizedCountryMapUrl(countryId, lang);
 }
 
 function escapeHtml(s: any): string {
@@ -3915,12 +3925,12 @@ ready();})();</script>
   </div>
   ${faqHtml}
   <section>
-    <a class="plz-cta" href="${countryMapUrl(countryId) ?? ((poi.parent !== countryId && stateRegion) ? buildStatePath(navLang, poi.parent) : buildCountryPath(navLang, countryId))}">${I("viewMap", lang)} →</a>
+    <a class="plz-cta" href="${localizedCountryMapUrl(countryId, lang) ?? ((poi.parent !== countryId && stateRegion) ? buildStatePath(navLang, poi.parent) : buildCountryPath(navLang, countryId))}">${I("viewMap", lang)} →</a>
     ${hubLinkHtml}
     ${beachHubLinkHtml}
     ${osmLink}
   </section>
-  ${renderExploreBlock({ poiId: poi.id, countryId, countryName: countryName, countryMapUrl: countryMapUrl(countryId), lang: lang as any })}
+  ${renderExploreBlock({ poiId: poi.id, countryId, countryName: countryName, countryMapUrl: localizedCountryMapUrl(countryId, lang), lang: lang as any })}
   ${relatedItems}
   ${renderMobileFab(poi, lang, name)}
 </main>
