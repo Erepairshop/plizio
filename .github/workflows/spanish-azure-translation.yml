@@ -23,8 +23,8 @@ jobs:
         run: |
           set -euo pipefail
           WORK=/home/erik/plizio-translations/es-20260805
-          SOURCE_REPO=/home/erik/plizio-repo
-          if [ ! -s "$SOURCE_REPO/public/data/_poi-url-index.json" ] || [ ! -s "$SOURCE_REPO/public/data/pois/ES.json" ]; then
+          SOURCE_REPO=/home/erik/plizio/current
+          if [ ! -s "$SOURCE_REPO/data/_poi-url-index.json" ] || [ ! -s "$SOURCE_REPO/data/pois/ES.json" ]; then
             echo "Generated Plizio data is missing from $SOURCE_REPO" >&2
             exit 1
           fi
