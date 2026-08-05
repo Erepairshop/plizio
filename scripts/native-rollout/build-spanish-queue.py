@@ -164,6 +164,11 @@ def main() -> int:
     args.output_dir.mkdir(parents=True, exist_ok=True)
 
     ids = spanish_ids(repo)
+    if not ids:
+        raise SystemExit(
+            f"No Spanish POIs found under {repo}. "
+            "Use the generated-data working tree, not a clean Git checkout."
+        )
     records, targets = [], {}
     collect_core(repo, ids, records, targets)
     file_counts = collect_layers(repo, ids, records, targets)

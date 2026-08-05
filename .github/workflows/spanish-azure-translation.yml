@@ -23,8 +23,13 @@ jobs:
         run: |
           set -euo pipefail
           WORK=/home/erik/plizio-translations/es-20260805
+          SOURCE_REPO=/home/erik/plizio-repo
+          if [ ! -s "$SOURCE_REPO/public/data/_poi-url-index.json" ] || [ ! -s "$SOURCE_REPO/public/data/pois/ES.json" ]; then
+            echo "Generated Plizio data is missing from $SOURCE_REPO" >&2
+            exit 1
+          fi
           mkdir -p "$WORK"
-          python3 scripts/native-rollout/build-spanish-queue.py --repo "$GITHUB_WORKSPACE" --output-dir "$WORK"
+          python3 scripts/native-rollout/build-spanish-queue.py --repo "$SOURCE_REPO" --output-dir "$WORK"
           cat "$WORK/summary.json"
 
       - name: Translate through Azure OpenAI
@@ -64,6 +69,21 @@ jobs:
                    for key in ("input_tokens", "output_tokens", "total_tokens")}
           summary = {"batches": len(queue), "completed": len(valid), "errors": sum(row.get("status") == "error" for row in latest.values()), "usage": usage}
           (root / "run-summary.json").write_text(json.dumps(summary, indent=2) + "\n")
+          queue_by_id = {batch["id"]: batch["items"] for batch in queue}
+          sample = []
+          for row in valid[-2:]:
+              source = queue_by_id.get(row.get("id"), {})
+              translated = row.get("translations") or {}
+              sample.append({
+                  "id": row.get("id"),
+                  "items": [
+                      {"key": key, "source": value, "translation": translated.get(key)}
+                      for key, value in list(source.items())[:8]
+                  ],
+              })
+          (root / "translation-sample.json").write_text(
+              json.dumps(sample, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
+          )
           print(json.dumps(summary))
           PY
 
@@ -74,4 +94,5 @@ jobs:
           path: |
             /home/erik/plizio-translations/es-20260805/summary.json
             /home/erik/plizio-translations/es-20260805/run-summary.json
+            /home/erik/plizio-translations/es-20260805/translation-sample.json
           if-no-files-found: warn
