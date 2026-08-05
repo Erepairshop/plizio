@@ -912,12 +912,11 @@ function buildAutoFaq(
 }
 
 function getPoiAlternates(poi: POI): Record<string, string> {
-  // FR POIs get an extra fr alternate; DE → tr (Turkish residents); HR → hr (native).
-  const extra: Lang[] = [];
-  if (poi.parent?.startsWith("FR")) extra.push("fr");
-  if (poi.parent?.startsWith("DE")) extra.push("tr");
-  if ((poi as unknown as { hrLong?: boolean }).hrLong) extra.push("hr");
-  const langs: Lang[] = [...SUPPORTED_LANGS, ...extra];
+  // Include every native/targeted language available for this POI.
+  const langs: Lang[] = [
+    ...SUPPORTED_LANGS,
+    ...slugs.extraLangsFor(poi as any) as Lang[],
+  ];
   return Object.fromEntries(langs.map((l) => [l, `${SITE_URL}${buildPoiPath(l, poi)}`]));
 }
 
@@ -3704,12 +3703,11 @@ function renderHtml(poi: POI, lang: Lang): string | null {
     .map(([l, href]) => `<link rel="alternate" hreflang="${l}" href="${href}"/>`)
     .join("\n  ");
 
-  // Language switcher — fr only for FR POIs, tr only for DE POIs, hr only for HR POIs.
-  const extraSwitcher: Lang[] = [];
-  if (poi.parent?.startsWith("FR")) extraSwitcher.push("fr");
-  if (poi.parent?.startsWith("DE")) extraSwitcher.push("tr");
-  if ((poi as unknown as { hrLong?: boolean }).hrLong) extraSwitcher.push("hr");
-  const switcherLangs: Lang[] = [...SUPPORTED_LANGS, ...extraSwitcher];
+  // Keep the visible switcher aligned with generated pages and hreflang alternates.
+  const switcherLangs: Lang[] = [
+    ...SUPPORTED_LANGS,
+    ...slugs.extraLangsFor(poi as any) as Lang[],
+  ];
   const langSwitcher = switcherLangs.map((l) => {
     const cls = l === lang ? ' class="active"' : "";
     const href = alternates[l] || buildPoiPath(l, poi);
