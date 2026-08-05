@@ -118,6 +118,13 @@ def main() -> int:
                 if not isinstance(sidecar["faq"][index], dict):
                     sidecar["faq"][index] = {}
                 sidecar["faq"][index][target["part"]] = value
+            elif field == "sights":
+                index = int(target["index"])
+                sidecar["sights"] = ensure_list(sidecar.get("sights"), index + 1)
+                if not isinstance(sidecar["sights"][index], dict):
+                    sidecar["sights"][index] = {}
+                sidecar["sights"][index]["sourceName"] = target.get("sourceName", "")
+                sidecar["sights"][index][target["part"]] = value
             else:
                 raise SystemExit(f"Unsupported core field: {field}")
         elif kind in {"layer-string", "layer-list"}:

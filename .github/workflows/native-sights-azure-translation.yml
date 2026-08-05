@@ -1,0 +1,85 @@
+name: Native Sights Azure Translation
+
+on:
+  workflow_dispatch:
+    inputs:
+      language:
+        description: "Native country language"
+        type: choice
+        required: true
+        options: [it, es]
+      limit:
+        description: "Pending batches to translate; 0 means all"
+        required: true
+        default: "0"
+
+concurrency:
+  group: native-sights-azure-translation
+  cancel-in-progress: false
+
+jobs:
+  translate:
+    runs-on: [self-hosted, vps-plizio]
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build deterministic sight queue
+        run: |
+          set -euo pipefail
+          NATIVE_LANG="${{ inputs.language }}"
+          WORK="/home/erik/plizio-translations/native-sights-${NATIVE_LANG}-20260805-v1"
+          SOURCE_REPO=/home/erik/plizio/current
+          python3 scripts/native-rollout/build-native-sights-queue.py \
+            --repo "$SOURCE_REPO" --output-dir "$WORK" --language "$NATIVE_LANG"
+          cat "$WORK/summary.json"
+
+      - name: Translate through Azure OpenAI
+        env:
+          BATCH_LIMIT: ${{ inputs.limit }}
+        run: |
+          set -euo pipefail
+          NATIVE_LANG="${{ inputs.language }}"
+          WORK="/home/erik/plizio-translations/native-sights-${NATIVE_LANG}-20260805-v1"
+          LANGUAGE_NAME="Italian"
+          [ "$NATIVE_LANG" = "es" ] && LANGUAGE_NAME="European Spanish"
+          set -a
+          source /home/erik/plizio-audits/poi-only-technical-20260731/.azure-openai.env
+          set +a
+          python3 scripts/native-rollout/run-azure-translation.py \
+            --queue "$WORK/queue.json" --output "$WORK/results.jsonl" \
+            --limit "$BATCH_LIMIT" --workers 4 --rpm 9 \
+            --language-name "$LANGUAGE_NAME"
+
+      - name: Persist run summary
+        if: always()
+        run: |
+          set -euo pipefail
+          NATIVE_LANG="${{ inputs.language }}"
+          WORK="/home/erik/plizio-translations/native-sights-${NATIVE_LANG}-20260805-v1"
+          python3 - "$WORK" <<'PY'
+          import json, sys
+          from pathlib import Path
+          root = Path(sys.argv[1])
+          queue = json.loads((root / "queue.json").read_text())
+          rows = []
+          if (root / "results.jsonl").exists():
+              for line in (root / "results.jsonl").read_text(encoding="utf-8").splitlines():
+                  try: rows.append(json.loads(line))
+                  except json.JSONDecodeError: pass
+          latest = {row.get("id"): row for row in rows}
+          valid = [row for row in latest.values() if row.get("status") == "completed"]
+          usage = {key: sum(int((row.get("usage") or {}).get(key, 0) or 0) for row in valid)
+                   for key in ("input_tokens", "output_tokens", "total_tokens")}
+          summary = {"batches": len(queue), "completed": len(valid),
+                     "errors": sum(row.get("status") == "error" for row in latest.values()), "usage": usage}
+          (root / "run-summary.json").write_text(json.dumps(summary, indent=2) + "\n")
+          print(json.dumps(summary))
+          PY
+
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: native-sights-${{ inputs.language }}-status
+          path: /home/erik/plizio-translations/native-sights-${{ inputs.language }}-20260805-v1/*.json
+          if-no-files-found: warn

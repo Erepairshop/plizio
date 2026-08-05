@@ -597,6 +597,7 @@ try {
       const it = JSON.parse(fs.readFileSync(itPath, "utf-8")) as {
         name?: string; description?: string; descAdv?: string;
         descriptionAdvanced?: string; facts?: string[];
+        sights?: { sourceName?: string; name?: string; desc?: string }[];
         faq?: { q: string; a: string }[];
       };
       const p = poi as unknown as Record<string, any>;
@@ -628,6 +629,7 @@ try {
       const es = JSON.parse(fs.readFileSync(esPath, "utf-8")) as {
         name?: string; description?: string; descAdv?: string;
         descriptionAdvanced?: string; facts?: string[];
+        sights?: { sourceName?: string; name?: string; desc?: string }[];
         faq?: { q: string; a: string }[];
       };
       const p = poi as unknown as Record<string, any>;
@@ -698,6 +700,39 @@ if (Object.keys(SIGHTS_EXTRA).length) {
     if (rem > 0) { p.sights = obj; removed += rem; poisHit++; }
   }
   console.log(`[generate-poi-html] sight clean: romanized ${romanized} names; junk+cap${CAP} removed ${removed} across ${poisHit} POIs`);
+}
+
+// Native sight translations are extracted from the already-cleaned English HTML.
+// Merge them after the common clean pass so translated cards retain coordinates,
+// categories, Street View availability and internal-link metadata from the source.
+for (const [lang, prefix] of [["it", "IT"], ["es", "ES"]] as const) {
+  const dir = path.resolve(process.cwd(), "public", "data", "i18n", lang);
+  if (!fs.existsSync(dir)) continue;
+  let merged = 0;
+  const norm = (value: unknown) => String(value || "").normalize("NFKD").replace(/[\u0300-\u036f]/g, "").toLowerCase().replace(/[^a-z0-9]/g, "");
+  for (const poi of pois) {
+    if (!poi.parent?.startsWith(prefix)) continue;
+    const file = path.join(dir, `${poi.id}.json`);
+    if (!fs.existsSync(file)) continue;
+    const native = JSON.parse(fs.readFileSync(file, "utf-8")) as {
+      sights?: { sourceName?: string; name?: string; desc?: string }[];
+    };
+    if (!Array.isArray(native.sights) || !native.sights.length) continue;
+    const p = poi as unknown as { sights?: Record<string, any[]> };
+    const source = p.sights?.en || p.sights?.de || [];
+    const byName = new Map(source.map((s: any) => [norm(s?.name), s]));
+    p.sights ||= {};
+    p.sights[lang] = native.sights.map((translated, index) => {
+      const base = byName.get(norm(translated.sourceName)) || source[index] || {};
+      return {
+        ...base,
+        name: translated.name || base.name || translated.sourceName || "",
+        text: translated.desc || base.text || "",
+      };
+    });
+    merged++;
+  }
+  console.log(`[generate-poi-html] ${lang}-native sights merged into ${merged} POIs`);
 }
 
 const SITE_URL = "https://plizio.com";
