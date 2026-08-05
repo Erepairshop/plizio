@@ -3,19 +3,23 @@
 // delta-deploy path (generate-poi-html.mts POI_IDS_FILE). Conservative: if a
 // POI-affecting change can't be mapped to specific ids, exit 3 → caller does FULL regen.
 //
-// Usage: node scripts/compute-changed-pois.mjs <BEFORE> <AFTER> <OUTFILE>
+// Usage: node scripts/compute-changed-pois.mjs <BEFORE> <AFTER> <OUTFILE> [SCOPE_LANG]
 //   writes one POI id per line to OUTFILE, prints a summary.
 //   exit 0 = delta ids written (possibly empty); exit 3 = FULL regen required.
 import { execSync } from "node:child_process";
 import fs from "node:fs";
 
-const [BEFORE, AFTER, OUTFILE] = process.argv.slice(2);
+const [BEFORE, AFTER, OUTFILE, SCOPE_LANG_RAW = ""] = process.argv.slice(2);
 if (!BEFORE || !AFTER || !OUTFILE) {
-  console.error("usage: compute-changed-pois.mjs BEFORE AFTER OUTFILE");
+  console.error("usage: compute-changed-pois.mjs BEFORE AFTER OUTFILE [SCOPE_LANG]");
   process.exit(2);
 }
 const FULL = (msg) => { console.error(`[delta] FULL regen required: ${msg}`); process.exit(3); };
 const sh = (cmd) => execSync(cmd, { encoding: "utf8", maxBuffer: 1 << 30 });
+const scopeLang = SCOPE_LANG_RAW.trim().toLowerCase();
+if (scopeLang && !/^[a-z]{2}$/.test(scopeLang)) {
+  FULL(`invalid language scope: ${SCOPE_LANG_RAW}`);
+}
 
 let changed;
 try {
@@ -39,6 +43,8 @@ const perIdFile = (f) => {
   let m;
   if ((m = f.match(/^public\/data\/city-tips\/([^/]+)\.json$/))) return m[1];
   if ((m = f.match(/^public\/data\/itinerary[^/]*\/([^/]+)\.json$/))) return m[1];
+  if ((m = f.match(/^public\/data\/poi-practical\/([^/]+)\.json$/))) return m[1];
+  if ((m = f.match(/^public\/data\/i18n\/[a-z]{2}\/([^/]+)\.json$/))) return m[1];
   if ((m = f.match(/^public\/data\/sight-pages\/([^/]+)\//))) return m[1]; // host id
   return null;
 };
@@ -90,8 +96,28 @@ const showOld = (f) => { try { return sh(`git show ${BEFORE}:${f}`); } catch { r
 const readNew = (f) => { try { return fs.readFileSync(f, "utf8"); } catch { return null; } };
 
 const ids = new Set();
+
+// A native-language rollout may change shared renderer/SEO files while only the
+// POIs with that language sidecar gain new output. The explicit scope keeps this
+// safe and auditable instead of regenerating every POI globally.
+if (scopeLang) {
+  const scopeDir = `public/data/i18n/${scopeLang}`;
+  if (!fs.existsSync(scopeDir) || !fs.statSync(scopeDir).isDirectory()) {
+    FULL(`language scope directory not found: ${scopeDir}`);
+  }
+  for (const name of fs.readdirSync(scopeDir)) {
+    if (name.endsWith(".json")) ids.add(name.slice(0, -5));
+  }
+  if (ids.size === 0) FULL(`language scope has no POI sidecars: ${scopeDir}`);
+  console.log(`[delta] explicit language scope ${scopeLang}: ${ids.size} POIs`);
+}
+
 for (const f of changed) {
-  if (forcesFull(f)) FULL(`template/SEO file changed: ${f}`);
+  if (forcesFull(f)) {
+    if (!scopeLang) FULL(`template/SEO file changed: ${f}`);
+    console.log(`[delta] scoped template/SEO change: ${f}`);
+    continue;
+  }
 
   if (isPoiTs(f)) {
     const oldT = showOld(f), newT = readNew(f);
