@@ -55,6 +55,15 @@ jobs:
           set -euo pipefail
           test -n "$CF_API_TOKEN"
           test -n "$CF_ZONE_ID"
+          zone_response=$(curl -fsS \
+            "https://api.cloudflare.com/client/v4/zones/$CF_ZONE_ID" \
+            -H "Authorization: Bearer $CF_API_TOKEN")
+          zone_name=$(jq -r '.result.name // empty' <<<"$zone_response")
+          if [ "$zone_name" != "plizio.com" ]; then
+            echo "CF_ZONE_ID points to '$zone_name', expected 'plizio.com'" >&2
+            exit 1
+          fi
+          echo "Verified Cloudflare zone: $zone_name"
           split -l 30 /tmp/plizio-poi-image-purge-urls.txt /tmp/plizio-poi-image-purge-batch-
           for batch in /tmp/plizio-poi-image-purge-batch-*; do
             payload=$(jq -Rn '[inputs] | {files: .}' < "$batch")
