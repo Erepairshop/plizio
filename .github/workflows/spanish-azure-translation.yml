@@ -1,0 +1,77 @@
+name: Spanish Azure Translation
+
+on:
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "Pending batches to translate; 0 means all"
+        required: true
+        default: "2"
+
+concurrency:
+  group: spanish-azure-translation
+  cancel-in-progress: false
+
+jobs:
+  translate:
+    runs-on: [self-hosted, vps-plizio]
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build deterministic Spanish queue
+        run: |
+          set -euo pipefail
+          WORK=/home/erik/plizio-translations/es-20260805
+          mkdir -p "$WORK"
+          python3 scripts/native-rollout/build-spanish-queue.py --repo "$GITHUB_WORKSPACE" --output-dir "$WORK"
+          cat "$WORK/summary.json"
+
+      - name: Translate through Azure OpenAI
+        env:
+          BATCH_LIMIT: ${{ inputs.limit }}
+        run: |
+          set -euo pipefail
+          WORK=/home/erik/plizio-translations/es-20260805
+          set -a
+          source /home/erik/plizio-audits/poi-only-technical-20260731/.azure-openai.env
+          set +a
+          python3 scripts/native-rollout/run-azure-translation.py \
+            --queue "$WORK/queue.json" \
+            --output "$WORK/results.jsonl" \
+            --limit "$BATCH_LIMIT" \
+            --workers 4 \
+            --rpm 9
+
+      - name: Persist run summary
+        if: always()
+        run: |
+          set -euo pipefail
+          WORK=/home/erik/plizio-translations/es-20260805
+          python3 - "$WORK" <<'PY'
+          import json, sys
+          from pathlib import Path
+          root = Path(sys.argv[1])
+          queue = json.loads((root / "queue.json").read_text())
+          rows = []
+          if (root / "results.jsonl").exists():
+              for line in (root / "results.jsonl").read_text(encoding="utf-8").splitlines():
+                  try: rows.append(json.loads(line))
+                  except json.JSONDecodeError: pass
+          latest = {row.get("id"): row for row in rows}
+          valid = [row for row in latest.values() if row.get("status") == "completed"]
+          usage = {key: sum(int((row.get("usage") or {}).get(key, 0) or 0) for row in valid)
+                   for key in ("input_tokens", "output_tokens", "total_tokens")}
+          summary = {"batches": len(queue), "completed": len(valid), "errors": sum(row.get("status") == "error" for row in latest.values()), "usage": usage}
+          (root / "run-summary.json").write_text(json.dumps(summary, indent=2) + "\n")
+          print(json.dumps(summary))
+          PY
+
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: spanish-azure-translation-status
+          path: |
+            /home/erik/plizio-translations/es-20260805/summary.json
+            /home/erik/plizio-translations/es-20260805/run-summary.json
+          if-no-files-found: warn
