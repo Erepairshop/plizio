@@ -468,12 +468,12 @@ function lookupSightPoiLink(hostPoiId: string, sightName: string): string | unde
 // Standalone SIGHT PAGES (top-1000): a sight that has its own dedicated page
 // (built by build-sight-pages.mts) — link the sight name to it (takes priority
 // over the sight→POI cross-link). Key = nkey(name)|round(lat,3)|round(lng,3).
-const SIGHTPAGE_SLUG: Record<string, string> = { de: "sehenswuerdigkeiten", hu: "latnivalok", ro: "obiective-turistice", en: "attractions" };
+const SIGHTPAGE_SLUG: Record<string, string> = { de: "sehenswuerdigkeiten", hu: "latnivalok", ro: "obiective-turistice", en: "attractions", it: "attrazioni" };
 // Beach-hub link (build-beach-hub.mts): only the 17 countries with a beach hub.
 // URL = /<navLang>/<countryKey>/<bslug>/ (key == countryId for these; all 4 langs exist).
 const BEACH_HUB_KEYS = new Set(["croatia","spain","france","italy","portugal","united-kingdom","greece","denmark","germany","sweden","cyprus","norway","ireland","turkey","estonia","poland","finland"]);
-const BEACH_HUB_BSLUG: Record<string, string> = { de: "straende", hu: "strandok", ro: "plaje", en: "beaches" };
-const BEACH_HUB_LABEL: Record<string, string> = { de: "Schönste Strände", hu: "Legszebb strandok", ro: "Cele mai frumoase plaje", en: "Most beautiful beaches", fr: "Plus belles plages", tr: "En güzel plajlar", hr: "Najljepše plaže" };
+const BEACH_HUB_BSLUG: Record<string, string> = { de: "straende", hu: "strandok", ro: "plaje", en: "beaches", it: "spiagge" };
+const BEACH_HUB_LABEL: Record<string, string> = { de: "Schönste Strände", hu: "Legszebb strandok", ro: "Cele mai frumoase plaje", en: "Most beautiful beaches", fr: "Plus belles plages", tr: "En güzel plajlar", hr: "Najljepše plaže", it: "Spiagge più belle" };
 // Cross-link index, grouped by PARENT POI: { parentPoi: [{slug,lat,lng,names[]}] }.
 // Matching happens WITHIN the known parent (by normalized name for Latin sights,
 // else nearest coord ≤400m for non-Latin names) — far more robust than the old
@@ -673,6 +673,7 @@ const TITLE_KEYWORDS: Record<string, Partial<Record<Lang, string[]>>> = {
     fr: ["Sites touristiques", "Carte", "Météo", "Actualités", "Histoire"],
     tr: ["Gezilecek yerler", "Harita", "Hava durumu", "Haberler", "Tarih"],
     hr: ["Znamenitosti", "Karta", "Vrijeme", "Vijesti", "Povijest"],
+    it: ["Attrazioni", "Mappa", "Meteo", "Notizie", "Storia"],
   },
   castle: {
     de: ["Burg", "Geschichte", "Karte", "Fotos", "Wetter"],
@@ -682,6 +683,7 @@ const TITLE_KEYWORDS: Record<string, Partial<Record<Lang, string[]>>> = {
     fr: ["Château", "Histoire", "Carte", "Photos", "Météo"],
     tr: ["Kale", "Tarih", "Harita", "Fotoğraflar", "Hava durumu"],
     hr: ["Dvorac", "Povijest", "Karta", "Fotografije", "Vrijeme"],
+    it: ["Castello", "Storia", "Mappa", "Foto", "Meteo"],
   },
   mountain: {
     de: ["Wandern", "Karte", "Wetter", "Fotos", "Höhe"],
@@ -691,6 +693,7 @@ const TITLE_KEYWORDS: Record<string, Partial<Record<Lang, string[]>>> = {
     fr: ["Randonnée", "Carte", "Météo", "Photos", "Altitude"],
     tr: ["Yürüyüş", "Harita", "Hava durumu", "Fotoğraflar", "Yükseklik"],
     hr: ["Planinarenje", "Karta", "Vrijeme", "Fotografije", "Visina"],
+    it: ["Escursioni", "Mappa", "Meteo", "Foto", "Altitudine"],
   },
   lake: {
     de: ["Strände", "Karte", "Wetter", "Sehenswürdigkeiten", "Fotos"],
@@ -700,6 +703,7 @@ const TITLE_KEYWORDS: Record<string, Partial<Record<Lang, string[]>>> = {
     fr: ["Plages", "Carte", "Météo", "Sites", "Photos"],
     tr: ["Plajlar", "Harita", "Hava durumu", "Gezilecek yerler", "Fotoğraflar"],
     hr: ["Plaže", "Karta", "Vrijeme", "Znamenitosti", "Fotografije"],
+    it: ["Spiagge", "Mappa", "Meteo", "Attrazioni", "Foto"],
   },
   river: {
     de: ["Karte", "Verlauf", "Sehenswürdigkeiten", "Wetter", "Fotos"],
@@ -709,6 +713,7 @@ const TITLE_KEYWORDS: Record<string, Partial<Record<Lang, string[]>>> = {
     fr: ["Carte", "Cours", "Sites", "Météo", "Photos"],
     tr: ["Harita", "Akış", "Gezilecek yerler", "Hava durumu", "Fotoğraflar"],
     hr: ["Karta", "Tok", "Znamenitosti", "Vrijeme", "Fotografije"],
+    it: ["Mappa", "Corso", "Attrazioni", "Meteo", "Foto"],
   },
   historical: {
     de: ["Geschichte", "Karte", "Sehenswürdigkeiten", "Fotos", "Besuch"],
@@ -718,6 +723,7 @@ const TITLE_KEYWORDS: Record<string, Partial<Record<Lang, string[]>>> = {
     fr: ["Histoire", "Carte", "Sites", "Photos", "Visite"],
     tr: ["Tarih", "Harita", "Gezilecek yerler", "Fotoğraflar", "Ziyaret"],
     hr: ["Povijest", "Karta", "Znamenitosti", "Fotografije", "Posjet"],
+    it: ["Storia", "Mappa", "Attrazioni", "Foto", "Visita"],
   },
   landmark: {
     de: ["Sehenswürdigkeiten", "Karte", "Fotos", "Geschichte", "Wetter"],
@@ -727,6 +733,7 @@ const TITLE_KEYWORDS: Record<string, Partial<Record<Lang, string[]>>> = {
     fr: ["Sites touristiques", "Carte", "Photos", "Histoire", "Météo"],
     tr: ["Gezilecek yerler", "Harita", "Fotoğraflar", "Tarih", "Hava durumu"],
     hr: ["Znamenitosti", "Karta", "Fotografije", "Povijest", "Vrijeme"],
+    it: ["Attrazioni", "Mappa", "Foto", "Storia", "Meteo"],
   },
   nature: {
     de: ["Karte", "Wetter", "Wandern", "Fotos", "Natur"],
@@ -736,6 +743,7 @@ const TITLE_KEYWORDS: Record<string, Partial<Record<Lang, string[]>>> = {
     fr: ["Carte", "Météo", "Randonnée", "Photos", "Nature"],
     tr: ["Harita", "Hava durumu", "Yürüyüş", "Fotoğraflar", "Doğa"],
     hr: ["Karta", "Vrijeme", "Planinarenje", "Fotografije", "Priroda"],
+    it: ["Mappa", "Meteo", "Escursioni", "Foto", "Natura"],
   },
 };
 const TYPE_ALIAS: Record<string, string> = {
@@ -749,10 +757,10 @@ const TYPE_ALIAS: Record<string, string> = {
 // without them — hurts relevance + CTR), and surface "Events" only when there
 // are dated events. Words match the curated TITLE_KEYWORDS entries per lang.
 const FEATURE_KW: Record<"sights" | "weather" | "news" | "events", Partial<Record<Lang, string>>> = {
-  sights: { de: "Sehenswürdigkeiten", hu: "Látnivalók", ro: "Obiective turistice", en: "Sights", fr: "Sites touristiques", tr: "Gezilecek yerler", hr: "Znamenitosti" },
-  weather: { de: "Wetter", hu: "Időjárás", ro: "Vremea", en: "Weather", fr: "Météo", tr: "Hava durumu", hr: "Vrijeme" },
-  news: { de: "Nachrichten", hu: "Hírek", ro: "Știri", en: "News", fr: "Actualités", tr: "Haberler", hr: "Vijesti" },
-  events: { de: "Veranstaltungen", hu: "Programok", ro: "Evenimente", en: "Events", fr: "Événements", tr: "Etkinlikler", hr: "Događanja" },
+  sights: { de: "Sehenswürdigkeiten", hu: "Látnivalók", ro: "Obiective turistice", en: "Sights", fr: "Sites touristiques", tr: "Gezilecek yerler", hr: "Znamenitosti", it: "Attrazioni" },
+  weather: { de: "Wetter", hu: "Időjárás", ro: "Vremea", en: "Weather", fr: "Météo", tr: "Hava durumu", hr: "Vrijeme", it: "Meteo" },
+  news: { de: "Nachrichten", hu: "Hírek", ro: "Știri", en: "News", fr: "Actualités", tr: "Haberler", hr: "Vijesti", it: "Notizie" },
+  events: { de: "Veranstaltungen", hu: "Programok", ro: "Evenimente", en: "Events", fr: "Événements", tr: "Etkinlikler", hr: "Događanja", it: "Eventi" },
 };
 type TitleFeats = { hasSights?: boolean; hasWeather?: boolean; hasNews?: boolean; hasEvents?: boolean };
 
@@ -888,6 +896,7 @@ const AUTO_FAQ: Record<string, {
   fr: { whereQ: (n) => `${n} : où se situe-t-il ?`, whereA: (n, l) => `${n} se situe en ${l}.`, whatQ: (n) => `${n} : que voir ?`, whatA: (l) => `Parmi les sites : ${l}.`, whenQ: (n) => `${n} : quelle est la meilleure période ?`, whenA: (b) => `La période la plus agréable est ${b}.`, whyQ: (n) => `${n} : pourquoi visiter ?` },
   tr: { whereQ: (n) => `${n}: nerede yer alıyor?`, whereA: (n, l) => `${n}, ${l} bölgesinde yer alır.`, whatQ: (n) => `${n}: nereler gezilir?`, whatA: (l) => `Öne çıkanlar: ${l}.`, whenQ: (n) => `${n}: en iyi ziyaret zamanı nedir?`, whenA: (b) => `En keyifli dönem: ${b}.`, whyQ: (n) => `${n}: neden ziyaret edilmeli?` },
   hr: { whereQ: (n) => `${n}: gdje se nalazi?`, whereA: (n, l) => `${n} se nalazi u ${l}.`, whatQ: (n) => `${n}: što vidjeti?`, whatA: (l) => `Među znamenitostima su ${l}.`, whenQ: (n) => `${n}: kada je najbolje posjetiti?`, whenA: (b) => `Najugodnije je razdoblje ${b}.`, whyQ: (n) => `${n}: zašto posjetiti?` },
+  it: { whereQ: (n) => `${n}: dove si trova?`, whereA: (n, l) => `${n} si trova in ${l}.`, whatQ: (n) => `${n}: cosa vedere?`, whatA: (l) => `Tra le attrazioni principali ci sono ${l}.`, whenQ: (n) => `${n}: qual è il periodo migliore?`, whenA: (b) => `Il periodo più piacevole per una visita è ${b}.`, whyQ: (n) => `${n}: perché vale la pena visitarlo?` },
 };
 
 function buildAutoFaq(
@@ -968,15 +977,14 @@ function getRelatedPois(poi: POI, limit = 6): POI[] {
   return result;
 }
 
-// Normalize a POI coords array to [lat, lon]. Plizio standard is [lon, lat],
-// but a few early files used [lat, lon] — same heuristic as toLatLon() inside
-// renderItinerary (Europe lon |a|<30, lat |b|>25 → [lon,lat]).
+// Normalize generated POI GeoJSON coordinates from [lon, lat] to [lat, lon].
+// A former Europe-shaped heuristic created false cross-continent neighbours.
 function coordLatLon(c: unknown): [number, number] | null {
   if (!Array.isArray(c) || c.length < 2) return null;
   const a = Number(c[0]), b = Number(c[1]);
   if (!Number.isFinite(a) || !Number.isFinite(b)) return null;
-  if (Math.abs(a) < 30 && Math.abs(b) > 25) return [b, a]; // [lon, lat]
-  return [a, b]; // [lat, lon]
+  if (Math.abs(a) > 180 || Math.abs(b) > 90) return null;
+  return [b, a]; // generated POIs consistently use GeoJSON [lon, lat]
 }
 
 function haversineKm(lat1: number, lon1: number, lat2: number, lon2: number): number {
@@ -1209,6 +1217,7 @@ const CONSTEL_I18N: Record<string, { title: string; sub: string; lt1: string; go
   fr: { title: "Explorez les environs", sub: "Lieux remarquables à proximité", lt1: "<1 km", go: "Explorer", dirs: ["N", "NE", "E", "SE", "S", "SO", "O", "NO"], comp: ["N", "E", "S", "O"] },
   tr: { title: "Çevreyi keşfet", sub: "Yakındaki ilgi çekici yerler", lt1: "<1 km", go: "Keşfet", dirs: ["K", "KD", "D", "GD", "G", "GB", "B", "KB"], comp: ["K", "D", "G", "B"] },
   hr: { title: "Istražite okolicu", sub: "Zanimljiva mjesta u blizini", lt1: "<1 km", go: "Istraži", dirs: ["S", "SI", "I", "JI", "J", "JZ", "Z", "SZ"], comp: ["S", "I", "J", "Z"] },
+  it: { title: "Esplora i dintorni", sub: "Luoghi interessanti nelle vicinanze", lt1: "<1 km", go: "Esplora", dirs: ["N", "NE", "E", "SE", "S", "SO", "O", "NO"], comp: ["N", "E", "S", "O"] },
 };
 
 function renderConstellation(poi: POI, lang: Lang): string {
@@ -1561,48 +1570,48 @@ function getLocalized<T>(obj: Partial<Record<string, T>> | undefined, lang: Lang
 }
 
 const TYPE_LABEL: Record<string, Partial<Record<Lang, string>>> = {
-  city: { de: "Stadt", hu: "Város", ro: "Oraș", en: "City", hr: "Grad" },
-  "state-capital": { de: "Landeshauptstadt", hu: "Tartományi főváros", ro: "Capitală regiune", en: "State capital", hr: "Glavni grad regije" },
-  mountain: { de: "Berg", hu: "Hegy", ro: "Munte", en: "Mountain", hr: "Planina" },
-  river: { de: "Fluss", hu: "Folyó", ro: "Râu", en: "River", hr: "Rijeka" },
-  lake: { de: "See", hu: "Tó", ro: "Lac", en: "Lake", hr: "Jezero" },
-  island: { de: "Insel", hu: "Sziget", ro: "Insulă", en: "Island", hr: "Otok" },
-  landmark: { de: "Sehenswürdigkeit", hu: "Nevezetesség", ro: "Punct de reper", en: "Landmark", hr: "Znamenitost" },
-  historical: { de: "Historischer Ort", hu: "Történelmi hely", ro: "Sit istoric", en: "Historical site", hr: "Povijesno mjesto" },
-  forest: { de: "Wald", hu: "Erdő", ro: "Pădure", en: "Forest", hr: "Šuma" },
-  sea: { de: "Meer", hu: "Tenger", ro: "Mare", en: "Sea", hr: "More" },
-  port: { de: "Hafen", hu: "Kikötő", ro: "Port", en: "Port", hr: "Luka" },
-  industry: { de: "Industriegebiet", hu: "Ipari terület", ro: "Zonă industrială", en: "Industrial site", hr: "Industrijska zona" },
-  agriculture: { de: "Landwirtschaft", hu: "Mezőgazdaság", ro: "Agricultură", en: "Agriculture", hr: "Poljoprivreda" },
-  relief: { de: "Geländeform", hu: "Domborzat", ro: "Relief", en: "Relief", hr: "Reljef" },
-  "animal-habitat": { de: "Tierlebensraum", hu: "Élőhely", ro: "Habitat animal", en: "Animal habitat", hr: "Stanište životinja" },
+  city: { de: "Stadt", hu: "Város", ro: "Oraș", en: "City", hr: "Grad", it: "Città" },
+  "state-capital": { de: "Landeshauptstadt", hu: "Tartományi főváros", ro: "Capitală regiune", en: "State capital", hr: "Glavni grad regije", it: "Capoluogo regionale" },
+  mountain: { de: "Berg", hu: "Hegy", ro: "Munte", en: "Mountain", hr: "Planina", it: "Montagna" },
+  river: { de: "Fluss", hu: "Folyó", ro: "Râu", en: "River", hr: "Rijeka", it: "Fiume" },
+  lake: { de: "See", hu: "Tó", ro: "Lac", en: "Lake", hr: "Jezero", it: "Lago" },
+  island: { de: "Insel", hu: "Sziget", ro: "Insulă", en: "Island", hr: "Otok", it: "Isola" },
+  landmark: { de: "Sehenswürdigkeit", hu: "Nevezetesség", ro: "Punct de reper", en: "Landmark", hr: "Znamenitost", it: "Luogo d'interesse" },
+  historical: { de: "Historischer Ort", hu: "Történelmi hely", ro: "Sit istoric", en: "Historical site", hr: "Povijesno mjesto", it: "Sito storico" },
+  forest: { de: "Wald", hu: "Erdő", ro: "Pădure", en: "Forest", hr: "Šuma", it: "Foresta" },
+  sea: { de: "Meer", hu: "Tenger", ro: "Mare", en: "Sea", hr: "More", it: "Mare" },
+  port: { de: "Hafen", hu: "Kikötő", ro: "Port", en: "Port", hr: "Luka", it: "Porto" },
+  industry: { de: "Industriegebiet", hu: "Ipari terület", ro: "Zonă industrială", en: "Industrial site", hr: "Industrijska zona", it: "Sito industriale" },
+  agriculture: { de: "Landwirtschaft", hu: "Mezőgazdaság", ro: "Agricultură", en: "Agriculture", hr: "Poljoprivreda", it: "Agricoltura" },
+  relief: { de: "Geländeform", hu: "Domborzat", ro: "Relief", en: "Relief", hr: "Reljef", it: "Rilievo" },
+  "animal-habitat": { de: "Tierlebensraum", hu: "Élőhely", ro: "Habitat animal", en: "Animal habitat", hr: "Stanište životinja", it: "Habitat animale" },
 };
 
 const I18N: Record<string, Partial<Record<Lang, string>>> = {
-  facts: { de: "Fakten", hu: "Tények", ro: "Fapte", en: "Facts", hr: "Činjenice" },
-  details: { de: "Details", hu: "Részletek", ro: "Detalii", en: "Details", hr: "Detalji" },
-  geography: { de: "Geographie", hu: "Földrajz", ro: "Geografie", en: "Geography", hr: "Zemljopis" },
-  elevation: { de: "Höhe", hu: "Magasság", ro: "Altitudine", en: "Elevation", hr: "Visina" },
-  population: { de: "Einwohner", hu: "Lakosság", ro: "Populație", en: "Population", hr: "Stanovništvo", fr: "Population", tr: "Nüfus" },
-  length: { de: "Länge", hu: "Hossz", ro: "Lungime", en: "Length", hr: "Duljina" },
-  area: { de: "Fläche", hu: "Terület", ro: "Suprafață", en: "Area", hr: "Površina" },
-  coordinates: { de: "Koordinaten", hu: "Koordináták", ro: "Coordonate", en: "Coordinates", hr: "Koordinate" },
-  related: { de: "Verwandte Orte", hu: "Kapcsolódó helyek", ro: "Locuri conexe", en: "Related places", hr: "Povezana mjesta" },
-  cities: { de: "Städte in der Nähe", hu: "Közeli városok", ro: "Orașe din apropiere", en: "Nearby cities", hr: "Gradovi u blizini" },
-  history: { de: "Geschichte & Sehenswürdigkeiten", hu: "Történelem és látnivalók", ro: "Istorie și obiective", en: "History & landmarks", hr: "Povijest i znamenitosti" },
-  nature: { de: "Natur", hu: "Természet", ro: "Natură", en: "Nature", hr: "Priroda" },
-  more: { de: "Weitere Orte", hu: "További helyek", ro: "Mai multe locuri", en: "More places", hr: "Više mjesta" },
-  didYouKnow: { de: "💡 Wusstest du?", hu: "💡 Tudtad?", ro: "💡 Știai că?", en: "💡 Did you know?", hr: "💡 Jeste li znali?" },
-  gameTitle: { de: "Probiere es spielerisch aus", hu: "Próbáld ki játékos formában", ro: "Învață jucând", en: "Try it with games", hr: "Isprobaj kroz igru" },
-  gameIntro: { de: "Lerne diesen Ort durch Spiele und Tests.", hu: "Ismerd meg ezt a helyet játékokon és teszteken keresztül.", ro: "Cunoaște acest loc prin jocuri și teste.", en: "Learn about this place through games and quizzes.", hr: "Upoznaj ovo mjesto kroz igre i kvizove." },
-  gamePlay: { de: "🎮 Astro-Spiel starten", hu: "🎮 Indítsd az Astro játékot", ro: "🎮 Pornește jocul Astro", en: "🎮 Start astro game", hr: "🎮 Pokreni Astro igru" },
-  gameTest: { de: "📝 Test machen", hu: "📝 Csinálj tesztet", ro: "📝 Fă un test", en: "📝 Take a quiz", hr: "📝 Riješi kviz" },
-  viewMap: { de: "Auf der Karte ansehen", hu: "Megtekintés a térképen", ro: "Vezi pe hartă", en: "View on map", hr: "Pogledaj na karti" },
-  viewOSM: { de: "OpenStreetMap", hu: "OpenStreetMap", ro: "OpenStreetMap", en: "OpenStreetMap", hr: "OpenStreetMap" },
-  home: { de: "Startseite", hu: "Főoldal", ro: "Acasă", en: "Home", hr: "Početna" },
-  langs: { de: "Sprachen", hu: "Nyelvek", ro: "Limbi", en: "Languages", hr: "Jezici" },
-  sightsInTown: { de: "Sehenswürdigkeiten in der Stadt", hu: "Látnivalók a városban", ro: "Obiective turistice în oraș", en: "Sights in the town", hr: "Znamenitosti u gradu" },
-  nearbySights: { de: "In der Umgebung", hu: "Környékbeli látnivalók", ro: "Obiective din împrejurimi", en: "Sights nearby", hr: "Znamenitosti u blizini" },
+  facts: { de: "Fakten", hu: "Tények", ro: "Fapte", en: "Facts", hr: "Činjenice", it: "Informazioni" },
+  details: { de: "Details", hu: "Részletek", ro: "Detalii", en: "Details", hr: "Detalji", it: "Dettagli" },
+  geography: { de: "Geographie", hu: "Földrajz", ro: "Geografie", en: "Geography", hr: "Zemljopis", it: "Geografia" },
+  elevation: { de: "Höhe", hu: "Magasság", ro: "Altitudine", en: "Elevation", hr: "Visina", it: "Altitudine" },
+  population: { de: "Einwohner", hu: "Lakosság", ro: "Populație", en: "Population", hr: "Stanovništvo", fr: "Population", tr: "Nüfus", it: "Popolazione" },
+  length: { de: "Länge", hu: "Hossz", ro: "Lungime", en: "Length", hr: "Duljina", it: "Lunghezza" },
+  area: { de: "Fläche", hu: "Terület", ro: "Suprafață", en: "Area", hr: "Površina", it: "Superficie" },
+  coordinates: { de: "Koordinaten", hu: "Koordináták", ro: "Coordonate", en: "Coordinates", hr: "Koordinate", it: "Coordinate" },
+  related: { de: "Verwandte Orte", hu: "Kapcsolódó helyek", ro: "Locuri conexe", en: "Related places", hr: "Povezana mjesta", it: "Luoghi correlati" },
+  cities: { de: "Städte in der Nähe", hu: "Közeli városok", ro: "Orașe din apropiere", en: "Nearby cities", hr: "Gradovi u blizini", it: "Città vicine" },
+  history: { de: "Geschichte & Sehenswürdigkeiten", hu: "Történelem és látnivalók", ro: "Istorie și obiective", en: "History & landmarks", hr: "Povijest i znamenitosti", it: "Storia e attrazioni" },
+  nature: { de: "Natur", hu: "Természet", ro: "Natură", en: "Nature", hr: "Priroda", it: "Natura" },
+  more: { de: "Weitere Orte", hu: "További helyek", ro: "Mai multe locuri", en: "More places", hr: "Više mjesta", it: "Altri luoghi" },
+  didYouKnow: { de: "💡 Wusstest du?", hu: "💡 Tudtad?", ro: "💡 Știai că?", en: "💡 Did you know?", hr: "💡 Jeste li znali?", it: "💡 Lo sapevi?" },
+  gameTitle: { de: "Probiere es spielerisch aus", hu: "Próbáld ki játékos formában", ro: "Învață jucând", en: "Try it with games", hr: "Isprobaj kroz igru", it: "Scoprilo giocando" },
+  gameIntro: { de: "Lerne diesen Ort durch Spiele und Tests.", hu: "Ismerd meg ezt a helyet játékokon és teszteken keresztül.", ro: "Cunoaște acest loc prin jocuri și teste.", en: "Learn about this place through games and quizzes.", hr: "Upoznaj ovo mjesto kroz igre i kvizove.", it: "Scopri questo luogo con giochi e quiz." },
+  gamePlay: { de: "🎮 Astro-Spiel starten", hu: "🎮 Indítsd az Astro játékot", ro: "🎮 Pornește jocul Astro", en: "🎮 Start astro game", hr: "🎮 Pokreni Astro igru", it: "🎮 Avvia il gioco Astro" },
+  gameTest: { de: "📝 Test machen", hu: "📝 Csinálj tesztet", ro: "📝 Fă un test", en: "📝 Take a quiz", hr: "📝 Riješi kviz", it: "📝 Inizia il quiz" },
+  viewMap: { de: "Auf der Karte ansehen", hu: "Megtekintés a térképen", ro: "Vezi pe hartă", en: "View on map", hr: "Pogledaj na karti", it: "Vedi sulla mappa" },
+  viewOSM: { de: "OpenStreetMap", hu: "OpenStreetMap", ro: "OpenStreetMap", en: "OpenStreetMap", hr: "OpenStreetMap", it: "OpenStreetMap" },
+  home: { de: "Startseite", hu: "Főoldal", ro: "Acasă", en: "Home", hr: "Početna", it: "Home" },
+  langs: { de: "Sprachen", hu: "Nyelvek", ro: "Limbi", en: "Languages", hr: "Jezici", it: "Lingue" },
+  sightsInTown: { de: "Sehenswürdigkeiten in der Stadt", hu: "Látnivalók a városban", ro: "Obiective turistice în oraș", en: "Sights in the town", hr: "Znamenitosti u gradu", it: "Attrazioni in città" },
+  nearbySights: { de: "In der Umgebung", hu: "Környékbeli látnivalók", ro: "Obiective din împrejurimi", en: "Sights nearby", hr: "Znamenitosti u blizini", it: "Attrazioni nei dintorni" },
 };
 
 // Claude-Design per-type placeholder SVGs (public/placeholders/poi/) for the ~7k
@@ -1662,7 +1671,7 @@ function poiPathSafe(lang: Lang, target: POI): string {
 }
 
 // Wikipedia lang code for slugify lookup
-const WIKI_LANG_FOR: Record<string, string> = { de: "de", hu: "hu", ro: "ro", en: "en", fr: "fr", tr: "tr" };
+const WIKI_LANG_FOR: Record<string, string> = { de: "de", hu: "hu", ro: "ro", en: "en", fr: "fr", tr: "tr", it: "it" };
 
 function wikipediaSameAs(poi: POI, lang: Lang): string[] {
   const out: string[] = [];
