@@ -16,7 +16,7 @@ on:
   workflow_dispatch:
     inputs:
       poi_ids:
-        description: 'Comma-separated POI ids OR "file:<repo-path-to-txt>" OR "none" (data-only)'
+        description: 'POI ids, "file:<repo-path>", "lang:it,es", or "none"'
         required: true
         default: 'file:public/data/_thin-descadv-applied.txt'
       rebuild_grid:
@@ -46,6 +46,21 @@ jobs:
             echo "POI_IDS_FILE=" >> $GITHUB_ENV
             echo "count=0" >> $GITHUB_OUTPUT
             echo "[delta] data-only mode (no HTML regen)"
+          elif [[ "$INPUT" == lang:* ]]; then
+            TMP="$RUNNER_TEMP/poi_ids.txt"
+            : > "$TMP"
+            IFS=',' read -ra NATIVE_LANGS <<< "${INPUT#lang:}"
+            for NATIVE_LANG in "${NATIVE_LANGS[@]}"; do
+              NATIVE_LANG="$(echo "$NATIVE_LANG" | tr '[:upper:]' '[:lower:]' | xargs)"
+              if [[ ! "$NATIVE_LANG" =~ ^[a-z]{2}$ ]] || [ ! -d "public/data/i18n/$NATIVE_LANG" ]; then
+                echo "::error::Invalid or missing native language scope: $NATIVE_LANG"
+                exit 1
+              fi
+              find "public/data/i18n/$NATIVE_LANG" -maxdepth 1 -type f -name '*.json' -printf '%f\n' | sed 's/\.json$//' >> "$TMP"
+            done
+            sort -u -o "$TMP" "$TMP"
+            echo "POI_IDS_FILE=$TMP" >> $GITHUB_ENV
+            COUNT=$(wc -l < "$TMP" | tr -d ' ')
           elif [[ "$INPUT" == file:* ]]; then
             FP="${INPUT#file:}"
             if [ ! -f "$FP" ]; then

@@ -29,20 +29,29 @@ def plain_text(value: str) -> str:
     return re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", value))).strip()
 
 
-def extract_sights(page: Path) -> list[dict[str, str]]:
+def extract_sights(page: Path) -> tuple[list[dict[str, str]], bool]:
     source = page.read_text(encoding="utf-8")
     section = re.search(r'<section class="plz-sights">.*?</section>', source, re.DOTALL)
     if not section:
-        return []
+        return [], False
     sights = []
+    repaired_linked_name = False
     for article in re.findall(r'<article class="plz-sight".*?</article>', section.group(0), re.DOTALL):
-        name_match = re.search(r'<h3 itemprop="name">(.*?)(?:<a |<span |</h3>)', article, re.DOTALL)
+        heading_match = re.search(r'<h3 itemprop="name">(.*?)</h3>', article, re.DOTALL)
         desc_match = re.search(r'<div itemprop="description"><p>(.*?)</p></div>', article, re.DOTALL)
-        name = plain_text(name_match.group(1)) if name_match else ""
+        heading = heading_match.group(1) if heading_match else ""
+        old_name_match = re.search(r'^(.*?)(?:<a |<span |$)', heading, re.DOTALL)
+        old_name = plain_text(old_name_match.group(1)) if old_name_match else ""
+        # The visible name can itself be an internal <a class="plz-sight-name-link">.
+        # Keep that anchor text, but cut off the following Street View/category controls.
+        name_part = re.split(r'<a class="plz-sight-sv|<span class="plz-sight-cat"', heading, maxsplit=1)[0]
+        name = plain_text(name_part)
+        if not old_name and name:
+            repaired_linked_name = True
         description = plain_text(desc_match.group(1)) if desc_match else ""
         if name or description:
             sights.append({"sourceName": name, "name": name, "desc": description})
-    return sights
+    return sights, repaired_linked_name
 
 
 def make_batches(records: list[dict], prefix: str) -> list[dict]:
@@ -67,6 +76,8 @@ def main() -> int:
     parser.add_argument("--repo", type=Path, required=True)
     parser.add_argument("--output-dir", type=Path, required=True)
     parser.add_argument("--language", choices=("it", "es"), required=True)
+    parser.add_argument("--repair-missing-name-pois", action="store_true",
+                        help="Queue only POIs whose linked sight name was missed by the v1 parser")
     args = parser.parse_args()
 
     repo = args.repo.resolve()
@@ -87,7 +98,9 @@ def main() -> int:
         if not relative or not page.exists():
             missing_pages.append(poi_id)
             continue
-        sights = extract_sights(page)
+        sights, repaired_linked_name = extract_sights(page)
+        if args.repair_missing_name_pois and not repaired_linked_name:
+            continue
         if not sights:
             continue
         poi_count += 1
@@ -104,10 +117,11 @@ def main() -> int:
                     "index": index, "part": part, "sourceName": sight["sourceName"],
                 }
 
-    prefix = f"{args.language}sights-v1"
+    prefix = f"{args.language}sights-{'v2repair' if args.repair_missing_name_pois else 'v2'}"
     batches = make_batches(records, prefix)
     summary = {
         "version": 1,
+        "mode": "repair-missing-name-pois" if args.repair_missing_name_pois else "full",
         "language": args.language,
         "poiCount": poi_count,
         "sightCount": sight_count,
